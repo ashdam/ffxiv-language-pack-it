@@ -1,0 +1,19 @@
+{
+  // How each speaker addresses the player, and other characters where it matters. See docs/glossary.md.
+  //
+  // KEYS are the normalised speaker token: letters and digits only, upper-cased, exactly as
+  // NpcResolver.Normalise produces it and exactly as in gender-overrides.json.
+  //
+  // player      the address form this language uses for the player. Name the forms this language
+  //             distinguishes and decide them from the English first; the French and the Japanese
+  //             inform, they do not decide.
+  // others      { "TOKEN": form } for another character, where it matters.
+  // confidence  high and medium are measured against the corpus, with the reason in why and the
+  //             rows in examples; low has no rows cited and is followed until the scenes contradict it.
+  // why         the evidence.
+  // voice       the speaker's tic: an accent, a catchphrase, a way of naming themselves.
+  // examples    gameKeys of the rows the decision rests on.
+  //
+  // The interface has no speaker and inherits nobody's register.
+  "register": {}
+}
