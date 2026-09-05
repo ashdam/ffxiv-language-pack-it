@@ -1,7 +1,7 @@
 {
-  // How each speaker addresses the player and, where it matters, other characters. Format in docs/glossary.md of ffxiv-corpus-en.
-  // Key: the speaker token normalised to letters and digits, upper case, the same as in gender-overrides.json.
-  // confidence: high and medium are measured against the corpus (why, examples); low is followed until the scenes contradict it.
-  // voice: the speaker's tic. This file is the only place for it.
+  "_comment": [
+    "How each speaker addresses the player and, where it matters, other characters. Format: docs/glossary.md of ffxiv-corpus-en.",
+    "The rules of the language go here, one per line."
+  ],
   "register": {}
 }

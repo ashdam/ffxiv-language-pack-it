@@ -1,7 +1,7 @@
 {
   "_comment": [
     "Hand-decided terms. Format in docs/glossary.md of ffxiv-corpus-en.",
-    "protect true: the English stays. protect false: translate it, and it is the agreed rendering.",
+    "protect true: the English stays. protect false: translate it, and the `it` column is the agreed rendering.",
     "fr and ja are copied from corpus lines; empty means that language uses no fixed term."
   ],
   "terms": [
