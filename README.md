@@ -35,3 +35,5 @@ Niente, ancora. La tabella la genera il conteggio del progetto e non si modifica
 ## Una riga tradotta male
 
 https://github.com/ashdam/ffxiv-language-pack-it/issues
+
+Riga di prova.
