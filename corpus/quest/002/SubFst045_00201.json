@@ -2,19 +2,19 @@
   "conversation": "quest/002/SubFst045_00201",
   "gameVersion": "2026.08.11.0000.0000",
   "entries": [
-    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_SEQ_00", "hash": "B5448E532464BD9A", "target": "" },
-    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_SEQ_01", "hash": "308C6BBF25356BAB", "target": "" },
-    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_SEQ_02", "hash": "5B9183CCFA2DDD3E", "target": "" },
-    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_TODO_00", "hash": "99196AB7AE690AB2", "target": "" },
-    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_1", "hash": "2BACAD12A91FFB71", "target": "" },
-    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_2", "hash": "7E5A2839548AD630", "target": "" },
-    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_3", "hash": "57F5C20BC8B37322", "target": "" },
-    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_SYSTEM_000_4", "hash": "148842A4CB3DD269", "target": "" },
-    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_10", "hash": "E714CDA97A6A421A", "target": "" },
-    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_11", "hash": "8F06C0BC48A539F8", "target": "" },
-    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_12", "hash": "501D7F58716C9AD0", "target": "" },
-    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_13", "hash": "80BE397F77217272", "target": "" },
-    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_14", "hash": "24188576C9B8F420", "target": "" },
-    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_SYSTEM_000_15", "hash": "A69B1BB221197CD5", "target": "" }
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_SEQ_00", "hash": "B5448E532464BD9A", "target": "Galfrid, istruttore capo al Bannock, vuole ispezionare il tuo equipaggiamento e valutare così se sei pronto per gli incarichi futuri." },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_SEQ_01", "hash": "308C6BBF25356BAB", "target": "Per poter ricevere incarichi da Galfrid devi prima metterti insieme un equipaggiamento rispettabile. Riempi gli slot Head, Body, Hands, Legs e Feet con pezzi di item level 5 o superiore e presentati all'istruttore capo per l'ispezione." },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_SEQ_02", "hash": "5B9183CCFA2DDD3E", "target": "Galfrid ha stabilito che il tuo equipaggiamento è all'altezza. Ora puoi ricevere incarichi dall'istruttore capo." },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_TODO_00", "hash": "99196AB7AE690AB2", "target": "Presentarsi a Galfrid per l'ispezione" },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_1", "hash": "2BACAD12A91FFB71", "target": "Vedo che hai fretta di dare una mano, <split(<string(gstr1)>, ,1)>. Bene così. Ma non posso mandarti nella foresta con la coscienza tranquilla finché non ho accertato che il tuo equipaggiamento sia pari al compito." },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_2", "hash": "7E5A2839548AD630", "target": "Vale la pena ripeterlo: nei cinque anni trascorsi dall'alba della Settima Era Umbrale molte creature del Bosco dei Dodici si sono trasformate in mostri feroci e sanguinari. Addentrarsi nella foresta senza l'equipaggiamento adatto equivale a un suicidio." },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_3", "hash": "57F5C20BC8B37322", "target": "Ti consiglio di prenderti un momento per valutare il tuo equipaggiamento. Quando riterrai la tua armatura di qualità sufficiente, presentati a me per l'ispezione." },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_SYSTEM_000_4", "hash": "148842A4CB3DD269", "target": "Riempi gli slot Head, Body, Hands, Legs e Feet con pezzi di item level 5 o superiore, poi torna a parlare con Galfrid." },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_10", "hash": "E714CDA97A6A421A", "target": "Pronti per l'ispezione, dunque? Bene, allora! Occhi avanti! Schiena dritta!" },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_11", "hash": "8F06C0BC48A539F8", "target": "Mmmh... Sì, direi che sei all'altezza." },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_12", "hash": "501D7F58716C9AD0", "target": "Ti stupirebbe sapere quanti soldati giovani e promettenti si fanno ammazzare correndo nel bosco senza aver prima indossato una corazza decente." },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_13", "hash": "80BE397F77217272", "target": "Il tuo equipaggiamento, però, dovrebbe garantire il grado di protezione richiesto. Considerati in servizio, <split(<string(gstr1)>, ,1)>." },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_14", "hash": "24188576C9B8F420", "target": "\\<sospiro> Tanto valeva che andassi a passeggio col vestito del tuo giorno del nome. Torna quando avrai trovato roba più robusta." },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_SYSTEM_000_15", "hash": "A69B1BB221197CD5", "target": "Riempi gli slot Head, Body, Hands, Legs e Feet con pezzi di item level 5 o superiore, poi torna a parlare con Galfrid." }
   ]
 }

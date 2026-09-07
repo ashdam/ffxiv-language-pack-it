@@ -2,18 +2,18 @@
   "conversation": "quest/003/SubFst056_00377",
   "gameVersion": "2026.08.11.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_SEQ_00", "hash": "EFA7F009EC3CF010", "target": "" },
-    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_SEQ_01", "hash": "E6A7DB2577EA91E3", "target": "" },
-    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_SEQ_02", "hash": "CAF8F5DFA3F2BCF5", "target": "" },
-    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_SEQ_03", "hash": "63A376ACFD0E6A77", "target": "" },
-    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_TODO_00", "hash": "869613CA90C07D5E", "target": "" },
-    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_TODO_01", "hash": "15EB371A9BD522CE", "target": "" },
-    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_OSHAJAAB_000_1", "hash": "E49138B6F1855CE0", "target": "" },
-    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_OSHAJAAB_000_2", "hash": "B5F295C26B28F33E", "target": "" },
-    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_OSHAJAAB_000_3", "hash": "02AC12B4F456D787", "target": "" },
-    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_OSHAJAAB_000_4", "hash": "5AB5EFCAD26D3EF3", "target": "" },
-    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_THEODORE_000_11", "hash": "A4B0C9F421B5B482", "target": "" },
-    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_THEODORE_000_12", "hash": "24A5CF788BDB2F65", "target": "" },
-    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_THEODORE_000_13", "hash": "CA59E0E30CBE288A", "target": "" }
+    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_SEQ_00", "hash": "EFA7F009EC3CF010", "target": "Osha Jaab, una Sentinella Cupa di guardia all'Oblio della Matrona, cerca un avventuriero dal passo sicuro che stacchi i blue trumpet dalla radice del pilastro celeste vicino." },
+    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_SEQ_01", "hash": "E6A7DB2577EA91E3", "target": "Hai l'incarico di rimuovere i funghi blue trumpet dalla radice del pilastro celeste che si trova all'Oblio della Matrona. Elimina la minaccia fungina prima che si diffonda e faccia marcire il legno." },
+    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_SEQ_02", "hash": "CAF8F5DFA3F2BCF5", "target": "Hai staccato tutti i blue trumpet dalla radice del pilastro celeste. Riferisci a Theodore, sulla piazzola in alto all'Oblio della Matrona." },
+    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_SEQ_03", "hash": "63A376ACFD0E6A77", "target": "Il tuo semplice raccolto di funghi ha salvato la radice del pilastro celeste da un destino di marciume. Non è una passerella ideale, ma Theodore insiste che la radice è indispensabile per attraversare la geografia stravolta del Central Shroud." },
+    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_TODO_00", "hash": "869613CA90C07D5E", "target": "Rimuovere i blue trumpet" },
+    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_TODO_01", "hash": "15EB371A9BD522CE", "target": "Riferire a Theodore all'Oblio della Matrona" },
+    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_OSHAJAAB_000_1", "hash": "E49138B6F1855CE0", "target": "Ehilà, avventuriero. Sembrate leggero di piede. Vi va un saltello lungo la radice del pilastro celeste qui davanti? Mi serve qualcuno che stacchi un blue trumpet o due." },
+    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_OSHAJAAB_000_2", "hash": "B5F295C26B28F33E", "target": "So cosa state pensando: non è che un fungo, allora perché tutto questo trambusto? Ve lo dico io. Lasciate moltiplicare quella minaccia fungina e in meno di una luna coprirà tutta questa maledetta radice e farà marcire il legno da parte a parte." },
+    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_OSHAJAAB_000_3", "hash": "02AC12B4F456D787", "target": "Badate solo a dove mettete i piedi lassù: i diremite giù in basso non perdono tempo, e a una caduta aggiungono volentieri il danno." },
+    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_OSHAJAAB_000_4", "hash": "5AB5EFCAD26D3EF3", "target": "Quando avrete finito, salite in cima alla radice e riferite a Theodore. Sarà felice di sentire che qualcuno si è occupato di una delle sue incombenze più temute." },
+    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_THEODORE_000_11", "hash": "A4B0C9F421B5B482", "target": "Oh, avete liberato la radice dai blue trumpet? Meraviglioso! A dire il vero ho un <italic(1)>piccolissimo<italic(0)> problema con le altezze. \\<sospiro> No, non è la postazione dei miei sogni, ma ognuno fa quel che deve." },
+    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_THEODORE_000_12", "hash": "24A5CF788BDB2F65", "target": "Tenere la radice percorribile è un lavoro importante, vedete. È una delle poche vie per attraversare il Central Shroud da quando la Calamità ha praticamente spaccato in due la zona." },
+    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_THEODORE_000_13", "hash": "CA59E0E30CBE288A", "target": "Non è forse il sentiero più comodo, ma c'è chi crede che sia stata la volontà della Matrona stessa a lasciare sospeso così questo viticcio di pilastro celeste, perché servisse alla gente della foresta. A me l'idea piace molto." }
   ]
 }

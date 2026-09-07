@@ -2,17 +2,17 @@
   "conversation": "quest/003/SubWil084_00332",
   "gameVersion": "2026.08.11.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_SEQ_00", "hash": "5EC2ED141651DEB3", "target": "" },
-    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_SEQ_01", "hash": "1112F8B2768C2BCE", "target": "" },
-    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_SEQ_02", "hash": "F7D6EF8E1442CE81", "target": "" },
-    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_TODO_00", "hash": "3A7DE249BB09E062", "target": "" },
-    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_LEOFRIC_000", "hash": "2D4994E9B2328B55", "target": "" },
-    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_LEOFRIC_001", "hash": "AA74E1AAB3EBFC4F", "target": "" },
-    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_LEOFRIC_002", "hash": "B59C6E52D031F7F2", "target": "" },
-    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_FUFULUPA_010", "hash": "4655B09A64FCFB2E", "target": "" },
-    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_FUFULUPA_011", "hash": "98C86889AF3E59F0", "target": "" },
-    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_FUFULUPA_012", "hash": "922B708619494FC0", "target": "" },
-    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_FUFULUPA_013", "hash": "7D11B36F1D2911A7", "target": "" },
-    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_FUFULUPA_014", "hash": "EF2A96C005B8414D", "target": "" }
+    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_SEQ_00", "hash": "5EC2ED141651DEB3", "target": "Leofric vorrebbe che consegnassi un oggetto a Horizon." },
+    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_SEQ_01", "hash": "1112F8B2768C2BCE", "target": "Leofric vuole regalare a Fufulupa un pugnale d'epoca, ma per le sue ferite non è in condizione di viaggiare. Raggiungi Horizon e consegna il pugnale a Fufulupa al suo posto." },
+    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_SEQ_02", "hash": "F7D6EF8E1442CE81", "target": "Fufulupa è sconvolto di vedere il pugnale nelle tue mani e spiega che solo i capitani delle Lame d'Ottone della Rosa hanno il permesso di portarlo. Lo prende comunque in custodia, finché Leofric non verrà a riprenderselo." },
+    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_TODO_00", "hash": "3A7DE249BB09E062", "target": "Consegnare il pugnale d'epoca a Fufulupa a Horizon" },
+    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_LEOFRIC_000", "hash": "2D4994E9B2328B55", "target": "Come avrai notato, ora non sono in condizione di lasciare Speranza Perduta. Quindi, al mio posto, vorrei che tornassi a Horizon e dessi questo pugnale a Fufulupa." },
+    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_LEOFRIC_001", "hash": "AA74E1AAB3EBFC4F", "target": "Anche se è solo un vecchio pugnale ornamentale, il suo posto è tra le Lame d'Ottone della Rosa." },
+    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_LEOFRIC_002", "hash": "B59C6E52D031F7F2", "target": "Sì, avrei dovuto darlo al ragazzo prima di venire qui..." },
+    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_FUFULUPA_010", "hash": "4655B09A64FCFB2E", "target": "Ah, <split(<string(gstr1)>, ,1)>! L'altro giorno ho ricevuto notizie dal capitano Leofric. Grazie per aver consegnato la lettera per me!" },
+    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_FUFULUPA_011", "hash": "98C86889AF3E59F0", "target": "P-perché avete quel pugnale!? Solo un capitano delle Lame d'Ottone della Rosa ha il permesso di possederlo!" },
+    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_FUFULUPA_012", "hash": "922B708619494FC0", "target": "Il capitano Leofric dice che devo averlo io? Ci deve essere un errore!" },
+    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_FUFULUPA_013", "hash": "7D11B36F1D2911A7", "target": "Non può volermi dire che─ No, no, certo che no. Non sono degno di brandirlo." },
+    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_FUFULUPA_014", "hash": "EF2A96C005B8414D", "target": "Rispetterò comunque il volere del capitano e prenderò il pugnale in custodia, finché non verrà a riprenderselo." }
   ]
 }

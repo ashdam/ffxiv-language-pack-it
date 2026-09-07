@@ -2,18 +2,18 @@
   "conversation": "quest/003/SubWil081_00329",
   "gameVersion": "2026.08.11.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_SEQ_00", "hash": "EB7310DA9EC4FEB7", "target": "" },
-    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_SEQ_01", "hash": "85D847CDB3682B0F", "target": "" },
-    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_SEQ_02", "hash": "942F10186A70D59A", "target": "" },
-    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_SEQ_03", "hash": "D0789114857E7C19", "target": "" },
-    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_TODO_00", "hash": "3B984518AD1B7802", "target": "" },
-    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_TODO_01", "hash": "865587D87113485A", "target": "" },
-    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_DRUNKENSTAG_000", "hash": "4774C35AD6435596", "target": "" },
-    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_DRUNKENSTAG_001", "hash": "809B721AAC5030E2", "target": "" },
-    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_DRUNKENSTAG_002", "hash": "EA53F4E63C3C19AD", "target": "" },
-    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_DRUNKENSTAG_003", "hash": "89C54CF2B78D47A0", "target": "" },
-    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_FUFULUPA_010", "hash": "8747D4DA83534F2A", "target": "" },
-    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_FUFULUPA_011", "hash": "3A907AB28AFFF846", "target": "" },
-    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_FUFULUPA_012", "hash": "6EC583C77685F251", "target": "" }
+    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_SEQ_00", "hash": "EB7310DA9EC4FEB7", "target": "Drunken Stag vuole ripagare la tua gentilezza con qualche informazione utile." },
+    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_SEQ_01", "hash": "85D847CDB3682B0F", "target": "Sciami di sun midge tormentano i viaggiatori sulla strada tra Horizon e le Copperbell Mines, e le Lame d'Ottone ricompensano chi aiuta a rimediare. Fa' la tua parte abbattendo quattro sun midge swarm." },
+    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_SEQ_02", "hash": "942F10186A70D59A", "target": "Sterminati valorosamente eserciti di quei minuscoli parassiti, riferisci a Fufulupa e reclama la tua ricompensa." },
+    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_SEQ_03", "hash": "D0789114857E7C19", "target": "Fufulupa ti ringrazia per il tuo duro lavoro a favore di Horizon e non esita a offrirtene altro. A quanto pare in quell'insediamento animato c'è molto e più da fare." },
+    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_TODO_00", "hash": "3B984518AD1B7802", "target": "Abbattere dei sun midge swarm" },
+    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_TODO_01", "hash": "865587D87113485A", "target": "Riferire a Fufulupa a Horizon" },
+    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_DRUNKENSTAG_000", "hash": "4774C35AD6435596", "target": "Ti farebbe piacere l'occasione di guadagnare qualcosa, vero? Allora so proprio come ripagarti della tua gentilezza." },
+    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_DRUNKENSTAG_001", "hash": "809B721AAC5030E2", "target": "Sciami di sun midge tormentano i viaggiatori lungo la strada che collega Horizon a qui. È diventata una tale piaga che le Lame d'Ottone hanno iniziato a pagare la gente per tenere le strade libere." },
+    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_DRUNKENSTAG_002", "hash": "EA53F4E63C3C19AD", "target": "Se ti pare difficile credere che sciami di moscerini minuscoli possano dare tanto fastidio, allora non hai mai visto un chocobo impazzire per colpa di uno. Ci sono già stati incidenti terribili." },
+    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_DRUNKENSTAG_003", "hash": "89C54CF2B78D47A0", "target": "Fa' la tua parte e abbattine qualche sciame. Poi fallo sapere a Fufulupa. Ti ricompenserà per il disturbo, e magari ti offrirà anche altro lavoro." },
+    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_FUFULUPA_010", "hash": "8747D4DA83534F2A", "target": "Saluti e ossequi, avventuriero. A cosa devo questo─<br>Come, avete abbattuto <italic(1)>quanti<italic(0)> sun midge swarm!?" },
+    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_FUFULUPA_011", "hash": "3A907AB28AFFF846", "target": "Avete i miei più sinceri ringraziamenti! Le Lame d'Ottone stentano a tenerli a bada, quindi il vostro aiuto è molto apprezzato." },
+    { "gameKey": "quest/003/SubWil081_00329#TEXT_SUBWIL081_00329_FUFULUPA_012", "hash": "6EC583C77685F251", "target": "Vi fermerete a lungo a Horizon? Se sì, c'è molto e più che potete fare per dare una mano qui." }
   ]
 }
