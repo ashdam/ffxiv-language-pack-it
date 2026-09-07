@@ -1054,10 +1054,146 @@
       "fr": "le Grand Œuvre",
       "ja": "デミールの遺烈郷",
       "protect": true
+    },
+    {
+      "en": "tempered",
+      "fr": "asservi",
+      "ja": "テンパード",
+      "it": "asservito",
+      "protect": false,
+      "note": "tempering -> «asservire». Recurs in every primal quest; the French settles it."
+    },
+    {
+      "en": "Wood Wailers",
+      "fr": "vigiles sombres",
+      "ja": "鬼哭隊",
+      "it": "le Sentinelle Cupe",
+      "protect": false,
+      "note": "Singular «la Sentinella Cupa». «vigile» alone reads as a traffic warden. LOW: coined from the French, re-decide if a better form appears."
+    },
+    {
+      "en": "Serpent Reavers",
+      "fr": "pillards du serpent",
+      "ja": "海蛇の舌",
+      "it": "i Predoni del Serpente",
+      "protect": false
+    },
+    {
+      "en": "Hearer",
+      "fr": "druidesse",
+      "ja": "道士",
+      "it": "Uditore",
+      "protect": false,
+      "note": "Gridanian conjurer rank, capitalised; feminine «Uditrice». The French loses the hearing."
+    },
+    {
+      "en": "the Matron",
+      "fr": "la Mère",
+      "ja": "地神",
+      "it": "la Matrona",
+      "protect": false,
+      "note": "Nophica. the Matron's Lethe -> «l'Oblio della Matrona»."
+    },
+    {
+      "en": "the Paragons",
+      "fr": "messager divin",
+      "ja": "天使い",
+      "it": "i Paragoni",
+      "protect": false,
+      "note": "The Ascians as the primals name them. LOW."
+    },
+    {
+      "en": "Lord of the Inferno",
+      "fr": "",
+      "ja": "",
+      "it": "Signore dell'Inferno",
+      "protect": false,
+      "note": "A primal's epithet «Lord of X» is «Signore di X»."
+    },
+    {
+      "en": "the Bloodsworn",
+      "fr": "Ronces sanglantes",
+      "ja": "",
+      "it": "i Giurati del Sangue",
+      "protect": false,
+      "note": "From the English compound; the French misreads it as thorns."
+    },
+    {
+      "en": "fishback",
+      "fr": "hommes-poissons",
+      "ja": "",
+      "it": "facce di pesce",
+      "protect": false,
+      "note": "Lominsan slur for the Sahagin; a literal compound does not work as an insult."
+    },
+    {
+      "en": "nameday",
+      "fr": "",
+      "ja": "",
+      "it": "giorno del nome",
+      "protect": false
+    },
+    {
+      "en": "bell",
+      "fr": "",
+      "ja": "",
+      "it": "campana",
+      "protect": false,
+      "note": "The Eorzean hour only; the object is «campana» too."
+    },
+    {
+      "en": "smallfolk",
+      "fr": "",
+      "ja": "",
+      "it": "la gente comune",
+      "protect": false
+    },
+    {
+      "en": "heavenspillar",
+      "fr": "pilier céleste",
+      "ja": "天柱樹",
+      "it": "pilastro celeste",
+      "protect": false
+    },
+    {
+      "en": "the Hedgetree",
+      "fr": "l'arbre de l'Orée",
+      "ja": "境樹",
+      "it": "l'Albero di Confine",
+      "protect": false
+    },
+    {
+      "en": "the Skylift",
+      "fr": "l'Ascenciel",
+      "ja": "",
+      "it": "il Montacielo",
+      "protect": false,
+      "note": "LOW: a coinage, the Japanese keeps the English."
+    },
+    {
+      "en": "Amajina & Sons Mineral Concern",
+      "fr": "",
+      "ja": "",
+      "it": "la Amajina e Figli, Impresa Minerale",
+      "protect": false,
+      "note": "Short «the Concern» -> «l'Impresa». LOW."
+    },
+    {
+      "en": "East Aldenard Trading Company",
+      "fr": "",
+      "ja": "",
+      "it": "la Compagnia Commerciale dell'Aldenard Orientale",
+      "protect": false
     }
   ],
   "_emotes_comment": [
     "Stage directions FFXIV writes as literal on-screen text, \\<sigh>, not as macros. The backslash is the game's escape and must survive; the word inside is translated."
   ],
-  "emotes": []
+  "emotes": [
+    { "en": "sigh", "it": "sospiro" },
+    { "en": "gasp", "it": "sussulto" },
+    { "en": "pant", "it": "ansimo" },
+    { "en": "sob", "it": "singhiozzo" },
+    { "en": "sniffle", "it": "sniff" }
+  ]
 }

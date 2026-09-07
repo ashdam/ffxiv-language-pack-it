@@ -2,15 +2,15 @@
   "conversation": "quest/003/SubWil086_00334",
   "gameVersion": "2026.08.11.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_SEQ_00", "hash": "38544DB0A46BE483", "target": "" },
-    { "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_SEQ_01", "hash": "30DFF4BBD8242AC9", "target": "" },
-    { "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_SEQ_02", "hash": "11565142BAAE3485", "target": "" },
-    { "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_TODO_00", "hash": "34F3A832240A0181", "target": "" },
-    { "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_NUNUZOFU_000", "hash": "70E8841FBEAD8C7A", "target": "" },
-    { "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_NUNUZOFU_001", "hash": "3516F9C2ABAC77E6", "target": "" },
-    { "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_NUNUZOFU_002", "hash": "740186E941C3E93B", "target": "" },
-    { "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_RAFFE_010", "hash": "1545209B3765452D", "target": "" },
-    { "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_RAFFE_011", "hash": "2646FEF1629161BC", "target": "" },
-    { "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_RAFFE_012", "hash": "32E3B452E29C15BC", "target": "" }
+    { "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_SEQ_00", "hash": "38544DB0A46BE483", "target": "Nunuzofu vuole che tu consegni un messaggio alla Cala del Crescente." },
+    { "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_SEQ_01", "hash": "30DFF4BBD8242AC9", "target": "Il capitano Baldewyn vuole tenere un banchetto per un gruppo di taumaturghi in visita. Per il piatto principale gli serve pesce fresco della Cala del Crescente. Nunuzofu ti chiede di riferire la richiesta del capitano a Raffe, il pescatore." },
+    { "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_SEQ_02", "hash": "11565142BAAE3485", "target": "Benché i pescatori della Cala del Crescente abbiano pescato poco negli ultimi giorni, Raffe giura che il capitano avrà il suo pesce. I tuoi affari al villaggio sono conclusi, ma la sua reazione nervosa alla richiesta di Baldewyn ti resta in mente. Forse dovresti parlare con altri al villaggio e vedere se qualcosa non torna." },
+    { "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_TODO_00", "hash": "34F3A832240A0181", "target": "Parlare con Raffe alla Cala del Crescente" },
+    { "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_NUNUZOFU_000", "hash": "70E8841FBEAD8C7A", "target": "Ehi, avventuriero! Ti va di portare un messaggio alla Cala del Crescente per noi?" },
+    { "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_NUNUZOFU_001", "hash": "3516F9C2ABAC77E6", "target": "Il capitano Baldewyn sta organizzando dei festeggiamenti per i taumaturghi, vedi, e vuole che si godano il meglio in cibo e bevande. Nient'altro che il meglio per i nostri ospiti illustri, eh?" },
+    { "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_NUNUZOFU_002", "hash": "740186E941C3E93B", "target": "Vai a ovest e poi a sud, al villaggio, e di' a Raffe che deve consegnare a Horizon una bella quantità di pesce fresco per il banchetto." },
+    { "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_RAFFE_010", "hash": "1545209B3765452D", "target": "P-pesce fresco per il capitano Baldewyn? Certo, <italic(1)>certo<italic(0)>! Faremo del nostro meglio, <if(gnum4,signora,signore)>." },
+    { "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_RAFFE_011", "hash": "2646FEF1629161BC", "target": "P-purtroppo negli ultimi giorni abbiamo pescato poco, per via del mare mosso. Altre barche dovrebbero rientrare presto, ma non posso promettere che il loro pescato vi soddisfi." },
+    { "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_RAFFE_012", "hash": "32E3B452E29C15BC", "target": "Ma non temete, <if(gnum4,mia signora,signore)>! Il capitano avrà il suo pesce! Lo giuro!" }
   ]
 }
