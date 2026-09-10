@@ -2,17 +2,17 @@
   "conversation": "quest/004/SubSea115_00412",
   "gameVersion": "2026.09.01.0000.0000",
   "entries": [
-    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_SEQ_00", "hash": "A56D0C8F3B1619BB", "target": "" },
-    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_SEQ_01", "hash": "4AADFB16E333BFD0", "target": "" },
-    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_SEQ_02", "hash": "8B251AB402F4174F", "target": "" },
-    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_TODO_00", "hash": "49BAD11244E137F5", "target": "" },
-    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_AHTBYRM_000_1", "hash": "6025CC186D43D564", "target": "" },
-    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_AHTBYRM_000_2", "hash": "09432B8CF4FAA8F5", "target": "" },
-    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_AHTBYRM_000_3", "hash": "4898378E35A524B2", "target": "" },
-    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_AHTBYRM_000_4", "hash": "E082327D81D90B5D", "target": "" },
-    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_HALDBRODA_000_10", "hash": "5DB03D7C7C972F6A", "target": "" },
-    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_HALDBRODA_000_11", "hash": "CB370CFF42B806FF", "target": "" },
-    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_HALDBRODA_000_12", "hash": "75A9B671C839CFB8", "target": "" },
-    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_HALDBRODA_000_13", "hash": "421438C0EB886AEF", "target": "" }
+    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_SEQ_00", "hash": "A56D0C8F3B1619BB", "target": "Ahtbyrm cerca un membro della sua squadra e i materiali che avrebbe dovuto consegnare." },
+    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_SEQ_01", "hash": "4AADFB16E333BFD0", "target": "Prendi la strada a ovest dei Cantieri Navali di Moraby e parla con Haldbroda per sapere dove sia un certo Fyrilsmyd. Ricorda di esprimere con /doubt i tuoi dubbi sulla sua sincerità." },
+    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_SEQ_02", "hash": "8B251AB402F4174F", "target": "Sembra che Haldbroda non ricordi davvero di aver mai visto Fyrilsmyd. Il giovane carpentiere potrebbe essere stato coinvolto nella tragedia che ha colpito una nave al largo della Spiaggia Salina?" },
+    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_TODO_00", "hash": "49BAD11244E137F5", "target": "Raggiungere il Molo di Candlekeep e comunicare a Haldbroda i dubbi di Ahtbyrm con /doubt" },
+    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_AHTBYRM_000_1", "hash": "6025CC186D43D564", "target": "Dove diavolo è quell'uomo!? Mai una consegna in ritardo in dodici lune, e ora due interi giorni senza una notizia." },
+    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_AHTBYRM_000_2", "hash": "09432B8CF4FAA8F5", "target": "Un mio carpentiere, un giovane di nome Fyrilsmyd, ha lasciato da poco il Molo di Candlekeep per ritirare alcune casse di materiali ordinati da Limsa Lominsa...ma non è ancora tornato." },
+    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_AHTBYRM_000_3", "hash": "4898378E35A524B2", "target": "Ho scritto più volte a Haldbroda, ma risponde sempre allo stesso modo. Non ricorda di aver visto né il carpentiere né i materiali da ritirare. Quell'uomo sa qualcosa, e la sua versione merita un deciso <colortype(500)><edgecolortype(501)>doubt<edgecolortype(0)><colortype(0)>." },
+    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_AHTBYRM_000_4", "hash": "E082327D81D90B5D", "target": "Non posso lasciare il mio posto, quindi ti chiedo di andare al Molo di Candlekeep e dire a Haldbroda che, se insiste con questi giochetti, lo farò trasferire all'Isola Dorso di Tartaruga a marcire da solo in mezzo al mare per l'eternità." },
+    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_HALDBRODA_000_10", "hash": "5DB03D7C7C972F6A", "target": "Eh? Quel cane presuntuoso di Ahtbyrm mi manda un <colortype(500)><edgecolortype(501)>doubt<edgecolortype(0)><colortype(0)>? Pensa che gli abbia mai detto altro che la verità!?" },
+    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_HALDBRODA_000_11", "hash": "CB370CFF42B806FF", "target": "L'Isola Dorso di Tartaruga!? Non può farlo...vero?" },
+    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_HALDBRODA_000_12", "hash": "75A9B671C839CFB8", "target": "Giuro sulla tomba della mia povera nonna, la Navigatrice l'abbia in gloria, non so nulla di questo Fyrilsmyd né dei suoi preziosi materiali." },
+    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_HALDBRODA_000_13", "hash": "421438C0EB886AEF", "target": "Maledizione, qui al molo abbiamo già abbastanza guai, con quel mercantile lominsano affondato al largo della Spiaggia Salina. Non ho tempo nemmeno per pisciare come si deve, figurarsi per annotare ogni straccione che arriva dalla Stretta." }
   ]
 }
