@@ -2,18 +2,18 @@
   "conversation": "quest/038/XxaUsa302_03861",
   "gameVersion": "2026.09.01.0000.0000",
   "entries": [
-    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_SEQ_00", "hash": "09BA0FB37AB9B993", "target": "" },
-    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_SEQ_01", "hash": "A2C5A272A290D066", "target": "" },
-    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_SEQ_02", "hash": "6A957518EFD926E6", "target": "" },
-    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_SEQ_03", "hash": "42323AF3B1BBBA5C", "target": "" },
-    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_TODO_00", "hash": "5F3321D4C8709D4B", "target": "" },
-    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_TODO_01", "hash": "F36A2D4C0E24D872", "target": "" },
-    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_SYSTEM_100_000", "hash": "B019C69C076DDABE", "target": "" },
-    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_TETEROON_000_000", "hash": "1FB9E5EB2A14D3DF", "target": "" },
-    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_TETEROON_000_001", "hash": "9DCAEE3A08AA562B", "target": "" },
-    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_TETEROON_000_002", "hash": "ED5B5777EECA8F8C", "target": "" },
-    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_TETEROON_000_020", "hash": "54BE89880C1BDD18", "target": "" },
-    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_TETEROON_000_021", "hash": "B527E7C07918B0CA", "target": "" },
-    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_TETEROON_000_022", "hash": "E46658E0AC3276B3", "target": "" }
+    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_SEQ_00", "hash": "09BA0FB37AB9B993", "target": "Teteroon ha posti dove mandarti e cosine da farti prendere." },
+    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_SEQ_01", "hash": "A2C5A272A290D066", "target": "Teteroon ti ha chiesto di aiutarlo a preparare l'acquavite Qiqirn. Uccidi i coeurl pup per ottenere tre baffi di coeurl pup." },
+    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_SEQ_02", "hash": "6A957518EFD926E6", "target": "Hai procurato gli ingredienti richiesti. Portali a Teteroon." },
+    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_SEQ_03", "hash": "42323AF3B1BBBA5C", "target": "Teteroon ha iniziato a preparare l'acquavite Qiqirn con gli ingredienti che gli hai portato. Ma l'acquavite buona richiede tempo. Parlagli di nuovo più tardi per scoprire com'è venuto il suo intruglio." },
+    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_TODO_00", "hash": "5F3321D4C8709D4B", "target": "Uccidere i coeurl pup e raccogliere baffi di coeurl pup" },
+    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_TODO_01", "hash": "F36A2D4C0E24D872", "target": "Consegnare i baffi di coeurl pup a Teteroon" },
+    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_SYSTEM_100_000", "hash": "B019C69C076DDABE", "target": "Per accettare questa missione, devi abbandonare l'attuale missione dello scenario principale. Apri la voce corrispondente nel journal o nella duty list e seleziona «Abandon»." },
+    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_TETEROON_000_000", "hash": "1FB9E5EB2A14D3DF", "target": "Buon Buscaroon aiutato Teteroon. Teteroon morto senza buon Buscaroon. Deve dare grazie. Tante, tante grazie. Teteroon prepara acquavite Qiqirn per Buscaroon! Buscaroon ama acquavite!" },
+    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_TETEROON_000_001", "hash": "9DCAEE3A08AA562B", "target": "Tu aiuti Teteroon a preparare acquavite? Servono cosine per preparare. Servono tante, tante cosine." },
+    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_TETEROON_000_002", "hash": "ED5B5777EECA8F8C", "target": "Servono baffi di coeurl pup. Servono tre buoni baffi di coeurl pup." },
+    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_TETEROON_000_020", "hash": "54BE89880C1BDD18", "target": "Teteroon prepara acquavite per Buscaroon. Tu porti cosine che servono a Teteroon?" },
+    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_TETEROON_000_021", "hash": "B527E7C07918B0CA", "target": "Tu portato tutte cosine! Teteroon prepara acquavite ora. Prepara buona acquavite per buon Buscaroon." },
+    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_TETEROON_000_022", "hash": "E46658E0AC3276B3", "target": "Teteroon inizia a preparare acquavite ora. Buona acquavite richiede tempo. Più tempo, più buona. Tu torna dopo." }
   ]
 }

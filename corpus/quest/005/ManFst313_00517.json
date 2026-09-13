@@ -23,7 +23,6 @@
     { "gameKey": "quest/005/ManFst313_00517#TEXT_MANFST313_00517_MINFILIA_000_018", "hash": "C8A3D423045BD187", "target": "Ti aspetta un'accoglienza trionfale!<br>Attenderemo il tuo ritorno alle Sabbie del Risveglio. C'è molto di cui parlare. Che gli dei ti accompagnino." },
     { "gameKey": "quest/005/ManFst313_00517#TEXT_MANFST313_00517_NPCA_000_020", "hash": "92E380F2BAFFA609", "target": "Hai sentito quel baccano? Che diavolo facevano là dentro? Lottavano con un peiste!? Mi sembri un tipo d'azione. Ti va di dare un'occhiata?" },
     { "gameKey": "quest/005/ManFst313_00517#TEXT_MANFST313_00517_NPCB_000_021", "hash": "03D23F6C096B6BDD", "target": "...Quelle che ho sentito erano <italic(1)>urla<italic(0)>? Non so se voglio scoprirlo..." },
-    { "gameKey": "quest/005/ManFst313_00517#TEXT_MANFST313_00517_NORAXIA_000_030", "hash": "54CCC43429215735", "target": "" },
     { "gameKey": "quest/005/ManFst313_00517#TEXT_MANFST313_00517_NORAXIA_000_100", "hash": "DD95757F61683A05", "target": "Questo qui è felice... quello che cammina è al sicuro..." },
     { "gameKey": "quest/005/ManFst313_00517#TEXT_MANFST313_00517_100010_MINFILIA", "hash": "BAF87117850A012B", "target": "Attenderemo il tuo ritorno alle Sabbie del Risveglio. C'è molto di cui parlare. Che gli dei ti accompagnino." },
     { "gameKey": "quest/005/ManFst313_00517#TEXT_MANFST313_00517_100020_MINFILIA", "hash": "CE404FDF4367AB80", "target": "Grazie al cielo <if(gnum4,è salva,è salvo)>." },

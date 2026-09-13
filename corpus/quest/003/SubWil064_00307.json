@@ -3,8 +3,8 @@
   "gameVersion": "2026.09.01.0000.0000",
   "entries": [
     { "gameKey": "quest/003/SubWil064_00307#TEXT_SUBWIL064_00307_SEQ_00", "hash": "625E4602AEAA6169", "target": "Warin ha lavoro per un avventuriero disposto a sterminare i coblyn che attaccano i carri di minerale." },
-    { "gameKey": "quest/003/SubWil064_00307#TEXT_SUBWIL064_00307_SEQ_01", "hash": "A9ADB13AD4A07A9D", "target": "Uno sciame di coblyn ha preso ad attaccare i carri di minerale dentro un tunnel a sud della Stazione di Black Brush. Warin ti ha dato un grumo di minerale d'argento, che devi usare per attirare fuori le creature e abbatterle." },
-    { "gameKey": "quest/003/SubWil064_00307#TEXT_SUBWIL064_00307_SEQ_02", "hash": "B0177D0EB7B0B390", "target": "Hai ripulito il tunnel dalla presenza dei coblyn, garantendo così la sicurezza delle spedizioni future. Torna alla Stazione di Black Brush e informa Warin del tuo successo." },
+    { "gameKey": "quest/003/SubWil064_00307#TEXT_SUBWIL064_00307_SEQ_01", "hash": "A9ADB13AD4A07A9D", "target": "Uno sciame di coblyn ha preso ad attaccare i carri di minerale dentro un tunnel a sud di Black Brush Station. Warin ti ha dato un grumo di minerale d'argento, che devi usare per attirare fuori le creature e abbatterle." },
+    { "gameKey": "quest/003/SubWil064_00307#TEXT_SUBWIL064_00307_SEQ_02", "hash": "B0177D0EB7B0B390", "target": "Hai ripulito il tunnel dalla presenza dei coblyn, garantendo così la sicurezza delle spedizioni future. Torna a Black Brush Station e informa Warin del tuo successo." },
     { "gameKey": "quest/003/SubWil064_00307#TEXT_SUBWIL064_00307_SEQ_03", "hash": "D69B4E6ABE296C36", "target": "Grazie alla tua abilità in armi il minerale continuerà a scorrere e a saziare l'insaziabile fame di minerale di Ul'dah." },
     { "gameKey": "quest/003/SubWil064_00307#TEXT_SUBWIL064_00307_TODO_00", "hash": "1F3B4647241E21F9", "target": "Attirare fuori e abbattere i coblyn" },
     { "gameKey": "quest/003/SubWil064_00307#TEXT_SUBWIL064_00307_TODO_01", "hash": "618ECF20B3170F57", "target": "Riferire a Warin" },

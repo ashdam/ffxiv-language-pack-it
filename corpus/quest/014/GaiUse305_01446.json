@@ -2,14 +2,14 @@
   "conversation": "quest/014/GaiUse305_01446",
   "gameVersion": "2026.09.01.0000.0000",
   "entries": [
-    { "gameKey": "quest/014/GaiUse305_01446#TEXT_GAIUSE305_01446_SEQ_00", "hash": "23FA0E7BDBA0D7FB", "target": "" },
-    { "gameKey": "quest/014/GaiUse305_01446#TEXT_GAIUSE305_01446_SEQ_01", "hash": "C81B7FB20AB9A3E0", "target": "" },
-    { "gameKey": "quest/014/GaiUse305_01446#TEXT_GAIUSE305_01446_SEQ_02", "hash": "0887338D6A61C81A", "target": "" },
-    { "gameKey": "quest/014/GaiUse305_01446#TEXT_GAIUSE305_01446_TODO_00", "hash": "17FA7905B8F23B12", "target": "" },
-    { "gameKey": "quest/014/GaiUse305_01446#TEXT_GAIUSE305_01446_SWIFT_000_000", "hash": "47ED27A744F3FD86", "target": "" },
-    { "gameKey": "quest/014/GaiUse305_01446#TEXT_GAIUSE305_01446_SWIFT_000_001", "hash": "4E2ECD947B679C1C", "target": "" },
-    { "gameKey": "quest/014/GaiUse305_01446#TEXT_GAIUSE305_01446_SWIFT_000_010", "hash": "74119C2C854B44E8", "target": "" },
-    { "gameKey": "quest/014/GaiUse305_01446#TEXT_GAIUSE305_01446_ALPHINAUD_000_015", "hash": "32DF2AA72F305F39", "target": "" },
-    { "gameKey": "quest/014/GaiUse305_01446#TEXT_GAIUSE305_01446_BARTHOLOMEW_000_020", "hash": "211309DEC4A9927A", "target": "" }
+    { "gameKey": "quest/014/GaiUse305_01446#TEXT_GAIUSE305_01446_SEQ_00", "hash": "23FA0E7BDBA0D7FB", "target": "Swift ha un messaggio per te da parte del generale Raubahn." },
+    { "gameKey": "quest/014/GaiUse305_01446#TEXT_GAIUSE305_01446_SEQ_01", "hash": "C81B7FB20AB9A3E0", "target": "Il generale Raubahn ti ha convocato per un incontro privato nella Sala dell'Incenso, dove desidera discutere i risultati della tua indagine e della propria. Alphinaud è già stato informato e ti aspetterà fuori. Raggiungi la Passeggiata Reale e parla con Bartholomew." },
+    { "gameKey": "quest/014/GaiUse305_01446#TEXT_GAIUSE305_01446_SEQ_02", "hash": "0887338D6A61C81A", "target": "Esistono uomini e donne pronti a dare fuoco al mondo pur di ottenere il potere. Teledji Adeledji è uno di loro e ha orchestrato fin dall'inizio la rivolta dei profughi. Il generale Raubahn e la Sultana credono che intenda sfruttare il caos per assumere il controllo della Piana di Carteneau, dove è stata scoperta una creazione allagana simile all'Arma Ultima. Se qualcuno riuscisse a sfruttare il potere di questa reliquia, avrebbe la forza necessaria a soggiogare tutta Eorzea─o almeno questo è il timore. Eppure, nonostante abbiano scoperto i piani di Teledji Adeledji, sembra che i tuoi alleati non siano ancora pronti ad agire contro di lui..." },
+    { "gameKey": "quest/014/GaiUse305_01446#TEXT_GAIUSE305_01446_TODO_00", "hash": "17FA7905B8F23B12", "target": "Parlare con Bartholomew alla Passeggiata Reale" },
+    { "gameKey": "quest/014/GaiUse305_01446#TEXT_GAIUSE305_01446_SWIFT_000_000", "hash": "47ED27A744F3FD86", "target": "Il Generale delle Fiamme ha lasciato detto che dovrete raggiungere la Sala dell'Incenso non appena farete ritorno. Desidera discutere le vostre recenti scoperte e i risultati della nostra indagine." },
+    { "gameKey": "quest/014/GaiUse305_01446#TEXT_GAIUSE305_01446_SWIFT_000_001", "hash": "4E2ECD947B679C1C", "target": "Il signor Alphinaud è già stato informato e dovrebbe aspettarvi fuori. Raggiungete al più presto la Passeggiata Reale e parlate con Bartholomew." },
+    { "gameKey": "quest/014/GaiUse305_01446#TEXT_GAIUSE305_01446_SWIFT_000_010", "hash": "74119C2C854B44E8", "target": "Sarà presente anche la Sultana. Vi prego di non far attendere Sua Grazia." },
+    { "gameKey": "quest/014/GaiUse305_01446#TEXT_GAIUSE305_01446_ALPHINAUD_000_015", "hash": "32DF2AA72F305F39", "target": "Ottimo lavoro, <split(<string(gstr1)>, ,1)>. Le informazioni che hai portato mi hanno aiutato a convincere il generale Raubahn a convocare questo incontro. Forse ora potremo discutere la questione con franchezza." },
+    { "gameKey": "quest/014/GaiUse305_01446#TEXT_GAIUSE305_01446_BARTHOLOMEW_000_020", "hash": "211309DEC4A9927A", "target": "Vi stavamo aspettando, <if(gnum4,signora,signore)>. Prego, entrate." }
   ]
 }

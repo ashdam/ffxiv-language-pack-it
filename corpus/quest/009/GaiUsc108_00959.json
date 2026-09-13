@@ -2,18 +2,18 @@
   "conversation": "quest/009/GaiUsc108_00959",
   "gameVersion": "2026.09.01.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc108_00959#TEXT_GAIUSC108_00959_SEQ_00", "hash": "704DAC9AED2430B5", "target": "" },
-    { "gameKey": "quest/009/GaiUsc108_00959#TEXT_GAIUSC108_00959_SEQ_01", "hash": "5020CE3E2DF4A2AF", "target": "" },
-    { "gameKey": "quest/009/GaiUsc108_00959#TEXT_GAIUSC108_00959_SEQ_02", "hash": "F9C601CF76FD626D", "target": "" },
-    { "gameKey": "quest/009/GaiUsc108_00959#TEXT_GAIUSC108_00959_TODO_00", "hash": "966AABD6EAD48055", "target": "" },
-    { "gameKey": "quest/009/GaiUsc108_00959#TEXT_GAIUSC108_00959_LAMBERTEINT_000_000", "hash": "AB6363B4FC4F3FC2", "target": "" },
-    { "gameKey": "quest/009/GaiUsc108_00959#TEXT_GAIUSC108_00959_LAMBERTEINT_000_001", "hash": "99D510EEA067F2A7", "target": "" },
-    { "gameKey": "quest/009/GaiUsc108_00959#TEXT_GAIUSC108_00959_LAMBERTEINT_000_002", "hash": "C40BE3BE203DD612", "target": "" },
-    { "gameKey": "quest/009/GaiUsc108_00959#TEXT_GAIUSC108_00959_LAMBERTEINT_000_003", "hash": "E476B8DD724B840C", "target": "" },
-    { "gameKey": "quest/009/GaiUsc108_00959#TEXT_GAIUSC108_00959_LAMBERTEINT_000_004", "hash": "2CE5F22A8DD714C3", "target": "" },
-    { "gameKey": "quest/009/GaiUsc108_00959#TEXT_GAIUSC108_00959_CEANA_000_010", "hash": "7ABC2403BBE94BE9", "target": "" },
-    { "gameKey": "quest/009/GaiUsc108_00959#TEXT_GAIUSC108_00959_CEANA_000_020", "hash": "0A55FEABAF982244", "target": "" },
-    { "gameKey": "quest/009/GaiUsc108_00959#TEXT_GAIUSC108_00959_CEANA_000_021", "hash": "913F61BD2273A53F", "target": "" },
-    { "gameKey": "quest/009/GaiUsc108_00959#TEXT_GAIUSC108_00959_CEANA_000_022", "hash": "1B0D8A8F58E84A6F", "target": "" }
+    { "gameKey": "quest/009/GaiUsc108_00959#TEXT_GAIUSC108_00959_SEQ_00", "hash": "704DAC9AED2430B5", "target": "Il professor Lamberteint sa dove potresti trovare il cristallo che cerchi." },
+    { "gameKey": "quest/009/GaiUsc108_00959#TEXT_GAIUSC108_00959_SEQ_01", "hash": "5020CE3E2DF4A2AF", "target": "Senza mostrare alcun rimorso per la precedente svista, il professor Lamberteint ti indica un altro luogo in cui potrebbero trovarsi cristalli corrotti. Un'altra sua allieva, Ceana, sostiene di aver scoperto un sito promettente nella parte occidentale di La Noscea, sulle Isole di Umbra. Recati ad Aleport e cerca la studiosa." },
+    { "gameKey": "quest/009/GaiUsc108_00959#TEXT_GAIUSC108_00959_SEQ_02", "hash": "F9C601CF76FD626D", "target": "Come Hahasako, Ceana afferma di essere la migliore allieva del buon professore. Come già per il Lalafell, resta da vedere quanto sia fondata questa audace affermazione." },
+    { "gameKey": "quest/009/GaiUsc108_00959#TEXT_GAIUSC108_00959_TODO_00", "hash": "966AABD6EAD48055", "target": "Parlare con Ceana ad Aleport" },
+    { "gameKey": "quest/009/GaiUsc108_00959#TEXT_GAIUSC108_00959_LAMBERTEINT_000_000", "hash": "AB6363B4FC4F3FC2", "target": "Temo che i cristalli corrotti abbastanza grandi e potenti non siano poi così comuni. Per fortuna, un'altra mia allieva, Ceana, sostiene di aver scoperto un sito promettente nella parte orientale di La Noscea." },
+    { "gameKey": "quest/009/GaiUsc108_00959#TEXT_GAIUSC108_00959_LAMBERTEINT_000_001", "hash": "99D510EEA067F2A7", "target": "Aspettate, non è corretto. Nella parte orientale di La Noscea ha quasi perso la vita dopo essersi avvicinata troppo a un castrum imperiale. Ah ah, <italic(1)>quello<italic(0)> sì che fu un aneddoto divertente!" },
+    { "gameKey": "quest/009/GaiUsc108_00959#TEXT_GAIUSC108_00959_LAMBERTEINT_000_002", "hash": "C40BE3BE203DD612", "target": "Era la parte <italic(1)>occidentale<italic(0)> di La Noscea─il Pharos Sirius, sulle Isole di Umbra, per la precisione." },
+    { "gameKey": "quest/009/GaiUsc108_00959#TEXT_GAIUSC108_00959_LAMBERTEINT_000_003", "hash": "E476B8DD724B840C", "target": "Non ricordo il suo ragionamento preciso─qualcosa su uno degli Artigli di Dalamud o qualche altra sciocchezza. Quel che so per certo è che si trova ancora ad Aleport e cerca di ottenere l'accesso alle isole." },
+    { "gameKey": "quest/009/GaiUsc108_00959#TEXT_GAIUSC108_00959_LAMBERTEINT_000_004", "hash": "2CE5F22A8DD714C3", "target": "Perché non andate da lei e vedete se le sue ricerche hanno dato frutto? Se saprete ignorare i modi rozzi e violenti dei pirati del posto, potreste trascorrere un soggiorno piacevole. Ah, e non dimenticate il vostro vaso protetto improvvisato, o penserà che non abbiate la preparazione necessaria." },
+    { "gameKey": "quest/009/GaiUsc108_00959#TEXT_GAIUSC108_00959_CEANA_000_010", "hash": "7ABC2403BBE94BE9", "target": "Eh? Cristalli corrotti!? <if(gnum4,Signora,Signore)>, non intendo diventare lo zimbello dei vostri scherzi, quindi, se non avete altro motivo per rivolgervi a me, vi prego di lasciarmi in pace." },
+    { "gameKey": "quest/009/GaiUsc108_00959#TEXT_GAIUSC108_00959_CEANA_000_020", "hash": "0A55FEABAF982244", "target": "Accidenti, il professor Lamberteint vi ha mandato <italic(1)>davvero<italic(0)>! Perdonatemi, pare che il nostro incontro sia iniziato col piede sbagliato." },
+    { "gameKey": "quest/009/GaiUsc108_00959#TEXT_GAIUSC108_00959_CEANA_000_021", "hash": "913F61BD2273A53F", "target": "Sono Ceana─la migliore allieva del professore, ed è senza dubbio per questo che vi ha detto di cercarmi. Sono una studiosa affermata, con una vasta esperienza nel campo di─" },
+    { "gameKey": "quest/009/GaiUsc108_00959#TEXT_GAIUSC108_00959_CEANA_000_022", "hash": "1B0D8A8F58E84A6F", "target": "\\<sbadiglio> Oh, per gli <italic(1)>dei<italic(0)>, sentitemi blaterare senza sosta. Avrò già recitato questa presentazione una dozzina di volte..." }
   ]
 }

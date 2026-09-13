@@ -2,16 +2,16 @@
   "conversation": "quest/008/GaiUsb112_00831",
   "gameVersion": "2026.09.01.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_SEQ_00", "hash": "50671B97EFCD20ED", "target": "" },
-    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_SEQ_01", "hash": "A58BD1A51D1F5D3A", "target": "" },
-    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_SEQ_02", "hash": "79411E751F0A1E17", "target": "" },
-    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_TODO_00", "hash": "0545B0C7C0EE4FAB", "target": "" },
-    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_UODHNUN_000_000", "hash": "E59DB4DEA20EA6A9", "target": "" },
-    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_UODHNUN_000_001", "hash": "2B17EE442F7E12E8", "target": "" },
-    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_UODHNUN_000_002", "hash": "840E683B0C701A0A", "target": "" },
-    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_UODHNUN_000_003", "hash": "15EE6524580343A4", "target": "" },
-    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_WHEISKAET_000_020", "hash": "C3C67C892C202538", "target": "" },
-    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_WHEISKAET_000_025", "hash": "DE692059E31DB6FE", "target": "" },
-    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_WHEISKAET_000_026", "hash": "1B4BBCF544E04CE3", "target": "" }
+    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_SEQ_00", "hash": "50671B97EFCD20ED", "target": "U'odh Nunh vuole che tu consegni un dono a Wheiskaet." },
+    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_SEQ_01", "hash": "A58BD1A51D1F5D3A", "target": "Ora che hai concluso i tuoi affari a Forgotten Springs, devi tornare a Costa del Sol per scoprire dove si trova il terzo ingrediente. Dato che presto incontrerai di nuovo Wheiskaet, U'odh Nunh ti ha chiesto di consegnargli una bottiglia di acquavite d'onice. Torna da Wheiskaet e dagli il dono di U'odh Nunh." },
+    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_SEQ_02", "hash": "79411E751F0A1E17", "target": "Wheiskaet rimane sorpreso dal dono e decide di ringraziare il vecchio compagno al loro prossimo incontro. Ora che la questione è risolta, puoi chiedergli dell'ultimo ingrediente." },
+    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_TODO_00", "hash": "0545B0C7C0EE4FAB", "target": "Consegnare l'acquavite d'onice a Wheiskaet" },
+    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_UODHNUN_000_000", "hash": "E59DB4DEA20EA6A9", "target": "Il capitano ha sempre amato questa acquavite. Ti sarei grato se gliela consegnassi da parte mia." },
+    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_UODHNUN_000_001", "hash": "2B17EE442F7E12E8", "target": "Quando entrai nella Compagnia ero un giovane avventato e collerico, e avrebbe avuto ogni diritto di cacciarmi. Tutto ciò che ho lo devo alla sua saggezza e generosità." },
+    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_UODHNUN_000_002", "hash": "840E683B0C701A0A", "target": "Già, Wheiskaet era un maestro severo ma giusto, capace di forgiare gli uomini. E sospetto che lo sia ancora adesso." },
+    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_UODHNUN_000_003", "hash": "15EE6524580343A4", "target": "Portagli i miei saluti, <split(<string(gstr1)>, ,1)>." },
+    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_WHEISKAET_000_020", "hash": "C3C67C892C202538", "target": "<if(gnum4,Ben ritrovata,Ben ritrovato)>, <split(<string(gstr1)>, ,1)>. Landenel e U'odh Nunh mi hanno parlato molto bene di te. Cosa ti porta qui?" },
+    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_WHEISKAET_000_025", "hash": "DE692059E31DB6FE", "target": "Ahhh, la mia preferita. Dovrò ringraziare il nunh di persona." },
+    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_WHEISKAET_000_026", "hash": "1B4BBCF544E04CE3", "target": "Ora ti resta un solo ingrediente. Per fortuna, stavolta non dovrai raggiungere Aldenard per ottenerlo." }
   ]
 }

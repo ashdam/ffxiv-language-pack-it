@@ -2,18 +2,18 @@
   "conversation": "quest/007/GaiUsa306_00738",
   "gameVersion": "2026.09.01.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_SEQ_00", "hash": "02FBF05BB307E6EE", "target": "" },
-    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_SEQ_01", "hash": "08274F15CA5100FE", "target": "" },
-    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_SEQ_02", "hash": "84DBD095A03B9FC2", "target": "" },
-    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_SEQ_03", "hash": "9EAF9E61AD572296", "target": "" },
-    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_TODO_00", "hash": "BD18AC53C6673DB9", "target": "" },
-    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_TODO_01", "hash": "CEEE3E3168D8761E", "target": "" },
-    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_BUSCARRON_000_000", "hash": "4C67A6870750167D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_BUSCARRON_000_001", "hash": "57F1EBF4EAB22FC6", "target": "" },
-    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_BUSCARRON_000_020", "hash": "537E1454413F0B1E", "target": "" },
-    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_BUSCARRON_000_021", "hash": "D3306AF6EA337EA3", "target": "" },
-    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_BUSCARRON_000_022", "hash": "C67E6F8BA977EDA4", "target": "" },
-    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_BUSCARRON_000_023", "hash": "CAEA5817CA632068", "target": "" },
-    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_POP_MESSAGE_000", "hash": "6B489686A1538CCF", "target": "" }
+    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_SEQ_00", "hash": "02FBF05BB307E6EE", "target": "Se Buscarron potesse scegliere, vorrebbe qualcuno con cui parlare dei silfi." },
+    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_SEQ_01", "hash": "08274F15CA5100FE", "target": "L'avvistamento di silfi in una parte del bosco lontana dal loro territorio desta preoccupazione. Buscarron ha segnato una zona sulla tua mappa. Raggiungila e ispezionala." },
+    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_SEQ_02", "hash": "84DBD095A03B9FC2", "target": "Hai terminato la perlustrazione dell'area indicata. Torna alla Locanda di Buscarron e parla con il proprietario." },
+    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_SEQ_03", "hash": "9EAF9E61AD572296", "target": "Buscarron ti spiega che i soldati garleani non erano mai riusciti a penetrare così a fondo nella foresta. I crescenti indizi suggeriscono che un traditore a Gridania stia aiutando l'avanzata imperiale." },
+    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_TODO_00", "hash": "BD18AC53C6673DB9", "target": "Esaminare le aree indicate" },
+    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_TODO_01", "hash": "CEEE3E3168D8761E", "target": "Fare rapporto a Buscarron" },
+    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_BUSCARRON_000_000", "hash": "4C67A6870750167D", "target": "Sono giunte notizie mentre eri via. Dei silfi sono stati visti nel bosco, ma lontano dalle loro terre. No, era un luogo vicino a <italic(1)>qui<italic(0)>─un luogo dove non si è mai visto un silfo." },
+    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_BUSCARRON_000_001", "hash": "57F1EBF4EAB22FC6", "target": "Qualcosa deve averli spinti ad avventurarsi fin qui. È più che probabile che tra loro ci sia l'anziano silfo scomparso. Ecco, ho segnato sulla tua mappa la zona dell'avvistamento. Va' a vedere se trovi qualcosa." },
+    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_BUSCARRON_000_020", "hash": "537E1454413F0B1E", "target": "Allora, hai trovato qualcosa nel bosco? A quale conclusione sei─<br>...Garleani!? In <italic(1)>questa<italic(0)> parte del Bosco dei Dodici!?" },
+    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_BUSCARRON_000_021", "hash": "D3306AF6EA337EA3", "target": "Mmm... Prima i silfi, ora i garleani, tutti nello stesso posto. Non può essere una coincidenza. Forse i garleani stanno seguendo i silfi? Li pedinano o magari li inseguono?" },
+    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_BUSCARRON_000_022", "hash": "C67E6F8BA977EDA4", "target": "Ma no, non così in profondità nella foresta. Le torri di guardia delle Sentinelle Cupe sono ovunque. Gli imperiali non avrebbero mai potuto superarle tutte senza farsi vedere. Come diavolo hanno─ A meno che..." },
+    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_BUSCARRON_000_023", "hash": "CAEA5817CA632068", "target": "A meno che qualcuno non li abbia guidati. Qualcuno che sapeva dove sorgono le torri e quando le Sentinelle Cupe montano la guardia. Un traditore gridaniano." },
+    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_POP_MESSAGE_000", "hash": "6B489686A1538CCF", "target": "Percepisci una presenza ostile!" }
   ]
 }

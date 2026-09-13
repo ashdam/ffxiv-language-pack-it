@@ -2,19 +2,19 @@
   "conversation": "quest/007/GaiUsa510_00762",
   "gameVersion": "2026.09.01.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa510_00762#TEXT_GAIUSA510_00762_SEQ_00", "hash": "83EC2FA37D2A3799", "target": "" },
-    { "gameKey": "quest/007/GaiUsa510_00762#TEXT_GAIUSA510_00762_SEQ_01", "hash": "0FA3E45DEDDA9258", "target": "" },
-    { "gameKey": "quest/007/GaiUsa510_00762#TEXT_GAIUSA510_00762_SEQ_02", "hash": "0AFADD8C0965EF19", "target": "" },
-    { "gameKey": "quest/007/GaiUsa510_00762#TEXT_GAIUSA510_00762_TODO_00", "hash": "86410FFB2B579AD9", "target": "" },
-    { "gameKey": "quest/007/GaiUsa510_00762#TEXT_GAIUSA510_00762_GISILBEHRT_000_000", "hash": "8D62AE6974BE5A6D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa510_00762#TEXT_GAIUSA510_00762_GISILBEHRT_000_001", "hash": "953B5BC37C3D35EB", "target": "" },
-    { "gameKey": "quest/007/GaiUsa510_00762#TEXT_GAIUSA510_00762_GISILBEHRT_000_002", "hash": "5C98F533E4C44852", "target": "" },
-    { "gameKey": "quest/007/GaiUsa510_00762#TEXT_GAIUSA510_00762_GISILBEHRT_000_003", "hash": "ED49908688C66F3C", "target": "" },
-    { "gameKey": "quest/007/GaiUsa510_00762#TEXT_GAIUSA510_00762_MINFILIA_000_010", "hash": "E1081D29C8A188FF", "target": "" },
-    { "gameKey": "quest/007/GaiUsa510_00762#TEXT_GAIUSA510_00762_MINFILIA_000_011", "hash": "6D47585224320905", "target": "" },
-    { "gameKey": "quest/007/GaiUsa510_00762#TEXT_GAIUSA510_00762_MINFILIA_000_012", "hash": "0FB824DE463FA7D5", "target": "" },
-    { "gameKey": "quest/007/GaiUsa510_00762#TEXT_GAIUSA510_00762_MINFILIA_000_013", "hash": "B2CE18077F9148DB", "target": "" },
-    { "gameKey": "quest/007/GaiUsa510_00762#TEXT_GAIUSA510_00762_MINFILIA_000_014", "hash": "6751B4FBFD0A8594", "target": "" },
-    { "gameKey": "quest/007/GaiUsa510_00762#TEXT_GAIUSA510_00762_MINFILIA_000_015", "hash": "CF2FD7C950570D17", "target": "" }
+    { "gameKey": "quest/007/GaiUsa510_00762#TEXT_GAIUSA510_00762_SEQ_00", "hash": "83EC2FA37D2A3799", "target": "Gisilbehrt ha un consiglio da darti sulle indagini." },
+    { "gameKey": "quest/007/GaiUsa510_00762#TEXT_GAIUSA510_00762_SEQ_01", "hash": "0FA3E45DEDDA9258", "target": "Per conquistare la fiducia dei profughi di Ala Mhigo, Gisilbehrt suggerisce di trovare un loro compatriota disposto a garantire per te. Torna a Baia del Vespro, nel Thanalan occidentale, e consulta Minfilia alle Sabbie del Risveglio." },
+    { "gameKey": "quest/007/GaiUsa510_00762#TEXT_GAIUSA510_00762_SEQ_02", "hash": "0AFADD8C0965EF19", "target": "Minfilia ti informa che tra gli Eredi c'è un nativo di Ala Mhigo. Forse questo porterà a una svolta nelle indagini." },
+    { "gameKey": "quest/007/GaiUsa510_00762#TEXT_GAIUSA510_00762_TODO_00", "hash": "86410FFB2B579AD9", "target": "Parlare con Minfilia" },
+    { "gameKey": "quest/007/GaiUsa510_00762#TEXT_GAIUSA510_00762_GISILBEHRT_000_000", "hash": "8D62AE6974BE5A6D", "target": "<if(gnum4,Dunque sei decisa,Dunque sei deciso)> a proseguire le indagini? Allora ho un consiglio da darti." },
+    { "gameKey": "quest/007/GaiUsa510_00762#TEXT_GAIUSA510_00762_GISILBEHRT_000_001", "hash": "953B5BC37C3D35EB", "target": "Come ho già detto, senza la fiducia dei profughi di Ala Mhigo non andrai lontano. Il modo migliore per conquistarla è fare in modo che un loro compatriota─qualcuno che rispettano─garantisca per te." },
+    { "gameKey": "quest/007/GaiUsa510_00762#TEXT_GAIUSA510_00762_GISILBEHRT_000_002", "hash": "5C98F533E4C44852", "target": "A Ul'dah è il denaro a parlare, ma i profughi di Ala Mhigo sono uniti da qualcosa di ben più forte, seppure meno tangibile: uno scopo comune. Naturalmente, quello scopo è liberare la loro patria dai garleani." },
+    { "gameKey": "quest/007/GaiUsa510_00762#TEXT_GAIUSA510_00762_GISILBEHRT_000_003", "hash": "ED49908688C66F3C", "target": "Gundobald fa parte della Resistenza di Ala Mhigo, quindi la scelta migliore sarebbe qualcuno della stessa organizzazione. Se conosci persone ben introdotte, potresti cominciare da loro." },
+    { "gameKey": "quest/007/GaiUsa510_00762#TEXT_GAIUSA510_00762_MINFILIA_000_010", "hash": "E1081D29C8A188FF", "target": "<if(gnum4,Bentornata,Bentornato)>, <split(<string(gstr1)>, ,1)>! Come procedono le indagini?" },
+    { "gameKey": "quest/007/GaiUsa510_00762#TEXT_GAIUSA510_00762_MINFILIA_000_011", "hash": "6D47585224320905", "target": "...Capisco. Dopo tutto ciò che hanno sofferto, non sorprende che i profughi di Ala Mhigo abbiano perso la fiducia nel prossimo." },
+    { "gameKey": "quest/007/GaiUsa510_00762#TEXT_GAIUSA510_00762_MINFILIA_000_012", "hash": "0FB824DE463FA7D5", "target": "La loro patria è stata sottratta loro e negli ultimi due decenni hanno dovuto vederla rimanere nelle grinfie del nemico." },
+    { "gameKey": "quest/007/GaiUsa510_00762#TEXT_GAIUSA510_00762_MINFILIA_000_013", "hash": "B2CE18077F9148DB", "target": "Come se non bastasse, nessuna delle tre città<-->stato dispone dei mezzi per accogliere tutti gli sfollati. Di conseguenza, molti profughi di Ala Mhigo vivono ai margini della società, vittime della povertà e della discriminazione." },
+    { "gameKey": "quest/007/GaiUsa510_00762#TEXT_GAIUSA510_00762_MINFILIA_000_014", "hash": "6751B4FBFD0A8594", "target": "\\<sospiro> Vorrei che si potesse fare di più per alleviare le loro sofferenze. Temo che solo la riconquista della patria potrebbe offrire una soluzione duratura." },
+    { "gameKey": "quest/007/GaiUsa510_00762#TEXT_GAIUSA510_00762_MINFILIA_000_015", "hash": "CF2FD7C950570D17", "target": "Ma affrontiamo un problema alla volta. Tornando alle tue indagini, si dà il caso che tra gli Eredi ci sia un nativo di Ala Mhigo. Sarò lieta di presentartelo." }
   ]
 }

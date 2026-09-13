@@ -2,17 +2,17 @@
   "conversation": "quest/010/GaiUsc902_01037",
   "gameVersion": "2026.09.01.0000.0000",
   "entries": [
-    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_SEQ_00", "hash": "7D9A6A130E70514F", "target": "" },
-    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_SEQ_01", "hash": "9160445FEB1D8A4C", "target": "" },
-    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_SEQ_02", "hash": "4A46BDA3831D3499", "target": "" },
-    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_TODO_00", "hash": "B73B97F87ABD7704", "target": "" },
-    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_KANRIKAN_000_000", "hash": "5614FBF5CD8C978A", "target": "" },
-    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_KANRIKAN_000_001", "hash": "38B8C1D725587083", "target": "" },
-    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_KANRIKAN_000_002", "hash": "91274E0599F75EC3", "target": "" },
-    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_KANRIKAN_000_003", "hash": "E992ED20F6488C7E", "target": "" },
-    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_KANRIKAN_000_005", "hash": "DB2E8D13316AF414", "target": "" },
-    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_CRACKEDFIST_000_010", "hash": "E4444B3CB9FCCE1A", "target": "" },
-    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_CRACKEDFIST_000_011", "hash": "0DE3B0AB6125392A", "target": "" },
-    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_CRACKEDFIST_000_012", "hash": "1D37FAE833C67A9D", "target": "" }
+    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_SEQ_00", "hash": "7D9A6A130E70514F", "target": "L'ufficiale alleato delle comunicazioni ha un incarico che soltanto un eroe dell'Alleanza può svolgere." },
+    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_SEQ_01", "hash": "9160445FEB1D8A4C", "target": "L'ufficiale alleato delle comunicazioni ti informa che la guarnigione dell'Alleanza a Camp Bluefog è demoralizzata e trarrebbe beneficio dalla tua visita. Raggiungi Camp Bluefog a Northern Thanalan e mettiti agli ordini del sergente Cracked Fist." },
+    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_SEQ_02", "hash": "4A46BDA3831D3499", "target": "Al tuo arrivo a Camp Bluefog, ti presenti al sergente Cracked Fist, che ti supplica subito di aiutare a risollevare il morale della guarnigione. I doveri di un eroe sono davvero molteplici." },
+    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_TODO_00", "hash": "B73B97F87ABD7704", "target": "Fare rapporto a Cracked Fist a Camp Bluefog" },
+    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_KANRIKAN_000_000", "hash": "5614FBF5CD8C978A", "target": "La seconda fase dell'operazione è in corso. I nostri fratelli e sorelle del Maelstrom tengono testa alle forze garleane su Vylbrand e nel Mare di Rhotano. Presto inizierà la terza fase e dovrete tornare sul campo." },
+    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_KANRIKAN_000_001", "hash": "38B8C1D725587083", "target": "Le Fiamme Immortali attaccheranno il Castrum Meridianum con una manovra diversiva. Mentre i garleani saranno impegnati in battaglia, dovrete infiltrarvi nella roccaforte e abbattere il campo magitek che circonda il Praetorium." },
+    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_KANRIKAN_000_002", "hash": "91274E0599F75EC3", "target": "Il punto di raccolta è all'ombra del Castrum Meridianum, a Northern Thanalan, ed è lì che dovrete recarvi. Lungo la strada, però, vi chiedo una breve sosta a Camp Bluefog, uno dei nostri avamposti principali nella zona." },
+    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_KANRIKAN_000_003", "hash": "E992ED20F6488C7E", "target": "Mi dicono che il morale della guarnigione sia basso. Vedere tra loro <if(gnum4,l'eroina,l'eroe)> di Capo Westwind potrebbe ridare coraggio alle truppe. Per il bene della nostra causa, vi prego di riaccendere il fuoco nei loro cuori." },
+    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_KANRIKAN_000_005", "hash": "DB2E8D13316AF414", "target": "Sulla strada per il Castrum Meridianum, vi prego di fermarvi brevemente a Camp Bluefog. Le truppe hanno il morale basso e vedere <if(gnum4,l'eroina,l'eroe)> di Capo Westwind ridarebbe loro coraggio." },
+    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_CRACKEDFIST_000_010", "hash": "E4444B3CB9FCCE1A", "target": "Ah, <head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>! La vostra presenza è più che gradita qui a Camp Bluefog!" },
+    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_CRACKEDFIST_000_011", "hash": "0DE3B0AB6125392A", "target": "Dal punto di vista logistico, siamo pronti a marciare sul Castrum Meridianum in qualsiasi momento. Purtroppo, sebbene i soldati siano qui con il corpo, le loro menti sono altrove." },
+    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_CRACKEDFIST_000_012", "hash": "1D37FAE833C67A9D", "target": "Il morale della guarnigione è cupo, tanto spaventa l'idea di partecipare a quella che potrebbe essere la battaglia più sanguinosa della storia. Ma con <if(gnum4,un'eroina,un eroe)> come voi tra le loro file potremmo riaccendere le braci che si spengono nei loro animi." }
   ]
 }

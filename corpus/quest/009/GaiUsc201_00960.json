@@ -2,19 +2,19 @@
   "conversation": "quest/009/GaiUsc201_00960",
   "gameVersion": "2026.09.01.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_SEQ_00", "hash": "B057A9FB838EDE19", "target": "" },
-    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_SEQ_01", "hash": "6F07EF6F55674048", "target": "" },
-    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_SEQ_02", "hash": "7EE36792B791C514", "target": "" },
-    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_SEQ_03", "hash": "C134C4F2F75A8420", "target": "" },
-    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_TODO_00", "hash": "42DB1F15CBDAD94E", "target": "" },
-    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_TODO_01", "hash": "2E99FBA01E049B7F", "target": "" },
-    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_CEANA_000_000", "hash": "AD2EE28FDED02860", "target": "" },
-    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_CEANA_000_001", "hash": "25F585921C9A3E61", "target": "" },
-    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_CEANA_000_002", "hash": "957BF95C6B15A599", "target": "" },
-    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_FIRKMANN_000_010", "hash": "4ACE4FAEDDA7F3A3", "target": "" },
-    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_QAHNEBB_000_020", "hash": "1A63626445155A23", "target": "" },
-    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_ALZAGAMILZA_000_030", "hash": "21A4C828CEB20635", "target": "" },
-    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_CEANA_000_040", "hash": "B577DC7CD438C9FA", "target": "" },
-    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_CEANA_000_041", "hash": "1CCFF93725A55752", "target": "" }
+    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_SEQ_00", "hash": "B057A9FB838EDE19", "target": "Ceana è insoddisfatta di come procede la sua ricerca." },
+    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_SEQ_01", "hash": "6F07EF6F55674048", "target": "Ceana è certa che l'area intorno al Pharos Sirius, nelle Isole di Umbra, sia ricca di cristalli corrotti. Non ha ancora potuto verificare la sua ipotesi, poiché al momento è vietato recarsi sulle isole. Non avendo il tuo fascino e la tua parlantina, ti chiede di interrogare al suo posto le Giubbe Gialle di Aleport e scoprire il motivo delle restrizioni." },
+    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_SEQ_02", "hash": "7EE36792B791C514", "target": "Le tre Giubbe Gialle che hai interrogato parlano di spiriti e non morti che infestano le Isole di Umbra. Riferisci queste inquietanti notizie a Ceana." },
+    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_SEQ_03", "hash": "C134C4F2F75A8420", "target": "La scoperta che i non morti sono la causa dei suoi problemi turba molto Ceana. Speriamo che ciò non la dissuada dall'aiutarti nella tua missione..." },
+    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_TODO_00", "hash": "42DB1F15CBDAD94E", "target": "Interrogare le Giubbe Gialle di Aleport" },
+    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_TODO_01", "hash": "2E99FBA01E049B7F", "target": "Fare rapporto a Ceana" },
+    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_CEANA_000_000", "hash": "AD2EE28FDED02860", "target": "Come ho scritto al professore nelle mie numerose missive, credo che l'area intorno al Pharos Sirius sia ricca di cristalli corrotti di eccezionale potenza." },
+    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_CEANA_000_001", "hash": "25F585921C9A3E61", "target": "Purtroppo non ho ancora potuto verificare la mia ipotesi, perché al momento l'accesso alle Isole di Umbra è vietato per motivi che ignoro. I miei tentativi di ottenere informazioni incontrano spesso fastidio e disprezzo. È piuttosto strano, visto che mi premuro sempre di spiegare nei minimi dettagli le mie motivazioni alle persone che interrogo." },
+    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_CEANA_000_002", "hash": "957BF95C6B15A599", "target": "Forse voi avrete più fortuna nel cavare qualche informazione a quelle Giubbe Gialle. Io ormai ci ho quasi rinunciato." },
+    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_FIRKMANN_000_010", "hash": "4ACE4FAEDDA7F3A3", "target": "Vuoi andare alle Isole di Umbra? Per tutti i diavoli, <if(gnum4,ragazza,ragazzo)>, hai bevuto troppo o hai perso il senno? Laggiù non c'è altro che morte, morte e ancora morte!" },
+    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_QAHNEBB_000_020", "hash": "1A63626445155A23", "target": "Ah, che spavento! Non sai che non si arriva di soppiatto alle spalle della gente in un momento simile, con tutte queste sciocche voci di spiriti e spettri che infestano le Isole di Umbra!? Sapere che sono assurdità non le rende meno terrificanti!" },
+    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_ALZAGAMILZA_000_030", "hash": "21A4C828CEB20635", "target": "Le Isole di Umbra? Che interesse hai per quel luogo dimenticato dagli dèi? Da quando abbiamo dovuto abbandonare il Pharos Sirius, le isole sono solo un cimitero per le navi che non riescono a superare la costa─e un purgatorio per le anime trascinate negli abissi con loro." },
+    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_CEANA_000_040", "hash": "B577DC7CD438C9FA", "target": "Ah, <split(<string(gstr1)>, ,1)>, siete di ritorno! Raccontatemi cos'avete scoperto." },
+    { "gameKey": "quest/009/GaiUsc201_00960#TEXT_GAIUSC201_00960_CEANA_000_041", "hash": "1CCFF93725A55752", "target": "D-D-Davvero!? Dite che le isole sono infestate dai non morti. Questo... questo è uno sviluppo molto, <italic(1)>molto<italic(0)> interessante. Scusatemi un momento, devo raccogliere le idee." }
   ]
 }
