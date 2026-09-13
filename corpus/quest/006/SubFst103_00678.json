@@ -2,17 +2,17 @@
   "conversation": "quest/006/SubFst103_00678",
   "gameVersion": "2026.09.01.0000.0000",
   "entries": [
-    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_SEQ_00", "hash": "A589E4FF133F1ABF", "target": "" },
-    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_SEQ_01", "hash": "BC4CE24049CA22EC", "target": "" },
-    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_SEQ_02", "hash": "D40755925A4F2195", "target": "" },
-    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_TODO_00", "hash": "10ED66743DEC4ADA", "target": "" },
-    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MIOUNNE_000_1", "hash": "2A89DF45FD4CD33C", "target": "" },
-    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MIOUNNE_000_2", "hash": "4C9A54BC681F4906", "target": "" },
-    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MIOUNNE_000_3", "hash": "124260318EC6A67D", "target": "" },
-    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MOMODI_000_10", "hash": "DB43670A1C9BA2E9", "target": "" },
-    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MOMODI_000_11", "hash": "02E6F328473351D5", "target": "" },
-    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MOMODI_000_12", "hash": "0AE33110261589C7", "target": "" },
-    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MOMODI_000_13", "hash": "95C7EA765FEE424D", "target": "" },
-    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MOMODI_000_14", "hash": "15A82D47E64F4E09", "target": "" }
+    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_SEQ_00", "hash": "A589E4FF133F1ABF", "target": "Miounne ha informazioni su un nuovo incarico." },
+    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_SEQ_01", "hash": "BC4CE24049CA22EC", "target": "Secondo Miounne, la Gilda degli Avventurieri di Ul'dah sta reclutando persone per un incarico ancora segreto. Puoi saperne di più parlando con Momodi, proprietaria del Quicksand." },
+    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_SEQ_02", "hash": "D40755925A4F2195", "target": "Hai espresso a Momodi il tuo interesse per l'incarico. Avvisala quando vorrai conoscere i dettagli." },
+    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_TODO_00", "hash": "10ED66743DEC4ADA", "target": "Parlare con Momodi al Quicksand di Ul'dah" },
+    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MIOUNNE_000_1", "hash": "2A89DF45FD4CD33C", "target": "Quindi non ti dispiace fare un piccolo viaggio? Splendido!" },
+    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MIOUNNE_000_2", "hash": "4C9A54BC681F4906", "target": "Come dicevo, la richiesta viene dalla Gilda degli Avventurieri di Ul'dah. Quando arriverai, cerca Momodi, la proprietaria del Quicksand. Considerala la mia controparte nel sultanato." },
+    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MIOUNNE_000_3", "hash": "124260318EC6A67D", "target": "È probabile che ti mandi in mezzo al pericolo, ma sono certa che ne uscirai senza un graffio. Ora va', <split(<string(gstr1)>, ,1)>, e buona fortuna!" },
+    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MOMODI_000_10", "hash": "DB43670A1C9BA2E9", "target": "Ti do il benvenuto al Quicksand. Al momento sono un po' impegnata, quindi se non ti dispiace accomodati─" },
+    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MOMODI_000_11", "hash": "02E6F328473351D5", "target": "Oh, sei tu, <split(<string(gstr1)>, ,1)>! E io che ripetevo la solita vecchia frase!" },
+    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MOMODI_000_12", "hash": "0AE33110261589C7", "target": "Dalla tua espressione determinata, immagino che tu non sia qui per una birra. Ti chiami per caso <string(gstr1)>?" },
+    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MOMODI_000_13", "hash": "95C7EA765FEE424D", "target": "Miounne mi ha avvertita del tuo arrivo. Ci ha anche tenuto a definirti <if(gnum4,l'avventuriera,l'avventuriero)> del momento. È un grande elogio, detto da lei." },
+    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MOMODI_000_14", "hash": "15A82D47E64F4E09", "target": "Ma non hai fatto tanta strada per ascoltare le mie chiacchiere. Vorrai certamente cominciare, quindi parliamo d'affari, d'accordo?" }
   ]
 }

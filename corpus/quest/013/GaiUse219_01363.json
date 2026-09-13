@@ -2,15 +2,15 @@
   "conversation": "quest/013/GaiUse219_01363",
   "gameVersion": "2026.09.01.0000.0000",
   "entries": [
-    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_SEQ_00", "hash": "281C1891E4504B67", "target": "" },
-    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_SEQ_01", "hash": "163C4692C83B0E24", "target": "" },
-    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_SEQ_02", "hash": "51E233FE91D4963F", "target": "" },
-    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_TODO_00", "hash": "47AEB8E9E1000491", "target": "" },
-    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_YUGIRI_000_000", "hash": "63242D7B9E3194AA", "target": "" },
-    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_YUGIRI_000_001", "hash": "AEC891E09C56FBD6", "target": "" },
-    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_YUGIRI_000_002", "hash": "F86D0DD7D2EE8359", "target": "" },
-    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_YUGIRI_000_010", "hash": "D48F9491FD22037F", "target": "" },
-    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_UNDERGROUNDA01362_000_020", "hash": "B77997F90E5683C2", "target": "" },
-    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_UNDERGROUNDB01362_000_030", "hash": "C790FCEBE78F34D2", "target": "" }
+    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_SEQ_00", "hash": "281C1891E4504B67", "target": "Yugiri sembra traboccare di gratitudine." },
+    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_SEQ_01", "hash": "163C4692C83B0E24", "target": "Prima di separarsi da te per studiare le tecniche di combattimento della confraternita segreta, la sempre cortese Yugiri ti chiede di riferire la sua gratitudine a Minfilia. Non avendo altro da fare, torna alle Pietre Sorgenti al Pedaggio del Redivivo e trasmetti i suoi sentimenti all'Antecedente." },
+    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_SEQ_02", "hash": "51E233FE91D4963F", "target": "Arrivi alle Pietre Sorgenti con l'intento di riferire le parole di gratitudine di Yugiri, ma prima che tu possa farlo Minfilia comincia a esporre i propri pensieri sugli eventi recenti. In base al fenomeno osservato negli istanti precedenti all'evocazione di Leviathan, l'Antecedente è convinta che la vera natura dell'Eco e il segreto per sconfiggere gli asciani siano ormai a portata di mano. Proprio mentre decide di agire, tuttavia, Urianger irrompe nello studio con notizie terribili: l'Isola di Val, dimora degli Studenti di Baldesion, è stata distrutta da un incantesimo dalla potenza simile a Ultima..." },
+    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_TODO_00", "hash": "47AEB8E9E1000491", "target": "Parlare con Minfilia alle Pietre Sorgenti" },
+    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_YUGIRI_000_000", "hash": "63242D7B9E3194AA", "target": "Sono accadute moltissime cose da quando vidi Eorzea per la prima volta dal ponte del galeone. Basti dire che non immaginavo di essere invitata a prendere parte alla vostra nobile lotta." },
+    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_YUGIRI_000_001", "hash": "AEC891E09C56FBD6", "target": "Ma perdonatemi, vi ho fatto perdere fin troppo tempo. Senza dubbio avete faccende urgenti di cui occuparvi. Sappiate che non ho più bisogno di una scorta in queste terre." },
+    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_YUGIRI_000_002", "hash": "F86D0DD7D2EE8359", "target": "Quando incontrerete di nuovo lady Minfilia, vi prego di trasmetterle la mia più umile gratitudine. Vorrei poterlo fare di persona, ma devo mantenere la promessa fatta all'Ammiraglio. Fino al nostro prossimo incontro, <if(gnum4,Guerriera,Guerriero)> della Luce." },
+    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_YUGIRI_000_010", "hash": "D48F9491FD22037F", "target": "Quando incontrerete di nuovo lady Minfilia, vi prego di trasmetterle la mia più umile gratitudine. Fino al nostro prossimo incontro, <if(gnum4,Guerriera,Guerriero)> della Luce." },
+    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_UNDERGROUNDA01362_000_020", "hash": "B77997F90E5683C2", "target": "Accidenti, sono passati <italic(1)>secoli<italic(0)> da quando Thancred ha lasciato le Sorelle. Cosa non darei per tornare a fare qualche scorribanda con quel vecchio furfante, proprio come ai vecchi tempi..." },
+    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_UNDERGROUNDB01362_000_030", "hash": "C790FCEBE78F34D2", "target": "Un'arte marziale dell'Estremo Oriente, eh? Devo dire che ha proprio destato la mia curiosità!" }
   ]
 }

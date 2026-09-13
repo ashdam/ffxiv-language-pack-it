@@ -2,19 +2,19 @@
   "conversation": "quest/009/GaiUsc104_00955",
   "gameVersion": "2026.09.01.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_SEQ_00", "hash": "058D71686C546C96", "target": "" },
-    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_SEQ_01", "hash": "4638CF536B976810", "target": "" },
-    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_SEQ_02", "hash": "8F25FA6CA46B76AE", "target": "" },
-    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_TODO_00", "hash": "C409C8BD504BE38C", "target": "" },
-    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_SYSTEM_100_000", "hash": "0658F18159BB4DDF", "target": "" },
-    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_LAMBERTEINT_000_000", "hash": "7746E596F9D16466", "target": "" },
-    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_LAMBERTEINT_000_001", "hash": "1D8882C8D982314A", "target": "" },
-    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_LAMBERTEINT_000_002", "hash": "D231B6E7D0B328B8", "target": "" },
-    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_LAMBERTEINT_000_003", "hash": "DF7A86D07FF91C0C", "target": "" },
-    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_LAMBERTEINT_000_004", "hash": "C50014E8D0F07ED7", "target": "" },
-    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_LAMBERTEINT_000_005", "hash": "2CA7F9E41BA029E2", "target": "" },
-    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_HAHASAKO_000_010", "hash": "36C8024DD7CF1E29", "target": "" },
-    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_HAHASAKO_000_020", "hash": "61CDB56FF4D1234E", "target": "" },
-    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_HAHASAKO_000_021", "hash": "146DEC67ED7CB57D", "target": "" }
+    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_SEQ_00", "hash": "058D71686C546C96", "target": "Il professor Lamberteint sta per mostrarti qualcosa che non dimenticherai mai." },
+    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_SEQ_01", "hash": "4638CF536B976810", "target": "Il professor Lamberteint è lieto di incontrare una delle poche persone interessate ai cristalli corrotti, ma dubita che tu sappia maneggiare materiali tanto pericolosi. Per fortuna possiede un contenitore protetto creato proprio per simili occasioni ed è disposto a prestartelo, malgrado le tue evidenti lacune. Ora che disponi dell'attrezzatura necessaria, recati a Ponte Alto e presentati a Hahasako, uno dei più devoti allievi del professore." },
+    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_SEQ_02", "hash": "8F25FA6CA46B76AE", "target": "Il fastidio di Hahasako si trasforma in gioia quando scopre che il professore ti ha mandato da lui. Interpretando la decisione del maestro come un tacito riconoscimento della propria competenza, Hahasako cerca di ricomporsi per poterti aiutare." },
+    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_TODO_00", "hash": "C409C8BD504BE38C", "target": "Consegnare il vaso protetto a Hahasako" },
+    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_SYSTEM_100_000", "hash": "0658F18159BB4DDF", "target": "Per accettare questa missione, devi abbandonare l'attuale missione dello scenario principale. Apri la voce corrispondente nel journal o nella duty list e seleziona «Abandon»." },
+    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_LAMBERTEINT_000_000", "hash": "7746E596F9D16466", "target": "Ahhh, quanto è raro trovare altri intellettuali in questa regione. Ancora più raro è trovarne uno capace di comprendere la natura dei cristalli corrotti." },
+    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_LAMBERTEINT_000_001", "hash": "1D8882C8D982314A", "target": "A pensarci bene, ce n'era un altro─un eremita a cui la chiesa aveva dato rifugio. Un tipo curioso. Asociale, all'apparenza un po' ottuso, ma dotato di una sorprendente affinità per le discipline scientifiche..." },
+    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_LAMBERTEINT_000_002", "hash": "D231B6E7D0B328B8", "target": "Ma veniamo al dunque─avete detto che non volete limitarvi a osservare sul campo, bensì <italic(1)>raccogliere<italic(0)> un cristallo corrotto?" },
+    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_LAMBERTEINT_000_003", "hash": "DF7A86D07FF91C0C", "target": "Santo cielo, <if(gnum4,donna,uomo)>! Prendete almeno le dovute precauzioni, o l'esposizione alle sue energie nocive vi farà del male! Comincio a dubitare che abbiate le qualifiche necessarie per maneggiare materiali tanto pericolosi..." },
+    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_LAMBERTEINT_000_004", "hash": "C50014E8D0F07ED7", "target": "Eppure, la vostra ignoranza ha un che di adorabile. Per vostra fortuna, possiedo proprio ciò che serve a evitare questi pericoli. Basta riporre il cristallo in questo vaso protetto per ripararsi dai suoi effetti nocivi. Certo, finché non lo metterete nel vaso, le sue energie continueranno a colpirvi..." },
+    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_LAMBERTEINT_000_005", "hash": "2CA7F9E41BA029E2", "target": "Be', forse vi spingerà a fare in fretta. In ogni caso, portate il vaso a Hahasako, un mio allievo che sorveglia il flusso dell'etere a Ponte Alto. Spiegategli la vostra missione e vi insegnerà tutti i segreti della raccolta dei cristalli." },
+    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_HAHASAKO_000_010", "hash": "36C8024DD7CF1E29", "target": "Quante volte dovrò ancora spiegarlo!? Non sto pensando di suicidarmi, imbecille─ho scelto questo punto preciso per effettuare delle misurazioni scientifiche!" },
+    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_HAHASAKO_000_020", "hash": "61CDB56FF4D1234E", "target": "Cos'abbiamo qui... un contenitore protetto!? Ma questo è opera del professor Lamberteint! Canaglia, adesso chiamo le─ Oh, dite che ve l'ha prestato lui in persona..." },
+    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_HAHASAKO_000_021", "hash": "146DEC67ED7CB57D", "target": "Allora siete qui per suo ordine... il che significa che mi ritiene abbastanza esperto da approfondire le sue spiegazioni! Finalmente ricevo il riconoscimento che merito!" }
   ]
 }

@@ -2,15 +2,15 @@
   "conversation": "quest/038/XxaUse104_03875",
   "gameVersion": "2026.09.01.0000.0000",
   "entries": [
-    { "gameKey": "quest/038/XxaUse104_03875#TEXT_XXAUSE104_03875_SEQ_00", "hash": "FF5A8B5C488DA54F", "target": "" },
-    { "gameKey": "quest/038/XxaUse104_03875#TEXT_XXAUSE104_03875_SEQ_01", "hash": "19F2A3525A970E5C", "target": "" },
-    { "gameKey": "quest/038/XxaUse104_03875#TEXT_XXAUSE104_03875_SEQ_02", "hash": "73ADEA3317ED7FDA", "target": "" },
-    { "gameKey": "quest/038/XxaUse104_03875#TEXT_XXAUSE104_03875_TODO_00", "hash": "C4F9CBF915A461DD", "target": "" },
-    { "gameKey": "quest/038/XxaUse104_03875#TEXT_XXAUSE104_03875_SYSTEM_100_000", "hash": "CC18C19D39A81566", "target": "" },
-    { "gameKey": "quest/038/XxaUse104_03875#TEXT_XXAUSE104_03875_ALPHINAUD_100_001", "hash": "523FC15101C5E0E7", "target": "" },
-    { "gameKey": "quest/038/XxaUse104_03875#TEXT_XXAUSE104_03875_ALPHINAUD_100_002", "hash": "15DC6094E569BF1E", "target": "" },
-    { "gameKey": "quest/038/XxaUse104_03875#TEXT_XXAUSE104_03875_FLHAMINN_000_000", "hash": "0B9EF892C85C1DDC", "target": "" },
-    { "gameKey": "quest/038/XxaUse104_03875#TEXT_XXAUSE104_03875_FLHAMINN_000_001", "hash": "5880B4B80E1CCBED", "target": "" },
-    { "gameKey": "quest/038/XxaUse104_03875#TEXT_XXAUSE104_03875_ALPHINAUD_000_002", "hash": "78D92B59300F1127", "target": "" }
+    { "gameKey": "quest/038/XxaUse104_03875#TEXT_XXAUSE104_03875_SEQ_00", "hash": "FF5A8B5C488DA54F", "target": "F'lhaminn ha fatto pace con il passato ed è pronta a ricongiungersi con la figlia adottiva." },
+    { "gameKey": "quest/038/XxaUse104_03875#TEXT_XXAUSE104_03875_SEQ_01", "hash": "19F2A3525A970E5C", "target": "Dopo cinque lunghi anni, è giunto il momento per F'lhaminn di ricongiungersi con la figlia Minfilia. Decidi di accompagnare la cantatrice alla Baia del Vespro e assistere a quella che si preannuncia una riunione carica di emozioni." },
+    { "gameKey": "quest/038/XxaUse104_03875#TEXT_XXAUSE104_03875_SEQ_02", "hash": "73ADEA3317ED7FDA", "target": "Quando vede Alphinaud accompagnare F'lhaminn nello studio, Minfilia corre ad abbracciare la madre perduta da tempo, felicissima di scoprire che le notizie sulla sua morte erano in effetti esagerate. Durante il commovente ricongiungimento, Minfilia spiega che suo padre era un membro della Resistenza di Ala Mhigo e che, dopo la sua morte in un tragico incidente, F'lhaminn l'aveva cresciuta come una figlia. Dopo aver lodato Minfilia per le vittorie sull'Impero, F'lhaminn afferma che gli Eredi devono lasciarsi Ul'dah alle spalle per poter continuare la propria opera. Accettando finalmente la proposta di Alphinaud, una rinvigorita Minfilia dichiara che l'ordine lascerà la Baia del Vespro per stabilire una nuova sede al Pedaggio del Redivivo." },
+    { "gameKey": "quest/038/XxaUse104_03875#TEXT_XXAUSE104_03875_TODO_00", "hash": "C4F9CBF915A461DD", "target": "Fare rapporto a Minfilia alle Sabbie del Risveglio" },
+    { "gameKey": "quest/038/XxaUse104_03875#TEXT_XXAUSE104_03875_SYSTEM_100_000", "hash": "CC18C19D39A81566", "target": "Per accettare questa missione, devi abbandonare l'attuale missione dello scenario principale. Apri la voce corrispondente nel journal o nella duty list e seleziona «Abandon»." },
+    { "gameKey": "quest/038/XxaUse104_03875#TEXT_XXAUSE104_03875_ALPHINAUD_100_001", "hash": "523FC15101C5E0E7", "target": "Nonostante gli anni trascorsi girovagando, sembra che lady F'lhaminn abbia seguito da vicino le vicende del nostro ordine. Con sorprendente attenzione, in realtà. Basti dire che è una donna piena di risorse." },
+    { "gameKey": "quest/038/XxaUse104_03875#TEXT_XXAUSE104_03875_ALPHINAUD_100_002", "hash": "15DC6094E569BF1E", "target": "Non si sviluppano simili capacità senza impegno─o senza motivo." },
+    { "gameKey": "quest/038/XxaUse104_03875#TEXT_XXAUSE104_03875_FLHAMINN_000_000", "hash": "0B9EF892C85C1DDC", "target": "Avete detto che mia figlia ci aspetta alla Baia del Vespro, vero?" },
+    { "gameKey": "quest/038/XxaUse104_03875#TEXT_XXAUSE104_03875_FLHAMINN_000_001", "hash": "5880B4B80E1CCBED", "target": "L'ho fatta aspettare fin troppo. Partiamo con il prossimo traghetto. Potrò finire di preparare il profumo durante il viaggio." },
+    { "gameKey": "quest/038/XxaUse104_03875#TEXT_XXAUSE104_03875_ALPHINAUD_000_002", "hash": "78D92B59300F1127", "target": "D'accordo. Venite con me─sarà un piacere accompagnarvi alle Sabbie del Risveglio." }
   ]
 }

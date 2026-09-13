@@ -40,7 +40,7 @@
     { "gameKey": "quest/005/ManFst405_00520#TEXT_MANFST405_00520_ALPHINAUD_000_126", "hash": "F73341F14C6127CA", "target": "Discuteremo la prossima mossa al ritorno di Y'shtola." },
     { "gameKey": "quest/005/ManFst405_00520#TEXT_MANFST405_00520_ALPHINAUD_000_127", "hash": "B9B5F489A2326462", "target": "Per ora, direi di riposare." },
     { "gameKey": "quest/005/ManFst405_00520#TEXT_MANFST405_00520_100010_HYDAELYN", "hash": "2F3F9299B4D49046", "target": "Ascolta... Senti... Pensa..." },
-    { "gameKey": "quest/005/ManFst405_00520#TEXT_MANFST405_00520_200020_HYDAELYN", "hash": "31C43EC08DA53D3A", "target": "<if(gnum4,Portatrice,Portatore)> di Luce..." },
+    { "gameKey": "quest/005/ManFst405_00520#TEXT_MANFST405_00520_200020_HYDAELYN", "hash": "31C43EC08DA53D3A", "target": "<if(gnum4,Portatrice,Portatore)> della Luce..." },
     { "gameKey": "quest/005/ManFst405_00520#TEXT_MANFST405_00520_200030_HYDAELYN", "hash": "8CD5F4B60A1FBBFF", "target": "Anima valorosa che raccogli i Cristalli... la tua luce arde vivida!" },
     { "gameKey": "quest/005/ManFst405_00520#TEXT_MANFST405_00520_200040_HYDAELYN", "hash": "44ECEAB6F8BE63A4", "target": "Io sono Hydaelyn. In me, tutto è uno." },
     { "gameKey": "quest/005/ManFst405_00520#TEXT_MANFST405_00520_200050_HYDAELYN", "hash": "51D2C0C3116C2871", "target": "Prestami ora ascolto, poiché le Tenebre cominciano a dilagare." },

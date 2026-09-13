@@ -2,16 +2,16 @@
   "conversation": "quest/007/GaiUsa703_00776",
   "gameVersion": "2026.09.01.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa703_00776#TEXT_GAIUSA703_00776_SEQ_00", "hash": "4D9A924A3CA4CF55", "target": "" },
-    { "gameKey": "quest/007/GaiUsa703_00776#TEXT_GAIUSA703_00776_SEQ_01", "hash": "935467DFA6CAB183", "target": "" },
-    { "gameKey": "quest/007/GaiUsa703_00776#TEXT_GAIUSA703_00776_SEQ_02", "hash": "6C494877EAAAAB29", "target": "" },
-    { "gameKey": "quest/007/GaiUsa703_00776#TEXT_GAIUSA703_00776_TODO_00", "hash": "97ED0195AEA46A33", "target": "" },
-    { "gameKey": "quest/007/GaiUsa703_00776#TEXT_GAIUSA703_00776_MEFFRID_000_000", "hash": "AD4182357B12BD78", "target": "" },
-    { "gameKey": "quest/007/GaiUsa703_00776#TEXT_GAIUSA703_00776_MEFFRID_000_001", "hash": "42C1496672C9B45A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa703_00776#TEXT_GAIUSA703_00776_MEFFRID_000_002", "hash": "2EC6BA687EC04003", "target": "" },
-    { "gameKey": "quest/007/GaiUsa703_00776#TEXT_GAIUSA703_00776_MEFFRID_000_003", "hash": "215372F9D4FA0619", "target": "" },
-    { "gameKey": "quest/007/GaiUsa703_00776#TEXT_GAIUSA703_00776_GUNDOBALD_000_010", "hash": "D00E1C2309437278", "target": "" },
-    { "gameKey": "quest/007/GaiUsa703_00776#TEXT_GAIUSA703_00776_GUNDOBALD_000_020", "hash": "D80ADD49E93D6D55", "target": "" },
-    { "gameKey": "quest/007/GaiUsa703_00776#TEXT_GAIUSA703_00776_GUNDOBALD_000_021", "hash": "C438EEB7760ABC13", "target": "" }
+    { "gameKey": "quest/007/GaiUsa703_00776#TEXT_GAIUSA703_00776_SEQ_00", "hash": "4D9A924A3CA4CF55", "target": "Meffrid desidera ripagarti per la tua gentilezza." },
+    { "gameKey": "quest/007/GaiUsa703_00776#TEXT_GAIUSA703_00776_SEQ_01", "hash": "935467DFA6CAB183", "target": "Grato per i tuoi numerosi gesti di gentilezza, Meffrid è felice di raccomandarti ai suoi compagni della Resistenza di Ala Mhigo. Ti consegna una lettera di presentazione e ti chiede di mostrarla a Gundobald, a Little Ala Mhigo." },
+    { "gameKey": "quest/007/GaiUsa703_00776#TEXT_GAIUSA703_00776_SEQ_02", "hash": "6C494877EAAAAB29", "target": "Grazie alla lettera di Meffrid, Gundobald mette da parte la diffidenza e ti offre la sua amicizia. Finalmente potresti scoprire qualcosa che ti conduca a Lahabrea." },
+    { "gameKey": "quest/007/GaiUsa703_00776#TEXT_GAIUSA703_00776_TODO_00", "hash": "97ED0195AEA46A33", "target": "Mostrare la raccomandazione di Meffrid a Gundobald, a Little Ala Mhigo" },
+    { "gameKey": "quest/007/GaiUsa703_00776#TEXT_GAIUSA703_00776_MEFFRID_000_000", "hash": "AD4182357B12BD78", "target": "Ora che la situazione si è fatta relativamente tranquilla, mi pare di ricordare che volevi qualcosa da me." },
+    { "gameKey": "quest/007/GaiUsa703_00776#TEXT_GAIUSA703_00776_MEFFRID_000_001", "hash": "42C1496672C9B45A", "target": "Hai dimostrato vera amicizia al mio popolo. Chiedimi qualsiasi cosa e sarà tua, purché io possa dartela." },
+    { "gameKey": "quest/007/GaiUsa703_00776#TEXT_GAIUSA703_00776_MEFFRID_000_002", "hash": "2EC6BA687EC04003", "target": "La collaborazione degli abitanti di Little Ala Mhigo? Tutto qui? Lungi da me mettere in dubbio i tuoi desideri, naturalmente... Molto bene, ti darò una lettera da mostrare a Gundobald." },
+    { "gameKey": "quest/007/GaiUsa703_00776#TEXT_GAIUSA703_00776_MEFFRID_000_003", "hash": "215372F9D4FA0619", "target": "Il vecchio orso fu il mio mentore quando entrai nella Resistenza. Intimorisce chi non lo conosce, ma si prende cura dei suoi. Non dubito che farà tutto ciò che è in suo potere per aiutarti." },
+    { "gameKey": "quest/007/GaiUsa703_00776#TEXT_GAIUSA703_00776_GUNDOBALD_000_010", "hash": "D00E1C2309437278", "target": "Perché sei di nuovo qui? Qui non sei <if(gnum4,benvenuta,benvenuto)>. Credevo di essere stato chiaro." },
+    { "gameKey": "quest/007/GaiUsa703_00776#TEXT_GAIUSA703_00776_GUNDOBALD_000_020", "hash": "D80ADD49E93D6D55", "target": "Tu... hai parlato con Meffrid? Non ricevevo sue notizie da tanto tempo, temevo che fosse morto... Siano lodati i Dodici..." },
+    { "gameKey": "quest/007/GaiUsa703_00776#TEXT_GAIUSA703_00776_GUNDOBALD_000_021", "hash": "C438EEB7760ABC13", "target": "Chiunque tu sia, Meffrid ti considera dei suoi, e chi è amico di Meffrid è anche amico mio. Conosco l'uomo mascherato che cerchi e ti dirò ciò che so." }
   ]
 }

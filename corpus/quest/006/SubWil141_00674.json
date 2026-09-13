@@ -2,19 +2,19 @@
   "conversation": "quest/006/SubWil141_00674",
   "gameVersion": "2026.09.01.0000.0000",
   "entries": [
-    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_SEQ_00", "hash": "D7530DD0FD63291B", "target": "" },
-    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_SEQ_01", "hash": "8FA65A544D639D0B", "target": "" },
-    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_SEQ_02", "hash": "5EB84F2D25E445F7", "target": "" },
-    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_TODO_00", "hash": "D94F07B732525993", "target": "" },
-    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_FLAME_000_1", "hash": "5747D74012B12770", "target": "" },
-    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_FLAME_000_2", "hash": "0961A1D92A426504", "target": "" },
-    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_FLAME_000_3", "hash": "3D49173D68054562", "target": "" },
-    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_FLAME_000_10", "hash": "A1FD0994EAA0C353", "target": "" },
-    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_BADERON_000_20", "hash": "8D448E09713E7FD2", "target": "" },
-    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_BADERON_000_21", "hash": "6AA6FC0AA391BCFB", "target": "" },
-    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_BADERON_000_22", "hash": "0163E2AB09D33A20", "target": "" },
-    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_BADERON_000_23", "hash": "3B2154F0A2A55EFB", "target": "" },
-    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_BADERON_000_24", "hash": "70CF1BFA225D98F6", "target": "" },
-    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_BADERON_000_25", "hash": "550EABF2974EEC24", "target": "" }
+    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_SEQ_00", "hash": "D7530DD0FD63291B", "target": "Bartholomew ha alcune informazioni che potrebbero interessarti." },
+    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_SEQ_01", "hash": "8FA65A544D639D0B", "target": "Baderon, il proprietario della Drowning Wench a Limsa Lominsa, ha bisogno di un avventuriero capace. Parla con lui per saperne di più." },
+    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_SEQ_02", "hash": "5EB84F2D25E445F7", "target": "Baderon ti avverte che l'incarico comporterà notevoli pericoli. Se hai deciso di accettarlo, parla di nuovo con lui per ricevere i dettagli." },
+    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_TODO_00", "hash": "D94F07B732525993", "target": "Parlare con Baderon alla Drowning Wench di Limsa Lominsa" },
+    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_FLAME_000_1", "hash": "5747D74012B12770", "target": "Ah, <if(gnum4,mia signora emissaria,mio signore emissario)>. Confido che il vostro soggiorno nel sultanato sia stato piacevole. Se non vi dispiace, avete forse intenzione di visitare Limsa Lominsa nel prossimo futuro? In tal caso, ho alcune informazioni che potrebbero interessarvi." },
+    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_FLAME_000_2", "hash": "0961A1D92A426504", "target": "Una volta accompagnai il Generale delle Fiamme in visita ufficiale alla città<-->stato costiera. In quell'occasione conobbi Baderon, il proprietario della Drowning Wench. Ebbene, mi ha appena fatto sapere di avere un incarico per un avventuriero capace." },
+    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_FLAME_000_3", "hash": "3D49173D68054562", "target": "Non conosco nessuno con credenziali migliori delle vostre. Baderon sarebbe senz'altro lieto se gli offriste i vostri servigi." },
+    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_FLAME_000_10", "hash": "A1FD0994EAA0C353", "target": "Baderon ha bisogno di una persona capace e non conosco nessuno con credenziali migliori delle vostre. Se non avete altri impegni, potreste considerare di offrirgli i vostri servigi." },
+    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_BADERON_000_20", "hash": "8D448E09713E7FD2", "target": "<if(gnum4,Benvenuta alla Drowning Wench! Siediti dove vuoi\\, ragazza,Benvenuto alla Drowning Wench! Siediti dove vuoi\\, compare)>. Arrivo tra un─" },
+    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_BADERON_000_21", "hash": "6AA6FC0AA391BCFB", "target": "Guarda un po', se non è l'inimitabile <string(gstr1)>!" },
+    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_BADERON_000_22", "hash": "0163E2AB09D33A20", "target": "Mi avevano detto che si sarebbe <if(gnum4,presentata un'avventuriera,presentato un avventuriero)> <italic(1)>illustre<italic(0)>. E chi l'avrebbe mai detto che fossi proprio tu!?" },
+    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_BADERON_000_23", "hash": "3B2154F0A2A55EFB", "target": "Mm? Sì, sono proprio Baderon. Chi lo chiede?" },
+    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_BADERON_000_24", "hash": "70CF1BFA225D98F6", "target": "Ah, hai sentito che ho un incarico per gente capace? Be', hai proprio ragione!" },
+    { "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_BADERON_000_25", "hash": "550EABF2974EEC24", "target": "Però è meglio che tu sappia una cosa: non è un incarico per i deboli di cuore. Potrebbe diventare davvero maledettamente pericoloso. Se ti interessa ancora, dimmelo e ti spiegherò i dettagli." }
   ]
 }

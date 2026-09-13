@@ -2,17 +2,17 @@
   "conversation": "quest/008/GaiUsb315_00856",
   "gameVersion": "2026.09.01.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb315_00856#TEXT_GAIUSB315_00856_SEQ_00", "hash": "7961D01E2B02C23D", "target": "" },
-    { "gameKey": "quest/008/GaiUsb315_00856#TEXT_GAIUSB315_00856_SEQ_01", "hash": "AF7488F0B47AD8DB", "target": "" },
-    { "gameKey": "quest/008/GaiUsb315_00856#TEXT_GAIUSB315_00856_SEQ_02", "hash": "C8F063DB1C4A0864", "target": "" },
-    { "gameKey": "quest/008/GaiUsb315_00856#TEXT_GAIUSB315_00856_SEQ_03", "hash": "4799D78B20124142", "target": "" },
-    { "gameKey": "quest/008/GaiUsb315_00856#TEXT_GAIUSB315_00856_TODO_00", "hash": "A895C09BEFA214F7", "target": "" },
-    { "gameKey": "quest/008/GaiUsb315_00856#TEXT_GAIUSB315_00856_TODO_01", "hash": "93EF0DCB9E6482E7", "target": "" },
-    { "gameKey": "quest/008/GaiUsb315_00856#TEXT_GAIUSB315_00856_WHEISKAET_000_000", "hash": "684F0B95883D9671", "target": "" },
-    { "gameKey": "quest/008/GaiUsb315_00856#TEXT_GAIUSB315_00856_WHEISKAET_000_001", "hash": "8B04A19B3757DF6B", "target": "" },
-    { "gameKey": "quest/008/GaiUsb315_00856#TEXT_GAIUSB315_00856_WHEISKAET_000_002", "hash": "F87C9C98C76E392B", "target": "" },
-    { "gameKey": "quest/008/GaiUsb315_00856#TEXT_GAIUSB315_00856_WHEISKAET_000_003", "hash": "DBA0E7D612415D62", "target": "" },
-    { "gameKey": "quest/008/GaiUsb315_00856#TEXT_GAIUSB315_00856_RIOL_000_020", "hash": "D55F8C7FB72C8ACD", "target": "" },
-    { "gameKey": "quest/008/GaiUsb315_00856#TEXT_GAIUSB315_00856_RIOL_000_021", "hash": "CAB8A8A82D25F21E", "target": "" }
+    { "gameKey": "quest/008/GaiUsb315_00856#TEXT_GAIUSB315_00856_SEQ_00", "hash": "7961D01E2B02C23D", "target": "Stavolta Wheiskaet intende davvero spiegarti come affrontare Titan." },
+    { "gameKey": "quest/008/GaiUsb315_00856#TEXT_GAIUSB315_00856_SEQ_01", "hash": "AF7488F0B47AD8DB", "target": "Per affrontare Titan, Wheiskaet ti manda al Lago di Bronzo, in Upper La Noscea, dove dovrai incontrare un uomo di nome Riol. Poiché le sue conoscenze sono un segreto ben custodito, non si mostrerà finché non avrai dato il segnale corretto. Fischia forte nei tre punti indicati sulla mappa." },
+    { "gameKey": "quest/008/GaiUsb315_00856#TEXT_GAIUSB315_00856_SEQ_02", "hash": "C8F063DB1C4A0864", "target": "Il tuo fischio risuona per malm attraverso il Lago di Bronzo e non hai motivo di credere che Riol non l'abbia sentito. Raggiungi il punto d'incontro e parla con lui, se è presente." },
+    { "gameKey": "quest/008/GaiUsb315_00856#TEXT_GAIUSB315_00856_SEQ_03", "hash": "4799D78B20124142", "target": "Prima di spiegare, Riol chiede tutta la tua attenzione perché non vuole ripetersi. Quando sarai <if(gnum4,pronta,pronto)> ad ascoltare con cura, chiedigli di proseguire." },
+    { "gameKey": "quest/008/GaiUsb315_00856#TEXT_GAIUSB315_00856_TODO_00", "hash": "A895C09BEFA214F7", "target": "Fischiare forte nei luoghi indicati" },
+    { "gameKey": "quest/008/GaiUsb315_00856#TEXT_GAIUSB315_00856_TODO_01", "hash": "93EF0DCB9E6482E7", "target": "Parlare con Riol" },
+    { "gameKey": "quest/008/GaiUsb315_00856#TEXT_GAIUSB315_00856_WHEISKAET_000_000", "hash": "684F0B95883D9671", "target": "Sarai impaziente di affrontare Titan. Come promesso, ti mostreremo la via." },
+    { "gameKey": "quest/008/GaiUsb315_00856#TEXT_GAIUSB315_00856_WHEISKAET_000_001", "hash": "8B04A19B3757DF6B", "target": "Recati al Lago di Bronzo, in Upper La Noscea. Lì incontrerai Riol, un altro uomo che un tempo serviva nella Compagnia." },
+    { "gameKey": "quest/008/GaiUsb315_00856#TEXT_GAIUSB315_00856_WHEISKAET_000_002", "hash": "F87C9C98C76E392B", "target": "Per impedire che queste conoscenze cadano nelle mani sbagliate, resterà nascosto finché non darai il segnale corretto." },
+    { "gameKey": "quest/008/GaiUsb315_00856#TEXT_GAIUSB315_00856_WHEISKAET_000_003", "hash": "DBA0E7D612415D62", "target": "Dammi la mappa. Dovrai fischiare forte nei tre punti che segnerò. Solo allora verrà a incontrarti in questo quarto luogo. Ora potrà sembrarti eccessivo, ma capirai che è più che ragionevole quando conoscerai i rischi del nostro metodo." },
+    { "gameKey": "quest/008/GaiUsb315_00856#TEXT_GAIUSB315_00856_RIOL_000_020", "hash": "D55F8C7FB72C8ACD", "target": "Salve, <if(gnum4,bella,amico)>. Sei tu la persona che il capitano diceva sarebbe venuta a trovarmi?" },
+    { "gameKey": "quest/008/GaiUsb315_00856#TEXT_GAIUSB315_00856_RIOL_000_021", "hash": "CAB8A8A82D25F21E", "target": "Sì, proprio come pensavo. Ora presta attenzione, perché non mi ripeterò." }
   ]
 }

@@ -2,16 +2,16 @@
   "conversation": "quest/008/GaiUsb602_00884",
   "gameVersion": "2026.09.01.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb602_00884#TEXT_GAIUSB602_00884_SEQ_00", "hash": "6E442DBDD2AFC7A3", "target": "" },
-    { "gameKey": "quest/008/GaiUsb602_00884#TEXT_GAIUSB602_00884_SEQ_01", "hash": "9CD0A479DA71E307", "target": "" },
-    { "gameKey": "quest/008/GaiUsb602_00884#TEXT_GAIUSB602_00884_SEQ_02", "hash": "C2FB1D04CDD37836", "target": "" },
-    { "gameKey": "quest/008/GaiUsb602_00884#TEXT_GAIUSB602_00884_TODO_00", "hash": "FCCB42074B2F83F9", "target": "" },
-    { "gameKey": "quest/008/GaiUsb602_00884#TEXT_GAIUSB602_00884_VORTEFAURT_000_000", "hash": "3D3B6692B44A689F", "target": "" },
-    { "gameKey": "quest/008/GaiUsb602_00884#TEXT_GAIUSB602_00884_VORTEFAURT_000_001", "hash": "15592585717B1A29", "target": "" },
-    { "gameKey": "quest/008/GaiUsb602_00884#TEXT_GAIUSB602_00884_VORTEFAURT_000_002", "hash": "5AF1FD536C994C4C", "target": "" },
-    { "gameKey": "quest/008/GaiUsb602_00884#TEXT_GAIUSB602_00884_VORTEFAURT_000_003", "hash": "BD690730361A536C", "target": "" },
-    { "gameKey": "quest/008/GaiUsb602_00884#TEXT_GAIUSB602_00884_LUDOVOIX_000_010", "hash": "958B9E16B15D9A67", "target": "" },
-    { "gameKey": "quest/008/GaiUsb602_00884#TEXT_GAIUSB602_00884_LUDOVOIX_000_011", "hash": "CB42D5B42C378089", "target": "" },
-    { "gameKey": "quest/008/GaiUsb602_00884#TEXT_GAIUSB602_00884_LUDOVOIX_000_012", "hash": "C0437F1F2FB6F017", "target": "" }
+    { "gameKey": "quest/008/GaiUsb602_00884#TEXT_GAIUSB602_00884_SEQ_00", "hash": "6E442DBDD2AFC7A3", "target": "Vortefaurt desidera raccontarti dell'ultimo volo dell'<italic(1)>Enterprise<italic(0)>." },
+    { "gameKey": "quest/008/GaiUsb602_00884#TEXT_GAIUSB602_00884_SEQ_01", "hash": "9CD0A479DA71E307", "target": "Secondo Vortefaurt, l'<italic(1)>Enterprise<italic(0)> scomparve oltre le montagne di Coerthas, a nord-ovest. Supponendo che non sia andata distrutta durante la Calamità, ti consiglia di ottenere la collaborazione degli astrologi dell'Osservatorio, che senza dubbio sorvegliavano il cielo quella notte e potrebbero possedere informazioni preziose per le ricerche. Tuttavia, poiché gli ishgardesi tendono a respingere gli stranieri, Vortefaurt ti suggerisce di offrire prima i tuoi servigi ai soldati di guardia all'Osservatorio, come gesto di buona volontà." },
+    { "gameKey": "quest/008/GaiUsb602_00884#TEXT_GAIUSB602_00884_SEQ_02", "hash": "C2FB1D04CDD37836", "target": "Il cavaliere ishgardese respinge bruscamente la tua offerta di aiuto. Forse dovrai insistere per convincere la gente del luogo che non hai cattive intenzioni." },
+    { "gameKey": "quest/008/GaiUsb602_00884#TEXT_GAIUSB602_00884_TODO_00", "hash": "FCCB42074B2F83F9", "target": "Parlare con Ludovoix all'Osservatorio" },
+    { "gameKey": "quest/008/GaiUsb602_00884#TEXT_GAIUSB602_00884_VORTEFAURT_000_000", "hash": "3D3B6692B44A689F", "target": "Era la vigilia della battaglia di Carteneau, quasi cinque anni fa. Quella notte presidiavo la torre da solo, mentre il grosso delle nostre forze marciava per affrontare il nemico sul campo." },
+    { "gameKey": "quest/008/GaiUsb602_00884#TEXT_GAIUSB602_00884_VORTEFAURT_000_001", "hash": "15592585717B1A29", "target": "Poi, all'improvviso, la più straordinaria aeronave che avessi mai visto squarciò il cielo sopra di me! Potei solo guardarla sbalordito mentre spariva oltre le montagne a nord-ovest. Se l'<italic(1)>Enterprise<italic(0)> non è andata distrutta durante la Calamità, scommetto che si trova ancora da qualche parte a Coerthas." },
+    { "gameKey": "quest/008/GaiUsb602_00884#TEXT_GAIUSB602_00884_VORTEFAURT_000_002", "hash": "5AF1FD536C994C4C", "target": "Gli astrologi dell'Osservatorio potrebbero avere dei registri utili. Ma per ottenerli dovreste trattare con gli ishgardesi che governano la regione. Non aspettatevi molto, però─da tempo le Alte Casate badano soprattutto ai propri affari. Quando Dalamud discese, si rifugiarono dietro le loro porte, e ancora oggi si curano ben poco delle sventure delle altre nazioni." },
+    { "gameKey": "quest/008/GaiUsb602_00884#TEXT_GAIUSB602_00884_VORTEFAURT_000_003", "hash": "BD690730361A536C", "target": "Potrebbero comunque degnarsi di aiutarvi, se dimostrerete di essere utile. Provate a offrire i vostri servigi ai soldati di guardia all'Osservatorio. Forse dapprima vi respingeranno, ma non dubito che accetteranno un aiuto offerto senza condizioni." },
+    { "gameKey": "quest/008/GaiUsb602_00884#TEXT_GAIUSB602_00884_LUDOVOIX_000_010", "hash": "958B9E16B15D9A67", "target": "Come hai detto? Vuoi offrire i tuoi servigi alla casata Durendaire? E cosa speri di ricevere in cambio, di grazia?" },
+    { "gameKey": "quest/008/GaiUsb602_00884#TEXT_GAIUSB602_00884_LUDOVOIX_000_011", "hash": "CB42D5B42C378089", "target": "Ah, che assurdità! Come se permettessimo a una persona estranea di consultare i registri dell'Osservatorio." },
+    { "gameKey": "quest/008/GaiUsb602_00884#TEXT_GAIUSB602_00884_LUDOVOIX_000_012", "hash": "C0437F1F2FB6F017", "target": "Non scambiare la nostra cortesia per cordialità. La Santa Sede di Ishgard potrà anche consentire agli stranieri di viaggiare liberamente in queste terre, ma non intendiamo prestare soccorso a degli sconosciuti." }
   ]
 }

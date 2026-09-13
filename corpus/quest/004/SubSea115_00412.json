@@ -3,7 +3,7 @@
   "gameVersion": "2026.09.01.0000.0000",
   "entries": [
     { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_SEQ_00", "hash": "A56D0C8F3B1619BB", "target": "Ahtbyrm cerca un membro della sua squadra e i materiali che avrebbe dovuto consegnare." },
-    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_SEQ_01", "hash": "4AADFB16E333BFD0", "target": "Prendi la strada a ovest dei Cantieri Navali di Moraby e parla con Haldbroda per sapere dove sia un certo Fyrilsmyd. Ricorda di esprimere con /doubt i tuoi dubbi sulla sua sincerità." },
+    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_SEQ_01", "hash": "4AADFB16E333BFD0", "target": "Prendi la strada a ovest di Moraby Drydocks e parla con Haldbroda per sapere dove sia un certo Fyrilsmyd. Ricorda di esprimere con /doubt i tuoi dubbi sulla sua sincerità." },
     { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_SEQ_02", "hash": "8B251AB402F4174F", "target": "Sembra che Haldbroda non ricordi davvero di aver mai visto Fyrilsmyd. Il giovane carpentiere potrebbe essere stato coinvolto nella tragedia che ha colpito una nave al largo della Spiaggia Salina?" },
     { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_TODO_00", "hash": "49BAD11244E137F5", "target": "Raggiungere il Molo di Candlekeep e comunicare a Haldbroda i dubbi di Ahtbyrm con /doubt" },
     { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_AHTBYRM_000_1", "hash": "6025CC186D43D564", "target": "Dove diavolo è quell'uomo!? Mai una consegna in ritardo in dodici lune, e ora due interi giorni senza una notizia." },

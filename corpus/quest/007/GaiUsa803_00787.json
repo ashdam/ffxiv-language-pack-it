@@ -2,19 +2,19 @@
   "conversation": "quest/007/GaiUsa803_00787",
   "gameVersion": "2026.09.01.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_SEQ_00", "hash": "AFF1E8629A289BF1", "target": "" },
-    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_SEQ_01", "hash": "5A2861A66E4B9694", "target": "" },
-    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_SEQ_02", "hash": "4E8FEB8441430F27", "target": "" },
-    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_SEQ_03", "hash": "D387F159ADDB1D50", "target": "" },
-    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_SEQ_04", "hash": "B4F7AB7F35240028", "target": "" },
-    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_TODO_00", "hash": "92D25B099003EF54", "target": "" },
-    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_TODO_01", "hash": "B88D274BC716101D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_TODO_02", "hash": "32671924728C64AC", "target": "" },
-    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_AIDEEN_000_000", "hash": "39159491C5B7E443", "target": "" },
-    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_AIDEEN_000_001", "hash": "B32BA9D8B14BCDE5", "target": "" },
-    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_AIDEEN_000_002", "hash": "E77168E527FBC9FA", "target": "" },
-    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_AIDEEN_000_030", "hash": "7E6C76312FD58356", "target": "" },
-    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_AIDEEN_000_031", "hash": "81F39C5E12C8CDC1", "target": "" },
-    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_AIDEEN_000_032", "hash": "8D5AE36B231BEAD9", "target": "" }
+    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_SEQ_00", "hash": "AFF1E8629A289BF1", "target": "Aideen sa qualcos'altro sulle morti misteriose." },
+    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_SEQ_01", "hash": "5A2861A66E4B9694", "target": "Aideen ti racconta che finora tutte le vittime erano belle fanciulle. Corre voce che, alla loro morte, il rancore sia penetrato in una roccia a sud-ovest, facendola lampeggiare e gemere. In cerca di un indizio, Aideen ti chiede di usare un candelotto di sabbia incendiaria per staccarne alcuni pezzi e portarle i frammenti." },
+    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_SEQ_02", "hash": "4E8FEB8441430F27", "target": "Hai usato il candelotto di sabbia incendiaria sulla roccia. Raccogli i cristalli dell'elemento fulmine sparsi nella zona." },
+    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_SEQ_03", "hash": "D387F159ADDB1D50", "target": "Hai raccolto tutti i cristalli dell'elemento fulmine. Torna a Fallgourd Float e consegnali ad Aideen." },
+    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_SEQ_04", "hash": "B4F7AB7F35240028", "target": "Aideen non riesce a nascondere la delusione davanti al tuo bottino di cristalli dell'elemento fulmine. Purtroppo, i tuoi sforzi non hanno fatto progredire le indagini." },
+    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_TODO_00", "hash": "92D25B099003EF54", "target": "Lanciare il candelotto di sabbia incendiaria contro la roccia" },
+    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_TODO_01", "hash": "B88D274BC716101D", "target": "Raccogliere i cristalli dell'elemento fulmine" },
+    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_TODO_02", "hash": "32671924728C64AC", "target": "Consegnare i cristalli dell'elemento fulmine ad Aideen" },
+    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_AIDEEN_000_000", "hash": "39159491C5B7E443", "target": "Ho sentito qualcos'altro sulle morti. A quanto pare, <italic(1)>tutte<italic(0)> le vittime erano graziose fanciulle. Farò meglio a stare in guardia, eh!? Eh eh eh!" },
+    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_AIDEEN_000_001", "hash": "B32BA9D8B14BCDE5", "target": "\\<sospiro> Battute sconvenienti a parte, circola una voce. Alcuni sussurrano che, dopo la morte di ogni vittima, il suo rancore sia penetrato nella grande roccia a sud-ovest, facendola lampeggiare e gemere." },
+    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_AIDEEN_000_002", "hash": "E77168E527FBC9FA", "target": "Credo che valga la pena indagare. Ti darò un candelotto di sabbia incendiaria per staccare un pezzo della parete rocciosa. Non ha una miccia, quindi dovrai <italic(1)>lanciarlo<italic(0)>. Quando avrai fatto un bel buco nella roccia, portami alcuni frammenti e darò loro un'occhiata." },
+    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_AIDEEN_000_030", "hash": "7E6C76312FD58356", "target": "Quasi tutti hanno troppa paura per avvicinarsi a meno di cento yalm dalla <italic(1)>Roccia del Rancore<italic(0)>─sì, ha un nome. Ma cosa saranno mai alcuni spiriti vendicativi per una persona intrepida come te?" },
+    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_AIDEEN_000_031", "hash": "81F39C5E12C8CDC1", "target": "...Eh? Ma questi sono normalissimi cristalli! È un po' difficile capirlo sotto tutta quella terra e sporcizia, ma sono senza dubbio dell'elemento fulmine." },
+    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_AIDEEN_000_032", "hash": "8D5AE36B231BEAD9", "target": "Quasi mi spiace dirlo, ma questo spiega i lampi e i gemiti. Non c'entra nulla l'uomo mascherato. Sembra proprio che abbia sprecato il tuo tempo <italic(1)>e<italic(0)> un candelotto di sabbia incendiaria perfettamente funzionante. Ah, pazienza..." }
   ]
 }

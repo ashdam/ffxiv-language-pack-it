@@ -2,17 +2,17 @@
   "conversation": "quest/006/SubFst102_00673",
   "gameVersion": "2026.09.01.0000.0000",
   "entries": [
-    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_SEQ_00", "hash": "9DB1B151050ECBDD", "target": "" },
-    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_SEQ_01", "hash": "3439AE909446AD7D", "target": "" },
-    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_SEQ_02", "hash": "6472D3F432363886", "target": "" },
-    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_TODO_00", "hash": "BC4513A89D5E70A8", "target": "" },
-    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_SERPENT_000_1", "hash": "3C1AEB18B21413CF", "target": "" },
-    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_SERPENT_000_2", "hash": "2B12F45258C72B35", "target": "" },
-    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_SERPENT_000_3", "hash": "7C573158D72A7235", "target": "" },
-    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_SERPENT_000_10", "hash": "C515139F5C372667", "target": "" },
-    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_BADERON_000_20", "hash": "12DBC6073EB8EF8D", "target": "" },
-    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_BADERON_000_21", "hash": "03CC69F102287E94", "target": "" },
-    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_BADERON_000_22", "hash": "EAC5A314EA0DE39F", "target": "" },
-    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_BADERON_000_23", "hash": "C5C5EBDFFA95527E", "target": "" }
+    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_SEQ_00", "hash": "9DB1B151050ECBDD", "target": "L'ufficiale delle Vipere ha informazioni che potrebbero interessarti." },
+    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_SEQ_01", "hash": "3439AE909446AD7D", "target": "Baderon, proprietario della Drowning Wench a Limsa Lominsa, ha bisogno di <if(gnum4,un'avventuriera capace,un avventuriero capace)>. Parlagli per saperne di più." },
+    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_SEQ_02", "hash": "6472D3F432363886", "target": "Baderon ti avverte che l'incarico comporterà notevoli pericoli. Se hai deciso di accettarlo, parlagli di nuovo per ricevere le istruzioni." },
+    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_TODO_00", "hash": "BC4513A89D5E70A8", "target": "Parlare con Baderon alla Drowning Wench di Limsa Lominsa" },
+    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_SERPENT_000_1", "hash": "3C1AEB18B21413CF", "target": "Spero che l'incontro con la Veggente Anziana sia andato bene, <if(gnum4,mia signora emissaria,mio signore emissario)>. Correggetemi se sbaglio, ma non avete consegnato un messaggio anche all'ammiraglio Merlwyb Bloefhiswyn di Limsa Lominsa?" },
+    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_SERPENT_000_2", "hash": "2B12F45258C72B35", "target": "Mentre eravate lì, avete incontrato Baderon, il proprietario della Drowning Wench? Un gentiluomo socievole, sempre felice di aiutare il prossimo." },
+    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_SERPENT_000_3", "hash": "7C573158D72A7235", "target": "Mi hanno detto che ha un incarico per <if(gnum4,un'avventuriera capace,un avventuriero capace)>. Non ne conosco la natura, ma direi che <if(gnum4,l'emissaria personale,l'emissario personale)> del Generale delle Fiamme sarebbe <if(gnum4,un'ottima candidata,un ottimo candidato)>. Se volete saperne di più, parlate con Baderon nel suo locale." },
+    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_SERPENT_000_10", "hash": "C515139F5C372667", "target": "Se decidete di visitare Limsa Lominsa, parlate con Baderon alla Drowning Wench. Ha un incarico per <if(gnum4,un'avventuriera capace,un avventuriero capace)>, e direi che <if(gnum4,l'emissaria personale,l'emissario personale)> del Generale delle Fiamme sarebbe <if(gnum4,un'ottima candidata,un ottimo candidato)>." },
+    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_BADERON_000_20", "hash": "12DBC6073EB8EF8D", "target": "<if(gnum4,Benvenuta,Benvenuto)> alla Drowning Wench! Siediti dove vuoi, <if(gnum4,ragazza,amico)>. Sarò da te tra─" },
+    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_BADERON_000_21", "hash": "03CC69F102287E94", "target": "Mh? Sì, sono Baderon. Chi lo chiede?" },
+    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_BADERON_000_22", "hash": "EAC5A314EA0DE39F", "target": "Ah, hai sentito che ho un incarico per <if(gnum4,un'avventuriera capace,un avventuriero capace)>? Be', è proprio così!" },
+    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_BADERON_000_23", "hash": "C5C5EBDFFA95527E", "target": "Ma è giusto avvertirti: non è un lavoro per deboli di cuore. Potrebbe diventare dannatamente pericoloso. Se ti interessa ancora, dimmelo e ti spiegherò i dettagli." }
   ]
 }
