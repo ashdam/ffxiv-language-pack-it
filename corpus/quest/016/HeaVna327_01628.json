@@ -2,17 +2,17 @@
   "conversation": "quest/016/HeaVna327_01628",
   "gameVersion": "2026.09.01.0000.0000",
   "entries": [
-    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_SEQ_00", "hash": "ACCCDA5EFF8504F3", "target": "" },
-    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_SEQ_01", "hash": "DB911B71AE2DD020", "target": "" },
-    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_SEQ_02", "hash": "8266C3712ECD27BB", "target": "" },
-    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_SEQ_03", "hash": "012BF734D62E9132", "target": "" },
-    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_SEQ_04", "hash": "7457EFA16A90B765", "target": "" },
-    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_SEQ_05", "hash": "DB68A55211269739", "target": "" },
-    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_TODO_00", "hash": "27668E69F48AA456", "target": "" },
-    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_TODO_01", "hash": "DFFAFDFE09807AC1", "target": "" },
-    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_TODO_02", "hash": "C7301A30D9953F77", "target": "" },
-    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_TODO_03", "hash": "75D8CC651508717D", "target": "" },
-    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_ESTINIEN_000_000", "hash": "AB5EDB9A79663E91", "target": "" },
-    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_ALPHINAUD_000_010", "hash": "04B06DEA8C331ED6", "target": "" }
+    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_SEQ_00", "hash": "ACCCDA5EFF8504F3", "target": "Alphinaud riflette sulla prossima mossa del gruppo." },
+    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_SEQ_01", "hash": "DB911B71AE2DD020", "target": "Fallito ogni tentativo di pace, Estinien è convinto che per salvare Ishgard sia necessario uccidere Nidhogg. Lasciate Ysayle con la sua fede in frantumi e proseguite verso est, dove dovrebbe trovarsi l'Aery. Sconfiggi i nemici che incontri mentre cerchi la tana del drago." },
+    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_SEQ_02", "hash": "8266C3712ECD27BB", "target": "Hai sconfitto i draghi ostili. Continua a eliminare i nemici che cercano di ostacolarti nella ricerca dell'Aery." },
+    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_SEQ_03", "hash": "012BF734D62E9132", "target": "Ancora una volta devi uccidere i Dravaniani che vi attaccano. Mantieni alta la guardia mentre avanzi verso est, in direzione della tana di Nidhogg." },
+    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_SEQ_04", "hash": "7457EFA16A90B765", "target": "Hai respinto l'ennesimo assalto dei tuoi nemici zannuti. Parla con Estinien, che scruta i cieli accanto a un preoccupato Alphinaud." },
+    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_SEQ_05", "hash": "DB68A55211269739", "target": "Avete finalmente trovato l'Aery, ma Nidhogg ha circondato la sua tana con un'impenetrabile barriera di vento. Per fortuna conosci un ingegnere di talento che potrebbe risolvere questo burrascoso problema..." },
+    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_TODO_00", "hash": "27668E69F48AA456", "target": "Sconfiggere i nemici mentre si cerca l'Aery" },
+    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_TODO_01", "hash": "DFFAFDFE09807AC1", "target": "Sconfiggere i nemici mentre si prosegue la ricerca dell'Aery" },
+    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_TODO_02", "hash": "C7301A30D9953F77", "target": "Sconfiggere i nemici mentre si prosegue la ricerca dell'Aery" },
+    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_TODO_03", "hash": "75D8CC651508717D", "target": "Parlare con Estinien" },
+    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_ESTINIEN_000_000", "hash": "AB5EDB9A79663E91", "target": "Cuore di Ghiaccio ha riposto male la sua fiducia nel drago. Ci resta una sola strada da percorrere..." },
+    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_ALPHINAUD_000_010", "hash": "04B06DEA8C331ED6", "target": "Estinien... Vi prego, ditemi che mi sbaglio..." }
   ]
 }
