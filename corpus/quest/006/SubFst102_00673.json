@@ -1,6 +1,6 @@
 {
   "conversation": "quest/006/SubFst102_00673",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_SEQ_00", "hash": "9DB1B151050ECBDD", "target": "L'ufficiale delle Vipere ha informazioni che potrebbero interessarti." },
     { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_SEQ_01", "hash": "3439AE909446AD7D", "target": "Baderon, proprietario della Drowning Wench a Limsa Lominsa, ha bisogno di <if(gnum4,un'avventuriera capace,un avventuriero capace)>. Parlagli per saperne di più." },

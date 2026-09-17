@@ -1,6 +1,6 @@
 {
   "conversation": "quest/008/GaiUsb004_00811",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/008/GaiUsb004_00811#TEXT_GAIUSB004_00811_SEQ_00", "hash": "A57CFE00813EC614", "target": "Trachtoum non è ancora convinto che tu sia <if(gnum4,pronta,pronto)> ad affrontare il temibile primordiale Tidus." },
     { "gameKey": "quest/008/GaiUsb004_00811#TEXT_GAIUSB004_00811_SEQ_01", "hash": "413E071709B569E6", "target": "La conversazione con Trachtoum viene interrotta da un mugnaio furibondo, che accusa il predone in imbarazzo di trascurare il proprio dovere. Sotto il tuo sguardo attonito, Trachtoum afferma di aver ucciso il goobbue che hai appena sconfitto. Poco convinto, il mugnaio decide che la verità verrà a galla «alla maniera lominsana». Parla con lui all'esterno e scopri cosa intende." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/038/XxaUsc908_03872",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/038/XxaUsc908_03872#TEXT_XXAUSC908_03872_SEQ_00", "hash": "D8263C71F6507EE1", "target": "Il sergente Cracked Fist ha bisogno di <if(gnum4,un'eroina,un eroe)> per risollevare il morale al fronte." },
     { "gameKey": "quest/038/XxaUsc908_03872#TEXT_XXAUSC908_03872_SEQ_01", "hash": "B9904061E093F49E", "target": "Il sergente Cracked Fist lamenta il basso morale delle truppe al fronte. Convinto che la presenza di <if(gnum4,un'autentica eroina,un autentico eroe)> sarebbe di grande aiuto per risollevare l'animo della guarnigione, ti chiede di presentarti al generale Raubahn presso il Ceruleum Processing Plant e di offrire i tuoi servigi." },
