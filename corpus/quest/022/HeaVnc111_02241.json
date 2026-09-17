@@ -1,6 +1,6 @@
 {
   "conversation": "quest/022/HeaVnc111_02241",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/022/HeaVnc111_02241#TEXT_HEAVNC111_02241_SEQ_00", "hash": "EF6C3B0CD8683648", "target": "Alphinaud sa finalmente cosa deve fare." },
     { "gameKey": "quest/022/HeaVnc111_02241#TEXT_HEAVNC111_02241_SEQ_01", "hash": "6DF3175C7114E821", "target": "Alphinaud ribadisce di avere qualcosa da dirti, non <if(gnum4,alla Guerriera della Luce,al Guerriero della Luce)> né a un altro Erede, ma a te, <split(<string(gstr1)>, ,1)>, in quanto <if(gnum4,amica,amico)>. Propone di raggiungere Campo Testa di Drago e il salone che lord Haurchefant mise a tua disposizione molto tempo fa, così da poter parlare in privato." },

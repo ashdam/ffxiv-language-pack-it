@@ -1,6 +1,6 @@
 {
   "conversation": "quest/038/XxaUse211_03882",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/038/XxaUse211_03882#TEXT_XXAUSE211_03882_SEQ_00", "hash": "E84296C682DF57D1", "target": "Alphinaud vuole che tu e Yugiri partiate subito per il Pedaggio del Redivivo." },
     { "gameKey": "quest/038/XxaUse211_03882#TEXT_XXAUSE211_03882_SEQ_01", "hash": "D84C37BB2FFAA9BB", "target": "Alphinaud ritiene che Yugiri debba presentarsi formalmente ai capi del Pedaggio del Redivivo alla prima occasione. La delegazione domana avrà naturalmente bisogno di una scorta e non riesce a pensare a <if(gnum4,una donna più adatta,un uomo più adatto)> per il compito. Dirigiti al Pedaggio del Redivivo e parla con Slafborn." },

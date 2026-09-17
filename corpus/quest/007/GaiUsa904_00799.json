@@ -1,6 +1,6 @@
 {
   "conversation": "quest/007/GaiUsa904_00799",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/007/GaiUsa904_00799#TEXT_GAIUSA904_00799_SEQ_00", "hash": "800C00DECAC8F988", "target": "Medrod è preoccupato per la mancanza di nuovi sviluppi nelle indagini sugli omicidi." },
     { "gameKey": "quest/007/GaiUsa904_00799#TEXT_GAIUSA904_00799_SEQ_01", "hash": "5F9B935B5B672D41", "target": "Dopo un periodo di incertezza, Ivaurault è ormai convinto che ciò che ha incontrato nella zona rocciosa a ovest fosse un occhio alato. Potrebbe esserci un'altra vittima là fuori, in attesa di essere scoperta. I tre amici lasciano il compito di indagare <if(gnum4,all'esperta,all'esperto)>─cioè a te." },

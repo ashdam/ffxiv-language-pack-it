@@ -1,6 +1,6 @@
 {
   "conversation": "quest/000/GaiUse403_00054",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/000/GaiUse403_00054#TEXT_GAIUSE403_00054_SEQ_00", "hash": "0AB0E50196BD221D", "target": "Un influente ishgardese desidera incontrare <if(gnum4,la Guerriera,il Guerriero)> della Luce e Alphinaud intende accontentarlo." },
     { "gameKey": "quest/000/GaiUse403_00054#TEXT_GAIUSE403_00054_SEQ_01", "hash": "20890FC5489667CF", "target": "Alphinaud ha ottenuto un'udienza con Ser Aymeric, comandante supremo dei Cavalieri del Tempio ishgardesi e rappresentante della Santa Sede. Desideroso di ingraziarselo, ti ha chiesto di accompagnarlo, poiché Ser Aymeric vuole incontrare <if(gnum4,la celebre Guerriera,il celebre Guerriero)> della Luce. Minfilia approverà certamente il piano." },

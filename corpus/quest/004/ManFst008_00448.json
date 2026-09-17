@@ -1,6 +1,6 @@
 {
   "conversation": "quest/004/ManFst008_00448",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/004/ManFst008_00448#TEXT_MANFST008_00448_SEQ_00", "hash": "981CAA2D636878CD", "target": "Il signore dell'Arco Lewin ha informazioni sul tuo ruolo nella Gioia Verde." },
     { "gameKey": "quest/004/ManFst008_00448#TEXT_MANFST008_00448_SEQ_01", "hash": "FA4ABB3A8BC6EF4D", "target": "Sembra che il ruolo di <if(gnum4,Emissaria,Emissario)> richieda alcuni preparativi. Lewin ti suggerisce di chiedere a Miounne cosa occorra. Il gesto della Veggente Anziana ti onora, ma non puoi evitare una certa apprensione davanti a quella che ora sembra una pesante responsabilità. Del resto, onore e dovere sono sempre andati di pari passo..." },
