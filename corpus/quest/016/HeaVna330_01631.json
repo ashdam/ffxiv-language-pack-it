@@ -2,18 +2,18 @@
   "conversation": "quest/016/HeaVna330_01631",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/016/HeaVna330_01631#TEXT_HEAVNA330_01631_SEQ_00", "hash": "825984ABE96F5D2E", "target": "" },
-    { "gameKey": "quest/016/HeaVna330_01631#TEXT_HEAVNA330_01631_SEQ_01", "hash": "CA5AF6B1E746CFA7", "target": "" },
-    { "gameKey": "quest/016/HeaVna330_01631#TEXT_HEAVNA330_01631_SEQ_02", "hash": "BDBC5431BF43AB63", "target": "" },
-    { "gameKey": "quest/016/HeaVna330_01631#TEXT_HEAVNA330_01631_SEQ_03", "hash": "AC05C22AA7EB8A2C", "target": "" },
-    { "gameKey": "quest/016/HeaVna330_01631#TEXT_HEAVNA330_01631_TODO_00", "hash": "E9F0FBDFF8907A6D", "target": "" },
-    { "gameKey": "quest/016/HeaVna330_01631#TEXT_HEAVNA330_01631_TODO_01", "hash": "89C5887C9F8BA3BE", "target": "" },
-    { "gameKey": "quest/016/HeaVna330_01631#TEXT_HEAVNA330_01631_ALPHINAUD_000_000", "hash": "4B9E6D0359BB59AA", "target": "" },
-    { "gameKey": "quest/016/HeaVna330_01631#TEXT_HEAVNA330_01631_YUGIRI_000_001", "hash": "8221F291CDFDA54A", "target": "" },
-    { "gameKey": "quest/016/HeaVna330_01631#TEXT_HEAVNA330_01631_BARTHOLOMEW_000_010", "hash": "7EDF417E9FA5D170", "target": "" },
-    { "gameKey": "quest/016/HeaVna330_01631#TEXT_HEAVNA330_01631_YUGIRI_000_011", "hash": "5217960C6157598B", "target": "" },
-    { "gameKey": "quest/016/HeaVna330_01631#TEXT_HEAVNA330_01631_ALPHINAUD_000_012", "hash": "68583C1BC678375E", "target": "" },
-    { "gameKey": "quest/016/HeaVna330_01631#TEXT_HEAVNA330_01631_ALPHINAUD_000_020", "hash": "1230604921027E95", "target": "" },
-    { "gameKey": "quest/016/HeaVna330_01631#TEXT_HEAVNA330_01631_ALPHINAUD_000_021", "hash": "ADACE57809369C90", "target": "" }
+    { "gameKey": "quest/016/HeaVna330_01631#TEXT_HEAVNA330_01631_SEQ_00", "hash": "825984ABE96F5D2E", "target": "Alphinaud vuole chiudere questo oscuro capitolo della storia di Ul'dah." },
+    { "gameKey": "quest/016/HeaVna330_01631#TEXT_HEAVNA330_01631_SEQ_01", "hash": "CA5AF6B1E746CFA7", "target": "Alphinaud è impaziente di seguire Raubahn a Ul'dah e assistere all'inizio di un nuovo capitolo della sua storia. Raggiungi la Passeggiata Reale e presentati a Bartholomew." },
+    { "gameKey": "quest/016/HeaVna330_01631#TEXT_HEAVNA330_01631_SEQ_02", "hash": "BDBC5431BF43AB63", "target": "Con il risveglio di Nanamo, il caos che avvolge la città dovrebbe finalmente lasciare spazio alla calma. Purtroppo, lord Lolorito ha notizie preoccupanti: pare che l'Impero abbia costruito una nave da guerra in grado di rivaleggiare con la leggendaria <italic(1)>Agrius<italic(0)>. Subito dopo questa sconvolgente rivelazione, Alphinaud annuncia di voler sciogliere i Prodi del Cristallo. Chiedigli le ragioni di una decisione tanto importante." },
+    { "gameKey": "quest/016/HeaVna330_01631#TEXT_HEAVNA330_01631_SEQ_03", "hash": "AC05C22AA7EB8A2C", "target": "Dopo il suo sfogo, Alphinaud sembra al tempo stesso imbarazzato e sollevato. Che ne sarà dei Prodi del Cristallo, ora che il loro comandante è deciso a sciogliere la compagnia...?" },
+    { "gameKey": "quest/016/HeaVna330_01631#TEXT_HEAVNA330_01631_TODO_00", "hash": "E9F0FBDFF8907A6D", "target": "Parlare con Bartholomew alla Passeggiata Reale" },
+    { "gameKey": "quest/016/HeaVna330_01631#TEXT_HEAVNA330_01631_TODO_01", "hash": "89C5887C9F8BA3BE", "target": "Parlare con Alphinaud" },
+    { "gameKey": "quest/016/HeaVna330_01631#TEXT_HEAVNA330_01631_ALPHINAUD_000_000", "hash": "4B9E6D0359BB59AA", "target": "Andiamo anche noi a Ul'dah? Immagino che Bartholomew abbia ricevuto istruzioni di farci entrare." },
+    { "gameKey": "quest/016/HeaVna330_01631#TEXT_HEAVNA330_01631_YUGIRI_000_001", "hash": "8221F291CDFDA54A", "target": "«Avevi ucciso chi servivi...»<br>Ah, perdonate il mio borbottio. Mi è tornato in mente un verso di un'antica poesia." },
+    { "gameKey": "quest/016/HeaVna330_01631#TEXT_HEAVNA330_01631_BARTHOLOMEW_000_010", "hash": "7EDF417E9FA5D170", "target": "Il generale delle Fiamme Raubahn mi aveva detto che sareste potuti venire. Prego, da questa parte." },
+    { "gameKey": "quest/016/HeaVna330_01631#TEXT_HEAVNA330_01631_YUGIRI_000_011", "hash": "5217960C6157598B", "target": "Spero che la pozione di lord Lolorito sia efficace quanto sostiene..." },
+    { "gameKey": "quest/016/HeaVna330_01631#TEXT_HEAVNA330_01631_ALPHINAUD_000_012", "hash": "68583C1BC678375E", "target": "A quanto pare, il Sindacato si è affrettato a riabilitarci. Bartholomew, per esempio, non sembra affatto sorpreso di vederci qui." },
+    { "gameKey": "quest/016/HeaVna330_01631#TEXT_HEAVNA330_01631_ALPHINAUD_000_020", "hash": "1230604921027E95", "target": "Mi imbarazza parlare così del mio tormento..." },
+    { "gameKey": "quest/016/HeaVna330_01631#TEXT_HEAVNA330_01631_ALPHINAUD_000_021", "hash": "ADACE57809369C90", "target": "Ma resta un fatto: non c'è <if(gnum4,donna,uomo)> al mondo con cui preferirei confidarmi. Senza il tuo luminoso esempio, forse non sarei mai uscito dall'ombra della disperazione." }
   ]
 }

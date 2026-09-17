@@ -2,13 +2,13 @@
   "conversation": "quest/016/HeaVna335_01636",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/016/HeaVna335_01636#TEXT_HEAVNA335_01636_SEQ_00", "hash": "2BFCCF20A199938C", "target": "" },
-    { "gameKey": "quest/016/HeaVna335_01636#TEXT_HEAVNA335_01636_SEQ_01", "hash": "5061DC86978B7A6F", "target": "" },
-    { "gameKey": "quest/016/HeaVna335_01636#TEXT_HEAVNA335_01636_SEQ_02", "hash": "AD78DAF6883013F9", "target": "" },
-    { "gameKey": "quest/016/HeaVna335_01636#TEXT_HEAVNA335_01636_TODO_00", "hash": "06A43239636C9954", "target": "" },
-    { "gameKey": "quest/016/HeaVna335_01636#TEXT_HEAVNA335_01636_ESTINIEN_101_010", "hash": "5F2A6D8CEC6502AB", "target": "" },
-    { "gameKey": "quest/016/HeaVna335_01636#TEXT_HEAVNA335_01636_ICEHEART_000_010", "hash": "0B037CD309D8FF6E", "target": "" },
-    { "gameKey": "quest/016/HeaVna335_01636#TEXT_HEAVNA335_01636_ESTINIEN_000_020", "hash": "65A8E51141B43ACC", "target": "" },
-    { "gameKey": "quest/016/HeaVna335_01636#TEXT_HEAVNA335_01636_HAURCHEFANT_100_050", "hash": "E0FC19E1D07B8806", "target": "" }
+    { "gameKey": "quest/016/HeaVna335_01636#TEXT_HEAVNA335_01636_SEQ_00", "hash": "2BFCCF20A199938C", "target": "Estinien è esasperato dall'ennesimo mistero." },
+    { "gameKey": "quest/016/HeaVna335_01636#TEXT_HEAVNA335_01636_SEQ_01", "hash": "5061DC86978B7A6F", "target": "Estinien riflette su dove sia finito l'occhio mancante di Nidhogg e sulla decisione improvvisa del grande drago di scagliare l'intero esercito contro le mura di Ishgard. Prima che giunga a una conclusione, però, lo interrompe un messaggio urgente di ser Aymeric: gli eretici hanno dato inizio a una rivolta all'interno della città. Tornate a Ishgard e, con l'aiuto di Ysayle, cercate di porre fine pacificamente a quella distruzione insensata.<br><br>Entrando nella città devastata, ritrovi lord Haurchefant. Ti conduce subito dove un teso confronto tra eretici e Cavalieri del Tempio minaccia di sfociare in nuova violenza. Lady Ysayle annuncia allora ai suoi seguaci la morte di Nidhogg e dichiara conclusa la Guerra del Canto dei Draghi. Gli eretici depongono così le armi e si ritirano al comando della loro signora. Parla con lord Haurchefant dopo la rivolta." },
+    { "gameKey": "quest/016/HeaVna335_01636#TEXT_HEAVNA335_01636_SEQ_02", "hash": "AD78DAF6883013F9", "target": "Lord Haurchefant ha convinto gli increduli cavalieri a rinunciare all'inseguimento, ma sembra quasi altrettanto sconcertato da questa svolta inattesa..." },
+    { "gameKey": "quest/016/HeaVna335_01636#TEXT_HEAVNA335_01636_TODO_00", "hash": "06A43239636C9954", "target": "Parlare con Haurchefant" },
+    { "gameKey": "quest/016/HeaVna335_01636#TEXT_HEAVNA335_01636_ESTINIEN_101_010", "hash": "5F2A6D8CEC6502AB", "target": "Pur senza muovere un solo artiglio, sembra che Hraesvelgr abbia consumato contro di noi una vendetta tutta sua..." },
+    { "gameKey": "quest/016/HeaVna335_01636#TEXT_HEAVNA335_01636_ICEHEART_000_010", "hash": "0B037CD309D8FF6E", "target": "E così il tradimento ha generato una vendetta senza fine..." },
+    { "gameKey": "quest/016/HeaVna335_01636#TEXT_HEAVNA335_01636_ESTINIEN_000_020", "hash": "65A8E51141B43ACC", "target": "Vediamo quanto durerà questa pace..." },
+    { "gameKey": "quest/016/HeaVna335_01636#TEXT_HEAVNA335_01636_HAURCHEFANT_100_050", "hash": "E0FC19E1D07B8806", "target": "L'abbiamo scampata per un soffio, ma sembra che la calma stia tornando nelle strade. Nella mia testa, però, si affollano mille domande! Torni a Ishgard in una compagnia davvero insolita, <if(gnum4,amica mia,amico mio)>!" }
   ]
 }
