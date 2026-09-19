@@ -1,9 +1,9 @@
 {
   "gameVersion": "2026.09.15.0000.0000",
   "translated": 22794,
-  "total": 461627,
-  "percent": 4.9,
-  "chars": 54799236,
+  "total": 722039,
+  "percent": 3.2,
+  "chars": 57752135,
   "unresolved": 5404,
   "groups": [
     {
@@ -400,16 +400,10 @@
       "expansion": null,
       "content": "Ambient text: NPC chatter, shouts, balloons, duties and guides",
       "translated": 50,
-      "total": 102399
+      "total": 362811
     }
   ],
   "excludedFromLocalization": [
-    {
-      "expansion": null,
-      "content": "Item names (`Item`)",
-      "translated": 0,
-      "total": 173452
-    },
     {
       "expansion": null,
       "content": "Duty names (`ContentFinderCondition`)",
@@ -420,7 +414,7 @@
       "expansion": null,
       "content": "No English to translate",
       "translated": 5,
-      "total": 688
+      "total": 1904
     }
   ]
 }
