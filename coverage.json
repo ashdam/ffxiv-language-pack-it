@@ -1,9 +1,9 @@
 {
   "gameVersion": "2026.09.15.0000.0000",
-  "translated": 22794,
-  "total": 722039,
-  "percent": 3.2,
-  "chars": 57752135,
+  "translated": 48968,
+  "total": 736175,
+  "percent": 6.7,
+  "chars": 58290401,
   "unresolved": 5404,
   "groups": [
     {
@@ -123,7 +123,7 @@
     {
       "expansion": "Stormblood",
       "content": "Main scenario",
-      "translated": 0,
+      "translated": 10952,
       "total": 10967
     },
     {
@@ -177,7 +177,7 @@
     {
       "expansion": "Shadowbringers",
       "content": "Main scenario",
-      "translated": 0,
+      "translated": 14785,
       "total": 14807
     },
     {
@@ -231,7 +231,7 @@
     {
       "expansion": "Endwalker",
       "content": "Main scenario",
-      "translated": 0,
+      "translated": 437,
       "total": 19912
     },
     {
@@ -400,7 +400,7 @@
       "expansion": null,
       "content": "Ambient text: NPC chatter, shouts, balloons, duties and guides",
       "translated": 50,
-      "total": 362811
+      "total": 376947
     }
   ],
   "excludedFromLocalization": [
@@ -413,8 +413,8 @@
     {
       "expansion": null,
       "content": "No English to translate",
-      "translated": 5,
-      "total": 1904
+      "translated": 8,
+      "total": 1915
     }
   ]
 }
