@@ -2,8 +2,8 @@
   "conversation": "cut_scene/053/VoiceMan_05301",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "cut_scene/053/VoiceMan_05301#TEXT_VOICEMAN_05301_000040_THANCRED", "hash": "81045714CD24AC13", "target": "" },
-    { "gameKey": "cut_scene/053/VoiceMan_05301#TEXT_VOICEMAN_05301_000050_ELIDIBUS", "hash": "63A283FBE00F13CC", "target": "" },
-    { "gameKey": "cut_scene/053/VoiceMan_05301#TEXT_VOICEMAN_05301_000060_ELIDIBUS", "hash": "753BCA50DF83B5CC", "target": "" }
+    { "gameKey": "cut_scene/053/VoiceMan_05301#TEXT_VOICEMAN_05301_000040_THANCRED", "hash": "81045714CD24AC13", "target": "Maledizione! Aggrappatevi a qualcosa!" },
+    { "gameKey": "cut_scene/053/VoiceMan_05301#TEXT_VOICEMAN_05301_000050_ELIDIBUS", "hash": "63A283FBE00F13CC", "target": "Per il mio popolo─per il nostro mondo, ti abbatterò." },
+    { "gameKey": "cut_scene/053/VoiceMan_05301#TEXT_VOICEMAN_05301_000060_ELIDIBUS", "hash": "753BCA50DF83B5CC", "target": "No... Non posso fallire... Non <italic(1)>fallirò<italic(0)>..." }
   ]
 }

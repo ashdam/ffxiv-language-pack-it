@@ -2,18 +2,18 @@
   "conversation": "quest/031/StmBdf101_03179",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_SEQ_00", "hash": "00C3C87DEBEEEBAE", "target": "" },
-    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_SEQ_01", "hash": "A30D162ABC47CBE7", "target": "" },
-    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_SEQ_02", "hash": "0D73F2F845AC79B4", "target": "" },
-    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_SEQ_03", "hash": "67F0461443440845", "target": "" },
-    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_TODO_00", "hash": "650119CE63BA48AF", "target": "" },
-    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_TODO_01", "hash": "9BA0B13D3AFA31E8", "target": "" },
-    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_KRILE_000_000", "hash": "4705B6C548187499", "target": "" },
-    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_ALIANNE_100_001", "hash": "7E1B9C44F2BAEF70", "target": "" },
-    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_ALISAIE_000_010", "hash": "9E55E51AAD9ABE2B", "target": "" },
-    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_KRILE_000_015", "hash": "2D299D67DE948036", "target": "" },
-    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_MATOYA_000_016", "hash": "C011CD5294D3F8DD", "target": "" },
-    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_ALISAIE_000_020", "hash": "F1001911A74931D6", "target": "" },
-    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_ALISAIE_000_021", "hash": "FD9E9CCC9E5BB602", "target": "" }
+    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_SEQ_00", "hash": "00C3C87DEBEEEBAE", "target": "Alisaie è al limite della sopportazione." },
+    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_SEQ_01", "hash": "A30D162ABC47CBE7", "target": "Raggiungi le Pietre Sorgenti e trovi Alisaie al limite della sopportazione. Proprio mentre si chiede quale dei crescenti problemi degli Eredi affrontare per primo, Krile arriva a riportare la calma. Dopo aver esaminato i malati in infermeria, Krile giunge alla stessa conclusione della Veggente Anziana: è come se le anime dei loro compagni avessero abbandonato i corpi. Si offre di seguire le tracce del loro etere, ma per farlo avrà bisogno dell'Occhio di Cristallo della maestra Matoya. Pare che sia il momento di recarsi nelle Dravanian Hinterlands." },
+    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_SEQ_02", "hash": "0D73F2F845AC79B4", "target": "Ti riunisci agli altri nella Matoya's Cave e Krile tenta di rintracciare le anime scomparse dei tuoi compagni colpiti dal male. Nonostante ogni sforzo, però, i fili d'etere sembrano interrompersi bruscamente. In preda alla confusione e allo sgomento, decidi di concentrarti sulle questioni presenti. Alisaie ha ricevuto notizia da Lyse che alcuni Populares hanno disertato dall'Impero ed è ansiosa di conoscere il destino di Alphinaud." },
+    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_SEQ_03", "hash": "67F0461443440845", "target": "Raggiungi Alisaie fuori dalla Matoya's Cave. Nonostante i modi bruschi dell'anziana, pare che le sue parole abbiano risollevato molto il morale di Alisaie." },
+    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_TODO_00", "hash": "650119CE63BA48AF", "target": "Parlare con Alisaie davanti alla Matoya's Cave" },
+    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_TODO_01", "hash": "9BA0B13D3AFA31E8", "target": "Parlare con Alisaie" },
+    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_KRILE_000_000", "hash": "4705B6C548187499", "target": "Ti prego di tenere per te il discorsetto di Alphinaud. A volte sa essere terribilmente suscettibile..." },
+    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_ALIANNE_100_001", "hash": "7E1B9C44F2BAEF70", "target": "Le loro anime hanno lasciato i corpi, ma sono ancora vivi? Non sapevo nemmeno che fosse possibile..." },
+    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_ALISAIE_000_010", "hash": "9E55E51AAD9ABE2B", "target": "Avevo sentito dire che la maestra Matoya fosse una sorta di eremita, ma questo mi pare... estremo. Tuttavia, ignorerò volentieri le sue eccentricità se accetterà di aiutarci." },
+    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_KRILE_000_015", "hash": "2D299D67DE948036", "target": "Mi dispiace di non aver potuto fare di più. Non avevo mai visto il filo di un'anima interrompersi così bruscamente..." },
+    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_MATOYA_000_016", "hash": "C011CD5294D3F8DD", "target": "Non fare quella faccia. Shtola è sopravvissuta alla deriva nel Flusso Vitale, no? La sua anima è resistente come poche─e lo stesso vale per tutti gli allievi di Louisoix. Quindi smetti di chiederti se li rivedrai e concentrati su ciò che puoi fare qui e ora." },
+    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_ALISAIE_000_020", "hash": "F1001911A74931D6", "target": "Dunque era lei la donna che ha domato Y'shtola... Ho avuto la netta sensazione che mi afferrasse per la collottola e mi scrollasse via tutte le sciocchezze." },
+    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_ALISAIE_000_021", "hash": "FD9E9CCC9E5BB602", "target": "Quando Alphinaud sarà tornato, vorrei farle un'altra visita e chiederle quali storie conosce sul nonno." }
   ]
 }

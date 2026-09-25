@@ -2,13 +2,13 @@
   "conversation": "quest/037/LucKmh102_03762",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/037/LucKmh102_03762#TEXT_LUCKMH102_03762_SEQ_00", "hash": "6C3FBDBB6C632061", "target": "" },
-    { "gameKey": "quest/037/LucKmh102_03762#TEXT_LUCKMH102_03762_TODO_00", "hash": "00CECD5F0E087C27", "target": "" },
-    { "gameKey": "quest/037/LucKmh102_03762#TEXT_LUCKMH102_03762_KRILE_000_000", "hash": "213CBF0265FDFC99", "target": "" },
-    { "gameKey": "quest/037/LucKmh102_03762#TEXT_LUCKMH102_03762_KRILE_000_001", "hash": "281703C828C2B646", "target": "" },
-    { "gameKey": "quest/037/LucKmh102_03762#TEXT_LUCKMH102_03762_KRILE_000_002", "hash": "73FA468BD786045C", "target": "" },
-    { "gameKey": "quest/037/LucKmh102_03762#TEXT_LUCKMH102_03762_MYSTERYVOICE_000_010", "hash": "755DBA0EB8510EC4", "target": "" },
-    { "gameKey": "quest/037/LucKmh102_03762#TEXT_LUCKMH102_03762_MYSTERYVOICE_000_011", "hash": "DB12EF5B88E8953D", "target": "" },
-    { "gameKey": "quest/037/LucKmh102_03762#TEXT_LUCKMH102_03762_MYSTERYVOICE_000_012", "hash": "F87072C97447B6F3", "target": "" }
+    { "gameKey": "quest/037/LucKmh102_03762#TEXT_LUCKMH102_03762_SEQ_00", "hash": "6C3FBDBB6C632061", "target": "Krile vede la ferrea determinazione nei tuoi occhi e sospetta di sapere dove ti chiami il dovere." },
+    { "gameKey": "quest/037/LucKmh102_03762#TEXT_LUCKMH102_03762_TODO_00", "hash": "00CECD5F0E087C27", "target": "Parlare con l'Esarca di Cristallo nell'Osservatorio" },
+    { "gameKey": "quest/037/LucKmh102_03762#TEXT_LUCKMH102_03762_KRILE_000_000", "hash": "213CBF0265FDFC99", "target": "Immagino che tu <if(gnum4,sia pronta,sia pronto)> a tornare nel Primo?" },
+    { "gameKey": "quest/037/LucKmh102_03762#TEXT_LUCKMH102_03762_KRILE_000_001", "hash": "281703C828C2B646", "target": "Allora ti chiederei di informare gli altri dei recenti avvenimenti nell'Origine. In particolare, il ritorno di Zenos e lo sviluppo di una nuova Arma Ultima. Quanto ai loro corpi, puoi assicurare loro che la maestra Matoya e io continueremo a fare il possibile per mantenere stabile il loro etere corporeo." },
+    { "gameKey": "quest/037/LucKmh102_03762#TEXT_LUCKMH102_03762_KRILE_000_002", "hash": "73FA468BD786045C", "target": "Buon viaggio, <split(<string(gstr1)>, ,1)>. Spero di rivedere presto te e gli altri Eredi." },
+    { "gameKey": "quest/037/LucKmh102_03762#TEXT_LUCKMH102_03762_MYSTERYVOICE_000_010", "hash": "755DBA0EB8510EC4", "target": "Giungi in un momento assai opportuno, <if(gnum4,amica mia,amico mio)>. Ho compiuto una sorta di svolta nelle mie ricerche sull'anima e su un mezzo per riportare a casa gli Eredi. Confido che anche tu abbia fatto buon uso del tuo tempo?" },
+    { "gameKey": "quest/037/LucKmh102_03762#TEXT_LUCKMH102_03762_MYSTERYVOICE_000_011", "hash": "DB12EF5B88E8953D", "target": "Cattive notizie dall'Origine, dici?" },
+    { "gameKey": "quest/037/LucKmh102_03762#TEXT_LUCKMH102_03762_MYSTERYVOICE_000_012", "hash": "F87072C97447B6F3", "target": "Allora convocherò gli altri affinché tutti possiamo essere informati della situazione." }
   ]
 }
