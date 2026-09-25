@@ -2,19 +2,19 @@
   "conversation": "quest/033/LucKmb108_03309",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_SEQ_00", "hash": "72C675384558BAF8", "target": "" },
-    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_TODO_00", "hash": "2D4F9FAC4E0D83F1", "target": "" },
-    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_TODO_01", "hash": "C8AAB956BBD52A4E", "target": "" },
-    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_TODO_02", "hash": "0A6B861077053BE2", "target": "" },
-    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_OULSIGUN_000_000", "hash": "F32A4DD7E0A8EB9D", "target": "" },
-    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_OULSIGUN_000_001", "hash": "2A380C1038A8BB6D", "target": "" },
-    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_OULSIGUN_000_002", "hash": "D13044F615125A99", "target": "" },
-    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_OULSIGUN_000_003", "hash": "5C233B038E762D80", "target": "" },
-    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_OULSIGUN_000_010", "hash": "D034981AF092D1AF", "target": "" },
-    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_BALLOON_000_020", "hash": "391BB7C8B2378B2E", "target": "" },
-    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_BALLOON_000_021", "hash": "F393012C14FB788E", "target": "" },
-    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_OULSIGUN_000_030", "hash": "1BEFFCF54028B139", "target": "" },
-    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_OULSIGUN_000_031", "hash": "3D12C2D72ADB82EC", "target": "" },
-    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_OULSIGUN_000_032", "hash": "4128786D761A10E5", "target": "" }
+    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_SEQ_00", "hash": "72C675384558BAF8", "target": "Oul Sigun ha sete della tua gentilezza." },
+    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_TODO_00", "hash": "2D4F9FAC4E0D83F1", "target": "Attingere acqua dal Lago Longmirror" },
+    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_TODO_01", "hash": "C8AAB956BBD52A4E", "target": "Dare l'acqua agli uomini foglia" },
+    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_TODO_02", "hash": "0A6B861077053BE2", "target": "Parlare con Oul Sigun" },
+    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_OULSIGUN_000_000", "hash": "F32A4DD7E0A8EB9D", "target": "Mortale, mortale, ascolta la mia supplica! I nostri preziosi bambini hanno sete e ho bisogno che tu porti loro dell'acqua." },
+    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_OULSIGUN_000_001", "hash": "2A380C1038A8BB6D", "target": "Chi sono i nostri bambini, chiedi? Ma sono gli uomini foglia che vedi sparsi per il villaggio. Adorabili, vero?" },
+    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_OULSIGUN_000_002", "hash": "D13044F615125A99", "target": "Ora dovrai andare al Lago Longmirror per attingere l'acqua. Quando l'avrai presa, assicurati di inzuppare per bene i nostri bambini." },
+    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_OULSIGUN_000_003", "hash": "5C233B038E762D80", "target": "Oh, ma fa' attenzione: i Fuath dimorano nel lago. Tendono a giocare in modo un po' violento, quindi sta' in guardia!" },
+    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_OULSIGUN_000_010", "hash": "D034981AF092D1AF", "target": "Agli estranei potranno sembrare tutti uguali, ma per noi ciascuno dei nostri bambini è unico e speciale!" },
+    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_BALLOON_000_020", "hash": "391BB7C8B2378B2E", "target": "Oh, oh, <if(gnum4,una mortale,un mortale)>!" },
+    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_BALLOON_000_021", "hash": "F393012C14FB788E", "target": "Vuoi dell'acqua? Te ne riempiremo i polmoni!" },
+    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_OULSIGUN_000_030", "hash": "1BEFFCF54028B139", "target": "Hai dato l'acqua ai nostri bambini? Grazie infinite!" },
+    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_OULSIGUN_000_031", "hash": "3D12C2D72ADB82EC", "target": "Ci sono tutti molto cari. Arrivarono a Il Mheg come mortali smarriti, ma ci affezionammo a loro e decidemmo di accoglierli." },
+    { "gameKey": "quest/033/LucKmb108_03309#TEXT_LUCKMB108_03309_OULSIGUN_000_032", "hash": "4128786D761A10E5", "target": "Anche tu e i tuoi compagni sareste diventati nostri bambini, ma l'incantesimo non ha attecchito bene come speravamo. Naturalmente, non è mai troppo tardi..." }
   ]
 }

@@ -2,19 +2,19 @@
   "conversation": "quest/033/LucKmb107_03308",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_SEQ_00", "hash": "48DAA1417B715F57", "target": "" },
-    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_TODO_00", "hash": "878FE6C7BA05DCDE", "target": "" },
-    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_TODO_01", "hash": "866EA6123042439E", "target": "" },
-    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_YSIALA_000_000", "hash": "BB3753C6866D3E4E", "target": "" },
-    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_YSIALA_000_001", "hash": "9A864102E696B426", "target": "" },
-    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_YSIALA_000_002", "hash": "DD1FA80EE7D2F3D9", "target": "" },
-    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_YSIALA_000_010", "hash": "A2CA210C7714C76E", "target": "" },
-    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_SYSTEM_000_020", "hash": "7ACBFA6A6FB5A109", "target": "" },
-    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_YSIALA_000_030", "hash": "675440BBD19E73E2", "target": "" },
-    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_YSIALA_000_031", "hash": "16AE9905FF167372", "target": "" },
-    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_YSIALA_000_032", "hash": "DB480A1C1A513AEE", "target": "" },
-    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_YSIALA_000_033", "hash": "903DBE8E1D6188DC", "target": "" },
-    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_YSIALA_000_034", "hash": "FEF8EEF2A6254643", "target": "" },
-    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_YSIALA_000_035", "hash": "C744B7A0A689D6B6", "target": "" }
+    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_SEQ_00", "hash": "48DAA1417B715F57", "target": "Ys Iala è affamata del tuo aiuto." },
+    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_TODO_00", "hash": "878FE6C7BA05DCDE", "target": "Ottenere i frutti dagli alberi campana" },
+    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_TODO_01", "hash": "866EA6123042439E", "target": "Consegnare i frutti campana a Ys Iala" },
+    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_YSIALA_000_000", "hash": "BB3753C6866D3E4E", "target": "Uuungh... Ho così tanta fame che potrei svenire..." },
+    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_YSIALA_000_001", "hash": "9A864102E696B426", "target": "Frutta─un po' di frutta mi rimetterà in sesto... Puoi andare a prenderne un po' per me?" },
+    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_YSIALA_000_002", "hash": "DD1FA80EE7D2F3D9", "target": "Appena fuori dal villaggio troverai una collinetta. Lì crescono due grandi alberi campana. Se gli dai una scossa, dovrebbero lasciar cadere i loro dolci e succulenti frutti." },
+    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_YSIALA_000_010", "hash": "A2CA210C7714C76E", "target": "Gli alberi crescono sulla collinetta qui vicino. Sbrigati a portarmi i loro frutti─potrei svenire da un momento all'altro..." },
+    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_SYSTEM_000_020", "hash": "7ACBFA6A6FB5A109", "target": "Un insetto cade insieme al frutto!" },
+    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_YSIALA_000_030", "hash": "675440BBD19E73E2", "target": "Uuungh... Che fame... Hai preso i frutti?" },
+    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_YSIALA_000_031", "hash": "16AE9905FF167372", "target": "Oh, grazie infinite... Mi hai salvata, ih ih ih..." },
+    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_YSIALA_000_032", "hash": "DB480A1C1A513AEE", "target": "Sì, mi hai salvata dalla noia! Avresti dovuto vedere la tua faccia quando sono caduti gli insetti! Ih ih ih!" },
+    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_YSIALA_000_033", "hash": "903DBE8E1D6188DC", "target": "Ahhh, mi hai reso un grande servizio, mortale. Se c'è una cosa che noi pixie prendiamo sul serio, è il divertimento!" },
+    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_YSIALA_000_034", "hash": "FEF8EEF2A6254643", "target": "Le cose noiose e dolorose? Le odio, odio, <italic(1)>odio<italic(0)>! I divorapeccati sono sia noiosi sia dolorosi, perciò odiamo soprattutto loro!" },
+    { "gameKey": "quest/033/LucKmb107_03308#TEXT_LUCKMB107_03308_YSIALA_000_035", "hash": "C744B7A0A689D6B6", "target": "Voi mortali cercate di combattere quelle mostruosità, ma non c'è alcun divertimento. Meglio evitarle del tutto, diciamo noi!" }
   ]
 }

@@ -2,15 +2,15 @@
   "conversation": "quest/036/LucKmg105_03677",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/036/LucKmg105_03677#TEXT_LUCKMG105_03677_SEQ_00", "hash": "9FE4086308F7C9E7", "target": "" },
-    { "gameKey": "quest/036/LucKmg105_03677#TEXT_LUCKMG105_03677_TODO_00", "hash": "AF7E0CE1E474C00B", "target": "" },
-    { "gameKey": "quest/036/LucKmg105_03677#TEXT_LUCKMG105_03677_TODO_01", "hash": "8C1350DECEB233B7", "target": "" },
-    { "gameKey": "quest/036/LucKmg105_03677#TEXT_LUCKMG105_03677_ALPHINAUD_000_000", "hash": "688041C67A09EFA1", "target": "" },
-    { "gameKey": "quest/036/LucKmg105_03677#TEXT_LUCKMG105_03677_HALRIC_000_005", "hash": "0727762745B31788", "target": "" },
-    { "gameKey": "quest/036/LucKmg105_03677#TEXT_LUCKMG105_03677_KAISHIRR_000_020", "hash": "2BE1016CE19E1260", "target": "" },
-    { "gameKey": "quest/036/LucKmg105_03677#TEXT_LUCKMG105_03677_KAISHIRR_000_040", "hash": "AE80C9090F407804", "target": "" },
-    { "gameKey": "quest/036/LucKmg105_03677#TEXT_LUCKMG105_03677_ALPHINAUD_000_060", "hash": "8513828C05CC0C30", "target": "" },
-    { "gameKey": "quest/036/LucKmg105_03677#TEXT_LUCKMG105_03677_KAISHIRR_000_061", "hash": "8644477B185590AC", "target": "" },
-    { "gameKey": "quest/036/LucKmg105_03677#TEXT_LUCKMG105_03677_ALPHINAUD_000_062", "hash": "2FC97E9C406C26FF", "target": "" }
+    { "gameKey": "quest/036/LucKmg105_03677#TEXT_LUCKMG105_03677_SEQ_00", "hash": "9FE4086308F7C9E7", "target": "Kai-Shirr è impaziente di ricondurre te e Alphinaud a Eulmore." },
+    { "gameKey": "quest/036/LucKmg105_03677#TEXT_LUCKMG105_03677_TODO_00", "hash": "AF7E0CE1E474C00B", "target": "Parlare con Alphinaud a Eulmore" },
+    { "gameKey": "quest/036/LucKmg105_03677#TEXT_LUCKMG105_03677_TODO_01", "hash": "8C1350DECEB233B7", "target": "Cercare Dulia-Chai" },
+    { "gameKey": "quest/036/LucKmg105_03677#TEXT_LUCKMG105_03677_ALPHINAUD_000_000", "hash": "688041C67A09EFA1", "target": "Cosa mai può essere tanto urgente da spingere lady Chai a convocarci così?" },
+    { "gameKey": "quest/036/LucKmg105_03677#TEXT_LUCKMG105_03677_HALRIC_000_005", "hash": "0727762745B31788", "target": "M... Mamma... Ali..." },
+    { "gameKey": "quest/036/LucKmg105_03677#TEXT_LUCKMG105_03677_KAISHIRR_000_020", "hash": "2BE1016CE19E1260", "target": "Lady Chai è nel salotto. Meglio non farla aspettare, eh?" },
+    { "gameKey": "quest/036/LucKmg105_03677#TEXT_LUCKMG105_03677_KAISHIRR_000_040", "hash": "AE80C9090F407804", "target": "Sono stati quelli del Crystarium a dirmi che eravate a Journey's Head. E per mia fortuna c'eravate ancora. È stancante correre dietro alla gente." },
+    { "gameKey": "quest/036/LucKmg105_03677#TEXT_LUCKMG105_03677_ALPHINAUD_000_060", "hash": "8513828C05CC0C30", "target": "Be', qui non sembra esserci nulla di insolito, anche se non vedo lady Chai da nessuna parte." },
+    { "gameKey": "quest/036/LucKmg105_03677#TEXT_LUCKMG105_03677_KAISHIRR_000_061", "hash": "8644477B185590AC", "target": "Probabilmente cammina di nuovo là fuori. Fissa l'orizzonte e tutto il resto. E sospira." },
+    { "gameKey": "quest/036/LucKmg105_03677#TEXT_LUCKMG105_03677_ALPHINAUD_000_062", "hash": "2FC97E9C406C26FF", "target": "Strano. Vediamo se riusciamo a trovarla e a scoprire la causa della sua angoscia." }
   ]
 }
