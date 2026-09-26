@@ -1,10 +1,17 @@
 {
   "_comment": [
+    "Estinien and Alphinaud use tu with each other from VoiceMan_06000_000140 onwards; earlier voi entries apply before that scene.",
     "How each speaker addresses the player and, where it matters, other characters. Format: docs/glossary.md of ffxiv-corpus-en.",
     "player is «tu» or «voi»; «Lei» is never used. Spanish tú maps to tu and usted to voi, so corpus-es/glossary/register.json decides a speaker it already measured.",
     "why names the source that settled it: the Spanish file, the Japanese (number and the cases French defaults away from) or the French (formality)."
   ],
   "register": {
+    "MABLU": {"player":"voi","others":{"WUKLAMAT":"voi","KRILE":"tu","TOBLI":"tu"},"confidence":"high","why":"French address in KinGma113_04872_036, KinGma114_04873_049 and 129, and KinGma118_04877_076 and 087. Keep plural address to the party."},
+    "TOBLI": {"player":"voi","others":{"WUKLAMAT":"voi","MABLU":"tu"},"confidence":"high","why":"French address in KinGma114_04873_039 and KinGma118_04877_024 and 063."},
+    "NIDHANA": {"player":"tu","confidence":"high","why":"French tu in VoiceMan_06000_004750 and AktKma116_04372_063. Keep plural address to the party."},
+    "ERENVILLE": {"player":"tu","confidence":"high","why":"French tu and familiar Japanese in VoiceMan_06000_002030. Formal voi to the Forum representative in 002730."},
+    "AMELIANCE": {"player":"voi","others":{"ALPHINAUD":"tu","ALISAIE":"tu"},"confidence":"high","why":"French vous and polite Japanese invitation in VoiceMan_06000_004060. Familiar address to her children in 004090 and 004240."},
+    "OJIKATSUNJIKA": {"player":"tu","confidence":"high","why":"Familiar Japanese requests in AktKmm103_04753_OJIKATSUNJIKA_000_303 and 000_305."},
     "JERYK": {"player":"tu","confidence":"high","why":"Japanese kimi and familiar requests in LucKmd108_03613_JERYK_000_040 and 000_113."},
     "THAFFE": {"player":"voi","confidence":"medium","why":"French formal requests in LucKmd110_03615_THAFFE_000_115. Keep plural address to the party."},
 
