@@ -2,8 +2,8 @@
   "conversation": "cut_scene/044/VoiceMan_04401",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "cut_scene/044/VoiceMan_04401#TEXT_VOICEMAN_04401_000010_YUGIRI", "hash": "4392A0ECB72AFD1A", "target": "" },
-    { "gameKey": "cut_scene/044/VoiceMan_04401#TEXT_VOICEMAN_04401_000020_HIEN", "hash": "DFF3C2B2F509FA4F", "target": "" },
+    { "gameKey": "cut_scene/044/VoiceMan_04401#TEXT_VOICEMAN_04401_000010_YUGIRI", "hash": "4392A0ECB72AFD1A", "target": "Preparatevi, amici. Siamo giunti al Burn." },
+    { "gameKey": "cut_scene/044/VoiceMan_04401#TEXT_VOICEMAN_04401_000020_HIEN", "hash": "DFF3C2B2F509FA4F", "target": "Tutti a terra! Atterrate dove potete! Dobbiamo aspettare che passi la tempesta!" },
     { "gameKey": "cut_scene/044/VoiceMan_04401#TEXT_VOICEMAN_04401_000050_SUZAKU", "hash": "12AE8A9D52B22DEB", "target": "" }
   ]
 }
