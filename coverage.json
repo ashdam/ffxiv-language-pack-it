@@ -1,16 +1,16 @@
 {
   "gameVersion": "2026.09.15.0000.0000",
-  "translated": 48968,
-  "total": 736175,
-  "percent": 6.7,
-  "chars": 58290401,
+  "translated": 56823,
+  "total": 736325,
+  "percent": 7.7,
+  "chars": 58291794,
   "unresolved": 5404,
   "groups": [
     {
       "expansion": "A Realm Reborn",
       "content": "Main scenario",
-      "translated": 14415,
-      "total": 14415
+      "translated": 14284,
+      "total": 14284
     },
     {
       "expansion": "A Realm Reborn",
@@ -39,8 +39,8 @@
     {
       "expansion": "A Realm Reborn",
       "content": "Normal Raids, Alliance Raids & Trials",
-      "translated": 0,
-      "total": 1746
+      "translated": 131,
+      "total": 1906
     },
     {
       "expansion": "A Realm Reborn",
@@ -69,8 +69,8 @@
     {
       "expansion": "Heavensward",
       "content": "Main scenario",
-      "translated": 8321,
-      "total": 8350
+      "translated": 8318,
+      "total": 8318
     },
     {
       "expansion": "Heavensward",
@@ -99,8 +99,8 @@
     {
       "expansion": "Heavensward",
       "content": "Normal Raids, Alliance Raids & Trials",
-      "translated": 0,
-      "total": 2031
+      "translated": 3,
+      "total": 2034
     },
     {
       "expansion": "Heavensward",
@@ -123,8 +123,8 @@
     {
       "expansion": "Stormblood",
       "content": "Main scenario",
-      "translated": 10952,
-      "total": 10967
+      "translated": 10954,
+      "total": 10954
     },
     {
       "expansion": "Stormblood",
@@ -154,7 +154,7 @@
       "expansion": "Stormblood",
       "content": "Normal Raids, Alliance Raids & Trials",
       "translated": 0,
-      "total": 3361
+      "total": 3374
     },
     {
       "expansion": "Stormblood",
@@ -177,8 +177,8 @@
     {
       "expansion": "Shadowbringers",
       "content": "Main scenario",
-      "translated": 14785,
-      "total": 14807
+      "translated": 15222,
+      "total": 15222
     },
     {
       "expansion": "Shadowbringers",
@@ -208,7 +208,7 @@
       "expansion": "Shadowbringers",
       "content": "Normal Raids, Alliance Raids & Trials",
       "translated": 0,
-      "total": 4249
+      "total": 4271
     },
     {
       "expansion": "Shadowbringers",
@@ -231,8 +231,8 @@
     {
       "expansion": "Endwalker",
       "content": "Main scenario",
-      "translated": 437,
-      "total": 19912
+      "translated": 5402,
+      "total": 20102
     },
     {
       "expansion": "Endwalker",
@@ -262,7 +262,7 @@
       "expansion": "Endwalker",
       "content": "Normal Raids, Alliance Raids & Trials",
       "translated": 0,
-      "total": 3501
+      "total": 3555
     },
     {
       "expansion": "Endwalker",
@@ -285,8 +285,8 @@
     {
       "expansion": "Dawntrail",
       "content": "Main scenario",
-      "translated": 0,
-      "total": 18009
+      "translated": 2451,
+      "total": 17283
     },
     {
       "expansion": "Dawntrail",
@@ -316,7 +316,7 @@
       "expansion": "Dawntrail",
       "content": "Normal Raids, Alliance Raids & Trials",
       "translated": 0,
-      "total": 2493
+      "total": 2538
     },
     {
       "expansion": "Dawntrail",
@@ -400,7 +400,7 @@
       "expansion": null,
       "content": "Ambient text: NPC chatter, shouts, balloons, duties and guides",
       "translated": 50,
-      "total": 376947
+      "total": 377097
     }
   ],
   "excludedFromLocalization": [
