@@ -1,9 +1,9 @@
 {
   "gameVersion": "2026.09.15.0000.0000",
-  "translated": 56823,
-  "total": 736325,
-  "percent": 7.7,
-  "chars": 58291794,
+  "translated": 86355,
+  "total": 736339,
+  "percent": 11.7,
+  "chars": 58291934,
   "unresolved": 5404,
   "groups": [
     {
@@ -231,7 +231,7 @@
     {
       "expansion": "Endwalker",
       "content": "Main scenario",
-      "translated": 5402,
+      "translated": 20102,
       "total": 20102
     },
     {
@@ -285,7 +285,7 @@
     {
       "expansion": "Dawntrail",
       "content": "Main scenario",
-      "translated": 2451,
+      "translated": 17283,
       "total": 17283
     },
     {
@@ -400,7 +400,7 @@
       "expansion": null,
       "content": "Ambient text: NPC chatter, shouts, balloons, duties and guides",
       "translated": 50,
-      "total": 377097
+      "total": 377111
     }
   ],
   "excludedFromLocalization": [
