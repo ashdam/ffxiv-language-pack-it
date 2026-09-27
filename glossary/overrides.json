@@ -5,6 +5,11 @@
     "fr and ja are copied from corpus lines; empty means that language uses no fixed term."
   ],
   "terms": [
+    {"en":"watcher","it":"Custode","protect":false,"note":"The lunar guardian of Zodiark's seal. Keep Watcher's Palace in English."},
+    {"en":"Crystal Tower","it":"Torre di Cristallo","protect":false,"note":"The building in prose. Keep quest-series and interface labels in English."},
+    {"en":"Endsinger","it":"Cantatrice della Fine","protect":false,"note":"Epithet in prose. Keep boss names and combat objectives in English. Unverified Italian coinage."},
+    {"en":"hyperhopper","it":"iperpropulsore","protect":false,"note":"Loporrit device for travel between stars. Unverified Italian coinage."},
+    {"en":"nouliths","it":"nouliti","protect":false,"note":"Generic sage weapons in prose; singular noulito. Keep UI and enemy labels in English. Unverified Italian coinage."},
     {"en":"warding scale","it":"scaglia protettiva","protect":false,"note":"Thavnair talisman. Plural: scaglie protettive. Unverified Italian coinage."},
     {"en":"scholarch","it":"Scolarca","protect":false,"note":"Head of the Studium. Unverified Italian coinage."},
     {"en":"Mothercrystal","it":"Cristallo Madre","protect":false,"note":"Hydaelyn's crystal. Keep the duty title The Mothercrystal in English. Unverified Italian coinage."},
@@ -1821,7 +1826,10 @@
     { "en": "Duergar's Tewel", "it": "Sfiatatoio del Duergar", "protect": false },
     { "en": "3-D MineRunner", "it": "Corsa in Miniera 3-D", "protect": false, "note": "The three traits are discernimento, diligenza and destrezza." },
     { "en": "sunless sea", "it": "mare senza sole", "protect": false },
-    { "en": "sunless sea of heaven", "it": "mare celeste privo di sole", "protect": false }
+    { "en": "sunless sea of heaven", "it": "mare celeste privo di sole", "protect": false },
+    { "en": "Daybreakers", "it": "Albori", "protect": false, "note": "Shaaloani gang. Keep English creature nameplates." },
+    { "en": "the Dawnblazer", "it": "la Fiamma dell'Alba", "protect": false, "note": "The locomotive. Keep Dawnblazer item names in English." },
+    { "en": "Magus Sisters", "it": "Sorelle Magus", "protect": false, "note": "Use the Italian series name for the deities; keep item names in English. https://www.playstation.com/it-it/games/final-fantasy-xiv-online/" }
   ],
   "_emotes_comment": [
     "Stage directions FFXIV writes as literal on-screen text, \\<sigh>, not as macros. The backslash is the game's escape and must survive; the word inside is translated."

@@ -6,6 +6,7 @@
     "why names the source that settled it: the Spanish file, the Japanese (number and the cases French defaults away from) or the French (formality)."
   ],
   "register": {
+    "BLOEWYDA": {"player":"tu","others":{"URIANGER":"tu"},"confidence":"medium","why":"Familiar Japanese anta in AktKmf107_04445_350 and plain address in AktKmg103_04452_080. French vous is unmarked here."},
     "MABLU": {"player":"voi","others":{"WUKLAMAT":"voi","KRILE":"tu","TOBLI":"tu"},"confidence":"high","why":"French address in KinGma113_04872_036, KinGma114_04873_049 and 129, and KinGma118_04877_076 and 087. Keep plural address to the party."},
     "TOBLI": {"player":"voi","others":{"WUKLAMAT":"voi","MABLU":"tu"},"confidence":"high","why":"French address in KinGma114_04873_039 and KinGma118_04877_024 and 063."},
     "NIDHANA": {"player":"tu","confidence":"high","why":"French tu in VoiceMan_06000_004750 and AktKma116_04372_063. Keep plural address to the party."},
