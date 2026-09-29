@@ -1,3 +1,5 @@
+> We currently have no Italian language reviewer on the team. If you are a native Italian speaker and would like to help review the translation, contact me on Discord: **miniashdam**.
+
 # Language pack in italiano per FFXIV (non ufficiale)
 
 Traduzione italiana dei testi di Final Fantasy XIV per il plugin di Dalamud
