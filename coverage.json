@@ -1,10 +1,10 @@
 {
   "gameVersion": "2026.09.15.0000.0000",
-  "translated": 86355,
-  "total": 736339,
-  "percent": 11.7,
-  "chars": 58291934,
-  "unresolved": 5404,
+  "translated": 91832,
+  "total": 737578,
+  "percent": 12.5,
+  "chars": 58484477,
+  "unresolved": 5455,
   "groups": [
     {
       "expansion": "A Realm Reborn",
@@ -21,7 +21,7 @@
     {
       "expansion": "A Realm Reborn",
       "content": "Side quests — blue",
-      "translated": 0,
+      "translated": 4426,
       "total": 4426
     },
     {
@@ -39,7 +39,7 @@
     {
       "expansion": "A Realm Reborn",
       "content": "Normal Raids, Alliance Raids & Trials",
-      "translated": 131,
+      "translated": 160,
       "total": 1906
     },
     {
@@ -376,13 +376,13 @@
       "expansion": null,
       "content": "Buttons, tabs, headers (`Addon`)",
       "translated": 0,
-      "total": 14877
+      "total": 14849
     },
     {
       "expansion": null,
       "content": "Title screen, character creation (`Lobby`)",
-      "translated": 0,
-      "total": 1034
+      "translated": 1022,
+      "total": 1022
     },
     {
       "expansion": null,
@@ -400,7 +400,7 @@
       "expansion": null,
       "content": "Ambient text: NPC chatter, shouts, balloons, duties and guides",
       "translated": 50,
-      "total": 377111
+      "total": 378390
     }
   ],
   "excludedFromLocalization": [
@@ -413,8 +413,9 @@
     {
       "expansion": null,
       "content": "No English to translate",
-      "translated": 8,
-      "total": 1915
+      "translated": 20,
+      "total": 2055
     }
-  ]
+  ],
+  "futureLocalization": []
 }
