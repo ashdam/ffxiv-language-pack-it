@@ -2,19 +2,19 @@
   "conversation": "quest/005/SubGsc105_00565",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_SEQ_00", "hash": "E580641586785318", "target": "" },
-    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_SEQ_01", "hash": "EC6D4B0A97451E65", "target": "" },
-    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_SEQ_02", "hash": "3B05F5F9535ADBB5", "target": "" },
-    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_TODO_00", "hash": "346AD43178CFE548", "target": "" },
-    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_KATERING_000_000", "hash": "E6EB4C958CE9CA7D", "target": "" },
-    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_KATERING_000_001", "hash": "7D4F4A6EB68A148F", "target": "" },
-    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_KATERING_000_003", "hash": "92B92420B92C1822", "target": "" },
-    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_CHOCOBORACE00565_000_020", "hash": "3B75A0F6FAB3E3FF", "target": "" },
-    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_CHOCOBORACE00565_000_021", "hash": "560A0C1332078E63", "target": "" },
-    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_CHOCOBORACE00565_000_022", "hash": "D75A4D336233914E", "target": "" },
-    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_CHOCOBORACE00565_000_023", "hash": "7BD175F57E59DEAA", "target": "" },
-    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_SYSTEM_000_030", "hash": "D8F0B7D6AF95120E", "target": "" },
-    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_SYSTEM_000_040", "hash": "184821490446CB1A", "target": "" },
-    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_SYSTEM_000_041", "hash": "690E5BECD734BE19", "target": "" }
+    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_SEQ_00", "hash": "E580641586785318", "target": "Katering ti lancia uno sguardo curioso e sembra sul punto di farti una domanda." },
+    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_SEQ_01", "hash": "EC6D4B0A97451E65", "target": "Ricordandoti che il tuo ingresso fra i fantini di chocobo non è ancora completo, Katering ti invita a tornare al Gold Saucer per registrare il tuo nuovo pulcino. Torna al banco delle corse in Chocobo Square e parla di nuovo con l'addetta alla registrazione dei chocobo da corsa." },
+    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_SEQ_02", "hash": "3B05F5F9535ADBB5", "target": "L'addetta ti accoglie e spiega che, dopo l'approvazione della registrazione, ti basterà parlarle per partecipare alla prima corsa. Presenta il modulo all'addestratrice dei chocobo da corsa per completare la procedura e muovere i primi passi come fantino!" },
+    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_TODO_00", "hash": "346AD43178CFE548", "target": "Parlare con l'addetta alla registrazione dei chocobo da corsa al Gold Saucer" },
+    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_KATERING_000_000", "hash": "E6EB4C958CE9CA7D", "target": "Mh? Sei ancora qui? Pensavo fossi già in viaggio, con tutta quella voglia di provare le corse e il resto." },
+    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_KATERING_000_001", "hash": "7D4F4A6EB68A148F", "target": "Beh, se non lo ricordi, lo ripeto: devi consegnare quel modulo al banco delle corse del Gold Saucer. Solo allora potrai partecipare alle corse ufficiali di chocobo." },
+    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_KATERING_000_003", "hash": "92B92420B92C1822", "target": "A che serve una chocobo da corsa se non la cavalchi mai? Su, vai a registrarla al Gold Saucer." },
+    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_CHOCOBORACE00565_000_020", "hash": "3B75A0F6FAB3E3FF", "target": "Il nostro nuovo talento delle corse è tornato─con il modulo di registrazione del <if(gnum4,suo,suo)> pulcino, spero?" },
+    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_CHOCOBORACE00565_000_021", "hash": "560A0C1332078E63", "target": "Ma certo. Chi aspira tanto a entrare fra i campioni onorati non commetterebbe la sciocchezza di smarrire documenti essenziali!" },
+    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_CHOCOBORACE00565_000_022", "hash": "D75A4D336233914E", "target": "La nostra addestratrice dei chocobo da corsa registra i nuovi pulcini. Presentatele il modulo e vi guiderà nella procedura." },
+    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_CHOCOBORACE00565_000_023", "hash": "7BD175F57E59DEAA", "target": "E quando avrete superato quell'ultimo ostacolo burocratico, tornate da me: organizzerò il vostro debutto!" },
+    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_SYSTEM_000_030", "hash": "D8F0B7D6AF95120E", "target": "Le corse di chocobo sono ora disponibili." },
+    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_SYSTEM_000_040", "hash": "184821490446CB1A", "target": "Per partecipare alle corse di chocobo, parla prima con l'addestratrice dei chocobo da corsa per registrare il tuo pulcino." },
+    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_SYSTEM_000_041", "hash": "690E5BECD734BE19", "target": "Poi parla di nuovo con l'addetta alla registrazione e iscriviti al corso di addestramento per imparare le basi delle corse di chocobo." }
   ]
 }

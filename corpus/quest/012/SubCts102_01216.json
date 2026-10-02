@@ -2,19 +2,19 @@
   "conversation": "quest/012/SubCts102_01216",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_SEQ_00", "hash": "37A97814F38D5D1B", "target": "" },
-    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_SEQ_01", "hash": "E5763F351E21369D", "target": "" },
-    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_SEQ_02", "hash": "94347881E1971441", "target": "" },
-    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_TODO_00", "hash": "B0B10661C08CC678", "target": "" },
-    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_HUGUBERT_000_000", "hash": "A57C1B56FD0D970E", "target": "" },
-    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_HUGUBERT_000_001", "hash": "CFB6028D6F193AE5", "target": "" },
-    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_HUGUBERT_000_002", "hash": "62C898D2278DE1E1", "target": "" },
-    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_HUGUBERT_000_003", "hash": "B521010E4B976266", "target": "" },
-    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_STONETORCH_000_010", "hash": "435F75FBABC7B3A6", "target": "" },
-    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_STONETORCH_000_011", "hash": "922EC81BA79264BC", "target": "" },
-    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_STONETORCH_000_012", "hash": "0D8389191CE40500", "target": "" },
-    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_STONETORCH_000_013", "hash": "C793606AD69C9B9D", "target": "" },
-    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_STONETORCH_000_014", "hash": "3DE4BAFB472C7DC0", "target": "" },
-    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_STONETORCH_000_015", "hash": "AAC98B5F0BA9E6C3", "target": "" }
+    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_SEQ_00", "hash": "37A97814F38D5D1B", "target": "Hugubert del Pedaggio del Redivivo ha notizie da condividere in assoluta confidenza." },
+    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_SEQ_01", "hash": "E5763F351E21369D", "target": "A bassa voce, Hugubert ti porta brutte notizie dalle miniere di Copperbell. I terribili ecatonchiri, che si credevano respinti negli abissi oscuri, sono riemersi e molti minatori ottimisti hanno pagato con la vita il ritorno troppo frettoloso al lavoro. Il tuo informatore ti invita a parlare con la Fiaccola di Pietra all'esterno delle miniere, nel Thanalan occidentale, per scoprire se puoi fare qualcosa." },
+    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_SEQ_02", "hash": "94347881E1971441", "target": "L'orgogliosa Fiaccola di Pietra ammette a malincuore che gli ecatonchiri sono tornati a infestare le miniere e che sono nemici troppo potenti per la sua tanto vantata unità. L'intera attività mineraria è a rischio se la nuova minaccia non verrà affrontata subito. Pare che Copperbell abbia di nuovo bisogno del tuo aiuto.<br><br>※Puoi accedere a Copperbell Mines (Hard) tramite il Duty Finder." },
+    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_TODO_00", "hash": "B0B10661C08CC678", "target": "Parlare con la Fiaccola di Pietra alle Copperbell Mines" },
+    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_HUGUBERT_000_000", "hash": "A57C1B56FD0D970E", "target": "Ultimamente ho visto sempre più visitatori in questo posto dimenticato dagli dei. Perlopiù veterani in cerca di una prova degna del loro valore. Immagino di poter contare anche te fra loro?" },
+    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_HUGUBERT_000_001", "hash": "CFB6028D6F193AE5", "target": "Senti, non l'hai saputo da me, ma pare che le Copperbell Mines somiglino parecchio all'ottavo inferno, ultimamente." },
+    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_HUGUBERT_000_002", "hash": "62C898D2278DE1E1", "target": "Le Fiaccole di Pietra vogliono farci credere di avere tutto sotto controllo, ma un minatore che conosco non è d'accordo. Dice che le Fiaccole sono molto più brave a mettere a tacere le voci che gli ecatonchiri, se capisci cosa intendo." },
+    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_HUGUBERT_000_003", "hash": "B521010E4B976266", "target": "Perché ti rivelo tutto questo? Temo per la vita del mio amico, e anche per la mia se quei colossi mostruosi arrivassero in superficie. Se cerchi una sfida, perché non passi <italic(1)>per caso<italic(0)> da Copperbell a offrire i tuoi servizi?" },
+    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_STONETORCH_000_010", "hash": "435F75FBABC7B3A6", "target": "<if(gnum4,Un'avventuriera,Un avventuriero)>? A dispetto delle voci infondate, vi assicuro che le vostre misere capacità non servono qui. Nessun ecatonchiro è tornato nelle miniere e, anche se <italic(1)>fosse<italic(0)> successo, le Fiaccole di Pietra affronterebbero la minaccia con rapidità ed efficienza, come sempre... hm?" },
+    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_STONETORCH_000_011", "hash": "922EC81BA79264BC", "target": "Ehm. Non so cosa abbiate sentito, ma di certo <italic(1)>non<italic(0)> era l'urlo straziante di un povero minatore fra le fauci di un gigante assetato di sangue, nato da abissi dimenticati dagli dei." },
+    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_STONETORCH_000_012", "hash": "0D8389191CE40500", "target": "...Ah, sette inferni! È vero, tutto! Pensavamo di averli visti per l'ultima volta, ma ci sbagliavamo! Orribilmente, terribilmente! Abbiamo abbassato la guardia e ora Copperbell è invasa da una dannata legione di quei demoni, uno peggiore dell'altro." },
+    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_STONETORCH_000_013", "hash": "C793606AD69C9B9D", "target": "Abbiamo già perso decine di uomini nel caos. I pochi tornati vivi dicono che persino gli spriggan, un tempo docili, sono impazziti e attaccano i poveri minatori a frotte. Alla faccia dei presagi di ricchezza e fortuna, eh?" },
+    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_STONETORCH_000_014", "hash": "3DE4BAFB472C7DC0", "target": "Le Fiaccole di Pietra detestano affidarsi alla forza degli estranei, ma non posso più anteporre lo sciocco orgoglio alla vita di bravi uomini." },
+    { "gameKey": "quest/012/SubCts102_01216#TEXT_SUBCTS102_01216_STONETORCH_000_015", "hash": "AAC98B5F0BA9E6C3", "target": "Avete già liberato queste miniere. Le Fiaccole─anzi, l'intera nazione di Ul'dah─vi sarebbero eternamente grate se ripeteste l'impresa. Vi supplico: ricacciate quei demoni negli abissi, perché non riemergano mai più." }
   ]
 }

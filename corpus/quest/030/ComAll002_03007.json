@@ -2,14 +2,14 @@
   "conversation": "quest/030/ComAll002_03007",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SEQ_01", "hash": "B5B1A2E2D8107FD5", "target": "" },
-    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SOFTKNOX_000_000", "hash": "AA881281B0523247", "target": "" },
-    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SOFTKNOX_000_001", "hash": "62815908EDEC8D7D", "target": "" },
-    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SOFTKNOX_000_002", "hash": "309AD5F453E972F8", "target": "" },
-    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SOFTKNOX_000_003", "hash": "962764C849A3D713", "target": "" },
-    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SOFTKNOX_000_050", "hash": "36FD9946A9327B9B", "target": "" },
-    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SYSTEM_000_051", "hash": "E9AADEA3E5B5FF08", "target": "" },
-    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SYSTEM_000_052", "hash": "8136B34484D37098", "target": "" },
-    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SYSTEM_000_053", "hash": "D413B943C72569BA", "target": "" }
+    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SEQ_01", "hash": "B5B1A2E2D8107FD5", "target": "Softknox ti ha parlato di Rival Wings, un nuovo gioco di guerra che impiega macchine costruite dai goblin. Se questo gioco-botte ti fa venire i batticuori, puoi chiedere altre informazioni a Softknox... oppure tuffarti subito nell'azione.<br><br>※Puoi accedere ad Astragalos tramite il Duty Finder." },
+    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SOFTKNOX_000_000", "hash": "AA881281B0523247", "target": "Pshhh... Shkohhh...<br>Softknox viene a posto lupi, scopre che altaterra hanno tanti batticuori per gioco-botte." },
+    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SOFTKNOX_000_001", "hash": "62815908EDEC8D7D", "target": "Softknox vede occasione per affarifare. Offre aiutomano gobbie perché altaterra abbiano gioco-botte <italic(1)>migliore<italic(0)>. Tanto osso schiacciato e acciaio spaccato!" },
+    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SOFTKNOX_000_002", "hash": "309AD5F453E972F8", "target": "Ora nasce nuovo gioco-botte, nome «Rival Wings»! Macchine di gobbiefattura aiutano altaterra a fare tanto caos insieme!" },
+    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SOFTKNOX_000_003", "hash": "962764C849A3D713", "target": "Se altaterra vuole riempire scatolacervello con saperi di Rival Wings, Softknox felice di fare tanti linguasvolazzi!" },
+    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SOFTKNOX_000_050", "hash": "36FD9946A9327B9B", "target": "Pshhh... Shkohhh... Gobbie fanno nuovo gioco-botte per dare tanti batticuori. Altaterra ha vescica abbastanza forte per provare?" },
+    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SYSTEM_000_051", "hash": "E9AADEA3E5B5FF08", "target": "Per affrontare questa missione, devi soddisfare i seguenti requisiti:" },
+    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SYSTEM_000_052", "hash": "8136B34484D37098", "target": "※ Devi essere almeno al livello 30 con un Disciple of War o Magic." },
+    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SYSTEM_000_053", "hash": "D413B943C72569BA", "target": "※ Devi appartenere a una Grande Compagnia e aver sbloccato il Feast." }
   ]
 }

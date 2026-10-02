@@ -2,17 +2,17 @@
   "conversation": "quest/010/GaiUsc607_01007",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_SEQ_00", "hash": "2F216821668C2BCA", "target": "" },
-    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_SEQ_01", "hash": "42765C4A73EC2807", "target": "" },
-    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_SEQ_02", "hash": "22F4908220ED1210", "target": "" },
-    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_TODO_00", "hash": "4A07B199B38BF0F8", "target": "" },
-    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_URIANGER_000_000", "hash": "7E5D9477932C813F", "target": "" },
-    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_URIANGER_000_001", "hash": "33DF94A5B4D37C98", "target": "" },
-    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_URIANGER_000_002", "hash": "5467BB431DAFD8A2", "target": "" },
-    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_LEWIN_000_010", "hash": "8E5AF1F70118FBBF", "target": "" },
-    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_LEWIN_000_011", "hash": "E1BBE082ED083B60", "target": "" },
-    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_SYSTEM_EVENTAREA_WARP_YESNO_TITLE", "hash": "4E092937E3E2E34A", "target": "" },
-    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_SYSTEM_EVENTAREA_WARP_YESNO_YES", "hash": "A60ADA47A429C4AC", "target": "" },
-    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_SYSTEM_EVENTAREA_WARP_YESNO_NO", "hash": "C49A59133DA8FD45", "target": "" }
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_SEQ_00", "hash": "2F216821668C2BCA", "target": "Urianger ti guarda supplichevole, con il timore negli occhi." },
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_SEQ_01", "hash": "42765C4A73EC2807", "target": "Le voci sull'avvistamento di un primordiale nel Sudario preoccupano gravemente Urianger, che vorrebbe ne accertassi l'identità. Per prima cosa, cerca il consiglio del Signore dell'Arco Lewin." },
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_SEQ_02", "hash": "22F4908220ED1210", "target": "Il Signore dell'Arco Lewin ti dà il benvenuto ed esprime gratitudine per il tuo aiuto nell'indagine sul primordiale." },
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_TODO_00", "hash": "4A07B199B38BF0F8", "target": "Parlare con Lewin alla Sede del Primo Arco" },
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_URIANGER_000_000", "hash": "7E5D9477932C813F", "target": "<if(gnum4,Amica,Amico)> dell'alba, ascolta la mia supplica. Giungono da Gridania notizie funeste: un primordiale percorre il Sudario." },
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_URIANGER_000_001", "hash": "33DF94A5B4D37C98", "target": "Coloro che hanno veduto quello spirito arcano, e sono tornati a narrarlo, affermano di non aver mai contemplato nulla di simile." },
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_URIANGER_000_002", "hash": "5467BB431DAFD8A2", "target": "La Faretra degli Dei indaga in questo momento e mi pare che il Signore dell'Arco Lewin accoglierebbe volentieri l'aiuto di chi sa affrontare le avventure. Recati dunque alla Sede del Primo Arco e getta la tua luce sulla questione." },
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_LEWIN_000_010", "hash": "8E5AF1F70118FBBF", "target": "<split(<string(gstr1)>, ,2)>. Ho sentito molto parlare delle tue imprese in questi giorni." },
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_LEWIN_000_011", "hash": "E1BBE082ED083B60", "target": "Sei qui per aiutarci a indagare sul primordiale, vero? Il tuo aiuto è molto gradito." },
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_SYSTEM_EVENTAREA_WARP_YESNO_TITLE", "hash": "4E092937E3E2E34A", "target": "Procedere verso la Sede del Primo Arco?" },
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_SYSTEM_EVENTAREA_WARP_YESNO_YES", "hash": "A60ADA47A429C4AC", "target": "Sì" },
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_SYSTEM_EVENTAREA_WARP_YESNO_NO", "hash": "C49A59133DA8FD45", "target": "No" }
   ]
 }
