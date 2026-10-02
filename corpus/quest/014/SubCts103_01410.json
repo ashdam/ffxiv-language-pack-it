@@ -2,19 +2,19 @@
   "conversation": "quest/014/SubCts103_01410",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/014/SubCts103_01410#TEXT_SUBCTS103_01410_SEQ_00", "hash": "52D279CF60D1225C", "target": "" },
-    { "gameKey": "quest/014/SubCts103_01410#TEXT_SUBCTS103_01410_SEQ_01", "hash": "674CF29BD0FF3FC2", "target": "" },
-    { "gameKey": "quest/014/SubCts103_01410#TEXT_SUBCTS103_01410_SEQ_02", "hash": "741F1688B4FE2FD6", "target": "" },
-    { "gameKey": "quest/014/SubCts103_01410#TEXT_SUBCTS103_01410_TODO_00", "hash": "47FF4E3F7B5A63F8", "target": "" },
-    { "gameKey": "quest/014/SubCts103_01410#TEXT_SUBCTS103_01410_HUGUBERT_000_000", "hash": "6DFC66163F59F392", "target": "" },
-    { "gameKey": "quest/014/SubCts103_01410#TEXT_SUBCTS103_01410_HUGUBERT_000_001", "hash": "E16D95661CBAADC3", "target": "" },
-    { "gameKey": "quest/014/SubCts103_01410#TEXT_SUBCTS103_01410_HUGUBERT_000_002", "hash": "EA47730B88B1073D", "target": "" },
-    { "gameKey": "quest/014/SubCts103_01410#TEXT_SUBCTS103_01410_HUGUBERT_000_003", "hash": "8AFE005AAC98EBF5", "target": "" },
-    { "gameKey": "quest/014/SubCts103_01410#TEXT_SUBCTS103_01410_ARLH_000_000", "hash": "01A4C84F581C424A", "target": "" },
-    { "gameKey": "quest/014/SubCts103_01410#TEXT_SUBCTS103_01410_ARLH_000_001", "hash": "24F8138C7507CBFB", "target": "" },
-    { "gameKey": "quest/014/SubCts103_01410#TEXT_SUBCTS103_01410_ARLH_000_002", "hash": "8A15C6C9364021F6", "target": "" },
-    { "gameKey": "quest/014/SubCts103_01410#TEXT_SUBCTS103_01410_ARLH_000_003", "hash": "FC6852C748C8DE81", "target": "" },
-    { "gameKey": "quest/014/SubCts103_01410#TEXT_SUBCTS103_01410_ARLH_000_004", "hash": "220764A4210A76BD", "target": "" },
-    { "gameKey": "quest/014/SubCts103_01410#TEXT_SUBCTS103_01410_ARLH_000_005", "hash": "AE81CE40BA453696", "target": "" }
+    { "gameKey": "quest/014/SubCts103_01410#TEXT_SUBCTS103_01410_SEQ_00", "hash": "52D279CF60D1225C", "target": "Hugubert ha sentito di grandi imprese a Halatali e vuole condividere con te quei racconti di trionfo." },
+    { "gameKey": "quest/014/SubCts103_01410#TEXT_SUBCTS103_01410_SEQ_01", "hash": "674CF29BD0FF3FC2", "target": "Secondo Hugubert, i campi d'addestramento di Halatali sono stati riaperti agli sfidanti e la tua fama di combattente d'esperienza ti precede. Se vuoi accettare la sua offerta, torna nell'arena rinnovata e parla con la sua sentinella, Arlh." },
+    { "gameKey": "quest/014/SubCts103_01410#TEXT_SUBCTS103_01410_SEQ_02", "hash": "741F1688B4FE2FD6", "target": "Arlh ti informa che l'antica trappola mortale è ora un dungeon ben organizzato. Sebbene molti richiedano i tuoi talenti, non puoi negare il fascino di metterti alla prova a Halatali.<br><br>※Puoi accedere a Halatali (Hard) tramite il Duty Finder." },
+    { "gameKey": "quest/014/SubCts103_01410#TEXT_SUBCTS103_01410_TODO_00", "hash": "47FF4E3F7B5A63F8", "target": "Parlare con Arlh a Halatali" },
+    { "gameKey": "quest/014/SubCts103_01410#TEXT_SUBCTS103_01410_HUGUBERT_000_000", "hash": "6DFC66163F59F392", "target": "Ah, <if(gnum4,un'avventuriera capace,un avventuriero capace)> di farsi valere in battaglia. Ho appena saputo di una nuova sfida per una persona del tuo talento. Ci vorranno un po' di viaggio e un pizzico d'eroismo, ma ne varrà la pena." },
+    { "gameKey": "quest/014/SubCts103_01410#TEXT_SUBCTS103_01410_HUGUBERT_000_001", "hash": "E16D95661CBAADC3", "target": "Il Thanalan orientale è bellissimo in questo periodo dell'anno. Avrai sentito parlare dei campi d'addestramento di Halatali. Dopo la Calamità il posto è caduto... in disuso, ma qualche avventuriero l'ha rimesso a posto." },
+    { "gameKey": "quest/014/SubCts103_01410#TEXT_SUBCTS103_01410_HUGUBERT_000_002", "hash": "EA47730B88B1073D", "target": "I proprietari vogliono tornare ad addestrare gladiatori e avventurieri, come un tempo. Un po' di vernice, qualche sepoltura di massa e ora il posto è pronto ad accogliere gli sfidanti." },
+    { "gameKey": "quest/014/SubCts103_01410#TEXT_SUBCTS103_01410_HUGUBERT_000_003", "hash": "8AFE005AAC98EBF5", "target": "Se l'idea ti interessa, vai laggiù a parlare con il mio amico Arlh. Ti farà entrare." },
+    { "gameKey": "quest/014/SubCts103_01410#TEXT_SUBCTS103_01410_ARLH_000_000", "hash": "01A4C84F581C424A", "target": "Ti do il benvenuto a Halatali, dove nascono gli eroi! Sono Arlh e ogni amico di Hugubert è per me una conoscenza molto gradita!" },
+    { "gameKey": "quest/014/SubCts103_01410#TEXT_SUBCTS103_01410_ARLH_000_001", "hash": "24F8138C7507CBFB", "target": "Non ti ha detto che un tempo calcava l'arena, eh? Ho cercato di convincere quel figlio d'idra dalla parlantina sciolta a tornare a fare il gladiatore, ma... si distrae facilmente, Hugubert." },
+    { "gameKey": "quest/014/SubCts103_01410#TEXT_SUBCTS103_01410_ARLH_000_002", "hash": "8A15C6C9364021F6", "target": "Scommetto che non ha collegato le cose quando ha sentito il tuo nome. Sei <if(gnum4,la ragazza,il ragazzo)> di cui parlava Fafajoni laggiù, vero?" },
+    { "gameKey": "quest/014/SubCts103_01410#TEXT_SUBCTS103_01410_ARLH_000_003", "hash": "FC6852C748C8DE81", "target": "Ah, lo sapevo! <if(gnum4,La liberatrice,Il liberatore)> di Halatali in persona! Grazie a te, là dentro è tornato tutto bello e letale. Dobbiamo riportare i giochi del Colosseo agli antichi fasti!" },
+    { "gameKey": "quest/014/SubCts103_01410#TEXT_SUBCTS103_01410_ARLH_000_004", "hash": "220764A4210A76BD", "target": "Ti avverto, non è un luogo di lusso. Avrebbe ancora bisogno di una sistemata e ci sono bestiacce in agguato da ammazzare per bene. Ma a quelle pensano le Lame d'Ottone." },
+    { "gameKey": "quest/014/SubCts103_01410#TEXT_SUBCTS103_01410_ARLH_000_005", "hash": "AE81CE40BA453696", "target": "Allora, che ne dici? Ti va di provare i nuovi campi d'addestramento migliorati? Sarebbe un onore accogliere di nuovo chi ha liberato Halatali, questa volta come sfidante!" }
   ]
 }

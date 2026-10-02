@@ -2,15 +2,15 @@
   "conversation": "quest/008/GaiUsa907_00802",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_SEQ_00", "hash": "06F024E26DB2284E", "target": "" },
-    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_SEQ_01", "hash": "47C59927545571FC", "target": "" },
-    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_SEQ_02", "hash": "4F3238714A9897DF", "target": "" },
-    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_TODO_00", "hash": "AD7F617C3E5EBC13", "target": "" },
-    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_TYOHMOUI_000_000", "hash": "641D88628A603907", "target": "" },
-    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_TYOHMOUI_000_001", "hash": "06A6ACA0232626A0", "target": "" },
-    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_TYOHMOUI_000_002", "hash": "8366548F9113CA77", "target": "" },
-    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_FRANCHEMONTIAUX_000_020", "hash": "6441E2F38BD36146", "target": "" },
-    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_FRANCHEMONTIAUX_000_021", "hash": "096FAF41592A17A8", "target": "" },
-    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_FRANCHEMONTIAUX_000_022", "hash": "127395BE909CF1D9", "target": "" }
+    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_SEQ_00", "hash": "06F024E26DB2284E", "target": "Tyoh Moui vuole concederti il passaggio attraverso White Wolf Gate." },
+    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_SEQ_01", "hash": "47C59927545571FC", "target": "In riconoscimento delle tue recenti imprese, il caporale delle Vipere Tyoh Moui ti ha aperto White Wolf Gate. Per attraversarla, mostra il lasciapassare al custode Franchemontiaux." },
+    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_SEQ_02", "hash": "4F3238714A9897DF", "target": "Presentando il lasciapassare, hai ottenuto libero accesso a White Wolf Gate. Ogni volta che vorrai attraversarla, ti basterà parlare con Franchemontiaux." },
+    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_TODO_00", "hash": "AD7F617C3E5EBC13", "target": "Parlare con Franchemontiaux" },
+    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_TYOHMOUI_000_000", "hash": "641D88628A603907", "target": "<split(<string(gstr1)>, ,1)>, giusto? Ho seguito le vostre imprese con grande interesse." },
+    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_TYOHMOUI_000_001", "hash": "06A6ACA0232626A0", "target": "Avete servito bene <switch(gnum70,Limsa Lominsa,Gridania,Ul'dah)>, ma credo che le vostre imprese più grandi debbano ancora venire. Con queste alte aspettative, vorrei concedervi il passaggio attraverso <switch(gnum70,la White Wolf Gate di Gridania,la nostra White Wolf Gate,la White Wolf Gate di Gridania)>." },
+    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_TYOHMOUI_000_002", "hash": "8366548F9113CA77", "target": "Prendete questo lasciapassare e mostratelo al custode Franchemontiaux. Preparatevi bene alle battaglie che vi attendono e sono certa che presto sentirò ancora parlare delle vostre imprese." },
+    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_FRANCHEMONTIAUX_000_020", "hash": "6441E2F38BD36146", "target": "Solo chi possiede un lasciapassare può attraversare White Wolf Gate. È per il vostro bene: le bestie feroci che si aggirano oltre farebbero a pezzi chiunque si avventurasse senza preparazione." },
+    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_FRANCHEMONTIAUX_000_021", "hash": "096FAF41592A17A8", "target": "Avete i documenti? Vediamo... Sì, sembra tutto in ordine." },
+    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_FRANCHEMONTIAUX_000_022", "hash": "127395BE909CF1D9", "target": "Andate senza timore, <split(<string(gstr1)>, ,1)>. In futuro, se vorrete passare, basterà dirlo." }
   ]
 }

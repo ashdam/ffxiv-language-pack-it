@@ -2,19 +2,19 @@
   "conversation": "quest/006/SubWil140_00697",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_SEQ_00", "hash": "FAADB9AB306363FF", "target": "" },
-    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_SEQ_01", "hash": "9C7C3FD43DF0349C", "target": "" },
-    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_SEQ_02", "hash": "A07D83ED3C82858F", "target": "" },
-    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_TODO_00", "hash": "462385E53E8D1E96", "target": "" },
-    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_NEDRICK_000_000", "hash": "8849A81D3498A94D", "target": "" },
-    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_NEDRICK_000_001", "hash": "E93C875CF3849A42", "target": "" },
-    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_NEDRICK_000_002", "hash": "163327203C8C89AC", "target": "" },
-    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_NEDRICK_000_003", "hash": "1AFADD1CF753D2FA", "target": "" },
-    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_FAFAJONI_000_10", "hash": "1B42DFAD4F365A2C", "target": "" },
-    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_FAFAJONI_000_11", "hash": "598FF5FECC6BDEF4", "target": "" },
-    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_FAFAJONI_000_12", "hash": "BEB79D89237E5370", "target": "" },
-    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_FAFAJONI_000_13", "hash": "D849FE818755D649", "target": "" },
-    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_FAFAJONI_000_14", "hash": "9A8AAF4FE844B83F", "target": "" },
-    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_FAFAJONI_000_15", "hash": "00A9F85B61935D16", "target": "" }
+    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_SEQ_00", "hash": "FAADB9AB306363FF", "target": "Nedrick degli Eredi della Settima Alba ha informazioni utili da condividere." },
+    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_SEQ_01", "hash": "9C7C3FD43DF0349C", "target": "Nedrick ti ha parlato di un campo d'addestramento nel Thanalan orientale chiamato Halatali. Trova l'ingresso e parla con il soldato delle Fiamme Fafajoni." },
+    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_SEQ_02", "hash": "A07D83ED3C82858F", "target": "Nedrick e Fafajoni ti hanno spiegato che nei corridoi abbandonati di Halatali dimorano bestie pericolose. Con una certa riluttanza, il soldato delle Fiamme ti ha permesso di usare il vecchio campo d'addestramento come preferisci.<br><br>※Puoi accedere a Halatali tramite il Duty Finder." },
+    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_TODO_00", "hash": "462385E53E8D1E96", "target": "Parlare con Fafajoni a Halatali" },
+    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_NEDRICK_000_000", "hash": "8849A81D3498A94D", "target": "Salve! Sono Nedrick Ironheart, esploratore di professione ed Erede per fedeltà. E <italic(1)>tu<italic(0)> mi sembri in cerca di una sfida. Conosco proprio il posto giusto." },
+    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_NEDRICK_000_001", "hash": "E93C875CF3849A42", "target": "In un angolo appartato del Thanalan orientale sorge Halatali: lì troverai tutte le emozioni che desideri. Il luogo vanta una lunga storia. Fu costruito circa un secolo fa come campo d'addestramento per gladiatori." },
+    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_NEDRICK_000_002", "hash": "163327203C8C89AC", "target": "La Calamità lo devastò, però, come quasi tutto il resto. Ora Halatali è solo l'ombra di ciò che era. Ma nell'oscurità di quell'ombra si nascondono bestie selvagge, assetate di sangue e innumerevoli. Per una persona come te, non c'è posto migliore per mettere alla prova l'abilità e affinare la tecnica." },
+    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_NEDRICK_000_003", "hash": "1AFADD1CF753D2FA", "target": "Mi sono già permesso di comunicare il tuo nome alle Fiamme che sorvegliano il posto. Se ci andrai, parla con Fafajoni vicino all'ingresso." },
+    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_FAFAJONI_000_10", "hash": "1B42DFAD4F365A2C", "target": "Se cercate le sale di Halatali, siete nel posto giusto." },
+    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_FAFAJONI_000_11", "hash": "598FF5FECC6BDEF4", "target": "Permettetemi di raccontarvi qualcosa di questo luogo. Il nome viene da una lingua antica: Halatali significa «la terra dalle molte ombre». Qui si stabilirono i nostri lontani antenati, e─<br>Bah, non avete fatto tanta strada per una lezione di storia." },
+    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_FAFAJONI_000_12", "hash": "BEB79D89237E5370", "target": "Sss, ascoltate. Non sentite gli ululati e i ruggiti? Non sentite come fanno tremare la terra sotto i vostri piedi?" },
+    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_FAFAJONI_000_13", "hash": "D849FE818755D649", "target": "Quei suoni non vengono dal vento, né quel tremore è opera delle ombre. Sono i richiami di Halatali: ora vi si nascondono le bestie un tempo custodite per il Colosseo." },
+    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_FAFAJONI_000_14", "hash": "9A8AAF4FE844B83F", "target": "E non sono bestie docili, domate dalla mano dell'uomo. No, alcune resistono persino alla forza delle Fiamme Immortali." },
+    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_FAFAJONI_000_15", "hash": "00A9F85B61935D16", "target": "Dal vostro aspetto, dovete essere <split(<string(gstr1)>, ,1)>. Sì, Nedrick mi aveva avvertito della vostra possibile visita. Su sua raccomandazione, vi concedo libero accesso. Prego soltanto che sappiate trovare l'uscita." }
   ]
 }

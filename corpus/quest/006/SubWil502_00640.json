@@ -2,18 +2,18 @@
   "conversation": "quest/006/SubWil502_00640",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_SEQ_00", "hash": "016697E2BE9C05F2", "target": "" },
-    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_SEQ_01", "hash": "CE47C38E65786D2B", "target": "" },
-    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_SEQ_02", "hash": "F974F3A17923824D", "target": "" },
-    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_SEQ_03", "hash": "488DD54479C7FDE2", "target": "" },
-    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_TODO_00", "hash": "9EB0C7716C23D6FF", "target": "" },
-    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_TODO_01", "hash": "F36EA481445D03FA", "target": "" },
-    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_MUTAMIX_000", "hash": "1332621D8EF764D7", "target": "" },
-    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_MUTAMIX_001", "hash": "BB03C32112B2689D", "target": "" },
-    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_MUTAMIX_002", "hash": "B084191037A51196", "target": "" },
-    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_MUTAMIX_010", "hash": "5C15959FA63A1EB8", "target": "" },
-    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_MUTAMIX_011", "hash": "59BD9E2DFCBE9B91", "target": "" },
-    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_MUTAMIX_012", "hash": "B7B6C84DBD46010E", "target": "" },
-    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_MUTAMIX_013", "hash": "095450E14094C56E", "target": "" }
+    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_SEQ_00", "hash": "016697E2BE9C05F2", "target": "Hai appreso che Mutamix custodisce tecniche segrete per la materia..." },
+    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_SEQ_01", "hash": "CE47C38E65786D2B", "target": "Mutamix è disposto a insegnarti le sue tecniche segrete per incastonare la materia. Il goblin vuole però una prova della tua esperienza. Dimostra la tua abilità incastonando otto unità di materia davanti a lui." },
+    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_SEQ_02", "hash": "F974F3A17923824D", "target": "Hai incastonato il numero richiesto di unità di materia. Parla nuovamente con Mutamix per apprendere le sue conoscenze segrete." },
+    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_SEQ_03", "hash": "488DD54479C7FDE2", "target": "Mutamix ti insegna tecniche avanzate d'incastonatura che permettono di applicare a un oggetto più materia del normale. Sappi però che il successo non è garantito e che, in caso di fallimento, la materia va perduta." },
+    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_TODO_00", "hash": "9EB0C7716C23D6FF", "target": "Incastonare materia davanti a Mutamix" },
+    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_TODO_01", "hash": "F36EA481445D03FA", "target": "Parlare con Mutamix" },
+    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_MUTAMIX_000", "hash": "1332621D8EF764D7", "target": "Pshhh... Shkohhh...<br>Altaterra è uniscimateria?" },
+    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_MUTAMIX_001", "hash": "BB03C32112B2689D", "target": "Altaterra vuole unire tanto tanto, sì? Allora Mutamix fa tintinnare scatolacervello di altaterra con saperi segreti di materia!" },
+    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_MUTAMIX_002", "hash": "B084191037A51196", "target": "...Ma prima altaterra deve provare preparazione. Altaterra fa mostrafare e attacca otto pezzi di materia, poi altaterra e Mutamix scambiano ancora linguasvolazzi." },
+    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_MUTAMIX_010", "hash": "5C15959FA63A1EB8", "target": "Pshhh... Shkohhh...<br>Altaterra ha buona abilità di uniscifare! Mutamix dà ad altaterra saperi segreti di legaparole!" },
+    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_MUTAMIX_011", "hash": "59BD9E2DFCBE9B91", "target": "Perlopiù, uno strumentolotta tiene solo poca materia. Ma se altaterra usa abilità segreta di uniscifare, uno strumentolotta tiene molta materia... forse." },
+    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_MUTAMIX_012", "hash": "B7B6C84DBD46010E", "target": "Mutamix insegna ad altaterra abilità segreta di uniscifare... ma altaterra tiene in scatolacervello che a volte funziona sbagliato." },
+    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_MUTAMIX_013", "hash": "095450E14094C56E", "target": "Strumentolotta di altaterra terrà molta materia? O materia diventerà pezzettini? Usare abilità segreta di uniscifare non è per vesciche senzaforza!" }
   ]
 }

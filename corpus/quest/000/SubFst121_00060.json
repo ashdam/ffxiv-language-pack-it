@@ -2,18 +2,18 @@
   "conversation": "quest/000/SubFst121_00060",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/000/SubFst121_00060#TEXT_SUBFST121_00060_SEQ_00", "hash": "3DB3823C86B2BD77", "target": "" },
-    { "gameKey": "quest/000/SubFst121_00060#TEXT_SUBFST121_00060_SEQ_01", "hash": "C097C8A1E7C92832", "target": "" },
-    { "gameKey": "quest/000/SubFst121_00060#TEXT_SUBFST121_00060_SEQ_02", "hash": "41D0550773E6C014", "target": "" },
-    { "gameKey": "quest/000/SubFst121_00060#TEXT_SUBFST121_00060_TODO_00", "hash": "CC11CF443B626934", "target": "" },
-    { "gameKey": "quest/000/SubFst121_00060#TEXT_SUBFST121_00060_TIERNEY_000_01", "hash": "E561BC33A20355FD", "target": "" },
-    { "gameKey": "quest/000/SubFst121_00060#TEXT_SUBFST121_00060_TIERNEY_000_02", "hash": "0EC43A48510A98CF", "target": "" },
-    { "gameKey": "quest/000/SubFst121_00060#TEXT_SUBFST121_00060_RIBALD_000_01", "hash": "B600F2392626381A", "target": "" },
-    { "gameKey": "quest/000/SubFst121_00060#TEXT_SUBFST121_00060_RIBALD_000_02", "hash": "EE18B5C2ACCC71DE", "target": "" },
-    { "gameKey": "quest/000/SubFst121_00060#TEXT_SUBFST121_00060_RIBALD_000_03", "hash": "4F38E56B2527ABEF", "target": "" },
-    { "gameKey": "quest/000/SubFst121_00060#TEXT_SUBFST121_00060_RIBALD_000_04", "hash": "8323EF8933CE08C9", "target": "" },
-    { "gameKey": "quest/000/SubFst121_00060#TEXT_SUBFST121_00060_RIBALD_000_05", "hash": "BF982F88C1E40B95", "target": "" },
-    { "gameKey": "quest/000/SubFst121_00060#TEXT_SUBFST121_00060_SYSTEM_000_006", "hash": "6DCC37918DB3DB84", "target": "" },
-    { "gameKey": "quest/000/SubFst121_00060#TEXT_SUBFST121_00060_SYSTEM_000_007", "hash": "921F571FE4069586", "target": "" }
+    { "gameKey": "quest/000/SubFst121_00060#TEXT_SUBFST121_00060_SEQ_00", "hash": "3DB3823C86B2BD77", "target": "Tierney ritiene che tu possa partecipare a una guildhest." },
+    { "gameKey": "quest/000/SubFst121_00060#TEXT_SUBFST121_00060_SEQ_01", "hash": "C097C8A1E7C92832", "target": "Le guildhest sono operazioni speciali organizzate dalle Gilde degli Avventurieri e supervisionate dai responsabili di battaglia. Per saperne di più, parla con il responsabile di battaglia Ribald." },
+    { "gameKey": "quest/000/SubFst121_00060#TEXT_SUBFST121_00060_SEQ_02", "hash": "41D0550773E6C014", "target": "Il responsabile di battaglia Ribald spiega che le guildhest metteranno alla prova la tua capacità di collaborare per raggiungere un obiettivo comune. A meno che tu non intenda vivere tutte le tue avventure in solitudine, ti converrebbe partecipare almeno una volta." },
+    { "gameKey": "quest/000/SubFst121_00060#TEXT_SUBFST121_00060_TODO_00", "hash": "CC11CF443B626934", "target": "Parlare con il responsabile di battaglia Ribald" },
+    { "gameKey": "quest/000/SubFst121_00060#TEXT_SUBFST121_00060_TIERNEY_000_01", "hash": "E561BC33A20355FD", "target": "Se vi interessa una sfida diversa dalle solite levequest, potreste partecipare a una guildhest." },
+    { "gameKey": "quest/000/SubFst121_00060#TEXT_SUBFST121_00060_TIERNEY_000_02", "hash": "0EC43A48510A98CF", "target": "Per saperne di più, parlate con il responsabile di battaglia Ribald fuori da quella tenda. Lo informerò del vostro successo contro gli anole, così non avrà dubbi sulle vostre capacità." },
+    { "gameKey": "quest/000/SubFst121_00060#TEXT_SUBFST121_00060_RIBALD_000_01", "hash": "B600F2392626381A", "target": "Mi avevano detto che sarebbe arrivata una persona valorosa. Immagino sia tu? Allora lascia che ti spieghi le nostre operazioni attuali." },
+    { "gameKey": "quest/000/SubFst121_00060#TEXT_SUBFST121_00060_RIBALD_000_02", "hash": "EE18B5C2ACCC71DE", "target": "Aspetta... È forse la tua prima guildhest? Ricordo ancora la mia. Era la notte del mio ventesimo giorno del nome. I compagni di gilda mi invitarono a cacciare una famiglia di peiste che rubava uova di chocobo a Prati di Bentbranch." },
+    { "gameKey": "quest/000/SubFst121_00060#TEXT_SUBFST121_00060_RIBALD_000_03", "hash": "4F38E56B2527ABEF", "target": "Appena arrivammo, una di quelle terribili bestie si voltò verso di me e caricò. Era tre volte più grossa di me e aveva già mutilato diversi custodi di chocobo." },
+    { "gameKey": "quest/000/SubFst121_00060#TEXT_SUBFST121_00060_RIBALD_000_04", "hash": "8323EF8933CE08C9", "target": "Non potevo vincere, così rimasi immobile ad aspettare la fine. Ma allora ricordai che non ero solo. I miei amici si strinsero attorno a me e insieme sconfiggemmo i peiste! È questo il vero spirito di una guildhest." },
+    { "gameKey": "quest/000/SubFst121_00060#TEXT_SUBFST121_00060_RIBALD_000_05", "hash": "BF982F88C1E40B95", "target": "Che ne dici? Ti va di provare una hest?" },
+    { "gameKey": "quest/000/SubFst121_00060#TEXT_SUBFST121_00060_SYSTEM_000_006", "hash": "6DCC37918DB3DB84", "target": "Hai sbloccato il Duty Finder! Questa funzione permette di affrontare contenuti multigiocatore senza dover formare un gruppo autonomamente." },
+    { "gameKey": "quest/000/SubFst121_00060#TEXT_SUBFST121_00060_SYSTEM_000_007", "hash": "921F571FE4069586", "target": "Per aprire il Duty Finder, seleziona <colortype(500)><edgecolortype(501)>Duty Finder<edgecolortype(0)><colortype(0)> nella sezione <colortype(500)><edgecolortype(501)>Duty<edgecolortype(0)><colortype(0)> del <colortype(500)><edgecolortype(501)>menu principale<edgecolortype(0)><colortype(0)>." }
   ]
 }

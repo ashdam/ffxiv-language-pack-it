@@ -2,18 +2,18 @@
   "conversation": "quest/011/SubFst900_01135",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_SEQ_00", "hash": "909831A7F80ADC12", "target": "" },
-    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_SEQ_01", "hash": "96A3F337095A55E6", "target": "" },
-    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_SEQ_02", "hash": "969AD3825FDCB4F3", "target": "" },
-    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_TODO_00", "hash": "23C77B257CA7F3E3", "target": "" },
-    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_NEDRICK_000_000", "hash": "7F16FC17FE0EC1A0", "target": "" },
-    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_NEDRICK_000_001", "hash": "FD1A8047124D5CC6", "target": "" },
-    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_NEDRICK_000_002", "hash": "0E6884A7A1BB0876", "target": "" },
-    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_NEDRICK_000_003", "hash": "E1A602E51D6008CC", "target": "" },
-    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_MAXINNE_000_020", "hash": "79509E5984F0C5EB", "target": "" },
-    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_MAXINNE_000_021", "hash": "68D2F7D9A878134F", "target": "" },
-    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_MAXINNE_000_022", "hash": "BD478FF350CCD2A9", "target": "" },
-    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_SYSTEM_000_030", "hash": "6BB508974BF506FB", "target": "" },
-    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_SYSTEM_000_031", "hash": "F5CD30B225CBC1E4", "target": "" }
+    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_SEQ_00", "hash": "909831A7F80ADC12", "target": "Nedrick Ironheart ha informazioni che ti faranno sicuramente battere forte il cuore." },
+    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_SEQ_01", "hash": "96A3F337095A55E6", "target": "Intuendo che tu abbia bisogno di emozioni, Nedrick Ironheart ti parla di Amdapor Keep, una fortezza in rovina nel South Shroud. Se vuoi percorrerne le sale ed esplorare il passato, parla con Maxinne, la Sentinella Cupa che sorveglia l'ingresso." },
+    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_SEQ_02", "hash": "969AD3825FDCB4F3", "target": "Scopri che Amdapor Keep è infestata dagli Agnelli di Dalamud e dalle creature del Vuoto che hanno cominciato a evocare. Convinta che saprai affrontare simili nemici, Maxinne ti permette di entrare.<br><br>※Puoi accedere ad Amdapor Keep tramite il Duty Finder." },
+    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_TODO_00", "hash": "23C77B257CA7F3E3", "target": "Parlare con Maxinne ad Amdapor Keep" },
+    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_NEDRICK_000_000", "hash": "7F16FC17FE0EC1A0", "target": "Se posso dirlo, mi sembra che ultimamente ti manchino le emozioni. Sì, il torpore che ti circonda è quasi palpabile." },
+    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_NEDRICK_000_001", "hash": "FD1A8047124D5CC6", "target": "Gli avventurieri sono quasi parenti degli esploratori. Come noi, hanno bisogno di emozioni regolari, altrimenti finiscono per avvizzire e morire." },
+    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_NEDRICK_000_002", "hash": "0E6884A7A1BB0876", "target": "Non vorrei vederti fare quella fine, quindi ti parlerò di un posto che ti farà sicuramente battere forte il cuore: Amdapor Keep. È una fortezza in rovina nel South Shroud, risalente alla Quinta Era Astrale." },
+    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_NEDRICK_000_003", "hash": "E1A602E51D6008CC", "target": "Se l'idea di esplorare il passato ti accende il desiderio, la fortezza saprà certamente placarlo. L'ingresso è sorvegliato da una Sentinella Cupa di nome Maxinne. Falle il mio nome e ti dirà tutto ciò che serve." },
+    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_MAXINNE_000_020", "hash": "79509E5984F0C5EB", "target": "Vi manda Nedrick? Allora non dovete mancare di abilità. Tuttavia, è mio dovere avvertirvi dei pericoli che vi attendono." },
+    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_MAXINNE_000_021", "hash": "68D2F7D9A878134F", "target": "Questa fortezza fu costruita dagli abitanti di Amdapor, un popolo antico che raggiunse il potere grazie alle conoscenze arcane. Nel periodo di massimo splendore della loro civiltà, costruirono strutture magnifiche come questa." },
+    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_MAXINNE_000_022", "hash": "BD478FF350CCD2A9", "target": "Ahimè, quello splendore è ormai soltanto un ricordo e la fortezza è diventata un covo degli Agnelli di Dalamud, un culto apocalittico. Alcuni adepti sono persino riusciti a evocare creature del Vuoto. Noi Sentinelle Cupe accogliamo volentieri avventurieri capaci disposti a contenerne il numero." },
+    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_SYSTEM_000_030", "hash": "6BB508974BF506FB", "target": "Hai sbloccato il Duty Finder! Questa funzione permette di affrontare contenuti multigiocatore senza dover formare un gruppo per conto tuo." },
+    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_SYSTEM_000_031", "hash": "F5CD30B225CBC1E4", "target": "Per aprire l'interfaccia del Duty Finder, seleziona <colortype(500)><edgecolortype(501)>Duty Finder<edgecolortype(0)><colortype(0)> sotto <colortype(500)><edgecolortype(501)>Duty<edgecolortype(0)><colortype(0)> nel <colortype(500)><edgecolortype(501)>main menu<edgecolortype(0)><colortype(0)>." }
   ]
 }

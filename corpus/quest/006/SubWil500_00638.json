@@ -2,18 +2,18 @@
   "conversation": "quest/006/SubWil500_00638",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SEQ_00", "hash": "9D6BC80F0C5270F0", "target": "" },
-    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SEQ_01", "hash": "1788FF63C2B4A298", "target": "" },
-    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SEQ_02", "hash": "C843754FD487DD19", "target": "" },
-    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_TODO_00", "hash": "1F770C17B0A9296A", "target": "" },
-    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SWYNBROES_000", "hash": "76D7A8D86C4AC882", "target": "" },
-    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SWYNBROES_001", "hash": "BC6CCC4840BB1164", "target": "" },
-    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SWYNBROES_002", "hash": "B1CE4E2AF462370B", "target": "" },
-    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SWYNBROES_003", "hash": "61AAA79180150464", "target": "" },
-    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SWYNBROES_010", "hash": "24C4E154FC32119C", "target": "" },
-    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SWYNBROES_011", "hash": "627EBED364274E2D", "target": "" },
-    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SWYNBROES_012", "hash": "BB668E319F218D1A", "target": "" },
-    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SWYNBROES_013", "hash": "89A31ABC91790EC4", "target": "" },
-    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SYSTEM_014", "hash": "22EB495213FCF6F2", "target": "" }
+    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SEQ_00", "hash": "9D6BC80F0C5270F0", "target": "Swynbroes desidera divulgare i segreti della creazione della materia." },
+    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SEQ_01", "hash": "1788FF63C2B4A298", "target": "Al Falò, Swynbroes si offre di insegnarti a estrarre materia dall'equipaggiamento usato a lungo. Parlagli di nuovo per cominciare a imparare." },
+    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SEQ_02", "hash": "C843754FD487DD19", "target": "Ora conosci l'estrazione della materia. Metti in pratica ciò che hai imparato ed estrai materia da un vecchio pezzo d'equipaggiamento." },
+    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_TODO_00", "hash": "1F770C17B0A9296A", "target": "Parlare con Swynbroes" },
+    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SWYNBROES_000", "hash": "76D7A8D86C4AC882", "target": "Cosa diresti se ti dicessi che gli oggetti inanimati possono possedere un'anima? Possono, che tu ci creda o meno, anche se l'anima in questione non è loro, ma del <italic(1)>proprietario<italic(0)>." },
+    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SWYNBROES_001", "hash": "BC6CCC4840BB1164", "target": "Servendoci fedelmente, le armi e le armature che usiamo finiscono per contenere la nostra energia spirituale. Così formiamo uno <italic(1)>spiritbond<italic(0)> con esse." },
+    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SWYNBROES_002", "hash": "B1CE4E2AF462370B", "target": "Questa energia spirituale può essere estratta e convertita in materia, un particolare cristallo che si può applicare all'equipaggiamento per migliorarne le proprietà." },
+    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SWYNBROES_003", "hash": "61AAA79180150464", "target": "Conosco bene i metodi di estrazione della materia. Se desideri saperne di più, sarò lieto di insegnarteli." },
+    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SWYNBROES_010", "hash": "24C4E154FC32119C", "target": "Possiamo cominciare la lezione? Bene. Come avrai ormai capito, la materia è la forma cristallizzata dell'energia spirituale di una persona." },
+    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SWYNBROES_011", "hash": "627EBED364274E2D", "target": "Poiché questa energia proviene dalla psiche individuale, mutevole anche nelle condizioni migliori, è normale che la produzione presenti delle variazioni. In pratica, non conoscerai le proprietà esatte di una pietra finché non l'avrai tra le mani." },
+    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SWYNBROES_012", "hash": "BB668E319F218D1A", "target": "La materia, da sola, non ti darà molto. Occorre attingere al suo potere, e per farlo bisogna incastonarla nell'equipaggiamento. Sappi però che servono le mani abili di un artigiano." },
+    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SWYNBROES_013", "hash": "89A31ABC91790EC4", "target": "Puoi sempre chiedere ad altri di applicare la materia per te, ma se preferisci farlo personalmente ti consiglio di parlare con F'hobhas. È <italic(1)>lei<italic(0)> l'esperta di incastonatura." },
+    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SYSTEM_014", "hash": "22EB495213FCF6F2", "target": "Per rimuovere la materia da un oggetto, seleziona la sua icona e scegli Retrieve Materia. C'è una possibilità di recuperare la materia." }
   ]
 }
