@@ -1,10 +1,14 @@
 {
-  "conversation": "quest/043/AktKma104_04360",
-  "gameVersion": "2026.09.15.0000.0000",
+  "conversation":
+"quest/043/AktKma104_04360"
+,
+  "gameVersion":
+"2026.09.15.0000.0000"
+,
   "entries": [
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_SEQ_00", "hash": "5C9555671DAE95D7", "target": "Alisaie ha un disperato bisogno di una pausa dallo studio." },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_TODO_00", "hash": "041F515D871B701E", "target": "Parlare con Alisaie" },
-    { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_TODO_01", "hash": "21E38A2C2884BDD3", "target": "Parlare con i clienti del Last Stand insieme ad Alisaie" },
+    { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_TODO_01", "hash": "21E38A2C2884BDD3", "target": "Parlare con i clienti dell'Ultimo Baluardo insieme ad Alisaie" },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_TODO_02", "hash": "1F07BA3233AF90FB", "target": "Parlare con Dickon insieme ad Alisaie" },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_TODO_03", "hash": "D8537AC8C38B27F5", "target": "Mettere il piatto corretto sul tavolo del primo cliente" },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_TODO_04", "hash": "FF9223596C8CCCC9", "target": "Mettere il piatto corretto sul tavolo del secondo cliente" },
@@ -13,7 +17,7 @@
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_TODO_07", "hash": "91E51DB95FC0041A", "target": "Parlare di nuovo con Alisaie" },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_ALISAIE_000_000", "hash": "7AC70424261B1015", "target": "Hai voglia di una pausa tè, <split(<string(gstr1)>, ,1)>? Io sì." },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_ALISAIE_000_001", "hash": "7B51622BDE300C5D", "target": "Sul serio, se non sgranchisco le gambe e faccio due passi, il collo e le spalle finiranno per calcificarsi..." },
-    { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_ALISAIE_000_002", "hash": "51A252FB8E5266CB", "target": "Conosci il Last Stand, giù al porto, vero? Raggiungimi vicino ai tavoli all'aperto e ti offrirò il loro caffè. È piuttosto buono!" },
+    { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_ALISAIE_000_002", "hash": "51A252FB8E5266CB", "target": "Conosci l'Ultimo Baluardo, giù al porto, vero? Raggiungimi vicino ai tavoli all'aperto e ti offrirò il loro caffè. È piuttosto buono!" },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_ALISAIE_000_010", "hash": "9A4C3C1CCF560C49", "target": "Sempre affollato, vedo. È proprio da Sharlayan che nessun'altra caffetteria raffinata sia nata per contendersi i clienti..." },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_ALISAIE_000_011", "hash": "A6EC2A1C6ADBC834", "target": "Anzi, questa folla mi dà un'idea: prima di ordinare, perché non facciamo qualche domanda per tastare l'umore della città?" },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_ALISAIE_000_012", "hash": "FB9D10697276F60C", "target": "Mi interessa sapere cosa pensa il cittadino medio dei Telophoroi. Potremmo persino scoprire qualcosa di nuovo. Vale la pena tentare, no?" },
@@ -23,7 +27,7 @@
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_A1_000_023", "hash": "9BC48FEA9BE1DD18", "target": "Niente." },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_ALISAIE_000_025", "hash": "0F981FDEA9BBFB1C", "target": "Qualcuno qui alla caffetteria sarà disposto a parlarci. Chiediamo in giro!" },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_Q2_000_030", "hash": "E0864B418A7EAFBD", "target": "Vuoi davvero separarti da Alisaie?" },
-    { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_ALISAIE_000_031", "hash": "3A48EC48792AAB45", "target": "Niente riposo per gli eroi, eh? Fa' ciò che devi. Ti aspetterò al Last Stand." },
+    { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_ALISAIE_000_031", "hash": "3A48EC48792AAB45", "target": "Niente riposo per gli eroi, eh? Fa' ciò che devi. Ti aspetterò all'Ultimo Baluardo." },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_ALISAIE_000_035", "hash": "55B9D1D82908CFE2", "target": "Bene. Possiamo riprendere da dove ci siamo fermati?" },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_SYSTEM_000_040", "hash": "B8AB4E7DC77E3D9F", "target": "Alisaie non è ancora arrivata. Assicurati che sia al tuo fianco prima di proseguire." },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_SYSTEM_000_049", "hash": "6D5AB0C08B3B2373", "target": "Alisaie vuole ascoltare i cittadini. Portala con te prima di tentare di parlare con loro." },
@@ -44,7 +48,7 @@
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_DICKON_000_090", "hash": "0B8043DF7004501E", "target": "<if(gnum4,Benvenuta,Benvenuto)>! Cosa posso offrirvi oggi?" },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_DICKON_000_091", "hash": "D0C759B090D5E5DF", "target": "Aspettate, quella è la signorina Alisaie!? Per tutti gli dèi, quanto tempo è passato!?" },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_ALISAIE_000_092", "hash": "8EBFE9147E08A769", "target": "Fin troppo..." },
-    { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_ALISAIE_000_093", "hash": "6A29C3D626ED0D12", "target": "Ti presento Dickon, il proprietario del Last Stand. Ogni tanto frequentavo la sua caffetteria tra una lezione e l'altra allo Studium." },
+    { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_ALISAIE_000_093", "hash": "6A29C3D626ED0D12", "target": "Ti presento Dickon, il proprietario dell'Ultimo Baluardo. Ogni tanto frequentavo la sua caffetteria tra una lezione e l'altra allo Studium." },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_DICKON_000_094", "hash": "3A05C04274745221", "target": "Sembra passata un'eternità. Ricordo di aver sentito che voi e il signor Alphinaud eravate salpati per Eorzea, ma poi non siete più tornati." },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_DICKON_000_095", "hash": "712A2022509A98C3", "target": "Ultimamente si mormora che vostro padre vi abbia diseredati. Va tutto bene a casa?" },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_ALISAIE_000_096", "hash": "9E30CB785BB1F85B", "target": "È... complicato. E non mi aspettavo che dei perfetti sconosciuti conoscessero tanto in fretta la nostra situazione. Pare che tutti abbiano un'opinione..." },
@@ -91,7 +95,7 @@
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_GISLA_000_158", "hash": "95E489103AC20889", "target": "Offre la casa? Perché non pagherò un'aragosta al forno che non ho ordinato. Dov'è la mia omelette?" },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_GISLA_000_159", "hash": "BE5BBBDF7D3793BE", "target": "Per tutti gli dei, sto morendo di fame! Non ho mai visto un servizio tanto lento..." },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_GISLA_000_160", "hash": "48B7C841AD800E7A", "target": "So di non averlo ordinato, ma comincio a desiderare di averlo fatto. Ha un profumo divino..." },
-    { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_GISLA_000_161", "hash": "014480225EDA31E9", "target": "Il Last Stand prepara davvero le migliori omelette del mondo. L'uovo più soffice, la salsa più aspra. Potrei mangiarla ogni giorno per un anno!" },
+    { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_GISLA_000_161", "hash": "014480225EDA31E9", "target": "L'Ultimo Baluardo prepara davvero le migliori omelette del mondo. L'uovo più soffice, la salsa più aspra. Potrei mangiarla ogni giorno per un anno!" },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_Q6_000_170", "hash": "3C423095457DFC8D", "target": "Cosa vuoi servire?" },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_A6_000_171", "hash": "84525EE8364D1A8A", "target": "L'aragosta al forno." },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_A6_000_172", "hash": "713F06F55E91588F", "target": "Conversazione elegante con un sorriso." },

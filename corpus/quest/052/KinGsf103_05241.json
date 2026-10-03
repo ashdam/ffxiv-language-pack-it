@@ -2,17 +2,17 @@
   "conversation": "quest/052/KinGsf103_05241",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_SEQ_00", "hash": "D8B3C23E8ED677A0", "target": "" },
-    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_TODO_00", "hash": "B839619D1773B766", "target": "" },
-    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_WAWLIKA_000_000", "hash": "42BCD90EBEE37E2D", "target": "" },
-    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_WAWLIKA_000_001", "hash": "8206750581E3A380", "target": "" },
-    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_WAWLIKA_000_002", "hash": "41D7ACF1E1A60D20", "target": "" },
-    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_WAWLIKA_000_010", "hash": "D92F3E24648AACC9", "target": "" },
-    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_ZAWPYA_000_020", "hash": "67727349ABD3544F", "target": "" },
-    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_ZAWPYA_000_021", "hash": "CF92058083EF9AEA", "target": "" },
-    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_ZAWPYA_000_022", "hash": "F35ED117AD58D7E6", "target": "" },
-    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_ZAWPYA_000_023", "hash": "A741160B0B692560", "target": "" },
-    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_ZAWPYA_000_024", "hash": "82EE8F47233DD2DE", "target": "" },
-    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_ZAWPYA_000_025", "hash": "C2B87C922F84E886", "target": "" }
+    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_SEQ_00", "hash": "D8B3C23E8ED677A0", "target": "Wawlika ha un messaggio da darti." },
+    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_TODO_00", "hash": "B839619D1773B766", "target": "Parlare con Zawpya" },
+    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_WAWLIKA_000_000", "hash": "42BCD90EBEE37E2D", "target": "Ah, <split(<string(gstr1)>, ,1)>, sono felice che siate qui! Zawpya mi ha detto che deve parlarvi." },
+    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_WAWLIKA_000_001", "hash": "8206750581E3A380", "target": "Perché non vi abbia semplicemente <if(gnum4,cercata,cercato)> di persona, non lo so proprio..." },
+    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_WAWLIKA_000_002", "hash": "41D7ACF1E1A60D20", "target": "In ogni caso, lo troverete alla Shaaloani Station. Buon viaggio!" },
+    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_WAWLIKA_000_010", "hash": "D92F3E24648AACC9", "target": "Scusate, <if(gnum4,amica mia,amico mio)>, ma Zawpya non mi ha detto perché chiedesse di voi. Dovrebbe essere alla stazione." },
+    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_ZAWPYA_000_020", "hash": "67727349ABD3544F", "target": "<split(<string(gstr1)>, ,1)>! Arrivi al momento giusto. Vedi, ho un problema..." },
+    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_ZAWPYA_000_021", "hash": "CF92058083EF9AEA", "target": "È la Fiamma dell'Alba. So che è esplosa compiendo il suo dovere, ma per quanto ci provi, non riesco a togliermi dalla testa quell'angelo corazzato!" },
+    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_ZAWPYA_000_022", "hash": "F35ED117AD58D7E6", "target": "L'altro giorno, quando ne abbiamo parlato, mi si è riacceso un fuoco dentro. Una cosa tira l'altra, e mi sono ritrovato a cucire qualcosa ispirato al suo design." },
+    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_ZAWPYA_000_023", "hash": "A741160B0B692560", "target": "So che ti sembrerà una follia, <split(<string(gstr1)>, ,1)>, ma vorrei davvero che avessi questo completo!" },
+    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_ZAWPYA_000_024", "hash": "82EE8F47233DD2DE", "target": "(E se non ti piace, forse potresti trovare un modo discreto per chiedere a Nitowikwe cosa ne pensa...?)" },
+    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_ZAWPYA_000_025", "hash": "C2B87C922F84E886", "target": "Pensaci, d'accordo? Insieme possiamo mantenerne vivo il ricordo. Grazie a noi, la Fiamma dell'Alba continuerà a viaggiare!" }
   ]
 }

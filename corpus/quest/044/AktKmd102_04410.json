@@ -1,6 +1,10 @@
 {
-  "conversation": "quest/044/AktKmd102_04410",
-  "gameVersion": "2026.09.15.0000.0000",
+  "conversation":
+"quest/044/AktKmd102_04410"
+,
+  "gameVersion":
+"2026.09.15.0000.0000"
+,
   "entries": [
     { "gameKey": "quest/044/AktKmd102_04410#TEXT_AKTKMD102_04410_SEQ_00", "hash": "7A60500327025536", "target": "Il fardello di Ahewann è davvero pesante, ma non deve portarlo da solo." },
     { "gameKey": "quest/044/AktKmd102_04410#TEXT_AKTKMD102_04410_TODO_00", "hash": "69CA2EFD22D2B2EB", "target": "Parlare con G'raha Tia e farsi accompagnare da lui" },
@@ -31,7 +35,7 @@
     { "gameKey": "quest/044/AktKmd102_04410#TEXT_AKTKMD102_04410_A1_000_053", "hash": "60B172C682775CEC", "target": "Niente" },
     { "gameKey": "quest/044/AktKmd102_04410#TEXT_AKTKMD102_04410_GRAHATIA_000_055", "hash": "1EF2E04E8CC473E8", "target": "Andiamo all'High Crucible a parlare con Nuhadeen. Il suo occhio attento potrebbe rivelarci verità che ci sono sfuggite." },
     { "gameKey": "quest/044/AktKmd102_04410#TEXT_AKTKMD102_04410_Q2_000_060", "hash": "CC76624D5F879D9A", "target": "Vuoi davvero separarti da G'raha Tia?" },
-    { "gameKey": "quest/044/AktKmd102_04410#TEXT_AKTKMD102_04410_GRAHATIA_000_061", "hash": "F5E5073986353D74", "target": "Molto bene. Ti aspetterò ad Alzadaal's Path quando vorrai riprendere le indagini." },
+    { "gameKey": "quest/044/AktKmd102_04410#TEXT_AKTKMD102_04410_GRAHATIA_000_061", "hash": "F5E5073986353D74", "target": "Molto bene. Ti aspetterò alla Via di Alzadaal quando vorrai riprendere le indagini." },
     { "gameKey": "quest/044/AktKmd102_04410#TEXT_AKTKMD102_04410_GRAHATIA_000_065", "hash": "6A4D3F3317D0D516", "target": "Vuoi rimetterti al lavoro? Eccellente!" },
     { "gameKey": "quest/044/AktKmd102_04410#TEXT_AKTKMD102_04410_SYSTEM_000_070", "hash": "94AADA8DDC3E40D0", "target": "G'raha Tia non è ancora arrivato. Assicurati che sia al tuo fianco prima di proseguire." },
     { "gameKey": "quest/044/AktKmd102_04410#TEXT_AKTKMD102_04410_NUHADEEN_000_080", "hash": "FBC2A71F69A655FB", "target": "Mh? Perdonatemi, <if(gnum4,viaggiatrice,viaggiatore)>, ma al momento ho troppo da fare per intrattenervi." },

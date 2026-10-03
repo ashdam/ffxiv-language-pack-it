@@ -1,12 +1,16 @@
 {
-  "conversation": "quest/047/AktKmm102_04752",
-  "gameVersion": "2026.09.15.0000.0000",
+  "conversation":
+"quest/047/AktKmm102_04752"
+,
+  "gameVersion":
+"2026.09.15.0000.0000"
+,
   "entries": [
     { "gameKey": "quest/047/AktKmm102_04752#TEXT_AKTKMM102_04752_SEQ_00", "hash": "8F820AC524561327", "target": "G'raha Tia sembra tanto sconcertato quanto emozionato." },
     { "gameKey": "quest/047/AktKmm102_04752#TEXT_AKTKMM102_04752_SEQ_01", "hash": "8A35623FAD405EFE", "target": "Mentre cercate un luogo adatto alla caccia di Wuk Lamat, Erenville menziona una richiesta d'aiuto dei ricercatori dell'Isle of Haam. Un qualche predatore ha agitato animali normalmente docili, rendendoli aggressivi, e il compito consiste nell'identificare e affrontare la creatura. Cogliendo l'occasione di prendere due piccioni con una fava, vi dirigete tutti a Scholar's Harbor per procurarvi un passaggio─tranne Krile, che promette di raggiungervi sull'isola non appena avrà terminato i preparativi." },
     { "gameKey": "quest/047/AktKmm102_04752#TEXT_AKTKMM102_04752_SEQ_02", "hash": "4776BFA1CBFD881A", "target": "Dopo essere approdati sull'Isle of Haam, vi inoltrate nella natura selvaggia e salvate alcuni ricercatori dalla fauna imbizzarrita. Infine raggiungete la base di una grande cascata, dove affrontate la causa del comportamento aggressivo degli animali: un enorme colibri." },
     { "gameKey": "quest/047/AktKmm102_04752#TEXT_AKTKMM102_04752_SEQ_03", "hash": "A2826B8BD00A80AF", "target": "Il colibri combatte ferocemente, ma riuscite ad abbatterlo... o almeno così credete. La creatura si rialza e sta per cogliere Wuk Lamat alla sprovvista quando finalmente arriva Krile, che finisce l'uccello imbizzarrito con una sfolgorante dimostrazione di pittomanzia. Terminato il lavoro sull'isola, tornate a Sharlayan con un'abbondante scorta della carne della vostra degna preda." },
-    { "gameKey": "quest/047/AktKmm102_04752#TEXT_AKTKMM102_04752_SEQ_04", "hash": "88831363BEAD565E", "target": "Giunti a Sharlayan, in mancanza di alternative, Erenville suggerisce di portare la carne di colibri al Last Stand. Si spera che Dickon riesca a ricavarne qualcosa di appetitoso..." },
+    { "gameKey": "quest/047/AktKmm102_04752#TEXT_AKTKMM102_04752_SEQ_04", "hash": "88831363BEAD565E", "target": "Giunti a Sharlayan, in mancanza di alternative, Erenville suggerisce di portare la carne di colibri all'Ultimo Baluardo. Si spera che Dickon riesca a ricavarne qualcosa di appetitoso..." },
     { "gameKey": "quest/047/AktKmm102_04752#TEXT_AKTKMM102_04752_SEQ_05", "hash": "374450238C4108F4", "target": "Gusti un pasto abbondante con Wuk Lamat, che coglie l'occasione per parlare ancora della sua terra e dell'imminente rito di successione. Diventa chiaro che il suo scopo principale nel cercare il trono è frustrare le ambizioni di un altro pretendente─un guerrafondaio che aspira a guidare gli eserciti di Tural in una campagna di conquista. Ribadendo il desiderio che tu ti unisca alla sua causa, dice che rimarrà a Sharlayan il più a lungo possibile in attesa della tua decisione." },
     { "gameKey": "quest/047/AktKmm102_04752#TEXT_AKTKMM102_04752_SEQ_06", "hash": "67DC558EF27962FC", "target": "Pur non essendo particolarmente colpito da certi aspetti di Wuk Lamat, Erenville sembra credere nella sua causa. La scelta di offrirle la tua forza, però, spetta interamente a te. Il raccoglitore si allontana quindi per riferire alla corporazione il successo della missione, lasciandoti a riflettere sull'invito a Tural." },
     { "gameKey": "quest/047/AktKmm102_04752#TEXT_AKTKMM102_04752_TODO_00", "hash": "FBC7B41D3A45078B", "target": "Parlare con Wuk Lamat" },
@@ -45,7 +49,7 @@
     { "gameKey": "quest/047/AktKmm102_04752#TEXT_AKTKMM102_04752_WUKLAMAT_000_210", "hash": "F358EFFA5E3F635B", "target": "Ah, che caccia emozionante! E ora è il momento di gustare la ricompensa!" },
     { "gameKey": "quest/047/AktKmm102_04752#TEXT_AKTKMM102_04752_ERENVILLE_000_290", "hash": "DB58712830A6C379", "target": "Ora che gli animali si sono calmati e i ricercatori sono al sicuro, il nostro compito è concluso." },
     { "gameKey": "quest/047/AktKmm102_04752#TEXT_AKTKMM102_04752_ERENVILLE_000_295", "hash": "B5BDBCD6C4BDBD34", "target": "Rimane solo la questione della carne di colibri..." },
-    { "gameKey": "quest/047/AktKmm102_04752#TEXT_AKTKMM102_04752_ERENVILLE_000_300", "hash": "0DF2C1FD2E2FDCE6", "target": "Nel bene o nel male, qui a Sharlayan c'è davvero un solo posto dove possiamo portarla: il Last Stand." },
+    { "gameKey": "quest/047/AktKmm102_04752#TEXT_AKTKMM102_04752_ERENVILLE_000_300", "hash": "0DF2C1FD2E2FDCE6", "target": "Nel bene o nel male, qui a Sharlayan c'è davvero un solo posto dove possiamo portarla: l'Ultimo Baluardo." },
     { "gameKey": "quest/047/AktKmm102_04752#TEXT_AKTKMM102_04752_ERENVILLE_000_301", "hash": "1391B692A8024EDD", "target": "Su, vediamo cosa può cucinarci Dickon." },
     { "gameKey": "quest/047/AktKmm102_04752#TEXT_AKTKMM102_04752_DICKON_000_400", "hash": "6814C2F09BCACE32", "target": "Ecco una faccia affamata, se mai ne ho vista una. Cosa ti porto, <split(<string(gstr1)>, ,1)>?" },
     { "gameKey": "quest/047/AktKmm102_04752#TEXT_AKTKMM102_04752_DICKON_000_401", "hash": "E7E5078785C08436", "target": "Oh, carne d'uccello presa a caccia, dici? Lascia fare a me─ho la ricetta giusta." },

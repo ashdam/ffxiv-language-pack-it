@@ -1,6 +1,10 @@
 {
-  "conversation": "cut_scene/065/VoiceMan_06505",
-  "gameVersion": "2026.09.15.0000.0000",
+  "conversation":
+"cut_scene/065/VoiceMan_06505"
+,
+  "gameVersion":
+"2026.09.15.0000.0000"
+,
   "entries": [
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_000010_KRILE", "hash": "286419B8200614BA", "target": "Erenville!" },
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_000020_ERENVILLE", "hash": "65346482AB1CF536", "target": "Scusate l'attesa. Spero di non avervi distolti da nulla di importante." },
@@ -206,7 +210,7 @@
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_001970_GRAHATIA", "hash": "992A2A3915041149", "target": "Ma ciò che conta è restare fedeli a noi stessi mentre lo percorriamo." },
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_001980_GRAHATIA", "hash": "2AB3188A6418EC21", "target": "Solo così possiamo sperare di essere soddisfatti quando giungiamo alla fine di uno─e muoviamo il primo passo nel successivo." },
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_001990_GRAHATIA", "hash": "D1BF1405BEBF3881", "target": "Ah, ecco un'idea!" },
-    { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_002000_GRAHATIA", "hash": "7A774042A46057FA", "target": "Ho una faccenda da sbrigare all'Agora. Entrate pure─vi raggiungerò tra poco." },
+    { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_002000_GRAHATIA", "hash": "7A774042A46057FA", "target": "Ho una faccenda da sbrigare all'Agorà. Entrate pure─vi raggiungerò tra poco." },
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_002010_WUKLAMAT", "hash": "F34F819E95C287D4", "target": "Hai l'aria di chi ha preso una decisione. Avanti, sentiamola." },
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_Q3_000_001_NONE_VOICE", "hash": "DB51E3C81E17292E", "target": "Cosa dirai?" },
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_A3_000_001_NONE_VOICE", "hash": "0C9FB4E14A7D46F5", "target": "Voglio spingermi audacemente dove non sono mai <if(gnum4,stata,stato)> prima!" },
@@ -216,7 +220,7 @@
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_002060_ALISAIE", "hash": "2CF9F9901A54AFCB", "target": "Non avrai intenzione di partire senza di noi, vero?" },
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_002070_KRILE", "hash": "74C920494A540F28", "target": "Alphinaud! Alisaie! Cosa ci fate qui?" },
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_002080_GRAHATIA", "hash": "29867B998E07E735", "target": "Ci siamo incrociati per caso a Noumenon, poco fa, e ho parlato loro di Wuk Lamat." },
-    { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_002090_GRAHATIA", "hash": "C1E4080AE0D5CECA", "target": "E quando ci siamo fortuitamente incontrati di nuovo all'Agora, hanno espresso il desiderio di conoscere la nostra ospite." },
+    { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_002090_GRAHATIA", "hash": "C1E4080AE0D5CECA", "target": "E quando ci siamo fortuitamente incontrati di nuovo all'Agorà, hanno espresso il desiderio di conoscere la nostra ospite." },
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_002100_WUKLAMAT", "hash": "85A35E081DA5FCC6", "target": "Ah, voi dovete essere i gemelli che seguivano di nascosto Erenville sotto forma di rospi!" },
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_002110_ALISAIE", "hash": "C3CDC08213126515", "target": "Fra cento cose che potevi raccontarle di noi, hai scelto proprio quella!?" },
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_002120_ERENVILLE", "hash": "40D1E6C70726BAD9", "target": "La prima impressione è quella che conta." },
@@ -240,7 +244,7 @@
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_002300_GRAHATIA", "hash": "9D29C0CB7529EBEE", "target": "Vuoi ripercorrere i passi di tuo nonno, vero? È un'occasione rara e insisto perché tu la colga!" },
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_002310_KRILE", "hash": "ACD2FABF644B104F", "target": "Grazie, Raha. Grazie." },
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_002320_WUKLAMAT", "hash": "49F37BC6807F2EB9", "target": "Be', sembra deciso! Conto su tutti voi per aiutarmi a conquistare il trono!" },
-    { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_002330_GRAHATIA", "hash": "DD8653D308F99C01", "target": "Immagino sia il momento giusto per mostrarvi ciò per cui ho speso una piccola fortuna all'Agora." },
+    { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_002330_GRAHATIA", "hash": "DD8653D308F99C01", "target": "Immagino sia il momento giusto per mostrarvi ciò per cui ho speso una piccola fortuna all'Agorà." },
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_002340_GRAHATIA", "hash": "8C62365FFEE10A72", "target": "Ecco!" },
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_002350_GRAHATIA", "hash": "47FAD2853C3BB32B", "target": "Questa, amici miei, è la mappa del mondo più aggiornata, creata per celebrare la nostra amicizia con i Loporrit. Posate lo sguardo a ovest di Sharlayan, perché è lì che si trova..." },
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_002355_GRAHATIA", "hash": "B1B110EE7117CFC4", "target": "Il luogo della vostra prossima grande avventura─Tural!" },

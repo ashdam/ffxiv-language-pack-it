@@ -1,6 +1,10 @@
 {
-  "conversation": "quest/043/AktKma108_04364",
-  "gameVersion": "2026.09.15.0000.0000",
+  "conversation":
+"quest/043/AktKma108_04364"
+,
+  "gameVersion":
+"2026.09.15.0000.0000"
+,
   "entries": [
     { "gameKey": "quest/043/AktKma108_04364#TEXT_AKTKMA108_04364_SEQ_00", "hash": "443F2D5E6FE22F99", "target": "Alisaie sembra impaziente di mettersi in cammino." },
     { "gameKey": "quest/043/AktKma108_04364#TEXT_AKTKMA108_04364_TODO_00", "hash": "9ECDF23DEC0EF43C", "target": "Esaminare l'area e sconfiggere i nemici che appaiono" },
@@ -28,7 +32,7 @@
     { "gameKey": "quest/043/AktKma108_04364#TEXT_AKTKMA108_04364_KRILE_000_070", "hash": "10FCF6D5934CDB07", "target": "Ah, ora so dove siamo─questa è Meryall Agronomics." },
     { "gameKey": "quest/043/AktKma108_04364#TEXT_AKTKMA108_04364_KRILE_000_071", "hash": "A7876419F99B5ED7", "target": "Labyrinthos ospita un'enorme varietà di vegetazione, che ci permette di studiare i metodi di coltivazione impiegati in terre straniere." },
     { "gameKey": "quest/043/AktKma108_04364#TEXT_AKTKMA108_04364_KRILE_000_072", "hash": "05E91707A6A5D292", "target": "Ed è questa struttura a coordinare e supervisionare tali sforzi. A quanto ho sentito, i «frutti» delle ricerche sfamano i colleghi di Labyrinthos." },
-    { "gameKey": "quest/043/AktKma108_04364#TEXT_AKTKMA108_04364_ALISAIE_000_073", "hash": "C6124C7EB66064C3", "target": "I successi più degni di nota possono arrivare all'Agora. Cibi così esotici che sarebbe arduo indovinarne la provenienza, figurarsi il sapore." },
+    { "gameKey": "quest/043/AktKma108_04364#TEXT_AKTKMA108_04364_ALISAIE_000_073", "hash": "C6124C7EB66064C3", "target": "I successi più degni di nota possono arrivare all'Agorà. Cibi così esotici che sarebbe arduo indovinarne la provenienza, figurarsi il sapore." },
     { "gameKey": "quest/043/AktKma108_04364#TEXT_AKTKMA108_04364_KRILE_000_074", "hash": "BB163F714177CD7C", "target": "Esatto! Ortaggi misteriosi senza nome, accompagnati solo da un cartellino scarabocchiato con un elenco di benefici nutritivi..." },
     { "gameKey": "quest/043/AktKma108_04364#TEXT_AKTKMA108_04364_ALPHINAUD_000_075", "hash": "F7DE40129A943158", "target": "Hm... Non vedo raccoglitori nei dintorni, eppure questi lavoratori sembrano animati dalla stessa urgenza." },
     { "gameKey": "quest/043/AktKma108_04364#TEXT_AKTKMA108_04364_ALPHINAUD_000_076", "hash": "C6D338F1AE0B4B20", "target": "È possibile che conoscano i piani del Foro e i motivi che vi stanno dietro. Vale la pena indagare, non credete?" },
@@ -46,7 +50,7 @@
     { "gameKey": "quest/043/AktKma108_04364#TEXT_AKTKMA108_04364_JEBKE_000_116", "hash": "5C7871DC2D27BCEB", "target": "Tornate a trovarci quando l'ascensore funzionerà di nuovo normalmente. Spero che allora avremo colture del tutto nuove da mostrarvi... ma probabilmente non sarà così." },
     { "gameKey": "quest/043/AktKma108_04364#TEXT_AKTKMA108_04364_CARRIER04364_000_117", "hash": "C27D3FC77F17CBD8", "target": "\\<ansimo> \\<ansimo> ...Ho qualcosa da portare al livello inferiore? Più di quanto riesca a trasportare, e anche oltre!" },
     { "gameKey": "quest/043/AktKma108_04364#TEXT_AKTKMA108_04364_CARRIER04364_000_118", "hash": "59FCD7F77C4B41C8", "target": "La maggior parte delle scorte viene spedita con il montacarichi, ma una parte è destinata al trasporto aereo. Ecco perché ci sono quelle casse impilate in cima alla collina laggiù. Per gli dèi, portarle tutte su per quel pendio è stata una faticaccia..." },
-    { "gameKey": "quest/043/AktKma108_04364#TEXT_AKTKMA108_04364_CARRIER04364_000_119", "hash": "2770974A75F0BC97", "target": "Bene, torniamo al lavoro! Quando avrò finito qui, credo che porterò della frutta fresca al Last Stand e mi farò preparare un dolce..." },
+    { "gameKey": "quest/043/AktKma108_04364#TEXT_AKTKMA108_04364_CARRIER04364_000_119", "hash": "2770974A75F0BC97", "target": "Bene, torniamo al lavoro! Quando avrò finito qui, credo che porterò della frutta fresca all'Ultimo Baluardo e mi farò preparare un dolce..." },
     { "gameKey": "quest/043/AktKma108_04364#TEXT_AKTKMA108_04364_HARVESTER04364_000_120", "hash": "91AC1A7B949F05BB", "target": "Quali colture stiamo curando? Beh, come potete vedere, questa è una varietà di uva." },
     { "gameKey": "quest/043/AktKma108_04364#TEXT_AKTKMA108_04364_HARVESTER04364_000_121", "hash": "62F4F6FB080ABDB9", "target": "Le basta una buona fonte di luce solare per crescere, e qui le condizioni sono semplicemente perfette. Non c'è da stupirsi, dato che proviene da un luogo preciso della regione a cui Labyrinthos si ispira─nel sud di Ilsabard." },
     { "gameKey": "quest/043/AktKma108_04364#TEXT_AKTKMA108_04364_HARVESTER04364_000_122", "hash": "ABE9310FE95BF834", "target": "Vanta una straordinaria varietà di habitat, che permette a innumerevoli specie di flora e fauna di prosperare. Le fredde vette a nord cedono il passo a vaste pianure temperate, che a loro volta diventano una costa calda e umida." },

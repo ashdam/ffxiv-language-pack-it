@@ -2,16 +2,16 @@
   "conversation": "quest/028/StmBdz921_02877",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_SEQ_00", "hash": "310734465A4FF0D8", "target": "" },
-    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_TODO_00", "hash": "E84A1DFF9C2C743A", "target": "" },
-    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_TODO_01", "hash": "F5EFB7BEE6FE6C03", "target": "" },
-    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_000", "hash": "25A28458CB06F3C9", "target": "" },
-    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_001", "hash": "173D0A531DEBB251", "target": "" },
-    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_002", "hash": "EEEE99EBF55F9AF7", "target": "" },
-    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_003", "hash": "AC90733228551EE8", "target": "" },
-    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_004", "hash": "5EEE5F7C30C00697", "target": "" },
-    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_005", "hash": "7A3AF5B1E93A941F", "target": "" },
-    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_010", "hash": "83DA0694A678B58A", "target": "" },
-    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_011", "hash": "65D58532B36F065B", "target": "" }
+    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_SEQ_00", "hash": "310734465A4FF0D8", "target": "Munifrid cerca un avventuriero esperto per un compito importante." },
+    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_TODO_00", "hash": "E84A1DFF9C2C743A", "target": "Uccidere lo zu nestling" },
+    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_TODO_01", "hash": "F5EFB7BEE6FE6C03", "target": "Fare rapporto a Munifrid" },
+    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_000", "hash": "25A28458CB06F3C9", "target": "<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>, le vostre imprese militari sono ben note. Oggi, però, vorrei appellarmi alla vostra vasta esperienza nelle avventure." },
+    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_001", "hash": "173D0A531DEBB251", "target": "Quanto alla situazione, sembra che un temibile zu nestling abbia fatto suo un tratto del percorso delle nostre pattuglie. Non possiamo semplicemente aggirare la zona, rischieremmo di lasciare un accesso incustodito agli esploratori imperiali." },
+    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_002", "hash": "EEEE99EBF55F9AF7", "target": "Io e i miei uomini affronteremmo volentieri qualunque avversario militare. Ma l'addestramento non ci ha preparati a combattere un nemico che può volare fra le gole e piombarci addosso indisturbato." },
+    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_003", "hash": "AC90733228551EE8", "target": "Il mio compagno qui ha quasi perso un braccio in uno di questi attacchi. Temo sia solo questione di tempo prima che la creatura uccida qualcuno...a meno che non la uccidiate prima voi." },
+    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_004", "hash": "5EEE5F7C30C00697", "target": "Il piccolo sorveglia il suo territorio da uno stretto pilastro di roccia a nord-est. Vi prego di trovare questo predatore e porre fine alla minaccia per le nostre pattuglie." },
+    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_005", "hash": "7A3AF5B1E93A941F", "target": "Prima o poi potremmo abbatterlo, ma troppo del nostro sangue macchierebbe quelle pareti di roccia. Per chi uccide mostri con la vostra abilità, però, spero non sia una grande sfida..." },
+    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_010", "hash": "83DA0694A678B58A", "target": "Il piccolo è morto, dunque? Sapevo di aver scelto <if(gnum4,la donna giusta,l'uomo giusto)> per il lavoro." },
+    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_011", "hash": "65D58532B36F065B", "target": "Vi sono grato per il vostro intervento prima che quell'uccello mostruoso mietesse delle vittime. Avete tutta la nostra gratitudine!" }
   ]
 }

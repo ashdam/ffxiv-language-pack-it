@@ -1,6 +1,10 @@
 {
-  "conversation": "quest/044/AktKmc106_04404",
-  "gameVersion": "2026.09.15.0000.0000",
+  "conversation":
+"quest/044/AktKmc106_04404"
+,
+  "gameVersion":
+"2026.09.15.0000.0000"
+,
   "entries": [
     { "gameKey": "quest/044/AktKmc106_04404#TEXT_AKTKMC106_04404_SEQ_00", "hash": "027731B3EC25510D", "target": "Growingway è impaziente di lasciarsi alle spalle il recente contrattempo." },
     { "gameKey": "quest/044/AktKmc106_04404#TEXT_AKTKMC106_04404_TODO_00", "hash": "64297E4B6590C323", "target": "Parlare con Growingway" },
@@ -18,8 +22,8 @@
     { "gameKey": "quest/044/AktKmc106_04404#TEXT_AKTKMC106_04404_GROWINGWAY_000_002", "hash": "82FFD55DF3D880A3", "target": "Ma su una cosa eravamo tutti d'accordo: la gente di Etheirys non avrebbe fatto nulla per salvarsi finché non fosse stato troppo tardi." },
     { "gameKey": "quest/044/AktKmc106_04404#TEXT_AKTKMC106_04404_GROWINGWAY_000_003", "hash": "3ACFF9796EBA674A", "target": "Per questo ci impegniamo a rendere la luna un luogo vivace e magico, che salterebbero di gioia all'idea di visitare, invece di aspettare che le fiamme dell'oblio li facciano alzare dalla coda e li costringano ad accettare il nostro invito." },
     { "gameKey": "quest/044/AktKmc106_04404#TEXT_AKTKMC106_04404_GROWINGWAY_000_004", "hash": "1802FFDA71FCF4EA", "target": "Gli alloggi forse non sono ancora all'altezza, ma ci sono molti altri luoghi che meritano una visita!" },
-    { "gameKey": "quest/044/AktKmc106_04404#TEXT_AKTKMC106_04404_GROWINGWAY_000_005", "hash": "E367B16A434F023B", "target": "Avete già visitato il Carrotorium, ma aspettate di vedere cosa vi attende all'estremità orientale della tana. Seguitemi!" },
-    { "gameKey": "quest/044/AktKmc106_04404#TEXT_AKTKMC106_04404_GROWINGWAY_000_010", "hash": "A419CC626C28BDDC", "target": "Bene, siete qui. Oltre questa porta c'è Greatest Endsvale!" },
+    { "gameKey": "quest/044/AktKmc106_04404#TEXT_AKTKMC106_04404_GROWINGWAY_000_005", "hash": "E367B16A434F023B", "target": "Avete già visitato il Carotorio, ma aspettate di vedere cosa vi attende all'estremità orientale della tana. Seguitemi!" },
+    { "gameKey": "quest/044/AktKmc106_04404#TEXT_AKTKMC106_04404_GROWINGWAY_000_010", "hash": "A419CC626C28BDDC", "target": "Bene, siete qui. Oltre questa porta c'è la Valle Suprema!" },
     { "gameKey": "quest/044/AktKmc106_04404#TEXT_AKTKMC106_04404_GROWINGWAY_000_011", "hash": "4C870B220C71AA22", "target": "Si chiama così perché è la valle che supera tutte le altre. La foresta più bella che vedrete mai." },
     { "gameKey": "quest/044/AktKmc106_04404#TEXT_AKTKMC106_04404_GROWINGWAY_000_012", "hash": "C890B1598FA9811B", "target": "Ci risulta che alla gente di Etheirys piacciano le passeggiate tranquille negli «spazi naturali» e simili, quindi sono certo che vi piacerà." },
     { "gameKey": "quest/044/AktKmc106_04404#TEXT_AKTKMC106_04404_GROWINGWAY_000_013", "hash": "1AF7F0C4F70FAEC4", "target": "Che ne dite di cominciare con una bella passeggiata fino alla fontana? Da questa parte!" },
@@ -88,7 +92,7 @@
     { "gameKey": "quest/044/AktKmc106_04404#TEXT_AKTKMC106_04404_GROWINGWAY_000_123", "hash": "DA52E9FF3930C6B3", "target": "Non hanno certo perso tempo con ciò che avevano imparato. Solo pochi anni dopo, i nostri collaboratori hanno trovato il modo di mandarci messaggi e rifornimenti da laggiù." },
     { "gameKey": "quest/044/AktKmc106_04404#TEXT_AKTKMC106_04404_GROWINGWAY_000_124", "hash": "06D466FDCE8658E0", "target": "Grazie alle lettere, ai libri e alle altre risorse inviate, abbiamo imparato abbastanza da iniziare ad apportare cambiamenti più significativi alla luna." },
     { "gameKey": "quest/044/AktKmc106_04404#TEXT_AKTKMC106_04404_GROWINGWAY_000_125", "hash": "48D2F6CA6873DBE1", "target": "E ora siete qui, spero che vi stiate divertendo quanto me!" },
-    { "gameKey": "quest/044/AktKmc106_04404#TEXT_AKTKMC106_04404_GROWINGWAY_000_126", "hash": "8FBA9A5961B322C7", "target": "Sapevo che vi sarebbe piaciuta Greatest Endsvale, lo sapevo!" },
+    { "gameKey": "quest/044/AktKmc106_04404#TEXT_AKTKMC106_04404_GROWINGWAY_000_126", "hash": "8FBA9A5961B322C7", "target": "Sapevo che vi sarebbe piaciuta la Valle Suprema, lo sapevo!" },
     { "gameKey": "quest/044/AktKmc106_04404#TEXT_AKTKMC106_04404_GROWINGWAY_000_127", "hash": "3E4EDBFC091D6C00", "target": "Comunque, grazie ancora di essere qui. So che era solo una passeggiata nella foresta, ma per me ha significato molto." },
     { "gameKey": "quest/044/AktKmc106_04404#TEXT_AKTKMC106_04404_YSHTOLA_000_128", "hash": "FD1EE1566EE7D66F", "target": "Eccoti qui." },
     { "gameKey": "quest/044/AktKmc106_04404#TEXT_AKTKMC106_04404_THANCRED_000_129", "hash": "F165AC0359AB2DA2", "target": "Immagino che tu abbia già fatto il giro completo? Peccato essercelo perso." },

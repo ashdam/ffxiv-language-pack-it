@@ -2,19 +2,19 @@
   "conversation": "quest/029/StmBdy109_02940",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/StmBdy109_02940#TEXT_STMBDY109_02940_SEQ_00", "hash": "083A3DA2CF66396B", "target": "" },
-    { "gameKey": "quest/029/StmBdy109_02940#TEXT_STMBDY109_02940_SEQ_01", "hash": "1D0E5977C2D72510", "target": "" },
-    { "gameKey": "quest/029/StmBdy109_02940#TEXT_STMBDY109_02940_SEQ_02", "hash": "B08F3BFEFE0A9374", "target": "" },
-    { "gameKey": "quest/029/StmBdy109_02940#TEXT_STMBDY109_02940_TODO_00", "hash": "E93954A8A7B98AF5", "target": "" },
-    { "gameKey": "quest/029/StmBdy109_02940#TEXT_STMBDY109_02940_RESISTANCE02940_000_001", "hash": "F996005DEF085ACB", "target": "" },
-    { "gameKey": "quest/029/StmBdy109_02940#TEXT_STMBDY109_02940_RESISTANCE02940_000_002", "hash": "C2994CBF8B3AD934", "target": "" },
-    { "gameKey": "quest/029/StmBdy109_02940#TEXT_STMBDY109_02940_GREATMAN02940_000_010", "hash": "00B04794230F9BBC", "target": "" },
-    { "gameKey": "quest/029/StmBdy109_02940#TEXT_STMBDY109_02940_GREATMAN02940_000_011", "hash": "4370E500BA4AED70", "target": "" },
-    { "gameKey": "quest/029/StmBdy109_02940#TEXT_STMBDY109_02940_GREATMAN02940_000_012", "hash": "2315C0A8ED1ADB9E", "target": "" },
-    { "gameKey": "quest/029/StmBdy109_02940#TEXT_STMBDY109_02940_GREATMAN02940_000_013", "hash": "FAE379456266C5B3", "target": "" },
-    { "gameKey": "quest/029/StmBdy109_02940#TEXT_STMBDY109_02940_GREATMAN02940_000_014", "hash": "F15257109B9B7D3D", "target": "" },
-    { "gameKey": "quest/029/StmBdy109_02940#TEXT_STMBDY109_02940_GREATMAN02940_000_015", "hash": "060DBC4A023A3B09", "target": "" },
-    { "gameKey": "quest/029/StmBdy109_02940#TEXT_STMBDY109_02940_GREATMAN02940_000_016", "hash": "A98D7839F50DA962", "target": "" },
-    { "gameKey": "quest/029/StmBdy109_02940#TEXT_STMBDY109_02940_SYSTEM_000_018", "hash": "E767BCAC19749FA3", "target": "" }
+    { "gameKey": "quest/029/StmBdy109_02940#TEXT_STMBDY109_02940_SEQ_00", "hash": "083A3DA2CF66396B", "target": "La tua fama ti precede, a giudicare dagli occhi sgranati con cui lo sconosciuto ti guarda." },
+    { "gameKey": "quest/029/StmBdy109_02940#TEXT_STMBDY109_02940_SEQ_01", "hash": "1D0E5977C2D72510", "target": "A Rhalgr's Reach ti avvicina un ala mhigano pieno d'ammirazione, che ti ringrazia per quanto hai fatto per la Resistenza e dice di volerti offrire un'opportunità. Forse per creare più suspense, evita di dirti di cosa si tratti e ti invita invece a parlare con un misterioso veterano che ti attende fuori da Rhalgr's Reach." },
+    { "gameKey": "quest/029/StmBdy109_02940#TEXT_STMBDY109_02940_SEQ_02", "hash": "B08F3BFEFE0A9374", "target": "Il veterano ti parla di un luogo chiamato Circles of Answering, dove i monaci del Pugno di Rhalgr allenavano corpo e mente. Grazie al suo benefattore domano, questo campo d'addestramento è rinato come Stone, Sky, Sea...nello spirito, se non nel nome. Lì potrai sfidare manichini da allenamento modellati sulla forza di vari esseri fantastici e ultraterreni. Se vincerai nel tempo assegnato, saprai di poterli affrontare in battaglia...anche se sopravvivere allo scontro vero e proprio è tutt'altra questione. I manichini, dopotutto, non rispondono ai colpi..." },
+    { "gameKey": "quest/029/StmBdy109_02940#TEXT_STMBDY109_02940_TODO_00", "hash": "E93954A8A7B98AF5", "target": "Parlare con il veterano segnato dalle battaglie" },
+    { "gameKey": "quest/029/StmBdy109_02940#TEXT_STMBDY109_02940_RESISTANCE02940_000_001", "hash": "F996005DEF085ACB", "target": "<string(gstr1)>! <if(gnum4,Eroina,Eroe)> della Resistenza! Salute a te. Volevo ringraziarti per le innumerevoli imprese al servizio della nostra causa e offrirti un'opportunità che credo possa interessarti." },
+    { "gameKey": "quest/029/StmBdy109_02940#TEXT_STMBDY109_02940_RESISTANCE02940_000_002", "hash": "C2994CBF8B3AD934", "target": "Un uomo grande e saggio─veterano di innumerevoli battaglie─ti attende fuori da Rhalgr's Reach. Va' da lui e ti svelerà ogni cosa." },
+    { "gameKey": "quest/029/StmBdy109_02940#TEXT_STMBDY109_02940_GREATMAN02940_000_010", "hash": "00B04794230F9BBC", "target": "Sei tu. La leggendaria figura che ha contribuito alla liberazione della nostra patria. Sì, ci è voluto un esercito per riuscirci, ma ho sentito parlare delle tue imprese eccezionali, sia qui sia in terre lontane." },
+    { "gameKey": "quest/029/StmBdy109_02940#TEXT_STMBDY109_02940_GREATMAN02940_000_011", "hash": "4370E500BA4AED70", "target": "Eh eh, conosco il tipo. <if(gnum4,Sei una guerriera,Sei un guerriero)> fino al midollo, sempre in cerca di nuove sfide! <if(gnum4,Una donna,Un uomo)> che vive per quei momenti in cui tutto è in bilico!" },
+    { "gameKey": "quest/029/StmBdy109_02940#TEXT_STMBDY109_02940_GREATMAN02940_000_012", "hash": "2315C0A8ED1ADB9E", "target": "...Ho detto qualcosa di strano? No, certo che no. Ehm! Non lontano da qui c'è un luogo dove i monaci del Pugno di Rhalgr tempravano corpo e spirito: i Circles of Answering! E grazie al nostro benefattore domano è rinato!" },
+    { "gameKey": "quest/029/StmBdy109_02940#TEXT_STMBDY109_02940_GREATMAN02940_000_013", "hash": "FAE379456266C5B3", "target": "«<if(gnum4,Colei,Colui)> che combatte con la forza della pietra incrollabile, respira a fondo il cielo sconfinato e abbraccia la serenità del mare ondeggiante: nessuno può resistere contro di <if(gnum4,lei,lui)>»." },
+    { "gameKey": "quest/029/StmBdy109_02940#TEXT_STMBDY109_02940_GREATMAN02940_000_014", "hash": "F15257109B9B7D3D", "target": "In pratica, affronterai manichini robusti quanto mostri fantastici e nemici ultraterreni. Attaccali con tutte le tue forze. Se vincerai in tempo, saprai di poterli sconfiggere...anche se potresti morire nel farlo. Sono manichini, dopotutto, non rispondono ai colpi. Ma questo va da sé." },
+    { "gameKey": "quest/029/StmBdy109_02940#TEXT_STMBDY109_02940_GREATMAN02940_000_015", "hash": "060DBC4A023A3B09", "target": "Senza dubbio la cosa ti incuriosisce. Quando la curiosità ti travolgerà, ti porterò a Stone, Sky─ Beh, di nome sono ancora i «Circles of Answering», ma dovrai comunque abbracciare la saggezza degli elementi per superare le prove!" },
+    { "gameKey": "quest/029/StmBdy109_02940#TEXT_STMBDY109_02940_GREATMAN02940_000_016", "hash": "A98D7839F50DA962", "target": "Oh, che sciocco! Ho dimenticato di dirti la parte migliore: è gratis!" },
+    { "gameKey": "quest/029/StmBdy109_02940#TEXT_STMBDY109_02940_SYSTEM_000_018", "hash": "E767BCAC19749FA3", "target": "Ora puoi accedere ai Circles of Answering, un ampliamento di Stone, Sky, Sea. Per accedere a questo campo d'addestramento, parla con il veterano segnato dalle battaglie fuori da Rhalgr's Reach." }
   ]
 }

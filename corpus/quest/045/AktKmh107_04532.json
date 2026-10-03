@@ -1,6 +1,10 @@
 {
-  "conversation": "quest/045/AktKmh107_04532",
-  "gameVersion": "2026.09.15.0000.0000",
+  "conversation":
+"quest/045/AktKmh107_04532"
+,
+  "gameVersion":
+"2026.09.15.0000.0000"
+,
   "entries": [
     { "gameKey": "quest/045/AktKmh107_04532#TEXT_AKTKMH107_04532_SEQ_00", "hash": "E23783E19CD3338F", "target": "Il veterano della Guardia Radiosa desidera esprimerti la sua gratitudine." },
     { "gameKey": "quest/045/AktKmh107_04532#TEXT_AKTKMH107_04532_TODO_00", "hash": "E0B19FC533D51E09", "target": "Parlare con Y'shtola all'High Crucible of Al-Kimiya" },
@@ -33,7 +37,7 @@
     { "gameKey": "quest/045/AktKmh107_04532#TEXT_AKTKMH107_04532_YSHTOLA_000_155", "hash": "787CF32DCCCC2DAE", "target": "Nemmeno Thancred, se ben ricordo. Poco dopo che il maestro Louisoix lo raccolse dalla strada, fu affidato a un altro Arconte. Ricevette un'istruzione rigorosa e pratica nelle arti dello spionaggio e della sopravvivenza." },
     { "gameKey": "quest/045/AktKmh107_04532#TEXT_AKTKMH107_04532_YSHTOLA_000_160", "hash": "82667AB0080F26BD", "target": "A volte mi chiedo come sarebbe stata la mia vita se avessi studiato qui, invece..." },
     { "gameKey": "quest/045/AktKmh107_04532#TEXT_AKTKMH107_04532_Q2_000_000", "hash": "2D32DFE88D259618", "target": "Che cosa vuoi dire?" },
-    { "gameKey": "quest/045/AktKmh107_04532#TEXT_AKTKMH107_04532_A2_000_001", "hash": "E3CAFAA64904DAAF", "target": "Un tè al Last Stand dopo una giornata di lezioni?" },
+    { "gameKey": "quest/045/AktKmh107_04532#TEXT_AKTKMH107_04532_A2_000_001", "hash": "E3CAFAA64904DAAF", "target": "Un tè all'Ultimo Baluardo dopo una giornata di lezioni?" },
     { "gameKey": "quest/045/AktKmh107_04532#TEXT_AKTKMH107_04532_A2_000_003", "hash": "4A7497F445160664", "target": "Dovrei... dovrei chiedermelo anch'io?" },
     { "gameKey": "quest/045/AktKmh107_04532#TEXT_AKTKMH107_04532_YSHTOLA_000_170", "hash": "2D331CAC5F88E54F", "target": "Oh, sembra proprio piacevole. Pomeriggi con gli amici a sorseggiare tè e discutere teorie." },
     { "gameKey": "quest/045/AktKmh107_04532#TEXT_AKTKMH107_04532_YSHTOLA_000_175", "hash": "632731E5867939C7", "target": "...Eppure non rinuncerei al tempo trascorso con la maestra Matoya per nulla al mondo." },
@@ -69,7 +73,7 @@
     { "gameKey": "quest/045/AktKmh107_04532#TEXT_AKTKMH107_04532_MONTICHAIGNE_000_222", "hash": "55753E0F06CBA4F4", "target": "Non vedo motivo di non sottoporre la vostra richiesta al Foro." },
     { "gameKey": "quest/045/AktKmh107_04532#TEXT_AKTKMH107_04532_MONTICHAIGNE_000_223", "hash": "67A9DA967F86471E", "target": "Anche se... La vostra petizione sarebbe accolta meglio con l'appoggio di un'altra conoscenza influente." },
     { "gameKey": "quest/045/AktKmh107_04532#TEXT_AKTKMH107_04532_MONTICHAIGNE_000_224", "hash": "27372F42F0EEFB99", "target": "Il signor Fourchenault, naturalmente! Non può certo ignorare una sincera richiesta dei compagni più cari ai suoi amati figli." },
-    { "gameKey": "quest/045/AktKmh107_04532#TEXT_AKTKMH107_04532_YSHTOLA_000_225", "hash": "680610BC0F3DA3CF", "target": "Esitavo a rivolgermi direttamente a lui, ma è innegabile che avere il signor Fourchenault dalla nostra parte farebbe pendere la bilancia a nostro favore. Molto bene. Andremo alla residenza Leveilleur a esporre le nostre ragioni." },
+    { "gameKey": "quest/045/AktKmh107_04532#TEXT_AKTKMH107_04532_YSHTOLA_000_225", "hash": "680610BC0F3DA3CF", "target": "Esitavo a rivolgermi direttamente a lui, ma è innegabile che avere il signor Fourchenault dalla nostra parte farebbe pendere la bilancia a nostro favore. Molto bene. Andremo alla Leveilleur Estate a esporre le nostre ragioni." },
     { "gameKey": "quest/045/AktKmh107_04532#TEXT_AKTKMH107_04532_MONTICHAIGNE_000_226", "hash": "3BC39F07052B2D06", "target": "Ah, un'ultima cosa prima che andiate. Considererei un favore personale se voleste condividere con me le vostre scoperte nel Vuoto." },
     { "gameKey": "quest/045/AktKmh107_04532#TEXT_AKTKMH107_04532_MONTICHAIGNE_000_227", "hash": "C43D5C9376451F6A", "target": "Scommetto che la mia sete di sapere è insaziabile quanto la vostra, perciò, se poteste assecondare la curiosità di un vecchio...?" },
     { "gameKey": "quest/045/AktKmh107_04532#TEXT_AKTKMH107_04532_YSHTOLA_000_228", "hash": "1610D22E6F9E3FFF", "target": "Naturalmente, Scolarca. Vi riferiremo senz'altro ogni scoperta." },

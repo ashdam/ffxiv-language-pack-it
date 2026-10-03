@@ -1,6 +1,10 @@
 {
-  "conversation": "quest/044/AktKmg101_04450",
-  "gameVersion": "2026.09.15.0000.0000",
+  "conversation":
+"quest/044/AktKmg101_04450"
+,
+  "gameVersion":
+"2026.09.15.0000.0000"
+,
   "entries": [
     { "gameKey": "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_SEQ_00", "hash": "5506FE1AFC04523E", "target": "Krile ha notizie urgenti." },
     { "gameKey": "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_TODO_00", "hash": "20F4B83A1F2B2CAB", "target": "Parlare con Fourchenault" },
@@ -103,7 +107,7 @@
     { "gameKey": "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_TATARU_000_173", "hash": "5C2CD044D4A78DD6", "target": "State tranquilli, terremo tutto in ordine fino al vostro ritorno─e voi <italic(1)>tornerete<italic(0)>." },
     { "gameKey": "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_TATARU_000_174", "hash": "AEEC23F5E82FCC03", "target": "A proposito, <split(<string(gstr1)>, ,1)>, potrei rubarvi un momento?" },
     { "gameKey": "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_THANCRED_000_175", "hash": "399155DB9CFA89DF", "target": "A quanto pare, i tuoi programmi per l'attesa sono decisi. Quando avrete finito, raggiungici al Baldesion Annex, d'accordo?" },
-    { "gameKey": "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_TATARU_000_176", "hash": "62B4A1225A89E3E0", "target": "Venite con me all'Agora. Ho qualcosa da mostrarvi!" },
+    { "gameKey": "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_TATARU_000_176", "hash": "62B4A1225A89E3E0", "target": "Venite con me all'Agorà. Ho qualcosa da mostrarvi!" },
     { "gameKey": "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_VARSARUDH_000_180", "hash": "75CD27ED2A76A16F", "target": "Qualcuno ha spostato la cassa? Avrei giurato che fosse qui." },
     { "gameKey": "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_TATARU_000_190", "hash": "144BCA642B184C3C", "target": "Vi do il benvenuto, <split(<string(gstr1)>, ,1)>, alla boutique di Tataru Taru!" },
     { "gameKey": "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_TATARU_000_191", "hash": "1BCF4A3FD600CD71", "target": "Ho sempre fatto del mio meglio per fornire agli Eredi abiti alla moda, ma per voi in particolare mi impegno ancora di più, cercando di creare gli indumenti più pratici ed eleganti che si possano desiderare. Non che faccia favoritismi, ma <italic(1)>siete<italic(0)> pur sempre <if(gnum4,la Guerriera,il Guerriero)> della Luce!" },
@@ -154,7 +158,7 @@
     { "gameKey": "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_EMMANELLAIN_000_255", "hash": "DA707E4C76114927", "target": "Ero venuto nella speranza di trovare magari un bel caffè. Ahimè, le prelibatezze sharlayane che ho assaggiato lasciavano a desiderare sotto ogni aspetto..." },
     { "gameKey": "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_Q4_000_256", "hash": "D6E1AB76EB39858F", "target": "Che cosa vuoi dire?" },
     { "gameKey": "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_A4_000_257", "hash": "A9BCDB178D986A14", "target": "Hai provato il pane degli Arconti? Si trova in tutti i negozi." },
-    { "gameKey": "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_A4_000_258", "hash": "AB07F542BB48569A", "target": "Se cerchi un pasto sostanzioso, ti suggerisco il Last Stand." },
+    { "gameKey": "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_A4_000_258", "hash": "AB07F542BB48569A", "target": "Se cerchi un pasto sostanzioso, ti suggerisco l'Ultimo Baluardo." },
     { "gameKey": "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_EMMANELLAIN_000_259", "hash": "5717301385015E9D", "target": "Pane degli Arconti? Sembra... raffinato. Come me." },
     { "gameKey": "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_EMMANELLAIN_000_260", "hash": "6B13E0ABA5450BD8", "target": "Ti ringrazio del suggerimento. A stomaco pieno, direi di poter sopportare questo purgatorio ancora per un po'. Alla prossima, <if(gnum4,vecchia mia,vecchio mio)>!" },
     { "gameKey": "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_EMMANELLAIN_000_261", "hash": "77E0F013477E3612", "target": "Il caffè sul molo? La loro cucina non sembrava particolarmente appetitosa, ma..." },

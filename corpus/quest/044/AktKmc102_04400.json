@@ -1,6 +1,10 @@
 {
-  "conversation": "quest/044/AktKmc102_04400",
-  "gameVersion": "2026.09.15.0000.0000",
+  "conversation":
+"quest/044/AktKmc102_04400"
+,
+  "gameVersion":
+"2026.09.15.0000.0000"
+,
   "entries": [
     { "gameKey": "quest/044/AktKmc102_04400#TEXT_AKTKMC102_04400_SEQ_00", "hash": "58FBA3E5BCCFCD6E", "target": "Finalmente il Custode è pronto ad assolvere il suo ultimo dovere." },
     { "gameKey": "quest/044/AktKmc102_04400#TEXT_AKTKMC102_04400_SEQ_01", "hash": "5E4874D20208B811", "target": "Il Custode vorrebbe condurvi alla struttura che ospita l'equipaggio della luna, ma il terreno non è facile da attraversare. Suggerisce quindi di chiedere ad Argos di portarvi fin lì. Il guardiano etereo della luna, tuttavia, non si vede da nessuna parte, perciò il Custode propone di chiamarlo nei pressi di Crushing Brand." },
@@ -60,7 +64,7 @@
     { "gameKey": "quest/044/AktKmc102_04400#TEXT_AKTKMC102_04400_YSHTOLA_000_120", "hash": "91115CC5C1AEE289", "target": "Dalamud è da tempo descritto come il «segugio fedele» di Menphina, per il suo legame con la luna maggiore..." },
     { "gameKey": "quest/044/AktKmc102_04400#TEXT_AKTKMC102_04400_YSHTOLA_000_121", "hash": "251C89D21C586682", "target": "Sembra assai improbabile─se non impossibile─che i popoli antichi conoscessero Argos, ma ora mi chiedo se ci sia qualche legame..." },
     { "gameKey": "quest/044/AktKmc102_04400#TEXT_AKTKMC102_04400_SYSTEM_000_125", "hash": "E9E38A186B15E86B", "target": "Argos ti rivolge quello che si potrebbe quasi definire un sorriso d'intesa." },
-    { "gameKey": "quest/044/AktKmc102_04400#TEXT_AKTKMC102_04400_WATCHEROFMOON_000_130", "hash": "6C34D792D9720CA3", "target": "<colortype(547)>La vostra destinazione è quella struttura al di là di Cradle of Darkness.<colortype(0)>" },
+    { "gameKey": "quest/044/AktKmc102_04400#TEXT_AKTKMC102_04400_WATCHEROFMOON_000_130", "hash": "6C34D792D9720CA3", "target": "<colortype(547)>La vostra destinazione è quella struttura al di là della Culla dell'Oscurità.<colortype(0)>" },
     { "gameKey": "quest/044/AktKmc102_04400#TEXT_AKTKMC102_04400_WATCHEROFMOON_000_131", "hash": "DCACC8A817E5E273", "target": "<colortype(547)>Salite sul dorso di Argos e lui penserà al resto.<colortype(0)>" },
     { "gameKey": "quest/044/AktKmc102_04400#TEXT_AKTKMC102_04400_WATCHEROFMOON_000_132", "hash": "3B93515E6BDC591B", "target": "<colortype(547)>Una volta arrivati, non dovreste impiegare molto a trovare l'equipaggio della nave. La struttura è progettata per destarli dal sonno in caso di distruzione di Zodiark.<colortype(0)>" },
     { "gameKey": "quest/044/AktKmc102_04400#TEXT_AKTKMC102_04400_WATCHEROFMOON_000_133", "hash": "69630EBBF46ECB24", "target": "<colortype(547)>Ascoltate i loro consigli. Insieme, potrete guidare il pianeta e la sua gente verso un destino più clemente.<colortype(0)>" },

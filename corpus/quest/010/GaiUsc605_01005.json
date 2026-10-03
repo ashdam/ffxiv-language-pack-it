@@ -81,7 +81,7 @@
     { "gameKey": "quest/010/GaiUsc605_01005#TEXT_GAIUSC605_01005_BIGGS_000_706", "hash": "5316C270F7D13046", "target": "Imperiali! Sono venuti a riprendersi l'armatura!" },
     { "gameKey": "quest/010/GaiUsc605_01005#TEXT_GAIUSC605_01005_CID_000_707", "hash": "0DA6C6B48930D63A", "target": "Dannazione! Ci hanno messi all'angolo!" },
     { "gameKey": "quest/010/GaiUsc605_01005#TEXT_GAIUSC605_01005_IMPERIALCENTURION_000_708", "hash": "8394DE74B796A5E7", "target": "Ecco l'armatura!" },
-    { "gameKey": "quest/010/GaiUsc605_01005#TEXT_GAIUSC605_01005_IMPERIALCENTURION_000_709", "hash": "261B1F0344AAC812", "target": "Presa dal traditore Garlond─e <italic(1)><if(gnum4,quella è la sterminatrice di primordiali,quello è lo sterminatore di primordiali)><italic(0)>!? Merda..." },
+    { "gameKey": "quest/010/GaiUsc605_01005#TEXT_GAIUSC605_01005_IMPERIALCENTURION_000_709", "hash": "261B1F0344AAC812", "target": "Presa dal traditore Garlond─e <italic(1)><if(gnum4,quella è la sterminatrice di eikon,quello è lo sterminatore di eikon)><italic(0)>!? Merda..." },
     { "gameKey": "quest/010/GaiUsc605_01005#TEXT_GAIUSC605_01005_IMPERIALCENTURION_000_710", "hash": "714E32C7E79189B7", "target": "Chiamate i rinforzi!" },
     { "gameKey": "quest/010/GaiUsc605_01005#TEXT_GAIUSC605_01005_CID_000_711", "hash": "8BD762C120FE7ADE", "target": "Col cavolo!" },
     { "gameKey": "quest/010/GaiUsc605_01005#TEXT_GAIUSC605_01005_IMPERIALRUNNER_000_712", "hash": "6931D06F49E586A8", "target": "Abbiamo localizzato l'armatura rubata! Richiediamo assistenza immediata! Rispondete! <italic(1)>Rispondete<italic(0)>!" },

@@ -2,16 +2,16 @@
   "conversation": "quest/019/HeaVnz705_01909",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_SEQ_00", "hash": "E8C152F7482DE691", "target": "" },
-    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_SEQ_01", "hash": "955A698C1E9AEA1A", "target": "" },
-    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_SEQ_02", "hash": "78000C5B323AF697", "target": "" },
-    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_SEQ_03", "hash": "8A2357FA77AC8087", "target": "" },
-    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_TODO_00", "hash": "D00C9728EBC912F7", "target": "" },
-    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_TODO_01", "hash": "087CD2E59ED380CB", "target": "" },
-    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_GANUVALI_000_000", "hash": "CD30C5F2B0D7E0C1", "target": "" },
-    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_GANUVALI_000_001", "hash": "C1988A27DC49557A", "target": "" },
-    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_GANUVALI_000_010", "hash": "C025D7C9F7285185", "target": "" },
-    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_GANUVALI_000_020", "hash": "FB9104113447AA29", "target": "" },
-    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_GANUVALI_000_021", "hash": "E27FD584CADD74FE", "target": "" }
+    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_SEQ_00", "hash": "E8C152F7482DE691", "target": "Ganu Vali si guarda intorno nervosamente, con gli occhi iniettati di sangue." },
+    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_SEQ_01", "hash": "955A698C1E9AEA1A", "target": "Ganu Vali non riesce a chiudere occhio per il ronzio degli insetti che infestano Ok' Zundu. Ti ha chiesto di raccogliere tre ciuffi di erba gorgogliante per ridurne il numero e, con un po' di fortuna, concedergli il riposo di cui ha tanto bisogno." },
+    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_SEQ_02", "hash": "78000C5B323AF697", "target": "Hai raccolto l'erba gorgogliante, che sembra impaziente di divorare quanti più insetti possibile. Consegnala a Ganu Vali prima che crolli per la stanchezza." },
+    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_SEQ_03", "hash": "8A2357FA77AC8087", "target": "Hai consegnato le piante carnivore a Ganu Vali, che sembra aver ritrovato la ragione. La tribù Zundu cerca l'armonia con la natura in ogni cosa, e nutrire l'erba gorgogliante permette di prendere due piccioni con una fava." },
+    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_TODO_00", "hash": "D00C9728EBC912F7", "target": "Raccogliere l'erba gorgogliante nei luoghi indicati" },
+    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_TODO_01", "hash": "087CD2E59ED380CB", "target": "Consegnare l'erba gorgogliante a Ganu Vali" },
+    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_GANUVALI_000_000", "hash": "CD30C5F2B0D7E0C1", "target": "Ganu Vali non sfugge a interminabile temporale di insetti ronzanti, e desidera sonno più di pioggia durante siccità estiva. Ganu Vali ha idea per placare ronzio, ma delira per stanchezza. Chi è di sotto va al posto di Ganu Vali?" },
+    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_GANUVALI_000_001", "hash": "C1988A27DC49557A", "target": "A est cresce erba gorgogliante, che divora insetti come piccoli Vanu si abbuffano di carne di wamouracampa. Chi è di sotto ne porta tre a Ganu Vali, e tempesta nelle orecchie diventa lieve pioggerella." },
+    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_GANUVALI_000_010", "hash": "C025D7C9F7285185", "target": "Ganu Vali cerca silenzio di cielo notturno sereno. Chi è di sotto porta erba gorgogliante per placare tempesta di insetti ronzanti." },
+    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_GANUVALI_000_020", "hash": "FB9104113447AA29", "target": "Notti insonni fanno di mente di Ganu Vali vortice di nebbia. Chi è di sotto porta piante che Ganu Vali cerca?" },
+    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_GANUVALI_000_021", "hash": "E27FD584CADD74FE", "target": "Chi è di sotto porta finalmente riposo. Tormenti di Ganu Vali diventano nutrimento per erba gorgogliante, e grande ruota di natura gira senza ostacoli." }
   ]
 }

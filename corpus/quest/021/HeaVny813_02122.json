@@ -2,18 +2,18 @@
   "conversation": "quest/021/HeaVny813_02122",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_SEQ_00", "hash": "D7493C3896B0FCA0", "target": "" },
-    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_SEQ_01", "hash": "E1F4596931A4852D", "target": "" },
-    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_SEQ_02", "hash": "35600F2A76C27EE9", "target": "" },
-    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_TODO_00", "hash": "70C33AABAA35DDC2", "target": "" },
-    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_ARDOLAIN_000_000", "hash": "8BB2F77A823EC01D", "target": "" },
-    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_ARDOLAIN_100_000", "hash": "ADD542929EF039B3", "target": "" },
-    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_ARDOLAIN_000_001", "hash": "D6165344ABC22DF7", "target": "" },
-    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_ARDOLAIN_000_002", "hash": "D000F7434B58B3E7", "target": "" },
-    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_ARDOLAIN_000_003", "hash": "1D97570B03B7568A", "target": "" },
-    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_ARDOLAIN_000_012", "hash": "7C5127F94C3A0710", "target": "" },
-    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_SYSTEM_100_020", "hash": "2AC04A51517B36B0", "target": "" },
-    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_SYSTEM_000_010", "hash": "2CA8277FC244EB87", "target": "" },
-    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_SYSTEM_000_011", "hash": "2863400D23F6A1F0", "target": "" }
+    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_SEQ_00", "hash": "D7493C3896B0FCA0", "target": "Ardolain ha buone notizie per te dal capo del Clan Centurio." },
+    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_SEQ_01", "hash": "E1F4596931A4852D", "target": "Ardolain ti informa che il capo del Clan Centurio ha raccomandato di ammetterti tra i cacciatori a pieno titolo, autorizzandoti a cacciare i bersagli d'élite. Ti invita a tornare alla Clan Hunt board per esaminare le relative taglie." },
+    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_SEQ_02", "hash": "35600F2A76C27EE9", "target": "Esamini la Clan Hunt board e sfogli le taglie disponibili. Per saperne di più sulla Clan Hunt o scambiare Centurio Seals con oggetti esclusivi, parla con Ardolain al Forgotten Knight. Altrimenti puoi rischiare la vita dando la caccia ai mostri più malvagi del gelido nord e guadagnarti un nome nella caccia ai bersagli d'élite." },
+    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_TODO_00", "hash": "70C33AABAA35DDC2", "target": "Esaminare la Clan Hunt board" },
+    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_ARDOLAIN_000_000", "hash": "8BB2F77A823EC01D", "target": "Salve, <split(<string(gstr1)>, ,1)>. Ho buone notizie per te." },
+    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_ARDOLAIN_100_000", "hash": "ADD542929EF039B3", "target": "Mi ha scritto Ser Leaudaste, il capo del Clan Centurio. Pare che abbia seguito un po' i tuoi progressi, e ritiene che sia quasi ora che tu spicchi il volo e passi a cacciare i bersagli d'élite a pieno titolo." },
+    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_ARDOLAIN_000_001", "hash": "D6165344ABC22DF7", "target": "Ser Leaudaste è nato in una famiglia nobile, ma ha lasciato tutto per dedicarsi alla caccia, inseguendo i nemici più feroci e distruggendoli per il bene del regno. Lo chiamano il primo studioso della caccia. Il riconoscimento di un tipo simile non è cosa da poco." },
+    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_ARDOLAIN_000_002", "hash": "D000F7434B58B3E7", "target": "Non lasciare che ti dia alla testa, però. Questi bersagli d'élite sono su tutt'altro livello rispetto alle tue prede precedenti: caricare alla cieca è il modo migliore per incontrare il tuo creatore. Li suddividiamo per rango in base alla loro pericolosità, proprio come le Grandi Compagnie." },
+    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_ARDOLAIN_000_003", "hash": "1D97570B03B7568A", "target": "Troverai le taglie dei bersagli d'élite sulla Clan Hunt board, insieme alle altre. Puoi prendere quella che preferisci, ma assicurati di sapere cosa fai prima di andare a caccia. Ognuna di quelle bestie è un incubo vivente!" },
+    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_ARDOLAIN_000_012", "hash": "7C5127F94C3A0710", "target": "Quando arriva un nuovo bersaglio d'élite, affiggiamo la taglia sulla Clan Hunt board. Conviene sempre chiedere ai compagni del clan informazioni sulla preda prima di andare a caccia: sapere è potere, come si dice, e ti servirà potere per avere la meglio su quelle bestie." },
+    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_SYSTEM_100_020", "hash": "2AC04A51517B36B0", "target": "La Clan Hunt board è coperta di taglie con informazioni sui mostri ricercati. Ora che sei membro del Clan Centurio a pieno titolo, puoi prendere le taglie dei bersagli d'élite!" },
+    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_SYSTEM_000_010", "hash": "2CA8277FC244EB87", "target": "Ora puoi prendere dalla Clan Hunt board le taglie dei bersagli d'élite del clan." },
+    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_SYSTEM_000_011", "hash": "2863400D23F6A1F0", "target": "Sconfiggi i bersagli d'élite di rango S, di rango A e alcuni di rango B per ricevere Centurio Seals, scambiabili con oggetti esclusivi." }
   ]
 }

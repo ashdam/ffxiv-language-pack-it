@@ -1,6 +1,10 @@
 {
-  "conversation": "quest/044/AktKmf104_04442",
-  "gameVersion": "2026.09.15.0000.0000",
+  "conversation":
+"quest/044/AktKmf104_04442"
+,
+  "gameVersion":
+"2026.09.15.0000.0000"
+,
   "entries": [
     { "gameKey": "quest/044/AktKmf104_04442#TEXT_AKTKMF104_04442_SEQ_00", "hash": "20D9537960422A36", "target": "Alphinaud resiste alla tentazione di congratularsi con sé stesso." },
     { "gameKey": "quest/044/AktKmf104_04442#TEXT_AKTKMF104_04442_TODO_00", "hash": "5D594464AF2EC40C", "target": "Parlare con Alisaie" },
@@ -66,7 +70,7 @@
     { "gameKey": "quest/044/AktKmf104_04442#TEXT_AKTKMF104_04442_GROWINGWAY_000_156", "hash": "7808F197873DF691", "target": "Mi dispiace di non aver avuto modo di salutarvi. E di avervi fatto attaccare dagli altri Loporrit, ehm. Un terribile malinteso." },
     { "gameKey": "quest/044/AktKmf104_04442#TEXT_AKTKMF104_04442_GROWINGWAY_000_157", "hash": "B33B548EFCA80FF8", "target": "Ma non preoccupatevi, si sono tutti ripresi dal pestaggio piuttosto brutale che avete inflitto loro. Non vi serbano rancore! Be', forse un po', per la brutalità, ma il tempo guarisce tutte le ferite! Quasi tutte, almeno." },
     { "gameKey": "quest/044/AktKmf104_04442#TEXT_AKTKMF104_04442_SINGINGWAY_000_160", "hash": "02CCB0C4F70EB901", "target": "Hmm hmm-hmmm～♪<br>Che gioia assaporare le delizie di Etheirys!" },
-    { "gameKey": "quest/044/AktKmf104_04442#TEXT_AKTKMF104_04442_COOKINGWAY_000_165", "hash": "89900892CC81ABEB", "target": "Che meraviglia rivedervi! Vi farà piacere sapere che ho imparato molto dalla nostra affascinante discussione al Carrotorium." },
+    { "gameKey": "quest/044/AktKmf104_04442#TEXT_AKTKMF104_04442_COOKINGWAY_000_165", "hash": "89900892CC81ABEB", "target": "Che meraviglia rivedervi! Vi farà piacere sapere che ho imparato molto dalla nostra affascinante discussione al Carotorio." },
     { "gameKey": "quest/044/AktKmf104_04442#TEXT_AKTKMF104_04442_COOKINGWAY_000_166", "hash": "C93156B36B343013", "target": "È tutto merito di Urianger. Mi ha insegnato le finezze della cucina, di cui sapevo ben poco, a dispetto del mio nome. Tanti piatti, tante parole difficili da pronunciare!" },
     { "gameKey": "quest/044/AktKmf104_04442#TEXT_AKTKMF104_04442_COOKINGWAY_000_167", "hash": "952176A148808B5D", "target": "In effetti speravo che mi mostrasse come preparare il pane degli Arconti. Ho sentito che è molto popolare, anche se non sembra avere un gran sapore. Ma se alla vostra gente piace, ne farò abbastanza per tutto il viaggio!" },
     { "gameKey": "quest/044/AktKmf104_04442#TEXT_AKTKMF104_04442_LIVINGWAY_000_170", "hash": "016AB78B9323497B", "target": "Che sorpresa incontrarvi qui, <split(<string(gstr1)>, ,1)>!" },

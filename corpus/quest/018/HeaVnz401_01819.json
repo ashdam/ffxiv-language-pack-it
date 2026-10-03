@@ -2,14 +2,14 @@
   "conversation": "quest/018/HeaVnz401_01819",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_SEQ_00", "hash": "595C68D9D0A7B1BF", "target": "" },
-    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_SEQ_01", "hash": "88C405ED661BB40C", "target": "" },
-    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_SEQ_02", "hash": "F084F242EDA0CCAD", "target": "" },
-    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_SEQ_03", "hash": "6BC06143ACA32DDF", "target": "" },
-    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_TODO_00", "hash": "D95AE6DC18C39046", "target": "" },
-    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_TODO_01", "hash": "FAA883B0F7D504C1", "target": "" },
-    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_MOGRET_000_000", "hash": "0A3221D4AC58AB04", "target": "" },
-    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_MOGRET_000_010", "hash": "D637B83CD5B49C3B", "target": "" },
-    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_MOGRET_000_030", "hash": "EEC06573A9053789", "target": "" }
+    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_SEQ_00", "hash": "595C68D9D0A7B1BF", "target": "Mogret ha un disperato bisogno di un bagno." },
+    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_SEQ_01", "hash": "88C405ED661BB40C", "target": "Un luogo dove i Moguri amano fare il bagno è stato invaso da mostruosità metà pesce e metà drago chiamate hropkens. Uccidine tre per disperdere le bestie, così Mogret potrà finalmente lavarsi sotto le ali." },
+    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_SEQ_02", "hash": "F084F242EDA0CCAD", "target": "Hai ucciso gli hropkens, ma il loro odore ti è rimasto nel naso. Torna da Mogret e informala che le acque sono di nuovo sicure." },
+    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_SEQ_03", "hash": "6BC06143ACA32DDF", "target": "Mogret è felicissima della notizia e spiega che non sopporta l'odore del pesce crudo. Suggerisce che forse anche <italic(1)>tu<italic(0)> dovresti considerare un tuffo." },
+    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_TODO_00", "hash": "D95AE6DC18C39046", "target": "Uccidere gli hropkens" },
+    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_TODO_01", "hash": "FAA883B0F7D504C1", "target": "Fare rapporto a Mogret" },
+    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_MOGRET_000_000", "hash": "0A3221D4AC58AB04", "target": "Hai mai fatto il bagno nelle acque a nord-est? Certo che no, perché una banda di grossi hropkens attacca chiunque si avvicini, kupò! Se ne uccidessi qualcuno, magari gli altri fuggirebbero e avrei tempo per un tuffo." },
+    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_MOGRET_000_010", "hash": "D637B83CD5B49C3B", "target": "Bestie metà drago e metà pesce non avranno certo bisogno di quelle acque quanto <italic(1)>me<italic(0)>. Scacciale, così potrò finalmente lavarmi." },
+    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_MOGRET_000_030", "hash": "EEC06573A9053789", "target": "Grazie mille per il tuo coraggio! Finalmente potrò fare un bagno senza quell'odore di drago-pesce crudo che mi assale il naso. \\<annusa> ...Senti, forse un tuffo servirebbe anche a te per, ehm...<italic(1)>rinfrescarti<italic(0)>, kupò!" }
   ]
 }

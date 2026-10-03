@@ -2,18 +2,18 @@
   "conversation": "quest/045/SubCts672_04525",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_SEQ_00", "hash": "2BC9ACBAF2A66270", "target": "" },
-    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_TODO_00", "hash": "98C903E48B20B474", "target": "" },
-    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_MERYLD_000_001", "hash": "145A54CF3053E0D0", "target": "" },
-    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_MERYLD_000_002", "hash": "AA15133FE783FBE7", "target": "" },
-    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_MERYLD_000_003", "hash": "E2526A367FF93170", "target": "" },
-    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_MERYLD_000_004", "hash": "0369946A93F872D5", "target": "" },
-    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_MERYLD_000_005", "hash": "7408B2E6BF9E3BB8", "target": "" },
-    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_MERYLD_000_010", "hash": "804DCCFA6F341A5C", "target": "" },
-    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_HOUSEMAID04524_000_020", "hash": "83FAA893CAEBD898", "target": "" },
-    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_HOUSEMAID04524_000_021", "hash": "FE382307BDEB3BC2", "target": "" },
-    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_HOUSEMAID04524_000_022", "hash": "A575D2BB3F6C80B8", "target": "" },
-    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_HOUSEMAID04524_000_023", "hash": "742E0EC35E44920F", "target": "" },
-    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_HOUSEMAID04524_000_024", "hash": "87346EA29C9AEBFB", "target": "" }
+    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_SEQ_00", "hash": "2BC9ACBAF2A66270", "target": "Lo sguardo sempre vigile di Meryld si posa su di te, con un sorriso che ricorda fin troppo quello di Tataru." },
+    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_TODO_00", "hash": "98C903E48B20B474", "target": "Parlare con la House Leveilleur maidservant" },
+    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_MERYLD_000_001", "hash": "145A54CF3053E0D0", "target": "<if(gnum4,Signora,Signor)> <split(<string(gstr1)>, ,2)>, è una piacevole sorpresa vedervi. Come sempre, il vostro tempismo è impeccabile." },
+    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_MERYLD_000_002", "hash": "AA15133FE783FBE7", "target": "Lady Ameliance mi ha affidato un regalo per voi: una tenuta che spera sia di vostro gradimento." },
+    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_MERYLD_000_003", "hash": "E2526A367FF93170", "target": "Prima di consegnarvi gli abiti, ho pensato fosse prudente assicurarci che siano della misura giusta. Mi dispiace molto per il disturbo, ma potrei chiedervi di parlare con la domestica laggiù?" },
+    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_MERYLD_000_004", "hash": "0369946A93F872D5", "target": "Il regalo è naturalmente un segno della gratitudine di lady Ameliance per le vostre imprese, ma spero che lo accettiate anche come un ringraziamento da parte di noi domestici." },
+    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_MERYLD_000_005", "hash": "7408B2E6BF9E3BB8", "target": "E, se posso aggiungere un'ultima cosa... continuate a vegliare sul signor Alphinaud e su lady Alisaie, vi prego." },
+    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_MERYLD_000_010", "hash": "804DCCFA6F341A5C", "target": "Quando avete un momento, cercate la domestica per le eventuali modifiche agli abiti." },
+    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_HOUSEMAID04524_000_020", "hash": "83FAA893CAEBD898", "target": "Salve, <if(gnum4,signora,signor)> <split(<string(gstr1)>, ,2)>. Ho qui la vostra tenuta." },
+    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_HOUSEMAID04524_000_021", "hash": "FE382307BDEB3BC2", "target": "Lady Ameliance ha un ottimo occhio per le misure, ma permettetemi di verificare che non servano altre modifiche." },
+    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_HOUSEMAID04524_000_022", "hash": "A575D2BB3F6C80B8", "target": "Mmm... sì, dovrebbe calzare bene sulle spalle... e anche la lunghezza delle maniche non dovrebbe essere un problema." },
+    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_HOUSEMAID04524_000_023", "hash": "742E0EC35E44920F", "target": "In altre parole: perfetta!" },
+    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_HOUSEMAID04524_000_024", "hash": "87346EA29C9AEBFB", "target": "Bene, credo di avervi sottratto abbastanza tempo. A nome di tutta la servitù della casata Leveilleur, vi auguro buon viaggio!" }
   ]
 }

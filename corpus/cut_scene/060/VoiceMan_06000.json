@@ -1,6 +1,10 @@
 {
-  "conversation": "cut_scene/060/VoiceMan_06000",
-  "gameVersion": "2026.09.15.0000.0000",
+  "conversation":
+"cut_scene/060/VoiceMan_06000"
+,
+  "gameVersion":
+"2026.09.15.0000.0000"
+,
   "entries": [
     { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_000010_THANCRED", "hash": "9E756174EDEF5046", "target": "Hanno quasi finito di caricare le nostre merci. Dovremmo essere pronti a partire in perfetto orario, almeno così mi dicono." },
     { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_000020_YSHTOLA", "hash": "357859170BD0A767", "target": "Ottimo. È bello che almeno l'inizio del viaggio proceda senza intoppi." },
@@ -191,7 +195,7 @@
     { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_001790_ALISAIE", "hash": "57D7DCC500D288F6", "target": "Sharlayan è famosa per custodire conoscenze provenienti da tutto il mondo. Ma non si conservano soltanto in tomi polverosi e campioni essiccati." },
     { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_001800_ALISAIE", "hash": "6AB21051F8EE987C", "target": "La nostra biblioteca «vivente» ─ composta da ogni genere di flora e fauna ─ è ospitata e studiata in quella struttura sotterranea." },
     { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_001810_ALISAIE", "hash": "9E0A11E58E8DB5F0", "target": "...Eppure sembrava un carico insolitamente grande. Quando vivevo qui, era raro persino vedere merci del genere trasportate in barca." },
-    { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_001820_ALISAIE", "hash": "205BD35D2858AF42", "target": "Aspetta. Al Last Stand non avevi sentito dire che il viavai dei raccoglitori era aumentato?" },
+    { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_001820_ALISAIE", "hash": "205BD35D2858AF42", "target": "Aspetta. All'Ultimo Baluardo non avevi sentito dire che il viavai dei raccoglitori era aumentato?" },
     { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_001830_ALISAIE", "hash": "B3B9A1EA69C7F7C8", "target": "Credo fossero loro a bordo di quelle barche. E i raccoglitori rispondono al Foro..." },
     { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_001840_ALISAIE", "hash": "D204505AA8A785B8", "target": "Se è stata la comparsa dei Telophoroi a provocare questa improvvisa frenesia, Labyrinthos potrebbe custodire un indizio sui piani del Foro!" },
     { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_001850_EMETSELCH", "hash": "2C012F137DD43AEF", "target": "Nelle profondità sotto la città degli studiosi, un falso sole risplende in un cielo artificiale." },
@@ -239,7 +243,7 @@
     { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_002280_ERENVILLE", "hash": "2A647FB37F667C53", "target": "Naturalmente scenderò anch'io per fare rapporto, ma non posso certo spacciarvi per facchini quando non c'è più nulla da trasportare." },
     { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_002290_YSHTOLA", "hash": "31752D53B6F20997", "target": "...Già. Fa' come se non avessi detto nulla." },
     { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_002300_ERENVILLE", "hash": "C344F15CC3FC1370", "target": "Come ve la cavate ad arrampicarvi? Se avete forza e coraggio a sufficienza, c'è un'altra via per scendere." },
-    { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_002310_ERENVILLE", "hash": "428109084FC75BE4", "target": "Questo sentiero conduce al Thirty-third Facet ─ un pozzo minerario scavato durante uno degli ampliamenti di Labyrinthos." },
+    { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_002310_ERENVILLE", "hash": "428109084FC75BE4", "target": "Questo sentiero conduce alla Trentatreesima Galleria, un pozzo minerario scavato durante uno degli ampliamenti di Labyrinthos." },
     { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_002320_ERENVILLE", "hash": "3EBC8707899BADCF", "target": "Non posso garantire che il passaggio sia sicuro, ma dovrebbe condurvi al Medial Circuit, più in basso." },
     { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_002330_KRILE", "hash": "E15A51B40AF28B58", "target": "Non sapevo nemmeno che esistesse un posto simile! Grazie, è la soluzione perfetta." },
     { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_002340_ERENVILLE", "hash": "1B76C972E5245AFD", "target": "Figuratevi, ma vi ho avvertiti. Se il percorso si rivela troppo pericoloso, fareste bene a tornare indietro. Buona giornata." },
@@ -861,7 +865,7 @@
     { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_008320_THANCRED", "hash": "DB5652C9B7B53759", "target": "E noi vi contatteremo quando avremo concluso i colloqui. Ti consiglio di riposare finché puoi─d'ora in poi, il sonno sarà di certo merce rara." },
     { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_008330_VRITRA", "hash": "DFFEC74FEE50946A", "target": "Fatti coraggio e proteggili con cura." },
     { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_008340_ALISAIE", "hash": "2939943D718AF283", "target": "Bene, sei qui! Non hai ancora mangiato, vero?" },
-    { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_008350_ALISAIE", "hash": "0E007298891A355F", "target": "Abbiamo portato un bel banchetto, se ti va. Solo le migliori pietanze del Last Stand!" },
+    { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_008350_ALISAIE", "hash": "0E007298891A355F", "target": "Abbiamo portato un bel banchetto, se ti va. Solo le migliori pietanze dell'Ultimo Baluardo!" },
     { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_008360_ALPHINAUD", "hash": "73E4C219095B3F71", "target": "Se te lo stai chiedendo, abbiamo invitato anche Estinien." },
     { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_008370_ALPHINAUD", "hash": "105AF81CF158349C", "target": "Ma ha rifiutato con un «No, grazie» e un'espressione piuttosto cupa. Sospetto che la cucina di Sharlayan non sia di suo gradimento..." },
     { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_008380_KRILE", "hash": "1350C37440B313D3", "target": "Oh, non ne sarei così sicura. Forse il nostro lupo solitario aveva solo bisogno di un po' di tempo per sé." },
