@@ -1,6 +1,10 @@
 {
-  "conversation": "quest/044/AktKmf105_04443",
-  "gameVersion": "2026.09.15.0000.0000",
+  "conversation":
+"quest/044/AktKmf105_04443"
+,
+  "gameVersion":
+"2026.09.15.0000.0000"
+,
   "entries": [
     { "gameKey": "quest/044/AktKmf105_04443#TEXT_AKTKMF105_04443_SEQ_00", "hash": "252D62757F3B457D", "target": "Per quanto ci provi, Urianger non riesce a liberarsi dei Loporrit." },
     { "gameKey": "quest/044/AktKmf105_04443#TEXT_AKTKMF105_04443_TODO_00", "hash": "A39822F34FD4F184", "target": "Parlare con Singingway" },
@@ -14,7 +18,7 @@
     { "gameKey": "quest/044/AktKmf105_04443#TEXT_AKTKMF105_04443_GROWINGWAY_000_006", "hash": "6B83367C33D79B73", "target": "Mi dispiace di non aver avuto modo di salutarvi. E di avervi fatto attaccare dagli altri Loporrit, ehm. Un terribile malinteso." },
     { "gameKey": "quest/044/AktKmf105_04443#TEXT_AKTKMF105_04443_GROWINGWAY_000_007", "hash": "20E154F8F6826102", "target": "Ma non preoccupatevi, si sono tutti ripresi dal pestaggio piuttosto brutale che avete inflitto loro. Non vi serbano rancore! Be', forse un po', per la brutalità, ma il tempo guarisce tutte le ferite! Quasi tutte, almeno." },
     { "gameKey": "quest/044/AktKmf105_04443#TEXT_AKTKMF105_04443_SINGINGWAY_000_010", "hash": "AA5DC86D60CD5B7A", "target": "Hmm hmm-hmmm～♪<br>Che gioia assaporare le delizie di Etheirys!" },
-    { "gameKey": "quest/044/AktKmf105_04443#TEXT_AKTKMF105_04443_COOKINGWAY_000_015", "hash": "C2E9327F96039D0E", "target": "Che meraviglia rivedervi! Vi farà piacere sapere che ho imparato molto dalla nostra affascinante discussione al Carrotorium." },
+    { "gameKey": "quest/044/AktKmf105_04443#TEXT_AKTKMF105_04443_COOKINGWAY_000_015", "hash": "C2E9327F96039D0E", "target": "Che meraviglia rivedervi! Vi farà piacere sapere che ho imparato molto dalla nostra affascinante discussione al Carotorio." },
     { "gameKey": "quest/044/AktKmf105_04443#TEXT_AKTKMF105_04443_COOKINGWAY_000_016", "hash": "3C8479A48EA04913", "target": "È tutto merito di Urianger. Mi ha insegnato le finezze della cucina, di cui sapevo ben poco, a dispetto del mio nome. Tanti piatti, tante parole difficili da pronunciare!" },
     { "gameKey": "quest/044/AktKmf105_04443#TEXT_AKTKMF105_04443_COOKINGWAY_000_017", "hash": "3D30B77278B7D3A7", "target": "In effetti speravo che mi mostrasse come preparare il pane degli Arconti. Ho sentito che è molto popolare, anche se non sembra avere un gran sapore. Ma se alla vostra gente piace, ne farò abbastanza per tutto il viaggio!" },
     { "gameKey": "quest/044/AktKmf105_04443#TEXT_AKTKMF105_04443_URIANGER_000_020", "hash": "ADD4A72098B197E3", "target": "Una visita a Labyrinthos? Hmm... Un suggerimento inatteso, ma assennato..." },
@@ -32,7 +36,7 @@
     { "gameKey": "quest/044/AktKmf105_04443#TEXT_AKTKMF105_04443_SINGINGWAY_000_050", "hash": "AB2CF878D4C4ABC1", "target": "Santo cielo! Costruire qualcosa di così grande senza magie di creazione...è assolutamente stupefacente!" },
     { "gameKey": "quest/044/AktKmf105_04443#TEXT_AKTKMF105_04443_SINGINGWAY_000_051", "hash": "F850E6D3BDFDD920", "target": "Potreste indicarci le sue caratteristiche più importanti?" },
     { "gameKey": "quest/044/AktKmf105_04443#TEXT_AKTKMF105_04443_SINGINGWAY_000_060", "hash": "F761042AA29E779F", "target": "Splendido! Il punto perfetto per osservare questo sorprendente dispositivo!" },
-    { "gameKey": "quest/044/AktKmf105_04443#TEXT_AKTKMF105_04443_SYSTEM_000_070", "hash": "292428992B70ECB9", "target": "Cerca nel dispositivo punti di possibile interesse. Puoi muovere la visuale, avvicinarla e allontanarla. Seleziona una zona ed esaminala con <if([gnum80==0],<colortype(546)>\uE051<colortype(0)>,<icon2(15)> / <icon2(8)>)>." },
+    { "gameKey": "quest/044/AktKmf105_04443#TEXT_AKTKMF105_04443_SYSTEM_000_070", "hash": "292428992B70ECB9", "target": "Cerca nel dispositivo punti di possibile interesse. Puoi muovere la visuale, avvicinarla e allontanarla. Seleziona una zona ed esaminala con <if([gnum80==0],<colortype(546)><colortype(0)>,<icon2(15)> / <icon2(8)>)>." },
     { "gameKey": "quest/044/AktKmf105_04443#TEXT_AKTKMF105_04443_SINGINGWAY_000_071", "hash": "AE94EDFEF0E916F7", "target": "Be', azzarderei che l'acqua estratta dal sottosuolo─presumibilmente con un altro meccanismo─venga purificata qui e conservata in quella torre, per poi essere distribuita altrove." },
     { "gameKey": "quest/044/AktKmf105_04443#TEXT_AKTKMF105_04443_SINGINGWAY_000_072", "hash": "163F1CA484F5F547", "target": "Ho ragione, vero?" },
     { "gameKey": "quest/044/AktKmf105_04443#TEXT_AKTKMF105_04443_SINGINGWAY_000_073", "hash": "C771DA66E6C7B22C", "target": "Lo sapevo! Un progetto brillante nella sua semplicità. Direi che basterebbe un momento per installarlo anche negli ambienti più ostili. Per noi Loporrit, intendo!" },

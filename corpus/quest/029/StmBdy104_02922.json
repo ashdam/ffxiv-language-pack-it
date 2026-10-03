@@ -2,19 +2,19 @@
   "conversation": "quest/029/StmBdy104_02922",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SEQ_00", "hash": "1205960C00094E7B", "target": "" },
-    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_TODO_00", "hash": "089464F3192ECBC4", "target": "" },
-    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SUMITSUBO_000_000", "hash": "2A07039DC49E800C", "target": "" },
-    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SUMITSUBO_000_001", "hash": "5E47DED3582334AD", "target": "" },
-    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SUMITSUBO_000_002", "hash": "F2C340E0C4097FF5", "target": "" },
-    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SUMITSUBO_000_003", "hash": "7D901634469146C3", "target": "" },
-    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SUMITSUBO_000_010", "hash": "63FBC6ED0DE1EE35", "target": "" },
-    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_KOUJIN02922_000_020", "hash": "212670645659B6EE", "target": "" },
-    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_KOUJIN02922_000_021", "hash": "27AA8E88FE10013E", "target": "" },
-    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_KOUJIN02922_000_022", "hash": "FA050E0488E0C01D", "target": "" },
-    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_KOUJIN02922_000_023", "hash": "B8AF3D40AB50E9EA", "target": "" },
-    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SYSTEM_000_050", "hash": "40EC243729A13BB5", "target": "" },
-    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SYSTEM_100_050", "hash": "E9CBE41E68CBD671", "target": "" },
-    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SYSTEM_000_051", "hash": "03BF2B489B654215", "target": "" }
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SEQ_00", "hash": "1205960C00094E7B", "target": "Il tuo odore ha attirato l'attenzione di Sumitsubo." },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_TODO_00", "hash": "089464F3192ECBC4", "target": "Parlare con il Kojin gentile" },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SUMITSUBO_000_000", "hash": "2A07039DC49E800C", "target": "Uhm...? \\<annusa> Odori di pesce. Vuol dire che peschi nel mondo di sopra?" },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SUMITSUBO_000_001", "hash": "5E47DED3582334AD", "target": "Se ti piace cacciare pesci lassù, sono sicuro che ti piacerà cacciarli anche quaggiù." },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SUMITSUBO_000_002", "hash": "F2C340E0C4097FF5", "target": "Non puoi usare canne e mulinelli sott'acqua, però. No, ti servirà una lancia per colpire la preda con rapidità e in silenzio, come i Kojin. Credo che la chiameresti... pesca subacquea?" },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SUMITSUBO_000_003", "hash": "7D901634469146C3", "target": "Vuoi una lezione di pesca subacquea? Se vedi uno dei miei fratelli Blu là fuori, sono sicuro che sarà felice di mostrarti come si fa." },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SUMITSUBO_000_010", "hash": "63FBC6ED0DE1EE35", "target": "Chi caccia e odora di pesce come te si troverà con la pesca subacquea come un Kojin nell'acqua. Sono certo che i miei fratelli Blu saranno più che felici di mostrarti come si fa." },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_KOUJIN02922_000_020", "hash": "212670645659B6EE", "target": "Vuoi cacciare i pesci con una lancia? Ma è facile come respirare sott'acqua. E visto che non ti manca il fiato, so già che imparerai questa tecnica in un baleno." },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_KOUJIN02922_000_021", "hash": "27AA8E88FE10013E", "target": "Per prima cosa devi cercare dove si radunano i pesci. Quando trovi un banco adatto, tieni salda la lancia e colpisci con un affondo rapido e fluido." },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_KOUJIN02922_000_022", "hash": "FA050E0488E0C01D", "target": "Ecco, in una conchiglia, l'arte della pesca subacquea. Naturalmente queste spiegazioni non servono a niente se non hai una lancia con cui esercitarti. Tieni, prendine una delle mie." },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_KOUJIN02922_000_023", "hash": "B8AF3D40AB50E9EA", "target": "Se ti guardi intorno, probabilmente troverai prede promettenti qui vicino. Addio, e buona caccia." },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SYSTEM_000_050", "hash": "40EC243729A13BB5", "target": "Ora puoi ottenere pesci con la pesca subacquea. Per farlo, devi prima equipaggiare uno spearfishing gig come attrezzo secondario." },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SYSTEM_100_050", "hash": "E9CBE41E68CBD671", "target": "Usando l'azione Fathom, potrai individuare le teeming waters mentre esplori l'oceano." },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SYSTEM_000_051", "hash": "03BF2B489B654215", "target": "Con lo spearfishing gig in mano, puoi interagire con queste teeming waters per catturare pesci." }
   ]
 }

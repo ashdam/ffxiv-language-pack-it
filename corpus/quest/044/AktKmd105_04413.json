@@ -1,6 +1,10 @@
 {
-  "conversation": "quest/044/AktKmd105_04413",
-  "gameVersion": "2026.09.15.0000.0000",
+  "conversation":
+"quest/044/AktKmd105_04413"
+,
+  "gameVersion":
+"2026.09.15.0000.0000"
+,
   "entries": [
     { "gameKey": "quest/044/AktKmd105_04413#TEXT_AKTKMD105_04413_SEQ_00", "hash": "F060F3AC50B7F876", "target": "Alphinaud è deciso a offrire agli abitanti tutto il soccorso possibile." },
     { "gameKey": "quest/044/AktKmd105_04413#TEXT_AKTKMD105_04413_TODO_00", "hash": "18886E81723A1C45", "target": "Parlare con Matsya" },
@@ -30,10 +34,10 @@
     { "gameKey": "quest/044/AktKmd105_04413#TEXT_AKTKMD105_04413_YERUVVET_000_067", "hash": "9F1758008008D804", "target": "Matsya, ricordi per caso Qerasaf e Mehvan? La giovane coppia che comprava sempre il tuo pescato più fresco..." },
     { "gameKey": "quest/044/AktKmd105_04413#TEXT_AKTKMD105_04413_MATSYA_000_068", "hash": "2EB6F34AB9382F54", "target": "Come potrei dimenticarli, anziano? Quando sono venuto per la prima volta a vendere il mio pesce─nel disperato tentativo di guadagnarmi da vivere─sono stati così gentili..." },
     { "gameKey": "quest/044/AktKmd105_04413#TEXT_AKTKMD105_04413_MATSYA_000_069", "hash": "0509AFD907CF58AA", "target": "Gli altri mi evitavano perché ero un estraneo, com'è loro usanza. Ma Qerasaf e Mehvan compravano il mio pesce e ne tessevano le lodi. Mi hanno risollevato le sorti!" },
-    { "gameKey": "quest/044/AktKmd105_04413#TEXT_AKTKMD105_04413_YERUVVET_000_070", "hash": "BB73062A5CFAB1C1", "target": "Ahimè, temo che siano in grave pericolo. Li ho visti correre verso Agama Temple, inseguiti da una di quelle bestie." },
+    { "gameKey": "quest/044/AktKmd105_04413#TEXT_AKTKMD105_04413_YERUVVET_000_070", "hash": "BB73062A5CFAB1C1", "target": "Ahimè, temo che siano in grave pericolo. Li ho visti correre verso il Tempio di Agama, inseguiti da una di quelle bestie." },
     { "gameKey": "quest/044/AktKmd105_04413#TEXT_AKTKMD105_04413_YERUVVET_000_071", "hash": "1A6A15BDAB38EB67", "target": "Avevano con sé la figlia─ancora una neonata. Sfuggire a quei mostri con una creatura così piccola da proteggere sarà certo impossibile. Vi supplico, andate in loro aiuto..." },
     { "gameKey": "quest/044/AktKmd105_04413#TEXT_AKTKMD105_04413_MATSYA_000_072", "hash": "554A494090D2129C", "target": "Io... io voglio aiutarli. Ma sono solo un pescatore─non posso affrontare le bestie da solo. Verrai con me?" },
-    { "gameKey": "quest/044/AktKmd105_04413#TEXT_AKTKMD105_04413_MATSYA_000_073", "hash": "E90E453463452C32", "target": "Oh, grazie! Agama Temple si trova a ovest. Dobbiamo sbrigarci!" },
+    { "gameKey": "quest/044/AktKmd105_04413#TEXT_AKTKMD105_04413_MATSYA_000_073", "hash": "E90E453463452C32", "target": "Oh, grazie! Il Tempio di Agama si trova a ovest. Dobbiamo sbrigarci!" },
     { "gameKey": "quest/044/AktKmd105_04413#TEXT_AKTKMD105_04413_ALISAIE_000_080", "hash": "990F85D37E75D9F6", "target": "Non preoccuparti─io e Alphinaud proteggeremo il villaggio fino al vostro ritorno. Va' a cercare gli amici di Matsya." },
     { "gameKey": "quest/044/AktKmd105_04413#TEXT_AKTKMD105_04413_MATSYA_000_090", "hash": "7098546137E9141D", "target": "Il tempio è poco più avanti..." },
     { "gameKey": "quest/044/AktKmd105_04413#TEXT_AKTKMD105_04413_MATSYA_000_091", "hash": "16517FFB40C97C74", "target": "È stato costruito dai fedeli di sant'Agama, ma purtroppo negli ultimi anni è caduto in rovina." },

@@ -32,7 +32,7 @@
     { "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_FONJEANTAINE_000_011", "hash": "24C99C32165CD35C", "target": "Devo ringraziare ancora <if(gnum4,entrambe,entrambi)> per i vostri saggi e tempestivi consigli." },
     { "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_WUKLAMAT_000_012", "hash": "1129C0BFA423854A", "target": "Non so quanto io sia stata davvero d'aiuto..." },
     { "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_FONJEANTAINE_000_013", "hash": "326DBF0B3D230734", "target": "Invece lo siete stata. Se non foste <if(gnum4,venute,venuti)> a parlarmi, non avrei avuto quel momento di tanto necessaria riflessione." },
-    { "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ERENVILLE_000_014", "hash": "AEBB3A6339555788", "target": "I preparativi sono conclusi. Venite a incontrarmi all'ingresso di High Tide Harbor." },
+    { "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ERENVILLE_000_014", "hash": "AEBB3A6339555788", "target": "I preparativi sono conclusi. Venite a incontrarmi all'ingresso del Porto dell'Alta Marea." },
     { "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_WUKLAMAT_000_015", "hash": "93BE5211C1DD26FE", "target": "Oh, quasi dimenticavo. La mia ascia è pronta, Ropli?" },
     { "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ROPLI_000_016", "hash": "B849F59FCBE40C6F", "target": "Pronta e in attesa. Ammirate il tocco sublime di un artigiano di Wachumeqimeqi." },
     { "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_WUKLAMAT_000_017", "hash": "D6E2A7B41F5B97CC", "target": "Oh, è affilata e letale come il primo giorno in cui l'ho impugnata! Grazie!" },

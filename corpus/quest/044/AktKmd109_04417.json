@@ -1,10 +1,14 @@
 {
-  "conversation": "quest/044/AktKmd109_04417",
-  "gameVersion": "2026.09.15.0000.0000",
+  "conversation":
+"quest/044/AktKmd109_04417"
+,
+  "gameVersion":
+"2026.09.15.0000.0000"
+,
   "entries": [
     { "gameKey": "quest/044/AktKmd109_04417#TEXT_AKTKMD109_04417_SEQ_00", "hash": "D55D5C5CD1E8367C", "target": "Matsya ti guarda come se volesse dirti qualcosa." },
     { "gameKey": "quest/044/AktKmd109_04417#TEXT_AKTKMD109_04417_SEQ_01", "hash": "654132632E2ECA91", "target": "Ora che Palaka's Stand ha ritrovato un momento di pace, tu e i tuoi compagni lasciate il villaggio alle cure di Nidhana, Matsya e degli alchimisti. Vi incamminate verso Radz<-->at<-->Han, fermandovi lungo la strada per incontrare Estinien." },
-    { "gameKey": "quest/044/AktKmd109_04417#TEXT_AKTKMD109_04417_SEQ_02", "hash": "D58CE743C0B7202F", "target": "Estinien è sollevato nel sapere che tu e gli altri avete riportato sotto controllo la situazione a Palaka's Stand. Da parte sua, il dragone ti assicura che nei dintorni non ci sono pericoli. Con l'animo più sereno, ti dirigi verso Alzadaal's Path, dove Thancred ti attende." },
+    { "gameKey": "quest/044/AktKmd109_04417#TEXT_AKTKMD109_04417_SEQ_02", "hash": "D58CE743C0B7202F", "target": "Estinien è sollevato nel sapere che tu e gli altri avete riportato sotto controllo la situazione a Palaka's Stand. Da parte sua, il dragone ti assicura che nei dintorni non ci sono pericoli. Con l'animo più sereno, ti dirigi verso la Via di Alzadaal, dove Thancred ti attende." },
     { "gameKey": "quest/044/AktKmd109_04417#TEXT_AKTKMD109_04417_SEQ_03", "hash": "CA5BB1F19AD84F88", "target": "Thancred è felice del vostro ritorno e vi informa con piacere che anche in città la minaccia è stata sventata. Spiega inoltre che i cittadini sono stati convocati in piazza, dove verrà fatto un annuncio di grande importanza. Su richiesta del tuo amico, prometti di informare chi ancora non ne è al corrente mentre ti dirigi a Meghaduta." },
     { "gameKey": "quest/044/AktKmd109_04417#TEXT_AKTKMD109_04417_SEQ_04", "hash": "21AC7A23DFF89499", "target": "Informi dell'annuncio un ragazzino che si era nascosto per paura delle bestie. Anche per la preoccupazione per Varshahn, che considera un amico, il ragazzo si precipita verso la piazza, mentre anche tu prosegui." },
     { "gameKey": "quest/044/AktKmd109_04417#TEXT_AKTKMD109_04417_SEQ_05", "hash": "372D4CD615859A64", "target": "Informi dell'imminente annuncio un giovane visibilmente spaventato. Benché riluttante a tornare sul luogo del recente massacro─e profondamente diffidente verso chiunque pretenda di assumere la guida al posto di Ahewann─si avvia comunque verso la piazza prima di te." },
@@ -40,7 +44,7 @@
     { "gameKey": "quest/044/AktKmd109_04417#TEXT_AKTKMD109_04417_ESTINIEN_000_070", "hash": "2DD241B0E3F92526", "target": "Alphinaud mi ha raccontato tutto. Sono davvero lieto di sapere che la gente è al sicuro." },
     { "gameKey": "quest/044/AktKmd109_04417#TEXT_AKTKMD109_04417_ESTINIEN_000_071", "hash": "EFC29F28AEA7868A", "target": "E ti farà piacere sapere che non ho trovato traccia di altre bestie nella giungla e fra le rovine. Sembra che tu abbia eliminato le ultime." },
     { "gameKey": "quest/044/AktKmd109_04417#TEXT_AKTKMD109_04417_ESTINIEN_000_072", "hash": "704400A74990D7DD", "target": "Tempi difficili attendono ancora la gente di Thavnair. Per fortuna, hanno un satrapo saggio e benevolo che li guiderà." },
-    { "gameKey": "quest/044/AktKmd109_04417#TEXT_AKTKMD109_04417_ESTINIEN_000_073", "hash": "A2D45E6512D4479B", "target": "A proposito, poco fa ho ricevuto notizie da Thancred. Attende il nostro ritorno in città ad Alzadaal's Path. Andiamo." },
+    { "gameKey": "quest/044/AktKmd109_04417#TEXT_AKTKMD109_04417_ESTINIEN_000_073", "hash": "A2D45E6512D4479B", "target": "A proposito, poco fa ho ricevuto notizie da Thancred. Attende il nostro ritorno in città alla Via di Alzadaal. Andiamo." },
     { "gameKey": "quest/044/AktKmd109_04417#TEXT_AKTKMD109_04417_ALPHINAUD_000_080", "hash": "6E0321CA64F42D86", "target": "Qui aleggia ancora un senso di desolazione, ma è molto preferibile al panico e al caos che abbiamo visto prima." },
     { "gameKey": "quest/044/AktKmd109_04417#TEXT_AKTKMD109_04417_ALISAIE_000_085", "hash": "119A695D8F9C34DA", "target": "La povera anziana che si è trasformata in una bestia aveva detto che suo nipote era andato a Palaka's Stand. Spero sia sopravvissuto..." },
     { "gameKey": "quest/044/AktKmd109_04417#TEXT_AKTKMD109_04417_ESTINIEN_000_090", "hash": "3F5E72215B9555FE", "target": "Non sarà facile per questa gente accettare simili tragedie. Ma sono molto più forti di quanto pensi." },

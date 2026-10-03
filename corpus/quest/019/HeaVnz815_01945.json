@@ -2,18 +2,18 @@
   "conversation": "quest/019/HeaVnz815_01945",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_SEQ_00", "hash": "61DA59A7FB0358BD", "target": "" },
-    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_SEQ_01", "hash": "72BE0B2446CEF4F4", "target": "" },
-    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_SEQ_02", "hash": "A63474D7F4DB7DDA", "target": "" },
-    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_SEQ_03", "hash": "365CE2E19F1667CE", "target": "" },
-    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_TODO_00", "hash": "CE98B461940B1EEE", "target": "" },
-    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_TODO_01", "hash": "567034BD29A67934", "target": "" },
-    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_HALFSIX_000_000", "hash": "A232F11E7549AB46", "target": "" },
-    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_HALFSIX_000_001", "hash": "9DE319FE5480E372", "target": "" },
-    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_HALFSIX_000_002", "hash": "C63384E2336B181A", "target": "" },
-    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_HALFSIX_000_010", "hash": "03111E06D2E936C2", "target": "" },
-    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_HALFSIX_000_020", "hash": "D4FCEEEB74A79AAD", "target": "" },
-    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_HALFSIX_000_021", "hash": "2E104E02CE6B8632", "target": "" },
-    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_HALFSIX_000_022", "hash": "2642A1CCB20131B7", "target": "" }
+    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_SEQ_00", "hash": "61DA59A7FB0358BD", "target": "Halfsix si agita irrequieto." },
+    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_SEQ_01", "hash": "72BE0B2446CEF4F4", "target": "L'eterite di Idyllshire sembra diventare instabile e necessita di un'ispezione accurata. Halfsix, però, non ha i distributori di flusso etereo necessari per l'analisi. Come molte altre cose del nascente insediamento, pare che anche questi si trovino da qualche parte nell'Arkhitekton. Halfsix ti chiede di andarci e cercare tre di questi strumenti nei vasi degli Illuminati." },
+    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_SEQ_02", "hash": "A63474D7F4DB7DDA", "target": "Ottieni tre distributori di flusso etereo e uccidi anche alcuni Illuminati. Torna con gli strumenti da Halfsix a Idyllshire." },
+    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_SEQ_03", "hash": "365CE2E19F1667CE", "target": "Halfsix ti ringrazia per l'aiuto. Grazie al tuo impegno, l'eterite continuerà senza dubbio a ruotare a Idyllshire per molti anni." },
+    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_TODO_00", "hash": "CE98B461940B1EEE", "target": "Cercare distributori di flusso etereo nei vasi degli Illuminati nell'Arkhitekton" },
+    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_TODO_01", "hash": "567034BD29A67934", "target": "Consegnare i distributori di flusso etereo a Halfsix" },
+    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_HALFSIX_000_000", "hash": "A232F11E7549AB46", "target": "Pshkohhh... Halfsix ha compito molto importante per affidabile altaterra, da fare con rapidità!" },
+    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_HALFSIX_000_001", "hash": "9DE319FE5480E372", "target": "Eterite di Idyllshire ha bisogno di ispezione, forse anche di manutenzione. Se goblin non controllano e aggiustano piccoli problemi, sue rotazioni possono tremare e fermarsi─o fare grandissimo bum! Ma Halfsix non ha strumenti giusti..." },
+    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_HALFSIX_000_002", "hash": "C63384E2336B181A", "target": "Altaterra, non c'è tempo da perdere! Halfsix ha bisogno di distributori di flusso etereo. Più vicini sono nella base di Illuminati! Forza, forza, saccheggia loro vasi-scorta!" },
+    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_HALFSIX_000_010", "hash": "03111E06D2E936C2", "target": "Presto, altaterra! Distributori di flusso etereo sono da qualche parte nell'Arkhitekton!" },
+    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_HALFSIX_000_020", "hash": "D4FCEEEB74A79AAD", "target": "Altaterra ha trovato distributori di flusso etereo?" },
+    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_HALFSIX_000_021", "hash": "2E104E02CE6B8632", "target": "Pshkohhh... Grazie, altaterra! Con questi Halfsix può fare manutenzione!" },
+    { "gameKey": "quest/019/HeaVnz815_01945#TEXT_HEAVNZ815_01945_HALFSIX_000_022", "hash": "2642A1CCB20131B7", "target": "Altaterra di Sharlayan fanno ruotare eteriti con astuti saperi antichi. Se stormogoblin usa strumenti e pezzi lasciati da vecchi altaterra, eterite di Idyllshire continuerà a ruotare per molti, molti anni!" }
   ]
 }

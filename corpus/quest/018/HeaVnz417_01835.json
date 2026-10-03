@@ -2,15 +2,15 @@
   "conversation": "quest/018/HeaVnz417_01835",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_SEQ_00", "hash": "9F07C462D67731B3", "target": "" },
-    { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_SEQ_01", "hash": "811CEC4067DEF08D", "target": "" },
-    { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_SEQ_02", "hash": "34EC9BB9F813760A", "target": "" },
-    { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_SEQ_03", "hash": "FC15D2E6687C38F7", "target": "" },
-    { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_TODO_00", "hash": "F5CB44BA40268833", "target": "" },
-    { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_TODO_01", "hash": "5BD2A57A970097EA", "target": "" },
-    { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_MONITORINGMOG01835_000_000", "hash": "2C29E89A21E9FE99", "target": "" },
-    { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_MONITORINGMOG01835_000_001", "hash": "DF5D02F03F1CA90A", "target": "" },
-    { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_MONITORINGMOG01835_000_010", "hash": "B4812D246684162F", "target": "" },
-    { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_MONITORINGMOG01835_000_020", "hash": "8939093284A0D516", "target": "" }
+    { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_SEQ_00", "hash": "9F07C462D67731B3", "target": "La Moguri sulla torre di guardia si stringe la pancia che brontola." },
+    { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_SEQ_01", "hash": "811CEC4067DEF08D", "target": "È quasi ora del cambio di turno, ma chi deve sostituire la povera Moguri non si vede da nessuna parte. Uccidi quattro tulihands per rendere sicura la strada ed evitare che la Moguri sulla torre muoia di fame." },
+    { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_SEQ_02", "hash": "34EC9BB9F813760A", "target": "Hai ucciso i tulihands e ora la sostituta dovrebbe poter raggiungere il posto di guardia in sicurezza. Porta la buona notizia alla Moguri affamata." },
+    { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_SEQ_03", "hash": "FC15D2E6687C38F7", "target": "Dopo aver sentito il tuo rapporto, la Moguri di guardia corre a casa, ansiosa di mettere le mani su qualche noce kupò." },
+    { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_TODO_00", "hash": "F5CB44BA40268833", "target": "Uccidere i tulihands" },
+    { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_TODO_01", "hash": "5BD2A57A970097EA", "target": "Fare rapporto alla Moguri di vedetta" },
+    { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_MONITORINGMOG01835_000_000", "hash": "2C29E89A21E9FE99", "target": "Perché ci mette tanto, kupò? La mia sostituta dovrebbe essere già qui, ma non la vedo da nessuna parte. Ho tanta fame... Scommetto che è tornata a casa per colpa di quei fastidiosi tulihands che svolazzano in giro." },
+    { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_MONITORINGMOG01835_000_001", "hash": "DF5D02F03F1CA90A", "target": "Se ne uccidi quattro, la strada sarà sicura e la mia sostituta non avrà scuse. Ti prego, il mio stomaco ti supplica, kupò!" },
+    { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_MONITORINGMOG01835_000_010", "hash": "B4812D246684162F", "target": "Non ce la faccio più, mi servono delle noci kupò... Ti prego, uccidi i tulihands per me!" },
+    { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_MONITORINGMOG01835_000_020", "hash": "8939093284A0D516", "target": "Grazie! Ora che i tulihands sono fuori dai piedi, è solo questione di tempo prima che arrivi la mia sostituta! Sto per svenire dalla fame, quindi credo che mi avvierò. Cosa potrebbe andare storto, kupò?" }
   ]
 }

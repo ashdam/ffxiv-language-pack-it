@@ -2,16 +2,16 @@
   "conversation": "quest/033/LucKzc001_03384",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEQ_00", "hash": "5C23777A937D0D92", "target": "" },
-    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_TODO_00", "hash": "8BBD9034940B133D", "target": "" },
-    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_TODO_01", "hash": "0AAC945B3BE88E40", "target": "" },
-    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_000", "hash": "DC61AE7AA2EFB910", "target": "" },
-    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_001", "hash": "A02891C9F6061283", "target": "" },
-    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_010", "hash": "FAEA8E7B80F948FB", "target": "" },
-    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_020", "hash": "070ABB0AC73FA9F3", "target": "" },
-    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_021", "hash": "A68C4A595C3E4584", "target": "" },
-    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_022", "hash": "06C3A81801595F0B", "target": "" },
-    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_023", "hash": "12BFCB7817FECB75", "target": "" },
-    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_024", "hash": "C4024562239BEA1B", "target": "" }
+    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEQ_00", "hash": "5C23777A937D0D92", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>A Seanard servirebbe una mano per alcune riparazioni necessarie." },
+    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_TODO_00", "hash": "8BBD9034940B133D", "target": "Applicare la malta rinforzante alle mura danneggiate" },
+    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_TODO_01", "hash": "0AAC945B3BE88E40", "target": "Fare rapporto a Seanard" },
+    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_000", "hash": "DC61AE7AA2EFB910", "target": "Ehi! Se non hai altro da fare, che ne dici di darmi una mano o due? Mi hanno affidato le riparazioni, e con questo posto ridotto così male non è certo un lavoro da fare da soli." },
+    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_001", "hash": "A02891C9F6061283", "target": "È abbastanza semplice. Prendi questo secchio di malta, trova un paio di punti dove le mura sono malmesse e applicane un bello strato. Grazie di cuore: con i nostri ranghi tanto assottigliati, ci serve tutto l'aiuto possibile!" },
+    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_010", "hash": "FAEA8E7B80F948FB", "target": "A dire il vero, dopo tutto quello che abbiamo passato servirebbero riparazioni in tutto il forte. Ma con pochi materiali e uomini, possiamo occuparci solo dei punti più urgenti." },
+    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_020", "hash": "070ABB0AC73FA9F3", "target": "Ti ho <if(gnum4,vista,visto)> lavorare sodo! Stanotte dormirò tranquillo sapendo che alcuni dei punti peggiori delle mura sono tornati come nuovi." },
+    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_021", "hash": "A68C4A595C3E4584", "target": "Conosci per caso la storia dell'Imperative? Lo costruirono quasi un secolo fa gli elfi che allora governavano Lakeland. Dopo il Diluvio, è diventato uno dei nostri baluardi contro i divorapeccati." },
+    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_022", "hash": "06C3A81801595F0B", "target": "Sì, questo forte ne ha subite tante, ma è ancora in piedi, a vegliare sul Crystarium e la sua gente. E sta a noi <italic(1)>mantenerlo<italic(0)> in piedi, alla faccia della scarsità di materiali e uomini." },
+    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_023", "hash": "12BFCB7817FECB75", "target": "Certo, senza la generosità di volontari come te non ci riusciremmo. Hai un vero talento per le riparazioni: ti interesserebbe entrare nella guardia e riparare mura a tempo pieno?" },
+    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_024", "hash": "C4024562239BEA1B", "target": "Ahahah! Scherzo, naturalmente. Ti ho già rubato abbastanza tempo oggi. Grazie di cuore, e fa' attenzione là fuori." }
   ]
 }

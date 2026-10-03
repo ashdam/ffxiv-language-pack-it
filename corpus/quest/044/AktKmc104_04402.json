@@ -1,6 +1,10 @@
 {
-  "conversation": "quest/044/AktKmc104_04402",
-  "gameVersion": "2026.09.15.0000.0000",
+  "conversation":
+"quest/044/AktKmc104_04402"
+,
+  "gameVersion":
+"2026.09.15.0000.0000"
+,
   "entries": [
     { "gameKey": "quest/044/AktKmc104_04402#TEXT_AKTKMC104_04402_SEQ_00", "hash": "DB6822A9610D37EC", "target": "Con gli Ultimi Giorni ormai alle porte, Livingway è impaziente di completare i preparativi." },
     { "gameKey": "quest/044/AktKmc104_04402#TEXT_AKTKMC104_04402_TODO_00", "hash": "CF25E5B54222BED7", "target": "Parlare con Livingway" },
@@ -19,14 +23,14 @@
     { "gameKey": "quest/044/AktKmc104_04402#TEXT_AKTKMC104_04402_LIVINGWAY_000_022", "hash": "D16DA547F961F94F", "target": "Se c'è qualcosa─qualsiasi cosa─che possa scontentarli, bisogna porvi rimedio immediatamente." },
     { "gameKey": "quest/044/AktKmc104_04402#TEXT_AKTKMC104_04402_LIVINGWAY_000_023", "hash": "CF4E41AD3102C64D", "target": "E vi porremo rimedio. Qui a Bestways Burrow abbiamo riunito tutto il necessario per offrire ai nostri ospiti la <italic(1)>via migliore<italic(0)> verso il futuro!" },
     { "gameKey": "quest/044/AktKmc104_04402#TEXT_AKTKMC104_04402_LIVINGWAY_000_024", "hash": "FF911F029E3EC1E3", "target": "...Ehm. Abbiamo prodotto innumerevoli comodità che riteniamo essenziali per la vita quotidiana, e voglio sentire le vostre opinioni!" },
-    { "gameKey": "quest/044/AktKmc104_04402#TEXT_AKTKMC104_04402_LIVINGWAY_000_025", "hash": "8FDE531AD756F403", "target": "Sono certa che vi sia venuto appetito, quindi perché non cominciamo dal cibo? Raggiungetemi al Carrotorium e vedremo di riempirvi la pancia." },
+    { "gameKey": "quest/044/AktKmc104_04402#TEXT_AKTKMC104_04402_LIVINGWAY_000_025", "hash": "8FDE531AD756F403", "target": "Sono certa che vi sia venuto appetito, quindi perché non cominciamo dal cibo? Raggiungetemi al Carotorio e vedremo di riempirvi la pancia." },
     { "gameKey": "quest/044/AktKmc104_04402#TEXT_AKTKMC104_04402_YSHTOLA_000_026", "hash": "904E2AAB41807801", "target": "L'entusiasmo non le manca. Però trovo alquanto inquietante che consideri inevitabile la rovina di Etheirys fin nel suo cuore." },
     { "gameKey": "quest/044/AktKmc104_04402#TEXT_AKTKMC104_04402_YSHTOLA_000_027", "hash": "6DD2EA5B18E4CB07", "target": "Comunque, cogliamo quest'occasione per conoscere meglio i Loporrit e questa nave." },
     { "gameKey": "quest/044/AktKmc104_04402#TEXT_AKTKMC104_04402_THANCRED_000_030", "hash": "F9DE55E6D1D34CB3", "target": "...Sono l'unico a sospettare che non troveremo niente di commestibile?" },
     { "gameKey": "quest/044/AktKmc104_04402#TEXT_AKTKMC104_04402_YSHTOLA_000_035", "hash": "86E6AD5EE87754A7", "target": "Dopo la confusione sulla nostra statura, non posso fare a meno di chiedermi se sappiano qualcosa di noi..." },
     { "gameKey": "quest/044/AktKmc104_04402#TEXT_AKTKMC104_04402_URIANGER_000_040", "hash": "6968AAFA385C8C22", "target": "Hai notato le singolari sentinelle che pattugliano i dintorni? Avvicinati con cautela─o, meglio ancora, non farlo affatto─poiché non distinguono gli amici dai nemici." },
     { "gameKey": "quest/044/AktKmc104_04402#TEXT_AKTKMC104_04402_COOKINGWAY_000_045", "hash": "E2BE78C78EE88265", "target": "Siete molto più piccoli di quanto ci aspettassimo, ma confido che abbiate comunque un grande appetito, vero?" },
-    { "gameKey": "quest/044/AktKmc104_04402#TEXT_AKTKMC104_04402_LIVINGWAY_000_050", "hash": "CBBFB27DC39D401E", "target": "Benvenuti al Carrotorium! Qui creiamo prototipi dei vari beni necessari ai nostri futuri passeggeri." },
+    { "gameKey": "quest/044/AktKmc104_04402#TEXT_AKTKMC104_04402_LIVINGWAY_000_050", "hash": "CBBFB27DC39D401E", "target": "Benvenuti al Carotorio! Qui creiamo prototipi dei vari beni necessari ai nostri futuri passeggeri." },
     { "gameKey": "quest/044/AktKmc104_04402#TEXT_AKTKMC104_04402_LIVINGWAY_000_051", "hash": "938A210CD0683983", "target": "Permettetemi di presentarvi il responsabile della produzione alimentare─" },
     { "gameKey": "quest/044/AktKmc104_04402#TEXT_AKTKMC104_04402_COOKINGWAY_000_052", "hash": "3F9A56F3991B9759", "target": "Cookingway! Piacere di conoscervi tutti!" },
     { "gameKey": "quest/044/AktKmc104_04402#TEXT_AKTKMC104_04402_COOKINGWAY_000_053", "hash": "7879F55E6F2697E2", "target": "Il nostro lavoro ha richiesto moltissimi tentativi, ma dopo innumerevoli cicli di fatiche meticolose, oserei dire che abbiamo creato la migliore cucina che i nostri ospiti possano desiderare." },

@@ -2,19 +2,19 @@
   "conversation": "quest/041/AktKyr104_04173",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_SEQ_00", "hash": "FE5DB4F1C6C94A54", "target": "" },
-    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_TODO_00", "hash": "45C3EB45A346D718", "target": "" },
-    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORA04171_000_000", "hash": "084A93000271B9E0", "target": "" },
-    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORA04171_000_001", "hash": "8FA9EA08A7BCDBCB", "target": "" },
-    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORA04171_000_002", "hash": "0FB695E5B5135670", "target": "" },
-    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORA04171_000_010", "hash": "4ECF5959F54E272A", "target": "" },
-    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORB04171_000_020", "hash": "865E19ADCABEA3D5", "target": "" },
-    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORB04171_000_021", "hash": "A69EAB87E651F9C4", "target": "" },
-    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORB04171_000_022", "hash": "D84CDFC35352ADE3", "target": "" },
-    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORB04171_000_023", "hash": "F4401171690C6E9C", "target": "" },
-    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORB04171_000_024", "hash": "71B645776D409690", "target": "" },
-    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORB04171_000_025", "hash": "AA58E65CC061C12B", "target": "" },
-    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORB04171_000_026", "hash": "2082F56F02F6CC51", "target": "" },
-    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_SYSTEM_000_100", "hash": "312180553BEBE9D8", "target": "" }
+    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_SEQ_00", "hash": "FE5DB4F1C6C94A54", "target": "Un membro dall'aspetto robusto della Guardia Radiosa ti attende per parlarti di una nuova struttura." },
+    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_TODO_00", "hash": "45C3EB45A346D718", "target": "Parlare con sharp-eyed Radiant a Palaka's Stand" },
+    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORA04171_000_000", "hash": "084A93000271B9E0", "target": "Salve, <if(gnum4,avventuriera,avventuriero)>! Speravo davvero che un giorno sareste <if(gnum4,tornata,tornato)> nella nostra bella città." },
+    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORA04171_000_001", "hash": "8FA9EA08A7BCDBCB", "target": "Dopotutto, è grazie a voi e agli Eredi che ora posso stare qui davanti a voi! E in segno di gratitudine vorrei condividere con voi qualcosa di utile." },
+    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORA04171_000_002", "hash": "0FB695E5B5135670", "target": "Anche se non sarò io a spiegarvi di cosa si tratta: cercate sharp-eyed Radiant, che presta servizio con me a Palaka's Stand, per saperne di più. Che gli dei vi accompagnino!" },
+    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORA04171_000_010", "hash": "4ECF5959F54E272A", "target": "Non voglio rovinarvi la sorpresa, ma vi prometto che ne varrà la pena!" },
+    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORB04171_000_020", "hash": "865E19ADCABEA3D5", "target": "Aha! Dovete essere <if(gnum4,l'avventuriera,l'avventuriero)> di cui ho tanto sentito parlare. Sì... Quello sguardo fiero mi fa pensare che siate davvero <if(gnum4,degna,degno)> del Campo Ardente." },
+    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORB04171_000_021", "hash": "A69EAB87E651F9C4", "target": "Ah... Perdonatemi. Dovrei mostrare più rispetto <if(gnum4,all'eroina,all'eroe)> di Radz<-->at<-->Han. Avrete senz'altro molti impegni, quindi non vi farò perdere tempo." },
+    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORB04171_000_022", "hash": "D84CDFC35352ADE3", "target": "Permettetemi di presentarvi il Campo Ardente, una prestigiosa arena d'addestramento dove noi della Guardia Radiosa affiniamo le nostre capacità per abbattere i nemici in battaglia." },
+    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORB04171_000_023", "hash": "F4401171690C6E9C", "target": "Lì non troverete distrazioni: soltanto voi e un manichino di legno. Immaginate di avere davanti un nemico temibile e colpitelo con tutte le vostre forze. Il modello del manichino proviene dall'Estremo Oriente, così come la pratica di percuoterlo ripetutamente per raggiungere la perfezione nell'arte del combattimento.<br>Si dice: «<if(gnum4,Colei,Colui)> che combatte con la forza della pietra incrollabile, respira a fondo il cielo sconfinato e abbraccia la serenità del mare ondoso, non ha nessuno che possa <if(gnum4,tenerle,tenergli)> testa.»" },
+    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORB04171_000_024", "hash": "71B645776D409690", "target": "Eh... Vedo che non vedete l'ora di cominciare l'addestramento. Sì, non dubito affatto che siate <if(gnum4,degna,degno)> di un simile luogo." },
+    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORB04171_000_025", "hash": "AA58E65CC061C12B", "target": "In tal caso, allenatevi pure come preferite. Parlatemi quando desiderate cominciare e vi farò da guida." },
+    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORB04171_000_026", "hash": "2082F56F02F6CC51", "target": "Credo di parlare a nome della Guardia Radiosa quando dico che è un onore assistere <if(gnum4,un'avventuriera,un avventuriero)> come voi. Detto questo, che i colpi abbiano inizio!" },
+    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_SYSTEM_000_100", "hash": "312180553BEBE9D8", "target": "Ora puoi accedere al Campo Ardente, un'estensione di Stone, Sky, Sea. Puoi raggiungere questo campo d'addestramento parlando con sharp-eyed Radiant a Palaka's Stand." }
   ]
 }

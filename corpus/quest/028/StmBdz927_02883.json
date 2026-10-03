@@ -2,17 +2,17 @@
   "conversation": "quest/028/StmBdz927_02883",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_SEQ_00", "hash": "6D6FD3B6B7D325D3", "target": "" },
-    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_TODO_00", "hash": "DD07C6D3D042D681", "target": "" },
-    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_TODO_01", "hash": "08B6D1033BD66F62", "target": "" },
-    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_000", "hash": "170B7B377ADF8AA2", "target": "" },
-    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_001", "hash": "56D9958B1A53D154", "target": "" },
-    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_002", "hash": "4CB250F383112953", "target": "" },
-    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_003", "hash": "32540C07BEA85EB0", "target": "" },
-    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_010", "hash": "E54EBEA0E4DFF6D2", "target": "" },
-    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_011", "hash": "E0FB2B7219855D80", "target": "" },
-    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_012", "hash": "F7934DBB0EADF1C5", "target": "" },
-    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_013", "hash": "4B10DCFFCE3CE749", "target": "" },
-    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_014", "hash": "23C8517013B49215", "target": "" }
+    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_SEQ_00", "hash": "6D6FD3B6B7D325D3", "target": "J'zula Tia ha un compito difficile da affidare a un avventuriero." },
+    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_TODO_00", "hash": "DD07C6D3D042D681", "target": "Usare sacchi di canapa robusti per catturare gli yabby indeboliti" },
+    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_TODO_01", "hash": "08B6D1033BD66F62", "target": "Consegnare i sacchi di canapa brulicanti a J'zula Tia" },
+    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_000", "hash": "170B7B377ADF8AA2", "target": "Tu sei <split(<string(gstr1)>, ,1)>, vero? Le tue imprese nell'esercito e nelle avventure sono famose. Forse chiedo troppo, ma mi servirebbe una mano con un piccolo problema." },
+    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_001", "hash": "56D9958B1A53D154", "target": "Mi hanno incaricato di catturare un paio di creature acquatiche piuttosto feroci, e devo ammettere che non riesco a gestirle. Per chi ha compiuto imprese come le tue, però, credo sarebbero solo un po' di esercizio prima <if([gnum11<12],<if([gnum11<4],di cena,di colazione)>,<if([gnum11<17],di pranzo,di cena)>)>." },
+    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_002", "hash": "4CB250F383112953", "target": "Hai visto i mostruosi yabby che si aggirano a sud del White Aisle? Ho dei grandi sacchi di canapa per trascinarli qui. Prima però falli stancare un po'─se avranno ancora voglia di lottare, sfonderanno i sacchi con quelle loro code appuntite." },
+    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_003", "hash": "32540C07BEA85EB0", "target": "Come ti dicevo, assicurati di togliere agli yabby ogni voglia di lottare prima di infilarli nei sacchi. E occhio alle code!" },
+    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_010", "hash": "E54EBEA0E4DFF6D2", "target": "Hai catturato quegli yabby per me?" },
+    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_011", "hash": "E0FB2B7219855D80", "target": "Oh, sono proprio vivaci questi pizzicatori─meglio metterli in un recinto prima che si liberino. Meno male che sono così irascibili, però." },
+    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_012", "hash": "F7934DBB0EADF1C5", "target": "Mi chiedi perché? Beh, fra noi, pensiamo di usare gli yabby come arma segreta per sconvolgere gli accampamenti imperiali. Vorrei proprio vedere la faccia di un ufficiale garleano che trova una di queste bellezze a scorrazzare nella sua tenda di comando." },
+    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_013", "hash": "4B10DCFFCE3CE749", "target": "Mi chiedi perché? Beh, pensiamo di usare gli yabby per addestrare le nuove reclute. Non si sa mai quando l'Impero proverà a riprendersi i territori perduti, e un po' d'esperienza in battaglia è meglio di niente." },
+    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_014", "hash": "23C8517013B49215", "target": "Grazie, <split(<string(gstr1)>, ,1)>. Cominciavo a stancarmi di ricucire i buchi in quei sacchi giganteschi..." }
   ]
 }

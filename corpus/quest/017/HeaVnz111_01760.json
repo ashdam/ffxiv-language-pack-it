@@ -2,17 +2,17 @@
   "conversation": "quest/017/HeaVnz111_01760",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_SEQ_00", "hash": "0B00FCF21B7660AC", "target": "" },
-    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_SEQ_01", "hash": "AD48DFE2AC1F8EA8", "target": "" },
-    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_SEQ_02", "hash": "7D40C35FA4446999", "target": "" },
-    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_SEQ_03", "hash": "10A9DD0EAD861C2C", "target": "" },
-    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_TODO_00", "hash": "59749B46F99F8CB1", "target": "" },
-    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_TODO_01", "hash": "CC616458FFF6E312", "target": "" },
-    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_JANTELLOT_000_000", "hash": "18C1FBA2D9BFBE07", "target": "" },
-    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_JANTELLOT_000_001", "hash": "C7ACA450DAA614D1", "target": "" },
-    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_JANTELLOT_000_010", "hash": "2D52E3D414D7E89F", "target": "" },
-    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_JANTELLOT_000_020", "hash": "5289D64061DB04B6", "target": "" },
-    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_JANTELLOT_000_021", "hash": "B02B23B5032A64B9", "target": "" },
-    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_JANTELLOT_000_022", "hash": "DBD2BD04EB099BF0", "target": "" }
+    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_SEQ_00", "hash": "0B00FCF21B7660AC", "target": "Jantellot vuole farti provare di persona la vita al Presidio dei Giustizieri." },
+    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_SEQ_01", "hash": "AD48DFE2AC1F8EA8", "target": "Jantellot vuole mostrarti com'è la vita al Presidio dei Giustizieri e ti suggerisce di andare a caccia per scoprirlo. I Giustizieri uccidono draghi, ma Jantellot consiglia di scaldarsi prima di affrontare l'Orda Dravaniana. Suggerisce di cacciare i rheums. Trova e uccidi tre rheums." },
+    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_SEQ_02", "hash": "7D40C35FA4446999", "target": "Ti avventuri nelle highlands e uccidi i rheums come richiesto. Torna da Jantellot al Presidio dei Giustizieri e digli che puoi affrontare qualcosa di un po' più draconico." },
+    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_SEQ_03", "hash": "10A9DD0EAD861C2C", "target": "Jantellot si congratula per le tue prede. Sembra che i rheums non fossero alla tua altezza. Ma i draghi sono tutta un'altra storia. Ti suggerisce di tornare a parlargli se vuoi cimentarti in una caccia vera." },
+    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_TODO_00", "hash": "59749B46F99F8CB1", "target": "Uccidere i rheums" },
+    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_TODO_01", "hash": "CC616458FFF6E312", "target": "Fare rapporto a Jantellot" },
+    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_JANTELLOT_000_000", "hash": "18C1FBA2D9BFBE07", "target": "Mi ricordo di te─come potrei dimenticare? Sei <if(gnum4,la ragazza,il ragazzo)> che accompagnava il Dragone Azzurro! Già che sei qui, perché non provi a cacciare un po' prima di partire? Scoprirai com'è la vita per noi Giustizieri." },
+    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_JANTELLOT_000_001", "hash": "C7ACA450DAA614D1", "target": "L'Orda Dravaniana è più forte di quanto pensi. Se non li cacci da anni─come me─è meglio iniziare con qualcosa di semplice e arrivare ai draghi un po' alla volta. Consiglio i rheums. Uccidine tre e torna qui. Consideralo un riscaldamento!" },
+    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_JANTELLOT_000_010", "hash": "2D52E3D414D7E89F", "target": "L'Orda ha ucciso parecchi giovani soldati troppo sicuri di sé. Meglio iniziare con qualcosa di più sicuro: uccidi tre rheums e torna da me." },
+    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_JANTELLOT_000_020", "hash": "5289D64061DB04B6", "target": "Hai già ucciso quei rheums? Come ti sono sembrati? Ti hanno dato molto filo da torcere?" },
+    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_JANTELLOT_000_021", "hash": "B02B23B5032A64B9", "target": "Ottimo lavoro, <if(gnum4,ragazza,ragazzo)>! È chiaro che il Dragone Azzurro non viaggia con dei dilettanti. Pare che quei rheums ti abbiano dato appena abbastanza filo da torcere da poterlo chiamare un riscaldamento!" },
+    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_JANTELLOT_000_022", "hash": "DBD2BD04EB099BF0", "target": "Sai proprio il fatto tuo. Se vuoi cimentarti nella caccia ai draghi, torna a parlarmi." }
   ]
 }

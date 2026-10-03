@@ -2,16 +2,16 @@
   "conversation": "quest/037/SubCts642_03731",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/037/SubCts642_03731#TEXT_SUBCTS642_03731_SEQ_00", "hash": "2380228B28C34775", "target": "" },
-    { "gameKey": "quest/037/SubCts642_03731#TEXT_SUBCTS642_03731_TODO_00", "hash": "3067DD7D54930337", "target": "" },
-    { "gameKey": "quest/037/SubCts642_03731#TEXT_SUBCTS642_03731_ANFRIGG_000_000", "hash": "4CE137DB3816FF1E", "target": "" },
-    { "gameKey": "quest/037/SubCts642_03731#TEXT_SUBCTS642_03731_ANFRIGG_000_001", "hash": "8454352D8B5F540A", "target": "" },
-    { "gameKey": "quest/037/SubCts642_03731#TEXT_SUBCTS642_03731_ANFRIGG_000_002", "hash": "0FC3D2858DC418EA", "target": "" },
-    { "gameKey": "quest/037/SubCts642_03731#TEXT_SUBCTS642_03731_ANFRIGG_000_010", "hash": "20CB12BF56B4256E", "target": "" },
-    { "gameKey": "quest/037/SubCts642_03731#TEXT_SUBCTS642_03731_LEREBERD_000_020", "hash": "80361FADBFBA27A0", "target": "" },
-    { "gameKey": "quest/037/SubCts642_03731#TEXT_SUBCTS642_03731_LEREBERD_000_021", "hash": "9A8194CBADD7F78A", "target": "" },
-    { "gameKey": "quest/037/SubCts642_03731#TEXT_SUBCTS642_03731_LEREBERD_000_022", "hash": "96D226E008B45EF1", "target": "" },
-    { "gameKey": "quest/037/SubCts642_03731#TEXT_SUBCTS642_03731_LEREBERD_000_023", "hash": "3AD28012E835544B", "target": "" },
-    { "gameKey": "quest/037/SubCts642_03731#TEXT_SUBCTS642_03731_LEREBERD_000_024", "hash": "840CDC5343B61440", "target": "" }
+    { "gameKey": "quest/037/SubCts642_03731#TEXT_SUBCTS642_03731_SEQ_00", "hash": "2380228B28C34775", "target": "Anfrigg potrebbe posare per una volta il suo shaker, se gli rivolgessi la parola." },
+    { "gameKey": "quest/037/SubCts642_03731#TEXT_SUBCTS642_03731_TODO_00", "hash": "3067DD7D54930337", "target": "Parlare con Lereberd" },
+    { "gameKey": "quest/037/SubCts642_03731#TEXT_SUBCTS642_03731_ANFRIGG_000_000", "hash": "4CE137DB3816FF1E", "target": "Sono lieto che mi abbiate risparmiato la fatica di cercarvi. Mi hanno chiesto di comunicarvi una notizia." },
+    { "gameKey": "quest/037/SubCts642_03731#TEXT_SUBCTS642_03731_ANFRIGG_000_001", "hash": "8454352D8B5F540A", "target": "Una delle aeronavi riallestite sta per partire per il primo volo commerciale verso il Crystarium, e avete ricevuto un invito a bordo come ospite d'onore!" },
+    { "gameKey": "quest/037/SubCts642_03731#TEXT_SUBCTS642_03731_ANFRIGG_000_002", "hash": "0FC3D2858DC418EA", "target": "Con tutto il vostro contributo, è il minimo. Quando sarete <if(gnum4,pronta,pronto)> a imbarcarvi, parlate con Lereberd, quel cretino vestito in modo vistoso vicino allo Xylem Lift. Attenzione, però: ha un'espressione così acida da cagliare il latte a venti passi." },
+    { "gameKey": "quest/037/SubCts642_03731#TEXT_SUBCTS642_03731_ANFRIGG_000_010", "hash": "20CB12BF56B4256E", "target": "Di solito allo Xylem Lift c'è un tipo che sembra aver rubato le tende a sua madre per farsene un cappotto. Si chiama Lereberd, e difficilmente incontrerete un bastardo più odioso." },
+    { "gameKey": "quest/037/SubCts642_03731#TEXT_SUBCTS642_03731_LEREBERD_000_020", "hash": "80361FADBFBA27A0", "target": "Siete qui per imbarcarvi sull'aeronave? Hmpf!" },
+    { "gameKey": "quest/037/SubCts642_03731#TEXT_SUBCTS642_03731_LEREBERD_000_021", "hash": "9A8194CBADD7F78A", "target": "Siete <if(gnum4,una di quelle soldatesse sudaticce,uno di quei soldati sudaticci)>? O lavorate al cantiere e non avete di meglio da fare che piantare chiodi tutto il giorno con tanta furia da far pensare che vi abbiano fatto un torto? Mh? Quale delle due?" },
+    { "gameKey": "quest/037/SubCts642_03731#TEXT_SUBCTS642_03731_LEREBERD_000_022", "hash": "96D226E008B45EF1", "target": "Non capisco perché abbiano deciso di concedervi abbonamenti a vita per quei lavori scadenti che avete fatto. Non che mi riguardi, naturalmente. La plebaglia resta plebaglia." },
+    { "gameKey": "quest/037/SubCts642_03731#TEXT_SUBCTS642_03731_LEREBERD_000_023", "hash": "3AD28012E835544B", "target": "\\<sospiro> È mio dovere informarvi che tutti i passeggeri saranno accompagnati da qui al livello più alto di Eulmore, dove si trova lo scalo delle aeronavi. Solo chi ha il permesso d'imbarco può passare oltre." },
+    { "gameKey": "quest/037/SubCts642_03731#TEXT_SUBCTS642_03731_LEREBERD_000_024", "hash": "840CDC5343B61440", "target": "Ahimè, chi comanda non ha pensato a fornirmi una vera reception, relegandomi qui in piedi per campane intere come un miserabile valletto. \\<sospiro> Se avete finito di annoiarmi, la vostra aeronave vi attende. <if(gnum4,<italic(1)>Signora<italic(0)>,<italic(1)>Signore<italic(0)>)>." }
   ]
 }

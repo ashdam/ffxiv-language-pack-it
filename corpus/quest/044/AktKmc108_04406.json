@@ -1,6 +1,10 @@
 {
-  "conversation": "quest/044/AktKmc108_04406",
-  "gameVersion": "2026.09.15.0000.0000",
+  "conversation":
+"quest/044/AktKmc108_04406"
+,
+  "gameVersion":
+"2026.09.15.0000.0000"
+,
   "entries": [
     { "gameKey": "quest/044/AktKmc108_04406#TEXT_AKTKMC108_04406_SEQ_00", "hash": "7CC9D1DDE974F461", "target": "Urianger è molto lieto della tua compagnia." },
     { "gameKey": "quest/044/AktKmc108_04406#TEXT_AKTKMC108_04406_TODO_00", "hash": "ABBD5F4DC793590A", "target": "Parlare con Urianger" },
@@ -36,7 +40,7 @@
     { "gameKey": "quest/044/AktKmc108_04406#TEXT_AKTKMC108_04406_A1_000_052", "hash": "E7350EAD2067783E", "target": "Che ne dici di un altro paio di mani prima che vada da Y'shtola?" },
     { "gameKey": "quest/044/AktKmc108_04406#TEXT_AKTKMC108_04406_A1_000_053", "hash": "B1611E874C184BDB", "target": "Che coincidenza... Una coincidenza <italic(1)>sospetta<italic(0)>." },
     { "gameKey": "quest/044/AktKmc108_04406#TEXT_AKTKMC108_04406_LIVINGWAY_000_054", "hash": "4B17C6EC7A21A22B", "target": "Fiuu, bene..." },
-    { "gameKey": "quest/044/AktKmc108_04406#TEXT_AKTKMC108_04406_LIVINGWAY_000_055", "hash": "F8D8592722C117B4", "target": "V-Voglio dire, sì, benissimo. Non vi tratteniamo, allora. Ha detto che vi avrebbe aspettato a Greatest Endsvale...o da quelle parti. Sono certa che la troverete presto." },
+    { "gameKey": "quest/044/AktKmc108_04406#TEXT_AKTKMC108_04406_LIVINGWAY_000_055", "hash": "F8D8592722C117B4", "target": "V-Voglio dire, sì, benissimo. Non vi tratteniamo, allora. Ha detto che vi avrebbe aspettato nella Valle Suprema...o da quelle parti. Sono certa che la troverete presto." },
     { "gameKey": "quest/044/AktKmc108_04406#TEXT_AKTKMC108_04406_LIVINGWAY_000_056", "hash": "4B4E4E8496F4614C", "target": "No, no, non sarà necessario. L'aiuto di Urianger basterà e avanzerà." },
     { "gameKey": "quest/044/AktKmc108_04406#TEXT_AKTKMC108_04406_LIVINGWAY_000_057", "hash": "3796DD4E5435D63D", "target": "E sono certa che non vogliate rischiare di irritare Y'shtola facendola aspettare. Sembra...spinosa. Su, andate." },
     { "gameKey": "quest/044/AktKmc108_04406#TEXT_AKTKMC108_04406_LIVINGWAY_000_058", "hash": "350B796C4C91FF36", "target": "Insinuate che tradirei la fiducia della persona scelta da Hydaelyn? O peggio─che rischierei di irritare Y'shtola!?" },
@@ -53,8 +57,8 @@
     { "gameKey": "quest/044/AktKmc108_04406#TEXT_AKTKMC108_04406_GROWINGWAY_000_086", "hash": "9EEC32E343CC8FF0", "target": "P-Perché tanta fretta? Pensavo che potremmo aspettare qui, magari gustarci un boccale fresco di succo di carota, e...no? \\<sospiro> Be', se è davvero così importante..." },
     { "gameKey": "quest/044/AktKmc108_04406#TEXT_AKTKMC108_04406_GROWINGWAY_000_087", "hash": "2A65EA8181639D9E", "target": "Potete provare con queste...palle. Di carne di mousse. Da non confondere con...quelle altre." },
     { "gameKey": "quest/044/AktKmc108_04406#TEXT_AKTKMC108_04406_GROWINGWAY_000_088", "hash": "C5C13107BD34CCDB", "target": "Ehm. L'altra particolarità di Runningway è il chiacchiericcio incessante, quindi non faticherete a trovarlo fra la folla. E quando lo trovate, provate a tirargli le palle." },
-    { "gameKey": "quest/044/AktKmc108_04406#TEXT_AKTKMC108_04406_YSHTOLA_000_089", "hash": "A5ABD172D17CCD51", "target": "Rozzo, ma se funziona... L'ultima volta che l'ho visto era qui a Greatest Endsvale. Dividiamoci e troviamolo." },
-    { "gameKey": "quest/044/AktKmc108_04406#TEXT_AKTKMC108_04406_SYSTEM_000_100", "hash": "869108C039F4C357", "target": "Cerca Runningway nei dintorni. Puoi muovere la visuale, avvicinarla e allontanarla. Seleziona Runningway e lancia palle di mousse con <if([gnum80==0],<colortype(546)>\uE051<colortype(0)>,<icon2(15)>/<icon2(8)>)>." },
+    { "gameKey": "quest/044/AktKmc108_04406#TEXT_AKTKMC108_04406_YSHTOLA_000_089", "hash": "A5ABD172D17CCD51", "target": "Rozzo, ma se funziona... L'ultima volta che l'ho visto era qui nella Valle Suprema. Dividiamoci e troviamolo." },
+    { "gameKey": "quest/044/AktKmc108_04406#TEXT_AKTKMC108_04406_SYSTEM_000_100", "hash": "869108C039F4C357", "target": "Cerca Runningway nei dintorni. Puoi muovere la visuale, avvicinarla e allontanarla. Seleziona Runningway e lancia palle di mousse con <if([gnum80==0],<colortype(546)><colortype(0)>,<icon2(15)>/<icon2(8)>)>." },
     { "gameKey": "quest/044/AktKmc108_04406#TEXT_AKTKMC108_04406_RUNNINGWAY_000_101", "hash": "9DA0FEC5EE623EB4", "target": "Mh? Sì, sono Runningway. Vi dispiace spiegarmi perché mi avete colpito in faccia con le vostre palle... Di carne di mousse?" },
     { "gameKey": "quest/044/AktKmc108_04406#TEXT_AKTKMC108_04406_RUNNINGWAY_000_102", "hash": "57C2AC252795DACF", "target": "<italic(1)>Io<italic(0)> saprei moltissimo sugli Ultimi Giorni?" },
     { "gameKey": "quest/044/AktKmc108_04406#TEXT_AKTKMC108_04406_RUNNINGWAY_000_103", "hash": "219D2EC0DC0F1792", "target": "Ah, è la cosa più ridicola che abbia sentito da quando mi sono svegliato! Chi vi ha raccontato questa barzelletta?" },

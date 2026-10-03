@@ -1,6 +1,10 @@
 {
-  "conversation": "quest/044/AktKmg102_04451",
-  "gameVersion": "2026.09.15.0000.0000",
+  "conversation":
+"quest/044/AktKmg102_04451"
+,
+  "gameVersion":
+"2026.09.15.0000.0000"
+,
   "entries": [
     { "gameKey": "quest/044/AktKmg102_04451#TEXT_AKTKMG102_04451_SEQ_00", "hash": "E1BF49DE7D801501", "target": "Pur felice di averti come cliente, Tataru è pronta a lasciarti andare." },
     { "gameKey": "quest/044/AktKmg102_04451#TEXT_AKTKMG102_04451_TODO_00", "hash": "31A74111FEFA60FA", "target": "Parlare con Krile" },
@@ -16,14 +20,14 @@
     { "gameKey": "quest/044/AktKmg102_04451#TEXT_AKTKMG102_04451_KRILE_000_020", "hash": "C4C322C72B9F6791", "target": "Eccoti. Immagino che tu abbia ricevuto il regalo di Tataru?" },
     { "gameKey": "quest/044/AktKmg102_04451#TEXT_AKTKMG102_04451_KRILE_000_021", "hash": "AAA8E42ECAEC5B8B", "target": "Era una sorpresa in preparazione da molto tempo, con tante, tante ore passate ad affannarsi perché tutto fosse perfetto. Sono felice di vederla realizzata, e con grande successo." },
     { "gameKey": "quest/044/AktKmg102_04451#TEXT_AKTKMG102_04451_KRILE_000_022", "hash": "AB1697E8ADABDF7F", "target": "Se però cerchi gli altri, sono già usciti." },
-    { "gameKey": "quest/044/AktKmg102_04451#TEXT_AKTKMG102_04451_KRILE_000_023", "hash": "B4025508B56FCA8F", "target": "Y'shtola, Thancred e Urianger sono andati al Last Stand a mangiare qualcosa." },
+    { "gameKey": "quest/044/AktKmg102_04451#TEXT_AKTKMG102_04451_KRILE_000_023", "hash": "B4025508B56FCA8F", "target": "Y'shtola, Thancred e Urianger sono andati all'Ultimo Baluardo a mangiare qualcosa." },
     { "gameKey": "quest/044/AktKmg102_04451#TEXT_AKTKMG102_04451_KRILE_000_024", "hash": "690E10455C3B78D5", "target": "Alisaie e G'raha Tia, invece, hanno pensato che fosse meglio passare il tempo sui libri a Noumenon." },
-    { "gameKey": "quest/044/AktKmg102_04451#TEXT_AKTKMG102_04451_KRILE_000_025", "hash": "13BA40948E064715", "target": "Quanto ad Alphinaud ed Estinien, be'... Hanno deciso di fare visita alla residenza Leveilleur, anche se Estinien sembrava un po' riluttante." },
+    { "gameKey": "quest/044/AktKmg102_04451#TEXT_AKTKMG102_04451_KRILE_000_025", "hash": "13BA40948E064715", "target": "Quanto ad Alphinaud ed Estinien, be'... Hanno deciso di fare visita alla Leveilleur Estate, anche se Estinien sembrava un po' riluttante." },
     { "gameKey": "quest/044/AktKmg102_04451#TEXT_AKTKMG102_04451_KRILE_000_026", "hash": "C275B20E1C68745D", "target": "Sono certa che sarebbero tutti felici della tua compagnia, se ti va di cercarli." },
-    { "gameKey": "quest/044/AktKmg102_04451#TEXT_AKTKMG102_04451_KRILE_000_027", "hash": "A93A74D8131D1A95", "target": "Se hai un languorino, ti suggerisco di andare al Last Stand prima che Y'shtola e gli altri finiscano di mangiare. Ma soprattutto, sarebbe sciocco gettarsi in battaglia senza più forze, quindi ricorda di fare una bella dormita." },
+    { "gameKey": "quest/044/AktKmg102_04451#TEXT_AKTKMG102_04451_KRILE_000_027", "hash": "A93A74D8131D1A95", "target": "Se hai un languorino, ti suggerisco di andare all'Ultimo Baluardo prima che Y'shtola e gli altri finiscano di mangiare. Ma soprattutto, sarebbe sciocco gettarsi in battaglia senza più forze, quindi ricorda di fare una bella dormita." },
     { "gameKey": "quest/044/AktKmg102_04451#TEXT_AKTKMG102_04451_KRILE_000_030", "hash": "D28B935E7AE3BB5F", "target": "Anch'io ho qualche questione da sbrigare prima che tu e gli altri partiate per Ultima Thule. Ma non preoccuparti, io e Tataru terremo tutto in ordine durante la vostra assenza." },
     { "gameKey": "quest/044/AktKmg102_04451#TEXT_AKTKMG102_04451_YSHTOLA_000_035", "hash": "1751A8A26E7EA803", "target": "Per quanto si impegnasse, Tataru non aveva alcuna possibilità di frapporsi fra te e un pasto sostanzioso. Non preoccuparti, abbiamo tenuto qualcosa da parte per te." },
-    { "gameKey": "quest/044/AktKmg102_04451#TEXT_AKTKMG102_04451_URIANGER_000_040", "hash": "20BD7F233A850DA9", "target": "Hai per caso avuto occasione di assaggiare il budino arcobaleno? Il suo sapore sorprendente e l'aspetto un po' sgargiante lo hanno reso assai popolare. Tanto popolare, invero, che al Last Stand è del tutto esaurito." },
+    { "gameKey": "quest/044/AktKmg102_04451#TEXT_AKTKMG102_04451_URIANGER_000_040", "hash": "20BD7F233A850DA9", "target": "Hai per caso avuto occasione di assaggiare il budino arcobaleno? Il suo sapore sorprendente e l'aspetto un po' sgargiante lo hanno reso assai popolare. Tanto popolare, invero, che all'Ultimo Baluardo è del tutto esaurito." },
     { "gameKey": "quest/044/AktKmg102_04451#TEXT_AKTKMG102_04451_URIANGER_000_041", "hash": "0EA27BCAF8C20F8F", "target": "Spero almeno che Puddingway abbia potuto gustare questo delizioso dolce." },
     { "gameKey": "quest/044/AktKmg102_04451#TEXT_AKTKMG102_04451_THANCRED_000_050", "hash": "52027C8EB2A0472A", "target": "<split(<string(gstr1)>, ,1)>! Sei qui per trasformare il nostro trio in un quartetto?" },
     { "gameKey": "quest/044/AktKmg102_04451#TEXT_AKTKMG102_04451_THANCRED_000_051", "hash": "841BBFAD911850F7", "target": "Prego, siediti, e vediamo di procurarti qualcosa da bere." },
@@ -44,7 +48,7 @@
     { "gameKey": "quest/044/AktKmg102_04451#TEXT_AKTKMG102_04451_ALISAIE_000_111", "hash": "8CB0FEAF571FB47A", "target": "Dovrei andare a prendere un po' d'aria. Magari allenarmi un po'. Ma non dormire. Dormirò quando sarò morta." },
     { "gameKey": "quest/044/AktKmg102_04451#TEXT_AKTKMG102_04451_GRAHATIA_000_115", "hash": "9D94FE2C9E712F85", "target": "Basta leggere, per oggi. Dato che non sappiamo quanto staremo via, farei meglio a restituire questi libri prima di partire." },
     { "gameKey": "quest/044/AktKmg102_04451#TEXT_AKTKMG102_04451_GRAHATIA_000_116", "hash": "976D897A65940E8A", "target": "E a mangiare. Sto morendo di fame. E tu?" },
-    { "gameKey": "quest/044/AktKmg102_04451#TEXT_AKTKMG102_04451_GRAHATIA_000_117", "hash": "7207185B73B8DE6C", "target": "Capisco... Forse passerò al Last Stand mentre torno." },
+    { "gameKey": "quest/044/AktKmg102_04451#TEXT_AKTKMG102_04451_GRAHATIA_000_117", "hash": "7207185B73B8DE6C", "target": "Capisco... Forse passerò all'Ultimo Baluardo mentre torno." },
     { "gameKey": "quest/044/AktKmg102_04451#TEXT_AKTKMG102_04451_KRILE_000_120", "hash": "04ADC2533AD5FB4B", "target": "Se non altro, quei due sembrano di buon umore. Comunque, li riporterò all'annesso a riposare come si deve, anche a costo di trascinarli per le orecchie." },
     { "gameKey": "quest/044/AktKmg102_04451#TEXT_AKTKMG102_04451_ALPHINAUD_000_130", "hash": "69BD73CE12E073B1", "target": "Alcuni dei nostri compagni hanno deciso di restare un po' a Sharlayan dopo aver effettuato le consegne. Ne hai incontrato qualcuno venendo qui?" },
     { "gameKey": "quest/044/AktKmg102_04451#TEXT_AKTKMG102_04451_ESTINIEN_000_135", "hash": "B5FDDAC0BA75B868", "target": "Non resta che tornare all'annesso e dare un'ultima lucidata all'armatura. Immagino che anche Alphinaud debba fare manutenzione a quei suoi... cosi fluttuanti." },

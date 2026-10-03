@@ -1,9 +1,13 @@
 {
-  "conversation": "quest/043/AktKma105_04361",
-  "gameVersion": "2026.09.15.0000.0000",
+  "conversation":
+"quest/043/AktKma105_04361"
+,
+  "gameVersion":
+"2026.09.15.0000.0000"
+,
   "entries": [
     { "gameKey": "quest/043/AktKma105_04361#TEXT_AKTKMA105_04361_SEQ_00", "hash": "11D919DA1CAAC24F", "target": "Alisaie non vede l'ora di condividere le vostre scoperte." },
-    { "gameKey": "quest/043/AktKma105_04361#TEXT_AKTKMA105_04361_SEQ_01", "hash": "AC5EA048B7C4A763", "target": "Dopo aver riflettuto su ciò che hai appreso al Last Stand, Alisaie è convinta che il recente aumento delle attività dei raccoglitori sia legato al Foro. Ti esorta a tornare a Noumenon e a condividere subito la scoperta con gli altri Eredi." },
+    { "gameKey": "quest/043/AktKma105_04361#TEXT_AKTKMA105_04361_SEQ_01", "hash": "AC5EA048B7C4A763", "target": "Dopo aver riflettuto su ciò che hai appreso all'Ultimo Baluardo, Alisaie è convinta che il recente aumento delle attività dei raccoglitori sia legato al Foro. Ti esorta a tornare a Noumenon e a condividere subito la scoperta con gli altri Eredi." },
     { "gameKey": "quest/043/AktKma105_04361#TEXT_AKTKMA105_04361_SEQ_02", "hash": "C8D28FDCFB12CF75", "target": "Comunichi i tuoi sospetti agli altri, inducendo Alphinaud a rivalutare la situazione. Krile conclude quindi che occorre addentrarsi in Labyrinthos. Decisa la prossima mossa dell'indagine, Alisaie si offre di guidarti all'ingresso di quello che viene descritto come un vasto complesso sotterraneo.<br><br>※Per completare questo incarico devi seguire Alisaie. Se vi separate, parla di nuovo con lei." },
     { "gameKey": "quest/043/AktKma105_04361#TEXT_AKTKMA105_04361_SEQ_03", "hash": "A459A6C6F3B0145B", "target": "Seguendo la guida incrollabile di Alisaie, arrivi a Hall of Artifice. Krile attende lì vicino come una guida ansiosa e conta i presenti mentre gli Eredi si radunano." },
     { "gameKey": "quest/043/AktKma105_04361#TEXT_AKTKMA105_04361_SEQ_04", "hash": "2EB1E32A681CCE95", "target": "Krile, sempre previdente, ha ottenuto il permesso affinché il gruppo usi l'ascensore di Hall of Artifice. Non c'è momento migliore del presente!" },
@@ -27,7 +31,7 @@
     { "gameKey": "quest/043/AktKma105_04361#TEXT_AKTKMA105_04361_YSHTOLA_000_033", "hash": "44147039E7667A65", "target": "Un aumento improvviso e considerevole del traffico di raccoglitori e di merci... Dà proprio l'impressione che sia stato messo in moto un piano generale." },
     { "gameKey": "quest/043/AktKma105_04361#TEXT_AKTKMA105_04361_ALPHINAUD_000_034", "hash": "D16973123C8BD5E4", "target": "Vediamo quale teoria possiamo costruire partendo dai fatti..." },
     { "gameKey": "quest/043/AktKma105_04361#TEXT_AKTKMA105_04361_ALPHINAUD_000_035", "hash": "857895FC8ABAB515", "target": "Come ha osservato prima Y'shtola, gli archivi di Noumenon non sembrano contenere informazioni sugli Ultimi Giorni." },
-    { "gameKey": "quest/043/AktKma105_04361#TEXT_AKTKMA105_04361_ALPHINAUD_000_036", "hash": "973BFF442B30E106", "target": "Unendo questo a quanto <split(<string(gstr1)>, ,1)> e Alisaie hanno appreso al Last Stand, possiamo ragionevolmente ritenere che la maggior parte degli sharlayani non sappia nulla di quel periodo della storia antica." },
+    { "gameKey": "quest/043/AktKma105_04361#TEXT_AKTKMA105_04361_ALPHINAUD_000_036", "hash": "973BFF442B30E106", "target": "Unendo questo a quanto <split(<string(gstr1)>, ,1)> e Alisaie hanno appreso all'Ultimo Baluardo, possiamo ragionevolmente ritenere che la maggior parte degli sharlayani non sappia nulla di quel periodo della storia antica." },
     { "gameKey": "quest/043/AktKma105_04361#TEXT_AKTKMA105_04361_ALPHINAUD_000_037", "hash": "0EB80F45A0950120", "target": "Eppure mio padre e i suoi colleghi non solo conoscono gli Ultimi Giorni, ma sono anche certi che la distruzione perpetrata dai Telophoroi sia del tutto diversa da quegli eventi apocalittici..." },
     { "gameKey": "quest/043/AktKma105_04361#TEXT_AKTKMA105_04361_ALPHINAUD_000_038", "hash": "F05E166B45422722", "target": "Inoltre, il Foro sostiene di essere tanto occupato da un dovere urgente da aver ritenuto opportuno respingere all'unanimità la richiesta di aiuto di Eorzea." },
     { "gameKey": "quest/043/AktKma105_04361#TEXT_AKTKMA105_04361_ALPHINAUD_000_039", "hash": "1AF011C1F1D19F50", "target": "E ora i raccoglitori, agenti ufficiali dello stato, sono stati mobilitati su una scala senza precedenti." },

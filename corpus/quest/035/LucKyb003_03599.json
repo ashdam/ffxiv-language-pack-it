@@ -2,19 +2,19 @@
   "conversation": "quest/035/LucKyb003_03599",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_SEQ_00", "hash": "FF88F220EE232639", "target": "" },
-    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_TODO_00", "hash": "5FE938D471BF5EFB", "target": "" },
-    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_HALLDOR_000_001", "hash": "CB097D16BA3CEBE2", "target": "" },
-    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_HALLDOR_000_002", "hash": "4AC0DEB5E0695EB9", "target": "" },
-    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_HALLDOR_000_003", "hash": "6C84C4A8454279CD", "target": "" },
-    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_HALLDOR_000_004", "hash": "B8F0DFBDCE8E8A93", "target": "" },
-    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_HALLDOR_000_005", "hash": "3BD6832AC0835AE8", "target": "" },
-    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_XYLLE_000_050", "hash": "E4E54828944F241B", "target": "" },
-    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_XYLLE_000_051", "hash": "3EC0F139BD7CD20C", "target": "" },
-    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_XYLLE_000_052", "hash": "16EBA5C1DAC97DF1", "target": "" },
-    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_SYSTEM_000_053", "hash": "9FE1DDC3158CE06C", "target": "" },
-    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_SYSTEM_000_054", "hash": "E509E0B427614209", "target": "" },
-    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_SYSTEM_000_055", "hash": "D39762442CB48B75", "target": "" },
-    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_HALLDOR_000_060", "hash": "A66F7153589733CA", "target": "" }
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_SEQ_00", "hash": "FF88F220EE232639", "target": "Halldor sembra al settimo cielo nel rivederti." },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_TODO_00", "hash": "5FE938D471BF5EFB", "target": "Parlare con Xylle" },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_HALLDOR_000_001", "hash": "CB097D16BA3CEBE2", "target": "Ehi, <if(gnum4,assassina,assassino)>. Scommetto che quei bersagli two-nut iniziano ad annoiarti, eh?" },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_HALLDOR_000_002", "hash": "4AC0DEB5E0695EB9", "target": "Già, prima forse bastavano a far scorrere il sangue e battere il cuore, ma è solo questione di tempo prima che l'emozione svanisca." },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_HALLDOR_000_003", "hash": "6C84C4A8454279CD", "target": "So benissimo come ti senti! Per me non c'è nulla di più eccitante che arrivare al limite delle mie forze. Dover ricorrere a zanne e artigli quando le armi si spezzano e lotti per sopravvivere con qualsiasi cosa ti capiti tra le mani!" },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_HALLDOR_000_004", "hash": "B8F0DFBDCE8E8A93", "target": "Chi siamo noi per negarti uno svago tanto unico, eh!? Ecco perché ti ho <if(gnum4,raccomandata,raccomandato)> per i bersagli three-nut! Puoi esserne <if(gnum4,fiera,fiero)>! Presto danzerai con la morte in persona!" },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_HALLDOR_000_005", "hash": "3BD6832AC0835AE8", "target": "Va' a parlare con Xylle. Sono certo che sarà felicissima di concederti questo magnifico privilegio!" },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_XYLLE_000_050", "hash": "E4E54828944F241B", "target": "Vuoi cacciare i bersagli three-nut, eh? L'ho pensato vedendoti arrivare. E poi Halldor strepita giorno e notte perché ti conceda il permesso, quindi anche quello ha aiutato." },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_XYLLE_000_051", "hash": "3EC0F139BD7CD20C", "target": "Ogni volta che si parla di te e delle tue imprese, si accende di passione. È come se vivesse le tue storie attraverso di te... Comunque, se desideri sfide maggiori, le avrai." },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_XYLLE_000_052", "hash": "16EBA5C1DAC97DF1", "target": "Ricorda che questi bersagli comportano rischi maggiori. Se muori o finisci orribilmente <if(gnum4,mutilata,mutilato)>, non ci servi a nulla." },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_SYSTEM_000_053", "hash": "9FE1DDC3158CE06C", "target": "Gli incarichi three-nut Clan mark sono ora disponibili." },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_SYSTEM_000_054", "hash": "E509E0B427614209", "target": "Ora puoi accettare gli incarichi three-nut mark dalla Clan Hunt board." },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_SYSTEM_000_055", "hash": "D39762442CB48B75", "target": "Al livello 80, Halldor nel Crystarium offrirà nuove missioni e incarichi elite Clan mark." },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_HALLDOR_000_060", "hash": "A66F7153589733CA", "target": "Che aspetti!? Ti attende un'avventura che sfida la morte! Va' subito da Xylle!" }
   ]
 }
