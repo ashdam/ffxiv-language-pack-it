@@ -59,7 +59,7 @@
     { "gameKey": "quest/008/GaiUsb401_00857#TEXT_GAIUSB401_00857_RHITAHTYN_000_080", "hash": "A73C3BD44E721748", "target": "Ciò che dici potrebbe essere vero. Tuttavia, sebbene simili dispositivi possano vincere delle battaglie, non credo che serviranno a cambiare il corso di questa guerra." },
     { "gameKey": "quest/008/GaiUsb401_00857#TEXT_GAIUSB401_00857_NERO_000_081", "hash": "BC650872E59DFB4F", "target": "Oh, invece lo faranno. Abbiate un po' di fiducia, amico mio." },
     { "gameKey": "quest/008/GaiUsb401_00857#TEXT_GAIUSB401_00857_RHITAHTYN_000_082", "hash": "D993B00FD894389B", "target": "...Non posso approvare questa linea d'azione." },
-    { "gameKey": "quest/008/GaiUsb401_00857#TEXT_GAIUSB401_00857_LAHABREAANCIENT_000_083", "hash": "6A6FC8C46AE22659", "target": "<colortype(547)>...Stolto.<colortype(0)>" },
+    { "gameKey": "quest/008/GaiUsb401_00857#TEXT_GAIUSB401_00857_LAHABREAANCIENT_000_083", "hash": "6A6FC8C46AE22659", "target": "<colortype(547)>...<if(gnum4,Stolta,Stolto)>.<colortype(0)>" },
     { "gameKey": "quest/008/GaiUsb401_00857#TEXT_GAIUSB401_00857_LAHABREAANCIENT_000_084", "hash": "EDB189CAA66CAE0E", "target": "<colortype(547)>E ora <if(gnum4,lei ne ha,lui ne ha)> un quarto. Affascinante.<colortype(0)>" },
     { "gameKey": "quest/008/GaiUsb401_00857#TEXT_GAIUSB401_00857_LAHABREAANCIENT_000_085", "hash": "9FA3A7A26D874BAC", "target": "<colortype(547)>Continua pure, portacristallo. Per quanto <if(gnum4,tu sia giunta,tu sia giunto)> lontano, la tua opera è ben lungi dall'essere compiuta.<colortype(0)>" },
     { "gameKey": "quest/008/GaiUsb401_00857#TEXT_GAIUSB401_00857_YSHTOLA_000_086", "hash": "33777124E335A4E3", "target": "E nulla rimase a testimoniare il suo passaggio..." },

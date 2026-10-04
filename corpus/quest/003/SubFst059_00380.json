@@ -17,12 +17,12 @@
     { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_ELMAR_000_11", "hash": "BD9D20EB505B97FB", "target": "Non sembrate qui per allenarvi..." },
     { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_ELMAR_000_12", "hash": "015A6D0BEB3312E2", "target": "Una figura in ombra... Capito. Passerò parola alle recluse come alle sentinelle." },
     { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_ELMAR_000_13", "hash": "9E44B69C4E5AB8EF", "target": "Lasciate che ci metta il mio segno... ecco, così dovrebbe andare." },
-    { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_ELMAR_000_14", "hash": "DB92859ED17EBFC2", "target": "Se seguite la strada verso sud, troverete Bernard presso il ponte per Bentbranch. Che gli dèi vi guidino, avventuriero." },
-    { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_BERNARD_000_21", "hash": "7E370AD4BAFD65AC", "target": "Avete affari con me, avventuriero?" },
+    { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_ELMAR_000_14", "hash": "DB92859ED17EBFC2", "target": "Se seguite la strada verso sud, troverete Bernard presso il ponte per Bentbranch. Che gli dèi vi guidino, <if(gnum4,avventuriera,avventuriero)>." },
+    { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_BERNARD_000_21", "hash": "7E370AD4BAFD65AC", "target": "Avete affari con me, <if(gnum4,avventuriera,avventuriero)>?" },
     { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_BERNARD_000_22", "hash": "3B34138C8478D756", "target": "Roseline ha ragione a stare in guardia. Che questo sconosciuto si spinga così vicino e si prenda tanta pena per non farsi notare è molto sospetto. È chiaro che ha delle mire su Bentbranch." },
     { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_BERNARD_000_23", "hash": "8F4E1D3713C54AAF", "target": "Vi siamo grati dell'aiuto. Devo scrivere il mio nome qui, giusto?" },
     { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_BERNARD_000_24", "hash": "00AED6FDA3D3FFC6", "target": "E... ecco, prendete. Eylgar lo trovate nelle stalle, oltre l'eterite." },
-    { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_EYLGAR_000_31", "hash": "FDA17F1B9DE67DCA", "target": "Attento agli uccelli, avventuriero. Si agitano con gli estranei." },
+    { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_EYLGAR_000_31", "hash": "FDA17F1B9DE67DCA", "target": "Fa' attenzione agli uccelli, <if(gnum4,avventuriera,avventuriero)>. Si agitano con gli estranei." },
     { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_EYLGAR_000_32", "hash": "E30C8C7AB1E7DDEC", "target": "Che roba è questa? Uno sconosciuto in ombra vicino all'Oblio della Matrona... Vedo che l'hai già mostrata a Bernard e a Elmar. Bene, bene." },
     { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_EYLGAR_000_33", "hash": "70B1211400DD8FDD", "target": "Allora non resta che informare il personale di qui. Non tutti qui sono Sentinelle Cupe, è vero, ma anche i nostri stallieri non esiterebbero a prendere le armi per difendere questi chocobo." }
   ]

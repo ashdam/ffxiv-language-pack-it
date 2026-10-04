@@ -18,7 +18,7 @@
     { "gameKey": "quest/024/StmBda301_02477#TEXT_STMBDA301_02477_SOROBAN_000_026", "hash": "E6EABD69DDF4A3A5", "target": "Userò la mia nave per portare all'isola chi è meno propenso." },
     { "gameKey": "quest/024/StmBda301_02477#TEXT_STMBDA301_02477_ALISAIE_000_030", "hash": "0297A020770C154C", "target": "Non ho nulla contro un tuffo occasionale nell'oceano, ma buttarsi in acqua d'impulso è un po'... mh." },
     { "gameKey": "quest/024/StmBda301_02477#TEXT_STMBDA301_02477_GOSETSU_000_035", "hash": "A9784A63F6832BC8", "target": "Oh, che spirito avete voi due, per gioire tanto prontamente di questo semplice piacere!" },
-    { "gameKey": "quest/024/StmBda301_02477#TEXT_STMBDA301_02477_SOROBAN_000_040", "hash": "A102C7388DC9284C", "target": "Mh? Lyse non è con voi?" },
+    { "gameKey": "quest/024/StmBda301_02477#TEXT_STMBDA301_02477_SOROBAN_000_040", "hash": "A102C7388DC9284C", "target": "Mh? Lyse non è con te?" },
     { "gameKey": "quest/024/StmBda301_02477#TEXT_STMBDA301_02477_LYSE_000_050", "hash": "5D69EA7DF07E6872", "target": "Bene, dovrebbe essere facile! E un buon modo di sciogliersi prima del prossimo scontro, quando arriverà." },
     { "gameKey": "quest/024/StmBda301_02477#TEXT_STMBDA301_02477_LYSE_000_051", "hash": "A9A1CB4771127FDC", "target": "Venti Gil che arrivo prima io!" },
     { "gameKey": "quest/024/StmBda301_02477#TEXT_STMBDA301_02477_LYSE_000_060", "hash": "59960238DEFA8D68", "target": "\\<ansima> \\<ansima> ...Non male. Diciamo che è un pareggio!" },
@@ -28,7 +28,7 @@
     { "gameKey": "quest/024/StmBda301_02477#TEXT_STMBDA301_02477_ALISAIE_000_085", "hash": "9C0FF759F2FB09B2", "target": "Mi chiedo─è noto che i pirati lominsani dicano cose come «Arrr», ma quelli dall'altra parte del mondo non useranno forse espressioni diverse? Magari «Errr», «Urrr» o «Arururu»?" },
     { "gameKey": "quest/024/StmBda301_02477#TEXT_STMBDA301_02477_GOSETSU_000_090", "hash": "1BFEE8383C4EFBEA", "target": "La posizione di Doma sulla Confederazione si potrebbe descrivere come «prudente accettazione». Sono pirati, sì, ma seguono un codice e costituiscono una forza stabilizzatrice nel Ruby Sea." },
     { "gameKey": "quest/024/StmBda301_02477#TEXT_STMBDA301_02477_SOROBAN_000_095", "hash": "6C2C688295F727B5", "target": "Lui è Tansui. Su, presentatevi." },
-    { "gameKey": "quest/024/StmBda301_02477#TEXT_STMBDA301_02477_TANSUI_000_100", "hash": "58C5BDC25880FFCC", "target": "...Temo che sappiate chi sono, mentre io non vi conosco." },
+    { "gameKey": "quest/024/StmBda301_02477#TEXT_STMBDA301_02477_TANSUI_000_100", "hash": "58C5BDC25880FFCC", "target": "...Temo che tu sappia chi sono, mentre io non ti conosco." },
     { "gameKey": "quest/024/StmBda301_02477#TEXT_STMBDA301_02477_TANSUI_000_101", "hash": "EBC0A05015BEC84E", "target": "<if(gnum4,Onorevolissima e stimatissima,Onorevolissimo e stimatissimo)> <string(gstr1)>. Sono Tansui, umile ufficiale al servizio del capitano della Confederazione." },
     { "gameKey": "quest/024/StmBda301_02477#TEXT_STMBDA301_02477_TANSUI_000_102", "hash": "4FBE7BF7C0EEE477", "target": "Poiché siete in compagnia del guscioduro, immagino che abbiamo affari da discutere..." }
   ]
