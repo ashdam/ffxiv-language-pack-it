@@ -1,9 +1,9 @@
 {
   "gameVersion": "2026.09.15.0000.0000",
-  "translated": 91832,
-  "total": 461835,
-  "percent": 19.9,
-  "chars": 48125955,
+  "translated": 111696,
+  "total": 461838,
+  "percent": 24.2,
+  "chars": 48125981,
   "unresolved": 5455,
   "groups": [
     {
@@ -81,7 +81,7 @@
     {
       "expansion": "Heavensward",
       "content": "Side quests — blue",
-      "translated": 0,
+      "translated": 3223,
       "total": 3223
     },
     {
@@ -135,7 +135,7 @@
     {
       "expansion": "Stormblood",
       "content": "Side quests — blue",
-      "translated": 0,
+      "translated": 4113,
       "total": 4113
     },
     {
@@ -189,7 +189,7 @@
     {
       "expansion": "Shadowbringers",
       "content": "Side quests — blue",
-      "translated": 0,
+      "translated": 2735,
       "total": 2735
     },
     {
@@ -243,7 +243,7 @@
     {
       "expansion": "Endwalker",
       "content": "Side quests — blue",
-      "translated": 0,
+      "translated": 6346,
       "total": 6346
     },
     {
@@ -297,7 +297,7 @@
     {
       "expansion": "Dawntrail",
       "content": "Side quests — blue",
-      "translated": 0,
+      "translated": 3447,
       "total": 3447
     },
     {
@@ -400,7 +400,7 @@
       "expansion": null,
       "content": "Ambient text: NPC chatter, shouts, balloons, duties and guides",
       "translated": 50,
-      "total": 102647
+      "total": 102650
     }
   ],
   "excludedFromLocalization": [
