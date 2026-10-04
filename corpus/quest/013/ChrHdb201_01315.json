@@ -40,7 +40,7 @@
     { "gameKey": "quest/013/ChrHdb201_01315#TEXT_CHRHDB201_01315_ELLIE_000_044", "hash": "544986C22F5BE364", "target": "Cerco di non pensare a Hildibrand." },
     { "gameKey": "quest/013/ChrHdb201_01315#TEXT_CHRHDB201_01315_ELLIE_000_045", "hash": "E6C83B70F2BB0EE3", "target": "Dovremmo andare. Lady Durilda non gradirà dei fiori appassiti." },
     { "gameKey": "quest/013/ChrHdb201_01315#TEXT_CHRHDB201_01315_ELLIE_000_050", "hash": "E6C41952D5912F6B", "target": "Credo tu abbia qualcosa da dare a lady Durilda, no? Avanti, allora." },
-    { "gameKey": "quest/013/ChrHdb201_01315#TEXT_CHRHDB201_01315_DURILDA_000_060", "hash": "E6DAA9F53EE67BDF", "target": "Ancora!? Come ho detto agli ultimi venti che vi hanno preceduto, se cercate lavoro è troppo tardi!" },
+    { "gameKey": "quest/013/ChrHdb201_01315#TEXT_CHRHDB201_01315_DURILDA_000_060", "hash": "E6DAA9F53EE67BDF", "target": "Ancora!? Come ho detto agli ultimi venti che ti hanno preceduto, se cerchi lavoro è troppo tardi!" },
     { "gameKey": "quest/013/ChrHdb201_01315#TEXT_CHRHDB201_01315_DURILDA_000_061", "hash": "F7646DA8D8BCB5E7", "target": "E anche se avessi bisogno di altre guardie, non mi degnerei di assumere <if(gnum4,una comune avventuriera,un comune avventuriero)>!" },
     { "gameKey": "quest/013/ChrHdb201_01315#TEXT_CHRHDB201_01315_DURILDA_000_062", "hash": "B69A4754800020E3", "target": "Ora sparisci dalla mia vista, prima che ti faccia portar via." },
     { "gameKey": "quest/013/ChrHdb201_01315#TEXT_CHRHDB201_01315_DURILDA_000_070", "hash": "BF40B4D95273C164", "target": "Pensavi davvero che fosse così facile manipolarmi? Il regalo giusto, le parole magiche, e avresti guadagnato il mio rispetto?" },

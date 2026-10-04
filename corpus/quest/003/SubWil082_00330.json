@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/003/SubWil082_00330#TEXT_SUBWIL082_00330_SEQ_00", "hash": "F74DED70EC7A346D", "target": "Fufulupa vuole che tu rintracci un corriere scomparso." },
     { "gameKey": "quest/003/SubWil082_00330#TEXT_SUBWIL082_00330_SEQ_01", "hash": "4B71E3FAD11376A5", "target": "Fufulupa ti ha chiesto di accertare dove sia finita una missiva inviata a Lost Hope. Teme che al corriere sia capitata una disgrazia. Cercala sulle strade a sudovest di Black Brush Station, nel Central Thanalan." },
-    { "gameKey": "quest/003/SubWil082_00330#TEXT_SUBWIL082_00330_SEQ_02", "hash": "5E7FBCC7D419C26B", "target": "Trovi il corriere incolume, ma il suo chocobo non è stato altrettanto fortunato. Finché non avrà curato la zampa ferita della cavalcatura non può completare la consegna. Porta tu la lettera a Lost Hope e dalla a Leofric." },
+    { "gameKey": "quest/003/SubWil082_00330#TEXT_SUBWIL082_00330_SEQ_02", "hash": "5E7FBCC7D419C26B", "target": "Trovi la messaggera incolume, ma il suo chocobo non è stato altrettanto fortunato. Finché non avrà curato la zampa ferita della cavalcatura non può completare la consegna. Porta tu la lettera a Lost Hope e dalla a Leofric." },
     { "gameKey": "quest/003/SubWil082_00330#TEXT_SUBWIL082_00330_SEQ_03", "hash": "F1BE36D880372EF8", "target": "Leofric ti ringrazia per la lettera e ti consiglia di non indugiare a Lost Hope, affinché nessuno ti associ agli indesiderati di Ul'dah. Malgrado quel che dice l'avvilita Lama d'Ottone, forse dovresti restare e dare una mano..." },
     { "gameKey": "quest/003/SubWil082_00330#TEXT_SUBWIL082_00330_TODO_00", "hash": "70687EB6CF3AF730", "target": "Cercare Seseli nel Central Thanalan" },
     { "gameKey": "quest/003/SubWil082_00330#TEXT_SUBWIL082_00330_TODO_01", "hash": "1F320651CCCFC535", "target": "Consegnare la lettera di Fufulupa a Leofric a Lost Hope" },
@@ -21,8 +21,8 @@
     { "gameKey": "quest/003/SubWil082_00330#TEXT_SUBWIL082_00330_LEOFRIC_021", "hash": "0F1669F103C081A3", "target": "...Fufulupa ti ha mandato fin qui per una lettera in ritardo? \\<sospiro> Il ragazzo è ancora troppo scrupoloso." },
     { "gameKey": "quest/003/SubWil082_00330#TEXT_SUBWIL082_00330_LEOFRIC_022", "hash": "0CA3DEC1530B6016", "target": "Malgrado la degradazione continua a chiamarmi capitano. Sospetto che non abbia idea nemmeno di cosa significhi essere trasferito a Lost Hope." },
     { "gameKey": "quest/003/SubWil082_00330#TEXT_SUBWIL082_00330_LEOFRIC_023", "hash": "7A1E50E220F0D33A", "target": "Alle Lame d'Ottone di questo insediamento non importa un accidente. A nessuno a Ul'dah importa." },
-    { "gameKey": "quest/003/SubWil082_00330#TEXT_SUBWIL082_00330_LEOFRIC_024", "hash": "8274DDCA3EC2470D", "target": "Qui sono tutti abbandonati, avventuriero. I rifugiati e i loro protettori. E lo sarai anche tu, se ti si vedrà in nostra compagnia." },
+    { "gameKey": "quest/003/SubWil082_00330#TEXT_SUBWIL082_00330_LEOFRIC_024", "hash": "8274DDCA3EC2470D", "target": "Qui sono tutti abbandonati, <if(gnum4,avventuriera,avventuriero)>. I rifugiati e i loro protettori. E anche tu finirai nella stessa situazione, se ti si vedrà in nostra compagnia." },
     { "gameKey": "quest/003/SubWil082_00330#TEXT_SUBWIL082_00330_LEOFRIC_025", "hash": "E44818E7FD53A14F", "target": "Grazie per la lettera. Ora, per il tuo bene, vattene." },
-    { "gameKey": "quest/003/SubWil082_00330#TEXT_SUBWIL082_00330_TALK_SCENE00006_000", "hash": "F0138C51F544BB9B", "target": "Andate a nordest, oltre Black Brush Station. Cercate le tende. Se attraversate il fiume, siete andati troppo oltre." }
+    { "gameKey": "quest/003/SubWil082_00330#TEXT_SUBWIL082_00330_TALK_SCENE00006_000", "hash": "F0138C51F544BB9B", "target": "Andate a nordest, oltre Black Brush Station. Cercate le tende. Se attraversate il fiume, vuol dire che avete proseguito troppo oltre." }
   ]
 }

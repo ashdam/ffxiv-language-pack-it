@@ -798,7 +798,7 @@
     { "gameKey": "cut_scene/060/VoiceMan_06004#TEXT_VOICEMAN_06004_007700_VENAS", "hash": "EF519FD617D4ED64", "target": "Vorrei saperlo anch'io. Accertiamo la situazione a Ktisis Hyperboreia, dove dovrebbero ancora trovarsi." },
     { "gameKey": "cut_scene/060/VoiceMan_06004#TEXT_VOICEMAN_06004_007710_VENAS", "hash": "25C018AA611CD0E0", "target": "Già, cosa facciamo. Cominciamo accertando la situazione a Ktisis Hyperboreia, dove dovrebbero ancora trovarsi gli altri." },
     { "gameKey": "cut_scene/060/VoiceMan_06004#TEXT_VOICEMAN_06004_007720_VENAS", "hash": "76C3AB986AC714D2", "target": "Tuttavia, considerato il probabile stato dei loro ricordi, sarebbe imprudente avvicinarli direttamente. In tal caso..." },
-    { "gameKey": "cut_scene/060/VoiceMan_06004#TEXT_VOICEMAN_06004_007730_VENAS", "hash": "D46508AB5F868510", "target": "Mi dispiace, amico mio. Oggi ti ho chiesto molto, ma posso disturbarti un'ultima volta?" },
+    { "gameKey": "cut_scene/060/VoiceMan_06004#TEXT_VOICEMAN_06004_007730_VENAS", "hash": "D46508AB5F868510", "target": "Mi dispiace, <if(gnum4,amica mia,amico mio)>. Oggi ti ho chiesto molto, ma posso disturbarti un'ultima volta?" },
     { "gameKey": "cut_scene/060/VoiceMan_06004#TEXT_VOICEMAN_06004_007740_VENAS", "hash": "C001555F91F722B3", "target": "Argos indagherà al posto nostro. Condivideremo la sua coscienza e vedremo e udiremo come se fossimo con lui." },
     { "gameKey": "cut_scene/060/VoiceMan_06004#TEXT_VOICEMAN_06004_007750_VENAS", "hash": "1B66CF2752BDD7AE", "target": "Ora chiudi gli occhi e apri la mente..." },
     { "gameKey": "cut_scene/060/VoiceMan_06004#TEXT_VOICEMAN_06004_007760_HYPERBOREIASTAFF", "hash": "F02385B2E030A85E", "target": "Grazie al cielo siete illesi." },

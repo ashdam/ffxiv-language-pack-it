@@ -48,7 +48,7 @@
     { "gameKey": "quest/033/LucKmc104_03325#TEXT_LUCKMC104_03325_RUNAR_000_075", "hash": "C72F8FEF59F874E3", "target": "Ti prego, ci vorrà solo un istante." },
     { "gameKey": "quest/033/LucKmc104_03325#TEXT_LUCKMC104_03325_RUNAR_000_076", "hash": "FBC4D58B6F340A81", "target": "Ci vorrà solo un istante, lo prometto." },
     { "gameKey": "quest/033/LucKmc104_03325#TEXT_LUCKMC104_03325_SYSTEM_000_080", "hash": "EED4A2C3462CA87F", "target": "Mentre Runar ti spruzza leggermente d'acqua, la pelle comincia a formicolare." },
-    { "gameKey": "quest/033/LucKmc104_03325#TEXT_LUCKMC104_03325_RUNAR_000_081", "hash": "56398C92160D784F", "target": "E così <if(gnum4,sei stata purificata,sei stato purificato)> dal tocco corrotto della Luce. Come ti senti?" },
+    { "gameKey": "quest/033/LucKmc104_03325#TEXT_LUCKMC104_03325_RUNAR_000_081", "hash": "56398C92160D784F", "target": "E così <if(gnum4,siete state purificate,siete stati purificati)> dal tocco corrotto della Luce. Come vi sentite?" },
     { "gameKey": "quest/033/LucKmc104_03325#TEXT_LUCKMC104_03325_RYNE_000_082", "hash": "3E624E86152EDD71", "target": "Non ne sono certa, a dire il vero. Non proprio rinvigorita, ma mi sento diversa." },
     { "gameKey": "quest/033/LucKmc104_03325#TEXT_LUCKMC104_03325_RYNE_000_083", "hash": "45963312705384D1", "target": "Quest'acqua è stata trattata?" },
     { "gameKey": "quest/033/LucKmc104_03325#TEXT_LUCKMC104_03325_RUNAR_000_084", "hash": "A7D531A7FCFE1145", "target": "Solo benedetta dai sacerdoti, esperti nelle arti arcane. Si dice che le loro preghiere infondano nell'acqua una debole energia oscura." },

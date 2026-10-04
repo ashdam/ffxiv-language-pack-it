@@ -39,7 +39,7 @@
     { "gameKey": "quest/031/ChrHdb751_03167#TEXT_CHRHDB751_03167_HILDIBRAND_000_020", "hash": "ADFF4DC61AF5BD35", "target": "Siete voi, <split(<string(gstr1)>, ,1)>? Come vedete, mi trovo in una brutta posizione, e per posizione intendo il terreno..." },
     { "gameKey": "quest/031/ChrHdb751_03167#TEXT_CHRHDB751_03167_HILDIBRAND_000_021", "hash": "E05C80E09871DF10", "target": "Kugane Ohashi è oltre questo cancello, ma prima che potessi varcarlo il caro ma malaccorto Jim mi ha improvvisamente aggredito, capovolto e conficcato a terra in questo modo." },
     { "gameKey": "quest/031/ChrHdb751_03167#TEXT_CHRHDB751_03167_HILDIBRAND_100_021", "hash": "697AAC74107CD0F8", "target": "Il duello, purtroppo, devo lasciarlo a voi..." },
-    { "gameKey": "quest/031/ChrHdb751_03167#TEXT_CHRHDB751_03167_HILDIBRAND_000_022", "hash": "EB257E5A3FE324B5", "target": "Andate avanti. Io mi tirerò fuori... prima o poi." },
+    { "gameKey": "quest/031/ChrHdb751_03167#TEXT_CHRHDB751_03167_HILDIBRAND_000_022", "hash": "EB257E5A3FE324B5", "target": "Andate avanti, <if(gnum4,amica mia,amico mio)>. Io mi tirerò fuori... prima o poi." },
     { "gameKey": "quest/031/ChrHdb751_03167#TEXT_CHRHDB751_03167_SYSTEM_000_023", "hash": "AA9584A2814D7443", "target": "Buonanotte, dolce principe..." },
     { "gameKey": "quest/031/ChrHdb751_03167#TEXT_CHRHDB751_03167_GILGAMESH_000_030", "hash": "CD6B0EDD5DC6948F", "target": "Ci incontriamo di nuovo, Hildy." },
     { "gameKey": "quest/031/ChrHdb751_03167#TEXT_CHRHDB751_03167_HILDIBRAND_000_031", "hash": "C565E62764129409", "target": "Greg? Greg!? Perbacco, che piacere vederti! Come mai sei qui, a Kugane? Anzi, in Estremo Oriente!?" },

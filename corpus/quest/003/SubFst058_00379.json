@@ -19,6 +19,6 @@
     { "gameKey": "quest/003/SubFst058_00379#TEXT_SUBFST058_00379_ROSELINE_000_21", "hash": "983E1FFFE7A06251", "target": "Mmmh? Hai trovato qualcosa?" },
     { "gameKey": "quest/003/SubFst058_00379#TEXT_SUBFST058_00379_ROSELINE_000_22", "hash": "911EF487C68F7F33", "target": "Resti di un fuoco da campo e una borsa dimenticata... potrebbe essere di qualsiasi avventuriero o viaggiatore. E dentro abbiamo... una spazzola per chocobo e olio di roseling?" },
     { "gameKey": "quest/003/SubFst058_00379#TEXT_SUBFST058_00379_ROSELINE_000_23", "hash": "5935A332F8D81FB1", "target": "Ma un momento: perché un viaggiatore si accamperebbe qui, quando sarebbe molto più sicuro chiedere ospitalità ai Prati di Bentbranch?" },
-    { "gameKey": "quest/003/SubFst058_00379#TEXT_SUBFST058_00379_ROSELINE_000_24", "hash": "406234EFEE51DA7B", "target": "Che mi impicchino, credo che questa sia dello sconosciuto che si dice stia armeggiando coi chocobo! Grazie, avventuriero. Siamo stati negligenti nei nostri doveri, ma non più: giuro che troveremo quest'ombra." }
+    { "gameKey": "quest/003/SubFst058_00379#TEXT_SUBFST058_00379_ROSELINE_000_24", "hash": "406234EFEE51DA7B", "target": "Che mi impicchino, credo che questa sia dello sconosciuto che si dice stia armeggiando coi chocobo! Grazie, <if(gnum4,avventuriera,avventuriero)>. Siamo stati negligenti nei nostri doveri, ma non più: giuro che troveremo quest'ombra." }
   ]
 }

@@ -47,7 +47,7 @@
     { "gameKey": "quest/043/AktKma113_04369#TEXT_AKTKMA113_04369_KHALZAHL_000_070", "hash": "C9F0BD306ED4BF5B", "target": "Se le navi straniere non verranno da noi, perché non usare le nostre per consegnare loro le merci!?" },
     { "gameKey": "quest/043/AktKma113_04369#TEXT_AKTKMA113_04369_PORTMANAGER04368_000_075", "hash": "DC8E682307B48A91", "target": "Non è così semplice, Khalzahl. E poi siamo tutti sulla stessa barca. <italic(1)>Tutti<italic(0)>." },
     { "gameKey": "quest/043/AktKma113_04369#TEXT_AKTKMA113_04369_MATSYA_000_080", "hash": "024D47BFBF27865A", "target": "S-Sì? Posso aiutarvi...?" },
-    { "gameKey": "quest/043/AktKma113_04369#TEXT_AKTKMA113_04369_MATSYA_000_081", "hash": "030697254AA182B5", "target": "Ah, ricordo di avervi <if(gnum4,vista,visto)> nella corporazione. Anche voi volevate parlare con Khalzahl?" },
+    { "gameKey": "quest/043/AktKma113_04369#TEXT_AKTKMA113_04369_MATSYA_000_081", "hash": "030697254AA182B5", "target": "Ah, ricordo di averti <if(gnum4,vista,visto)> nella corporazione. Anche tu volevi parlare con Khalzahl?" },
     { "gameKey": "quest/043/AktKma113_04369#TEXT_AKTKMA113_04369_MATSYA_000_082", "hash": "A2103CD93C457E71", "target": "Sono Matsya, un pescatore di Akyaali─un villaggio qui vicino." },
     { "gameKey": "quest/043/AktKma113_04369#TEXT_AKTKMA113_04369_MATSYA_000_083", "hash": "3B89B9D3404C7D1F", "target": "Vendo il pescato a Khalzahl, che lo offre ai mercanti stranieri. Ma è da un po' che non compra nulla." },
     { "gameKey": "quest/043/AktKma113_04369#TEXT_AKTKMA113_04369_MATSYA_000_084", "hash": "4DEFEF576271266D", "target": "Quando ho saputo che il consorzio era in difficoltà, mi sono preoccupato e ho deciso di venire a trovarlo." },
