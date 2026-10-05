@@ -22,7 +22,7 @@
     { "gameKey": "quest/047/AktKva301_04789#TEXT_AKTKVA301_04789_A1_000_001", "hash": "EEF0EBC0680C8E49", "target": "Aiuterei volentieri un amico nei guai, soprattutto uno a cui devo un favore." },
     { "gameKey": "quest/047/AktKva301_04789#TEXT_AKTKVA301_04789_A1_000_002", "hash": "BB9A1DD61F057921", "target": "Non vorrà che venda di nuovo la sua merce, vero...?" },
     { "gameKey": "quest/047/AktKva301_04789#TEXT_AKTKVA301_04789_SHALLOWMOOR_000_005", "hash": "5F224C5B1A5C1CF7", "target": "Allora è un «sì»! Grazie, <split(<string(gstr1)>, ,1)>!" },
-    { "gameKey": "quest/047/AktKva301_04789#TEXT_AKTKVA301_04789_SHALLOWMOOR_000_006", "hash": "58FA44B607E1DB58", "target": "Non saprei proprio, anche se pensavo che un mercante col <italic(1)>tuo<italic(0)> sostegno potesse vendere ice crystals perfino ai fire sprites." },
+    { "gameKey": "quest/047/AktKva301_04789#TEXT_AKTKVA301_04789_SHALLOWMOOR_000_006", "hash": "58FA44B607E1DB58", "target": "Non saprei proprio, anche se pensavo che un mercante col <italic(1)>tuo<italic(0)> sostegno potesse vendere ice crystal perfino ai fire sprite." },
     { "gameKey": "quest/047/AktKva301_04789#TEXT_AKTKVA301_04789_SHALLOWMOOR_000_007", "hash": "651767968EA735B3", "target": "Non conosco i dettagli della richiesta, ma Pasasun sarà lieto di spiegarti tutto. Credo che si trovi al Great Work." },
     { "gameKey": "quest/047/AktKva301_04789#TEXT_AKTKVA301_04789_SHALLOWMOOR_000_008", "hash": "A7CD5215F0118B1F", "target": "Che l'incarico sia privo di intoppi, ostacoli e mal di testa!" },
     { "gameKey": "quest/047/AktKva301_04789#TEXT_AKTKVA301_04789_PASASUN_000_010", "hash": "B75ECA8E05D46372", "target": "Oh, devi essere <split(<string(gstr1)>, ,1)>. Ti hanno mandato i raccoglitori?" },

@@ -66,7 +66,7 @@
     { "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_FUFULUPA_BATTLETALK_SEQ1", "hash": "97AF46ECE63B782B", "target": "Perché, capitano, perché!? Io mi fidavo di voi!" },
     { "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_BALDWIN_BATTLETALK_SEQ2", "hash": "A0938C4E63099EB3", "target": "Eh, sei più forte di quanto pensassi!" },
     { "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_BALDWIN_BATTLETALK_SEQ3", "hash": "B32A1FF68D77F009", "target": "Maledetti tutti e due, mi state rovinando tutto!" },
-    { "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_FUFULUPA_BATTLETALK_SEQ3", "hash": "AD673DDD2B805E3C", "target": "Attento alla sua lancia, <split(<string(gstr1)>, ,1)>!" },
+    { "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_FUFULUPA_BATTLETALK_SEQ3", "hash": "AD673DDD2B805E3C", "target": "Fate attenzione alla sua lancia, <split(<string(gstr1)>, ,1)>!" },
     { "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_SCENE00001_INSTANCE_BATTLE_YESNO_TITLE", "hash": "F0D427FBA0472017", "target": "Il dovere chiama. Vuoi procedere con «SUBWIL088»?" },
     { "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_SCENE00001_INSTANCE_BATTLE_YESNO_YES", "hash": "9D27BA62107B834B", "target": "Sì" },
     { "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_SCENE00001_INSTANCE_BATTLE_YESNO_NO", "hash": "28C070B0DB286F37", "target": "No" }

@@ -29,8 +29,8 @@
     { "gameKey": "quest/007/SubWil160_00702#TEXT_SUBWIL160_00702_MIMIGUN_042", "hash": "9FCC8251E94A188E", "target": "Ma perdonatelo se non risponde al richiamo nelle zone affollate delle città o nelle tane infestate dai mostri. I chocobo sono coraggiosi, ma hanno i loro limiti." },
     { "gameKey": "quest/007/SubWil160_00702#TEXT_SUBWIL160_00702_MIMIGUN_043", "hash": "ADA37B9CBF261286", "target": "Infine, ecco la vostra licenza per cavalcare i chocobo, come richiesto dalla legge." },
     { "gameKey": "quest/007/SubWil160_00702#TEXT_SUBWIL160_00702_MIMIGUN_044", "hash": "E715C96014CD88F6", "target": "E con questo abbiamo sbrigato tutte le formalità! Auguro a voi e al vostro chocobo tanti anni di felice amicizia!" },
-    { "gameKey": "quest/007/SubWil160_00702#TEXT_SUBWIL160_00702_CHOCOBO_PROMPT_TITLE", "hash": "E3FE83DEA9BBB87B", "target": "Name Your Chocobo" },
-    { "gameKey": "quest/007/SubWil160_00702#TEXT_SUBWIL160_00702_CHOCOBO_PROMPT_CAPTION", "hash": "F79A2CD02EA4DB48", "target": "Name" },
+    { "gameKey": "quest/007/SubWil160_00702#TEXT_SUBWIL160_00702_CHOCOBO_PROMPT_TITLE", "hash": "E3FE83DEA9BBB87B", "target": "Dai un nome al tuo chocobo" },
+    { "gameKey": "quest/007/SubWil160_00702#TEXT_SUBWIL160_00702_CHOCOBO_PROMPT_CAPTION", "hash": "F79A2CD02EA4DB48", "target": "Nome" },
     { "gameKey": "quest/007/SubWil160_00702#TEXT_SUBWIL160_00702_CHOCOBO_PROMPT_MES0", "hash": "1B655A7D146E734C", "target": "I nomi devono contenere da 2 a 20 caratteri alfabetici." }
   ]
 }
