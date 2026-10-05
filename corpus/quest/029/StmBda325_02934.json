@@ -10,7 +10,7 @@
     { "gameKey": "quest/029/StmBda325_02934#TEXT_STMBDA325_02934_TODO_02", "hash": "D05958805EA3EAC8", "target": "Parlare con Yugiri" },
     { "gameKey": "quest/029/StmBda325_02934#TEXT_STMBDA325_02934_GOSETSU_100_000", "hash": "F0B46B45BFEC7983", "target": "Mi... mi serve solo un momento per riprendere fiato..." },
     { "gameKey": "quest/029/StmBda325_02934#TEXT_STMBDA325_02934_RESSIANGATEKEEPER_000_000", "hash": "7C80769E38B483CC", "target": "Voi siete <string(gstr1)>, giusto? Ci avevano informati del vostro arrivo." },
-    { "gameKey": "quest/029/StmBda325_02934#TEXT_STMBDA325_02934_RESSIANGATEKEEPER_000_001", "hash": "C226F1529FD08F38", "target": "<if(gnum4,Eroine,Eroi)> di Eorzea, noi del Fronte di Liberazione Domano siamo onorati di accogliervi. Se voleste avere la bontà di seguirmi..." },
+    { "gameKey": "quest/029/StmBda325_02934#TEXT_STMBDA325_02934_RESSIANGATEKEEPER_000_001", "hash": "C226F1529FD08F38", "target": "<if(gnum4,Eroina,Eroe)> di Eorzea, noi del Fronte di Liberazione Domano siamo onorati di accogliervi. Se voleste avere la bontà di seguirmi..." },
     { "gameKey": "quest/029/StmBda325_02934#TEXT_STMBDA325_02934_RESSIANGATEKEEPER_000_005", "hash": "0E771FBD7C503E62", "target": "...Qualcosa non va? Vi prego, entrate!" },
     { "gameKey": "quest/029/StmBda325_02934#TEXT_STMBDA325_02934_SYSTEM_000_006", "hash": "36FF1ACE10977264", "target": "Entrare alla House of the Fierce?" },
     { "gameKey": "quest/029/StmBda325_02934#TEXT_STMBDA325_02934_YUGIRI_000_010", "hash": "DAC02A3963075313", "target": "Sebbene le nostre risorse siano limitate, la roccaforte è sicura. Qui potrete riposare e ristabilirvi senza pericolo." },

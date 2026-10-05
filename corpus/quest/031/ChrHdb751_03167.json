@@ -42,7 +42,7 @@
     { "gameKey": "quest/031/ChrHdb751_03167#TEXT_CHRHDB751_03167_HILDIBRAND_000_022", "hash": "EB257E5A3FE324B5", "target": "Andate avanti, <if(gnum4,amica mia,amico mio)>. Io mi tirerò fuori... prima o poi." },
     { "gameKey": "quest/031/ChrHdb751_03167#TEXT_CHRHDB751_03167_SYSTEM_000_023", "hash": "AA9584A2814D7443", "target": "Buonanotte, dolce principe..." },
     { "gameKey": "quest/031/ChrHdb751_03167#TEXT_CHRHDB751_03167_GILGAMESH_000_030", "hash": "CD6B0EDD5DC6948F", "target": "Ci incontriamo di nuovo, Hildy." },
-    { "gameKey": "quest/031/ChrHdb751_03167#TEXT_CHRHDB751_03167_HILDIBRAND_000_031", "hash": "C565E62764129409", "target": "Greg? Greg!? Perbacco, che piacere vederti! Come mai sei qui, a Kugane? Anzi, in Estremo Oriente!?" },
+    { "gameKey": "quest/031/ChrHdb751_03167#TEXT_CHRHDB751_03167_HILDIBRAND_000_031", "hash": "C565E62764129409", "target": "Greg? Greg!? Perbacco, che piacere vederti! Come mai sei qui, a Kugane? Anzi, nell'Estremo Oriente!?" },
     { "gameKey": "quest/031/ChrHdb751_03167#TEXT_CHRHDB751_03167_GILGAMESH_000_032", "hash": "D071812B4C548F80", "target": "Ah, beh, vedi, la questione è..." },
     { "gameKey": "quest/031/ChrHdb751_03167#TEXT_CHRHDB751_03167_HILDIBRAND_000_033", "hash": "EE51F99FEAB52636", "target": "...Perbacco, pensare che Greg si spacciava per Jim per tutto questo tempo!" },
     { "gameKey": "quest/031/ChrHdb751_03167#TEXT_CHRHDB751_03167_GILGAMESH_000_034", "hash": "A17E94F9738D1E80", "target": "Proprio così. Dopo che <split(<string(gstr1)>, ,1)> mi ha sconfitto una seconda volta, ho lasciato Eorzea e sono partito per terre lontane, per affinare le mie abilità in vista del nostro inevitabile terzo scontro." },

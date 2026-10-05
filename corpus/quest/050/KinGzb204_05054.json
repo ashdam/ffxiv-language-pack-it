@@ -26,7 +26,7 @@
     { "gameKey": "quest/050/KinGzb204_05054#TEXT_KINGZB204_05054_SYSTEM_000_025", "hash": "F88F434C31C9F51A", "target": "Le trattative potrebbero richiedere diversi minuti. Potresti voler annullare eventuali iscrizioni in corso nel Duty Finder." },
     { "gameKey": "quest/050/KinGzb204_05054#TEXT_KINGZB204_05054_Q1_000_000", "hash": "7379C710D782A54F", "target": "Aspettare l'inizio delle trattative?" },
     { "gameKey": "quest/050/KinGzb204_05054#TEXT_KINGZB204_05054_GIGIMOLU_000_030", "hash": "5DB798E8796726A9", "target": "Grazie per l'attesa. Dunque, dov'è il mercante che volete presentarmi?" },
-    { "gameKey": "quest/050/KinGzb204_05054#TEXT_KINGZB204_05054_GIGIMOLU_000_031", "hash": "59FECCC7D0364243", "target": "N-Nopli!? Capisco... Quindi voi due eravate d'accordo. Se sei venuto a restituirmi i cristalli corrotti, temo che non accetto resi." },
+    { "gameKey": "quest/050/KinGzb204_05054#TEXT_KINGZB204_05054_GIGIMOLU_000_031", "hash": "59FECCC7D0364243", "target": "N-Nopli!? Capisco... Quindi voi due eravate d'accordo. Se sei qui per restituirmi i cristalli corrotti, mi dispiace, ma non accetto resi." },
     { "gameKey": "quest/050/KinGzb204_05054#TEXT_KINGZB204_05054_NOPLI_000_032", "hash": "A352702AF64A7C68", "target": "<split(<string(gstr1)>, ,1)> non te l'ha detto? Sono qui per farti un'offerta." },
     { "gameKey": "quest/050/KinGzb204_05054#TEXT_KINGZB204_05054_GIGIMOLU_000_033", "hash": "AC04EF14D89A7BFC", "target": "Farmi un'offerta...? Ah, non sono nato ieri. Qualunque cosa tu stia tramando, non voglio averci nulla a che fare." },
     { "gameKey": "quest/050/KinGzb204_05054#TEXT_KINGZB204_05054_Q2_000_000", "hash": "A00DC2FC6F8B8B70", "target": "Cosa vuoi dire?" },
@@ -83,7 +83,7 @@
     { "gameKey": "quest/050/KinGzb204_05054#TEXT_KINGZB204_05054_NOPLI_000_084", "hash": "AF3A3C9DB9D10245", "target": "Lo credo! Ma lascia perdere i soldi. Vorrei che portassi altri cristalli corrotti!" },
     { "gameKey": "quest/050/KinGzb204_05054#TEXT_KINGZB204_05054_NOPLI_000_085", "hash": "A9F7BDD2053972FF", "target": "Se riuscirò a trovarne un uso, avremo un prodotto facile da vendere a un prezzo elevato e potremo conquistare il mercato qui nel Tural!" },
     { "gameKey": "quest/050/KinGzb204_05054#TEXT_KINGZB204_05054_GIGIMOLU_000_086", "hash": "684C76948BE96E95", "target": "Lo farò volentieri, ma finché i cristalli non diventeranno redditizi qui, non potrei procedere in buona coscienza senza un prodotto vantaggioso per entrambi. Se sei d'accordo, vorrei valutare le nostre possibilità." },
-    { "gameKey": "quest/050/KinGzb204_05054#TEXT_KINGZB204_05054_NOPLI_000_087", "hash": "FFEF453434EDFB69", "target": "Non sarei riuscito a convincere Gigimolu senza il tuo aiuto, <split(<string(gstr1)>, ,1)>. Credo che insieme potremo rendere felici gli altri attraverso il commercio, non solo nel Tural, ma anche a Eorzea e oltre!" },
+    { "gameKey": "quest/050/KinGzb204_05054#TEXT_KINGZB204_05054_NOPLI_000_087", "hash": "FFEF453434EDFB69", "target": "Non sarei riuscito a convincere Gigimolu senza il tuo aiuto, <split(<string(gstr1)>, ,1)>. Credo che lui e io potremo rendere felici gli altri attraverso il commercio, non solo nel Tural, ma anche a Eorzea e oltre!" },
     { "gameKey": "quest/050/KinGzb204_05054#TEXT_KINGZB204_05054_NOPLI_000_088", "hash": "A965C2E8E81803FD", "target": "Ti ho preparato un piccolo dono per ringraziarti. Non è certo abbastanza, ma spero che ti sia utile nei tuoi viaggi. E se avrai mai bisogno di qualcosa, non esitare a cercarmi!" }
   ]
 }

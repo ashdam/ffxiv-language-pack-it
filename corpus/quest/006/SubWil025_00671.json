@@ -25,7 +25,7 @@
     { "gameKey": "quest/006/SubWil025_00671#TEXT_SUBWIL025_00671_GINCHUC_000_31", "hash": "876A2F9DCE63883C", "target": "Un twilight pretzel? Con piacere!" },
     { "gameKey": "quest/006/SubWil025_00671#TEXT_SUBWIL025_00671_GINCHUC_000_32", "hash": "408AC14D6DA5923B", "target": "Ahhh, questo sì che è un dannato twilight pretzel ristoratore! Mi sento rinascere!" },
     { "gameKey": "quest/006/SubWil025_00671#TEXT_SUBWIL025_00671_GINCHUC_000_33", "hash": "928086729DAF7D67", "target": "\\<sospiro> Per quanto mi dispiaccia dirlo, però, il pretzel non cambia il fatto che queste <if([gnum11<12],<if([gnum11<4],notti gelide,giornate torride)>,<if([gnum11<17],giornate torride,notti gelide)>)> siano dannatamente insopportabili..." },
-    { "gameKey": "quest/006/SubWil025_00671#TEXT_SUBWIL025_00671_PAPASHAN_000_40", "hash": "6F9B47B82428D9CA", "target": "Eccovi di ritorno─e con molti meno pretzel, vedo! Ditemi, come stanno le nostre sentinelle dei Giurati del Sultano? Avevano qualcosa da riferire, proprio nulla!?" },
+    { "gameKey": "quest/006/SubWil025_00671#TEXT_SUBWIL025_00671_PAPASHAN_000_40", "hash": "6F9B47B82428D9CA", "target": "Eccovi di ritorno─e con molti meno pretzel, vedo! Ditemi, come stanno le nostre sentinelle dei Giurati del Sultano? Avevano qualcosa da riferire, una cosa qualsiasi!?" },
     { "gameKey": "quest/006/SubWil025_00671#TEXT_SUBWIL025_00671_PAPASHAN_000_41", "hash": "0CE5D7FEBB6BACDB", "target": "Cosa? Nulla? Ne avete la certezza? Io... oh, cielo." },
     { "gameKey": "quest/006/SubWil025_00671#TEXT_SUBWIL025_00671_PAPASHAN_000_42", "hash": "64A2F7AF35B386A8", "target": "Prendete questo per il disturbo, allora. E restate un momento─avrei altro da chiedervi." }
   ]

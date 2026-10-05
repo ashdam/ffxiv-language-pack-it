@@ -3021,7 +3021,7 @@
     "BOTULF": {"player":"tu","confidence":"high","why":"French tu and plain Japanese in ChrHdb102_01205_BOTULF_000_030."},
     "AGNYS": {"player":"voi","confidence":"medium","why":"Dismissive French vous in ChrHdb102_01205_AGNYS_000_040."},
     "CECY": {"player":"tu","others":{"PHILLICE":"tu","HILDIBRAND":"tu","BRIARDIEN":"voi"},"confidence":"medium","why":"Hostile singular address in ChrHdb504_00493_CECY_100_012 and 000_003. Keep plural address to the group and Nashu's voi while in disguise."},
-    "ENKIDU": {"player":"tu","others":{"GILGAMESH":"tu"},"confidence":"medium","why":"French tu to Gilgamesh in ChrHdb505_00502_ENKIDU_000_535. English identifies Enkidu as female."},
+    "ENKIDU": {"player":"tu","others":{"GILGAMESH":"tu"},"confidence":"medium","why":"French tu to Gilgamesh in ChrHdb505_00502_ENKIDU_000_535. Keep female agreement: English she identifies the lost friend in ChrHdb504_00493_GILGAMESH_000_302 and the summoned Enkidu in ChrHdb505_00502_GILGAMESH_000_537."},
     "ELEAZAR": {"player":"tu","others":{"NASHUMHAKARACCA":"tu","HUMPHREY":"tu","HILDIBRAND":"voi"},"confidence":"low","why":"Player tu is inferred from rough elder speech. Familiar terms in ChrHdb505_00502_000_518 address NASHUMHAKARACCA, while ChrHdb104_01207_000_301 addresses HILDIBRAND with gratitude.","voice":"Preserve the existing other relationships. Do not use familiar address to Nashu as evidence for player tu."},
     "BENEGER": {"player":"tu","confidence":"low","why":"Tu is inferred from plain witness speech. The cited statement about Eleazar does not address the player."},
     "LULULO": {"player":"tu","confidence":"low","why":"Tu is inferred from plain advice. The cited row has French vous and no familiar Japanese second-person term."},
