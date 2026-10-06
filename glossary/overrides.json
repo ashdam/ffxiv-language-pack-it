@@ -5,6 +5,8 @@
     "fr and ja are copied from corpus lines; empty means that language uses no fixed term."
   ],
   "terms": [
+    {"en":"Resilient Son","fr":"Enfant prodige","ja":"奇跡の子","it":"Figlio Resiliente","protect":false,"note":"Zoraal Ja's narrative epithet. Keep complete combat and interface names in English."},
+    {"en":"Storm Surge","fr":"Guerre des fulgurations","ja":"雷光大戦","it":"Guerra dei Fulmini","protect":false,"note":"Historical war on the Ninth. Use in narrative text and period descriptions."},
     {"en":"the Blues","protect":false,"note":"Use only for the abbreviated Blue Kojin faction; do not expand the source name. Unverified Italian form.","it":"i Blu"},
     {"en":"Service Eternal","protect":false,"note":"Unverified Italian form. Use only for the quoted personal motto, not for UI labels.","it":"Servizio Eterno"},
     {"en":"Hyperelectricity","protect":true,"note":"Preserve the named Weather phenomenon; generic electrical storms remain translatable."},
