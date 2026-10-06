@@ -1,8 +1,8 @@
 {
   "gameVersion": "2026.09.15.0000.0000",
-  "translated": 154546,
+  "translated": 163664,
   "total": 461838,
-  "percent": 33.5,
+  "percent": 35.4,
   "chars": 48125981,
   "unresolved": 5455,
   "groups": [
@@ -345,7 +345,7 @@
     {
       "expansion": null,
       "content": "Battle and system messages",
-      "translated": 0,
+      "translated": 8518,
       "total": 8526
     },
     {
@@ -357,7 +357,7 @@
     {
       "expansion": null,
       "content": "Duty Finder",
-      "translated": 0,
+      "translated": 600,
       "total": 700
     },
     {
