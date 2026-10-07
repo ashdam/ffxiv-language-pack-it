@@ -2,16 +2,16 @@
   "conversation": "quest/007/GaiUsa808_00792",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_SEQ_00", "hash": "9514481D98B8A5CF", "target": "" },
-    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_SEQ_01", "hash": "FB4870BF11AAF844", "target": "" },
-    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_SEQ_02", "hash": "012E9E5299B8C7FB", "target": "" },
-    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_SEQ_03", "hash": "558E131A81F57342", "target": "" },
-    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_TODO_00", "hash": "4C4873A3B88E8E65", "target": "" },
-    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_TODO_01", "hash": "9BB9ED6B6004BDE7", "target": "" },
-    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_AELUUIN_000_000", "hash": "043F322E22FB05DD", "target": "" },
-    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_AELUUIN_000_001", "hash": "E4F6312F86F52819", "target": "" },
-    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_AELUUIN_000_020", "hash": "9F5B41F40490D114", "target": "" },
-    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_AELUUIN_000_021", "hash": "B160634FB8D5B055", "target": "" },
-    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_AELUUIN_000_022", "hash": "71C1BFC6087F6D5F", "target": "" }
+    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_SEQ_00", "hash": "9514481D98B8A5CF", "target": "Aeluuin del Tappo Galleggiante vuole il tuo aiuto per le pulizie." },
+    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_SEQ_01", "hash": "FB4870BF11AAF844", "target": "Ultimamente i dipendenti di Aeluuin trascurano il lavoro e i dipinti della locanda si coprono di polvere. Prendi in prestito il suo piumino di chocobo e riporta i capolavori alla perfezione." },
+    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_SEQ_02", "hash": "012E9E5299B8C7FB", "target": "Pochi minuti fa coperti di polvere, i dipinti ora brillano di colori vivaci. Di' ad Aeluuin che hai finito." },
+    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_SEQ_03", "hash": "558E131A81F57342", "target": "Aeluuin è lieto di rivedere i dipinti puliti. È particolarmente affezionato a uno di essi, ma non ha ancora scoperto chi l'abbia dipinto." },
+    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_TODO_00", "hash": "4C4873A3B88E8E65", "target": "Usare il piumino di chocobo sui dipinti" },
+    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_TODO_01", "hash": "9BB9ED6B6004BDE7", "target": "Fare rapporto ad Aeluuin" },
+    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_AELUUIN_000_000", "hash": "043F322E22FB05DD", "target": "Vedete quel dipinto? Certo che no: è coperto da due settimane di polvere, grazie ai miei dipendenti fannulloni!" },
+    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_AELUUIN_000_001", "hash": "E4F6312F86F52819", "target": "Li spolvererei io, ma credo che quei pigri imparerebbero meglio la lezione vedendo <if(gnum4,una cliente,un cliente)> come voi al lavoro. Che ne dite? Bastano poche passate con questo piumino di chocobo e vi ricompenserò." },
+    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_AELUUIN_000_020", "hash": "9F5B41F40490D114", "target": "Grazie. \\<sospiro> Se solo i miei dipendenti amassero la bella arte come noi, eh?" },
+    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_AELUUIN_000_021", "hash": "B160634FB8D5B055", "target": "Soprattutto il dipinto al piano di sopra... Non chiedetemi perché, ma quella figura solitaria che guarda lontano... Di solito non sono sentimentale, ma mi smuove qualcosa dentro." },
+    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_AELUUIN_000_022", "hash": "71C1BFC6087F6D5F", "target": "Ricorda con nostalgia avventure lontane? O si prepara a una battaglia futura? Purtroppo, non sapendo chi sia l'artista, potremmo non scoprirlo mai." }
   ]
 }

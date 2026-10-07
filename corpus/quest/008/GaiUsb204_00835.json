@@ -2,16 +2,16 @@
   "conversation": "quest/008/GaiUsb204_00835",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb204_00835#TEXT_GAIUSB204_00835_SEQ_00", "hash": "2EB9789FDCB041D1", "target": "" },
-    { "gameKey": "quest/008/GaiUsb204_00835#TEXT_GAIUSB204_00835_SEQ_01", "hash": "E37F4113DAD363BD", "target": "" },
-    { "gameKey": "quest/008/GaiUsb204_00835#TEXT_GAIUSB204_00835_SEQ_02", "hash": "0345DD577D08B9FB", "target": "" },
-    { "gameKey": "quest/008/GaiUsb204_00835#TEXT_GAIUSB204_00835_SEQ_03", "hash": "318C23ECCF64783A", "target": "" },
-    { "gameKey": "quest/008/GaiUsb204_00835#TEXT_GAIUSB204_00835_TODO_00", "hash": "44B54141F3495852", "target": "" },
-    { "gameKey": "quest/008/GaiUsb204_00835#TEXT_GAIUSB204_00835_TODO_01", "hash": "9AFFF7632553953E", "target": "" },
-    { "gameKey": "quest/008/GaiUsb204_00835#TEXT_GAIUSB204_00835_FYRILSUNN_000_000", "hash": "1C8216021107CEBE", "target": "" },
-    { "gameKey": "quest/008/GaiUsb204_00835#TEXT_GAIUSB204_00835_FYRILSUNN_000_001", "hash": "12772ABFC9F6D49C", "target": "" },
-    { "gameKey": "quest/008/GaiUsb204_00835#TEXT_GAIUSB204_00835_FYRILSUNN_000_020", "hash": "569788A5CD813414", "target": "" },
-    { "gameKey": "quest/008/GaiUsb204_00835#TEXT_GAIUSB204_00835_FYRILSUNN_000_021", "hash": "633C76E16797DCCE", "target": "" },
-    { "gameKey": "quest/008/GaiUsb204_00835#TEXT_GAIUSB204_00835_POP_MESSAGE_000", "hash": "58E4189AA91D68CF", "target": "" }
+    { "gameKey": "quest/008/GaiUsb204_00835#TEXT_GAIUSB204_00835_SEQ_00", "hash": "2EB9789FDCB041D1", "target": "Fyrilsunn dispone di alcuni esplosivi improvvisati. Cosa potrebbe mai andare storto?" },
+    { "gameKey": "quest/008/GaiUsb204_00835#TEXT_GAIUSB204_00835_SEQ_01", "hash": "E37F4113DAD363BD", "target": "In un atto di aggressione contro gli abitanti di Costa del Sol, i Kobold hanno iniziato a spostare i loro raffinatori sotterranei più vicino all'insediamento. Non volendo subire passivamente la provocazione, Fyrilsunn ha preparato bombe improvvisate e ti chiede di lanciarle sui raffinatori per distruggerli." },
+    { "gameKey": "quest/008/GaiUsb204_00835#TEXT_GAIUSB204_00835_SEQ_02", "hash": "0345DD577D08B9FB", "target": "Hai fatto esplodere tutti i raffinatori dei Kobold ed eliminato i piros furiosi che li alimentavano. Fai rapporto a Fyrilsunn." },
+    { "gameKey": "quest/008/GaiUsb204_00835#TEXT_GAIUSB204_00835_SEQ_03", "hash": "318C23ECCF64783A", "target": "Fyrilsunn ti accoglie calorosamente, avendo visto da dove si trovava la distruzione dei raffinatori. Esprime però preoccupazione perché Costa del Sol è probabilmente poco attrezzata per affrontare future aggressioni dei Kobold. Pare che la zona avrà bisogno di te ancora per un po'." },
+    { "gameKey": "quest/008/GaiUsb204_00835#TEXT_GAIUSB204_00835_TODO_00", "hash": "44B54141F3495852", "target": "Lanciare bombe improvvisate sui raffinatori e uccidere tutti i nemici" },
+    { "gameKey": "quest/008/GaiUsb204_00835#TEXT_GAIUSB204_00835_TODO_01", "hash": "9AFFF7632553953E", "target": "Fare rapporto a Fyrilsunn" },
+    { "gameKey": "quest/008/GaiUsb204_00835#TEXT_GAIUSB204_00835_FYRILSUNN_000_000", "hash": "1C8216021107CEBE", "target": "I Kobold tramano qualcosa. Vedi quegli aggeggi lungo la strada a ovest? Hanno perfino installato i loro dannati raffinatori a pochi yalm dalla nostra spiaggia! E sai cosa dico? È ora di farli saltare all'altro mondo!" },
+    { "gameKey": "quest/008/GaiUsb204_00835#TEXT_GAIUSB204_00835_FYRILSUNN_000_001", "hash": "12772ABFC9F6D49C", "target": "Per l'occasione ho preparato delle bombe improvvisate. Ma, ehm... non ne ho mai lanciata una. Senti, ti ho visto in giro e sembri una persona capace. Potresti prenderle e lanciarle sui raffinatori per me?" },
+    { "gameKey": "quest/008/GaiUsb204_00835#TEXT_GAIUSB204_00835_FYRILSUNN_000_020", "hash": "569788A5CD813414", "target": "Un lavoro davvero ben fatto! Ho visto quelle dannate macchine accendersi da qui. Hai talento, ed è un bene, perché i Kobold sono troppo per noi." },
+    { "gameKey": "quest/008/GaiUsb204_00835#TEXT_GAIUSB204_00835_FYRILSUNN_000_021", "hash": "633C76E16797DCCE", "target": "Ma grazie a te stavolta li abbiamo sistemati! Spero solo che non pensi di lasciarci tanto presto. Sono certo che ci servirà di nuovo il tuo aiuto prima che sia finita." },
+    { "gameKey": "quest/008/GaiUsb204_00835#TEXT_GAIUSB204_00835_POP_MESSAGE_000", "hash": "58E4189AA91D68CF", "target": "Appaiono due grenade furiosi!" }
   ]
 }

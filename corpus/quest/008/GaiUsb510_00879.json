@@ -2,19 +2,19 @@
   "conversation": "quest/008/GaiUsb510_00879",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_SEQ_00", "hash": "09A54DA2A64C9AD9", "target": "" },
-    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_SEQ_01", "hash": "D364EB772B5DE75D", "target": "" },
-    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_SEQ_02", "hash": "F175127051F6B8D8", "target": "" },
-    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_SEQ_03", "hash": "3CDB9AF75223D1B4", "target": "" },
-    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_TODO_00", "hash": "E48C2E5804799929", "target": "" },
-    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_TODO_01", "hash": "1B6736F7DF5569D1", "target": "" },
-    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_FUANDREC_000_000", "hash": "CCCC4D5A94FF6392", "target": "" },
-    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_FUANDREC_000_001", "hash": "1E311B4C5717877A", "target": "" },
-    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_FUANDREC_000_002", "hash": "9B575942E19BC5A2", "target": "" },
-    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_NPC_000_020", "hash": "69B0FE984EAF8F24", "target": "" },
-    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_NPC_000_021", "hash": "DEB1C380B84B8F0B", "target": "" },
-    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_FUANDREC_000_030", "hash": "E5DEE86DB1413324", "target": "" },
-    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_POP_MESSAGE_000", "hash": "53EEDE73B1CEDFF0", "target": "" },
-    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_ACCESS_MESSAGE", "hash": "BEB4041068C466A6", "target": "" }
+    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_SEQ_00", "hash": "09A54DA2A64C9AD9", "target": "Fuandrec è una ventata d'aria fresca in questa casa di lacrime e malinconia, un'aria molto arrabbiata. Ha bisogno che trovi qualcuno, e in fretta." },
+    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_SEQ_01", "hash": "D364EB772B5DE75D", "target": "L'irresponsabile cugino di Fuandrec è in ritardo per una sepoltura, e non è la prima volta che perde la cognizione del tempo. Non ti resta che cercare una persona abbastanza trasandata vicino a Halatali." },
+    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_SEQ_02", "hash": "F175127051F6B8D8", "target": "Vicino alle rovine dei campi d'addestramento trovi due creature animate fuggite dal Colosseo, pronte a fare a pezzi un viandante. Invece di filosofeggiare, elimini i doctore e salvi il cugino di Fuandrec. Riferiscile la buona notizia." },
+    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_SEQ_03", "hash": "3CDB9AF75223D1B4", "target": "Parli con Fuandrec e taci con tatto il commento del cugino sul suo corsetto «troppo stretto». Ma, a giudicare dalle frecciate di lei, sono proprio della stessa pasta." },
+    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_TODO_00", "hash": "E48C2E5804799929", "target": "Trovare un viandante trasandato" },
+    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_TODO_01", "hash": "1B6736F7DF5569D1", "target": "Fare rapporto a Fuandrec" },
+    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_FUANDREC_000_000", "hash": "CCCC4D5A94FF6392", "target": "<italic(1)>Dov'è<italic(0)> quella testa di rapa? Aspettiamo mio cugino da ore e lui perde ancora tempo Thal sa dove. È sempre in ritardo, non capisco perché non possa semplicemente partire prima!" },
+    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_FUANDREC_000_001", "hash": "1E311B4C5717877A", "target": "Eppure, lo ammetto, voglio bene a quello sciocco. Andrei a cercarlo, ma la sua strada passa vicino ai campi d'addestramento di Halatali e dicono che lì scorrazzino bestie pericolosissime." },
+    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_FUANDREC_000_002", "hash": "9B575942E19BC5A2", "target": "Voi <italic(1)>vivete<italic(0)> d'avventure e di certo queste cose vi fanno, che so, cantare il sangue, bollire il cuore o qualche altra sciocchezza. Cerchereste il mio irresponsabile cugino?" },
+    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_NPC_000_020", "hash": "69B0FE984EAF8F24", "target": "Grazie, grazie e ancora grazie! Ho visto arrivare quelle brutte bestie e ho pensato... be', non molto oltre «AAARGH!» Dovrebbero proprio demolire la vecchia Halatali: è completamente in rovina." },
+    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_NPC_000_021", "hash": "DEB1C380B84B8F0B", "target": "Oh, guarda che ora è. Non devo far aspettare ancora la sepoltura. Immagino che mia cugina Fuandrec, quella dal corsetto troppo stretto, non sia molto contenta." },
+    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_FUANDREC_000_030", "hash": "E5DEE86DB1413324", "target": "Oh, grazie! È assolutamente incorreggibile, ma pensare che avremmo potuto dover seppellire anche lui! D'altra parte, a quella sepoltura non sarebbe arrivato tardi. C'è da pensarci." },
+    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_POP_MESSAGE_000", "hash": "53EEDE73B1CEDFF0", "target": "Avverti una presenza ostile!" },
+    { "gameKey": "quest/008/GaiUsb510_00879#TEXT_GAIUSB510_00879_ACCESS_MESSAGE", "hash": "BEB4041068C466A6", "target": "Il nemico è ancora nei paraggi!" }
   ]
 }

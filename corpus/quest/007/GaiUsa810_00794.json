@@ -2,19 +2,19 @@
   "conversation": "quest/007/GaiUsa810_00794",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa810_00794#TEXT_GAIUSA810_00794_SEQ_00", "hash": "E3FB9287F3A3669D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa810_00794#TEXT_GAIUSA810_00794_SEQ_01", "hash": "34AD2E76042CCD59", "target": "" },
-    { "gameKey": "quest/007/GaiUsa810_00794#TEXT_GAIUSA810_00794_SEQ_02", "hash": "136966E1D03015F3", "target": "" },
-    { "gameKey": "quest/007/GaiUsa810_00794#TEXT_GAIUSA810_00794_SEQ_03", "hash": "333308B3C5357F77", "target": "" },
-    { "gameKey": "quest/007/GaiUsa810_00794#TEXT_GAIUSA810_00794_TODO_00", "hash": "138BA0A54B7E877B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa810_00794#TEXT_GAIUSA810_00794_TODO_01", "hash": "C40055C1595BEE23", "target": "" },
-    { "gameKey": "quest/007/GaiUsa810_00794#TEXT_GAIUSA810_00794_GOGOLATA_000_000", "hash": "7BB28FFB54214204", "target": "" },
-    { "gameKey": "quest/007/GaiUsa810_00794#TEXT_GAIUSA810_00794_GOGOLATA_000_001", "hash": "56875604E9C7CDC3", "target": "" },
-    { "gameKey": "quest/007/GaiUsa810_00794#TEXT_GAIUSA810_00794_GOGOLATA_000_002", "hash": "60083D417BCD54BB", "target": "" },
-    { "gameKey": "quest/007/GaiUsa810_00794#TEXT_GAIUSA810_00794_GOEI_000_010", "hash": "4528BAF5FC477ABD", "target": "" },
-    { "gameKey": "quest/007/GaiUsa810_00794#TEXT_GAIUSA810_00794_GOEI_000_015", "hash": "DCD1182F5B05AE14", "target": "" },
-    { "gameKey": "quest/007/GaiUsa810_00794#TEXT_GAIUSA810_00794_GOEI_000_016", "hash": "826B3FEC95693FCE", "target": "" },
-    { "gameKey": "quest/007/GaiUsa810_00794#TEXT_GAIUSA810_00794_GOGOLATA_000_030", "hash": "D44AC0EC25FBF737", "target": "" },
-    { "gameKey": "quest/007/GaiUsa810_00794#TEXT_GAIUSA810_00794_GOGOLATA_000_031", "hash": "024769CCBFDC93DC", "target": "" }
+    { "gameKey": "quest/007/GaiUsa810_00794#TEXT_GAIUSA810_00794_SEQ_00", "hash": "E3FB9287F3A3669D", "target": "Gogolata non vuole tornare a casa." },
+    { "gameKey": "quest/007/GaiUsa810_00794#TEXT_GAIUSA810_00794_SEQ_01", "hash": "34AD2E76042CCD59", "target": "Gogolata si gode le comodità della vita in viaggio e vuole rimandare il ritorno a casa il più possibile. Presenta la sua busta al domestico altezzoso venuto a cercarlo." },
+    { "gameKey": "quest/007/GaiUsa810_00794#TEXT_GAIUSA810_00794_SEQ_02", "hash": "136966E1D03015F3", "target": "Il domestico apre la busta di Gogolata e trova la prenotazione per un soggiorno al Tappo Galleggiante, poi corre via felice. Torna a parlare con Gogolata." },
+    { "gameKey": "quest/007/GaiUsa810_00794#TEXT_GAIUSA810_00794_SEQ_03", "hash": "333308B3C5357F77", "target": "Gogolata racconta che il domestico l'ha ringraziato ed è corso subito in camera, dove ora dorme profondamente. Sembra che Gogolata non sia il solo poco entusiasta di tornare a Ul'dah." },
+    { "gameKey": "quest/007/GaiUsa810_00794#TEXT_GAIUSA810_00794_TODO_00", "hash": "138BA0A54B7E877B", "target": "Consegnare la busta al domestico altezzoso" },
+    { "gameKey": "quest/007/GaiUsa810_00794#TEXT_GAIUSA810_00794_TODO_01", "hash": "C40055C1595BEE23", "target": "Parlare con Gogolata" },
+    { "gameKey": "quest/007/GaiUsa810_00794#TEXT_GAIUSA810_00794_GOGOLATA_000_000", "hash": "7BB28FFB54214204", "target": "Un letto comodo, pasti caldi, liquori pregiati... Vi dico che, da quando sono qui, mi sembra di essere morto e aver trovato rifugio nel seno di Nophica!" },
+    { "gameKey": "quest/007/GaiUsa810_00794#TEXT_GAIUSA810_00794_GOGOLATA_000_001", "hash": "56875604E9C7CDC3", "target": "Tornare a Ul'dah? In quella baracca malandata dove mi aspettano solo mia moglie tirchia e le sue lamentele infinite? Mai!" },
+    { "gameKey": "quest/007/GaiUsa810_00794#TEXT_GAIUSA810_00794_GOGOLATA_000_002", "hash": "60083D417BCD54BB", "target": "Forse potete aiutarmi. Mia moglie ha assoldato un poveretto perché mi riporti a casa, ma credo che questo gli farà cambiare idea." },
+    { "gameKey": "quest/007/GaiUsa810_00794#TEXT_GAIUSA810_00794_GOEI_000_010", "hash": "4528BAF5FC477ABD", "target": "C-che vuoi!? La padrona mi ha pagato bene per riportare a casa quel marito buono a nulla." },
+    { "gameKey": "quest/007/GaiUsa810_00794#TEXT_GAIUSA810_00794_GOEI_000_015", "hash": "DCD1182F5B05AE14", "target": "I tuoi Gil non mi interessano. La padrona mi ha pagato... Mm? Che diavolo? Una stanza tutta mia qui al Tappo, con tutta la birra che voglio, già pagata da Gogolata?" },
+    { "gameKey": "quest/007/GaiUsa810_00794#TEXT_GAIUSA810_00794_GOEI_000_016", "hash": "826B3FEC95693FCE", "target": "L-levati di mezzo! Vado a dire a quell'uomo quello che penso!" },
+    { "gameKey": "quest/007/GaiUsa810_00794#TEXT_GAIUSA810_00794_GOGOLATA_000_030", "hash": "D44AC0EC25FBF737", "target": "Ah ah! Pare che i vostri sforzi abbiano avuto successo. Il collaboratore di mia moglie è appena passato." },
+    { "gameKey": "quest/007/GaiUsa810_00794#TEXT_GAIUSA810_00794_GOGOLATA_000_031", "hash": "024769CCBFDC93DC", "target": "Voleva ringraziarmi di persona, pare. Ha bevuto una pinta di birra ed è corso in camera, dove dorme profondamente, a giudicare da quel russare tanto evidente. Ahhh... Le comodità della vita in viaggio!" }
   ]
 }

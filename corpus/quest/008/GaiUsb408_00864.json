@@ -2,16 +2,16 @@
   "conversation": "quest/008/GaiUsb408_00864",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_SEQ_00", "hash": "7C3C658F97F92D8B", "target": "" },
-    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_SEQ_01", "hash": "FE7432F1B509A1E9", "target": "" },
-    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_SEQ_02", "hash": "302A82516836A9A4", "target": "" },
-    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_SEQ_03", "hash": "88832B70F0D5CBF2", "target": "" },
-    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_TODO_00", "hash": "0DD65D8B2CF24A0B", "target": "" },
-    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_TODO_01", "hash": "DA1E9C96C27AD70B", "target": "" },
-    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_BLOEIDINL_000_000", "hash": "0A8789F257D25534", "target": "" },
-    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_BLOEIDINL_000_001", "hash": "87A40B6C5358DC02", "target": "" },
-    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_BLOEIDINL_000_020", "hash": "6EBE918764F2D313", "target": "" },
-    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_BLOEIDINL_000_021", "hash": "DCCCD4F5E02C4DE9", "target": "" },
-    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_POP_MESSAGE_000", "hash": "0030821E015F8B65", "target": "" }
+    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_SEQ_00", "hash": "7C3C658F97F92D8B", "target": "Il comandante Bloeidin sembra fidarsi ormai delle tue abilità e della tua discrezione." },
+    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_SEQ_01", "hash": "FE7432F1B509A1E9", "target": "Il comandante del Maelstrom Bloeidin riferisce di recenti avvistamenti di Kobold vicino a Campo Overlook e ti manda a indagare. Cerca nei punti indicati presso il campo e uccidi ogni Kobold tanto sfortunato da incontrarti." },
+    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_SEQ_02", "hash": "302A82516836A9A4", "target": "Hai adornato il pendio con i resti dei nemici sconfitti. Ma è ora di interrompere questo passatempo da spacconi e fare rapporto al comandante Bloeidin." },
+    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_SEQ_03", "hash": "88832B70F0D5CBF2", "target": "La stima del comandante cresce a ogni missione. Eppure è inquieto: gli esploratori kobold risvegliano un ricordo ancora vago..." },
+    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_TODO_00", "hash": "0DD65D8B2CF24A0B", "target": "Esaminare i punti indicati e uccidere i Kobold" },
+    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_TODO_01", "hash": "DA1E9C96C27AD70B", "target": "Fare rapporto a Bloeidin" },
+    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_BLOEIDINL_000_000", "hash": "0A8789F257D25534", "target": "Salve, <split(<string(gstr1)>, ,1)>. Grazie per le altre volte: non sei una mammoletta, questo te lo riconosco. Ho un lavoro che richiede <if(gnum4,una ragazza,un ragazzo)> dalla pelle dura: cercare gli esploratori kobold." },
+    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_BLOEIDINL_000_001", "hash": "87A40B6C5358DC02", "target": "I miei ragazzi dicono che ce ne sono almeno tre da qualche parte sulla collina. Sai cavartela, no?" },
+    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_BLOEIDINL_000_020", "hash": "6EBE918764F2D313", "target": "Ti ho puntato il cannocchiale appena ho sentito combattere. Sapevo che eri <if(gnum4,una furia,un picchiatore)>! Davvero non vuoi lasciare la strada e unirti a noi? Ci sono Kobold per tutti!" },
+    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_BLOEIDINL_000_021", "hash": "DCCCD4F5E02C4DE9", "target": "C'è qualcosa di familiare in quei Kobold che hai sistemato. Ne ho già visti alcuni muoversi così, potrei giurarlo. Mi verrà in mente, se avremo almeno quel tempo." },
+    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_POP_MESSAGE_000", "hash": "0030821E015F8B65", "target": "Senti un odore di terra e metallo!" }
   ]
 }

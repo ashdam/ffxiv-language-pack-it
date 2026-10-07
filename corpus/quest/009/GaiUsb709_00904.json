@@ -2,19 +2,19 @@
   "conversation": "quest/009/GaiUsb709_00904",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_SEQ_00", "hash": "5B9405C55F948220", "target": "" },
-    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_SEQ_01", "hash": "665E5016014D6F0B", "target": "" },
-    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_SEQ_02", "hash": "1319460EAEDF7278", "target": "" },
-    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_SEQ_03", "hash": "B8440E93948CC5E3", "target": "" },
-    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_TODO_00", "hash": "E0A912E49D68FDAC", "target": "" },
-    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_TODO_01", "hash": "12C74025E6F486CD", "target": "" },
-    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_BELMONT_000_000", "hash": "019A549647A62841", "target": "" },
-    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_BELMONT_000_001", "hash": "A456CD6E4C1A3B45", "target": "" },
-    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_BELMONT_000_002", "hash": "3295CFA053C65A83", "target": "" },
-    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_BELMONT_000_020", "hash": "537873C9C1A1291E", "target": "" },
-    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_BELMONT_000_030", "hash": "19B681C40CA8454A", "target": "" },
-    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_BELMONT_000_031", "hash": "5DA880F1F677D466", "target": "" },
-    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_BELMONT_000_032", "hash": "C5CE7EDCA68C708C", "target": "" },
-    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_POP_MESSAGE_000", "hash": "9819014AFE9A01B1", "target": "" }
+    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_SEQ_00", "hash": "5B9405C55F948220", "target": "Belmont ostenta il cinismo di un mercenario, ma la Faretra degli Dei che è in lui è dura a morire. Cerca un esploratore con tanta urgenza che lo assolderà di persona." },
+    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_SEQ_01", "hash": "665E5016014D6F0B", "target": "Veterano di molti scontri con gli Ixal, Belmont sospetta che la presenza degli uomini-bestia in questa parte del mondo nasconda qualcosa. Ti chiede di usare furtività e astuzia per perlustrare il loro covo a est." },
+    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_SEQ_02", "hash": "1319460EAEDF7278", "target": "Dopo un esame delle abitudini domestiche degli Ixal e uno scontro all'ultimo sangue, non scopri niente di più insolito di un mucchio di tronchi di tasso. Eppure non provengono da questi boschi, e gli uomini-uccello difficilmente li tenevano come animali da compagnia. Torna al campo e consegna uno dei tronchi a Belmont." },
+    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_SEQ_03", "hash": "B8440E93948CC5E3", "target": "Secondo Belmont, il tasso che hai riportato cresce soltanto nel Bosco dei Dodici ed è molto apprezzato dagli Ixal, che lo piantano per creare fortificazioni viventi. Belmont ritiene che sia la prova che gli Ixal si stanno insediando a Coerthas, approfittando della distrazione causata dai molti problemi di Ishgard." },
+    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_TODO_00", "hash": "E0A912E49D68FDAC", "target": "Cercare indizi nel covo degli Ixal" },
+    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_TODO_01", "hash": "12C74025E6F486CD", "target": "Consegnare il tronco di tasso nero a Belmont" },
+    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_BELMONT_000_000", "hash": "019A549647A62841", "target": "Vengo da Gridania, <switch(gnum70,<if(gnum4,sorella,fratello)> del mare,proprio come te,<if(gnum4,sorella,fratello)> del deserto)>. Là combattiamo gli Ixal, ma certo non mi aspettavo di vederli su queste montagne." },
+    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_BELMONT_000_001", "hash": "A456CD6E4C1A3B45", "target": "Conosco quegli uccelli di merda e stanno tramando qualcosa. Non è niente che possa portare al mio datore di lavoro... È solo una sensazione. Ma ogni volta che l'ho avuta nel Bosco dei Dodici e nessuno ha fatto niente, qualcosa di brutto ci ha morso il culo." },
+    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_BELMONT_000_002", "hash": "3295CFA053C65A83", "target": "Non ho avuto un momento libero e la sensazione si fa più forte. Non è da mercenario separarsi dai propri Gil in questo modo, ma entreresti nel covo degli Ixal a est per cercare qualche indizio?" },
+    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_BELMONT_000_020", "hash": "537873C9C1A1291E", "target": "Che notizie, <if(gnum4,sorella,fratello)>? Cosa porti?" },
+    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_BELMONT_000_030", "hash": "19B681C40CA8454A", "target": "Questo è tasso nero del North Shroud, sconosciuto a Coerthas. Gli Ixal ne fanno ripari e muri viventi. Ma il tasso cresce lentamente: perché tagliarlo e portarlo a ovest? A meno che..." },
+    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_BELMONT_000_031", "hash": "5DA880F1F677D466", "target": "Gli Ixal intendono restare qui─è l'inizio di un insediamento. Mentre gli ishgardesi si occupano dei draghi, gli uomini-uccello rubano questo pezzo di Coerthas proprio sotto il loro naso." },
+    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_BELMONT_000_032", "hash": "C5CE7EDCA68C708C", "target": "Ti garantisco che, se la Santa Sede non agisce ora, gli Ixal si radicheranno rapidamente nella zona. Significa altra guerra. E anche se questo significa più lavoro per quelli come me, ne ho già abbastanza." },
+    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_POP_MESSAGE_000", "hash": "9819014AFE9A01B1", "target": "Un frullare d'ali annuncia gli Ixal! " }
   ]
 }

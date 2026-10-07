@@ -2,19 +2,19 @@
   "conversation": "quest/004/SubSea060_00472",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_SEQ_00", "hash": "976D5158AFA5D331", "target": "" },
-    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_SEQ_01", "hash": "58C2D4DBC0553563", "target": "" },
-    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_SEQ_02", "hash": "C8315038F785BC76", "target": "" },
-    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_SEQ_03", "hash": "F236F6C2B6EE0239", "target": "" },
-    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_TODO_00", "hash": "9DE3726868CDFB03", "target": "" },
-    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_TODO_01", "hash": "E0AA6CC47C997712", "target": "" },
-    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_1", "hash": "F105B8FFFB0C23E0", "target": "" },
-    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_2", "hash": "C32105184D5A10D2", "target": "" },
-    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_3", "hash": "61F1A5919CE0D326", "target": "" },
-    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_11", "hash": "85BFEDFBDE481643", "target": "" },
-    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_12", "hash": "5C34B807BD76E66B", "target": "" },
-    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_13", "hash": "3817726F493072C7", "target": "" },
-    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_14", "hash": "207AF716959E20FB", "target": "" },
-    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_SYSTEM_000_20", "hash": "32C7B6725DBC62AC", "target": "" }
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_SEQ_00", "hash": "976D5158AFA5D331", "target": "Le arance di La Noscea di Bhirdraeg sono mature e pronte da raccogliere." },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_SEQ_01", "hash": "58C2D4DBC0553563", "target": "Bhirdraeg ti chiede di raccogliere le sue arance mature di La Noscea. Gli irascibili pirati al suo servizio preferiscono cogliere occasioni di lite anziché frutta, lasciando a te il lavoro." },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_SEQ_02", "hash": "C8315038F785BC76", "target": "Hai raccolto abbastanza arance. Riportale a Bhirdraeg." },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_SEQ_03", "hash": "F236F6C2B6EE0239", "target": "Le bravate dei pirati hanno seminato malcontento fra i coltivatori locali, e l'Ammiraglio sembra impigliata fra le erbacce." },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_TODO_00", "hash": "9DE3726868CDFB03", "target": "Raccogliere le arance di La Noscea" },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_TODO_01", "hash": "E0AA6CC47C997712", "target": "Consegnare le arance a Bhirdraeg" },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_1", "hash": "F105B8FFFB0C23E0", "target": "Bah, non posso contare su quei dannati pirati nemmeno per raccogliere queste arance mature." },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_2", "hash": "C32105184D5A10D2", "target": "Ma se le lascio ancora un giorno, finiranno per cadere dai rami." },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_3", "hash": "61F1A5919CE0D326", "target": "Forse puoi raccoglierne qualcuna per me. Non avrai paura di un paio di calabroni fastidiosi, vero?" },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_11", "hash": "85BFEDFBDE481643", "target": "Guarda quelle arance succose, traboccanti di nettare! Potrebbero cadere da un momento all'altro!" },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_12", "hash": "5C34B807BD76E66B", "target": "Ah, mature al punto giusto! Che dolcezza!" },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_13", "hash": "3817726F493072C7", "target": "Se a quella banda di pirati in pensione sfaticati viene lo scorbuto, ben gli sta!" },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_14", "hash": "207AF716959E20FB", "target": "È proprio vero che non si insegnano nuovi trucchi a un vecchio lupo di mare. L'Ammiraglio dovrebbe saperlo!" },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_SYSTEM_000_20", "hash": "32C7B6725DBC62AC", "target": "Un ronzio esasperante ti riempie le orecchie!" }
   ]
 }

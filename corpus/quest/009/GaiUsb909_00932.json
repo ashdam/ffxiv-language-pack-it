@@ -2,16 +2,16 @@
   "conversation": "quest/009/GaiUsb909_00932",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_SEQ_00", "hash": "F27CD97CA670CA6B", "target": "" },
-    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_SEQ_01", "hash": "A127FA21F81BFB70", "target": "" },
-    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_SEQ_02", "hash": "66BC3F5664BAE737", "target": "" },
-    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_SEQ_03", "hash": "FC16FC40F6FA59DB", "target": "" },
-    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_TODO_00", "hash": "5FAE1289A52082A5", "target": "" },
-    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_TODO_01", "hash": "F6A0951BE924895D", "target": "" },
-    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_CHAUNOLLET_000_000", "hash": "F0C8196A8791CDC6", "target": "" },
-    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_CHAUNOLLET_000_001", "hash": "830A496230496D5D", "target": "" },
-    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_CHAUNOLLET_000_020", "hash": "184932DF0B76DF40", "target": "" },
-    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_CHAUNOLLET_000_030", "hash": "D04216645DC03878", "target": "" },
-    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_CHAUNOLLET_000_031", "hash": "44CFA59E2A7F797F", "target": "" }
+    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_SEQ_00", "hash": "F27CD97CA670CA6B", "target": "Ser Chaunollet vorrebbe che raccogliessi altro materiale per alleviare le difficoltà dei cavalieri." },
+    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_SEQ_01", "hash": "A127FA21F81BFB70", "target": "Con un'imperiosità leggermente istrionica, Ser Chaunollet ti chiede di portargli il grasso dei chinchilla. Conosci troppo poco la cucina ishgardese per capirne il motivo, ma uccidi quattro chinchilla e raccogli il loro ricco grasso viscerale." },
+    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_SEQ_02", "hash": "66BC3F5664BAE737", "target": "I chinchilla erano stranamente numerosi e ben nutriti, per bestiole tanto delicate nel cuore dell'inverno. Coerthas è piena di questi misteri, ma per ora frena le indagini e consegna il grasso cremoso nelle mani di Ser Chaunollet." },
+    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_SEQ_03", "hash": "FC16FC40F6FA59DB", "target": "Dimenticata per un momento l'aria dispotica, Ser Chaunollet si dichiara lieto della qualità del grasso. Vista l'inspiegabile rotondità delle bestie, ti fa piacere sapere che è destinato alle zampe dei chocobo invece che alla pentola dello stufato." },
+    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_TODO_00", "hash": "5FAE1289A52082A5", "target": "Raccogliere grasso dai chinchilla" },
+    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_TODO_01", "hash": "F6A0951BE924895D", "target": "Consegnare il grasso di chinchilla a Chaunollet" },
+    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_CHAUNOLLET_000_000", "hash": "F0C8196A8791CDC6", "target": "Sembri desiderare di servire. Non negarlo─il fuoco nei tuoi occhi ti tradisce. Qualcosa da fare <italic(1)>c'è<italic(0)>: uccidi i chinchilla che vivono qui vicino e raccogli il loro grasso." },
+    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_CHAUNOLLET_000_001", "hash": "830A496230496D5D", "target": "Quante bestie? Vedo che il compito ti entusiasma! Quattro di buona taglia basteranno. Ora sii il mio falcone e caccia i chinchilla laggiù!" },
+    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_CHAUNOLLET_000_020", "hash": "184932DF0B76DF40", "target": "Ah, il falcone del Tempio! Hai ciò che ti ho ordinato di portare?" },
+    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_CHAUNOLLET_000_030", "hash": "D04216645DC03878", "target": "È un grasso eccellente, e ben estratto. Vedo che sai preparare le bestie. Una volta fuso, sarà arricchito per diventare un balsamo contro il congelamento delle zampe dei nostri chocobo." },
+    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_CHAUNOLLET_000_031", "hash": "44CFA59E2A7F797F", "target": "Unici tra le bestie, i chocobo devono essere onorati. Per ogni cavaliere di Ishgard morto nella crociata, sono morti altrettanti di quei nobili uccelli. Nessuno può veder morire un chocobo senza commuoversi." }
   ]
 }

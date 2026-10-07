@@ -2,18 +2,18 @@
   "conversation": "quest/008/GaiUsb406_00862",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SEQ_00", "hash": "495AF9770EEE0F3E", "target": "" },
-    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SEQ_01", "hash": "66F9E3DDB4084AB5", "target": "" },
-    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SEQ_02", "hash": "30A465B9A7DE0B9D", "target": "" },
-    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SEQ_03", "hash": "6876C221DA01D995", "target": "" },
-    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_TODO_00", "hash": "4030FAF0313215AA", "target": "" },
-    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_TODO_01", "hash": "B7967309E4D0413E", "target": "" },
-    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_TODO_02", "hash": "02B33348683BE614", "target": "" },
-    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SWYGRAEL_000_000", "hash": "67C1383E3C54D224", "target": "" },
-    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SWYGRAEL_000_001", "hash": "85D4797C3F8A3559", "target": "" },
-    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SWYGRAEL_000_002", "hash": "440BF1CC1762C07F", "target": "" },
-    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SWYGRAEL_000_020", "hash": "70C10086BD8D4DE3", "target": "" },
-    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SWYGRAEL_000_025", "hash": "762A895CF73EEED6", "target": "" },
-    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SWYGRAEL_000_026", "hash": "3AFE756B9A40E7C4", "target": "" }
+    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SEQ_00", "hash": "495AF9770EEE0F3E", "target": "La sergente Swygrael vuole qualcosa, e di solito questa signora ottiene ciò che vuole." },
+    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SEQ_01", "hash": "66F9E3DDB4084AB5", "target": "Con la deliziosa sbadataggine delle fanciulle, la sergente Swygrael di Campo Overlook ha perso alcuni effetti personali mentre picchiava a morte dei velociraptor. Ti chiede di raccogliere artigli di raptor e punte di freccia seghettate, tre di ciascuno." },
+    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SEQ_02", "hash": "30A465B9A7DE0B9D", "target": "Hai recuperato gli artigli e le punte dalle carcasse puzzolenti dei velociraptor. Trascinati al campo e consegna il bottino a Swygrael." },
+    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SEQ_03", "hash": "6876C221DA01D995", "target": "I Kobold sanno lavorare i metalli, ma la loro avidità per i resti dei nemici potrebbe essere una debolezza? O c'è un motivo per cui desiderano tanto altro metallo?" },
+    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_TODO_00", "hash": "4030FAF0313215AA", "target": "Raccogliere gli artigli di velociraptor" },
+    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_TODO_01", "hash": "B7967309E4D0413E", "target": "Raccogliere le punte di freccia seghettate" },
+    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_TODO_02", "hash": "02B33348683BE614", "target": "Dare gli artigli e le punte a Swygrael" },
+    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SWYGRAEL_000_000", "hash": "67C1383E3C54D224", "target": "Ehi, tu! Sì, tu, con quel visino dolce e tutte quelle fibbie. Ho un lavoro per te. Mi servivano artigli di raptor, ma quelle bestiacce mi hanno dato tanti problemi che ho dimenticato perché le uccidevo. Mi sono arrabbiata, gli ho spaccato la testa e me ne sono andata fischiettando." },
+    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SWYGRAEL_000_001", "hash": "85D4797C3F8A3559", "target": "Le carcasse sono qui vicino, con qualche mia freccia piantata dentro. Portami gli artigli, <if(gnum4,mia rosa selvatica,mio prode colombello)>, e magari tornerò dell'umore pratico!" },
+    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SWYGRAEL_000_002", "hash": "440BF1CC1762C07F", "target": "Ehi, un'altra cosa. Se vedi le mie frecce, riporta le punte! Mettere le penne a una freccia è facile, ma le punte non crescono sugli uccelli!" },
+    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SWYGRAEL_000_020", "hash": "70C10086BD8D4DE3", "target": "Ehi, tesoro! Portami gli artigli e le punte!" },
+    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SWYGRAEL_000_025", "hash": "762A895CF73EEED6", "target": "Grazie, cuore mio! Perché quel muso lungo? Oh, pensi che ci manchino le provviste. Senti, dolcezza, i Kobold non resistono al metallo. Qualsiasi cosa gli lanciamo, perfino le punte di freccia, finisce nelle tane, rifusa in nuove armi." },
+    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SWYGRAEL_000_026", "hash": "3AFE756B9A40E7C4", "target": "Quindi gli ordini sono di non dargli metallo. Fate punte d'artigli, selce, un po' di pan di zenzero del cuoco, e riportate ogni punta d'acciaio o bronzo. A noi marinai viene naturale, sai. Siamo risparmiatori!" }
   ]
 }

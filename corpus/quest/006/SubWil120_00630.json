@@ -2,18 +2,18 @@
   "conversation": "quest/006/SubWil120_00630",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_SEQ_00", "hash": "8799BD37FBCA6D84", "target": "" },
-    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_SEQ_01", "hash": "0293ED9B078B1FB7", "target": "" },
-    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_SEQ_02", "hash": "35BA56B7B1114AEB", "target": "" },
-    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_SEQ_03", "hash": "0CC50E32CB0A07A0", "target": "" },
-    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TODO_00", "hash": "438F3ED6E40DD034", "target": "" },
-    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TODO_01", "hash": "5F8C245D021EF6CD", "target": "" },
-    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TUTUSI_000_1", "hash": "E5D94E50E0755875", "target": "" },
-    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TUTUSI_000_2", "hash": "321385CB2374AD21", "target": "" },
-    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TUTUSI_000_3", "hash": "1E564E06AC586B00", "target": "" },
-    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TUTUSI_000_10", "hash": "AD966EB8D014F00B", "target": "" },
-    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TUTUSI_000_11", "hash": "D9279877169A95AD", "target": "" },
-    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TUTUSI_000_12", "hash": "19B5A1AB793DFFFA", "target": "" },
-    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TUTUSI_000_13", "hash": "E5BB4465AC114D4E", "target": "" }
+    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_SEQ_00", "hash": "8799BD37FBCA6D84", "target": "Tutusi di Campo Drybone ha un incarico per chi non teme le avventure." },
+    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_SEQ_01", "hash": "0293ED9B078B1FB7", "target": "Tutusi vorrebbe che tu raccogliessi tre rametti di lavanda di Althyk dalla gigantesca carcassa di goobbue a est di Campo Drybone." },
+    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_SEQ_02", "hash": "35BA56B7B1114AEB", "target": "Hai raccolto i tre rametti di lavanda di Althyk. Consegnali a Tutusi a Campo Drybone." },
+    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_SEQ_03", "hash": "0CC50E32CB0A07A0", "target": "La lavanda di Althyk è un'offerta preziosa ai funerali della Chiesa di Sant'Adama Landama. A quanto pare, i morti sanno apprezzare la differenza tra un fiore raro e uno comune." },
+    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TODO_00", "hash": "438F3ED6E40DD034", "target": "Raccogliere rametti di lavanda di Althyk" },
+    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TODO_01", "hash": "5F8C245D021EF6CD", "target": "Consegnare la lavanda di Althyk a Tutusi" },
+    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TUTUSI_000_1", "hash": "E5D94E50E0755875", "target": "Siete qui per altro lavoro? Bene. Allora rispondete: in un campo come questo, così vicino a un cimitero, cosa si vende più in fretta di quanto si riesca a rifornire? Esatto, i <italic(1)>fiori<italic(0)>!" },
+    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TUTUSI_000_2", "hash": "321385CB2374AD21", "target": "A est di qui giacciono i resti di un enorme goobbue. Intorno spuntano tante piante che sembra di aver trovato il Sudario Nero nel mezzo di Thanalan." },
+    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TUTUSI_000_3", "hash": "1E564E06AC586B00", "target": "Si dice che il goobbue sia sceso dalle montagne durante la Calamità e abbia portato i semi da cui sono nate tutte quelle piante. Ma a me servono solo tre rametti di lavanda di Althyk. Sembra abbastanza semplice, no?" },
+    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TUTUSI_000_10", "hash": "AD966EB8D014F00B", "target": "Allora, <split(<string(gstr1)>, ,1)>? Avete trovato i miei bei fiorellini?" },
+    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TUTUSI_000_11", "hash": "D9279877169A95AD", "target": "Ah, magnifici! Ottimo lavoro. Non so cosa ci sia in quella carcassa di goobbue marcia, ma produce i fiori più belli che abbia mai visto, accidenti." },
+    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TUTUSI_000_12", "hash": "19B5A1AB793DFFFA", "target": "Per le offerte, si dice che più raro è il fiore, più felici sono i morti. E la lavanda di Althyk è rara eccome." },
+    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TUTUSI_000_13", "hash": "E5BB4465AC114D4E", "target": "Li terrò da parte per ricavarne un bel guadagno al prossimo funerale del cimitero!" }
   ]
 }

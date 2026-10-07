@@ -2,18 +2,18 @@
   "conversation": "quest/023/HeaVny816_02393",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/023/HeaVny816_02393#TEXT_HEAVNY816_02393_SEQ_00", "hash": "FDB1ABA16B0E85FA", "target": "" },
-    { "gameKey": "quest/023/HeaVny816_02393#TEXT_HEAVNY816_02393_SEQ_01", "hash": "389E01CBDF4AF911", "target": "" },
-    { "gameKey": "quest/023/HeaVny816_02393#TEXT_HEAVNY816_02393_SEQ_02", "hash": "962F07AA25556FB6", "target": "" },
-    { "gameKey": "quest/023/HeaVny816_02393#TEXT_HEAVNY816_02393_TODO_00", "hash": "03570EBF5AD6900D", "target": "" },
-    { "gameKey": "quest/023/HeaVny816_02393#TEXT_HEAVNY816_02393_WOLF02393_000_000", "hash": "196360004A8C04BA", "target": "" },
-    { "gameKey": "quest/023/HeaVny816_02393#TEXT_HEAVNY816_02393_WOLF02393_000_001", "hash": "88635C2ADE4AC87D", "target": "" },
-    { "gameKey": "quest/023/HeaVny816_02393#TEXT_HEAVNY816_02393_WOLF02393_000_002", "hash": "CF378F3102E8B0DC", "target": "" },
-    { "gameKey": "quest/023/HeaVny816_02393#TEXT_HEAVNY816_02393_WOLF02393_000_003", "hash": "0BE8204ED8336A36", "target": "" },
-    { "gameKey": "quest/023/HeaVny816_02393#TEXT_HEAVNY816_02393_WOLF02393_000_004", "hash": "897ED4BBCEB112BA", "target": "" },
-    { "gameKey": "quest/023/HeaVny816_02393#TEXT_HEAVNY816_02393_WOLF02393_000_008", "hash": "0A262CCE48D62DD4", "target": "" },
-    { "gameKey": "quest/023/HeaVny816_02393#TEXT_HEAVNY816_02393_WOLF02393_000_009", "hash": "6E46C0433EA01885", "target": "" },
-    { "gameKey": "quest/023/HeaVny816_02393#TEXT_HEAVNY816_02393_DUELOFFICER_000_010", "hash": "150181FAF350F8A7", "target": "" },
-    { "gameKey": "quest/023/HeaVny816_02393#TEXT_HEAVNY816_02393_DUELOFFICER_000_011", "hash": "1CF575812E837C48", "target": "" }
+    { "gameKey": "quest/023/HeaVny816_02393#TEXT_HEAVNY816_02393_SEQ_00", "hash": "FDB1ABA16B0E85FA", "target": "Il tremito nervoso delle sue gambe suggerisce che questo attaccabrighe Au Ra non sia duro come sembra." },
+    { "gameKey": "quest/023/HeaVny816_02393#TEXT_HEAVNY816_02393_SEQ_01", "hash": "389E01CBDF4AF911", "target": "Non appena guardi nella sua direzione, un monaco Au Ra si ritrae terrorizzato e implora pietà. La paura lascia presto il posto al sollievo quando capisce che non sei lì per stenderlo. Spiega che il Maelstrom ha aperto un'arena dove chi vive d'avventure può sfidare liberamente i propri compagni d'armi. L'Au Ra è però preoccupato perché, non essendo queste battaglie confinate alla fossa del Wolves' Den, gli sconosciuti continuano a tormentarlo in cerca di una rissa. Vista la tua aria sicura, ti suggerisce di andare dall'ufficiale sui moli per sapere di più di questa nuova arena." },
+    { "gameKey": "quest/023/HeaVny816_02393#TEXT_HEAVNY816_02393_SEQ_02", "hash": "962F07AA25556FB6", "target": "Ti avvicini all'ufficiale del Maelstrom e lei capisce subito che hai una fame di battaglia che la fossa del Wolves' Den non può saziare. Prima che ti getti nell'arena, però, intende spiegarti le regole da seguire nei duelli al Wolves' Den Pier." },
+    { "gameKey": "quest/023/HeaVny816_02393#TEXT_HEAVNY816_02393_TODO_00", "hash": "03570EBF5AD6900D", "target": "Parlare con la Maelstrom drill sergeant" },
+    { "gameKey": "quest/023/HeaVny816_02393#TEXT_HEAVNY816_02393_WOLF02393_000_000", "hash": "196360004A8C04BA", "target": "V-Vi prego, abbiate pietà! Fermate quei pugni dall'aria feroce! Non sono pronto per un combattimento a pieno contatto! Ho appena cominciato a esercitarmi con One Ilm Punch!" },
+    { "gameKey": "quest/023/HeaVny816_02393#TEXT_HEAVNY816_02393_WOLF02393_000_001", "hash": "88635C2ADE4AC87D", "target": "Q-Quindi... non siete qui per sfidarmi a duello? Vi chiedo scusa. Avete l'aria di <if(gnum4,una donna,un uomo)> che ama il brivido della lotta, e pensavo che voleste affrontarmi." },
+    { "gameKey": "quest/023/HeaVny816_02393#TEXT_HEAVNY816_02393_WOLF02393_000_002", "hash": "CF378F3102E8B0DC", "target": "E non senza motivo, badate! Il Maelstrom ha da poco aperto una specie di arena d'allenamento, proprio su questo molo. Ora chi vive d'avventure può affrontarsi senza scendere nella fossa." },
+    { "gameKey": "quest/023/HeaVny816_02393#TEXT_HEAVNY816_02393_WOLF02393_000_003", "hash": "0BE8204ED8336A36", "target": "Ero quasi certo che foste come tutti gli altri, in cerca di una nuova vittoria. Io non ho né l'abilità né il coraggio per combattere, ma voi sembrate <if(gnum4,una donna,un uomo)> che ha affrontato la <if(gnum4,sua,sua)> buona dose di battaglie. Forse vorreste mettervi alla prova nell'arena? N-Non con me, naturalmente." },
+    { "gameKey": "quest/023/HeaVny816_02393#TEXT_HEAVNY816_02393_WOLF02393_000_004", "hash": "897ED4BBCEB112BA", "target": "L'ufficiale che sorveglia l'arena è proprio laggiù. Senza dubbio sarà felice di spiegarvi ogni cosa. Guardate quello sguardo spaventoso: sempre a caccia di sangue fresco, o così dicono!" },
+    { "gameKey": "quest/023/HeaVny816_02393#TEXT_HEAVNY816_02393_WOLF02393_000_008", "hash": "0A262CCE48D62DD4", "target": "Se volete mettere alla prova le vostre capacità nell'arena, non vi trattengo. Scendete da qui, proseguite dritto lungo il molo e parlate con la sergente istruttrice. Non potete sbagliare." },
+    { "gameKey": "quest/023/HeaVny816_02393#TEXT_HEAVNY816_02393_WOLF02393_000_009", "hash": "6E46C0433EA01885", "target": "Vi accompagnerei, ma temo che quella Lalafell folle e assetata di sangue di ieri sia ancora lì. Basta pensare ai suoi occhietti e a quel sorriso sinistro... roba da incubi, ve lo dico io." },
+    { "gameKey": "quest/023/HeaVny816_02393#TEXT_HEAVNY816_02393_DUELOFFICER_000_010", "hash": "150181FAF350F8A7", "target": "Che succede? Un altro cucciolo di lupo che non vede l'ora di entrare nell'arena? Beh, se cercate sangue e lo volete in fretta, forse qui potrete placare la vostra sete." },
+    { "gameKey": "quest/023/HeaVny816_02393#TEXT_HEAVNY816_02393_DUELOFFICER_000_011", "hash": "1CF575812E837C48", "target": "Prima di correre a farvi pestare, però, dovete imparare le regole. Non preoccupatevi, <if(gnum4,ragazza,ragazzo)>. Vi insegnerò tutto ciò che dovete sapere." }
   ]
 }

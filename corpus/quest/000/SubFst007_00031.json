@@ -2,18 +2,18 @@
   "conversation": "quest/000/SubFst007_00031",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_SEQ_00", "hash": "94336516E86943F0", "target": "" },
-    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_SEQ_01", "hash": "C689D788643AF834", "target": "" },
-    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_SEQ_02", "hash": "14FA64A9BC382B08", "target": "" },
-    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_SEQ_03", "hash": "88B465D2E09F4790", "target": "" },
-    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_TODO_00", "hash": "32B15E4F470675F5", "target": "" },
-    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_TODO_01", "hash": "A9F3F1019C6963FD", "target": "" },
-    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_BRAYA_000_1", "hash": "A2F12909DE1CFE99", "target": "" },
-    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_BRAYA_000_2", "hash": "9EFB18A367AE9F80", "target": "" },
-    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_BRAYA_000_3", "hash": "E1C51819328828D3", "target": "" },
-    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_BRAYA_000_4", "hash": "0361396B0394B912", "target": "" },
-    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_BRAYA_000_10", "hash": "FBC68BF3295122DB", "target": "" },
-    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_BRAYA_000_11", "hash": "8BC8FF2C374EEFBD", "target": "" },
-    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_BRAYA_000_12", "hash": "61748647A5C1139E", "target": "" }
+    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_SEQ_00", "hash": "94336516E86943F0", "target": "Braya è impegnata nei preparativi della prossima cerimonia e ha bisogno di un avventuriero che le porti dell'olio scarlatto." },
+    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_SEQ_01", "hash": "C689D788643AF834", "target": "Braya, un'apprendista invocatrice un po' rigida ma benintenzionata, scopre con sgomento che le scorte di olio scarlatto della gilda non bastano per la prossima cerimonia. Uccidi sei ladybug vicino al Bannock e portale l'olio necessario." },
+    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_SEQ_02", "hash": "14FA64A9BC382B08", "target": "Uccidi eroicamente sei ladybug ed estrai l'olio scarlatto dai loro cadaveri ancora frementi. Torna a Stillglade Fane e consegna trionfalmente l'olio a Braya." },
+    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_SEQ_03", "hash": "88B465D2E09F4790", "target": "Braya accetta cortesemente l'olio scarlatto senza lasciar trasparire alcuna emozione. Con una preoccupazione in meno, forse riuscirà a rilassarsi un poco... un giorno." },
+    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_TODO_00", "hash": "32B15E4F470675F5", "target": "Ottenere olio scarlatto dai little ladybug" },
+    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_TODO_01", "hash": "A9F3F1019C6963FD", "target": "Consegnare l'olio scarlatto a Braya" },
+    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_BRAYA_000_1", "hash": "A2F12909DE1CFE99", "target": "Per caso ve la cavate con gli insetti? In tal caso, ho urgente bisogno del vostro aiuto." },
+    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_BRAYA_000_2", "hash": "9EFB18A367AE9F80", "target": "Stavo preparando i prossimi auspici quando, con mio grande imbarazzo, ho scoperto che non abbiamo abbastanza olio scarlatto." },
+    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_BRAYA_000_3", "hash": "E1C51819328828D3", "target": "Se non vi chiedo troppo, vi sarei molto grata se poteste rifornirci in tempo per la cerimonia." },
+    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_BRAYA_000_4", "hash": "0361396B0394B912", "target": "L'olio scarlatto si ricava dalle ladybug, come quelle che si trovano vicino al Bannock. Sei di quegli insetti dovrebbero fornire la quantità necessaria. Tornate da me non appena l'avrete ottenuto." },
+    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_BRAYA_000_10", "hash": "FBC68BF3295122DB", "target": "Ah, eccovi di nuovo. Avete procurato l'olio scarlatto che vi avevo chiesto?" },
+    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_BRAYA_000_11", "hash": "8BC8FF2C374EEFBD", "target": "Sì, sembra tutto in ordine. La cerimonia potrà svolgersi come previsto. Sono grata..." },
+    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_BRAYA_000_12", "hash": "61748647A5C1139E", "target": "...agli elementali per avervi condotto da noi. Vi prego di accettare questo piccolo segno del nostro apprezzamento." }
   ]
 }

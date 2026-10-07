@@ -2,18 +2,18 @@
   "conversation": "quest/009/GaiUsb708_00903",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb708_00903#TEXT_GAIUSB708_00903_SEQ_00", "hash": "378A0C1D5C582E25", "target": "" },
-    { "gameKey": "quest/009/GaiUsb708_00903#TEXT_GAIUSB708_00903_SEQ_01", "hash": "D6E2BC73CB382068", "target": "" },
-    { "gameKey": "quest/009/GaiUsb708_00903#TEXT_GAIUSB708_00903_SEQ_02", "hash": "6F13A94BB3D20B6F", "target": "" },
-    { "gameKey": "quest/009/GaiUsb708_00903#TEXT_GAIUSB708_00903_SEQ_03", "hash": "D05047F744EA1017", "target": "" },
-    { "gameKey": "quest/009/GaiUsb708_00903#TEXT_GAIUSB708_00903_TODO_00", "hash": "F85C8E3EA6B5DEED", "target": "" },
-    { "gameKey": "quest/009/GaiUsb708_00903#TEXT_GAIUSB708_00903_TODO_01", "hash": "DD2F182DA0A94C1A", "target": "" },
-    { "gameKey": "quest/009/GaiUsb708_00903#TEXT_GAIUSB708_00903_BELMONT_000_000", "hash": "364EE7B2EA339B69", "target": "" },
-    { "gameKey": "quest/009/GaiUsb708_00903#TEXT_GAIUSB708_00903_BELMONT_000_001", "hash": "CF9E0C368193D1AA", "target": "" },
-    { "gameKey": "quest/009/GaiUsb708_00903#TEXT_GAIUSB708_00903_BELMONT_000_002", "hash": "483139DCDE504A4F", "target": "" },
-    { "gameKey": "quest/009/GaiUsb708_00903#TEXT_GAIUSB708_00903_BELMONT_000_020", "hash": "FE3FB24452181526", "target": "" },
-    { "gameKey": "quest/009/GaiUsb708_00903#TEXT_GAIUSB708_00903_BELMONT_000_021", "hash": "3C8D2AD7394A3B58", "target": "" },
-    { "gameKey": "quest/009/GaiUsb708_00903#TEXT_GAIUSB708_00903_BELMONT_000_022", "hash": "EB54B2BADB89970B", "target": "" },
-    { "gameKey": "quest/009/GaiUsb708_00903#TEXT_GAIUSB708_00903_POP_MESSAGE_000", "hash": "EA67E8C3A08D233E", "target": "" }
+    { "gameKey": "quest/009/GaiUsb708_00903#TEXT_GAIUSB708_00903_SEQ_00", "hash": "378A0C1D5C582E25", "target": "Dallo sguardo acuto e dal sorriso ampio, Belmont è difficile da respingere quando chiede qualcosa e sembra avere una richiesta adesso." },
+    { "gameKey": "quest/009/GaiUsb708_00903#TEXT_GAIUSB708_00903_SEQ_01", "hash": "D6E2BC73CB382068", "target": "Un carro ingaggiato dalla casata Fortemps sembra bloccato sulla strada a est. Belmont e gli altri mercenari hanno varie faccende da sbrigare, quindi tocca a te trovarlo." },
+    { "gameKey": "quest/009/GaiUsb708_00903#TEXT_GAIUSB708_00903_SEQ_02", "hash": "6F13A94BB3D20B6F", "target": "Trovi il carro rovesciato e gli occupanti morti. Non avevano nemmeno iniziato a modellare il nuovo asse della ruota quando gli Ixal li hanno presi. Uccidi gli uomini-uccello, ma un nuovo verme d'inquietudine ti si avvolge nello stomaco. Parla con Belmont." },
+    { "gameKey": "quest/009/GaiUsb708_00903#TEXT_GAIUSB708_00903_SEQ_03", "hash": "D05047F744EA1017", "target": "Racconti a Belmont l'accaduto, riflettendo che troppi rapporti da Coerthas si concludono con vendette anziché salvataggi. Belmont esprime la tua stessa costernazione: i nemici di Ishgard sono tanti, ma l'ossessione per i draghi acceca i cavalieri e forse la Santa Sede..." },
+    { "gameKey": "quest/009/GaiUsb708_00903#TEXT_GAIUSB708_00903_TODO_00", "hash": "F85C8E3EA6B5DEED", "target": "Trovare il carro ed eliminare i nemici" },
+    { "gameKey": "quest/009/GaiUsb708_00903#TEXT_GAIUSB708_00903_TODO_01", "hash": "DD2F182DA0A94C1A", "target": "Fare rapporto a Belmont" },
+    { "gameKey": "quest/009/GaiUsb708_00903#TEXT_GAIUSB708_00903_BELMONT_000_000", "hash": "364EE7B2EA339B69", "target": "Salve, <if(gnum4,sorella,fratello)> di fatiche! Anch'io sono un mercenario, ma dubito che qui ci stimino più di chi vive d'avventure. Non posso lamentarmi: ho tre pasti al giorno e abbastanza paglia pulita per dormire, anche se devo sgobbare tutto il giorno." },
+    { "gameKey": "quest/009/GaiUsb708_00903#TEXT_GAIUSB708_00903_BELMONT_000_001", "hash": "CF9E0C368193D1AA", "target": "Comunque oggi pensavo di condividere un po' di lavoro con te. Un carro diretto alla casata Fortemps ha rotto l'asse di una ruota e ha mandato a dire che avrebbe tardato mezza giornata. Non è ancora arrivato." },
+    { "gameKey": "quest/009/GaiUsb708_00903#TEXT_GAIUSB708_00903_BELMONT_000_002", "hash": "483139DCDE504A4F", "target": "Sono sulla strada a est: per quelle tue gambe non è troppo lontano. Ho le mie fatiche da sbrigare, ma berremo qualcosa al tuo ritorno." },
+    { "gameKey": "quest/009/GaiUsb708_00903#TEXT_GAIUSB708_00903_BELMONT_000_020", "hash": "FE3FB24452181526", "target": "Hai fatto presto. Che notizie? Ixal? Li hanno presi tutti, eh? Poveracci." },
+    { "gameKey": "quest/009/GaiUsb708_00903#TEXT_GAIUSB708_00903_BELMONT_000_021", "hash": "3C8D2AD7394A3B58", "target": "Ti dico, i potenti da queste parti non vedono nemmeno in bianco e nero. Vedono «drago» e «non drago», sai cosa intendo. Ogni genere di schifezza che non sputa fuoco uccide altrettanti uomini, ma a loro non importa." },
+    { "gameKey": "quest/009/GaiUsb708_00903#TEXT_GAIUSB708_00903_BELMONT_000_022", "hash": "EB54B2BADB89970B", "target": "Non importa neppure a me, immagino. Questo posto... pochi uomini, poche armi e un freddo da far pisciare ghiaccio. Venire a ovest a offrire i miei servizi forse è stato meno saggio di quanto pensassi. È un gelo che nemmeno una ciotola di zuppa di Mun<-->Tuy può curare. Ah, essere di nuovo a Gridania..." },
+    { "gameKey": "quest/009/GaiUsb708_00903#TEXT_GAIUSB708_00903_POP_MESSAGE_000", "hash": "EA67E8C3A08D233E", "target": "Un grido di guerra degli Ixal squarcia l'aria!" }
   ]
 }

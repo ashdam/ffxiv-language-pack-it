@@ -2,16 +2,16 @@
   "conversation": "quest/006/SubWil117_00626",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_SEQ_00", "hash": "5B5DED95C241B4D3", "target": "" },
-    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_SEQ_01", "hash": "5C9008EB5E995621", "target": "" },
-    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_SEQ_02", "hash": "F35DA2C548A16E82", "target": "" },
-    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_SEQ_03", "hash": "A4DD0E2820E4EF6F", "target": "" },
-    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_TODO_00", "hash": "58C5BE9AFEDB562A", "target": "" },
-    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_TODO_01", "hash": "ED752CA413CFC33C", "target": "" },
-    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_ESMOUR_000_1", "hash": "9FE5E0B165B16D7D", "target": "" },
-    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_ESMOUR_000_2", "hash": "F49B6461C01B503E", "target": "" },
-    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_ESMOUR_000_3", "hash": "92F8313523952FD9", "target": "" },
-    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_ESMOUR_000_10", "hash": "4C74243E385ADE56", "target": "" },
-    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_ESMOUR_000_11", "hash": "95DA51CBBDA8AB40", "target": "" }
+    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_SEQ_00", "hash": "5B5DED95C241B4D3", "target": "Esmour cerca qualcuno che elimini dei parassiti alla Chiesa di Sant'Adama Landama." },
+    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_SEQ_01", "hash": "5C9008EB5E995621", "target": "I cadaveri hanno attirato dei blowfly swarm nei pressi della chiesa. Uccidi cinque sciami per tenerli sotto controllo." },
+    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_SEQ_02", "hash": "F35DA2C548A16E82", "target": "Hai ucciso cinque blowfly swarm. Fai rapporto a Esmour alla chiesa." },
+    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_SEQ_03", "hash": "A4DD0E2820E4EF6F", "target": "Esmour ti ringrazia per aver garantito sicurezza e benessere a chi visita la chiesa per piangere i defunti." },
+    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_TODO_00", "hash": "58C5BE9AFEDB562A", "target": "Uccidere i blowfly swarm" },
+    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_TODO_01", "hash": "ED752CA413CFC33C", "target": "Fare rapporto a Esmour" },
+    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_ESMOUR_000_1", "hash": "9FE5E0B165B16D7D", "target": "Hai fatto tanta strada per venire fin qui. Chissà se posso disturbarti ancora un po'." },
+    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_ESMOUR_000_2", "hash": "F49B6461C01B503E", "target": "Come sai, qui custodiamo un cimitero. L'odore della decomposizione attira i blowfly swarm, tanto sudici quanto indesiderati." },
+    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_ESMOUR_000_3", "hash": "92F8313523952FD9", "target": "Uccidi cinque di questi sciami pestilenziali e la chiesa ti sarà debitrice." },
+    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_ESMOUR_000_10", "hash": "4C74243E385ADE56", "target": "Ti ringrazio. Se gli sciami diffondessero la loro pestilenza nella chiesa senza controllo, presto dovremmo piangere chi piange i morti." },
+    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_ESMOUR_000_11", "hash": "95DA51CBBDA8AB40", "target": "Per ora, almeno, chi è in lutto può pregare in pace perché i defunti passino all'altro mondo senza rischi. Che Thal ti benedica." }
   ]
 }

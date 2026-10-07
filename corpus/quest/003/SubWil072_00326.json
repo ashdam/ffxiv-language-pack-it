@@ -2,19 +2,19 @@
   "conversation": "quest/003/SubWil072_00326",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_SEQ_00", "hash": "D2AA8C489380D7EB", "target": "" },
-    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_SEQ_01", "hash": "F4BED1DA0944D6CD", "target": "" },
-    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_SEQ_02", "hash": "852F8FD43818DC8C", "target": "" },
-    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_SEQ_03", "hash": "3DA92CC3AA473296", "target": "" },
-    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_TODO_00", "hash": "D59F8BCE1ACD45F6", "target": "" },
-    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_TODO_01", "hash": "3852755BF5882459", "target": "" },
-    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_ZEZEDA_000_1", "hash": "F9E7CE4BEFF821C1", "target": "" },
-    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_ZEZEDA_000_2", "hash": "101B1F71F0DF6202", "target": "" },
-    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_ZEZEDA_000_3", "hash": "3F767BBEF067C9DE", "target": "" },
-    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_ZEZEDA_000_4", "hash": "A5F3B07C283D523E", "target": "" },
-    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_BERINGAER_000_10", "hash": "337CF020F9B0C98B", "target": "" },
-    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_BERINGAER_000_11", "hash": "FC0EFCF8FB1C00CA", "target": "" },
-    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_BERINGAER_000_12", "hash": "1CEC69DB68F94EB1", "target": "" },
-    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_BERINGAER_000_13", "hash": "E56337C4C97F3DE4", "target": "" }
+    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_SEQ_00", "hash": "D2AA8C489380D7EB", "target": "Zezeda cerca qualcuno che procuri costole di hammer beak." },
+    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_SEQ_01", "hash": "F4BED1DA0944D6CD", "target": "I Lapidari di Eshtaime hanno ordinato dei silver ingot per produrre argenteria cerimoniale. Zezeda, però, ha da tempo trascurato di rifornire le scorte di costole di hammer beak necessarie per raffinare il minerale d'argento. Aiutala uccidendo degli hammer beak e raccogliendone le costole." },
+    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_SEQ_02", "hash": "852F8FD43818DC8C", "target": "Hai ottenuto il numero richiesto di costole. Consegnale a Beringaer alla Black Brush Station." },
+    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_SEQ_03", "hash": "3DA92CC3AA473296", "target": "Secondo Beringaer, usare le costole per raffinare l'argento richiede tempo e spese inutili. I riti funebri devono essere molto redditizi se l'Ossario di Arrzaneth è disposto a pagare per questo metodo." },
+    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_TODO_00", "hash": "D59F8BCE1ACD45F6", "target": "Uccidere gli hammer beak e ottenere le loro costole" },
+    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_TODO_01", "hash": "3852755BF5882459", "target": "Consegnare le costole di hammer beak a Beringaer" },
+    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_ZEZEDA_000_1", "hash": "F9E7CE4BEFF821C1", "target": "Volete dare una mano alla stazione? Bene, allora che ne dite di cacciare degli hammer beak?" },
+    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_ZEZEDA_000_2", "hash": "101B1F71F0DF6202", "target": "Abbiamo appena ricevuto un ordine di silver ingot dai Lapidari di Eshtaime. Servono per realizzare argenteria cerimoniale, o così mi hanno detto." },
+    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_ZEZEDA_000_3", "hash": "3F767BBEF067C9DE", "target": "Tuttavia, ci hanno ordinato di raffinare il minerale fondendolo in una fornace rivestita di uno strato di cenere d'ossa. Siccome di solito non fondiamo l'argento in questo modo, ho trascurato a lungo di rifornire le scorte di costole di hammer beak." },
+    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_ZEZEDA_000_4", "hash": "A5F3B07C283D523E", "target": "Ahimè, non c'è tempo per ordinarne altre. Se uccideste alcune di quelle bestie e portaste le ossa a Beringaer al posto mio, ve ne sarei eternamente grata." },
+    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_BERINGAER_000_10", "hash": "337CF020F9B0C98B", "target": "Gliel'avevo detto, gliel'avevo detto! Che diavolo fa quella piccola incompetente!? Per quanto rari siano ordini del genere, dovremmo sempre avere costole di hammer beak a disposizione!" },
+    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_BERINGAER_000_11", "hash": "FC0EFCF8FB1C00CA", "target": "Che mi venga un colpo─pare che la ragazza abbia trovato un modo, alla fine. Grazie dell'aiuto." },
+    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_BERINGAER_000_12", "hash": "1CEC69DB68F94EB1", "target": "Non lo capisco bene nemmeno io, ma quelli hanno detto chiaro e tondo di fare alla vecchia maniera─anche se potremmo usare frammenti di cristallo per raffinare l'argento più in fretta e con meno spese." },
+    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_BERINGAER_000_13", "hash": "E56337C4C97F3DE4", "target": "Beh, non sono Gil miei, quindi se vogliono così... Dimostra solo che la Gilda dei Taumaturghi ha più soldi di quanti sappia spenderne. Dei, cosa non darei per avere un problema simile!" }
   ]
 }

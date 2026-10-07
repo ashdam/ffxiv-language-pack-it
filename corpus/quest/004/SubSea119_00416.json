@@ -2,18 +2,18 @@
   "conversation": "quest/004/SubSea119_00416",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_SEQ_00", "hash": "AD37E147071DB8EE", "target": "" },
-    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_SEQ_01", "hash": "77999813E0ED59A2", "target": "" },
-    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_SEQ_02", "hash": "A1D020E7ADB249E5", "target": "" },
-    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_SEQ_03", "hash": "56DEDCD4E7E79B86", "target": "" },
-    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_TODO_00", "hash": "89E46A10C73402F4", "target": "" },
-    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_TODO_01", "hash": "D0F646B22AE394E4", "target": "" },
-    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_AZUMYN_000_1", "hash": "1949C43B4EA675DF", "target": "" },
-    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_AZUMYN_000_2", "hash": "1CD8DDE6EBE11099", "target": "" },
-    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_AZUMYN_000_3", "hash": "9AB02776CF0BD478", "target": "" },
-    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_AZUMYN_000_10", "hash": "88C9ADD9E44F4A13", "target": "" },
-    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_AZUMYN_000_11", "hash": "B80E0AA293F717A2", "target": "" },
-    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_AZUMYN_000_12", "hash": "5CB26C087611E1AF", "target": "" },
-    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_SYSTEM_000_23", "hash": "C79E76483AFE8B41", "target": "" }
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_SEQ_00", "hash": "AD37E147071DB8EE", "target": "A'zumyn, ispettrice sul campo della Dogana di Mealvaan, cerca aiuto per sterminare un parassita sconosciuto." },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_SEQ_01", "hash": "77999813E0ED59A2", "target": "Raggiungi la zona a nord-est del Molo di Candlekeep e cerca cumuli di terra sospetti. Su uno di essi posa un pezzo di carne di dodo fetida e uccidi qualsiasi cosa emerga dal terreno." },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_SEQ_02", "hash": "A1D020E7ADB249E5", "target": "Hai sconfitto una famiglia di Thavnairian mite. Torna al Molo di Candlekeep e riferisci ad A'zumyn ciò che hai scoperto." },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_SEQ_03", "hash": "56DEDCD4E7E79B86", "target": "Pur senza prove concrete, A'zumyn crede che i Thavnairian mite possano essere stati introdotti nella zona da pirati che contrabbandano merci soggette a restrizioni da Radz<-->at<-->Han a Vylbrand." },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_TODO_00", "hash": "89E46A10C73402F4", "target": "Posare carne di dodo fetida su un cumulo sospetto e uccidere le creature che emergono" },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_TODO_01", "hash": "D0F646B22AE394E4", "target": "Fare rapporto ad A'zumyn al Molo di Candlekeep" },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_AZUMYN_000_1", "hash": "1949C43B4EA675DF", "target": "Scusate, posso avere un momento del vostro tempo? Permettetemi di presentarmi. Sono A'zumyn, ispettrice sul campo della Dogana di Mealvaan. Il mio lavoro alla dogana consiste nell'indagare sulle segnalazioni di importazioni illegali di merci soggette a restrizioni da terre straniere." },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_AZUMYN_000_2", "hash": "1CD8DDE6EBE11099", "target": "Di recente gli abitanti del Molo di Candlekeep hanno presentato varie denunce riguardo a una specie non originaria di Vylbrand. Se è davvero estranea all'isola, occorre trovarla e distruggerla subito, prima che si riproduca e magari turbi l'equilibrio naturale della fauna locale." },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_AZUMYN_000_3", "hash": "9AB02776CF0BD478", "target": "Vi chiederei di prendere questo pezzo di carne di dodo fetida e posarlo su uno dei cumuli di terra che si ritiene siano i nidi della specie invasiva. L'odore dovrebbe attirare qualsiasi creatura si nasconda sotto, rendendola un facile bersaglio." },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_AZUMYN_000_10", "hash": "88C9ADD9E44F4A13", "target": "Thavnairian mite!? Abbiamo già raccolto uova dai carichi delle navi provenienti da Radz<-->at<-->Han... ma sempre a Limsa Lominsa." },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_AZUMYN_000_11", "hash": "B80E0AA293F717A2", "target": "Non risultano navi dirette da o verso quella piccola nazione insulare che facciano scalo qui al Molo di Candlekeep... né avrebbero mai motivo di farlo." },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_AZUMYN_000_12", "hash": "5CB26C087611E1AF", "target": "A meno che... gli acari non venissero da una nave ancorata qui, ma da un'altra imbarcazione... con motivi più sinistri. Credo che serviranno ulteriori indagini. Vi ringrazio ancora dell'aiuto. Forse avrò di nuovo bisogno dei vostri servizi nel prossimo futuro." },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_SYSTEM_000_23", "hash": "C79E76483AFE8B41", "target": "Una creatura affamata emerge dal nido!" }
   ]
 }

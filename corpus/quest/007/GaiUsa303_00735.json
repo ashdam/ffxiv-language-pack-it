@@ -2,14 +2,14 @@
   "conversation": "quest/007/GaiUsa303_00735",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_SEQ_00", "hash": "2C1E51B8B9874EBA", "target": "" },
-    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_SEQ_01", "hash": "0B3F1C4BD9506455", "target": "" },
-    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_SEQ_02", "hash": "B008DF09F90AA434", "target": "" },
-    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_TODO_00", "hash": "C9FCC4DA1E6D83FF", "target": "" },
-    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_GEGEROON_000_000", "hash": "C5142ECC7E1F5346", "target": "" },
-    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_GEGEROON_000_001", "hash": "731FCBBC9A7DA17A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_TANGATOTUNGA_000_010", "hash": "3CA53EDE5855C5EE", "target": "" },
-    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_TANGATOTUNGA_000_011", "hash": "BFAA20AFE307E426", "target": "" },
-    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_TANGATOTUNGA_000_012", "hash": "76FCD076016CED70", "target": "" }
+    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_SEQ_00", "hash": "2C1E51B8B9874EBA", "target": "Gegeroon dell'Emporio di Memeroon ha delle consegne da fare." },
+    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_SEQ_01", "hash": "0B3F1C4BD9506455", "target": "Gegeroon dell'Emporio di Memeroon deve fare una consegna, ma non ha tempo. Aiutalo portando un pranzo caldo al sacco a Tanga Tonga nella sua capanna a Thalaos." },
+    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_SEQ_02", "hash": "B008DF09F90AA434", "target": "Tanga Tonga è felicissimo di ricevere il sacchetto pieno di pane tostato e preparazioni a base d'uova. Sazio, può finalmente concentrarsi sulla ricerca." },
+    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_TODO_00", "hash": "C9FCC4DA1E6D83FF", "target": "Consegnare il pranzo caldo al sacco a Tanga Tonga" },
+    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_GEGEROON_000_000", "hash": "C5142ECC7E1F5346", "target": "Gegeroon ha merce buona. Merce buona vuole consegna. Ma Gegeroon occupato. Troppo, troppo occupato." },
+    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_GEGEROON_000_001", "hash": "731FCBBC9A7DA17A", "target": "Ha pranzo caldo al sacco. Pranzo caldo Qiqirn. Pranzo per Tanga Tonga. Tanga Tonga a Thalaos. Tu porta per Gegeroon!" },
+    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_TANGATOTUNGA_000_010", "hash": "3CA53EDE5855C5EE", "target": "Lasciatemi in pace. Ho troppa fame per continuare la ricerca, figuriamoci per ricevere visite." },
+    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_TANGATOTUNGA_000_011", "hash": "BFAA20AFE307E426", "target": "Questo... Questo è un pranzo caldo Qiqirn dell'Emporio di Memeroon! C-Come avete...? Grazie! Finalmente sentirò i miei pensieri sopra i brontolii dello stomaco." },
+    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_TANGATOTUNGA_000_012", "hash": "76FCD076016CED70", "target": "Ero così ansioso di venire a studiare i fossili che non ho pensato ai pasti. Non ho tempo né ingredienti per cucinare, quindi l'emporio è stato una benedizione. Sono sempre felice di ricevere un bel pranzo caldo al sacco!" }
   ]
 }

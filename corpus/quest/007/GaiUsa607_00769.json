@@ -2,16 +2,16 @@
   "conversation": "quest/007/GaiUsa607_00769",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa607_00769#TEXT_GAIUSA607_00769_SEQ_00", "hash": "23ED690CB1FAD64E", "target": "" },
-    { "gameKey": "quest/007/GaiUsa607_00769#TEXT_GAIUSA607_00769_SEQ_01", "hash": "C55DB13158ED6AE6", "target": "" },
-    { "gameKey": "quest/007/GaiUsa607_00769#TEXT_GAIUSA607_00769_SEQ_02", "hash": "7A6FB046CA652615", "target": "" },
-    { "gameKey": "quest/007/GaiUsa607_00769#TEXT_GAIUSA607_00769_SEQ_03", "hash": "DA0174731B5C749D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa607_00769#TEXT_GAIUSA607_00769_TODO_00", "hash": "A30E14E3CA2196AA", "target": "" },
-    { "gameKey": "quest/007/GaiUsa607_00769#TEXT_GAIUSA607_00769_TODO_01", "hash": "B822BEB6135780DA", "target": "" },
-    { "gameKey": "quest/007/GaiUsa607_00769#TEXT_GAIUSA607_00769_FAWKES_000_000", "hash": "698D362CECA56630", "target": "" },
-    { "gameKey": "quest/007/GaiUsa607_00769#TEXT_GAIUSA607_00769_FAWKES_000_001", "hash": "8D14B646FF110462", "target": "" },
-    { "gameKey": "quest/007/GaiUsa607_00769#TEXT_GAIUSA607_00769_FAWKES_000_002", "hash": "5BE9DFB071F78F3A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa607_00769#TEXT_GAIUSA607_00769_CASTELLAINT_000_020", "hash": "A1BFBB9C2AE659AA", "target": "" },
-    { "gameKey": "quest/007/GaiUsa607_00769#TEXT_GAIUSA607_00769_CASTELLAINT_000_021", "hash": "58DBFF5A0A2BFADB", "target": "" }
+    { "gameKey": "quest/007/GaiUsa607_00769#TEXT_GAIUSA607_00769_SEQ_00", "hash": "23ED690CB1FAD64E", "target": "Il custode del frutteto Fawkes cerca il tuo aiuto per ringraziare del raccolto." },
+    { "gameKey": "quest/007/GaiUsa607_00769#TEXT_GAIUSA607_00769_SEQ_01", "hash": "C55DB13158ED6AE6", "target": "Fawkes ha ricevuto il raccolto più abbondante degli ultimi anni e vorrebbe ringraziare come si deve il guardiano della foresta. Cerca il guardiano a sud-ovest di Quarrymill e deponi una mela del Sudario in offerta." },
+    { "gameKey": "quest/007/GaiUsa607_00769#TEXT_GAIUSA607_00769_SEQ_02", "hash": "7A6FB046CA652615", "target": "Deposta l'offerta al guardiano della foresta, consegna la mela rimasta a Castellaint di Quarrymill." },
+    { "gameKey": "quest/007/GaiUsa607_00769#TEXT_GAIUSA607_00769_SEQ_03", "hash": "DA0174731B5C749D", "target": "Castellaint dichiara che la mela è la migliore che abbia assaggiato da anni. La generosità della foresta ha riportato gioia a Quarrymill." },
+    { "gameKey": "quest/007/GaiUsa607_00769#TEXT_GAIUSA607_00769_TODO_00", "hash": "A30E14E3CA2196AA", "target": "Deporre una mela del Sudario in offerta davanti al withered treant" },
+    { "gameKey": "quest/007/GaiUsa607_00769#TEXT_GAIUSA607_00769_TODO_01", "hash": "B822BEB6135780DA", "target": "Consegnare una mela del Sudario a Castellaint" },
+    { "gameKey": "quest/007/GaiUsa607_00769#TEXT_GAIUSA607_00769_FAWKES_000_000", "hash": "698D362CECA56630", "target": "Guardate che meraviglia! Non ricevevo un raccolto simile da... beh, da che ricordi." },
+    { "gameKey": "quest/007/GaiUsa607_00769#TEXT_GAIUSA607_00769_FAWKES_000_001", "hash": "8D14B646FF110462", "target": "Io ho solo raccolto─sono i guardiani della foresta ad avermi dato questa abbondanza. Ringrazierei di persona, ma con quei bracconieri in giro rischio di ritrovarmi una freccia in testa." },
+    { "gameKey": "quest/007/GaiUsa607_00769#TEXT_GAIUSA607_00769_FAWKES_000_002", "hash": "5BE9DFB071F78F3A", "target": "Avreste la gentilezza di andare a fare l'offerta al posto mio? E al ritorno portate una mela a Castellaint. Ultimamente ha un'aria emaciata." },
+    { "gameKey": "quest/007/GaiUsa607_00769#TEXT_GAIUSA607_00769_CASTELLAINT_000_020", "hash": "A1BFBB9C2AE659AA", "target": "Una mela del Sudario! La mia preferita! Come facevate a saperlo?<br>...Da Fawkes, dite? È troppo gentile. Ogni squisito morso mi riporta ai giorni di... Ah, perdonatemi." },
+    { "gameKey": "quest/007/GaiUsa607_00769#TEXT_GAIUSA607_00769_CASTELLAINT_000_021", "hash": "58DBFF5A0A2BFADB", "target": "Cosa vi porta a Quarrymill? Forse avete sentito che il nostro patto con gli elementali permette di cacciare in questa zona? Non pensate che questo vi autorizzi a spogliare la foresta." }
   ]
 }

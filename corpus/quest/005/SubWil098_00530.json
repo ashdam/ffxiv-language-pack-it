@@ -2,18 +2,18 @@
   "conversation": "quest/005/SubWil098_00530",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_SEQ_00", "hash": "5DA4FC1246E89F50", "target": "" },
-    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_SEQ_01", "hash": "1D0C37841EE54229", "target": "" },
-    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_SEQ_02", "hash": "4F54D2A488037124", "target": "" },
-    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_SEQ_03", "hash": "33A259C5F161933D", "target": "" },
-    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_TODO_00", "hash": "12F8B9D440B54597", "target": "" },
-    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_TODO_01", "hash": "CB141600B194A53C", "target": "" },
-    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_BLAYVES_000", "hash": "43012252E2CF03A8", "target": "" },
-    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_BLAYVES_001", "hash": "58E646828E09F540", "target": "" },
-    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_BLAYVES_002", "hash": "C8475357EF83474C", "target": "" },
-    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_BLAYVES_010", "hash": "AB69D82C6ECB266A", "target": "" },
-    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_BLAYVES_011", "hash": "F64BACAA8F674BE0", "target": "" },
-    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_BLAYVES_012", "hash": "14723CD8B89E4671", "target": "" },
-    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_BLAYVES_013", "hash": "3E8F5B0DB870194D", "target": "" }
+    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_SEQ_00", "hash": "5DA4FC1246E89F50", "target": "Blayves di Lost Hope è preoccupato per un amico malato." },
+    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_SEQ_01", "hash": "1D0C37841EE54229", "target": "Blayves ha bisogno di secrezioni di rospo gigante per curare un amico malato. Vai all'Erede Empio e ottieni due fiale di quella sostanza disgustosa dai toxic toad che si nascondono lì." },
+    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_SEQ_02", "hash": "4F54D2A488037124", "target": "Hai ottenuto le due fiale di secrezioni di rospo gigante. Consegnale a Blayves a Lost Hope." },
+    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_SEQ_03", "hash": "33A259C5F161933D", "target": "Blayves è certo che le secrezioni di rospo gigante che gli hai portato aiuteranno a frenare la malattia dell'amico. Lost Hope versa davvero in pessime condizioni, ma Blayves sembra rassegnato alla sua sorte." },
+    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_TODO_00", "hash": "12F8B9D440B54597", "target": "Ottenere le secrezioni di rospo gigante dai toxic toad" },
+    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_TODO_01", "hash": "CB141600B194A53C", "target": "Consegnare le secrezioni di rospo gigante a Blayves a Lost Hope" },
+    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_BLAYVES_000", "hash": "43012252E2CF03A8", "target": "Sembra che tu abbia abbattuto qualche bestia in vita tua. Ti dispiacerebbe abbatterne qualcun'altra?" },
+    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_BLAYVES_001", "hash": "58E646828E09F540", "target": "Un mio amico si è ammalato e per curarlo mi servono assolutamente delle secrezioni di rospo gigante dal fegato di un toxic toad. Due fiale basteranno. Troverai quelle bestiacce nell'Erede Empio." },
+    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_BLAYVES_002", "hash": "C8475357EF83474C", "target": "Fammi questo favore, ti supplico. Il mio amico morirà senza cure. Ti prego!" },
+    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_BLAYVES_010", "hash": "AB69D82C6ECB266A", "target": "Mi servono due fiale di secrezioni di rospo gigante dal fegato di un toxic toad. Ti prego, al mio amico resta poco tempo!" },
+    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_BLAYVES_011", "hash": "F64BACAA8F674BE0", "target": "Oh, che gli dèi ti benedicano! Sei appena in tempo. Con qualche preparazione potrò dare questo al mio amico." },
+    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_BLAYVES_012", "hash": "14723CD8B89E4671", "target": "Ha sempre avuto un cuore debole. Se fosse ricco, potrebbe avere il cibo e i reagenti necessari e non avremmo bisogno di una schifezza come la bile dei rospi." },
+    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_BLAYVES_013", "hash": "3E8F5B0DB870194D", "target": "\\<sospiro> Qui non abbiamo perso solo la speranza: anche Gil e salute scarseggiano. Un male necessario in una nazione come Ul'dah, suppongo. I pochi in cima banchettano e prosperano, mentre i tanti in fondo patiscono la fame e soffrono." }
   ]
 }

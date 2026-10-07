@@ -2,17 +2,17 @@
   "conversation": "quest/008/GaiUsb612_00894",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_SEQ_00", "hash": "B9C09920371C3689", "target": "" },
-    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_SEQ_01", "hash": "3C968CBC8F9A204E", "target": "" },
-    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_SEQ_02", "hash": "0572E0CC993C52C3", "target": "" },
-    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_SEQ_03", "hash": "FBFC2EB1EDBEE3FC", "target": "" },
-    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_TODO_00", "hash": "9637CA16A844B48D", "target": "" },
-    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_TODO_01", "hash": "016A3E76C34EC073", "target": "" },
-    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_STEPHANNOT_000_000", "hash": "8CEB95B1C297DDC6", "target": "" },
-    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_STEPHANNOT_000_001", "hash": "CE54285683194993", "target": "" },
-    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_STEPHANNOT_000_020", "hash": "60763145ADA3B10C", "target": "" },
-    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_STEPHANNOT_000_030", "hash": "47DADFDFEDE6C099", "target": "" },
-    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_STEPHANNOT_000_031", "hash": "402D09C5337BA9EF", "target": "" },
-    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_POP_MESSAGE_000", "hash": "C21AA3F5837CC4E8", "target": "" }
+    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_SEQ_00", "hash": "B9C09920371C3689", "target": "Stephannot non ama chi vive d'avventure, ma chi mendica non può scegliere e il tuo aiuto serve urgentemente." },
+    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_SEQ_01", "hash": "3C968CBC8F9A204E", "target": "Una giovane recluta di Stephannot è scomparsa dopo essere partita per Campo Testa di Drago. Probabilmente si è persa sulla strada a nord, dove le creature selvatiche inseguono talvolta prede indifese. Segui le sue tracce finché sono fresche." },
+    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_SEQ_02", "hash": "0572E0CC993C52C3", "target": "Dopo una battaglia brutale in cui hai quasi perso <if(gnum4,la fonte del tuo fascino malizioso,la tua appendice più preziosa)>, il feral croc muore. Come ogni buon investigatore, ne esamini il corpo e trovi un anello d'argento segnato, il meno indicibile dei suoi contenuti viscerali. Portalo a Stephannot." },
+    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_SEQ_03", "hash": "FBFC2EB1EDBEE3FC", "target": "Stephannot conferma che l'anello apparteneva alla recluta. Ti sorprende che all'inizio resista tanto alla verità evidente, perché sembrava pragmatico. A quanto pare a Ishgard essere divorati da una bestia è motivo di vergogna per la vittima..." },
+    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_TODO_00", "hash": "9637CA16A844B48D", "target": "Seguire le tracce della recluta" },
+    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_TODO_01", "hash": "016A3E76C34EC073", "target": "Consegnare l'anello a Stephannot" },
+    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_STEPHANNOT_000_000", "hash": "8CEB95B1C297DDC6", "target": "Ormai dovrebbe essere tornato, anche se avesse dovuto aspettare che passasse il peggio della bufera. Sarà finito sulla strada a nord? Là vagano i feral croc..." },
+    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_STEPHANNOT_000_001", "hash": "CE54285683194993", "target": "Ehm... Ho mandato un messaggero a Campo Testa di Drago, ma tarda da molte ore. Temo che si sia perso, inesperto com'è. Vorrei chiedervi di riportarlo." },
+    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_STEPHANNOT_000_020", "hash": "60763145ADA3B10C", "target": "Ah, eccovi. Dov'è quello sciocco? Se ha perso qualcosa per il congelamento, può prendersela solo con se stesso." },
+    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_STEPHANNOT_000_030", "hash": "47DADFDFEDE6C099", "target": "Questo è l'anello del ragazzo. Che significa? Un feral croc... Ne siete <if(gnum4,certa,certo)>? Potrebbe semplicemente averlo perso! Non accetto supposizioni quando l'onore del ragazzo... cosa? Sì. Aveva i capelli rossi. Oh, per la misericordia di Halone..." },
+    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_STEPHANNOT_000_031", "hash": "402D09C5337BA9EF", "target": "Era un bravo ragazzo, ardente di prendere il proprio posto nella guerra contro i draghi. Morire invece con tanta infamia... Non posso dirlo a suo padre, ma mentire a un altro cavaliere sul figlio è più di quanto riesca a decidere adesso." },
+    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_POP_MESSAGE_000", "hash": "C21AA3F5837CC4E8", "target": "Avverti una creatura rapida e imponente!" }
   ]
 }

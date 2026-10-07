@@ -2,16 +2,16 @@
   "conversation": "quest/007/GaiUsa008_00714",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_SEQ_00", "hash": "459A8AD03AEA23EE", "target": "" },
-    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_SEQ_01", "hash": "64EFA4988A2388F2", "target": "" },
-    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_SEQ_02", "hash": "00C3D12AA5A161D7", "target": "" },
-    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_SEQ_03", "hash": "6B0F682543DA03AA", "target": "" },
-    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_TODO_00", "hash": "0E4C4F720CB91508", "target": "" },
-    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_TODO_01", "hash": "B47A3CC481CBC4A9", "target": "" },
-    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_PIRALNAUT_000_000", "hash": "C5441B1544DAD444", "target": "" },
-    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_PIRALNAUT_000_001", "hash": "E99212542CB28167", "target": "" },
-    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_PIRALNAUT_000_020", "hash": "BA6D21A95F14E121", "target": "" },
-    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_PIRALNAUT_000_021", "hash": "2ECFFE4338280D4E", "target": "" },
-    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_PIRALNAUT_000_022", "hash": "B62B9011CD421161", "target": "" }
+    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_SEQ_00", "hash": "459A8AD03AEA23EE", "target": "Piralnaut, una sentinella della Guglia di Josselin, vorrebbe affidare alcuni compiti a qualcuno che abbia voglia di avventure." },
+    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_SEQ_01", "hash": "64EFA4988A2388F2", "target": "La popolazione di wild boar della zona è cresciuta senza controllo e le bestie sono diventate ostili ai silfi e agli abitanti. Vai alla Macchia dei Rovi e abbatti cinque di quei suini selvatici." },
+    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_SEQ_02", "hash": "00C3D12AA5A161D7", "target": "Hai eliminato i suini selvatici. Riferisci il tuo successo a Piralnaut." },
+    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_SEQ_03", "hash": "6B0F682543DA03AA", "target": "Sede di un'eterite e affacciata su un importante nodo di trasporto del regno, la Guglia di Josselin richiede la massima vigilanza alle sue sentinelle. Il coraggio con cui hai abbattuto i cinghiali ha ispirato Piralnaut, che decide di essere ancora più vigile nel suo servizio." },
+    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_TODO_00", "hash": "0E4C4F720CB91508", "target": "Uccidere wild boar" },
+    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_TODO_01", "hash": "B47A3CC481CBC4A9", "target": "Fare rapporto a Piralnaut" },
+    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_PIRALNAUT_000_000", "hash": "C5441B1544DAD444", "target": "Q-Quei musi spaventosi... zanne come lance... e i grugniti! Quei grugniti terribili, un inno di morte che mi perseguita ogni notte nei sogni... Perché, perché mai ho lasciato casa per venire <italic(1)>qui<italic(0)>?" },
+    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_PIRALNAUT_000_001", "hash": "E99212542CB28167", "target": "...Ehm. Salve! Il tuo sguardo attento mi dice che vuoi metterti alla prova e, per tua fortuna, ho un... ehm, compito umile adatto alle tue capacità discrete. I wild boar infestano la Macchia dei Rovi ed è ora che qualcuno sfoltisca il branco. Allora? Muoviti." },
+    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_PIRALNAUT_000_020", "hash": "BA6D21A95F14E121", "target": "T-Ti prego, lo giuro! Non indosserò più armature di pelle di cinghiale! Morirò di fame prima di assaggiare anche il più piccolo boccone di maiale salato! Falli sparire!" },
+    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_PIRALNAUT_000_021", "hash": "2ECFFE4338280D4E", "target": "...C-Cosa? I suini non infestano più la Macchia dei Rovi? Oh, <italic(1)>grazie<italic(0)>. A dire il vero, nelle ultime settimane sono tormentato da una terribile fobia di quelle mostruosità zannute." },
+    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_PIRALNAUT_000_022", "hash": "B62B9011CD421161", "target": "Ma capisco che non posso continuare così. La Guglia di Josselin domina un centro di attività commerciali e militari e sottrarmi ai miei doveri disonorerebbe l'eroe di cui porta il nome. Oggi mi hai infuso molto coraggio e te ne sono grato." }
   ]
 }

@@ -2,19 +2,19 @@
   "conversation": "quest/002/SubWil033_00225",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_SEQ_00", "hash": "6732C626E83B29FE", "target": "" },
-    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_SEQ_01", "hash": "F9D138B9157F5037", "target": "" },
-    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_SEQ_02", "hash": "DD8A8D38EB94B796", "target": "" },
-    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_SEQ_03", "hash": "E6477BC32D1A1AA1", "target": "" },
-    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_TODO_00", "hash": "6FCB4E1A877B5EBC", "target": "" },
-    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_TODO_01", "hash": "7E4FE037F902B881", "target": "" },
-    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_001", "hash": "B790D076DA00BE06", "target": "" },
-    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_002", "hash": "5D643DAAF3875E9F", "target": "" },
-    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_003", "hash": "1C624ED6D944478D", "target": "" },
-    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_011", "hash": "2F463C50C47D650F", "target": "" },
-    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_012", "hash": "1F472D06CFBE5689", "target": "" },
-    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_013", "hash": "5A279A1D32426B14", "target": "" },
-    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_014", "hash": "C7D7A69A11900AB4", "target": "" },
-    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_015", "hash": "E722D5315C27B584", "target": "" }
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_SEQ_00", "hash": "6732C626E83B29FE", "target": "Qualcosa ha molto agitato Fafafono del Bazar d'Argento." },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_SEQ_01", "hash": "F9D138B9157F5037", "target": "Fafafono è la sfortunata vittima di alcuni facchini che hanno lasciato il lavoro a metà. Le sue merci giacciono oltre i cancelli, senza consegna né sorveglianza. Raccogli i tre colli e consegnali al loro preoccupato proprietario." },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_SEQ_02", "hash": "DD8A8D38EB94B796", "target": "Hai raccolto tutti i colli abbandonati. Riporta le borse al sicuro all'ansioso Fafafono." },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_SEQ_03", "hash": "E6477BC32D1A1AA1", "target": "I colli di Fafafono contengono capi difettosi delle Sunsilk Tapestries. Per gli isolati abitanti del Bazar d'Argento, però, conta soltanto che siano di una marca famosa." },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_TODO_00", "hash": "6FCB4E1A877B5EBC", "target": "Raccogliere i colli di Fafafono" },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_TODO_01", "hash": "7E4FE037F902B881", "target": "Consegnare i colli a Fafafono" },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_001", "hash": "B790D076DA00BE06", "target": "Quei dannati facchini! Ma chi si credono di essere!? Li ho pagati profumatamente per... Ah, tu! Sei <if(gnum4,una di quelle avventuriere,uno di quegli avventurieri)> in cerca di incarichi, vero?" },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_002", "hash": "5D643DAAF3875E9F", "target": "Sono arrivate delle merci che avevo ordinato a un mercante uldahno, ma quei maledetti facchini buoni a nulla le hanno scaricate fuori dal cancello e se ne sono andati." },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_003", "hash": "1C624ED6D944478D", "target": "“Non siamo obbligati a portarle più in là”, hanno detto quei bastardi pigri. “Il cancello del Bazar è sempre il Bazar. L'ordine non parlava di consegna a domicilio.” Che faccia tosta! \\<sospiro> Ci sono tre colli in tutto. Saresti così gentile da portarmeli?" },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_011", "hash": "2F463C50C47D650F", "target": "Dei, spero che quegli zoticoni non abbiano danneggiato le borse... Allora? Le hai trovate?" },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_012", "hash": "1F472D06CFBE5689", "target": "Vediamo... Sì, sì e sì. Eccellente! C'è tutto! Queste borse contengono abiti delle Sunsilk Tapestries, anche se ciascuno è... difettoso in qualche modo." },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_013", "hash": "5A279A1D32426B14", "target": "A Ul'dah basta persino un piccolo errore di tessitura per destinare alle fornaci l'abito più lussuoso. Qui no, però. Purché gli abiti portino un nome famoso, gli abitanti del Bazar d'Argento non si fanno scrupoli sulla qualità." },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_014", "hash": "C7D7A69A11900AB4", "target": "\\<sospiro> Un tempo si stava meglio. Non eravamo mai ridotti a livelli... tanto bassi. Ma ora i Gil sono più difficili da trovare, e ogni giorno è peggio. In questo Bazar restano solo anime troppo orgogliose dai gusti troppo poco raffinati." },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_015", "hash": "E722D5315C27B584", "target": "Tutti si aggrappano alle glorie di un passato dorato, ma nessuno si sforza di cambiare il triste presente. Prego che un giorno questo dannato Bazar sprofondi nelle sabbie che lo soffocano. Prima succede, meglio è." }
   ]
 }

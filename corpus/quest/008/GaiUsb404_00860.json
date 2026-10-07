@@ -2,15 +2,15 @@
   "conversation": "quest/008/GaiUsb404_00860",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb404_00860#TEXT_GAIUSB404_00860_SEQ_00", "hash": "1777AB759A8CBCFA", "target": "" },
-    { "gameKey": "quest/008/GaiUsb404_00860#TEXT_GAIUSB404_00860_SEQ_01", "hash": "D7D006AD0EBCEF16", "target": "" },
-    { "gameKey": "quest/008/GaiUsb404_00860#TEXT_GAIUSB404_00860_SEQ_02", "hash": "2E539404EB5756C6", "target": "" },
-    { "gameKey": "quest/008/GaiUsb404_00860#TEXT_GAIUSB404_00860_SEQ_03", "hash": "84D00EE583236C0C", "target": "" },
-    { "gameKey": "quest/008/GaiUsb404_00860#TEXT_GAIUSB404_00860_TODO_00", "hash": "D28B2212FB5E761A", "target": "" },
-    { "gameKey": "quest/008/GaiUsb404_00860#TEXT_GAIUSB404_00860_TODO_01", "hash": "27A6B71D80BBFA66", "target": "" },
-    { "gameKey": "quest/008/GaiUsb404_00860#TEXT_GAIUSB404_00860_AUGUSTINE_000_000", "hash": "8AD8666D25DD49E5", "target": "" },
-    { "gameKey": "quest/008/GaiUsb404_00860#TEXT_GAIUSB404_00860_AUGUSTINE_000_001", "hash": "8CC8C8CE0F0F431B", "target": "" },
-    { "gameKey": "quest/008/GaiUsb404_00860#TEXT_GAIUSB404_00860_AUGUSTINE_000_020", "hash": "57B5F5A6FBE950EE", "target": "" },
-    { "gameKey": "quest/008/GaiUsb404_00860#TEXT_GAIUSB404_00860_AUGUSTINE_000_021", "hash": "23A6986FD4D1EFE9", "target": "" }
+    { "gameKey": "quest/008/GaiUsb404_00860#TEXT_GAIUSB404_00860_SEQ_00", "hash": "1777AB759A8CBCFA", "target": "Il soldato del Maelstrom Augustine ti avvicina col collo dolorante e gli occhi arrossati, stanco di scrutare il cielo." },
+    { "gameKey": "quest/008/GaiUsb404_00860#TEXT_GAIUSB404_00860_SEQ_01", "hash": "D7D006AD0EBCEF16", "target": "Il poco eloquente soldato Augustine protesta contro gli uccelli che minacciano il pallone dei rifornimenti per l'assediato Campo Overlook. Vai a ovest e uccidi cinque highland condor molesti." },
+    { "gameKey": "quest/008/GaiUsb404_00860#TEXT_GAIUSB404_00860_SEQ_02", "hash": "2E539404EB5756C6", "target": "Hai ucciso cinque uccelli. Così impareranno a beccare le cose. Fai rapporto ad Augustine." },
+    { "gameKey": "quest/008/GaiUsb404_00860#TEXT_GAIUSB404_00860_SEQ_03", "hash": "84D00EE583236C0C", "target": "Il soldato è soddisfatto, anche se parla in modo impastato tanto nella gioia quanto nella preoccupazione. Il Maelstrom è davvero un gorgo d'umanità." },
+    { "gameKey": "quest/008/GaiUsb404_00860#TEXT_GAIUSB404_00860_TODO_00", "hash": "D28B2212FB5E761A", "target": "Uccidere gli highland condor" },
+    { "gameKey": "quest/008/GaiUsb404_00860#TEXT_GAIUSB404_00860_TODO_01", "hash": "27A6B71D80BBFA66", "target": "Fare rapporto ad Augustine" },
+    { "gameKey": "quest/008/GaiUsb404_00860#TEXT_GAIUSB404_00860_AUGUSTINE_000_000", "hash": "8AD8666D25DD49E5", "target": "Campo Overlook è come un'isola. Le strade non valgono un convoglio di rifornimenti, a meno che ti piaccia, che so, sfamare i Kobold o roba così. Quindi tutto quel che serve arriva in pallone." },
+    { "gameKey": "quest/008/GaiUsb404_00860#TEXT_GAIUSB404_00860_AUGUSTINE_000_001", "hash": "8CC8C8CE0F0F431B", "target": "Ma stare lassù non è tutto rose e fiori. Ci sono quei condor che cercano di guastare il pallone. Mi farebbe piacere che fossero, che so, morti o roba così." },
+    { "gameKey": "quest/008/GaiUsb404_00860#TEXT_GAIUSB404_00860_AUGUSTINE_000_020", "hash": "57B5F5A6FBE950EE", "target": "Hai sistemato i condor? Accidenti, questa sì che è una bella notizia! Il pallone si muove, sai, e in guerra è importante. Va da un posto all'altro, ecco." },
+    { "gameKey": "quest/008/GaiUsb404_00860#TEXT_GAIUSB404_00860_AUGUSTINE_000_021", "hash": "23A6986FD4D1EFE9", "target": "Vorrei essere un pallone. A dire il vero, certi miei compagni mi fanno una paura da farsela nei calzoni. Impazziscono per la carne fresca, ti ammazzerebbero per averla. Erano corsari, ho sentito." }
   ]
 }

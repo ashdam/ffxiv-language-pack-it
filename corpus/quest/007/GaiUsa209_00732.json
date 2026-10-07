@@ -2,15 +2,15 @@
   "conversation": "quest/007/GaiUsa209_00732",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_SEQ_00", "hash": "89796844EE534D01", "target": "" },
-    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_SEQ_01", "hash": "007012E873C5E328", "target": "" },
-    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_SEQ_02", "hash": "10469D78CD3DAFC8", "target": "" },
-    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_SEQ_03", "hash": "728CE399DF0FA659", "target": "" },
-    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_TODO_00", "hash": "CDDA5AA58C80699B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_TODO_01", "hash": "61FAADBC62231B9B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_AUPHILIOT_000_000", "hash": "65392A5F6B556DC0", "target": "" },
-    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_AUPHILIOT_000_001", "hash": "322C224A360B44A3", "target": "" },
-    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_AUPHILIOT_000_010", "hash": "019C3E32239BB451", "target": "" },
-    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_AUPHILIOT_000_011", "hash": "A2B7BD9CABB1CC29", "target": "" }
+    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_SEQ_00", "hash": "89796844EE534D01", "target": "Auphiliot della Locanda di Buscarron cerca aiuto per sventare un complotto dei Qiqirn." },
+    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_SEQ_01", "hash": "007012E873C5E328", "target": "Auphiliot ha saputo che i predoni Qiqirn accumulano grandi quantità di veleno per aggredire viaggiatori ignari. Usa i vasi incendiari che ti ha dato per distruggere le scorte prima che qualche cliente della locanda subisca danni." },
+    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_SEQ_02", "hash": "10469D78CD3DAFC8", "target": "Hai distrutto tutte le scorte di veleno dei Qiqirn, garantendo la sicurezza dei viaggiatori diretti alla locanda o in partenza. Riferisci le tue azioni ad Auphiliot." },
+    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_SEQ_03", "hash": "728CE399DF0FA659", "target": "Auphiliot è felice che tu abbia sventato in anticipo il piano velenoso dei Qiqirn, qualunque fosse. Spiega inoltre che l'idea era di Buscarron, che vuole evitare lo scontro diretto perché un giorno nel bosco torni la vera pace." },
+    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_TODO_00", "hash": "CDDA5AA58C80699B", "target": "Usare i vasi incendiari per distruggere le scorte dei Qiqirn" },
+    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_TODO_01", "hash": "61FAADBC62231B9B", "target": "Fare rapporto ad Auphiliot" },
+    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_AUPHILIOT_000_000", "hash": "65392A5F6B556DC0", "target": "Hai seguito il mio consiglio e usato le tue capacità per aiutare la locanda, eh? È proprio quello che mi piace vedere da <if(gnum4,una ragazza forte e giovane,un ragazzo forte e giovane)>. Be', stringi gli stivali: ho un altro lavoro per te." },
+    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_AUPHILIOT_000_001", "hash": "322C224A360B44A3", "target": "L'altro giorno mi scolavo una pinta della migliore birra di Buscarron quando ho sentito che i Qiqirn accumulano scorte di veleno nei dintorni. Non so cosa combinino, ma di sicuro niente di buono. Che ne dici di prendere questi vasi incendiari e far saltare in aria tutto quanto?" },
+    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_AUPHILIOT_000_010", "hash": "019C3E32239BB451", "target": "Dici che le scorte di veleno sono sparite? <if(gnum4,Brava ragazza,Bravo ragazzo)>! La prossima pinta te la offro io." },
+    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_AUPHILIOT_000_011", "hash": "A2B7BD9CABB1CC29", "target": "Se dipendesse da <italic(1)>me<italic(0)>, prenderei quei Qiqirn uno per uno e li appenderei per le orecchie da ratto, ma il vecchio Buscarron non ne vuole sapere. Dice che ogni battaglia evitata oggi ne risparmia una domani e, a dire il vero, comincio a dargli ragione." }
   ]
 }

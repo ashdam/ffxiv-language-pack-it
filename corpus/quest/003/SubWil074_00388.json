@@ -2,19 +2,19 @@
   "conversation": "quest/003/SubWil074_00388",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_SEQ_00", "hash": "64D440676A723DC1", "target": "" },
-    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_SEQ_01", "hash": "B3DE0A633E2FA32F", "target": "" },
-    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_SEQ_02", "hash": "9540144182A8E2F6", "target": "" },
-    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_TODO_00", "hash": "0AFD1D4EFAA55E63", "target": "" },
-    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_AETHELGYTH_000_01", "hash": "4F8A772E4F206E10", "target": "" },
-    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_AETHELGYTH_000_02", "hash": "AA30842D272F5FF4", "target": "" },
-    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_AETHELGYTH_000_03", "hash": "C21B789ABD902A3F", "target": "" },
-    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_AETHELGYTH_000_04", "hash": "50631AD6A2854509", "target": "" },
-    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_OSBERT_000_10", "hash": "F4F4BAD68B2B98F7", "target": "" },
-    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_OSBERT_000_11", "hash": "E5EE27120F8ABC21", "target": "" },
-    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_OSBERT_000_12", "hash": "1BB029539F822566", "target": "" },
-    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_OSBERT_000_13", "hash": "B3B7E67465F353AE", "target": "" },
-    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_OSBERT_000_14", "hash": "7C60DCF5B1215B18", "target": "" },
-    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_OSBERT_000_15", "hash": "F42347A7010131FD", "target": "" }
+    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_SEQ_00", "hash": "64D440676A723DC1", "target": "Aethelgyth è preoccupata per il benessere di un'altra sentinella." },
+    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_SEQ_01", "hash": "B3DE0A633E2FA32F", "target": "Benché Aethelgyth sappia che Osbert è ferito, quella sentinella testarda si rifiuta di ammettere qualunque cosa. Credendo che potrebbe accettare più facilmente aiuto da uno sconosciuto, ti chiede di offrirgli una hi-potion, acquistabile da un mercante nelle vicinanze." },
+    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_SEQ_02", "hash": "9540144182A8E2F6", "target": "Come sospettava Aethelgyth, Osbert ha accolto meglio la tua offerta d'aiuto, prendendo la hi-potion con solo una lieve resistenza. Forse la prossima volta farà più attenzione mentre si esercita nei suoi numeri da giocoliere." },
+    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_TODO_00", "hash": "0AFD1D4EFAA55E63", "target": "Offrire una hi-potion a Osbert" },
+    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_AETHELGYTH_000_01", "hash": "4F8A772E4F206E10", "target": "Vedi quel tizio laggiù? Si chiama Osbert ed è ferito gravemente." },
+    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_AETHELGYTH_000_02", "hash": "AA30842D272F5FF4", "target": "Non è proprio compito mio occuparmi dei suoi affari─io sono una Torcia, lui una Lama. Ma alla fine siamo entrambi persone, capisci cosa intendo?" },
+    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_AETHELGYTH_000_03", "hash": "C21B789ABD902A3F", "target": "Comunque, sono andata da lui poco fa e gli ho chiesto cosa avesse. Ma si rifiuta di dirmelo, quel testardo. Pare che il suo orgoglio conti più della sua vita. Perché gli uomini devono fare i duri?" },
+    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_AETHELGYTH_000_04", "hash": "50631AD6A2854509", "target": "Mi dico che ci ho provato, ma se quel tizio tira le cuoia... non voglio averlo sulla coscienza. So che è una richiesta improvvisa, ma potresti provare a convincerlo a bere una hi-potion? Dormirei molto meglio. Non ne ho una con me, ma uno di quei tizi laggiù le vende." },
+    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_OSBERT_000_10", "hash": "F4F4BAD68B2B98F7", "target": "Respira, vecchio Osbert, respira e basta. Il dolore è solo debolezza che abbandona il─<italic(1)>maledizione<italic(0)>, la testa! Se soltanto avessi tenuto una hi-potion. Credo che sia la fine..." },
+    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_OSBERT_000_11", "hash": "E5EE27120F8ABC21", "target": "Beh, io... non ne ho davvero <italic(1)>bisogno<italic(0)>, ma se insisti. Ti ringrazio." },
+    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_OSBERT_000_12", "hash": "1BB029539F822566", "target": "Mi ero rassegnato a soffrire in silenzio, perché io, Osbert l'Immortale, veterano di innumerevoli battaglie, non potevo permettermi di mostrare debolezza ai miei colleghi e ai nostri alleati. Cercano ispirazione in me, sai." },
+    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_OSBERT_000_13", "hash": "B3B7E67465F353AE", "target": "Pensare che un lieve colpo alla testa mi abbia quasi abbattuto! Ah ah ah! Sono rimasto fuori combattimento solo per qualche momento... credo." },
+    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_OSBERT_000_14", "hash": "7C60DCF5B1215B18", "target": "Per ripagarti della discrezione in questa delicata faccenda, condividerò con te la mia saggezza guerriera:" },
+    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_OSBERT_000_15", "hash": "F42347A7010131FD", "target": "Se devi esercitarti nella giocoleria, usa pietre pesanti a tuo rischio e pericolo." }
   ]
 }

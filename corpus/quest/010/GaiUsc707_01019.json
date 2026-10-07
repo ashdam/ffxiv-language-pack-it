@@ -2,16 +2,16 @@
   "conversation": "quest/010/GaiUsc707_01019",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_SEQ_00", "hash": "80A7693C1D40C9DD", "target": "" },
-    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_SEQ_01", "hash": "4961081FA3EB9B10", "target": "" },
-    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_SEQ_02", "hash": "F4A70D02CC7FB51D", "target": "" },
-    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_SEQ_03", "hash": "D13745A4D59B105D", "target": "" },
-    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_TODO_00", "hash": "49DF49D180EF506C", "target": "" },
-    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_TODO_01", "hash": "97F86205AC0BE89F", "target": "" },
-    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_BLOEIDIN_000_000", "hash": "BD3006AA639C2C15", "target": "" },
-    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_BLOEIDIN_000_001", "hash": "956AC4C34F296EFD", "target": "" },
-    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_BLOEIDIN_000_002", "hash": "E7572AF9B67F8E1C", "target": "" },
-    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_BLOEIDIN_000_010", "hash": "4445156778E92CEC", "target": "" },
-    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_BLOEIDIN_000_011", "hash": "BC0FDE894C5B46D2", "target": "" }
+    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_SEQ_00", "hash": "80A7693C1D40C9DD", "target": "Bloeidin potrebbe usare il tuo aiuto per creare un diversivo." },
+    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_SEQ_01", "hash": "4961081FA3EB9B10", "target": "Bloeidin vuole distruggere un nuovo crogiolo sviluppato dai Kobold dediti all'alchimia e ti ha incaricato di creare un diversivo. Vai al Lago di Ferro e usa le bombe improvvisate del comandante per far esplodere le scorte kobold e distoglierne l'attenzione dal bersaglio principale." },
+    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_SEQ_02", "hash": "F4A70D02CC7FB51D", "target": "Hai distrutto le scorte kobold come ordinato. Torna da Bloeidin e chiedi se la missione è riuscita." },
+    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_SEQ_03", "hash": "D13745A4D59B105D", "target": "Bloeidin ti informa che, grazie anche al tuo impegno, l'operazione è riuscita. La perdita del crogiolo dovrebbe togliere vento alle vele dei Kobold per un bel po'." },
+    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_TODO_00", "hash": "49DF49D180EF506C", "target": "Usare le bombe improvvisate per far esplodere le scorte kobold" },
+    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_TODO_01", "hash": "97F86205AC0BE89F", "target": "Fare rapporto a Bloeidin" },
+    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_BLOEIDIN_000_000", "hash": "BD3006AA639C2C15", "target": "Be', non possiamo lasciare tutto il divertimento ai miei uomini, no? Ti va di unirti a una piccola operazione che colpirà i Kobold dove fa più male, nel crogiolo?" },
+    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_BLOEIDIN_000_001", "hash": "956AC4C34F296EFD", "target": "Come sai, quelle bestie vanno fiere delle loro abilità alchemiche. Abbiamo trovato un magazzino nascosto con il prototipo di un nuovo crogiolo. Non so cosa faccia e non intendo scoprirlo. Vorrei che attirassi l'attenzione dei Kobold mentre la truppa si occupa del crogiolo." },
+    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_BLOEIDIN_000_002", "hash": "E7572AF9B67F8E1C", "target": "Porta queste bombe improvvisate al Lago di Ferro: ci sono depositi di provviste dell'esercito kobold. Credo che saprai cosa fare. E ricorda: più grande è l'esplosione, meglio è." },
+    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_BLOEIDIN_000_010", "hash": "4445156778E92CEC", "target": "Ottimo lavoro, credo di aver sentito gli scoppi fin da qui! Ti farà piacere sapere che l'operazione è stata un gran successo: il crogiolo non esiste più." },
+    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_BLOEIDIN_000_011", "hash": "BC0FDE894C5B46D2", "target": "Sì, questo terrà tranquilli i Kobold per un po'. Ah, niente è come il piacere di un lavoro ben fatto. Il grog che berremo stasera sarà il migliore da mesi." }
   ]
 }

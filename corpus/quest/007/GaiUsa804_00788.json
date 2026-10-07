@@ -2,18 +2,18 @@
   "conversation": "quest/007/GaiUsa804_00788",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_SEQ_00", "hash": "1640B2EC80BB2B4B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_SEQ_01", "hash": "EE71B216333EBB2F", "target": "" },
-    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_SEQ_02", "hash": "C1A38B5319E28205", "target": "" },
-    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_SEQ_03", "hash": "7DC8B6EF829D7F1F", "target": "" },
-    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_TODO_00", "hash": "88FCED88F0B0DD05", "target": "" },
-    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_TODO_01", "hash": "953A1A8C1A28FBC4", "target": "" },
-    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_SOMERHILD_000_000", "hash": "CA9657B896C3C53D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_SOMERHILD_000_001", "hash": "91005B3F0DD58ACE", "target": "" },
-    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_SOMERHILD_000_002", "hash": "0A883FA30C1CFEEB", "target": "" },
-    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_AELUUIN_000_015", "hash": "7D28E897D34F64BD", "target": "" },
-    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_AELUUIN_000_020", "hash": "34B9164CCC62ED88", "target": "" },
-    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_AELUUIN_000_021", "hash": "3E778088B7395D9A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_AELUUIN_000_022", "hash": "2C9A77E09201C235", "target": "" }
+    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_SEQ_00", "hash": "1640B2EC80BB2B4B", "target": "Somerhild di Fallgourd Float chiede il tuo aiuto per un amico smemorato." },
+    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_SEQ_01", "hash": "EE71B216333EBB2F", "target": "Un compagno di bevute di Somerhild ha perso la chiave della stanza al Tappo Galleggiante. Recuperala per risparmiargli una dura notte a dormire per strada." },
+    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_SEQ_02", "hash": "C1A38B5319E28205", "target": "Hai recuperato la chiave perduta. Consegnala ad Aeluuin del Tappo Galleggiante." },
+    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_SEQ_03", "hash": "7DC8B6EF829D7F1F", "target": "Aeluuin ti ringrazia per la chiave persa da un cliente ubriaco. Ultimamente una misteriosa figura mascherata si aggira nei dintorni e lui teme per la sicurezza degli ospiti." },
+    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_TODO_00", "hash": "88FCED88F0B0DD05", "target": "Cercare la chiave perduta" },
+    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_TODO_01", "hash": "953A1A8C1A28FBC4", "target": "Restituire la chiave ad Aeluuin" },
+    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_SOMERHILD_000_000", "hash": "CA9657B896C3C53D", "target": "Che ve ne pare di Fallgourd Float? Tè pregiato, letti caldi, buona birra e compagnia piacevole al Tappo Galleggiante. Non stupisce che sia una delle soste preferite dai viandanti diretti a Coerthas." },
+    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_SOMERHILD_000_001", "hash": "91005B3F0DD58ACE", "target": "A proposito del Tappo Galleggiante, poche campane fa dividevo una bevuta e un racconto con un viaggiatore. Pare che il poveretto abbia bevuto troppo e, quando si è ripreso, la chiave della stanza era sparita." },
+    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_SOMERHILD_000_002", "hash": "0A883FA30C1CFEEB", "target": "Con tutte le voci recenti, il mio amico e il locandiere sono preoccupatissimi. Se trovate la chiave, sareste così gentile da riportarla al Tappo? Risparmiereste una notte insonne a più di un uomo." },
+    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_AELUUIN_000_015", "hash": "7D28E897D34F64BD", "target": "Maledetto ubriacone! Ecco perché dico sempre: se non reggi l'alcol, bevi tè! Scusate, avete qualcosa per me?" },
+    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_AELUUIN_000_020", "hash": "34B9164CCC62ED88", "target": "Ma ho cercato quella chiave dappertutto! Vi manda il cielo." },
+    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_AELUUIN_000_021", "hash": "3E778088B7395D9A", "target": "Dovete perdonarmi. Ultimamente si parla di un uomo mascherato sospetto da queste parti, e io e i miei clienti siamo nervosi." },
+    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_AELUUIN_000_022", "hash": "2C9A77E09201C235", "target": "Comunque, grazie a voi quello sciocco tracannatore di birra dormirà tranquillo nel suo letto stanotte. Fareste bene a trovare un alloggio sicuro anche voi." }
   ]
 }

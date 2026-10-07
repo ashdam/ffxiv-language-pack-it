@@ -2,16 +2,16 @@
   "conversation": "quest/001/SubWil002_00151",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_SEQ_00", "hash": "B9CFE62A73A5A75D", "target": "" },
-    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_SEQ_01", "hash": "78B1B342FCDDCC76", "target": "" },
-    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_SEQ_02", "hash": "E792A3E7979FF24F", "target": "" },
-    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_TODO_00", "hash": "3E301FA0E2E25788", "target": "" },
-    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_DIDILATA_000_1", "hash": "CD5DC09C685307CC", "target": "" },
-    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_DIDILATA_000_2", "hash": "D90D95E4BD24542B", "target": "" },
-    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_DIDILATA_000_3", "hash": "557640E41ACF7E26", "target": "" },
-    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_MAMANE_000_5", "hash": "DC0DD0791D1CE7AA", "target": "" },
-    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_MAMANE_000_6", "hash": "379B86877931856F", "target": "" },
-    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_MAMANE_000_7", "hash": "747EFBDE6A5733E2", "target": "" },
-    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_MAMANE_000_8", "hash": "DBDA407185C53513", "target": "" }
+    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_SEQ_00", "hash": "B9CFE62A73A5A75D", "target": "Didilata ha bisogno d'aiuto per saldare un debito scaduto da tempo." },
+    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_SEQ_01", "hash": "78B1B342FCDDCC76", "target": "Per ripagare il debito, Didilata è disposto a vendere l'anello nuziale della madre defunta, nonostante l'enorme valore affettivo. Porta l'anello all'Ossario di Arrzaneth e fallo valutare da Mamane." },
+    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_SEQ_02", "hash": "E792A3E7979FF24F", "target": "Mamane dichiara freddamente che l'anello è falso e pretende un compenso per la valutazione. Tuttavia, per questa volta rinuncerà al pagamento e «smaltirà» perfino l'anello gratis. Questo estingue il tuo debito con l'Ossario, ma non aiuta affatto Didilata." },
+    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_TODO_00", "hash": "3E301FA0E2E25788", "target": "Portare l'anello a Mamane per una valutazione" },
+    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_DIDILATA_000_1", "hash": "CD5DC09C685307CC", "target": "Sentite, non ho i G-G-Gil qui con me, ma ho questo anello!" },
+    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_DIDILATA_000_2", "hash": "D90D95E4BD24542B", "target": "Non è g-g-granché da vedere, ma varrà sicuramente molto. Era l'anello nuziale della mia povera mamma defunta, che gli d-d-dei l'abbiano in gloria. Ma capirà!" },
+    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_DIDILATA_000_3", "hash": "557640E41ACF7E26", "target": "Mostratelo a Mamane, all'Ossario, e avrete i vostri s-s-soldi!" },
+    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_MAMANE_000_5", "hash": "DC0DD0791D1CE7AA", "target": "Salve. Cosa vi porta all'Ossario di Arrzaneth?" },
+    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_MAMANE_000_6", "hash": "379B86877931856F", "target": "Volete vendere questo cimelio per conto di un certo Didilata? Molto bene. È davvero triste dover ricorrere a misure tanto drastiche..." },
+    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_MAMANE_000_7", "hash": "747EFBDE6A5733E2", "target": "...e lo è doppiamente quando l'oggetto in questione è un <italic(1)>falso<italic(0)>. E così vistoso e malfatto! Inoltre, <italic(1)>sapete<italic(0)> che le nostre valutazioni non sono gratuite? Di solito il compenso viene sottratto al valore concordato." },
+    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_MAMANE_000_8", "hash": "DBDA407185C53513", "target": "Ahimè, dato il valore trascurabile di questo anello, temo che sareste comunque in debito con noi. Ma, trattandosi di una circostanza insolita, per questa volta rinunceremo al compenso. Non preoccupatevi del gingillo: mi occuperò personalmente di smaltirlo." }
   ]
 }

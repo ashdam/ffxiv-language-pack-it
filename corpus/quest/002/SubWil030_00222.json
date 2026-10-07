@@ -2,18 +2,18 @@
   "conversation": "quest/002/SubWil030_00222",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_SEQ_00", "hash": "5EEAEDBE191EB4ED", "target": "" },
-    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_SEQ_01", "hash": "BDE97C3AD6E215E9", "target": "" },
-    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_SEQ_02", "hash": "A521FC9832C92BA2", "target": "" },
-    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_SEQ_03", "hash": "CB9E2EF5D4EE5065", "target": "" },
-    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_TODO_00", "hash": "7DEDBE3564E5D596", "target": "" },
-    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_TODO_01", "hash": "BA0D605915A40302", "target": "" },
-    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_OSWELL_001", "hash": "37DAA9D8D40BF0D3", "target": "" },
-    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_OSWELL_002", "hash": "BEA3CB6D4D666986", "target": "" },
-    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_OSWELL_003", "hash": "77AA6076A8DCBE27", "target": "" },
-    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_OSWELL_010", "hash": "B82AEAC8399301FD", "target": "" },
-    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_OSWELL_011", "hash": "A04FD3F8334D4115", "target": "" },
-    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_OSWELL_012", "hash": "411F98E37B33D2FE", "target": "" },
-    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_OSWELL_013", "hash": "3BF5F352D0D8987F", "target": "" }
+    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_SEQ_00", "hash": "5EEAEDBE191EB4ED", "target": "Oswell ha bisogno del tuo aiuto per trovare una spedizione smarrita." },
+    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_SEQ_01", "hash": "BDE97C3AD6E215E9", "target": "Oswell non riesce a trovare tre casse destinate alla Compagnia Commerciale dell'Aldenard Orientale. Cerca le casse mancanti al Crocevia dello Scorpione." },
+    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_SEQ_02", "hash": "A521FC9832C92BA2", "target": "Hai trovato le tre casse smarrite. Portale a Oswell e tranquillizzalo." },
+    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_SEQ_03", "hash": "CB9E2EF5D4EE5065", "target": "Oswell ti ringrazia per averlo aiutato a trovare le casse. Purtroppo, nonostante i tuoi sforzi, quell'uomo oberato di lavoro non avrà tregua tanto presto." },
+    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_TODO_00", "hash": "7DEDBE3564E5D596", "target": "Trovare le casse di merci smarrite" },
+    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_TODO_01", "hash": "BA0D605915A40302", "target": "Consegnare le casse a Oswell" },
+    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_OSWELL_001", "hash": "37DAA9D8D40BF0D3", "target": "Hai del tempo libero, vero? Renditi utile e aiutami a trovare le casse che mi mancano!" },
+    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_OSWELL_002", "hash": "BEA3CB6D4D666986", "target": "Il manifesto indica chiaramente che l'ultima spedizione dalla Baia del Vespro comprendeva tre casse destinate alla Compagnia Commerciale dell'Aldenard Orientale, ma non riesco a trovare quei maledetti affari." },
+    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_OSWELL_003", "hash": "77AA6076A8DCBE27", "target": "Dovrebbero essere qui da qualche parte, ma non posso perdere altro tempo a cercare. Se trovi le casse, portamele!" },
+    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_OSWELL_010", "hash": "B82AEAC8399301FD", "target": "Hai trovato le mie casse?" },
+    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_OSWELL_011", "hash": "A04FD3F8334D4115", "target": "Ottimo lavoro! Grazie a te partiranno sul prossimo carro!" },
+    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_OSWELL_012", "hash": "411F98E37B33D2FE", "target": "Le spedizioni non smettono mai di arrivare, giorno dopo giorno. Solo tenere traccia di tutto basta a farmi venire l'emicrania." },
+    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_OSWELL_013", "hash": "3BF5F352D0D8987F", "target": "Gli affari vanno bene, è vero, ma a cosa serve il denaro se non hai tempo di spenderlo? Sono settimane che non bevo una pinta con gli amici!" }
   ]
 }

@@ -2,18 +2,18 @@
   "conversation": "quest/001/SubSea010_00120",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SEQ_00", "hash": "9EDA6645F18E9F46", "target": "" },
-    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SEQ_01", "hash": "70D51BEA374928A5", "target": "" },
-    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SEQ_02", "hash": "5E7FB52D452FE63C", "target": "" },
-    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SEQ_03", "hash": "6E6AD270D809540C", "target": "" },
-    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_TODO_00", "hash": "577E7B2173B33B07", "target": "" },
-    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_TODO_01", "hash": "065401D9B3ABAA3B", "target": "" },
-    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_NTANMO_000_0", "hash": "6B4B5C53DAEC9D88", "target": "" },
-    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_NTANMO_000_1", "hash": "CAFE130F3431C9A3", "target": "" },
-    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_NTANMO_000_2", "hash": "7943C5AFA2E96207", "target": "" },
-    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_NTANMO_000_3", "hash": "E051749DA889560F", "target": "" },
-    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SISIPU_000_10", "hash": "87B02B15D9F21651", "target": "" },
-    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SISIPU_000_11", "hash": "6C042C1CB6574166", "target": "" },
-    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SISIPU_000_12", "hash": "A06FA2DDF103DC83", "target": "" }
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SEQ_00", "hash": "9EDA6645F18E9F46", "target": "N'tanmo ha bisogno d'aiuto per mantenere la città luminosa e allegra." },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SEQ_01", "hash": "70D51BEA374928A5", "target": "Non potendo lasciare il suo posto, N'tanmo ti ha incaricato di controllare i lampioni della città. Rabboccali con olio per lampioni prima che si svuotino." },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SEQ_02", "hash": "5E7FB52D452FE63C", "target": "Hai rabboccato tutti i lampioni che stavano per spegnersi. Parla con Sisipu alla Gilda dei Pescatori per ottenere altro olio per lampioni." },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SEQ_03", "hash": "6E6AD270D809540C", "target": "Scopri che N'tanmo ha l'abitudine di scaricare i suoi compiti su chi muove i primi passi nell'avventura, con grande disappunto di Sisipu. Ma sospetti che dietro la sua irritazione ci sia dell'altro." },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_TODO_00", "hash": "577E7B2173B33B07", "target": "Rabboccare con olio per lampioni i lampioni che stanno per spegnersi" },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_TODO_01", "hash": "065401D9B3ABAA3B", "target": "Parlare con Sisipu alla Gilda dei Pescatori" },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_NTANMO_000_0", "hash": "6B4B5C53DAEC9D88", "target": "A quanto pare godete già del favore delle Giubbe Gialle. Siete davvero un esempio per chi vive d'avventure, un modello per tutti gli altri!<br>...Ehm, pensate di potermi fare un favore?" },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_NTANMO_000_1", "hash": "CAFE130F3431C9A3", "target": "Vedete, dovrei riempire d'olio tutti i lampioni perché restino accesi per tutta la notte. Ma con questa faccenda delle persone scomparse non posso semplicemente andarmene dal mio posto." },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_NTANMO_000_2", "hash": "7943C5AFA2E96207", "target": "Se poteste occuparvi dei lampioni al posto mio, ve ne sarei <italic(1)>eternamente<italic(0)> grata." },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_NTANMO_000_3", "hash": "E051749DA889560F", "target": "Oh, quando avete finito, prendete altro olio da Sisipu alla Gilda dei Pescatori, per favore. Qui ne abbiamo poco e lei custodisce le nostre scorte." },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SISIPU_000_10", "hash": "87B02B15D9F21651", "target": "...State facendo <italic(1)>cosa<italic(0)>!? \\<sospiro> Che cosa devo fare con quella ragazza?" },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SISIPU_000_11", "hash": "6C042C1CB6574166", "target": "Ha la faccia tosta di chiedermi lavoro, blaterando sciocchezze sui suoi risparmi, e poi lo scarica su chi passa per primo!" },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SISIPU_000_12", "hash": "A06FA2DDF103DC83", "target": "Essere giovane e carina <italic(1)>non<italic(0)> ti autorizza a scansare le responsabilità! Sì, avrà il suo olio... e anche una bella strigliata!" }
   ]
 }

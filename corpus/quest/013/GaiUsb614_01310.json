@@ -2,17 +2,17 @@
   "conversation": "quest/013/GaiUsb614_01310",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_SEQ_00", "hash": "5F1D7B1FB4EFE828", "target": "" },
-    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_SEQ_01", "hash": "278497A36CF61BD1", "target": "" },
-    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_SEQ_02", "hash": "43FEA49DF33FBF56", "target": "" },
-    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_TODO_00", "hash": "FEABA8FEA66F946E", "target": "" },
-    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_MAUCOLYN_000_000", "hash": "119CC0FCD648AF80", "target": "" },
-    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_MAUCOLYN_000_001", "hash": "44357F77E5484E75", "target": "" },
-    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_MAUCOLYN_000_002", "hash": "E99D4277BC2A8062", "target": "" },
-    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_MAUCOLYN_000_003", "hash": "DA5AC16171F6B816", "target": "" },
-    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_DUVICAUROIX_000_010", "hash": "EE36C50A6307AF6E", "target": "" },
-    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_DUVICAUROIX_000_011", "hash": "EEC9F1C1E35F8E55", "target": "" },
-    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_DUVICAUROIX_000_012", "hash": "29EC761580566E13", "target": "" },
-    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_SYSTEM_000_300", "hash": "9C8EAE4C748E0138", "target": "" }
+    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_SEQ_00", "hash": "5F1D7B1FB4EFE828", "target": "Diviso tra curiosità e disprezzo, Maucolyn vorrebbe riferire uno strano avvistamento." },
+    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_SEQ_01", "hash": "278497A36CF61BD1", "target": "Maucolyn ha visto di recente un mercante del posto saltellare al freddo e lanciare palle di neve, in quello che il tetro custode dei chocobo ritiene un attacco di isteria da ipotermia. Parla con il mercante, Duvicauroix, e informati sulla sua salute." },
+    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_SEQ_02", "hash": "43FEA49DF33FBF56", "target": "Fortunatamente, la follia di Duvicauroix ha una sua logica. Il mercante sostiene che giocare nella neve scaldi il corpo e il cuore in una fredda giornata invernale più di un fuoco, e ti insegna a lanciare una palla di neve con /throw come primo passo per padroneggiare questo gioco rinvigorente..." },
+    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_TODO_00", "hash": "FEABA8FEA66F946E", "target": "Parlare con Duvicauroix" },
+    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_MAUCOLYN_000_000", "hash": "119CC0FCD648AF80", "target": "Non vedo perché dovrebbe importarmi, ma ho visto un tizio lanciare palle di neve a un pupazzo di neve. Perché qualcuno si dedichi a simili buffonate al freddo, proprio non saprei dirlo." },
+    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_MAUCOLYN_000_001", "hash": "44357F77E5484E75", "target": "Secondo me è andato a raccogliere zucche e ci ha perso la sua. Badate che non succeda anche a <italic(1)>voi<italic(0)>, <if(gnum4,ragazza,ragazzo)>. Non che sappia esattamente <italic(1)>cosa<italic(0)> sia successo, intendiamoci." },
+    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_MAUCOLYN_000_002", "hash": "E99D4277BC2A8062", "target": "Come? Io? <italic(1)>Chiederglielo<italic(0)>? Ho i miei chocobo a cui badare. Se Duvicauroix vuole rovesciare la zuppa che ha in testa sulla neve, non vedo cosa c'entri io." },
+    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_MAUCOLYN_000_003", "hash": "DA5AC16171F6B816", "target": "Sì, si chiama proprio così, Duvicauroix. Non so, vende cose, va in giro. Non mi pare un gran modo di vivere, con rispetto parlando. Se volete vederlo, credo sia qui nei paraggi." },
+    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_DUVICAUROIX_000_010", "hash": "EE36C50A6307AF6E", "target": "Vi muovete con cautela, eh? Scommetto che qui mi credono ubriaco d'inverno. Ah! Non hanno mai visto un lancio di neve, quei pigri figli bastardi." },
+    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_DUVICAUROIX_000_011", "hash": "EEC9F1C1E35F8E55", "target": "Restate seduti sul culo davanti a un fuocherello troppo a lungo e presto vi ritroverete con quelle maledette nocche bianche. Dopo aver lanciato palle di neve dormirete meglio, senza bisogno che lady Idromele o madama Birra vi cantino la ninnananna." },
+    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_DUVICAUROIX_000_012", "hash": "29EC761580566E13", "target": "Che ne dite, eh? Perché non provate? È semplice come sembra. Basta chinarsi, raccogliere un po' di quella polvere bianca e usare <colortype(500)><edgecolortype(501)>throw<edgecolortype(0)><colortype(0)> per lanciarla!" },
+    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_SYSTEM_000_300", "hash": "9C8EAE4C748E0138", "target": "Hai imparato l'emote <colortype(500)><edgecolortype(501)>Throw<edgecolortype(0)><colortype(0)>!" }
   ]
 }

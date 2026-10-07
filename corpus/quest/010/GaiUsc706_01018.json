@@ -2,16 +2,16 @@
   "conversation": "quest/010/GaiUsc706_01018",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_SEQ_00", "hash": "E6F02D2ACC16CEB7", "target": "" },
-    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_SEQ_01", "hash": "9483E133DA1B7F30", "target": "" },
-    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_SEQ_02", "hash": "8BC796661C62F6A2", "target": "" },
-    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_SEQ_03", "hash": "778D0A14556A5CCA", "target": "" },
-    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_TODO_00", "hash": "54629CCCF1A41EC0", "target": "" },
-    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_TODO_01", "hash": "6840C8721CE85497", "target": "" },
-    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_FMAJHA_000_000", "hash": "653FEB96D6E37243", "target": "" },
-    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_FMAJHA_000_001", "hash": "1A6FA32DE9B322B7", "target": "" },
-    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_FMAJHA_000_010", "hash": "6DF107ECB5070CBA", "target": "" },
-    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_FMAJHA_000_020", "hash": "4460E394EF291729", "target": "" },
-    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_FMAJHA_000_021", "hash": "3293BDC2F57F0108", "target": "" }
+    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_SEQ_00", "hash": "E6F02D2ACC16CEB7", "target": "F'majha ha un'espressione addolorata." },
+    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_SEQ_01", "hash": "9483E133DA1B7F30", "target": "F'majha piange i compagni delle Rondini Rosse non tornati dalla missione. Vai sul campo di battaglia e recupera i distintivi dai corpi, perché possa render loro un piccolo omaggio." },
+    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_SEQ_02", "hash": "8BC796661C62F6A2", "target": "Hai recuperato i distintivi dai corpi delle Rondini cadute. Riportali a F'majha." },
+    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_SEQ_03", "hash": "778D0A14556A5CCA", "target": "F'majha piange senza freno prendendo i ricordi dei compagni caduti. Asciugandosi gli occhi, giura di combattere perché il loro sacrificio non sia vano." },
+    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_TODO_00", "hash": "54629CCCF1A41EC0", "target": "Recuperare i distintivi dai caduti" },
+    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_TODO_01", "hash": "6840C8721CE85497", "target": "Consegnare i distintivi a F'majha" },
+    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_FMAJHA_000_000", "hash": "653FEB96D6E37243", "target": "Sì...avevamo affrontato insieme il pericolo innumerevoli volte, fin dai giorni da pirati. Fino all'ultima missione, quando siamo partiti in cinque e sono tornata solo io..." },
+    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_FMAJHA_000_001", "hash": "1A6FA32DE9B322B7", "target": "Non sono tanto sciocca da sperare che i compagni siano vivi, ma non avere nemmeno un filo per ricordarli mi fa male come una sciabola nello stomaco. Potresti andare sul campo di battaglia e riportarmi un ricordo dei fratelli caduti?" },
+    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_FMAJHA_000_010", "hash": "6DF107ECB5070CBA", "target": "Eccoti di nuovo. Hai trovato qualcosa dei compagni caduti?" },
+    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_FMAJHA_000_020", "hash": "4460E394EF291729", "target": "\\<sniff> \\<singhiozzo> Io...so che non sarebbe cambiato nulla, ma vorrei solo essere stata con loro alla fine." },
+    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_FMAJHA_000_021", "hash": "3293BDC2F57F0108", "target": "...Ma le lacrime che verso sono solo gocce nell'oceano. Sì, devo riprendere la loro lotta e impedire che il sacrificio sia vano." }
   ]
 }

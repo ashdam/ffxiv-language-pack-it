@@ -2,19 +2,19 @@
   "conversation": "quest/005/SubWil100_00573",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/005/SubWil100_00573#TEXT_SUBWIL100_00573_SEQ_00", "hash": "41474ABD189DB1B9", "target": "" },
-    { "gameKey": "quest/005/SubWil100_00573#TEXT_SUBWIL100_00573_SEQ_01", "hash": "FE63C30ED5DF700E", "target": "" },
-    { "gameKey": "quest/005/SubWil100_00573#TEXT_SUBWIL100_00573_SEQ_02", "hash": "0F229E7624F74943", "target": "" },
-    { "gameKey": "quest/005/SubWil100_00573#TEXT_SUBWIL100_00573_SEQ_03", "hash": "65ED0A728BE8E2B5", "target": "" },
-    { "gameKey": "quest/005/SubWil100_00573#TEXT_SUBWIL100_00573_TODO_00", "hash": "CEFA0EE702FE9B70", "target": "" },
-    { "gameKey": "quest/005/SubWil100_00573#TEXT_SUBWIL100_00573_TODO_01", "hash": "E0A085528056A63E", "target": "" },
-    { "gameKey": "quest/005/SubWil100_00573#TEXT_SUBWIL100_00573_AMALBERGA_000", "hash": "ABBDF88E954D9231", "target": "" },
-    { "gameKey": "quest/005/SubWil100_00573#TEXT_SUBWIL100_00573_AMALBERGA_001", "hash": "32E5ECDD5416B5AA", "target": "" },
-    { "gameKey": "quest/005/SubWil100_00573#TEXT_SUBWIL100_00573_AMALBERGA_002", "hash": "6A9FBC560203BC81", "target": "" },
-    { "gameKey": "quest/005/SubWil100_00573#TEXT_SUBWIL100_00573_AMALBERGA_003", "hash": "71F653CED0DA7C2D", "target": "" },
-    { "gameKey": "quest/005/SubWil100_00573#TEXT_SUBWIL100_00573_AMALBERGA_010", "hash": "78A52CF46D96CF26", "target": "" },
-    { "gameKey": "quest/005/SubWil100_00573#TEXT_SUBWIL100_00573_AMALBERGA_011", "hash": "580A47564FC246EE", "target": "" },
-    { "gameKey": "quest/005/SubWil100_00573#TEXT_SUBWIL100_00573_AMALBERGA_012", "hash": "62AD6AB4DCBCDD38", "target": "" },
-    { "gameKey": "quest/005/SubWil100_00573#TEXT_SUBWIL100_00573_AMALBERGA_013", "hash": "A6BDB2FE9361DD10", "target": "" }
+    { "gameKey": "quest/005/SubWil100_00573#TEXT_SUBWIL100_00573_SEQ_00", "hash": "41474ABD189DB1B9", "target": "Amalberga ha bisogno del tuo aiuto per fermare i piani di spregevoli banditi." },
+    { "gameKey": "quest/005/SubWil100_00573#TEXT_SUBWIL100_00573_SEQ_01", "hash": "FE63C30ED5DF700E", "target": "Amalberga ha scoperto che i banditi della Villa di Quiveron hanno ottenuto una quantità di nashachite e la scambiano per Gil e armi. Ruba la nashachite grezza e consegnala ad Amalberga." },
+    { "gameKey": "quest/005/SubWil100_00573#TEXT_SUBWIL100_00573_SEQ_02", "hash": "0F229E7624F74943", "target": "Hai derubato per bene i ladri. Torna a Lost Hope e consegna la nashachite ad Amalberga." },
+    { "gameKey": "quest/005/SubWil100_00573#TEXT_SUBWIL100_00573_SEQ_03", "hash": "65ED0A728BE8E2B5", "target": "Gli occhi di Amalberga si illuminano quando riceve le gemme preziose. Ti assicura che ne farà buon uso..." },
+    { "gameKey": "quest/005/SubWil100_00573#TEXT_SUBWIL100_00573_TODO_00", "hash": "CEFA0EE702FE9B70", "target": "Rubare la nashachite grezza" },
+    { "gameKey": "quest/005/SubWil100_00573#TEXT_SUBWIL100_00573_TODO_01", "hash": "E0A085528056A63E", "target": "Consegnare la nashachite ad Amalberga" },
+    { "gameKey": "quest/005/SubWil100_00573#TEXT_SUBWIL100_00573_AMALBERGA_000", "hash": "ABBDF88E954D9231", "target": "Grazie agli dèi che siete qui, <if(gnum4,avventuriera,avventuriero)>! Dovete aiutarci!" },
+    { "gameKey": "quest/005/SubWil100_00573#TEXT_SUBWIL100_00573_AMALBERGA_001", "hash": "32E5ECDD5416B5AA", "target": "L'altro giorno ho visto i banditi della Villa di Quiveron vendere gemme ai contrabbandieri. E non gemme qualsiasi: <italic(1)>nashachite grezza<italic(0)>!" },
+    { "gameKey": "quest/005/SubWil100_00573#TEXT_SUBWIL100_00573_AMALBERGA_002", "hash": "6A9FBC560203BC81", "target": "Con una ricchezza simile potrebbero comprare armi migliori di quelle dei Giurati del Sultano! Poi si vendicherebbero di chi, a Lost Hope, li ha sfidati. Massacrerebbero Leofric e chiunque abbia resistito, e poi farebbero ciò che vogliono di me e delle altre donne!" },
+    { "gameKey": "quest/005/SubWil100_00573#TEXT_SUBWIL100_00573_AMALBERGA_003", "hash": "71F653CED0DA7C2D", "target": "\\<sniff> \\<singhiozzo> Risparmiateci questa sorte orribile, <if(gnum4,avventuriera,avventuriero)>, vi supplico! \\<singhiozzo> Rubate la nashachite dalla Villa di Quiveron e portatemela!" },
+    { "gameKey": "quest/005/SubWil100_00573#TEXT_SUBWIL100_00573_AMALBERGA_010", "hash": "78A52CF46D96CF26", "target": "Era insopportabile guardare dall'ombra mentre i banditi vendevano quelle gemme preziose..." },
+    { "gameKey": "quest/005/SubWil100_00573#TEXT_SUBWIL100_00573_AMALBERGA_011", "hash": "580A47564FC246EE", "target": "La nashachite! Ottimo lavoro, <if(gnum4,avventuriera,avventuriero)>. Avete inflitto ai banditi un colpo devastante!" },
+    { "gameKey": "quest/005/SubWil100_00573#TEXT_SUBWIL100_00573_AMALBERGA_012", "hash": "62AD6AB4DCBCDD38", "target": "E <italic(1)>finalmente<italic(0)>, dopo lune confinata in questa baraccopoli, un'occasione per..." },
+    { "gameKey": "quest/005/SubWil100_00573#TEXT_SUBWIL100_00573_AMALBERGA_013", "hash": "A6BDB2FE9361DD10", "target": "Ehm, un'occasione per migliorare la condizione della gente, naturalmente! Sì, sì, la <italic(1)>loro<italic(0)> condizione. Farò buon uso della nashachite, non temete." }
   ]
 }

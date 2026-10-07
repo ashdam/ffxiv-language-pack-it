@@ -2,19 +2,19 @@
   "conversation": "quest/015/GaiUsx704_01553",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_SEQ_00", "hash": "AF661B1D4240A678", "target": "" },
-    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_SEQ_01", "hash": "05CF930EF5FE71ED", "target": "" },
-    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_SEQ_02", "hash": "790F8F352DBAF50D", "target": "" },
-    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_TODO_00", "hash": "1550C356A28581C4", "target": "" },
-    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_SYSTEM_100_000", "hash": "AAB2D0CEA2D2FEE6", "target": "" },
-    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_WIGSTAN_000_000", "hash": "72CE2AD66D6BBCAD", "target": "" },
-    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_WIGSTAN_000_001", "hash": "9476EF81C1302F7D", "target": "" },
-    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_WIGSTAN_000_002", "hash": "FD27E09510495C0D", "target": "" },
-    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_WIGSTAN_000_003", "hash": "E94D4C037721CDC0", "target": "" },
-    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_WIGSTAN_000_004", "hash": "A7880F0E69BCE63B", "target": "" },
-    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_WIGSTAN_000_005", "hash": "38FE703399E20CDB", "target": "" },
-    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_UODHNUN_000_020", "hash": "B4FA1FDA381A2D90", "target": "" },
-    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_UODHNUN_000_021", "hash": "C2BE4377B6E4A6DB", "target": "" },
-    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_UODHNUN_000_022", "hash": "337BC3E696713F6E", "target": "" }
+    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_SEQ_00", "hash": "AF661B1D4240A678", "target": "Wigstan vorrebbe il tuo aiuto per mettere in moto un suo piano." },
+    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_SEQ_01", "hash": "05CF930EF5FE71ED", "target": "Wigstan cerca il sostegno della tribù U per arginare la minaccia degli Amalj'aa, ma teme che il nunh ascolterà soltanto qualcuno che viva d'avventure e sia molto più forte di lui. Raggiungi Forgotten Springs e implora l'aiuto di U'odh Nunh." },
+    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_SEQ_02", "hash": "790F8F352DBAF50D", "target": "U'odh Nunh ha ascoltato la tua richiesta. Anche se il nunh non è contrario al piano, dubita che gli altri membri della tribù siano altrettanto desiderosi di collaborare." },
+    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_TODO_00", "hash": "1550C356A28581C4", "target": "Parlare con U'odh Nunh a Forgotten Springs" },
+    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_SYSTEM_100_000", "hash": "AAB2D0CEA2D2FEE6", "target": "Per accettare questa missione, devi abbandonare quella attuale. Apri la voce corrispondente nel Journal o nella Duty List e seleziona «Abandon»." },
+    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_WIGSTAN_000_000", "hash": "72CE2AD66D6BBCAD", "target": "I miei cari amici A'aba e Aulie si unirono agli Eredi con una passione ardente per liberare questo regno dalle tenebre, una passione che io non sono mai riuscito a trovare. Combatterono con coraggio e onore... Finché non poterono più combattere." },
+    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_WIGSTAN_000_001", "hash": "9476EF81C1302F7D", "target": "Io non sono mai valso molto sul campo di battaglia. Non volevo altro che onorare i miei compagni caduti e portare avanti la loro lotta, ma come?" },
+    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_WIGSTAN_000_002", "hash": "FD27E09510495C0D", "target": "Un giorno ho capito. Potrò anche essere penosamente carente sul campo di battaglia, ma ho la mente abbastanza acuta. Ho deciso di elaborare un piano d'azione e reclutare alleati capaci per la nostra causa." },
+    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_WIGSTAN_000_003", "hash": "E94D4C037721CDC0", "target": "Una cosa mi è chiara: non possiamo permetterci che le tribù bestiali ci distraggano, mentre all'orizzonte si addensano nubi di tempesta ancora più sinistre. Perciò dobbiamo trovare alleati forti e leali per arginare la minaccia degli uomini-bestia." },
+    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_WIGSTAN_000_004", "hash": "A7880F0E69BCE63B", "target": "Forse conoscete gli U? Sono una tribù di temibili cacciatori e cacciatrici, e sono convinto che sarebbero alleati preziosi nella battaglia contro gli Amalj'aa, se solo riuscissimo a conquistarli." },
+    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_WIGSTAN_000_005", "hash": "38FE703399E20CDB", "target": "Gli U rispettano la forza più di ogni altra cosa: temo che preferirebbero sventrarmi anziché ascoltare il mio racconto. Ma voi... Se parlaste <italic(1)>voi<italic(0)>, vi ascolterebbero, ne sono certo. Perciò vi chiedo, <if(gnum4,amica mia,amico mio)>: raggiungete Forgotten Springs e parlate con U'odh Nunh al mio posto." },
+    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_UODHNUN_000_020", "hash": "B4FA1FDA381A2D90", "target": "Chi ha ucciso Titan è di ritorno. Vuoi qualcosa dagli U, sì? Che cosa cerchi?" },
+    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_UODHNUN_000_021", "hash": "C2BE4377B6E4A6DB", "target": "Quindi vuoi che ci uniamo alla vostra lotta contro gli Amalj'aa. Hmph. Agli U non piacciono gli uomini-lucertola, è vero. Ma gli U combattono soltanto le proprie battaglie." },
+    { "gameKey": "quest/015/GaiUsx704_01553#TEXT_GAIUSX704_01553_UODHNUN_000_022", "hash": "337BC3E696713F6E", "target": "... Questo è ciò che diranno quelli della mia tribù. Io non sono contrario ad aiutarti, ma ti conosco meglio di loro." }
   ]
 }

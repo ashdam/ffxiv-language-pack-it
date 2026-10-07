@@ -2,15 +2,15 @@
   "conversation": "quest/010/GaiUsc806_01030",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/010/GaiUsc806_01030#TEXT_GAIUSC806_01030_SEQ_00", "hash": "0400F7C11FDA1A75", "target": "" },
-    { "gameKey": "quest/010/GaiUsc806_01030#TEXT_GAIUSC806_01030_SEQ_01", "hash": "F8A92CA9F9954ADF", "target": "" },
-    { "gameKey": "quest/010/GaiUsc806_01030#TEXT_GAIUSC806_01030_SEQ_02", "hash": "A3896E28E0A3050D", "target": "" },
-    { "gameKey": "quest/010/GaiUsc806_01030#TEXT_GAIUSC806_01030_SEQ_03", "hash": "C3D4F2B24401B7B2", "target": "" },
-    { "gameKey": "quest/010/GaiUsc806_01030#TEXT_GAIUSC806_01030_TODO_00", "hash": "A8A8EF2A75305538", "target": "" },
-    { "gameKey": "quest/010/GaiUsc806_01030#TEXT_GAIUSC806_01030_TODO_01", "hash": "B298C8BC084654FF", "target": "" },
-    { "gameKey": "quest/010/GaiUsc806_01030#TEXT_GAIUSC806_01030_EILIS_000_000", "hash": "7481E8660F3E118A", "target": "" },
-    { "gameKey": "quest/010/GaiUsc806_01030#TEXT_GAIUSC806_01030_EILIS_000_001", "hash": "D7F781D1BCCD73D2", "target": "" },
-    { "gameKey": "quest/010/GaiUsc806_01030#TEXT_GAIUSC806_01030_EILIS_000_020", "hash": "9DEAF0BFA70B9F80", "target": "" },
-    { "gameKey": "quest/010/GaiUsc806_01030#TEXT_GAIUSC806_01030_EILIS_000_021", "hash": "D9C5C405B2141D8A", "target": "" }
+    { "gameKey": "quest/010/GaiUsc806_01030#TEXT_GAIUSC806_01030_SEQ_00", "hash": "0400F7C11FDA1A75", "target": "Eilis ha un compito spiacevole per chi ha esperienza di avventure." },
+    { "gameKey": "quest/010/GaiUsc806_01030#TEXT_GAIUSC806_01030_SEQ_01", "hash": "F8A92CA9F9954ADF", "target": "Eilis ti informa che i Sahagin vogliono attaccare i Bastioni. Uccidi quattro creature che si aggirano nei dintorni per scoraggiarli." },
+    { "gameKey": "quest/010/GaiUsc806_01030#TEXT_GAIUSC806_01030_SEQ_02", "hash": "A3896E28E0A3050D", "target": "Informa Eilis che hai ritardato l'avanzata della prima linea dei Sahagin." },
+    { "gameKey": "quest/010/GaiUsc806_01030#TEXT_GAIUSC806_01030_SEQ_03", "hash": "C3D4F2B24401B7B2", "target": "Eilis riposerà più tranquilla sapendo che hai tenuto lontano il suo incubo." },
+    { "gameKey": "quest/010/GaiUsc806_01030#TEXT_GAIUSC806_01030_TODO_00", "hash": "A8A8EF2A75305538", "target": "Uccidere gli invasori Sahagin" },
+    { "gameKey": "quest/010/GaiUsc806_01030#TEXT_GAIUSC806_01030_TODO_01", "hash": "B298C8BC084654FF", "target": "Fare rapporto a Eilis" },
+    { "gameKey": "quest/010/GaiUsc806_01030#TEXT_GAIUSC806_01030_EILIS_000_000", "hash": "7481E8660F3E118A", "target": "Oltre i Bastioni si trova la Base dei Sahagin, da cui le facce di pesce vogliono lanciare un attacco." },
+    { "gameKey": "quest/010/GaiUsc806_01030#TEXT_GAIUSC806_01030_EILIS_000_001", "hash": "D7F781D1BCCD73D2", "target": "Anche se non possiamo impedire la loro avanzata, un attacco improvviso potrebbe fermarli per un po'. Mi serve che tu faccia di quattro Sahagin un monito per gli altri." },
+    { "gameKey": "quest/010/GaiUsc806_01030#TEXT_GAIUSC806_01030_EILIS_000_020", "hash": "9DEAF0BFA70B9F80", "target": "Ottimo lavoro! Vediamo se alle facce di pesce piace!" },
+    { "gameKey": "quest/010/GaiUsc806_01030#TEXT_GAIUSC806_01030_EILIS_000_021", "hash": "D9C5C405B2141D8A", "target": "Ogni giorno le orde di viscidi soldati Sahagin minacciano di prendere le nostre amate porte. Prego che quel giorno non arrivi mai, ma le sole preghiere non bastano. Grazie a te, oggi non sarà quel giorno." }
   ]
 }

@@ -2,14 +2,14 @@
   "conversation": "quest/007/GaiUsa501_00753",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_SEQ_00", "hash": "2A5FABF52FC12CD0", "target": "" },
-    { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_SEQ_01", "hash": "2C2B3EEE206C5976", "target": "" },
-    { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_SEQ_02", "hash": "41608EEF09C31054", "target": "" },
-    { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_TODO_00", "hash": "1B63A88A9944D7CB", "target": "" },
-    { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_CLAUDIEN_000_000", "hash": "98EC50E56D3F6EAD", "target": "" },
-    { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_CLAUDIEN_000_001", "hash": "77D442E4E0A391F4", "target": "" },
-    { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_KYOKYOZO_000_010", "hash": "935217CFE841E094", "target": "" },
-    { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_KYOKYOZO_000_020", "hash": "6A184E7E7016B5D2", "target": "" },
-    { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_KYOKYOZO_000_021", "hash": "9B7813AFA4784097", "target": "" }
+    { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_SEQ_00", "hash": "2A5FABF52FC12CD0", "target": "Claudian deve ottenere altre risorse per le sue ricerche." },
+    { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_SEQ_01", "hash": "2C2B3EEE206C5976", "target": "Le ricerche di Claudian hanno dato notevoli frutti, ma gli mancano uomini e materiali per restaurare inestimabili reperti di Belah'dia. Consegna una sintesi delle sue scoperte a Kyokyozo al Riposo di Thal, perché la sacerdotessa si convinca a mandare aiuto." },
+    { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_SEQ_02", "hash": "41608EEF09C31054", "target": "Kyokyozo è giustamente colpita dall'importanza storica delle scoperte di Claudian e promette di predisporre senza indugio l'invio di altri ricercatori e materiali a Ponte Alto." },
+    { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_TODO_00", "hash": "1B63A88A9944D7CB", "target": "Consegnare il rapporto su Ponte Alto a Kyokyozo" },
+    { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_CLAUDIEN_000_000", "hash": "98EC50E56D3F6EAD", "target": "Ah, salve. Grazie a voi, le mie ricerche hanno finalmente preso il via. Quante scoperte da fare e meraviglie antiche da restaurare! ...Eppure ho soltanto queste due mani per svolgere il mio lavoro." },
+    { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_CLAUDIEN_000_001", "hash": "77D442E4E0A391F4", "target": "Se riuscissi a convincere l'Ordine della potenziale importanza del mio lavoro, forse sarebbe disposto a mandare aiuto. Ho qui un rapporto delle scoperte fatte finora. Avreste la gentilezza di consegnarlo a Kyokyozo al Riposo di Thal?" },
+    { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_KYOKYOZO_000_010", "hash": "935217CFE841E094", "target": "Vi do il benvenuto. Possiate trovare sollievo dalle vostre fatiche." },
+    { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_KYOKYOZO_000_020", "hash": "6A184E7E7016B5D2", "target": "Portate un rapporto di Claudian di Ponte Alto? Una sorpresa davvero gradita. Ero pronta ad aspettare mesi prima che quel giovane facesse progressi significativi." },
+    { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_KYOKYOZO_000_021", "hash": "9B7813AFA4784097", "target": "Che cosa!? Le rovine risalgono alla tarda epoca di Belah'dia e custodiscono il luogo di sepoltura di Lalafuto IV in persona? Le implicazioni storiche di questa ricerca superano ogni previsione dell'Ordine. Devo predisporre immediatamente l'invio di altri ricercatori e materiali a Ponte Alto!" }
   ]
 }

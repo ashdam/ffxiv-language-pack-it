@@ -2,19 +2,19 @@
   "conversation": "quest/009/GaiUsc013_00950",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_SEQ_00", "hash": "7C296F433BD2E747", "target": "" },
-    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_SEQ_01", "hash": "AFE40048C722487F", "target": "" },
-    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_SEQ_02", "hash": "17F34A7318F92B96", "target": "" },
-    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_SEQ_03", "hash": "9B0776FD50D48221", "target": "" },
-    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_TODO_00", "hash": "399D8003236DE0F7", "target": "" },
-    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_TODO_01", "hash": "69B1500B2EE3F9F1", "target": "" },
-    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_MEURISE_000_000", "hash": "2BC21263721E4942", "target": "" },
-    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_MEURISE_000_001", "hash": "78C7CF91CB01506C", "target": "" },
-    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_MEURISE_000_002", "hash": "4BC032B730F94291", "target": "" },
-    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_NPCA_000_010", "hash": "3651CCE4B9EB0A8D", "target": "" },
-    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_NPCA_000_020", "hash": "6DF131792CC92300", "target": "" },
-    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_NPCA_000_025", "hash": "016CAF15DF22EB17", "target": "" },
-    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_MEURISE_000_030", "hash": "A33DD30D2EADC57E", "target": "" },
-    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_MEURISE_000_031", "hash": "0A21DE1B0C03AC36", "target": "" }
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_SEQ_00", "hash": "7C296F433BD2E747", "target": "Meurise teme per una pattuglia dispersa che cerca calore nella tormenta." },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_SEQ_01", "hash": "AFE40048C722487F", "target": "Meurise apprende che una pattuglia di un altro campo si è raccolta nel Behemoth's Dominion, disorientata da vento e neve. Mandare medici con barelle è impossibile, ma il brandy d’emergenza potrebbe funzionare." },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_SEQ_02", "hash": "17F34A7318F92B96", "target": "Dai la bottiglia di brandy a un uomo, che si riprende rapidamente. Curerà gli altri e approfitterà della pausa nella tempesta per tornare al campo. Devi fare lo stesso, per non ripetere il loro errore." },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_SEQ_03", "hash": "9B0776FD50D48221", "target": "Grazie al brandy ricostituente, la pattuglia è tornata senza perdere uomini. Li hai salvati per cose migliori: morire in modo assai più doloroso." },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_TODO_00", "hash": "399D8003236DE0F7", "target": "Dare il brandy d’emergenza ai dragoni dispersi" },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_TODO_01", "hash": "69B1500B2EE3F9F1", "target": "Fare rapporto a Meurise" },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_MEURISE_000_000", "hash": "2BC21263721E4942", "target": "Brutta notte per pattugliare, con questa tormenta. Via linkpearl abbiamo saputo che un gruppo è finito nel Behemoth's Dominion, fra tutti i posti possibili." },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_MEURISE_000_001", "hash": "78C7CF91CB01506C", "target": "Freddo e fatica li hanno immobilizzati. Dicono che sei come un lupo delle nevi, meno sensibile al gelo rispetto <if(gnum4,alle altre donne,agli altri uomini)>. Se porti questo brandy alla pattuglia, stanotte salverai delle vite." },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_MEURISE_000_002", "hash": "4BC032B730F94291", "target": "Un'altra cosa: non provocare il behemoth. Fallirai e morirai. Salva i dragoni: oggi il tuo compito è questo e nient'altro." },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_NPCA_000_010", "hash": "3651CCE4B9EB0A8D", "target": "C<-->C<-->Che fate qui? Avete il c<-->c<-->cer<-->vello sulla luna? Il behemoth cammina qui vicino e noi non possiamo muoverci. Salvatevi!" },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_NPCA_000_020", "hash": "6DF131792CC92300", "target": "C<-->Che cos'è? Tenetelo sulle mie labbra, ecco... <italic(1)>Gluuuh! Gluuuh<italic(0)>! Incredibile, sento di nuovo i piedi. Credo... Sì, cammino di nuovo." },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_NPCA_000_025", "hash": "016CAF15DF22EB17", "target": "Gli altri della pattuglia sono laggiù. Somministrerò loro la cura. Il vento è calato e torneremo presto al campo. Voi avete più strada da fare verso il Fronte di Whitebrim prima che riprenda." },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_MEURISE_000_030", "hash": "A33DD30D2EADC57E", "target": "Un vero lupo delle nevi. Non ti servirà il brandy stanotte, credo. È potente, ma si paga un prezzo..." },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_MEURISE_000_031", "hash": "0A21DE1B0C03AC36", "target": "La pattuglia sarà ormai al campo. L'hanno scampata per poco. Che vergogna sarebbe stato morire per una cosa comune come un behemoth, quando devono affrontare draghi..." }
   ]
 }

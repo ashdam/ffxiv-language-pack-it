@@ -2,15 +2,15 @@
   "conversation": "quest/007/GaiUsa609_00771",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_SEQ_00", "hash": "8F9AF31169121594", "target": "" },
-    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_SEQ_01", "hash": "E6CCB5AE2370FEED", "target": "" },
-    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_SEQ_02", "hash": "9C9B005D3104A9C0", "target": "" },
-    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_SEQ_03", "hash": "144A089C57326D03", "target": "" },
-    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_TODO_00", "hash": "700EFA8A998510AB", "target": "" },
-    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_TODO_01", "hash": "555CE1E5C000EB69", "target": "" },
-    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_CUTHBERT_000_000", "hash": "163189B9645FA655", "target": "" },
-    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_CUTHBERT_000_001", "hash": "91A8E9D9939BC172", "target": "" },
-    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_CUTHBERT_000_010", "hash": "3C36325D8F2D7960", "target": "" },
-    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_CUTHBERT_000_020", "hash": "B6055030BBF80C80", "target": "" }
+    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_SEQ_00", "hash": "8F9AF31169121594", "target": "Cuthbert di Quarrymill vorrebbe il tuo aiuto per recuperare un cimelio di famiglia." },
+    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_SEQ_01", "hash": "E6CCB5AE2370FEED", "target": "Le famigerate Vespe Pancirossa possiedono un inestimabile cimelio che un tempo apparteneva al nonno di Cuthbert, anziano dello sventurato villaggio di Boughbury. Avventurati vicino a Redbelly Hive e recupera l'ascia." },
+    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_SEQ_02", "hash": "9C9B005D3104A9C0", "target": "Hai recuperato senza danni l'Ascia di Boughbury dai feroci banditi. Cuthbert sarà felicissimo di riaverla dopo tanti anni." },
+    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_SEQ_03", "hash": "144A089C57326D03", "target": "Prendendo in mano il prezioso cimelio del nonno, Cuthbert giura vendetta contro chi ha sottratto alla sua famiglia la casa che le spettava." },
+    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_TODO_00", "hash": "700EFA8A998510AB", "target": "Recuperare l'Ascia di Boughbury vicino a Redbelly Hive" },
+    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_TODO_01", "hash": "555CE1E5C000EB69", "target": "Consegnare l'Ascia di Boughbury a Cuthbert" },
+    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_CUTHBERT_000_000", "hash": "163189B9645FA655", "target": "Prima della Calamità, mio nonno era l'anziano del villaggio di Boughbury. Abbiamo provato─dei misericordiosi, abbiamo provato─a recuperare la sua casa, ma invano. È morto l'anno scorso..." },
+    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_CUTHBERT_000_001", "hash": "91A8E9D9939BC172", "target": "Con l'ultimo respiro parlò di un cimelio di famiglia, un'ascia tramandata per generazioni. Ora quei figli di puttana dei Pancirossa la usano per spaccare legna─deridendoci intanto. Che i Dodici mi prendano se lascio che quei bastardi infanghino ancora la memoria del nonno. La riporterai per me, vero?" },
+    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_CUTHBERT_000_010", "hash": "3C36325D8F2D7960", "target": "Allora? Hai recuperato l'ascia da quei maledetti ladri?" },
+    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_CUTHBERT_000_020", "hash": "B6055030BBF80C80", "target": "Proprio come il nonno la descriveva! Sei una manna dal cielo. Nonno, te lo giuro─la prossima volta che un Pancirossa vedrà quest'ascia, sarà conficcata nel suo cranio buono a nulla!" }
   ]
 }

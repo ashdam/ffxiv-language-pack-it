@@ -2,15 +2,15 @@
   "conversation": "quest/007/GaiUsa604_00766",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GAIUSA604_00766_SEQ_00", "hash": "340384AF0EF37431", "target": "" },
-    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GAIUSA604_00766_SEQ_01", "hash": "4AC556C350331945", "target": "" },
-    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GAIUSA604_00766_SEQ_02", "hash": "355CD78AED85D11B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GAIUSA604_00766_SEQ_03", "hash": "B1D4C53A45F81BE3", "target": "" },
-    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GAIUSA604_00766_TODO_00", "hash": "D778694AED930386", "target": "" },
-    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GAIUSA604_00766_TODO_01", "hash": "C6AED7A94947FA80", "target": "" },
-    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GaiUsa604_00766_BALAN_000_000", "hash": "CA03ECB6FA59298F", "target": "" },
-    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GaiUsa604_00766_BALAN_000_001", "hash": "3ABD86EDD0E9AAE7", "target": "" },
-    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GaiUsa604_00766_BALAN_000_010", "hash": "24077CDF74643CE2", "target": "" },
-    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GaiUsa604_00766_POP_MESSAGE_000", "hash": "12160843DF567417", "target": "" }
+    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GAIUSA604_00766_SEQ_00", "hash": "340384AF0EF37431", "target": "Balan delle Sentinelle Cupe a Quarrymill cerca un avventuriero che lo aiuti a regolare i conti con dei bracconieri." },
+    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GAIUSA604_00766_SEQ_01", "hash": "4AC556C350331945", "target": "I lacci da caccia piazzati dai bracconieri nei boschi vicini rappresentano un pericolo considerevole per la fauna locale e i viaggiatori ignari. Disarma le tagliole di ferro e affronta ogni bracconiere che incontri." },
+    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GAIUSA604_00766_SEQ_02", "hash": "355CD78AED85D11B", "target": "Hai sistemato le trappole e i bracconieri. Informa Balan delle tue imprese." },
+    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GAIUSA604_00766_SEQ_03", "hash": "B1D4C53A45F81BE3", "target": "Ultimamente le trappole dei bracconieri sono diventate più numerose e letali. Balan è convinto che ne sia responsabile il capo della banda, l'autoproclamato Re dei Coeurlclaw." },
+    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GAIUSA604_00766_TODO_00", "hash": "D778694AED930386", "target": "Disarmare le tagliole di ferro" },
+    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GAIUSA604_00766_TODO_01", "hash": "C6AED7A94947FA80", "target": "Fare rapporto a Balan" },
+    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GaiUsa604_00766_BALAN_000_000", "hash": "CA03ECB6FA59298F", "target": "Salve. Forse lo sapete, ma queste foreste sono preda di una banda di bracconieri. Disseminano il terreno di trappole infami, senza curarsi degli innocenti─piccoli animali e viaggiatori─presi nelle loro grinfie." },
+    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GaiUsa604_00766_BALAN_000_001", "hash": "3ABD86EDD0E9AAE7", "target": "Mi è vietato lasciare il posto, ma forse potreste perlustrare la zona e occuparvi di quelle terribili fauci d'acciaio. Fate attenzione─i bracconieri stessi potrebbero tendere un'imboscata, aspettando le prede." },
+    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GaiUsa604_00766_BALAN_000_010", "hash": "24077CDF74643CE2", "target": "Oggi avete fatto un buon lavoro. Tuttavia, con quell'autoproclamato «Re dei Coeurlclaw» a dirigere l'operazione, i bracconieri non cederanno facilmente. No, dobbiamo essere più vigili che mai." },
+    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GaiUsa604_00766_POP_MESSAGE_000", "hash": "12160843DF567417", "target": "Una figura furtiva balza fuori dall'ombra!" }
   ]
 }

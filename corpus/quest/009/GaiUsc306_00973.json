@@ -2,17 +2,17 @@
   "conversation": "quest/009/GaiUsc306_00973",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_SEQ_00", "hash": "34A71EF05F6E678A", "target": "" },
-    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_SEQ_01", "hash": "919FB18F1D33234B", "target": "" },
-    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_SEQ_02", "hash": "8C935E4C7C8BF33F", "target": "" },
-    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_SEQ_03", "hash": "DA8F942056FDB212", "target": "" },
-    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_TODO_00", "hash": "5C975CEFB267B8F7", "target": "" },
-    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_TODO_01", "hash": "13CD923727C513D2", "target": "" },
-    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_ELFLEDA_000_000", "hash": "869EBE4857D0B7C5", "target": "" },
-    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_ELFLEDA_000_001", "hash": "8B2F59476A272CF7", "target": "" },
-    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_ELFLEDA_000_002", "hash": "EE30177164B34977", "target": "" },
-    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_ELFLEDA_000_020", "hash": "174B6AE8C93FBE56", "target": "" },
-    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_ELFLEDA_000_021", "hash": "5C2C165C26A5B071", "target": "" },
-    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_ELFLEDA_000_022", "hash": "CFCAFC4F8FB17484", "target": "" }
+    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_SEQ_00", "hash": "34A71EF05F6E678A", "target": "Elfleda ha bisogno d'aiuto per preparare l'evento mondano della stagione." },
+    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_SEQ_01", "hash": "919FB18F1D33234B", "target": "Raggiante all'idea di partecipare alle nozze imminenti, Elfleda chiede il tuo aiuto per procurarsi nuclei di wind sprite. Uccidi alcuni wind sprite e raccogli quattro nuclei." },
+    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_SEQ_02", "hash": "8C935E4C7C8BF33F", "target": "Hai ottenuto quattro nuclei di wind sprite. Se vuoi sapere perché Elfleda abbia bisogno di una cosa simile per una Cerimonia del Legame Eterno, torna al Santuario e affidale i nuclei." },
+    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_SEQ_03", "hash": "DA8F942056FDB212", "target": "Elfleda ti confida felice che vuole creare una tempesta di petali di rosa per la sua amica. Immaginando finestre in frantumi e una brigata di dame vestite di sciamito che prende il volo, le suggerisci di usare un solo nucleo..." },
+    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_TODO_00", "hash": "5C975CEFB267B8F7", "target": "Uccidere wind sprite per ottenerne i nuclei" },
+    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_TODO_01", "hash": "13CD923727C513D2", "target": "Dare i nuclei di wind sprite a Elfleda" },
+    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_ELFLEDA_000_000", "hash": "869EBE4857D0B7C5", "target": "Il Santuario sembra così... <italic(1)>santificato<italic(0)>, non trovate? Una mia carissima amica, siamo praticamente sorelle, si unirà qui al suo amato, e mi hanno invitata. È un tale onore! Dovreste vedere il suo corredo!" },
+    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_ELFLEDA_000_001", "hash": "8B2F59476A272CF7", "target": "Ma sto divagando! È così facile quando si parla di abiti, non trovate? Soprattutto di sciamito di Meracydia e di questo pizzo <italic(1)>meravigliosamente<italic(0)> fine fatto dai piccoli bambini Lalafell. Ecco che ricomincio! Volevo chiedervi dei wind sprite, perdonatemi." },
+    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_ELFLEDA_000_002", "hash": "EE30177164B34977", "target": "Be', non proprio dei wind sprite, quanto dei loro nuclei. Me ne servono quattro. Perché? Oh, non posso dirvelo! Non prima che me li portiate. I segreti sono così divertenti, non trovate?" },
+    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_ELFLEDA_000_020", "hash": "174B6AE8C93FBE56", "target": "Avete i nuclei? Splendido! Oh, questo <italic(1)>sarà<italic(0)> l'evento mondano della stagione. Che emozione! Io e la mia amica siamo molto legate, praticamente sorelle, sapete!" },
+    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_ELFLEDA_000_021", "hash": "5C2C165C26A5B071", "target": "Grazie infinite! Vi svelo il mio piccolo segreto? Be', visto che mi avete aiutata così tanto... Li userò al momento di lanciare i petali di rosa. Sarà proprio una tempesta di fiori, di sicuro!" },
+    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_ELFLEDA_000_022", "hash": "CFCAFC4F8FB17484", "target": "Quattro sono troppi? Ne avete la certezza? Oh. Be', immagino che <italic(1)>dovrei<italic(0)> provarli prima, magari nella mia tenuta. <italic(1)>È<italic(0)> l'evento mondano della stagione." }
   ]
 }

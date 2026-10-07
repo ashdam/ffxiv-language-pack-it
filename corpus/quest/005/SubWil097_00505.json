@@ -2,17 +2,17 @@
   "conversation": "quest/005/SubWil097_00505",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_SEQ_00", "hash": "FFD9473BBFC731EE", "target": "" },
-    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_SEQ_01", "hash": "CB6941389A3D8AF7", "target": "" },
-    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_SEQ_02", "hash": "5967FC966B22FF03", "target": "" },
-    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_SEQ_03", "hash": "54AB9D651F449375", "target": "" },
-    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TODO_00", "hash": "BF0F7D1357EEF84B", "target": "" },
-    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TODO_01", "hash": "FC9E23E0D9FEE861", "target": "" },
-    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_000", "hash": "A44896CE8C419676", "target": "" },
-    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_001", "hash": "11753E503DE3314C", "target": "" },
-    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_002", "hash": "63C1FBD7B4BB4B22", "target": "" },
-    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_010", "hash": "59004FA393A5E56F", "target": "" },
-    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_011", "hash": "08642CA6E2690649", "target": "" },
-    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_012", "hash": "3CBF94D5227C98B2", "target": "" }
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_SEQ_00", "hash": "FFD9473BBFC731EE", "target": "Totoruna vorrebbe che tu riducessi gli orobon alle Footfalls." },
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_SEQ_01", "hash": "CB6941389A3D8AF7", "target": "Totoruna ti ha chiesto di uccidere sei orobon che infestano le acque delle Footfalls. Cerca quelle creature sgraziate ed eliminale." },
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_SEQ_02", "hash": "5967FC966B22FF03", "target": "Hai massacrato senza pietà sei bestie viscide. Di' a Totoruna che hai finito il lavoro." },
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_SEQ_03", "hash": "54AB9D651F449375", "target": "Gli orobon non sono una vera minaccia, ma Totoruna è lieto di essersene liberato. Se un taumaturgo riportasse anche una piccola ferita, le conseguenze per le Lame d'Ottone sarebbero terribili." },
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TODO_00", "hash": "BF0F7D1357EEF84B", "target": "Uccidere gli orobon" },
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TODO_01", "hash": "FC9E23E0D9FEE861", "target": "Fare rapporto a Totoruna" },
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_000", "hash": "A44896CE8C419676", "target": "Già che sei qui, tanto vale renderti utile." },
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_001", "hash": "11753E503DE3314C", "target": "Gli orobon che nuotano intorno al sito disturbano il lavoro dei taumaturghi, quindi dobbiamo sterminarli." },
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_002", "hash": "63C1FBD7B4BB4B22", "target": "Puoi aiutarci uccidendo sei di quelle bestie. Avvertimi quando hai finito." },
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_010", "hash": "59004FA393A5E56F", "target": "Ti ringrazio, <if(gnum4,avventuriera,avventuriero)>. Sei orobon in meno a infastidire i nostri ospiti." },
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_011", "hash": "08642CA6E2690649", "target": "A dire il vero, i taumaturghi potevano portarsi una scorta dalla città. Ma visto che volevano curiosare in rovine così vicine a Horizon, gli ufficiali hanno deciso che saremmo stati responsabili di ogni incidente. Ed eccoci qui." },
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_012", "hash": "3CBF94D5227C98B2", "target": "Non è un lavoro così pesante, ma dobbiamo restare in guardia. Se un orobon mordicchia anche solo un dito dei loro piedi, rischiamo di perdere tutti i nostri." }
   ]
 }

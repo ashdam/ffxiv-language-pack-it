@@ -2,18 +2,18 @@
   "conversation": "quest/010/GaiUsc804_01028",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/010/GaiUsc804_01028#TEXT_GAIUSC804_01028_SEQ_00", "hash": "1721D0B9E747CB51", "target": "" },
-    { "gameKey": "quest/010/GaiUsc804_01028#TEXT_GAIUSC804_01028_SEQ_01", "hash": "C8DB7D127F5AB8A2", "target": "" },
-    { "gameKey": "quest/010/GaiUsc804_01028#TEXT_GAIUSC804_01028_SEQ_02", "hash": "232BCD5271AB959E", "target": "" },
-    { "gameKey": "quest/010/GaiUsc804_01028#TEXT_GAIUSC804_01028_SEQ_03", "hash": "ED74C9C037EFE8BE", "target": "" },
-    { "gameKey": "quest/010/GaiUsc804_01028#TEXT_GAIUSC804_01028_TODO_00", "hash": "A25FB13E2D45E54E", "target": "" },
-    { "gameKey": "quest/010/GaiUsc804_01028#TEXT_GAIUSC804_01028_TODO_01", "hash": "36543432915450B9", "target": "" },
-    { "gameKey": "quest/010/GaiUsc804_01028#TEXT_GAIUSC804_01028_UJUGHAL_000_000", "hash": "4C3D2CABE50D24C3", "target": "" },
-    { "gameKey": "quest/010/GaiUsc804_01028#TEXT_GAIUSC804_01028_UJUGHAL_000_001", "hash": "94F8DFC556E2136A", "target": "" },
-    { "gameKey": "quest/010/GaiUsc804_01028#TEXT_GAIUSC804_01028_UJUGHAL_000_002", "hash": "D5C99A61CED45709", "target": "" },
-    { "gameKey": "quest/010/GaiUsc804_01028#TEXT_GAIUSC804_01028_UJUGHAL_000_003", "hash": "A4C2E309E555854E", "target": "" },
-    { "gameKey": "quest/010/GaiUsc804_01028#TEXT_GAIUSC804_01028_UJUGHAL_000_020", "hash": "CBF75D72251F3F64", "target": "" },
-    { "gameKey": "quest/010/GaiUsc804_01028#TEXT_GAIUSC804_01028_UJUGHAL_000_021", "hash": "0D815F46B98D3057", "target": "" },
-    { "gameKey": "quest/010/GaiUsc804_01028#TEXT_GAIUSC804_01028_POP_MESSAGE_000", "hash": "0D3C09C12DE45CF3", "target": "" }
+    { "gameKey": "quest/010/GaiUsc804_01028#TEXT_GAIUSC804_01028_SEQ_00", "hash": "1721D0B9E747CB51", "target": "U'jughal ha bisogno di una persona forte che viva d'avventure per eliminare il temibile pirata Drysnagl." },
+    { "gameKey": "quest/010/GaiUsc804_01028#TEXT_GAIUSC804_01028_SEQ_01", "hash": "C8DB7D127F5AB8A2", "target": "U'jughal vuole che dia la caccia a Drysnagl, l'impostore che si spacciava per Dawson. Infiltrati nella Lingua del Serpente e trova il temibile pirata." },
+    { "gameKey": "quest/010/GaiUsc804_01028#TEXT_GAIUSC804_01028_SEQ_02", "hash": "232BCD5271AB959E", "target": "Hai dato a Drysnagl ciò che meritava. Riferisci la buona notizia a U'jughal." },
+    { "gameKey": "quest/010/GaiUsc804_01028#TEXT_GAIUSC804_01028_SEQ_03", "hash": "ED74C9C037EFE8BE", "target": "U'jughal respira più facilmente sapendo che c'è un Predone del Serpente in meno di cui preoccuparsi." },
+    { "gameKey": "quest/010/GaiUsc804_01028#TEXT_GAIUSC804_01028_TODO_00", "hash": "A25FB13E2D45E54E", "target": "Uccidere Drysnagl nella Lingua del Serpente" },
+    { "gameKey": "quest/010/GaiUsc804_01028#TEXT_GAIUSC804_01028_TODO_01", "hash": "36543432915450B9", "target": "Fare rapporto a U'jughal" },
+    { "gameKey": "quest/010/GaiUsc804_01028#TEXT_GAIUSC804_01028_UJUGHAL_000_000", "hash": "4C3D2CABE50D24C3", "target": "Devo riconoscerlo a quel malvagio di Drysnagl: ha fegato. Quasi nessuno, con sessantaquattro capi d'accusa, oserebbe lasciare la sicurezza della Lingua del Serpente. Di certo ormai è tornato a rintanarsi lì." },
+    { "gameKey": "quest/010/GaiUsc804_01028#TEXT_GAIUSC804_01028_UJUGHAL_000_001", "hash": "94F8DFC556E2136A", "target": "È solo questione di tempo prima che i cristalli finiscano nelle mani dei Sahagin e noi tutti anneghiamo nella scia di Leviathan." },
+    { "gameKey": "quest/010/GaiUsc804_01028#TEXT_GAIUSC804_01028_UJUGHAL_000_002", "hash": "D5C99A61CED45709", "target": "Drysnagl è un tagliagole tra i tagliagole: brandisce l'ascia con ingegno acuto e forza devastante." },
+    { "gameKey": "quest/010/GaiUsc804_01028#TEXT_GAIUSC804_01028_UJUGHAL_000_003", "hash": "A4C2E309E555854E", "target": "Inutile dire che trovarlo e fargli giustizia sarà tutt'altro che facile. La Navigatrice guidi la vostra lama!" },
+    { "gameKey": "quest/010/GaiUsc804_01028#TEXT_GAIUSC804_01028_UJUGHAL_000_020", "hash": "CBF75D72251F3F64", "target": "Ha! E io che temevo di mandarvi a morire! Sono felice che abbiate dato a quel farabutto di Drysnagl ciò che meritava!" },
+    { "gameKey": "quest/010/GaiUsc804_01028#TEXT_GAIUSC804_01028_UJUGHAL_000_021", "hash": "0D815F46B98D3057", "target": "<if(gnum4,Una donna,Un uomo)> che sa fare giustizia avrà sempre un posto al mio fianco." },
+    { "gameKey": "quest/010/GaiUsc804_01028#TEXT_GAIUSC804_01028_POP_MESSAGE_000", "hash": "0D3C09C12DE45CF3", "target": "Avverti una presenza ostile!" }
   ]
 }

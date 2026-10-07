@@ -2,19 +2,19 @@
   "conversation": "quest/003/SubWil067_00321",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_SEQ_00", "hash": "376DFD3CCD452201", "target": "" },
-    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_SEQ_01", "hash": "2BE419CAB210D2AB", "target": "" },
-    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_SEQ_02", "hash": "CD08713C6A53413E", "target": "" },
-    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_SEQ_03", "hash": "DD936B42E4D9DE37", "target": "" },
-    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_TODO_00", "hash": "7667EC8F40193E85", "target": "" },
-    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_TODO_01", "hash": "6AEE59ECBFE2BE13", "target": "" },
-    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_HIHIYAJA_000_1", "hash": "5754FCB835D2BAAD", "target": "" },
-    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_HIHIYAJA_000_2", "hash": "A60346882D971A49", "target": "" },
-    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_HIHIYAJA_000_3", "hash": "E2F3C4E5005B3CFA", "target": "" },
-    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_HIHIYAJA_000_4", "hash": "757CE881C6B9EBE7", "target": "" },
-    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_HIHIYAJA_000_10", "hash": "5E4155A0E4B42F08", "target": "" },
-    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_HIHIYAJA_000_11", "hash": "6FA387A7DE8C54CE", "target": "" },
-    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_HIHIYAJA_000_12", "hash": "FE24AB23E4EF28BE", "target": "" },
-    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_POP_MESSAGE", "hash": "9718934683475D2F", "target": "" }
+    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_SEQ_00", "hash": "376DFD3CCD452201", "target": "Hihiyaja ha bisogno di aiuto per ridurre la popolazione di snipping shrew." },
+    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_SEQ_01", "hash": "2BE419CAB210D2AB", "target": "Alle Royal Plantations si usano i lombrichi per migliorare la qualità del terreno e la resa dei raccolti. Gli snipping shrew, però, minacciano di sterminarli. Trova le loro tane e uccidi quelli al loro interno." },
+    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_SEQ_02", "hash": "CD08713C6A53413E", "target": "Eliminati gli ultimi predatori, i lombrichi possono dedicarsi al loro umile compito di arricchire il terreno. Porta la buona notizia a Hihiyaja." },
+    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_SEQ_03", "hash": "DD936B42E4D9DE37", "target": "Ora che i lombrichi sono al sicuro, Hihiyaja può dedicarsi a coltivare verdure che un giorno potrebbero arrivare sulla tavola della Sultana in persona." },
+    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_TODO_00", "hash": "7667EC8F40193E85", "target": "Uccidere gli snipping shrew" },
+    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_TODO_01", "hash": "6AEE59ECBFE2BE13", "target": "Fare rapporto a Hihiyaja" },
+    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_HIHIYAJA_000_1", "hash": "5754FCB835D2BAAD", "target": "Thanalan è sempre stata una regione arida. Credetemi quando dico che far crescere colture qui richiede uno sforzo non da poco." },
+    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_HIHIYAJA_000_2", "hash": "A60346882D971A49", "target": "Abbiamo persino introdotto lombrichi nel terreno per arricchirlo." },
+    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_HIHIYAJA_000_3", "hash": "E2F3C4E5005B3CFA", "target": "Ahimè, gli snipping shrew, bestiole scavatrici native di queste parti, li hanno quasi sterminati." },
+    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_HIHIYAJA_000_4", "hash": "757CE881C6B9EBE7", "target": "Se non salviamo i lombrichi, questo intero terreno non produrrà nemmeno una zucca al prossimo raccolto. Ci aiutereste a ridurre la popolazione degli shrew? Le loro tane sarebbero il posto migliore da cui cominciare." },
+    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_HIHIYAJA_000_10", "hash": "5E4155A0E4B42F08", "target": "Grazie! Siete davvero <if(gnum4,la campionessa,il campione)> dei lombrichi!" },
+    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_HIHIYAJA_000_11", "hash": "6FA387A7DE8C54CE", "target": "Ora possiamo sperare in un abbondante raccolto di zucche." },
+    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_HIHIYAJA_000_12", "hash": "FE24AB23E4EF28BE", "target": "Mi chiedo quali finiranno nel piatto della Sultana..." },
+    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_POP_MESSAGE", "hash": "9718934683475D2F", "target": "Un acuto squittio trafigge l'aria!" }
   ]
 }

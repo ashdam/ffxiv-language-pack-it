@@ -2,16 +2,16 @@
   "conversation": "quest/007/GaiUsa007_00713",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_SEQ_00", "hash": "0762E2B5315304BE", "target": "" },
-    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_SEQ_01", "hash": "B2E384A8CD3D6E0B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_SEQ_02", "hash": "5ECF46C8A093DAFB", "target": "" },
-    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_SEQ_03", "hash": "0BB58F1AD8BC0F07", "target": "" },
-    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_TODO_00", "hash": "31826413C1E5608E", "target": "" },
-    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_TODO_01", "hash": "657E02FA89614E58", "target": "" },
-    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_PIRALNAUT_000_000", "hash": "C210FC35DC7ED987", "target": "" },
-    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_PIRALNAUT_000_002", "hash": "C84D9F373E8CA17A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_PIRALNAUT_000_010", "hash": "34FA5DEE31F92D82", "target": "" },
-    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_PIRALNAUT_000_011", "hash": "11E6E7D88C181926", "target": "" },
-    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_POP_MESSAGE_000", "hash": "2F4A9991FA86089A", "target": "" }
+    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_SEQ_00", "hash": "0762E2B5315304BE", "target": "Piralnaut ha bisogno di volontari capaci per pattugliare la frontiera gridaniana." },
+    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_SEQ_01", "hash": "B2E384A8CD3D6E0B", "target": "Le perdite hanno lasciato la guarnigione della Guglia di Josselin a corto di personale e Piralnaut ti chiede di pattugliare la zona al posto dei feriti. Il percorso comprende tre posizioni strategiche, ciascuna segnata da uno stendardo dell'Ordine delle Due Vipere. Raggiungile tutte, una alla volta." },
+    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_SEQ_02", "hash": "5ECF46C8A093DAFB", "target": "Hai completato la pattuglia senza incidenti. Torna da Piralnaut." },
+    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_SEQ_03", "hash": "0BB58F1AD8BC0F07", "target": "Saputo del tuo incontro con creature feroci, Piralnaut esprime preoccupazione per il loro numero crescente." },
+    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_TODO_00", "hash": "31826413C1E5608E", "target": "Montare la guardia agli stendardi dell'Ordine delle Due Vipere" },
+    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_TODO_01", "hash": "657E02FA89614E58", "target": "Fare rapporto a Piralnaut" },
+    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_PIRALNAUT_000_000", "hash": "C210FC35DC7ED987", "target": "Sembri avere più tempra di chi vive normalmente d'avventure. Ti andrebbe di fare la tua parte per mantenere la pace? Pattugliamo la zona giorno e notte, ma una recente scaramuccia ha mandato in infermeria una dozzina dei miei uomini migliori e siamo terribilmente a corto di personale." },
+    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_PIRALNAUT_000_002", "hash": "C84D9F373E8CA17A", "target": "Ti sarei grato se potessi sostituire i feriti. Ci sono tre posizioni strategiche sul percorso, ciascuna segnata da uno stendardo dell'Ordine delle Due Vipere. Devi raggiungerle una alla volta e restare di guardia per un po'. Nulla di difficile, vedi?" },
+    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_PIRALNAUT_000_010", "hash": "34FA5DEE31F92D82", "target": "Mi fa piacere vederti tornare senza un graffio. Hai qualcosa da riferire?<br>...Un incontro con creature feroci, dici? È molto strano. Non abbiamo mai avuto problemi con la fauna locale su questo percorso." },
+    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_PIRALNAUT_000_011", "hash": "11E6E7D88C181926", "target": "Uhm... Forse stanno aumentando. Dobbiamo tenere la situazione sotto controllo. Comunque grazie per il tuo aiuto." },
+    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_POP_MESSAGE_000", "hash": "2F4A9991FA86089A", "target": "Avverti una presenza ostile!" }
   ]
 }

@@ -2,16 +2,16 @@
   "conversation": "quest/010/GaiUsc809_01033",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/010/GaiUsc809_01033#TEXT_GAIUSC809_01033_SEQ_00", "hash": "FFF98347D8CF1DD2", "target": "" },
-    { "gameKey": "quest/010/GaiUsc809_01033#TEXT_GAIUSC809_01033_SEQ_01", "hash": "4FE919D079F9D6A6", "target": "" },
-    { "gameKey": "quest/010/GaiUsc809_01033#TEXT_GAIUSC809_01033_SEQ_02", "hash": "A21FE7CD3C88A9D0", "target": "" },
-    { "gameKey": "quest/010/GaiUsc809_01033#TEXT_GAIUSC809_01033_SEQ_03", "hash": "9493E065CFB2DAEF", "target": "" },
-    { "gameKey": "quest/010/GaiUsc809_01033#TEXT_GAIUSC809_01033_TODO_00", "hash": "0B5AC3B6EAF0AB6A", "target": "" },
-    { "gameKey": "quest/010/GaiUsc809_01033#TEXT_GAIUSC809_01033_TODO_01", "hash": "94DE5A8E319F792F", "target": "" },
-    { "gameKey": "quest/010/GaiUsc809_01033#TEXT_GAIUSC809_01033_NORTMOEN_000_000", "hash": "C47F03B1CB12D37A", "target": "" },
-    { "gameKey": "quest/010/GaiUsc809_01033#TEXT_GAIUSC809_01033_NORTMOEN_000_001", "hash": "DC0A27CE04A2474C", "target": "" },
-    { "gameKey": "quest/010/GaiUsc809_01033#TEXT_GAIUSC809_01033_NORTMOEN_000_010", "hash": "B36ABE10BC93EC4F", "target": "" },
-    { "gameKey": "quest/010/GaiUsc809_01033#TEXT_GAIUSC809_01033_NORTMOEN_000_020", "hash": "AEA404323E53C000", "target": "" },
-    { "gameKey": "quest/010/GaiUsc809_01033#TEXT_GAIUSC809_01033_NORTMOEN_000_021", "hash": "5F2186A2B06A3F92", "target": "" }
+    { "gameKey": "quest/010/GaiUsc809_01033#TEXT_GAIUSC809_01033_SEQ_00", "hash": "FFF98347D8CF1DD2", "target": "Nortmoen vorrebbe chiedere il tuo aiuto per risollevare il morale delle truppe." },
+    { "gameKey": "quest/010/GaiUsc809_01033#TEXT_GAIUSC809_01033_SEQ_01", "hash": "4FE919D079F9D6A6", "target": "Per risollevare il morale delle truppe, Nortmoen ti chiede di portargli ombrelle scintillanti di sea wasp." },
+    { "gameKey": "quest/010/GaiUsc809_01033#TEXT_GAIUSC809_01033_SEQ_02", "hash": "A21FE7CD3C88A9D0", "target": "Hai procurato il numero richiesto di ombrelle di sea wasp. Consegnale a Nortmoen." },
+    { "gameKey": "quest/010/GaiUsc809_01033#TEXT_GAIUSC809_01033_SEQ_03", "hash": "9493E065CFB2DAEF", "target": "Alla vista delle ombrelle, Nortmoen si mostra insolitamente euforico e si compiace pensando a quanto potrebbe ingelosire suo fratello." },
+    { "gameKey": "quest/010/GaiUsc809_01033#TEXT_GAIUSC809_01033_TODO_00", "hash": "0B5AC3B6EAF0AB6A", "target": "Uccidere sea wasp e ottenere le loro ombrelle" },
+    { "gameKey": "quest/010/GaiUsc809_01033#TEXT_GAIUSC809_01033_TODO_01", "hash": "94DE5A8E319F792F", "target": "Consegnare le ombrelle di sea wasp a Nortmoen" },
+    { "gameKey": "quest/010/GaiUsc809_01033#TEXT_GAIUSC809_01033_NORTMOEN_000_000", "hash": "C47F03B1CB12D37A", "target": "Se vuoi aiutare la nostra causa, ti chiederei di cacciare qualche sea wasp e portarci le ombrelle da mangiare." },
+    { "gameKey": "quest/010/GaiUsc809_01033#TEXT_GAIUSC809_01033_NORTMOEN_000_001", "hash": "DC0A27CE04A2474C", "target": "Il nostro peggior nemico su queste mura è il morale che cala e un vero sapore di Limsa ci ricorda per cosa combattiamo." },
+    { "gameKey": "quest/010/GaiUsc809_01033#TEXT_GAIUSC809_01033_NORTMOEN_000_010", "hash": "B36ABE10BC93EC4F", "target": "Immagino che porti le mie ombrelle di sea wasp... a meno che tu non abbia voltato gabbana e le abbia date a mio fratello, s'intende." },
+    { "gameKey": "quest/010/GaiUsc809_01033#TEXT_GAIUSC809_01033_NORTMOEN_000_020", "hash": "AEA404323E53C000", "target": "Bene, bene! Una gran bella pesca, davvero!" },
+    { "gameKey": "quest/010/GaiUsc809_01033#TEXT_GAIUSC809_01033_NORTMOEN_000_021", "hash": "5F2186A2B06A3F92", "target": "Haha! Splendido! Stasera banchetteremo con le meduse mentre quel pesce geloso di mio fratello si berrà le lacrime! Sarà magnifico!" }
   ]
 }

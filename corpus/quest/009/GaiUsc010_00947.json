@@ -2,15 +2,15 @@
   "conversation": "quest/009/GaiUsc010_00947",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc010_00947#TEXT_GAIUSC010_00947_SEQ_00", "hash": "239B113BD8E96E7F", "target": "" },
-    { "gameKey": "quest/009/GaiUsc010_00947#TEXT_GAIUSC010_00947_SEQ_01", "hash": "31872BCCF1C08E01", "target": "" },
-    { "gameKey": "quest/009/GaiUsc010_00947#TEXT_GAIUSC010_00947_SEQ_02", "hash": "F2DFA845CB6F28AE", "target": "" },
-    { "gameKey": "quest/009/GaiUsc010_00947#TEXT_GAIUSC010_00947_SEQ_03", "hash": "DEDEA45FAEA6F70B", "target": "" },
-    { "gameKey": "quest/009/GaiUsc010_00947#TEXT_GAIUSC010_00947_TODO_00", "hash": "172C22E85570E824", "target": "" },
-    { "gameKey": "quest/009/GaiUsc010_00947#TEXT_GAIUSC010_00947_TODO_01", "hash": "29CD5D41AED6A8BB", "target": "" },
-    { "gameKey": "quest/009/GaiUsc010_00947#TEXT_GAIUSC010_00947_OURDILIC_000_000", "hash": "8814AF4ADA053D04", "target": "" },
-    { "gameKey": "quest/009/GaiUsc010_00947#TEXT_GAIUSC010_00947_OURDILIC_000_020", "hash": "FF508270E7A24DA3", "target": "" },
-    { "gameKey": "quest/009/GaiUsc010_00947#TEXT_GAIUSC010_00947_OURDILIC_000_021", "hash": "37C7D666CFB57FDD", "target": "" },
-    { "gameKey": "quest/009/GaiUsc010_00947#TEXT_GAIUSC010_00947_OURDILIC_000_022", "hash": "7D5B253352D2A8F5", "target": "" }
+    { "gameKey": "quest/009/GaiUsc010_00947#TEXT_GAIUSC010_00947_SEQ_00", "hash": "239B113BD8E96E7F", "target": "Ourdilic sembra lieta di vederti e non vede l'ora di farti lavorare." },
+    { "gameKey": "quest/009/GaiUsc010_00947#TEXT_GAIUSC010_00947_SEQ_01", "hash": "31872BCCF1C08E01", "target": "Pur essendo quasi innocui, gli hippocerf possono esasperare fino a far danni. Ourdilic ti chiede di uccidere i tre che ultimamente danno più fastidio." },
+    { "gameKey": "quest/009/GaiUsc010_00947#TEXT_GAIUSC010_00947_SEQ_02", "hash": "F2DFA845CB6F28AE", "target": "Gli hippocerf non devono più preoccuparsi di ogni sciocchezza. La morte può curare gli indugiatori per natura: un'intuizione da condividere con Ourdilic insieme al rapporto." },
+    { "gameKey": "quest/009/GaiUsc010_00947#TEXT_GAIUSC010_00947_SEQ_03", "hash": "DEDEA45FAEA6F70B", "target": "Riferito l'abbattimento degli hippocerf, Ourdilic si rilassa e ti suggerisce la parete di ghiaccio che blocca la vecchia strada fra Coerthas occidentale e orientale. Gli effetti della Calamità sono profondi, e qui gelidi..." },
+    { "gameKey": "quest/009/GaiUsc010_00947#TEXT_GAIUSC010_00947_TODO_00", "hash": "172C22E85570E824", "target": "Uccidere gli hippocerf" },
+    { "gameKey": "quest/009/GaiUsc010_00947#TEXT_GAIUSC010_00947_TODO_01", "hash": "29CD5D41AED6A8BB", "target": "Fare rapporto a Ourdilic" },
+    { "gameKey": "quest/009/GaiUsc010_00947#TEXT_GAIUSC010_00947_OURDILIC_000_000", "hash": "8814AF4ADA053D04", "target": "Vi trovate bene qui, <split(<string(gstr1)>, ,1)>? Volete mettervi al lavoro? Eccellente! Bisogna abbattere tre hippocerf: si piazzano in mezzo alla strada e continuano a rimandare la scelta di quale pezzo di ghiaccio leccare." },
+    { "gameKey": "quest/009/GaiUsc010_00947#TEXT_GAIUSC010_00947_OURDILIC_000_020", "hash": "FF508270E7A24DA3", "target": "Uccisi, scuoiati e preparati, vedo! Quando potete, guardate Snowcloak stessa, a ovest." },
+    { "gameKey": "quest/009/GaiUsc010_00947#TEXT_GAIUSC010_00947_OURDILIC_000_021", "hash": "37C7D666CFB57FDD", "target": "C'era una strada verso il Coerthas occidentale, ma dopo la Calamità... Arrivò il gelo, e con esso una parete di ghiaccio troppo spessa da attraversare." },
+    { "gameKey": "quest/009/GaiUsc010_00947#TEXT_GAIUSC010_00947_OURDILIC_000_022", "hash": "7D5B253352D2A8F5", "target": "Dobbiamo trovare un passaggio nella parete, e per questo siamo qui. Tagliati fuori dall'ovest, siamo solo metà di noi stessi..." }
   ]
 }

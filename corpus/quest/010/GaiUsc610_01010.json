@@ -2,16 +2,16 @@
   "conversation": "quest/010/GaiUsc610_01010",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_SEQ_00", "hash": "C5595C9CB6E9EBBC", "target": "" },
-    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_SEQ_01", "hash": "45D5B4E3FAFF6AD4", "target": "" },
-    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_SEQ_02", "hash": "4480A4A7E83ADD82", "target": "" },
-    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_SEQ_03", "hash": "1E70769292D1CF90", "target": "" },
-    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_TODO_00", "hash": "0CAC579482AA655D", "target": "" },
-    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_TODO_01", "hash": "2AD26C4B70EAD137", "target": "" },
-    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_ISARMOIX_000_000", "hash": "EC41E6BEB8A6F24B", "target": "" },
-    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_ISARMOIX_000_001", "hash": "6D7277BFD5080A52", "target": "" },
-    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_ISARMOIX_000_020", "hash": "03B29735E6F6AC36", "target": "" },
-    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_ISARMOIX_000_021", "hash": "7759CEC68208DE2B", "target": "" },
-    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_ISARMOIX_000_022", "hash": "7061431A17D38141", "target": "" }
+    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_SEQ_00", "hash": "C5595C9CB6E9EBBC", "target": "Ultimamente gli sforzi di caccia di Isarmoix hanno dato pochi frutti." },
+    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_SEQ_01", "hash": "45D5B4E3FAFF6AD4", "target": "Hai accettato di procurare carne per lo sfortunato cacciatore Isarmoix. Uccidi cinque wild hog e torna con le fette di cinghiale più succose che puoi." },
+    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_SEQ_02", "hash": "4480A4A7E83ADD82", "target": "La caccia è stata fruttuosa. Consegna le fette di carne a Isarmoix." },
+    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_SEQ_03", "hash": "1E70769292D1CF90", "target": "Grazie al tuo aiuto, moglie e figli di Isarmoix banchetteranno stasera con i tagli migliori. Forse non è il cacciatore più abile, ma la devozione alla famiglia è innegabile." },
+    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_TODO_00", "hash": "0CAC579482AA655D", "target": "Uccidere i wild hog e ottenere la loro carne" },
+    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_TODO_01", "hash": "2AD26C4B70EAD137", "target": "Consegnare la carne di cinghiale a Isarmoix" },
+    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_ISARMOIX_000_000", "hash": "EC41E6BEB8A6F24B", "target": "Un altro giorno di caccia e solo carne d'antilope da mostrare. A me non dispiace, per quanto fibrosa e piena di cartilagine, ma una volta vorrei offrire alla mia cara moglie e ai figli un vero banchetto." },
+    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_ISARMOIX_000_001", "hash": "6D7277BFD5080A52", "target": "I wild hog di qui sembrano avere buona carne, ma temo che le loro zanne farebbero a pezzi un umile cacciatore come me. Potreste abbatterne cinque al posto mio?" },
+    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_ISARMOIX_000_020", "hash": "03B29735E6F6AC36", "target": "Come va la caccia, <if(gnum4,avventuriera,avventuriero)>?" },
+    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_ISARMOIX_000_021", "hash": "7759CEC68208DE2B", "target": "Guardate queste succose fette di cinghiale! Mi viene l'acquolina solo a vederle! Una per mia moglie, quattro per i bambini: sì, andrà splendidamente." },
+    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_ISARMOIX_000_022", "hash": "7061431A17D38141", "target": "La mia fetta, dite? Ah, a me basta la carne d'antilope. Forse un giorno, quando saprò abbattere un cinghiale da solo, mi concederò quel piacere..." }
   ]
 }

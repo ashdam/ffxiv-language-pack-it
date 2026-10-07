@@ -2,16 +2,16 @@
   "conversation": "quest/011/SubSea155_01146",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/011/SubSea155_01146#TEXT_SUBSEA155_01146_SEQ_00", "hash": "1EBBAA97ACAAB4C2", "target": "" },
-    { "gameKey": "quest/011/SubSea155_01146#TEXT_SUBSEA155_01146_SEQ_01", "hash": "9A38AB52E4E427A7", "target": "" },
-    { "gameKey": "quest/011/SubSea155_01146#TEXT_SUBSEA155_01146_SEQ_02", "hash": "955F3546E011D8E7", "target": "" },
-    { "gameKey": "quest/011/SubSea155_01146#TEXT_SUBSEA155_01146_TODO_00", "hash": "0E7AE6E5FCA83B80", "target": "" },
-    { "gameKey": "quest/011/SubSea155_01146#TEXT_SUBSEA155_01146_AHLDFOET_000_000", "hash": "30A3572BDA2EFA54", "target": "" },
-    { "gameKey": "quest/011/SubSea155_01146#TEXT_SUBSEA155_01146_AHLDFOET_000_001", "hash": "3927BBDDE1193D23", "target": "" },
-    { "gameKey": "quest/011/SubSea155_01146#TEXT_SUBSEA155_01146_AHLDFOET_000_002", "hash": "F2542874EC356D69", "target": "" },
-    { "gameKey": "quest/011/SubSea155_01146#TEXT_SUBSEA155_01146_WILTSWYS_000_010", "hash": "779334D3A11CEDD9", "target": "" },
-    { "gameKey": "quest/011/SubSea155_01146#TEXT_SUBSEA155_01146_WILTSWYS_000_011", "hash": "8929DDC5BC6E5359", "target": "" },
-    { "gameKey": "quest/011/SubSea155_01146#TEXT_SUBSEA155_01146_WILTSWYS_000_012", "hash": "735219D3ABC5B973", "target": "" },
-    { "gameKey": "quest/011/SubSea155_01146#TEXT_SUBSEA155_01146_WILTSWYS_000_013", "hash": "DD9A5719B01A3C78", "target": "" }
+    { "gameKey": "quest/011/SubSea155_01146#TEXT_SUBSEA155_01146_SEQ_00", "hash": "1EBBAA97ACAAB4C2", "target": "L'aria timida si addice poco a un Roegadyn, ma Ahldfoet ce l'ha lo stesso: indossa l'imbarazzo come una scomoda canottiera." },
+    { "gameKey": "quest/011/SubSea155_01146#TEXT_SUBSEA155_01146_SEQ_01", "hash": "9A38AB52E4E427A7", "target": "Ahldfoet ha promesso un favore a una madre incontrata durante uno scalo, le cui suppliche sembrano risvegliare il poeta in lui. Porta la sua lettera a Wiltswys a Campo Skull Valley." },
+    { "gameKey": "quest/011/SubSea155_01146#TEXT_SUBSEA155_01146_SEQ_02", "hash": "955F3546E011D8E7", "target": "Ti aspetti una scena commovente e consegni a Wiltswys la lettera della madre. Purtroppo, invece, ti manda via con una bella ramanzina. Ah, le faccende di famiglia." },
+    { "gameKey": "quest/011/SubSea155_01146#TEXT_SUBSEA155_01146_TODO_00", "hash": "0E7AE6E5FCA83B80", "target": "Consegnare la lettera a Wiltswys" },
+    { "gameKey": "quest/011/SubSea155_01146#TEXT_SUBSEA155_01146_AHLDFOET_000_000", "hash": "30A3572BDA2EFA54", "target": "Ahoy, <split(<string(gstr1)>, ,1)>. L'ultima volta mi è proprio sfuggito, ma ho un'altra cosa da chiedervi. Sull'acqua so orientarmi bene, ma a terra... be', sono quello che voi terricoli chiamate <italic(1)>in alto mare<italic(0)>. Ho una lettera da consegnare e voi siete <if(gnum4,la ragazza,l'uomo)> che fa al caso mio." },
+    { "gameKey": "quest/011/SubSea155_01146#TEXT_SUBSEA155_01146_AHLDFOET_000_001", "hash": "3927BBDDE1193D23", "target": "Sono sceso a terra su uno scoglio durante il viaggio e mi si avvicina una sottana sbiadita: dice di avere una figlia a Campo Skull Valley che non vede da anni. Aveva le lacrime agli occhi, begli occhi, per una donna che ha passato l'età dei figli. Dev'essere stata una vera bellezza ai suoi tempi." },
+    { "gameKey": "quest/011/SubSea155_01146#TEXT_SUBSEA155_01146_AHLDFOET_000_002", "hash": "F2542874EC356D69", "target": "Ho sempre avuto un debole per gli occhi fulvi... forse perché il mare è una virago dagli occhi verdi e i cieli, sue sorelle, hanno occhi blu e rossi, grigi e neri... Be', sua figlia si chiama Wiltswys. Le porterete la lettera?" },
+    { "gameKey": "quest/011/SubSea155_01146#TEXT_SUBSEA155_01146_WILTSWYS_000_010", "hash": "779334D3A11CEDD9", "target": "Salve. Mi hanno detto che mi cercavate?" },
+    { "gameKey": "quest/011/SubSea155_01146#TEXT_SUBSEA155_01146_WILTSWYS_000_011", "hash": "8929DDC5BC6E5359", "target": "Una lettera di mamma! Non ho sue notizie da tanto... Non ha mai risposto alle mie lettere. No, restate, avrò una risposta da mandare!" },
+    { "gameKey": "quest/011/SubSea155_01146#TEXT_SUBSEA155_01146_WILTSWYS_000_012", "hash": "735219D3ABC5B973", "target": "Ma cosa...! Oh, quella vecchia avida dal cuore di pietra! Non mi ha lasciato prendere neppure un pezzo di pesce secco quando ho lasciato l'isola e ora vuole Gil? Quello... quel <italic(1)>succubo<italic(0)>!" },
+    { "gameKey": "quest/011/SubSea155_01146#TEXT_SUBSEA155_01146_WILTSWYS_000_013", "hash": "DD9A5719B01A3C78", "target": "Mi trovate fredda? Be', al diavolo ciò che pensate! Volevo qualcosa di meglio che arare campi salati, rovesciare pesciolini dalle reti e ogni tanto portarmi a letto un marinaio di passaggio per avere ancora lo stesso! Non riceverà risposta da me. Grazie per il servizio e <if([gnum11<12],<if([gnum11<4],buonasera,buona giornata)>,<if([gnum11<17],buona giornata,buonasera)>)> a voi!" }
   ]
 }

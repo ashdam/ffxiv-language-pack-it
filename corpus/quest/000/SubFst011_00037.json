@@ -2,18 +2,18 @@
   "conversation": "quest/000/SubFst011_00037",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_SEQ_00", "hash": "7F5B583C067D9504", "target": "" },
-    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_SEQ_01", "hash": "4A91C58B5E45E1C0", "target": "" },
-    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_SEQ_02", "hash": "091D1C6549CED891", "target": "" },
-    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_SEQ_03", "hash": "EF566E26DC2FDEE4", "target": "" },
-    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_TODO_00", "hash": "D24B5EAE4A1B4BC1", "target": "" },
-    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_TODO_01", "hash": "5A0424F1EE186FAC", "target": "" },
-    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_CHANSTELOUP_000_1", "hash": "49BE1D1DDB855CAF", "target": "" },
-    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_CHANSTELOUP_000_2", "hash": "ED426E27B3893801", "target": "" },
-    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_CHANSTELOUP_000_3", "hash": "63583D2D69CC744E", "target": "" },
-    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_CHANSTELOUP_000_4", "hash": "0063F71865680921", "target": "" },
-    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_CHANSTELOUP_000_5", "hash": "E2F9F013F74E8787", "target": "" },
-    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_CHANSTELOUP_000_10", "hash": "DD3E30898CDFE640", "target": "" },
-    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_CHANSTELOUP_000_11", "hash": "E0C26800F9DA25ED", "target": "" }
+    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_SEQ_00", "hash": "7F5B583C067D9504", "target": "Chansteloup della Faretra degli Dei mette alla prova gli avventurieri mandandoli a uccidere i forest funguar." },
+    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_SEQ_01", "hash": "4A91C58B5E45E1C0", "target": "Per ragioni sconosciute, i forest funguar del Central Shroud si riproducono fuori stagione, lasciando dense nubi di spore che soffocano la vita della foresta. Dimostra il tuo valore a Chansteloup uccidendo sei di quelle orribili creature vegetali." },
+    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_SEQ_02", "hash": "091D1C6549CED891", "target": "Dopo aver ucciso sei forest funguar, respiri a pieni polmoni l'aria pulita della foresta. Riferisci le tue imprese a Chansteloup, che attende davanti alla Gilda degli Arcieri a Gridania." },
+    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_SEQ_03", "hash": "EF566E26DC2FDEE4", "target": "Ascoltato il racconto della tua vittoria sulle creature vegetali, Chansteloup riconosce a malincuore il tuo potenziale. Con questo opportuno incoraggiamento, rivolgi l'attenzione alle sfide future." },
+    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_TODO_00", "hash": "D24B5EAE4A1B4BC1", "target": "Uccidere i forest funguar" },
+    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_TODO_01", "hash": "5A0424F1EE186FAC", "target": "Fare rapporto a Chansteloup" },
+    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_CHANSTELOUP_000_1", "hash": "49BE1D1DDB855CAF", "target": "Di norma, i forest funguar che abitano il Central Shroud non sono altro che un fastidio." },
+    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_CHANSTELOUP_000_2", "hash": "ED426E27B3893801", "target": "Tuttavia, abbiamo ricevuto notizie di immense nubi di spore che hanno reso impraticabili alcune parti del Bosco dei Dodici e rovinato i raccolti." },
+    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_CHANSTELOUP_000_3", "hash": "63583D2D69CC744E", "target": "Periodicamente riduciamo la popolazione dei funguar per impedire che accada, ma le creature hanno iniziato a riprodursi fuori stagione, rendendo sempre più difficile controllarne il numero." },
+    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_CHANSTELOUP_000_4", "hash": "0063F71865680921", "target": "Benché questo sviluppo sia davvero preoccupante, la Faretra degli Dei ha questioni più urgenti e non può permettersi di perdere tempo a combattere i funguar." },
+    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_CHANSTELOUP_000_5", "hash": "E2F9F013F74E8787", "target": "Se vuoi dimostrare il tuo valore, vai nel Central Shroud e stermina sei di quei parassiti. Usa prudenza e affrontali uno per volta, o la tua carriera d'avventuriero potrebbe finire prima del previsto." },
+    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_CHANSTELOUP_000_10", "hash": "DD3E30898CDFE640", "target": "Ma guarda... la nostra giovane promessa dell'avventura ritorna─e a quanto pare senza un graffio. Ah! Potresti ancora renderti utile a questa nazione." },
+    { "gameKey": "quest/000/SubFst011_00037#TEXT_SUBFST011_00037_CHANSTELOUP_000_11", "hash": "E0C26800F9DA25ED", "target": "A nome di Gridania, ti ringrazio." }
   ]
 }

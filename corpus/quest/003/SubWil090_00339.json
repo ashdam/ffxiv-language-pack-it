@@ -2,17 +2,17 @@
   "conversation": "quest/003/SubWil090_00339",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_SEQ_00", "hash": "31F36F9764E066D5", "target": "" },
-    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_SEQ_01", "hash": "F0658621908E3D1E", "target": "" },
-    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_SEQ_02", "hash": "E574BF4A331F5BE2", "target": "" },
-    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_SEQ_03", "hash": "316F6EC5E7931BE2", "target": "" },
-    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_TODO_00", "hash": "39B2707D37CEF593", "target": "" },
-    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_TODO_01", "hash": "9FDAECDE4DC3A4DE", "target": "" },
-    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_ZUZUTYRO_000", "hash": "7851690094A2DC55", "target": "" },
-    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_ZUZUTYRO_001", "hash": "771E8E2D971302F7", "target": "" },
-    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_ZUZUTYRO_002", "hash": "359B1F79B1196AAB", "target": "" },
-    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_ZUZUTYRO_010", "hash": "BB14224FE80E8274", "target": "" },
-    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_ZUZUTYRO_011", "hash": "786D20C64AA4DB1C", "target": "" },
-    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_ZUZUTYRO_012", "hash": "9B416CF79281F426", "target": "" }
+    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_SEQ_00", "hash": "31F36F9764E066D5", "target": "Zuzutyro ha una proposta redditizia per te." },
+    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_SEQ_01", "hash": "F0658621908E3D1E", "target": "Zuzutyro ti chiede di portargli quattro Occhi del Serpente, che sono letteralmente i bulbi oculari dei peiste. Uccidi tutte le creature necessarie a procurare la quantità richiesta." },
+    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_SEQ_02", "hash": "E574BF4A331F5BE2", "target": "Hai ottenuto il numero richiesto di Occhi del Serpente. Consegnali a Zuzutyro a Horizon." },
+    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_SEQ_03", "hash": "316F6EC5E7931BE2", "target": "Ricevuti con gioia i quattro occhi, Zuzutyro ti informa che immergerli in una soluzione alchemica produrrà splendide gemme rosse. La prossima tappa del mercante è Gridania, dove gli occhi dovrebbero fruttare una bella somma." },
+    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_TODO_00", "hash": "39B2707D37CEF593", "target": "Uccidere i desert peiste e ottenere Occhi del Serpente" },
+    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_TODO_01", "hash": "9FDAECDE4DC3A4DE", "target": "Consegnare gli Occhi del Serpente a Zuzutyro" },
+    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_ZUZUTYRO_000", "hash": "7851690094A2DC55", "target": "Salve. Se hai un momento, ho una proposta che ti garantisco redditizia <italic(1)>e<italic(0)> legale." },
+    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_ZUZUTYRO_001", "hash": "771E8E2D971302F7", "target": "Dimmi, sai cos'è un peiste? È il rettile che somiglia a un serpente, solo che si muove su quattro zampe. Queste creature sono solite pietrificare la preda con il loro sguardo terribile prima di avvicinarsi per ucciderla." },
+    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_ZUZUTYRO_002", "hash": "359B1F79B1196AAB", "target": "Voglio mettere le mani sui loro occhi─li chiamano «Occhi del Serpente»─e mi serve qualcuno che sappia affrontare animali letali per procurarmeli. Se uccidi alcune di quelle bestie e mi porti quattro occhi, ti garantirò una buona ricompensa." },
+    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_ZUZUTYRO_010", "hash": "BB14224FE80E8274", "target": "Voglio quattro Occhi del Serpente. Uccidi tutti i peiste necessari per procurarmeli." },
+    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_ZUZUTYRO_011", "hash": "786D20C64AA4DB1C", "target": "Gli occhi! Ti ringrazio!<br>...Hm? Mi chiedi cosa intendo farne? Venderli, naturalmente! A prima vista non sembrano granché, ma se li immergi in un preparato alchemico si trasformano in splendide gemme rosse." },
+    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_ZUZUTYRO_012", "hash": "9B416CF79281F426", "target": "E queste gemme fruttano una somma <italic(1)>notevole<italic(0)> a Gridania. I peiste non si trovano nel Sudario Nero, sai. Come mercante, è mio compito conoscere queste cose." }
   ]
 }

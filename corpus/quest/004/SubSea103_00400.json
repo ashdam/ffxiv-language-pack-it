@@ -2,18 +2,18 @@
   "conversation": "quest/004/SubSea103_00400",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_SEQ_00", "hash": "F2194A096A23ABF0", "target": "" },
-    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_SEQ_01", "hash": "F27D2F0383981367", "target": "" },
-    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_SEQ_02", "hash": "6E83CBF81A7A6975", "target": "" },
-    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_SEQ_03", "hash": "2A9C490F4076FCB7", "target": "" },
-    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_TODO_00", "hash": "9C4F7934B32E1133", "target": "" },
-    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_TODO_01", "hash": "1E55ECE844E69AB7", "target": "" },
-    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_KAZAIBUOYZAI_000_1", "hash": "BE2A6E5D4632949E", "target": "" },
-    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_KAZAIBUOYZAI_000_2", "hash": "649F77CBC4EA2A7D", "target": "" },
-    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_KAZAIBUOYZAI_000_3", "hash": "A3A388B138C26C7D", "target": "" },
-    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_KAZAIBUOYZAI_000_11", "hash": "DD79BD2F6EE7F1C2", "target": "" },
-    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_KAZAIBUOYZAI_000_12", "hash": "6130B1A468C81221", "target": "" },
-    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_KAZAIBUOYZAI_000_13", "hash": "7427D475AACAD0B1", "target": "" },
-    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_KAZAIBUOYZAI_000_14", "hash": "A5BEDAE7BCE46F95", "target": "" }
+    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_SEQ_00", "hash": "F2194A096A23ABF0", "target": "Kazai Buoyzai, trasportatore di merci al Montacielo, ha bisogno di aiuto per mantenere fresco il pesce." },
+    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_SEQ_01", "hash": "F27D2F0383981367", "target": "Le essenze gelide dei water sprite sono perfette per mantenere il pesce al freddo durante il trasporto. Uccidi i water sprite finché non avrai raccolto tre dei loro nuclei." },
+    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_SEQ_02", "hash": "6E83CBF81A7A6975", "target": "Hai raccolto tre nuclei di water sprite. Consegnali a Kazai Buoyzai al Montacielo." },
+    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_SEQ_03", "hash": "2A9C490F4076FCB7", "target": "Kazai sembra molto soddisfatto dei nuclei e sollevato che i suoi clienti riceveranno merci ancora fresche. La concorrenza tra le aziende di trasporto che usano il Montacielo è feroce, e ogni errore può significare perdere clienti a vantaggio di un rivale." },
+    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_TODO_00", "hash": "9C4F7934B32E1133", "target": "Sconfiggere i water sprite e raccoglierne i nuclei" },
+    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_TODO_01", "hash": "1E55ECE844E69AB7", "target": "Consegnare i nuclei di water sprite a Kazai Buoyzai al Montacielo" },
+    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_KAZAIBUOYZAI_000_1", "hash": "BE2A6E5D4632949E", "target": "Occhi aperti, <if(gnum4,ragazza,ragazzo)>, ho un lavoro per te! Non abbiamo molto tempo, quindi ascolta bene." },
+    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_KAZAIBUOYZAI_000_2", "hash": "649F77CBC4EA2A7D", "target": "Oggi ho troppo pesce e non abbastanza nuclei di water sprite per tenerlo al fresco. Capisci il problema?" },
+    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_KAZAIBUOYZAI_000_3", "hash": "A3A388B138C26C7D", "target": "Non posso consegnare casse di pesce marcio, quindi devi andare laggiù e ballare con quegli spiriti grondanti finché non avrai raccolto tre delle loro gelide essenze. ...Ti <italic(1)>rendi<italic(0)> conto che non voglio che balli davvero con loro, vero?" },
+    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_KAZAIBUOYZAI_000_11", "hash": "DD79BD2F6EE7F1C2", "target": "Sei già di ritorno? Non farmi aspettare. Vediamo quei nuclei!" },
+    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_KAZAIBUOYZAI_000_12", "hash": "6130B1A468C81221", "target": "Sì, <if(gnum4,ragazza,ragazzo)>, hai fatto bene. Non vedo l'ora di mettere queste bellezze nelle casse di pesce..." },
+    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_KAZAIBUOYZAI_000_13", "hash": "7427D475AACAD0B1", "target": "Così il pescato resterà fresco e i miei clienti saranno felici." },
+    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_KAZAIBUOYZAI_000_14", "hash": "A5BEDAE7BCE46F95", "target": "Ci sono un sacco di aziende di consegne che usano il Montacielo: sbagli una volta e qualche bastardo può rubarti i clienti!" }
   ]
 }

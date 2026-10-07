@@ -2,18 +2,18 @@
   "conversation": "quest/011/SubSea166_01152",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_SEQ_00", "hash": "CE52B57122E55249", "target": "" },
-    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_SEQ_01", "hash": "5EE5D069E0ED0C17", "target": "" },
-    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_SEQ_02", "hash": "06E2236A7937BB88", "target": "" },
-    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_TODO_00", "hash": "A9DD58A0ED481F18", "target": "" },
-    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_FALKBRYDA_000_000", "hash": "5884F2EBFD35663B", "target": "" },
-    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_FALKBRYDA_000_001", "hash": "A4EECC2863C029B0", "target": "" },
-    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_FALKBRYDA_000_002", "hash": "C103CE59318A8501", "target": "" },
-    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_FALKBRYDA_000_003", "hash": "9A3C2AF133FAAE91", "target": "" },
-    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_FALKBRYDA_000_004", "hash": "CA6C83E0DFAC8427", "target": "" },
-    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_CATGUISTL_000_000", "hash": "3DCB056ACC3D04D3", "target": "" },
-    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_CATGUISTL_000_001", "hash": "6AE34B703145D9F7", "target": "" },
-    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_CATGUISTL_000_002", "hash": "90C7275DFA1FEF28", "target": "" },
-    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_CATGUISTL_000_003", "hash": "03F9963EBBBE378C", "target": "" }
+    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_SEQ_00", "hash": "CE52B57122E55249", "target": "Quando la comandante della Valle del Teschio in persona vuole parlare con <if(gnum4,un'umile avventuriera,un umile avventuriero)> prima della sua partenza, tutto indica che stia succedendo qualcosa d'insolito." },
+    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_SEQ_01", "hash": "5EE5D069E0ED0C17", "target": "La comandante Falkbryda è felice, perché il Comando del Maelstrom ha dispensato i suoi uomini dall'indagare alla Sastasha Seagrot. Naturalmente, ciò che lei ha appreso stamattina tu lo sapevi già, perché il sostituto non è altri che te. Devi trovare il sergente Catguistl vicino alla grotta e dargli il cambio." },
+    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_SEQ_02", "hash": "06E2236A7937BB88", "target": "La conversazione con Catguistl ti ha lasciato, se non apprensione, almeno qualche riflessione sull'ingresso nella Seagrot." },
+    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_TODO_00", "hash": "A9DD58A0ED481F18", "target": "Parlare con il sergente Catguistl" },
+    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_FALKBRYDA_000_000", "hash": "5884F2EBFD35663B", "target": "Ho sentito che ci lasci, <split(<string(gstr1)>, ,1)>─le notizie viaggiano in fretta in un accampamento. Forse puoi aiutarci un'ultima volta lungo il viaggio. Ho qui un dispaccio del Comando del Maelstrom─dal commodoro Reyner delle Giubbe Gialle." },
+    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_FALKBRYDA_000_001", "hash": "A4EECC2863C029B0", "target": "Abbiamo indagato alla Sastasha Seagrot per loro ordine, ma pare che abbiano assunto <if(gnum4,un'avventuriera,un avventuriero)>─«di eccellente reputazione e modi gradevoli», scrive il commodoro─per completare il lavoro." },
+    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_FALKBRYDA_000_002", "hash": "C103CE59318A8501", "target": "Ora, se tu... sì?<br>Ah! È di <italic(1)>te<italic(0)> che parla? Ma certo! Bene, il Campo Skull Valley sarà lieto di dare ancora più lustro alla tua reputazione. Hai svolto i tuoi incarichi in modo ammirevole." },
+    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_FALKBRYDA_000_003", "hash": "9A3C2AF133FAAE91", "target": "Il commodoro Reyner e molti altri comandanti la pensano come me: con questi compiti abbiamo disperso troppo le forze. Sono più che lieta di ritirare gli uomini dalle grotte, a dire il vero." },
+    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_FALKBRYDA_000_004", "hash": "CA6C83E0DFAC8427", "target": "Il sergente capo Catguistl è l'ufficiale di grado più alto alla Sastasha Seagrot. Trovalo e digli che la missione è completa e che deve fare rapporto alla Valle del Teschio." },
+    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_CATGUISTL_000_000", "hash": "3DCB056ACC3D04D3", "target": "Alt! Intendi entrare nella Sastasha Seagrot? Te lo sconsiglio. Probabilmente moriresti nelle sue profondità labirintiche. Fidati─senza la sola forza di volontà, non sarei qui in piedi." },
+    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_CATGUISTL_000_001", "hash": "6AE34B703145D9F7", "target": "Mi chiedi cosa faccio qui fuori? Trovo che questo sia un bel posto per elaborare strategie. Molto meglio delle profondità labirintiche della grotta. Là dentro nessuno sentirà le tue urla─soprattutto perché tutti gli altri sono stati riassegnati." },
+    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_CATGUISTL_000_002", "hash": "90C7275DFA1FEF28", "target": "Anche io, dici? Di nuovo al Campo Skull Valley e lontano dalle profondità labirintiche di quell'inferno? Eccellente. Ho i miei principi e avrei sacrificato volentieri la vita per la missione, ma non mi dispiace cedere a te quella prospettiva─e salutare questa grotta!" },
+    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_CATGUISTL_000_003", "hash": "03F9963EBBBE378C", "target": "Il mio posto è in un forte o sul campo di battaglia, non a strisciare in una grotta umida con corde arrotolate e fasci di carta, temendo di non rivedere la luce del giorno. Ti avverto, in quelle profondità c'è molto pericolo. È─qual è la parola─<italic(1)>labirintica<italic(0)>, ti garantisco." }
   ]
 }

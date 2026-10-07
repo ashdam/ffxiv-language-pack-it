@@ -2,15 +2,15 @@
   "conversation": "quest/001/SubSea011_00121",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SEQ_00", "hash": "DD27F4359ABF6AA1", "target": "" },
-    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SEQ_01", "hash": "81FF07EF26675592", "target": "" },
-    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SEQ_02", "hash": "0D2C066DACB927C6", "target": "" },
-    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_TODO_00", "hash": "8B73EEEC917E3363", "target": "" },
-    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SISIPU_000_0", "hash": "C97CF88AA6AFD189", "target": "" },
-    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SISIPU_000_1", "hash": "F1D1E601DFA84421", "target": "" },
-    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SISIPU_000_2", "hash": "04E85A42B7283098", "target": "" },
-    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_HNAANZA_000_10", "hash": "D41B5C24B5A7B6FE", "target": "" },
-    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_HNAANZA_000_11", "hash": "5CC9F071E27F9F95", "target": "" },
-    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_HNAANZA_000_12", "hash": "EFAC5D3701E308D1", "target": "" }
+    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SEQ_00", "hash": "DD27F4359ABF6AA1", "target": "Sisipu della Gilda dei Pescatori vuole ordinare una nuova barca da pesca." },
+    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SEQ_01", "hash": "81FF07EF26675592", "target": "Ansiosa di tornare in mare, Sisipu vorrebbe farsi costruire una nuova barca da pesca. Ti chiede di consultare al suo posto H'naanza, la maestra della forgia della Gilda degli Armaioli, per sapere quanto tempo richiederà la commissione." },
+    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SEQ_02", "hash": "0D2C066DACB927C6", "target": "H'naanza ti informa con rammarico che Naldiq & Vymelli è attualmente impegnata in una grossa commissione. Promette comunque di fare il possibile in onore della lunga collaborazione tra le due gilde." },
+    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_TODO_00", "hash": "8B73EEEC917E3363", "target": "Parlare con H'naanza alla Gilda degli Armaioli" },
+    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SISIPU_000_0", "hash": "C97CF88AA6AFD189", "target": "La Calamità ha davvero tolto il vento dalle vele all'industria della pesca, ma la gente comincia a tornare in mare. È ora che faccia lo stesso anch'io." },
+    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SISIPU_000_1", "hash": "F1D1E601DFA84421", "target": "Ma prima di tornare in mare devo farmi costruire una barca nuova. La nostra gilda si è sempre rivolta a Naldiq & Vymelli, ma ultimamente sono terribilmente occupati." },
+    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SISIPU_000_2", "hash": "04E85A42B7283098", "target": "Se cercate qualcosa da fare, potreste andare alla Gilda degli Armaioli e consultare al posto mio la maestra della forgia H'naanza. Vorrei sapere quanto dovremo aspettare." },
+    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_HNAANZA_000_10", "hash": "D41B5C24B5A7B6FE", "target": "Una barca nuova per la Gilda dei Pescatori? Temo che non sia il momento migliore..." },
+    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_HNAANZA_000_11", "hash": "5CC9F071E27F9F95", "target": "Vedi, abbiamo appena accettato la commissione di un galeone. Questo incarico da solo ci tiene tutti occupati." },
+    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_HNAANZA_000_12", "hash": "EFAC5D3701E308D1", "target": "Ma farò il possibile. La Gilda dei Pescatori è da tempo uno dei nostri migliori clienti e non vorrei deludere Sisipu. Ci vorrà forse ancora un po', ma cercherò di preparare la sua barca in tempi ragionevoli." }
   ]
 }

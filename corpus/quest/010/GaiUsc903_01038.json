@@ -2,16 +2,16 @@
   "conversation": "quest/010/GaiUsc903_01038",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_SEQ_00", "hash": "2F4AB9533EF56604", "target": "" },
-    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_SEQ_01", "hash": "CFCD662762CE3E37", "target": "" },
-    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_SEQ_02", "hash": "86DA2E82B9942F81", "target": "" },
-    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_SEQ_03", "hash": "443A7F4964BA993E", "target": "" },
-    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_TODO_00", "hash": "98DDC9C53DAF1A70", "target": "" },
-    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_TODO_01", "hash": "425626251FFB9083", "target": "" },
-    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_RAFOLD_000_000", "hash": "66C4369A6EE32D4C", "target": "" },
-    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_RAFOLD_000_001", "hash": "882B656C7D960F71", "target": "" },
-    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_RAFOLD_000_010", "hash": "CE72951D106C0EA8", "target": "" },
-    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_RAFOLD_000_011", "hash": "2BBE6DB63415D2D4", "target": "" },
-    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_POP_MESSAGE_000", "hash": "73F551F8B29862B4", "target": "" }
+    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_SEQ_00", "hash": "2F4AB9533EF56604", "target": "Rafold ha bisogno di qualcuno che monti la guardia." },
+    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_SEQ_01", "hash": "CFCD662762CE3E37", "target": "La guarnigione di Campo Bluefog ha bisogno di altri occhi per sorvegliare i garleani a nord. Monta la guardia nei tre punti in cui sventola lo stendardo delle Fiamme Immortali." },
+    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_SEQ_02", "hash": "86DA2E82B9942F81", "target": "Hai vegliato sui tre luoghi. Torna da Rafold e riferisci ciò che hai visto." },
+    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_SEQ_03", "hash": "443A7F4964BA993E", "target": "Rafold è sollevato di sapere che non sono stati avvistati garleani, ma sa che il nemico è pronto a colpire non appena la sentinella sbatte le palpebre." },
+    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_TODO_00", "hash": "98DDC9C53DAF1A70", "target": "Montare la guardia presso <ennoun(EObj,2,2002253,2,1)> e sconfiggere i nemici" },
+    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_TODO_01", "hash": "425626251FFB9083", "target": "Fare rapporto a Rafold" },
+    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_RAFOLD_000_000", "hash": "66C4369A6EE32D4C", "target": "In questo momento la nostra guarnigione si prepara a partire, lasciando le torri di guardia con troppo pochi uomini." },
+    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_RAFOLD_000_001", "hash": "882B656C7D960F71", "target": "Ma non dobbiamo perdere di vista i garleani, né dimenticare che loro osservano noi. Quindi vi chiederei di montare la guardia e assicurarvi che le nostre bandiere sventolino in alto, ben visibili a tutti." },
+    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_RAFOLD_000_010", "hash": "CE72951D106C0EA8", "target": "E così la vostra guardia termina. Forse avete visto solo doblyn, ma chi può dire quali terrori invisibili ci avrebbero assalito senza di voi a sorvegliare?" },
+    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_RAFOLD_000_011", "hash": "2BBE6DB63415D2D4", "target": "Finché restiamo all'ombra di Castrum Meridianum, dobbiamo essere sempre vigili." },
+    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_POP_MESSAGE_000", "hash": "73F551F8B29862B4", "target": "Avverti una presenza ostile!" }
   ]
 }

@@ -2,15 +2,15 @@
   "conversation": "quest/007/GaiUsa903_00798",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_SEQ_00", "hash": "4E711987E7311104", "target": "" },
-    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_SEQ_01", "hash": "E4CB203E6EB2A95E", "target": "" },
-    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_SEQ_02", "hash": "0AC03AB77945FED5", "target": "" },
-    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_SEQ_03", "hash": "A0C3BAA480DDE706", "target": "" },
-    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_TODO_00", "hash": "A4A4A0E9826C4A20", "target": "" },
-    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_TODO_01", "hash": "F9A9F642A822E7AD", "target": "" },
-    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_ADEMAR_000_000", "hash": "1AB4976445D70285", "target": "" },
-    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_ADEMAR_000_001", "hash": "B04D3C0EB6841058", "target": "" },
-    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_ADEMAR_000_020", "hash": "2472E0DFA9B339E8", "target": "" },
-    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_ADEMAR_000_021", "hash": "0960A19FC1B85F1B", "target": "" }
+    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_SEQ_00", "hash": "4E711987E7311104", "target": "Ademar ha bisogno di una mano per salire." },
+    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_SEQ_01", "hash": "E4CB203E6EB2A95E", "target": "Ademar vuole cercare nuove vene minerarie e ti chiede di collocare scale per raggiungere i punti meno accessibili." },
+    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_SEQ_02", "hash": "0AC03AB77945FED5", "target": "Hai collocato tutte e tre le scale come richiesto. Informa Ademar del lavoro compiuto." },
+    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_SEQ_03", "hash": "A0C3BAA480DDE706", "target": "Le vene minerarie si esauriscono in fretta e i cercatori devono sempre cercare nuovi giacimenti. Ademar continua a scavare, sperando che il giorno della fortuna non sia lontano." },
+    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_TODO_00", "hash": "A4A4A0E9826C4A20", "target": "Collocare le scale come indicato da Ademar" },
+    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_TODO_01", "hash": "F9A9F642A822E7AD", "target": "Fare rapporto ad Ademar" },
+    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_ADEMAR_000_000", "hash": "1AB4976445D70285", "target": "Forse potete aiutarmi ancora. Ho messo gli occhi su nuove vene minerarie, ma le mie gambe non sono abbastanza lunghe per raggiungerle." },
+    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_ADEMAR_000_001", "hash": "B04D3C0EB6841058", "target": "Sareste così gentile da collocare queste scale per me? Lo farei io, ma ultimamente questi luoghi sono terribilmente pericolosi." },
+    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_ADEMAR_000_020", "hash": "2472E0DFA9B339E8", "target": "Mi avete fatto ancora un grande favore. Con tutte quelle bestiacce in giro, non avrei mai potuto farlo da solo." },
+    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_ADEMAR_000_021", "hash": "0960A19FC1B85F1B", "target": "Non so che minerale mi aspetti, ma ricordate le mie parole: un giorno troverò la fortuna e lascerò questo posto per sempre!" }
   ]
 }

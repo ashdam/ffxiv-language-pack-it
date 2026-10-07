@@ -2,16 +2,16 @@
   "conversation": "quest/008/GaiUsb106_00825",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_SEQ_00", "hash": "59AC80F5C26BDC5E", "target": "" },
-    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_SEQ_01", "hash": "72839378BA608907", "target": "" },
-    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_SEQ_02", "hash": "A87BA422CACB21C4", "target": "" },
-    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_SEQ_03", "hash": "7131BA84063F4F1C", "target": "" },
-    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_TODO_00", "hash": "004505E99DF65E6B", "target": "" },
-    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_TODO_01", "hash": "7899E9FDE14554F6", "target": "" },
-    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_000", "hash": "880711EB027D5B92", "target": "" },
-    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_001", "hash": "489D280832744BB1", "target": "" },
-    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_002", "hash": "67331EDDCA0149F5", "target": "" },
-    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_030", "hash": "3E108156F6489BD9", "target": "" },
-    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_035", "hash": "1F34B6B6493E03C8", "target": "" }
+    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_SEQ_00", "hash": "59AC80F5C26BDC5E", "target": "U'khuba Tia sembra impaziente." },
+    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_SEQ_01", "hash": "72839378BA608907", "target": "U'khuba Tia ha bisogno di materiale per le punte delle frecce e, nel deserto, questo significa solo una cosa: smembrare creature ignare. Dopo una breve lezione sulle complessità dell'avanzamento nella tribù U, ti chiede di strappare sei aculei ai russet yarzon." },
+    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_SEQ_02", "hash": "A87BA422CACB21C4", "target": "Sei aculei di yarzon, ancora viscidi di sangue e furia, riposano nel tuo palmo. Portali a U'khuba Tia." },
+    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_SEQ_03", "hash": "7131BA84063F4F1C", "target": "Hai consegnato i pezzi freschi di yarzon a un grato U'khuba Tia, che sembra sempre più sicuro della sfida imminente." },
+    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_TODO_00", "hash": "004505E99DF65E6B", "target": "Uccidere russet yarzon e ottenerne gli aculei" },
+    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_TODO_01", "hash": "7899E9FDE14554F6", "target": "Consegnare gli aculei di yarzon a U'khuba Tia" },
+    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_000", "hash": "880711EB027D5B92", "target": "La legge è chiara: per diventare nunh della tribù U bisogna sconfiggere il nunh attuale. Nel mio caso, significa U'odh Nunh." },
+    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_001", "hash": "489D280832744BB1", "target": "Ma per guadagnarmi il diritto di sfidare U'odh devo prima trionfare su U'tykha. Lui mi sbarra la strada e io la sbarro a lui. In questo modo il nunh è protetto da sfide continue." },
+    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_002", "hash": "67331EDDCA0149F5", "target": "Ma per sconfiggere U'tykha le mie armi devono essere impeccabili: sarà anche uno sciocco, ma non è debole. Farò nuove punte di freccia e mi servono aculei di yarzon. Una mezza dozzina dovrebbe bastare." },
+    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_030", "hash": "3E108156F6489BD9", "target": "Gli aculei di yarzon, li hai presi?" },
+    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_035", "hash": "1F34B6B6493E03C8", "target": "Ti ringrazio. Potresti sorprenderti del bersaglio che troveranno. Ricorda come vedi Forgotten Springs oggi. Le vecchie usanze stanno scomparendo, rapide come il volo delle frecce." }
   ]
 }

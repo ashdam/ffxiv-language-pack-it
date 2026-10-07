@@ -2,19 +2,19 @@
   "conversation": "quest/010/GaiUsc709_01021",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_SEQ_00", "hash": "5A9FDD495EFF2A46", "target": "" },
-    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_SEQ_01", "hash": "CB3E3AF07D176314", "target": "" },
-    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_SEQ_02", "hash": "CABA81FD0125FB78", "target": "" },
-    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_SEQ_03", "hash": "BC5C1FB58145B5AB", "target": "" },
-    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_TODO_00", "hash": "C9940B151BAD6588", "target": "" },
-    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_TODO_01", "hash": "8411C24ECE4819BC", "target": "" },
-    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_UODHNUN_000_000", "hash": "FA61CC1FA294DD0A", "target": "" },
-    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_UODHNUN_000_001", "hash": "24783C5AB2C6D073", "target": "" },
-    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_UODHNUN_000_002", "hash": "BD735F00A6D9428B", "target": "" },
-    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_UZOKUA_000_010", "hash": "72EAEE1F41A746A6", "target": "" },
-    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_UOZOKUB_000_020", "hash": "283CE9E9442E831E", "target": "" },
-    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_UZOKUC_000_030", "hash": "78896CC72B601ED3", "target": "" },
-    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_UZOKUD_000_040", "hash": "A65EF704028F02F1", "target": "" },
-    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_UODHNUN_000_060", "hash": "F3474DFCEAC92436", "target": "" }
+    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_SEQ_00", "hash": "5A9FDD495EFF2A46", "target": "U'odh Nunh ha un'espressione pensierosa." },
+    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_SEQ_01", "hash": "CB3E3AF07D176314", "target": "U'odh Nunh rispetta la tua forza, ma esita a rischiare la vita della tribù nelle battaglie degli estranei. Parla con le donne degli U e valuta cosa provano." },
+    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_SEQ_02", "hash": "CABA81FD0125FB78", "target": "Come previsto, le cacciatrici degli U non sono ansiose di combattere una battaglia altrui. Torna a parlare con U'odh Nunh." },
+    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_SEQ_03", "hash": "BC5C1FB58145B5AB", "target": "Pur avendo seguito i suoi desideri, U'odh Nunh ti liquida senza indugio. Pare che questioni più urgenti richiedano l'attenzione del nunh." },
+    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_TODO_00", "hash": "C9940B151BAD6588", "target": "Parlare con le donne della tribù degli U" },
+    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_TODO_01", "hash": "8411C24ECE4819BC", "target": "Fare rapporto a U'odh Nunh" },
+    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_UODHNUN_000_000", "hash": "FA61CC1FA294DD0A", "target": "La parola del nunh è legge. Chi non porge orecchio al nunh non avrà più orecchie." },
+    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_UODHNUN_000_001", "hash": "24783C5AB2C6D073", "target": "Potrei ordinare alla tribù di combattere per te. Ti farebbe bene, sì. Ma farebbe bene agli U? È questa la domanda." },
+    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_UODHNUN_000_002", "hash": "BD735F00A6D9428B", "target": "Mi hai dimostrato il tuo valore, ma per molti U vieni solo da fuori. Se vuoi la loro fiducia, conquistala tu. Parla con le donne della tribù e ascolta con le tue orecchie cosa pensano di te." },
+    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_UZOKUA_000_010", "hash": "72EAEE1F41A746A6", "target": "Rispondo al nunh e a nessun altro. Vattene, <if(gnum4,straniera,straniero)>: qui non c'è posto per te." },
+    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_UOZOKUB_000_020", "hash": "283CE9E9442E831E", "target": "Unirci alla tua lotta? Perché gli U dovrebbero aiutare chi viene da fuori, quando abbiamo i nostri problemi?" },
+    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_UZOKUC_000_030", "hash": "78896CC72B601ED3", "target": "Ho sentito della tua forza. Ma se sei forte, perché non combatti le tue battaglie?" },
+    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_UZOKUD_000_040", "hash": "A65EF704028F02F1", "target": "Gli U combattono <italic(1)>chi<italic(0)> vogliono, <italic(1)>quando<italic(0)> vogliono. È così difficile da capire per chi viene da fuori?" },
+    { "gameKey": "quest/010/GaiUsc709_01021#TEXT_GAIUSC709_01021_UODHNUN_000_060", "hash": "F3474DFCEAC92436", "target": "Sei di nuovo qui, ma ti chiedo di lasciarmi. Sono prima di tutto il nunh della mia gente, e le loro necessità mi importano più delle tue." }
   ]
 }

@@ -2,17 +2,17 @@
   "conversation": "quest/009/GaiUsc510_00998",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_SEQ_00", "hash": "F58791F7FAEB9CAC", "target": "" },
-    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_SEQ_01", "hash": "C79DC92FB765287A", "target": "" },
-    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_SEQ_02", "hash": "E16AF38BCDA607D4", "target": "" },
-    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_SEQ_03", "hash": "FEB56BCE52D35B24", "target": "" },
-    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_TODO_00", "hash": "86578CCF8D100F05", "target": "" },
-    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_TODO_01", "hash": "6ECCD3B7FDA33BE8", "target": "" },
-    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_GUOLGEIM_000_000", "hash": "E97D46E2BE51155B", "target": "" },
-    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_GUOLGEIM_000_001", "hash": "9938FB7D15871422", "target": "" },
-    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_GUOLGEIM_000_002", "hash": "8B7B49C527F14C99", "target": "" },
-    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_GUOLGEIM_000_020", "hash": "2838DD549728C46E", "target": "" },
-    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_GUOLGEIM_000_030", "hash": "7149DF3958555D5A", "target": "" },
-    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_GUOLGEIM_000_031", "hash": "7B0EEE912C2A7C50", "target": "" }
+    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_SEQ_00", "hash": "F58791F7FAEB9CAC", "target": "Con uno sguardo più vivace dell'ultima volta, Guolgeim è pronta a guadagnare qualcosa." },
+    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_SEQ_01", "hash": "C79DC92FB765287A", "target": "Il mudpuppy preferirebbe tenersi il fegato, ma l'organo vale molto di più al mercato, dove gode di una certa fama tra gli uomini lascivi. Guolgeim ti chiede di uccidere cinque mudpuppy nelle Paludi Nebbiose e prenderne i fegati." },
+    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_SEQ_02", "hash": "E16AF38BCDA607D4", "target": "Hai cinque fegati di cinque mudpuppy e le Paludi Nebbiose non diventano certo più asciutte. Torna sulla terraferma sguazzando e consegna gli organi a Guolgeim." },
+    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_SEQ_03", "hash": "FEB56BCE52D35B24", "target": "Guolgeim ti paga generosamente per i fegati di mudpuppy. Hai i piedi bagnati ma la borsa pesante, e il cuore più leggero nel vederla tanto migliorata." },
+    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_TODO_00", "hash": "86578CCF8D100F05", "target": "Prelevare i fegati dai mudpuppy" },
+    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_TODO_01", "hash": "6ECCD3B7FDA33BE8", "target": "Dare i fegati di mudpuppy a Guolgeim" },
+    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_GUOLGEIM_000_000", "hash": "E97D46E2BE51155B", "target": "Non fraintendetemi, qui non ci sono solo bestiacce e ricordi tristi. Cacciavo anch'io i mudpuppy prima di accettare il lavoro di recupero, e ora voglio raccogliere il doppio dei fegati." },
+    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_GUOLGEIM_000_001", "hash": "9938FB7D15871422", "target": "A cosa servono? A curare il vecchio aggeggio, naturalmente. Il fegato di mudpuppy ha un gran bel prezzo al mercato, bello quanto le sottane che fanno nascere la domanda, ci scommetto!" },
+    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_GUOLGEIM_000_002", "hash": "8B7B49C527F14C99", "target": "Che ne dite di darmi una mano? Sono ancora un po' provata, vale la pena spendere Gil per farmi aiutare. Potete procurare cinque fegati, no?" },
+    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_GUOLGEIM_000_020", "hash": "2838DD549728C46E", "target": "Vi sono piaciute le Paludi Nebbiose? Salassi gratis ogni giorno dell'anno. Ma avete i fegati, vero?" },
+    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_GUOLGEIM_000_030", "hash": "7149DF3958555D5A", "target": "Ecco l'oro viscido. Ben tagliati, ecco i vostri Gil. Non avete provato a mangiare i mudpuppy, vero? Non fatelo. Veleno o fango, sono gli unici sapori." },
+    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_GUOLGEIM_000_031", "hash": "7B0EEE912C2A7C50", "target": "Funzionano? Oh, <if(gnum4,ragazza,ragazzo)>, tutto funziona e niente basta a chi ha abbastanza Gil da spenderli in queste cose." }
   ]
 }

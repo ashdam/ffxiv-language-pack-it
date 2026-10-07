@@ -2,16 +2,16 @@
   "conversation": "quest/009/GaiUsc511_00999",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_SEQ_00", "hash": "4C3DD09A8168A211", "target": "" },
-    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_SEQ_01", "hash": "A2BFB21CBB3BF36A", "target": "" },
-    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_SEQ_02", "hash": "F24AD85C6EA05030", "target": "" },
-    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_SEQ_03", "hash": "91E7E5EFFF219308", "target": "" },
-    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_TODO_00", "hash": "FF622B3ABA4AA22F", "target": "" },
-    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_TODO_01", "hash": "B225BED4C00320EF", "target": "" },
-    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_AGANBOLD_000_000", "hash": "9F7E8201BBE2DC69", "target": "" },
-    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_AGANBOLD_000_001", "hash": "FEE74B37BABE33C3", "target": "" },
-    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_AGANBOLD_000_002", "hash": "431B5D040FA2F032", "target": "" },
-    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_AGANBOLD_000_020", "hash": "8737D15BB650280E", "target": "" },
-    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_AGANBOLD_000_030", "hash": "824F6F1BFC148C54", "target": "" }
+    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_SEQ_00", "hash": "4C3DD09A8168A211", "target": "Chi ha successo nelle avventure sfrutta i <if(gnum4,propri,propri)> punti di forza, e dopo alcune commissioni per Aganbold inizi a capire quali siano i suoi." },
+    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_SEQ_01", "hash": "A2BFB21CBB3BF36A", "target": "Secondo l'eloquente Aganbold, la radice di coda cavallina acquatica è un rimedio da campo che chi vive d'avventure dovrebbe sempre avere. Poiché non ne avete né tu né lui, conviene andare a ovest nell'Intrico e tornare con otto radici." },
+    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_SEQ_02", "hash": "F24AD85C6EA05030", "target": "Hai trovato la mare's tail e raccolto otto radici. La polpa ha un piacevole profumo speziato: puoi credere che ne nasca una bevanda lenitiva, almeno per i sensi. Quanto alle infezioni...smetti di fantasticare e parla con Aganbold." },
+    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_SEQ_03", "hash": "91E7E5EFFF219308", "target": "Consegni le radici ad Aganbold e sfuggi ad altro lavoro rinunciando alla tua parte. Sarà poco generoso, ma sospetti che ti abbia raggirato per farti svolgere un'altra commissione..." },
+    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_TODO_00", "hash": "FF622B3ABA4AA22F", "target": "Raccogliere le radici di coda cavallina acquatica" },
+    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_TODO_01", "hash": "B225BED4C00320EF", "target": "Fare rapporto ad Aganbold" },
+    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_AGANBOLD_000_000", "hash": "9F7E8201BBE2DC69", "target": "<if(gnum4,Sorella,Fratello)>, puoi darmi qualche radice di coda cavallina acquatica? Non ne ho più per colpa di quei giovani scrocconi del Sudario Nero. Gli ho detto: «La tisana di radici ti sistemerà la pancia», e un attimo dopo gli avevo dato tutto!" },
+    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_AGANBOLD_000_001", "hash": "FEE74B37BABE33C3", "target": "Non ne hai nemmeno tu? Ma chiunque lavora qui dovrebbe portarne! Un impacco di mare's tail impedisce alle ferite di infettarsi, e tu sembri proprio <if(gnum4,una ragazza,un tipo)> da infezioni." },
+    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_AGANBOLD_000_002", "hash": "431B5D040FA2F032", "target": "Già che ne siamo sprovvisti entrambi, perché non vai a prenderne per noi? Direi che otto radici bastano." },
+    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_AGANBOLD_000_020", "hash": "8737D15BB650280E", "target": "Eccoti, <if(gnum4,sorella,fratello)>! Hai ciò che serve?" },
+    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_AGANBOLD_000_030", "hash": "824F6F1BFC148C54", "target": "Uno, due...sette e otto. Ora vanno preparate e, visto che entrambi...ne sei proprio <if(gnum4,sicura,sicuro)>? Ne vorrai una quando comincerà l'infezione. Be', se lo dici tu. Terrò tutto e ti ringrazio della gentilezza!" }
   ]
 }

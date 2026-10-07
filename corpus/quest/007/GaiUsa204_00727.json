@@ -2,18 +2,18 @@
   "conversation": "quest/007/GaiUsa204_00727",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_SEQ_00", "hash": "393C9355EC85085F", "target": "" },
-    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_SEQ_01", "hash": "285DDB0547E223EC", "target": "" },
-    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_SEQ_02", "hash": "A96B58739968EAF9", "target": "" },
-    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_SEQ_03", "hash": "69FC6E36534B3675", "target": "" },
-    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_TODO_00", "hash": "EF56760450A1D58A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_TODO_01", "hash": "D3DF7026C4424B31", "target": "" },
-    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_IANNA_000_000", "hash": "5FA5D621AAD7E706", "target": "" },
-    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_IANNA_000_001", "hash": "D5FF010C35571864", "target": "" },
-    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_IANNA_000_002", "hash": "728C4650ED3EDD13", "target": "" },
-    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_IANNA_000_003", "hash": "20CC59514A3CA2F1", "target": "" },
-    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_IANNA_000_040", "hash": "57F2A07C4FB4AF52", "target": "" },
-    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_IANNA_000_041", "hash": "2973871CD353AAE4", "target": "" },
-    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_POP_MESSAGE_000", "hash": "A540BBCF50A438C7", "target": "" }
+    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_SEQ_00", "hash": "393C9355EC85085F", "target": "Ianna della Locanda di Buscarron vorrebbe che uccidessi bestie spaventose al posto suo." },
+    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_SEQ_01", "hash": "285DDB0547E223EC", "target": "Le antilopi sono note per la loro tranquillità, ma di recente i branchi a sud della Locanda di Buscarron sono diventati sempre più ostili. Secondo Ianna, però, si indeboliscono quando vengono cosparsi di zuppa di uova di sparhawk. Avventurati a sud della locanda e usa la zuppa che ti ha dato per abbattere una scarred antelope." },
+    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_SEQ_02", "hash": "A96B58739968EAF9", "target": "Hai eliminato la bestia bellicosa. Riferisci il tuo successo a Ianna." },
+    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_SEQ_03", "hash": "69FC6E36534B3675", "target": "Ianna ti è grata perché l'hai aiutata a proteggere la sua seconda casa. Hai conquistato un'altra amicizia da queste parti." },
+    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_TODO_00", "hash": "EF56760450A1D58A", "target": "Usare la zuppa di uova di sparhawk su una scarred antelope e ucciderla" },
+    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_TODO_01", "hash": "D3DF7026C4424B31", "target": "Fare rapporto a Ianna" },
+    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_IANNA_000_000", "hash": "5FA5D621AAD7E706", "target": "Sembrate una persona valorosa. Potrei chiedervi un favore?" },
+    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_IANNA_000_001", "hash": "D5FF010C35571864", "target": "Di recente ho condiviso un boccale con una mercante di Ul'dah, che mi ha raccontato i pericoli della strada. Il peggiore, a sentir lei, era una bestia feroce che l'aveva quasi trafitta, a un ilm dalla morte, proprio quando pensava di aver raggiunto il sicuro abbraccio del bosco." },
+    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_IANNA_000_002", "hash": "728C4650ED3EDD13", "target": "Che bestia, dite? Non ci crederete, ma era... un'antilope! Sì, anch'io dubitavo delle mie orecchie, ma sembra che ultimamente a sud della locanda vaghi una razza particolarmente aggressiva. Le riconoscerete dalle cicatrici di battaglie furiose con uomini e altre bestie." },
+    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_IANNA_000_003", "hash": "20CC59514A3CA2F1", "target": "Ah, un'ultima cosa. Vorrei darvi questa ciotola appena preparata di zuppa di uova di sparhawk per aiutarvi in battaglia. Potete ridere, ma le spezie che contiene indeboliscono queste bestie erbivore. Ora fate attenzione e non lasciate che quegli occhi dolci vi ingannino, o la prossima birra che berrete uscirà dai tanti buchi nel vostro corpo." },
+    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_IANNA_000_040", "hash": "57F2A07C4FB4AF52", "target": "Per chi vive d'avventure, per i mercanti e per i lavoratori che vengono a godersi buona birra e compagnia, la locanda è una seconda casa, o perfino l'unica per i più sfortunati." },
+    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_IANNA_000_041", "hash": "2973871CD353AAE4", "target": "Saremmo sciocchi a non approfittare della protezione delle Sentinelle Cupe e della Faretra degli Dei, ma difendere la propria casa dà una soddisfazione speciale. Oggi ci avete reso tutti fieri." },
+    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_POP_MESSAGE_000", "hash": "A540BBCF50A438C7", "target": "Un feroce incubo cornuto si avventa su di te!" }
   ]
 }

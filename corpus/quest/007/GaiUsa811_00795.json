@@ -2,17 +2,17 @@
   "conversation": "quest/007/GaiUsa811_00795",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_SEQ_00", "hash": "38DE0A5E41FDF6ED", "target": "" },
-    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_SEQ_01", "hash": "3CA53F2436E15763", "target": "" },
-    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_SEQ_02", "hash": "C86D5CA49EBA494A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_SEQ_03", "hash": "DCDB23B46D4A3565", "target": "" },
-    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_TODO_00", "hash": "E0706D681F5F12CA", "target": "" },
-    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_TODO_01", "hash": "EECA8C5530E4D1A5", "target": "" },
-    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_GOGOLATA_000_000", "hash": "8EE6747DE079C2A2", "target": "" },
-    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_GOGOLATA_000_001", "hash": "874D8FEC5314830F", "target": "" },
-    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_GOGOLATA_000_020", "hash": "6623AA586738F950", "target": "" },
-    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_GOGOLATA_000_025", "hash": "3CAE73CEC6EC5207", "target": "" },
-    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_GOGOLATA_000_026", "hash": "182F3931CA45D907", "target": "" },
-    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_GOGOLATA_000_027", "hash": "526F4DAC57CC677B", "target": "" }
+    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_SEQ_00", "hash": "38DE0A5E41FDF6ED", "target": "Gogolata deve confessare qualcosa." },
+    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_SEQ_01", "hash": "3CA53F2436E15763", "target": "Gogolata ti confessa perché non vuole tornare a Ul'dah: dei banditi Qiqirn gli hanno rubato le merci, e tornare senza significa affrontare tutta l'ira della moglie. Sospetta che i ladri abbiano portato il bottino al loro covo a sud di Fallgourd Float. Recuperalo per risparmiargli un destino terribile." },
+    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_SEQ_02", "hash": "C86D5CA49EBA494A", "target": "Hai recuperato le merci rubate. Riportale a Gogolata al Tappo Galleggiante." },
+    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_SEQ_03", "hash": "DCDB23B46D4A3565", "target": "Pur sollevato dal ritorno dei suoi beni, Gogolata non è entusiasta di tornare a Ul'dah. Con le brutte voci che circolano, decide di prolungare ancora il soggiorno." },
+    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_TODO_00", "hash": "E0706D681F5F12CA", "target": "Recuperare le merci di Gogolata" },
+    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_TODO_01", "hash": "EECA8C5530E4D1A5", "target": "Restituire le merci a Gogolata" },
+    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_GOGOLATA_000_000", "hash": "8EE6747DE079C2A2", "target": "In verità, non desidero altro che tornare a Ul'dah, dove mi aspetta la mia amata moglie. Se non fosse per una piccola complicazione..." },
+    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_GOGOLATA_000_001", "hash": "874D8FEC5314830F", "target": "Vedete, le mie merci sono state rubate da quella spaventosa banda di ladri Qiqirn accampati a sud. Se tornassi a casa a mani vuote, l'ira di mia moglie farebbe sembrare la Calamità un piccolo incendio di sterpaglie. No, temo di dover prolungare il soggiorno..." },
+    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_GOGOLATA_000_020", "hash": "6623AA586738F950", "target": "Oh, povero me! Un mercante senza merci non vale uno stronzo di opo<-->opo! Come potrò mai ripresentarmi alla mia adorata moglie?" },
+    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_GOGOLATA_000_025", "hash": "3CAE73CEC6EC5207", "target": "L-le mie merci! Ma dove le avete trovate? Nel campo Qiqirn, proprio come vi ho detto? Assurdo! Non pensavo che avreste <italic(1)>davvero<italic(0)>... ehm!" },
+    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_GOGOLATA_000_026", "hash": "182F3931CA45D907", "target": "Ehm! Voglio dire che vi sono nuovamente debitore! Grazie a voi potrò finalmente tornare a Ul'dah, dove mi aspetta la mia amata moglie!" },
+    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_GOGOLATA_000_027", "hash": "526F4DAC57CC677B", "target": "...D'altra parte, ci sono quelle brutte voci. Un uomo mascherato, giusto? Le strade forse non sono ancora sicure. Per quanto mi addolori, temo di dover restare qui ancora un po'..." }
   ]
 }

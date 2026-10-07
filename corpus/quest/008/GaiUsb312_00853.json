@@ -2,18 +2,18 @@
   "conversation": "quest/008/GaiUsb312_00853",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb312_00853#TEXT_GAIUSB312_00853_SEQ_00", "hash": "325AB1463C8D63F8", "target": "" },
-    { "gameKey": "quest/008/GaiUsb312_00853#TEXT_GAIUSB312_00853_SEQ_01", "hash": "9E0375D6190E3BC4", "target": "" },
-    { "gameKey": "quest/008/GaiUsb312_00853#TEXT_GAIUSB312_00853_SEQ_02", "hash": "1983716B35EDD7DF", "target": "" },
-    { "gameKey": "quest/008/GaiUsb312_00853#TEXT_GAIUSB312_00853_SEQ_03", "hash": "56BA02C3D0F784E5", "target": "" },
-    { "gameKey": "quest/008/GaiUsb312_00853#TEXT_GAIUSB312_00853_SEQ_04", "hash": "85AFE5A6DCE3A682", "target": "" },
-    { "gameKey": "quest/008/GaiUsb312_00853#TEXT_GAIUSB312_00853_TODO_00", "hash": "BF6AD17161DA439F", "target": "" },
-    { "gameKey": "quest/008/GaiUsb312_00853#TEXT_GAIUSB312_00853_TODO_01", "hash": "CED468062937FCCC", "target": "" },
-    { "gameKey": "quest/008/GaiUsb312_00853#TEXT_GAIUSB312_00853_TODO_02", "hash": "C2F91EDC3D344021", "target": "" },
-    { "gameKey": "quest/008/GaiUsb312_00853#TEXT_GAIUSB312_00853_PEBALOH_000_000", "hash": "7B10C1FF679E4DDB", "target": "" },
-    { "gameKey": "quest/008/GaiUsb312_00853#TEXT_GAIUSB312_00853_PEBALOH_000_001", "hash": "7DD2310F9929EF48", "target": "" },
-    { "gameKey": "quest/008/GaiUsb312_00853#TEXT_GAIUSB312_00853_PEBALOH_000_030", "hash": "B67B92775E2A8ED4", "target": "" },
-    { "gameKey": "quest/008/GaiUsb312_00853#TEXT_GAIUSB312_00853_PEBALOH_000_031", "hash": "DACAC37EE37984CD", "target": "" },
-    { "gameKey": "quest/008/GaiUsb312_00853#TEXT_GAIUSB312_00853_POP_MESSAGE_000", "hash": "33B06FB644764478", "target": "" }
+    { "gameKey": "quest/008/GaiUsb312_00853#TEXT_GAIUSB312_00853_SEQ_00", "hash": "325AB1463C8D63F8", "target": "La domestica P'ebaloh ti chiede aiuto: i suoi giorni di battaglia sono ormai lontani." },
+    { "gameKey": "quest/008/GaiUsb312_00853#TEXT_GAIUSB312_00853_SEQ_01", "hash": "9E0375D6190E3BC4", "target": "Una mostruosità misteriosa è stata avvistata sulla spiaggia. Vai sul posto e uccidi tre pugil che sembrano radunarsi intorno a essa." },
+    { "gameKey": "quest/008/GaiUsb312_00853#TEXT_GAIUSB312_00853_SEQ_02", "hash": "1983716B35EDD7DF", "target": "Una carcassa in decomposizione attira i pugil nella zona. Porta via quel banchetto per mostri e tutto tornerà a posto." },
+    { "gameKey": "quest/008/GaiUsb312_00853#TEXT_GAIUSB312_00853_SEQ_03", "hash": "56BA02C3D0F784E5", "target": "Hai portato via la carcassa. Fai rapporto a P'ebaloh e cerca di restare sottovento rispetto a lei." },
+    { "gameKey": "quest/008/GaiUsb312_00853#TEXT_GAIUSB312_00853_SEQ_04", "hash": "85AFE5A6DCE3A682", "target": "Parlando con P'ebaloh scopri che i custodi hanno ripulito la spiaggia solo di recente. Evidentemente i visitatori pericolosi sono sempre più frequenti." },
+    { "gameKey": "quest/008/GaiUsb312_00853#TEXT_GAIUSB312_00853_TODO_00", "hash": "BF6AD17161DA439F", "target": "Uccidere i pugil" },
+    { "gameKey": "quest/008/GaiUsb312_00853#TEXT_GAIUSB312_00853_TODO_01", "hash": "CED468062937FCCC", "target": "Rimuovere la carcassa" },
+    { "gameKey": "quest/008/GaiUsb312_00853#TEXT_GAIUSB312_00853_TODO_02", "hash": "C2F91EDC3D344021", "target": "Fare rapporto a P'ebaloh" },
+    { "gameKey": "quest/008/GaiUsb312_00853#TEXT_GAIUSB312_00853_PEBALOH_000_000", "hash": "7B10C1FF679E4DDB", "target": "<if([gnum11<12],<if([gnum11<4],Buonasera,Buongiorno)>,<if([gnum11<17],Buongiorno,Buonasera)>)>, <if(gnum4,signora,signore)>, una parola, se posso. Una danzatrice ospite ha visto strani pesci sulla spiaggia ed è tornata a casa urlando. È una giovane assennata, quindi temo non si tratti di un capriccio." },
+    { "gameKey": "quest/008/GaiUsb312_00853#TEXT_GAIUSB312_00853_PEBALOH_000_001", "hash": "7DD2310F9929EF48", "target": "Finché non sappiamo la verità, la spiaggia non è adatta agli svaghi. Mi rivolgo di nuovo a voi. Possiamo disturbarvi perché andiate a controllarla?" },
+    { "gameKey": "quest/008/GaiUsb312_00853#TEXT_GAIUSB312_00853_PEBALOH_000_030", "hash": "B67B92775E2A8ED4", "target": "Pugil sulle spiagge di Costa del Sol! Viviamo in tempi strani. La carcassa deve essere stata portata a riva: sembra morta da più di un giorno o due, quando i custodi hanno ripulito la spiaggia l'ultima volta." },
+    { "gameKey": "quest/008/GaiUsb312_00853#TEXT_GAIUSB312_00853_PEBALOH_000_031", "hash": "DACAC37EE37984CD", "target": "Grazie, <if(gnum4,signora,signore)>. Non occorre restare sottovento, conosco già quell'odore. Temo che dovremo intensificare la manutenzione. Altrimenti il signor Gegeruju potrebbe avere una delle sue idee." },
+    { "gameKey": "quest/008/GaiUsb312_00853#TEXT_GAIUSB312_00853_POP_MESSAGE_000", "hash": "33B06FB644764478", "target": "Avverti un'aggressività anfibia nelle vicinanze!" }
   ]
 }

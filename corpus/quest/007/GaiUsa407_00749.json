@@ -2,15 +2,15 @@
   "conversation": "quest/007/GaiUsa407_00749",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_SEQ_00", "hash": "52868A59B22C44D9", "target": "" },
-    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_SEQ_01", "hash": "F07E12C9944DB19C", "target": "" },
-    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_SEQ_02", "hash": "4CA2C1675568866B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_SEQ_03", "hash": "2C5477D11895D2EE", "target": "" },
-    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_TODO_00", "hash": "A3FF32A62863BEE0", "target": "" },
-    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_TODO_01", "hash": "9A25BA8F6A1F080A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_CLAUDIEN_000_000", "hash": "D5C6316F0EE3D73C", "target": "" },
-    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_CLAUDIEN_000_001", "hash": "451FE3D94FA58BC5", "target": "" },
-    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_CLAUDIEN_000_002", "hash": "CFEFC45BC3F086E7", "target": "" },
-    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_CLAUDIEN_000_020", "hash": "DDB67863E6097AC5", "target": "" }
+    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_SEQ_00", "hash": "52868A59B22C44D9", "target": "Il ricercatore Claudian vorrebbe l'aiuto di un avventuriero per allontanare alcuni uccelli fastidiosi." },
+    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_SEQ_01", "hash": "F07E12C9944DB19C", "target": "Alati dispensatori di morte e distruzione devastano le ricerche di Claudian sulle rovine. Colloca spaventapasseri artigianali nei luoghi indicati a Ponte Alto." },
+    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_SEQ_02", "hash": "4CA2C1675568866B", "target": "Gli spaventapasseri sono stati collocati. Informa Claudian che i parassiti alati non disturberanno più le sue ricerche." },
+    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_SEQ_03", "hash": "2C5477D11895D2EE", "target": "Ora libero di immergersi nelle sue ricerche, Claudian ti ringrazia per l'aiuto." },
+    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_TODO_00", "hash": "A3FF32A62863BEE0", "target": "Collocare spaventapasseri artigianali nei luoghi indicati" },
+    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_TODO_01", "hash": "9A25BA8F6A1F080A", "target": "Fare rapporto a Claudian" },
+    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_CLAUDIEN_000_000", "hash": "D5C6316F0EE3D73C", "target": "<italic(1)>Non<italic(0)> guardare giù, Claudian! Non devi, non lo farai, <italic(1)>non puoi<italic(0)> guard─aaaaaahhh!" },
+    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_CLAUDIEN_000_001", "hash": "451FE3D94FA58BC5", "target": "Per i Dodici, <if(gnum4,buona donna,buon uomo)>, mi avete quasi fatto morire di paura! Ma perdonatemi: ultimamente sono un po' agitato, con quegli incubi alati che piombano da ogni direzione, beccandomi, punzecchiandomi e pizzicandomi." },
+    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_CLAUDIEN_000_002", "hash": "CFEFC45BC3F086E7", "target": "Potrei anche fare i bagagli e tornare a casa, perché non riuscirò a fare un onze di ricerca. Se però una persona gentile come voi usasse questi spaventapasseri per scacciare gli uccelli, sarebbe un'altra storia. Che ne dite?" },
+    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_CLAUDIEN_000_020", "hash": "DDB67863E6097AC5", "target": "<italic(1)>Non<italic(0)> guardare─oh, avete sistemato gli uccelli? Splendido lavoro! Ora scenderò per tornare alle ricerche. Ehm, non temete, arriverò da un momento all'altro─andate pure." }
   ]
 }

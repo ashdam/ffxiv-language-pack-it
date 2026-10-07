@@ -2,19 +2,19 @@
   "conversation": "quest/004/SubSea073_00485",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_SEQ_00", "hash": "F729B9B8DD759680", "target": "" },
-    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_SEQ_01", "hash": "716F9B4F2E2465F5", "target": "" },
-    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_SEQ_02", "hash": "BF464E1C78C96FEA", "target": "" },
-    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_SEQ_03", "hash": "E63C6E9348418ED0", "target": "" },
-    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_TODO_00", "hash": "06247BB94DD1F287", "target": "" },
-    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_TODO_01", "hash": "3C9A8565A9F08B95", "target": "" },
-    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_BROENRUHT_000_0", "hash": "AC19D05AE4332C71", "target": "" },
-    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_BROENRUHT_000_1", "hash": "5B3791D2372CBC91", "target": "" },
-    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_BROENRUHT_000_2", "hash": "4E300101B9A52F74", "target": "" },
-    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_BROENRUHT_000_3", "hash": "46605935D2FDE5B4", "target": "" },
-    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_BROENRUHT_000_10", "hash": "1E9C34C489BB76DA", "target": "" },
-    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_BROENRUHT_000_11", "hash": "8E8C1E96350B6788", "target": "" },
-    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_BROENRUHT_000_12", "hash": "BEE5B9F899A5C387", "target": "" },
-    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_POP_MESSAGE", "hash": "607C5507F39A0077", "target": "" }
+    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_SEQ_00", "hash": "F729B9B8DD759680", "target": "Lo zolfo impedisce a Broenruht di entrare nelle Blind Iron Mines." },
+    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_SEQ_01", "hash": "716F9B4F2E2465F5", "target": "Le interruzioni degli scavi possono minacciare il sostentamento dei minatori, ma l'eccesso di gas solforoso minaccia la loro stessa vita. Solo i cristalli di terra puri possono chiudere gli sbuffi di gas e bonificare le gallerie." },
+    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_SEQ_02", "hash": "BF464E1C78C96FEA", "target": "I cristalli di terra puri hanno fatto miracoli sugli sbuffi di gas. Informa Broenruht che le miniere non traboccano più di zolfo." },
+    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_SEQ_03", "hash": "E63C6E9348418ED0", "target": "La ricostruzione dopo la Calamità ha fatto crescere enormemente la domanda di minerali. Molti minatori rischierebbero la salute senza pensarci per i ricchi profitti, ma grazie alle tue imprese nessuno dovrà farlo." },
+    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_TODO_00", "hash": "06247BB94DD1F287", "target": "Usare i cristalli di terra puri sugli sbuffi di gas" },
+    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_TODO_01", "hash": "3C9A8565A9F08B95", "target": "Fare rapporto a Broenruht" },
+    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_BROENRUHT_000_0", "hash": "AC19D05AE4332C71", "target": "Be', stavolta ci siamo proprio scavati la fossa!" },
+    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_BROENRUHT_000_1", "hash": "5B3791D2372CBC91", "target": "Scavando nelle miniere abbiamo trovato zolfo, e ora le rocce sono impregnate di puzza di uova marce. Il gas è diventato insopportabile." },
+    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_BROENRUHT_000_2", "hash": "4E300101B9A52F74", "target": "Ti servirà questo cristallo di terra puro per risanare la terra e chiudere bene la perdita." },
+    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_BROENRUHT_000_3", "hash": "46605935D2FDE5B4", "target": "Fai solo attenzione ai syrphid cloud attirati dallo zolfo." },
+    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_BROENRUHT_000_10", "hash": "1E9C34C489BB76DA", "target": "Questa sì che è una boccata d'aria fresca!" },
+    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_BROENRUHT_000_11", "hash": "8E8C1E96350B6788", "target": "Per molti minatori un po' di zolfo non è nulla di speciale, ma sono io a dover scrivere alle famiglie quando quegli ingordi soffocano laggiù." },
+    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_BROENRUHT_000_12", "hash": "BEE5B9F899A5C387", "target": "I prezzi dei metalli dopo la Calamità ci renderanno ricchi o ci ammazzeranno." },
+    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_POP_MESSAGE", "hash": "607C5507F39A0077", "target": "Avverti una presenza ostile!" }
   ]
 }

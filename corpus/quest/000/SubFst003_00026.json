@@ -2,19 +2,19 @@
   "conversation": "quest/000/SubFst003_00026",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_SEQ_00", "hash": "507F402A3B70D867", "target": "" },
-    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_SEQ_01", "hash": "47AE7794E7F720E8", "target": "" },
-    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_SEQ_02", "hash": "332580F91FAA5467", "target": "" },
-    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_TODO_00", "hash": "6F6891B84AD9BB5F", "target": "" },
-    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_ETHELRED_000_1", "hash": "0EDBC6B216A77767", "target": "" },
-    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_ETHELRED_000_2", "hash": "806C6DA3D525AA53", "target": "" },
-    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_ETHELRED_000_3", "hash": "1247F30490F833AD", "target": "" },
-    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_WALDEW_000_10", "hash": "BD4DDAAD72C53329", "target": "" },
-    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_WALDEW_000_11", "hash": "527B7994BB98EF71", "target": "" },
-    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_WALDEW_000_12", "hash": "26A5D0C12104A571", "target": "" },
-    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_WALDEW_000_13", "hash": "4118E774AF915683", "target": "" },
-    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_WALDEW_000_14", "hash": "5A7C17560960A4C0", "target": "" },
-    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_WALDEW_000_15", "hash": "1CF93B10CE8F7AEB", "target": "" },
-    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_WALDEW_000_16", "hash": "46311C54FFB2A5CB", "target": "" }
+    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_SEQ_00", "hash": "507F402A3B70D867", "target": "Un botanico di nome Ethelred ha bisogno di un avventuriero che faccia una consegna per lui." },
+    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_SEQ_01", "hash": "47AE7794E7F720E8", "target": "Dopo averti insultato senza motivo, Ethelred ti chiede di consegnare una rosa di Azeyma a Waldew davanti alla Gilda degli Invocatori." },
+    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_SEQ_02", "hash": "332580F91FAA5467", "target": "Waldew è felice che Ethelred ti abbia affidato la consegna della rosa di Azeyma. Spiega che il botanico nutre da tempo immemorabile rancore verso gli avventurieri. Essere riuscito a mettere da parte la diffidenza per gli stranieri rappresenta un enorme passo avanti. Se Ethelred può superare i suoi pregiudizi, forse possono farlo anche altri gridaniani." },
+    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_TODO_00", "hash": "6F6891B84AD9BB5F", "target": "Consegnare la rosa di Azeyma a Waldew" },
+    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_ETHELRED_000_1", "hash": "0EDBC6B216A77767", "target": "Che gli dei vi dannino, <italic(1)>un altro<italic(0)> volto tra gli avventurieri!? Siete come mosche sul letame! Non so proprio cosa abbia fatto Gridania per meritarsi una simile piaga... \\<sputo>" },
+    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_ETHELRED_000_2", "hash": "806C6DA3D525AA53", "target": "\\<sospiro> Suppongo che i tempi stiano cambiando, e continuano a dirmi che dovrei... e forse <italic(1)>voi<italic(0)> potreste essere...<br>Oh, dei, aiutatemi, portate... portate questa rosa di Azeyma a Waldew di Stillglade Fane, volete?" },
+    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_ETHELRED_000_3", "hash": "1247F30490F833AD", "target": "Beh, che fate ancora lì? Andate a consegnare quella maledetta rosa!" },
+    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_WALDEW_000_10", "hash": "BD4DDAAD72C53329", "target": "Vi do il benvenuto alla Gilda degli Invocatori. Qui comunichiamo con gli elementali e seguiamo la loro guida. Eppure, devo confessarlo, gli elementali non mi hanno sussurrato del <italic(1)>vostro<italic(0)> arrivo." },
+    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_WALDEW_000_11", "hash": "527B7994BB98EF71", "target": "Avevamo davvero richiesto una rosa di Azeyma a Ethelred, ma il fatto che la portiate voi al suo posto significa..." },
+    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_WALDEW_000_12", "hash": "26A5D0C12104A571", "target": "...che è accaduto qualcosa di meraviglioso!" },
+    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_WALDEW_000_13", "hash": "4118E774AF915683", "target": "Ethelred nutre da molto tempo rancore verso i numerosi avventurieri passati dalle porte di Gridania. I suoi adorati fiori sono celebri per la loro bellezza, sapete, e un tempo erano tanto ambiti dai collezionisti uldahni che gli stranieri in cerca di fortuna li raccolsero fino a portarli quasi all'estinzione." },
+    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_WALDEW_000_14", "hash": "5A7C17560960A4C0", "target": "Eppure, se desideriamo la pace, dobbiamo tutti imparare a superare la diffidenza nata dal passato e vincere i nostri pregiudizi. Così ci ha insegnato la Veggente Anziana, e così viviamo." },
+    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_WALDEW_000_15", "hash": "1CF93B10CE8F7AEB", "target": "Dubito che sia stato facile per Ethelred affidarvi questa rosa di Azeyma. Quando saprà che l'abbiamo ricevuta, capirà che non tutti gli stranieri meritano disprezzo." },
+    { "gameKey": "quest/000/SubFst003_00026#TEXT_SUBFST003_00026_WALDEW_000_16", "hash": "46311C54FFB2A5CB", "target": "Davvero, è per volontà degli elementali che oggi siete qui. Vi prego di accettare questo segno della nostra gratitudine." }
   ]
 }

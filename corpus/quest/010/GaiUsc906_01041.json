@@ -2,19 +2,19 @@
   "conversation": "quest/010/GaiUsc906_01041",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_SEQ_00", "hash": "8DF2CDC5DEED5294", "target": "" },
-    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_SEQ_01", "hash": "E050CD2FA0579766", "target": "" },
-    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_SEQ_02", "hash": "0516B780CF36F623", "target": "" },
-    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_SEQ_03", "hash": "E1AD7A22318BCB1B", "target": "" },
-    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_TODO_00", "hash": "B32209ADE7F5C305", "target": "" },
-    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_TODO_01", "hash": "7BB08A32FE8462B9", "target": "" },
-    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_RAFOLD_000_000", "hash": "C017D7CA790C2FBF", "target": "" },
-    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_RAFOLD_000_001", "hash": "02D12828C5F631A1", "target": "" },
-    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_RAFOLD_000_002", "hash": "DCE7269278EDA131", "target": "" },
-    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_RAFOLD_000_003", "hash": "23B38C2806B2344D", "target": "" },
-    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_MEMEZOFU_000_010", "hash": "11E685DF134A29DF", "target": "" },
-    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_MEMEZOFU_000_011", "hash": "9E462B2D39BCC655", "target": "" },
-    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_MEMEZOFU_000_012", "hash": "BE32420C9B845134", "target": "" },
-    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_POP_MESSAGE_000", "hash": "105EACBA779B22E2", "target": "" }
+    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_SEQ_00", "hash": "8DF2CDC5DEED5294", "target": "Rafold spera di trasformare una maledizione in una cura." },
+    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_SEQ_01", "hash": "E050CD2FA0579766", "target": "Rafold ti ha chiesto di procurare un artiglio di grenade. Appostati agli Artigli di Dalamud e uccidi la creatura per ottenerne l'appendice." },
+    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_SEQ_02", "hash": "0516B780CF36F623", "target": "Hai ottenuto un artiglio di grenade. Consegnalo a Memezofu al Ceruleum Processing Plant." },
+    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_SEQ_03", "hash": "E1AD7A22318BCB1B", "target": "Memezofu è grato per la consegna: aveva appena esaurito gli artigli di grenade." },
+    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_TODO_00", "hash": "B32209ADE7F5C305", "target": "Appostarsi nel luogo indicato e uccidere un grenade per ottenerne l'artiglio" },
+    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_TODO_01", "hash": "7BB08A32FE8462B9", "target": "Consegnare l'artiglio di grenade a Memezofu" },
+    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_RAFOLD_000_000", "hash": "C017D7CA790C2FBF", "target": "Il pericolo si annida vicino agli Artigli di Dalamud: i venti sussurrano della presenza dei grenade." },
+    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_RAFOLD_000_001", "hash": "02D12828C5F631A1", "target": "Non è un piccolo parassita da schiacciare, ma il prezzo del dolore porta un premio: artigli di grenade." },
+    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_RAFOLD_000_002", "hash": "DCE7269278EDA131", "target": "Non conosco l'esatto effetto medicinale del reagente, ma so che serve a placare il mio alchimista: un effetto che da solo considero inestimabile." },
+    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_RAFOLD_000_003", "hash": "23B38C2806B2344D", "target": "E nei giorni a venire avremo certamente bisogno di unguenti. Quando avrete ucciso il grenade e raccolto il suo artiglio, vi chiederei di consegnarlo direttamente a Memezofu." },
+    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_MEMEZOFU_000_010", "hash": "11E685DF134A29DF", "target": "No, no, no... Temo che così non vada affatto. Come si pratica l'alchimia senza reagenti? Non posso certo creare qualcosa dal nulla!" },
+    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_MEMEZOFU_000_011", "hash": "9E462B2D39BCC655", "target": "Ah, sì, un artiglio di grenade, proprio quando li avevo finiti! È bello sapere che le mie suppliche a Rafold non sono state del tutto vane." },
+    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_MEMEZOFU_000_012", "hash": "BE32420C9B845134", "target": "Mi metterò subito a preparare pozioni. Vi ringrazio a nome delle tante vite che avete salvato portandomi questo." },
+    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_POP_MESSAGE_000", "hash": "105EACBA779B22E2", "target": "Avverti una presenza ostile!" }
   ]
 }

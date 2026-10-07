@@ -2,17 +2,17 @@
   "conversation": "quest/001/SubWil000_00149",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_SEQ_00", "hash": "AF7AA8A475CA8658", "target": "" },
-    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_SEQ_01", "hash": "3EEBE15B015A3773", "target": "" },
-    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_SEQ_02", "hash": "B8B343ED0D08E1DA", "target": "" },
-    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_TODO_00", "hash": "B12593D6D4F774DD", "target": "" },
-    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_WYMOND_000_1", "hash": "914A3C5880C15D9E", "target": "" },
-    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_WYMOND_000_2", "hash": "0CF8F49A27BB8DB7", "target": "" },
-    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_WYMOND_000_3", "hash": "8E9C640AE2FF8828", "target": "" },
-    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_GAGARUNA_000_5", "hash": "1C5E2FA9CFCC5C6C", "target": "" },
-    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_GAGARUNA_000_6", "hash": "0920DA0A0FA23C5D", "target": "" },
-    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_GAGARUNA_000_7", "hash": "D19346F9238550D9", "target": "" },
-    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_GAGARUNA_000_8", "hash": "4E066EBFB9B0894E", "target": "" },
-    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_GAGARUNA_000_9", "hash": "FDC3DD6C9BC685C7", "target": "" }
+    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_SEQ_00", "hash": "AF7AA8A475CA8658", "target": "Wymond vorrebbe sapere cosa pensi di Ul'dah." },
+    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_SEQ_01", "hash": "3EEBE15B015A3773", "target": "Da vero professionista, Wymond ha colto l'occasione per affidarti una consegna. Segui le sue istruzioni e porta il messaggio a Josias alla Gilda dei Pugili, nel Miraggio di Platino." },
+    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_SEQ_02", "hash": "B8B343ED0D08E1DA", "target": "La Gilda dei Pugili offre servizi di protezione, ma solo a chi può permetterseli. La busta senza firma conteneva la valutazione di un richiedente con finanze insufficienti. Purtroppo il Miraggio di Platino non è un ente di beneficenza." },
+    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_TODO_00", "hash": "B12593D6D4F774DD", "target": "Consegnare la busta senza firma a Josias" },
+    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_WYMOND_000_1", "hash": "914A3C5880C15D9E", "target": "Allora, come ti trovi a Ul'dah, <split(<string(gstr1)>, ,1)>? <if([gnum70==1],Eh? Come conosco il tuo nome? Eh! Le informazioni sono il mio mestiere\\, lo sai. Ti stupirebbe sapere quante cose conosco.,<if([gnum70==2],Eh? Come conosco il tuo nome? Eh! Le informazioni sono il mio mestiere\\, lo sai. Ti stupirebbe sapere quante cose conosco.,<if([gnum70==3],Hai già fatto amicizia con qualcuno che conta? Ah! Be'\\, quando un giorno la Sultana ti darà ascolto\\, spero che non ti dimenticherai del vecchio Wymond!,Eh? Come conosco il tuo nome? Eh! Le informazioni sono il mio mestiere\\, lo sai. Ti stupirebbe sapere quante cose conosco.)>)>)>" },
+    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_WYMOND_000_2", "hash": "0CF8F49A27BB8DB7", "target": "Già che sei qui, potresti farmi un favore e portare questa missiva a Josias al Miraggio di Platino." },
+    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_WYMOND_000_3", "hash": "8E9C640AE2FF8828", "target": "È proprio laggiù e ti darà anche qualche Gil per il disturbo. Magari tutti i lavori in città fossero così facili, eh?" },
+    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_GAGARUNA_000_5", "hash": "1C5E2FA9CFCC5C6C", "target": "Avete affari da sbrigare al Miraggio di Platino <if([gnum11<12],<if([gnum11<4],stasera,stamattina)>,<if([gnum11<17],oggi,stasera)>)>?" },
+    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_GAGARUNA_000_6", "hash": "0920DA0A0FA23C5D", "target": "Una missiva di Wymond? Bene, diamo un'occhiata..." },
+    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_GAGARUNA_000_7", "hash": "D19346F9238550D9", "target": "«L'uccello è spennato. Lasciate che i segugi banchettino.» \\<sospiro> Così va il mondo." },
+    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_GAGARUNA_000_8", "hash": "4E066EBFB9B0894E", "target": "Oh, questo? Vedete, la gilda viene spesso ingaggiata per offrire servizi di protezione. Purtroppo per questo richiedente, l'indagine di Wymond ha rivelato che le sue finanze sono... carenti." },
+    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_GAGARUNA_000_9", "hash": "FDC3DD6C9BC685C7", "target": "Forse a chi vive d'avventure come voi non dispiace lavorare gratis, ma noi dobbiamo mandare avanti un'attività. Io stesso ho quattro bocche da sfamare, quindi temo che questo <italic(1)>uccello<italic(0)> dovrà cavarsela da solo." }
   ]
 }

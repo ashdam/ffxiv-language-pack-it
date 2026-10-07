@@ -2,19 +2,19 @@
   "conversation": "quest/002/SubWil031_00223",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_SEQ_00", "hash": "D6854D2131DD57DB", "target": "" },
-    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_SEQ_01", "hash": "42BCF7999A9ADE55", "target": "" },
-    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_SEQ_02", "hash": "F9E38CF0BA8BB562", "target": "" },
-    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_SEQ_03", "hash": "01AC7A28583A1F98", "target": "" },
-    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_TODO_00", "hash": "60665BC668971BA6", "target": "" },
-    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_TODO_01", "hash": "0096C180BE3D13BC", "target": "" },
-    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_GUNTRAM_001", "hash": "87D484EF4A59D1AB", "target": "" },
-    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_GUNTRAM_002", "hash": "09563F582FB2846A", "target": "" },
-    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_GUNTRAM_003", "hash": "F187C76F13994F8A", "target": "" },
-    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_GUNTRAM_011", "hash": "4DB45EDA6728AE89", "target": "" },
-    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_GUNTRAM_012", "hash": "EE1311C57236E33B", "target": "" },
-    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_GUNTRAM_013", "hash": "6B7B52112576D3CA", "target": "" },
-    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_GUNTRAM_014", "hash": "6B69EC9D1B5D7705", "target": "" },
-    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_GUNTRAM_015", "hash": "A4BEC4C79F9A55A3", "target": "" }
+    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_SEQ_00", "hash": "D6854D2131DD57DB", "target": "Il mercante Guntram rovista furiosamente tra le sue merci al Crocevia dello Scorpione, con tutta l'aria di un uomo che ha perso qualcosa." },
+    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_SEQ_01", "hash": "42BCF7999A9ADE55", "target": "Per ragioni ancora poco chiare, Guntram sostiene di avere urgente bisogno di quattro bottiglie di sangue di kyactus, che si può estrarre dai corpi di kyactus appena uccisi." },
+    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_SEQ_02", "hash": "F9E38CF0BA8BB562", "target": "Torna al Crocevia dello Scorpione e consegna a Guntram il sangue di kyactus che hai raccolto." },
+    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_SEQ_03", "hash": "01AC7A28583A1F98", "target": "Guntram intende usare il sangue di kyactus che gli hai fornito per riempire le scorte esaurite del ricercato tonico di Radz<-->at<-->Han, certo che quest'ultimo sia tanto poco conosciuto a Ul'dah che nessun cliente noterà la differenza." },
+    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_TODO_00", "hash": "60665BC668971BA6", "target": "Uccidere i kyactus e raccogliere bottiglie di sangue di kyactus" },
+    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_TODO_01", "hash": "0096C180BE3D13BC", "target": "Consegnare le bottiglie di sangue di kyactus a Guntram" },
+    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_GUNTRAM_001", "hash": "87D484EF4A59D1AB", "target": "No, no, no, no, no, no, no, no, no, no! Non può succedere! Non c'è tempo per farsene mandare altro e non...<br>\\<sussulto> Tu, laggiù!" },
+    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_GUNTRAM_002", "hash": "09563F582FB2846A", "target": "Ti prego, devi aiutarmi. Uccidi tutti i kyactus che servono per raccogliere quattro bottiglie del loro sangue. Non m'importa se devi sterminare quei piccoli bastardi verdi!" },
+    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_GUNTRAM_003", "hash": "F187C76F13994F8A", "target": "Ti prego, non c'è tempo per spiegare! Sappi solo che ne va della mia vita. Per l'amor degli dei, sbrigati, <if(gnum4,donna,uomo)>!" },
+    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_GUNTRAM_011", "hash": "4DB45EDA6728AE89", "target": "Hai portato il sangue di kyactus? Tutte e quattro le bottiglie? Fammi vedere!" },
+    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_GUNTRAM_012", "hash": "EE1311C57236E33B", "target": "Uff, mi hai salvato la pelle. Mi ero fermato a controllare le merci sulla strada per Ul'dah e ho visto che tutte le bottiglie di tonico per la pelle di Radz<-->at<-->Han erano vuote come una promessa garleana." },
+    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_GUNTRAM_013", "hash": "6B7B52112576D3CA", "target": "Sembra che i tappi si siano allentati durante il trasporto e sia fuoriuscito tutto. Ma mi rifiuto di far dire che Guntram non ha mantenuto una promessa di consegna." },
+    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_GUNTRAM_014", "hash": "6B69EC9D1B5D7705", "target": "Pare che il sangue di kyactus aiuti a mantenere elastica la pelle. Userò quello che mi hai portato per riempire le bottiglie vuote, e tutte quelle belle signore uldahne non si accorgeranno di niente." },
+    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_GUNTRAM_015", "hash": "A4BEC4C79F9A55A3", "target": "Oh, non preoccuparti che ci scoprano. Il tonico per la pelle di Radz<-->at<-->Han è ancora raro, soprattutto così a sud. Scommetto che nessuno a Ul'dah saprebbe distinguerlo da un'ampolla del proprio piscio." }
   ]
 }

@@ -2,16 +2,16 @@
   "conversation": "quest/003/SubSea102_00399",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_SEQ_00", "hash": "6981BFB30A44720D", "target": "" },
-    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_SEQ_01", "hash": "1545657C9AD6A515", "target": "" },
-    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_SEQ_02", "hash": "41DEEB36B3CB4458", "target": "" },
-    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_SEQ_03", "hash": "C0E30FDF746AF392", "target": "" },
-    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_TODO_00", "hash": "E28C8997F9808A35", "target": "" },
-    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_TODO_01", "hash": "185BB1E68B38C755", "target": "" },
-    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_WDHOVAKA_000_1", "hash": "928C85CF8C76C7A8", "target": "" },
-    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_WDHOVAKA_000_2", "hash": "63BE9B6D1319A059", "target": "" },
-    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_WDHOVAKA_000_3", "hash": "EFB7B7E574809F6F", "target": "" },
-    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_WDHOVAKA_000_11", "hash": "0D40504B6FEF64C7", "target": "" },
-    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_WDHOVAKA_000_12", "hash": "74A0A07AF2E2744F", "target": "" }
+    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_SEQ_00", "hash": "6981BFB30A44720D", "target": "W'dhovaka, un'operatrice del Montacielo, cerca qualcuno che l'aiuti con i problemi causati dai megalocrab." },
+    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_SEQ_01", "hash": "1545657C9AD6A515", "target": "Ogni involucro di pallone rovinato riduce la quantità di merci trasportabile dal Montacielo. Uccidi cinque megalocrab per mantenere le casse in movimento." },
+    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_SEQ_02", "hash": "41DEEB36B3CB4458", "target": "Hai ucciso i megalocrab. Torna al Montacielo e fai rapporto a W'dhovaka." },
+    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_SEQ_03", "hash": "C0E30FDF746AF392", "target": "Grazie ai gusci che hai spaccato, gli involucri dei palloni saranno al sicuro dai megalocrab predoni per un po'. Ma, con la domanda di trasporto merci in continuo aumento, sembra necessaria una soluzione più duratura." },
+    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_TODO_00", "hash": "E28C8997F9808A35", "target": "Uccidere megalocrab" },
+    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_TODO_01", "hash": "185BB1E68B38C755", "target": "Fare rapporto a W'dhovaka al Montacielo" },
+    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_WDHOVAKA_000_1", "hash": "928C85CF8C76C7A8", "target": "Ah, per l'amore di Llymlaen, non di nuovo! Il cuoio è ridotto a brandelli! Eh? No, i miei pantaloni non hanno niente che non va, <if(gnum4,sfrontata,sfrontato)>." },
+    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_WDHOVAKA_000_2", "hash": "63BE9B6D1319A059", "target": "Sono i megalocrab: si sono accaniti sugli involucri dei palloni che ho lasciato ad asciugare sulle rocce. Quelle dannate chele pensano di aver trovato un calamaro o chissà cosa e cominciano a rosicchiare." },
+    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_WDHOVAKA_000_3", "hash": "EFB7B7E574809F6F", "target": "Meno palloni in aria significa meno merci sollevate, e questo non mi va affatto. Cercate un lavoretto rapido? Perché non spaccate qualche guscio prima di ripartire? Se riusciste ad abbattere cinque di quei maledetti, per ora dovrebbe bastare." },
+    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_WDHOVAKA_000_11", "hash": "0D40504B6FEF64C7", "target": "Avete sistemato quelle chele? Finalmente ce ne siamo liberati! Bel lavoro, <if(gnum4,ragazza,ragazzo)>." },
+    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_WDHOVAKA_000_12", "hash": "74A0A07AF2E2744F", "target": "Ma non passerà molto prima che altri granchi arrivino a reclamare il territorio. E i nostri carichi aumentano sempre, con tutta questa ricostruzione. Se non voglio finire sepolta da una montagna di casse, devo trovare una soluzione più duratura al problema." }
   ]
 }

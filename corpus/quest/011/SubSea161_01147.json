@@ -2,18 +2,18 @@
   "conversation": "quest/011/SubSea161_01147",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_SEQ_00", "hash": "41910215B3A8F75F", "target": "" },
-    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_SEQ_01", "hash": "B44BA14404EB6955", "target": "" },
-    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_SEQ_02", "hash": "907F1D8FAD7323EA", "target": "" },
-    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_SEQ_03", "hash": "478414697F25BAD5", "target": "" },
-    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_TODO_00", "hash": "01066D617A1BB14C", "target": "" },
-    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_TODO_01", "hash": "A236A68FCA037908", "target": "" },
-    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_FALKBRYDA_000_000", "hash": "57C13E707D59EAA7", "target": "" },
-    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_FALKBRYDA_000_001", "hash": "2778D3EF72F3C7E0", "target": "" },
-    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_FALKBRYDA_000_020", "hash": "1B6AEC8894C358D8", "target": "" },
-    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_FALKBRYDA_000_021", "hash": "864930852FC52171", "target": "" },
-    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_FALKBRYDA_000_022", "hash": "B00A11FBE810C62E", "target": "" },
-    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_FALKBRYDA_000_023", "hash": "2CCCA8798669DCC0", "target": "" },
-    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_POP_MESSAGE_000", "hash": "244024646784DA7C", "target": "" }
+    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_SEQ_00", "hash": "41910215B3A8F75F", "target": "A quanto pare la comandante Falkbryda ha un compito per te. Fa piacere sapere che almeno una persona nell'accampamento gradisce la tua presenza." },
+    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_SEQ_01", "hash": "B44BA14404EB6955", "target": "Meglio un uccello in mano che due nel cespuglio, ma i troppi dodo che nidificano attirano predatori al campo. Devi rimuovere il nido e abbattere i dodo che si oppongono." },
+    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_SEQ_02", "hash": "907F1D8FAD7323EA", "target": "Il nido è ormai solo un ricordo. Comunica il tuo successo a Falkbryda." },
+    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_SEQ_03", "hash": "478414697F25BAD5", "target": "Falkbryda ti loda per la rapidità e poi ti ringrazia raccontandoti del suo accampamento. Qualcosa ti dice che qui resta ancora lavoro da fare." },
+    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_TODO_00", "hash": "01066D617A1BB14C", "target": "Rimuovere il nido del dodo ed eliminare i dodo" },
+    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_TODO_01", "hash": "A236A68FCA037908", "target": "Fare rapporto a Falkbryda" },
+    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_FALKBRYDA_000_000", "hash": "57C13E707D59EAA7", "target": "Fermati un po', <split(<string(gstr1)>, ,1)>. Non si dirà che chi viene a Campo Skull Valley in cerca d'avventure se ne va senza una paga onesta per un lavoro onesto." },
+    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_FALKBRYDA_000_001", "hash": "2778D3EF72F3C7E0", "target": "Abbiamo un problema che altri accampamenti potrebbero invidiare. I dodo sono così numerosi che nidificano persino nelle caserme. Il nido va rimosso subito, prima che attiri bestie pericolose per gli uomini oltre che per gli uccelli." },
+    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_FALKBRYDA_000_020", "hash": "1B6AEC8894C358D8", "target": "Che rapidità! Si dice proprio che dove un soldato indugia, chi vive d'avventure si affretta." },
+    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_FALKBRYDA_000_021", "hash": "864930852FC52171", "target": "Per quanto sembri pacifico adesso, questo accampamento è stato costruito per difenderci dai Kobold di O'Ghomoro a nord. Non dimentichiamo il nostro scopo: basta guardare il nome." },
+    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_FALKBRYDA_000_022", "hash": "B00A11FBE810C62E", "target": "Un tempo il fondo della valle era ricoperto dei teschi dei Kobold che avevamo ucciso, così nessun invasore poteva raggiungere lo sbocco meridionale e gli insediamenti oltre senza calpestare la morte a ogni passo." },
+    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_FALKBRYDA_000_023", "hash": "2CCCA8798669DCC0", "target": "Oggi, invece, rischiamo di calpestare uova di dodo a ogni svolta... o le vipere che se ne nutrono. I dodo portati dai coloni sono tornati selvatici e ci riforniscono di carne, uova e mal di testa." },
+    { "gameKey": "quest/011/SubSea161_01147#TEXT_SUBSEA161_01147_POP_MESSAGE_000", "hash": "244024646784DA7C", "target": "Avverti una presenza genitoriale infuriata!" }
   ]
 }

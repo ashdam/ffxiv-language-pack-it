@@ -2,16 +2,16 @@
   "conversation": "quest/000/SubFst010_00001",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_SEQ_00", "hash": "4E31C8E4CC347DDC", "target": "" },
-    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_SEQ_01", "hash": "C80B115303C8F239", "target": "" },
-    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_SEQ_02", "hash": "D373F223EDE7A289", "target": "" },
-    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_TODO_00", "hash": "1BA4DC07885EF773", "target": "" },
-    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_BERNADETTE_000_1", "hash": "D5EEF4A67006A97D", "target": "" },
-    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_BERNADETTE_000_2", "hash": "5EF88A7801EA249A", "target": "" },
-    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_BERNADETTE_000_3", "hash": "C14ACD6F5A34CF99", "target": "" },
-    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_BERNADETTE_000_4", "hash": "625CEBFD44EE63A3", "target": "" },
-    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_CHANSTELOUP_000_10", "hash": "08D70A274382A264", "target": "" },
-    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_CHANSTELOUP_000_11", "hash": "4550065549E0332A", "target": "" },
-    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_CHANSTELOUP_000_12", "hash": "E66A38E39AAF1621", "target": "" }
+    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_SEQ_00", "hash": "4E31C8E4CC347DDC", "target": "Bernadette cerca avventurieri desiderosi di dimostrare il proprio valore." },
+    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_SEQ_01", "hash": "C80B115303C8F239", "target": "Bernadette ti informa che la Faretra degli Dei cerca avventurieri ambiziosi disposti ad aiutarla e ti incoraggia a presentarti a Chansteloup davanti alla Gilda degli Arcieri." },
+    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_SEQ_02", "hash": "D373F223EDE7A289", "target": "Pur scettico, Chansteloup è disposto a offrirti l'occasione di dimostrare il tuo valore." },
+    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_TODO_00", "hash": "1BA4DC07885EF773", "target": "Parlare con Chansteloup" },
+    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_BERNADETTE_000_1", "hash": "D5EEF4A67006A97D", "target": "Siete qui a Gridania da poco? In cerca di fama e fortuna, forse?" },
+    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_BERNADETTE_000_2", "hash": "5EF88A7801EA249A", "target": "Se avete fiducia nelle vostre capacità, vi esorto a parlare con Chansteloup della Faretra degli Dei. Lo troverete di guardia davanti alla Gilda degli Arcieri." },
+    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_BERNADETTE_000_3", "hash": "C14ACD6F5A34CF99", "target": "Ultimamente, le creature del Bosco dei Dodici si comportano in modo del tutto innaturale, e spetta alla Faretra degli Dei placarle. Ahimè, gli uomini scarseggiano." },
+    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_BERNADETTE_000_4", "hash": "625CEBFD44EE63A3", "target": "Per questo cercano avventurieri capaci che rinforzino i loro ranghi. Sono certa che la vostra offerta d'aiuto sarebbe ben accolta." },
+    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_CHANSTELOUP_000_10", "hash": "08D70A274382A264", "target": "Bernadette ha mandato <italic(1)>te<italic(0)> da me? Hmph!" },
+    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_CHANSTELOUP_000_11", "hash": "4550065549E0332A", "target": "Beh, con esperienza o senza, se vuoi dimostrare il tuo valore alla gente di Gridania, hai fatto bene a venire." },
+    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_CHANSTELOUP_000_12", "hash": "E66A38E39AAF1621", "target": "<italic(1)>Vuoi<italic(0)> dimostrare il tuo valore, non è vero?" }
   ]
 }

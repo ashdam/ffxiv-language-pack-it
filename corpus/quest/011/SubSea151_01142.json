@@ -2,18 +2,18 @@
   "conversation": "quest/011/SubSea151_01142",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SEQ_00", "hash": "390F65045B6E60AA", "target": "" },
-    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SEQ_01", "hash": "FA71CC443FA0A02C", "target": "" },
-    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SEQ_02", "hash": "2AD2287650FFD803", "target": "" },
-    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SEQ_03", "hash": "068F3239057569BB", "target": "" },
-    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_TODO_00", "hash": "C6F7A12CE6ACF707", "target": "" },
-    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_TODO_01", "hash": "2DE9FA0A0E8F97D4", "target": "" },
-    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_000", "hash": "4511D820A7894810", "target": "" },
-    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_001", "hash": "C35BCE4A1085A813", "target": "" },
-    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_002", "hash": "74BAEC0BBB5C01D3", "target": "" },
-    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_003", "hash": "CFCB5FA90D7B5A53", "target": "" },
-    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_010", "hash": "85379D800767AD3C", "target": "" },
-    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_011", "hash": "A9C2806A392FD71F", "target": "" },
-    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_012", "hash": "3AE67EA5A7734B7A", "target": "" }
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SEQ_00", "hash": "390F65045B6E60AA", "target": "La soldata S'nairoh ha bisogno del tuo aiuto per difendere Aleport." },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SEQ_01", "hash": "FA71CC443FA0A02C", "target": "C'è una prima volta per tutto e, purtroppo per S'nairoh, il suo primo assaggio di guerra arriva quando può contare solo su chi passa in cerca d'avventure per farle da scudo. Devi uccidere cinque puk hatchling mentre lei arma il cannone." },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SEQ_02", "hash": "2AD2287650FFD803", "target": "I poveri puk giacciono sconfitti a terra, morti poche ore dopo aver lasciato il nido. A quanto pare oggi ci sono novizi da entrambi i lati dei bastioni: la vittoria ti è sembrata fin troppo facile. Fai rapporto a S'nairoh." },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SEQ_03", "hash": "068F3239057569BB", "target": "Le bestiole non erano una minaccia per Aleport. Versare sangue innocente, anche se di bestie, sta diventando per te una specie di rischio del mestiere." },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_TODO_00", "hash": "C6F7A12CE6ACF707", "target": "Uccidere i puk hatchling" },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_TODO_01", "hash": "2DE9FA0A0E8F97D4", "target": "Fare rapporto alla soldata S'nairoh" },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_000", "hash": "4511D820A7894810", "target": "Attenzione, nemici in cielo! R-Riprenditi, soldata! S-Sei stata addestrata per questo... anche se le sole azioni che hai visto sono state risse di strada, zuffe in taverna e scazzottate su chi barava a dama..." },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_001", "hash": "C35BCE4A1085A813", "target": "Prima di tutto devo preparare il cannone. Ora ripassiamo i passaggi. Ehm... giusto! «Assicurati di avere aiuto, perché armare un cannone non è cosa rapida.»" },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_002", "hash": "74BAEC0BBB5C01D3", "target": "Fin qui tutto bene! Prenderò C'mell e... C'mell? Quella ragazza! Non si trova mai quando serve. Bene, il sergente diceva sempre di improvvisare!" },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_003", "hash": "CFCB5FA90D7B5A53", "target": "Voi, laggiù! Voi che vivete d'avventure, Limsa Lominsa ha bisogno del vostro servizio! Rallentate il nemico mentre armo il cannone. Sarò pronta prima che la quinta carcassa si raffreddi, ve lo prometto!" },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_010", "hash": "85379D800767AD3C", "target": "Pronta a sparare! Mantengo le promesse... e <italic(1)>voi<italic(0)> mantenete ben affilate le vostre abilità, vedo! Un momento, ho appena ricevuto un dispaccio..." },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_011", "hash": "A9C2806A392FD71F", "target": "Cosa? <italic(1)>Non<italic(0)> stavano attaccando Aleport? Ma allora...! Cosa, non siamo abbastanza importanti?<br>Erano solo piccoli? Be', bisogna essere più stupidi di una scatola di capelli per volare verso una postazione di cannoni, coi tempi che corrono!" },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_012", "hash": "3AE67EA5A7734B7A", "target": "Suppongo che tutto sia bene quel che finisce bene. Ma... devo ammettere che non vedevo l'ora di mettere il mio addestramento a <italic(1)>vero<italic(0)> uso. Non sono entrata nel Maelstrom per sedare risse, sapete. E ora devo pulire il cannone. \\<sospiro>" }
   ]
 }

@@ -2,19 +2,19 @@
   "conversation": "quest/009/GaiUsc207_00966",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_SEQ_00", "hash": "7AD5F6340F26C5B8", "target": "" },
-    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_SEQ_01", "hash": "B35E018DDF9964FD", "target": "" },
-    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_SEQ_02", "hash": "014A8842CACBCD5A", "target": "" },
-    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_SEQ_03", "hash": "2AE2F4FE2C21DB22", "target": "" },
-    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_TODO_00", "hash": "953309D48875139C", "target": "" },
-    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_TODO_01", "hash": "CD9D0E8B6461CEC8", "target": "" },
-    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_000", "hash": "620E0DDC7DCD9557", "target": "" },
-    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_001", "hash": "53762E3675D6FB45", "target": "" },
-    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_002", "hash": "169FB8FED28D7069", "target": "" },
-    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_003", "hash": "9D8CE1A98F24E6C9", "target": "" },
-    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_010", "hash": "5897430E9CBABCE9", "target": "" },
-    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_020", "hash": "DB17454A371A7810", "target": "" },
-    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_021", "hash": "F3082DCE5046DE28", "target": "" },
-    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_022", "hash": "1A7207C50B9B2C36", "target": "" }
+    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_SEQ_00", "hash": "7AD5F6340F26C5B8", "target": "I relitti infestati contengono ogni sorta di carico prezioso, ed Erapi Taropi crede di poterci trovare proprio la spezia che renderà la sua zuppa un capolavoro di sapore." },
+    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_SEQ_01", "hash": "B35E018DDF9964FD", "target": "Costretto ad aspettare che gli spiriti abbandonino le Isole di Umbra, il riluttante saccheggiatore Erapi Taropi si dedica alla cena. Anche se la sua zuppa di pesce ti sembra avere un buon profumo, vuole comunque il tuo aiuto per migliorarla. Avventurati nel Cimitero delle Navi e riporta una manciata di spezie dell'Estremo Oriente da una cassa abbandonata." },
+    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_SEQ_02", "hash": "014A8842CACBCD5A", "target": "Trovi la cassa e prendi una manciata del suo contenuto. Le spezie sono sempre così mollicce? Nell'Estremo Oriente hanno proprio altre abitudini. Consegna le spezie alle mani più esperte di Erapi Taropi." },
+    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_SEQ_03", "hash": "2AE2F4FE2C21DB22", "target": "Consegni le spezie a Erapi Taropi, che scopre che sono un ammasso di muffa... <italic(1)>dopo<italic(0)> averle mescolate alla zuppa. Quell'odore ti fa passare di colpo l'appetito, e il povero Erapi Taropi comincia a contare tristemente i suoi Gil per comprare nuove provviste." },
+    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_TODO_00", "hash": "953309D48875139C", "target": "Raccogliere le spezie dell'Estremo Oriente dalla cassa" },
+    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_TODO_01", "hash": "CD9D0E8B6461CEC8", "target": "Dare le spezie a Erapi Taropi" },
+    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_000", "hash": "620E0DDC7DCD9557", "target": "Be', sono proprio nei guai fino al collo. Soldi <italic(1)>facili<italic(0)>, dicevano. Basta entrare, raccogliere le merci portate a riva e andarsene. “Tutti ti prenderanno per un fantasma!” Bah! Forse avrebbe funzionato, se non ci fossero i <italic(1)>veri<italic(0)> spiriti dei morti a camminare in giro." },
+    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_001", "hash": "53762E3675D6FB45", "target": "È un dannato peccato, ma niente vale la pena di scatenare la furia di quegli scheletri. Tutto quel bottino a portata di mano, e io non posso mettere le mani su altro che un mestolo." },
+    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_002", "hash": "169FB8FED28D7069", "target": "...Che c'è? Bisogna pur mangiare mentre si aspetta che gli spiriti inquieti vadano a vagare altrove. Anche tu sembri avere fame. Ti va un po' di questa zuppa? L'ho fatta io!" },
+    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_003", "hash": "9D8CE1A98F24E6C9", "target": "Non avevo altro che sale per condirla, però, quindi è un po' insipida. Mentre la tengo d'occhio, perché non fai un salto al Cimitero a prendere delle spezie? Avevo visto della bella roba dell'Estremo Oriente, prima di dover scappare per colpa di un fantasma." },
+    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_010", "hash": "5897430E9CBABCE9", "target": "Le hai prese? La zuppa sta venendo proprio bene. Ho sempre saputo fare una buona zuppa..." },
+    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_020", "hash": "DB17454A371A7810", "target": "Ah! Visto? Che ti avevo detto? Lo sapevo che erano lì. Ora le butto dentro e sarà un pasto degno di un Ammir─" },
+    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_021", "hash": "F3082DCE5046DE28", "target": "\\<annusa> Ugggh, puzza di <italic(1)>piedi<italic(0)>! Ma da quanto tempo stavano lì quelle spezie, nel Cimitero? \\<sospiro> Ora non ho più neanche la cena." },
+    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_022", "hash": "1A7207C50B9B2C36", "target": "Gliel'avevo detto che era una brutta idea. Soldi facili, dicevano. E lo saranno... per la gente di quest'isola. Dovrò pagarli per altri popoto e altra panna." }
   ]
 }

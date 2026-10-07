@@ -2,17 +2,17 @@
   "conversation": "quest/009/GaiUsb906_00929",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_SEQ_00", "hash": "B2DB3D4C079DC9DC", "target": "" },
-    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_SEQ_01", "hash": "46478300E86BA32D", "target": "" },
-    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_SEQ_02", "hash": "CE85475E0DE11A64", "target": "" },
-    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_TODO_00", "hash": "2BF65CFC6979077F", "target": "" },
-    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_JEANTREMONT_000_000", "hash": "AA109841E0F5CE9A", "target": "" },
-    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_JEANTREMONT_000_001", "hash": "C13BCDAABE3B7CE1", "target": "" },
-    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_MARCELAIN_000_010", "hash": "54D7475A346FEBFF", "target": "" },
-    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_MARCELAIN_000_011", "hash": "82F5B7625B6F0D23", "target": "" },
-    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_MARCELAIN_000_012", "hash": "B53BD255B216D7BD", "target": "" },
-    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_MARCELAIN_000_050", "hash": "5F615F1633F57EC4", "target": "" },
-    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_MARCELAIN_000_051", "hash": "804EE0259C46973B", "target": "" },
-    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_MARCELAIN_000_052", "hash": "73A28C0E43902FB0", "target": "" }
+    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_SEQ_00", "hash": "B2DB3D4C079DC9DC", "target": "Un buon comandante guarda ai suoi uomini invece che ai superiori, e Ser Jeantremont, un cavaliere di tale indole, cerca il tuo aiuto." },
+    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_SEQ_01", "hash": "46478300E86BA32D", "target": "I combattimenti incessanti hanno esaurito le forze dei dragoni e della gente comune al Fronte di Whitebrim. Mortificato ma risoluto, Ser Jeantremont ti chiede di supplicare Ser Marcelain, custode delle Porte del Giudizio, di mandare altri uomini." },
+    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_SEQ_02", "hash": "CE85475E0DE11A64", "target": "Chiedi rinforzi con tutta l'eloquenza che riesci a raccogliere, ma, invece di mostrarsi disponibile, Ser Marcelain minaccia di tagliare rifornimenti e gole. Non è stato il tuo momento migliore..." },
+    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_TODO_00", "hash": "2BF65CFC6979077F", "target": "Parlare con Marcelain" },
+    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_JEANTREMONT_000_000", "hash": "AA109841E0F5CE9A", "target": "Una parola, se posso. Per quanto mi addolori dirlo, devo farlo. Andate alle Porte del Giudizio e portate una richiesta a Ser Marcelain. Ditegli... ditegli che ci servono rinforzi." },
+    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_JEANTREMONT_000_001", "hash": "C13BCDAABE3B7CE1", "target": "La gente comune è sfinita dai continui scontri con i draghi e l'umore si incupisce al Fronte. Barcolliamo sul filo della lama e finiremo certamente per cadere..." },
+    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_MARCELAIN_000_010", "hash": "54D7475A346FEBFF", "target": "Cosa vi porta qui? Parlate in fretta. Una richiesta di <italic(1)>cosa<italic(0)> dal Fronte di Whitebrim? Stanchi? Sono stanchi?" },
+    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_MARCELAIN_000_011", "hash": "82F5B7625B6F0D23", "target": "Codardi e sciocchi! Dite a Jeantremont di prendere quel <italic(1)>filo della lama<italic(0)> e tagliare la gola a ogni cavaliere che si dichiari troppo <italic(1)>stanco<italic(0)> per compiere il sacro dovere. Impicchi ogni contadino che osi lamentarsi dei maiali bruciacchiati." },
+    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_MARCELAIN_000_012", "hash": "B53BD255B216D7BD", "target": "Andatevene, <if(gnum4,funesta messaggera,funesto messaggero)>! Il Fronte di Whitebrim sarà fortunato se non gli ridurrò la quota di rifornimenti per questo oltraggio..." },
+    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_MARCELAIN_000_050", "hash": "5F615F1633F57EC4", "target": "Salute a chi ha salvato gli Steps of Faith. Cosa vi porta qui oggi? Una richiesta di <italic(1)>cosa<italic(0)> dal Fronte di Whitebrim? Stanchi? Sono stanchi?" },
+    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_MARCELAIN_000_051", "hash": "804EE0259C46973B", "target": "Codardi e sciocchi! Dite a Jeantremont di prendere quel <italic(1)>filo della lama<italic(0)> e tagliare la gola a ogni cavaliere che si dichiari troppo <italic(1)>stanco<italic(0)> per compiere il sacro dovere. Impicchi ogni contadino che osi lamentarsi dei maiali bruciacchiati." },
+    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_MARCELAIN_000_052", "hash": "73A28C0E43902FB0", "target": "Vi devo delle scuse. Non avreste mai dovuto subire il vergognoso spettacolo di debolezza dei miei compagni. Il Fronte di Whitebrim sarà fortunato se non gli ridurrò la quota di rifornimenti per questo oltraggio..." }
   ]
 }

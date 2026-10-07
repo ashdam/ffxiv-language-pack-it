@@ -2,18 +2,18 @@
   "conversation": "quest/008/GaiUsb505_00874",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb505_00874#TEXT_GAIUSB505_00874_SEQ_00", "hash": "1D2D6B1C045E7370", "target": "" },
-    { "gameKey": "quest/008/GaiUsb505_00874#TEXT_GAIUSB505_00874_SEQ_01", "hash": "0349A80F5038C32E", "target": "" },
-    { "gameKey": "quest/008/GaiUsb505_00874#TEXT_GAIUSB505_00874_SEQ_02", "hash": "8234DC379986C3E3", "target": "" },
-    { "gameKey": "quest/008/GaiUsb505_00874#TEXT_GAIUSB505_00874_SEQ_03", "hash": "F55A344AB4EAC32A", "target": "" },
-    { "gameKey": "quest/008/GaiUsb505_00874#TEXT_GAIUSB505_00874_TODO_00", "hash": "FFCE48321F2CCE81", "target": "" },
-    { "gameKey": "quest/008/GaiUsb505_00874#TEXT_GAIUSB505_00874_TODO_01", "hash": "012D8E459D76DEDD", "target": "" },
-    { "gameKey": "quest/008/GaiUsb505_00874#TEXT_GAIUSB505_00874_BARRYN_000_000", "hash": "14FEEF1A379A9838", "target": "" },
-    { "gameKey": "quest/008/GaiUsb505_00874#TEXT_GAIUSB505_00874_BARRYN_000_001", "hash": "1D111E1DA06D8B2B", "target": "" },
-    { "gameKey": "quest/008/GaiUsb505_00874#TEXT_GAIUSB505_00874_BARRYN_000_020", "hash": "08BBE7F187562FF9", "target": "" },
-    { "gameKey": "quest/008/GaiUsb505_00874#TEXT_GAIUSB505_00874_BARRYN_000_021", "hash": "0CCF999A6F57E89A", "target": "" },
-    { "gameKey": "quest/008/GaiUsb505_00874#TEXT_GAIUSB505_00874_BARRYN_000_022", "hash": "032EAC994E5B6FCD", "target": "" },
-    { "gameKey": "quest/008/GaiUsb505_00874#TEXT_GAIUSB505_00874_BARRYN_000_023", "hash": "21B05A754F05954C", "target": "" },
-    { "gameKey": "quest/008/GaiUsb505_00874#TEXT_GAIUSB505_00874_POP_MESSAGE_000", "hash": "54F4C6F84CAD95ED", "target": "" }
+    { "gameKey": "quest/008/GaiUsb505_00874#TEXT_GAIUSB505_00874_SEQ_00", "hash": "1D2D6B1C045E7370", "target": "Riscuotendosi da una profonda tristezza, Barryn sembra grato della tua presenza." },
+    { "gameKey": "quest/008/GaiUsb505_00874#TEXT_GAIUSB505_00874_SEQ_01", "hash": "0349A80F5038C32E", "target": "Pare che una persona in lutto sia stata aggredita vicino a una macchia insolitamente rigogliosa di fiori selvatici su un goobbue morto. Barryn ti chiede di indagare e uccidere le creature responsabili." },
+    { "gameKey": "quest/008/GaiUsb505_00874#TEXT_GAIUSB505_00874_SEQ_02", "hash": "8234DC379986C3E3", "target": "Hai ucciso le Shroud mandragora che sembravano essersi impadronite del tumulo del goobbue. Riferisci il successo a Barryn." },
+    { "gameKey": "quest/008/GaiUsb505_00874#TEXT_GAIUSB505_00874_SEQ_03", "hash": "F55A344AB4EAC32A", "target": "Barryn ti ringrazia e, con nuovo coraggio, gli chiedi del goobbue. La Calamità ha cacciato uomini e bestie dalle loro case e Barryn riflette che presto pochi potrebbero sfuggire all'esilio." },
+    { "gameKey": "quest/008/GaiUsb505_00874#TEXT_GAIUSB505_00874_TODO_00", "hash": "FFCE48321F2CCE81", "target": "Esaminare il punto indicato e uccidere i nemici" },
+    { "gameKey": "quest/008/GaiUsb505_00874#TEXT_GAIUSB505_00874_TODO_01", "hash": "012D8E459D76DEDD", "target": "Fare rapporto a Barryn" },
+    { "gameKey": "quest/008/GaiUsb505_00874#TEXT_GAIUSB505_00874_BARRYN_000_000", "hash": "14FEEF1A379A9838", "target": "Oggi il sole ha illuminato una scena terribile. Una persona in lutto voleva deporre sulla tomba dell'amata un rametto di lavanda di Althyk. Si è allontanata, perché qui il fiore scarseggia, ed è stata gravemente ferita dai mostri." },
+    { "gameKey": "quest/008/GaiUsb505_00874#TEXT_GAIUSB505_00874_BARRYN_000_001", "hash": "1D111E1DA06D8B2B", "target": "Il dolore rallenta a tutti la mente e le membra, e temo che gli attacchi continuino finché restano quelle creature. Vi prego, scacciatele. Sono state viste a est, vicino ai resti di un goobbue." },
+    { "gameKey": "quest/008/GaiUsb505_00874#TEXT_GAIUSB505_00874_BARRYN_000_020", "hash": "08BBE7F187562FF9", "target": "Quando la Calamità colpì, spezzò la vita ovunque, non soltanto tra le nostre razze. Guardatevi intorno e vedrete quanto tutto sia andato in pezzi. Piedi, artigli, radici: tutti strappati alla terra su cui erano piantati." },
+    { "gameKey": "quest/008/GaiUsb505_00874#TEXT_GAIUSB505_00874_BARRYN_000_021", "hash": "0CCF999A6F57E89A", "target": "Il goobbue morto era figlio di Coerthas. La Calamità distrusse le montagne natali, e lui fuggì dalla rovina come una carovana da una tempesta di sabbia. Vagò per anni. Lo trovammo morente e ricevemmo i suoi ricordi." },
+    { "gameKey": "quest/008/GaiUsb505_00874#TEXT_GAIUSB505_00874_BARRYN_000_022", "hash": "032EAC994E5B6FCD", "target": "Aveva raccolto semi in ogni terra attraversata, e ora fioriscono sul cadavere, mappa viva della sua perdita e del suo esilio. Da nord a sud, dalle montagne al deserto...camemoro e stelle cadenti, marybell e rose delle scogliere, lavanda di Althyk dal Thanalan meridionale, perfino roselle da Riva Sanguigna." },
+    { "gameKey": "quest/008/GaiUsb505_00874#TEXT_GAIUSB505_00874_BARRYN_000_023", "hash": "21B05A754F05954C", "target": "Vagare è un sogno e un incubo. Voi che vivete d'avventure lo sapete meglio di me, ma immagino ci siano giorni in cui la fiamma dell'avventura vacilla e vi sentite senza più nulla come chi vive a Lost Hope...e su di noi non crescono fiori." },
+    { "gameKey": "quest/008/GaiUsb505_00874#TEXT_GAIUSB505_00874_POP_MESSAGE_000", "hash": "54F4C6F84CAD95ED", "target": "Avverti una presenza ostile!" }
   ]
 }

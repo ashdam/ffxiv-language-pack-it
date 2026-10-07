@@ -2,15 +2,15 @@
   "conversation": "quest/009/GaiUsb908_00931",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb908_00931#TEXT_GAIUSB908_00931_SEQ_00", "hash": "8D61AB2DF5D6090D", "target": "" },
-    { "gameKey": "quest/009/GaiUsb908_00931#TEXT_GAIUSB908_00931_SEQ_01", "hash": "C7CAF48EF40F4F91", "target": "" },
-    { "gameKey": "quest/009/GaiUsb908_00931#TEXT_GAIUSB908_00931_SEQ_02", "hash": "36DB4DFDDE438311", "target": "" },
-    { "gameKey": "quest/009/GaiUsb908_00931#TEXT_GAIUSB908_00931_SEQ_03", "hash": "F408C2FF3E5923FF", "target": "" },
-    { "gameKey": "quest/009/GaiUsb908_00931#TEXT_GAIUSB908_00931_TODO_00", "hash": "E6CBE1F83F62195F", "target": "" },
-    { "gameKey": "quest/009/GaiUsb908_00931#TEXT_GAIUSB908_00931_TODO_01", "hash": "7DEC3F6BBA04A7A6", "target": "" },
-    { "gameKey": "quest/009/GaiUsb908_00931#TEXT_GAIUSB908_00931_CHAUNOLLET_000_000", "hash": "950DDA7666EF1610", "target": "" },
-    { "gameKey": "quest/009/GaiUsb908_00931#TEXT_GAIUSB908_00931_CHAUNOLLET_000_001", "hash": "9AAC120E188F9C8B", "target": "" },
-    { "gameKey": "quest/009/GaiUsb908_00931#TEXT_GAIUSB908_00931_CHAUNOLLET_000_020", "hash": "5067B90053944F3F", "target": "" },
-    { "gameKey": "quest/009/GaiUsb908_00931#TEXT_GAIUSB908_00931_CHAUNOLLET_000_021", "hash": "91A97279265A9367", "target": "" }
+    { "gameKey": "quest/009/GaiUsb908_00931#TEXT_GAIUSB908_00931_SEQ_00", "hash": "8D61AB2DF5D6090D", "target": "Ser Chaunollet ritiene che rimuovere detriti sia al di sotto della dignità di un ishgardese." },
+    { "gameKey": "quest/009/GaiUsb908_00931#TEXT_GAIUSB908_00931_SEQ_01", "hash": "C7CAF48EF40F4F91", "target": "Le un tempo fiere Porte del Giudizio hanno subito un altro attacco dei draghi, e una massa di macerie rende le strade pericolose e scoraggianti da percorrere. Rifiutando di sporcare mani valorose con tale compito, Ser Chaunollet ti chiede di rimuovere le macerie." },
+    { "gameKey": "quest/009/GaiUsb908_00931#TEXT_GAIUSB908_00931_SEQ_02", "hash": "36DB4DFDDE438311", "target": "Le macerie sono state rimosse e il terreno non mostra più tracce dell'ultimo attacco dei draghi─le Porte stesse, invece, sono un'altra questione. Ser Chaunollet sarà senz'altro lieto di sapere la prima notizia." },
+    { "gameKey": "quest/009/GaiUsb908_00931#TEXT_GAIUSB908_00931_SEQ_03", "hash": "F408C2FF3E5923FF", "target": "Sotto il fervore richiesto ai cavalieri di Ishgard, Ser Chaunollet rivela un pozzo di sentimenti più profondo: il dolore per lo sfregio delle Porte del Giudizio è sincero─come il desiderio di sterminare i draghi per questo crimine." },
+    { "gameKey": "quest/009/GaiUsb908_00931#TEXT_GAIUSB908_00931_TODO_00", "hash": "E6CBE1F83F62195F", "target": "Rimuovere le macerie" },
+    { "gameKey": "quest/009/GaiUsb908_00931#TEXT_GAIUSB908_00931_TODO_01", "hash": "7DEC3F6BBA04A7A6", "target": "Fare rapporto a Chaunollet" },
+    { "gameKey": "quest/009/GaiUsb908_00931#TEXT_GAIUSB908_00931_CHAUNOLLET_000_000", "hash": "950DDA7666EF1610", "target": "Un confratello cavaliere mi ha recentemente spiegato la tua gente. Come un mercenario manca d'onore, così un avventuriero manca di discernimento: nessun compito è troppo umile, ma nessuna causa abbastanza degna. Ho bisogno di una persona come te." },
+    { "gameKey": "quest/009/GaiUsb908_00931#TEXT_GAIUSB908_00931_CHAUNOLLET_000_001", "hash": "9AAC120E188F9C8B", "target": "Nella loro smisurata depravazione, i dravaniani hanno assalito le Porte del Giudizio. Rovistare nelle macerie sarebbe più di quanto un vero ishgardese possa sopportare, eppure devono essere rimosse. Sarà questo il tuo compito." },
+    { "gameKey": "quest/009/GaiUsb908_00931#TEXT_GAIUSB908_00931_CHAUNOLLET_000_020", "hash": "5067B90053944F3F", "target": "Hai servito bene, anche se temo che lo stato di queste porte sia ancora inquietante." },
+    { "gameKey": "quest/009/GaiUsb908_00931#TEXT_GAIUSB908_00931_CHAUNOLLET_000_021", "hash": "91A97279265A9367", "target": "Avresti dovuto vederle com'erano, non malconce e ferite come ora. Con i loro assalti, i dravaniani vogliono spezzarmi il cuore─la fede, volevo dire. Devono abbandonare questo mondo..." }
   ]
 }

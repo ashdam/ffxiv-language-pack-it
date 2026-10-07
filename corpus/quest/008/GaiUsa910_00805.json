@@ -2,17 +2,17 @@
   "conversation": "quest/008/GaiUsa910_00805",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_SEQ_00", "hash": "8FF805B149EBC7C6", "target": "" },
-    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_SEQ_01", "hash": "9933A1106D7E1DC4", "target": "" },
-    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_SEQ_02", "hash": "D8F7CB7A5DCBAFCE", "target": "" },
-    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_SEQ_03", "hash": "17EE6777924E6D5C", "target": "" },
-    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_TODO_00", "hash": "5131B797002C346B", "target": "" },
-    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_TODO_01", "hash": "016494D3DA0B6FB9", "target": "" },
-    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_MARCETTE_000_000", "hash": "7B143C92474AF192", "target": "" },
-    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_MARCETTE_000_001", "hash": "A1CCD741B2C79FDC", "target": "" },
-    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_MARCETTE_000_010", "hash": "14B83296A7783E9E", "target": "" },
-    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_MARCETTE_000_020", "hash": "104F11AA619DB55A", "target": "" },
-    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_MARCETTE_000_021", "hash": "3BD51AE04880ADDC", "target": "" },
-    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_MARCETTE_000_022", "hash": "2355599366C9DBC7", "target": "" }
+    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_SEQ_00", "hash": "8FF805B149EBC7C6", "target": "Marcette vuole farti lavorare ancora, che ti piaccia o no." },
+    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_SEQ_01", "hash": "9933A1106D7E1DC4", "target": "La geniale naturalista Marcette si degna di assegnarti l'onorevolissimo ruolo di Assistente di Ricerca Sei e ti ordina subito di procurare un lightning spark vivo. Indebolisci la creatura e catturala nel recipiente che ti ha fornito." },
+    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_SEQ_02", "hash": "D8F7CB7A5DCBAFCE", "target": "Hai catturato un lightning spark vivo. Pur temendo per il suo destino, accetti di consegnarlo a Marcette." },
+    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_SEQ_03", "hash": "17EE6777924E6D5C", "target": "Marcette è vicina a un'altra scoperta pionieristica. Malgrado i tuoi continui contributi, non ricorda ancora il tuo numero, figuriamoci il nome." },
+    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_TODO_00", "hash": "5131B797002C346B", "target": "Usare il vaso di vetro spesso su un lightning spark indebolito" },
+    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_TODO_01", "hash": "016494D3DA0B6FB9", "target": "Consegnare il lightning spark vivo a Marcette" },
+    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_MARCETTE_000_000", "hash": "7B143C92474AF192", "target": "Assistente di Ricerca Sei. Sì, parlo con <italic(1)>voi<italic(0)>, Assistente di Ricerca Sei. È il titolo che mi sono degnata di concedervi dopo il vostro umile contributo alla mia ultima scoperta scientifica." },
+    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_MARCETTE_000_001", "hash": "A1CCD741B2C79FDC", "target": "Ora che siete ufficialmente <if(gnum4,la mia schiava,il mio schiavo)>, ehm, <italic(1)>assistente di ricerca<italic(0)>, niente pigrizia. Mi serve un lightning spark vivo. Ecco un vaso. Presto, non ho tutto il giorno!" },
+    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_MARCETTE_000_010", "hash": "14B83296A7783E9E", "target": "Se osate interrompermi, vuol dire che avete il lightning spark vivo che mi serve. Be', datemelo!" },
+    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_MARCETTE_000_020", "hash": "104F11AA619DB55A", "target": "Ohhh, ma che adorabile creaturina! Pensa a quanto mi divertirò con te! <if(gnum4,La prossima assistente,Il prossimo assistente)> che oserà trascurare i propri doveri prenderà una bella scossa! Muahahaha!!!" },
+    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_MARCETTE_000_021", "hash": "3BD51AE04880ADDC", "target": "Ora, dov'ero? Ah, sì, i toadstool! Se le mie teorie sono giuste, una scossa farà percepire loro il pericolo e li spingerà a riprodursi a velocità inaudita!" },
+    { "gameKey": "quest/008/GaiUsa910_00805#TEXT_GAIUSA910_00805_MARCETTE_000_022", "hash": "2355599366C9DBC7", "target": "Il mio genio non ha confini! Quante scoperte farei con un solo assistente competente! ...Voi! Assistente Sette! O era Quattro!? Oh, chi<italic(1)>unque<italic(0)> siate, sparite dalla mia vista e lasciatemi concentrare per una volta!" }
   ]
 }

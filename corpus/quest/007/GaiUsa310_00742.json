@@ -2,16 +2,16 @@
   "conversation": "quest/007/GaiUsa310_00742",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_SEQ_00", "hash": "06F1AAF7DB680A4C", "target": "" },
-    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_SEQ_01", "hash": "B19EA9E17E470AB1", "target": "" },
-    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_SEQ_02", "hash": "FE21BDFF162EF88D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_SEQ_03", "hash": "371A803F2F351923", "target": "" },
-    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_TODO_00", "hash": "A807EA6E2D828BCF", "target": "" },
-    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_TODO_01", "hash": "E8196043C058B6DD", "target": "" },
-    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_AUPHILIOT_000_000", "hash": "8B86D4D9544143F9", "target": "" },
-    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_AUPHILIOT_000_001", "hash": "C7D8C53FE539113C", "target": "" },
-    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_AUPHILIOT_000_010", "hash": "28D94FB0ACFA50C5", "target": "" },
-    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_AUPHILIOT_000_011", "hash": "58C683696BE4CBE9", "target": "" },
-    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_POP_MESSAGE_000", "hash": "74879B2BB1445571", "target": "" }
+    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_SEQ_00", "hash": "06F1AAF7DB680A4C", "target": "Auphiliot ti sarebbe molto grato se cacciassi degli intrusi garleani al posto suo." },
+    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_SEQ_01", "hash": "B19EA9E17E470AB1", "target": "Diversi garleani responsabili della scomparsa dell'anziano dei silfi sono ancora nella zona. Indaga nei luoghi indicati e sconfiggi tutti i garleani che incontri." },
+    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_SEQ_02", "hash": "FE21BDFF162EF88D", "target": "Gli intrusi garleani sono stati eliminati. Riferisci il tuo successo ad Auphiliot." },
+    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_SEQ_03", "hash": "371A803F2F351923", "target": "Grazie ai tuoi sforzi, i garleani sono stati scacciati e un poco di pace è tornata nel Bosco dei Dodici. Almeno per il momento." },
+    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_TODO_00", "hash": "A807EA6E2D828BCF", "target": "Indagare nei luoghi indicati e sconfiggere i garleani" },
+    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_TODO_01", "hash": "E8196043C058B6DD", "target": "Fare rapporto ad Auphiliot" },
+    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_AUPHILIOT_000_000", "hash": "8B86D4D9544143F9", "target": "Eccoti di nuovo, <if(gnum4,ragazza,ragazzo)>, e qualcosa mi dice che non sei qui per un boccale della birra di Buscarron. Tanto meglio. Ho appena sentito che dei garleani rimasti indietro sono stati avvistati nel Bosco dei Dodici, e sai che non combinano mai niente di buono." },
+    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_AUPHILIOT_000_001", "hash": "C7D8C53FE539113C", "target": "Io? Non vorrei altro che sventrare quei figli di puttana imperiali di persona, ma temo di avere─<italic(1)>hic<italic(0)>!─altri... doveri... oggi. Contiamo su di te, <if(gnum4,ragazza,ragazzo)>!" },
+    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_AUPHILIOT_000_010", "hash": "28D94FB0ACFA50C5", "target": "Hai sistemato quei cani garleani in fretta e con sicurezza quanto io ho sistemato il mio boccale di─ehm, i miei <italic(1)>doveri<italic(0)>, vero? A nome del vecchio Buscarron e dei miei compagni qui alla Locanda di Buscarron, hai─<italic(1)>hurk<italic(0)>!─la mia gratitudine, e anche di più." },
+    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_AUPHILIOT_000_011", "hash": "58C683696BE4CBE9", "target": "Finché ci occupiamo noi delle cose, <if(gnum4,ragazza,ragazzo)>, ti garantisco che nessun boccale d'idromele o piantagrane garleano, qui o nei dintorni, è─<italic(1)>hic<italic(0)>─al sicuro!" },
+    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_POP_MESSAGE_000", "hash": "74879B2BB1445571", "target": "Avverti una presenza ostile!" }
   ]
 }

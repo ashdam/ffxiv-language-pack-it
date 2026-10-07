@@ -2,15 +2,15 @@
   "conversation": "quest/001/SubFst029_00172",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_SEQ_00", "hash": "D9430E1337EEBCB9", "target": "" },
-    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_SEQ_01", "hash": "2E5ABD7AF6F5CDAC", "target": "" },
-    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_SEQ_02", "hash": "12E8CBB1FAD46979", "target": "" },
-    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_TODO_00", "hash": "AF307C5996622F36", "target": "" },
-    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_1", "hash": "19F469DA6F002BC0", "target": "" },
-    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_2", "hash": "491C84E0E4FFB719", "target": "" },
-    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_3", "hash": "E30DABEC832A16C3", "target": "" },
-    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_10", "hash": "4DE71637C85D427C", "target": "" },
-    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_11", "hash": "FD31F12A94E7F45E", "target": "" },
-    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_12", "hash": "02C2871A25FC5C59", "target": "" }
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_SEQ_00", "hash": "D9430E1337EEBCB9", "target": "Arold ha bisogno di qualcuno che gli procuri una hi<-->potion." },
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_SEQ_01", "hash": "2E5ABD7AF6F5CDAC", "target": "Arold, una Sentinella Cupa di stanza alla Torre di Gilbert, è stato aggredito da un branco di scoiattoli ed è ridotto male. Purtroppo ha finito le hi-potion e non può lasciare il suo posto per comprarne altre dalla mercante del Bannock. Aiuta Arold portandogli la medicina che gli serve." },
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_SEQ_02", "hash": "12E8CBB1FAD46979", "target": "Grazie alla tua gentilezza, Arold dovrebbe riprendersi presto. Le sue ferite guariranno, ma giura di restare vigile, per evitare che il Bosco dei Dodici punisca ancora la sua imprudenza." },
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_TODO_00", "hash": "AF307C5996622F36", "target": "Dare una hi-potion ad Arold" },
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_1", "hash": "19F469DA6F002BC0", "target": "Oh dèi, che dolore...<br>Poco fa ho sorpreso un branco di scoiattoli a rosicchiare le staccionate. Sono riuscito a scacciarli, ma prima hanno deciso di rosicchiare <italic(1)>me<italic(0)>! Ed eccomi qui, ridotto a questo ammasso sanguinolento." },
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_2", "hash": "491C84E0E4FFB719", "target": "Come se non bastasse, non mi è rimasta nemmeno una hi-potion. Lo so, lo so...che incosciente. Mi pare di aver usato l'ultima per un graffietto diverse lune fa... Solo gli dèi sanno perché non l'ho ricomprata subito. Non è che hai una fiala di scorta?" },
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_3", "hash": "E30DABEC832A16C3", "target": "Se non ne hai con te, la mercante del Bannock dovrebbe averne in magazzino. Non posso lasciare il mio posto: ti sarei davvero grato se mi portassi una hi-potion." },
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_10", "hash": "4DE71637C85D427C", "target": "Per i sette inferni, quegli scoiattoli maledetti mi hanno risparmiato almeno un pezzo?<br>Ah, eccoti! Hai la hi-potion per me?" },
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_11", "hash": "FD31F12A94E7F45E", "target": "Grazie agli dèi! Ti devo un favore. Tieni, voglio che tu prenda questo." },
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_12", "hash": "02C2871A25FC5C59", "target": "Non immaginavo che gli scoiattoli mordessero così <italic(1)>forte<italic(0)>! Credevo di aver visto tutto, ma il Bosco dei Dodici riserva ancora delle sorprese. Faremmo bene a ricordarcelo entrambi." }
   ]
 }
