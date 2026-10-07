@@ -2,12 +2,12 @@
   "conversation": "quest/007/GaiUsa610_00772",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa610_00772#TEXT_GAIUSA610_00772_SEQ_00", "hash": "5D8FCC2044BD5E5A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa610_00772#TEXT_GAIUSA610_00772_SEQ_01", "hash": "B92D069366D06414", "target": "" },
-    { "gameKey": "quest/007/GaiUsa610_00772#TEXT_GAIUSA610_00772_SEQ_02", "hash": "1CE2D5507C985434", "target": "" },
-    { "gameKey": "quest/007/GaiUsa610_00772#TEXT_GAIUSA610_00772_TODO_00", "hash": "78EF1DFB41BC7539", "target": "" },
-    { "gameKey": "quest/007/GaiUsa610_00772#TEXT_GAIUSA610_00772_AEDOC_000_000", "hash": "220DC8AE8A58BE0A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa610_00772#TEXT_GAIUSA610_00772_AEDOC_000_001", "hash": "05CC6B18079ED289", "target": "" },
-    { "gameKey": "quest/007/GaiUsa610_00772#TEXT_GAIUSA610_00772_ERIMMONT_000_010", "hash": "8F55C65D845FD6A5", "target": "" }
+    { "gameKey": "quest/007/GaiUsa610_00772#TEXT_GAIUSA610_00772_SEQ_00", "hash": "5D8FCC2044BD5E5A", "target": "Aedoc di Quarrymill ha una crisi culinaria da risolvere." },
+    { "gameKey": "quest/007/GaiUsa610_00772#TEXT_GAIUSA610_00772_SEQ_01", "hash": "B92D069366D06414", "target": "Aedoc ha esaurito le scorte di salsa Mun<-->Tuy e teme un allarmante calo di morale se le sue creazioni culinarie saranno prive del gustoso condimento. Vai alle Cantine Mun<-->Tuy e ottieni una bottiglia dal pestatore Erimmont." },
+    { "gameKey": "quest/007/GaiUsa610_00772#TEXT_GAIUSA610_00772_SEQ_02", "hash": "1CE2D5507C985434", "target": "Erimmont ti informa che la prossima partita di salsa Mun<-->Tuy finirà presto di fermentare. Resta da vedere se sarà pronta in tempo per evitare che Aedoc venga divorata da soldati affamati e pazzi per i fagioli..." },
+    { "gameKey": "quest/007/GaiUsa610_00772#TEXT_GAIUSA610_00772_TODO_00", "hash": "78EF1DFB41BC7539", "target": "Parlare con Erimmont" },
+    { "gameKey": "quest/007/GaiUsa610_00772#TEXT_GAIUSA610_00772_AEDOC_000_000", "hash": "220DC8AE8A58BE0A", "target": "Non potevate arrivare in un momento migliore. Qui ho una crisi da risolvere! Che tipo di crisi, chiedete? Vedete questa bottiglia di salsa Mun<-->Tuy? È <italic(1)>vuota<italic(0)>, fino all'ultima goccia!" },
+    { "gameKey": "quest/007/GaiUsa610_00772#TEXT_GAIUSA610_00772_AEDOC_000_001", "hash": "05CC6B18079ED289", "target": "<italic(1)>Certo<italic(0)> che è una crisi! Se le guardie troveranno la cena insipida, potrebbero rivolgere le lance contro di me invece che contro i nemici! Potreste andare alle Cantine Mun<-->Tuy e ottenerne dal pestatore Erimmont, per salvare una povera cuoca da questa terribile sorte?" },
+    { "gameKey": "quest/007/GaiUsa610_00772#TEXT_GAIUSA610_00772_ERIMMONT_000_010", "hash": "8F55C65D845FD6A5", "target": "Aedoc ha di nuovo finito la scorta? \\<sospiro> Gliel'ho detto mille volte di fare ordini grandi, ma non ascolta mai. Tenete a freno i chocobo─la prossima partita sarà pronta presto." }
   ]
 }

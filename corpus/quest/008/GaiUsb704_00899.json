@@ -2,18 +2,18 @@
   "conversation": "quest/008/GaiUsb704_00899",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_SEQ_00", "hash": "1BDDF9940C590122", "target": "" },
-    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_SEQ_01", "hash": "F9FE2A9A3FF5FB2B", "target": "" },
-    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_SEQ_02", "hash": "6D48C8DFBDD37D47", "target": "" },
-    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_SEQ_03", "hash": "516C557264D67D78", "target": "" },
-    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_TODO_00", "hash": "18201ECAC2A13834", "target": "" },
-    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_TODO_01", "hash": "76B16B36790E2ABA", "target": "" },
-    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_CORENTIAUX_000_000", "hash": "C3EC5062EFB3FC45", "target": "" },
-    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_CORENTIAUX_000_001", "hash": "6EDB993FD82EECFD", "target": "" },
-    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_CORENTIAUX_000_020", "hash": "D3B04ED4168B4501", "target": "" },
-    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_CORENTIAUX_100_020", "hash": "A9FC04EDEF6C0AC6", "target": "" },
-    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_CORENTIAUX_000_021", "hash": "088F30008E4736B3", "target": "" },
-    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_CORENTIAUX_000_022", "hash": "D0B34648C91BDE1E", "target": "" },
-    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_CORENTIAUX_000_023", "hash": "FF294751023C7F4B", "target": "" }
+    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_SEQ_00", "hash": "1BDDF9940C590122", "target": "In quanti modi si può morire bene? Corentiaux vuole parlarti di questo e di altro." },
+    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_SEQ_01", "hash": "F9FE2A9A3FF5FB2B", "target": "La casata Fortemps ha offerto una ricompensa per gli snow wolf che attaccano i convogli dei rifornimenti. Anche se non hanno ancora un anno, sono feroci e amano la carne umana. Uccidi quattro lupi e scuoiali come prova." },
+    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_SEQ_02", "hash": "6D48C8DFBDD37D47", "target": "Dove c'erano quattro lupi ora ci sono quattro pelli e neve rossa rivoltata. Hai lavato via il sangue dalle mani e puoi tornare da Corentiaux con la prova." },
+    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_SEQ_03", "hash": "516C557264D67D78", "target": "Molte Alte Casate preferiscono lasciare irrisolti i problemi anziché chiedere aiuto a chi vive d'avventure, soprattutto quando il problema è un umile predatore e la preda un umile servo o dieci. Corentiaux ne parla con un'amarezza insolita per un cavaliere, e forse pericolosa..." },
+    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_TODO_00", "hash": "18201ECAC2A13834", "target": "Raccogliere pelli dagli snow wolf pup" },
+    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_TODO_01", "hash": "76B16B36790E2ABA", "target": "Fare rapporto a Corentiaux" },
+    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_CORENTIAUX_000_000", "hash": "C3EC5062EFB3FC45", "target": "Una parola. La casata Fortemps ha appena offerto una ricompensa per gli snow wolf che tormentano i nostri convogli. Sono pericolosissimi quando sono giovani e affamati, e questa cucciolata di quattro lo è." },
+    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_CORENTIAUX_000_001", "hash": "6EDB993FD82EECFD", "target": "Ho perso due bravi uomini per questi lupi. Se fossero stati cavalieri, i corni da caccia avrebbero suonato prima che il sangue arrugginisse! Vorrei che li vendicassi, e la ricompensa è buona. Porta le pelli e avremo entrambi quello che cerchiamo." },
+    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_CORENTIAUX_000_020", "hash": "D3B04ED4168B4501", "target": "Dall'aria compiaciuta direi che oggi ci sono quattro lupi in meno a Coerthas. Mostrami le pelli e completa il tuo trionfo." },
+    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_CORENTIAUX_100_020", "hash": "A9FC04EDEF6C0AC6", "target": "Sono loro, vedi questi segni. Senza quei cuccioli infernali, tutta la nostra gente respirerà meglio. Quanto siamo vicini a disprezzare la morte tra le fauci di una bestia famelica! Questi uomini sono morti in battaglia quanto chiunque sulla pira dei draghi." },
+    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_CORENTIAUX_000_021", "hash": "088F30008E4736B3", "target": "Quando i cavalieri scarseggiano, soffrono gli umili della casata: stallieri e lavandai, facchini e servitori. La nostra casata rattoppa con chi vive d'avventure tutto ciò che è logoro, ma..." },
+    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_CORENTIAUX_000_022", "hash": "D0B34648C91BDE1E", "target": "Alcune altre Alte Casate continuano a chiudere del tutto i cancelli ai forestieri o li trattano con un disprezzo che deve per forza contaminare ogni servizio accettato." },
+    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_CORENTIAUX_000_023", "hash": "FF294751023C7F4B", "target": "L'onore sta nel trattare giustamente chi serve la causa accanto a noi, in vita e in morte. Dall'onore nasce tutto ciò che rende un ragazzo uomo e una ragazza donna. Quando incontriamo Halone nell'aldilà, è l'onore che giudica, non l'orgoglio." }
   ]
 }

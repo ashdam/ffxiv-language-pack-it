@@ -2,15 +2,15 @@
   "conversation": "quest/007/GaiUsa502_00754",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_SEQ_00", "hash": "03800586CFC041FB", "target": "" },
-    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_SEQ_01", "hash": "8B742BD4E93A694D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_SEQ_02", "hash": "C3AA40DD7F26E447", "target": "" },
-    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_SEQ_03", "hash": "40AD6AA7C3B4815F", "target": "" },
-    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_TODO_00", "hash": "32ECD4CDACF9868D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_TODO_01", "hash": "3173529BE947126B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_KYIKYOZO_000_000", "hash": "8F44D62BEF6ACB52", "target": "" },
-    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_KYIKYOZO_000_001", "hash": "73F6DA7F4B2510D5", "target": "" },
-    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_KYIKYOZO_000_002", "hash": "D9BBE848430E606B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_KYOKYOZO_000_020", "hash": "C7F7B9BC334C9EA9", "target": "" }
+    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_SEQ_00", "hash": "03800586CFC041FB", "target": "Sorella Kyokyozo dell'Ordine di Nald'thal cerca un avventuriero che uccida le creature che spaventano i potenziali pellegrini del Riposo di Thal." },
+    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_SEQ_01", "hash": "8B742BD4E93A694D", "target": "Ultimamente i pellegrini del Riposo di Thal scarseggiano, e la colpa è dei feroci axe beak che imperversano sulle strade d'accesso. Uccidi quattro di quei temibili uccelli." },
+    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_SEQ_02", "hash": "C3AA40DD7F26E447", "target": "Hai ucciso quattro axe beak, perché gli aspiranti pellegrini possano entrare nelle sale sacre del Riposo di Thal senza temere per la propria incolumità. Informa sorella Kyokyozo delle tue imprese." },
+    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_SEQ_03", "hash": "40AD6AA7C3B4815F", "target": "Sorella Kyokyozo ti informa che, grazie al tuo aiuto, ha già accolto una mercante in viaggio e la sua famiglia al Riposo. Attende con gioia i tanti incontri con cui i Mercanti la benediranno." },
+    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_TODO_00", "hash": "32ECD4CDACF9868D", "target": "Uccidere gli axe beak" },
+    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_TODO_01", "hash": "3173529BE947126B", "target": "Fare rapporto a Kyokyozo" },
+    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_KYIKYOZO_000_000", "hash": "8F44D62BEF6ACB52", "target": "Avventurieri, mercanti, viaggiatori─il Riposo di Thal è sempre aperto a chi cerca un momento di sollievo dalle difficoltà del viaggio." },
+    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_KYIKYOZO_000_001", "hash": "73F6DA7F4B2510D5", "target": "Un tempo accoglievamo moltitudini attraverso queste porte. Purtroppo, la crescente presenza di tribù bestiali ostili e creature selvagge ora scoraggia molti dal pellegrinaggio. Un peccato, non è vero?" },
+    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_KYIKYOZO_000_002", "hash": "D9BBE848430E606B", "target": "Forse potreste aiutarci. La creatura più temibile della fauna locale è l'axe beak. Se riduceste lo stormo─di circa quattro uccelli, per esempio─credo che queste sale sarebbero molto più accessibili." },
+    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_KYOKYOZO_000_020", "hash": "C7F7B9BC334C9EA9", "target": "Un mercante in viaggio e la sua famiglia hanno appena varcato le nostre porte. Ogni incontro è una benedizione─una benedizione che non avremmo ricevuto se quei temibili uccelli avessero continuato a imperversare fuori dalle sale. Per questo vi ringrazio." }
   ]
 }

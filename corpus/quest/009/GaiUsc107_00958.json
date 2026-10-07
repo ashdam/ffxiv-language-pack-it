@@ -2,16 +2,16 @@
   "conversation": "quest/009/GaiUsc107_00958",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_SEQ_00", "hash": "40A4ED1B6712D3D4", "target": "" },
-    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_SEQ_01", "hash": "B5BD2F056F63B53A", "target": "" },
-    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_SEQ_02", "hash": "FD972916A8003172", "target": "" },
-    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_SEQ_03", "hash": "51592654CDFE64CB", "target": "" },
-    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_TODO_00", "hash": "76505868D0FC1664", "target": "" },
-    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_TODO_01", "hash": "337FD43CCC87D379", "target": "" },
-    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_FLOATINGSTONE_000_000", "hash": "FB79BCBE1CD64AFF", "target": "" },
-    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_FLOATINGSTONE_000_001", "hash": "41A87209A3FB67DA", "target": "" },
-    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_FLOATINGSTONE_000_010", "hash": "0CC27A54300F31F5", "target": "" },
-    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_FLOATINGSTONE_000_020", "hash": "52D1B2F362C55A3E", "target": "" },
-    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_FLOATINGSTONE_000_021", "hash": "B0B1B441AEA0BE1C", "target": "" }
+    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_SEQ_00", "hash": "40A4ED1B6712D3D4", "target": "Una pietra rotolante come te avrà certo affari in comune con Floating Stone, se parlerai al minatore." },
+    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_SEQ_01", "hash": "B5BD2F056F63B53A", "target": "Le Cascate Borgogna ospitano una specie rara di coblyn, i quartz doblyn, presenti solo in alcune zone di Thanalan. Floating Stone ti chiede di ucciderne cinque soltanto per ricavare quarzo puro." },
+    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_SEQ_02", "hash": "FD972916A8003172", "target": "Hai abbastanza quarzo puro da soddisfare la sete di cristalli di Floating Stone. Torna alle Cascate Borgogna e consegnalo al minatore Roegadyn." },
+    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_SEQ_03", "hash": "51592654CDFE64CB", "target": "Floating Stone sembra poco affranto dalla Calamità, un cambiamento piacevole rispetto a quasi tutti. Le colline restano un negozio di dolci, e lui un bambino goloso con un piccone..." },
+    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_TODO_00", "hash": "76505868D0FC1664", "target": "Uccidere i quartz doblyn e ottenere quarzo puro" },
+    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_TODO_01", "hash": "337FD43CCC87D379", "target": "Consegnare il quarzo puro a Floating Stone" },
+    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_FLOATINGSTONE_000_000", "hash": "FB79BCBE1CD64AFF", "target": "Conoscete i quartz doblyn? Non me l'aspettavo: si trovano solo nelle zone più pericolose di Thanalan. Sono coblyn, solo un po' più... croccanti." },
+    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_FLOATINGSTONE_000_001", "hash": "41A87209A3FB67DA", "target": "Sì, mangiano cristalli, sapete, e qui c'è un banchetto da re. Così nei loro corpi cresce quarzo puro e limpido. Ne procurereste un po' per me?" },
+    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_FLOATINGSTONE_000_010", "hash": "0CC27A54300F31F5", "target": "Buona caccia? Avete preso quarzo puro?" },
+    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_FLOATINGSTONE_000_020", "hash": "52D1B2F362C55A3E", "target": "Ecco cosa cercavo! Limpido come la pipì di un dio, senza offesa, e sonoro come una campana." },
+    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_FLOATINGSTONE_000_021", "hash": "B0B1B441AEA0BE1C", "target": "La Calamità ha cambiato molto qui, vero, ma resta un tesoro. Un minatore non può chiedere altro!" }
   ]
 }

@@ -2,17 +2,17 @@
   "conversation": "quest/008/GaiUsb603_00885",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_SEQ_00", "hash": "DD9E3E10C18A2760", "target": "" },
-    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_SEQ_01", "hash": "DE1D1330F3B3D357", "target": "" },
-    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_SEQ_02", "hash": "4037150907F055F2", "target": "" },
-    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_SEQ_03", "hash": "FD0E70DFF3EAF20F", "target": "" },
-    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_TODO_00", "hash": "C038C0D81DA941D5", "target": "" },
-    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_TODO_01", "hash": "FABC4CF4949FE1DE", "target": "" },
-    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_IDRISTAN_000_000", "hash": "CCBE69F3AF44BF38", "target": "" },
-    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_IDRISTAN_000_001", "hash": "A8AB665E5ABBF41B", "target": "" },
-    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_IDRISTAN_000_002", "hash": "FAE9DBFB4027AFA6", "target": "" },
-    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_IDRISTAN_000_020", "hash": "AC8EA436FCAA01BA", "target": "" },
-    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_IDRISTAN_000_021", "hash": "CDE4B39C773F6B23", "target": "" },
-    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_POP_MESSAGE_000", "hash": "826DA87D5EE6DDAB", "target": "" }
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_SEQ_00", "hash": "DD9E3E10C18A2760", "target": "Idristan cerca qualcuno che svolga un compito sgradevole." },
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_SEQ_01", "hash": "DE1D1330F3B3D357", "target": "Scopri che dei jackal voraci sono stati avvistati vicino alla Torre di Florentel. Fuggiti da Coerthas innevata, possono essere un pericolo per i viaggiatori. Idristan ti ha dato carne di dodo fetida per attirarli. Trova un luogo adatto per deporre la carne e uccidi i jackal che compaiono." },
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_SEQ_02", "hash": "4037150907F055F2", "target": "Hai ucciso i jackal e reso la zona più sicura. Torna da Idristan e informalo che il compito è concluso." },
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_SEQ_03", "hash": "FD0E70DFF3EAF20F", "target": "Idristan è contento del risultato, ma resta frustrato dalla situazione. La Calamità ha reso Coerthas quasi inabitabile e la fauna locale è diventata più pericolosa. Se pensi di dirigerti a nordovest, l'uomo della Faretra ti avverte di prepararti." },
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_TODO_00", "hash": "C038C0D81DA941D5", "target": "Usare la carne di dodo come esca e uccidere jackal" },
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_TODO_01", "hash": "FABC4CF4949FE1DE", "target": "Fare rapporto a Idristan" },
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_IDRISTAN_000_000", "hash": "CCBE69F3AF44BF38", "target": "Il gelo seguito alla Calamità ha reso Coerthas quasi inospitale. Molte creature che un tempo vi abitavano sono state costrette a migrare per non morire di fame." },
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_IDRISTAN_000_001", "hash": "A8AB665E5ABBF41B", "target": "Alcune arrivano alla nostra porta pensando solo a mangiare. Le peggiori sono i jackal, avvistati non lontano da questa torre." },
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_IDRISTAN_000_002", "hash": "FAE9DBFB4027AFA6", "target": "Ci affidiamo alla vostra abilità per eliminare queste bestie prima che divorino un viaggiatore indifeso. Questa carne di dodo fe-fet<italic(1)>urrrgh<italic(0)>... perdonatemi... <italic(1)>fetida<italic(0)> sarà un'esca perfetta." },
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_IDRISTAN_000_020", "hash": "AC8EA436FCAA01BA", "target": "Vi siamo molto grati. Una situazione simile non si sarebbe verificata prima che la Calamità rendesse Coerthas quasi inabitabile per la fauna locale." },
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_IDRISTAN_000_021", "hash": "CDE4B39C773F6B23", "target": "Con l'acqua rinchiusa in volte di ghiaccio e l'erba sepolta sotto la neve, le bestie più grandi sono diventate infernali pur di sopravvivere. Fate attenzione se andate a nord: sappiate che state andando in battaglia." },
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_POP_MESSAGE_000", "hash": "826DA87D5EE6DDAB", "target": "Si avvicinano due jackal affamati!" }
   ]
 }

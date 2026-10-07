@@ -2,17 +2,17 @@
   "conversation": "quest/009/GaiUsb714_00909",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_SEQ_00", "hash": "1127C35536196A76", "target": "" },
-    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_SEQ_01", "hash": "AEB7787422B7BC90", "target": "" },
-    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_SEQ_02", "hash": "A583CB2BCFD3BAC8", "target": "" },
-    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_TODO_00", "hash": "E9805B6804C38ACD", "target": "" },
-    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_MIAHMOLKOT_000_000", "hash": "4F936A563B94B6A8", "target": "" },
-    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_MIAHMOLKOT_000_001", "hash": "BF1E47EFC2A6D829", "target": "" },
-    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_MIAHMOLKOT_000_002", "hash": "4E8FB03D1ABCC746", "target": "" },
-    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_MIAHMOLKOT_000_003", "hash": "3F84FED6BF89F34C", "target": "" },
-    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_BELMONT_000_010", "hash": "4EDD1F7CCE162B1C", "target": "" },
-    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_BELMONT_000_020", "hash": "96A525469E50FF71", "target": "" },
-    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_BELMONT_000_021", "hash": "6D1F71E638406E2F", "target": "" },
-    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_BELMONT_000_022", "hash": "8DFAC3AFAD203867", "target": "" }
+    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_SEQ_00", "hash": "1127C35536196A76", "target": "L'inconfondibile linguaggio del corpo della sua gente dice chiaramente che a Molkot serve un avventuriero pronto a viaggiare, proprio adesso, miao." },
+    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_SEQ_01", "hash": "AEB7787422B7BC90", "target": "Tra sibili e sputi, Molkot ha deciso di impegnare gli Arieti Bianchi in una lotta che dal Bosco dei Dodici si estende a Coerthas. Consegna la sua lettera a Belmont e informa il mercenario che gli Arieti sono con lui." },
+    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_SEQ_02", "hash": "A583CB2BCFD3BAC8", "target": "Consegni la lettera a Belmont, che rimane folgorato dalle parole della comandante degli Arieti in persona. Mentre promette a sua volta di unirsi alla lotta, quasi vedi svanire la disinvolta arroganza del mercenario..." },
+    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_TODO_00", "hash": "E9805B6804C38ACD", "target": "Consegnare la lettera a Belmont al Campo Testa di Drago" },
+    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_MIAHMOLKOT_000_000", "hash": "4F936A563B94B6A8", "target": "Coerthas e il Bosco dei Dodici... Gli uccellini si sono dati da fare, riempiendo il gozzo di vermi succulenti d'ogni genere." },
+    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_MIAHMOLKOT_000_001", "hash": "BF1E47EFC2A6D829", "target": "O di qualcos'altro di succulento? Ecco, questa è un'idea. Potrebbero estrarre <italic(1)>cristalli<italic(0)> da quegli alberi─bocconcini per il loro grande uccello, la primordiale Garuda..." },
+    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_MIAHMOLKOT_000_002", "hash": "4E8FB03D1ABCC746", "target": "Ehi! Sei veloce quanto si dice? Ho una lettera diretta a Coerthas, per Belmont." },
+    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_MIAHMOLKOT_000_003", "hash": "3F84FED6BF89F34C", "target": "E di' a quel bastardo che può contare su di noi─e che farà meglio a essere un tattico bravo quanto un tempo, anche se ora dorme su letti di piume con una sgualdrina per lato!" },
+    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_BELMONT_000_010", "hash": "4EDD1F7CCE162B1C", "target": "Di nuovo qui, senza danni! Perdonami se non chiedo del viaggio, ma cosa ha detto Isaudorel? Pensa di poter interessare gli Arieti Bianchi?" },
+    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_BELMONT_000_020", "hash": "96A525469E50FF71", "target": "Una lettera di Molkot? Per i Dodici, gli Ixal <italic(1)>stanno<italic(0)> abbattendo alberi nel Bosco dei Dodici! E offrono i cristalli a Garuda─è peggio di quanto pensassi." },
+    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_BELMONT_000_021", "hash": "6D1F71E638406E2F", "target": "Ha detto così, eh? Suppongo di essermi rammollito abbastanza a lungo. Ho mangiato raffinati avanzi e dormito in un letto di piume o due, anche se non giurerò sull'altra cosa. Questa è la volontà dei Dodici." },
+    { "gameKey": "quest/009/GaiUsb714_00909#TEXT_GAIUSB714_00909_BELMONT_000_022", "hash": "8DFAC3AFAD203867", "target": "Gli Arieti Bianchi nel Bosco dei Dodici, io a Coerthas... con chiunque voglia unirsi a me. Le altezzose e potenti casate di Ishgard possono andare a farsi fottere. Fermeremo gli Ixal con o senza di loro." }
   ]
 }

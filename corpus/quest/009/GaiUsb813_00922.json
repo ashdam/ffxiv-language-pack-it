@@ -2,14 +2,14 @@
   "conversation": "quest/009/GaiUsb813_00922",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_SEQ_00", "hash": "7C269FEEC526E15A", "target": "" },
-    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_SEQ_01", "hash": "E99FF62FA27FA1DF", "target": "" },
-    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_SEQ_02", "hash": "4CCC2CBE460B6D6E", "target": "" },
-    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_TODO_00", "hash": "3441980856DBC1DD", "target": "" },
-    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_PAPAWAZU_000_000", "hash": "342134E769F1EE58", "target": "" },
-    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_PAPAWAZU_000_001", "hash": "D0597DAA1C09FE4F", "target": "" },
-    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_SYNTGOHT_000_010", "hash": "F956CAC886DF7903", "target": "" },
-    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_SYNTGOHT_000_011", "hash": "7E24D6085414D488", "target": "" },
-    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_SYNTGOHT_000_012", "hash": "9B9B49A1A7D8DE11", "target": "" }
+    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_SEQ_00", "hash": "7C269FEEC526E15A", "target": "Papawazu vorrebbe offrirti un altro incarico e l'occasione di ammirarlo, se ti va." },
+    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_SEQ_01", "hash": "E99FF62FA27FA1DF", "target": "La spedizione di ceruleum lavorato riprenderà finalmente, con soddisfazione di tutti─beh, tranne i coblyn, ma creature come loro non hanno voce in capitolo, soprattutto da morte. Riferisci la notizia a Syntgoht al Sapphire Avenue Exchange." },
+    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_SEQ_02", "hash": "4CCC2CBE460B6D6E", "target": "Syntgoht è sollevato, anche se infastidito dal rincaro. Quando la merce gli arriverà tra pochi giorni, dovrebbe a sua volta poter soddisfare gli ordini." },
+    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_TODO_00", "hash": "3441980856DBC1DD", "target": "Parlare con Syntgoht al Sapphire Avenue Exchange" },
+    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_PAPAWAZU_000_000", "hash": "342134E769F1EE58", "target": "<italic(1)>Comunque<italic(0)>! Il ceruleum deve scorrere. Niente più ritardi nelle spedizioni─un altro brillante colpo di Papawazu! Oh, è un pennacchio? Per il mio cappello? Vi ringrazio molto!" },
+    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_PAPAWAZU_000_001", "hash": "D0597DAA1C09FE4F", "target": "Duuunque, puoi dire a Syntgoht che la spedizione arriverà tra pochi giorni. <italic(1)>Pur<italic(0)>troppo ci sarà un piccolo aumento di prezzo. Supplemento di sicurezza, sai! Lo fanno tutti." },
+    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_SYNTGOHT_000_010", "hash": "F956CAC886DF7903", "target": "Ti do il benvenuto, <italic(1)>benvenuto<italic(0)>! Che cosa desidera una persona di buon gu─oh, sei tu, <split(<string(gstr1)>, ,1)>. Hai parlato con Papawazu? Davvero! Ha detto pochi giorni?" },
+    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_SYNTGOHT_000_011", "hash": "7E24D6085414D488", "target": "Dunque, <if(gnum4,mia cara signora,mio caro uomo)>, mi dici che spediscono ciò che mi devono, ma facendolo pagare di più. Auguro ad Amajina e a <italic(1)>tutti<italic(0)> i suoi figli di godersi i miei Gil. Spero che gli venga la gotta." },
+    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_SYNTGOHT_000_012", "hash": "9B9B49A1A7D8DE11", "target": "Ti ringrazio davvero di aver risolto la faccenda, e proprio con quel nibbio di Papawazu. Un intermediario accorto come me si ricorderà certamente di te per i futuri incarichi!" }
   ]
 }

@@ -2,19 +2,19 @@
   "conversation": "quest/008/GaiUsb105_00824",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_SEQ_00", "hash": "BB3DBE97FF6E5B1A", "target": "" },
-    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_SEQ_01", "hash": "C4D1D4E17F1E173A", "target": "" },
-    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_SEQ_02", "hash": "C83B2406B6E188FC", "target": "" },
-    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_SEQ_03", "hash": "E9459024EA0780C9", "target": "" },
-    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_TODO_00", "hash": "AF7E48742F298F66", "target": "" },
-    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_TODO_01", "hash": "E346FB5EDF856085", "target": "" },
-    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_UKHUBATIA_000_000", "hash": "2A2128529000795B", "target": "" },
-    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_UKHUBATIA_000_001", "hash": "07D7CC371E894988", "target": "" },
-    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_UKHUBATIA_000_002", "hash": "72F6CB1136048E16", "target": "" },
-    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_RIRIDESU_000_010", "hash": "FBDC85B1EDAB9FAE", "target": "" },
-    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_DRIFTINGCLOUD_000_020", "hash": "AB34CB42540BC681", "target": "" },
-    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_SIDIMUND_000_030", "hash": "DA2DC760A275C145", "target": "" },
-    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_UKHUBATIA_000_050", "hash": "114BE83ADF8312D6", "target": "" },
-    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_UKHUBATIA_000_051", "hash": "16BE5C384A76FF94", "target": "" }
+    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_SEQ_00", "hash": "BB3DBE97FF6E5B1A", "target": "La gente parla e U'khuba Tia vorrebbe sapere cosa dice." },
+    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_SEQ_01", "hash": "C4D1D4E17F1E173A", "target": "Mentre il momento della Scelta si avvicina, U'khuba Tia non gradisce che molti vedano in U'tykha Tia il prossimo capo della tribù U. Ti chiede di parlare con gli immigrati e scoprire cosa sperano per Forgotten Springs." },
+    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_SEQ_02", "hash": "C83B2406B6E188FC", "target": "Hai parlato con tre cittadini immigrati da poco a Forgotten Springs e hai scoperto che tutti sono in qualche misura scontenti della mancanza di cambiamenti. Torna da U'khuba Tia e riferiscigli le loro lamentele." },
+    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_SEQ_03", "hash": "E9459024EA0780C9", "target": "U'khuba Tia reagisce alle tue parole come se le avesse già sentite, riconoscendo che la tribù U dovrà abbandonare la tradizione per evolversi. Se questi cambiamenti porteranno una crescita positiva, però, è una domanda a cui nessuno sa rispondere." },
+    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_TODO_00", "hash": "AF7E48742F298F66", "target": "Parlare con gli abitanti di Forgotten Springs" },
+    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_TODO_01", "hash": "E346FB5EDF856085", "target": "Riferire le proprie scoperte a U'khuba Tia" },
+    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_UKHUBATIA_000_000", "hash": "2A2128529000795B", "target": "Non passerei troppo tempo con U'tykha. Quell'allegria sciocca può essere contagiosa, e ho imparato che è saggio non diventare mai <italic(1)>troppo<italic(0)> felici. La felicità genera compiacimento, e solo l'insoddisfazione permette di elevarsi." },
+    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_UKHUBATIA_000_001", "hash": "07D7CC371E894988", "target": "Questo ci porta a chi di noi guiderà la tribù. A differenza di U'tykha, prendo molto sul serio la questione del prossimo nunh. Ciascuno di noi rappresenta una visione diversa di ciò che ci attende." },
+    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_UKHUBATIA_000_002", "hash": "72F6CB1136048E16", "target": "Vedi, il futuro mi affascina. Non possiamo crearlo, ma <italic(1)>possiamo<italic(0)> prepararci. <italic(1)>Possiamo<italic(0)> trarne profitto. Oppure <italic(1)>possiamo<italic(0)> morirne. Devi parlare con gli immigrati, perché vedono Forgotten Springs con gli occhi dell'opportunità, non della lealtà." },
+    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_RIRIDESU_000_010", "hash": "FBDC85B1EDAB9FAE", "target": "Io dico più commercio e meno ostacoli. Forgotten Springs è in una posizione <italic(1)>ideale<italic(0)> per diventare un punto di passaggio delle rotte commerciali attraverso il deserto. Se solo il nunh pensasse ad attirare noi mercanti invece di <italic(1)>respingerci<italic(0)> apertamente..." },
+    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_DRIFTINGCLOUD_000_020", "hash": "AB34CB42540BC681", "target": "Non ho mai capito perché qui ci siano così pochi letti. Vedi quei minatori che piantano le tende a Byregot's Strike? Pensi che <italic(1)>vogliano<italic(0)> stare rintanati lì? Certo che no! È solo che non hanno trovato una locanda qui intorno che non fosse piena." },
+    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_SIDIMUND_000_030", "hash": "DA2DC760A275C145", "target": "Un attacco in forze degli Amalj'aa sfonderebbe le difese in un giorno. Con gli uomini-lucertola che ultimamente si muovono tanto liberamente a Zanr'ak, sarebbe meglio per tutti che le Fiamme Immortali rafforzassero l'avamposto di Forgotten Springs." },
+    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_UKHUBATIA_000_050", "hash": "114BE83ADF8312D6", "target": "Affascinante, davvero affascinante. Questi immigrati ti dicono molte verità. Sei le mie orecchie per strada." },
+    { "gameKey": "quest/008/GaiUsb105_00824#TEXT_GAIUSB105_00824_UKHUBATIA_000_051", "hash": "16BE5C384A76FF94", "target": "Tutte le voci chiedono che Forgotten Springs apra le porte. Se la nostra tribù vuole prosperare, dobbiamo godere del denaro e della protezione di immigrati e stranieri. Quando sarò nunh, le vecchie usanze dovranno cedere il passo alle nuove." }
   ]
 }

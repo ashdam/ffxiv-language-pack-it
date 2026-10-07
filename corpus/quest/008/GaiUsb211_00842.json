@@ -2,15 +2,15 @@
   "conversation": "quest/008/GaiUsb211_00842",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_SEQ_00", "hash": "0BDE8662FBAED33A", "target": "" },
-    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_SEQ_01", "hash": "143300B7836B33BB", "target": "" },
-    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_SEQ_02", "hash": "C5663A2AD7E116BC", "target": "" },
-    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_SEQ_03", "hash": "B9395A0C45DBAFE3", "target": "" },
-    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_TODO_00", "hash": "DCEFB2E9CA495B2F", "target": "" },
-    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_TODO_01", "hash": "EA24EBEA3121F0E8", "target": "" },
-    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_BYRGLAENT_000_000", "hash": "C5B34A7A9E606E2B", "target": "" },
-    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_BYRGLAENT_000_001", "hash": "A4BCEFC60DCA37F7", "target": "" },
-    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_BYRGLAENT_000_020", "hash": "C41D6F66F8DE4E90", "target": "" },
-    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_BYRGLAENT_000_021", "hash": "3F733910DC47496B", "target": "" }
+    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_SEQ_00", "hash": "0BDE8662FBAED33A", "target": "Byrglaent, maestro vinificatore di Wineport, fatica a procurarsi del buon sughero." },
+    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_SEQ_01", "hash": "143300B7836B33BB", "target": "Byrglaent è quasi apoplettico per la qualità del sughero che gli hanno fornito. Non volendo accontentarsi di nulla che non sia eccellente, ti ha chiesto di uccidere cinque cork bulb." },
+    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_SEQ_02", "hash": "C5663A2AD7E116BC", "target": "Hai ucciso cinque cork bulb e strappato il sughero di qualità ai loro corpi esanimi. Consegna il bottino a Byrglaent a Wineport." },
+    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_SEQ_03", "hash": "B9395A0C45DBAFE3", "target": "Il maestro vinificatore esalta le virtù del sughero pregiato che hai procurato. Non può però fare a meno di lamentare l'incapacità dei suoi dipendenti di raccogliere il materiale da soli." },
+    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_TODO_00", "hash": "DCEFB2E9CA495B2F", "target": "Raccogliere sughero impeccabile dai cork bulb" },
+    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_TODO_01", "hash": "EA24EBEA3121F0E8", "target": "Consegnare il sughero a Byrglaent" },
+    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_BYRGLAENT_000_000", "hash": "C5B34A7A9E606E2B", "target": "Lo chiami sughero? Pfui! Questo affare triste e molliccio non è degno di baciarmi il didietro, figurarsi i miei pregiati bianchi e rossi. Ti direi di riprovare, ma ormai non ti affiderei nemmeno la <italic(1)>peggiore<italic(0)> annata. Per me non esisti più!" },
+    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_BYRGLAENT_000_001", "hash": "A4BCEFC60DCA37F7", "target": "<italic(1)>Tu<italic(0)>! Ne ho abbastanza di cercare qualità tra i miei dipendenti. Mostra a quello zotico come si fa e portami il materiale che ricavi dai cork bulb. Cinque dovrebbero bastare. Il tempo vola e il vino senza tappo inacidisce! Va', va'!" },
+    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_BYRGLAENT_000_020", "hash": "C41D6F66F8DE4E90", "target": "Dov'è il sughero che ho chiesto? Se credi che gironzolare ti frutterà un bicchiere di qualcosa, ti sbagli di grosso. <italic(1)>E<italic(0)> forse per me non esisti più!" },
+    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_BYRGLAENT_000_021", "hash": "3F733910DC47496B", "target": "Ora <italic(1)>questo<italic(0)> sembra buon sughero. Mmm, la giusta elasticità... passa un po' d'aria, ma non l'umidità. Magari avessi barili pieni di questa roba. Se solo la <italic(1)>mia<italic(0)> gente fosse altrettanto efficiente a trovarla..." }
   ]
 }

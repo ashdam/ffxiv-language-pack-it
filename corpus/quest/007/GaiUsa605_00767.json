@@ -2,17 +2,17 @@
   "conversation": "quest/007/GaiUsa605_00767",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_SEQ_00", "hash": "F625E9DE6E7F6BF3", "target": "" },
-    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_SEQ_01", "hash": "BD0F2F4F055BAC9C", "target": "" },
-    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_SEQ_02", "hash": "AB0201D5BA9B641B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_SEQ_03", "hash": "2B3CBBA19A39A1DD", "target": "" },
-    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_TODO_00", "hash": "0B975725E05B2B27", "target": "" },
-    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_TODO_01", "hash": "21E832FEE789EF7E", "target": "" },
-    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_WLFRIC_000_000", "hash": "172B09617C83409D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_WLFRIC_000_001", "hash": "A2C149848618F45D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_ENPC_000_010", "hash": "3EBD8F1E3A9720D9", "target": "" },
-    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_ENPC_000_011", "hash": "E796ACF6D3B5E373", "target": "" },
-    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_ENPC_000_012", "hash": "B54FE51B6FA9ECA9", "target": "" },
-    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_WLFRIC_000_020", "hash": "33E5CFFD90FF444B", "target": "" }
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_SEQ_00", "hash": "F625E9DE6E7F6BF3", "target": "Wlfric delle Sentinelle Cupe cerca un avventuriero che scovi i bracconieri rifugiati a Quarrymill." },
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_SEQ_01", "hash": "BD0F2F4F055BAC9C", "target": "Una bracconiera catturata da Wlfric è fuggita e si nasconde da qualche parte a Quarrymill. Cerca e arresta la fuggitiva." },
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_SEQ_02", "hash": "AB0201D5BA9B641B", "target": "Hai trovato la bracconiera, che confessa di essersi data al crimine soltanto per sfamare la famiglia. Il rimorso per le sue malefatte ti commuove e scegli di chiudere un occhio. Torna da Wlfric e raccontagli la triste storia." },
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_SEQ_03", "hash": "2B3CBBA19A39A1DD", "target": "Wlfric delle Sentinelle Cupe è indignato che la bracconiera sia sfuggita alla giustizia e teme le conseguenze di questa grave violazione della volontà degli elementali." },
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_TODO_00", "hash": "0B975725E05B2B27", "target": "Scovare la bracconiera nascosta a Quarrymill" },
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_TODO_01", "hash": "21E832FEE789EF7E", "target": "Fare rapporto a Wlfric" },
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_WLFRIC_000_000", "hash": "172B09617C83409D", "target": "Maledetta fuorilegge! Non sfuggirai alla giustizia delle Sentinelle Cupe!" },
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_WLFRIC_000_001", "hash": "A2C149848618F45D", "target": "Voi! Una di quelle ripugnanti bracconiere è fuggita nel villaggio e proprio ora si nasconde sotto il nostro naso. Unitevi subito alle ricerche─è un ordine!" },
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_ENPC_000_010", "hash": "3EBD8F1E3A9720D9", "target": "N-Non farmi male, ti supplico!" },
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_ENPC_000_011", "hash": "E796ACF6D3B5E373", "target": "Lo giuro sulla mia vita, non volevo fare niente di male! Ma con mio fratello malato e affamato... Quando mi hanno promesso soldi per le medicine, cos'altro potevo fare?" },
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_ENPC_000_012", "hash": "B54FE51B6FA9ECA9", "target": "Hai la mia parola. Da oggi guadagnerò il denaro con un lavoro onesto, o niente. Avrai pietà di me solo per questa volta, vero? I Dodici benedicano la tua anima gentile!" },
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_WLFRIC_000_020", "hash": "33E5CFFD90FF444B", "target": "La bracconiera è <italic(1)>fuggita<italic(0)>!? Imperdonabile! Avrei dovuto sapere che non dovevo affidare un compito simile a un avventuriero. Chi sfida la volontà degli elementali deve subire la giustizia, o tutti ne pagheremo il prezzo. Farete bene a non dimenticarlo." }
   ]
 }

@@ -2,17 +2,17 @@
   "conversation": "quest/006/SubSea013_00661",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_SEQ_00", "hash": "14D4580B8112CC58", "target": "" },
-    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_SEQ_01", "hash": "F557C06977056AF6", "target": "" },
-    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_SEQ_02", "hash": "4A5AA6F658B6CF1D", "target": "" },
-    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_SEQ_03", "hash": "0E318177FC753FFE", "target": "" },
-    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_TODO_00", "hash": "968A04B197B4376C", "target": "" },
-    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_TODO_01", "hash": "54AA349481FAD8C4", "target": "" },
-    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_HNAANZA_000_0", "hash": "FC35FCBEC19EF971", "target": "" },
-    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_HNAANZA_000_1", "hash": "644C76935641BF11", "target": "" },
-    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_HNAANZA_000_2", "hash": "832BED5AE47BA0AA", "target": "" },
-    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_BADERON_000_10", "hash": "815A22FAC3DC144C", "target": "" },
-    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_BADERON_000_11", "hash": "EC89C21CCF264A5F", "target": "" },
-    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_BADERON_000_12", "hash": "AE86A9BCE57715E6", "target": "" }
+    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_SEQ_00", "hash": "14D4580B8112CC58", "target": "H'naanza ha un incarico semplice ma redditizio per chi vive d'avventure." },
+    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_SEQ_01", "hash": "F557C06977056AF6", "target": "Baderon offre una taglia a chi accetta di ridurre i wharf rat. Esci dalla Porta della Tempesta e uccidi cinque di quei parassiti." },
+    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_SEQ_02", "hash": "4A5AA6F658B6CF1D", "target": "Hai massacrato senza pietà cinque ratti portatori di malattie. Fai rapporto a Baderon al Drowning Wench e riscuoti la ricompensa." },
+    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_SEQ_03", "hash": "0E318177FC753FFE", "target": "La taglia è stata offerta da un benefattore anonimo, secondo cui il continuo zampettare dei ratti lo stava facendo impazzire. Nonostante i tuoi sforzi, Baderon sospetta che quello strano uomo sarà sempre tormentato dalle creature pelose." },
+    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_TODO_00", "hash": "968A04B197B4376C", "target": "Uccidere i wharf rat" },
+    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_TODO_01", "hash": "54AA349481FAD8C4", "target": "Fare rapporto a Baderon" },
+    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_HNAANZA_000_0", "hash": "FC35FCBEC19EF971", "target": "Mmm? Ti serve un incarico da poco per passare il tempo? Allora ho il lavoro giusto per te." },
+    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_HNAANZA_000_1", "hash": "644C76935641BF11", "target": "Baderon offre una ricompensa a chi uccide almeno cinque wharf rat." },
+    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_HNAANZA_000_2", "hash": "832BED5AE47BA0AA", "target": "Quei parassiti non mancano fuori dalla Porta della Tempesta, quindi sbrigati e approfitta dell'occasione." },
+    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_BADERON_000_10", "hash": "815A22FAC3DC144C", "target": "Ah, hai ucciso qualche ratto! Bel lavoro, <if(gnum4,ragazza,ragazzo)>!" },
+    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_BADERON_000_11", "hash": "EC89C21CCF264A5F", "target": "L'altro giorno arriva un tizio e sbatte sul bancone un sacco enorme quanto un dannato goobbue, dicendo che chi uccide ratti può prendere qualcosa da dentro." },
+    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_BADERON_000_12", "hash": "AE86A9BCE57715E6", "target": "Gli chiedo perché, e dice solo che il maledetto <italic(1)>rumore<italic(0)> del loro zampettare lo fa impazzire. Secondo me, però, era già un po' tocco. Qualcosa mi dice che quel poveretto non troverà mai pace." }
   ]
 }

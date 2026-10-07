@@ -2,17 +2,17 @@
   "conversation": "quest/001/SubFst043_00199",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_SEQ_00", "hash": "D1F51E185D7C5440", "target": "" },
-    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_SEQ_01", "hash": "66E7AF35C18439DC", "target": "" },
-    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_SEQ_02", "hash": "3E9834076A359F31", "target": "" },
-    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_SEQ_03", "hash": "17288B8BF352A874", "target": "" },
-    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_TODO_00", "hash": "96037237613B617F", "target": "" },
-    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_TODO_01", "hash": "23F504BD68D6E132", "target": "" },
-    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_PAULEMONT_000_1", "hash": "04CF12839416C4BE", "target": "" },
-    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_PAULEMONT_000_2", "hash": "C091F31E4A77AA1F", "target": "" },
-    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_PAULEMONT_000_3", "hash": "2E1109031D2AA165", "target": "" },
-    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_QDJAWANA_000_10", "hash": "447A7AD301671D20", "target": "" },
-    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_QDJAWANA_000_11", "hash": "101B6557CC3E3BBA", "target": "" },
-    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_QDJAWANA_000_12", "hash": "34698A6BE15B2EF1", "target": "" }
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_SEQ_00", "hash": "D1F51E185D7C5440", "target": "Paulemont, una guardia alla Torre di E-Tatt, cerca qualcuno di diligente che pulisca due cartelli stradali sudici." },
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_SEQ_01", "hash": "66E7AF35C18439DC", "target": "Pulisci le due pietre miliari polverose lungo la strada vicino alla Torre di E-Tatt." },
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_SEQ_02", "hash": "3E9834076A359F31", "target": "Hai rimosso la sporcizia dalle pietre miliari polverose. Fai rapporto a Q'djawana alle Stalle di Treespeak." },
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_SEQ_03", "hash": "17288B8BF352A874", "target": "Con la diminuzione degli alberi adatti a deporre le uova, i mostri hanno iniziato a lasciare la propria prole sopra e intorno ai cartelli stradali incrostati di terra. Q'djawana non ha ancora trovato un modo per evitare che diventino nidi, ma il tuo aiuto ha almeno rimandato il problema." },
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_TODO_00", "hash": "96037237613B617F", "target": "Pulire le dusty malmstone" },
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_TODO_01", "hash": "23F504BD68D6E132", "target": "Fare rapporto a Q'djawana alle Stalle di Treespeak" },
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_PAULEMONT_000_1", "hash": "04CF12839416C4BE", "target": "Siete qui per dare una mano? Bene, potete occuparvi di un incarico della mia lista apparentemente infinita." },
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_PAULEMONT_000_2", "hash": "C091F31E4A77AA1F", "target": "Dovrete seguire la strada verso ovest e pulire due pietre miliari. Lo giuro su Nophica, quei cartelli accumulano terra e sporcizia a una velocità quasi innaturale." },
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_PAULEMONT_000_3", "hash": "2E1109031D2AA165", "target": "Parlate con Q'djawana alle Stalle di Treespeak quando avrete finito. Sarà lieta di sapere che le pietre miliari sono pulite, almeno per le prossime tre campane..." },
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_QDJAWANA_000_10", "hash": "447A7AD301671D20", "target": "Come? Avete pulito le pietre miliari? Grazie! Con tutte le faccende da sbrigare, temevo che sarebbero diventate ancora più sporche. E non sono soltanto brutte da vedere: in quello stato, le creature della zona tendono a deporvi le uova." },
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_QDJAWANA_000_11", "hash": "101B6557CC3E3BBA", "target": "Il motivo? Be', posso solo supporre che gli alberi dove preferiscono nidificare scarseggino, ultimamente. Comunque sia, non possiamo permettere che dai cartelli nascano mostri. Queste strade sono già abbastanza pericolose." },
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_QDJAWANA_000_12", "hash": "34698A6BE15B2EF1", "target": "Mmm, forse spruzzare un po' di liquore di calabroni terrebbe lontane le bestie..." }
   ]
 }

@@ -2,18 +2,18 @@
   "conversation": "quest/003/SubFst069_00385",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_SEQ_00", "hash": "79151CADDC21B85B", "target": "" },
-    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_SEQ_01", "hash": "9F6708669EF61FBF", "target": "" },
-    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_SEQ_02", "hash": "6B79DBC0FCAF0B23", "target": "" },
-    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_SEQ_03", "hash": "254CAB1CB5B42E41", "target": "" },
-    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_TODO_00", "hash": "709137F927E92E7E", "target": "" },
-    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_TODO_01", "hash": "18B9A5FBE219E12C", "target": "" },
-    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_BERTHE_000_1", "hash": "0C802EA2C39B384E", "target": "" },
-    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_BERTHE_000_2", "hash": "0DED36D683F20470", "target": "" },
-    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_BERTHE_000_3", "hash": "3DC8F78C10B785FF", "target": "" },
-    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_BERTHE_000_11", "hash": "7794A8422E4B31D4", "target": "" },
-    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_BERTHE_000_12", "hash": "AEC0CB2684C9A10A", "target": "" },
-    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_BERTHE_000_13", "hash": "3F338FCCE931EA0A", "target": "" },
-    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_BERTHE_000_14", "hash": "15CBBF805DE9B9E7", "target": "" }
+    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_SEQ_00", "hash": "79151CADDC21B85B", "target": "Berthe, un'abitante dei Pontili dello Specchio, cerca qualcuno che recuperi la sua canna da pesca a Lilystone." },
+    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_SEQ_01", "hash": "9F6708669EF61FBF", "target": "Berthe ha perso la canna a Lilystone quando l'ha lanciata contro una fiamma spettrale apparsa all'improvviso alle sue spalle. Vai a Lilystone e recupera la canna da pesca consumata per la scossa abitante dei Pontili dello Specchio." },
+    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_SEQ_02", "hash": "6B79DBC0FCAF0B23", "target": "Hai trovato la canna da pesca consumata. Torna ai Pontili dello Specchio e restituiscila a Berthe." },
+    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_SEQ_03", "hash": "254CAB1CB5B42E41", "target": "Hai consegnato la canna da pesca a Berthe. L'Elezen sembra conoscere bene le normali creature della zona, ma non aveva mai visto nulla come quella strana fiamma spettrale. È felice di aver riavuto ciò che le appartiene, ma si chiede se tornerà mai a pescare a Lilystone." },
+    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_TODO_00", "hash": "709137F927E92E7E", "target": "Recuperare la canna da pesca consumata" },
+    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_TODO_01", "hash": "18B9A5FBE219E12C", "target": "Consegnare la canna da pesca consumata a Berthe ai Pontili dello Specchio" },
+    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_BERTHE_000_1", "hash": "0C802EA2C39B384E", "target": "Sembrate una persona capace. Vi dispiacerebbe andare a Lilystone e recuperare la mia canna da pesca preferita?" },
+    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_BERTHE_000_2", "hash": "0DED36D683F20470", "target": "Stavo pescando tranquillamente, quando ho visto all'improvviso una sfera di fuoco spettrale avvicinarsi alle mie spalle. In preda al panico, mi sono girata e ho scagliato la canna contro l'apparizione, prima di fuggire qui ai Pontili." },
+    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_BERTHE_000_3", "hash": "3DC8F78C10B785FF", "target": "Ricordo vagamente che la canna ha attraversato quelle fiamme innaturali e colpito il lato della tenda che avevo montato per i sonnellini pomeridiani. Probabilmente è ancora lì, ma non trovo il coraggio di... Andrete al posto mio? Oh, grazie!" },
+    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_BERTHE_000_11", "hash": "7794A8422E4B31D4", "target": "Avete trovato la mia canna da pesca?" },
+    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_BERTHE_000_12", "hash": "AEC0CB2684C9A10A", "target": "Sì, è questa! Grazie a Nophica che siete qui, non riesco proprio a pescare con altre canne." },
+    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_BERTHE_000_13", "hash": "3F338FCCE931EA0A", "target": "I vilekin e le altre creature di qui non sono una minaccia per me, ma quelle fiamme... Non ho mai visto niente del genere." },
+    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_BERTHE_000_14", "hash": "15CBBF805DE9B9E7", "target": "Chissà se avrò mai il coraggio di tornare a pescare a Lilystone..." }
   ]
 }

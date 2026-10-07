@@ -2,17 +2,17 @@
   "conversation": "quest/011/SubSea153_01144",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_SEQ_00", "hash": "804D1D96B9DD48DF", "target": "" },
-    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_SEQ_01", "hash": "8C99E50C38FFE42E", "target": "" },
-    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_SEQ_02", "hash": "B6304E3C6E05802E", "target": "" },
-    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_TODO_00", "hash": "64767BBA6B07ABE8", "target": "" },
-    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_SNAIROH_000_000", "hash": "873678D1E21CD53A", "target": "" },
-    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_SNAIROH_000_001", "hash": "355074F07495C6B8", "target": "" },
-    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_SNAIROH_000_002", "hash": "D6093F16B0CC8CDD", "target": "" },
-    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_FALKBRYDA_000_010", "hash": "961C7580150DB383", "target": "" },
-    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_FALKBRYDA_000_011", "hash": "06B434205603AC28", "target": "" },
-    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_FALKBRYDA_000_012", "hash": "154FB85C79A1745C", "target": "" },
-    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_FALKBRYDA_000_013", "hash": "762BBC22816080FA", "target": "" },
-    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_FALKBRYDA_000_014", "hash": "550F51733D0C4085", "target": "" }
+    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_SEQ_00", "hash": "804D1D96B9DD48DF", "target": "S'nairoh, pallida e apatica, ha una nuova richiesta: la prima che non comporti uccidere mezza dozzina di bestie." },
+    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_SEQ_01", "hash": "8C99E50C38FFE42E", "target": "Dopo i fuochi d'artificio arriva la burocrazia. S'nairoh ha completato un rapporto sullo squallido incidente degli hedgemole. Devi consegnarlo alla comandante Falkbryda a Campo Skull Valley." },
+    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_SEQ_02", "hash": "B6304E3C6E05802E", "target": "Il rapporto è al sicuro nelle mani della comandante Falkbryda, ai cui occhi grigio acciaio sembra sfuggire ben poco di ciò che accade ad Aleport. Speri che la paga ridotta e le parole dure spingano S'nairoh a cambiare condotta." },
+    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_TODO_00", "hash": "64767BBA6B07ABE8", "target": "Consegnare il rapporto alla comandante Falkbryda" },
+    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_SNAIROH_000_000", "hash": "873678D1E21CD53A", "target": "Salve, <split(<string(gstr1)>, ,1)>. Portereste questo al posto mio a Campo Skull Valley? È, ehm, il mio rapporto per la comandante Falkbryda." },
+    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_SNAIROH_000_001", "hash": "355074F07495C6B8", "target": "Sono stata il più franca possibile e <italic(1)>volevo<italic(0)> fare rapporto di persona, ma... per qualche motivo ho a malapena la forza di andare dal barbiere per le sanguisughe, figuriamoci di arrivare alla Valle del Teschio." },
+    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_SNAIROH_000_002", "hash": "D6093F16B0CC8CDD", "target": "Non credo che mi risparmieranno una riduzione della paga. Non pensate che mi sbatteranno in prigione, vero?" },
+    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_FALKBRYDA_000_010", "hash": "961C7580150DB383", "target": "Ah, <if(gnum4,un'avventuriera,un avventuriero)> con un nome che mi è familiare. Ho sentito che hai reso servizio al Maelstrom. Cosa ti porta alla Valle del Teschio?" },
+    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_FALKBRYDA_000_011", "hash": "06B434205603AC28", "target": "Un rapporto della soldata S'nairoh? Non le fa onore non aver fatto il viaggio di persona. Resta mentre lo leggo." },
+    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_FALKBRYDA_000_012", "hash": "154FB85C79A1745C", "target": "Hm... Almeno quella non mente. È un peccato che si sia ridotta così da quando è stata assegnata ad Aleport. Era tra le prime del suo gruppo a essere promossa alla seconda classe, e ora..." },
+    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_FALKBRYDA_000_013", "hash": "762BBC22816080FA", "target": "Sai qual è il più grande nemico di un soldato, <split(<string(gstr1)>, ,1)>? La noia. Temo che S'nairoh abbia fatto la codarda nell'affrontare questo avversario." },
+    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_FALKBRYDA_000_014", "hash": "550F51733D0C4085", "target": "Ordinerò al tesoriere di ridurle la paga, ma non firmerò una censura. Se riesce a stare lontana dalle taverne e impara a tenersi occupata, potrà ancora meritare il suo salario." }
   ]
 }

@@ -2,18 +2,18 @@
   "conversation": "quest/001/SubFst041_00197",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_SEQ_00", "hash": "552B72D8DDD61165", "target": "" },
-    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_SEQ_01", "hash": "974D86364BBAEC8B", "target": "" },
-    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_SEQ_02", "hash": "4AF49FC59FC01AB6", "target": "" },
-    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_SEQ_03", "hash": "2EC5AB7FEF4EA449", "target": "" },
-    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_TODO_00", "hash": "F6020FB83E88FC04", "target": "" },
-    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_TODO_01", "hash": "CD0D63C3FA48B8F5", "target": "" },
-    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_MAURELIN_000_1", "hash": "6EE06BE097E9F589", "target": "" },
-    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_MAURELIN_000_2", "hash": "4AFC0207902E4C0C", "target": "" },
-    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_MAURELIN_000_3", "hash": "9158BE77E7AD6742", "target": "" },
-    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_MARIUSTEL_000_10", "hash": "5D5427CC37AE6B4C", "target": "" },
-    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_MARIUSTEL_000_11", "hash": "EBEA7F82CC7684BB", "target": "" },
-    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_MARIUSTEL_000_12", "hash": "A87E44A3A8B94F86", "target": "" },
-    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_MARIUSTEL_000_13", "hash": "4C069A36D048407B", "target": "" }
+    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_SEQ_00", "hash": "552B72D8DDD61165", "target": "Maurelin, un membro dell'Ordine delle Due Vipere al Bannock, cerca qualcuno che raccolga materiali per l'addestramento delle reclute." },
+    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_SEQ_01", "hash": "974D86364BBAEC8B", "target": "Raccogli quattro carapaci dai bog yarzon, simili a enormi insetti, che vivono nel fiume a sud del Bannock." },
+    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_SEQ_02", "hash": "4AF49FC59FC01AB6", "target": "Hai raccolto i carapaci di bog yarzon. Consegnali a Mariustel al Bannock." },
+    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_SEQ_03", "hash": "2EC5AB7FEF4EA449", "target": "Mariustel intende usare i carapaci che gli hai portato nelle prossime esercitazioni. Quando le reclute avranno imparato come eliminare al meglio un bog yarzon, proteggere il perimetro dell'accampamento sembrerà molto meno difficile." },
+    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_TODO_00", "hash": "F6020FB83E88FC04", "target": "Uccidere i bog yarzon e ottenere i loro carapaci" },
+    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_TODO_01", "hash": "CD0D63C3FA48B8F5", "target": "Consegnare i carapaci di bog yarzon a Mariustel al Bannock" },
+    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_MAURELIN_000_1", "hash": "6EE06BE097E9F589", "target": "Ehi, <if(gnum4,avventuriera,avventuriero)>! Se cerchi lavoro, sei nel posto giusto." },
+    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_MAURELIN_000_2", "hash": "4AFC0207902E4C0C", "target": "L'istruttore Mariustel cerca qualcuno che gli porti dei carapaci di bog yarzon per far esercitare le reclute." },
+    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_MAURELIN_000_3", "hash": "9158BE77E7AD6742", "target": "Troverai gli yarzon nel fiume a sud di qui. Quando avrai staccato i carapaci da quattro creature, portali all'istruttore." },
+    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_MARIUSTEL_000_10", "hash": "5D5427CC37AE6B4C", "target": "Sei qui per addestrarti?" },
+    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_MARIUSTEL_000_11", "hash": "EBEA7F82CC7684BB", "target": "Mh? Non sei una nuova recluta? Allora per... Ah, gli yarzon shell che avevo ordinato a Maurelin di procurare! Almeno ha imparato a delegare, a quanto pare." },
+    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_MARIUSTEL_000_12", "hash": "A87E44A3A8B94F86", "target": "Ora che ho questi carapaci, posso far svolgere alle reclute delle esercitazioni specifiche. Certo, sanno già colpire un bersaglio, ma devono sapere esattamente <italic(1)>dove<italic(0)> un mostro come lo yarzon è più vulnerabile." },
+    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_MARIUSTEL_000_13", "hash": "4C069A36D048407B", "target": "Grazie al tuo aiuto, sono certo che se la caveranno molto meglio contro quelle creature, quando sarà necessario. Puoi andare a testa alta: sia loro sia il Bannock sono più al sicuro grazie a te." }
   ]
 }

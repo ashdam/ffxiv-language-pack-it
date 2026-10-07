@@ -2,18 +2,18 @@
   "conversation": "quest/009/GaiUsb713_00908",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_SEQ_00", "hash": "39B4A3B3515D54E6", "target": "" },
-    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_SEQ_01", "hash": "41331B5DAB61EE00", "target": "" },
-    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_SEQ_02", "hash": "AC557C68236E2FCC", "target": "" },
-    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_SEQ_03", "hash": "7F429372A3852D35", "target": "" },
-    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_TODO_00", "hash": "DAA9FCD4CA6C82B4", "target": "" },
-    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_TODO_01", "hash": "D9ED2D7891301033", "target": "" },
-    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_MIAHMOLKOT_000_000", "hash": "AA9A981540A353FE", "target": "" },
-    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_MIAHMOLKOT_000_001", "hash": "158FD19643A53EAC", "target": "" },
-    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_MIAHMOLKOT_000_002", "hash": "2D512DE968883A1E", "target": "" },
-    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_MIAHMOLKOT_000_003", "hash": "674F3AE6AFA54C23", "target": "" },
-    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_MIAHMOLKOT_000_040", "hash": "99A32C6A8A85483B", "target": "" },
-    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_MIAHMOLKOT_000_041", "hash": "8AF340518A6AA388", "target": "" },
-    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_POP_MESSAGE_000", "hash": "BF3E6E2F6BF8A6A4", "target": "" }
+    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_SEQ_00", "hash": "39B4A3B3515D54E6", "target": "L'istruttrice Molkot suscita sia paura sia lealtà, e una delle due ti piegherà alla sua volontà. Non resistere e scopri cosa vuole." },
+    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_SEQ_01", "hash": "41331B5DAB61EE00", "target": "Miah Molkot ha sempre almeno un piano violento in mente, e la barricata eretta dagli Ixal non fa che attizzare le fiamme. Prendi il dito di piros, vai al blocco del corridoio settentrionale e fallo saltare nel nulla." },
+    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_SEQ_02", "hash": "AC557C68236E2FCC", "target": "Il blocco non esiste più e il corridoio settentrionale è aperto. Porta la lieta notizia a Molkot." },
+    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_SEQ_03", "hash": "7F429372A3852D35", "target": "Molkot accoglie la notizia con occhi scintillanti e coda sferzante. In certi momenti ti ricorda una creatura esotica─impossibile da controllare, disinvoltamente sanguinaria e ipnotica da guardare." },
+    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_TODO_00", "hash": "DAA9FCD4CA6C82B4", "target": "Usare il dito di piros per distruggere il blocco degli Ixal" },
+    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_TODO_01", "hash": "D9ED2D7891301033", "target": "Fare rapporto a Miah Molkot" },
+    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_MIAHMOLKOT_000_000", "hash": "AA9A981540A353FE", "target": "Gli Arieti Bianchi sono di stanza alla Guglia di Eugenia <italic(1)>ufficialmente<italic(0)> per fare la guardia─oh, sì, per proteggere gli alberi dagli scellerati dei campi di taglio degli Ixal a nord. Molto difensivo!" },
+    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_MIAHMOLKOT_000_001", "hash": "158FD19643A53EAC", "target": "Rimani sulla difensiva abbastanza a lungo e il nemico dimentica che puoi attaccare. Suppongo fosse questa l'idea, ma─ora! Ora il nemico ci <italic(1)>anticipa<italic(0)>." },
+    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_MIAHMOLKOT_000_002", "hash": "2D512DE968883A1E", "target": "Quegli uccelli beffardi e cinguettanti hanno chiuso il corridoio settentrionale con un blocco! Sssputo sulla loro astuzia. Mi tiene lontana dai loro piccoli colli..." },
+    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_MIAHMOLKOT_000_003", "hash": "674F3AE6AFA54C23", "target": "Distruggi il blocco con questo dito di piros. Agli uccellini non bastavano poche altre lune tranquille prima che si scatenassero tutti gli inferni? Bene! Gli Ixal sentiranno l'Ariete proprio adesso, miao!" },
+    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_MIAHMOLKOT_000_040", "hash": "99A32C6A8A85483B", "target": "Che bel botto! Una detonazione da fare le fusa!" },
+    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_MIAHMOLKOT_000_041", "hash": "8AF340518A6AA388", "target": "Erigete i vostri piccoli blocchi, uccellini miei, e cadranno come una culla sul ramo! Nulla, proprio nulla, si frapporrà tra gli Arieti Bianchi e la nostra preda..." },
+    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_POP_MESSAGE_000", "hash": "BF3E6E2F6BF8A6A4", "target": "Quello stridio può venire solo dai limbcutters!" }
   ]
 }

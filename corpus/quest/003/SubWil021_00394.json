@@ -2,16 +2,16 @@
   "conversation": "quest/003/SubWil021_00394",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_SEQ_00", "hash": "A58A7C1D080EF9E6", "target": "" },
-    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_SEQ_01", "hash": "7296DCC28685EA18", "target": "" },
-    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_SEQ_02", "hash": "BEBCB05DD013581C", "target": "" },
-    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_TODO_00", "hash": "DB3A467A7902D01D", "target": "" },
-    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_ALEWYN_000_1", "hash": "76800D2597057424", "target": "" },
-    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_ALEWYN_000_2", "hash": "7EFC274E67DD00FE", "target": "" },
-    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_ALEWYN_000_3", "hash": "CD233FFA2A32536A", "target": "" },
-    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_ALEWYN_000_4", "hash": "23E1A1714EBCBDB3", "target": "" },
-    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_LANDEBERT_000_10", "hash": "922D96639BD64E6D", "target": "" },
-    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_LANDEBERT_000_11", "hash": "228492F4FEB3691F", "target": "" },
-    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_LANDEBERT_000_12", "hash": "4BD04C397F71AE00", "target": "" }
+    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_SEQ_00", "hash": "A58A7C1D080EF9E6", "target": "Alewyn ha bisogno di qualcuno che l'aiuti a provare una nuova medicina rivoluzionaria." },
+    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_SEQ_01", "hash": "7296DCC28685EA18", "target": "Alewyn ha appena sviluppato una medicina che definisce rivoluzionaria, capace di curare ogni genere di malattia. Ma deve ancora verificarne l'efficacia e ti chiede di offrire il tonico a Landebert, uno dei capi dei profughi ala mhigani di Via della Perla." },
+    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_SEQ_02", "hash": "BEBCB05DD013581C", "target": "Landebert conosce bene i veri motivi di Alewyn. Ma, nonostante il pericolo di affidarsi a intrugli alchemici non sperimentati, i profughi non possono fare altro che accettare la sua presunta generosità." },
+    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_TODO_00", "hash": "DB3A467A7902D01D", "target": "Offrire il tonico di Alewyn a Landebert" },
+    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_ALEWYN_000_1", "hash": "76800D2597057424", "target": "Sì, sì... <italic(1)>Sì<italic(0)>! Finalmente ho completato il mio lavoro!" },
+    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_ALEWYN_000_2", "hash": "7EFC274E67DD00FE", "target": "Ricordate le mie parole: questa formula rivoluzionerà l'alchimia come la conosciamo! Con un solo sorso di questo tonico, perfino le febbri più violente si spegneranno all'istante!" },
+    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_ALEWYN_000_3", "hash": "CD233FFA2A32536A", "target": "Ma devo provarlo! Mentre ne produco ancora, portate questa dose a Via della Perla, a un uomo di nome Landebert. Gli altri profughi si fidano di lui." },
+    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_ALEWYN_000_4", "hash": "23E1A1714EBCBDB3", "target": "Convincete questo Landebert a prendere il mio tonico e darlo alla sua gente. Non chiedo nulla in cambio: se è davvero efficace, contribuirà enormemente al progresso delle arti alchemiche... e, ehm, dell'umanità intera!" },
+    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_LANDEBERT_000_10", "hash": "922D96639BD64E6D", "target": "Eh? Medicina per i malati?" },
+    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_LANDEBERT_000_11", "hash": "228492F4FEB3691F", "target": "Ah! Non siamo sciocchi, <if(gnum4,ragazza,ragazzo)>. Sappiamo benissimo cosa sta combinando quel bastardo di Alewyn." },
+    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_LANDEBERT_000_12", "hash": "4BD04C397F71AE00", "target": "...Ma accetteremo comunque la sua medicina. Guardaci: chi mendica non può fare lo schizzinoso. Per lui sarà solo un esperimento, ma per noi è questione di vita o di morte. Se dobbiamo scegliere tra la brodaglia di quel bastardo e niente, è davvero una scelta?" }
   ]
 }

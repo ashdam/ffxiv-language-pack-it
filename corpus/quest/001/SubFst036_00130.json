@@ -2,18 +2,18 @@
   "conversation": "quest/001/SubFst036_00130",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_SEQ_00", "hash": "C6A161A8BE4C3B2C", "target": "" },
-    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_SEQ_01", "hash": "9C212A9058AA713D", "target": "" },
-    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_SEQ_02", "hash": "3BAEEAB5C7C8C649", "target": "" },
-    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_SEQ_03", "hash": "FE2EDDC01004F5D0", "target": "" },
-    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_TODO_00", "hash": "3FD309FEEED9CA93", "target": "" },
-    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_TODO_01", "hash": "5CFA4F8DD612A1E5", "target": "" },
-    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_GABINEAUX_000_1", "hash": "363ACCB3B3F2F4BF", "target": "" },
-    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_GABINEAUX_000_2", "hash": "81F3D0A88F1D8780", "target": "" },
-    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_GABINEAUX_000_3", "hash": "F1E354F2668A1C59", "target": "" },
-    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_GABINEAUX_000_4", "hash": "3C3A03AC34CB65B2", "target": "" },
-    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_GABINEAUX_000_5", "hash": "9F9D0538CA9979B1", "target": "" },
-    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_EALDFRITH_000_10", "hash": "EE9834637D1C1F8C", "target": "" },
-    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_EALDFRITH_000_11", "hash": "21E60F3442127C89", "target": "" }
+    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_SEQ_00", "hash": "C6A161A8BE4C3B2C", "target": "Gabineaux, della celebre Capanna di Gabineaux, ha bisogno di qualcuno di affidabile che riduca la popolazione di microchu, in continua crescita." },
+    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_SEQ_01", "hash": "9C212A9058AA713D", "target": "Gabineaux è fuori di sé dalla rabbia mentre descrive i mali causati dai microchu. Uccidi otto di quei parassiti che sottraggono sostanze nutritive e dona sollievo sia al terreno sia alla mente tormentata di Gabineaux." },
+    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_SEQ_02", "hash": "3BAEEAB5C7C8C649", "target": "Hai ucciso otto microchu. Fai rapporto a Ealdfrith fuori dalla Capanna di Gabineaux." },
+    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_SEQ_03", "hash": "FE2EDDC01004F5D0", "target": "Con meno microchu a sottrarre sostanze nutritive al terreno, gli alberi dovrebbero tornare a crescere normalmente. Si può solo sperare che questo liberi Gabineaux dalla rabbia che lo consuma." },
+    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_TODO_00", "hash": "3FD309FEEED9CA93", "target": "Uccidere otto microchu" },
+    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_TODO_01", "hash": "5CFA4F8DD612A1E5", "target": "Fare rapporto a Ealdfrith alla Capanna di Gabineaux" },
+    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_GABINEAUX_000_1", "hash": "363ACCB3B3F2F4BF", "target": "Ah, sei tu, <split(<string(gstr1)>, ,1)>! Dopo la <italic(1)>batosta<italic(0)> che hai dato a quegli infernali funguar, credo proprio che tu possa risolvere un altro mio problema: i microchu!" },
+    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_GABINEAUX_000_2", "hash": "81F3D0A88F1D8780", "target": "Quelle bestiacce traggono nutrimento direttamente dal terreno. Di solito la foresta sarebbe ben lieta di sfamarle, ma ultimamente sono davvero troppe, accidenti!" },
+    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_GABINEAUX_000_3", "hash": "F1E354F2668A1C59", "target": "Così tante che succhiano fino all'ultima sostanza nutritiva! Credete che questo terreno esista solo per voi e i vostri amici microchu!? Gah! Dovrei andare là e...e...be', non so bene cosa dovrei fare, ma qualcuno deve pur fare qualcosa! E presto! P<-->Prima che io..." },
+    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_GABINEAUX_000_4", "hash": "3C3A03AC34CB65B2", "target": "Mi...mi scuso. Vedi, la rabbia prende il sopravvento e non posso far altro che sbuffare e farfugliare. Se potessi sterminare otto di quei devastatori del terreno, ti sarei eternamente grato." },
+    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_GABINEAUX_000_5", "hash": "9F9D0538CA9979B1", "target": "Quando avrai sistemato i microchu, ti sarei grato se facessi rapporto a Ealdfrith. Lo troverai qui fuori. Pare che il degrado del terreno lo abbia preoccupato quanto me: sono certo che gli farà piacere sapere che il problema è risolto." },
+    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_EALDFRITH_000_10", "hash": "EE9834637D1C1F8C", "target": "Dici di aver ucciso parecchi di quei microchu? Be', questa sì che è una buona notizia!" },
+    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_EALDFRITH_000_11", "hash": "21E60F3442127C89", "target": "Temevo che il vecchio Gabineaux prendesse un'ascia e cercasse di fare a pezzi quei parassiti da solo! Forse ora la sua mente tormentata troverà un po' di pace. Ti ringrazio." }
   ]
 }

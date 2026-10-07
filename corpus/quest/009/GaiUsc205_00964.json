@@ -2,16 +2,16 @@
   "conversation": "quest/009/GaiUsc205_00964",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_SEQ_00", "hash": "398F2548AA98971F", "target": "" },
-    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_SEQ_01", "hash": "DE39E6938D510B83", "target": "" },
-    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_SEQ_02", "hash": "9A99F83D7506C551", "target": "" },
-    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_SEQ_03", "hash": "1EAA8542D176E65C", "target": "" },
-    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_TODO_00", "hash": "2AF20ED9CDC3D57F", "target": "" },
-    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_TODO_01", "hash": "94BF55F066F8FF42", "target": "" },
-    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_OTANYARATAN_000_000", "hash": "67BB8B5808F55B66", "target": "" },
-    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_OTANYARATAN_000_001", "hash": "A70FFADF01F76A3B", "target": "" },
-    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_OTANYARATAN_000_010", "hash": "A111A8511C7CD089", "target": "" },
-    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_OTANYARATAN_000_011", "hash": "79C914579E5C2E1B", "target": "" },
-    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_OTANYARATAN_000_012", "hash": "D4E77DBC59ED8934", "target": "" }
+    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_SEQ_00", "hash": "398F2548AA98971F", "target": "Otan Yaratan sembra terrorizzato." },
+    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_SEQ_01", "hash": "DE39E6938D510B83", "target": "Chi vive con i capricci del mare non sarà codardo, ma Otan Yaratan teme chiaramente i fantasmi più dei naufragi. Lascialo tremare e uccidi cinque spiriti inquieti chiamati dead man's moan." },
+    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_SEQ_02", "hash": "9A99F83D7506C551", "target": "Per un avventuriero capace, nemmeno la morte ostacola un'uccisione. Torna al Pharos Sirius e parla con Otan Yaratan." },
+    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_SEQ_03", "hash": "1EAA8542D176E65C", "target": "Sollevato, il guardiano riversa i guai nel tuo orecchio comprensivo. Che cosa succede, in nome dei Dodici, al Pharos Sirius un tempo tranquillo?" },
+    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_TODO_00", "hash": "2AF20ED9CDC3D57F", "target": "Uccidere i dead man's moan" },
+    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_TODO_01", "hash": "94BF55F066F8FF42", "target": "Fare rapporto a Otan Yaratan" },
+    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_OTANYARATAN_000_000", "hash": "67BB8B5808F55B66", "target": "S<-->Spiriti! Spiriti erranti su tutta l'isola! Bisogna fare qualco... Ah!<br><italic(1)>In nome dei Dodici, sparite<italic(0)>!<br>...Non spariscono, vero?" },
+    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_OTANYARATAN_000_001", "hash": "A70FFADF01F76A3B", "target": "\\<sospiro> Non so cosa... Oh! Qualcuno degli avventurieri! Grazie ai Dodici. Serve aiuto: i morti non riposano tranquilli! Come ripariamo il faro con tutti questi guai, non lo so." },
+    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_OTANYARATAN_000_010", "hash": "A111A8511C7CD089", "target": "Avete davvero eliminato tutti quei piagnucoloni!? Ora riposeranno meglio, scommetto... Figli di puttana lamentosi." },
+    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_OTANYARATAN_000_011", "hash": "79C914579E5C2E1B", "target": "Qui è sempre una cosa o l'altra. Navi sventrate sugli scogli, lavoratori fidati scomparsi..." },
+    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_OTANYARATAN_000_012", "hash": "D4E77DBC59ED8934", "target": "Era un bel posticino, sapete. Ora il faro è rotto e cose come <italic(1)>questa<italic(0)> succedono tre volte a luna o più." }
   ]
 }

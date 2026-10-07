@@ -2,17 +2,17 @@
   "conversation": "quest/007/GaiUsa608_00770",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_SEQ_00", "hash": "9B78DF13A4EA57A9", "target": "" },
-    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_SEQ_01", "hash": "A635276CD1FD923B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_SEQ_02", "hash": "6E5C24B12A55DFC2", "target": "" },
-    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_SEQ_03", "hash": "29753C8A907851C4", "target": "" },
-    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_TODO_00", "hash": "25808BD74C2D5433", "target": "" },
-    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_TODO_01", "hash": "99A5AD5B6A193D6C", "target": "" },
-    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_TODO_02", "hash": "52E3377145C0D538", "target": "" },
-    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_TODO_03", "hash": "546B74E0A15FC16B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_FAUCERTAUX_000_000", "hash": "1ECBA20DCD90E7D2", "target": "" },
-    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_FAUCERTAUX_000_001", "hash": "6F58FE357B7A591C", "target": "" },
-    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_FAUCERTAUX_000_002", "hash": "01D1174CDF34EFFF", "target": "" },
-    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_FAUCERTAUX_000_010", "hash": "4129CD0153E8ABB1", "target": "" }
+    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_SEQ_00", "hash": "9B78DF13A4EA57A9", "target": "Faucertaux cerca il tuo aiuto per sottrarre un villaggio a una banda di fuorilegge." },
+    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_SEQ_01", "hash": "A635276CD1FD923B", "target": "Una famigerata banda di fuorilegge nota come le Vespe Pancirossa ha occupato un villaggio abbandonato, trasformandolo in un covo di malvagità. Uccidi un Redbelly lookout, un Redbelly sharpeye e un Redbelly larcener." },
+    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_SEQ_02", "hash": "6E5C24B12A55DFC2", "target": "Hai eliminato tre Vespe Pancirossa. Riferisci il successo a Faucertaux." },
+    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_SEQ_03", "hash": "29753C8A907851C4", "target": "Il tuo successo nello sbaragliare i banditi ha dato a Faucertaux la speranza che il giorno in cui Hyur ed Elezen torneranno a vivere in pace nel villaggio sia vicino." },
+    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_TODO_00", "hash": "25808BD74C2D5433", "target": "Uccidere un Redbelly lookout" },
+    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_TODO_01", "hash": "99A5AD5B6A193D6C", "target": "Uccidere un Redbelly sharpeye" },
+    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_TODO_02", "hash": "52E3377145C0D538", "target": "Uccidere un Redbelly larcener" },
+    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_TODO_03", "hash": "546B74E0A15FC16B", "target": "Fare rapporto a Faucertaux" },
+    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_FAUCERTAUX_000_000", "hash": "1ECBA20DCD90E7D2", "target": "Forse avete sentito i racconti, ma il posto chiamato Redbelly Hive non è sempre stato un misero nido di feccia e malvagità." },
+    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_FAUCERTAUX_000_001", "hash": "6F58FE357B7A591C", "target": "Un tempo vi sorgeva un borgo chiamato Boughbury, dove Hyur ed Elezen vivevano in pace. Prima che arrivasse la Calamità e si scatenassero tutti gli inferni. Quei figli di puttana dei Pancirossa arrivarono quando gli abitanti fuggirono e da allora spadroneggiano là." },
+    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_FAUCERTAUX_000_002", "hash": "01D1174CDF34EFFF", "target": "Speriamo di recuperare il villaggio, ma i Pancirossa non sono comuni fuorilegge─prevedono ogni nostra mossa da malm di distanza. È qui che entrate in gioco voi: che ne dite di entrare nel nido delle Vespe e togliere il pungiglione a quei bastardi?" },
+    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_FAUCERTAUX_000_010", "hash": "4129CD0153E8ABB1", "target": "Oggi avete combattuto bene per noi. Quando Boughbury sarà restituito alla nostra gente, potrete provare orgoglio sapendo di aver inferto un colpo decisivo." }
   ]
 }

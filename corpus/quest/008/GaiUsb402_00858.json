@@ -2,18 +2,18 @@
   "conversation": "quest/008/GaiUsb402_00858",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_SEQ_00", "hash": "C42E9E02ADE7CEE9", "target": "" },
-    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_SEQ_01", "hash": "2BFCCC4E5E1B12B7", "target": "" },
-    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_SEQ_02", "hash": "E9C0B2529DA60FEE", "target": "" },
-    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_TODO_00", "hash": "FC22C6EF1C9A9154", "target": "" },
-    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLAUGYBAL_000_000", "hash": "2285E93BB0C68DBA", "target": "" },
-    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLAUGYBAL_000_001", "hash": "8C44A856BBFC62E3", "target": "" },
-    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLAUGYBAL_000_002", "hash": "95B427D69203ED17", "target": "" },
-    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLAUGYBAL_000_003", "hash": "88F47BC61794FB13", "target": "" },
-    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLOEIDIN_000_020", "hash": "6759542DF86EAD87", "target": "" },
-    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLOEIDIN_000_021", "hash": "722C722D0202BAD1", "target": "" },
-    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLOEIDIN_000_022", "hash": "7CEC934DDF46AA67", "target": "" },
-    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLOEIDIN_000_023", "hash": "4C1C88A38FB3E6D0", "target": "" },
-    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLOEIDIN_000_024", "hash": "FAEE82187DBFAD3E", "target": "" }
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_SEQ_00", "hash": "C42E9E02ADE7CEE9", "target": "Il soldato del Maelstrom Blaugybal ha una lettera che brucia sul comodino." },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_SEQ_01", "hash": "2BFCCC4E5E1B12B7", "target": "Blaugybal ti supplica di consegnare la sua richiesta al comandante del Maelstrom Bloeidin a Campo Overlook. Attraversa il lago dal Posto Commerciale di Jijiroon, poi vai a nord, nella outer La Noscea." },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_SEQ_02", "hash": "E9C0B2529DA60FEE", "target": "Consegni la richiesta al comandante Bloeidin, che lamenta l'inesperienza di Blaugybal e ne rifiuta il reintegro. Lo fa chiaramente per premura, non per cattiveria, ma Blaugybal resterà molto deluso." },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_TODO_00", "hash": "FC22C6EF1C9A9154", "target": "Consegnare la richiesta a Bloeidin a Campo Overlook" },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLAUGYBAL_000_000", "hash": "2285E93BB0C68DBA", "target": "Salve, <if(gnum4,avventuriera,avventuriero)>. Servo nelle Vele Nere del Maelstrom, o almeno servivo, finché non ho riportato gravi ferite contro i Kobold. Sono stato esonerato e mandato qui." },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLAUGYBAL_000_001", "hash": "8C44A856BBFC62E3", "target": "Porterai questo al mio comandante a Campo Overlook? È una richiesta di reintegro. Non sono fatto per restare a letto." },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLAUGYBAL_000_002", "hash": "95B427D69203ED17", "target": "Mi hanno detto che il mio dovere era guarire, e ho obbedito. Ma non vorranno davvero che aspetti finché ogni pezzetto di carne non si sarà ricucito. So impugnare un'ascia: dovrebbe bastare." },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLAUGYBAL_000_003", "hash": "88F47BC61794FB13", "target": "In linea d'aria, tra qui e Campo Overlook c'è territorio kobold. Ti consiglio di fare una scelta furba: vai al Posto Commerciale di Jijiroon e attraversa il lago in barca. Da lì, dirigiti a nord nella outer La Noscea." },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLOEIDIN_000_020", "hash": "6759542DF86EAD87", "target": "<if(gnum4,Un'avventuriera,Un avventuriero)>, eh? Che ci porti?" },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLOEIDIN_000_021", "hash": "722C722D0202BAD1", "target": "Una <italic(1)>lettera<italic(0)>? Non si beve, non si mangia e non scalda il letto...soprattutto se è di quel cucciolo di Blaugybal." },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLOEIDIN_000_022", "hash": "7CEC934DDF46AA67", "target": "Senti, come ti chiami? <split(<string(gstr1)>, ,1)>? Qui siamo le Rondini Rosse, la truppa più dura di tutto il Maelstrom. Molti di noi vengono da quello che potresti chiamare un passato da corsari. Siamo i <italic(1)>denti<italic(0)> del Maelstrom." },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLOEIDIN_000_023", "hash": "4C1C88A38FB3E6D0", "target": "Insomma, vuoi sapere dove si combatte più duramente? Cerca le Rondini Rosse. Questo è il fronte, i Kobold non ci lasciano un attimo di tregua. Non è posto per un cucciolo con ferite ancora mezze aperte." },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLOEIDIN_000_024", "hash": "FAEE82187DBFAD3E", "target": "Il ragazzo ha il cuore al posto giusto, questo sì, ma rischia di farselo saltare fuori dal petto se torna qui. Dovrà dormire in un letto morbido e mangiare cibo senza punteruoli finché non guarisce." }
   ]
 }

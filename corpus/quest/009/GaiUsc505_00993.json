@@ -2,18 +2,18 @@
   "conversation": "quest/009/GaiUsc505_00993",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc505_00993#TEXT_GAIUSC505_00993_SEQ_00", "hash": "B8CE78EAE0D13B32", "target": "" },
-    { "gameKey": "quest/009/GaiUsc505_00993#TEXT_GAIUSC505_00993_SEQ_01", "hash": "C804062B9D41E854", "target": "" },
-    { "gameKey": "quest/009/GaiUsc505_00993#TEXT_GAIUSC505_00993_SEQ_02", "hash": "A428BCBA3351E3C9", "target": "" },
-    { "gameKey": "quest/009/GaiUsc505_00993#TEXT_GAIUSC505_00993_SEQ_03", "hash": "4731C04A1BE4A5AB", "target": "" },
-    { "gameKey": "quest/009/GaiUsc505_00993#TEXT_GAIUSC505_00993_TODO_00", "hash": "C23287F59A7372B0", "target": "" },
-    { "gameKey": "quest/009/GaiUsc505_00993#TEXT_GAIUSC505_00993_TODO_01", "hash": "3F9981CD564FB59C", "target": "" },
-    { "gameKey": "quest/009/GaiUsc505_00993#TEXT_GAIUSC505_00993_WANDERINGBREEZE_000_000", "hash": "4151FDFE8E686C95", "target": "" },
-    { "gameKey": "quest/009/GaiUsc505_00993#TEXT_GAIUSC505_00993_NPCA_000_010", "hash": "A9FA788A971A0DA2", "target": "" },
-    { "gameKey": "quest/009/GaiUsc505_00993#TEXT_GAIUSC505_00993_NPCA_000_015", "hash": "E411CF6BC638EB25", "target": "" },
-    { "gameKey": "quest/009/GaiUsc505_00993#TEXT_GAIUSC505_00993_NPCA_000_020", "hash": "A7FC059461A23EF8", "target": "" },
-    { "gameKey": "quest/009/GaiUsc505_00993#TEXT_GAIUSC505_00993_WANDERINGBREEZE_000_030", "hash": "B1A5E9BDF74AD624", "target": "" },
-    { "gameKey": "quest/009/GaiUsc505_00993#TEXT_GAIUSC505_00993_WANDERINGBREEZE_000_031", "hash": "51638822867E352D", "target": "" },
-    { "gameKey": "quest/009/GaiUsc505_00993#TEXT_GAIUSC505_00993_POP_MESSAGE_000", "hash": "68B0E69B175BED73", "target": "" }
+    { "gameKey": "quest/009/GaiUsc505_00993#TEXT_GAIUSC505_00993_SEQ_00", "hash": "B8CE78EAE0D13B32", "target": "Wandering Breeze teme che una spedizione dei Figli di San Coinach stia per diventare cibo per gigas." },
+    { "gameKey": "quest/009/GaiUsc505_00993#TEXT_GAIUSC505_00993_SEQ_01", "hash": "C804062B9D41E854", "target": "Secondo Wandering Breeze, i gigas stanno tormentando una delle squadre dei Figli. Conoscendo i gigas, difficilmente si accontenteranno a lungo delle sole provocazioni. Dirigiti a sud e parla con il ricercatore esasperato." },
+    { "gameKey": "quest/009/GaiUsc505_00993#TEXT_GAIUSC505_00993_SEQ_02", "hash": "A428BCBA3351E3C9", "target": "Come previsto, un gigas appare e attacca, aspettandosi spuntini disarmati e poveri di grassi, ma riceve invece un pasto di metallo. I ricercatori vivono abbastanza da studiare un altro giorno, cosa che Wandering Breeze sarebbe sollevato di sapere." },
+    { "gameKey": "quest/009/GaiUsc505_00993#TEXT_GAIUSC505_00993_SEQ_03", "hash": "4731C04A1BE4A5AB", "target": "Parli con Wandering Breeze, che sembra avere una notevole rete d'informazioni. Non solo conosce già le tue gesta eroiche, ma sa anche come quei gigas siano arrivati da queste parti. Un uomo utile, questo Wandering Breeze..." },
+    { "gameKey": "quest/009/GaiUsc505_00993#TEXT_GAIUSC505_00993_TODO_00", "hash": "C23287F59A7372B0", "target": "Parlare con il ricercatore esasperato" },
+    { "gameKey": "quest/009/GaiUsc505_00993#TEXT_GAIUSC505_00993_TODO_01", "hash": "3F9981CD564FB59C", "target": "Fare rapporto a Wandering Breeze" },
+    { "gameKey": "quest/009/GaiUsc505_00993#TEXT_GAIUSC505_00993_WANDERINGBREEZE_000_000", "hash": "4151FDFE8E686C95", "target": "Ho qui un messaggio da una spedizione a sud: i gigas le stanno creando problemi e temono un attacco imminente. Andate subito a sud, se volete aiutarci." },
+    { "gameKey": "quest/009/GaiUsc505_00993#TEXT_GAIUSC505_00993_NPCA_000_010", "hash": "A9FA788A971A0DA2", "target": "<if(gnum4,Un'avventuriera,Un avventuriere)>! Venite dal campo principale? Temevamo che il messaggio non vi raggiungesse in tempo. Le molestie dei gigas aumentano ogni giorno e... aaah!" },
+    { "gameKey": "quest/009/GaiUsc505_00993#TEXT_GAIUSC505_00993_NPCA_000_015", "hash": "E411CF6BC638EB25", "target": "NOOO! Se devi mangiarmi, prima uccidimi!" },
+    { "gameKey": "quest/009/GaiUsc505_00993#TEXT_GAIUSC505_00993_NPCA_000_020", "hash": "A7FC059461A23EF8", "target": "Uff, c'è mancato poco. Per fortuna eravate qui, sia ringraziata Azeyma. Be', sarà meglio che torni al lavoro. La storia non aspetta mai!" },
+    { "gameKey": "quest/009/GaiUsc505_00993#TEXT_GAIUSC505_00993_WANDERINGBREEZE_000_030", "hash": "B1A5E9BDF74AD624", "target": "La vostra fama vi precede, <split(<string(gstr1)>, ,1)>. Ho sentito che avete ucciso un gigas. Per ora gli altri dovrebbero tenersi a distanza." },
+    { "gameKey": "quest/009/GaiUsc505_00993#TEXT_GAIUSC505_00993_WANDERINGBREEZE_000_031", "hash": "51638822867E352D", "target": "I gigas facevano parte di una tribù della Dorsale di Abalathia, sradicata dalla Calamità. Noi cerchiamo conoscenza sotto terra. Loro cercano una nuova casa su quella terra. Uno scontro è inevitabile..." },
+    { "gameKey": "quest/009/GaiUsc505_00993#TEXT_GAIUSC505_00993_POP_MESSAGE_000", "hash": "68B0E69B175BED73", "target": "Qualcosa di enorme avanza pesantemente da questa parte!" }
   ]
 }

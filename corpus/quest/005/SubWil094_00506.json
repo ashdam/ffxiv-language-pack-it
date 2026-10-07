@@ -2,16 +2,16 @@
   "conversation": "quest/005/SubWil094_00506",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_SEQ_00", "hash": "9D73BA567C8CA874", "target": "" },
-    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_SEQ_01", "hash": "E650F6156B537D2A", "target": "" },
-    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_SEQ_02", "hash": "A1FEE661EC977492", "target": "" },
-    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_SEQ_03", "hash": "709B166BCC8B6BE7", "target": "" },
-    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_TODO_00", "hash": "5FB3FBB29B5F00E2", "target": "" },
-    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_TODO_01", "hash": "EA4C4CA941EE6EB5", "target": "" },
-    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_EDALENE_000", "hash": "0CC82F349B66FA58", "target": "" },
-    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_EDALENE_001", "hash": "CF64ACE03D089656", "target": "" },
-    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_EDALENE_002", "hash": "DED1AC8DA630E76A", "target": "" },
-    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_EDALENE_010", "hash": "8FEFAA01091B40B6", "target": "" },
-    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_EDALENE_011", "hash": "0A8F20CC9EA5FA12", "target": "" }
+    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_SEQ_00", "hash": "9D73BA567C8CA874", "target": "Edalene della Baia della Mezzaluna cerca aiuto per rimuovere i detriti impigliati nelle sue reti." },
+    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_SEQ_01", "hash": "E650F6156B537D2A", "target": "Le reti a strascico di Edalene sono intasate da detriti del fondale. Aiutala rimuovendo tutti i rifiuti che trovi." },
+    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_SEQ_02", "hash": "A1FEE661EC977492", "target": "Hai ripulito le reti. Parla di nuovo con Edalene." },
+    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_SEQ_03", "hash": "709B166BCC8B6BE7", "target": "Dopo averti ringraziato, Edalene racconta che la vita di una pescivendola consiste nel riparare reti e pregare per acque calme e catture abbondanti." },
+    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_TODO_00", "hash": "5FB3FBB29B5F00E2", "target": "Rimuovere i detriti dalle trawling net" },
+    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_TODO_01", "hash": "EA4C4CA941EE6EB5", "target": "Parlare con Edalene" },
+    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_EDALENE_000", "hash": "0CC82F349B66FA58", "target": "Avete un po' di tempo per una vecchia pescivendola? Ho delle reti da sistemare, come probabilmente vedete." },
+    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_EDALENE_001", "hash": "CF64ACE03D089656", "target": "Queste reti appese qui servono a tirare su i pesci. Il problema è che tirano su anche ogni genere di robaccia dal fondale." },
+    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_EDALENE_002", "hash": "DED1AC8DA630E76A", "target": "Vi sarei grata se toglieste tutti i detriti che trovate." },
+    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_EDALENE_010", "hash": "8FEFAA01091B40B6", "target": "Grazie, tesoro. Una faccenda in meno da sbrigare." },
+    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_EDALENE_011", "hash": "0A8F20CC9EA5FA12", "target": "Ve lo dico, non è facile essere una pescivendola. Quando non rammendo reti o rattoppo vele, prego Llymlaen per acque tranquille e una buona pesca. Eppure non rinuncerei a tutta questa fatica per nulla al mondo." }
   ]
 }

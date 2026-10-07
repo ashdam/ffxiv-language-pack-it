@@ -2,15 +2,15 @@
   "conversation": "quest/007/GaiUsa805_00789",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_SEQ_00", "hash": "3EAF2F2AD052FBC1", "target": "" },
-    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_SEQ_01", "hash": "420EA53A3288CA15", "target": "" },
-    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_SEQ_02", "hash": "4B62C2716AF197BD", "target": "" },
-    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_TODO_00", "hash": "C145A374CD816F4C", "target": "" },
-    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_GODWIN_000_000", "hash": "7D1A6EA106408A6F", "target": "" },
-    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_GODWIN_000_001", "hash": "111E3BF0E132AE8A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_VORTEFAURT_000_010", "hash": "2454AB5CC9EFEF51", "target": "" },
-    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_VORTEFAURT_000_015", "hash": "C6680AAAF3DAA875", "target": "" },
-    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_VORTEFAURT_000_016", "hash": "74DFF34FD4667A05", "target": "" },
-    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_VORTEFAURT_000_017", "hash": "C765EC3C289CE0AB", "target": "" }
+    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_SEQ_00", "hash": "3EAF2F2AD052FBC1", "target": "Godwin delle Sentinelle Cupe ha un rapporto da consegnare urgentemente." },
+    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_SEQ_01", "hash": "420EA53A3288CA15", "target": "Godwin ti affida un rapporto riservato sui recenti eventi nei dintorni di Fallgourd Float. Consegnalo subito a Vortefaurt dell'Ordine delle Due Vipere." },
+    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_SEQ_02", "hash": "4B62C2716AF197BD", "target": "Il rapporto di Godwin descrive avvistamenti di un uomo mascherato che hanno allarmato Fallgourd Float. Quella figura minacciosa potrebbe essere un asciano?" },
+    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_TODO_00", "hash": "C145A374CD816F4C", "target": "Consegnare il rapporto di Fallgourd a Vortefaurt" },
+    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_GODWIN_000_000", "hash": "7D1A6EA106408A6F", "target": "Salve. Se non vi dispiace fare da corriere, ho un rapporto da portare alla Torre di Florentel con la massima urgenza." },
+    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_GODWIN_000_001", "hash": "111E3BF0E132AE8A", "target": "Badate che queste informazioni sono altamente riservate. Mi fido che le consegnerete direttamente nelle mani del tenente delle Vipere Vortefaurt, <italic(1)>senza<italic(0)> sbirciarle." },
+    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_VORTEFAURT_000_010", "hash": "2454AB5CC9EFEF51", "target": "Da queste parti abbondano bestie particolarmente feroci. Fareste bene a starne alla larga, se non volete che debba ripulire il terreno della foresta dai vostri resti." },
+    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_VORTEFAURT_000_015", "hash": "C6680AAAF3DAA875", "target": "Un rapporto di Godwin, dite? Bene, vediamo... Mercante itinerante assalito da banditi Qiqirn, mano di un avventuriero strappata da uno ziz selvatico, eccetera, eccetera... \\<sospiro> Le solite banalità." },
+    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_VORTEFAURT_000_016", "hash": "74DFF34FD4667A05", "target": "Mm? Che cos'è? Avvistamenti di un uomo mascherato...? «Non sono ancora segnalate vittime, ma occorre la dovuta vigilanza»." },
+    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_VORTEFAURT_000_017", "hash": "C765EC3C289CE0AB", "target": "Notizia preoccupante. Queste zone sono già abbastanza pericolose senza un predone mascherato a creare guai. Vi ringrazio. Potete contare sull'Ordine: terremo d'occhio questo intruso." }
   ]
 }

@@ -2,18 +2,18 @@
   "conversation": "quest/006/SubWil118_00627",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_SEQ_00", "hash": "B111A16642BF2F21", "target": "" },
-    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_SEQ_01", "hash": "5365677BEB3EE023", "target": "" },
-    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_SEQ_02", "hash": "709C0C2E555C426C", "target": "" },
-    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_SEQ_03", "hash": "18E2514E71E5BF7E", "target": "" },
-    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_TODO_00", "hash": "E13E7449C6C698C7", "target": "" },
-    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_TODO_01", "hash": "02BD8B0D66E7E43E", "target": "" },
-    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_AIRELL_000_1", "hash": "57B1F7CBB42D2AD5", "target": "" },
-    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_AIRELL_000_2", "hash": "7E16580AB97BD48D", "target": "" },
-    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_AIRELL_000_10", "hash": "EC749CFD2077FD18", "target": "" },
-    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_AIRELL_000_11", "hash": "ED32B54F82BF0F6A", "target": "" },
-    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_AIRELL_000_12", "hash": "4396B2A04C4A8B81", "target": "" },
-    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_AIRELL_000_13", "hash": "D2AB0019FF8150CE", "target": "" },
-    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_AIRELL_000_14", "hash": "F990071AFB11E486", "target": "" }
+    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_SEQ_00", "hash": "B111A16642BF2F21", "target": "Sorella Airell ha di nuovo un lavoro per chi vuole aiutare." },
+    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_SEQ_01", "hash": "5365677BEB3EE023", "target": "Nel cimitero in continua espansione, le tombe semplici passano facilmente inosservate e vengono spesso trascurate nelle offerte di fiori. Aiuta sorella Airell deponendo mazzi di gigli di Nymeia su cinque tombe." },
+    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_SEQ_02", "hash": "709C0C2E555C426C", "target": "Hai offerto i gigli di Nymeia. Fai rapporto a sorella Airell alla chiesa." },
+    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_SEQ_03", "hash": "18E2514E71E5BF7E", "target": "Sorella Airell ti racconta che, prima della Calamità, il cimitero era piccolo e umile. Da allora il numero di corpi da seppellire è cresciuto senza sosta, non lasciando un attimo di riposo a chi cura le tombe." },
+    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_TODO_00", "hash": "E13E7449C6C698C7", "target": "Deporre i gigli di Nymeia sulle simple grave" },
+    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_TODO_01", "hash": "02BD8B0D66E7E43E", "target": "Fare rapporto a sorella Airell" },
+    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_AIRELL_000_1", "hash": "57B1F7CBB42D2AD5", "target": "Volete onorare ancora i morti? Ottimo. Offrite questi gigli di Nymeia ad alcune delle tombe più semplici del cimitero. Quelle povere anime sono morte sole, senza nessuno che le pianga." },
+    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_AIRELL_000_2", "hash": "7E16580AB97BD48D", "target": "Ci sono cinque tombe sparse per il cimitero di cui vorrei vi occupaste. E ricordate: fate attenzione a ciò che vi circonda e rendete il giusto omaggio con ogni mazzo di gigli... Non hanno che voi." },
+    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_AIRELL_000_10", "hash": "EC749CFD2077FD18", "target": "Vi ringrazio ancora. Senza dubbio le anime dei defunti troveranno un po' di conforto nella cura che avete mostrato per le loro tombe." },
+    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_AIRELL_000_11", "hash": "ED32B54F82BF0F6A", "target": "Un tempo il cimitero era un terreno piccolo e umile. Ma tutto è cambiato dopo la Calamità. I morti aumentavano, e il cimitero cresceva con loro." },
+    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_AIRELL_000_12", "hash": "4396B2A04C4A8B81", "target": "È ancora semplice, nonostante le dimensioni. Naturalmente, proprio la sua semplicità gli impedisce di diventare una priorità per l'Ordine. Non possiamo destinarvi abbastanza custodi, né far pagare ai poveri la propria sepoltura o quella dei loro cari." },
+    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_AIRELL_000_13", "hash": "D2AB0019FF8150CE", "target": "Eppure questo non ferma chi viene a far riposare qui i propri morti. Noi pochi che curiamo il cimitero non abbiamo il tempo di occuparci delle offerte richieste dalla nostra devozione." },
+    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_AIRELL_000_14", "hash": "F990071AFB11E486", "target": "Le tombe semplici che avete visitato appartengono a chi è morto solo. Preghiamo che il dolce profumo che avete portato dia un po' di sollievo alla loro solitudine, anche solo per poco." }
   ]
 }

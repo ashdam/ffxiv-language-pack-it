@@ -2,18 +2,18 @@
   "conversation": "quest/008/GaiUsb511_00880",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_SEQ_00", "hash": "E15C68CE9EC5ABA6", "target": "" },
-    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_SEQ_01", "hash": "8F115F4F1F4F094A", "target": "" },
-    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_SEQ_02", "hash": "2B189A1373193077", "target": "" },
-    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_SEQ_03", "hash": "121BA1F754C34146", "target": "" },
-    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_TODO_00", "hash": "AAB65A8A1510D84E", "target": "" },
-    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_TODO_01", "hash": "270635894F1CF30B", "target": "" },
-    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_DEDEJU_000_000", "hash": "EBEE45AEFCEDDB54", "target": "" },
-    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_DEDEJU_000_001", "hash": "4881DE1C4BD59A12", "target": "" },
-    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_ENPC_000_010", "hash": "B5B1FA7EC64F99EA", "target": "" },
-    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_ENPC_000_011", "hash": "20EA9948709662E8", "target": "" },
-    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_DEDEJU_000_020", "hash": "6A1899F653E61364", "target": "" },
-    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_DEDEJU_000_021", "hash": "7E85F9A44E0BF155", "target": "" },
-    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_DEDEJU_000_022", "hash": "2169EB2AB6DD79E5", "target": "" }
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_SEQ_00", "hash": "E15C68CE9EC5ABA6", "target": "Dedeju ha bisogno del tuo aiuto per rammendare un'umile veste di lino." },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_SEQ_01", "hash": "8F115F4F1F4F094A", "target": "Dedeju, una tessitrice che lavora alla Chiesa di Sant'Adama Landama, deve rammendare una veste di padre Iliud. Ma la veste è più consumata di quanto basti la stoffa che ha. Acuta come un ago e sicura come un punto indietro, ti manda a Black Brush Station, a Central Thanalan, per ritirare del lino logoro da un mercante fidato." },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_SEQ_02", "hash": "2B189A1373193077", "target": "Il mercante ti dà il lino e una breve introduzione alla curiosa arte del rammendo. Porta la stoffa a Dedeju e scopri cos'altro puoi imparare." },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_SEQ_03", "hash": "121BA1F754C34146", "target": "Dedeju prende la stoffa ringraziandoti. Mentre le sue dita abili ritessono rapidamente la veste, racconta di aver riparato un abito bruciato che pare appartenesse al custode del cimitero Marques..." },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_TODO_00", "hash": "AAB65A8A1510D84E", "target": "Ritirare un pezzo di lino logoro da un negoziante scrupoloso a Black Brush Station" },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_TODO_01", "hash": "270635894F1CF30B", "target": "Consegnare il lino a Dedeju" },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_DEDEJU_000_000", "hash": "EBEE45AEFCEDDB54", "target": "Pssst! Sei tu che fai miracoli con le tue avventure? Oggi ne puoi fare qualcuno per me. Il padre mi ha chiesto di rammendare questa veste, ma guarda, qui e qui sono consumati trama e ordito. Mi servirà più stoffa di quella che ho." },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_DEDEJU_000_001", "hash": "4881DE1C4BD59A12", "target": "C'è un mercante a Black Brush Station che ti darà quello che mi serve. Sbrigati, vai a Central Thanalan!" },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_ENPC_000_010", "hash": "B5B1FA7EC64F99EA", "target": "Vi manda Dedeju? Mi chiedevo dove fosse finita. Sono passato al suo negozio l'altro giorno, volevo offrirle una tazza di tè. Se n'è perso uno buono, punte d'ambra di Coerthas." },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_ENPC_000_011", "hash": "20EA9948709662E8", "target": "Il solito, immagino? Il lino logoro, sì, <if(gnum4,signora,signore)>. Non fraintendete: è bello morbido, quindi può sfilarne i fili e ritessere quello che sta rammendando. Ecco qua." },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_DEDEJU_000_020", "hash": "6A1899F653E61364", "target": "Eccoti! Hai preso quello che mi serve?" },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_DEDEJU_000_021", "hash": "7E85F9A44E0BF155", "target": "Grazie infinite! Ora vedremo quanto sono agili queste dita. Il padre ha detto che ne ha bisogno presto. Deve uscire per qualche faccenda da prete..." },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_DEDEJU_000_022", "hash": "2169EB2AB6DD79E5", "target": "Ma è una pisciata rispetto all'ultimo ordine, scusa il linguaggio! Era grande come una casa e bruciato come la cena di una sciattona. L'aveva portato padre Iliud, ma sembrava per quel custode del cimitero." }
   ]
 }

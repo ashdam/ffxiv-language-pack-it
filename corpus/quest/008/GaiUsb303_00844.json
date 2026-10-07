@@ -2,19 +2,19 @@
   "conversation": "quest/008/GaiUsb303_00844",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb303_00844#TEXT_GAIUSB303_00844_SEQ_00", "hash": "A5FB4D9875216BC6", "target": "" },
-    { "gameKey": "quest/008/GaiUsb303_00844#TEXT_GAIUSB303_00844_SEQ_01", "hash": "25EE0E7AE9774F6E", "target": "" },
-    { "gameKey": "quest/008/GaiUsb303_00844#TEXT_GAIUSB303_00844_SEQ_02", "hash": "2D62164CA0A7EED1", "target": "" },
-    { "gameKey": "quest/008/GaiUsb303_00844#TEXT_GAIUSB303_00844_SEQ_03", "hash": "333391D36F2E1B9D", "target": "" },
-    { "gameKey": "quest/008/GaiUsb303_00844#TEXT_GAIUSB303_00844_TODO_00", "hash": "A9D69B4A3CC55A09", "target": "" },
-    { "gameKey": "quest/008/GaiUsb303_00844#TEXT_GAIUSB303_00844_TODO_01", "hash": "303530B2C288ADEC", "target": "" },
-    { "gameKey": "quest/008/GaiUsb303_00844#TEXT_GAIUSB303_00844_ETGAR_000_000", "hash": "184DC1F40BF22D12", "target": "" },
-    { "gameKey": "quest/008/GaiUsb303_00844#TEXT_GAIUSB303_00844_ETGAR_000_001", "hash": "54A6D6BEE0FBC58F", "target": "" },
-    { "gameKey": "quest/008/GaiUsb303_00844#TEXT_GAIUSB303_00844_ETGAR_000_002", "hash": "1E9970773862B485", "target": "" },
-    { "gameKey": "quest/008/GaiUsb303_00844#TEXT_GAIUSB303_00844_NPCA_000_010", "hash": "187D077405F50997", "target": "" },
-    { "gameKey": "quest/008/GaiUsb303_00844#TEXT_GAIUSB303_00844_NPCA_000_011", "hash": "9E1B112AADFF76A0", "target": "" },
-    { "gameKey": "quest/008/GaiUsb303_00844#TEXT_GAIUSB303_00844_NPCA_000_015", "hash": "5AE95524EC33880F", "target": "" },
-    { "gameKey": "quest/008/GaiUsb303_00844#TEXT_GAIUSB303_00844_ETGAR_000_020", "hash": "03796C9B50F25EFF", "target": "" },
-    { "gameKey": "quest/008/GaiUsb303_00844#TEXT_GAIUSB303_00844_ETGAR_000_021", "hash": "D0911764E7DC305D", "target": "" }
+    { "gameKey": "quest/008/GaiUsb303_00844#TEXT_GAIUSB303_00844_SEQ_00", "hash": "A5FB4D9875216BC6", "target": "Etgar sembra piuttosto emozionato in <if([gnum11<12],<if([gnum11<4],questa bella serata,questa bella mattinata)>,<if([gnum11<17],questa bella giornata,questa bella serata)>)>." },
+    { "gameKey": "quest/008/GaiUsb303_00844#TEXT_GAIUSB303_00844_SEQ_01", "hash": "25EE0E7AE9774F6E", "target": "Etgar ti ha detto che mastro Byrglaent ha ingaggiato un miniaturista per creare una nuova etichetta di vino. Va' a incontrare l'artista ai moli della Gola dei Raccoglipioggia e informalo che il maestro vinificatore attende il suo arrivo." },
+    { "gameKey": "quest/008/GaiUsb303_00844#TEXT_GAIUSB303_00844_SEQ_02", "hash": "2D62164CA0A7EED1", "target": "Hai parlato con il famoso artista uldahno e l'hai indirizzato a Wineport. Torna da Etgar per assicurarti che il miniaturista sia arrivato sano e salvo." },
+    { "gameKey": "quest/008/GaiUsb303_00844#TEXT_GAIUSB303_00844_SEQ_03", "hash": "333391D36F2E1B9D", "target": "Etgar è al settimo cielo per l'arrivo dell'artista ed è entusiasta di vedere il pittore immortalare l'immagine beata di mastro Byrglaent. Il maestro vinificatore è chiaramente un uomo di grande carisma." },
+    { "gameKey": "quest/008/GaiUsb303_00844#TEXT_GAIUSB303_00844_TODO_00", "hash": "A9D69B4A3CC55A09", "target": "Parlare con l'artista uldahno" },
+    { "gameKey": "quest/008/GaiUsb303_00844#TEXT_GAIUSB303_00844_TODO_01", "hash": "303530B2C288ADEC", "target": "Fare rapporto a Etgar" },
+    { "gameKey": "quest/008/GaiUsb303_00844#TEXT_GAIUSB303_00844_ETGAR_000_000", "hash": "184DC1F40BF22D12", "target": "Le étiquettes, scusate, le etichette del vino per chi come voi non se ne intende, usate dalla nostra cantina portano sempre il nobile volto di mastro Byrglaent in persona." },
+    { "gameKey": "quest/008/GaiUsb303_00844#TEXT_GAIUSB303_00844_ETGAR_000_001", "hash": "54A6D6BEE0FBC58F", "target": "Il nostro stimato vinartista ha quindi invitato un famoso miniaturista uldahno, oh, notissimo, probabilmente il più famoso del regno, a creare un'etichetta davvero degna di un'annata classica. E dovrebbe arrivare oggi." },
+    { "gameKey": "quest/008/GaiUsb303_00844#TEXT_GAIUSB303_00844_ETGAR_000_002", "hash": "1E9970773862B485", "target": "Vi prego, potreste scendere ai moli della Gola dei Raccoglipioggia e incontrarlo? Temo che sarà assediato dagli ammiratori e non vorrei che fosse molestato, almeno fino a quando non avrà finito il ritratto!" },
+    { "gameKey": "quest/008/GaiUsb303_00844#TEXT_GAIUSB303_00844_NPCA_000_010", "hash": "187D077405F50997", "target": "Sì, sono il miniaturista. Perdonatemi se non vi dico il mio nome: viaggio in incognito, tale è la mia fama. Ah, mastro Byrglaent mi attende? Volerò subito da lui!" },
+    { "gameKey": "quest/008/GaiUsb303_00844#TEXT_GAIUSB303_00844_NPCA_000_011", "hash": "9E1B112AADFF76A0", "target": "Abbiamo molto da discutere, il maestro e io. Le nostre divergenze artistiche sono molte e varie, eppure... eppure non resisto a tornare per un'altra étiquette. È un modello tra mille, quello." },
+    { "gameKey": "quest/008/GaiUsb303_00844#TEXT_GAIUSB303_00844_NPCA_000_015", "hash": "5AE95524EC33880F", "target": "Quale pittore non vorrebbe soggiornare al sole, dove il vino scorre libero quanto la conversazione con un brillante mecenate?" },
+    { "gameKey": "quest/008/GaiUsb303_00844#TEXT_GAIUSB303_00844_ETGAR_000_020", "hash": "03796C9B50F25EFF", "target": "Il nostro esperto di étiquettes è appena passato! Semplicemente magnifico! Farò portare subito il bianco fresco nei suoi alloggi." },
+    { "gameKey": "quest/008/GaiUsb303_00844#TEXT_GAIUSB303_00844_ETGAR_000_021", "hash": "D0911764E7DC305D", "target": "Ah, com'è dolce riavere qui il miniaturista! Sono passati ben cinque anni: la Calamità ha spogliato le nostre viti. Il primo imbottigliamento in mezzo decennio, e oh, vedere ancora immortalato il volto beato del maestro!" }
   ]
 }

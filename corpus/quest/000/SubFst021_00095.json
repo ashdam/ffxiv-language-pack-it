@@ -2,17 +2,17 @@
   "conversation": "quest/000/SubFst021_00095",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_SEQ_00", "hash": "5CF000B9B1E4F70D", "target": "" },
-    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_SEQ_01", "hash": "4FF1DD0BB42AE363", "target": "" },
-    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_SEQ_02", "hash": "627FF784F0CDDECD", "target": "" },
-    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_SEQ_03", "hash": "DAB61DBB7527FCFC", "target": "" },
-    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_TODO_00", "hash": "7C2DE38DAA357D12", "target": "" },
-    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_TODO_01", "hash": "7545F02E1FC47C4B", "target": "" },
-    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_EADBERT_000_1", "hash": "5052A2B7C07CA373", "target": "" },
-    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_EADBERT_000_2", "hash": "BC8A11FF7AB8E867", "target": "" },
-    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_EADBERT_000_3", "hash": "70D9E27FE39AE240", "target": "" },
-    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_EADBERT_000_4", "hash": "2E283A3E79911AA9", "target": "" },
-    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_EADBERT_000_10", "hash": "505EC6D2D3CF96EA", "target": "" },
-    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_EADBERT_000_11", "hash": "363921B8C5453EDB", "target": "" }
+    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_SEQ_00", "hash": "5CF000B9B1E4F70D", "target": "Eadbert mette alla prova gli avventurieri chiedendo loro di uccidere dei midge swarm." },
+    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_SEQ_01", "hash": "4FF1DD0BB42AE363", "target": "Per dimostrare le tue capacità e guadagnarti la fiducia di Eadbert, uccidi sei midge swarm." },
+    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_SEQ_02", "hash": "627FF784F0CDDECD", "target": "Come richiesto, hai ucciso sei midge swarm, riportando un po' di pace nella zona. Riferisci le tue imprese a Eadbert a Hyrstmill." },
+    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_SEQ_03", "hash": "DAB61DBB7527FCFC", "target": "Torni senza incidenti a Hyrstmill e racconti a Eadbert le tue imprese. Convinto del tuo valore, dichiara di avere ancora bisogno dei tuoi servigi." },
+    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_TODO_00", "hash": "7C2DE38DAA357D12", "target": "Uccidere i midge swarm" },
+    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_TODO_01", "hash": "7545F02E1FC47C4B", "target": "Fare rapporto a Eadbert" },
+    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_EADBERT_000_1", "hash": "5052A2B7C07CA373", "target": "...Non ho mai visto la tua faccia da queste parti." },
+    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_EADBERT_000_2", "hash": "BC8A11FF7AB8E867", "target": "Ho giurato di mantenere la pace a Hyrstmill e di proteggerla da chi vuole far male alla sua gente. Se vuoi fermarti per un po', dovrai dimostrare che ci si può fidare di te." },
+    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_EADBERT_000_3", "hash": "70D9E27FE39AE240", "target": "Non siamo in tanti e quasi nessuno sa combattere, quindi c'è sempre bisogno di gente che sappia menare le mani, con tutte le bestiacce che si aggirano qui intorno." },
+    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_EADBERT_000_4", "hash": "2E283A3E79911AA9", "target": "Ultimamente, guarda caso, siamo invasi dai moscerini. Quei maledetti fanno impazzire le nostre pattuglie. Se sterminassi, diciamo, una mezza dozzina di sciami, sapremmo che sei dalla nostra parte." },
+    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_EADBERT_000_10", "hash": "505EC6D2D3CF96EA", "target": "Ci hai fatto un favore e hai dimostrato di saperci fare. Prendi questo, con i ringraziamenti di Hyrstmill." },
+    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_EADBERT_000_11", "hash": "363921B8C5453EDB", "target": "Oh! Prima che tu vada, mi è venuto in mente un altro favore che potresti farci..." }
   ]
 }

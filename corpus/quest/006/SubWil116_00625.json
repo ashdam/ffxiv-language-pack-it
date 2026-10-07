@@ -2,16 +2,16 @@
   "conversation": "quest/006/SubWil116_00625",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_SEQ_00", "hash": "2C11A56E74D89575", "target": "" },
-    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_SEQ_01", "hash": "6D107DE0BD5BB83A", "target": "" },
-    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_SEQ_02", "hash": "BE7683252EC69382", "target": "" },
-    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_SEQ_03", "hash": "A8E3A3BEFA32BE51", "target": "" },
-    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_TODO_00", "hash": "BF01693285CA2EFD", "target": "" },
-    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_TODO_01", "hash": "1E4A764F498A0A17", "target": "" },
-    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_CAITLYN_000_1", "hash": "A494065042EF1C9B", "target": "" },
-    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_CAITLYN_000_2", "hash": "B0B970A45F780F4B", "target": "" },
-    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_CAITLYN_000_10", "hash": "8B91E9115964597E", "target": "" },
-    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_CAITLYN_000_11", "hash": "90A704AAA1F193D5", "target": "" },
-    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_CAITLYN_000_12", "hash": "07536B6D80B52F6E", "target": "" }
+    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_SEQ_00", "hash": "2C11A56E74D89575", "target": "Caitlyn cerca qualcuno che abbatta dei mongrel." },
+    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_SEQ_01", "hash": "6D107DE0BD5BB83A", "target": "Caitlyn vorrebbe commissionare una caccia ai mongrel selvatici. Vai a sudest e uccidi sette bestie." },
+    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_SEQ_02", "hash": "BE7683252EC69382", "target": "Hai ucciso sette mongrel. Torna a Campo Drybone e parla con Caitlyn." },
+    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_SEQ_03", "hash": "A8E3A3BEFA32BE51", "target": "Caitlyn ti confessa che il suo promesso sposo è stato fatto a pezzi da un branco di mongrel qualche anno fa. Sembra decisa a farli sterminare da chi passa per Eorzea in cerca d'avventure. Gli inferni non conoscono furia pari a quella di una donna offesa." },
+    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_TODO_00", "hash": "BF01693285CA2EFD", "target": "Uccidere i dusty mongrel" },
+    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_TODO_01", "hash": "1E4A764F498A0A17", "target": "Fare rapporto a Caitlyn" },
+    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_CAITLYN_000_1", "hash": "A494065042EF1C9B", "target": "Cerchiamo un po' di lavoro? Guarda caso cerco qualcuno che abbatta dei mongrel, sette bestie." },
+    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_CAITLYN_000_2", "hash": "B0B970A45F780F4B", "target": "Quelle maledette bestie hanno quasi invaso la zona a sudest di qui. Attaccano gli abitanti, il bestiame, qualsiasi cosa si muova. Non dovete avere pietà di loro." },
+    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_CAITLYN_000_10", "hash": "8B91E9115964597E", "target": "Thanalan è tormentato da sette mongrel in meno, quindi? Ottimo." },
+    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_CAITLYN_000_11", "hash": "90A704AAA1F193D5", "target": "Tre anni fa ho perso il mio amore per colpa di un branco di mongrel. Noi...dovevamo sposarci. L'hanno fatto a pezzi. Quando li abbiamo scacciati, il mio amore era in sette pezzi. Da allora chiedo a chiunque passi di qui in cerca d'avventure di uccidere sette di quelle bestie." },
+    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_CAITLYN_000_12", "hash": "07536B6D80B52F6E", "target": "La mia vendetta è <italic(1)>incessante<italic(0)>. Ma se risparmierò anche a una sola futura sposa il dolore che ho conosciuto, ne sarà valsa la pena." }
   ]
 }

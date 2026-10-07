@@ -2,19 +2,19 @@
   "conversation": "quest/004/SubSea071_00483",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_SEQ_00", "hash": "E49D94DAD18DFF7D", "target": "" },
-    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_SEQ_01", "hash": "9171C4E80FF429DC", "target": "" },
-    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_SEQ_02", "hash": "CB0CB9273DE838F2", "target": "" },
-    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_SEQ_03", "hash": "50E1CDA2EC609408", "target": "" },
-    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_TODO_00", "hash": "DF6CCC3BA97DB207", "target": "" },
-    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_TODO_01", "hash": "396BB24CFA8FC0F7", "target": "" },
-    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_ARENLONA_000_0", "hash": "E0F542CFAEDB5534", "target": "" },
-    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_ARENLONA_000_1", "hash": "F68786168AF6D1A0", "target": "" },
-    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_ARENLONA_000_2", "hash": "F407FD632ED3566E", "target": "" },
-    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_ARENLONA_000_3", "hash": "BC53C7C7EC8C0A28", "target": "" },
-    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_ARENLONA_000_10", "hash": "1AB2EA2E725E0845", "target": "" },
-    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_ARENLONA_000_11", "hash": "989800E9D0CF7437", "target": "" },
-    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_ARENLONA_000_12", "hash": "C1B29087E5281EDE", "target": "" },
-    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_POP_MESSAGE", "hash": "0CB5B29843F18ADF", "target": "" }
+    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_SEQ_00", "hash": "E49D94DAD18DFF7D", "target": "Arenlona è in una situazione un po' difficile." },
+    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_SEQ_01", "hash": "9171C4E80FF429DC", "target": "Arenlona ti chiede di spargere nettare di afide sull'Althyk lavender per attirare le little ladybug, poi schiacciarle per riempire tre fiale di viscere di coccinella." },
+    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_SEQ_02", "hash": "CB0CB9273DE838F2", "target": "Hai ottenuto la quantità necessaria di viscere di coccinella. Consegnale ad Arenlona." },
+    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_SEQ_03", "hash": "50E1CDA2EC609408", "target": "Arenlona spiega che, essendo le coccinelle predatrici naturali degli afidi, le loro viscere terranno lontani i parassiti. Insiste che sia tutto molto scientifico." },
+    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_TODO_00", "hash": "DF6CCC3BA97DB207", "target": "Spargere nettare di afide sull'Althyk lavender e ottenere tre fiale di viscere di coccinella" },
+    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_TODO_01", "hash": "396BB24CFA8FC0F7", "target": "Consegnare le viscere di coccinella ad Arenlona" },
+    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_ARENLONA_000_0", "hash": "E0F542CFAEDB5534", "target": "Vuoi partecipare all'inesorabile marcia della scienza?" },
+    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_ARENLONA_000_1", "hash": "F68786168AF6D1A0", "target": "L'intruglio che sto preparando potrebbe cambiare l'orticoltura come la conosciamo! Immagina un liquido da spargere sui raccolti per tenere lontani i parassiti." },
+    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_ARENLONA_000_2", "hash": "F407FD632ED3566E", "target": "Mi servono solo delle coccinelle e qualcuno che le schiacci." },
+    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_ARENLONA_000_3", "hash": "BC53C7C7EC8C0A28", "target": "Le coccinelle non resistono agli afidi. Trova dell'Althyk lavender, mettici un po' di nettare di afide e accorreranno in massa al macello." },
+    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_ARENLONA_000_10", "hash": "1AB2EA2E725E0845", "target": "Torna da me quando hai raccolto tre fiale di viscere di coccinella." },
+    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_ARENLONA_000_11", "hash": "989800E9D0CF7437", "target": "È elementare, davvero. Gli afidi temono le coccinelle, quindi l'odore del loro sangue sui raccolti terrà senz'altro lontani i parassiti. Stiamo manipolando le leggi della natura." },
+    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_ARENLONA_000_12", "hash": "C1B29087E5281EDE", "target": "Certo, potevamo lasciare che le coccinelle difendessero i raccolti come sempre, senza schiacciarle per prenderne le viscere, ma non vedo che cosa ci sia di scientifico." },
+    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_POP_MESSAGE", "hash": "0CB5B29843F18ADF", "target": "Avverti una presenza ostile!" }
   ]
 }

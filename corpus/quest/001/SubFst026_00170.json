@@ -2,17 +2,17 @@
   "conversation": "quest/001/SubFst026_00170",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_SEQ_00", "hash": "7809EE84B731B8EF", "target": "" },
-    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_SEQ_01", "hash": "EF273D390E08C1C6", "target": "" },
-    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_SEQ_02", "hash": "933C1C0E633EAB23", "target": "" },
-    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_SEQ_03", "hash": "407B3F003C76DBDB", "target": "" },
-    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_TODO_00", "hash": "1C0FCE5F0AC92085", "target": "" },
-    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_TODO_01", "hash": "5FC44552C35AF6D0", "target": "" },
-    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_BODWINE_000_1", "hash": "0149ADA1262F93F4", "target": "" },
-    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_BODWINE_000_2", "hash": "446C11BA013CA5A4", "target": "" },
-    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_BODWINE_000_3", "hash": "66E8945A768B9575", "target": "" },
-    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_BODWINE_000_10", "hash": "301D9EFD0B328B77", "target": "" },
-    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_BODWINE_000_11", "hash": "7296F41D6450387E", "target": "" },
-    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_BODWINE_000_12", "hash": "4F22CC7767FE3C55", "target": "" }
+    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_SEQ_00", "hash": "7809EE84B731B8EF", "target": "Bodwine cerca un avventuriere che lo aiuti a risolvere un problema di parassiti." },
+    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_SEQ_01", "hash": "EF273D390E08C1C6", "target": "I miteling vicino alle Treespeak Stables agitano i giovani chocobo, interrompendone l'addestramento. Uccidi sei di quei parassiti e restituisci la tranquillità alle future cavalcature." },
+    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_SEQ_02", "hash": "933C1C0E633EAB23", "target": "Hai liberato il Bosco dei Dodici da sei miteling molesti. Torna alle Treespeak Stables e informa Bodwine del tuo successo." },
+    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_SEQ_03", "hash": "407B3F003C76DBDB", "target": "Grazie ai tuoi valorosi sforzi, gli addestratori possono riprendere il lavoro con i giovani chocobo. Forse un giorno uno di loro diventerà il fedele compagno di un famoso avventuriere..." },
+    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_TODO_00", "hash": "1C0FCE5F0AC92085", "target": "Uccidere i miteling" },
+    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_TODO_01", "hash": "5FC44552C35AF6D0", "target": "Fare rapporto a Bodwine" },
+    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_BODWINE_000_1", "hash": "0149ADA1262F93F4", "target": "Se hai voglia di renderti utile, perché non elimini un po' di miteling per noi?" },
+    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_BODWINE_000_2", "hash": "446C11BA013CA5A4", "target": "Qui addestriamo parecchi chocobo, sai, e i giovani si agitano appena sentono l'odore di un miteling. Alcuni disarcionano perfino quei poveri cavalieri!" },
+    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_BODWINE_000_3", "hash": "66E8945A768B9575", "target": "Credimi, non è facile addestrare un chocobo se ti fa cadere di testa ogni volta che vede un'ombra. Ultimamente non stiamo facendo alcun progresso con questi uccelli. Se potessi liberarci di qualche miteling, ti saremmo grati." },
+    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_BODWINE_000_10", "hash": "301D9EFD0B328B77", "target": "Grazie dell'aiuto! Finalmente possiamo tornare ad addestrare i giovani uccelli." },
+    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_BODWINE_000_11", "hash": "7296F41D6450387E", "target": "I chocobo sono paurosi per natura, sai, e addestrarli richiede molta pazienza. E non aiuta il fatto che soldati e avventurieri tendano a cavalcarli <italic(1)>verso<italic(0)> il pericolo invece di allontanarsene..." },
+    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_BODWINE_000_12", "hash": "4F22CC7767FE3C55", "target": "Comunque ti siamo grati dell'aiuto. Ecco un piccolo segno della nostra gratitudine." }
   ]
 }

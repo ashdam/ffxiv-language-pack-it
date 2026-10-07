@@ -2,17 +2,17 @@
   "conversation": "quest/010/GaiUsc810_01034",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_SEQ_00", "hash": "2F77B6B7E6836990", "target": "" },
-    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_SEQ_01", "hash": "9F574474C26CF852", "target": "" },
-    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_SEQ_02", "hash": "39DACCD0C41BA919", "target": "" },
-    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_SEQ_03", "hash": "068F8AB3FF9C0DD3", "target": "" },
-    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_TODO_00", "hash": "0C34968FB7C5B892", "target": "" },
-    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_TODO_01", "hash": "438B28F557C142D4", "target": "" },
-    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_STHALRHET_000_000", "hash": "719A44D567EBE0B9", "target": "" },
-    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_STHALRHET_000_001", "hash": "BD86448BA753B7BB", "target": "" },
-    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_STHALRHET_000_002", "hash": "79D66F00B1D3800F", "target": "" },
-    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_STHALRHET_000_010", "hash": "5B84942E345D2EF8", "target": "" },
-    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_STHALRHET_000_020", "hash": "60B10000B1FBBFDD", "target": "" },
-    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_STHALRHET_000_021", "hash": "28BDE07E80B7E4D2", "target": "" }
+    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_SEQ_00", "hash": "2F77B6B7E6836990", "target": "Sthalrhet spera di mandarti a caccia." },
+    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_SEQ_01", "hash": "9F574474C26CF852", "target": "Sthalrhet ti chiede di sterminare i sea wasp per impedire a suo fratello di deliziarsene." },
+    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_SEQ_02", "hash": "39DACCD0C41BA919", "target": "Consegna i sea wasp abbattuti a Sthalrhet." },
+    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_SEQ_03", "hash": "068F8AB3FF9C0DD3", "target": "Sthalrhet assapora la sfortuna del fratello ed è felice di dare i sea wasp a chiunque, purché non sia Nortmoen." },
+    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_TODO_00", "hash": "0C34968FB7C5B892", "target": "Uccidere sea wasp e ottenere le loro ombrelle putrefatte" },
+    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_TODO_01", "hash": "438B28F557C142D4", "target": "Consegnare le ombrelle putrefatte a Sthalrhet" },
+    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_STHALRHET_000_000", "hash": "719A44D567EBE0B9", "target": "Sembri in cerca di avventure e di lavoro e io sono un uomo in cerca di sea wasp morti. Forse possiamo aiutarci a vicenda." },
+    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_STHALRHET_000_001", "hash": "BD86448BA753B7BB", "target": "Intendiamoci, non mi interessa masticare quei parassiti viscidi, ma mio fratello non sembra mai sazio, quel cafone." },
+    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_STHALRHET_000_002", "hash": "79D66F00B1D3800F", "target": "Non sopporto di vederlo riempirsi la bocca di quei parassiti pungenti un altro giorno! Ah, cosa non darei per vedere la sua faccia quando gli dirò che hai cacciato tutti i suoi preziosi sea wasp! Ma non aspettarti una ricompensa senza prove: devo prima vedere le loro carcasse putrefatte." },
+    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_STHALRHET_000_010", "hash": "5B84942E345D2EF8", "target": "Confido che tu stia rimandando agli abissi le anime di quei sea wasp. Assicurati solo di non dare i loro cadaveri a mio fratello!" },
+    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_STHALRHET_000_020", "hash": "60B10000B1FBBFDD", "target": "Questo sì che lo chiamo un vero massacro! Eccellente." },
+    { "gameKey": "quest/010/GaiUsc810_01034#TEXT_GAIUSC810_01034_STHALRHET_000_021", "hash": "28BDE07E80B7E4D2", "target": "Resta solo da decidere come liberarsi di quelle miserabili cose. Immagino che nella mia brigata qualcuno riesca a digerirle..." }
   ]
 }

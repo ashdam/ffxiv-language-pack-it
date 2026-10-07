@@ -2,18 +2,18 @@
   "conversation": "quest/004/SubSea104_00401",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_SEQ_00", "hash": "712A068EE209841D", "target": "" },
-    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_SEQ_01", "hash": "557AA43BAE6AC50F", "target": "" },
-    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_SEQ_02", "hash": "40C7E0DA63B4D003", "target": "" },
-    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_SEQ_03", "hash": "BCA4B5328A6FE910", "target": "" },
-    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_TODO_00", "hash": "F8711E4297F11FB8", "target": "" },
-    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_TODO_01", "hash": "EA2F73B876A605AE", "target": "" },
-    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_KAZAIBUOYZAI_000_1", "hash": "92AADAE488D4340B", "target": "" },
-    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_KAZAIBUOYZAI_000_2", "hash": "938BB9B6269B2462", "target": "" },
-    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_KAZAIBUOYZAI_000_3", "hash": "EE3D2F70C1E7AE9E", "target": "" },
-    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_KAZAIBUOYZAI_000_11", "hash": "6990CF73BD569406", "target": "" },
-    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_KAZAIBUOYZAI_000_12", "hash": "D5C9151F44318DA9", "target": "" },
-    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_KAZAIBUOYZAI_000_13", "hash": "BAEBEED8B3D5AC03", "target": "" },
-    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_POP_MESSAGE", "hash": "FEF6D0A9A26C9146", "target": "" }
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_SEQ_00", "hash": "712A068EE209841D", "target": "Kazai Buoyzai, trasportatore di merci al Montacielo, vuole che tu uccida i buzzard che attaccano i carri sulla strada." },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_SEQ_01", "hash": "557AA43BAE6AC50F", "target": "Attirati dall'odore della carne, i buzzard affamati piombano sui carri carichi di cibo diretti al De Nevelle Checkpoint. Sfrutta la loro passione per le carogne portando un sacco di carne di ratto marcia al loro nido e attirando quegli uccelli necrofagi in un'imboscata mortale." },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_SEQ_02", "hash": "40C7E0DA63B4D003", "target": "Hai ucciso i buzzard. Torna al Montacielo e fai rapporto a Kazai Buoyzai." },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_SEQ_03", "hash": "BCA4B5328A6FE910", "target": "L'influenza persistente della Calamità non riguarda soltanto le vite dei cittadini di Eorzea: persino i necrofagi del regno sono costretti a comportamenti insoliti e disperati. Sebbene sia stato fatto molto per rimediare alla devastazione, le cicatrici impiegheranno molto tempo a svanire." },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_TODO_00", "hash": "F8711E4297F11FB8", "target": "Svuotare il sacco di carne di ratto nel nido dei buzzard e uccidere quelli che appaiono" },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_TODO_01", "hash": "EA2F73B876A605AE", "target": "Fare rapporto a Kazai Buoyzai al Montacielo" },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_KAZAIBUOYZAI_000_1", "hash": "92AADAE488D4340B", "target": "Hai dimostrato di essere <if(gnum4,una ragazza utile,un tipo utile)>. Che ne dici di farmi un altro favore? Abbiamo qualche problemino con i buzzard che piombano sui carri diretti al De Nevelle Checkpoint e ne rubano il carico." },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_KAZAIBUOYZAI_000_2", "hash": "938BB9B6269B2462", "target": "Di solito quelle canaglie pennute se ne stanno lontane, ma pare che non resistano a un carro carico di carne. Be', dico di sfruttare questa debolezza per attirare quegli ingordi in trappola." },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_KAZAIBUOYZAI_000_3", "hash": "EE3D2F70C1E7AE9E", "target": "Prendi questo sacco di carne di ratto marcia e posalo nel territorio degli avvoltoi, dove i buzzard fanno il nido. Quando quei bastardi arrivano per il banchetto, comincia a spaccare becchi senza pietà. Facile." },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_KAZAIBUOYZAI_000_11", "hash": "6990CF73BD569406", "target": "Non ti hanno cavato gli occhi a beccate, vero? Quei buzzard sono bestiacce. Ma l'ultimo carro è passato senza perdere un boccone, quindi direi che ne hai spennati abbastanza da rendere sicura la strada." },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_KAZAIBUOYZAI_000_12", "hash": "D5C9151F44318DA9", "target": "Ti ringrazio, <if(gnum4,ragazza,ragazzo)>. Guadagno quasi tutto trasportando cibo, e senza il tuo aiuto mi ritroverei a dormire in una cunetta nel giro di una settimana." },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_KAZAIBUOYZAI_000_13", "hash": "BAEBEED8B3D5AC03", "target": "Pare che dopo la Calamità anche i necrofagi trovino poco da mangiare, altrimenti non li vedresti tentare nulla di così audace. Stavolta, però, la fortuna non li ha aiutati nemmeno un po', eh?" },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_POP_MESSAGE", "hash": "FEF6D0A9A26C9146", "target": "Avverti una presenza ostile!" }
   ]
 }

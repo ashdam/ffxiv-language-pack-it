@@ -2,16 +2,16 @@
   "conversation": "quest/007/GaiUsa108_00722",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa108_00722#TEXT_GAIUSA108_00722_SEQ_00", "hash": "CCDA0C9856DCB389", "target": "" },
-    { "gameKey": "quest/007/GaiUsa108_00722#TEXT_GAIUSA108_00722_SEQ_01", "hash": "76D2FEAF393C4C12", "target": "" },
-    { "gameKey": "quest/007/GaiUsa108_00722#TEXT_GAIUSA108_00722_SEQ_02", "hash": "10AEBCADB6DEEE9C", "target": "" },
-    { "gameKey": "quest/007/GaiUsa108_00722#TEXT_GAIUSA108_00722_SEQ_03", "hash": "91462387D7BF8879", "target": "" },
-    { "gameKey": "quest/007/GaiUsa108_00722#TEXT_GAIUSA108_00722_TODO_00", "hash": "E7F81CB77B789CBA", "target": "" },
-    { "gameKey": "quest/007/GaiUsa108_00722#TEXT_GAIUSA108_00722_TODO_01", "hash": "8C9B5332897E44BC", "target": "" },
-    { "gameKey": "quest/007/GaiUsa108_00722#TEXT_GAIUSA108_00722_TODO_02", "hash": "252F1B2F9044A56D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa108_00722#TEXT_GAIUSA108_00722_AMMEXIA_000_000", "hash": "0CA2D69BB8396FA4", "target": "" },
-    { "gameKey": "quest/007/GaiUsa108_00722#TEXT_GAIUSA108_00722_AMMEXIA_000_001", "hash": "6951559E0D7A45A2", "target": "" },
-    { "gameKey": "quest/007/GaiUsa108_00722#TEXT_GAIUSA108_00722_AMMEXIA_000_020", "hash": "796F65391988054A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa108_00722#TEXT_GAIUSA108_00722_POP_MESSAGE_000", "hash": "89813E73812DA3F1", "target": "" }
+    { "gameKey": "quest/007/GaiUsa108_00722#TEXT_GAIUSA108_00722_SEQ_00", "hash": "CCDA0C9856DCB389", "target": "Ameexia la silfa vorrebbe chiedere aiuto a qualcuno che vive d'avventure." },
+    { "gameKey": "quest/007/GaiUsa108_00722#TEXT_GAIUSA108_00722_SEQ_01", "hash": "76D2FEAF393C4C12", "target": "Ameexia non osa avventurarsi nel bosco per paura dei cinghiali. Cerca i suini feroci nei cespugli sospetti e uccidili per tranquillizzarla." },
+    { "gameKey": "quest/007/GaiUsa108_00722#TEXT_GAIUSA108_00722_SEQ_02", "hash": "10AEBCADB6DEEE9C", "target": "La tua missione contro i cinghiali è riuscita. Torna da Ameexia." },
+    { "gameKey": "quest/007/GaiUsa108_00722#TEXT_GAIUSA108_00722_SEQ_03", "hash": "91462387D7BF8879", "target": "Grazie ai tuoi sforzi, Ameexia può di nuovo divertirsi nel bosco quanto vuole." },
+    { "gameKey": "quest/007/GaiUsa108_00722#TEXT_GAIUSA108_00722_TODO_00", "hash": "E7F81CB77B789CBA", "target": "Ispezionare il cespuglio e uccidere wild boar" },
+    { "gameKey": "quest/007/GaiUsa108_00722#TEXT_GAIUSA108_00722_TODO_01", "hash": "8C9B5332897E44BC", "target": "Ispezionare il cespuglio e uccidere il tusked hog" },
+    { "gameKey": "quest/007/GaiUsa108_00722#TEXT_GAIUSA108_00722_TODO_02", "hash": "252F1B2F9044A56D", "target": "Fare rapporto ad Ameexia" },
+    { "gameKey": "quest/007/GaiUsa108_00722#TEXT_GAIUSA108_00722_AMMEXIA_000_000", "hash": "0CA2D69BB8396FA4", "target": "Oh, quello che cammina, ascoltare, per favore! Questo qui si divertiva nel bosco, come piace a questo qui, quando quelli zannuti cattivi sono arrivati sbuffando e caricando! Questo qui ha avuto tanta paura!" },
+    { "gameKey": "quest/007/GaiUsa108_00722#TEXT_GAIUSA108_00722_AMMEXIA_000_001", "hash": "6951559E0D7A45A2", "target": "Questo qui ha troppa paura per tornare nel bosco. Quello che cammina può far andare via quelli zannuti, sì? Questo qui ballerebbe di gioia! Quelli zannuti si nascondono nei cespugli. Quello che cammina deve fare attenzione!" },
+    { "gameKey": "quest/007/GaiUsa108_00722#TEXT_GAIUSA108_00722_AMMEXIA_000_020", "hash": "796F65391988054A", "target": "Quello che cammina ha fatto andare via quelli zannuti? Questo qui può giocare di nuovo nel bosco? Questo qui ringrazia quello che cammina! Questo qui è amico di quello che cammina per sempre e sempre!" },
+    { "gameKey": "quest/007/GaiUsa108_00722#TEXT_GAIUSA108_00722_POP_MESSAGE_000", "hash": "89813E73812DA3F1", "target": "L'aria è squarciata da grugniti assordanti!" }
   ]
 }

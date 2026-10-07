@@ -2,19 +2,19 @@
   "conversation": "quest/009/GaiUsc206_00965",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_SEQ_00", "hash": "A6E5A8BD0D05029E", "target": "" },
-    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_SEQ_01", "hash": "13CA4C51F29D9B37", "target": "" },
-    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_SEQ_02", "hash": "AE77B7948A0BCAED", "target": "" },
-    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_SEQ_03", "hash": "585C490B66F7B69E", "target": "" },
-    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_TODO_00", "hash": "4303D2EBD9A25822", "target": "" },
-    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_TODO_01", "hash": "A666F83C9EDC9D13", "target": "" },
-    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_000", "hash": "15279889D7B911BA", "target": "" },
-    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_001", "hash": "431D2FE7DA4F739E", "target": "" },
-    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_002", "hash": "60E836999376949C", "target": "" },
-    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_010", "hash": "8A4FBCE3D8D2C744", "target": "" },
-    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_020", "hash": "72A0EB95F3C5EBF3", "target": "" },
-    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_021", "hash": "609BCB7B5AF91A11", "target": "" },
-    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_022", "hash": "8B738795D85F5975", "target": "" },
-    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_POP_MESSAGE_000", "hash": "6BAE27D95514DF96", "target": "" }
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_SEQ_00", "hash": "A6E5A8BD0D05029E", "target": "Ci sono spiriti e poi ci sono <italic(1)>spiriti<italic(0)>. Ahlduwil brama gli uni e teme gli altri." },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_SEQ_01", "hash": "13CA4C51F29D9B37", "target": "Trovi un sedicente recuperatore di relitti decisamente ubriaco, che ti chiede di riempire la sua bottiglia vuota da una botte di vino nel Cimitero delle Navi. Conoscendo qualcosa dei vini recuperati dai naufragi, decidi di accontentarlo." },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_SEQ_02", "hash": "AE77B7948A0BCAED", "target": "Entri nel Cimitero delle Navi e affronti quel luogo umido e infestato per trovare una botte di vino, eliminando uno spirito lungo il cammino. Con la bottiglia di vino recuperato al sicuro nelle tue mani, è ora di tornare da Ahlduwil." },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_SEQ_03", "hash": "585C490B66F7B69E", "target": "Ahlduwil accoglie avidamente il vino d'annata, poi si lamenta che con il tempo abbia preso odore di zolfo. Ora che il suo sogno di scolarsi tutte le stive del Cimitero è svanito, speri che smetta di essere un ubriacone." },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_TODO_00", "hash": "4303D2EBD9A25822", "target": "Riempire la bottiglia con il vino del tino" },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_TODO_01", "hash": "A666F83C9EDC9D13", "target": "Dare la bottiglia di vino ad Ahlduwil" },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_000", "hash": "15279889D7B911BA", "target": "Queshta bottiglia è vuota! Un momento fa non lo era... C'è qualco... qualcosha di <italic(1)>shospetto<italic(0)>. Oh, guarda! Vedo <italic(1)>chi vive d'avventure<italic(0)>. Come shtai, <if(gnum4,signora avventuriera,signor avventuriere)>!" },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_001", "hash": "431D2FE7DA4F739E", "target": "Hai preshente quella gran distesa di sabbia dietro di me? È il Cimitero delle Navi. Le correnti ce li portano, tutti quei relitti... e anche quello che hanno nelle stive. Botti di vino... rum... idromele e acquavite... Quella è per il capitano! E io shono una specie di capitano..." },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_002", "hash": "60E836999376949C", "target": "Sembri una persona abbastanza <italic(1)>reale<italic(0)>. Molti non lo shono, sai, di quelli che mi fanno visita. Non mi darebbe fastidio, se alcuni non fossero <italic(1)>cattivi<italic(0)>. Mi serve da bere. Su, prendi queshta bottiglia e riempila con qualcosha di laggiù." },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_010", "hash": "8A4FBCE3D8D2C744", "target": "Non è giusto che le regole cambino sempre. Ero un <italic(1)>bravo<italic(0)> saccheggiatore, te lo dico io! E adesso, all'improvviso, nel lavoro ci shono anche i fantasmi?" },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_020", "hash": "72A0EB95F3C5EBF3", "target": "Ma guarda, una bottiglia piena! Ne avevo una qui vicino, prima. Credo che le sia successo qualcosha. Grazie! Sei la <italic(1)>migliore<italic(0)> apparizione che abbia mai vishto." },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_021", "hash": "609BCB7B5AF91A11", "target": "Dovrebbe esserci anche altro carico, casse piene di lingotti d'elettro e roba simile da commerciare con l'Eshte e Merash... Meraqualcosha. Io mi tengo il vino..." },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_022", "hash": "8B738795D85F5975", "target": "\\<annusa> \\<annusa> Argh, uggghhh! Puzza di uova marce! Non me lo bevo. Che shpreco, tutto quel vino... e l'idromele... Anche la birra, non bisogna dimenticare la birra... E l'acquavite per il capitano! \\<singhiozzo>" },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_POP_MESSAGE_000", "hash": "6BAE27D95514DF96", "target": "Avverti un gelo spettrale!" }
   ]
 }

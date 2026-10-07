@@ -2,17 +2,17 @@
   "conversation": "quest/004/SubSea113_00410",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_SEQ_00", "hash": "29DBB1045E48337E", "target": "" },
-    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_SEQ_01", "hash": "839DB6920BCE44F8", "target": "" },
-    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_SEQ_02", "hash": "4EDD86463669709A", "target": "" },
-    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_SEQ_03", "hash": "486ED859B00FBCDE", "target": "" },
-    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_TODO_00", "hash": "3111ACAFCC9147AE", "target": "" },
-    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_TODO_01", "hash": "476957738ED5B633", "target": "" },
-    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_HEZZKHEZL_000_1", "hash": "28793733223B22A3", "target": "" },
-    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_HEZZKHEZL_000_2", "hash": "27CCCF415BA7B9F0", "target": "" },
-    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_HEZZKHEZL_000_3", "hash": "236242D96FCDC860", "target": "" },
-    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_HEZZKHEZL_000_10", "hash": "8AF46EE42AB22814", "target": "" },
-    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_HEZZKHEZL_000_11", "hash": "43CE293229C0C544", "target": "" },
-    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_HEZZKHEZL_000_12", "hash": "7B7FE42CD9132E22", "target": "" }
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_SEQ_00", "hash": "29DBB1045E48337E", "target": "Hezzkhezl, carpentiere navale di Naldiq & Vymelli, ha bisogno di aiuto per scaldare i rivetti." },
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_SEQ_01", "hash": "839DB6920BCE44F8", "target": "Esci dai Moraby Drydocks e uccidi tre lightning sprite per ottenerne i nuclei." },
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_SEQ_02", "hash": "4EDD86463669709A", "target": "Hai raccolto tre nuclei intatti. Ora consegnali a Hezzkhezl." },
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_SEQ_03", "hash": "486ED859B00FBCDE", "target": "Hezzkhezl è felice del tuo ritorno e ti dice che fu Ahtbyrm, caposquadra della <italic(1)>Victory<italic(0)>, a concepire l'idea di usare i nuclei degli spiriti per scaldare i rivetti." },
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_TODO_00", "hash": "3111ACAFCC9147AE", "target": "Uccidere i lightning sprite e ottenerne i nuclei" },
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_TODO_01", "hash": "476957738ED5B633", "target": "Consegnare i nuclei elementali a Hezzkhezl" },
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_HEZZKHEZL_000_1", "hash": "28793733223B22A3", "target": "Quando si tratta di ribadire rivetti, puoi cercare in tutto il regno, ma non troverai nessuno migliore di Hezzkhezl. Ne metto duecento a campana. Il doppio se non ho bevuto!" },
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_HEZZKHEZL_000_2", "hash": "27CCCF415BA7B9F0", "target": "Il segreto per ribadire bene i rivetti è quanto riesci a scaldare quei maledetti affari. Più caldo è il rivetto, più solido sarà il legame con la piastra d'acciaio. Il problema è che, se li scaldassi in forgia, sarebbero freddi come la fica di una puttana morta quando li riportassi sulla <italic(1)>Victory<italic(0)>." },
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_HEZZKHEZL_000_3", "hash": "236242D96FCDC860", "target": "Per questo uso i nuclei incandescenti dei lightning sprite... ma come vedi le mie scorte scarseggiano. Se non è troppo disturbo, potresti procurarmene qualcuno? Hai l'aria di poter affrontare un intero branco di spiriti con una mano legata dietro il culo." },
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_HEZZKHEZL_000_10", "hash": "8AF46EE42AB22814", "target": "Tre nuclei e posso finire il lavoro di oggi e tornare alla birreria, dove mi spetta stare." },
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_HEZZKHEZL_000_11", "hash": "43CE293229C0C544", "target": "Per l'occhio di Leviathan! Hai davvero preso quei dannati nuclei! Ahtbyrm sarà proprio contento." },
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_HEZZKHEZL_000_12", "hash": "7B7FE42CD9132E22", "target": "È stato il caposquadra a pensare di usare i nuclei per scaldare i rivetti. Un uomo sveglio, quello. Più acuto di una zanna nel becco di una faccia di pesce. Probabilmente per questo è diventato capo tanto in fretta." }
   ]
 }

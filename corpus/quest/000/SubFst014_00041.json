@@ -2,19 +2,19 @@
   "conversation": "quest/000/SubFst014_00041",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SEQ_00", "hash": "671170175DF2F7A3", "target": "" },
-    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SEQ_01", "hash": "72B21DB75C5086B3", "target": "" },
-    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SEQ_02", "hash": "5FF92D32CE723B62", "target": "" },
-    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SEQ_03", "hash": "42DC202ED065CE42", "target": "" },
-    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_TODO_00", "hash": "A1B815080039E4B6", "target": "" },
-    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_TODO_01", "hash": "5D94A45E27D5EEB6", "target": "" },
-    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_1", "hash": "20A5D2260987FCDA", "target": "" },
-    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_2", "hash": "C391245713056154", "target": "" },
-    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_3", "hash": "422067F023283F5E", "target": "" },
-    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_4", "hash": "9F716061FC2361B1", "target": "" },
-    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_10", "hash": "51F8573DE611EA42", "target": "" },
-    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_11", "hash": "EC10672B1CD537D1", "target": "" },
-    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_12", "hash": "B265D95A64F5F585", "target": "" },
-    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_13", "hash": "513EDDB6F4A3FB18", "target": "" }
+    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SEQ_00", "hash": "671170175DF2F7A3", "target": "Una botanica di nome Samiane spera che un avventuriero raccolga per lei delle bacche di rosa sparse a terra." },
+    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SEQ_01", "hash": "72B21DB75C5086B3", "target": "Come ogni brava gridaniana, Samiane tratta con rispetto le sue cose ed è restia a gettarle prima che esauriscano la loro utilità. Una posizione senz'altro ammirevole, ma che provoca un disastro quando il suo venerando sacchetto di semi si lacera, lasciando dietro di lei il suo carico di bacche di rosa di Azeyma. Aiuta la sfortunata botanica raccogliendo le bacche perdute lungo la strada per il Vivaio Greatloam." },
+    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SEQ_02", "hash": "5FF92D32CE723B62", "target": "Raccogli con grande cura le bacche di rosa sparse a terra. Restituiscile a Samiane e tranquillizzala." },
+    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SEQ_03", "hash": "42DC202ED065CE42", "target": "Samiane ti ringrazia per averla aiutata a raccogliere le bacche di rosa di Azeyma. Anche se alcuni semi potrebbero essere germogliati dove sono caduti, spiega che ogni botanico ritiene suo dovere far crescere la flora del Bosco dei Dodici nelle migliori condizioni possibili. Detto questo, ammette che un sentiero fiancheggiato da rose non sarebbe stato poi così male..." },
+    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_TODO_00", "hash": "A1B815080039E4B6", "target": "Raccogliere le bacche di rosa di Azeyma" },
+    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_TODO_01", "hash": "5D94A45E27D5EEB6", "target": "Consegnare le bacche di rosa di Azeyma a Samiane" },
+    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_1", "hash": "20A5D2260987FCDA", "target": "Fermatevi lì! Non un altro passo!" },
+    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_2", "hash": "C391245713056154", "target": "Mi scuso se vi ho spaventato, ma fate attenzione─qui il terreno è coperto di bacche di rosa. Il mio sacchetto di semi era così logoro che alla fine si è strappato." },
+    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_3", "hash": "422067F023283F5E", "target": "Senza accorgermene, ho sparso bacche di rosa di Azeyma lungo tutta questa strada. Oh, <if(gnum4,buona signora,buon signore)>, se mi aiutaste a raccoglierle, vi sarei immensamente grata." },
+    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_4", "hash": "9F716061FC2361B1", "target": "Grazie! La vostra gentilezza è davvero una benedizione degli elementali. Le bacche dovrebbero trovarsi sulla strada tra qui e il Vivaio Greatloam. Camminate con cautela, per non schiacciarle!" },
+    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_10", "hash": "51F8573DE611EA42", "target": "<if(gnum4,Buona signora,Buon signore)>, vi prego, ditemi che avete recuperato tutte le bacche e non ne avete lasciata nessuna sotto gli stivali dei viandanti!" },
+    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_11", "hash": "EC10672B1CD537D1", "target": "Che gli elementali vi benedicano! Temevo che l'anno prossimo questo sentiero sarebbe stato fiancheggiato da rose." },
+    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_12", "hash": "B265D95A64F5F585", "target": "Non che una vista tanto splendida mi dispiacerebbe del tutto, ma le rose di Azeyma non sono adatte a questo luogo. Come botanica, è mia responsabilità far sì che le piante di Gridania crescano rigogliose nelle condizioni ideali. Un posto per ogni seme e ogni seme al suo posto, si potrebbe dire." },
+    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_13", "hash": "513EDDB6F4A3FB18", "target": "È stato molto gentile da parte vostra aiutarmi nel momento del bisogno. Prego che gli elementali vi dimostrino la stessa bontà." }
   ]
 }

@@ -2,19 +2,19 @@
   "conversation": "quest/009/GaiUsc413_00988",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_SEQ_00", "hash": "E21DFBF78623513D", "target": "" },
-    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_SEQ_01", "hash": "E54ABF5C0FE28713", "target": "" },
-    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_SEQ_02", "hash": "124E315108E1FDC3", "target": "" },
-    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_SEQ_03", "hash": "9D2EDAB879C963BA", "target": "" },
-    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_TODO_00", "hash": "955FBD0DCB9B4F69", "target": "" },
-    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_TODO_01", "hash": "8915DAACF170AC88", "target": "" },
-    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_NPAHTAYUUN_000_000", "hash": "14C4064FE695AF28", "target": "" },
-    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_NPAHTAYUUN_000_001", "hash": "42659A8FAC519C82", "target": "" },
-    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_NPAHTAYUUN_000_002", "hash": "F45DA82A921EE968", "target": "" },
-    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_NPAHTAYUUN_000_003", "hash": "21D3F95AEECBB58A", "target": "" },
-    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_NPAHTAYUUN_000_004", "hash": "C5F557AB704B9E9C", "target": "" },
-    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_NPAHTAYUUN_000_030", "hash": "524F754020A11EB3", "target": "" },
-    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_NPAHTAYUUN_000_031", "hash": "3D9ACEE9E2BF0A00", "target": "" },
-    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_POP_MESSAGE_000", "hash": "E7EA32FF961D267D", "target": "" }
+    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_SEQ_00", "hash": "E21DFBF78623513D", "target": "Npah Tayuun vorrebbe il tuo aiuto per impartire una lezione: guai a qualsiasi creatura acquatica si metta tra una studiosa e le sue ricerche." },
+    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_SEQ_01", "hash": "E54ABF5C0FE28713", "target": "A ovest riposa una pianura cristallizzata, ricca di promesse di cose nascoste. Esamina due luoghi tra le rovine di Campo Pedaggio del Redivivo ed elimina tutti i nix molesti che appaiono." },
+    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_SEQ_02", "hash": "124E315108E1FDC3", "target": "Cosa succede quando colpisci dei nix con oggetti metallici affilati? La stessa cosa che succede a tutto il resto. Torna da Npah Tayuun e informala delle tue gesta sanguinose." },
+    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_SEQ_03", "hash": "9D2EDAB879C963BA", "target": "Un giorno incontrerai uno studioso che non gioisce della morte violenta di un nemico, ma quel giorno non è oggi. Purtroppo la tua abilità nell'annientare nix sembra attirare un'attenzione indesiderata da parte di Npah Tayuun..." },
+    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_TODO_00", "hash": "955FBD0DCB9B4F69", "target": "Esaminare i luoghi e uccidere i nix" },
+    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_TODO_01", "hash": "8915DAACF170AC88", "target": "Fare rapporto a Npah Tayuun" },
+    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_NPAHTAYUUN_000_000", "hash": "14C4064FE695AF28", "target": "La Torre di Cristallo è più del mio campo di studi: è una passione. Che una struttura tanto imponente sia comparsa da un giorno all'altro, subito dopo la Calamità! Nei cinque anni trascorsi da allora, i suoi misteri hanno resistito al mio paziente corteggiamento..." },
+    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_NPAHTAYUUN_000_001", "hash": "42659A8FAC519C82", "target": "Ma vincerò il suo pudore, o non mi chiamo Npah Tayuun. Conoscete la pianura cristallizzata a ovest del Pedaggio del Redivivo, vero?" },
+    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_NPAHTAYUUN_000_002", "hash": "F45DA82A921EE968", "target": "Tutte le mie ricerche finora indicano che in quella distesa scintillante ci sia una scoperta importante da fare, probabilmente la chiave della torre stessa. Eppure..." },
+    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_NPAHTAYUUN_000_003", "hash": "21D3F95AEECBB58A", "target": "Eppure mi impediscono ingiustamente di osservare quei cristalli da vicino... i... i <italic(1)>nix<italic(0)>!" },
+    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_NPAHTAYUUN_000_004", "hash": "C5F557AB704B9E9C", "target": "Ora capite, vero? Quei nix <italic(1)>devono<italic(0)> morire. Non permetterò loro di impedirmi di penetrare il segreto della torre!" },
+    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_NPAHTAYUUN_000_030", "hash": "524F754020A11EB3", "target": "Avete già ucciso i nix? È passato appena... insomma, ho ancora il viso acceso per il mio sfogo di prima. Erano già morti prima che mi passasse la rabbia? Be', è... proprio splendido! Se lo meritavano, quei saltellanti." },
+    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_NPAHTAYUUN_000_031", "hash": "3D9ACEE9E2BF0A00", "target": "La Torre di Cristallo resta al primo posto nei miei pensieri, ma anche chi vive d'avventure meriterebbe uno studio. Magari come progetto secondario? Sarà una ricerca più sperimentale. Vi troverò un patto di sangue da firmare..." },
+    { "gameKey": "quest/009/GaiUsc413_00988#TEXT_GAIUSC413_00988_POP_MESSAGE_000", "hash": "E7EA32FF961D267D", "target": "La terra trema sotto colpi ritmici!" }
   ]
 }

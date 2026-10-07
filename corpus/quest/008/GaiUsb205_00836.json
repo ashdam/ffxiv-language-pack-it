@@ -2,17 +2,17 @@
   "conversation": "quest/008/GaiUsb205_00836",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_SEQ_00", "hash": "2890E94E45194672", "target": "" },
-    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_SEQ_01", "hash": "73CC26059C3F3296", "target": "" },
-    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_SEQ_02", "hash": "5414A6A7A04027FF", "target": "" },
-    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_SEQ_03", "hash": "BA24B6CD1DA83135", "target": "" },
-    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_TODO_00", "hash": "653B6FDE5FA02952", "target": "" },
-    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_TODO_01", "hash": "64A8B36B790200FB", "target": "" },
-    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_PEBALOH_000_000", "hash": "CE63712ABDC29DF3", "target": "" },
-    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_PEBALOH_000_001", "hash": "D3641314E5D42005", "target": "" },
-    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_PEBALOH_000_002", "hash": "B48E0C258678BAB1", "target": "" },
-    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_PEBALOH_000_020", "hash": "5D04DCA8D644F6D9", "target": "" },
-    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_PEBALOH_000_021", "hash": "560F26BB8DF5DE57", "target": "" },
-    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_PEBALOH_000_022", "hash": "6A88CEAD3F10E2B2", "target": "" }
+    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_SEQ_00", "hash": "2890E94E45194672", "target": "P'ebaloh è una cameriera dignitosa alle prese con una faccenda ben poco gloriosa." },
+    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_SEQ_01", "hash": "73CC26059C3F3296", "target": "P'ebaloh è contrariata dalla convinzione del signor Gegeruju che i bufali vicini siano la causa delle recenti scosse. Ha tentato di persuaderlo del contrario, ma lui è convinto che le grandi bestie vadano eliminate. Per accontentarlo, P'ebaloh vuole che tu ne abbatta sei." },
+    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_SEQ_02", "hash": "5414A6A7A04027FF", "target": "Hai ucciso sei large buffalo con un debole pretesto. Riferisci il massacro a P'ebaloh." },
+    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_SEQ_03", "hash": "BA24B6CD1DA83135", "target": "P'ebaloh ti ringrazia per aver assecondato i capricci del suo padrone. Crede però che Gegeruju sappia, nel profondo, che la vera causa delle scosse è il primordiale Titan." },
+    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_TODO_00", "hash": "653B6FDE5FA02952", "target": "Uccidere large buffalo" },
+    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_TODO_01", "hash": "64A8B36B790200FB", "target": "Fare rapporto a P'ebaloh" },
+    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_PEBALOH_000_000", "hash": "CE63712ABDC29DF3", "target": "Il signor Gegeruju non ha certo rivali negli affari e nel gusto raffinato. Ma su altre questioni può essere piuttosto ingenuo." },
+    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_PEBALOH_000_001", "hash": "D3641314E5D42005", "target": "Per esempio, si è convinto che la recente serie di terremoti sia colpa dei large buffalo che vagano qui vicino. Ammetterei <italic(1)>una certa<italic(0)> esasperazione per i bambini del posto feriti dopo le scosse, ma insomma." },
+    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_PEBALOH_000_002", "hash": "B48E0C258678BAB1", "target": "Una cosa è vedere i bufali agitati, un'altra pensare che c'entrino con i terremoti. Ho provato a ragionare con lui, ma invano. Potreste semplicemente assecondare il mio padrone e uccidere una mezza dozzina di quelle creature?" },
+    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_PEBALOH_000_020", "hash": "5D04DCA8D644F6D9", "target": "Vi sono debitrice. Sono piuttosto certa che quelle bestie fossero innocenti di qualsiasi crimine che scuotesse la terra, ma è bene averle eliminate comunque." },
+    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_PEBALOH_000_021", "hash": "560F26BB8DF5DE57", "target": "In verità credo che il signor Gegeruju sappia nel suo cuore che la causa non sono i bufali, ma il primordiale Titan. Tuttavia sa anche che la sua ricchezza non servirebbe contro una simile minaccia." },
+    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_PEBALOH_000_022", "hash": "6A88CEAD3F10E2B2", "target": "Anche se gli fa onore cercare di fare il bene degli abitanti di Costa del Sol, deve ammettere che certi problemi sono al di là dei suoi mezzi." }
   ]
 }

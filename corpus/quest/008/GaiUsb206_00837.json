@@ -2,18 +2,18 @@
   "conversation": "quest/008/GaiUsb206_00837",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_SEQ_00", "hash": "C404B226F6616A1C", "target": "" },
-    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_SEQ_01", "hash": "78BFD93B97D34006", "target": "" },
-    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_SEQ_02", "hash": "B1BF3E4FC082C1AA", "target": "" },
-    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_SEQ_03", "hash": "657FF30992C361DE", "target": "" },
-    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_TODO_00", "hash": "F05F532714DD723A", "target": "" },
-    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_TODO_01", "hash": "0FDB0A86380409AD", "target": "" },
-    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_PEBALOH_000_000", "hash": "7DE5C945A7929CD0", "target": "" },
-    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_PEBALOH_000_001", "hash": "6B1F7E392F027B40", "target": "" },
-    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_PEBALOH_000_002", "hash": "E90153389BCA2E4B", "target": "" },
-    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_PEBALOH_000_020", "hash": "79DC8776D6E0292A", "target": "" },
-    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_PEBALOH_000_021", "hash": "2C76C564FB01ABCB", "target": "" },
-    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_PEBALOH_000_022", "hash": "0A6ADFE0F1D75A8B", "target": "" },
-    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_POP_MESSAGE_000", "hash": "9C1D149C948DD946", "target": "" }
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_SEQ_00", "hash": "C404B226F6616A1C", "target": "La cameriera P'ebaloh ha un altro compito per le tue abili mani." },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_SEQ_01", "hash": "78BFD93B97D34006", "target": "P'ebaloh ti ha detto che gli uragnite si stanno insediando sui pilastri sottostanti. Usa le spatole d'acciaio per staccarli e sterminarli senza indugio." },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_SEQ_02", "hash": "B1BF3E4FC082C1AA", "target": "Hai trionfato su tutti i molluschi assassini. Fai rapporto a P'ebaloh." },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_SEQ_03", "hash": "657FF30992C361DE", "target": "P'ebaloh si rammarica che, pur essendo stata membro della Compagnia degli Eroi, persino il semplice compito da te svolto sia ormai oltre le sue capacità. Le ferite riportate nella battaglia con un primordiale erano più profonde della pelle e l'hanno portata a sostituire la spada con un vassoio." },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_TODO_00", "hash": "F05F532714DD723A", "target": "Usare spatole d'acciaio sui pilastri robusti e uccidere uragnite" },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_TODO_01", "hash": "0FDB0A86380409AD", "target": "Fare rapporto a P'ebaloh" },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_PEBALOH_000_000", "hash": "7DE5C945A7929CD0", "target": "Questa volta ho per voi un avversario più degno. Gli uragnite si stanno insediando sui pilastri sottostanti. E, a giudicare da quanto sono attaccati, direi che siano lì da parecchio." },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_PEBALOH_000_001", "hash": "6B1F7E392F027B40", "target": "Queste spatole d'acciaio dovrebbero servire a staccare i molluschi e preservare i nostri pilastri nello stesso tempo. Vi sarei grata se controllaste la zona ed eliminaste quei piccoli diavoli." },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_PEBALOH_000_002", "hash": "E90153389BCA2E4B", "target": "Riceverete naturalmente un'ampia ricompensa. Vi ringrazio di cuore." },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_PEBALOH_000_020", "hash": "79DC8776D6E0292A", "target": "Ah, i pilastri splendono. Grazie, <if(gnum4,mia signora,mio signore)>. Era solo un po' di pulizia domestica, immagino, ma persino questa è oltre le mie forze." },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_PEBALOH_000_021", "hash": "2C76C564FB01ABCB", "target": "Un tempo servivo nella Compagnia degli Eroi, se riuscite a crederci. Ma una battaglia con un primordiale mi ha lasciata gravemente ferita e con il cuore addolorato. Da allora mi dedico a compiti più ordinari, perché ho perso il gusto per il sangue." },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_PEBALOH_000_022", "hash": "0A6ADFE0F1D75A8B", "target": "Questa vita è stata buona con me. Troppi soldati combattono per difendere ciò che non conosceranno mai: la gioia di imparare, il piacere dell'agio, il tumulto della bellezza. Io invece li ho conosciuti. Eppure nei miei sogni di fumo e acciaio sento ancora il mio capitano chiamare: “Da me, da me...”" },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_POP_MESSAGE_000", "hash": "9C1D149C948DD946", "target": "Avverti una presenza ostile!" }
   ]
 }

@@ -2,18 +2,18 @@
   "conversation": "quest/004/SubSea058_00470",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_SEQ_00", "hash": "70A604C897E640E6", "target": "" },
-    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_SEQ_01", "hash": "B30E3A3BCFF13F5A", "target": "" },
-    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_SEQ_02", "hash": "DBECCFF80BB07B72", "target": "" },
-    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_SEQ_03", "hash": "5DDC576A1C7FACC8", "target": "" },
-    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_TODO_00", "hash": "BB5E4EC47F9867CB", "target": "" },
-    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_TODO_01", "hash": "39DBBF209088F868", "target": "" },
-    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_OSTFYR_000_1", "hash": "9FDE57185630834E", "target": "" },
-    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_OSTFYR_000_2", "hash": "CAF87C019FD5D45F", "target": "" },
-    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_OSTFYR_000_3", "hash": "E60DE90A7333C057", "target": "" },
-    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_OSTFYR_000_11", "hash": "756993F27FFF112D", "target": "" },
-    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_OSTFYR_000_12", "hash": "DE8EBA880A36437B", "target": "" },
-    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_OSTFYR_000_13", "hash": "1910A047B8741279", "target": "" },
-    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_POP_MESSAGE", "hash": "F110EBA4F475DC7F", "target": "" }
+    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_SEQ_00", "hash": "70A604C897E640E6", "target": "Ostfyr spera di garantire la sicurezza dei viandanti al Posto di Controllo di La Thagran liberando la zona dai suoi pericolosi abitanti." },
+    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_SEQ_01", "hash": "B30E3A3BCFF13F5A", "target": "Scopri che ultimamente il Rogue River è particolarmente pericoloso. Rovescia tre nidi di yarzon e stermina gli yarzon che compaiono." },
+    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_SEQ_02", "hash": "DBECCFF80BB07B72", "target": "Hai ridotto notevolmente la popolazione di yarzon al Rogue River. Torna al Posto di Controllo di La Thagran per informare Ostfyr che le creature non minacceranno più i viandanti." },
+    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_SEQ_03", "hash": "5DDC576A1C7FACC8", "target": "Le Giubbe Gialle sono troppo poche per sorvegliare il Posto di Controllo di La Thagran, e nelle regioni vicine non c'è un solo uomo da mandare. Hanno bisogno del tuo aiuto." },
+    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_TODO_00", "hash": "BB5E4EC47F9867CB", "target": "Stanare gli yarzon dai loro nidi e ucciderli" },
+    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_TODO_01", "hash": "39DBBF209088F868", "target": "Fare rapporto a Ostfyr" },
+    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_OSTFYR_000_1", "hash": "9FDE57185630834E", "target": "Ogni giorno, sempre più viaggiatori attraversano queste porte sanguinanti e contusi." },
+    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_OSTFYR_000_2", "hash": "CAF87C019FD5D45F", "target": "Mi dicono che gli yarzon li tormentano al Rogue. Mi addolora non fare nulla, ma ci serve ogni uomo disponibile solo per mantenere la guarnigione." },
+    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_OSTFYR_000_3", "hash": "E60DE90A7333C057", "target": "Ci renderesti un grande servizio riducendo la popolazione di yarzon. Se ripulissi, diciamo, tre dei loro nidi, saremmo tutti in debito con te." },
+    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_OSTFYR_000_11", "hash": "756993F27FFF112D", "target": "Ah, dunque hai eliminato quelle creature? Ogni viandante ti deve un ringraziamento." },
+    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_OSTFYR_000_12", "hash": "DE8EBA880A36437B", "target": "La Thagran è una roccaforte vitale, che il Maelstrom difenderebbe personalmente se avesse i mezzi. La flotta è troppo dispersa, ecco perché sono state chiamate le Giubbe Gialle." },
+    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_OSTFYR_000_13", "hash": "1910A047B8741279", "target": "Ma i nostri uomini non sono certo inesauribili, e il tuo aiuto contribuisce molto a preservare la pace." },
+    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_POP_MESSAGE", "hash": "F110EBA4F475DC7F", "target": "Yarzon infuriati sbucano dal nido!" }
   ]
 }

@@ -2,17 +2,17 @@
   "conversation": "quest/007/GaiUsa107_00721",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_SEQ_00", "hash": "5F867E92BB4A15F1", "target": "" },
-    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_SEQ_01", "hash": "2319FD68795EF46C", "target": "" },
-    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_SEQ_02", "hash": "B40FE4D88342B611", "target": "" },
-    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_SEQ_03", "hash": "9F5780D93060EA02", "target": "" },
-    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_TODO_00", "hash": "0AA643AB865B5A26", "target": "" },
-    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_TODO_01", "hash": "A0AE997BA476FDC8", "target": "" },
-    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_LAXIO_000_000", "hash": "556F110F45B0B91F", "target": "" },
-    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_LAXIO_000_001", "hash": "88A03083E0767317", "target": "" },
-    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_LAXIO_000_002", "hash": "8FC2D729E62CEE4F", "target": "" },
-    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_LAXIO_000_010", "hash": "5A6E1C5F141FB52C", "target": "" },
-    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_LAXIO_000_011", "hash": "C6F5F5C740819A6C", "target": "" },
-    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_POP_MESSAGE_000", "hash": "E78FA8A77E325D48", "target": "" }
+    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_SEQ_00", "hash": "5F867E92BB4A15F1", "target": "Laxio il silfo ha bisogno d'aiuto per eliminare i djigga." },
+    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_SEQ_01", "hash": "2319FD68795EF46C", "target": "Laxio spiega che i buzzing djigga attaccano i suoi simili ogni volta che escono da Piccolo Conforto per esporsi al sole. Ha incaricato due silfi di fare da esca per attirare allo scoperto i parassiti affamati e ti chiede di eliminarli." },
+    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_SEQ_02", "hash": "B40FE4D88342B611", "target": "Hai sterminato i djigga. Torna da Laxio a Piccolo Conforto." },
+    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_SEQ_03", "hash": "9F5780D93060EA02", "target": "A Piccolo Conforto scopri che i silfi hanno bisogno della luce del sole per sopravvivere. Grazie al tuo aiuto, possono riceverne la dose necessaria senza diventare cibo per djigga." },
+    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_TODO_00", "hash": "0AA643AB865B5A26", "target": "Sconfiggere buzzing djigga nel luogo indicato" },
+    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_TODO_01", "hash": "A0AE997BA476FDC8", "target": "Fare rapporto a Laxio a Piccolo Conforto" },
+    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_LAXIO_000_000", "hash": "556F110F45B0B91F", "target": "Questi qui hanno bisogno d'aiuto! Aiutare questi qui, per favore!" },
+    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_LAXIO_000_001", "hash": "88A03083E0767317", "target": "Quelli vili chiamati buzzing djigga pensano che questi qui siano cibo. Attaccano questi qui! Attaccano ogni volta che questi qui vanno nel bosco a bagnarsi di sole!" },
+    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_LAXIO_000_002", "hash": "8FC2D729E62CEE4F", "target": "Alcuni di questi qui sono andati nel bosco, nel bosco per attirare quelli vili. Questo qui vuole che quello che cammina aspetti quelli vili, aspetti vicino e uccida quelli vili che arrivano." },
+    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_LAXIO_000_010", "hash": "5A6E1C5F141FB52C", "target": "Questi qui devono bagnarsi di sole per sopravvivere. Senza sole, questi qui si ammalano, si ammalano e avvizziscono fino a diventare nessuno!" },
+    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_LAXIO_000_011", "hash": "C6F5F5C740819A6C", "target": "Grazie a quello che cammina, questi qui possono bagnarsi di sole senza pericolo! Lode a quello che cammina!" },
+    { "gameKey": "quest/007/GaiUsa107_00721#TEXT_GAIUSA107_00721_POP_MESSAGE_000", "hash": "E78FA8A77E325D48", "target": "Avverti una presenza ostile!" }
   ]
 }

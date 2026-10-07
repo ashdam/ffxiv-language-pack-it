@@ -2,19 +2,19 @@
   "conversation": "quest/007/GaiUsa807_00791",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_SEQ_00", "hash": "6E63603F1DE9A95A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_SEQ_01", "hash": "DB923874A0A964AB", "target": "" },
-    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_SEQ_02", "hash": "9BE4035FC6F85441", "target": "" },
-    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_SEQ_03", "hash": "FE0845277257E315", "target": "" },
-    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_TODO_00", "hash": "A63CAB61C876A220", "target": "" },
-    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_TODO_01", "hash": "0A65E301D42C3A52", "target": "" },
-    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_ORIANE_000_000", "hash": "D7424F04EA8A45A2", "target": "" },
-    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_ORIANE_000_001", "hash": "460EF4151DAA4A28", "target": "" },
-    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_ORIANE_000_002", "hash": "9EA72A54338D6A9D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_ORIANE_000_003", "hash": "C48AA4587E775D8A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_ORIANE_000_004", "hash": "F45901F549EA594D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_YHOMEPOCAN_000_020", "hash": "BF52EA2B2FD830F6", "target": "" },
-    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_YHOMEPOCAN_000_025", "hash": "E619F6B30710DFEF", "target": "" },
-    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_YHOMEPOCAN_000_026", "hash": "28C4784B1B40438A", "target": "" }
+    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_SEQ_00", "hash": "6E63603F1DE9A95A", "target": "Oriane ha bisogno del tuo aiuto per ottenere qualcosa di difficile da trovare." },
+    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_SEQ_01", "hash": "DB923874A0A964AB", "target": "I pumice golem, creature di pietra viva emerse dalla terra devastata, hanno invaso la zona e Oriane vuole conoscerne le origini. Indebolisci una creatura, poi catturane l'anima con un recipiente sigillante." },
+    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_SEQ_02", "hash": "9BE4035FC6F85441", "target": "Hai ottenuto la pietra dell'anima vivente di un pumice golem. La ricercatrice Yhom Epocan al Tappo Galleggiante di Fallgourd Float dovrebbe poter far luce sulle origini della creatura." },
+    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_SEQ_03", "hash": "FE0845277257E315", "target": "Yhom Epocan è felicissima di ricevere una pietra dell'anima in condizioni tanto perfette e promette di iniziare subito l'analisi." },
+    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_TODO_00", "hash": "A63CAB61C876A220", "target": "Usare il recipiente sigillante su un pumice golem indebolito" },
+    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_TODO_01", "hash": "0A65E301D42C3A52", "target": "Consegnare la pietra dell'anima vivente a Yhom Epocan" },
+    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_ORIANE_000_000", "hash": "D7424F04EA8A45A2", "target": "Avete dimostrato di essere un valido aiuto, quindi vorrei affidarvi un compito più ambizioso che uccidere lepri." },
+    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_ORIANE_000_001", "hash": "460EF4151DAA4A28", "target": "Forse avete incontrato strani costrutti di pietra viva da queste parti. Sono emersi dal paesaggio devastato dopo la Calamità, e da allora continuano a moltiplicarsi." },
+    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_ORIANE_000_002", "hash": "9EA72A54338D6A9D", "target": "Per ognuno che uccidiamo, un altro sale in superficie a prenderne il posto. Io e i miei compagni non sappiamo più che fare. È chiaro che dobbiamo colpire alla fonte." },
+    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_ORIANE_000_003", "hash": "C48AA4587E775D8A", "target": "Una ricercatrice di nome Yhom Epocan frequenta il Tappo Galleggiante a Fallgourd Float. Sospetto che possa far luce sulla questione." },
+    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_ORIANE_000_004", "hash": "F45901F549EA594D", "target": "Prendete questo recipiente sigillante e catturate la pietra dell'anima vivente di un golem, ma prima dovrete indebolirlo. Portatela a Yhom Epocan e vedete se riesce a scoprirne l'origine." },
+    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_YHOMEPOCAN_000_020", "hash": "BF52EA2B2FD830F6", "target": "Yhom Epocan? Ma sono io! Almeno credo di esserlo! Ah, ehm, vi serve qualcosa da me?" },
+    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_YHOMEPOCAN_000_025", "hash": "E619F6B30710DFEF", "target": "Gummice pollum? Temo di non conoscerli. Dei <italic(1)>pumice golem<italic(0)>, invece, Oriane mi ha detto tutto. Vediamo cosa mi avete portato..." },
+    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_YHOMEPOCAN_000_026", "hash": "28C4784B1B40438A", "target": "Oh, sento l'energia che pulsa! Avete proprio trovato un esemplare vivo, eh? Devo iniziare subito l'analisi. Dove ho messo gli occhiali?" }
   ]
 }

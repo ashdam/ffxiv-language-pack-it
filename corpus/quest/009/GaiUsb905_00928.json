@@ -2,17 +2,17 @@
   "conversation": "quest/009/GaiUsb905_00928",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_SEQ_00", "hash": "8996CFE818F1444F", "target": "" },
-    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_SEQ_01", "hash": "EE40FCC6205748AE", "target": "" },
-    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_SEQ_02", "hash": "C737C56F6C4F927B", "target": "" },
-    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_SEQ_03", "hash": "4B4A5D9B633D7854", "target": "" },
-    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_TODO_00", "hash": "AFF2522E8DF7080B", "target": "" },
-    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_TODO_01", "hash": "F79B561A17ED12C5", "target": "" },
-    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_ONCENEDL_000_000", "hash": "A0B66A087B1D91E8", "target": "" },
-    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_ONCENEDL_000_001", "hash": "0AFA93205350CCD8", "target": "" },
-    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_ONCENEDL_000_002", "hash": "2E82E9F9D8ABF143", "target": "" },
-    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_CHAUNOLLET_000_010", "hash": "DBCEC340E51237DE", "target": "" },
-    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_CHAUNOLLET_000_020", "hash": "22D84E43BFFA4693", "target": "" },
-    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_CHAUNOLLET_000_021", "hash": "5CE4096A07D9D3C1", "target": "" }
+    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_SEQ_00", "hash": "8996CFE818F1444F", "target": "Per alcuni, come l'insistente Ser Oncenedl, un avventuriero non è altro che uno sguattero per un compito assai macabro." },
+    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_SEQ_01", "hash": "EE40FCC6205748AE", "target": "Con non poco disprezzo, Ser Oncenedl ti chiede di cercare oggetti personali sul corpo di un eretico e consegnarli alle Porte del Giudizio. A quanto pare, alcuni nella Santa Sede credono che possano fornire informazioni preziose." },
+    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_SEQ_02", "hash": "C737C56F6C4F927B", "target": "Un avventuriero disse una volta che non esistono lavori sporchi, soltanto ricordi sporchi─e senti che potresti presto mettere alla prova questa teoria. Porta il sacco di effetti personali a Ser Chaunollet alle Porte del Giudizio." },
+    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_SEQ_03", "hash": "4B4A5D9B633D7854", "target": "Ser Chaunollet ti loda per aver saccheggiato i morti e sembra sperare che i tristi resti di una vita interrotta aiutino la causa di Ishgard. Non sai cosa pensare, ma il lavoro è finito e ti attende una bella lavata..." },
+    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_TODO_00", "hash": "AFF2522E8DF7080B", "target": "Cercare oggetti personali sul corpo" },
+    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_TODO_01", "hash": "F79B561A17ED12C5", "target": "Consegnare il sacco di effetti personali a Chaunollet" },
+    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_ONCENEDL_000_000", "hash": "A0B66A087B1D91E8", "target": "O <if(gnum4,avventuriera,avventuriero)>! Reclamo il vostro tempo in nome della Santa Sede. Cercate effetti personali sul corpo al piano di sotto e consegnate tutto alle Porte del Giudizio. Era un eretico in vita: non occorre essere delicati." },
+    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_ONCENEDL_000_001", "hash": "0AFA93205350CCD8", "target": "Di solito lasciamo la carcassa ai corvi, ma... come ben sapete, ultimamente ci sono stati problemi, e ora ci dicono di frugare in queste luride tasche." },
+    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_ONCENEDL_000_002", "hash": "2E82E9F9D8ABF143", "target": "È un lavoro umile e lo lascio a voi. Non troverete altro che lendini, ci scommetto." },
+    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_CHAUNOLLET_000_010", "hash": "DBCEC340E51237DE", "target": "Dimmi cosa vuoi!" },
+    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_CHAUNOLLET_000_020", "hash": "22D84E43BFFA4693", "target": "Ah, gli avanzi dei miscredenti, eccellente. Hai servito con onore. Speriamo di trovare qui un indizio..." },
+    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_CHAUNOLLET_000_021", "hash": "5CE4096A07D9D3C1", "target": "Ho odiato a lungo i miscredenti, ma non più, perché anch'essi servono la Furia─se non in vita, nella morte. Quale pietà mostra Halone concedendo loro questa occasione!" }
   ]
 }

@@ -2,19 +2,19 @@
   "conversation": "quest/010/GaiUsc808_01032",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_SEQ_00", "hash": "7264227DAAEF0C0B", "target": "" },
-    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_SEQ_01", "hash": "4C14174A5195AFB9", "target": "" },
-    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_SEQ_02", "hash": "C0928280A6B1653D", "target": "" },
-    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_SEQ_03", "hash": "8CEC1290B1583016", "target": "" },
-    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_SEQ_04", "hash": "316F74405537FE95", "target": "" },
-    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_TODO_00", "hash": "68CB618AC567F051", "target": "" },
-    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_TODO_01", "hash": "BFEB944F41FCA2C9", "target": "" },
-    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_TODO_02", "hash": "19CBB883AE919AEC", "target": "" },
-    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_EILIS_000_000", "hash": "3C654DD7A1C20EBA", "target": "" },
-    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_EILIS_000_001", "hash": "2676D13796117C84", "target": "" },
-    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_EILIS_000_002", "hash": "35EC2D8B951294FD", "target": "" },
-    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_EILIS_000_003", "hash": "03D9C7DFF12D5823", "target": "" },
-    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_NORTMOEN_000_010", "hash": "037AC7C39E2D0D0B", "target": "" },
-    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_EILIS_000_020", "hash": "077B0269D4D3442E", "target": "" }
+    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_SEQ_00", "hash": "7264227DAAEF0C0B", "target": "Eilis vuole richiamarti ancora alle mura." },
+    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_SEQ_01", "hash": "4C14174A5195AFB9", "target": "Eilis ti ha spiegato che occorre distogliere le forze Sahagin dal Bastione Meridionale. Parla con Nortmoen della situazione tattica." },
+    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_SEQ_02", "hash": "C0928280A6B1653D", "target": "Nortmoen espone un piano semplice: uccidere due trenchtooth Sahagin." },
+    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_SEQ_03", "hash": "8CEC1290B1583016", "target": "Informa Eilis della situazione a nord." },
+    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_SEQ_04", "hash": "316F74405537FE95", "target": "Eilis riferisce che l'attacco diversivo ha avuto successo e il distaccamento è tornato sano e salvo attraverso le porte meridionali, senza problemi." },
+    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_TODO_00", "hash": "68CB618AC567F051", "target": "Parlare con Nortmoen" },
+    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_TODO_01", "hash": "BFEB944F41FCA2C9", "target": "Uccidere trenchtooth Sahagin" },
+    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_TODO_02", "hash": "19CBB883AE919AEC", "target": "Fare rapporto a Eilis" },
+    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_EILIS_000_000", "hash": "3C654DD7A1C20EBA", "target": "Il Maelstrom ha bisogno del tuo aiuto." },
+    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_EILIS_000_001", "hash": "2676D13796117C84", "target": "Vorremmo aprire il Bastione Meridionale per accogliere un distaccamento di ritorno, ma così ci esporremmo ai Sahagin." },
+    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_EILIS_000_002", "hash": "35EC2D8B951294FD", "target": "Quindi vogliamo lanciare un attacco diversivo lungo il lato nord e attirare le orde Sahagin lontano dalla porta aperta." },
+    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_EILIS_000_003", "hash": "03D9C7DFF12D5823", "target": "Cerca Nortmoen al Bastione Settentrionale: l'offensiva è sotto il suo comando." },
+    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_NORTMOEN_000_010", "hash": "037AC7C39E2D0D0B", "target": "Sei qui per togliere ancora dai guai quel disgraziato di mio fratello? Bene. Devi solo uccidere due di quelle piccole lumache di mare nervose: dovrebbe bastare a richiamarle tutte." },
+    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_EILIS_000_020", "hash": "077B0269D4D3442E", "target": "Sicuro come la pioggia, il nostro sottile stratagemma ha attirato quei dannati esseri marini del sud lontano dalle porte aperte. Gli uomini del distaccamento ti mandano i loro ringraziamenti." }
   ]
 }

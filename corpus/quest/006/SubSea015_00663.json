@@ -2,17 +2,17 @@
   "conversation": "quest/006/SubSea015_00663",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_SEQ_00", "hash": "6CF62FF441ADD86B", "target": "" },
-    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_SEQ_01", "hash": "4A96BDED3AA92778", "target": "" },
-    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_SEQ_02", "hash": "0CE59B9EFCB9257D", "target": "" },
-    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_TODO_00", "hash": "B3AE9595805859FD", "target": "" },
-    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_NINIYA_000_0", "hash": "4A7ACF4868457409", "target": "" },
-    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_NINIYA_000_1", "hash": "3A0F1CF4381F9F14", "target": "" },
-    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_NINIYA_000_2", "hash": "FD917091B318850B", "target": "" },
-    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_NINIYA_000_3", "hash": "E1698195955FB02D", "target": "" },
-    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_ANCRETA_000_10", "hash": "BD5F0C3DB90C90BF", "target": "" },
-    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_ANCRETA_000_11", "hash": "C5FA21E3F33D489B", "target": "" },
-    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_ANCRETA_000_12", "hash": "52AB46BEF82303C2", "target": "" },
-    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_ANCRETA_000_13", "hash": "1146A0B9C02E1DB6", "target": "" }
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_SEQ_00", "hash": "6CF62FF441ADD86B", "target": "Niniya ha informazioni che, a differenza dell'ultima volta, ti interesseranno di sicuro." },
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_SEQ_01", "hash": "4A96BDED3AA92778", "target": "Secondo Niniya, le sentinelle degli Occhi, nella lower La Noscea, chiedono spesso aiuto a chi vive d'avventure quando hanno troppo lavoro. Esci dalla città e parla con Ancreta per saperne di più." },
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_SEQ_02", "hash": "0CE59B9EFCB9257D", "target": "Ancora una volta sembra che Niniya ti abbia fatto uno scherzo, perché Ancreta non può offrirti incarichi ufficiali. Se però accetti di aiutare in via ufficiosa, la Giubba Gialla potrebbe avere qualcosa per te..." },
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_TODO_00", "hash": "B3AE9595805859FD", "target": "Parlare con Ancreta agli Occhi" },
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_NINIYA_000_0", "hash": "4A7ACF4868457409", "target": "Oh, eccoti di nuovo. Spero che non ce l'abbia con me per il mio scherzo. Vedi, credo che la lezione più importante per <if(gnum4,un'avventuriera alle prime armi,un avventuriero alle prime armi)> sia dubitare sempre dei motivi di chi <if(gnum4,incontra,incontra)>." },
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_NINIYA_000_1", "hash": "3A0F1CF4381F9F14", "target": "Se ti ho offeso, lascia che rimedi con un consiglio. Dimmi, hai visitato gli Occhi, fuori dalla Porta della Tempesta e oltre il Ponte dei Dispersi?" },
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_NINIYA_000_2", "hash": "FD917091B318850B", "target": "Le sentinelle laggiù sorvegliano la strada e, quando sorgono problemi, a volte cercano aiuto esterno." },
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_NINIYA_000_3", "hash": "E1698195955FB02D", "target": "Se vuoi farti un nome come persona fidata, dovresti parlare con Ancreta agli Occhi e offrirle una mano." },
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_ANCRETA_000_10", "hash": "BD5F0C3DB90C90BF", "target": "Dite che qualcuno vi ha mandato da me per lavoro, <if(gnum4,ragazza,ragazzo)>? Temo che vi abbiano ingannato." },
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_ANCRETA_000_11", "hash": "C5FA21E3F33D489B", "target": "È vero, ingaggiamo chi vive d'avventure, ma passiamo sempre dalla gilda degli Avventurieri." },
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_ANCRETA_000_12", "hash": "52AB46BEF82303C2", "target": "Anche se volessi darvi un incarico, i regolamenti delle Giubbe Gialle mi vietano di farlo direttamente." },
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_ANCRETA_000_13", "hash": "1146A0B9C02E1DB6", "target": "Ora, se non vi dispiace lavorare in via ufficiosa, avrei una richiesta personale..." }
   ]
 }

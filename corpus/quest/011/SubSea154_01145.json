@@ -2,19 +2,19 @@
   "conversation": "quest/011/SubSea154_01145",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_SEQ_00", "hash": "D2F3276516B62DA9", "target": "" },
-    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_SEQ_01", "hash": "91247517884EE5C9", "target": "" },
-    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_SEQ_02", "hash": "72904E24C4101AC1", "target": "" },
-    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_SEQ_03", "hash": "8A800ECC00174B92", "target": "" },
-    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_TODO_00", "hash": "5D531D8C3301016F", "target": "" },
-    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_TODO_01", "hash": "B454C4C348CB74FB", "target": "" },
-    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_000", "hash": "1ACDD930AAE59307", "target": "" },
-    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_001", "hash": "79C9511AC289371A", "target": "" },
-    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_010", "hash": "52EB43647C5D0B8B", "target": "" },
-    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_011", "hash": "A4944E050B8FD092", "target": "" },
-    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_012", "hash": "0EF38352E5704BF4", "target": "" },
-    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_013", "hash": "35ADBA6B4C6293C7", "target": "" },
-    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_014", "hash": "C49F3B7171BA6CD2", "target": "" },
-    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_015", "hash": "0B19F64E67390B1D", "target": "" }
+    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_SEQ_00", "hash": "D2F3276516B62DA9", "target": "<if([gnum11<12],<if([gnum11<4],Le prime stelle mostrano i pallidi ventri nelle profondità del cielo,Una fresca brezza mattutina fa schioccare i gagliardetti)>,<if([gnum11<17],Una luce chiara\\, intensa illumina il molo,Le prime stelle mostrano i pallidi ventri nelle profondità del cielo)>)> e il marinaio Ahldfoet ha voglia di raccontare storie." },
+    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_SEQ_01", "hash": "91247517884EE5C9", "target": "Ahldfoet ha una richiesta un po' macabra, ma ormai hai esperienza nello smembramento. Caccia i dusk bat e raccogli cinque delle loro ali." },
+    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_SEQ_02", "hash": "72904E24C4101AC1", "target": "Hai liberato le ali da dusk bat tutt'altro che collaborativi. Consegna i trofei coriacei ad Ahldfoet." },
+    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_SEQ_03", "hash": "8A800ECC00174B92", "target": "Riposti i talismani nella sua tasca cavernosa, Ahldfoet dà finalmente libero sfogo alla lingua. Vorresti saperne di più, ma è chiaro che per ora chi racconta si accontenta di lasciar stare." },
+    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_TODO_00", "hash": "5D531D8C3301016F", "target": "Raccogliere ali dai dusk bat" },
+    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_TODO_01", "hash": "B454C4C348CB74FB", "target": "Consegnare le ali di dusk bat ad Ahldfoet" },
+    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_000", "hash": "1ACDD930AAE59307", "target": "Ahoy, voi che vivete d'avventure. La mia bagnarola salpa presto e mi serve qualcosina per il viaggio. I dusk bat volano: pensate di avere abbastanza agilità per portarmi cinque ali? Quattro non bastano e sei non vanno bene, badate." },
+    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_001", "hash": "79C9511AC289371A", "target": "Potete tenervi quelle in più, se sapete cosa farne. Mi porterete le ali?" },
+    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_010", "hash": "52EB43647C5D0B8B", "target": "Ahoy. Abbassate la voce: sono affari nostri e di nessun altro, vero? Avete quello che vi ho chiesto?" },
+    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_011", "hash": "A4944E050B8FD092", "target": "Sono quelle e non ho mai visto un lavoro più bello. Sapete il fatto vostro in battaglia, eh? Be', va benissimo, grazie." },
+    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_012", "hash": "0EF38352E5704BF4", "target": "Perché? Noi marinai possiamo essere superstiziosi, sapete. Qualcuno dell'equipaggio potrebbe guardarmi storto se porto pezzi di pipistrello. Quando il vento muore e i barili d'acqua sono asciutti, un giorno mi guardano <italic(1)>storto<italic(0)> e il giorno dopo mi buttano <italic(1)>fuori bordo<italic(0)>." },
+    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_013", "hash": "35ADBA6B4C6293C7", "target": "Cosa? <italic(1)>Questa<italic(0)> non è superstizione. I dusk bat mi portano fortuna da quando ero un ragazzo. Una volta, intrappolato in cima a una torre di guardia abbandonata, sono sopravvissuto per più di due settimane con tre pipistrelli che avevo catturato. Ho perfino mangiato un'ala di uno di loro prima di decidermi a scendere lungo il muro." },
+    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_014", "hash": "C49F3B7171BA6CD2", "target": "In questo viaggio passeremo vicino alle Isole di Umbra e sento il mare che affila quelle scogliere. Le luci del Pharos Sirius sono fioche dalla Calamità e l'ho sempre trovato un po' troppo simile a quella vecchia torre di guardia per stare tranquillo." },
+    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_015", "hash": "0B19F64E67390B1D", "target": "Da molto non sono più quel ragazzo terrorizzato, maltrattato, affamato e quasi pazzo, che scendeva a fatica lungo quel muro d'arenaria con appigli non più grandi di un polpastrello. Ma avrò cinque ali di pipistrello in ogni viaggio, proprio come ne aveva quel ragazzo." }
   ]
 }

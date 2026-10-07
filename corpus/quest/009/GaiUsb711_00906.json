@@ -2,17 +2,17 @@
   "conversation": "quest/009/GaiUsb711_00906",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_SEQ_00", "hash": "5DEC8FEEDF80A468", "target": "" },
-    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_SEQ_01", "hash": "161DFFC059E2EBA5", "target": "" },
-    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_SEQ_02", "hash": "51253F745B70EB0D", "target": "" },
-    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_SEQ_03", "hash": "A797C35975197336", "target": "" },
-    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_TODO_00", "hash": "FEC13A980B305BD1", "target": "" },
-    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_TODO_01", "hash": "E199119F1480556A", "target": "" },
-    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_ISAUDOREL_000_000", "hash": "278B213D6A216F35", "target": "" },
-    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_ISAUDOREL_000_001", "hash": "65286418DC57793F", "target": "" },
-    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_ISAUDOREL_000_002", "hash": "0E8C18F98DBB9AAF", "target": "" },
-    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_ISAUDOREL_000_020", "hash": "4F8C047AD1CE52C2", "target": "" },
-    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_ISAUDOREL_000_021", "hash": "2E6B8D5178D4C49B", "target": "" },
-    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_POP_MESSAGE_000", "hash": "635AD1BFEE26DDEA", "target": "" }
+    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_SEQ_00", "hash": "5DEC8FEEDF80A468", "target": "Un animale ferito è pericoloso, e l'Ariete Bianco convalescente a Fallgourd Float non fa eccezione. Qualunque cosa abbia in mente Isaudorel, è meglio dire di sì." },
+    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_SEQ_01", "hash": "161DFFC059E2EBA5", "target": "Costretto a letto in una locanda dopo essere stato ferito dagli Ixal, Isaudorel non ha altra scelta che chiedere a qualcuno di cacciare gli esploratori. Dovrebbero essere ancora a nord-est di Fallgourd Float, nutrendosi di selvaggina. Nasconditi vicino alla carcassa di antilope e uccidi gli Ixali wildtalon quando compaiono." },
+    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_SEQ_02", "hash": "51253F745B70EB0D", "target": "I cacciatori diventano prede, e i wildtalon non possono competere con la tua ferocia temprata dai viaggi. Rifletti un momento se stai diventando troppo inflessibile per il tuo bene, poi riferisci le uccisioni a Isaudorel." },
+    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_SEQ_03", "hash": "A797C35975197336", "target": "Isaudorel è sinceramente grato del tuo lavoro. È chiaro che il pensiero di quei due wildtalon in libertà gli pesava. Ascoltandolo progettare altre vendette, ti viene in mente che, ferendo Isaudorel, gli Ixal lo hanno reso due volte più pericoloso..." },
+    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_TODO_00", "hash": "FEC13A980B305BD1", "target": "Appostarsi vicino alla carcassa di antilope e uccidere gli Ixali wildtalon" },
+    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_TODO_01", "hash": "E199119F1480556A", "target": "Fare rapporto a Isaudorel" },
+    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_ISAUDOREL_000_000", "hash": "278B213D6A216F35", "target": "Accidenti e maledizione, che dolore! Maledetto me per aver trascurato quegli Ixal; maledetti loro per avermi affettato come un filetto di pesce!" },
+    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_ISAUDOREL_000_001", "hash": "65286418DC57793F", "target": "Senti, prima di tornare fino a Coerthas, perché non ti sgranchisci le gambe? Elimina quegli Ixali wildtalon per me." },
+    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_ISAUDOREL_000_002", "hash": "0E8C18F98DBB9AAF", "target": "Sembravano nuovi nella zona: quindi non si allontaneranno molto da dove li ho visti─le Rovine di Gelmorra. Cerca una preda uccisa di recente, qualcosa di grosso." },
+    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_ISAUDOREL_000_020", "hash": "4F8C047AD1CE52C2", "target": "Mi hai fatto un favore, vero? Te ne sono molto grato, <split(<string(gstr1)>, ,1)>! Quando sarò di nuovo in piedi, farò visita ai loro amici." },
+    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_ISAUDOREL_000_021", "hash": "2E6B8D5178D4C49B", "target": "Molkot mi farà comunque un culo così per essermi lasciato sorprendere dai wildtalon. Almeno in questo modo potrò dirle che gli uccelli non sono sopravvissuti a lungo." },
+    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_POP_MESSAGE_000", "hash": "635AD1BFEE26DDEA", "target": "Avverti una presenza ostile!" }
   ]
 }

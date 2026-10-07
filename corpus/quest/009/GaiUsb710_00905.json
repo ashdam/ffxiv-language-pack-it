@@ -2,16 +2,16 @@
   "conversation": "quest/009/GaiUsb710_00905",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_SEQ_00", "hash": "B589EA5ECB4C313B", "target": "" },
-    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_SEQ_01", "hash": "0E335252411C3442", "target": "" },
-    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_SEQ_02", "hash": "F930E99969D8AB31", "target": "" },
-    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_TODO_00", "hash": "A1FBBE0CAD0BA403", "target": "" },
-    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_BELMONT_000_000", "hash": "76DB107C524D6AEC", "target": "" },
-    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_BELMONT_000_001", "hash": "B915BDB909B0ADBF", "target": "" },
-    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_BELMONT_000_002", "hash": "610491936F1504BC", "target": "" },
-    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_BELMONT_000_003", "hash": "3EF3709688079D8F", "target": "" },
-    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_ISAUDOREL_000_020", "hash": "35B9B881F8BC96A6", "target": "" },
-    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_ISAUDOREL_000_030", "hash": "8D67E9355CB3C744", "target": "" },
-    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_ISAUDOREL_000_031", "hash": "F17F5CA64627889E", "target": "" }
+    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_SEQ_00", "hash": "B589EA5ECB4C313B", "target": "Belmont richiede i tuoi servizi, e la sua aria di comando è difficile da contrastare." },
+    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_SEQ_01", "hash": "0E335252411C3442", "target": "Belmont vuole contattare un ex compagno della Faretra degli Dei per iniziare rapidamente una campagna contro gli Ixal a Coerthas. Vai nel North Shroud e porta la lettera di Belmont a Isaudorel al Tappo Galleggiante di Fallgourd Float." },
+    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_SEQ_02", "hash": "F930E99969D8AB31", "target": "Gli Arieti Bianchi sembrano avere un particolare interesse per gli Ixal, e Isaudorel promette subito il sostegno del reparto alla campagna di Belmont. Isaudorel lascia anche sfuggire che Belmont ha inspiegabilmente scambiato un posto d'onore negli Arieti Bianchi con la vita da mercenario..." },
+    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_TODO_00", "hash": "A1FBBE0CAD0BA403", "target": "Consegnare la lettera a Isaudorel a Fallgourd Float" },
+    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_BELMONT_000_000", "hash": "76DB107C524D6AEC", "target": "Gli Ixal si stanno trasferendo stabilmente a Coerthas. Non è un'impresa da poco portare quei tronchi dal Bosco dei Dodici così a ovest." },
+    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_BELMONT_000_001", "hash": "B915BDB909B0ADBF", "target": "Devono usare i loro maledetti palloni, quegli uccelli di merda. Persino i loro rifornimenti hanno le ali, e quello che esce dai palloni finisce nel terreno di Coerthas. Dobbiamo colpirli ora, prima che l'insediamento cresca." },
+    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_BELMONT_000_002", "hash": "610491936F1504BC", "target": "Agli ishgardesi non importerà un cazzo finché non sarà troppo tardi. Mi serve la mia gente. Porta questa lettera a un farabutto di nome Isaudorel: un tempo combattevamo insieme nella Faretra. Il suo reparto è di guarnigione a Fallgourd Float." },
+    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_BELMONT_000_003", "hash": "3EF3709688079D8F", "target": "In questa faccenda non combatto per Ishgard, ma se vogliono considerarsi in debito, per me va bene. Mi irrita che gli Ixal entrino a Coerthas come nulla fosse proprio sotto il mio naso." },
+    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_ISAUDOREL_000_020", "hash": "35B9B881F8BC96A6", "target": "Accidenti e maledizione, che dolore! Odio essere ferito più che essere morto! Mi chiamano «l'Ariete che sfonda», non «la pecora sfondata»!<br>...<split(<string(gstr1)>, ,1)>, eh? Bene, dimmi cosa vuoi." },
+    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_ISAUDOREL_000_030", "hash": "8D67E9355CB3C744", "target": "Una lettera per me? Da Belmont, guarda un po'! Ti garantisco che non capirò mai come il miglior ufficiale tattico che gli Arieti Bianchi abbiano mai avuto possa sopportare di essere un mercenario sempre in affanno." },
+    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_ISAUDOREL_000_031", "hash": "F17F5CA64627889E", "target": "Hm, la vita in viaggio non gli ha arrugginito quella zucca. Se dice che gli uccelli di merda si trasferiscono a Coerthas, mi basta. Noi Arieti Bianchi dobbiamo dolore agli Ixal─digli di chiedere qualunque cosa possiamo fare." }
   ]
 }

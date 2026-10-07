@@ -2,14 +2,14 @@
   "conversation": "quest/010/GaiUsc805_01029",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/010/GaiUsc805_01029#TEXT_GAIUSC805_01029_SEQ_00", "hash": "D1D3AAC8545CCA38", "target": "" },
-    { "gameKey": "quest/010/GaiUsc805_01029#TEXT_GAIUSC805_01029_SEQ_01", "hash": "3009F0DE19733945", "target": "" },
-    { "gameKey": "quest/010/GaiUsc805_01029#TEXT_GAIUSC805_01029_SEQ_02", "hash": "58B2731578AB72C7", "target": "" },
-    { "gameKey": "quest/010/GaiUsc805_01029#TEXT_GAIUSC805_01029_SEQ_03", "hash": "DCB79D98AD52B029", "target": "" },
-    { "gameKey": "quest/010/GaiUsc805_01029#TEXT_GAIUSC805_01029_TODO_00", "hash": "BA4DBFFDBF3E2710", "target": "" },
-    { "gameKey": "quest/010/GaiUsc805_01029#TEXT_GAIUSC805_01029_TODO_01", "hash": "BFED2867E1DB7203", "target": "" },
-    { "gameKey": "quest/010/GaiUsc805_01029#TEXT_GAIUSC805_01029_AHTZATRACH_000_000", "hash": "0E158D88F9B41AAF", "target": "" },
-    { "gameKey": "quest/010/GaiUsc805_01029#TEXT_GAIUSC805_01029_AHTZATRACH_000_001", "hash": "BEFD2B55D1E7C1EF", "target": "" },
-    { "gameKey": "quest/010/GaiUsc805_01029#TEXT_GAIUSC805_01029_AHTZATRACH_000_020", "hash": "2C19C4076E69F74E", "target": "" }
+    { "gameKey": "quest/010/GaiUsc805_01029#TEXT_GAIUSC805_01029_SEQ_00", "hash": "D1D3AAC8545CCA38", "target": "Ahtzatrach cerca una spada rapida e salda." },
+    { "gameKey": "quest/010/GaiUsc805_01029#TEXT_GAIUSC805_01029_SEQ_01", "hash": "3009F0DE19733945", "target": "Ahtzatrach spera di ridurre il numero dei Predoni del Serpente prima della battaglia e ti chiede di ucciderne cinque." },
+    { "gameKey": "quest/010/GaiUsc805_01029#TEXT_GAIUSC805_01029_SEQ_02", "hash": "58B2731578AB72C7", "target": "Hai portato a termine il compito. Riferisci il tuo successo ad Ahtzatrach." },
+    { "gameKey": "quest/010/GaiUsc805_01029#TEXT_GAIUSC805_01029_SEQ_03", "hash": "DCB79D98AD52B029", "target": "Ahtzatrach è felice che i Predoni del Serpente debbano leccarsi le ferite per un po'." },
+    { "gameKey": "quest/010/GaiUsc805_01029#TEXT_GAIUSC805_01029_TODO_00", "hash": "BA4DBFFDBF3E2710", "target": "Uccidere Predoni del Serpente" },
+    { "gameKey": "quest/010/GaiUsc805_01029#TEXT_GAIUSC805_01029_TODO_01", "hash": "BFED2867E1DB7203", "target": "Fare rapporto ad Ahtzatrach" },
+    { "gameKey": "quest/010/GaiUsc805_01029#TEXT_GAIUSC805_01029_AHTZATRACH_000_000", "hash": "0E158D88F9B41AAF", "target": "I Predoni del Serpente sono pirati che hanno fatto proprio il dio dei Sahagin. Che razza di miserabile pirata offre preghiere a Leviathan?" },
+    { "gameKey": "quest/010/GaiUsc805_01029#TEXT_GAIUSC805_01029_AHTZATRACH_000_001", "hash": "BEFD2B55D1E7C1EF", "target": "Come per tutti gli zeloti, il loro fervore cresce con il loro numero. Sottrarre cinque fanatici al gregge dovrebbe smorzare il loro fuoco per un po'." },
+    { "gameKey": "quest/010/GaiUsc805_01029#TEXT_GAIUSC805_01029_AHTZATRACH_000_020", "hash": "2C19C4076E69F74E", "target": "Così quei Predoni impareranno che si raccoglie ciò che si semina! Puoi stare in pace sapendo di aver reso i mari più sicuri per tutti." }
   ]
 }

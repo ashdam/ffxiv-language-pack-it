@@ -2,18 +2,18 @@
   "conversation": "quest/009/GaiUsc305_00972",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_SEQ_00", "hash": "76EFD3C496103249", "target": "" },
-    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_SEQ_01", "hash": "7D7F4712C80321C0", "target": "" },
-    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_SEQ_02", "hash": "C71CFA2268FB4699", "target": "" },
-    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_SEQ_03", "hash": "74E977A811D70921", "target": "" },
-    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_TODO_00", "hash": "62FD17B324BE3ABE", "target": "" },
-    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_TODO_01", "hash": "1EC3BED0342C0182", "target": "" },
-    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_KAIN_000_000", "hash": "D8A5DFD9E54657E4", "target": "" },
-    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_KAIN_000_001", "hash": "0663FCB088F6296C", "target": "" },
-    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_KAIN_000_002", "hash": "C4D130440BBDD476", "target": "" },
-    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_YOUTH_000_020", "hash": "DC259DD28E1DB505", "target": "" },
-    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_YOUTH_000_025", "hash": "2AB3AFD7F1BE85E1", "target": "" },
-    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_YOUTH_000_026", "hash": "5688BC25102D51E3", "target": "" },
-    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_KAIN_000_040", "hash": "023AEE066D8CF0B2", "target": "" }
+    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_SEQ_00", "hash": "76EFD3C496103249", "target": "Una rosa è una rosa è una mano tesa, almeno quando un botanico gentile nota un uomo sul punto di rovinare la propria dichiarazione d'amore." },
+    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_SEQ_01", "hash": "7D7F4712C80321C0", "target": "A differenza <switch(gnum70,dei botanici che ricordi a Limsa Lominsa,degli altri botanici di Gridania che conosci,dei botanici che ti scacciavano dagli albicocchi a casa tua)>, Kain osserva con affetto chi passeggia per i giardini. Impietosito da un giovane innamorato terribilmente nervoso, ti chiede di consegnargli un mazzo di rose." },
+    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_SEQ_02", "hash": "C71CFA2268FB4699", "target": "La vista dei fiori calma l'agitazione del giovane. Si dirige dalla sua amata, pieno di felice determinazione. Kain ne sarà lieto, anche se non sorpreso." },
+    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_SEQ_03", "hash": "74E977A811D70921", "target": "Sono stati i fiori o la gentilezza degli sconosciuti a spianare la strada a questo amore? Amare è ricevere il sorriso di una persona, ma sposarsi è ricevere il sorriso di tante..." },
+    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_TODO_00", "hash": "62FD17B324BE3ABE", "target": "Dare le rose al giovane nervoso" },
+    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_TODO_01", "hash": "1EC3BED0342C0182", "target": "Fare rapporto a Kain" },
+    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_KAIN_000_000", "hash": "D8A5DFD9E54657E4", "target": "Una volta, mentre lavoravo nell'orto delle erbe, un'orafa stava montando delle pale nuove sulla girandola. Ci siamo messi a parlare, e sapete cosa ha fatto? Mi ha sposato, la monella." },
+    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_KAIN_000_001", "hash": "0663FCB088F6296C", "target": "I Dodici fanno doni in modi misteriosi, e questi giardini hanno visto tanti innamorati. Li riconosco facilmente. Pensate, poco fa ce n'era uno: cotto a puntino, ma incapace di parlare. La giovinezza è sprecata sui giovani!" },
+    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_KAIN_000_002", "hash": "C4D130440BBDD476", "target": "Be', anch'io devo essere stato un tale impacciato, una volta, anche se in cuor mio mi rifiuto di crederci. Noi imbranati innamorati dobbiamo sostenerci a vicenda. Potrei chiedervi di passargli un mazzo delle mie speciali rose di Azeyma?" },
+    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_YOUTH_000_020", "hash": "DC259DD28E1DB505", "target": "N<-->Noi siamo due anime che abitano un solo corpo e... aspetta, non è giusto. Oh nooo, avessi dovuto imparare a parlare! Cioè, avrei dovuto, <italic(1)>avrei<italic(0)> dovuto!" },
+    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_YOUTH_000_025", "hash": "2AB3AFD7F1BE85E1", "target": "No grazie, sono già impegnato!<br>...Oh. Una consegna, da “un amico della coppia felice”? È... bellissimo. E ha un profumo così buono. Grazie." },
+    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_YOUTH_000_026", "hash": "5688BC25102D51E3", "target": "Davvero, grazie! Non mi serve un discorso, le darò queste rose e le dirò la verità! Ho passato la mattina al Santuario a giurare il mio amore per lei davanti ai Dodici." },
+    { "gameKey": "quest/009/GaiUsc305_00972#TEXT_GAIUSC305_00972_KAIN_000_040", "hash": "023AEE066D8CF0B2", "target": "È andata bene, vero? A tutti serve una mano, ogni tanto. Noi che lavoriamo nei giardini lo sappiamo meglio di tanti altri: le grandi querce, le tenere piantine, quelle esotiche e quelle comuni hanno tutte bisogno di cure. Anche voi, che vivete d'avventure." }
   ]
 }

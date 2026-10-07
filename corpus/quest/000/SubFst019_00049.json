@@ -2,18 +2,18 @@
   "conversation": "quest/000/SubFst019_00049",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_SEQ_00", "hash": "2A88B0A0B93AB8C5", "target": "" },
-    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_SEQ_01", "hash": "00756109F2143BEE", "target": "" },
-    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_SEQ_02", "hash": "A551016FA996AF16", "target": "" },
-    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_TODO_00", "hash": "EFF631320AF7BF94", "target": "" },
-    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_DUIMESSAND_000_1", "hash": "D46CB6CA62911255", "target": "" },
-    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_DUIMESSAND_000_2", "hash": "9B95962CD176E21E", "target": "" },
-    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_DUIMESSAND_000_3", "hash": "BEF371BFD7C7988F", "target": "" },
-    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_DUIMESSAND_000_4", "hash": "538E9468246C77CA", "target": "" },
-    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_MILLICENT_000_10", "hash": "66C8FAD0920EAE78", "target": "" },
-    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_MILLICENT_000_11", "hash": "C9280089860F2EA4", "target": "" },
-    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_MILLICENT_000_12", "hash": "AA2259BAAE9D7B55", "target": "" },
-    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_MILLICENT_000_13", "hash": "2D635202E7DA4F21", "target": "" },
-    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_MILLICENT_000_14", "hash": "FF9E4B468E881CD8", "target": "" }
+    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_SEQ_00", "hash": "2A88B0A0B93AB8C5", "target": "Duimessand ha bisogno di un avventuriero che consegni un messaggio." },
+    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_SEQ_01", "hash": "00756109F2143BEE", "target": "Duimessand, una sentinella di stanza nella parte settentrionale di Gridania, aspetta il cambio da molto tempo. La sua superiore Millicent, però, non ha ancora mandato un sostituto. Cercala davanti alla Gilda dei Pellettieri prima che Duimessand crolli dalla stanchezza." },
+    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_SEQ_02", "hash": "A551016FA996AF16", "target": "Duimessand ti aveva avvertito del carattere di Millicent, ma nulla avrebbe potuto prepararti alla raffica di parole con cui ha risposto al messaggio. Pare che il turno di guardia di Duimessand sia appena cominciato..." },
+    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_TODO_00", "hash": "EFF631320AF7BF94", "target": "Parlare con Millicent" },
+    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_DUIMESSAND_000_1", "hash": "D46CB6CA62911255", "target": "Ehi, tu! Potresti consegnare un messaggio per me?" },
+    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_DUIMESSAND_000_2", "hash": "9B95962CD176E21E", "target": "La mia superiore, Millicent, è di stanza davanti all'Atelier Fen<-->Yll. Sicuramente è occupata, ma il mio cambio è già in ritardo." },
+    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_DUIMESSAND_000_3", "hash": "BEF371BFD7C7988F", "target": "Molto in ritardo, a dire il vero. Però non posso semplicemente abbandonare il mio posto." },
+    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_DUIMESSAND_000_4", "hash": "538E9468246C77CA", "target": "Le parleresti per me? Ma scegli bene le parole─ha un caratterino." },
+    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_MILLICENT_000_10", "hash": "66C8FAD0920EAE78", "target": "Che storia è questa? Duimessand dice che ha bisogno della sua pausa?" },
+    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_MILLICENT_000_11", "hash": "C9280089860F2EA4", "target": "La <italic(1)>faccia tosta<italic(0)> di quel moccioso piagnucolone, che chiede il cambio in un momento simile! Ha già dimenticato quanto siamo a corto di uomini dopo quella faccenda con gli Ixal dell'altro giorno!?" },
+    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_MILLICENT_000_12", "hash": "AA2259BAAE9D7B55", "target": "E manda pure un maledetto avventuriero sconosciuto a frignare per lui! Quel bastardo egoista pensa solo ai suoi guai, si massaggia le piante dei piedi mentre accoglie nel nostro bosco sacro ogni sorta di avventurieri assetati di Gil. Maledetto idiota buono a nulla!" },
+    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_MILLICENT_000_13", "hash": "2D635202E7DA4F21", "target": "Mi fa ribollire il sangue! ...Ah, ma non dovrei sfogarmi con te─sembri una persona abbastanza perbene, tutto sommato... Comunque, capisci che è nostro dovere sorvegliare <italic(1)>ogni<italic(0)> sconosciuto che passa da queste parti." },
+    { "gameKey": "quest/000/SubFst019_00049#TEXT_SUBFST019_00049_MILLICENT_000_14", "hash": "FF9E4B468E881CD8", "target": "Comunque, ti ringrazio di aver dato ascolto al mio subordinato, per quanto sia un dannato idiota. Ora vai e non cacciarti nei guai." }
   ]
 }

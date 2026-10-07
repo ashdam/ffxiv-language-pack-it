@@ -2,16 +2,16 @@
   "conversation": "quest/009/GaiUsb707_00902",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb707_00902#TEXT_GAIUSB707_00902_SEQ_00", "hash": "23FF77CAFD20D46F", "target": "" },
-    { "gameKey": "quest/009/GaiUsb707_00902#TEXT_GAIUSB707_00902_SEQ_01", "hash": "449497F5EB1E3E13", "target": "" },
-    { "gameKey": "quest/009/GaiUsb707_00902#TEXT_GAIUSB707_00902_SEQ_02", "hash": "E324273C7712B40D", "target": "" },
-    { "gameKey": "quest/009/GaiUsb707_00902#TEXT_GAIUSB707_00902_SEQ_03", "hash": "47C920C0B098C795", "target": "" },
-    { "gameKey": "quest/009/GaiUsb707_00902#TEXT_GAIUSB707_00902_TODO_00", "hash": "1209F7E25FBCAE7B", "target": "" },
-    { "gameKey": "quest/009/GaiUsb707_00902#TEXT_GAIUSB707_00902_TODO_01", "hash": "9839AA0EACE9FB33", "target": "" },
-    { "gameKey": "quest/009/GaiUsb707_00902#TEXT_GAIUSB707_00902_ARTHURIOUX_000_000", "hash": "C6501EA2438BEAA9", "target": "" },
-    { "gameKey": "quest/009/GaiUsb707_00902#TEXT_GAIUSB707_00902_ARTHURIOUX_000_001", "hash": "7175D626D0FE81E9", "target": "" },
-    { "gameKey": "quest/009/GaiUsb707_00902#TEXT_GAIUSB707_00902_ARTHURIOUX_000_002", "hash": "7BE57FACBD9A9670", "target": "" },
-    { "gameKey": "quest/009/GaiUsb707_00902#TEXT_GAIUSB707_00902_ARTHURIOUX_000_060", "hash": "588CA0C6ABB4DB07", "target": "" },
-    { "gameKey": "quest/009/GaiUsb707_00902#TEXT_GAIUSB707_00902_ARTHURIOUX_000_061", "hash": "4F213423A1A4FC57", "target": "" }
+    { "gameKey": "quest/009/GaiUsb707_00902#TEXT_GAIUSB707_00902_SEQ_00", "hash": "23FF77CAFD20D46F", "target": "Arthurioux non vede l'ora di chiedere un favore in una notte fredda e ventosa." },
+    { "gameKey": "quest/009/GaiUsb707_00902#TEXT_GAIUSB707_00902_SEQ_01", "hash": "449497F5EB1E3E13", "target": "Trasalisce all'ululato del vento e ser Arthurioux ti chiede di verificare che nessuno dei bracieri del campo si sia spento. Usa carboni ardenti per accendere quelli bui." },
+    { "gameKey": "quest/009/GaiUsb707_00902#TEXT_GAIUSB707_00902_SEQ_02", "hash": "E324273C7712B40D", "target": "Tutti i bracieri spenti ora brillano e presto uomini grati scalderanno le mani gelate e leggeranno le lettere da casa. Fai rapporto a ser Arthurioux." },
+    { "gameKey": "quest/009/GaiUsb707_00902#TEXT_GAIUSB707_00902_SEQ_03", "hash": "47C920C0B098C795", "target": "Ser Arthurioux è contento di sapere che, per la prima notte ventosa da un po', tutti i bracieri di Campo Testa di Drago sono accesi. Trova noioso il compito, ma sospetti che sia felice di sonnecchiare al fuoco." },
+    { "gameKey": "quest/009/GaiUsb707_00902#TEXT_GAIUSB707_00902_TODO_00", "hash": "1209F7E25FBCAE7B", "target": "Accendere i bracieri con carboni ardenti" },
+    { "gameKey": "quest/009/GaiUsb707_00902#TEXT_GAIUSB707_00902_TODO_01", "hash": "9839AA0EACE9FB33", "target": "Fare rapporto ad Arthurioux" },
+    { "gameKey": "quest/009/GaiUsb707_00902#TEXT_GAIUSB707_00902_ARTHURIOUX_000_000", "hash": "C6501EA2438BEAA9", "target": "La verità è che un tempo mi irritava fare la guardia ai fuochi, ma ora ringrazio la mia buona stella. A Coerthas, noia e caldo battono sempre noia e freddo. Di certo non mi lamento del caldo!" },
+    { "gameKey": "quest/009/GaiUsb707_00902#TEXT_GAIUSB707_00902_ARTHURIOUX_000_001", "hash": "7175D626D0FE81E9", "target": "Ma siamo a corto di uomini. Le luci sono così fioche che non sorprende se una pattuglia ha scambiato i fuochi fatui per la fortezza. Stanotte il vento del nord soffia forte: controlleresti i bracieri e accenderesti quelli spenti?" },
+    { "gameKey": "quest/009/GaiUsb707_00902#TEXT_GAIUSB707_00902_ARTHURIOUX_000_002", "hash": "7BE57FACBD9A9670", "target": "Brrr, senti come strilla! A volte giuro che il clima stesso ci ha dichiarato guerra. Ecco, prendi questo carbone vivo per accendere i bracieri." },
+    { "gameKey": "quest/009/GaiUsb707_00902#TEXT_GAIUSB707_00902_ARTHURIOUX_000_060", "hash": "588CA0C6ABB4DB07", "target": "Hai finito? Avvicinati al fuoco, hai un colorito un po' blu. Mi rallegra sapere che stanotte tutti i bracieri sono accesi e donano luce e calore." },
+    { "gameKey": "quest/009/GaiUsb707_00902#TEXT_GAIUSB707_00902_ARTHURIOUX_000_061", "hash": "4F213423A1A4FC57", "target": "Sì, noia e caldo, ma di una certa importanza. E, come dicevo, non mi lamento del caldo, per niente." }
   ]
 }

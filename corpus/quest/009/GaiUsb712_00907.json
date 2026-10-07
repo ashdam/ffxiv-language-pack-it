@@ -2,15 +2,15 @@
   "conversation": "quest/009/GaiUsb712_00907",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_SEQ_00", "hash": "5DFE88E79EA51574", "target": "" },
-    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_SEQ_01", "hash": "CE1FF6A20CB51EFE", "target": "" },
-    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_SEQ_02", "hash": "8334A81E0350C09B", "target": "" },
-    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_TODO_00", "hash": "DB80C150E83645C0", "target": "" },
-    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_IREINE_000_000", "hash": "B4A1F1677617CF33", "target": "" },
-    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_IREINE_000_001", "hash": "F87EB0AEAD9A86A9", "target": "" },
-    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_IREINE_000_002", "hash": "83CA972D8F4265ED", "target": "" },
-    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_IREINE_000_003", "hash": "E7E7FED345582D99", "target": "" },
-    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_MIAHMOLKOT_000_010", "hash": "70D8241CA4923486", "target": "" },
-    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_MIAHMOLKOT_000_011", "hash": "7C5B12A864DF0DC0", "target": "" }
+    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_SEQ_00", "hash": "5DFE88E79EA51574", "target": "La compagna di Isaudorel è stata taciturna finora, ma quando Ireine ha qualcosa da dire, tutti i presenti farebbero bene ad ascoltare." },
+    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_SEQ_01", "hash": "CE1FF6A20CB51EFE", "target": "Sentendo la tua conversazione con Isaudorel, Ireine ti chiede di riferire il problema degli Ixal a Coerthas ai superiori. Lascia che Ireine e Isaudorel si scambino insulti amichevoli e fai rapporto a Miah Molkot alla Guglia di Eugenia." },
+    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_SEQ_02", "hash": "8334A81E0350C09B", "target": "Miah Molkot accetta la richiesta di Belmont senza obiezioni e con molte fusa. Scopri che gli Arieti Bianchi sono in realtà un reparto contro gli Ixal, e che Molkot, personalmente, prova un piacere quasi gastronomico nel sconfiggere gli uomini-uccello. " },
+    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_TODO_00", "hash": "DB80C150E83645C0", "target": "Fare rapporto a Miah Molkot" },
+    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_IREINE_000_000", "hash": "B4A1F1677617CF33", "target": "Piacere d'incontrarvi. Posso chiamarvi <split(<string(gstr1)>, ,1)>? Sono Ireine, ufficiale tattico degli Arieti Bianchi─e a quanto pare anche medica, visto che mi hanno ordinato di sorvegliare questo zuccone. Oh, sta' zitto, Isaudorel!" },
+    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_IREINE_000_001", "hash": "F87EB0AEAD9A86A9", "target": "Dunque, la questione di cui parlavate con Isaudorel. Sono certa che l'istruttrice Molkot sarà molto interessata ai movimenti degli Ixal a ovest─fareste meglio a parlarle subito per fare dei piani." },
+    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_IREINE_000_002", "hash": "83CA972D8F4265ED", "target": "Si tratta di Miah Molkot, comandante degli Arieti Bianchi e istruttrice della Faretra degli Dei. Oggi si trova alla Guglia di Eugenia, a nord. Portatele le parole di Belmont." },
+    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_IREINE_000_003", "hash": "E7E7FED345582D99", "target": "E fate attenzione. Miah Molkot ha ucciso tanti Ixal in battaglia quanti sono gli alberi nei boschi del Ruscello Orgoglioso. Può essere... spaventosa. Se le fate perdere tempo con balbettii o spacconate, potrebbe usarvi come esca per gli Ixal." },
+    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_MIAHMOLKOT_000_010", "hash": "70D8241CA4923486", "target": "Chi gratta alla mia porta? <if(gnum4,Un'avventuriera,Un avventuriero)> a caccia di Miah Molkot? Sono io, nata per essere il flagello degli uomini-uccello! Comando gli Arieti Bianchi, una freccia della Faretra degli Dei puntata ai cuori codardi degli Ixal." },
+    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_MIAHMOLKOT_000_011", "hash": "7C5B12A864DF0DC0", "target": "Capisco! Dobbiamo agire ora─proprio <italic(1)>ora<italic(0)>─per fermare questa minaccia. Estendere la linea difensiva contro gli Ixal a nord-ovest, fino a Coerthas, non sarà una passeggiata nel bosco, ma ah, come si dibatteranno gli uccellini nella rete! Sento già i loro colli spezzarsi..." }
   ]
 }

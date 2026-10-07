@@ -2,19 +2,19 @@
   "conversation": "quest/001/SubWil015_00163",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_SEQ_00", "hash": "772EDAFEF999AE99", "target": "" },
-    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_SEQ_01", "hash": "8BD0CCDDB0581515", "target": "" },
-    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_SEQ_02", "hash": "BC930B2C2E7F4590", "target": "" },
-    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_SEQ_03", "hash": "3084C150F917B20D", "target": "" },
-    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_TODO_00", "hash": "653EB4FD931D8F2F", "target": "" },
-    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_TODO_01", "hash": "785611DE44E94EA9", "target": "" },
-    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_000", "hash": "B50DC2AE9A704A20", "target": "" },
-    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_001", "hash": "40397B3A16E98511", "target": "" },
-    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_002", "hash": "45C56C6EEF05AC71", "target": "" },
-    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_003", "hash": "AD80098B76AF07B8", "target": "" },
-    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_013", "hash": "0CC450868A18F1A2", "target": "" },
-    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_010", "hash": "8F36FBBCFEFBB706", "target": "" },
-    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_011", "hash": "9E6A0D86D2739003", "target": "" },
-    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_012", "hash": "1A054F1A58C03E18", "target": "" }
+    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_SEQ_00", "hash": "772EDAFEF999AE99", "target": "Il mercante Jajakuta è visibilmente turbato e ha bisogno d'aiuto." },
+    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_SEQ_01", "hash": "8BD0CCDDB0581515", "target": "Jajakuta ha ricevuto dalla Gilda dei Pugili un ordine di guanti e imbracature, ma non ha i materiali per realizzarli. Procuragli le pelli necessarie andando a Central Thanalan e abbattendo snapping shrew." },
+    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_SEQ_02", "hash": "BC930B2C2E7F4590", "target": "Hai raccolto le cinque pelli di toporagno richieste da Jajakuta. Consegnagliele davanti alla Gilda dei Pugili." },
+    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_SEQ_03", "hash": "3084C150F917B20D", "target": "Consegnate le pelli, puoi dormire sonni tranquilli sapendo che quegli sfortunati toporagni vivranno per sempre negli strumenti di guerra in cui si trasformeranno le loro spoglie." },
+    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_TODO_00", "hash": "653EB4FD931D8F2F", "target": "Raccogliere pelli di toporagno dagli snapping shrew a Central Thanalan" },
+    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_TODO_01", "hash": "785611DE44E94EA9", "target": "Fare rapporto a Jajakuta davanti alla Gilda dei Pugili" },
+    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_000", "hash": "B50DC2AE9A704A20", "target": "Ditemi, cosa vi porta qui? Eh? Cercate forse un po' di lavoro? Un lavoretto per appesantire un poco la vostra borsa, eh?" },
+    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_001", "hash": "40397B3A16E98511", "target": "Be', è il vostro giorno fortunato! I pugili mi hanno appena ordinato diversi guanti e imbracature di cuoio per i loro allenamenti." },
+    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_002", "hash": "45C56C6EEF05AC71", "target": "Ma i Mercanti sono crudeli, perché non ho le pelli necessarie. Se solo avessi quelle di qualche snapping shrew..." },
+    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_003", "hash": "AD80098B76AF07B8", "target": "Che ne dite, eh? Vi va di aiutare un mercante sfortunato? Portatemi cinque pelli di snapping shrew e vi prometto che ne varrà la pena. Troverete queste creature a Central Thanalan." },
+    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_013", "hash": "0CC450868A18F1A2", "target": "Siete già di ritorno? Su, vediamo cosa avete portato." },
+    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_010", "hash": "8F36FBBCFEFBB706", "target": "Eccezionale! Sono davvero ottime pelli di toporagno! Avete fatto un buon lavoro." },
+    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_011", "hash": "9E6A0D86D2739003", "target": "La Gilda dei Pugili è tra i miei clienti più importanti. Temo quello che sarebbe potuto accadere se l'ordine avesse subito altri ritardi." },
+    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_012", "hash": "1A054F1A58C03E18", "target": "Prendete, eh? Ve lo siete più che meritato." }
   ]
 }

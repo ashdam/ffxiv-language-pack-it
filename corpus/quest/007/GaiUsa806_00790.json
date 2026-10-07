@@ -2,18 +2,18 @@
   "conversation": "quest/007/GaiUsa806_00790",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_SEQ_00", "hash": "215983BADCCBBECD", "target": "" },
-    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_SEQ_01", "hash": "F508A08B3EB55A3A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_SEQ_02", "hash": "57D94E851F0B0108", "target": "" },
-    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_SEQ_03", "hash": "AB2BB4967959CC70", "target": "" },
-    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_TODO_00", "hash": "53F64E05CE83C090", "target": "" },
-    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_TODO_01", "hash": "CDA777191FF45E3D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_ORIANE_000_000", "hash": "19F2F6F9BA3D10A4", "target": "" },
-    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_ORIANE_000_001", "hash": "4E9B6AEDF4552193", "target": "" },
-    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_ORIANE_000_002", "hash": "40ECBE7DAA075200", "target": "" },
-    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_ORIANE_000_020", "hash": "29BF16B9D81BE98D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_ORIANE_000_021", "hash": "2B8351ED2984A3C5", "target": "" },
-    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_ORIANE_000_022", "hash": "DF3C9767404CBFF7", "target": "" },
-    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_POP_MESSAGE_000", "hash": "315BFA7E7596770C", "target": "" }
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_SEQ_00", "hash": "215983BADCCBBECD", "target": "Oriane della Torre di Florentel è preoccupata per gli alberi." },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_SEQ_01", "hash": "F508A08B3EB55A3A", "target": "Impegnate a respingere le incursioni degli Ixal, Oriane e le altre Sentinelle Cupe non possono occuparsi delle lepri che devastano la flora del Bosco dei Dodici. Versa birra sgasata sugli alberi danneggiati per attirarle, poi uccidile." },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_SEQ_02", "hash": "57D94E851F0B0108", "target": "Le lepri divoratrici di corteccia e foglie non banchetteranno più con la flora locale. Riferisci il successo a Oriane." },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_SEQ_03", "hash": "AB2BB4967959CC70", "target": "Oriane ti ringrazia. È decisa a proteggere il Bosco dei Dodici per onorare Florentel, l'eroe leggendario che dà il nome alla torre." },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_TODO_00", "hash": "53F64E05CE83C090", "target": "Versare birra sgasata sugli alberi danneggiati e uccidere le Shroud hare" },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_TODO_01", "hash": "CDA777191FF45E3D", "target": "Fare rapporto a Oriane" },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_ORIANE_000_000", "hash": "19F2F6F9BA3D10A4", "target": "Come Sentinella Cupa, ho giurato di difendere la mia nazione dagli Ixal. Ma come gridaniana, soffro nel vedere gli alberi appassire e morire mentre siamo via a combattere." },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_ORIANE_000_001", "hash": "4E9B6AEDF4552193", "target": "Ultimamente le Shroud hare sono sempre più distruttive: rosicchiano gli alberi e strappano gli arbusti dal terreno. Ma non possiamo chiedere agli uomini-uccello di fermare le lance mentre cacciamo queste lumache troppo cresciute, vero?" },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_ORIANE_000_002", "hash": "40ECBE7DAA075200", "target": "...Così mi rivolgo a voi. Versate questa birra vecchia di una settimana sugli alberi danneggiati e i colpevoli arriveranno presto. Uccidendoli portereste grande sollievo al bosco." },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_ORIANE_000_020", "hash": "29BF16B9D81BE98D", "target": "Grazie. Ora posso combattere gli Ixal con la coscienza tranquilla, sapendo che persone come voi sono amiche della foresta." },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_ORIANE_000_021", "hash": "2B8351ED2984A3C5", "target": "Florentel, che dà il nome alla torre, fu uno dei più grandi eroi dell'epoca della fondazione di Gridania. Solo l'amore per la foresta superava le sue imprese guerriere." },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_ORIANE_000_022", "hash": "DF3C9767404CBFF7", "target": "...E quello per Eugenia, che dà il nome alla nostra torre gemella. Ah... Queste storie antiche non vi fanno battere il cuore?" },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_POP_MESSAGE_000", "hash": "315BFA7E7596770C", "target": "Avverti una presenza ostile!" }
   ]
 }

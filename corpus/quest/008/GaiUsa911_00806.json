@@ -2,16 +2,16 @@
   "conversation": "quest/008/GaiUsa911_00806",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsa911_00806#TEXT_GAIUSA911_00806_SEQ_00", "hash": "C049B8153D566E67", "target": "" },
-    { "gameKey": "quest/008/GaiUsa911_00806#TEXT_GAIUSA911_00806_SEQ_01", "hash": "759871BF7CDEC143", "target": "" },
-    { "gameKey": "quest/008/GaiUsa911_00806#TEXT_GAIUSA911_00806_SEQ_02", "hash": "365231353618E659", "target": "" },
-    { "gameKey": "quest/008/GaiUsa911_00806#TEXT_GAIUSA911_00806_SEQ_03", "hash": "BD217A4C417B58D7", "target": "" },
-    { "gameKey": "quest/008/GaiUsa911_00806#TEXT_GAIUSA911_00806_TODO_00", "hash": "F2CE6614A51AF9D9", "target": "" },
-    { "gameKey": "quest/008/GaiUsa911_00806#TEXT_GAIUSA911_00806_TODO_01", "hash": "ECB0C9E7148DB417", "target": "" },
-    { "gameKey": "quest/008/GaiUsa911_00806#TEXT_GAIUSA911_00806_HOBRIAUT_000_000", "hash": "6A50751F23597C52", "target": "" },
-    { "gameKey": "quest/008/GaiUsa911_00806#TEXT_GAIUSA911_00806_HOBRIAUT_000_001", "hash": "0CDBD1936D6D8E56", "target": "" },
-    { "gameKey": "quest/008/GaiUsa911_00806#TEXT_GAIUSA911_00806_HOBRIAUT_000_010", "hash": "698913768639B5C8", "target": "" },
-    { "gameKey": "quest/008/GaiUsa911_00806#TEXT_GAIUSA911_00806_HOBRIAUT_000_020", "hash": "DF814F8EAEF99D21", "target": "" },
-    { "gameKey": "quest/008/GaiUsa911_00806#TEXT_GAIUSA911_00806_HOBRIAUT_000_021", "hash": "0410E86BAA4BF409", "target": "" }
+    { "gameKey": "quest/008/GaiUsa911_00806#TEXT_GAIUSA911_00806_SEQ_00", "hash": "C049B8153D566E67", "target": "Hobriaut soffre sotto il giogo della tirannica Marcette." },
+    { "gameKey": "quest/008/GaiUsa911_00806#TEXT_GAIUSA911_00806_SEQ_01", "hash": "759871BF7CDEC143", "target": "Accetti di esaminare l'acqua al posto di Hobriaut, sfinito dal lavoro per l'inflessibile Marcette. Ottieni tre bottiglie d'acqua dall'Hopeseed Pond." },
+    { "gameKey": "quest/008/GaiUsa911_00806#TEXT_GAIUSA911_00806_SEQ_02", "hash": "365231353618E659", "target": "Hai completato l'esame dell'acqua affidato al giovane ricercatore Hobriaut. Consegnagli le tre bottiglie." },
+    { "gameKey": "quest/008/GaiUsa911_00806#TEXT_GAIUSA911_00806_SEQ_03", "hash": "BD217A4C417B58D7", "target": "Il tuo aiuto risparmierà oggi a Hobriaut l'ira di Marcette, ma il giovane ricercatore teme ancora per la propria vita." },
+    { "gameKey": "quest/008/GaiUsa911_00806#TEXT_GAIUSA911_00806_TODO_00", "hash": "F2CE6614A51AF9D9", "target": "Ottenere campioni d'acqua dall'Hopeseed Pond" },
+    { "gameKey": "quest/008/GaiUsa911_00806#TEXT_GAIUSA911_00806_TODO_01", "hash": "ECB0C9E7148DB417", "target": "Consegnare le bottiglie d'acqua a Hobriaut" },
+    { "gameKey": "quest/008/GaiUsa911_00806#TEXT_GAIUSA911_00806_HOBRIAUT_000_000", "hash": "6A50751F23597C52", "target": "\\<ansima> \\<ansima> Vi giuro che quella donna è un demonio! Un mostro! Un pericolo per questo mondo più grande di tutte le tribù bestiali messe insieme, e anche di più! Parlo di Marcette, naturalmente." },
+    { "gameKey": "quest/008/GaiUsa911_00806#TEXT_GAIUSA911_00806_HOBRIAUT_000_001", "hash": "0CDBD1936D6D8E56", "target": "Appena torno con i trecento pungiglioni di calabrone richiesti, mi manda a esaminare l'acqua all'Hopeseed Pond! In queste condizioni rischierò di caderci a faccia in giù e annegare. Sono troppo giovane per morire! Ditemi che mi aiuterete, vi prego... dovete!" },
+    { "gameKey": "quest/008/GaiUsa911_00806#TEXT_GAIUSA911_00806_HOBRIAUT_000_010", "hash": "698913768639B5C8", "target": "Non voglio essere Assistente di Ricerca Sette, Dodici o Quarantatré! Voglio solo andare a casaaaaa... Mm? Ah, grazie agli dei, eccovi. Avete completato l'esame?" },
+    { "gameKey": "quest/008/GaiUsa911_00806#TEXT_GAIUSA911_00806_HOBRIAUT_000_020", "hash": "DF814F8EAEF99D21", "target": "Uno, due, tre campioni dell'Hopeseed Pond. Magnifico! Non potrò mai ringraziarvi abbastanza. Ma penso ai prossimi lavori massacranti... Strappare i denti del giudizio a un goobbue? Prendere una foglia dalla testa di un treant? Solo gli dei lo sanno." },
+    { "gameKey": "quest/008/GaiUsa911_00806#TEXT_GAIUSA911_00806_HOBRIAUT_000_021", "hash": "0410E86BAA4BF409", "target": "Nonno, nonna... Mi sentite da lassù? Il vostro caro nipote vi raggiungerà fin troppo presto..." }
   ]
 }

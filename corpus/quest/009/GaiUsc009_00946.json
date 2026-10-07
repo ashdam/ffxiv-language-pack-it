@@ -2,15 +2,15 @@
   "conversation": "quest/009/GaiUsc009_00946",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_SEQ_00", "hash": "66B9CDBAF0DA8F91", "target": "" },
-    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_SEQ_01", "hash": "D01A98641076558F", "target": "" },
-    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_SEQ_02", "hash": "0833C81B5B222C18", "target": "" },
-    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_TODO_00", "hash": "A0E79C2E9783DE3D", "target": "" },
-    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_FORSEMART_000_000", "hash": "EF255F7AF6568605", "target": "" },
-    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_FORSEMART_000_001", "hash": "D39772E31AC5EC15", "target": "" },
-    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_FORSEMART_000_002", "hash": "6FF4789FB65322E3", "target": "" },
-    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_FORSEMART_000_003", "hash": "5092ECB804EA1208", "target": "" },
-    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_OURDILIC_000_010", "hash": "600B0736856A96B8", "target": "" },
-    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_OURDILIC_000_011", "hash": "4DFADF10089F3BBB", "target": "" }
+    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_SEQ_00", "hash": "66B9CDBAF0DA8F91", "target": "Si dice che Forsemart abbia un lavoro che richiede viaggi." },
+    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_SEQ_01", "hash": "D01A98641076558F", "target": "Forsemart cerca risposte a Snowcloak, ma il futuro della spedizione è incerto da quando i mercenari hanno abbandonato il posto. Se ti interessa vedere la meravigliosa parete di ghiaccio, parla con Ourdilic." },
+    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_SEQ_02", "hash": "0833C81B5B222C18", "target": "Ourdilic osserva con asprezza che i dragoni sostengono di non poter risparmiare neppure un uomo. Conoscendo il Fronte di Whitebrim, sospetti che sia la pura verità..." },
+    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_TODO_00", "hash": "A0E79C2E9783DE3D", "target": "Parlare con Ourdilic" },
+    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_FORSEMART_000_000", "hash": "EF255F7AF6568605", "target": "Faccio parte della spedizione a Snowcloak. Conoscete quella parete di ghiaccio che cresce come il racconto di uno spaccone? La zona è pericolosa, così abbiamo assoldato mercenari." },
+    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_FORSEMART_000_001", "hash": "D39772E31AC5EC15", "target": "Ma le creature selvagge li hanno spaventati e sono fuggiti dal posto. Che codardia è mai questa? È incredibile!" },
+    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_FORSEMART_000_002", "hash": "6FF4789FB65322E3", "target": "Dicono che per compiere una missione non lasciate nulla d'intentato. Che ne dite? Proteggerete la spedizione? Abbiamo urgente bisogno di un braccio armato." },
+    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_FORSEMART_000_003", "hash": "5092ECB804EA1208", "target": "Saprete di più da Ourdilic a Snowcloak. State bene. Tenete al sicuro la mia gente." },
+    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_OURDILIC_000_010", "hash": "600B0736856A96B8", "target": "<split(<string(gstr1)>, ,1)>, giusto? Oh, vi manda Forsemart! Per la misericordia di Halone, vi diamo il benvenuto. Pensavamo persino di abbandonare la spedizione per mancanza di guardie." },
+    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_OURDILIC_000_011", "hash": "4DFADF10089F3BBB", "target": "I dragoni dicono di non poter aiutare, troppo impegnati nella guerra. La vostra presenza è davvero provvidenziale!" }
   ]
 }

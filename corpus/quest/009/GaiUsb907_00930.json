@@ -2,15 +2,15 @@
   "conversation": "quest/009/GaiUsb907_00930",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_SEQ_00", "hash": "7CDA50B344A6E944", "target": "" },
-    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_SEQ_01", "hash": "C7BC4D56DBBEF47B", "target": "" },
-    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_SEQ_02", "hash": "27108ED96B183579", "target": "" },
-    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_SEQ_03", "hash": "D99E6CDB3DA4EA08", "target": "" },
-    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_TODO_00", "hash": "641315BB704A9AFB", "target": "" },
-    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_TODO_01", "hash": "0F80BBB0CE36E8A4", "target": "" },
-    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_LOANNE_000_000", "hash": "6DFFD82BBD45CAE8", "target": "" },
-    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_LOANNE_000_001", "hash": "98A11440A7294926", "target": "" },
-    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_LOANNE_000_020", "hash": "886F2743C1E1FDF8", "target": "" },
-    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_LOANNE_000_021", "hash": "3345B4DF86CBF5D1", "target": "" }
+    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_SEQ_00", "hash": "7CDA50B344A6E944", "target": "Ser Loanne vorrebbe che uccidessi degli uccelli per tutto ciò che è sacro." },
+    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_SEQ_01", "hash": "C7BC4D56DBBEF47B", "target": "Ser Loanne di Ishgard ti chiede di eliminare una minaccia volante nella zona. Pur con qualche perplessità davanti alla sua autoritaria veemenza, ti prepari a obbedire e uccidere cinque bateleur." },
+    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_SEQ_02", "hash": "27108ED96B183579", "target": "Uccidi cinque bateleur, con dubbi crescenti a ogni uccisione, ma un lavoro è un lavoro. Torna da Ser Loanne e scopri se sa dirti a cosa servano da morti." },
+    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_SEQ_03", "hash": "D99E6CDB3DA4EA08", "target": "Lieta che tu abbia svolto questa umile mansione, Ser Loanne rivela che i bateleur condividono la passione dei cavalieri per i cloud cutter e altri pesci del Mare delle Nuvole. A Ishgard, non è mai una buona idea desiderare ciò che desiderano i cavalieri..." },
+    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_TODO_00", "hash": "641315BB704A9AFB", "target": "Uccidere i bateleur" },
+    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_TODO_01", "hash": "0F80BBB0CE36E8A4", "target": "Fare rapporto a Loanne" },
+    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_LOANNE_000_000", "hash": "6DFFD82BBD45CAE8", "target": "L'ozio non si addice a <if(gnum4,una donna,un uomo)> tanto in salute. Andate a uccidere per noi cinque bateleur che nidificano da queste parti." },
+    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_LOANNE_000_001", "hash": "98A11440A7294926", "target": "La crociata consuma i cavalieri di Ishgard nel corpo e nell'anima. A voi toccheranno le fatiche a cui non possiamo abbassarci, ma nelle quali, se i racconti sono veri, avete ottenuto qualche successo. La vostra presenza è parte del piano di Halone per noi: sia lodata la Furia!" },
+    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_LOANNE_000_020", "hash": "886F2743C1E1FDF8", "target": "Avete servito bene. I bateleur si nutrono abbondantemente dei doni del Mare delle Nuvole, e non possiamo permetterlo." },
+    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_LOANNE_000_021", "hash": "3345B4DF86CBF5D1", "target": "I pesci di quel mare sublime appartengono ai nobili cavalieri della crociata, non a umili uccelli e bestie. La Furia ci ha dato il dominio su tutte le creature di questa terra, e anche i dravaniani comprenderanno questa verità." }
   ]
 }

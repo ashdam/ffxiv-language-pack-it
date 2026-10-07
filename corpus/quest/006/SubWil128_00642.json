@@ -2,18 +2,18 @@
   "conversation": "quest/006/SubWil128_00642",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_SEQ_00", "hash": "A8F9F7D5BE636E48", "target": "" },
-    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_SEQ_01", "hash": "A4EF3897E8A821FD", "target": "" },
-    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_SEQ_02", "hash": "7441D1BD2AE7EDB6", "target": "" },
-    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_SEQ_03", "hash": "ECA76845CC665B29", "target": "" },
-    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_TODO_00", "hash": "3E5D479BF01DF470", "target": "" },
-    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_TODO_01", "hash": "9A17AE7FC30FB24F", "target": "" },
-    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_1", "hash": "CC92A4477CAB84BC", "target": "" },
-    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_2", "hash": "5FC333BD6331E436", "target": "" },
-    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_3", "hash": "EF2502863FCB5A2C", "target": "" },
-    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_4", "hash": "917A8606C639511B", "target": "" },
-    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_10", "hash": "46E3B7C0D1D2DF46", "target": "" },
-    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_11", "hash": "248AF9FFC29B6AB0", "target": "" },
-    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_12", "hash": "F68F93B1DAD43A4F", "target": "" }
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_SEQ_00", "hash": "A8F9F7D5BE636E48", "target": "Suor Airell della Chiesa di Sant'Adama Landama è oberata dal lavoro dell'Ordine." },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_SEQ_01", "hash": "A4EF3897E8A821FD", "target": "Ci sono troppe tombe perché suor Airell possa occuparsene in tempo. Raccogli sei vecchie offerte al posto suo." },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_SEQ_02", "hash": "7441D1BD2AE7EDB6", "target": "Hai raccolto le vecchie offerte dalle tombe. Torna da suor Airell alla chiesa." },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_SEQ_03", "hash": "ECA76845CC665B29", "target": "Sembra che suor Airell debba ancora riordinare qualcosa intorno alla chiesa. Parlale di nuovo per ricevere un altro incarico." },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_TODO_00", "hash": "3E5D479BF01DF470", "target": "Raccogliere le vecchie offerte" },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_TODO_01", "hash": "9A17AE7FC30FB24F", "target": "Consegnare le vecchie offerte a suor Airell" },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_1", "hash": "CC92A4477CAB84BC", "target": "Vi do il benvenuto alla Chiesa di Sant'Adama Landama. Sono suor Airell." },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_2", "hash": "5FC333BD6331E436", "target": "Immagino che non siate in pellegrinaggio. Sembrate <if(gnum4,un'avventuriera,un avventuriero)>. In tal caso, potrei chiedervi di aiutare a curare il cimitero mentre siete qui con noi?" },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_3", "hash": "EF2502863FCB5A2C", "target": "Le tombe sono molto più numerose di noi che ce ne occupiamo. Da soli non possiamo fare tutto il necessario." },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_4", "hash": "917A8606C639511B", "target": "Raccogliereste le vecchie offerte che si trovano fuori? Ne ho contate almeno sei durante il mio ultimo giro nel cimitero." },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_10", "hash": "46E3B7C0D1D2DF46", "target": "Avete raccolto le vecchie offerte?" },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_11", "hash": "248AF9FFC29B6AB0", "target": "Grazie. \\<sospiro> Magari non ci fosse altro da fare. Presto dovrò raccogliere i vasi, le urne e le brocche consumati dalle intemperie. I morti dormono meglio in una tomba ordinata." },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_12", "hash": "F68F93B1DAD43A4F", "target": "Ho molto lavoro da offrirvi, se volete accettarlo. Parlatemi di nuovo quando ne avrete voglia." }
   ]
 }

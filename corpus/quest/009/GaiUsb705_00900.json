@@ -2,17 +2,17 @@
   "conversation": "quest/009/GaiUsb705_00900",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_SEQ_00", "hash": "6E09F92543D2C7D9", "target": "" },
-    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_SEQ_01", "hash": "6D7327FC367A45D8", "target": "" },
-    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_SEQ_02", "hash": "B16679AD94393B35", "target": "" },
-    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_SEQ_03", "hash": "16A8B0BA35047063", "target": "" },
-    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_TODO_00", "hash": "7F4FC9306909CB64", "target": "" },
-    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_TODO_01", "hash": "977658F5DF3AED80", "target": "" },
-    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_CORENTIAUX_000_000", "hash": "C0F8A48647C73371", "target": "" },
-    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_CORENTIAUX_000_001", "hash": "3F553EBD206AA0A3", "target": "" },
-    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_CORENTIAUX_000_002", "hash": "D72E45A0976196F4", "target": "" },
-    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_CORENTIAUX_000_003", "hash": "618D06B1722CF2D3", "target": "" },
-    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_CORENTIAUX_000_020", "hash": "F4B64004ED4D92F5", "target": "" },
-    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_CORENTIAUX_000_021", "hash": "D173160EE24F8C34", "target": "" }
+    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_SEQ_00", "hash": "6E09F92543D2C7D9", "target": "Ser Corentiaux vuole discutere con te le ultime difficoltà a Testa di Drago." },
+    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_SEQ_01", "hash": "6D7327FC367A45D8", "target": "Una pattuglia di cavalieri, reduce dal trionfo al fronte, è stata sviata dai will-o'-the-wyke nella bufera. Molti di quelli tornati hanno gravi congelamenti. C'è una sola cosa da fare: eliminare quattro di quelle creature con le tue abili mani." },
+    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_SEQ_02", "hash": "B16679AD94393B35", "target": "Hai ucciso i will-o'-the-wyke. Chi vive umilmente d'avventure riesce dove le Alte Casate falliscono, ma tieni il pensiero per te se vuoi conservare la lingua. Torna da ser Corentiaux con la buona notizia." },
+    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_SEQ_03", "hash": "16A8B0BA35047063", "target": "Il rapporto sull'uccisione dei will-o'-the-wyke è accolto con gioia. Aggiungendo la ricompensa alla borsa sempre più piena, ti chiedi perché un uomo acuto come ser Corentiaux non veda ciò che ogni figlio della strada vede: la terra stessa è diventata ostile e assedia le schiere di Ishgard." },
+    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_TODO_00", "hash": "7F4FC9306909CB64", "target": "Uccidere will-o'-the-wyke" },
+    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_TODO_01", "hash": "977658F5DF3AED80", "target": "Fare rapporto a Corentiaux" },
+    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_CORENTIAUX_000_000", "hash": "C0F8A48647C73371", "target": "Una parola, se posso. Ti va di accettare un'altra commissione? Non te lo chiederei se non sembrassi aver recuperato le forze." },
+    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_CORENTIAUX_000_001", "hash": "3F553EBD206AA0A3", "target": "Forse hai sentito le voci: una pattuglia si è persa nella bufera ed è finita nella Pancia dell'Orco. Inutile dire che non tutti sono tornati vivi e i cerusici hanno amputato ogni genere di pezzi a quelli che sono tornati." },
+    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_CORENTIAUX_000_002", "hash": "D72E45A0976196F4", "target": "Hanno scambiato i will-o'-the-wyke per le luci del campo e sono stati attirati nella grotta. Abbiamo già abbastanza pericoli senza che quei diavoli beffardi si divertano così." },
+    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_CORENTIAUX_000_003", "hash": "618D06B1722CF2D3", "target": "Non possiamo avere uomini che dubitano dei propri occhi e temono di fidarsi delle luci lontane. Andresti alla Pancia dell'Orco a eliminare quelle creature?" },
+    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_CORENTIAUX_000_020", "hash": "F4B64004ED4D92F5", "target": "Già di ritorno, e con pieno successo? Scommetto che quei will-o'-the-wyke non hanno capito cosa li ha colpiti! Per Halone, è bello che qualcosa vada bene!" },
+    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_CORENTIAUX_000_021", "hash": "D173160EE24F8C34", "target": "Ah, perdona lo sfogo. È stata una settimana difficile... una luna... qualcosa di più lungo. Come un assedio che non c'è, e non si può vivere in una tensione infelice continua. Il successo che mi riporti significa molto." }
   ]
 }

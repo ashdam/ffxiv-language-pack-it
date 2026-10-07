@@ -2,17 +2,17 @@
   "conversation": "quest/007/GaiUsa508_00760",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_SEQ_00", "hash": "A425F2E6CCD00E81", "target": "" },
-    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_SEQ_01", "hash": "4FC722F60C045614", "target": "" },
-    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_SEQ_02", "hash": "7E9A4DA7600E34F6", "target": "" },
-    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_SEQ_03", "hash": "681D341EB84526D2", "target": "" },
-    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_TODO_00", "hash": "92850635E57C7601", "target": "" },
-    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_TODO_01", "hash": "EF44EDDEA9F5A308", "target": "" },
-    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_TODO_02", "hash": "E0489BF1E376BCDA", "target": "" },
-    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_ANNABEL_000_000", "hash": "5A8A280D38AB29FA", "target": "" },
-    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_ANNABELl_000_001", "hash": "056EA19E4827B7B5", "target": "" },
-    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_ANNABEL_000_002", "hash": "C97F28CFC4B0B44F", "target": "" },
-    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_ANNABEL_000_030", "hash": "DEE40D885A53F77B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_POP_MESSAGE_000", "hash": "21BA667ED6E60ED4", "target": "" }
+    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_SEQ_00", "hash": "A425F2E6CCD00E81", "target": "Annabel delle Fiamme Immortali ha un compito per un avventuriero coraggioso." },
+    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_SEQ_01", "hash": "4FC722F60C045614", "target": "Si dice che anime perdute dell'epoca di Belah'dia infestino le rovine a sud di Little Ala Mhigo. Usa l'acqua benedetta fornita da Annabel per indebolirne i poteri e uccidi un tempered sword e un tempered brand." },
+    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_SEQ_02", "hash": "7E9A4DA7600E34F6", "target": "Gli spiriti erranti sono stati uccisi. Informa Annabel del successo." },
+    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_SEQ_03", "hash": "681D341EB84526D2", "target": "Colpita dalle tue capacità, Annabel decide di dedicarsi all'addestramento marziale, per poter compiere un giorno imprese simili." },
+    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_TODO_00", "hash": "92850635E57C7601", "target": "Usare l'acqua benedetta e uccidere un tempered sword" },
+    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_TODO_01", "hash": "EF44EDDEA9F5A308", "target": "Usare l'acqua benedetta e uccidere un tempered brand" },
+    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_TODO_02", "hash": "E0489BF1E376BCDA", "target": "Fare rapporto ad Annabel" },
+    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_ANNABEL_000_000", "hash": "5A8A280D38AB29FA", "target": "Vorrei la vostra attenzione. Avete per caso visitato le rovine a sud di qui? Si dice che risalgano all'epoca dei belahdiani." },
+    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_ANNABELl_000_001", "hash": "056EA19E4827B7B5", "target": "Come studiosa di storia, ero felice quando i superiori mi mandarono a pattugliare quel luogo. La gioia divenne presto terrore quando scoprii la terribile verità─quelle rovine sono infestate!" },
+    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_ANNABEL_000_002", "hash": "C97F28CFC4B0B44F", "target": "Sì, avete sentito bene. I fantasmi di Belah'dia infestano ancora quel posto, e il mio limitato addestramento non mi ha preparata ad affrontare simili orrori. Avreste la cortesia di prendere quest'acqua santa e accompagnare le anime perdute nel reame di Thal?" },
+    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_ANNABEL_000_030", "hash": "DEE40D885A53F77B", "target": "Notevole! Voi avventurieri siete davvero valorosi quanto si dice. Devo dedicarmi all'addestramento, perché un giorno anch'io possa compiere simili imprese." },
+    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_POP_MESSAGE_000", "hash": "21BA667ED6E60ED4", "target": "Avverti una presenza ostile!" }
   ]
 }

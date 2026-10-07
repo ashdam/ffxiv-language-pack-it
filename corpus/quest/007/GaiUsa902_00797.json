@@ -2,15 +2,15 @@
   "conversation": "quest/007/GaiUsa902_00797",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_SEQ_00", "hash": "12258195541F9C79", "target": "" },
-    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_SEQ_01", "hash": "BE59409E9601549F", "target": "" },
-    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_SEQ_02", "hash": "B19222D47822FAA1", "target": "" },
-    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_SEQ_03", "hash": "EFC6A40BF4E36BE3", "target": "" },
-    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_TODO_00", "hash": "4CE0098DA67E29C2", "target": "" },
-    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_TODO_01", "hash": "0686AC5603340C02", "target": "" },
-    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_ADEMAR_000_000", "hash": "07B1F2AFE55C4081", "target": "" },
-    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_ADEMAR_000_001", "hash": "E630D441ED4FA1BA", "target": "" },
-    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_ADEMAR_000_020", "hash": "C6EEA05C28D6B2F8", "target": "" },
-    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_ADEMAR_000_025", "hash": "C98A3A8622D9178D", "target": "" }
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_SEQ_00", "hash": "12258195541F9C79", "target": "Ademar è al buio e ha bisogno dell'aiuto di un avventuriero." },
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_SEQ_01", "hash": "BE59409E9601549F", "target": "Ademar ha finito l'olio per lanterne e non può più cercare minerali di notte. Procuragli una luce alternativa indebolendo i bright balloon e catturandoli nelle sue lampade." },
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_SEQ_02", "hash": "B19222D47822FAA1", "target": "Hai preparato due lampade con balloon. Consegnale ad Ademar." },
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_SEQ_03", "hash": "EFC6A40BF4E36BE3", "target": "Ademar ti ringrazia e torna subito a scavare. La vita di un cercatore lascia poco tempo alle chiacchiere." },
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_TODO_00", "hash": "4CE0098DA67E29C2", "target": "Indebolire e catturare i bright balloon con le lampade" },
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_TODO_01", "hash": "0686AC5603340C02", "target": "Consegnare le lampade ad Ademar" },
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_ADEMAR_000_000", "hash": "07B1F2AFE55C4081", "target": "Vi prego, aiutatemi. Ho finito il combustibile delle lanterne e temo di non poter lavorare <if([gnum11<12],<if([gnum11<4],per tutta la notte,a lungo dopo il tramonto)>,<if([gnum11<17],a lungo dopo il tramonto,per tutta la notte)>)>." },
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_ADEMAR_000_001", "hash": "E630D441ED4FA1BA", "target": "Non l'ho provato io, ma ho sentito che si fanno lanterne improvvisate sigillando quei balloon volanti in queste lampade. Certo, per farli entrare servirà un po' di persuasione, se capite cosa intendo." },
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_ADEMAR_000_020", "hash": "C6EEA05C28D6B2F8", "target": "Avete potuto prepararmi delle lampade?" },
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_ADEMAR_000_025", "hash": "C98A3A8622D9178D", "target": "Vi manda il cielo. Grazie a voi, <if([gnum11<12],<if([gnum11<4],posso tornare a scavare,stanotte scaverò a lungo dopo il tramonto)>,<if([gnum11<17],stanotte scaverò a lungo dopo il tramonto,posso tornare a scavare)>)>. C'è oro su quelle colline, oh oh!♪" }
   ]
 }

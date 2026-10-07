@@ -2,16 +2,16 @@
   "conversation": "quest/007/GaiUsa503_00755",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_SEQ_00", "hash": "54CA5039E4261E08", "target": "" },
-    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_SEQ_01", "hash": "3B93468E4F2EB26F", "target": "" },
-    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_SEQ_02", "hash": "4A51BAFD527898D3", "target": "" },
-    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_TODO_00", "hash": "18B0C50A0C28E1A9", "target": "" },
-    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_KYOKYOZO_000_000", "hash": "47D799E0178D3F23", "target": "" },
-    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_KYOKYOZO_000_001", "hash": "F9C103A2E86665A7", "target": "" },
-    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_KYOKYOZO_000_002", "hash": "8EBEB204583D5A22", "target": "" },
-    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_KYOKYOZO_000_003", "hash": "33B6473341FEC5AF", "target": "" },
-    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_HIHIBALRU_000_010", "hash": "8CBE7FB55526F624", "target": "" },
-    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_HIHIBALRU_000_020", "hash": "47ED44C275F86774", "target": "" },
-    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_HIHIBALRU_000_021", "hash": "3D7D73446C20DBC9", "target": "" }
+    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_SEQ_00", "hash": "54CA5039E4261E08", "target": "Sorella Kyokyozo cerca un avventuriero che consegni una missiva a Ponte Alto." },
+    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_SEQ_01", "hash": "3B93468E4F2EB26F", "target": "Sorella Kyokyozo ti ha affidato una petizione firmata destinata alle Aerolinee Highwind. Consegnala al mercante Hihibaru a Ponte Alto." },
+    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_SEQ_02", "hash": "4A51BAFD527898D3", "target": "Le sincere petizioni dell'Ordine di Nald'thal e dell'associazione commerciale di Hihibaru avranno un peso considerevole nel convincere le Aerolinee Highwind a istituire voli regolari da e per Ponte Alto. È soltanto questione di tempo prima che la prosperità giunga nella zona." },
+    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_TODO_00", "hash": "18B0C50A0C28E1A9", "target": "Consegnare la petizione firmata a Hihibaru" },
+    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_KYOKYOZO_000_000", "hash": "47D799E0178D3F23", "target": "Mi dispiace disturbarvi ancora, ma avete dimostrato amicizia verso l'Ordine. Ho una missiva urgente da consegnare a Hihibaru di Ponte Alto." },
+    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_KYOKYOZO_000_001", "hash": "F9C103A2E86665A7", "target": "O, per essere precisa, una petizione. L'Ordine vorrebbe chiedere alle Aerolinee Highwind di istituire voli regolari tra Ponte Alto e Ul'dah." },
+    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_KYOKYOZO_000_002", "hash": "8EBEB204583D5A22", "target": "Questi voli faciliterebbero molto i viaggi dei pellegrini verso il Riposo di Thal, oltre a stimolare il commercio nella zona." },
+    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_KYOKYOZO_000_003", "hash": "33B6473341FEC5AF", "target": "È per quest'ultimo motivo che crediamo che Hihibaru e i suoi colleghi mercanti ci sosterranno. Andate, e che i Mercanti veglino sul vostro viaggio." },
+    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_HIHIBALRU_000_010", "hash": "8CBE7FB55526F624", "target": "Un messaggio di sorella Kyokyozo? Che cosa vorrà l'Ordine da un comune mercante come me?" },
+    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_HIHIBALRU_000_020", "hash": "47ED44C275F86774", "target": "Ma guarda un po'... Una petizione per un servizio regolare di aeronavi tra Ponte Alto e Ul'dah. Ah, l'idea è così dannatamente brillante che mi vergogno di non averci pensato io! Gli affari schizzerebbero alle stelle!" },
+    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_HIHIBALRU_000_021", "hash": "3D7D73446C20DBC9", "target": "Aggiungerò la mia firma e la porterò subito alle Aerolinee Highwind! Ora, se qualcuno si occupasse di quei maledetti Qiqirn, Ponte Alto sarebbe un paradiso per i mercanti..." }
   ]
 }

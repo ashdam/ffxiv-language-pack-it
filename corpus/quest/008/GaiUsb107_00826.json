@@ -2,15 +2,15 @@
   "conversation": "quest/008/GaiUsb107_00826",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb107_00826#TEXT_GAIUSB107_00826_SEQ_00", "hash": "FD673250EBC61CCD", "target": "" },
-    { "gameKey": "quest/008/GaiUsb107_00826#TEXT_GAIUSB107_00826_SEQ_01", "hash": "CAA1BF53CCF4CAF9", "target": "" },
-    { "gameKey": "quest/008/GaiUsb107_00826#TEXT_GAIUSB107_00826_SEQ_02", "hash": "EF84D0EF08DB78E9", "target": "" },
-    { "gameKey": "quest/008/GaiUsb107_00826#TEXT_GAIUSB107_00826_TODO_00", "hash": "2E5A5B45486823E6", "target": "" },
-    { "gameKey": "quest/008/GaiUsb107_00826#TEXT_GAIUSB107_00826_RIRIDESU_000_000", "hash": "83DE3422BBD429FE", "target": "" },
-    { "gameKey": "quest/008/GaiUsb107_00826#TEXT_GAIUSB107_00826_RIRIDESU_000_001", "hash": "CD625E7D857E15A6", "target": "" },
-    { "gameKey": "quest/008/GaiUsb107_00826#TEXT_GAIUSB107_00826_RIRIDESU_000_002", "hash": "76528885060F9FAA", "target": "" },
-    { "gameKey": "quest/008/GaiUsb107_00826#TEXT_GAIUSB107_00826_ODINEL_000_010", "hash": "4036BDD1C51C66E4", "target": "" },
-    { "gameKey": "quest/008/GaiUsb107_00826#TEXT_GAIUSB107_00826_ODINEL_000_015", "hash": "9693D47DC2A4800A", "target": "" },
-    { "gameKey": "quest/008/GaiUsb107_00826#TEXT_GAIUSB107_00826_ODINEL_000_016", "hash": "EE2F674DA8706914", "target": "" }
+    { "gameKey": "quest/008/GaiUsb107_00826#TEXT_GAIUSB107_00826_SEQ_00", "hash": "FD673250EBC61CCD", "target": "Riridesu sembra avere bisogno di aiuto con una consegna." },
+    { "gameKey": "quest/008/GaiUsb107_00826#TEXT_GAIUSB107_00826_SEQ_01", "hash": "CAA1BF53CCF4CAF9", "target": "Parlare con Riridesu scatena una breve invettiva sulle disgrazie incontrate tentando di aprire un negozio a Forgotten Springs. A quanto pare, il nunh della tribù U l'ha vietato a causa delle differenze culturali. Gli affari devono però continuare, quindi il mercante Lalafell ti chiede di consegnare un pacco a Odinel a Byregot's Strike." },
+    { "gameKey": "quest/008/GaiUsb107_00826#TEXT_GAIUSB107_00826_SEQ_02", "hash": "EF84D0EF08DB78E9", "target": "Hai consegnato il pacco a Odinel, che si lamenta della scomoda posizione del negozio di Riridesu. Sebbene non sia il solo a essere frustrato dalla decisione del nunh, pare che si possa fare ben poco per cambiare idea al capo della tribù U sulle questioni di tradizione." },
+    { "gameKey": "quest/008/GaiUsb107_00826#TEXT_GAIUSB107_00826_TODO_00", "hash": "2E5A5B45486823E6", "target": "Consegnare il pacco di merci avvolte a Odinel" },
+    { "gameKey": "quest/008/GaiUsb107_00826#TEXT_GAIUSB107_00826_RIRIDESU_000_000", "hash": "83DE3422BBD429FE", "target": "\\<sospiro> Era <italic(1)>tutto<italic(0)> pronto per aprire un negozio a Forgotten Springs. Sarebbe stato magnifico. Una posizione straordinaria. Una fila di clienti. Un mucchio di bellezze intorno. Ma il nunh della tribù, U'odh Nunh, l'ha vietato. Così, di punto in bianco." },
+    { "gameKey": "quest/008/GaiUsb107_00826#TEXT_GAIUSB107_00826_RIRIDESU_000_001", "hash": "CD625E7D857E15A6", "target": "Ora, in un certo senso capisco. Gli U cacciano o raccolgono quasi tutto il cibo che consumano, quindi non hanno bisogno di ciò che offro. Ma il nunh <italic(1)>deve<italic(0)> pur capire che nella sua oasi non c'è solo la tribù. Cercatori, avventurieri, Fiamme... non viviamo né mangiamo come loro!" },
+    { "gameKey": "quest/008/GaiUsb107_00826#TEXT_GAIUSB107_00826_RIRIDESU_000_002", "hash": "76528885060F9FAA", "target": "...Ma ecco che ricomincio a predicare. Tanto vale parlarti di qualcosa per cui <italic(1)>puoi<italic(0)> aiutarmi. Potresti portare questo pacco a Byregot's Strike e consegnarlo a un certo Odinel?" },
+    { "gameKey": "quest/008/GaiUsb107_00826#TEXT_GAIUSB107_00826_ODINEL_000_010", "hash": "4036BDD1C51C66E4", "target": "Salve. Un pacco! Venite dal Minotaur Malm, vero?" },
+    { "gameKey": "quest/008/GaiUsb107_00826#TEXT_GAIUSB107_00826_ODINEL_000_015", "hash": "9693D47DC2A4800A", "target": "Vi ringrazio di cuore. Il Malm è un posticino angusto, piccolo da morire e pure isolato. È difficile andarci a dare a Riridesu i clienti che merita. Un vero peccato la decisione del nunh. Un negozio alle Sorgenti ci avrebbe fatto comodo." },
+    { "gameKey": "quest/008/GaiUsb107_00826#TEXT_GAIUSB107_00826_ODINEL_000_016", "hash": "EE2F674DA8706914", "target": "È davvero un gran peccato. E la cosa peggiore è che non si può cambiare idea a quel vecchio Miqo'te, soprattutto perché non ne ha una." }
   ]
 }

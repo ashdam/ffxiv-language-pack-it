@@ -2,19 +2,19 @@
   "conversation": "quest/001/SubFst044_00195",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_SEQ_00", "hash": "E162F63F216D0C83", "target": "" },
-    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_SEQ_01", "hash": "EDC754F8C674F0A0", "target": "" },
-    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_SEQ_02", "hash": "EBA94BF2C424F78C", "target": "" },
-    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_SEQ_03", "hash": "3700F09DC8396BC1", "target": "" },
-    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_TODO_00", "hash": "5B8DEC7342830B3E", "target": "" },
-    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_TODO_01", "hash": "1FEE5E614FBD7BA9", "target": "" },
-    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_LINYEVE_000_1", "hash": "882B54D612E311EE", "target": "" },
-    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_LINYEVE_000_2", "hash": "B786C7D2126D7162", "target": "" },
-    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_LINYEVE_000_3", "hash": "B9455778FF4334CB", "target": "" },
-    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_LINYEVE_000_4", "hash": "743636833282F533", "target": "" },
-    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_LINYEVE_000_10", "hash": "0660BCEF66EE5D73", "target": "" },
-    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_LINYEVE_000_11", "hash": "AB93858BE7800D20", "target": "" },
-    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_LINYEVE_000_12", "hash": "A96D941CBBE322C2", "target": "" },
-    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_LINYEVE_000_13", "hash": "8AA7FB80D24880A8", "target": "" }
+    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_SEQ_00", "hash": "E162F63F216D0C83", "target": "Linyeve, una quartiermastro a Hyrstmill, cerca qualcuno che le porti un glimshroom, un tipo di fungo molto luminoso." },
+    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_SEQ_01", "hash": "EDC754F8C674F0A0", "target": "Raccogli un glimshroom dalla parete rocciosa a sudovest di Peacegarden. Linyeve insiste perché tu prenda quello che brilla di più." },
+    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_SEQ_02", "hash": "EBA94BF2C424F78C", "target": "Consegnare il glimshroom a Linyeve a Hyrstmill" },
+    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_SEQ_03", "hash": "3700F09DC8396BC1", "target": "I glimshroom sono un ingrediente essenziale nella medicina per la malattia nota come Morte Strisciante. Con così pochi invocatori a Hyrstmill, Linyeve preferisce tenere una scorta di medicina pronta per eventuali focolai." },
+    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_TODO_00", "hash": "5B8DEC7342830B3E", "target": "Raccogliere il glimshroom più luminoso" },
+    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_TODO_01", "hash": "1FEE5E614FBD7BA9", "target": "Consegnare il glimshroom a Linyeve a Hyrstmill" },
+    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_LINYEVE_000_1", "hash": "882B54D612E311EE", "target": "Avete proprio l'aria di <if(gnum4,un'avventuriera,un avventuriero)>! Chi vive d'avventure ama i piccoli incarichi, no? Bene, ho bisogno che andiate nella foresta a raccogliere un glimshroom per me." },
+    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_LINYEVE_000_2", "hash": "B786C7D2126D7162", "target": "Voi...non avete la minima idea di cosa sia un glimshroom, vero? «Glimshroom» è il nome comune di un tipo di fungo dalla particolare fosforescenza bianca. Mh? Come avete detto? «Un fungo luminoso»? ...Sì, suppongo si possa dire così. Ne cresce una colonia sulla parete rocciosa a sudovest di Peacegarden." },
+    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_LINYEVE_000_3", "hash": "B9455778FF4334CB", "target": "Ma non raccogliete il primo che trovate! Voglio il «fungo luminoso» più brillante che riuscite a trovare, per favore!" },
+    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_LINYEVE_000_4", "hash": "743636833282F533", "target": "Mh? Be', sì, mi piacerebbe raccogliere i glimshroom da sola, ma c'è il piccolo problema degli esploratori ixal. Non sono molto amichevoli. Su, andate!" },
+    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_LINYEVE_000_10", "hash": "0660BCEF66EE5D73", "target": "Avete trovato i glimshroom?" },
+    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_LINYEVE_000_11", "hash": "AB93858BE7800D20", "target": "Ah, guardate che luce! Perfetto! Mi aiuterà a preparare un rimedio potente contro la Morte Strisciante." },
+    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_LINYEVE_000_12", "hash": "A96D941CBBE322C2", "target": "Per anticipare la domanda più ovvia, la Morte Strisciante è una piaga mortale che un tempo devastò la popolazione hyur di Gridania. Ora basta una semplice invocazione per curarla, ma una scorta di medicina pronta non guasta mai." },
+    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_LINYEVE_000_13", "hash": "8AA7FB80D24880A8", "target": "Dopotutto, qui a Hyrstmill non possiamo contare su un invocatore ogni volta che un bambino tossisce. Grazie alla Matrona, però, ci sono persone come voi che girano il mondo, eh?" }
   ]
 }

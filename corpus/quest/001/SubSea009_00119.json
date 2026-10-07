@@ -2,15 +2,15 @@
   "conversation": "quest/001/SubSea009_00119",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_SEQ_00", "hash": "0406D461D484EC05", "target": "" },
-    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_SEQ_01", "hash": "67DB1ECF6186BCD4", "target": "" },
-    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_SEQ_02", "hash": "1E1E1FB37BE2394A", "target": "" },
-    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_TODO_00", "hash": "8B95CD5E7926AC27", "target": "" },
-    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_GINNADE_000_0", "hash": "4BE6815DC5AFA1F9", "target": "" },
-    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_GINNADE_000_1", "hash": "259BEE9CF3781B70", "target": "" },
-    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_NDELIKA_000_10", "hash": "964F5F1B430B1F16", "target": "" },
-    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_NDELIKA_000_11", "hash": "4DD950E9230D8EEA", "target": "" },
-    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_NDELIKA_000_12", "hash": "266A508910A603DD", "target": "" },
-    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_NDELIKA_000_13", "hash": "B269FC54761DFD57", "target": "" }
+    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_SEQ_00", "hash": "0406D461D484EC05", "target": "Ginnade cerca aiuto per un problema sempre più grave a Limsa Lominsa." },
+    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_SEQ_01", "hash": "67DB1ECF6186BCD4", "target": "Ginnade ti ha affidato un elenco di persone scomparse. Consegnalo a N'delika, che accoglie i viaggiatori appena arrivati nella Sala del Baluardo, sui ponti inferiori." },
+    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_SEQ_02", "hash": "1E1E1FB37BE2394A", "target": "Nonostante le apparenze, N'delika fa parte delle Giubbe Gialle e ha il compito di sorvegliare chiunque entri in città o ne esca." },
+    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_TODO_00", "hash": "8B95CD5E7926AC27", "target": "Consegnare l'elenco delle persone scomparse a N'delika nella Sala del Baluardo" },
+    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_GINNADE_000_0", "hash": "4BE6815DC5AFA1F9", "target": "Ultimamente è scomparso un numero allarmante di cittadini, ma immagino abbiate già sentito le voci." },
+    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_GINNADE_000_1", "hash": "259BEE9CF3781B70", "target": "È essenziale accertarci che stiano bene. Per questo ho preparato un elenco basato sulle segnalazioni dei cittadini. Avreste la cortesia di portarlo alla mia collega nella Sala del Baluardo? Si chiama N'delika. Vi ringrazio in anticipo." },
+    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_NDELIKA_000_10", "hash": "964F5F1B430B1F16", "target": "Ti do il benvenuto a Limsa Lominsa! Se vuoi sapere qualcosa, non esitare a─<br>...Eh? Dici di avere qualcosa per me? Un elenco di persone scomparse? Non sono sicura di capire..." },
+    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_NDELIKA_000_11", "hash": "4DD950E9230D8EEA", "target": "(Grazie per aver portato l'elenco. Imparerò questi nomi a memoria. Se qualcuno degli scomparsi ricompare, puoi contare su di me per riconoscerlo.)" },
+    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_NDELIKA_000_12", "hash": "266A508910A603DD", "target": "(La maggior parte della gente entra in città dalla Zephyr Drift e deve quindi attraversare la Sala del Baluardo. Per questo tengo sempre gli occhi aperti qui, in incognito, per individuare attività sospette.)" },
+    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_NDELIKA_000_13", "hash": "B269FC54761DFD57", "target": "(Lo faccio da così tanto tempo che ormai so giudicare piuttosto bene le persone. Se c'è qualche losco individuo nei paraggi, puoi contare sul fatto che lo riconoscerò. Eh eh eh.)" }
   ]
 }
