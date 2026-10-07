@@ -1,9 +1,9 @@
 {
   "gameVersion": "2026.09.15.0000.0000",
-  "translated": 163664,
-  "total": 461838,
-  "percent": 35.4,
-  "chars": 48125981,
+  "translated": 172604,
+  "total": 524543,
+  "percent": 32.9,
+  "chars": 48800290,
   "unresolved": 5455,
   "groups": [
     {
@@ -15,7 +15,7 @@
     {
       "expansion": "A Realm Reborn",
       "content": "Side quests — yellow",
-      "translated": 0,
+      "translated": 8940,
       "total": 8940
     },
     {
@@ -400,7 +400,7 @@
       "expansion": null,
       "content": "Ambient text: NPC chatter, shouts, balloons, duties and guides",
       "translated": 42900,
-      "total": 102650
+      "total": 165355
     }
   ],
   "excludedFromLocalization": [
@@ -414,7 +414,7 @@
       "expansion": null,
       "content": "No English to translate",
       "translated": 20,
-      "total": 828
+      "total": 1012
     }
   ],
   "futureLocalization": [
