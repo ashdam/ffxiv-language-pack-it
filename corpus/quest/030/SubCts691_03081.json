@@ -13,7 +13,7 @@
     { "gameKey": "quest/030/SubCts691_03081#TEXT_SUBCTS691_03081_LEWENA_000_004", "hash": "3A3A8008DB025BD4", "target": "Se hai gusto per la moda, forse vorrai provare il Fashion Report. Va' a Wonder Square e cerca Masked Rose. Ma ti avverto: le spine sulla lingua di quell'uomo hanno a loro volta una lingua spinosa." },
     { "gameKey": "quest/030/SubCts691_03081#TEXT_SUBCTS691_03081_MASKEDROSE_000_010", "hash": "D0CA32294A0F43DE", "target": "Oh oh, <if(gnum4,una nuova sfidante,un nuovo sfidante)> viene a mettere alla prova <if(gnum4,il suo,il suo)> gusto stilistico! Vi do il benvenuto al Fashion Report, <if(gnum4,cara signora,caro signore)>!" },
     { "gameKey": "quest/030/SubCts691_03081#TEXT_SUBCTS691_03081_MASKEDROSE_000_011", "hash": "1F055EE9BBE893B5", "target": "C-Cosa? Va tutto bene?" },
-    { "gameKey": "quest/030/SubCts691_03081#TEXT_SUBCTS691_03081_Q1_000_000", "hash": "90C08D4F8B25178D", "target": "Cosa dirai?" },
+    { "gameKey": "quest/030/SubCts691_03081#TEXT_SUBCTS691_03081_Q1_000_000", "hash": "90C08D4F8B25178D", "target": "Che cosa dirai?" },
     { "gameKey": "quest/030/SubCts691_03081#TEXT_SUBCTS691_03081_A1_000_001", "hash": "0FD3CA8B51FFBD0E", "target": "Sì, è tutto rose e fiori! E che profumo!" },
     { "gameKey": "quest/030/SubCts691_03081#TEXT_SUBCTS691_03081_A1_000_002", "hash": "010A13010613C3C3", "target": "Sei... sei tu, Redolent Rose?" },
     { "gameKey": "quest/030/SubCts691_03081#TEXT_SUBCTS691_03081_MASKEDROSE_000_012", "hash": "C6F85FBB94BE79A2", "target": "E-Eccellente! Sono molto lieto di sentirlo!" },

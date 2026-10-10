@@ -18,7 +18,7 @@
     { "gameKey": "quest/010/GaiUsc602_01002#TEXT_GAIUSC602_01002_GLAUMUNT_000_020", "hash": "DD06EA6FB9A34AB3", "target": "Allora, hai imparato il saluto imperiale?" },
     { "gameKey": "quest/010/GaiUsc602_01002#TEXT_GAIUSC602_01002_GLAUMUNT_000_021", "hash": "D1677B8B54B56030", "target": "No, no, no, meglio non farmelo vedere─potrei infuriarmi e spaccare qualche cranio. Mi fiderò della tua parola." },
     { "gameKey": "quest/010/GaiUsc602_01002#TEXT_GAIUSC602_01002_SYSTEM_000_022", "hash": "0D8DF5CB1251993B", "target": "Ora conosci l'emote <colortype(500)><edgecolortype(501)>Imperial Salute<edgecolortype(0)><colortype(0)>!" },
-    { "gameKey": "quest/010/GaiUsc602_01002#TEXT_GAIUSC602_01002_POP_MESSAGE_000", "hash": "2D5D4914436D4CED", "target": "Percepisci una presenza ostile!" },
+    { "gameKey": "quest/010/GaiUsc602_01002#TEXT_GAIUSC602_01002_POP_MESSAGE_000", "hash": "2D5D4914436D4CED", "target": "Avverti una presenza ostile!" },
     { "gameKey": "quest/010/GaiUsc602_01002#TEXT_GAIUSC602_01002_ACCESS_MESSAGE", "hash": "C88F2057440B381E", "target": "Non puoi procedere!" }
   ]
 }

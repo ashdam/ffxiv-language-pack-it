@@ -14,7 +14,7 @@
     { "gameKey": "quest/008/GaiUsb608_00890#TEXT_GAIUSB608_00890_CARRILAUT_000_003", "hash": "8955DE636656F4F2", "target": "(Dovete recarvi ai Baluardi del Fuoco Celeste e avvertirlo della tempesta in arrivo. Gli inquisitori sono spietati e non avranno pietà di lui.)" },
     { "gameKey": "quest/008/GaiUsb608_00890#TEXT_GAIUSB608_00890_CARRILAUT_000_004", "hash": "ED8755FB52A76C3E", "target": "(Parlategli di una stella alpina, così saprà che siete <if(gnum4,un'amica,un amico)>. Ora andate.)" },
     { "gameKey": "quest/008/GaiUsb608_00890#TEXT_GAIUSB608_00890_FRANCEL_000_010", "hash": "B421E53DD6B997FE", "target": "Sì? Sembra che tu abbia qualcosa da dire. Mi sbaglio?" },
-    { "gameKey": "quest/008/GaiUsb608_00890#TEXT_GAIUSB608_00890_Q1_000_020", "hash": "EFFF3250B3B811A8", "target": "Cosa dirai?" },
+    { "gameKey": "quest/008/GaiUsb608_00890#TEXT_GAIUSB608_00890_Q1_000_020", "hash": "EFFF3250B3B811A8", "target": "Che cosa dirai?" },
     { "gameKey": "quest/008/GaiUsb608_00890#TEXT_GAIUSB608_00890_A1_000_021", "hash": "91290A598CE47516", "target": "Cerco udienza con i portatori del <italic(1)>giglio bianco<italic(0)>." },
     { "gameKey": "quest/008/GaiUsb608_00890#TEXT_GAIUSB608_00890_A2_000_022", "hash": "68990AC3D43C2F99", "target": "Andrò là dove fiorisce la <italic(1)>rosa selvatica<italic(0)>." },
     { "gameKey": "quest/008/GaiUsb608_00890#TEXT_GAIUSB608_00890_A3_000_023", "hash": "9DF0FB1D17450C7C", "target": "Hai una <italic(1)>stella alpina<italic(0)> in tasca o sei solo felice di vedermi?" },

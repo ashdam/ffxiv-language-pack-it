@@ -2,7 +2,7 @@
   "conversation": "quest/005/ManWil001_00594",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/005/ManWil001_00594#TEXT_MANWIL001_00594_SEQ_00", "hash": "136D0EF6E92E89E1", "target": "Per essere riconosciut<if(gnum4,a,o)> come <if(gnum4,avventuriera,avventuriere)> nella città<-->stato di Ul'dah, devi iscriverti alla Gilda degli Avventurieri." },
+    { "gameKey": "quest/005/ManWil001_00594#TEXT_MANWIL001_00594_SEQ_00", "hash": "136D0EF6E92E89E1", "target": "Per essere <if(gnum4,riconosciuta,riconosciuto)> come <if(gnum4,avventuriera,avventuriere)> nella città<-->stato di Ul'dah, devi iscriverti alla Gilda degli Avventurieri." },
     { "gameKey": "quest/005/ManWil001_00594#TEXT_MANWIL001_00594_SEQ_01", "hash": "D24BFC91565941A8", "target": "Wymond ti suggerisce di parlare con Momodi, proprietaria del Quicksand, prima di iniziare a esplorare." },
     { "gameKey": "quest/005/ManWil001_00594#TEXT_MANWIL001_00594_SEQ_02", "hash": "F88C8ECDE3F68C0E", "target": "Ora che hai completato l'iscrizione alla Gilda degli Avventurieri, puoi quasi iniziare a esplorare Ul'dah. Parla di nuovo con Momodi per saperne di più sulla città e sui fondamenti della vita d'avventura." },
     { "gameKey": "quest/005/ManWil001_00594#TEXT_MANWIL001_00594_TODO_00", "hash": "AC568463831FD0FD", "target": "Parlare con Momodi" },

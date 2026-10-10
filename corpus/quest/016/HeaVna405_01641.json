@@ -15,7 +15,7 @@
     { "gameKey": "quest/016/HeaVna405_01641#TEXT_HEAVNA405_01641_AYMERIC_000_010", "hash": "D6B02E3C828A8795", "target": "<if(gnum4,Signora,Signor)> <split(<string(gstr1)>, ,2)>, signor Alphinaud. Io, Aymeric, Lord Comandante dei Cavalieri del Tempio di Ishgard, chiedo formalmente l'aiuto degli Eredi della Settima Alba." },
     { "gameKey": "quest/016/HeaVna405_01641#TEXT_HEAVNA405_01641_ALPHINAUD_000_011", "hash": "410C60EEE604B9B9", "target": "Il nostro aiuto per impedire qualunque cosa l'Arcivescovo abbia in mente?" },
     { "gameKey": "quest/016/HeaVna405_01641#TEXT_HEAVNA405_01641_AYMERIC_000_012", "hash": "1F58B35C21C3D04C", "target": "Il vostro aiuto per assicurarlo alla giustizia. Troppo sangue è stato versato per le menzogne che ha perpetuato. Ora basta." },
-    { "gameKey": "quest/016/HeaVna405_01641#TEXT_HEAVNA405_01641_Q1_000_000", "hash": "B555BDD7F5885C5B", "target": "Cosa risponderai?" },
+    { "gameKey": "quest/016/HeaVna405_01641#TEXT_HEAVNA405_01641_Q1_000_000", "hash": "B555BDD7F5885C5B", "target": "Che cosa dirai?" },
     { "gameKey": "quest/016/HeaVna405_01641#TEXT_HEAVNA405_01641_A1_000_001", "hash": "FF797A5AD05C718D", "target": "Lo inseguirò fino in capo al mondo, se necessario." },
     { "gameKey": "quest/016/HeaVna405_01641#TEXT_HEAVNA405_01641_A1_000_002", "hash": "5663A2545D4B0ABF", "target": "Una vita per una morte. Voglio il cuore di Ser Zephirin per ciò che ha fatto a Haurchefant." },
     { "gameKey": "quest/016/HeaVna405_01641#TEXT_HEAVNA405_01641_A1_000_003", "hash": "E45B75485E1DD632", "target": "..." },

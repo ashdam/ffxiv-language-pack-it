@@ -2,7 +2,7 @@
   "conversation": "quest/001/ManSea001_00107",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/ManSea001_00107#TEXT_MANSEA001_00107_SEQ_00", "hash": "CBD58904BED31011", "target": "Per essere riconosciut<if(gnum4,a,o)> come <if(gnum4,avventuriera,avventuriere)> nella città<-->stato di Limsa Lominsa, devi prima iscriverti alla Gilda degli Avventurieri." },
+    { "gameKey": "quest/001/ManSea001_00107#TEXT_MANSEA001_00107_SEQ_00", "hash": "CBD58904BED31011", "target": "Per essere <if(gnum4,riconosciuta,riconosciuto)> come <if(gnum4,avventuriera,avventuriere)> nella città<-->stato di Limsa Lominsa, devi prima iscriverti alla Gilda degli Avventurieri." },
     { "gameKey": "quest/001/ManSea001_00107#TEXT_MANSEA001_00107_SEQ_01", "hash": "A1FAFBD190F45C3A", "target": "Ryssfloh delle Giubbe Gialle ti consiglia vivamente di iscriverti alla Gilda degli Avventurieri alla Drowning Wench. Parla con Grehfarr in fondo alla strada per prendere l'Ascensore del Corvo e salire alla taverna." },
     { "gameKey": "quest/001/ManSea001_00107#TEXT_MANSEA001_00107_SEQ_02", "hash": "CB176F651D9FCCD4", "target": "Hai raggiunto la Drowning Wench. Parla con il proprietario, Baderon, per iscriverti alla Gilda degli Avventurieri." },
     { "gameKey": "quest/001/ManSea001_00107#TEXT_MANSEA001_00107_SEQ_03", "hash": "F13D33113E32D120", "target": "Ora che hai completato l'iscrizione alla Gilda degli Avventurieri, puoi iniziare a esplorare Limsa Lominsa. Parla di nuovo con Baderon per saperne di più sulla città e sui fondamenti della vita d'avventura." },

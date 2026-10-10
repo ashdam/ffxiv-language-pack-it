@@ -11,7 +11,7 @@
     { "gameKey": "quest/042/AktKzc007_04216#TEXT_AKTKZC007_04216_BLONDESUPPLYMEMBER04216_000_002", "hash": "F3FD6F05D300DEC3", "target": "Lo difenderei da sola, ma quel dannato carico devo portarlo! Se vorrete scortarmi, vi assicuro che saprò ricompensarvi." },
     { "gameKey": "quest/042/AktKzc007_04216#TEXT_AKTKZC007_04216_BLONDESUPPLYMEMBER04216_000_003", "hash": "439DFFF4DC0D7127", "target": "Bene, vi aspetterò fuori dai cancelli del campo. Venite quando sarete <if(gnum4,pronta,pronto)>, ma non fatevi attendere troppo: da queste parti i mostri abbondano." },
     { "gameKey": "quest/042/AktKzc007_04216#TEXT_AKTKZC007_04216_BLONDESUPPLYMEMBER04216_000_011", "hash": "8376A0F458C183B2", "target": "Eccovi, sapevo che avreste avuto cuore per aiutare chi ne ha bisogno." },
-    { "gameKey": "quest/042/AktKzc007_04216#TEXT_AKTKZC007_04216_Q1_000_000", "hash": "DDCB0589E4C141A3", "target": "Che cosa farai?" },
+    { "gameKey": "quest/042/AktKzc007_04216#TEXT_AKTKZC007_04216_Q1_000_000", "hash": "DDCB0589E4C141A3", "target": "Cosa vuoi fare?" },
     { "gameKey": "quest/042/AktKzc007_04216#TEXT_AKTKZC007_04216_A1_000_001", "hash": "9DB8C7227C00E73E", "target": "<colortype(548)>Parlare della Magna Glacies<colortype(0)>" },
     { "gameKey": "quest/042/AktKzc007_04216#TEXT_AKTKZC007_04216_A1_000_002", "hash": "AE63998496AF3E23", "target": "<colortype(548)>Parlare degli iceberg di ceruleum<colortype(0)>" },
     { "gameKey": "quest/042/AktKzc007_04216#TEXT_AKTKZC007_04216_A1_000_003", "hash": "F14F4C0C01A15BD7", "target": "Parlare con la commissary officer" },

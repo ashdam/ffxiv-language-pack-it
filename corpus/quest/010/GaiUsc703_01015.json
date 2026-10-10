@@ -14,7 +14,7 @@
     { "gameKey": "quest/010/GaiUsc703_01015#TEXT_GAIUSC703_01015_SLAFSWYS_000_005", "hash": "0379EB258709F7A8", "target": "Li porterei con noi contro i Kobold, ma credo che una tua richiesta sincera sarebbe più convincente. Potresti andare a Campo Overlook e parlare col comandante Bloeidin al posto mio? Ci renderesti un grande servizio." },
     { "gameKey": "quest/010/GaiUsc703_01015#TEXT_GAIUSC703_01015_BLOEIDIN_000_010", "hash": "401738A403337511", "target": "<if(gnum4,Un'avventuriera,Un avventuriero)>, eh? Con un messaggio di Slafswys, dici?" },
     { "gameKey": "quest/010/GaiUsc703_01015#TEXT_GAIUSC703_01015_BLOEIDIN_000_011", "hash": "C7728A60374B7E34", "target": "Eh? Un attacco preventivo per togliere vento alle vele dei Kobold prima che possano attaccare?" },
-    { "gameKey": "quest/010/GaiUsc703_01015#TEXT_GAIUSC703_01015_BLOEIDIN_000_012", "hash": "B0AD84E5DA597630", "target": "E recluterebbe vecchi bucanieri come <italic(1)>noi<italic(0)>? Quando perfino l'Ammiraglio Merlwyb ha le mani piene con quelle dannate bestie? È l'idea più incrostata di balani che abbia sentito...o la più dannatamente geniale!" },
+    { "gameKey": "quest/010/GaiUsc703_01015#TEXT_GAIUSC703_01015_BLOEIDIN_000_012", "hash": "B0AD84E5DA597630", "target": "E recluterebbe vecchi bucanieri come <italic(1)>noi<italic(0)>? Quando perfino l'ammiraglio Merlwyb ha le mani piene con quelle dannate bestie? È l'idea più incrostata di balani che abbia sentito...o la più dannatamente geniale!" },
     { "gameKey": "quest/010/GaiUsc703_01015#TEXT_GAIUSC703_01015_BLOEIDIN_000_013", "hash": "9308629AB953C4C2", "target": "Gahaha! Confesso che avevo dubbi quando ha lasciato le Giubbe Gialle, ma quella donna è sempre un lupo di mare. Sì, sarà molto interessante." }
   ]
 }

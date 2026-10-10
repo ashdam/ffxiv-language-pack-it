@@ -3,7 +3,7 @@
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/050/KinGzd005_05094#TEXT_KINGZD005_05094_SEQ_00", "hash": "0AF6C7650D3485DB", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>La giovane Xbr'aal cerca qualcuno che segua un individuo sospetto." },
-    { "gameKey": "quest/050/KinGzd005_05094#TEXT_KINGZD005_05094_TODO_00", "hash": "5BCD57C15B5AB9B6", "target": "Attendere nel luogo indicato." },
+    { "gameKey": "quest/050/KinGzd005_05094#TEXT_KINGZD005_05094_TODO_00", "hash": "5BCD57C15B5AB9B6", "target": "Attendere nel luogo indicato" },
     { "gameKey": "quest/050/KinGzd005_05094#TEXT_KINGZD005_05094_TODO_01", "hash": "6A913A4F61F13A46", "target": "Attendere nel luogo indicato, poi seguire l'elderly Xbr'aal senza farsi vedere." },
     { "gameKey": "quest/050/KinGzd005_05094#TEXT_KINGZD005_05094_TODO_02", "hash": "007EF14B142AE86D", "target": "Parlare con l'elderly Xbr'aal." },
     { "gameKey": "quest/050/KinGzd005_05094#TEXT_KINGZD005_05094_TODO_03", "hash": "C3C294E76613F637", "target": "Parlare con la young Xbr'aal." },

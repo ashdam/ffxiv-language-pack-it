@@ -15,7 +15,7 @@
     { "gameKey": "quest/050/KinGzb302_05056#TEXT_KINGZB302_05056_TODO_03", "hash": "89B868733373AE17", "target": "Parlare con il candid craftsman" },
     { "gameKey": "quest/050/KinGzb302_05056#TEXT_KINGZB302_05056_TODO_04", "hash": "FEDB5B2B33764012", "target": "Parlare con Murfurlur" },
     { "gameKey": "quest/050/KinGzb302_05056#TEXT_KINGZB302_05056_MURFURLUR_000_000", "hash": "8BE2CF5570EEED83", "target": "Salve, <split(<string(gstr1)>, ,1)>. Mi onora che siate <if(gnum4,tornata,tornato)> a parlarmi. Mi raccontereste meglio la vostra vita d'avventura?" },
-    { "gameKey": "quest/050/KinGzb302_05056#TEXT_KINGZB302_05056_Q1_000_000", "hash": "E7BD802D6A197CF2", "target": "Cosa vuoi dire?" },
+    { "gameKey": "quest/050/KinGzb302_05056#TEXT_KINGZB302_05056_Q1_000_000", "hash": "E7BD802D6A197CF2", "target": "Che cosa dirai?" },
     { "gameKey": "quest/050/KinGzb302_05056#TEXT_KINGZB302_05056_A1_000_001", "hash": "B9E2042A5184B850", "target": "Aiuto le persone in difficoltà." },
     { "gameKey": "quest/050/KinGzb302_05056#TEXT_KINGZB302_05056_A1_000_002", "hash": "E53F172D028A379E", "target": "Vado dove voglio e improvviso." },
     { "gameKey": "quest/050/KinGzb302_05056#TEXT_KINGZB302_05056_A1_000_003", "hash": "2E5E855454C427BD", "target": "Si potrebbe dire che me la cavo un po' in tutto." },

@@ -38,7 +38,7 @@
     { "gameKey": "quest/036/LucKmg102_03674#TEXT_LUCKMG102_03674_MYSTERYVOICE_000_061", "hash": "D81A8A3B7F785426", "target": "<if(gnum4,Lei ha scongiurato una Calamità,Lui ha scongiurato una Calamità)> e la Luce che sembrava destinata a consumare <if(gnum4,lei,lui)> si è spenta. È naturale che siamo lieti di <if(gnum4,vederla,vederlo)>." },
     { "gameKey": "quest/036/LucKmg102_03674#TEXT_LUCKMG102_03674_YSHTOLA_000_062", "hash": "B954E43344E62E46", "target": "Sì, be', avrete tutto il tempo per festeggiare la sua buona salute <italic(1)>dopo<italic(0)> che avremo finito qui." },
     { "gameKey": "quest/036/LucKmg102_03674#TEXT_LUCKMG102_03674_MYSTERYVOICE_000_063", "hash": "B0034F16CD0E91C5", "target": "C-Certo. Allora procediamo verso il palazzo." },
-    { "gameKey": "quest/036/LucKmg102_03674#TEXT_LUCKMG102_03674_Q1_000_000", "hash": "72D705CD4E88A78D", "target": "Che cosa farai?" },
+    { "gameKey": "quest/036/LucKmg102_03674#TEXT_LUCKMG102_03674_Q1_000_000", "hash": "72D705CD4E88A78D", "target": "Cosa vuoi fare?" },
     { "gameKey": "quest/036/LucKmg102_03674#TEXT_LUCKMG102_03674_A1_000_001", "hash": "B66D6544FB3868A4", "target": "Conversare." },
     { "gameKey": "quest/036/LucKmg102_03674#TEXT_LUCKMG102_03674_A1_000_002", "hash": "4449EE26495EAB2A", "target": "Formare un party ed entrare nel Grand Cosmos." },
     { "gameKey": "quest/036/LucKmg102_03674#TEXT_LUCKMG102_03674_A1_000_003", "hash": "9E15511E139E959C", "target": "Niente." },
