@@ -36,7 +36,7 @@
     { "gameKey": "quest/035/LucKya002_03596#TEXT_LUCKYA002_03596_ACADEMYGATEKEEPER03596_000_045", "hash": "84DA9816BEC2C00E", "target": "<colortype(547)>Infine, devo insistere perché torniate da me al termine della visita. Non possiamo perdere di vista <if(gnum4,la nostra piccola ospite,il nostro piccolo ospite)>. Da questa parte, prego.<colortype(0)>" },
     { "gameKey": "quest/035/LucKya002_03596#TEXT_LUCKYA002_03596_ACADEMYGATEKEEPER03596_000_050", "hash": "EDE9D653B4DC0BFB", "target": "<colortype(547)>Sì, <if(gnum4,piccola,piccolo)>? Non eravate <if(gnum4,pronta,pronto)> a entrare nell'Akadaemia?<colortype(0)>" },
     { "gameKey": "quest/035/LucKya002_03596#TEXT_LUCKYA002_03596_ACADEMYGATEKEEPER03596_000_060", "hash": "2887D7B8B157CF67", "target": "<colortype(547)>Ah, rieccovi qui dopo i vostri studi. Che cosa pensate dei nostri esperimenti? Le vostre domande hanno trovato una risposta soddisfacente?<colortype(0)>" },
-    { "gameKey": "quest/035/LucKya002_03596#TEXT_LUCKYA002_03596_Q1_000_000", "hash": "198F9B32CB128AC4", "target": "Che cosa risponderai?" },
+    { "gameKey": "quest/035/LucKya002_03596#TEXT_LUCKYA002_03596_Q1_000_000", "hash": "198F9B32CB128AC4", "target": "Che cosa dirai?" },
     { "gameKey": "quest/035/LucKya002_03596#TEXT_LUCKYA002_03596_A1_000_001", "hash": "205DB833C68A2E33", "target": "Gli studiosi si erano trasformati in mostri." },
     { "gameKey": "quest/035/LucKya002_03596#TEXT_LUCKYA002_03596_A1_000_002", "hash": "6A5C36B4B935ADD9", "target": "Gli esperimenti erano fuggiti." },
     { "gameKey": "quest/035/LucKya002_03596#TEXT_LUCKYA002_03596_A1_000_003", "hash": "1D94615E4FC5CF02", "target": "Non avevo mai immaginato Lahabrea come uno studioso..." },

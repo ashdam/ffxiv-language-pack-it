@@ -10,7 +10,7 @@
     { "gameKey": "quest/005/ClsWvr250_00592#TEXT_CLSWVR250_00592_TODO_00", "hash": "E414DB9B132D6B04", "target": "Parlare con Kokomo" },
     { "gameKey": "quest/005/ClsWvr250_00592#TEXT_CLSWVR250_00592_TODO_01", "hash": "6A5757A4827E9836", "target": "Parlare con Babawai" },
     { "gameKey": "quest/005/ClsWvr250_00592#TEXT_CLSWVR250_00592_TODO_02", "hash": "E377ACBAB3C54CB7", "target": "Parlare con Redolent Rose" },
-    { "gameKey": "quest/005/ClsWvr250_00592#TEXT_CLSWVR250_00592_TODO_03", "hash": "C3D2B13458BE84FD", "target": "Consegnare un bolt of undyed velveteen <sheet(Addon,9,0)> a Redolent Rose" },
+    { "gameKey": "quest/005/ClsWvr250_00592#TEXT_CLSWVR250_00592_TODO_03", "hash": "C3D2B13458BE84FD", "target": "Consegnare un bolt of undyed velveteen<sheet(Addon,9,0)> a Redolent Rose" },
     { "gameKey": "quest/005/ClsWvr250_00592#TEXT_CLSWVR250_00592_REDOLENTROSE_000", "hash": "25A66184ADAAE0A8", "target": "Questo è davvero uno sviluppo spiacevole..." },
     { "gameKey": "quest/005/ClsWvr250_00592#TEXT_CLSWVR250_00592_REDOLENTROSE_001", "hash": "AE4FF5EB1F59A6CC", "target": "Oh, <split(<string(gstr1)>, ,1)>! Grazie a Nymeia, siete qui. Ho bisogno del vostro aiuto." },
     { "gameKey": "quest/005/ClsWvr250_00592#TEXT_CLSWVR250_00592_REDOLENTROSE_002", "hash": "0A8D4ED8B4911592", "target": "Al momento, tutta la gilda è impegnata a gestire un'improvvisa ondata di ordini. Fra questi c'era una commissione per un abito su misura, di cui intendevo occuparmi personalmente in ogni dettaglio. Ahimè, proprio ora ho ricevuto un'altra richiesta, questa volta da Sua Grazia, che deve naturalmente avere la precedenza." },

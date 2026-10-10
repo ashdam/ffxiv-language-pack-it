@@ -11,7 +11,7 @@
     { "gameKey": "quest/002/ClsBsm301_00298#TEXT_CLSBSM301_00298_SEQ_06", "hash": "90CF87D1092FBCE1", "target": "Ignorando i commenti di Faezahr, Brithael ricorda il giorno in cui sei <if(gnum4,entrata,entrato)> nella Gilda dei Fabbri e sostiene di aver sempre saputo che avevi il potenziale per raggiungere la grandezza. Giura poi che, finché resterai fedele alla gilda, potrai contare sul suo sostegno incrollabile.<br><br>※La prossima missione per Blacksmith sarà disponibile presso Brithael al raggiungimento del livello 35." },
     { "gameKey": "quest/002/ClsBsm301_00298#TEXT_CLSBSM301_00298_TODO_00", "hash": "633FBA1B00A99513", "target": "Parlare con Faezahr" },
     { "gameKey": "quest/002/ClsBsm301_00298#TEXT_CLSBSM301_00298_TODO_01", "hash": "AE20701AE00825CC", "target": "Parlare con Khuswyb" },
-    { "gameKey": "quest/002/ClsBsm301_00298#TEXT_CLSBSM301_00298_TODO_02", "hash": "5AAE218E03E1FD23", "target": "Consegnare una plumed iron hatchet <sheet(Addon,9,0)> a Khuswyb" },
+    { "gameKey": "quest/002/ClsBsm301_00298#TEXT_CLSBSM301_00298_TODO_02", "hash": "5AAE218E03E1FD23", "target": "Consegnare una plumed iron hatchet<sheet(Addon,9,0)> a Khuswyb" },
     { "gameKey": "quest/002/ClsBsm301_00298#TEXT_CLSBSM301_00298_TODO_03", "hash": "55C903527E8A42FC", "target": "Parlare con Faezahr" },
     { "gameKey": "quest/002/ClsBsm301_00298#TEXT_CLSBSM301_00298_TODO_04", "hash": "4BCC2896EEB8FB87", "target": "Fare rapporto a Brithael" },
     { "gameKey": "quest/002/ClsBsm301_00298#TEXT_CLSBSM301_00298_BRITHAEL_000_1", "hash": "60185AEBFD8BE6FC", "target": "Aspettavo che venissi a trovarmi, <if(gnum4,ragazza,ragazzo)>. Sembra che tu abbia un ammiratore! E non parlo nemmeno di me: parlo di qualcun altro!" },

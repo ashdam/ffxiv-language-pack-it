@@ -11,7 +11,7 @@
     { "gameKey": "quest/033/LucKzc003_03386#TEXT_LUCKZC003_03386_TEANNA_000_010", "hash": "7C54C7AD5071E9D0", "target": "Perché sei ancora qui a perdere tempo, recluta? Corri alla Torre di Radisca e consegna la richiesta prima che cambi idea e ti mandi a pulire la latrina!" },
     { "gameKey": "quest/033/LucKzc003_03386#TEXT_LUCKZC003_03386_MYNES_000_020", "hash": "B9BEC483EEAD890D", "target": "Salve, <if(gnum4,viaggiatrice,viaggiatore)>. Cosa ti porta oggi al nostro avamposto?" },
     { "gameKey": "quest/033/LucKzc003_03386#TEXT_LUCKZC003_03386_MYNES_000_021", "hash": "46E6A08656870FB6", "target": "Una richiesta di rifornimenti da Teanna all'Ostall Imperative? Ma perché la consegni <italic(1)>tu<italic(0)> e non uno dei nostri uomini?" },
-    { "gameKey": "quest/033/LucKzc003_03386#TEXT_LUCKZC003_03386_Q1_000_000", "hash": "108B6751CF0888CD", "target": "Cosa dirai?" },
+    { "gameKey": "quest/033/LucKzc003_03386#TEXT_LUCKZC003_03386_Q1_000_000", "hash": "108B6751CF0888CD", "target": "Che cosa dirai?" },
     { "gameKey": "quest/033/LucKzc003_03386#TEXT_LUCKZC003_03386_A1_000_001", "hash": "E980092509DBBA2E", "target": "È quello che vorrei sapere anch'io..." },
     { "gameKey": "quest/033/LucKzc003_03386#TEXT_LUCKZC003_03386_A1_000_002", "hash": "330E02029F046F94", "target": "Ho intenzione di chiedere una ricompensa." },
     { "gameKey": "quest/033/LucKzc003_03386#TEXT_LUCKZC003_03386_MYNES_000_030", "hash": "B8958159B6CCE78C", "target": "Ti ha <if(gnum4,scambiata,scambiato)> per una recluta? La prossima volta dovresti proprio chiarire la situazione. Non che non apprezzi il tuo aiuto, ma Teanna è famosa per mettere sotto chiunque le capiti a tiro." },

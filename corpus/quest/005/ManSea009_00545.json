@@ -52,7 +52,7 @@
     { "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_BADERON_000_34", "hash": "7D7B9F97A2110915", "target": "Però quel pisolino ti ha ridato colore alle guance, quindi ti lascio stare." },
     { "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_BADERON_000_35", "hash": "FC6DDF10A6173AA1", "target": "...Dannazione! Quasi dimenticavo: l'Ammiraglio vuole parlarti." },
     { "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_BADERON_000_36", "hash": "6A5B3B99F0228CA0", "target": "Quando te la senti, parla con Zanthael e ti farà entrare nella Sala di Comando. Ah, e cerca di non addormentarti, eh? Dicono che la vecchia Merlwyb ti stesse raccontando una storia quando hai cominciato a russare, e dubito che la prenderebbe bene se lo facessi di nuovo!" },
-    { "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_ZANTHAEL_000_40", "hash": "60087F81CB68951F", "target": "Salute, <split(<string(gstr1)>, ,1)>. L'Ammiraglio Bloefhiswyn ti attende nella Sala di Comando. Devo annunciarti?" },
+    { "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_ZANTHAEL_000_40", "hash": "60087F81CB68951F", "target": "Salute, <split(<string(gstr1)>, ,1)>. L'ammiraglio Bloefhiswyn ti attende nella Sala di Comando. Devo annunciarti?" },
     { "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_Q1_000_1", "hash": "396CFB4BF0201AC5", "target": "Entrare nella Sala di Comando?" },
     { "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_A1_000_1", "hash": "D5A4EFFD438AFF16", "target": "Sì" },
     { "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_A1_000_2", "hash": "EB85D0F8861EAD02", "target": "No" },

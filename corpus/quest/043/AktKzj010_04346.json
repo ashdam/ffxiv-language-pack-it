@@ -21,7 +21,7 @@
     { "gameKey": "quest/043/AktKzj010_04346#TEXT_AKTKZJ010_04346_MEDITATION4346_000_025", "hash": "B1D3C9F842D4066B", "target": "Vederti mi fa chiedere che aspetto avessero un tempo i nostri corpi. Avevamo arti altrettanto lunghi e sgraziati? Teste altrettanto tondeggianti e sbilanciate? Forse somigliavamo alla tua specie più di quanto ci distinguessimo..." },
     { "gameKey": "quest/043/AktKzj010_04346#TEXT_AKTKZJ010_04346_SPENDTIME4346_000_030", "hash": "ED737F781EC62B0F", "target": "...Che cosa curiosa. Una forma di vita corporea sconosciuta mi rivolge la parola, mentre attendo invano l'inevitabile arrivo della fine." },
     { "gameKey": "quest/043/AktKzj010_04346#TEXT_AKTKZJ010_04346_SPENDTIME4346_000_031", "hash": "8B3F1C8776FA7C1A", "target": "È davvero l'occasione di una vita, forse di molte vite. Ti pongo dunque questa domanda. Dimmi, <if(gnum4,viaggiatrice,viaggiatore)>: qual è la vera natura della vita e dell'universo?" },
-    { "gameKey": "quest/043/AktKzj010_04346#TEXT_AKTKZJ010_04346_Q1_000_000", "hash": "9466AD58DC81F9DC", "target": "Cosa dirai?" },
+    { "gameKey": "quest/043/AktKzj010_04346#TEXT_AKTKZJ010_04346_Q1_000_000", "hash": "9466AD58DC81F9DC", "target": "Che cosa dirai?" },
     { "gameKey": "quest/043/AktKzj010_04346#TEXT_AKTKZJ010_04346_A1_000_001", "hash": "3464155DC0D486C4", "target": "Un'eterna avventura." },
     { "gameKey": "quest/043/AktKzj010_04346#TEXT_AKTKZJ010_04346_A1_000_002", "hash": "ACAA382A895385FA", "target": "Una foresta profonda in cui si celano predatori." },
     { "gameKey": "quest/043/AktKzj010_04346#TEXT_AKTKZJ010_04346_A1_000_003", "hash": "E56A544A77B411BB", "target": "Quarantadue." },

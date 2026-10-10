@@ -23,7 +23,7 @@
     { "gameKey": "quest/024/StmBda317_02493#TEXT_STMBDA317_02493_LYSE_000_033", "hash": "E9AC81DA4827CBE9", "target": "Non sono proprio il tipo da mercante, ma se pensi che sia il modo migliore di procedere, mi fido di te." },
     { "gameKey": "quest/024/StmBda317_02493#TEXT_STMBDA317_02493_YUGIRI_000_034", "hash": "582C8B10B8C54BB6", "target": "Allora, senza ulteriori indugi, cominciamo." },
     { "gameKey": "quest/024/StmBda317_02493#TEXT_STMBDA317_02493_CHIGUSA_000_040", "hash": "171C1171A8244A77", "target": "Voi? <if(gnum4,Una mercante,Un mercante)>? Perdonate il mio scetticismo, ma mi sembrate più <if(gnum4,una comune mercenaria,un comune mercenario)> che <if(gnum4,una donna d'affari,un uomo d'affari)>." },
-    { "gameKey": "quest/024/StmBda317_02493#TEXT_STMBDA317_02493_Q1_100_040", "hash": "DDF4BFD1DA9F9D80", "target": "Che cosa farai?" },
+    { "gameKey": "quest/024/StmBda317_02493#TEXT_STMBDA317_02493_Q1_100_040", "hash": "DDF4BFD1DA9F9D80", "target": "Cosa vuoi fare?" },
     { "gameKey": "quest/024/StmBda317_02493#TEXT_STMBDA317_02493_A1_101_040", "hash": "0AF481BF60F7A860", "target": "Imitare Hancock al meglio." },
     { "gameKey": "quest/024/StmBda317_02493#TEXT_STMBDA317_02493_A1_102_040", "hash": "516CBA7A273B3038", "target": "Sfoggiare il tuo sorriso migliore." },
     { "gameKey": "quest/024/StmBda317_02493#TEXT_STMBDA317_02493_CHIGUSA_000_041", "hash": "BE1DD943403209FD", "target": "Questo non placa affatto i miei dubbi e, semmai, mi spinge a stringere ancora più forte il borsello..." },

@@ -133,7 +133,7 @@
     { "gameKey": "quest/047/ChrHdb832_04719#TEXT_CHRHDB832_04719_HILDIBRAND_000_319", "hash": "2EECADD6263D7ACA", "target": "Ben fatto, ispettore Brandihild! Ancora una volta il clone ha fatto sfigurare l'originale!" },
     { "gameKey": "quest/047/ChrHdb832_04719#TEXT_CHRHDB832_04719_BRADIHILND_000_320", "hash": "96AE173DB6178F75", "target": "Ispettore, vi prego... Non sono che una pallida imitazione del vostro ideale..." },
     { "gameKey": "quest/047/ChrHdb832_04719#TEXT_CHRHDB832_04719_GODBERT_000_321", "hash": "6E74AC3B35F8EC0A", "target": "Ah! Sapevo che stare in compagnia <if(gnum4,della famosa,del famoso)> <split(<string(gstr1)>, ,1)> mi avrebbe condotto a una degna sfida. Degna almeno di farmi sudare." },
-    { "gameKey": "quest/047/ChrHdb832_04719#TEXT_CHRHDB832_04719_Q1_000_000", "hash": "3565C035E7BA14D6", "target": "Cosa dirai?" },
+    { "gameKey": "quest/047/ChrHdb832_04719#TEXT_CHRHDB832_04719_Q1_000_000", "hash": "3565C035E7BA14D6", "target": "Che cosa dirai?" },
     { "gameKey": "quest/047/ChrHdb832_04719#TEXT_CHRHDB832_04719_A1_000_001", "hash": "315C9DB57268F0BB", "target": "Avete fatto tutto il lavoro al posto mio!" },
     { "gameKey": "quest/047/ChrHdb832_04719#TEXT_CHRHDB832_04719_A1_000_002", "hash": "6F9C9EE5C8B6F187", "target": "Avete fatto tutto il lavoro al posto mio..." },
     { "gameKey": "quest/047/ChrHdb832_04719#TEXT_CHRHDB832_04719_GODBERT_000_322", "hash": "1845A499C7BE0005", "target": "Lavoro? Questo? Era solo una scaramuccia giocosa rispetto ai vostri consueti dilemmi di vita o di morte." },

@@ -7,7 +7,7 @@
     { "gameKey": "quest/037/SubCts640_03729#TEXT_SUBCTS640_03729_TODO_01", "hash": "7AAD78093047BAA1", "target": "Parlare con Kai-Shirr" },
     { "gameKey": "quest/037/SubCts640_03729#TEXT_SUBCTS640_03729_KAISHIRR_000_000", "hash": "E5296DE7F677D079", "target": "<split(<string(gstr1)>, ,1)>, hai un momento?" },
     { "gameKey": "quest/037/SubCts640_03729#TEXT_SUBCTS640_03729_KAISHIRR_000_001", "hash": "124164A4EFDBCA75", "target": "Volevo parlarti. È vero che sei <if(gnum4,un'esperta,un esperto)> <sheet(ClassJob,gnum68,0)>?" },
-    { "gameKey": "quest/037/SubCts640_03729#TEXT_SUBCTS640_03729_Q1_000_000", "hash": "06591ECDE243DA92", "target": "Cosa dirai?" },
+    { "gameKey": "quest/037/SubCts640_03729#TEXT_SUBCTS640_03729_Q1_000_000", "hash": "06591ECDE243DA92", "target": "Che cosa dirai?" },
     { "gameKey": "quest/037/SubCts640_03729#TEXT_SUBCTS640_03729_A1_000_001", "hash": "7B7C7F037777287A", "target": "È solo uno dei miei tanti, tanti talenti!" },
     { "gameKey": "quest/037/SubCts640_03729#TEXT_SUBCTS640_03729_A1_000_002", "hash": "E53C092301FDD4F5", "target": "Chi te l'ha detto?" },
     { "gameKey": "quest/037/SubCts640_03729#TEXT_SUBCTS640_03729_KAISHIRR_000_010", "hash": "83A5380609E0F055", "target": "Ah! C'è qualcosa che <italic(1)>non<italic(0)> sai fare? Alphinaud dice che hai lavorato con la Bottega delle Meraviglie e tutto il resto, e mica può farlo chiunque." },

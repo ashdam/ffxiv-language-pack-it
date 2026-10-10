@@ -20,7 +20,7 @@
     { "gameKey": "quest/045/AktKmh106_04531#TEXT_AKTKMH106_04531_MATSYA_000_100", "hash": "7D1F288B78E51607", "target": "Mi piaceva lasciare le vendite a Khalzahl. Potevo limitarmi a pescare, senza dover convincere la gente a mangiare il mio pesce..." },
     { "gameKey": "quest/045/AktKmh106_04531#TEXT_AKTKMH106_04531_MERCHANT04368_000_110", "hash": "8EE98707D0BF2032", "target": "Salve e <if(gnum4,benvenuta,benvenuto)>, <if(gnum4,viaggiatrice,viaggiatore)>! Se è la vostra prima visita a Thavnair, dovete assaggiare il mio speciale lassi all'amra! Il suo gusto rinfrescante non ha rivali!" },
     { "gameKey": "quest/045/AktKmh106_04531#TEXT_AKTKMH106_04531_MERCHANT04368_000_111", "hash": "FD7D80A7C2B981CB", "target": "Quanto costerà una simile meraviglia, vi chiederete? Di solito cedo tre bottiglie al generoso prezzo di diciannovemilaottocento gil, ma per voi? Sono disposto a scendere a diecimila tondi! Sarebbe praticamente un <italic(1)>furto<italic(0)> ai miei danni!" },
-    { "gameKey": "quest/045/AktKmh106_04531#TEXT_AKTKMH106_04531_Q1_000_000", "hash": "FA911795922E5192", "target": "Cosa risponderai?" },
+    { "gameKey": "quest/045/AktKmh106_04531#TEXT_AKTKMH106_04531_Q1_000_000", "hash": "FA911795922E5192", "target": "Che cosa dirai?" },
     { "gameKey": "quest/045/AktKmh106_04531#TEXT_AKTKMH106_04531_A1_000_001", "hash": "5CA94E4ED54F75D7", "target": "Un furto? A quel prezzo, l'unico ladro qui sei tu." },
     { "gameKey": "quest/045/AktKmh106_04531#TEXT_AKTKMH106_04531_A1_000_002", "hash": "FE51C4D757C11122", "target": "Gli affari non vanno ancora bene?" },
     { "gameKey": "quest/045/AktKmh106_04531#TEXT_AKTKMH106_04531_A1_000_003", "hash": "827CABAE9FEB3FC8", "target": "Io... non sono Estinien." },

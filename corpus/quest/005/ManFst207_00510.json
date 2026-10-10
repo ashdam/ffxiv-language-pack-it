@@ -10,7 +10,7 @@
     { "gameKey": "quest/005/ManFst207_00510#TEXT_MANFST207_00510_TODO_01", "hash": "AE8DB628C78CE415", "target": "Parlare con Isembard a Campo Drybone" },
     { "gameKey": "quest/005/ManFst207_00510#TEXT_MANFST207_00510_MINFILIA_000_1", "hash": "7805BDC39A864098", "target": "Noi Eredi abbiamo un unico obiettivo: salvaguardare il futuro di Eorzea. Fra le nostre maggiori preoccupazioni vi sono gli esseri simili a divinità noti come primordiali. Da tempo cerchiamo una soluzione duratura alla minaccia che rappresentano." },
     { "gameKey": "quest/005/ManFst207_00510#TEXT_MANFST207_00510_MINFILIA_000_2", "hash": "AA29E5356F33ECF4", "target": "Non so cosa desideri per te, né cosa ti abbia condotto a Eorzea, ma credo fermamente che il nostro potere ci sia stato donato per uno scopo. Tienine conto quando mi darai la tua risposta, <split(<string(gstr1)>, ,1)>." },
-    { "gameKey": "quest/005/ManFst207_00510#TEXT_MANFST207_00510_Q1_000_1", "hash": "40F0BC7432C33693", "target": "Cosa dirai?" },
+    { "gameKey": "quest/005/ManFst207_00510#TEXT_MANFST207_00510_Q1_000_1", "hash": "40F0BC7432C33693", "target": "Che cosa dirai?" },
     { "gameKey": "quest/005/ManFst207_00510#TEXT_MANFST207_00510_A1_000_1", "hash": "B9DF003D215B945E", "target": "Andrò ovunque sbocci la <italic(1)>rosa selvatica<italic(0)>." },
     { "gameKey": "quest/005/ManFst207_00510#TEXT_MANFST207_00510_A1_000_2", "hash": "FD45B284C310A8A1", "target": "La vostra non è un'impresa da poco..." },
     { "gameKey": "quest/005/ManFst207_00510#TEXT_MANFST207_00510_A1_000_3", "hash": "E361A223646B4FA3", "target": "I pericoli sono grandi..." },

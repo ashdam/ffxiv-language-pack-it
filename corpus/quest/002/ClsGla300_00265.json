@@ -22,7 +22,7 @@
     { "gameKey": "quest/002/ClsGla300_00265#TEXT_CLSGLA300_00265_MYLLA_000_6", "hash": "800BCCD669DC51E9", "target": "Aspetta...ecco! Se qualcuno può aiutarci a svelare questo complotto, è Wymond. Dopotutto, ha la fama di sapere cose che non dovrebbe sapere." },
     { "gameKey": "quest/002/ClsGla300_00265#TEXT_CLSGLA300_00265_MYLLA_000_7", "hash": "A4493C014589D281", "target": "Trova Wymond e vedi che cosa può dirci. Aldis è tante cose, ma <italic(1)>non<italic(0)> è un assassino!" },
     { "gameKey": "quest/002/ClsGla300_00265#TEXT_CLSGLA300_00265_WYMOND_000_30", "hash": "A40CA040424BB84E", "target": "Mi chiedevo quando saresti <if(gnum4,arrivata,arrivato)>, <split(<string(gstr1)>, ,1)>. Francamente, mi sorprende che Aldis si sia lasciato prendere senza fare storie. Dovrebbe sapere che da questa faccenda non si esce vivi..." },
-    { "gameKey": "quest/002/ClsGla300_00265#TEXT_CLSGLA300_00265_Q1_000_40", "hash": "DFCC7132773A20E9", "target": "Che cosa chiederai?" },
+    { "gameKey": "quest/002/ClsGla300_00265#TEXT_CLSGLA300_00265_Q1_000_40", "hash": "DFCC7132773A20E9", "target": "Cosa vuoi chiedere?" },
     { "gameKey": "quest/002/ClsGla300_00265#TEXT_CLSGLA300_00265_A1_000_50", "hash": "845CB4D911899800", "target": "Che cosa è successo tra Aldis e Leavold sette anni fa?" },
     { "gameKey": "quest/002/ClsGla300_00265#TEXT_CLSGLA300_00265_A2_000_60", "hash": "B5B765886C15DA3D", "target": "Perché Aldis si sarebbe consegnato?" },
     { "gameKey": "quest/002/ClsGla300_00265#TEXT_CLSGLA300_00265_WYMOND_000_70", "hash": "B9ED7558994B078A", "target": "Davvero non lo sai, eh? Allora sarà meglio cominciare dall'inizio." },
