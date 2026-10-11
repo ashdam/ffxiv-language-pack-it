@@ -1,9 +1,9 @@
 {
   "gameVersion": "2026.09.15.0000.0000",
-  "translated": 187543,
-  "total": 524610,
-  "percent": 35.7,
-  "chars": 48800955,
+  "translated": 187551,
+  "total": 528223,
+  "percent": 35.5,
+  "chars": 48837426,
   "unresolved": 5455,
   "groups": [
     {
@@ -398,9 +398,15 @@
     },
     {
       "expansion": null,
+      "content": "Crafting log categories (`CraftType`)",
+      "translated": 8,
+      "total": 8
+    },
+    {
+      "expansion": null,
       "content": "Ambient text: NPC chatter, shouts, balloons, duties and guides",
       "translated": 42900,
-      "total": 165422
+      "total": 169027
     }
   ],
   "excludedFromLocalization": [
