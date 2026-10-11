@@ -2,17 +2,17 @@
   "conversation": "quest/018/HeaVnz526_01861",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_SEQ_00", "hash": "773975A7A453604A", "target": "" },
-    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_SEQ_01", "hash": "7D76253EF3BC2CE7", "target": "" },
-    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_SEQ_02", "hash": "ABE3ED1B1A762969", "target": "" },
-    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_SEQ_03", "hash": "F815CD0A3609AA44", "target": "" },
-    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_TODO_00", "hash": "427BD2C2B38B60AD", "target": "" },
-    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_TODO_01", "hash": "D5B900738F9CDDEA", "target": "" },
-    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_SEARCHAIRPORTMOG01861_000_000", "hash": "418880C4801A95E5", "target": "" },
-    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_SEARCHAIRPORTMOG01861_000_001", "hash": "E20FBCB8686AE563", "target": "" },
-    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_SEARCHAIRPORTMOG01861_000_010", "hash": "425905F0689CA677", "target": "" },
-    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_SEARCHAIRPORTMOG01861_000_020", "hash": "6717AB0EA529B0BC", "target": "" },
-    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_SEARCHAIRPORTMOG01861_000_021", "hash": "1ECF495CEBD556AE", "target": "" },
-    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_SEARCHAIRPORTMOG01861_000_022", "hash": "55017D71A6FE4FE0", "target": "" }
+    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_SEQ_00", "hash": "773975A7A453604A", "target": "Questo moguri rovistatore sembra a mani vuote e abbattuto." },
+    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_SEQ_01", "hash": "7D76253EF3BC2CE7", "target": "Il moguri rovistatore ha lavorato sodo per raccogliere strumenti e armi usati un tempo dai signori della terra, ma un gruppo di vouivres ha rubato il frutto della sua giornata. Recupera gli strumenti dai draghi e riportali al moguri." },
+    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_SEQ_02", "hash": "ABE3ED1B1A762969", "target": "Hai recuperato gli strumenti dalle grinfie degli avidi draghi. Consegnali al moguri rovistatore." },
+    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_SEQ_03", "hash": "F815CD0A3609AA44", "target": "Il moguri è felice di riavere tra le zampe il suo prezioso bottino. I draghi che infestano la Rookery nutrono ancora rancore verso i signori della terra e non permettono a nessuno, nemmeno ai moguri, di mettere le mani su strumenti appartenuti ai loro antichi nemici." },
+    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_TODO_00", "hash": "427BD2C2B38B60AD", "target": "Recuperare gli strumenti dai vouivres." },
+    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_TODO_01", "hash": "D5B900738F9CDDEA", "target": "Consegnare gli strumenti al moguri rovistatore." },
+    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_SEARCHAIRPORTMOG01861_000_000", "hash": "418880C4801A95E5", "target": "Ho lavorato senza sosta per raccogliere gli strumenti dei signori della terra sparsi tra queste rovine infestate dai draghi, ma quei feroci vouivres mi hanno attaccato e rubato il frutto delle mie fatiche! Che faccia tosta, kupò!" },
+    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_SEARCHAIRPORTMOG01861_000_001", "hash": "E20FBCB8686AE563", "target": "Dite... <italic(1)>Voi<italic(0)> sembrate in grado di affrontare i prepotenti. Vi prego, recuperate i miei strumenti: i vouivres me ne hanno rubati tre proprio dalle zampe, kupò!" },
+    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_SEARCHAIRPORTMOG01861_000_010", "hash": "425905F0689CA677", "target": "I draghi staranno probabilmente gongolando per il loro bottino rubato proprio ora. Riportatemelo!" },
+    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_SEARCHAIRPORTMOG01861_000_020", "hash": "6717AB0EA529B0BC", "target": "Non posso certo finire la giornata di lavoro a zampe vuote. Avete ciò che i draghi mi hanno rubato, kupò?" },
+    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_SEARCHAIRPORTMOG01861_000_021", "hash": "1ECF495CEBD556AE", "target": "...Sì, sono gli strumenti che avevo trovato! Grazie infinite per avermeli riportati." },
+    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_SEARCHAIRPORTMOG01861_000_022", "hash": "55017D71A6FE4FE0", "target": "I signori del cielo nutrono ancora rancore verso i signori della terra e i loro simili, e non vogliono permettere nemmeno ai moguri di usare gli antichi strumenti dei loro nemici. Noi moguri non ci curiamo dei rancori, e secondo me non sono certo gli strumenti a essere colpevoli dei peccati del passato, kupò." }
   ]
 }

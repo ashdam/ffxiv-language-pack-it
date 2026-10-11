@@ -2,18 +2,18 @@
   "conversation": "quest/019/HeaVnz635_01903",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz635_01903#TEXT_HEAVNZ635_01903_SEQ_00", "hash": "5872BDAAF9B79BA2", "target": "" },
-    { "gameKey": "quest/019/HeaVnz635_01903#TEXT_HEAVNZ635_01903_SEQ_01", "hash": "E3E3924B5ECFD90B", "target": "" },
-    { "gameKey": "quest/019/HeaVnz635_01903#TEXT_HEAVNZ635_01903_SEQ_02", "hash": "B1626825A52FCF98", "target": "" },
-    { "gameKey": "quest/019/HeaVnz635_01903#TEXT_HEAVNZ635_01903_SEQ_03", "hash": "66D773ECA98B5E2A", "target": "" },
-    { "gameKey": "quest/019/HeaVnz635_01903#TEXT_HEAVNZ635_01903_TODO_00", "hash": "EC0CBC0F460E4296", "target": "" },
-    { "gameKey": "quest/019/HeaVnz635_01903#TEXT_HEAVNZ635_01903_TODO_01", "hash": "C915B4FA6DE86358", "target": "" },
-    { "gameKey": "quest/019/HeaVnz635_01903#TEXT_HEAVNZ635_01903_FABRELLET_000_000", "hash": "D5AC428FDBC69F85", "target": "" },
-    { "gameKey": "quest/019/HeaVnz635_01903#TEXT_HEAVNZ635_01903_FABRELLET_000_001", "hash": "FC5F928E71FCBAC9", "target": "" },
-    { "gameKey": "quest/019/HeaVnz635_01903#TEXT_HEAVNZ635_01903_FABRELLET_000_010", "hash": "9CA8FEDE9926E192", "target": "" },
-    { "gameKey": "quest/019/HeaVnz635_01903#TEXT_HEAVNZ635_01903_SYSTEM_000_015", "hash": "515E061F212203C3", "target": "" },
-    { "gameKey": "quest/019/HeaVnz635_01903#TEXT_HEAVNZ635_01903_FABRELLET_000_020", "hash": "91CEA6D8B9A31FE7", "target": "" },
-    { "gameKey": "quest/019/HeaVnz635_01903#TEXT_HEAVNZ635_01903_FABRELLET_000_021", "hash": "D708921F01EC6EEE", "target": "" },
-    { "gameKey": "quest/019/HeaVnz635_01903#TEXT_HEAVNZ635_01903_FABRELLET_000_022", "hash": "BCD4ECE3910A6467", "target": "" }
+    { "gameKey": "quest/019/HeaVnz635_01903#TEXT_HEAVNZ635_01903_SEQ_00", "hash": "5872BDAAF9B79BA2", "target": "Fabrellet sembra terribilmente soddisfatto di sé." },
+    { "gameKey": "quest/019/HeaVnz635_01903#TEXT_HEAVNZ635_01903_SEQ_01", "hash": "E3E3924B5ECFD90B", "target": "Fabrellet ha scoperto di recente diversi nidi di gastornis a est della Casa della Rosa e ha avuto un'idea straordinaria. Per metterla in pratica gli basta un solo uovo. Vai a est della Casa della Rosa e recupera un uovo da uno dei nidi di gastornis." },
+    { "gameKey": "quest/019/HeaVnz635_01903#TEXT_HEAVNZ635_01903_SEQ_02", "hash": "B1626825A52FCF98", "target": "Recuperi un gastornis egg. Torna a Campo Cloudtop e consegnalo a Fabrellet." },
+    { "gameKey": "quest/019/HeaVnz635_01903#TEXT_HEAVNZ635_01903_SEQ_03", "hash": "66D773ECA98B5E2A", "target": "Consegni l'uovo ancora caldo a Fabrellet, che è fuori di sé dalla gioia. Sembrava volesse farne il suo prossimo pasto, ma in realtà intende allevare un uccello tutto suo per avere una scorta di uova sempre pronta." },
+    { "gameKey": "quest/019/HeaVnz635_01903#TEXT_HEAVNZ635_01903_TODO_00", "hash": "EC0CBC0F460E4296", "target": "Recuperare un uovo da un nido di gastornis." },
+    { "gameKey": "quest/019/HeaVnz635_01903#TEXT_HEAVNZ635_01903_TODO_01", "hash": "C915B4FA6DE86358", "target": "Consegnare l'uovo a Fabrellet." },
+    { "gameKey": "quest/019/HeaVnz635_01903#TEXT_HEAVNZ635_01903_FABRELLET_000_000", "hash": "D5AC428FDBC69F85", "target": "Ho avuto grandi idee in vita mia, ma devo dire che questa volta mi sono davvero superato. Di certo vi incuriosisce sapere cosa ho in mente." },
+    { "gameKey": "quest/019/HeaVnz635_01903#TEXT_HEAVNZ635_01903_FABRELLET_000_001", "hash": "FC5F928E71FCBAC9", "target": "Be', non molto tempo fa ho scoperto diversi nidi di gastornis a est della Casa della Rosa. Se poteste recuperare un solo uovo dal nido per me, tutto sarà chiaro." },
+    { "gameKey": "quest/019/HeaVnz635_01903#TEXT_HEAVNZ635_01903_FABRELLET_000_010", "hash": "9CA8FEDE9926E192", "target": "Perché il mio piano funzioni mi basta un solo uovo dal nido. Una volta raggiunta la Casa della Rosa, non è molto lontano." },
+    { "gameKey": "quest/019/HeaVnz635_01903#TEXT_HEAVNZ635_01903_SYSTEM_000_015", "hash": "515E061F212203C3", "target": "Esamini il nido di gastornis, ma non trovi nulla..." },
+    { "gameKey": "quest/019/HeaVnz635_01903#TEXT_HEAVNZ635_01903_FABRELLET_000_020", "hash": "91CEA6D8B9A31FE7", "target": "Avete recuperato un uovo da uno dei nidi?" },
+    { "gameKey": "quest/019/HeaVnz635_01903#TEXT_HEAVNZ635_01903_FABRELLET_000_021", "hash": "D708921F01EC6EEE", "target": "Oh, è ancora caldo! Ottimo! Le uova saranno un'eccellente aggiunta alle nostre scorte di viveri." },
+    { "gameKey": "quest/019/HeaVnz635_01903#TEXT_HEAVNZ635_01903_FABRELLET_000_022", "hash": "BCD4ECE3910A6467", "target": "Mh? Non dite sciocchezze. Un solo uovo non può sfamare tutto il campo. Ma quando avrò fatto schiudere l'uovo e allevato un gastornis tutto mio, avremo tutte le uova che potremo desiderare!" }
   ]
 }

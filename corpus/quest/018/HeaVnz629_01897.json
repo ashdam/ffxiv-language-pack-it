@@ -2,18 +2,18 @@
   "conversation": "quest/018/HeaVnz629_01897",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_SEQ_00", "hash": "93069934577338E4", "target": "" },
-    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_SEQ_01", "hash": "580640EC83BA19FB", "target": "" },
-    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_SEQ_02", "hash": "E6508A9B0D9CB81D", "target": "" },
-    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_SEQ_03", "hash": "34C54AC0AFE85165", "target": "" },
-    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_TODO_00", "hash": "2797043B785D7DA3", "target": "" },
-    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_TODO_01", "hash": "7F6D297880ABEDC3", "target": "" },
-    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_000", "hash": "A20DC8E7A1E6380A", "target": "" },
-    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_001", "hash": "7333D71E9586311E", "target": "" },
-    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_010", "hash": "6FB5E38E169E2E40", "target": "" },
-    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_020", "hash": "A0B74E950D732EEC", "target": "" },
-    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_021", "hash": "3268A8862FFD3166", "target": "" },
-    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_022", "hash": "D60ACDE3AF48AB77", "target": "" },
-    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_023", "hash": "25AA845428A48C82", "target": "" }
+    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_SEQ_00", "hash": "93069934577338E4", "target": "Negli occhi di Pierriquet brilla una scintilla diabolica." },
+    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_SEQ_01", "hash": "580640EC83BA19FB", "target": "Pierriquet ha bisogno di tre zoblyn shells e ti ha chiesto di aiutarlo a procurarseli. Uccidi tre ice zoblyn nei dintorni e raccogli i loro gusci per lui." },
+    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_SEQ_02", "hash": "E6508A9B0D9CB81D", "target": "Raccogli i gusci richiesti da Pierriquet. Riportaglieli al Presidio dei Giustizieri e scopri cosa intende farne." },
+    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_SEQ_03", "hash": "34C54AC0AFE85165", "target": "Pierriquet è felice del dono dei gusci di zoblyn. Intende usarli per fabbricare munizioni economiche e sostenibili per i vecchi cannoni malridotti che sta riparando al Campo Riversmeet." },
+    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_TODO_00", "hash": "2797043B785D7DA3", "target": "Uccidere gli ice zoblyn e ottenere i loro gusci." },
+    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_TODO_01", "hash": "7F6D297880ABEDC3", "target": "Consegnare i gusci a Pierriquet." },
+    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_000", "hash": "A20DC8E7A1E6380A", "target": "<if([gnum11<12],<if([gnum11<4],Buonasera,Buongiorno)>,<if([gnum11<17],Buongiorno,Buonasera)>)>, <if(gnum4,mia signora,mio signore)>. Se non vi dispiace, avreste la gentilezza di aiutarmi con una faccenda?" },
+    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_001", "hash": "7333D71E9586311E", "target": "Vi sarei proprio grato se mi procuraste degli zoblyn shells. Ci sono degli ice zoblyn qui intorno. Potreste prendere i gusci da loro. Me ne servono almeno tre." },
+    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_010", "hash": "6FB5E38E169E2E40", "target": "Tre gusci basteranno, <if(gnum4,mia signora,mio signore)>, se avete un po' di tempo da dedicarmi." },
+    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_020", "hash": "A0B74E950D732EEC", "target": "Avete quegli zoblyn shells, <if(gnum4,mia signora,mio signore)>?" },
+    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_021", "hash": "3268A8862FFD3166", "target": "Oh, questi sono meravigliosi, davvero. Grazie mille." },
+    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_022", "hash": "D60ACDE3AF48AB77", "target": "Vedete, ho trovato dei vecchi cannoni al Campo Riversmeet. Erano proprio malridotti quando li ho trovati, ma li sto riparando... Certo, non ho palle di cannone da sparare." },
+    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_023", "hash": "25AA845428A48C82", "target": "Ma volere è potere! Questi gusci di zoblyn sono duri come il ferro e, se li spezzate nel modo giusto, potete lasciarci un bordo terribilmente affilato. Secondo me, sparati da un cannone ridurranno le ali di un drago a brandelli!" }
   ]
 }

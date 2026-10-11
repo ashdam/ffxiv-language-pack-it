@@ -2,15 +2,15 @@
   "conversation": "quest/018/HeaVnz507_01842",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_SEQ_00", "hash": "FDE1E92701C38BC2", "target": "" },
-    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_SEQ_01", "hash": "4C87DCB3870AF5A1", "target": "" },
-    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_SEQ_02", "hash": "4020C9470CD461C0", "target": "" },
-    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_SEQ_03", "hash": "FFDE292953B407F6", "target": "" },
-    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_TODO_00", "hash": "28685CED3668E9F0", "target": "" },
-    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_TODO_01", "hash": "8EDC6F5EE4744EEA", "target": "" },
-    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_MOGNELL_000_000", "hash": "9565F09E9BF388E0", "target": "" },
-    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_MOGNELL_000_001", "hash": "09BBDDE406C1CA94", "target": "" },
-    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_MOGNELL_000_020", "hash": "F08FEB0753A6DCD3", "target": "" },
-    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_MOGNELL_000_021", "hash": "E6F439702415F9F4", "target": "" }
+    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_SEQ_00", "hash": "FDE1E92701C38BC2", "target": "Mognell ha un bernoccolo sul naso e un ronzio nelle orecchie." },
+    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_SEQ_01", "hash": "4C87DCB3870AF5A1", "target": "Mognell ha avvistato uno sciame di enormi insetti che stanno per deporre le uova sotto la sua postazione di guardia. Ti chiede di eliminare tre expecting damselfly, per impedire che la loro malvagia progenie invada le Churning Mists." },
+    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_SEQ_02", "hash": "4020C9470CD461C0", "target": "Elimini tre expecting damselfly. Torna da Mognell in cima alle rovine di Asah per informarlo del tuo successo." },
+    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_SEQ_03", "hash": "FFDE292953B407F6", "target": "Mognell è sollevato dalla notizia della morte delle damigelle. Ti spiega che nelle Churning Mists compaiono spesso insetti invasivi: i draghi ne riportano le uova dal mondo sottostante nel terriccio tra gli artigli. La prossima volta Mognell se ne occuperà personalmente... a meno che non riesca a convincere qualcuno di passaggio a fare il lavoro al suo posto." },
+    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_TODO_00", "hash": "28685CED3668E9F0", "target": "Sconfiggere gli insetti feroci ai Four Arms" },
+    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_TODO_01", "hash": "8EDC6F5EE4744EEA", "target": "Fare rapporto a Mognell" },
+    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_MOGNELL_000_000", "hash": "9565F09E9BF388E0", "target": "Ultimamente ho visto grossi insetti cattivi volare ai Four Arms: creature enormi e spinose che sembrano piene di uova. Se quelle uova si schiudono, avremo un bel problema fra le zampe! Potresti liberarmene, kupò?" },
+    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_MOGNELL_000_001", "hash": "09BBDDE406C1CA94", "target": "Ho provato a schiacciare da solo quegli orribili insetti, kupò, ma ho scoperto che non erano piccoli e vicini: erano grandi e lontani. Ci ho guadagnato soltanto un naso gonfio..." },
+    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_MOGNELL_000_020", "hash": "F08FEB0753A6DCD3", "target": "Hai eliminato quei grossi insetti cattivi, kupò? Grazie infinite!" },
+    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_MOGNELL_000_021", "hash": "E6F439702415F9F4", "target": "Quando i draghi scendono nel mondo sottostante, spesso riportano uova di insetti o semi di piante infestanti nel terriccio fra gli artigli. E tocca a noi estirparli. Sono così sconsiderati, kupò!" }
   ]
 }

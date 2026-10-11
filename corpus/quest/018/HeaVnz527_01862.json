@@ -2,17 +2,17 @@
   "conversation": "quest/018/HeaVnz527_01862",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_SEQ_00", "hash": "83B211224C3D3A3B", "target": "" },
-    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_SEQ_01", "hash": "0B717F0655A10CDE", "target": "" },
-    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_SEQ_02", "hash": "90A21505AC22B26F", "target": "" },
-    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_SEQ_03", "hash": "0A31511318108D65", "target": "" },
-    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_SEQ_04", "hash": "CEEEA9479CAC54E9", "target": "" },
-    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_TODO_00", "hash": "FEF8ED57A7E26228", "target": "" },
-    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_TODO_01", "hash": "62C103750ECD63C3", "target": "" },
-    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_TODO_02", "hash": "76498BCFE1E8191A", "target": "" },
-    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_REMAINSMOG01862_000_000", "hash": "009672D52DB8B469", "target": "" },
-    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_REMAINSMOG01862_000_010", "hash": "3149264F50125857", "target": "" },
-    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_REMAINSMOG01862_000_020", "hash": "85F8C6A5DCDA7DEA", "target": "" },
-    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_REMAINSMOG01862_000_021", "hash": "60B4968D8995BAA0", "target": "" }
+    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_SEQ_00", "hash": "83B211224C3D3A3B", "target": "Questo moguri ha perso qualcosa che gli è caro." },
+    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_SEQ_01", "hash": "0B717F0655A10CDE", "target": "Un syricta ha raccolto l'anello di questo povero moguri dopo che gli era caduto durante una tranquilla passeggiata attraverso House of Letters. Recupera il prezioso anello da uno dei feroci syrictae della zona." },
+    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_SEQ_02", "hash": "90A21505AC22B26F", "target": "Hai ucciso quattro elder syrictae, ma nessuno di loro aveva rubato l'anello del povero moguri. Uccidi altri syrictae finché non trovi la bestia sfacciata che lo ha preso." },
+    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_SEQ_03", "hash": "0A31511318108D65", "target": "Il syricta restituisce l'anello perduto dopo una dura battaglia. Riportalo al moguri abbattuto." },
+    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_SEQ_04", "hash": "CEEEA9479CAC54E9", "target": "Il moguri si illumina quando gli presenti l'anello: a quanto pare, gli era costato tutte le noci kupò che possedeva." },
+    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_TODO_00", "hash": "FEF8ED57A7E26228", "target": "Recuperare l'anello da un elder syricta." },
+    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_TODO_01", "hash": "62C103750ECD63C3", "target": "Recuperare l'anello da un elder syricta." },
+    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_TODO_02", "hash": "76498BCFE1E8191A", "target": "Consegnare l'anello al moguri." },
+    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_REMAINSMOG01862_000_000", "hash": "009672D52DB8B469", "target": "Oh no... Mi godevo una tranquilla passeggiata e mi è caduto il mio anello preferito. Ho visto uno di quei syrictae dall'aspetto brutale raccoglierlo. Per favore, potreste recuperarlo per me, kupò?" },
+    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_REMAINSMOG01862_000_010", "hash": "3149264F50125857", "target": "Non posso sperare di strappare il mio anello a uno di quei syrictae senza aiuto. Voi, però, sembrate in grado di farlo!" },
+    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_REMAINSMOG01862_000_020", "hash": "85F8C6A5DCDA7DEA", "target": "Non posso credere che quei syrictae abbiano la faccia tosta di prendere tutto ciò che trovano a terra. Avete potuto recuperare il mio anello, kupò?" },
+    { "gameKey": "quest/018/HeaVnz527_01862#TEXT_HEAVNZ527_01862_REMAINSMOG01862_000_021", "hash": "60B4968D8995BAA0", "target": "È il mio anello! Sapevo che avreste potuto riprenderlo a quei cattivi syrictae. Non avrei mai potuto perdonarmi di averlo perso: mi è costato i risparmi di una vita, quarantadue noci kupò!" }
   ]
 }

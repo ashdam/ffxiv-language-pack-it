@@ -2,17 +2,17 @@
   "conversation": "quest/017/HeaVnz114_01763",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_SEQ_00", "hash": "EB0B48BCFD9090D6", "target": "" },
-    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_SEQ_01", "hash": "18BEECBBCCCBE116", "target": "" },
-    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_SEQ_02", "hash": "6A60D939CB4CBBCF", "target": "" },
-    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_SEQ_03", "hash": "C94937C434BFD96B", "target": "" },
-    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_TODO_00", "hash": "035FDB212E18CE1F", "target": "" },
-    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_TODO_01", "hash": "8067B5EA1053D188", "target": "" },
-    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_LUCIAE_000_000", "hash": "F863B9E93E5B8F2F", "target": "" },
-    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_LUCIAE_000_001", "hash": "DA86EAF75A0FD74C", "target": "" },
-    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_LUCIAE_000_010", "hash": "882DC2440B8A5F1B", "target": "" },
-    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_LUCIAE_100_030", "hash": "880DAEF5ABC45BE8", "target": "" },
-    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_LUCIAE_000_030", "hash": "DFE022F50327BE79", "target": "" },
-    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_LUCIAE_000_031", "hash": "8427475CB110E0BB", "target": "" }
+    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_SEQ_00", "hash": "EB0B48BCFD9090D6", "target": "Luciae cerca qualcuno che l'aiuti a scaldarsi durante le fredde notti di Coerthas." },
+    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_SEQ_01", "hash": "18BEECBBCCCBE116", "target": "Il freddo pungente di Coerthas sta minando il morale della guarnigione. Luciae ti ha chiesto di aiutarla ad aumentare le scorte di coperte del Presidio dei Giustizieri, raccogliendo lana di yak per confezionarle. Uccidi tre wooly yak per ricavarne la lana." },
+    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_SEQ_02", "hash": "6A60D939CB4CBBCF", "target": "Abbatti gli yak e ne tosi le carcasse. Consegna la lana a Luciae e riscuoti la tua ricompensa." },
+    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_SEQ_03", "hash": "C94937C434BFD96B", "target": "Luciae afferma che la lana è della migliore qualità che abbia mai visto. Le coperte calde e spesse che ne ricaverà proteggeranno la guarnigione dalle intemperie." },
+    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_TODO_00", "hash": "035FDB212E18CE1F", "target": "Uccidere gli yak e raccogliere la loro lana." },
+    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_TODO_01", "hash": "8067B5EA1053D188", "target": "Consegnare la lana a Luciae." },
+    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_LUCIAE_000_000", "hash": "F863B9E93E5B8F2F", "target": "\\<sigh> ...Mh? Ho l'aria preoccupata, dite? Be', qui tutti abbiamo la nostra dose di problemi. Volete dare una mano?" },
+    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_LUCIAE_000_001", "hash": "DA86EAF75A0FD74C", "target": "Qui il freddo è un nemico costante. La lana di yak per confezionare coperte non basta mai. Se me ne portate tre ceste, farò in modo che ne valga la pena." },
+    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_LUCIAE_000_010", "hash": "882DC2440B8A5F1B", "target": "Portatemi tre baskets of yak wool e vi ricompenserò come si deve." },
+    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_LUCIAE_100_030", "hash": "880DAEF5ABC45BE8", "target": "Abbiamo ancora bisogno di quella lana, se volete procurarcela." },
+    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_LUCIAE_000_030", "hash": "DFE022F50327BE79", "target": "È una delle lane migliori che abbia mai visto! Devo dire che avete fatto molto più di quanto vi avessi chiesto." },
+    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_LUCIAE_000_031", "hash": "8427475CB110E0BB", "target": "Vi ringrazio di cuore. In questi giorni le notti sono gelide, ma le coperte fatte con questa lana terranno al caldo la nostra gente." }
   ]
 }

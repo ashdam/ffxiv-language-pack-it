@@ -2,18 +2,18 @@
   "conversation": "quest/018/HeaVnz312_01804",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_SEQ_00", "hash": "D8FF7B5C8BC6FCBF", "target": "" },
-    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_SEQ_01", "hash": "71EF6BEFB6E0002A", "target": "" },
-    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_SEQ_02", "hash": "033359FF69F4B396", "target": "" },
-    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_SEQ_03", "hash": "DB28883BACD1ED2D", "target": "" },
-    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_TODO_00", "hash": "81223C5BA33A3995", "target": "" },
-    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_TODO_01", "hash": "99BBC6D7F0E021B7", "target": "" },
-    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_GOODGNATHA01804_000_000", "hash": "AEA02507C0007368", "target": "" },
-    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_GOODGNATHA01804_000_001", "hash": "FE5D92F81B8A7AF6", "target": "" },
-    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_GOODGNATHA01804_000_010", "hash": "1D28B3670744C117", "target": "" },
-    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_STORYTELLER_000_020", "hash": "2ADC041D62D5BAB8", "target": "" },
-    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_STORYTELLER_000_030", "hash": "BAF47798E6CDFA59", "target": "" },
-    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_GOODGNATHA01804_000_040", "hash": "35CED03B9B9B116C", "target": "" },
-    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_GOODGNATHA01804_000_041", "hash": "463E89DBD7558149", "target": "" }
+    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_SEQ_00", "hash": "D8FF7B5C8BC6FCBF", "target": "Una Gnath nel magazzino sembra confusa e disorientata." },
+    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_SEQ_01", "hash": "71EF6BEFB6E0002A", "target": "L'operaia dei Senzamente non riesce più a sentire gli ordini della Mente Unica. Non sapendo cosa fare, ti chiede aiuto. Vai a Loth ast Vath e informa il narratore Vath della situazione." },
+    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_SEQ_02", "hash": "033359FF69F4B396", "target": "Il narratore Vath considera subito questa una buona notizia. L'idea di accogliere un nuovo membro dei Senzamente sembra incoraggiarlo. Ti dice di indirizzare la Gnath smarrita a Loth ast Vath." },
+    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_SEQ_03", "hash": "DB28883BACD1ED2D", "target": "Riferisci il messaggio del narratore all'operaia dei Senzamente. Sembra entusiasta di trovare altri come lei e parte subito per Loth ast Vath. Si spera che riesca a integrarsi facilmente nella sua nuova colonia." },
+    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_TODO_00", "hash": "81223C5BA33A3995", "target": "Parlare con il narratore Vath a Loth ast Vath." },
+    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_TODO_01", "hash": "99BBC6D7F0E021B7", "target": "Spiegare all'operaia dei Senzamente cosa fare." },
+    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_GOODGNATHA01804_000_000", "hash": "AEA02507C0007368", "target": "Dove siamo? <italic(1)>Chi<italic(0)> siamo? \\<click> \\<click> Aspettiamo i nostri ordini, ma non riusciamo a sentirli. Che cosa dobbiamo fare?" },
+    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_GOODGNATHA01804_000_001", "hash": "FE5D92F81B8A7AF6", "target": "Non parliamo con le creature di carne. \\<click> \\<click> ...Ma non abbiamo scelta. Che cosa dobbiamo fare, creatura di carne? Chiedete a qualcuno per noi, per favore." },
+    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_GOODGNATHA01804_000_010", "hash": "1D28B3670744C117", "target": "Per favore, chiedete a qualcuno cosa dobbiamo fare. \\<click> \\<click>" },
+    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_STORYTELLER_000_020", "hash": "2ADC041D62D5BAB8", "target": "\\<click> \\<click> La Gnath che descrivete sembra essersi risvegliata, aver trovato il dono della consapevolezza di sé. È una buona notizia. Abbiamo una nuova sorella! <if(gnum4,Cacciatrice,Cacciatore)>, per favore, dite alla nostra nuova sorella di venire qui, a Loth ast Vath." },
+    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_STORYTELLER_000_030", "hash": "BAF47798E6CDFA59", "target": "Ritrovate la nostra nuova sorella e ditele di venire a Loth ast Vath. \\<click> \\<click>" },
+    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_GOODGNATHA01804_000_040", "hash": "35CED03B9B9B116C", "target": "I... Senzamente? \\<click> \\<click> Quindi ce ne sono altri. Altri Gnath come noi." },
+    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_GOODGNATHA01804_000_041", "hash": "463E89DBD7558149", "target": "Capiamo. Andremo lì adesso. Dobbiamo, altrimenti ci distruggeranno. Grazie, gentile creatura di carne." }
   ]
 }

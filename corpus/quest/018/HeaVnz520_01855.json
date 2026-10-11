@@ -2,15 +2,15 @@
   "conversation": "quest/018/HeaVnz520_01855",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_SEQ_00", "hash": "251352CFEB9FDE5C", "target": "" },
-    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_SEQ_01", "hash": "A35E6EE613A819A2", "target": "" },
-    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_SEQ_02", "hash": "68A5242E10705D80", "target": "" },
-    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_SEQ_03", "hash": "11EC7B183E7BACD2", "target": "" },
-    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_TODO_00", "hash": "056A558E1724B264", "target": "" },
-    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_TODO_01", "hash": "010E2D1324184619", "target": "" },
-    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_GUIDEMOG01855_000_000", "hash": "073A7ECAD3304357", "target": "" },
-    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_GUIDEMOG01855_000_001", "hash": "210D58ECD6FAB607", "target": "" },
-    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_GUIDEMOG01855_000_010", "hash": "411CE259782EAED6", "target": "" },
-    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_GUIDEMOG01855_000_020", "hash": "7814BB960B0250AE", "target": "" }
+    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_SEQ_00", "hash": "251352CFEB9FDE5C", "target": "Questo moguri scansafatiche sembra proprio sfinito." },
+    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_SEQ_01", "hash": "A35E6EE613A819A2", "target": "Questo moguri in difficoltà è assediato da una folla di dragonets curiosi. Uccidine quattro per offrirgli un po' di respiro." },
+    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_SEQ_02", "hash": "68A5242E10705D80", "target": "Hai ucciso i dragonets, assicurandoti che non mordicchino più le calcagna del moguri. Riferisci il tuo operato al moguri scansafatiche." },
+    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_SEQ_03", "hash": "11EC7B183E7BACD2", "target": "Il moguri scansafatiche è sollevato di potersi finalmente fermare a riprendere fiato. Per quanto gli piaccia ricevere attenzioni, gli animali selvatici non vanno sottovalutati, soprattutto se numerosi." },
+    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_TODO_00", "hash": "056A558E1724B264", "target": "Uccidere dei dragonets." },
+    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_TODO_01", "hash": "010E2D1324184619", "target": "Fare rapporto al moguri scansafatiche." },
+    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_GUIDEMOG01855_000_000", "hash": "073A7ECAD3304357", "target": "Non resisterò ancora a lungo, kupò... Ho sbattuto le ali tutto il giorno per sfuggire a questi dragonets irritanti. Sembrano affascinati dai moguri e non smettono di seguirmi!" },
+    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_GUIDEMOG01855_000_001", "hash": "210D58ECD6FAB607", "target": "Diventano sempre più numerosi: ormai non c'è scelta, bisogna sfoltire un po' la folla. Se deste una bella lezione ai cuccioli di drago, imparerebbero a non molestare un povero moguri, kupò!" },
+    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_GUIDEMOG01855_000_010", "hash": "411CE259782EAED6", "target": "Non riuscirò a sfuggirgli in volo ancora a lungo. Spaventateli per me!" },
+    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_GUIDEMOG01855_000_020", "hash": "7814BB960B0250AE", "target": "Finalmente quei seccatori non mi disturbano più! Forse la prossima volta i dragonets non saranno tanto sfacciati. Per quanto i moguri siano carini, e lo <italic(1)>siamo<italic(0)>, questo non dà agli animali selvatici il diritto di accalcarsi intorno a noi come fossimo pezzi di carne, kupò!" }
   ]
 }

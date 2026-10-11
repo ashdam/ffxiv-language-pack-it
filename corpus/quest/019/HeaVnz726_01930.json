@@ -2,17 +2,17 @@
   "conversation": "quest/019/HeaVnz726_01930",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_SEQ_00", "hash": "2A2D0D48BF265F16", "target": "" },
-    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_SEQ_01", "hash": "32DDF96AAC25BE7B", "target": "" },
-    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_SEQ_02", "hash": "06902E5A14712AD4", "target": "" },
-    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_SEQ_03", "hash": "30C24712F15DE29E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_TODO_00", "hash": "7518B5DB0FB08338", "target": "" },
-    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_TODO_01", "hash": "BFE7A32CB17D34C4", "target": "" },
-    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_IDATEN_000_000", "hash": "1A3D5264C560A7D2", "target": "" },
-    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_IDATEN_000_001", "hash": "17A9B7DA6778542E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_IDATEN_000_010", "hash": "7442FCD6CCC0C5D8", "target": "" },
-    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_IDATEN_000_020", "hash": "3F35E4CFFC1C5862", "target": "" },
-    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_IDATEN_000_021", "hash": "560467FF7F18DD01", "target": "" },
-    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_IDATEN_000_022", "hash": "AF83F2EF2C25E8FD", "target": "" }
+    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_SEQ_00", "hash": "2A2D0D48BF265F16", "target": "Il corridore dei Vath ti guarda con aspettativa." },
+    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_SEQ_01", "hash": "32DDF96AAC25BE7B", "target": "Il corridore dei Vath è preoccupato dalle notizie di un imminente assalto degli Gnath a Loth ast Vath. I Vath non sono pronti ad affrontare un'offensiva diretta e totale da parte dell'alveare gnath, molto più grande. La loro unica possibilità è un attacco preventivo, per indebolire il nemico prima che finisca di mobilitarsi." },
+    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_SEQ_02", "hash": "06902E5A14712AD4", "target": "Uccidi gli Gnath come richiesto, sperando di ostacolare i loro piani di attacco ai Vath. Torna dal corridore dei Vath e riferisci il completamento della missione." },
+    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_SEQ_03", "hash": "30C24712F15DE29E", "target": "Il corridore si congratula con te per la missione riuscita. Spiega poi come abbia scoperto il piano d'attacco: i Vath Senzamente non possono sentire i pensieri della Mente Unica gnath, ma non perché il legame mentale sia del tutto reciso; è soltanto molto indebolito. Alcuni Vath riescono, di tanto in tanto, a percepire i pensieri della Mente Unica. Non sembra che gli Gnath sappiano di questo legame residuo, né delle informazioni che fornisce ai Vath." },
+    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_TODO_00", "hash": "7518B5DB0FB08338", "target": "Uccidere degli Gnath." },
+    {"gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_TODO_01", "hash": "BFE7A32CB17D34C4", "target": "Fare rapporto al Vath piedelesto"},
+    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_IDATEN_000_000", "hash": "1A3D5264C560A7D2", "target": "Portiamo notizie terribili. Abbiamo saputo che gli Gnath intendono sferrare un attacco devastante contro Loth ast Vath. Stanno mobilitando le loro forze." },
+    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_IDATEN_000_001", "hash": "17A9B7DA6778542E", "target": "Non possiamo resistere a un assalto diretto. <if(gnum4,Generosa cacciatrice,Generoso cacciatore)>, dobbiamo chiederti di compiere un attacco preventivo contro gli Gnath. Ti prego, uccidine quattro. Indebolisci le loro forze e ferma l'attacco prima che possa iniziare." },
+    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_IDATEN_000_010", "hash": "7442FCD6CCC0C5D8", "target": "<if(gnum4,Generosa cacciatrice,Generoso cacciatore)>. Ti prego, uccidi quattro Gnath. Non potremmo sopravvivere a un assalto diretto dell'alveare gnath." },
+    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_IDATEN_000_020", "hash": "3F35E4CFFC1C5862", "target": "È andata bene quanto potevamo sperare. Il tuo attacco preventivo li ha costretti sulla difensiva. Ti ringraziamo." },
+    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_IDATEN_000_021", "hash": "560467FF7F18DD01", "target": "Gli Gnath sentono tutti i pensieri degli altri, mentre noi che viviamo qui, i Vath, no. Ma questo non significa che non sentiamo <italic(1)>mai<italic(0)> i pensieri altrui. Il legame con la Mente Unica non è del tutto reciso." },
+    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_IDATEN_000_022", "hash": "AF83F2EF2C25E8FD", "target": "Alcuni di noi, a volte, riescono a distinguere i pensieri della Mente Unica. Sospettiamo che non sappiano che ogni tanto conosciamo i loro piani." }
   ]
 }

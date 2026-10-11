@@ -2,19 +2,19 @@
   "conversation": "quest/017/HeaVnz201_01770",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_SEQ_00", "hash": "D3F2F0A99A4E4B79", "target": "" },
-    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_SEQ_01", "hash": "40B27DAA33EDEEB0", "target": "" },
-    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_SEQ_02", "hash": "783A3BA33520E5EF", "target": "" },
-    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_SEQ_03", "hash": "68811D622ADDEB16", "target": "" },
-    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_TODO_00", "hash": "0E8F4B3B01BFC42C", "target": "" },
-    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_TODO_01", "hash": "B63193E3D7552761", "target": "" },
-    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_VIRGEAUME_000_000", "hash": "948E59310584F169", "target": "" },
-    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_VIRGEAUME_000_001", "hash": "E0364D26F1DA26BA", "target": "" },
-    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_VIRGEAUME_000_010", "hash": "868F8F99EE2D6603", "target": "" },
-    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_SYSTEM_000_020", "hash": "201986499A8DD239", "target": "" },
-    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_SYSTEM_000_021", "hash": "B158485911C41983", "target": "" },
-    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_VIRGEAUME_000_040", "hash": "D491EF937CDF4146", "target": "" },
-    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_VIRGEAUME_000_041", "hash": "4167298BE1A3399D", "target": "" },
-    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_VIRGEAUME_000_042", "hash": "A800D994DFF90490", "target": "" }
+    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_SEQ_00", "hash": "D3F2F0A99A4E4B79", "target": "Virgeaume sembra avere i chocobo per la testa." },
+    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_SEQ_01", "hash": "40B27DAA33EDEEB0", "target": "Virgeaume ti ha chiesto di controllare le due trappole che ha piazzato: una a monte del Fiume Whilom e l'altra a est di Tailfeather. Verifica se hanno catturato qualcosa." },
+    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_SEQ_02", "hash": "783A3BA33520E5EF", "target": "Sembra che i chocobo che Virgeaume intendeva catturare siano fuggiti con l'esca senza far scattare le trappole. Portagli la triste notizia." },
+    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_SEQ_03", "hash": "68811D622ADDEB16", "target": "Benché Virgeaume lamenti la perdita delle esche, è sorpreso che gli uccelli, e anche tu, abbiate evitato le fosse che aveva scavato con tanta cura." },
+    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_TODO_00", "hash": "0E8F4B3B01BFC42C", "target": "Esaminare le trappole nei due luoghi." },
+    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_TODO_01", "hash": "B63193E3D7552761", "target": "Fare rapporto a Virgeaume." },
+    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_VIRGEAUME_000_000", "hash": "948E59310584F169", "target": "Cacciare i chocobo non è facile come sembra: quegli uccelli sono fin troppo furbi! Però ho progettato delle nuove trappole e le ho piazzate intorno a Tailfeather qualche giorno fa. Forse è ora di controllarle... Potreste farlo per me?" },
+    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_VIRGEAUME_000_001", "hash": "E0364D26F1DA26BA", "target": "Ce ne sono due: una a monte del Fiume Whilom e una a est di Tailfeather. Dovete soltanto andare a vedere se hanno catturato qualcosa." },
+    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_VIRGEAUME_000_010", "hash": "868F8F99EE2D6603", "target": "Andate a monte del Fiume Whilom per la prima trappola e a est di Tailfeather per la seconda. Fatemi sapere se hanno catturato qualcosa." },
+    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_SYSTEM_000_020", "hash": "201986499A8DD239", "target": "La trappola non è scattata, ma non vedi neppure l'esca." },
+    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_SYSTEM_000_021", "hash": "B158485911C41983", "target": "La trappola non è scattata, ma non vedi neppure l'esca." },
+    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_VIRGEAUME_000_040", "hash": "D491EF937CDF4146", "target": "Ah, dunque i chocobo hanno rubato l'esca senza far scattare le trappole... Sembra che anche stavolta sia rimasto a mani vuote." },
+    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_VIRGEAUME_000_041", "hash": "4167298BE1A3399D", "target": "Me lo aspettavo, almeno in parte. Ecco perché ho scavato delle fosse vicino alle trappole, sperando di prenderli alla sprovvista. Ah, scusate... credo di aver dimenticato di dirvelo. Però sembra che voi e i chocobo abbiate trovato il modo di evitarle!" },
+    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_VIRGEAUME_000_042", "hash": "A800D994DFF90490", "target": "A dire il vero, non è la prima volta che un chocobo mi supera in astuzia. Sto progettando altre trappole e conto di provarle presto. Ripassate se vi va di partecipare." }
   ]
 }

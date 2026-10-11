@@ -2,17 +2,17 @@
   "conversation": "quest/019/HeaVnz709_01913",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_SEQ_00", "hash": "DCBEA37C9BFBE95E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_SEQ_01", "hash": "A34160AE03D6F20A", "target": "" },
-    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_SEQ_02", "hash": "ECD4598184DC4392", "target": "" },
-    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_SEQ_03", "hash": "7D6A2A39829967DC", "target": "" },
-    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_TODO_00", "hash": "E77941B8A1330808", "target": "" },
-    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_TODO_01", "hash": "8D86BA7FF2C43917", "target": "" },
-    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_GANUVALI_000_000", "hash": "DCA551C30AF2680D", "target": "" },
-    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_GANUVALI_000_001", "hash": "BBD795C073C90602", "target": "" },
-    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_GANUVALI_000_002", "hash": "A31336F0DDE5FFE5", "target": "" },
-    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_GANUVALI_000_010", "hash": "D2ED1D3962FA8494", "target": "" },
-    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_GANUVALI_000_020", "hash": "3131097A02BED90D", "target": "" },
-    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_GANUVALI_000_021", "hash": "DAD3C1D02EB9E2FD", "target": "" }
+    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_SEQ_00", "hash": "DCBEA37C9BFBE95E", "target": "Ganu Vali scruta il cielo con uno sguardo ardente." },
+    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_SEQ_01", "hash": "A34160AE03D6F20A", "target": "Ganu Vali ti parla dei molesti pulcini Vundu che tormentano i giovani della tribù zundu. Priva i prepotenti Vundu delle loro ali, uccidendo tre dei loro sanuwa Vundu." },
+    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_SEQ_02", "hash": "ECD4598184DC4392", "target": "Hai abbattuto i sanuwa Vundu e, si spera, dato ai prepotenti Vundu qualcosa su cui riflettere. Torna da Ganu Vali e riferisci la buona notizia." },
+    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_SEQ_03", "hash": "7D6A2A39829967DC", "target": "Hai riferito la tua vittoria a Ganu Vali. Sembra che i pulcini Vundu non siano contenti di aver perso i loro mezzi di trasporto." },
+    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_TODO_00", "hash": "E77941B8A1330808", "target": "Uccidere i sanuwa Vundu." },
+    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_TODO_01", "hash": "8D86BA7FF2C43917", "target": "Fare rapporto a Ganu Vali." },
+    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_GANUVALI_000_000", "hash": "DCA551C30AF2680D", "target": "La sfrontata tribù dei Vundu va troppo oltre! I pulcini di Ok' Zundu soffrono sotto violente tempeste di maltrattamenti!" },
+    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_GANUVALI_000_001", "hash": "BBD795C073C90602", "target": "Tu di sotto difendi i pulcini di Ok' Zundu, aiuta a disperdere nel vento i tormentatori Vundu. Ma non devi attaccare direttamente i Vundu!" },
+    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_GANUVALI_000_002", "hash": "A31336F0DDE5FFE5", "target": "Come tutti i Vanu, i Vundu cavalcano le ali dei sanuwa Vundu. Uccidine tre e i Vundu perderanno le ali con cui tormentare i pulcini zundu." },
+    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_GANUVALI_000_010", "hash": "D2ED1D3962FA8494", "target": "Senza sanuwa Vundu, i malfattori Vundu non tormenteranno più i pulcini zundu. Abbattili come un fulmine ramificato." },
+    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_GANUVALI_000_020", "hash": "3131097A02BED90D", "target": "Tu di sotto fai piovere ira sui sanuwa e getti i Vundu nel caos! I pulcini degli Zundu ti ringraziano!" },
+    { "gameKey": "quest/019/HeaVnz709_01913#TEXT_HEAVNZ709_01913_GANUVALI_000_021", "hash": "DAD3C1D02EB9E2FD", "target": "L'ira dei Vundu si placa per un po', dando ai pulcini una tregua necessaria. Che i venti di zefiro ti guidino tra la tribù!" }
   ]
 }

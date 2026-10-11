@@ -2,16 +2,16 @@
   "conversation": "quest/018/HeaVnz315_01807",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz315_01807#TEXT_HEAVNZ315_01807_SEQ_00", "hash": "88638D43C89C991D", "target": "" },
-    { "gameKey": "quest/018/HeaVnz315_01807#TEXT_HEAVNZ315_01807_SEQ_01", "hash": "0839BA477C581E40", "target": "" },
-    { "gameKey": "quest/018/HeaVnz315_01807#TEXT_HEAVNZ315_01807_SEQ_02", "hash": "58117538B125FB71", "target": "" },
-    { "gameKey": "quest/018/HeaVnz315_01807#TEXT_HEAVNZ315_01807_SEQ_03", "hash": "8C5B67BDE27EE117", "target": "" },
-    { "gameKey": "quest/018/HeaVnz315_01807#TEXT_HEAVNZ315_01807_TODO_00", "hash": "D8D0106B5FF00C88", "target": "" },
-    { "gameKey": "quest/018/HeaVnz315_01807#TEXT_HEAVNZ315_01807_TODO_01", "hash": "D0595C1A36F3CBF3", "target": "" },
-    { "gameKey": "quest/018/HeaVnz315_01807#TEXT_HEAVNZ315_01807_IDATEN_000_000", "hash": "0AC947430ED90B89", "target": "" },
-    { "gameKey": "quest/018/HeaVnz315_01807#TEXT_HEAVNZ315_01807_IDATEN_000_001", "hash": "B8644E5BC44607C4", "target": "" },
-    { "gameKey": "quest/018/HeaVnz315_01807#TEXT_HEAVNZ315_01807_IDATEN_000_010", "hash": "934515F83D26C949", "target": "" },
-    { "gameKey": "quest/018/HeaVnz315_01807#TEXT_HEAVNZ315_01807_IDATEN_000_020", "hash": "1779D75F60AA196C", "target": "" },
-    { "gameKey": "quest/018/HeaVnz315_01807#TEXT_HEAVNZ315_01807_IDATEN_000_021", "hash": "D4380520226D5581", "target": "" }
+    { "gameKey": "quest/018/HeaVnz315_01807#TEXT_HEAVNZ315_01807_SEQ_00", "hash": "88638D43C89C991D", "target": "Il Vath piedelesto sorveglia attentamente i confini di Loth ast Vath." },
+    { "gameKey": "quest/018/HeaVnz315_01807#TEXT_HEAVNZ315_01807_SEQ_01", "hash": "0839BA477C581E40", "target": "Le incursioni degli Gnath nel territorio Vath continuano a preoccupare il Vath piedelesto. Non avendo abbastanza guerrieri per difendere adeguatamente i confini, ti chiede di pattugliare la zona vicino all'Impuro e uccidere gli Gnath che potrebbero nascondersi lì." },
+    { "gameKey": "quest/018/HeaVnz315_01807#TEXT_HEAVNZ315_01807_SEQ_02", "hash": "58117538B125FB71", "target": "Uccidi gli Gnath in agguato presso l'Impuro. Informa il piedelesto che la zona è ora sicura." },
+    { "gameKey": "quest/018/HeaVnz315_01807#TEXT_HEAVNZ315_01807_SEQ_03", "hash": "8C5B67BDE27EE117", "target": "Il piedelesto è sollevato che i confini Vath siano più sicuri. Scopri che gli Gnath considerano chi perde il legame con la Mente Unica un'impurità aberrante e cercano di eliminarlo. Loth ast Vath è l'unico rifugio sicuro per chi non condivide più la coscienza della colonia, ed è per questo che deve essere protetto." },
+    { "gameKey": "quest/018/HeaVnz315_01807#TEXT_HEAVNZ315_01807_TODO_00", "hash": "D8D0106B5FF00C88", "target": "Ispezionare i luoghi attorno all'Impuro." },
+    {"gameKey": "quest/018/HeaVnz315_01807#TEXT_HEAVNZ315_01807_TODO_01", "hash": "D0595C1A36F3CBF3", "target": "Fare rapporto al Vath piedelesto"},
+    { "gameKey": "quest/018/HeaVnz315_01807#TEXT_HEAVNZ315_01807_IDATEN_000_000", "hash": "0AC947430ED90B89", "target": "Gli Gnath sono sempre più temerari. Le loro incursioni nel nostro territorio sono sempre più audaci. Cominciano a essere troppo per noi da affrontare senza aiuto." },
+    { "gameKey": "quest/018/HeaVnz315_01807#TEXT_HEAVNZ315_01807_IDATEN_000_001", "hash": "B8644E5BC44607C4", "target": "Non abbiamo abbastanza guerrieri e quindi non possiamo pattugliare la zona dell'Impuro. Per favore, vai lì, ispeziona la zona e assicurati che sia sicura. Se vedi Gnath, uccidili. \\<click> \\<click>" },
+    { "gameKey": "quest/018/HeaVnz315_01807#TEXT_HEAVNZ315_01807_IDATEN_000_010", "hash": "934515F83D26C949", "target": "Per favore, ispeziona la zona vicino all'Impuro. Assicurati che sia sicura. Uccidi gli Gnath che potrebbero attenderci in agguato." },
+    { "gameKey": "quest/018/HeaVnz315_01807#TEXT_HEAVNZ315_01807_IDATEN_000_020", "hash": "1779D75F60AA196C", "target": "Grazie, <if(gnum4,generosa cacciatrice,generoso cacciatore)>. La Mente Unica non è mai riuscita a comprendere i Senzamente. Per lei siamo un'impurità da estirpare." },
+    { "gameKey": "quest/018/HeaVnz315_01807#TEXT_HEAVNZ315_01807_IDATEN_000_021", "hash": "D4380520226D5581", "target": "È grazie al narratore che Loth ast Vath esiste. È grazie a Loth ast Vath che i Vath esistono, che siamo ciò che siamo. Non possiamo permetterci di perdere Loth ast Vath." }
   ]
 }

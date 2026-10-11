@@ -2,17 +2,17 @@
   "conversation": "quest/019/HeaVnz713_01917",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_SEQ_00", "hash": "0B4FB7102753CB1C", "target": "" },
-    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_SEQ_01", "hash": "52455187D8D7E21B", "target": "" },
-    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_SEQ_02", "hash": "87821799F2C0BA74", "target": "" },
-    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_SEQ_03", "hash": "86501FB82DB50B63", "target": "" },
-    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_TODO_00", "hash": "9FFB129778251239", "target": "" },
-    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_TODO_01", "hash": "D9C84C60727C6679", "target": "" },
-    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_AANUVANU_000_000", "hash": "26F1D58B82B892D3", "target": "" },
-    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_AANUVANU_000_001", "hash": "61154313E4FFE257", "target": "" },
-    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_AANUVANU_000_010", "hash": "5CD1457902F79900", "target": "" },
-    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_AANUVANU_000_020", "hash": "F14CCAF3D9890DE8", "target": "" },
-    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_AANUVANU_000_021", "hash": "6624712D0DB9D97C", "target": "" },
-    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_AANUVANU_000_022", "hash": "939CFC3505811CA3", "target": "" }
+    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_SEQ_00", "hash": "0B4FB7102753CB1C", "target": "Aanu Vanu gesticola disperatamente verso il cielo in supplica." },
+    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_SEQ_01", "hash": "52455187D8D7E21B", "target": "Aanu Vanu ti parla dei totem maledetti che si trovano al Cromlech. Distruggine quattro prima che l'oscurità che presagiscono si abbatta sui Vanu Vanu di Ok' Zundu." },
+    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_SEQ_02", "hash": "87821799F2C0BA74", "target": "Dopo aver affrontato la tua furia, i totem maledetti sono soltanto pezzi di legno scheggiato. Torna da Aanu Vanu per dirgli che il compito è stato portato a termine." },
+    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_SEQ_03", "hash": "86501FB82DB50B63", "target": "Dopo aver informato Aanu Vanu del successo della tua strage, lui ti spiega che quei totem erano usati per oscuri incantesimi, profanando la memoria degli antenati Vanu Vanu che avrebbero dovuto onorare. Lasciare impuniti simili atti attirerebbe la sventura sulla tribù degli Zundu." },
+    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_TODO_00", "hash": "9FFB129778251239", "target": "Distruggere i Vundu totem." },
+    {"gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_TODO_01", "hash": "D9C84C60727C6679", "target": "Fare rapporto ad Aanu Vanu"},
+    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_AANUVANU_000_000", "hash": "26F1D58B82B892D3", "target": "Venti oscuri portano cattivi presagi a tribù di Zundu. Tu di sotto devi aiutare!" },
+    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_AANUVANU_000_001", "hash": "61154313E4FFE257", "target": "Al Cromlech ci sono totem maledetti. Abbattine quattro per allontanare sventura che annunciano." },
+    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_AANUVANU_000_010", "hash": "5CD1457902F79900", "target": "Al Cromlech, totem si alzano e annunciano giorni oscuri per Zundu. Abbattili e libera Zundu da presagio che portano." },
+    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_AANUVANU_000_020", "hash": "F14CCAF3D9890DE8", "target": "Venti vuoti non soffiano più su Ok' Zundu, fortuna di tribù splende come cielo dopo temporale. Questo significa che tu di sotto hai liberato isola da totem maledetti." },
+    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_AANUVANU_000_021", "hash": "6624712D0DB9D97C", "target": "Totem onorano nomi di grandi antenati, così restano in memoria di Vanu Vanu come sole immortale. Maledire totem e possederlo con magie oscure macchia ricordo di eredità di tribù." },
+    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_AANUVANU_000_022", "hash": "939CFC3505811CA3", "target": "Tu di sotto hai restituito un po' di onore ad antenati di tribù. Ma devi continuare a vigilare, per bene di tribù e di tutti Vanu Vanu." }
   ]
 }

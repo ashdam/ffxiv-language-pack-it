@@ -2,18 +2,18 @@
   "conversation": "quest/018/HeaVnz319_01811",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_SEQ_00", "hash": "692305B3040E83AF", "target": "" },
-    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_SEQ_01", "hash": "6764E9C50DC9D471", "target": "" },
-    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_SEQ_02", "hash": "B95812DBDB033A83", "target": "" },
-    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_SEQ_03", "hash": "275776552409D6D7", "target": "" },
-    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_TODO_00", "hash": "66019E08ABE255DC", "target": "" },
-    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_TODO_01", "hash": "73C3B84F08706728", "target": "" },
-    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_OLDERBROTHERWYVERN01811_000_000", "hash": "9C12A928FEBF6D98", "target": "" },
-    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_OLDERBROTHERWYVERN01811_000_001", "hash": "7E167C5E755E68D3", "target": "" },
-    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_OLDERBROTHERWYVERN01811_000_010", "hash": "FB0A164DAEE96EAF", "target": "" },
-    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_YOUNGERBROTHERPUPPY01811_000_020", "hash": "24CEE63ABDD4E09F", "target": "" },
-    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_YOUNGERBROTHERPUPPY01811_000_021", "hash": "83DD3AC96E64F50E", "target": "" },
-    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_OLDERBROTHERWYVERN01811_000_040", "hash": "29A7E5B28B707FAA", "target": "" },
-    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_OLDERBROTHERWYVERN01811_000_041", "hash": "12914E7EF441DBB3", "target": "" }
+    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_SEQ_00", "hash": "692305B3040E83AF", "target": "Questa viverna indomita è fuori di sé dal panico per qualcosa che ha perduto." },
+    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_SEQ_01", "hash": "6764E9C50DC9D471", "target": "Sebbene dapprima esiti, la viverna indomita ammette il motivo della sua angoscia: il suo fratello minore è scomparso. Non ne è certa, ma crede che si sia perso da qualche parte a Mourn. Esplora la caverna di Mourn alla ricerca del giovane drago scomparso." },
+    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_SEQ_02", "hash": "B95812DBDB033A83", "target": "Trovi il giovane drago sano e salvo, appena sveglio. Ancora intontito dal sonno, ti guarda con un'indifferenza che rasenta il disgusto. Tuttavia, basta nominare suo fratello per farlo volare subito verso l'uscita. Torna dalla viverna indomita e verifica se il fratello minore è rientrato senza problemi." },
+    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_SEQ_03", "hash": "275776552409D6D7", "target": "Esci dalla caverna e trovi la viverna indomita insieme al fratello minore. Ti ringrazia e guarda il fratellino, sperando che anche il giovane drago mostri rispetto. In risposta ottieni soltanto silenzio, mentre lui vola via senza dire una parola. La viverna indomita si scusa subito e promette di occuparsi del fratello al più presto." },
+    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_TODO_00", "hash": "66019E08ABE255DC", "target": "Cercare a Mourn il dragonetto che non può volare." },
+    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_TODO_01", "hash": "73C3B84F08706728", "target": "Tornare dalla viverna indomita." },
+    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_OLDERBROTHERWYVERN01811_000_000", "hash": "9C12A928FEBF6D98", "target": "<if(gnum4,Un'umana,Un umano)>!? Ehm... mi aiuteresti? Mio fratello è scomparso senza lasciare traccia." },
+    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_OLDERBROTHERWYVERN01811_000_001", "hash": "7E167C5E755E68D3", "target": "È ancora giovane e tende a vagabondare. Per favore, trovalo prima che si cacci nei guai. Credo si sia perso nella caverna di Mourn." },
+    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_OLDERBROTHERWYVERN01811_000_010", "hash": "FB0A164DAEE96EAF", "target": "Mio fratello cede spesso alla curiosità e va in giro a esplorare Mourn. Trovalo prima che sia troppo tardi." },
+    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_YOUNGERBROTHERPUPPY01811_000_020", "hash": "24CEE63ABDD4E09F", "target": "\\<sbadiglio> Il calore di questa caverna favorisce il sonno, ma adesso mi viene fame... Mh? Che cosa vuoi?" },
+    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_YOUNGERBROTHERPUPPY01811_000_021", "hash": "83DD3AC96E64F50E", "target": "Mio fratello mi chiama? Allora devo andare." },
+    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_OLDERBROTHERWYVERN01811_000_040", "hash": "29A7E5B28B707FAA", "target": "Grazie. Ho fatto bene a rivolgermi a te. Piccolo, dov'è la tua gratitudine?" },
+    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_OLDERBROTHERWYVERN01811_000_041", "hash": "12914E7EF441DBB3", "target": "Devi perdonarlo. Non è abituato a parlare con... la tua gente. Non preoccuparti, ci penserò io." }
   ]
 }

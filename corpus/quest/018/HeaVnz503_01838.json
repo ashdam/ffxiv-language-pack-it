@@ -2,18 +2,18 @@
   "conversation": "quest/018/HeaVnz503_01838",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_SEQ_00", "hash": "C1557D3DED2950F4", "target": "" },
-    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_SEQ_01", "hash": "DB22CFB9704A0A0F", "target": "" },
-    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_SEQ_02", "hash": "89940D449FE8028D", "target": "" },
-    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_SEQ_03", "hash": "EFE4A0C16E317B2E", "target": "" },
-    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_TODO_00", "hash": "8FA40E837F4F814F", "target": "" },
-    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_TODO_01", "hash": "B106620BA0B2D677", "target": "" },
-    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_LYINGMOGA01836_000_000", "hash": "5EA62C158A84D0F4", "target": "" },
-    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_LYINGMOGB01836_000_001", "hash": "FBAB09A41E0ABA68", "target": "" },
-    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_CAREGIVERMOG01836_000_010", "hash": "98924047456CFD99", "target": "" },
-    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_CAREGIVERMOG01836_000_011", "hash": "03B10063549E05EE", "target": "" },
-    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_CAREGIVERMOG01836_000_020", "hash": "3A9B1E0348A9FF24", "target": "" },
-    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_CAREGIVERMOG01836_000_040", "hash": "C83282968F73D51A", "target": "" },
-    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_CAREGIVERMOG01836_000_041", "hash": "E93A51083DF225DB", "target": "" }
+    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_SEQ_00", "hash": "C1557D3DED2950F4", "target": "Il moguri scontento di Moghome osserva la moca leaf con evidente insoddisfazione." },
+    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_SEQ_01", "hash": "DB22CFB9704A0A0F", "target": "Il moguri scontento ti spiega che, per quanto utile, la moca leaf non basterà da sola a far scendere la febbre del suo amico. Per completare la medicina servono alcune manciate di blistering scales appena prelevate da un Mists biast. Ti consegna una Moglinglaive per staccare le scaglie dalla coda delle lucertole e ti manda a raccoglierle." },
+    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_SEQ_02", "hash": "89940D449FE8028D", "target": "Riesci a prelevare le scaglie dai Mists biast della zona. Consegnale al moguri scontento di Moghome, affinché possa preparare la medicina per il suo amico febbricitante." },
+    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_SEQ_03", "hash": "EFE4A0C16E317B2E", "target": "Il moguri scontento è abbastanza soddisfatto delle scaglie raccolte e si mette subito a preparare la medicina per calmare la febbre del suo amico. Presto il moguri errante di Moghome sarà di nuovo in piedi, pronto a riprendere i suoi vagabondaggi." },
+    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_TODO_00", "hash": "8FA40E837F4F814F", "target": "Usare la Moglinglaive per ottenere blistering scales dai Mists biast" },
+    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_TODO_01", "hash": "B106620BA0B2D677", "target": "Consegnare le blistering scales al moguri scontento" },
+    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_LYINGMOGA01836_000_000", "hash": "5EA62C158A84D0F4", "target": "Spero che il mio amico guarisca presto, kupò. Andrò a trovarlo a Moghome appena avrò ripreso fiato... \\<snore>" },
+    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_LYINGMOGB01836_000_001", "hash": "FBAB09A41E0ABA68", "target": "Che stanchezza, kupò... Che f-f-freddo..." },
+    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_CAREGIVERMOG01836_000_010", "hash": "98924047456CFD99", "target": "Grazie per aver raccolto la moca leaf, ma per rimettere in piedi il mio amico servirà altro. La foglia gli restituirà le energie, ma soltanto le blistering scales possono calmare la sua febbre, kupò." },
+    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_CAREGIVERMOG01836_000_011", "hash": "03B10063549E05EE", "target": "Potresti chiedere ai Mists biast se vogliono cedertene, diciamo... tre manciate? Se non si mostrano disponibili, puoi usare questa Moglinglaive per staccarne un po': è così affilata che puoi tagliare le scaglie senza che se ne accorgano! Buona fortuna, kupò!" },
+    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_CAREGIVERMOG01836_000_020", "hash": "3A9B1E0348A9FF24", "target": "Usa la Moglinglaive che ti ho dato per prelevare scaglie dalle code dei Mists biast della zona. Tre manciate dovrebbero bastare a rimettere in piedi il mio amico." },
+    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_CAREGIVERMOG01836_000_040", "hash": "C83282968F73D51A", "target": "Come va la ricerca delle blistering scales, kupò? Non credo che i Mists biast vogliano cederle spontaneamente, ma se ti avvicini alle loro spalle e ne stacchi un po' con la Moglinglaive che ti ho dato, non se ne accorgeranno mai!" },
+    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_CAREGIVERMOG01836_000_041", "hash": "E93A51083DF225DB", "target": "Grazie, kupò! Non sono le scaglie più lucenti che abbia mai visto, ma immagino che dovranno bastare. Le mescolerò alla moca leaf e preparerò una medicina che presto restituirà lo splendore al pompon del nostro paziente!" }
   ]
 }

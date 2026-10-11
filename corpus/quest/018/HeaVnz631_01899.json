@@ -2,18 +2,18 @@
   "conversation": "quest/018/HeaVnz631_01899",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_SEQ_00", "hash": "A5FAE86ECA02F114", "target": "" },
-    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_SEQ_01", "hash": "B33089A306B8A9A1", "target": "" },
-    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_SEQ_02", "hash": "B977E769355A0627", "target": "" },
-    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_SEQ_03", "hash": "A3A96976EA6AAC85", "target": "" },
-    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_TODO_00", "hash": "F107081D30FA1768", "target": "" },
-    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_TODO_01", "hash": "B62E989670B0B06C", "target": "" },
-    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_GILDON_000_000", "hash": "434F9F3B76A8DC29", "target": "" },
-    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_GILDON_000_001", "hash": "7A6A7AF09D929EB5", "target": "" },
-    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_GILDON_000_002", "hash": "D71DD10E3B97C8A3", "target": "" },
-    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_GILDON_000_010", "hash": "4293985E4BEDA1DE", "target": "" },
-    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_GILDON_000_020", "hash": "2BD6794539B0A228", "target": "" },
-    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_GILDON_000_021", "hash": "F87577A1DB82EFCC", "target": "" },
-    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_GILDON_000_022", "hash": "3CD498AD69C95660", "target": "" }
+    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_SEQ_00", "hash": "A5FAE86ECA02F114", "target": "Gildon fissa il vuoto con la fronte corrugata e lo stomaco che brontola." },
+    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_SEQ_01", "hash": "B33089A306B8A9A1", "target": "Il tuo arrivo distrae Gildon dalle sue preoccupazioni e gli ricorda una richiesta d'aiuto. I paissa a nord del Campo Cloudtop, noti per le loro marachelle, lo hanno esasperato rovinando il cibo preparato dalla cuoca dei Cavalieri della Rosa. Ti chiede di abbatterne tre per ridurne il numero e far capire che gli uomini del campo non tollereranno altri scherzi." },
+    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_SEQ_02", "hash": "B977E769355A0627", "target": "Abbatti tre paissa a nord del Campo Cloudtop. Torna da Gildon e informalo che il compito è concluso." },
+    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_SEQ_03", "hash": "A3A96976EA6AAC85", "target": "Gildon ti ringrazia per l'impegno. Ti spiega che le recenti marachelle dipendono dalla ricerca di alberi su cui costruire un nido. Il Campo Cloudtop ha alberi sufficienti per Gildon e i suoi compagni. Grazie al tuo aiuto, i paissa ci penseranno due volte prima di impadronirsene." },
+    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_TODO_00", "hash": "F107081D30FA1768", "target": "Abbattere i wily paissa" },
+    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_TODO_01", "hash": "B62E989670B0B06C", "target": "Fare rapporto a Gildon" },
+    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_GILDON_000_000", "hash": "434F9F3B76A8DC29", "target": "Uhm? Ah, <split(<string(gstr1)>, ,1)>! Se c'è mai stato un momento in cui avevo bisogno del vostro aiuto, è proprio questo." },
+    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_GILDON_000_001", "hash": "7A6A7AF09D929EB5", "target": "I paissa a nord dell'accampamento ci danno problemi. Sono dispettosi per natura, ma questa volta hanno esagerato. Hanno... hanno distrutto le provviste della nostra amata cuoca e <if([gnum11<12],<if([gnum11<4],il pasto serale,il pasto di stamattina)>,<if([gnum11<17],il pasto di questo pomeriggio,il pasto serale)>)> è stato rovinato!" },
+    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_GILDON_000_002", "hash": "D71DD10E3B97C8A3", "target": "Devono imparare che non si scherza con noi, perciò vi chiedo di abbattere tre di quelle bestie. Dovrebbe bastare a ridurne il numero e scoraggiare le loro marachelle." },
+    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_GILDON_000_010", "hash": "4293985E4BEDA1DE", "target": "Non occorre abbatterne più di tre. Basterà per rendere chiare le nostre intenzioni." },
+    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_GILDON_000_020", "hash": "2BD6794539B0A228", "target": "Dunque avete sistemato i paissa? Finalmente avremo una breve tregua dalle loro malefatte." },
+    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_GILDON_000_021", "hash": "F87577A1DB82EFCC", "target": "Temo che cerchino alberi su cui costruire un nido. Se queste isole nel complesso ne hanno pochi, il Campo Cloudtop ha la fortuna di averne una buona quantità." },
+    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_GILDON_000_022", "hash": "3CD498AD69C95660", "target": "Se cercano davvero degli alberi, dovranno cercarli altrove. Il solo pensiero di quelle bestie pelose che si calano dagli alberi durante un pasto mi fa ribollire il sangue. Non lo permetterò!" }
   ]
 }

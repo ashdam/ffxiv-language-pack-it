@@ -2,18 +2,18 @@
   "conversation": "quest/017/HeaVnz112_01761",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_SEQ_00", "hash": "2A14D339A120B7BE", "target": "" },
-    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_SEQ_01", "hash": "90A196C4F48423CB", "target": "" },
-    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_SEQ_02", "hash": "D3BB4BCC866497DB", "target": "" },
-    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_SEQ_03", "hash": "68CBC1C99A404F2D", "target": "" },
-    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_TODO_00", "hash": "D917E8122BCF5955", "target": "" },
-    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_TODO_01", "hash": "481F0DA8E23376C5", "target": "" },
-    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_000", "hash": "893C9D9FF4A3A3C0", "target": "" },
-    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_001", "hash": "C293F8D94359D5C3", "target": "" },
-    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_002", "hash": "12596B96EAB5C30D", "target": "" },
-    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_010", "hash": "68F96072C259F495", "target": "" },
-    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_030", "hash": "192033DF7A31FE22", "target": "" },
-    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_031", "hash": "05752464F654EAE7", "target": "" },
-    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_032", "hash": "86ADD79B154BB3C7", "target": "" }
+    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_SEQ_00", "hash": "2A14D339A120B7BE", "target": "Jantellot pensa che tu possa provare a cacciare i draghi." },
+    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_SEQ_01", "hash": "90A196C4F48423CB", "target": "Vista la facilità con cui hai eliminato i rheums che ti aveva affidato in precedenza, Jantellot propone che stavolta tu dia la caccia a dei veri draghi. Gli archaeornis costituiscono l'avanguardia dell'Orda Dravaniana, e diversi esemplari vagano fra i cumuli di neve a nord dell'accampamento, vicino a Banepool. Jantellot ti dice di trovare e uccidere tre di queste bestie squamose e piumate." },
+    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_SEQ_02", "hash": "D3BB4BCC866497DB", "target": "Trovi e uccidi tre archaeornis con relativa facilità. Torna al Presidio dei Giustizieri e fai sapere a Jantellot che hai affrontato questa sfida senza tirarti indietro." },
+    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_SEQ_03", "hash": "68CBC1C99A404F2D", "target": "Colpito dall'efficienza con cui hai ucciso le tue prede, Jantellot spiega che, se volessi unirti ai Giustizieri, saresti più che <if(gnum4,benvenuta,benvenuto)>. Hanno sempre bisogno di altri uomini e donne di valore." },
+    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_TODO_00", "hash": "D917E8122BCF5955", "target": "Uccidere gli archaeornis." },
+    {"gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_TODO_01", "hash": "481F0DA8E23376C5", "target": "Fare rapporto a Jantellot"},
+    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_000", "hash": "893C9D9FF4A3A3C0", "target": "Quei rheums che hai ucciso l'altra volta saranno stati facili prede, ma ti assicuro che i draghi non lo sono. A volte possono dare del filo da torcere persino ai Giustizieri veterani." },
+    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_001", "hash": "C293F8D94359D5C3", "target": "Se vuoi provarci, ti suggerisco di cominciare dagli archaeornis. Sono grandi mostri rettili piumati e fanno parte dell'avanguardia dell'Orda." },
+    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_002", "hash": "12596B96EAB5C30D", "target": "Troverai le bestie che vagano a nord, vicino a Banepool. Trova tre archaeornis e abbattili senza pietà. Considerala una prova di abilità, se vuoi." },
+    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_010", "hash": "68F96072C259F495", "target": "Dirigiti verso Banepool e uccidi tre degli archaeornis che si trovano lì. Se la sfida è troppo difficile per te, non c'è vergogna nell'ammetterlo. Non desidero mandare <if(gnum4,una donna,un uomo)> di valore incontro alla <if(gnum4,sua,sua)> morte." },
+    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_030", "hash": "192033DF7A31FE22", "target": "Come ti sono sembrati quegli archaeornis? Non saranno intelligenti, ma sanno di certo combattere, non credi?" },
+    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_031", "hash": "05752464F654EAE7", "target": "Eh, la fai sembrare facile! Ma non tutti abbiamo avuto l'occasione di combattere al fianco del Dragone Azzurro, di vedere con i nostri occhi come abbattere al meglio queste possenti bestie." },
+    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_032", "hash": "86ADD79B154BB3C7", "target": "Molti ishgardiani pensano che noi nobili al Presidio dei Giustizieri siamo qui soltanto per vanità e capriccio. Capiscono ben poco dei rischi che corriamo per difendere Ishgard dall'Orda. Ma ho l'impressione che tu forse capisca... Se mai deciderai di unirti ai Giustizieri, non hai che da dirlo!" }
   ]
 }

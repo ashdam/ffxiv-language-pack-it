@@ -2,16 +2,16 @@
   "conversation": "quest/019/HeaVnz919_01984",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_SEQ_00", "hash": "41C48C8143CD6936", "target": "" },
-    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_SEQ_01", "hash": "3D5AE6BA00E7ACEB", "target": "" },
-    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_SEQ_02", "hash": "75947ACA06F91EA0", "target": "" },
-    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_SEQ_03", "hash": "57AD31BEDF80F1BD", "target": "" },
-    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_TODO_00", "hash": "79A34AD3B9F46DBD", "target": "" },
-    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_TODO_01", "hash": "52D37C17D22F2594", "target": "" },
-    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_CONSERVATIONSYSTEM_000_000", "hash": "4BEF7268BD458C75", "target": "" },
-    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_CONSERVATIONSYSTEM_000_001", "hash": "E17FB512A854688A", "target": "" },
-    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_CONSERVATIONSYSTEM_000_010", "hash": "C49041537E7BED05", "target": "" },
-    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_CONSERVATIONSYSTEM_000_020", "hash": "DDB48951BD813877", "target": "" },
-    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_CONSERVATIONSYSTEM_000_021", "hash": "E1611672586B4189", "target": "" }
+    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_SEQ_00", "hash": "41C48C8143CD6936", "target": "La spia di stato del nodo di supporto vitale allagano lampeggia di un minaccioso rosso..." },
+    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_SEQ_01", "hash": "3D5AE6BA00E7ACEB", "target": "Il nodo di supporto vitale allagano ti informa che la concentrazione atmosferica di spore di corpse flower ha raggiunto livelli estremamente pericolosi e continua a salire. Distruggi dei corpse flowers per ridurre l'emissione di queste sostanze apparentemente nocive." },
+    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_SEQ_02", "hash": "75947ACA06F91EA0", "target": "Estirpi i fastidiosi corpse flowers. Torna al nodo di supporto vitale per verificare che non vi siano altre fonti di pericolosi contaminanti atmosferici." },
+    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_SEQ_03", "hash": "57AD31BEDF80F1BD", "target": "Grazie alla riduzione delle emissioni di spore, il sistema di supporto vitale può ora purificare l'aria più rapidamente di quanto venga inquinata. La popolazione insolitamente elevata di corpse flower sembra essere stata causata da una sostanza aerodispersa che stimola la crescita, rilasciata dalla struttura di ricerca sulla sintesi ecologica." },
+    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_TODO_00", "hash": "79A34AD3B9F46DBD", "target": "Uccidere dei corpse flowers." },
+    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_TODO_01", "hash": "52D37C17D22F2594", "target": "Fare rapporto al nodo di supporto vitale." },
+    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_CONSERVATIONSYSTEM_000_000", "hash": "4BEF7268BD458C75", "target": "Impurità atmosferiche a livelli critici. Concentrazione atmosferica di spore di corpse flower attualmente al milletrecentododici per cento del limite massimo di sicurezza e in aumento." },
+    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_CONSERVATIONSYSTEM_000_001", "hash": "E17FB512A854688A", "target": "Si raccomanda vivamente l'immediata distruzione dei corpse flowers per garantire la sicurezza dei cittadini." },
+    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_CONSERVATIONSYSTEM_000_010", "hash": "C49041537E7BED05", "target": "Si raccomanda vivamente l'immediata distruzione dei corpse flowers per garantire costantemente la sicurezza dei cittadini." },
+    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_CONSERVATIONSYSTEM_000_020", "hash": "DDB48951BD813877", "target": "Concentrazione atmosferica di spore di corpse flower attualmente al milletrecentoundici per cento del limite massimo di sicurezza e in diminuzione." },
+    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_CONSERVATIONSYSTEM_000_021", "hash": "E1611672586B4189", "target": "L'aumento della popolazione di corpse flower è attribuito a un catalizzatore atmosferico della crescita rilasciato involontariamente dalla struttura di ricerca sulla sintesi ecologica. Trasmissione del rapporto alla struttura di ricerca... \\<bip> \\<bip> Trasmissione completata." }
   ]
 }

@@ -2,15 +2,15 @@
   "conversation": "quest/019/HeaVnz924_01989",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_SEQ_00", "hash": "4909B4DB851B495D", "target": "" },
-    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_SEQ_01", "hash": "FD24D6C623D641B9", "target": "" },
-    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_SEQ_02", "hash": "7A2BFD06A7B7B88E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_SEQ_03", "hash": "72AE4E5CB640A249", "target": "" },
-    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_TODO_00", "hash": "D99710D41EDCD796", "target": "" },
-    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_TODO_01", "hash": "1FD84BA13B7E430C", "target": "" },
-    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_MANUFACTURINGSYSTEM_000_000", "hash": "9D5B9E623AC64EF0", "target": "" },
-    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_MANUFACTURINGSYSTEM_000_001", "hash": "980D7C0517FFF722", "target": "" },
-    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_MANUFACTURINGSYSTEM_000_010", "hash": "FBDDF420735B6C5D", "target": "" },
-    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_MANUFACTURINGSYSTEM_000_020", "hash": "EC9F7CB29D3A091D", "target": "" }
+    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_SEQ_00", "hash": "4909B4DB851B495D", "target": "Il nodo di assemblaggio allagano vibra con impazienza." },
+    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_SEQ_01", "hash": "FD24D6C623D641B9", "target": "Il nodo di assemblaggio allagano ha esaurito le materie prime necessarie a proseguire il lavoro. Data la scarsità di risorse, ti ha chiesto di distruggere tre giganti d'acciaio per riciclarli e impiegarne le parti nel processo produttivo del sistema." },
+    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_SEQ_02", "hash": "7A2BFD06A7B7B88E", "target": "Distruggi i giganti d'acciaio come richiesto. Informa il nodo di assemblaggio che sono pronti per il recupero." },
+    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_SEQ_03", "hash": "72AE4E5CB640A249", "target": "Il nodo di assemblaggio conferma la disattivazione dei giganti d'acciaio, ma non riesce a individuare parti adatte al recupero e torna presto a ripetere le stesse frasi che pronunciava al tuo arrivo." },
+    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_TODO_00", "hash": "D99710D41EDCD796", "target": "Abbattere dei Mark III magitek colossi." },
+    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_TODO_01", "hash": "1FD84BA13B7E430C", "target": "Fare rapporto al nodo di assemblaggio." },
+    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_MANUFACTURINGSYSTEM_000_000", "hash": "9D5B9E623AC64EF0", "target": "\\<bip> \\<bip> Materiali insufficienti per proseguire la produzione. Fornite materiali aggiuntivi.<br>\\<bip> \\<bip> Materiali insufficienti per proseguire la produzione. Fornite materiali aggiuntivi." },
+    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_MANUFACTURINGSYSTEM_000_001", "hash": "980D7C0517FFF722", "target": "Se le materie prime non sono disponibili, possono essere recuperate da attrezzature non necessarie. Distruggete tre giganti d'acciaio per consentire il recupero delle parti che li compongono." },
+    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_MANUFACTURINGSYSTEM_000_010", "hash": "FBDDF420735B6C5D", "target": "Distruggete tre giganti d'acciaio per consentire il recupero delle parti che li compongono e permettere alla produzione di proseguire." },
+    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_MANUFACTURINGSYSTEM_000_020", "hash": "EC9F7CB29D3A091D", "target": "Conferma della distruzione di attrezzature non necessarie... \\<bip> \\<bip> Confermata.<br>Verifica dell'integrità delle parti recuperabili... \\<bip> Impossibile confermare la qualità dei materiali. Impossibile proseguire la produzione." }
   ]
 }

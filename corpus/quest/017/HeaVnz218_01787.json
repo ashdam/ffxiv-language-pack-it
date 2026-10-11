@@ -2,19 +2,19 @@
   "conversation": "quest/017/HeaVnz218_01787",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_SEQ_00", "hash": "B3906E5CE686179B", "target": "" },
-    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_SEQ_01", "hash": "680C845923D0E01B", "target": "" },
-    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_SEQ_02", "hash": "B2851D20B9EB21CB", "target": "" },
-    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_SEQ_03", "hash": "674B9469F07DDE40", "target": "" },
-    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_TODO_00", "hash": "D04B3FFE9B08C3F7", "target": "" },
-    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_TODO_01", "hash": "5758CC2CAD13A3AF", "target": "" },
-    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_UMASOU_000_000", "hash": "9814507D93A1A997", "target": "" },
-    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_UMASOU_000_001", "hash": "2DA59CB149FF8667", "target": "" },
-    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_UMASOU_000_010", "hash": "48451F0D413DA0DF", "target": "" },
-    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_CIBLEROIT_100_011", "hash": "3FE6AB8B3C25CFAC", "target": "" },
-    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_UMASOU_000_020", "hash": "2F5719B2A6932D25", "target": "" },
-    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_UMASOU_000_021", "hash": "57C830AA207AB951", "target": "" },
-    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_CIBLEROIT_000_022", "hash": "497B4126182BFCDB", "target": "" },
-    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_UMASOU_000_023", "hash": "F007EC6B13E20CA3", "target": "" }
+    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_SEQ_00", "hash": "B3906E5CE686179B", "target": "L'Affamata Vath lancia occhiate furtive verso Mare's Oath." },
+    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_SEQ_01", "hash": "680C845923D0E01B", "target": "L'Affamata ti descrive un albero che cresce su un'altura davanti a Mare's Oath. I suoi frutti, spiega, non hanno rivali: più sono maturi, meglio è. I più maturi cadono a terra dai rami. Ti chiede di raccoglierne tre per lei." },
+    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_SEQ_02", "hash": "B2851D20B9EB21CB", "target": "Trovi l'albero dove indicato dall'Affamata e raccogli i frutti richiesti, il cui dolce odore di eccessiva maturazione ti avvolge. Riportali all'Affamata, che ti aspetta a Loth ast Vath." },
+    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_SEQ_03", "hash": "674B9469F07DDE40", "target": "L'Affamata è felicissima di ricevere i frutti, ma Cibleroit li guarda con disgusto. Questa occasionale difficoltà a vedere le cose con gli stessi occhi... composti è una delle tante espressioni d'individualità che rendono varia la vita dei Senzamente." },
+    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_TODO_00", "hash": "D04B3FFE9B08C3F7", "target": "Ottenere i frutti" },
+    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_TODO_01", "hash": "5758CC2CAD13A3AF", "target": "Consegnare i frutti all'Affamata Vath" },
+    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_UMASOU_000_000", "hash": "9814507D93A1A997", "target": "Frutta. Deliziosa frutta. Il solo pensiero ci fa prudere le mandibole. \\<click> \\<click>" },
+    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_UMASOU_000_001", "hash": "2DA59CB149FF8667", "target": "Conosci l'altura vicino a Mare's Oath? Ci cresce un grande albero. I suoi frutti sono deliziosi. I più maturi cadono a terra, pronti da mangiare. \\<click> \\<click> Ti preghiamo di portarcene tre." },
+    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_UMASOU_000_010", "hash": "48451F0D413DA0DF", "target": "Deliziosa frutta. Frutta matura. Potresti portarci i frutti? Vicino a Mare's Oath. Il grande albero." },
+    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_CIBLEROIT_100_011", "hash": "3FE6AB8B3C25CFAC", "target": "Perché ti piace tanto quella frutta?" },
+    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_UMASOU_000_020", "hash": "2F5719B2A6932D25", "target": "Sentiamo il profumo dei frutti! \\<click> \\<click> E ci fa prudere le mandibole!" },
+    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_UMASOU_000_021", "hash": "57C830AA207AB951", "target": "Così dolci e così morbidi... \\<click> \\<click> Questi frutti sono straordinari. Grazie, <if(gnum4,generosa cacciatrice,generoso cacciatore)>." },
+    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_CIBLEROIT_000_022", "hash": "497B4126182BFCDB", "target": "Non capiamo perché ti piaccia questa frutta. \\<click> \\<click> L'odore è disgustoso e la consistenza è peggio che disgustosa." },
+    { "gameKey": "quest/017/HeaVnz218_01787#TEXT_HEAVNZ218_01787_UMASOU_000_023", "hash": "F007EC6B13E20CA3", "target": "Ti compatiamo. I tuoi pessimi gusti rendono più povera la tua vita. Ma va bene, significa più frutta per noi! \\<click> \\<click> \\<click> Pensiamo che essere Senzamente non sia sempre un male." }
   ]
 }

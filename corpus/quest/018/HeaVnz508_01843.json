@@ -2,16 +2,16 @@
   "conversation": "quest/018/HeaVnz508_01843",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz508_01843#TEXT_HEAVNZ508_01843_SEQ_00", "hash": "613A5186B778E456", "target": "" },
-    { "gameKey": "quest/018/HeaVnz508_01843#TEXT_HEAVNZ508_01843_SEQ_01", "hash": "C1BC25FAF04CD2DC", "target": "" },
-    { "gameKey": "quest/018/HeaVnz508_01843#TEXT_HEAVNZ508_01843_SEQ_02", "hash": "58DB5F9F6F664476", "target": "" },
-    { "gameKey": "quest/018/HeaVnz508_01843#TEXT_HEAVNZ508_01843_SEQ_03", "hash": "D362AF9AB53EEE55", "target": "" },
-    { "gameKey": "quest/018/HeaVnz508_01843#TEXT_HEAVNZ508_01843_TODO_00", "hash": "58B56043E138A088", "target": "" },
-    { "gameKey": "quest/018/HeaVnz508_01843#TEXT_HEAVNZ508_01843_TODO_01", "hash": "92ABF583EE0AAF25", "target": "" },
-    { "gameKey": "quest/018/HeaVnz508_01843#TEXT_HEAVNZ508_01843_MOGEUGE_000_000", "hash": "6DF4FB6D7E347D47", "target": "" },
-    { "gameKey": "quest/018/HeaVnz508_01843#TEXT_HEAVNZ508_01843_MOGEUGE_000_001", "hash": "BA1254AD46C90F34", "target": "" },
-    { "gameKey": "quest/018/HeaVnz508_01843#TEXT_HEAVNZ508_01843_MOGEUGE_000_010", "hash": "BB6B33FF7E096CEF", "target": "" },
-    { "gameKey": "quest/018/HeaVnz508_01843#TEXT_HEAVNZ508_01843_MOGEUGE_000_020", "hash": "E704C05899828149", "target": "" },
-    { "gameKey": "quest/018/HeaVnz508_01843#TEXT_HEAVNZ508_01843_MOGEUGE_000_021", "hash": "6820BDA5C6AE8E4D", "target": "" }
+    { "gameKey": "quest/018/HeaVnz508_01843#TEXT_HEAVNZ508_01843_SEQ_00", "hash": "613A5186B778E456", "target": "Il pompon di Mogeuge trema senza posa." },
+    { "gameKey": "quest/018/HeaVnz508_01843#TEXT_HEAVNZ508_01843_SEQ_01", "hash": "C1BC25FAF04CD2DC", "target": "Mogeuge ti spiega che gli elder wyvern stanno radunando le loro forze sotto la sua postazione di guardia, pronti a sferrare un attacco generale. La vigilanza continua lo ha logorato e ti implora di aiutarlo a ritardare i loro piani. Scendi ai Four Arms e abbatti quattro elder wyvern, concedendo a Mogeuge un po' di tempo per riposare la mente stanca." },
+    { "gameKey": "quest/018/HeaVnz508_01843#TEXT_HEAVNZ508_01843_SEQ_02", "hash": "58DB5F9F6F664476", "target": "Abbatti gli elder wyvern richiesti, rinviando così il loro attacco. Torna in cima alle rovine di Asah e comunica il tuo successo a Mogeuge." },
+    { "gameKey": "quest/018/HeaVnz508_01843#TEXT_HEAVNZ508_01843_SEQ_03", "hash": "D362AF9AB53EEE55", "target": "Mogeuge è sollevato dalla notizia che hai ridotto il numero degli elder wyvern. Il moguri vive nel terrore dei draghi da quando il ruggito di Nidhogg li ha fatti impazzire. Grazie al tuo aiuto, però, potrà concedersi qualche ora di riposo e tranquillità." },
+    { "gameKey": "quest/018/HeaVnz508_01843#TEXT_HEAVNZ508_01843_TODO_00", "hash": "58B56043E138A088", "target": "Sconfiggere gli elder wyvern" },
+    { "gameKey": "quest/018/HeaVnz508_01843#TEXT_HEAVNZ508_01843_TODO_01", "hash": "92ABF583EE0AAF25", "target": "Fare rapporto a Mogeuge" },
+    { "gameKey": "quest/018/HeaVnz508_01843#TEXT_HEAVNZ508_01843_MOGEUGE_000_000", "hash": "6DF4FB6D7E347D47", "target": "Elder wyvern qui, elder wyvern là... elder wyvern dappertutto! So che stanno tramando qualcosa, ma cosa? Li osservo da giorni, aspettando il momento in cui attaccheranno. Sono così stanco, kupò..." },
+    { "gameKey": "quest/018/HeaVnz508_01843#TEXT_HEAVNZ508_01843_MOGEUGE_000_001", "hash": "BA1254AD46C90F34", "target": "Posso chiederti un grandissimo favore? Liberami di loro! Non devi eliminarli tutti, kupò: quattro dovrebbero bastare. Così ci penseranno due volte prima di fare quello che stanno facendo... o almeno li ritarderai abbastanza da permettermi di riposare un po', kupò." },
+    { "gameKey": "quest/018/HeaVnz508_01843#TEXT_HEAVNZ508_01843_MOGEUGE_000_010", "hash": "BB6B33FF7E096CEF", "target": "Ti prego! Non fa bene ai miei nervi stare qui a fluttuare aspettando l'attacco degli wyvern! Se ne eliminassi quattro, potrei finalmente rilassarmi un po', kupò... Magari fare un sonnellino..." },
+    { "gameKey": "quest/018/HeaVnz508_01843#TEXT_HEAVNZ508_01843_MOGEUGE_000_020", "hash": "E704C05899828149", "target": "Grazie, kupò! Ora che hai ridotto il loro numero, quegli wyvern non attaccheranno tanto presto! Posso finalmente rilassarmi... almeno per un'ora o due." },
+    { "gameKey": "quest/018/HeaVnz508_01843#TEXT_HEAVNZ508_01843_MOGEUGE_000_021", "hash": "6820BDA5C6AE8E4D", "target": "È tutta colpa di quel terribile drago: da quando ha ruggito, gli altri draghi sono impazziti di rabbia e attaccano qualsiasi cosa vedano. Fanno così paura, kupò..." }
   ]
 }

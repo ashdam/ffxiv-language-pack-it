@@ -2,18 +2,18 @@
   "conversation": "quest/017/HeaVnz013_01738",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_SEQ_00", "hash": "FEAD9702BEFDD961", "target": "" },
-    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_SEQ_01", "hash": "A592E8BA90705B23", "target": "" },
-    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_SEQ_02", "hash": "AD4DFC220134C118", "target": "" },
-    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_SEQ_03", "hash": "76D56D4BD5545179", "target": "" },
-    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_TODO_00", "hash": "CDB10C8D5AC8FE70", "target": "" },
-    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_TODO_01", "hash": "8204E702417DE077", "target": "" },
-    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_CARIBAULT_000_000", "hash": "662C312206708447", "target": "" },
-    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_CARIBAULT_000_001", "hash": "EDF397E34D25846A", "target": "" },
-    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_CARIBAULT_000_002", "hash": "47DC00094F976295", "target": "" },
-    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_CARIBAULT_000_010", "hash": "2AAB4C05F252DBFB", "target": "" },
-    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_CARIBAULT_000_020", "hash": "1C06C55A728405DD", "target": "" },
-    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_CARIBAULT_000_021", "hash": "1682BA6CB6A8C94B", "target": "" },
-    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_CARIBAULT_000_022", "hash": "D9E5C943CF599702", "target": "" }
+    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_SEQ_00", "hash": "FEAD9702BEFDD961", "target": "Caribault sta controllando il campo di zucche, ma sembra stranamente abbattuto." },
+    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_SEQ_01", "hash": "A592E8BA90705B23", "target": "Parli con Caribault per sapere quali lavori ci siano da svolgere al Campo Cloudtop. Ti racconta dei problemi causati dai gastornis selvatici, che hanno distrutto più volte i raccolti del campo. Sperando di ridurne il numero, ti chiede di uccidere tre di quei mostri piumati al suo posto. Per non sprecare l'occasione, ti chiede anche di recuperare la carne dei gastornis abbattuti." },
+    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_SEQ_02", "hash": "AD4DFC220134C118", "target": "Hai abbattuto i gastornis e ottenuto tre pezzi della loro carne. Torna da Caribault con il tuo bottino." },
+    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_SEQ_03", "hash": "76D56D4BD5545179", "target": "Caribault è sollevato nel sapere che hai ridotto la popolazione dei gastornis. La loro carne, ti spiega, offrirà una gradita alternativa alla monotona carne sotto sale a cui sono abituati gli uomini del campo. Il tuo lavoro ha portato due benefici: raccolti più sicuri e provviste più appetitose per gli uomini del Campo Cloudtop." },
+    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_TODO_00", "hash": "CDB10C8D5AC8FE70", "target": "Uccidere i gastornis e recuperare la loro carne." },
+    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_TODO_01", "hash": "8204E702417DE077", "target": "Consegnare le gastornis thighs a Caribault." },
+    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_CARIBAULT_000_000", "hash": "662C312206708447", "target": "Eh? Cercate lavoro? Allora siete nel posto giusto. Mi chiamo Caribault e ho l'onore di servire Lady Laniaitte. Quando sono libero dal servizio, cerco di rendermi utile aiutando nei campi, proprio come ora." },
+    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_CARIBAULT_000_001", "hash": "EDF397E34D25846A", "target": "Ultimamente abbiamo qualche problema con i gastornis selvatici. Sono quelle creature simili a dodo variopinti che avrete visto da queste parti. Per quanto cerchiamo di tenerli lontani, riescono sempre a raggiungere le coltivazioni prima che possiamo raccoglierle." },
+    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_CARIBAULT_000_002", "hash": "47DC00094F976295", "target": "Sarebbe un grande aiuto per il campo se poteste abbatterne qualcuno. Tre dovrebbero bastare, credo. Inoltre, se non è troppo disturbo, potreste riportare un po' di carne delle bestie che uccidete? Non ha senso sprecare della buona carne di volatile." },
+    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_CARIBAULT_000_010", "hash": "2AAB4C05F252DBFB", "target": "Uccidere tre gastornis dovrebbe essere più che sufficiente. Ah, e ricordatevi di riportare la loro carne." },
+    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_CARIBAULT_000_020", "hash": "1C06C55A728405DD", "target": "Avete sistemato i gastornis? Splendido! Avete recuperato anche la carne?" },
+    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_CARIBAULT_000_021", "hash": "1682BA6CB6A8C94B", "target": "Vi ringrazio! I miei uomini saranno felici di tutta questa carne fresca!" },
+    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_CARIBAULT_000_022", "hash": "D9E5C943CF599702", "target": "La carne sotto sale va benissimo se mangiata con moderazione, ma spesso desideriamo qualcosa di più saporito. E grazie a voi abbiamo preso due piccioni con una fava: i nostri uomini hanno carne fresca da cuocere sul fuoco e possiamo tirare il fiato senza i gastornis." }
   ]
 }

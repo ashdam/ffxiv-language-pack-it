@@ -2,16 +2,16 @@
   "conversation": "quest/019/HeaVnz918_01983",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_SEQ_00", "hash": "456AC2D1D97AC66D", "target": "" },
-    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_SEQ_01", "hash": "B14DB2BD5D78DC49", "target": "" },
-    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_SEQ_02", "hash": "44787C3516ECA82E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_SEQ_03", "hash": "5840F0586E29487E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_TODO_00", "hash": "585D6DE2461ECF9A", "target": "" },
-    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_TODO_01", "hash": "C0EAAAA96334E28C", "target": "" },
-    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_RESEARCHSYSTEM_000_000", "hash": "980DC8287FF60751", "target": "" },
-    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_RESEARCHSYSTEM_000_001", "hash": "04A39183743F8055", "target": "" },
-    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_RESEARCHSYSTEM_000_010", "hash": "DB5BBDC73EE01041", "target": "" },
-    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_RESEARCHSYSTEM_000_020", "hash": "F1AE94A8EF0D86D8", "target": "" },
-    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_RESEARCHSYSTEM_000_021", "hash": "32115D20F2994D4B", "target": "" }
+    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_SEQ_00", "hash": "456AC2D1D97AC66D", "target": "Il nodo di ricerca allagano attende in silenzio l'interazione dell'utente." },
+    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_SEQ_01", "hash": "B14DB2BD5D78DC49", "target": "Scopri che alcune mostruose chimere, capaci di riprodursi rapidamente, sono fuggite da una struttura di ricerca allagana. Il nodo di ricerca spiega che rappresentano una grave minaccia per l'ambiente locale e devono essere eliminate immediatamente. Uccidi due Allagan chimeras." },
+    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_SEQ_02", "hash": "44787C3516ECA82E", "target": "Hai ucciso le orribili abominazioni. Informa il nodo di ricerca che il rischio immediato per l'ambiente è stato ridotto." },
+    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_SEQ_03", "hash": "5840F0586E29487E", "target": "Il nodo di ricerca riconosce il tuo lavoro e conferma che la minaccia all'ambiente è stata ridotta. Scopri che tutti i tentativi di creare forme di vita composite hanno prodotto creature pericolose e psicologicamente instabili, ma il nodo di ricerca allagano non sembra intenzionato a porre limiti alle proprie ricerche." },
+    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_TODO_00", "hash": "585D6DE2461ECF9A", "target": "Uccidere delle Allagan chimeras." },
+    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_TODO_01", "hash": "C0EAAAA96334E28C", "target": "Fare rapporto al nodo di ricerca." },
+    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_RESEARCHSYSTEM_000_000", "hash": "980DC8287FF60751", "target": "\\<bip> \\<bip> Trasmissione ricevuta dalla struttura di ricerca sulle forme di vita composite... \\<buzzzzzz> ...Congratulazioni. La vostra partecipazione è richiesta a un esperimento di ricerca." },
+    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_RESEARCHSYSTEM_000_001", "hash": "04A39183743F8055", "target": "I sensori indicano la fuga dei soggetti dalla camera di prova 167-B, programma di riproduzione accelerata delle chimere. I soggetti costituiscono un rischio estremo per l'ambiente circostante. Si raccomanda l'eliminazione immediata delle Allagan chimeras interessate." },
+    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_RESEARCHSYSTEM_000_010", "hash": "DB5BBDC73EE01041", "target": "Per ridurre al minimo i danni irreparabili all'ambiente locale, eliminate immediatamente due Allagan chimeras." },
+    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_RESEARCHSYSTEM_000_020", "hash": "F1AE94A8EF0D86D8", "target": "\\<bip> \\<bip> Sterminio delle chimere confermato. Grazie per il servizio reso al programma di ricerca allagano. Le vostre prestazioni soddisfacenti sono state registrate." },
+    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_RESEARCHSYSTEM_000_021", "hash": "32115D20F2994D4B", "target": "Vi assicuriamo che, sebbene tutti i tentativi finora compiuti di creare forme di vita composite abbiano prodotto invariabilmente instabilità psicologica e...\\<buzzzzzz>...il programma di ricerca non vacillerà nel perseguimento del nobile obiettivo di... \\<buzzzzzz>" }
   ]
 }

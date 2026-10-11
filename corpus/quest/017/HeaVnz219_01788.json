@@ -2,19 +2,19 @@
   "conversation": "quest/017/HeaVnz219_01788",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_SEQ_00", "hash": "78E3D4B0D239FD4B", "target": "" },
-    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_SEQ_01", "hash": "7465D3F9F82331AE", "target": "" },
-    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_SEQ_02", "hash": "274570B3878681CE", "target": "" },
-    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_SEQ_03", "hash": "3CD56891EE9A458F", "target": "" },
-    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_TODO_00", "hash": "8E47F28041E8862F", "target": "" },
-    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_TODO_01", "hash": "38A746E08ACEBE98", "target": "" },
-    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_CIBLEROIT_000_000", "hash": "A41E6D804FEB634B", "target": "" },
-    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_UMASOU_000_001", "hash": "74A43711D47041DE", "target": "" },
-    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_CIBLEROIT_000_002", "hash": "4E7A68424FAD6578", "target": "" },
-    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_CIBLEROIT_000_010", "hash": "7D178DFAACDD2458", "target": "" },
-    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_CIBLEROIT_000_020", "hash": "7D3E3639B0FFE9F7", "target": "" },
-    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_CIBLEROIT_000_021", "hash": "FC343279A43357F7", "target": "" },
-    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_UMASOU_000_022", "hash": "25088D5F9A08A300", "target": "" },
-    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_CIBLEROIT_000_022", "hash": "1901FB5E5CDAB363", "target": "" }
+    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_SEQ_00", "hash": "78E3D4B0D239FD4B", "target": "Cibleroit guarda in lontananza con desiderio." },
+    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_SEQ_01", "hash": "7465D3F9F82331AE", "target": "Cibleroit non riesce a smettere di pensare alla carne dei loaghtan della zona. Ti chiede di attraversare il fiume vicino e di cacciarli, raccogliendo tre porzioni della loro succulenta carne." },
+    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_SEQ_02", "hash": "274570B3878681CE", "target": "Abbatti i loaghtan come bestiame. Torna a Loth ast Vath con la carne raccolta." },
+    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_SEQ_03", "hash": "3CD56891EE9A458F", "target": "Cibleroit e l'Affamata concordano: la carne è squisita. Uno dei vantaggi di essere Senzamente è poter decidere individualmente cosa mangiare. Nella Mente Unica, soltanto i membri della casta guerriera hanno il privilegio di mangiare carne." },
+    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_TODO_00", "hash": "8E47F28041E8862F", "target": "Uccidere i loaghtan e ottenere la loro carne" },
+    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_TODO_01", "hash": "38A746E08ACEBE98", "target": "Consegnare la carne a Cibleroit" },
+    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_CIBLEROIT_000_000", "hash": "A41E6D804FEB634B", "target": "<if(gnum4,Cacciatrice,Cacciatore)>, abbiamo un'altra richiesta. I loaghtan oltre il fiume hanno una carne deliziosa. Ti preghiamo di portarcene un po'. \\<click> \\<click>" },
+    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_UMASOU_000_001", "hash": "74A43711D47041DE", "target": "\\<click> \\<click> Abbiamo sentito la vostra conversazione. La carne di loaghtan è davvero deliziosa. Ma cercare di tenerla tutta per te? Non ci sembra giusto." },
+    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_CIBLEROIT_000_002", "hash": "4E7A68424FAD6578", "target": "Non parlavamo con te, Affamata. Ti manca così tanto sentire i pensieri degli altri? Ma hai ragione. Non è giusto. Va bene. <if(gnum4,Cacciatrice,Cacciatore)>, portaci tre porzioni di deliziosa carne di loaghtan. \\<click> \\<click>" },
+    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_CIBLEROIT_000_010", "hash": "7D178DFAACDD2458", "target": "Portaci tre porzioni di carne di loaghtan, per favore. Il solo pensiero ci fa prudere le mandibole. \\<click> \\<click>" },
+    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_CIBLEROIT_000_020", "hash": "7D3E3639B0FFE9F7", "target": "Hai la deliziosa carne? \\<click> \\<click>" },
+    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_CIBLEROIT_000_021", "hash": "FC343279A43357F7", "target": "Sì. È questa. Questa carne è molto buona. Ci hai portato carne molto buona. \\<click> \\<click> Non vedo l'ora di mangiarla." },
+    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_UMASOU_000_022", "hash": "25088D5F9A08A300", "target": "Sì. Il profumo di questa carne è molto buono. Non ricordiamo l'ultima volta che abbiamo visto carne così fresca e succosa." },
+    { "gameKey": "quest/017/HeaVnz219_01788#TEXT_HEAVNZ219_01788_CIBLEROIT_000_022", "hash": "1901FB5E5CDAB363", "target": "Nella Mente Unica, la carne viene data soltanto ai guerrieri. Ma per quelli come noi poter mangiare carne, quando ne abbiamo voglia... \\<click> \\<click> \\<click> Essere Senzamente ha vantaggi molto concreti!" }
   ]
 }

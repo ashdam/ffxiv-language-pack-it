@@ -2,19 +2,19 @@
   "conversation": "quest/017/HeaVnz118_01767",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_SEQ_00", "hash": "D40C13DC9B7DC036", "target": "" },
-    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_SEQ_01", "hash": "FD2CCD8BDBD13B70", "target": "" },
-    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_SEQ_02", "hash": "0F9B906F45D1CD3C", "target": "" },
-    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_SEQ_03", "hash": "ED3A28792B8F7DEA", "target": "" },
-    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_TODO_00", "hash": "DCCBC3DD061DB7EC", "target": "" },
-    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_TODO_01", "hash": "52C94AC50D0B6F56", "target": "" },
-    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_000_000", "hash": "1F5AF502CBDCF89B", "target": "" },
-    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_000_001", "hash": "0F8377E42BA1DB3B", "target": "" },
-    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_000_002", "hash": "5AEC60A8497B5CAA", "target": "" },
-    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_000_003", "hash": "944D90512D07462C", "target": "" },
-    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_000_010", "hash": "FE7955B74D65322F", "target": "" },
-    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_100_020", "hash": "4A6920BF41FA6107", "target": "" },
-    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_000_020", "hash": "FAA10C31BCFA11C0", "target": "" },
-    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_000_021", "hash": "DFBBF2649000E019", "target": "" }
+    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_SEQ_00", "hash": "D40C13DC9B7DC036", "target": "Jantellot non smette di lamentarsi della gamba." },
+    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_SEQ_01", "hash": "FD2CCD8BDBD13B70", "target": "Jantellot ti racconta che, nonostante le sue straordinarie capacità in battaglia, è stato ferito dagli artigli di un drago mostruoso. Ti chiede di procurargli l'acqua curativa della sorgente di Dragonspit e ti dà una bottiglia per raccoglierla." },
+    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_SEQ_02", "hash": "0F9B906F45D1CD3C", "target": "Riempi la bottiglia con l'acqua della sorgente. Riportala a Jantellot, affinché possa recuperare le forze." },
+    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_SEQ_03", "hash": "ED3A28792B8F7DEA", "target": "Consegni a Jantellot l'acqua curativa della sorgente. Ti spiega che, sebbene le scorte del Presidio dei Giustizieri, soprattutto di pozioni curative, siano scarse, l'acqua che hai raccolto è più efficace persino delle pozioni più potenti... almeno secondo alcuni." },
+    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_TODO_00", "hash": "DCCBC3DD061DB7EC", "target": "Ottenere acqua di sorgente a Dragonspit." },
+    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_TODO_01", "hash": "52C94AC50D0B6F56", "target": "Consegnare l'acqua a Jantellot." },
+    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_000_000", "hash": "1F5AF502CBDCF89B", "target": "Unnngh... La gamba... L'ultimo drago l'ha conciata per bene." },
+    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_000_001", "hash": "0F8377E42BA1DB3B", "target": "Se fosse successo a qualcun altro, credo proprio che sarebbe finito in pasto alla bestia. Per fortuna sono fatto di una pasta più dura e me la sono cavata con una ferita superficiale." },
+    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_000_002", "hash": "5AEC60A8497B5CAA", "target": "Non vedo l'ora di tornare fuori a caccia di quel bastardo, ma non andrò da nessuna parte finché la gamba non guarisce... Senti, potresti procurarmi una cosa?" },
+    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_000_003", "hash": "944D90512D07462C", "target": "Si dice che le acque di Dragonspit abbiano proprietà curative. Se ne avessi un po', tornerei in piedi in un attimo. Prendi questa bottiglia e riempila con l'acqua della sorgente, vuoi?" },
+    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_000_010", "hash": "FE7955B74D65322F", "target": "Vai a Dragonspit e portami un po' di quella rinomata acqua di sorgente. Non sopporto di restare seduto qui un momento di più!" },
+    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_100_020", "hash": "4A6920BF41FA6107", "target": "Hai quell'acqua di sorgente? Devo tornare là fuori. Sono stufo di vedere quei draghi pavoneggiarsi in giro senza un pensiero al mondo!" },
+    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_000_020", "hash": "FAA10C31BCFA11C0", "target": "Bene, bene. E appena in tempo: temo che quei draghi stiano dimenticando il sapore dell'acciaio ishgardiano. Dopo qualche applicazione di quest'acqua sarò pronto a tornare fuori e a rinfrescargli la memoria a fil di lama." },
+    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_000_021", "hash": "DFBBF2649000E019", "target": "Dicono che questa roba sia meglio di qualsiasi pozione. Meno male, visto quanto si sono ridotte le nostre scorte ultimamente." }
   ]
 }

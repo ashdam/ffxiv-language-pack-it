@@ -2,16 +2,16 @@
   "conversation": "quest/019/HeaVnz915_01980",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_SEQ_00", "hash": "8EF6A8A644CC3236", "target": "" },
-    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_SEQ_01", "hash": "A29F63C29769BFC3", "target": "" },
-    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_SEQ_02", "hash": "16AAACA7BBE7364E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_SEQ_03", "hash": "F602B10CE03A78D1", "target": "" },
-    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_TODO_00", "hash": "E8EC6143BD416EED", "target": "" },
-    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_TODO_01", "hash": "02EC15BA682BBE93", "target": "" },
-    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_CLEANINGSYSTEM_000_000", "hash": "06A3C483D2E00E8B", "target": "" },
-    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_CLEANINGSYSTEM_000_001", "hash": "585A2B2A4E63F230", "target": "" },
-    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_CLEANINGSYSTEM_000_010", "hash": "C4A3A2169BEAF40D", "target": "" },
-    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_CLEANINGSYSTEM_000_020", "hash": "C4C1F0A01F35F9DD", "target": "" },
-    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_CLEANINGSYSTEM_000_021", "hash": "859C25904E0CF554", "target": "" }
+    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_SEQ_00", "hash": "8EF6A8A644CC3236", "target": "Il nodo di sterilizzazione allagano attende in silenzio l'interazione dell'utente." },
+    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_SEQ_01", "hash": "A29F63C29769BFC3", "target": "Il nodo di sterilizzazione allagano ti informa che la struttura ha perso il collegamento di controllo con cinque unità di pulizia, i clockwork harvestmen. Queste unità sono fuori controllo e pericolose. Distruggile." },
+    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_SEQ_02", "hash": "16AAACA7BBE7364E", "target": "Distruggi l'attrezzatura difettosa. Aggiorna il nodo di sterilizzazione con queste nuove informazioni." },
+    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_SEQ_03", "hash": "F602B10CE03A78D1", "target": "Ora che le unità che non rispondevano sono state smantellate, il nodo di sterilizzazione può riprendere il lavoro, ma scopri che la sostituzione del sistema è in enorme ritardo. Purtroppo, non puoi farci nulla." },
+    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_TODO_00", "hash": "E8EC6143BD416EED", "target": "Abbattere dei clockwork harvestmen." },
+    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_TODO_01", "hash": "02EC15BA682BBE93", "target": "Fare rapporto al nodo di sterilizzazione." },
+    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_CLEANINGSYSTEM_000_000", "hash": "06A3C483D2E00E8B", "target": "\\<bip> \\<bip> Errore durante la reinizializzazione dei protocolli igienici. Collegamento di controllo alle unità di pulizia non operativo." },
+    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_CLEANINGSYSTEM_000_001", "hash": "585A2B2A4E63F230", "target": "È richiesto lo smontaggio manuale delle unità di pulizia. Disattivate cinque clockwork harvestmen. È richiesto lo smontaggio manuale delle unità di pulizia. Disattivate cinque clockwork harvestmen. Smontaggio manuale... \\<buzzzzzz>" },
+    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_CLEANINGSYSTEM_000_010", "hash": "C4A3A2169BEAF40D", "target": "\\<buzzzzzz> ...delle unità di pulizia richiesto. Disattivate cinque clockwork harvestmen. È richiesto lo smontaggio manuale delle unità di pulizia. Disattivate cinque... \\<buzzzzzz>" },
+    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_CLEANINGSYSTEM_000_020", "hash": "C4C1F0A01F35F9DD", "target": "\\<buzzzzzz> ...Conferma del controllo di tutte le unità di pulizia... \\<bip> \\<bip> Collegamento di controllo a tutte le unità di pulizia entro i parametri accettabili." },
+    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_CLEANINGSYSTEM_000_021", "hash": "859C25904E0CF554", "target": "La sostituzione di questo nodo di sterilizzazione è in ritardo di quattromilanovecentosessantadue anni, tre mesi e dodici giorni. Per ridurre al minimo il rischio di un guasto catastrofico del sistema, sostituite il nodo di sterilizzazione appena possibile." }
   ]
 }

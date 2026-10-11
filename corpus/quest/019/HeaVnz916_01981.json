@@ -2,16 +2,16 @@
   "conversation": "quest/019/HeaVnz916_01981",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SEQ_00", "hash": "4CAC625B7CDF596B", "target": "" },
-    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SEQ_01", "hash": "CC66304FB900C7D2", "target": "" },
-    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SEQ_02", "hash": "FE43EEC0B2E015B5", "target": "" },
-    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SEQ_03", "hash": "E9AC6FAC635D95A3", "target": "" },
-    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_TODO_00", "hash": "1E90BD339510ED93", "target": "" },
-    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_TODO_01", "hash": "10B3682FFF03D24F", "target": "" },
-    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SECURITYSYSTEM_000_000", "hash": "6522ADC700D6AD45", "target": "" },
-    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SECURITYSYSTEM_000_001", "hash": "659E3C24ED8F4C62", "target": "" },
-    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SECURITYSYSTEM_000_010", "hash": "7BB588D5BCEEF948", "target": "" },
-    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SECURITYSYSTEM_000_020", "hash": "CF430017A73286E0", "target": "" },
-    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SECURITYSYSTEM_000_021", "hash": "19F436498131DE9C", "target": "" }
+    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SEQ_00", "hash": "4CAC625B7CDF596B", "target": "Il nodo di sicurezza allagano lampeggia in modo irregolare." },
+    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SEQ_01", "hash": "CC66304FB900C7D2", "target": "Tra un torrente di avvisi e allarmi, il nodo di sicurezza allagano ti informa che un enforcement droid è fuori controllo e deve essere disattivato. Trova questo orrore tecnologico e distruggilo." },
+    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SEQ_02", "hash": "FE43EEC0B2E015B5", "target": "Elimini l'enforcement droid fuori controllo. Aggiorna il nodo di sicurezza con queste informazioni." },
+    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SEQ_03", "hash": "E9AC6FAC635D95A3", "target": "Il nodo di sicurezza conferma che l'enforcement droid non costituisce più una minaccia e accenna a un evento simile avvenuto in passato, con conseguenze terrificanti." },
+    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_TODO_00", "hash": "1E90BD339510ED93", "target": "Abbattere l'enforcement droid 208." },
+    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_TODO_01", "hash": "10B3682FFF03D24F", "target": "Fare rapporto al nodo di sicurezza." },
+    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SECURITYSYSTEM_000_000", "hash": "6522ADC700D6AD45", "target": "Pericolo! Pericolo! Impossibile accedere ai principali sistemi di sicurezza di Azys Lla." },
+    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SECURITYSYSTEM_000_001", "hash": "659E3C24ED8F4C62", "target": "Enforcement droid 208 non risponde ai comandi di arresto d'emergenza. Si raccomanda l'immediata distruzione forzata dell'attrezzatura. Pericolo! Pericolo! Impossibile accedere ai principali sistemi di Azys... \\<buzzzzzz>" },
+    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SECURITYSYSTEM_000_010", "hash": "7BB588D5BCEEF948", "target": "\\<buzzzzzz> ...di sicurezza. Enforcement droid 208 non risponde ai comandi di arresto d'emergenza. Si raccomanda l'immediata distruzione forzata dell'attrezzatura. Pericolo! Pericolo! Impossibile... \\<buzzzzzz>" },
+    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SECURITYSYSTEM_000_020", "hash": "CF430017A73286E0", "target": "\\<buzzzzzz> Disattivazione dell'attrezzatura di sicurezza difettosa confermata." },
+    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SECURITYSYSTEM_000_021", "hash": "19F436498131DE9C", "target": "In riconoscimento del vostro contributo nell'impedire il possibile ripetersi dell'incidente...\\<buzzzzzz>...nel quale duecentonove civili e/o ricercatori furono brutalmente...\\<buzzzzzz>...operazione di pulizia associata di seicento ore...\\<buzzzzzz>...è stata raccomandata la vostra candidatura per... \\<buzzzzzz>" }
   ]
 }

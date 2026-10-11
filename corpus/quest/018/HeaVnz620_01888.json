@@ -2,17 +2,17 @@
   "conversation": "quest/018/HeaVnz620_01888",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_SEQ_00", "hash": "03B1D254B76AA2D4", "target": "" },
-    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_SEQ_01", "hash": "15F9D28F07363448", "target": "" },
-    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_SEQ_02", "hash": "B8E5F8EDA29525D9", "target": "" },
-    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_SEQ_03", "hash": "19322FD024981048", "target": "" },
-    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_TODO_00", "hash": "A6B9678FAA42508E", "target": "" },
-    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_TODO_01", "hash": "6AE6C87C5F719B50", "target": "" },
-    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_EMONT_000_000", "hash": "EAA4A2892C58270E", "target": "" },
-    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_EMONT_000_001", "hash": "A2D138AC246D6940", "target": "" },
-    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_EMONT_000_010", "hash": "7A593653A0A93822", "target": "" },
-    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_EMONT_000_020", "hash": "5B41D744CEEF2DA3", "target": "" },
-    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_EMONT_000_021", "hash": "5613D9C2811269CD", "target": "" },
-    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_EMONT_000_022", "hash": "AA4BE3210C8D86CA", "target": "" }
+    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_SEQ_00", "hash": "03B1D254B76AA2D4", "target": "Emont è impegnato a fabbricare qualcosa." },
+    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_SEQ_01", "hash": "15F9D28F07363448", "target": "Emont sta cercando di fabbricare qualcosa, ma lo preoccupano i continui disturbi degli sleet trap intorno a casa sua. Gli dispiacerebbe che distruggessero ciò che ha realizzato con tanta fatica. Uccidi cinque di queste bestie per tranquillizzarlo." },
+    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_SEQ_02", "hash": "B8E5F8EDA29525D9", "target": "Liberi la zona da cinque mostruosi sleet trap. Informa Emont che non deve più vivere nel timore di questi orrendi vandali e del loro comportamento distruttivo." },
+    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_SEQ_03", "hash": "19322FD024981048", "target": "Emont ti ringrazia e spiega a cosa stava lavorando. Prima che la Calamità gelasse le acque, innumerevoli navi frequentavano Oakum Landing. Allora Emont riciclava il sartiame danneggiato o inutilizzato e lo vendeva ad altre navi per riparazioni o rinforzi. Sebbene il ghiaccio e il freddo impediscano alle navi di raggiungerlo, vuole prepararsi al giorno in cui i fiumi si scioglieranno, accumulando sartiame da vendere." },
+    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_TODO_00", "hash": "A6B9678FAA42508E", "target": "Uccidere gli sleet trap." },
+    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_TODO_01", "hash": "6AE6C87C5F719B50", "target": "Fare rapporto a Emont." },
+    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_EMONT_000_000", "hash": "EAA4A2892C58270E", "target": "Volete sapere cosa sto fabbricando? Hmph. Non ha molta importanza. Ormai serve a ben poco. Immagino sia solo il mio modo di tenermi occupato. Comunque, ci vuole tempo per farlo e mi dispiacerebbe vederlo distrutto." },
+    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_EMONT_000_001", "hash": "A2D138AC246D6940", "target": "Fatemi un favore ed eliminate alcuni degli sleet trap che si aggirano qui intorno. Quei bastardi causano sempre problemi. Se ne uccideste cinque, mi sarebbe molto più facile proteggere la mia casa e le mie cose." },
+    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_EMONT_000_010", "hash": "7A593653A0A93822", "target": "Credete di poter uccidere cinque degli sleet trap che si aggirano qui intorno? Mi sarebbe molto più facile tenere al sicuro le mie cose." },
+    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_EMONT_000_020", "hash": "5B41D744CEEF2DA3", "target": "Grazie. Mi credete pazzo, vero? A restare in un posto simile... Comunque, immagino che dovrei dirvi cosa sto fabbricando." },
+    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_EMONT_000_021", "hash": "5613D9C2811269CD", "target": "Un tempo riciclavo sartiame e lo vendevo alle navi di passaggio. Ora non si direbbe, ma questo posto era un centro di attività frenetica." },
+    { "gameKey": "quest/018/HeaVnz620_01888#TEXT_HEAVNZ620_01888_EMONT_000_022", "hash": "AA4BE3210C8D86CA", "target": "Quando tutto questo ghiaccio si scioglierà, questo posto tornerà com'era prima. Le navi torneranno e gli equipaggi faranno la fila per comprare il mio sartiame. Devo assicurarmi di avere scorte abbondanti quando arriverà quel momento." }
   ]
 }

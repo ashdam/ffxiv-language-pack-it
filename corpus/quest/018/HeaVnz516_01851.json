@@ -2,17 +2,17 @@
   "conversation": "quest/018/HeaVnz516_01851",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_SEQ_00", "hash": "D6F50C434E75217B", "target": "" },
-    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_SEQ_01", "hash": "FC4DF0B082303FCC", "target": "" },
-    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_SEQ_02", "hash": "4FAFB80EAEDA3783", "target": "" },
-    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_SEQ_03", "hash": "D1DDDBAE3DD5D13C", "target": "" },
-    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_TODO_00", "hash": "0518423280AB3DB7", "target": "" },
-    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_TODO_01", "hash": "5D2E49F193E756DB", "target": "" },
-    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_MOGZUN_000_000", "hash": "7A18B7FE67D344B2", "target": "" },
-    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_MOGZUN_000_001", "hash": "5764394936A0B1D1", "target": "" },
-    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_MOGZUN_000_010", "hash": "074FFA18072B1724", "target": "" },
-    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_MOGZUN_000_020", "hash": "236919320E36FDE1", "target": "" },
-    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_MOGZUN_000_021", "hash": "9C02CE3EE50B9F2C", "target": "" },
-    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_MOGZUN_000_022", "hash": "D13BA151C87228AF", "target": "" }
+    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_SEQ_00", "hash": "D6F50C434E75217B", "target": "Mogzun scruta i dintorni con tutta l'intensità possibile." },
+    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_SEQ_01", "hash": "FC4DF0B082303FCC", "target": "Il compito di Mogzun è uccidere le meliae che infestano la zona, ma prima gli serve qualcuno che gli mostri come fare. Uccidi tre meliae e porta a Mogzun i rami strappati ai loro cadaveri come prova." },
+    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_SEQ_02", "hash": "4FAFB80EAEDA3783", "target": "Le meliae sono state uccise e i loro rami sono in tuo possesso. Consegnali a Mogzun." },
+    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_SEQ_03", "hash": "D1DDDBAE3DD5D13C", "target": "Hai consegnato i rami a Mogzun, che sostiene di aver imparato molto osservandoti combattere. A quanto pare, però, guardare è faticoso quanto agire, così ha deciso di interrompere l'allenamento per oggi." },
+    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_TODO_00", "hash": "0518423280AB3DB7", "target": "Uccidere delle gnarled meliae per raccoglierne i rami." },
+    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_TODO_01", "hash": "5D2E49F193E756DB", "target": "Consegnare i rami a Mogzun." },
+    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_MOGZUN_000_000", "hash": "7A18B7FE67D344B2", "target": "Ah, vedo una melia proprio laggiù! Dato che è la bestia che mi è stata assegnata, farei meglio a ucciderla prima che scappi impaurita, kupò." },
+    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_MOGZUN_000_001", "hash": "5764394936A0B1D1", "target": "Naturalmente non posso combattere senza istruzioni. Se abbattete tre meliae e mi portate un ramo di ciascuna, dovrebbe bastare a ispirarmi!" },
+    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_MOGZUN_000_010", "hash": "074FFA18072B1724", "target": "Seguirò il vostro esempio, comandante! Cominciate a tagliare quel legno, kupò!" },
+    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_MOGZUN_000_020", "hash": "236919320E36FDE1", "target": "Non c'è modo migliore d'imparare che osservare. Avete portato le melia branches, kupò?" },
+    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_MOGZUN_000_021", "hash": "9C02CE3EE50B9F2C", "target": "Ah, sì... sono proprio melia branches. Confido che le abbiate pestate per bene. Il vostro modo di combattere mi ispira a nuove vette, comandante!" },
+    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_MOGZUN_000_022", "hash": "D13BA151C87228AF", "target": "Sono così ispirato, in effetti, che sono già piuttosto sfinito! Una recluta non deve affaticarsi troppo presto. Il riposo ci permette di riflettere sulle lezioni apprese. Esercitazione finita, kupò!" }
   ]
 }

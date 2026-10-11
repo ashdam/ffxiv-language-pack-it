@@ -2,18 +2,18 @@
   "conversation": "quest/017/HeaVnz302_01794",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_SEQ_00", "hash": "198E66853AEE48BE", "target": "" },
-    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_SEQ_01", "hash": "4612374BFE06E698", "target": "" },
-    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_SEQ_02", "hash": "B1386A70A70D944B", "target": "" },
-    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_SEQ_03", "hash": "AA772338E11CB85B", "target": "" },
-    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_TODO_00", "hash": "AE96EC948C3D34CA", "target": "" },
-    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_TODO_01", "hash": "0CB9DA9F48B5A89E", "target": "" },
-    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_CRUSTACEANSLOVERGNATH01794_000_000", "hash": "8C3F4A32630E906C", "target": "" },
-    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_CRUSTACEANSLOVERGNATH01794_000_001", "hash": "65D98080EEE57E42", "target": "" },
-    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_CRUSTACEANSLOVERGNATH01794_000_010", "hash": "22A60716A47EE76F", "target": "" },
-    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_BALLOON_100_020", "hash": "2CC7D86534436CF2", "target": "" },
-    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_CRUSTACEANSLOVERGNATH01794_000_020", "hash": "6C8F386DEDE90628", "target": "" },
-    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_CRUSTACEANSLOVERGNATH01794_000_021", "hash": "863564FB0A0DF778", "target": "" },
-    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_CRUSTACEANSLOVERGNATH01794_000_022", "hash": "DE7D3C6DE751C34D", "target": "" }
+    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_SEQ_00", "hash": "198E66853AEE48BE", "target": "Il trasportatore dei Vath è in preda al panico." },
+    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_SEQ_01", "hash": "4612374BFE06E698", "target": "Il trasportatore dei Vath è stato vittima di un'imboscata degli Gnath e ha dovuto abbandonare il carro. Sebbene il carico sia molto prezioso, teme che gli aggressori siano ancora nei paraggi e ti chiede di recuperarlo al suo posto. Cerca le merci abbandonate presso il fiume a ovest di Loth ast Gnath." },
+    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_SEQ_02", "hash": "B1386A70A70D944B", "target": "Come previsto, gli Gnath erano in agguato, in attesa che qualcuno tentasse di recuperare i beni del trasportatore dei Vath. Elimini rapidamente gli aggressori e recuperi il carico. Riportalo a Loth ast Vath." },
+    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_SEQ_03", "hash": "AA772338E11CB85B", "target": "Il carico del trasportatore dei Vath conteneva un regalo speciale per una Vath su cui aveva messo gli occhi. È felicissimo che tu lo abbia recuperato per lui e grato che tu abbia vendicato l'attacco degli Gnath." },
+    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_TODO_00", "hash": "AE96EC948C3D34CA", "target": "Recuperare l'abandoned cargo." },
+    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_TODO_01", "hash": "0CB9DA9F48B5A89E", "target": "Consegnare il carico al trasportatore dei Vath." },
+    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_CRUSTACEANSLOVERGNATH01794_000_000", "hash": "8C3F4A32630E906C", "target": "Siamo stati attaccati dagli Gnath della Mente Unica! Siamo fuggiti in fretta. Abbiamo lasciato indietro il carro. Il carro è pieno di merci. Dobbiamo recuperare quelle merci. \\<click> \\<click> Le merci sono molto preziose. Molto, molto preziose." },
+    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_CRUSTACEANSLOVERGNATH01794_000_001", "hash": "65D98080EEE57E42", "target": "Ma gli Gnath potrebbero essere ancora in agguato! \\<click> \\<click> <if(gnum4,Generosa cacciatrice,Generoso cacciatore)>, siete forte. Potreste recuperare le nostre merci per noi? Siamo stati attaccati sulla riva del fiume, a ovest di Loth ast Gnath. Il nostro carro dovrebbe essere ancora lì. Vi prego, recuperate le nostre preziose merci." },
+    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_CRUSTACEANSLOVERGNATH01794_000_010", "hash": "22A60716A47EE76F", "target": "Il nostro carro dovrebbe essere vicino a Loth ast Gnath. A ovest di Loth ast Gnath." },
+    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_BALLOON_100_020", "hash": "2CC7D86534436CF2", "target": "\\<click> \\<click> Questo è nostro! \\<click> \\<click>" },
+    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_CRUSTACEANSLOVERGNATH01794_000_020", "hash": "6C8F386DEDE90628", "target": "<if(gnum4,Cacciatrice,Cacciatore)>, avete il nostro carico?" },
+    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_CRUSTACEANSLOVERGNATH01794_000_021", "hash": "863564FB0A0DF778", "target": "Ah, sì. È proprio questo... alghe deliziose! Le abbiamo raccolte come regalo. Un regalo per una Vath speciale. Le vogliamo bene. Molto bene." },
+    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_CRUSTACEANSLOVERGNATH01794_000_022", "hash": "DE7D3C6DE751C34D", "target": "Dunque gli Gnath erano davvero in agguato? Gnath infidi... \\<click> \\<click> Grazie per averli uccisi. Non ci avete restituito soltanto le alghe. Ci avete anche dato la nostra vendetta." }
   ]
 }
