@@ -119,7 +119,7 @@
     { "gameKey": "cut_scene/040/VoiceMan_04005#TEXT_VOICEMAN_04005_001170_FORDOLA", "hash": "A617F7596C8D2409", "target": "Io... io voglio..." },
     { "gameKey": "cut_scene/040/VoiceMan_04005#TEXT_VOICEMAN_04005_001180_FORDOLA", "hash": "FC770508204BB52A", "target": "Voglio fargliela pagare! A tutti! A chiunque mi abbia derisa o guardata dall'alto in basso─voglio il potere di fargliela pagare!" },
     { "gameKey": "cut_scene/040/VoiceMan_04005#TEXT_VOICEMAN_04005_001190_ZENOS", "hash": "D9A4C3E4915E3202", "target": "...Mh. Molto bene." },
-    { "gameKey": "cut_scene/040/VoiceMan_04005#TEXT_VOICEMAN_04005_001200_ZENOS", "hash": "F0AA395A8DBE5520", "target": "Allora ti darò un'occasione. La possibilità di trascendere i limiti mortali. Ammesso che tu sia pronta a scommettere la vita per un simile potere." },
+    { "gameKey": "cut_scene/040/VoiceMan_04005#TEXT_VOICEMAN_04005_001200_ZENOS", "hash": "F0AA395A8DBE5520", "target": "Allora ti darò un'occasione. La possibilità di trascendere i limiti mortali. Ammesso che tu sia <if(gnum4,pronta,pronto)> a scommettere la vita per un simile potere." },
     { "gameKey": "cut_scene/040/VoiceMan_04005#TEXT_VOICEMAN_04005_001210_FORDOLA", "hash": "2373AA3241AC2EF7", "target": "Trascendere, mio signore...?" },
     { "gameKey": "cut_scene/040/VoiceMan_04005#TEXT_VOICEMAN_04005_001220_FORDOLA", "hash": "12F4EBFAB204DD30", "target": "Sono venuta qui pronta a morire. Ditemi cosa devo fare." },
     { "gameKey": "cut_scene/040/VoiceMan_04005#TEXT_VOICEMAN_04005_001230_LYSENARRATION", "hash": "B59DD11DF7240E13", "target": "Ricordo come ridevano. Soldati dell'Alleanza e della Resistenza,<br>impazienti di combattere, si scambiavano battute mentre marciavamo a est verso le Peaks..." },
