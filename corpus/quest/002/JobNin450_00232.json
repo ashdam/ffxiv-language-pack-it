@@ -58,7 +58,7 @@
     { "gameKey": "quest/002/JobNin450_00232#TEXT_JOBNIN450_00232_BALOON_000_98", "hash": "EC65AF1295C5256C", "target": "Per Karasu!" },
     { "gameKey": "quest/002/JobNin450_00232#TEXT_JOBNIN450_00232_BATTLEC00232_000_100", "hash": "E75AB324765012E8", "target": "Perché quel muso lungo, <if(gnum4,ragazza,ragazzo)>? Oggi i pesci non abboccano?" },
     { "gameKey": "quest/002/JobNin450_00232#TEXT_JOBNIN450_00232_BATTLEC00232_000_101", "hash": "C6A9A95A5C551844", "target": "Forse sanno che <if(gnum4,siete già una donna morta,siete già un uomo morto)>...?" },
-    { "gameKey": "quest/002/JobNin450_00232#TEXT_JOBNIN450_00232_BATTLEC00232_000_102", "hash": "E8119AA05D151BBB", "target": "Non faccio beneficenza qui, <if(gnum4,ragazza,ragazzo)>. Procuratevi la vostra canna e la vostra esca!" },
+    { "gameKey": "quest/002/JobNin450_00232#TEXT_JOBNIN450_00232_BATTLEC00232_000_102", "hash": "E8119AA05D151BBB", "target": "Non faccio beneficenza qui, <if(gnum4,ragazza,ragazzo)>. Procurati la tua canna e la tua esca!" },
     { "gameKey": "quest/002/JobNin450_00232#TEXT_JOBNIN450_00232_BALOON_000_103", "hash": "8C0152696169E0CC", "target": "Finirà in fretta!" },
     { "gameKey": "quest/002/JobNin450_00232#TEXT_JOBNIN450_00232_BATTLED00232_000_105", "hash": "279E619DC29FB647", "target": "Che mi è saltato in mente di aprire bottega in questo posto dimenticato dagli dei!? Con questi vapori, finirò stecchito prima di vedere un solo Gil di guadagno!" },
     { "gameKey": "quest/002/JobNin450_00232#TEXT_JOBNIN450_00232_BATTLED00232_000_106", "hash": "A43B11F1956D63DB", "target": "...Certo, se porto la tua testa a Karasu, sarò sistemato per tutta la vita!" },

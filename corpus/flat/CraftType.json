@@ -1,0 +1,14 @@
+{
+  "sheet": "CraftType",
+  "gameVersion": "2026.09.15.0000.0000",
+  "entries": [
+    { "gameKey": "CraftType#0", "hash": "03158B1524E48284", "target": "Falegnameria" },
+    { "gameKey": "CraftType#1", "hash": "9E0FA41D063547BF", "target": "Forgiatura" },
+    { "gameKey": "CraftType#2", "hash": "BE43AE9DB4843534", "target": "Fabbricazione di armature" },
+    { "gameKey": "CraftType#3", "hash": "497E6765FB50732E", "target": "Oreficeria" },
+    { "gameKey": "CraftType#4", "hash": "B5C9CC450BF366C3", "target": "Conceria" },
+    { "gameKey": "CraftType#5", "hash": "33CB62CAE96DE050", "target": "Tessitura" },
+    { "gameKey": "CraftType#6", "hash": "63CB478554328148", "target": "Alchimia" },
+    { "gameKey": "CraftType#7", "hash": "2B661F1876BEA915", "target": "Cucina" }
+  ]
+}
