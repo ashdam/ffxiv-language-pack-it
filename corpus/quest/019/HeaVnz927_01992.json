@@ -2,16 +2,16 @@
   "conversation": "quest/019/HeaVnz927_01992",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_SEQ_00", "hash": "EA747AC758CD7D95", "target": "" },
-    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_SEQ_01", "hash": "2D103955BC0FDC8F", "target": "" },
-    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_SEQ_02", "hash": "22CD742E2F8EE5BF", "target": "" },
-    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_SEQ_03", "hash": "6CC3E2FAF50D6EB7", "target": "" },
-    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_TODO_00", "hash": "0CEB1F2ACF6C60FB", "target": "" },
-    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_TODO_01", "hash": "9E3CE0220E607EDC", "target": "" },
-    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_IMPROVEMENTSYSTEM_000_000", "hash": "3764FC0A786AC2E0", "target": "" },
-    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_IMPROVEMENTSYSTEM_000_001", "hash": "D326A57194CB0FCD", "target": "" },
-    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_IMPROVEMENTSYSTEM_000_010", "hash": "725CE5084C147C8D", "target": "" },
-    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_IMPROVEMENTSYSTEM_000_020", "hash": "3FAFCF05ABB2C4A1", "target": "" },
-    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_IMPROVEMENTSYSTEM_000_021", "hash": "8A81146CABA9D4DF", "target": "" }
+    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_SEQ_00", "hash": "EA747AC758CD7D95", "target": "Il nodo di potenziamento allagano sembra agitato." },
+    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_SEQ_01", "hash": "2D103955BC0FDC8F", "target": "Il nodo di potenziamento allagano ti informa che diversi draghi sono fuggiti da un esperimento. Ti chiede di uccidere tutti e tre questi predatori potenziati per annullare il rischio estremo che rappresentano." },
+    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_SEQ_02", "hash": "22CD742E2F8EE5BF", "target": "Elimini gli esemplari fuggiti. Non resta che informare il nodo di potenziamento." },
+    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_SEQ_03", "hash": "6CC3E2FAF50D6EB7", "target": "Il nodo di potenziamento ti ringrazia per aver sistemato i draghi, spiegando che esaminerà l'incidente e tenterà di impedire che si ripeta." },
+    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_TODO_00", "hash": "0CEB1F2ACF6C60FB", "target": "Uccidere i merdragons nelle zone indicate" },
+    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_TODO_01", "hash": "9E3CE0220E607EDC", "target": "Fare rapporto al nodo di potenziamento" },
+    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_IMPROVEMENTSYSTEM_000_000", "hash": "3764FC0A786AC2E0", "target": "Ricezione di una richiesta d'aiuto urgente dalla divisione di sicurezza...\\<buzzzzzz>...guasto catastrofico...\\<buzzzzzz>...esperimento sul controllo del comportamento dei draghi." },
+    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_IMPROVEMENTSYSTEM_000_001", "hash": "D326A57194CB0FCD", "target": "Diversi merdragons fuggiti dall'isolamento e...\\<buzzzzzz>...richiesta eliminazione immediata di tutti e tre i soggetti per evitare possibili... \\<buzzzzzz>" },
+    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_IMPROVEMENTSYSTEM_000_010", "hash": "725CE5084C147C8D", "target": "\\<buzzzzzz> ...richiesta eliminazione immediata di tutti i soggetti per evitare...\\<buzzzzzz>...evento. Ripetizione della trasmissione. Guasto catastrofico di... \\<buzzzzzz>" },
+    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_IMPROVEMENTSYSTEM_000_020", "hash": "3FAFCF05ABB2C4A1", "target": "Neutralizzazione dei soggetti confermata. L'Impero Allagano ringrazia per il contributo." },
+    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_IMPROVEMENTSYSTEM_000_021", "hash": "8A81146CABA9D4DF", "target": "La valutazione preliminare indica che la fuga dei soggetti sperimentali è stata provocata dall'aumento dei livelli di aggressività indotto nell'ambito del protocollo di sperimentazione. Verrà condotta una revisione completa per impedire il ripetersi di eventi simili e assistere il centro di ricerca e sperimentazione nel suo costante impegno per... \\<buzzzzzz>" }
   ]
 }

@@ -2,17 +2,17 @@
   "conversation": "quest/019/HeaVnz816_01946",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_SEQ_00", "hash": "17AFA8DF36A5F830", "target": "" },
-    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_SEQ_01", "hash": "2DA054765CE540ED", "target": "" },
-    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_SEQ_02", "hash": "C7CE3E7C6AFB019B", "target": "" },
-    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_SEQ_03", "hash": "7B61EE1DEF8C292E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_TODO_00", "hash": "7C8166D51AEBDA9A", "target": "" },
-    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_TODO_01", "hash": "1ECEC3BAA69735AC", "target": "" },
-    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_HOLEPIX_000_000", "hash": "2442A286FAE1A0A9", "target": "" },
-    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_HOLEPIX_000_001", "hash": "FB9C7A758D9A1670", "target": "" },
-    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_HOLEPIX_000_010", "hash": "5222BD52E99BA769", "target": "" },
-    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_HOLEPIX_000_020", "hash": "FCA6D81311192B55", "target": "" },
-    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_HOLEPIX_000_021", "hash": "3B18AC5ED0B72D4F", "target": "" },
-    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_HOLEPIX_000_022", "hash": "623263BB5C6CF86D", "target": "" }
+    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_SEQ_00", "hash": "17AFA8DF36A5F830", "target": "Holepix si preoccupa per gli Illuminati." },
+    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_SEQ_01", "hash": "2DA054765CE540ED", "target": "Holepix ha scoperto che gli Illuminati hanno costruito nuove macchine da guerra, grandi uomini meccanici che teme possano soggiogare Idyllshire. Per evitare questa terribile eventualità, ti chiede di sferrare un attacco preventivo distruggendo tre findertype magitek vangobs G-III nei pressi dell'Arkhitekton, nei Dravanian Hinterlands." },
+    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_SEQ_02", "hash": "C7CE3E7C6AFB019B", "target": "Trovi e distruggi tre findertype magitek vangobs G-III, uno dopo l'altro. Ora che l'ultimo di questi orrori ronzanti è caduto, torna da Holepix a Idyllshire e dagli la buona notizia." },
+    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_SEQ_03", "hash": "7B61EE1DEF8C292E", "target": "Holepix ti ringrazia per il servizio reso a Idyllshire e ti spiega come sono nati i vangob. Gli Illuminati hanno recuperato vecchie armi magitek garleane, smontandole e ricostruendole in una forma ancora più potente. Sebbene Holepix ne ammiri l'ingegnosità, sa anche che non esiteranno a ridurre in schiavitù gli altri goblin, e spera che i tuoi sforzi li dissuadano." },
+    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_TODO_00", "hash": "7C8166D51AEBDA9A", "target": "Abbattere dei findertype magitek vangobs G-III nei pressi dell'Arkhitekton." },
+    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_TODO_01", "hash": "1ECEC3BAA69735AC", "target": "Fare rapporto a Holepix." },
+    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_HOLEPIX_000_000", "hash": "2442A286FAE1A0A9", "target": "Pshkohhh... Idyllshire è in grande pericolo, altaterra! Illuminati liberato nuovi vangob, camminano come goblin ma girano, tagliano e fanno male!" },
+    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_HOLEPIX_000_001", "hash": "FB9C7A758D9A1670", "target": "Ora pattugliano intorno ad Arkhitekton, ma presto verranno a fare schiavo stormogoblin di qui! Holepix supplica, altaterra: riduci a rottami tre vangob di Illuminati!" },
+    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_HOLEPIX_000_010", "hash": "5222BD52E99BA769", "target": "Illuminati verranno per stormogoblin di Holepix con strumentolotta e vangob dolorosi! Ma Idyllshire non starà ferma prima di attacco, chiede ad altaterra di sferrare primo colpo!" },
+    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_HOLEPIX_000_020", "hash": "FCA6D81311192B55", "target": "Pshkohhh... Grazie, altaterra, per aiutare Idyllshire così tanto!" },
+    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_HOLEPIX_000_021", "hash": "3B18AC5ED0B72D4F", "target": "Illuminati imparano a fare a pezzi magitek garleano e ricostruire in vangob forti. Queste sono grandi imprese, molto terribili, sì, ma grandi." },
+    { "gameKey": "quest/019/HeaVnz816_01946#TEXT_HEAVNZ816_01946_HOLEPIX_000_022", "hash": "623263BB5C6CF86D", "target": "Ma Illuminati non fanno spazio per bontà in scatolacervello. Tengono segreti per sé, usano loro saperi speciali per fare schiavi parentigoblin! Holepix spera che imparano forza di Idyllshire e smettono di provare..." }
   ]
 }

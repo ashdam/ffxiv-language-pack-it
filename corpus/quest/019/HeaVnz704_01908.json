@@ -2,16 +2,16 @@
   "conversation": "quest/019/HeaVnz704_01908",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_SEQ_00", "hash": "127AEBBE9EE4E122", "target": "" },
-    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_SEQ_01", "hash": "D227928270CC9063", "target": "" },
-    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_SEQ_02", "hash": "D7501EBA61DF4AF7", "target": "" },
-    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_SEQ_03", "hash": "AE2F86562F638419", "target": "" },
-    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_TODO_00", "hash": "9C64723C5475583E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_TODO_01", "hash": "E7F3F8BD84C9C224", "target": "" },
-    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_HINUVALI_000_000", "hash": "A8F896A2B8E57577", "target": "" },
-    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_HINUVALI_000_001", "hash": "2269B31B4035E36F", "target": "" },
-    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_HINUVALI_000_010", "hash": "FB4BCE575EA5480E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_HINUVALI_000_020", "hash": "EB14B1B6E71EC848", "target": "" },
-    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_HINUVALI_000_021", "hash": "FF60E366BBA95622", "target": "" }
+    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_SEQ_00", "hash": "127AEBBE9EE4E122", "target": "I coltelli di Hinu Vali hanno visto giorni migliori." },
+    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_SEQ_01", "hash": "D227928270CC9063", "target": "Hinu Vali deve preparare una montagna di carne per il prossimo banchetto a Ok' Zundu e un nuovo set di coltelli renderebbe il suo lavoro molto più rapido. Gli artigli degli endymions che volano vicino a Ok' Zundu dovrebbero fare al caso suo. Uccidine quattro e consegna gli artigli a Hinu Vali." },
+    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_SEQ_02", "hash": "D7501EBA61DF4AF7", "target": "Gli endymions cadono rapidamente e strappi gli artigli ai loro cadaveri. Portali a Hinu Vali affinché possa proseguire i preparativi." },
+    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_SEQ_03", "hash": "AE2F86562F638419", "target": "Gli artigli degli endymions tagliano la carne senza quasi incontrare resistenza. Con un po' di fortuna, Hinu Vali preparerà la carne in tempo per il banchetto degli Zundu." },
+    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_TODO_00", "hash": "9C64723C5475583E", "target": "Uccidere gli endymions e raccogliere i loro artigli." },
+    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_TODO_01", "hash": "E7F3F8BD84C9C224", "target": "Consegnare gli artigli a Hinu Vali." },
+    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_HINUVALI_000_000", "hash": "A8F896A2B8E57577", "target": "Hinu Vali deve preparare carne per il banchetto della tribù, ma le sue lame sono smussate come luna calante. <if(gnum4,Quella di sotto,Quello di sotto)> aiuta, porta materiali per nuovi coltelli mentre Hinu Vali continua il lavoro." },
+    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_HINUVALI_000_001", "hash": "2269B31B4035E36F", "target": "I cieli vicino a Ok' Zundu ospitano endymions con artigli affilati e mortali. Abbatine quattro e porta gli artigli, altrimenti il lavoro di macelleria non finirà mai." },
+    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_HINUVALI_000_010", "hash": "FB4BCE575EA5480E", "target": "Gli endymions infestano i cieli vicino a Ok' Zundu: i loro artigli affilati rendono il lavoro di Hinu Vali molto più facile." },
+    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_HINUVALI_000_020", "hash": "EB14B1B6E71EC848", "target": "Gli endymions che oscurano i cieli come nubi temporalesche cadono a terra al passaggio di <if(gnum4,quella di sotto,quello di sotto)>. <if(gnum4,Lei,Lui)> porta i loro artigli?" },
+    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_HINUVALI_000_021", "hash": "FF60E366BBA95622", "target": "Sì... Come gli artigli dell'endymion lacerano la preda, i nuovi coltelli di Hinu Vali tagliano la carne senza sforzo. <if(gnum4,Quella di sotto,Quello di sotto)> facilita il lavoro di Hinu Vali. La tribù banchetta stanotte!" }
   ]
 }

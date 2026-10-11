@@ -2,18 +2,18 @@
   "conversation": "quest/017/HeaVnz101_01750",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_SEQ_00", "hash": "125D8D47B8A0A27C", "target": "" },
-    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_SEQ_01", "hash": "EEF3ED1C5EFAF579", "target": "" },
-    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_SEQ_02", "hash": "ABC82E0298E4FA40", "target": "" },
-    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_TODO_00", "hash": "21642862AAC004E5", "target": "" },
-    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_BOHEMONDAS_000_000", "hash": "E69CC1AC8E460D20", "target": "" },
-    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_BOHEMONDAS_000_001", "hash": "1810D2C1E73158C5", "target": "" },
-    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_BOHEMONDAS_000_002", "hash": "D75C7DD5F3E97CBD", "target": "" },
-    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_BOHEMONDAS_000_003", "hash": "C1FE7238F6F713DD", "target": "" },
-    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_BOHEMONDAS_000_010", "hash": "A9E359BD97F78612", "target": "" },
-    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_JOSSELOUX_000_020", "hash": "28F5530841B6DB7C", "target": "" },
-    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_JOSSELOUX_000_021", "hash": "6C67B821A0C1CF7A", "target": "" },
-    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_JOSSELOUX_000_022", "hash": "F701E3318DBC1D8E", "target": "" },
-    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_JOSSELOUX_000_023", "hash": "21BE85ED43A9F99C", "target": "" }
+    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_SEQ_00", "hash": "125D8D47B8A0A27C", "target": "Fa freddo, ma Bohemondas sembra bruciare di rabbia." },
+    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_SEQ_01", "hash": "EEF3ED1C5EFAF579", "target": "Secondo Bohemondas, i cavalieri di Ishgard vogliono trasformare il suo vecchio villaggio in un accampamento militare. Questo lo ha sconvolto, e il fatto che suo figlio si sia arruolato per contribuire ai lavori ha peggiorato le cose. Ti chiede, se lo incontri, di metterlo davanti a una scelta: tornare dalla sua famiglia o rinunciarvi per sempre. Raggiungi Falcon's Nest e riferisci al figlio il messaggio di Bohemondas." },
+    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_SEQ_02", "hash": "ABC82E0298E4FA40", "target": "Arrivi a Falcon's Nest e riferisci a Josseloux l'appello di suo padre a tornare a casa. Josseloux non si lascia convincere dalle sue parole. Anche se l'aspetto di Falcon's Nest cambierà, promette di proteggere le tradizioni che, secondo lui, ne fanno la casa che tanto amano." },
+    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_TODO_00", "hash": "21642862AAC004E5", "target": "Parlare con Josseloux a Falcon's Nest." },
+    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_BOHEMONDAS_000_000", "hash": "E69CC1AC8E460D20", "target": "Arrabbiato? Certo che sono arrabbiato! Voglio solo proteggere la mia casa, e quei maledetti cavalieri se ne stanno lì a deridere i «vaneggiamenti di un vecchio»! Vaneggiamenti un corno!" },
+    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_BOHEMONDAS_000_001", "hash": "1810D2C1E73158C5", "target": "Avete sentito cosa ne sarà di Falcon's Nest!? Quasi tutti sono venuti a Ishgard per ripararsi dal freddo, ma ora vogliono abbattere tutto e farne un accampamento militare. Un maledetto accampamento militare!" },
+    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_BOHEMONDAS_000_002", "hash": "D75C7DD5F3E97CBD", "target": "E come se non bastasse, mio figlio si è arruolato per dare una mano! Quel piccolo stronzo. Non vuole ascoltare, e sono stanco di cercare di farlo ragionare!" },
+    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_BOHEMONDAS_000_003", "hash": "C1FE7238F6F713DD", "target": "Se vedete quel viscido traditore, ditegli che può tornare dalla sua famiglia oppure non tornare affatto!" },
+    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_BOHEMONDAS_000_010", "hash": "A9E359BD97F78612", "target": "Ho finito di discutere! O si tiene il suo maledetto accampamento, o si tiene la sua famiglia. Deve scegliere!" },
+    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_JOSSELOUX_000_020", "hash": "28F5530841B6DB7C", "target": "Mh? Sì, sono Josseloux. ...Ha detto cosa!? \\<sigh> La miopia di mio padre non conosce limiti. Non capisce cosa possiamo preservare costruendo questo accampamento, invece di lasciare tutto abbandonato alla neve." },
+    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_JOSSELOUX_000_021", "hash": "6C67B821A0C1CF7A", "target": "Come suggerisce il nome, Falcon's Nest è nota da generazioni per i suoi abili falconieri. È vero che gli astrologi possono percepire l'attività dell'Orda attraverso le stelle, ma siamo sempre stati noi a dare per primi l'allarme quando si avvicina." },
+    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_JOSSELOUX_000_022", "hash": "F701E3318DBC1D8E", "target": "Ma dopo la Calamità le cose sono cambiate. Il clima è peggiorato e non abbiamo avuto altra scelta che cercare un riparo migliore. So quanto gli sia costato abbandonare Falcon's Nest. È anche <italic(1)>casa mia<italic(0)>. Ma deve capire che, anche se la nostra casa deve cambiare, questo non cambia ciò che siamo." },
+    { "gameKey": "quest/017/HeaVnz101_01750#TEXT_HEAVNZ101_01750_JOSSELOUX_000_023", "hash": "21BE85ED43A9F99C", "target": "I fieri falconieri di Falcon's Nest continueranno a esistere, e glielo dimostrerò. Quando arriverà il giorno del suo ritorno, la terra sotto i suoi piedi potrà sembrargli sconosciuta, ma i nostri compagni che solcano fieri il cielo saranno gli stessi di sempre, e lo saranno per sempre. Lo giuro." }
   ]
 }

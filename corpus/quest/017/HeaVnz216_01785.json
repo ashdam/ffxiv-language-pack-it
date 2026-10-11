@@ -2,19 +2,19 @@
   "conversation": "quest/017/HeaVnz216_01785",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_SEQ_00", "hash": "32C5B9E39B82EEE0", "target": "" },
-    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_SEQ_01", "hash": "F14032D5CDEA45FC", "target": "" },
-    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_SEQ_02", "hash": "B2BBDAED3B5FCA77", "target": "" },
-    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_SEQ_03", "hash": "02A5801BD5FBA30A", "target": "" },
-    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_TODO_00", "hash": "7B6B1863DFBD478E", "target": "" },
-    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_TODO_01", "hash": "538B4ED4329C5FFC", "target": "" },
-    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_HUNTER01780_000_000", "hash": "10D0EE1E182C4E67", "target": "" },
-    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_REMACLON_000_000", "hash": "CEBF525582926951", "target": "" },
-    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_REMACLON_000_001", "hash": "4CD210E48A297702", "target": "" },
-    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_REMACLON_000_010", "hash": "377CF0B38727EEBE", "target": "" },
-    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_SYSTEM_000_020", "hash": "9E0B099743341491", "target": "" },
-    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_REMACLON_000_030", "hash": "852418A26C9E45E9", "target": "" },
-    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_REMACLON_000_031", "hash": "F71069C62C26F105", "target": "" },
-    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_REMACLON_000_032", "hash": "1989BC76500A4743", "target": "" }
+    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_SEQ_00", "hash": "32C5B9E39B82EEE0", "target": "Remaclon sembra aver appena visto un fantasma... o qualcosa di peggio." },
+    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_SEQ_01", "hash": "F14032D5CDEA45FC", "target": "Remaclon ti chiede di verificare un avvistamento spaventoso: dei draghi vicino a Mare's Oath. Vai alle rovine per scoprire se le creature erano qualcosa di più che visioni alimentate dalla birra." },
+    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_SEQ_02", "hash": "B2BBDAED3B5FCA77", "target": "A Mare's Oath trovi due statue di draghi tanto realistiche da poter sembrare vive a un ubriaco. Torna a Tailfeather e riferisci la scoperta a Remaclon." },
+    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_SEQ_03", "hash": "02A5801BD5FBA30A", "target": "Remaclon sembra sollevato dalla notizia e ti dice che le rovine di Mare's Oath sarebbero state costruite dagli eretici. D'ora in poi si terrà alla larga da quella zona." },
+    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_TODO_00", "hash": "7B6B1863DFBD478E", "target": "Esaminare la zona indicata" },
+    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_TODO_01", "hash": "538B4ED4329C5FFC", "target": "Fare rapporto a Remaclon" },
+    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_HUNTER01780_000_000", "hash": "10D0EE1E182C4E67", "target": "Non resta che fare scorta di provviste e aspettare che faccia un po' più caldo per tornare a monte." },
+    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_REMACLON_000_000", "hash": "CEBF525582926951", "target": "Non c'è verso, per i sette inferi, che ciò che ho visto fosse vero! Ieri sera facevo due passi dopo qualche pinta e sono capitato fra rovine dall'aria sinistra. Certo, qui le rovine non mancano, ma ciò che ho visto non è comune: draghi!" },
+    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_REMACLON_000_001", "hash": "4CD210E48A297702", "target": "Proprio così, <italic(1)>draghi<italic(0)>! Due, con ali enormi e fuoco negli occhi. Sono corso subito a casa. Ho i ricordi un po' annebbiati, ma se <italic(1)>erano<italic(0)> davvero draghi, potremmo essere tutti in pericolo. Non posso tornarci da solo, però...<br>Mi dispiace quasi chiedertelo, ma potresti fare un salto alle rovine per me? Ti segnerò sulla mappa la zona in cui passeggiavo." },
+    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_REMACLON_000_010", "hash": "377CF0B38727EEBE", "target": "Se ci sono davvero draghi, avremo ben altri problemi! Ti ho segnato le rovine sulla mappa. Ricorda soltanto di portare un'arma!" },
+    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_SYSTEM_000_020", "hash": "9E0B099743341491", "target": "Vedi due statue di draghi. Entrambe sono realizzate con straordinaria maestria. È facile capire come si possano confondere con draghi veri." },
+    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_REMACLON_000_030", "hash": "852418A26C9E45E9", "target": "Sei di ritorno! Hai visto i draghi?<br>...Dici che erano statue!? Ugh, forse dovrei andarci piano con la birra..." },
+    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_REMACLON_000_031", "hash": "F71069C62C26F105", "target": "Dicono che quelle rovine a nord siano state costruite dagli eretici. Anche soltanto avvicinarsi potrebbe far dubitare della tua lealtà." },
+    { "gameKey": "quest/017/HeaVnz216_01785#TEXT_HEAVNZ216_01785_REMACLON_000_032", "hash": "1989BC76500A4743", "target": "Be', visto che non ci sono draghi <italic(1)>veri<italic(0)>, direi che non c'è nulla da temere! Ora che so che posto è, mi terrò ben lontano." }
   ]
 }

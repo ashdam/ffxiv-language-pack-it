@@ -2,16 +2,16 @@
   "conversation": "quest/019/HeaVnz634_01902",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_SEQ_00", "hash": "5FEFBBC2E793E64C", "target": "" },
-    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_SEQ_01", "hash": "8344D1ABF4D1FBFF", "target": "" },
-    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_SEQ_02", "hash": "AB41E1A880FA7741", "target": "" },
-    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_SEQ_03", "hash": "20DAD30A2119A56B", "target": "" },
-    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_TODO_00", "hash": "3316E5E7F648A867", "target": "" },
-    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_TODO_01", "hash": "5B5C894A4999A03D", "target": "" },
-    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_CARIBAULT_000_000", "hash": "5316BEC1A09949CB", "target": "" },
-    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_CARIBAULT_000_010", "hash": "81B071A2B1407C25", "target": "" },
-    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_CARIBAULT_000_020", "hash": "0AACC72A7865A882", "target": "" },
-    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_CARIBAULT_000_021", "hash": "390129DEF9B81B5D", "target": "" },
-    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_CARIBAULT_000_022", "hash": "F195BC7AAC81C9A9", "target": "" }
+    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_SEQ_00", "hash": "5FEFBBC2E793E64C", "target": "Caribault cerca <if(gnum4,un'avventuriera,un avventuriero)> che non abbia paura di sporcarsi." },
+    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_SEQ_01", "hash": "8344D1ABF4D1FBFF", "target": "La qualità dei raccolti dipende dal terreno in cui crescono e a Caribault serve del blackloam per assicurare un raccolto abbondante. Ti chiede di portargli cinque staia di quel ricco terriccio dai pascoli dei wisents a est di Campo Cloudtop." },
+    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_SEQ_02", "hash": "AB41E1A880FA7741", "target": "Raccogli cinque staia di blackloam. Portale a Caribault affinché possa preparare il terreno per un raccolto abbondante." },
+    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_SEQ_03", "hash": "20DAD30A2119A56B", "target": "Caribault è entusiasta di vedere la tua sacca colma di ricco blackloam. Nota che è particolarmente fertile, forse perché tanto fresco. Quando te ne vai, ti suggerisce di lavarti. Non puoi fare a meno di chiederti se il lavoro fosse più sporco di quanto volesse farti credere." },
+    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_TODO_00", "hash": "3316E5E7F648A867", "target": "Raccogliere staia di blackloam." },
+    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_TODO_01", "hash": "5B5C894A4999A03D", "target": "Consegnare il blackloam a Caribault." },
+    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_CARIBAULT_000_000", "hash": "5316BEC1A09949CB", "target": "Ah, <split(<string(gstr1)>, ,1)>! Il vostro tempismo è impeccabile! Mi servono cinque staia di blackloam per le colture. Lo troverete nei campi a est di qui, dove pascolano i wisents. Ci andrei di persona, ma non ho lo stomaco per farlo. Per avvicinarmi a quelle bestie gigantesche, intendo." },
+    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_CARIBAULT_000_010", "hash": "81B071A2B1407C25", "target": "Cinque staia di blackloam dovrebbero bastare. Fate però attenzione a non farvi calpestare dai wisents." },
+    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_CARIBAULT_000_020", "hash": "0AACC72A7865A882", "target": "\\<annusa> Ah, non dite altro: avete raccolto il blackloam, vero? Temo che senza non possiamo sperare in un buon raccolto." },
+    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_CARIBAULT_000_021", "hash": "390129DEF9B81B5D", "target": "Oh! È da tempo che non abbiamo un terriccio tanto fertile. Ottimo lavoro, <split(<string(gstr1)>, ,1)>. Sapevo di poter contare su di voi." },
+    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_CARIBAULT_000_022", "hash": "F195BC7AAC81C9A9", "target": "I wisents sono piuttosto pericolosi, certo, ma non posso negare i benefici dei loro, ehm... <italic(1)>contributi<italic(0)> alla natura. A proposito, forse vi converrebbe lavarvi prima di dedicarvi ad altre avventure." }
   ]
 }

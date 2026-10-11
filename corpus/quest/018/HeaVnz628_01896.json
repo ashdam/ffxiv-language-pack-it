@@ -2,17 +2,17 @@
   "conversation": "quest/018/HeaVnz628_01896",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_SEQ_00", "hash": "1DBB13BEBDD791C2", "target": "" },
-    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_SEQ_01", "hash": "989268D97C95F6E0", "target": "" },
-    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_SEQ_02", "hash": "19AA34A52691D083", "target": "" },
-    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_SEQ_03", "hash": "3F556530F583C05D", "target": "" },
-    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_TODO_00", "hash": "DB94D0E9944DBF50", "target": "" },
-    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_TODO_01", "hash": "8607C5D928161B90", "target": "" },
-    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_LUCIAE_000_000", "hash": "B2BDA12A5D0B9199", "target": "" },
-    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_LUCIAE_000_001", "hash": "A1563DBBBCFA7AA5", "target": "" },
-    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_LUCIAE_000_002", "hash": "2158CCFAD161C246", "target": "" },
-    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_LUCIAE_000_010", "hash": "EC470F7F6313AD37", "target": "" },
-    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_LUCIAE_000_020", "hash": "41E3E526F564F8B4", "target": "" },
-    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_LUCIAE_000_021", "hash": "F759DA9910333D4C", "target": "" }
+    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_SEQ_00", "hash": "1DBB13BEBDD791C2", "target": "Luciae cerca aiuto per mettere in sicurezza le linee di rifornimento del Presidio dei Giustizieri." },
+    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_SEQ_01", "hash": "989268D97C95F6E0", "target": "Luciae aspetta provviste da Ishgard, ma un nido di archaeornis nelle vicinanze assale ogni carovana che tenta il viaggio. Riduci il numero delle bestie uccidendo almeno tre grand archaeornis, così le merci potranno essere trasportate in sicurezza." },
+    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_SEQ_02", "hash": "19AA34A52691D083", "target": "Hai ucciso tre dei più imponenti archaeornis che hai trovato, sperando di averne ridotto abbastanza il numero da permettere alle carovane di passare indisturbate. Porta la buona notizia a Luciae." },
+    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_SEQ_03", "hash": "3F556530F583C05D", "target": "Informi Luciae del tuo successo. Lieta che il percorso non rischi più di essere attaccato, si prepara a convincere i mercanti ishgardiani che sia sicuro." },
+    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_TODO_00", "hash": "DB94D0E9944DBF50", "target": "Uccidere i grand archaeornis." },
+    {"gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_TODO_01", "hash": "8607C5D928161B90", "target": "Fare rapporto a Luciae"},
+    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_LUCIAE_000_000", "hash": "B2BDA12A5D0B9199", "target": "Ah, arrivate al momento giusto! Cercavo proprio una persona affidabile." },
+    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_LUCIAE_000_001", "hash": "A1563DBBBCFA7AA5", "target": "Aspettavo una consegna dalla Santa Sede, ma non è mai arrivata. Sembra che un nido di archaeornis qui vicino abbia attaccato le carovane, impedendo loro di raggiungerci." },
+    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_LUCIAE_000_002", "hash": "2158CCFAD161C246", "target": "I mercanti non sono tanto sciocchi da mandare le merci senza protezione, ma le loro scorte mercenarie non possono affrontare un'intera covata di draghi. Se ne uccideste tre, però, dovreste ridurne il numero abbastanza da eliminare la minaccia più grave." },
+    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_LUCIAE_000_010", "hash": "EC470F7F6313AD37", "target": "Non possiamo resistere ancora a lungo senza quelle provviste. Uccidete quegli archaeornis, per favore." },
+    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_LUCIAE_000_020", "hash": "41E3E526F564F8B4", "target": "Grazie per aver eliminato quelle orrende bestie. Ora le carovane dovrebbero poter arrivare qui indisturbate." },
+    { "gameKey": "quest/018/HeaVnz628_01896#TEXT_HEAVNZ628_01896_LUCIAE_000_021", "hash": "F759DA9910333D4C", "target": "Resta solo da convincere quei mercanti codardi che il percorso è sicuro. Non preoccupatevi, però, a questo dovrei riuscire a provvedere da sola." }
   ]
 }

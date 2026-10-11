@@ -2,18 +2,18 @@
   "conversation": "quest/017/HeaVnz215_01784",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_SEQ_00", "hash": "CF7A8E1D68E35081", "target": "" },
-    { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_SEQ_01", "hash": "0ECD19BBB2AFBE0A", "target": "" },
-    { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_SEQ_02", "hash": "8078619CB13BA58C", "target": "" },
-    { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_SEQ_03", "hash": "893D505A0AA4B3C6", "target": "" },
-    { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_TODO_00", "hash": "893A8EE9947A9BEB", "target": "" },
-    { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_TODO_01", "hash": "9D1C9F09C38EB606", "target": "" },
-    { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_BAREHANDSHUNTER01784_000_000", "hash": "C9AC21C9F123303B", "target": "" },
-    { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_BAREHANDSHUNTER01784_000_001", "hash": "B2EC3D3870432436", "target": "" },
-    { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_BAREHANDSHUNTER01784_000_002", "hash": "99C9CA503ADE9531", "target": "" },
-    { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_BAREHANDSHUNTER01784_000_010", "hash": "36BF98AF438514C4", "target": "" },
-    { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_BAREHANDSHUNTER01784_000_020", "hash": "E6F900C1F6877871", "target": "" },
-    { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_BAREHANDSHUNTER01784_000_021", "hash": "8DF21BCE01CC2866", "target": "" },
-    { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_BAREHANDSHUNTER01784_000_022", "hash": "2DA44D5B1690788A", "target": "" }
+    { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_SEQ_00", "hash": "CF7A8E1D68E35081", "target": "La cacciatrice fissa lo specchio d'acqua con le lacrime agli occhi." },
+    { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_SEQ_01", "hash": "0ECD19BBB2AFBE0A", "target": "Una cacciatrice agitata ti chiede di recuperare il suo arco preferito, caduto nei Hundred Throes. Non dovrebbe essere lontano. Bagnati i piedi e comincia a cercare." },
+    { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_SEQ_02", "hash": "8078619CB13BA58C", "target": "Trovi l'arco smarrito più a valle. Restituiscilo alla cacciatrice preoccupata, così potrà difendersi." },
+    { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_SEQ_03", "hash": "893D505A0AA4B3C6", "target": "Restituisci l'arco alla cacciatrice, che ne è felicissima. Purtroppo non può più usarlo perché la corda è danneggiata. Tornerà a Tailfeather per ripararlo." },
+    { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_TODO_00", "hash": "893A8EE9947A9BEB", "target": "Ottenere il lost bow" },
+    { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_TODO_01", "hash": "9D1C9F09C38EB606", "target": "Consegnare l'arco alla cacciatrice" },
+    { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_BAREHANDSHUNTER01784_000_000", "hash": "C9AC21C9F123303B", "target": "...Ah! Non sbucare alle mie spalle così! Scusa... Sono un po' nervosa da quando l'ululato di un bandersnatch mi ha spaventata e ho lasciato cadere il mio arco preferito nel fiume." },
+    { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_BAREHANDSHUNTER01784_000_001", "hash": "B2EC3D3870432436", "target": "Vorrei andare a recuperare l'arco, ma non oso avventurarmi nella foresta disarmata. Ci sono così tante creature pericolose... Tu sembri in gamba. Potresti cercare l'arma al mio posto?" },
+    { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_BAREHANDSHUNTER01784_000_002", "hash": "99C9CA503ADE9531", "target": "Con un po' di fortuna, potrebbe essere stato trascinato soltanto un poco a valle. Forse ti bagnerai, ma se riuscissi a recuperarlo avresti tutta la mia gratitudine." },
+    { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_BAREHANDSHUNTER01784_000_010", "hash": "36BF98AF438514C4", "target": "Dev'essere qui da qualche parte... Gli archi non spariscono così dal nulla! Probabilmente non è stato trascinato molto lontano. Conto su di te per ritrovarlo!" },
+    { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_BAREHANDSHUNTER01784_000_020", "hash": "E6F900C1F6877871", "target": "L'arco dovrebbe essere qui nei dintorni... Io aspetterò da questa parte!" },
+    { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_BAREHANDSHUNTER01784_000_021", "hash": "8DF21BCE01CC2866", "target": "\\<gasp> Hai trovato il mio arco! Oh, grazie infinite! Ora posso finalmente tornare a caccia!" },
+    { "gameKey": "quest/017/HeaVnz215_01784#TEXT_HEAVNZ215_01784_BAREHANDSHUNTER01784_000_022", "hash": "2DA44D5B1690788A", "target": "Oh no, la corda dell'arco è danneggiata... Dovrò portarlo dal fabbricante di archi a Tailfeather." }
   ]
 }

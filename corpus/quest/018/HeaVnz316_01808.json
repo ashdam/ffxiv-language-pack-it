@@ -2,16 +2,16 @@
   "conversation": "quest/018/HeaVnz316_01808",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_SEQ_00", "hash": "475558EF450F8972", "target": "" },
-    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_SEQ_01", "hash": "8E3B5B1BBAC81548", "target": "" },
-    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_SEQ_02", "hash": "BEB74491B22A5E3F", "target": "" },
-    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_SEQ_03", "hash": "CE87E60469F2BC35", "target": "" },
-    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_TODO_00", "hash": "15582327E887367F", "target": "" },
-    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_TODO_01", "hash": "62FE08E22A4AC2E6", "target": "" },
-    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_IDATEN_000_000", "hash": "B6C050B3B6B976C7", "target": "" },
-    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_IDATEN_000_001", "hash": "0FF0F30DF01E3C60", "target": "" },
-    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_IDATEN_000_010", "hash": "1CC8A43C94C9E547", "target": "" },
-    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_IDATEN_000_030", "hash": "DBA1DE7D57824D0C", "target": "" },
-    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_IDATEN_000_031", "hash": "134620B0DEAEB3A5", "target": "" }
+    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_SEQ_00", "hash": "475558EF450F8972", "target": "Il Vath piedelesto fissa il terreno, con un'espressione chiaramente preoccupata." },
+    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_SEQ_01", "hash": "8E3B5B1BBAC81548", "target": "Gli esploratori Vath hanno informato il Vath piedelesto che gli Gnath stanno raccogliendo provviste nelle Terre Fumanti, allestendo una base da cui attaccare Loth ast Vath. Nel tentativo di prevenire questi attacchi, ti consegna una flint stone e ti chiede di trovare le provviste e distruggerle." },
+    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_SEQ_02", "hash": "BEB74491B22A5E3F", "target": "Trovi l'equipaggiamento bellico e gli dai fuoco. Riferisci al piedelesto il tuo successo." },
+    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_SEQ_03", "hash": "CE87E60469F2BC35", "target": "La distruzione dell'equipaggiamento bellico della colonia Gnath porta sollievo al piedelesto. Gli Gnath impiegheranno del tempo a riprendersi, dando ai Vath la possibilità di rafforzare le difese." },
+    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_TODO_00", "hash": "15582327E887367F", "target": "Usare la flint stone per bruciare i Gnathic supplies." },
+    {"gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_TODO_01", "hash": "62FE08E22A4AC2E6", "target": "Fare rapporto al Vath piedelesto"},
+    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_IDATEN_000_000", "hash": "B6C050B3B6B976C7", "target": "Abbiamo ricevuto da poco notizie da un nostro esploratore. Gli Gnath raccolgono provviste nelle Terre Fumanti e intendono lanciarci incursioni da lì. Questo ci mette in pericolo. Abbiamo bisogno del tuo aiuto, <if(gnum4,cacciatrice,cacciatore)>." },
+    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_IDATEN_000_001", "hash": "0FF0F30DF01E3C60", "target": "Prendi questa flint stone e trova i loro carri di rifornimento, da qualche parte tra qui e la colonia Gnath. Dagli fuoco. Riduci le provviste in cenere. Non è un compito facile, ma hai dimostrato le tue capacità." },
+    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_IDATEN_000_010", "hash": "1CC8A43C94C9E547", "target": "Trova i carri di rifornimento Gnath nelle Terre Fumanti e riducili in cenere." },
+    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_IDATEN_000_030", "hash": "DBA1DE7D57824D0C", "target": "Non deludi, <if(gnum4,cacciatrice,cacciatore)>. Ci fa piacere vedere che sei <if(gnum4,tornata illesa,tornato illeso)>." },
+    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_IDATEN_000_031", "hash": "134620B0DEAEB3A5", "target": "Non possiamo ringraziarti abbastanza. Distrutta questa base, dovremmo essere al sicuro dagli attacchi per qualche tempo. Dovremmo approfittarne per rafforzare le difese." }
   ]
 }

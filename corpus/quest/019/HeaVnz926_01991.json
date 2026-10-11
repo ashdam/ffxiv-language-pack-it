@@ -2,16 +2,16 @@
   "conversation": "quest/019/HeaVnz926_01991",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_SEQ_00", "hash": "E41F348CCC2BF49A", "target": "" },
-    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_SEQ_01", "hash": "64E1268F72FF513F", "target": "" },
-    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_SEQ_02", "hash": "50395DB3A4DEB8D6", "target": "" },
-    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_SEQ_03", "hash": "FBEFCDA39B98F3E7", "target": "" },
-    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_TODO_00", "hash": "4367890EB258FCCD", "target": "" },
-    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_TODO_01", "hash": "198C20FE283BF6A9", "target": "" },
-    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_MANAGINGSYSTEM_000_000", "hash": "44F9CFDF54DCDE20", "target": "" },
-    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_MANAGINGSYSTEM_000_001", "hash": "98731F897F546DFC", "target": "" },
-    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_MANAGINGSYSTEM_000_010", "hash": "C4B851E59C18BA18", "target": "" },
-    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_MANAGINGSYSTEM_000_020", "hash": "E457ED608192F698", "target": "" },
-    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_MANAGINGSYSTEM_000_021", "hash": "DAA3AFDCDF88C902", "target": "" }
+    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_SEQ_00", "hash": "E41F348CCC2BF49A", "target": "Le spie di allarme del nodo amministrativo allagano lampeggiano." },
+    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_SEQ_01", "hash": "64E1268F72FF513F", "target": "Il nodo amministrativo allagano ti informa che nelle vicinanze è stato rilevato un gran numero di draghi non identificati. Queste creature costituiscono un grave rischio per la fauna locale. Ti chiede di ridurre tale rischio uccidendone quattro." },
+    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_SEQ_02", "hash": "50395DB3A4DEB8D6", "target": "Uccidi le bestie come richiesto dal nodo amministrativo. Riferisci il tuo successo al sistema affinché possa rivalutare la situazione." },
+    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_SEQ_03", "hash": "FBEFCDA39B98F3E7", "target": "Il nodo amministrativo indica che, sebbene tu abbia ridotto in parte la popolazione di draghi, il loro tasso di riproduzione è troppo elevato perché questa sia una soluzione praticabile a lungo termine. L'intera popolazione di draghi deve essere eliminata per evitare ulteriori rischi per l'ambiente." },
+    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_TODO_00", "hash": "4367890EB258FCCD", "target": "Uccidere i Meracydian brobinyaks" },
+    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_TODO_01", "hash": "198C20FE283BF6A9", "target": "Fare rapporto al nodo amministrativo" },
+    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_MANAGINGSYSTEM_000_000", "hash": "44F9CFDF54DCDE20", "target": "Allarme. Allarme. I sensori indicano un gran numero di draghi non identificati nelle immediate vicinanze. Queste creature rappresentano una minaccia significativa per l'equilibrio dell'ambiente locale. Le creature sono designate come Meracydian brobinyaks." },
+    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_MANAGINGSYSTEM_000_001", "hash": "98731F897F546DFC", "target": "Tutte le truppe dell'Impero Allagano devono eliminare questa minaccia. Ogni soldato deve sterminare quattro Meracydian brobinyaks." },
+    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_MANAGINGSYSTEM_000_010", "hash": "C4B851E59C18BA18", "target": "I draghi non registrati nelle vicinanze rappresentano una minaccia estrema per la biodiversità dell'ambiente locale. Distruggere quattro Meracydian brobinyaks." },
+    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_MANAGINGSYSTEM_000_020", "hash": "E457ED608192F698", "target": "\\<blip> \\<blip> Eliminazione delle forme di vita non registrate confermata. Verifica della popolazione di brobinyaks in corso. \\<beep> \\<beep> Tasso di riproduzione dei brobinyaks significativamente superiore alle previsioni iniziali. Squilibrio ambientale inevitabile senza il completo annientamento della popolazione di draghi." },
+    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_MANAGINGSYSTEM_000_021", "hash": "DAA3AFDCDF88C902", "target": "Le forme di vita non registrate costituiscono una violazione diretta della Legge imperiale allagana sulla protezione ambientale, dello Statuto per la tutela degli animali da compagnia e degli animali domestici, della Risoluzione sul controllo del bestiame di Azys Lla, del Trattato di riforma per il miglioramento ecologico allagano, della... \\<buzzzzzz>" }
   ]
 }

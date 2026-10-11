@@ -2,16 +2,16 @@
   "conversation": "quest/019/HeaVnz817_01947",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz817_01947#TEXT_HEAVNZ817_01947_SEQ_00", "hash": "62833F5F6CCA9AD8", "target": "" },
-    { "gameKey": "quest/019/HeaVnz817_01947#TEXT_HEAVNZ817_01947_SEQ_01", "hash": "BB2C604924828547", "target": "" },
-    { "gameKey": "quest/019/HeaVnz817_01947#TEXT_HEAVNZ817_01947_SEQ_02", "hash": "70DA71B2FE386835", "target": "" },
-    { "gameKey": "quest/019/HeaVnz817_01947#TEXT_HEAVNZ817_01947_SEQ_03", "hash": "82699AAABFC58684", "target": "" },
-    { "gameKey": "quest/019/HeaVnz817_01947#TEXT_HEAVNZ817_01947_TODO_00", "hash": "8E250530FCDF8D03", "target": "" },
-    { "gameKey": "quest/019/HeaVnz817_01947#TEXT_HEAVNZ817_01947_TODO_01", "hash": "C1266527EECDB819", "target": "" },
-    { "gameKey": "quest/019/HeaVnz817_01947#TEXT_HEAVNZ817_01947_TAPKLIX_000_000", "hash": "5A93AAE39D91371C", "target": "" },
-    { "gameKey": "quest/019/HeaVnz817_01947#TEXT_HEAVNZ817_01947_TAPKLIX_000_010", "hash": "DB702172B3C52A36", "target": "" },
-    { "gameKey": "quest/019/HeaVnz817_01947#TEXT_HEAVNZ817_01947_TAPKLIX_000_020", "hash": "0BD27D0F1DDB4261", "target": "" },
-    { "gameKey": "quest/019/HeaVnz817_01947#TEXT_HEAVNZ817_01947_TAPKLIX_000_021", "hash": "FD8F8A413A29363D", "target": "" },
-    { "gameKey": "quest/019/HeaVnz817_01947#TEXT_HEAVNZ817_01947_TAPKLIX_000_022", "hash": "85036B40F192638F", "target": "" }
+    { "gameKey": "quest/019/HeaVnz817_01947#TEXT_HEAVNZ817_01947_SEQ_00", "hash": "62833F5F6CCA9AD8", "target": "Tapklix borbotta tra sé e si strofina il sedere." },
+    { "gameKey": "quest/019/HeaVnz817_01947#TEXT_HEAVNZ817_01947_SEQ_01", "hash": "BB2C604924828547", "target": "Dopo l'attacco di bestie selvatiche, Tapklix vuole vendetta. Vendicalo uccidendo tre ratel nel Quartiere degli Artigiani." },
+    { "gameKey": "quest/019/HeaVnz817_01947#TEXT_HEAVNZ817_01947_SEQ_02", "hash": "70DA71B2FE386835", "target": "Uccidi i ratel dall'aspetto più feroce che riesci a trovare e lasci i loro cadaveri come monito al resto del branco. Torna da Tapklix a Bigwest Shortstop e informalo che il compito è concluso." },
+    { "gameKey": "quest/019/HeaVnz817_01947#TEXT_HEAVNZ817_01947_SEQ_03", "hash": "82699AAABFC58684", "target": "Tapklix è sollevato nel sapere che il dolore inflitto al suo sedere, e la ferita al suo orgoglio, sono stati vendicati. Ti racconta che i mostri sono scesi poco a poco dalle montagne dopo la partenza degli sharlayani e che intende eliminarli, affinché la brava gente possa vivere senza temere attacchi." },
+    { "gameKey": "quest/019/HeaVnz817_01947#TEXT_HEAVNZ817_01947_TODO_00", "hash": "8E250530FCDF8D03", "target": "Uccidere dei ratel." },
+    {"gameKey": "quest/019/HeaVnz817_01947#TEXT_HEAVNZ817_01947_TODO_01", "hash": "C1266527EECDB819", "target": "Fare rapporto a Tapklix"},
+    { "gameKey": "quest/019/HeaVnz817_01947#TEXT_HEAVNZ817_01947_TAPKLIX_000_000", "hash": "5A93AAE39D91371C", "target": "Shkohhh... Aaaaah... Cattivi ratel, attaccano povero Tapklix, mordono povero Tapklix sul sedere! \\<tira su col naso> Altaterra, uccidi tre, uccidi tre con tanta fretta!" },
+    { "gameKey": "quest/019/HeaVnz817_01947#TEXT_HEAVNZ817_01947_TAPKLIX_000_010", "hash": "DB702172B3C52A36", "target": "Pssshkoh... Ratel scendono da montagne con altre bestie. Tutti vogliono banchetto di tenera carne goblin. Ma se altaterra uccide tre ratel, forse altri capiscono in scatolacervello che noi non siamo carne!" },
+    { "gameKey": "quest/019/HeaVnz817_01947#TEXT_HEAVNZ817_01947_TAPKLIX_000_020", "hash": "0BD27D0F1DDB4261", "target": "Pssshkoh... Altaterra ha ucciso tre ratel e niente ferite al sedere? Tapklix sapeva che poteva affidare a altaterra!" },
+    { "gameKey": "quest/019/HeaVnz817_01947#TEXT_HEAVNZ817_01947_TAPKLIX_000_021", "hash": "FD8F8A413A29363D", "target": "Molti altaterra di Sharlayan partiti quindici anni fa, evento chiamato esodo. Bestie selvatiche scendono da montagne, fanno tane in case e nidi su tetti. Ora tutto questo è loro dominio..." },
+    { "gameKey": "quest/019/HeaVnz817_01947#TEXT_HEAVNZ817_01947_TAPKLIX_000_022", "hash": "85036B40F192638F", "target": "Ma stormogoblin vuole vivere qui anche! Bisogna rendere sicuro eliminando bestie o ricacciandole in montagne! Tapklix farà ancora questa terra per tutti parentigoblin, a qualunque costo!" }
   ]
 }

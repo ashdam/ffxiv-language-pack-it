@@ -2,17 +2,17 @@
   "conversation": "quest/017/HeaVnz223_01792",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_SEQ_00", "hash": "BD154F109031A57F", "target": "" },
-    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_SEQ_01", "hash": "EE05AA4C04BCE0D9", "target": "" },
-    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_SEQ_02", "hash": "7A1160BF657C88D6", "target": "" },
-    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_SEQ_03", "hash": "3F0C93BEDC419E48", "target": "" },
-    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_TODO_00", "hash": "E1E186E76CDFF25B", "target": "" },
-    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_TODO_01", "hash": "AD8236D00E572972", "target": "" },
-    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_STORYTELLER_000_000", "hash": "6E197AC1CDAA06D9", "target": "" },
-    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_STORYTELLER_000_001", "hash": "CF6A5D20EE762A0E", "target": "" },
-    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_STORYTELLER_000_010", "hash": "AEA045A4F2AE708E", "target": "" },
-    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_STORYTELLER_100_020", "hash": "EB9895178AAE73EF", "target": "" },
-    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_STORYTELLER_000_020", "hash": "AAFF9FCABDC26184", "target": "" },
-    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_STORYTELLER_000_031", "hash": "FBE161FAAD189025", "target": "" }
+    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_SEQ_00", "hash": "BD154F109031A57F", "target": "Il narratore dei Vath è preoccupato per il rischio di un attacco dravaniano." },
+    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_SEQ_01", "hash": "EE05AA4C04BCE0D9", "target": "Il narratore dei Vath ti chiede di raccogliere della silver dew. La pianta cresce su un'altura a ovest di Tailfeather. Vai sul posto, raccogline tre mazzi e consegnali al narratore dei Vath." },
+    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_SEQ_02", "hash": "7A1160BF657C88D6", "target": "Hai trovato e raccolto la silver dew. Torna a Loth ast Vath e consegnala al narratore." },
+    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_SEQ_03", "hash": "3F0C93BEDC419E48", "target": "Il narratore ti spiega come i Vath abbiano evitato gli attacchi dravaniani per tanto tempo: bruciando la silver dew si produce un fumo dall'odore intenso. I draghi non ne sopportano l'odore ed evitano del tutto la zona di Loth ast Vath." },
+    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_TODO_00", "hash": "E1E186E76CDFF25B", "target": "Raccogliere tre mazzi di silver dew." },
+    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_TODO_01", "hash": "AD8236D00E572972", "target": "Consegnare la silver dew al narratore dei Vath." },
+    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_STORYTELLER_000_000", "hash": "6E197AC1CDAA06D9", "target": "Salve, <if(gnum4,generosa cacciatrice,generoso cacciatore)>. Vorrei farvi un'altra richiesta. \\<click> \\<click> Vi prego, raccogliete tre mazzi di silver dew e riportateceli." },
+    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_STORYTELLER_000_001", "hash": "CF6A5D20EE762A0E", "target": "La silver dew si trova vicino a Tailfeather. A ovest di Tailfeather c'è un'altura su cui cresce la pianta. Raccoglietela lì, poi riportatela qui da noi." },
+    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_STORYTELLER_000_010", "hash": "AEA045A4F2AE708E", "target": "Avete trovato la silver dew? Cresce a ovest di Tailfeather." },
+    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_STORYTELLER_100_020", "hash": "EB9895178AAE73EF", "target": "\\<click> \\<click> Avete la silver dew?" },
+    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_STORYTELLER_000_020", "hash": "AAFF9FCABDC26184", "target": "Grazie, <if(gnum4,cacciatrice,cacciatore)>. Ora possiamo sentirci al sicuro." },
+    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_STORYTELLER_000_031", "hash": "FBE161FAAD189025", "target": "L'odore della silver dew bruciata, del fumo che produce, è insopportabile per i draghi. Li terrà lontani e renderà Loth ast Vath sicura... per un po'." }
   ]
 }

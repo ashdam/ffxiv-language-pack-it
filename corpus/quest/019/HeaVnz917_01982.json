@@ -2,17 +2,17 @@
   "conversation": "quest/019/HeaVnz917_01982",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_SEQ_00", "hash": "87A98A9449C2E7FD", "target": "" },
-    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_SEQ_01", "hash": "1061D312250D8755", "target": "" },
-    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_SEQ_02", "hash": "A79BB036F94A452F", "target": "" },
-    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_SEQ_03", "hash": "5D6E12BA69A4024F", "target": "" },
-    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_TODO_00", "hash": "42FF43A1B36D1051", "target": "" },
-    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_TODO_01", "hash": "C740293D9BEDC381", "target": "" },
-    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_TODO_02", "hash": "CE430087C0106701", "target": "" },
-    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_REPRESSSYSTEM_000_000", "hash": "10A3EAF7DE280EA9", "target": "" },
-    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_REPRESSSYSTEM_000_001", "hash": "C8E3E9E8CCA88157", "target": "" },
-    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_REPRESSSYSTEM_000_010", "hash": "127E5548A1C3F737", "target": "" },
-    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_REPRESSSYSTEM_000_020", "hash": "B027EB3AE0EC192A", "target": "" },
-    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_REPRESSSYSTEM_000_021", "hash": "CB65B3C148BFA8BC", "target": "" }
+    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_SEQ_00", "hash": "87A98A9449C2E7FD", "target": "Il nodo di repressione allagano tenta di avviare un test del sistema." },
+    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_SEQ_01", "hash": "1061D312250D8755", "target": "Il nodo di repressione allagano deve verificare l'efficacia del sottosistema di controllo dell'obbedienza dei cittadini. Mettilo alla prova tentando di distruggere tre clockwork engineers e tre clockwork paladins." },
+    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_SEQ_02", "hash": "A79BB036F94A452F", "target": "Il test è concluso. Torna al nodo di repressione per confermare i risultati." },
+    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_SEQ_03", "hash": "5D6E12BA69A4024F", "target": "Il nodo di repressione sembra considerare la tua sopravvivenza un fallimento del sottosistema e raccomanda un potenziamento dell'infrastruttura." },
+    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_TODO_00", "hash": "42FF43A1B36D1051", "target": "Abbattere dei clockwork paladins." },
+    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_TODO_01", "hash": "C740293D9BEDC381", "target": "Abbattere dei clockwork engineers." },
+    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_TODO_02", "hash": "CE430087C0106701", "target": "Fare rapporto al nodo di repressione." },
+    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_REPRESSSYSTEM_000_000", "hash": "10A3EAF7DE280EA9", "target": "Avvio del test del sistema. \\<bip> \\<bip> Soggetto di prova non trovato. Annullamento...  Avvio del test del sistema. \\<bip> \\<bip> Soggetto di prova non trovato. Annullamento... Avvio del test del sistema." },
+    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_REPRESSSYSTEM_000_001", "hash": "C8E3E9E8CCA88157", "target": "Congratulazioni per la vostra selezione al test del sistema. Verificate l'efficacia del sottosistema di controllo dell'obbedienza dei cittadini avvicinandovi a clockwork engineers e clockwork paladins e manifestando un comportamento non conforme.<br>Verificate...\\<buzzzzzz>...sottosistema di controllo avvicinandovi a clockwork... \\<buzzzzzz>" },
+    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_REPRESSSYSTEM_000_010", "hash": "127E5548A1C3F737", "target": "\\<buzzzzzz> ...comportamento non conforme. Verificate l'efficacia del sottosistema di controllo dell'obbedienza dei cittadini avvicinandovi a clockwork engineers e clockwork paladins e manifestando un comportamento non conforme. Verificate... \\<buzzzzzz>" },
+    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_REPRESSSYSTEM_000_020", "hash": "B027EB3AE0EC192A", "target": "Grazie per aver partecipato al programma di test del sottosistema di controllo dell'obbedienza dei cittadini.<br>Soggetti di prova neutralizzati... <italic(1)>ZERO<italic(0)>.<br>Prestazioni del sottosistema... <italic(1)>INSODDISFACENTI<italic(0)>." },
+    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_REPRESSSYSTEM_000_021", "hash": "CB65B3C148BFA8BC", "target": "Si raccomanda un potenziamento dell'infrastruttura di repressione per garantire un'obbedienza ottimale dei cittadini." }
   ]
 }

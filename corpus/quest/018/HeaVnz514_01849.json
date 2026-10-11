@@ -2,16 +2,16 @@
   "conversation": "quest/018/HeaVnz514_01849",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_SEQ_00", "hash": "CE7D505F258B6273", "target": "" },
-    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_SEQ_01", "hash": "F992F573F63CDA01", "target": "" },
-    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_SEQ_02", "hash": "C32717E74D4FF819", "target": "" },
-    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_SEQ_03", "hash": "30EB47C7C7CBB3BE", "target": "" },
-    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_TODO_00", "hash": "E58041DF4C821800", "target": "" },
-    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_TODO_01", "hash": "EDF2DB5B8C5F70BF", "target": "" },
-    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_TEMPLECENTERMOG01848_000_000", "hash": "D7A2EBB71DB752FD", "target": "" },
-    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_TEMPLECENTERMOG01848_000_001", "hash": "AB5A105C800DCB1B", "target": "" },
-    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_TEMPLECENTERMOG01848_000_010", "hash": "ACA077F39E8C0995", "target": "" },
-    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_TEMPLECENTERMOG01848_000_020", "hash": "832AA69386EE81FB", "target": "" },
-    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_TEMPLECENTERMOG01848_000_021", "hash": "603AC835CF5D7678", "target": "" }
+    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_SEQ_00", "hash": "CE7D505F258B6273", "target": "Il moguri impacciato non pensa ad altro che agli uccelli." },
+    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_SEQ_01", "hash": "F992F573F63CDA01", "target": "Il moguri impacciato ti informa che le alture di Zenith ospitano uno stormo di uccelli migratori e che i pulcini di quest'anno hanno appena lasciato il nido. Sebbene la vista dei giovani uccelli che intraprendono la prima tappa del lungo viaggio della vita rassereni l'animo, i mucchi di foglie marcescenti e gusci rotti che si lasciano dietro sono meno graditi. Il moguri ti chiede di setacciare le alture di Zenith in cerca dei nidi abbandonati e riportarglieli." },
+    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_SEQ_02", "hash": "C32717E74D4FF819", "target": "Rimuovi i wildfowl nests vuoti, lasciando le alture di Zenith pulitissime e pronte per il ritorno degli uccelli. Scendi da Zenith e consegna i nidi al moguri impacciato." },
+    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_SEQ_03", "hash": "30EB47C7C7CBB3BE", "target": "Il moguri ti ringrazia per aver rimosso i nidi e ti confida un piccolo segreto: ha sentito dire che si possono usare per preparare una zuppa deliziosa, e intende provare la ricetta con quelli che hai raccolto. Se mai vorrai assaggiare una tazza calda di rametti, piume, gusci d'uovo e vermi rigurgitati, il moguri impacciato è il cuoco da consultare." },
+    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_TODO_00", "hash": "E58041DF4C821800", "target": "Raccogliere dei wildfowl nests." },
+    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_TODO_01", "hash": "EDF2DB5B8C5F70BF", "target": "Consegnare i wildfowl nests al moguri impacciato." },
+    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_TEMPLECENTERMOG01848_000_000", "hash": "D7A2EBB71DB752FD", "target": "Molti uccelli selvatici nidificano sulle alture di Zenith, e lo stormo di quest'anno ha finalmente imparato a volare. Spero che tornino un giorno, kupò... ma intanto dobbiamo occuparci di una montagna di nidi vuoti." },
+    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_TEMPLECENTERMOG01848_000_001", "hash": "AB5A105C800DCB1B", "target": "Quei mucchi di rametti, piume e pezzetti d'insetto mezzi masticati non si addicono proprio alla bellezza del luogo. Mi aiutereste a rimuoverli, kupò? Gli uccelli amano costruirli nei punti più alti, quindi badate a non cadere!" },
+    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_TEMPLECENTERMOG01848_000_010", "hash": "ACA077F39E8C0995", "target": "Dobbiamo rimuovere tutti i vecchi nidi prima che gli uccelli tornino. Dopotutto, chi vorrebbe tornare in una casa in disordine, kupò?" },
+    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_TEMPLECENTERMOG01848_000_020", "hash": "832AA69386EE81FB", "target": "Come vanno le pulizie, kupò? Avete già rimosso tutti i nidi?" },
+    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_TEMPLECENTERMOG01848_000_021", "hash": "603AC835CF5D7678", "target": "Grazie dell'aiuto, kupò! Tra noi, ho sentito che dai nidi degli uccelli si può ricavare una zuppa gustosa. Quando tornerò a Moghome, li farò bollire con qualche noce kupò fresca! ...Secondo voi dovrei lasciare i pezzetti d'insetto mezzi masticati o raschiarli via?" }
   ]
 }

@@ -2,15 +2,15 @@
   "conversation": "quest/018/HeaVnz311_01803",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz311_01803#TEXT_HEAVNZ311_01803_SEQ_00", "hash": "488C2637362124F1", "target": "" },
-    { "gameKey": "quest/018/HeaVnz311_01803#TEXT_HEAVNZ311_01803_SEQ_01", "hash": "CDC646AB9753F9FF", "target": "" },
-    { "gameKey": "quest/018/HeaVnz311_01803#TEXT_HEAVNZ311_01803_SEQ_02", "hash": "2BD71EECC2F5090A", "target": "" },
-    { "gameKey": "quest/018/HeaVnz311_01803#TEXT_HEAVNZ311_01803_SEQ_03", "hash": "C462FAFB8E225122", "target": "" },
-    { "gameKey": "quest/018/HeaVnz311_01803#TEXT_HEAVNZ311_01803_TODO_00", "hash": "1C8B4BAC7324628B", "target": "" },
-    { "gameKey": "quest/018/HeaVnz311_01803#TEXT_HEAVNZ311_01803_TODO_01", "hash": "73CAFA14C515791A", "target": "" },
-    { "gameKey": "quest/018/HeaVnz311_01803#TEXT_HEAVNZ311_01803_GULLINKAMBI_000_000", "hash": "F1C6923CC952D888", "target": "" },
-    { "gameKey": "quest/018/HeaVnz311_01803#TEXT_HEAVNZ311_01803_GULLINKAMBI_000_001", "hash": "91BF96BCBFCC51A4", "target": "" },
-    { "gameKey": "quest/018/HeaVnz311_01803#TEXT_HEAVNZ311_01803_GULLINKAMBI_000_010", "hash": "482C8E44E7A420EA", "target": "" },
-    { "gameKey": "quest/018/HeaVnz311_01803#TEXT_HEAVNZ311_01803_GULLINKAMBI_000_040", "hash": "22870C25BEF22F27", "target": "" }
+    { "gameKey": "quest/018/HeaVnz311_01803#TEXT_HEAVNZ311_01803_SEQ_00", "hash": "488C2637362124F1", "target": "Gullinkambi arriccia il naso per qualcosa." },
+    { "gameKey": "quest/018/HeaVnz311_01803#TEXT_HEAVNZ311_01803_SEQ_01", "hash": "CDC646AB9753F9FF", "target": "Gullinkambi ha un olfatto eccezionalmente acuto e non sopporta più il fetore degli Gnath. Hanno collocato fuori dalla torre dei dispositivi che riversano strani fumi nell'aria. Ti supplica di disattivarli e porre fine alla sua sofferenza." },
+    { "gameKey": "quest/018/HeaVnz311_01803#TEXT_HEAVNZ311_01803_SEQ_02", "hash": "2BD71EECC2F5090A", "target": "Hai disattivato i dispositivi gnath e i fumi si stanno dissipando. Torna da Gullinkambi e dille che i dispositivi non sono più in funzione." },
+    { "gameKey": "quest/018/HeaVnz311_01803#TEXT_HEAVNZ311_01803_SEQ_03", "hash": "C462FAFB8E225122", "target": "Torni da Gullinkambi, che ora può respirare più facilmente senza i fumi degli Gnath. Ti ringrazia per il lavoro mentre si accoccola più vicino alle sue uova." },
+    { "gameKey": "quest/018/HeaVnz311_01803#TEXT_HEAVNZ311_01803_TODO_00", "hash": "1C8B4BAC7324628B", "target": "Disattivare i dispositivi gnath." },
+    { "gameKey": "quest/018/HeaVnz311_01803#TEXT_HEAVNZ311_01803_TODO_01", "hash": "73CAFA14C515791A", "target": "Fare rapporto a Gullinkambi." },
+    { "gameKey": "quest/018/HeaVnz311_01803#TEXT_HEAVNZ311_01803_GULLINKAMBI_000_000", "hash": "F1C6923CC952D888", "target": "Il fetore putrido degli Gnath indugia nell'aria." },
+    { "gameKey": "quest/018/HeaVnz311_01803#TEXT_HEAVNZ311_01803_GULLINKAMBI_000_001", "hash": "91BF96BCBFCC51A4", "target": "Ferma i fumi che escono dai loro giocattoli primitivi. Ne percepisco tre in tutto, non lontano da qui. Devi fermarli <italic(1)>tutti<italic(0)>." },
+    { "gameKey": "quest/018/HeaVnz311_01803#TEXT_HEAVNZ311_01803_GULLINKAMBI_000_010", "hash": "482C8E44E7A420EA", "target": "I fumi degli Gnath sono insopportabili. Devi spegnere i loro rozzi erogatori di gas. Ne percepisco tre qui vicino." },
+    { "gameKey": "quest/018/HeaVnz311_01803#TEXT_HEAVNZ311_01803_GULLINKAMBI_000_040", "hash": "22870C25BEF22F27", "target": "L'odore degli Gnath... Si affievolisce. Questa non sarà la loro ultima insolenza. Ne sono certa. Ma per ora posso proteggere le mie uova in pace." }
   ]
 }

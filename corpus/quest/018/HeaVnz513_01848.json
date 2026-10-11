@@ -2,16 +2,16 @@
   "conversation": "quest/018/HeaVnz513_01848",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_SEQ_00", "hash": "020050F8818AA0A5", "target": "" },
-    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_SEQ_01", "hash": "0DB2F40C2486BBCD", "target": "" },
-    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_SEQ_02", "hash": "C0CDB39F7D04BECE", "target": "" },
-    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_SEQ_03", "hash": "E3407E4C71A103CD", "target": "" },
-    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_TODO_00", "hash": "378701F066F2D991", "target": "" },
-    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_TODO_01", "hash": "50E7E37E3F86236B", "target": "" },
-    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_TEMPLECENTERMOG01848_000_000", "hash": "DA7D35BCD06CAB10", "target": "" },
-    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_TEMPLECENTERMOG01848_000_001", "hash": "7C224733AC0009A7", "target": "" },
-    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_TEMPLECENTERMOG01848_000_010", "hash": "3928CD1A44F26137", "target": "" },
-    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_TEMPLECENTERMOG01848_000_020", "hash": "A6BD9B410B73B021", "target": "" },
-    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_TEMPLECENTERMOG01848_000_021", "hash": "340523263A7E965C", "target": "" }
+    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_SEQ_00", "hash": "020050F8818AA0A5", "target": "«Noci!» esclama il moguri impacciato." },
+    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_SEQ_01", "hash": "0DB2F40C2486BBCD", "target": "Il moguri impacciato ha perso le sue noci in uno sfortunato incontro con un vinegaroon. Mentre attraversava Ohl Tahn, la bestia munita di lame lo ha avvistato e inseguito. Il moguri terrorizzato è fuggito a Zenith illeso, per poi scoprire di aver perso per strada la sua collezione di noci kupò. Ti chiede di tornare sul luogo della sua figuraccia e recuperare le sue cinque preziose noci." },
+    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_SEQ_02", "hash": "C0CDB39F7D04BECE", "target": "Raccogli le cinque noci kupò che compongono la collezione del moguri impacciato. Torna a Zenith per restituirgli le sue noci." },
+    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_SEQ_03", "hash": "E3407E4C71A103CD", "target": "Il moguri impacciato è commosso dalla gentilezza che gli hai mostrato. Ora che ha riavuto le sue noci, è tornato un moguri felice." },
+    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_TODO_00", "hash": "378701F066F2D991", "target": "Raccogliere le kupo nuts." },
+    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_TODO_01", "hash": "50E7E37E3F86236B", "target": "Restituire le kupo nuts al moguri impacciato." },
+    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_TEMPLECENTERMOG01848_000_000", "hash": "DA7D35BCD06CAB10", "target": "Stavolta l'ho combinata davvero, kupò... Attraversavo allegramente Ohl Tahn quando un bladed vinegaroon ha cominciato a inseguirmi. Avevo così tanta paura che ho perso le noci!" },
+    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_TEMPLECENTERMOG01848_000_001", "hash": "7C224733AC0009A7", "target": "Portavo cinque noci kupò, ma ora non ne ho più nessuna. Vi prego, trovatemele, kupò! Senza le mie noci non sono nulla!" },
+    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_TEMPLECENTERMOG01848_000_010", "hash": "3928CD1A44F26137", "target": "Non posso credere di aver perso le noci... Tutte e cinque, kupò! Ero il moguri più felice del mondo, ma ora non sono nulla! Riportatemi le mie noci kupò, vi prego!" },
+    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_TEMPLECENTERMOG01848_000_020", "hash": "A6BD9B410B73B021", "target": "Quelle che tenete in mano sono le mie noci? Tutte e cinque!?" },
+    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_TEMPLECENTERMOG01848_000_021", "hash": "340523263A7E965C", "target": "Le mie noci! Le mie bellissime noci! Riconoscerei quelle noci kupò ovunque, kupò! Grazie, mi avete salvato la vita. Quando mi sono accorto di averle perse, ero così disperato che per poco non mi strappavo il pompon!" }
   ]
 }

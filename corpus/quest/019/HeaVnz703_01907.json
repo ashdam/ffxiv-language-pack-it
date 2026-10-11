@@ -2,17 +2,17 @@
   "conversation": "quest/019/HeaVnz703_01907",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_SEQ_00", "hash": "64D15E90F058997E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_SEQ_01", "hash": "5E2E5E9788F9C499", "target": "" },
-    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_SEQ_02", "hash": "6CE77E61B5042F7D", "target": "" },
-    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_SEQ_03", "hash": "D24DE6720D1D6759", "target": "" },
-    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_TODO_00", "hash": "31BB380EA244B82C", "target": "" },
-    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_TODO_01", "hash": "780C10F331FA7DC0", "target": "" },
-    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_CONUVANU_000_000", "hash": "0AF3D40B91D71783", "target": "" },
-    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_CONUVANU_000_001", "hash": "2D9ABDC7601E19FC", "target": "" },
-    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_CONUVANU_000_010", "hash": "28DD368FED0D0655", "target": "" },
-    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_CONUVANU_000_020", "hash": "E4DE9876742CAC8D", "target": "" },
-    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_CONUVANU_000_021", "hash": "EEB1ECFB2B0A509F", "target": "" },
-    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_CONUVANU_000_022", "hash": "88EB616DAD882C51", "target": "" }
+    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_SEQ_00", "hash": "64D15E90F058997E", "target": "Conu Vanu ha bisogno di aiuto per sfamare i piccoli." },
+    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_SEQ_01", "hash": "5E2E5E9788F9C499", "target": "Sembra che i venti della fortuna ti abbiano portato a Ok' Zundu per aiutare Conu Vanu a sfamare i piccoli affamati del villaggio. Uccidi cinque Window wamouracampae e porta a Conu Vanu le loro carcasse scuoiate." },
+    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_SEQ_02", "hash": "6CE77E61B5042F7D", "target": "Uccidi i wamouracampae e raccogli le carcasse scuoiate, anche se l'odore ti impedisce di capirne l'attrattiva. Consegna la carne a Conu Vanu affinché i piccoli smettano di gridare per la fame." },
+    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_SEQ_03", "hash": "D24DE6720D1D6759", "target": "Consegni la carne a Conu Vanu, che spiega che la carne di wamouracampa è considerata una prelibatezza dai Vanu Vanu. Ti invita a condividere il pasto la prossima volta che cucinerà quell'animale dall'aspetto di verme." },
+    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_TODO_00", "hash": "31BB380EA244B82C", "target": "Uccidere i Window wamouracampae e raccogliere gli skinned wamouracampae." },
+    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_TODO_01", "hash": "780C10F331FA7DC0", "target": "Consegnare gli skinned wamouracampae a Conu Vanu." },
+    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_CONUVANU_000_000", "hash": "0AF3D40B91D71783", "target": "Come i venti dello zefiro portano fortuna, con <if(gnum4,quella di sotto,quello di sotto)> giunge un'occasione per Conu Vanu." },
+    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_CONUVANU_000_001", "hash": "2D9ABDC7601E19FC", "target": "I piccoli desiderano carne di wamouracampae scuoiati, ma Conu Vanu non osa lasciarli per andare a caccia. Al posto di Conu Vanu, <if(gnum4,quella di sotto,quello di sotto)> uccide le bestie e riporta il bottino!" },
+    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_CONUVANU_000_010", "hash": "28DD368FED0D0655", "target": "Per crescere forti, i piccoli devono banchettare. Aiuta Conu Vanu a riempire i loro ventri di wamouracampae." },
+    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_CONUVANU_000_020", "hash": "E4DE9876742CAC8D", "target": "Come rombi di tuono, risuonano le grida dei piccoli! <if(gnum4,Quella di sotto,Quello di sotto)> porta wamouracampae?" },
+    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_CONUVANU_000_021", "hash": "EEB1ECFB2B0A509F", "target": "Bene, bene! <if(gnum4,Quella di sotto,Quello di sotto)> porta un banchetto abbondante per placare la fame dei piccoli. Molto bene!" },
+    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_CONUVANU_000_022", "hash": "88EB616DAD882C51", "target": "Anche <if(gnum4,quella di sotto,quello di sotto)> mangia wamouracampae? No? Hanno sapore fresco e robusto. Pensaci: Conu Vanu è un grande cuoco!" }
   ]
 }

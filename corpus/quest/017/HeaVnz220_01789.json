@@ -2,18 +2,18 @@
   "conversation": "quest/017/HeaVnz220_01789",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_SEQ_00", "hash": "0A43F54FE46A53D5", "target": "" },
-    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_SEQ_01", "hash": "7A3A798AD9E6CB5E", "target": "" },
-    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_SEQ_02", "hash": "0B0E972A6A48A9FE", "target": "" },
-    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_SEQ_03", "hash": "C372FAEE32725705", "target": "" },
-    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_TODO_00", "hash": "5893E600ADCD9536", "target": "" },
-    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_TODO_01", "hash": "9BA0CFB2BBE716E5", "target": "" },
-    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_UMASOU_000_000", "hash": "FC746A778CADDBD3", "target": "" },
-    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_CIBLEROIT_100_001", "hash": "8E727C96AD100F33", "target": "" },
-    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_UMASOU_000_001", "hash": "A80EF238F8C635AA", "target": "" },
-    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_UMASOU_000_010", "hash": "182770B653BD4CC4", "target": "" },
-    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_UMASOU_000_020", "hash": "8B4729F7192725EF", "target": "" },
-    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_CIBLEROIT_000_021", "hash": "2F0A6608EE0AAFEC", "target": "" },
-    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_UMASOU_000_021", "hash": "685EA2B1F0518172", "target": "" }
+    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_SEQ_00", "hash": "0A43F54FE46A53D5", "target": "L'Affamata Vath sembra distratta da qualcosa nella foresta." },
+    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_SEQ_01", "hash": "7A3A798AD9E6CB5E", "target": "L'Affamata Vath ti spiega che le meliae della zona ostacolano la caccia e la raccolta dei Vath. Ti chiede di ucciderne quattro, affinché la sua tribù non resti senza cibo e non patisca la fame." },
+    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_SEQ_02", "hash": "0B0E972A6A48A9FE", "target": "Abbatti le meliae come richiesto. Torna dall'Affamata con la buona notizia." },
+    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_SEQ_03", "hash": "C372FAEE32725705", "target": "L'Affamata ti spiega che per i Vath combattere è soltanto un modo di procurarsi cibo. L'idea di attaccare qualcosa di immangiabile non è di loro gusto. Da come ne parlano, però, è chiaro che hanno già provato a mangiare le meliae." },
+    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_TODO_00", "hash": "5893E600ADCD9536", "target": "Abbattere le meliae" },
+    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_TODO_01", "hash": "9BA0CFB2BBE716E5", "target": "Fare rapporto all'Affamata Vath" },
+    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_UMASOU_000_000", "hash": "FC746A778CADDBD3", "target": "Salve, <if(gnum4,cacciatrice,cacciatore)>. Conosci le meliae? Si aggirano nella foresta. Vorremmo che ne uccidessi alcune." },
+    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_CIBLEROIT_100_001", "hash": "8E727C96AD100F33", "target": "Perché chiedi a <if(gnum4,lei,lui)> di cacciare le meliae? Non si possono mangiare. Sono troppo dure!" },
+    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_UMASOU_000_001", "hash": "A80EF238F8C635AA", "target": "Non vogliamo mangiarle. Non possiamo mangiarle. Nessuna parte è commestibile. Ma quelle creature malvagie ci impediscono di raccogliere cibo. Ostacolano la nostra caccia! Ti preghiamo di ucciderne quattro. Ci semplificherebbe molto la vita." },
+    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_UMASOU_000_010", "hash": "182770B653BD4CC4", "target": "Abbiamo fame, ma non possiamo raccogliere cibo. Le meliae ci ostacolano. Ti preghiamo di abbatterle per noi." },
+    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_UMASOU_000_020", "hash": "8B4729F7192725EF", "target": "Grazie, <if(gnum4,cacciatrice,cacciatore)>. Sei <if(gnum4,un'alleata formidabile,un alleato formidabile)>." },
+    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_CIBLEROIT_000_021", "hash": "2F0A6608EE0AAFEC", "target": "Quando combattiamo, è soltanto per procurarci cibo. È uno spreco cacciare ciò che non possiamo mangiare. Avremmo solo più fame." },
+    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_UMASOU_000_021", "hash": "685EA2B1F0518172", "target": "Hai ragione, Cibleroit. Cacciare le meliae è inutile. Hanno un sapore terribile. Sono dure e secche. Poi si passano giorni a togliersi schegge dalle mandibole." }
   ]
 }

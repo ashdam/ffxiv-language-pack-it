@@ -2,17 +2,17 @@
   "conversation": "quest/019/HeaVnz804_01934",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_SEQ_00", "hash": "E6DD06648EDA49AB", "target": "" },
-    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_SEQ_01", "hash": "36BC5B39BFDA4E9D", "target": "" },
-    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_SEQ_02", "hash": "300429FEF5B8C82C", "target": "" },
-    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_SEQ_03", "hash": "E259CC35E39EAB0C", "target": "" },
-    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_TODO_00", "hash": "3BE045DFEA138BDF", "target": "" },
-    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_TODO_01", "hash": "DEC43F22DE11A256", "target": "" },
-    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_FELTSMOX_000_000", "hash": "9B93A9693236D74B", "target": "" },
-    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_FELTSMOX_000_001", "hash": "6DB9B45ACBFC5012", "target": "" },
-    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_FELTSMOX_000_002", "hash": "C5E8B29B5CBBA69E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_FELTSMOX_000_010", "hash": "B6E13B9203D14B71", "target": "" },
-    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_FELTSMOX_000_020", "hash": "29B7F826F9B657A0", "target": "" },
-    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_FELTSMOX_000_021", "hash": "C5B14EEE89C5DA55", "target": "" }
+    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_SEQ_00", "hash": "E6DD06648EDA49AB", "target": "Feltsmox fissa il fiume con frustrazione." },
+    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_SEQ_01", "hash": "36BC5B39BFDA4E9D", "target": "Feltsmox continua a non avere fortuna con la pesca. I wildebeest eyes che le hai procurato sono un'ottima esca e dovrebbero attirare pesci da malm di distanza, ma non ha avuto neppure un'abboccata. Sembra che i pesci che normalmente abitano il fiume siano spaventati dalle damselflies lungo le rive. Uccidi cinque di queste bestie, affinché i pesci ritengano sicuro tornare." },
+    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_SEQ_02", "hash": "300429FEF5B8C82C", "target": "Dopo aver ucciso diverse damselflies, il ronzio costante delle loro ali non riempie più l'aria. Si spera che questa beata tranquillità attiri i pesci in fuga dal trambusto e dal rumore del luogo in cui si trovano ora. Torna da Feltsmox e dille che non sta più pescando in acque vuote." },
+    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_SEQ_03", "hash": "E259CC35E39EAB0C", "target": "Pur apprezzando i tuoi sforzi, Feltsmox non riesce ancora a pescare nulla, anche dopo l'eliminazione delle damselflies. Decisa a non arrendersi, sceglie di ripensare da capo la propria strategia di pesca." },
+    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_TODO_00", "hash": "3BE045DFEA138BDF", "target": "Uccidere delle damselflies." },
+    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_TODO_01", "hash": "DEC43F22DE11A256", "target": "Fare rapporto a Feltsmox." },
+    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_FELTSMOX_000_000", "hash": "9B93A9693236D74B", "target": "Pshhh... Shkohhh...<br>Feltsmox non prende ancora pesci! Esca non ha problemi... Qualcosa deve spaventare pesci." },
+    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_FELTSMOX_000_001", "hash": "6DB9B45ACBFC5012", "target": "Damselflies! Il ronzio delle loro ali deve spaventare pesci e farli scappare!" },
+    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_FELTSMOX_000_002", "hash": "C5E8B29B5CBBA69E", "target": "Per favore, altaterra, uccidi queste bestie moleste! Uccidi cinque damselflies qui vicino, così Feltsmox può pescare in pace!" },
+    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_FELTSMOX_000_010", "hash": "B6E13B9203D14B71", "target": "Feltsmox non prende ancora pesci! Damselflies fanno scappare pesci. Uccidine cinque, per favore." },
+    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_FELTSMOX_000_020", "hash": "29B7F826F9B657A0", "target": "Pshhh... Shkohhh...<br>Damselflies sono già morte? Grazie, ma Feltsmox non prende ancora pesci!" },
+    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_FELTSMOX_000_021", "hash": "C5B14EEE89C5DA55", "target": "Problema è esca? O pescaposto? Feltsmox deve ripensare pescapiano..." }
   ]
 }

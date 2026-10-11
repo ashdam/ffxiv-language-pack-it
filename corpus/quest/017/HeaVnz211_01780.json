@@ -2,16 +2,16 @@
   "conversation": "quest/017/HeaVnz211_01780",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_SEQ_00", "hash": "0F4366650A9FABDD", "target": "" },
-    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_SEQ_01", "hash": "501A12E58A2825ED", "target": "" },
-    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_SEQ_02", "hash": "987B43548B3BC9BD", "target": "" },
-    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_SEQ_03", "hash": "74B981A19B22E383", "target": "" },
-    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_TODO_00", "hash": "4102BEA09A1F577E", "target": "" },
-    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_TODO_01", "hash": "68A880649A0000A4", "target": "" },
-    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_HUNTER01780_000_010", "hash": "023F0E3176995451", "target": "" },
-    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_HUNTER01780_000_011", "hash": "99A61B5BC1C10D6D", "target": "" },
-    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_HUNTER01780_000_012", "hash": "F3C289421EBBBAE6", "target": "" },
-    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_HUNTER01780_000_020", "hash": "F1B61F9DEB337137", "target": "" },
-    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_HUNTER01780_000_030", "hash": "10C746F748181B5D", "target": "" }
+    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_SEQ_00", "hash": "0F4366650A9FABDD", "target": "I nuovi abitanti del Fiume Whilom sono insopportabili per questo cacciatore." },
+    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_SEQ_01", "hash": "501A12E58A2825ED", "target": "Un gruppo di orsi imponenti si è stabilito a monte del Fiume Whilom. Un cacciatore preoccupato ti ha chiesto di scacciarli così da poter riprendere a cacciare. Uccidi quattro orsi per far fuggire gli altri verso un nuovo abbeveratoio." },
+    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_SEQ_02", "hash": "987B43548B3BC9BD", "target": "Quattro orsi giacciono ora sul fondo del Fiume Whilom. Torna dal cacciatore e raccontagli la strage." },
+    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_SEQ_03", "hash": "74B981A19B22E383", "target": "Il cacciatore sembra sollevato, ma dice di dover aspettare provviste e un cambiamento del tempo prima di riprendere il lavoro. Si spera che nel frattempo altri orsi non decidano di tornare." },
+    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_TODO_00", "hash": "4102BEA09A1F577E", "target": "Uccidere i brown bears." },
+    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_TODO_01", "hash": "68A880649A0000A4", "target": "Fare rapporto al cacciatore." },
+    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_HUNTER01780_000_010", "hash": "023F0E3176995451", "target": "Avete già risalito il Fiume Whilom? Un tempo era un ottimo terreno di caccia... almeno finché non sono arrivati gli orsi." },
+    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_HUNTER01780_000_011", "hash": "99A61B5BC1C10D6D", "target": "Ci nascondevamo nella conca della cascata e aspettavamo che un chocobo venisse a bere. Erano facili prede... Ma gli orsi complicano le cose." },
+    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_HUNTER01780_000_012", "hash": "F3C289421EBBBAE6", "target": "Qualcuno deve farli scappare perché possiamo tornare a cacciare, e voi sembrate averne le capacità! Mandatene quattro sul fondo della conca e vi ricompenserò per il disturbo." },
+    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_HUNTER01780_000_020", "hash": "F1B61F9DEB337137", "target": "Da quando gli orsi si sono stabiliti a monte, non siamo riusciti a catturare un solo uccello. Abbattetene quattro e farò in modo che riceviate una ricompensa." },
+    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_HUNTER01780_000_030", "hash": "10C746F748181B5D", "target": "Scommetto che adesso quegli orsi rimpiangono di aver ostacolato la nostra caccia! Dobbiamo solo rifornirci di provviste e aspettare che faccia un po' più caldo, poi potremo tornare a monte." }
   ]
 }

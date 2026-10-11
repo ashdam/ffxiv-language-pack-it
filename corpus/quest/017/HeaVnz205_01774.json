@@ -2,18 +2,18 @@
   "conversation": "quest/017/HeaVnz205_01774",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_SEQ_00", "hash": "2DE55A46BCF9E172", "target": "" },
-    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_SEQ_01", "hash": "842469F5DF21785D", "target": "" },
-    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_SEQ_02", "hash": "C6AA264D7057A7A3", "target": "" },
-    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_SEQ_03", "hash": "A39E10FB69A6DAFD", "target": "" },
-    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_TODO_00", "hash": "8EA42D707655FE2B", "target": "" },
-    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_TODO_01", "hash": "1D2262FE5776AF6C", "target": "" },
-    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_AIMEBERT_000_000", "hash": "CCE580D616381828", "target": "" },
-    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_AIMEBERT_000_001", "hash": "4D1EE2E4D5AC86B8", "target": "" },
-    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_AIMEBERT_000_002", "hash": "093E770A61871D56", "target": "" },
-    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_AIMEBERT_000_010", "hash": "9A1448604B56B1E3", "target": "" },
-    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_AIMEBERT_000_020", "hash": "854A8CCDC691AD0F", "target": "" },
-    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_AIMEBERT_000_021", "hash": "23E6004590561128", "target": "" },
-    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_AIMEBERT_000_022", "hash": "139429E0EAF9C8F3", "target": "" }
+    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_SEQ_00", "hash": "2DE55A46BCF9E172", "target": "Aimebert ha bisogno di qualcuno che combatta al suo posto." },
+    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_SEQ_01", "hash": "842469F5DF21785D", "target": "I bandersnatches si procurano pasti facili con i chocobo intrappolati. Aimebert ti chiede di uccidere tre di questi predatori opportunisti." },
+    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_SEQ_02", "hash": "C6AA264D7057A7A3", "target": "I bandersnatches non sono più una minaccia per i chocobo intrappolati. Informa Aimebert che ora i suoi uccelli sono al sicuro." },
+    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_SEQ_03", "hash": "A39E10FB69A6DAFD", "target": "Aimebert è lieto della buona notizia. Si rammarica che i chocobo nelle sue trappole siano caduti vittime di predatori affamati ed è grato che nessun altro uccello debba subire una fine tanto atroce per causa sua." },
+    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_TODO_00", "hash": "8EA42D707655FE2B", "target": "Uccidere dei bandersnatches." },
+    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_TODO_01", "hash": "1D2262FE5776AF6C", "target": "Fare rapporto ad Aimebert." },
+    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_AIMEBERT_000_000", "hash": "CCE580D616381828", "target": "Maledizione, è la terza volta questa settimana! Quei dannati bandersnatches continuano a divorare i chocobo prima che possiamo recuperarli dalle trappole." },
+    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_AIMEBERT_000_001", "hash": "4D1EE2E4D5AC86B8", "target": "Quelle maledette bestie hanno assaggiato la carne di chocobo e ora non vogliono più stare alla larga!" },
+    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_AIMEBERT_000_002", "hash": "093E770A61871D56", "target": "Ne ho visti tre aggirarsi qui vicino meno di una campana fa, in cerca di un pasto facile. Se te ne liberassi, potrei ricompensarti per il disturbo." },
+    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_AIMEBERT_000_010", "hash": "9A1448604B56B1E3", "target": "I predatori naturali di queste parti rendono i nostri chocobo più agguerriti di quelli di qualsiasi altra regione, ed è per questo che è un peccato perderne anche uno solo. Sbrigati a uccidere quei bandersnatches prima che divorino altri uccelli." },
+    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_AIMEBERT_000_020", "hash": "854A8CCDC691AD0F", "target": "...Hai ucciso le bestie? Magnifico! Ora i chocobo non finiranno più in pasto ai bandersnatches!" },
+    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_AIMEBERT_000_021", "hash": "23E6004590561128", "target": "A dire il vero, però, gli uccelli sanno difendersi benissimo da soli. Sono caduti preda dei bandersnatches soltanto perché erano intrappolati. E per questo mi sento maledettamente in colpa..." },
+    { "gameKey": "quest/017/HeaVnz205_01774#TEXT_HEAVNZ205_01774_AIMEBERT_000_022", "hash": "139429E0EAF9C8F3", "target": "Ma grazie a te, quelle nobili creature non faranno più una fine tanto indegna." }
   ]
 }

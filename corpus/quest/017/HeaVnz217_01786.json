@@ -2,19 +2,19 @@
   "conversation": "quest/017/HeaVnz217_01786",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_SEQ_00", "hash": "B045EF81CE8CDB48", "target": "" },
-    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_SEQ_01", "hash": "88BDEFA0B11C537E", "target": "" },
-    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_SEQ_02", "hash": "C8E1960D053A8020", "target": "" },
-    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_SEQ_03", "hash": "EBFA790005584E7D", "target": "" },
-    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_TODO_00", "hash": "E23E2F8ABD39DE58", "target": "" },
-    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_TODO_01", "hash": "1EB582BEF3620C64", "target": "" },
-    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_CIBLEROIT_000_000", "hash": "ACA4B5741533D9DB", "target": "" },
-    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_CIBLEROIT_000_001", "hash": "6B51DBB6A1C90EBA", "target": "" },
-    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_CIBLEROIT_000_010", "hash": "54E9DCC2F27BAF32", "target": "" },
-    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_UMASOU_000_002", "hash": "A3EC5057E2ED0C4B", "target": "" },
-    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_CIBLEROIT_000_030", "hash": "45723DD436E7BAC1", "target": "" },
-    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_CIBLEROIT_000_031", "hash": "B04297EF655D1B4A", "target": "" },
-    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_UMASOU_000_032", "hash": "C32006BB75373365", "target": "" },
-    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_CIBLEROIT_000_033", "hash": "BB0439A76EC39D02", "target": "" }
+    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_SEQ_00", "hash": "B045EF81CE8CDB48", "target": "Cibleroit ti guarda con aria affamata." },
+    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_SEQ_01", "hash": "88BDEFA0B11C537E", "target": "Cibleroit ha voglia di uova di nanka e devi aiutarlo a saziarsi. Raccogli cinque uova da un ninki nanka nel fiume vicino e portagliele." },
+    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_SEQ_02", "hash": "C8E1960D053A8020", "target": "Hai raccolto il nankaspawn appiccicoso e viscido. Liberatene il più presto possibile consegnandolo a Cibleroit." },
+    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_SEQ_03", "hash": "EBFA790005584E7D", "target": "Cibleroit è felicissimo di ricevere le uova, ma l'Affamata le trova disgustose. A differenza degli Gnath della Mente Unica, le divergenze d'opinione e tutto ciò che comportano sembrano una caratteristica peculiare dei Senzamente." },
+    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_TODO_00", "hash": "E23E2F8ABD39DE58", "target": "Abbattere un ninki nanka e ottenere le sue uova" },
+    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_TODO_01", "hash": "1EB582BEF3620C64", "target": "Consegnare le uova a Cibleroit" },
+    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_CIBLEROIT_000_000", "hash": "ACA4B5741533D9DB", "target": "<if(gnum4,Generosa cacciatrice,Generoso cacciatore)>, vorremmo chiederti qualcosa. Non è un compito difficile." },
+    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_CIBLEROIT_000_001", "hash": "6B51DBB6A1C90EBA", "target": "Ci servono uova di nanka. Cinque deliziose uova di nanka. \\<click> \\<click> Abbatti un ninki nanka e raccogli per noi le sue deliziose uova." },
+    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_CIBLEROIT_000_010", "hash": "54E9DCC2F27BAF32", "target": "Hai le uova? Cinque succulente uova di nanka?" },
+    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_UMASOU_000_002", "hash": "A3EC5057E2ED0C4B", "target": "Ci chiediamo se non ti stancherai mai delle uova di nanka, Cibleroit." },
+    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_CIBLEROIT_000_030", "hash": "45723DD436E7BAC1", "target": "Hai le uova di nanka? \\<click> \\<click> Gustose, succose uova di nanka... \\<click> \\<click> \\<click>" },
+    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_CIBLEROIT_000_031", "hash": "B04297EF655D1B4A", "target": "\\<click> \\<click> Sììì. Grazie per queste uova. La consistenza è irresistibile. Potremmo mangiarne mille... ma per ora cinque basteranno." },
+    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_UMASOU_000_032", "hash": "C32006BB75373365", "target": "Non capiamo come possano piacerti le uova di nanka. Sono disgustose. \\<click> \\<click> Hai pessimi gusti." },
+    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_CIBLEROIT_000_033", "hash": "BB0439A76EC39D02", "target": "Non capiamo come possano non piacerti le uova di nanka. Ma questo significa far parte dei Senzamente." }
   ]
 }

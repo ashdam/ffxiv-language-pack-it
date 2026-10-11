@@ -2,16 +2,16 @@
   "conversation": "quest/019/HeaVnz636_01904",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_SEQ_00", "hash": "66276FAC757C4F3A", "target": "" },
-    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_SEQ_01", "hash": "5C9D0153A310B427", "target": "" },
-    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_SEQ_02", "hash": "116F97586AD1A3EE", "target": "" },
-    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_SEQ_03", "hash": "021381065C0CBED5", "target": "" },
-    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_TODO_00", "hash": "B91C840B4491E067", "target": "" },
-    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_TODO_01", "hash": "F9BAA5F37C0BFFC7", "target": "" },
-    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_GILDON_000_000", "hash": "F9AE1867F12B12DE", "target": "" },
-    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_GILDON_000_001", "hash": "E83DC61DB5837716", "target": "" },
-    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_GILDON_000_010", "hash": "E084B67694A231A1", "target": "" },
-    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_GILDON_000_020", "hash": "7C97F20A0F9FB214", "target": "" },
-    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_GILDON_000_021", "hash": "6245DE20A7E02D98", "target": "" }
+    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_SEQ_00", "hash": "66276FAC757C4F3A", "target": "Gildon è sommerso dai problemi." },
+    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_SEQ_01", "hash": "5C9D0153A310B427", "target": "Gildon è preoccupato per i dhalmels che negli ultimi giorni si sono avvicinati al campo. Inoltre sostiene che si stiano riproducendo a un ritmo allarmante. Ti chiede di ucciderne quattro per ridurne il numero a livelli più gestibili." },
+    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_SEQ_02", "hash": "116F97586AD1A3EE", "target": "Uccidi i dhalmels. Torna a Campo Cloudtop e fai rapporto a Gildon." },
+    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_SEQ_03", "hash": "021381065C0CBED5", "target": "Gildon è sollevato dal tuo rapporto. Sospetta che i dhalmels si siano avvicinati a Campo Cloudtop per curiosità. Sebbene non vogliano far male, ignorano beatamente i danni che infliggono a Gildon e ai suoi compagni cavalieri. Per quanto gli dispiaccia, ha deciso di abbatterli se diventeranno troppo numerosi." },
+    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_TODO_00", "hash": "B91C840B4491E067", "target": "Uccidere i dhalmels." },
+    {"gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_TODO_01", "hash": "F9BAA5F37C0BFFC7", "target": "Fare rapporto a Gildon"},
+    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_GILDON_000_000", "hash": "F9AE1867F12B12DE", "target": "È un piacere vedervi, <split(<string(gstr1)>, ,1)>. Sono certo che non vi sorprenderà, ma c'è altro lavoro da fare." },
+    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_GILDON_000_001", "hash": "E83DC61DB5837716", "target": "Ultimamente i dhalmels che abitano Ok' Gundu si sono avvicinati pericolosamente all'avamposto. Aumentando di numero, intralciano il nostro lavoro nella zona. Sarebbe un grande aiuto per il campo se poteste ucciderne quattro per sfoltirne i ranghi." },
+    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_GILDON_000_010", "hash": "E084B67694A231A1", "target": "Troverete i dhalmels a pascolare nei campi a nord-est di qui, anche se non posso dire che sia una breve passeggiata. Abbatterne quattro dovrebbe bastare a ridurne il numero." },
+    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_GILDON_000_020", "hash": "7C97F20A0F9FB214", "target": "È un piacere rivedervi, <if(gnum4,amica,amico)>. Immagino che abbiate sistemato i dhalmels? Posso soltanto sperare che ora i nostri uomini possano pattugliare la zona più facilmente." },
+    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_GILDON_000_021", "hash": "6245DE20A7E02D98", "target": "Si avvicinano all'avamposto soltanto da poco, senz'altro per curiosità. I dhalmels sono docili per natura, ma animali tanto grandi possono ferire facilmente i nostri uomini senza volerlo. Mi dispiace abbatterli così, ma facciamo ciò che dobbiamo per il bene del campo." }
   ]
 }

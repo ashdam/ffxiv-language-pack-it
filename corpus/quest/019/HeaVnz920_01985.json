@@ -2,16 +2,16 @@
   "conversation": "quest/019/HeaVnz920_01985",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz920_01985#TEXT_HEAVNZ920_01985_SEQ_00", "hash": "7A07D23D6FE41719", "target": "" },
-    { "gameKey": "quest/019/HeaVnz920_01985#TEXT_HEAVNZ920_01985_SEQ_01", "hash": "3C4A0E7479118906", "target": "" },
-    { "gameKey": "quest/019/HeaVnz920_01985#TEXT_HEAVNZ920_01985_SEQ_02", "hash": "7D4AF33036EF5513", "target": "" },
-    { "gameKey": "quest/019/HeaVnz920_01985#TEXT_HEAVNZ920_01985_SEQ_03", "hash": "D258769096AA8CE1", "target": "" },
-    { "gameKey": "quest/019/HeaVnz920_01985#TEXT_HEAVNZ920_01985_TODO_00", "hash": "1C242E3C3C7B4C35", "target": "" },
-    { "gameKey": "quest/019/HeaVnz920_01985#TEXT_HEAVNZ920_01985_TODO_01", "hash": "6947243B04EC9037", "target": "" },
-    { "gameKey": "quest/019/HeaVnz920_01985#TEXT_HEAVNZ920_01985_HUNTINGSYSTEM_000_000", "hash": "38DC8AD5F98A35E8", "target": "" },
-    { "gameKey": "quest/019/HeaVnz920_01985#TEXT_HEAVNZ920_01985_HUNTINGSYSTEM_000_001", "hash": "F0BE3D416365E98A", "target": "" },
-    { "gameKey": "quest/019/HeaVnz920_01985#TEXT_HEAVNZ920_01985_HUNTINGSYSTEM_000_010", "hash": "D11197D67C106E4E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz920_01985#TEXT_HEAVNZ920_01985_HUNTINGSYSTEM_000_020", "hash": "A23E5D2B90D5DFF7", "target": "" },
-    { "gameKey": "quest/019/HeaVnz920_01985#TEXT_HEAVNZ920_01985_HUNTINGSYSTEM_000_021", "hash": "19698169C073E642", "target": "" }
+    { "gameKey": "quest/019/HeaVnz920_01985#TEXT_HEAVNZ920_01985_SEQ_00", "hash": "7A07D23D6FE41719", "target": "Il nodo di caccia allagano attende l'interazione dell'utente." },
+    { "gameKey": "quest/019/HeaVnz920_01985#TEXT_HEAVNZ920_01985_SEQ_01", "hash": "3C4A0E7479118906", "target": "Il nodo di caccia allagano sembra gestire una sorta di programma di allenamento e ti sfida a cacciare quattro empuses." },
+    { "gameKey": "quest/019/HeaVnz920_01985#TEXT_HEAVNZ920_01985_SEQ_02", "hash": "7D4AF33036EF5513", "target": "Cacci gli empuses come richiesto. Torna al nodo di caccia per la valutazione delle tue prestazioni." },
+    { "gameKey": "quest/019/HeaVnz920_01985#TEXT_HEAVNZ920_01985_SEQ_03", "hash": "D258769096AA8CE1", "target": "Sembra che il nodo di caccia non possa completare il suo programma di allenamento. Considerato l'obiettivo di caccia della prossima settimana, forse è meglio così..." },
+    { "gameKey": "quest/019/HeaVnz920_01985#TEXT_HEAVNZ920_01985_TODO_00", "hash": "1C242E3C3C7B4C35", "target": "Uccidere degli empuses." },
+    { "gameKey": "quest/019/HeaVnz920_01985#TEXT_HEAVNZ920_01985_TODO_01", "hash": "6947243B04EC9037", "target": "Fare rapporto al nodo di caccia." },
+    { "gameKey": "quest/019/HeaVnz920_01985#TEXT_HEAVNZ920_01985_HUNTINGSYSTEM_000_000", "hash": "38DC8AD5F98A35E8", "target": "Salve! Vi diamo il benvenuto al programma di caccia per i dipendenti dell'Aetherochemical Research Facility, patrocinato dall'ufficio benefici per i dipendenti dell'Aetherochemical Research Facility!" },
+    { "gameKey": "quest/019/HeaVnz920_01985#TEXT_HEAVNZ920_01985_HUNTINGSYSTEM_000_001", "hash": "F0BE3D416365E98A", "target": "Mantenetevi in forma e in salute partecipando alla nostra gara di caccia quotidiana! L'obiettivo di oggi è costituito da quattro empuses! Agite il più rapidamente possibile e cercate di battere l'attuale record di <italic(1)>DATI NON TROVATI<italic(0)>. Preparazione... Via! \\<bip>" },
+    { "gameKey": "quest/019/HeaVnz920_01985#TEXT_HEAVNZ920_01985_HUNTINGSYSTEM_000_010", "hash": "D11197D67C106E4E", "target": "L'obiettivo di caccia di oggi è costituito da quattro empuses. Affrettatevi! Il tempo scorre!" },
+    { "gameKey": "quest/019/HeaVnz920_01985#TEXT_HEAVNZ920_01985_HUNTINGSYSTEM_000_020", "hash": "A23E5D2B90D5DFF7", "target": "\\<buzzzzzz> ...desidera ricordare a tutti i partecipanti che gli assistenti di laboratorio e i beni del laboratorio non costituiscono bersagli validi ai fini di... \\<buzzzzzz>" },
+    { "gameKey": "quest/019/HeaVnz920_01985#TEXT_HEAVNZ920_01985_HUNTINGSYSTEM_000_021", "hash": "19698169C073E642", "target": "Ricordate di tornare per...\\<buzzzzzz>...l'obiettivo della prossima settimana...\\<buzzzzzz>...e tre <switch(gnum71,Hyur,Elezen,Lalafell,Miqo'te,Roegadyn,Au Ra,Hrothgar,Viera)>... \\<buzzzzzz>" }
   ]
 }

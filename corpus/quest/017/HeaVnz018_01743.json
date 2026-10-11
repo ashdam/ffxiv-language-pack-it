@@ -2,19 +2,19 @@
   "conversation": "quest/017/HeaVnz018_01743",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_SEQ_00", "hash": "C0A7553AE1D63742", "target": "" },
-    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_SEQ_01", "hash": "5406F70AAB1D0F09", "target": "" },
-    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_SEQ_02", "hash": "70CF1EDB89B863BE", "target": "" },
-    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_TODO_00", "hash": "5F983D26E217A95A", "target": "" },
-    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_TORSEFERS_000_000", "hash": "FB37C4E9E5F97D9E", "target": "" },
-    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_TORSEFERS_000_001", "hash": "A3F70733CD745E9F", "target": "" },
-    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_TORSEFERS_000_002", "hash": "881A493DC0599958", "target": "" },
-    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_TORSEFERS_000_003", "hash": "BCDD94E5B3BE179D", "target": "" },
-    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_TORSEFERS_000_010", "hash": "A91FC775D1B183F1", "target": "" },
-    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_LANIAITTE_000_020", "hash": "840C37196FCADA28", "target": "" },
-    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_LANIAITTE_000_021", "hash": "17C2050A066A8CAB", "target": "" },
-    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_LANIAITTE_000_022", "hash": "C61D17E17D9B4B05", "target": "" },
-    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_LANIAITTE_000_023", "hash": "BB43BD5FD05C7065", "target": "" },
-    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_LANIAITTE_000_024", "hash": "D35580924F64F492", "target": "" }
+    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_SEQ_00", "hash": "C0A7553AE1D63742", "target": "Torsefers sembra divorato dalla preoccupazione." },
+    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_SEQ_01", "hash": "5406F70AAB1D0F09", "target": "Lord Emmanellain ha incaricato Torsefers di consegnare una lettera a Lady Laniaitte, alla Casa della Rosa nella Sea of Clouds. Temendo che qualcosa possa andare storto e attirargli l'ira di Lord Emmanellain, Torsefers ti chiede di consegnarla al posto suo." },
+    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_SEQ_02", "hash": "70CF1EDB89B863BE", "target": "Consegni la lettera a Lady Laniaitte, e l'intenso profumo di rose le rivela subito chi l'ha mandata. Ti racconta che lei e Lord Emmanellain si conoscono fin dall'infanzia. Pur essendo ormai adulto, a volte lui si comporta ancora come un bambino." },
+    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_TODO_00", "hash": "5F983D26E217A95A", "target": "Consegnare la rose-scented letter a Lady Laniaitte alla Casa della Rosa." },
+    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_TORSEFERS_000_000", "hash": "FB37C4E9E5F97D9E", "target": "Ho l'aria preoccupata? Sciocchezze. Perché mai dovrei avere qualcosa di cui preoccuparmi?<br>\\<sigh> D'accordo... Immagino che non ci sia niente di male a dirvelo." },
+    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_TORSEFERS_000_001", "hash": "A3F70733CD745E9F", "target": "Lord Emmanellain mi ha chiesto di recapitare una missiva a Lady Laniaitte alla Casa della Rosa. Ricordo che ha specificato che un fallimento <italic(1)>non<italic(0)> sarebbe stato tollerato. È un compito semplice, ma il pensiero che qualcosa possa andare storto mi stringe lo stomaco." },
+    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_TORSEFERS_000_002", "hash": "881A493DC0599958", "target": "Detesto scaricare i miei doveri su altri, ma... Vorreste consegnare questa missiva?" },
+    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_TORSEFERS_000_003", "hash": "BCDD94E5B3BE179D", "target": "Non posso permettermi di correre rischi. Sicuramente <if(gnum4,una donna,un uomo)> con le vostre capacità saprà portare a termine il compito senza errori. Vi prego, siete la mia unica speranza!" },
+    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_TORSEFERS_000_010", "hash": "A91FC775D1B183F1", "target": "Quando arrivate alla Casa della Rosa, portate la missiva direttamente a Lady Laniaitte. Nessuna deviazione. Non può esserci alcun errore in questa consegna." },
+    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_LANIAITTE_000_020", "hash": "840C37196FCADA28", "target": "Ah, <split(<string(gstr1)>, ,1)>. Vi vedo in forma, ma cosa vi porta qui a Cloudtop? Se avete bisogno di qualcosa, basta chiedere." },
+    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_LANIAITTE_000_021", "hash": "17C2050A066A8CAB", "target": "\\<sniff> Olio di rosa? Ugh, una lettera di Lord Emmanellain. Mi dispiace davvero. Non immaginavo che avrebbe tentato qualcosa di tanto sfacciato." },
+    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_LANIAITTE_000_022", "hash": "C61D17E17D9B4B05", "target": "Temo che sia sempre stato così. La casata Haillenarte e la casata Fortemps hanno sempre mantenuto buoni rapporti, e così chi ha un'età simile trascorre spesso del tempo insieme fin dall'infanzia." },
+    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_LANIAITTE_000_023", "hash": "BB43BD5FD05C7065", "target": "Ho passato buona parte della mia infanzia a giocare con Lord Emmanellain, ma ora... Temo che resti troppo legato ai ricordi di quando eravamo piccoli. Anche se ammetto che a volte questo mi torna utile." },
+    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_LANIAITTE_000_024", "hash": "D35580924F64F492", "target": "Purtroppo, non posso dire lo stesso per Torsefers. Senza dubbio vi ha chiesto di venire al suo posto. Capisco il suo timore di irritare Lord Emmanellain, ma questo non è il modo di trattare una persona ospite della casata. Accettate questo dono come segno delle mie scuse. So che non è molto, ma al momento non posso offrire altro." }
   ]
 }

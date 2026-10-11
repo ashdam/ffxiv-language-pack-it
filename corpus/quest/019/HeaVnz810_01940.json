@@ -2,15 +2,15 @@
   "conversation": "quest/019/HeaVnz810_01940",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_SEQ_00", "hash": "7C9DB667FFA7B10B", "target": "" },
-    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_SEQ_01", "hash": "49498E447F0AEE50", "target": "" },
-    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_SEQ_02", "hash": "62ECD8863983DFCF", "target": "" },
-    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_SEQ_03", "hash": "3709EC65005146EB", "target": "" },
-    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_TODO_00", "hash": "1856CAA4A807EEAD", "target": "" },
-    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_TODO_01", "hash": "DE20E67538E64FA6", "target": "" },
-    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_HALFSIX_000_000", "hash": "1272C8F151275A49", "target": "" },
-    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_HALFSIX_000_001", "hash": "260E872FC67849F2", "target": "" },
-    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_HALFSIX_000_010", "hash": "417132EF9CCA68B2", "target": "" },
-    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_HALFSIX_000_030", "hash": "341C7143C5F71F52", "target": "" }
+    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_SEQ_00", "hash": "7C9DB667FFA7B10B", "target": "Halfsix sembra ridacchiare tra sé." },
+    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_SEQ_01", "hash": "49498E447F0AEE50", "target": "Halfsix sembra aver costruito dispositivi capaci di interrompere le comunicazioni degli Illuminati. Vuole ora che tu li collochi nel Quartiere degli Artigiani, per irritare i nemici giurati di Idyllshire. Vai nei Dravanian Hinterlands e installa i tre jamming devices." },
+    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_SEQ_02", "hash": "62ECD8863983DFCF", "target": "Installi tutti e tre i jamming devices a mezzaluna intorno all'Arkhitekton. Torna da Halfsix e raccontagli del grande «scherzo» che avete fatto agli Illuminati." },
+    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_SEQ_03", "hash": "3709EC65005146EB", "target": "Sentendo che l'opera è compiuta, Halfsix deve trattenere le risate all'idea di quanto sarà frustrante per gli Illuminati perdere la capacità di comunicare. Sebbene non ti ringrazi esplicitamente, senti di aver conquistato la fiducia del goblin." },
+    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_TODO_00", "hash": "1856CAA4A807EEAD", "target": "Installare dei jamming devices nel Quartiere degli Artigiani." },
+    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_TODO_01", "hash": "DE20E67538E64FA6", "target": "Fare rapporto a Halfsix." },
+    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_HALFSIX_000_000", "hash": "1272C8F151275A49", "target": "Pshkohhh... Altaterra cerca di aiutare Idyllshire? Allora altaterra ha trovato goblin giusto! Halfsix ha piano furbetto, farà uscire Illuminati da loro scatolacervello!" },
+    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_HALFSIX_000_001", "hash": "260E872FC67849F2", "target": "Psssheehee! Ecco, prendi invenzioni di Halfsix, si chiamano intasasegnale. Se altaterra mette in Quartiere degli Artigiani, fermeranno tutto parlavolo di Illuminati!" },
+    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_HALFSIX_000_010", "hash": "417132EF9CCA68B2", "target": "Psssheehee! Altaterra immagina parlavolo di Illuminati con intasasegnale acceso? «Pronto? Pronto? Mi senti?»" },
+    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_HALFSIX_000_030", "hash": "341C7143C5F71F52", "target": "Pshkohhh... Ora Illuminati non possono fare parlavolo con linkpearl, devono camminare da un capo all'altro di Quartiere degli Artigiani per fare linguasvolazzi! Halfsix e altaterra fatto bello scherzo, no?" }
   ]
 }
