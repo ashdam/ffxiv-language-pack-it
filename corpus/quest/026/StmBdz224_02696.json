@@ -2,16 +2,16 @@
   "conversation": "quest/026/StmBdz224_02696",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_SEQ_00", "hash": "73FF4614AA8E404F", "target": "" },
-    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_TODO_00", "hash": "C09C99D08410B01F", "target": "" },
-    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_TODO_01", "hash": "DA51035DB4B3DDA1", "target": "" },
-    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_000", "hash": "22B3F880E6547868", "target": "" },
-    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_001", "hash": "F50D088F10BD37CB", "target": "" },
-    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_002", "hash": "896EBC460122348C", "target": "" },
-    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_003", "hash": "4BB528783C01183D", "target": "" },
-    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_004", "hash": "6FF52742726983D9", "target": "" },
-    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_010", "hash": "9504F19D39794659", "target": "" },
-    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_011", "hash": "7CDE6BBB63022CA5", "target": "" },
-    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_012", "hash": "3E034F2B7A5DEC83", "target": "" }
+    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_SEQ_00", "hash": "73FF4614AA8E404F", "target": "Urokuzu cerca ovunque qualcuno che abbia esperienza di combattimento." },
+    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_TODO_00", "hash": "C09C99D08410B01F", "target": "Esaminare la zona e uccidere le bestie che compaiono" },
+    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_TODO_01", "hash": "DA51035DB4B3DDA1", "target": "Fare rapporto a Urokuzu" },
+    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_000", "hash": "22B3F880E6547868", "target": "Ah, vieni dal mondo di sopra e sembri proprio <if(gnum4,una guerriera temprata,un guerriero temprato)> dalla battaglia! Che tu abbia scelto proprio questo momento per farci visita non può essere una coincidenza!" },
+    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_001", "hash": "F50D088F10BD37CB", "target": "L'altro giorno uno dei nostri giovani Kojin era a pesca quando è stato attaccato e ferito gravemente. Non è riuscito a identificare l'aggressore, ma molti sospettano che sia stato un granchio. In questo periodo cominciano a deporre le uova e possono essere molto aggressivi." },
+    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_002", "hash": "896EBC460122348C", "target": "Io, però, credo che dietro ci sia qualcosa di ben più sinistro. Il giovane di cui parlo è il combattente più dotato di Tamamizu. Un semplice granchio non potrebbe coglierlo alla sprovvista." },
+    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_003", "hash": "4BB528783C01183D", "target": "L'incidente è avvenuto sulle rive settentrionali dell'Isle of Bekko. Ti prego, potresti andare a indagare su cosa possa essere successo?" },
+    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_004", "hash": "6FF52742726983D9", "target": "Fa' attenzione. Non voglio avere la tua morte sulla coscienza." },
+    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_010", "hash": "9504F19D39794659", "target": "...Quindi i colpevoli erano i Kojin Rossi? È inaudito! Non siamo certo in buoni rapporti, ma finora non avevano mai cercato di uccidere uno di noi." },
+    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_011", "hash": "7CDE6BBB63022CA5", "target": "...D'altra parte, forse non volevano togliergli la vita, ma soltanto rubare l'antica canna da pesca che stava usando. In fondo, è uno dei nostri tesori più preziosi." },
+    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_012", "hash": "3E034F2B7A5DEC83", "target": "Devo avvertire gli altri di prendere precauzioni aggiuntive quando lasciano il villaggio con qualcosa di valore. Grazie, <if(gnum4,signora,signore)>, per avermi aiutato a far luce su questa vicenda tanto inquietante." }
   ]
 }

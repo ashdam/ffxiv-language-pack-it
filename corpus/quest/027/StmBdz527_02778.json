@@ -2,17 +2,17 @@
   "conversation": "quest/027/StmBdz527_02778",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_SEQ_00", "hash": "15C40AD17812CB15", "target": "" },
-    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_TODO_00", "hash": "A5ACC5A84C436EE0", "target": "" },
-    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_TODO_01", "hash": "89EE5BDE80A2B9F8", "target": "" },
-    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_GUYUG_000_000", "hash": "FE07D86362C1906E", "target": "" },
-    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_GUYUG_000_001", "hash": "773ED90E92FE5D30", "target": "" },
-    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_GUYUG_000_002", "hash": "41F8994CA23C5F4A", "target": "" },
-    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_GUYUG_000_003", "hash": "725865B4C9A94388", "target": "" },
-    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_GUYUG_000_004", "hash": "965309723BD09054", "target": "" },
-    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_GUYUG_000_005", "hash": "FD12C00CCBF9D75A", "target": "" },
-    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_GUYUG_000_010", "hash": "FD6DB6ACB88DA225", "target": "" },
-    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_GUYUG_000_011", "hash": "D9C7EA8EFDFB1016", "target": "" },
-    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_GUYUG_000_013", "hash": "174B5124D7BC6CD2", "target": "" }
+    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_SEQ_00", "hash": "15C40AD17812CB15", "target": "Guyug osserva attentamente i tuoi movimenti." },
+    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_TODO_00", "hash": "A5ACC5A84C436EE0", "target": "Usare l'Oroniri lamp oil per rifornire le Oroniri lamps che stanno per spegnersi" },
+    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_TODO_01", "hash": "89EE5BDE80A2B9F8", "target": "Fare rapporto a Guyug" },
+    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_GUYUG_000_000", "hash": "FE07D86362C1906E", "target": "Quel passo sicuro, quegli occhi acuti... Sì, saresti senza dubbio all'altezza del compito." },
+    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_GUYUG_000_001", "hash": "773ED90E92FE5D30", "target": "Dimmi, hai mai notato le lampade sparse per la Steppa? Io e il mio compagno ci occupiamo della loro manutenzione." },
+    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_GUYUG_000_002", "hash": "41F8994CA23C5F4A", "target": "Ogni volta che le fiamme si abbassano troppo, aggiungiamo combustibile. Pattugliamo anche regolarmente la zona. La luce tende ad attirare bestie selvatiche e tocca a noi affrontare tutto ciò che fa uscire dai nascondigli." },
+    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_GUYUG_000_003", "hash": "725865B4C9A94388", "target": "Oggi, però, devo sorvegliare da solo questo vasto perimetro, perché il mio compagno è troppo ferito per muoversi. Si è fatto male cavalcando e speravo che tu potessi sostituirlo." },
+    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_GUYUG_000_004", "hash": "965309723BD09054", "target": "Prendi quest'olio e rifornisci cinque lampade che sembrano sul punto di spegnersi. Oh, e ricordati di restare vigile! Nella Steppa ci sono molte bestie pericolose e non vorrei perdere un altro compagno." },
+    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_GUYUG_000_005", "hash": "FD12C00CCBF9D75A", "target": "Ti chiedo di rifornire d'olio cinque lampade. Spero che tu riesca a farlo in fretta." },
+    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_GUYUG_000_010", "hash": "FD6DB6ACB88DA225", "target": "Bentornat<if(gnum4,a,o)>! Grazie a te, ora nessuno deve temere di perdersi nel buio." },
+    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_GUYUG_000_011", "hash": "D9C7EA8EFDFB1016", "target": "Quando cala la notte e padre Azim non illumina più queste terre, le lampade di sotto guidano in sicurezza chi attraversa la Steppa. Per questo dobbiamo assicurarci che non si spengano mai." },
+    { "gameKey": "quest/027/StmBdz527_02778#TEXT_STMBDZ527_02778_GUYUG_000_013", "hash": "174B5124D7BC6CD2", "target": "Oggi ci hai reso un grande servizio. Che padre Azim vegli sempre su di te." }
   ]
 }

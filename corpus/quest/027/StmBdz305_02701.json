@@ -2,19 +2,19 @@
   "conversation": "quest/027/StmBdz305_02701",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_SEQ_00", "hash": "A928C105413E3A9F", "target": "" },
-    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_TODO_00", "hash": "5957A7E396E968D5", "target": "" },
-    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_TODO_01", "hash": "5C3A9413176C3C2B", "target": "" },
-    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_AOGAMI_000_000", "hash": "46E760ACD9CFF6C4", "target": "" },
-    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_AOGAMI_000_001", "hash": "0EE0A3D690774A71", "target": "" },
-    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_AOGAMI_000_002", "hash": "92D9F552C6F1F08C", "target": "" },
-    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_AOGAMI_000_003", "hash": "2F6645E6C66B7B6B", "target": "" },
-    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_AOGAMI_000_004", "hash": "425EE1783D7F8C2F", "target": "" },
-    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_AOGAMI_000_010", "hash": "8F81B0602C242BCB", "target": "" },
-    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_AOGAMI_000_011", "hash": "39937186F052ECD1", "target": "" },
-    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_AOGAMI_000_012", "hash": "3AEB57707A886A6E", "target": "" },
-    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_AOGAMI_000_013", "hash": "847FEB6876EEB1A4", "target": "" },
-    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_AOGAMI_000_014", "hash": "E5272557218DA06D", "target": "" },
-    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_AOGAMI_000_015", "hash": "FBC647DF4C58047A", "target": "" }
+    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_SEQ_00", "hash": "A928C105413E3A9F", "target": "La ragazza dai capelli color zaffiro è felice di rivederti." },
+    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_TODO_00", "hash": "5957A7E396E968D5", "target": "Raccogliere il mozuku" },
+    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_TODO_01", "hash": "5C3A9413176C3C2B", "target": "Consegnare il mozuku alla ragazza dai capelli color zaffiro" },
+    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_AOGAMI_000_000", "hash": "46E760ACD9CFF6C4", "target": "Oh, mi sembrava di riconoscerti! Forse anche tu ti ricordi di me? Sono la ragazza che hai salvato dalle meduse a Onokoro." },
+    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_AOGAMI_000_001", "hash": "0EE0A3D690774A71", "target": "Non dirmi che ti sorprende sapere che vengo da Sui<-->no<-->Sato? È vero che raramente ci allontaniamo dal nostro piccolo villaggio sottomarino, ma a volte usciamo a raccogliere cibo." },
+    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_AOGAMI_000_002", "hash": "92D9F552C6F1F08C", "target": "Il giorno in cui mi hai salvata ero uscita proprio per questo, ma prima di poter raccogliere il mozuku di cui ho tanto bisogno, quelle orribili creature mi hanno teso un agguato." },
+    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_AOGAMI_000_003", "hash": "2F6645E6C66B7B6B", "target": "Non mi sono ancora ripresa dalle ferite e speravo che potessi aiutarmi un'ultima volta. Ti prego, puoi raccogliere quattro ciuffi di mozuku e portarmeli?" },
+    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_AOGAMI_000_004", "hash": "425EE1783D7F8C2F", "target": "Mi porteresti quattro ciuffi di mozuku, per favore? Dovresti trovarlo nelle acque intorno alle coste di Onokoro." },
+    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_AOGAMI_000_010", "hash": "8F81B0602C242BCB", "target": "Sei di ritorno... significa che mi hai portato il mozuku?" },
+    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_AOGAMI_000_011", "hash": "39937186F052ECD1", "target": "Oh, grazie! Quest'alga è una parte importantissima della nostra alimentazione, e non so che cosa avrei fatto se non avessi accettato di raccoglierla per me." },
+    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_AOGAMI_000_012", "hash": "3AEB57707A886A6E", "target": "Finora non ero mai stata punta mentre raccoglievo mozuku. \\<sospiro> Immagino di potermela prendere solo con me stessa. Non avrei dovuto lasciarmi distrarre dalle scaglie scintillanti dei pesci che nuotavano lì vicino." },
+    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_AOGAMI_000_013", "hash": "847FEB6876EEB1A4", "target": "Se soltanto avessimo campi come quelli in superficie, potremmo ridurre questi rischi. Purtroppo siamo un piccolo villaggio e difficilmente possiamo permetterci spazio per coltivare." },
+    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_AOGAMI_000_014", "hash": "E5272557218DA06D", "target": "Il mare è generoso e ricco di doni, ma a differenza tua concede le sue benedizioni soltanto a chi ne ha reverenza. È stato arrogante da parte mia dimenticare di temere le sue possenti onde." },
+    { "gameKey": "quest/027/StmBdz305_02701#TEXT_STMBDZ305_02701_AOGAMI_000_015", "hash": "FBC647DF4C58047A", "target": "Resto però grata di questa esperienza: mi ha ricordato qualcosa di molto importante e mi ha permesso di stringere una splendida amicizia. Ti prego, accetta questo dono." }
   ]
 }

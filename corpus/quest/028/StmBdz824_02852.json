@@ -2,19 +2,19 @@
   "conversation": "quest/028/StmBdz824_02852",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_SEQ_00", "hash": "C9101D7EA6A33DBE", "target": "" },
-    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_TODO_00", "hash": "5897A5C05C660FE6", "target": "" },
-    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_TODO_01", "hash": "93ED8CAD268AC4F8", "target": "" },
-    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_TODO_02", "hash": "E87A5971A49A9A5E", "target": "" },
-    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_MAWT_000_000", "hash": "9D4CAD84F423BE44", "target": "" },
-    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_MAWT_000_001", "hash": "5DF5E99E58F13A5A", "target": "" },
-    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_MAWT_000_002", "hash": "F75962A67C6EEC2F", "target": "" },
-    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_MAWT_000_003", "hash": "67BBAEF993216A83", "target": "" },
-    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_MAWT_000_004", "hash": "576BE26871FB52BB", "target": "" },
-    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_MAWT_000_005", "hash": "DC0188FE28818640", "target": "" },
-    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_MAWT_000_010", "hash": "078D54CDBA99DBC1", "target": "" },
-    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_MAWT_000_011", "hash": "F9D2F9A6A9FC1BC5", "target": "" },
-    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_MAWT_000_012", "hash": "7D55678B39323669", "target": "" },
-    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_MAWT_000_013", "hash": "12880D3EACABA3DD", "target": "" }
+    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_SEQ_00", "hash": "C9101D7EA6A33DBE", "target": "Mawt sussurra fra sé con un tono sinistro." },
+    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_TODO_00", "hash": "5897A5C05C660FE6", "target": "Collocare le fresh vegetables nel punto indicato" },
+    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_TODO_01", "hash": "93ED8CAD268AC4F8", "target": "Attendere l'arrivo di un Abalathian catoblepas, poi usare la paralytic powder sulla creatura e abbatterla per ottenerne l'occhio" },
+    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_TODO_02", "hash": "E87A5971A49A9A5E", "target": "Consegnare il catoblepas eye a Mawt" },
+    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_MAWT_000_000", "hash": "9D4CAD84F423BE44", "target": "Sapete che cos'è un catoblepas? Di questi tempi non se ne vedono molti, ma ne ho avvistato uno che si è allontanato dal branco." },
+    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_MAWT_000_001", "hash": "5DF5E99E58F13A5A", "target": "Si dice che l'occhio di questa creatura possieda poteri malefici. Lo voglio. Mi <italic(1)>serve<italic(0)>! Ora, io sono soltanto una fragile ragazza, ma scommetto che voi non avreste difficoltà a estrarlo dal cranio di quel mostro vagante." },
+    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_MAWT_000_002", "hash": "F75962A67C6EEC2F", "target": "Ecco, ho pianificato tutto: usate queste verdure come esca in quel punto a ovest e aspettate che il catoblepas venga a sgranocchiarle. Poi gli gettate in faccia questa polvere paralizzante!" },
+    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_MAWT_000_003", "hash": "67BBAEF993216A83", "target": "Dovrebbe rallentarlo abbastanza da consentirvi un colpo mortale preciso: non voglio che quel prezioso occhio venga danneggiato. Bene, allora! Vi aspetterò!" },
+    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_MAWT_000_004", "hash": "576BE26871FB52BB", "target": "Il piano non era chiaro? Mettete le verdure come esca, stordite il catoblepas con la polvere, poi estraete dalla sua orbita quell'occhio meravigliosamente malvagio!" },
+    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_MAWT_000_005", "hash": "DC0188FE28818640", "target": "Io ottengo un talismano dal potere maledetto e voi scegliete fra i beni che ho accumulato. Ci guadagniamo <if(gnum4,entrambe,entrambi)>!" },
+    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_MAWT_000_010", "hash": "078D54CDBA99DBC1", "target": "Occhio malvagio, occhio malvagio, quanto vorrei che fossi mio...<br>Allora? L'avete preso? È intatto?" },
+    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_MAWT_000_011", "hash": "F9D2F9A6A9FC1BC5", "target": "Sì! È perfetto! Ah, soltanto guardare questa sfera minacciosa mi fa correre un brivido nell'anima!" },
+    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_MAWT_000_012", "hash": "7D55678B39323669", "target": "Come diceva la mia cara nonnina defunta: «Se vuoi la maledizione più tremenda, usa l'occhio di un catoblepas!»" },
+    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_MAWT_000_013", "hash": "12880D3EACABA3DD", "target": "Ahahaha. Mwahaha! Gyahahahahaha! La mia vendetta è vicina, bastardi imperiali! Che le pulci di mille jhammel vi infestino le parti basse!" }
   ]
 }

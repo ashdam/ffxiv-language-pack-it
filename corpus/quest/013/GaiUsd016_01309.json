@@ -2,18 +2,18 @@
   "conversation": "quest/013/GaiUsd016_01309",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_SEQ_00", "hash": "4E3B4F429FE1216B", "target": "" },
-    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_SEQ_01", "hash": "AE50F8B8D658DAB1", "target": "" },
-    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_SEQ_02", "hash": "3A26C5EAE4F4382F", "target": "" },
-    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_SEQ_03", "hash": "31A8B66E4D546F28", "target": "" },
-    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_TODO_00", "hash": "BE7A4EA51251A8F3", "target": "" },
-    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_TODO_01", "hash": "09C7847572CD6592", "target": "" },
-    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_TODO_02", "hash": "436F50DD6154CA14", "target": "" },
-    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_TODO_03", "hash": "8C04101295C44505", "target": "" },
-    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_LARAINA_000_000", "hash": "19EBE6C1C9F45466", "target": "" },
-    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_LARAINA_000_001", "hash": "C3889FF1693ADF5D", "target": "" },
-    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_LARAINA_000_010", "hash": "E6B38E9A9BCEBBD5", "target": "" },
-    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_LARAINA_000_011", "hash": "A92B31F887FC3C22", "target": "" },
-    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_LARAINA_000_012", "hash": "C7C4BE2F8C87E109", "target": "" }
+    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_SEQ_00", "hash": "4E3B4F429FE1216B", "target": "Laraina vuole rifornire gli scaffali di altri strumenti rituali." },
+    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_SEQ_01", "hash": "AE50F8B8D658DAB1", "target": "Laraina ti ha offerto altri tre gettoni in cambio di una serie completa di oggetti rituali. Sconfiggi i primordiali Garuda, Titan e Ifrit per ottenere i tre raccapriccianti trofei richiesti dalla responsabile degli acquisti.<br><br>※Puoi accedere a Howling Eye (Extreme), Navel (Extreme) e Bowl of Embers (Extreme) tramite il Duty Finder." },
+    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_SEQ_02", "hash": "3A26C5EAE4F4382F", "target": "Hai raccolto ancora una volta una serie completa di strumenti rituali per l'evocazione dei primordiali. Consegna i trofei a Laraina al Pedaggio del Redivivo, a Mor Dhona." },
+    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_SEQ_03", "hash": "31A8B66E4D546F28", "target": "Ottieni altri tre gettoni da Laraina in cambio della serie di oggetti rituali. Anche se vorresti procurartene altri da spendere nel negozio di Rowena, dovrai esercitare un po' di pazienza e aspettare che gli uomini bestia avviino nuovamente i riti di evocazione." },
+    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_TODO_00", "hash": "BE7A4EA51251A8F3", "target": "Ottenere un Vortex ritual focus in Howling Eye (Extreme)" },
+    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_TODO_01", "hash": "09C7847572CD6592", "target": "Ottenere un Crag ritual focus in Navel (Extreme)" },
+    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_TODO_02", "hash": "436F50DD6154CA14", "target": "Ottenere un Inferno ritual focus in Bowl of Embers (Extreme)" },
+    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_TODO_03", "hash": "8C04101295C44505", "target": "Consegnare gli oggetti rituali a Laraina al Pedaggio del Redivivo" },
+    {"gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_LARAINA_000_000", "hash": "19EBE6C1C9F45466", "target": "Ah, <if(gnum4,la tipica avventuriera,il tipico avventuriero)>, incapace di resistere al richiamo della nostra merce speciale! Posso supporre che ti interessi guadagnare altri Rowena's tokens?"},
+    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_LARAINA_000_001", "hash": "C3889FF1693ADF5D", "target": "Siamo stati sommersi di ordini da ricchi sciocchi che sono <italic(1)>disperatamente ansiosi<italic(0)> di decorare le loro dimore con raccapriccianti strumenti di evocazione dei primordiali. E tu, <if(gnum4,amica mia,amico mio)>, sei <if(gnum4,la nostra fornitrice più fidata,il nostro fornitore più fidato)>. Portami la merce in serie complete di tre e potremo fare affari." },
+    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_LARAINA_000_010", "hash": "E6B38E9A9BCEBBD5", "target": "Siamo stati sommersi di ordini per altri strumenti di evocazione dei primordiali. Portami la merce in serie complete di tre e potremo fare affari." },
+    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_LARAINA_000_011", "hash": "A92B31F887FC3C22", "target": "Non così in fretta, <if(gnum4,signorina,signore)>. Lascia che... Sì, il brivido lungo la schiena ne conferma l'autenticità. Ecco i tuoi gettoni, come promesso." },
+    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_LARAINA_000_012", "hash": "C7C4BE2F8C87E109", "target": "...Umpf. Rowena rimpiangerà il giorno in cui ha iniziato a trattarmi come una serva! Ora posso conquistare i suoi clienti più facoltosi, e che i Dodici mi prendano se non glieli porterò via tutti il giorno in cui aprirò il mio negozio!" }
   ]
 }

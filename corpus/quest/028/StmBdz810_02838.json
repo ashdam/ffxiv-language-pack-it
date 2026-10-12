@@ -2,17 +2,17 @@
   "conversation": "quest/028/StmBdz810_02838",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_SEQ_00", "hash": "4A24AB0CD754BBEE", "target": "" },
-    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_TODO_00", "hash": "17C136276C0524C5", "target": "" },
-    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_TODO_01", "hash": "F73760BAE0CCA1DB", "target": "" },
-    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_WEIDHERI_000_000", "hash": "5546BC018420D9BB", "target": "" },
-    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_WEIDHERI_000_001", "hash": "230EF7CE6C58FE2A", "target": "" },
-    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_WEIDHERI_000_002", "hash": "AD7673888D39BA22", "target": "" },
-    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_WEIDHERI_000_003", "hash": "1FBF9F7BFBC72F81", "target": "" },
-    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_WEIDHERI_000_010", "hash": "1A81F71182889B57", "target": "" },
-    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_WEIDHERI_000_011", "hash": "33E5F81B2585B01D", "target": "" },
-    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_WEIDHERI_000_012", "hash": "7912810BEEA5B252", "target": "" },
-    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_WEIDHERI_000_013", "hash": "6F870AF02BD26E9C", "target": "" },
-    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_WEIDHERI_000_014", "hash": "EBD16F74B7297425", "target": "" }
+    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_SEQ_00", "hash": "4A24AB0CD754BBEE", "target": "Weidheri sta preparando una sorpresa." },
+    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_TODO_00", "hash": "17C136276C0524C5", "target": "Abbattere highwing chapuli e ottenere le loro zampe" },
+    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_TODO_01", "hash": "F73760BAE0CCA1DB", "target": "Consegnare le chapuli legs a Weidheri" },
+    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_WEIDHERI_000_000", "hash": "5546BC018420D9BB", "target": "Oh, ehi. Grazie ancora per avermi aiutato prima. In città dicono che sei <if(gnum4,un'avventuriera,un avventuriero)>, è vero? Sono in un piccolo guaio e probabilmente solo tu puoi aiutarmi." },
+    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_WEIDHERI_000_001", "hash": "230EF7CE6C58FE2A", "target": "Vedi, mi servono le zampe dei chapuli che saltellano fuori città: tre circa dovrebbero bastare. Ci andrei io stesso, ma mi schiaccerebbero al suolo più in fretta di un sabotender in una tempesta di sabbia." },
+    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_WEIDHERI_000_002", "hash": "AD7673888D39BA22", "target": "A che cosa mi servono? Dovrai aspettare e vedere." },
+    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_WEIDHERI_000_003", "hash": "1FBF9F7BFBC72F81", "target": "Non dovrai andare lontano per trovare i chapuli che saltellano là fuori. Se riesci a procurarmi tre delle loro zampe, sarà più che sufficiente." },
+    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_WEIDHERI_000_010", "hash": "1A81F71182889B57", "target": "I chapuli ti hanno dato problemi?" },
+    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_WEIDHERI_000_011", "hash": "33E5F81B2585B01D", "target": "Sono belle carnose. Sembra che tu abbia trovato un gruppo bello vivace. Sì, saranno ottime per uno stufato. È una mia specialità: un bel brodo piccante con pezzi di carne tanto teneri che si sciolgono in bocca. Le zampe di chapuli sono le migliori." },
+    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_WEIDHERI_000_012", "hash": "7912810BEEA5B252", "target": "I Garlean ci credevano selvaggi perché mangiavamo questa roba, ma ora che se ne sono andati, lo stufato di Ala Ghiri è tornato sul menù." },
+    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_WEIDHERI_000_013", "hash": "6F870AF02BD26E9C", "target": "Sono certo che per i soldati sarà una gradita novità rispetto al pane duro come pietra e alla carne salata a cui sono abituati." },
+    { "gameKey": "quest/028/StmBdz810_02838#TEXT_STMBDZ810_02838_WEIDHERI_000_014", "hash": "EBD16F74B7297425", "target": "E anche per te. Passa a prenderne una ciotola, prima o poi. Offro io." }
   ]
 }

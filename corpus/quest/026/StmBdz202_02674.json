@@ -2,15 +2,15 @@
   "conversation": "quest/026/StmBdz202_02674",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdz202_02674#TEXT_STMBDZ202_02674_SEQ_00", "hash": "A176CFA43BA366D2", "target": "" },
-    { "gameKey": "quest/026/StmBdz202_02674#TEXT_STMBDZ202_02674_TODO_00", "hash": "10CEB83852F74C9A", "target": "" },
-    { "gameKey": "quest/026/StmBdz202_02674#TEXT_STMBDZ202_02674_TODO_01", "hash": "DC80D05C9483B591", "target": "" },
-    { "gameKey": "quest/026/StmBdz202_02674#TEXT_STMBDZ202_02674_SHIHOJI_000_000", "hash": "17E52EFD6A4E6E4E", "target": "" },
-    { "gameKey": "quest/026/StmBdz202_02674#TEXT_STMBDZ202_02674_SHIHOJI_000_001", "hash": "2E6799D17ED654A8", "target": "" },
-    { "gameKey": "quest/026/StmBdz202_02674#TEXT_STMBDZ202_02674_SHIHOJI_000_002", "hash": "652D865B6C7C4039", "target": "" },
-    { "gameKey": "quest/026/StmBdz202_02674#TEXT_STMBDZ202_02674_SHIHOJI_000_010", "hash": "19665566D1B2DF7B", "target": "" },
-    { "gameKey": "quest/026/StmBdz202_02674#TEXT_STMBDZ202_02674_SHIHOJI_000_011", "hash": "238D5ADD33DC6218", "target": "" },
-    { "gameKey": "quest/026/StmBdz202_02674#TEXT_STMBDZ202_02674_SHIHOJI_000_012", "hash": "7B11D55DAB100216", "target": "" },
-    { "gameKey": "quest/026/StmBdz202_02674#TEXT_STMBDZ202_02674_SHIHOJI_000_013", "hash": "9FC697D4C9B469D9", "target": "" }
+    { "gameKey": "quest/026/StmBdz202_02674#TEXT_STMBDZ202_02674_SEQ_00", "hash": "A176CFA43BA366D2", "target": "Shihoji attira la tua attenzione." },
+    { "gameKey": "quest/026/StmBdz202_02674#TEXT_STMBDZ202_02674_TODO_00", "hash": "10CEB83852F74C9A", "target": "Ottenere i Flying Shark Liver dai Flying Shark" },
+    { "gameKey": "quest/026/StmBdz202_02674#TEXT_STMBDZ202_02674_TODO_01", "hash": "DC80D05C9483B591", "target": "Consegnare i Flying Shark Liver a Shihoji" },
+    { "gameKey": "quest/026/StmBdz202_02674#TEXT_STMBDZ202_02674_SHIHOJI_000_000", "hash": "17E52EFD6A4E6E4E", "target": "<if(gnum4,Signora,Signore)>? <italic(1)><if(gnum4,Signora,Signore)><italic(0)>! Potresti portarmi tre Flying Shark Liver? Puoi trovarli all'estremità settentrionale di quest'isola." },
+    { "gameKey": "quest/026/StmBdz202_02674#TEXT_STMBDZ202_02674_SHIHOJI_000_001", "hash": "2E6799D17ED654A8", "target": "Andrei di persona, ma purtroppo con la vecchiaia sono diventato troppo debole per cacciare qualcosa di tanto feroce. Detto questo, sarai naturalmente <if(gnum4,ricompensata,ricompensato)> per il tuo aiuto." },
+    { "gameKey": "quest/026/StmBdz202_02674#TEXT_STMBDZ202_02674_SHIHOJI_000_002", "hash": "652D865B6C7C4039", "target": "Ti prego, portami i fegati di tre Flying Shark. Dovresti trovarli a nord di qui." },
+    { "gameKey": "quest/026/StmBdz202_02674#TEXT_STMBDZ202_02674_SHIHOJI_000_010", "hash": "19665566D1B2DF7B", "target": "Mi hai portato i fegati?" },
+    { "gameKey": "quest/026/StmBdz202_02674#TEXT_STMBDZ202_02674_SHIHOJI_000_011", "hash": "238D5ADD33DC6218", "target": "Eccellente! Grazie, <if(gnum4,signora,signore)>. Finalmente potrò prepararmi un po' di olio di fegato!" },
+    { "gameKey": "quest/026/StmBdz202_02674#TEXT_STMBDZ202_02674_SHIHOJI_000_012", "hash": "7B11D55DAB100216", "target": "Mi aiuterà a mantenere la vista acuta. In fondo, gli occhi sono la mia risorsa più preziosa. Con la mia vista da falco riesco a vedere tutto, perfino le facce piangenti di quei soldati senza spina dorsale del bakufu al Prezzo del Rubino. Ahahah!" },
+    { "gameKey": "quest/026/StmBdz202_02674#TEXT_STMBDZ202_02674_SHIHOJI_000_013", "hash": "9FC697D4C9B469D9", "target": "Non posso più combattere, ma per i prossimi vent'anni intendo guadagnarmi da vivere nella Confederazione facendo la vedetta!" }
   ]
 }

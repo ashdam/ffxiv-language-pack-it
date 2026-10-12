@@ -2,18 +2,18 @@
   "conversation": "quest/027/StmBdz618_02796",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_SEQ_00", "hash": "8EB1915E0DA195DE", "target": "" },
-    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_TODO_00", "hash": "C82BC19887878783", "target": "" },
-    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_TODO_01", "hash": "66058EADA539F95E", "target": "" },
-    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_000", "hash": "055C7CAAF2E04933", "target": "" },
-    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_001", "hash": "426321B705AB3BBC", "target": "" },
-    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_002", "hash": "EEA18608613FBA4F", "target": "" },
-    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_003", "hash": "7E1E97C56D0D867D", "target": "" },
-    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_004", "hash": "E365F095A0B7053C", "target": "" },
-    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_POPMESSAGE_100_005", "hash": "50F00C68BEFC0FF1", "target": "" },
-    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_010", "hash": "76347948FC176634", "target": "" },
-    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_011", "hash": "564366A2B9392A72", "target": "" },
-    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_012", "hash": "F8BC92CE79B6301C", "target": "" },
-    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_013", "hash": "66C644B99DA48813", "target": "" }
+    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_SEQ_00", "hash": "8EB1915E0DA195DE", "target": "Bujir sapeva che saresti <if(gnum4,arrivata,arrivato)>." },
+    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_TODO_00", "hash": "C82BC19887878783", "target": "Esaminare le Uyagir Caves e abbattere tutti i nemici che compaiono" },
+    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_TODO_01", "hash": "66058EADA539F95E", "target": "Fare rapporto a Bujir" },
+    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_000", "hash": "055C7CAAF2E04933", "target": "<if(gnum4,Benvenuta,Benvenuto)>, <if(gnum4,avventuriera,avventuriero)>. Ibakha mi ha detto che sareste <if(gnum4,venuta,venuto)>." },
+    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_001", "hash": "426321B705AB3BBC", "target": "Vede gli eventi molto prima che accadano." },
+    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_002", "hash": "EEA18608613FBA4F", "target": "Tuttavia, non ha visto soltanto voi. No, ha previsto anche una grande minaccia." },
+    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_003", "hash": "7E1E97C56D0D867D", "target": "La vera natura di questa minaccia non è ancora chiara, ma sappiamo che si nasconde nelle Uyagir Caves. Vi prego di indagare per noi." },
+    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_004", "hash": "E365F095A0B7053C", "target": "La vera natura di questa minaccia non è ancora chiara, ma sappiamo che si nasconde nelle Uyagir Caves. Vi prego di indagare per noi." },
+    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_POPMESSAGE_100_005", "hash": "50F00C68BEFC0FF1", "target": "Sei sotto attacco!" },
+    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_010", "hash": "76347948FC176634", "target": "Vi prego, ditemi che cosa avete trovato." },
+    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_011", "hash": "564366A2B9392A72", "target": "Un bird of prophecy? Devo ringraziarvi per averlo abbattuto. Quella caverna contiene i minerali che usiamo per creare pigmenti." },
+    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_012", "hash": "F8BC92CE79B6301C", "target": "Senza quei minerali, non potremmo dipingere sulle pareti della nostra caverna immagini che mostrano il pericolo di cedere all'avidità. Lo facciamo a ogni luna piena perché le generazioni future ereditino i nostri valori." },
+    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_013", "hash": "66C644B99DA48813", "target": "Vi ringrazio di cuore per tutto il vostro aiuto. Vi dobbiamo molto." }
   ]
 }

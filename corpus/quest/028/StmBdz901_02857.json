@@ -2,16 +2,16 @@
   "conversation": "quest/028/StmBdz901_02857",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_SEQ_00", "hash": "F4951635E909C5BD", "target": "" },
-    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_TODO_00", "hash": "F0D25856B8D115D4", "target": "" },
-    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_TODO_01", "hash": "DC560ADC6D63F697", "target": "" },
-    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_000_000", "hash": "1C7858FC3AC20EEB", "target": "" },
-    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_000_001", "hash": "B928E711E9DDD08A", "target": "" },
-    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_100_001", "hash": "A08F6A869E958606", "target": "" },
-    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_000_002", "hash": "A6241436717DC807", "target": "" },
-    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_000_010", "hash": "05BD5353CC0AB5BB", "target": "" },
-    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_000_011", "hash": "317A2797A2139189", "target": "" },
-    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_000_012", "hash": "79168634537A40F3", "target": "" },
-    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_000_013", "hash": "9D1C9BBB3371F85B", "target": "" }
+    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_SEQ_00", "hash": "F4951635E909C5BD", "target": "Qualcosa tormenta Raganher da un po' di tempo." },
+    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_TODO_00", "hash": "F0D25856B8D115D4", "target": "Esaminare i luoghi indicati e uccidere i Plague Wamouracampa che compaiono" },
+    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_TODO_01", "hash": "DC560ADC6D63F697", "target": "Parlare con Raganher" },
+    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_000_000", "hash": "1C7858FC3AC20EEB", "target": "Oh, sei fra quelli che vanno all'avventura. Se cerchi lavoro, arrivi al momento giusto." },
+    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_000_001", "hash": "B928E711E9DDD08A", "target": "Hai visto insetti in giro? Grossi? Abbiamo un'infestazione di Wamouracampa, e quelle maledette bestie si riproducono più in fretta dei conigli in calore." },
+    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_100_001", "hash": "A08F6A869E958606", "target": "Potresti occupartene? Di solito si nascondono fra i rovi." },
+    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_000_002", "hash": "A6241436717DC807", "target": "Ci faresti un gran favore a liberarci di quelle maledette Wamouracampa. Di solito si nascondono fra i rovi." },
+    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_000_010", "hash": "05BD5353CC0AB5BB", "target": "Le hai prese tutte? Che tu sia <if(gnum4,benedetta,benedetto)>, <if(gnum4,signorina,signore)>. Forse ora riusciremo finalmente a coltivare qualcosa su questo pezzo di terra sterile." },
+    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_000_011", "hash": "317A2797A2139189", "target": "È già abbastanza dura quassù in montagna, con i venti freddi che soffiano tutto l'anno e uccidono qualsiasi cosa osi spuntare dalla terra. Aggiungi quei maledetti insetti e il disastro è assicurato." },
+    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_000_012", "hash": "79168634537A40F3", "target": "Non che ci sia rimasta molta gente a coltivare la terra, comunque. Con i Garleani che si prendono chiunque sappia sollevare una zappa o scavare una buca, presto non resterà nessuno." },
+    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_000_013", "hash": "9D1C9BBB3371F85B", "target": "Ma non preoccuparti, <if(gnum4,ragazza,ragazzo)>. Se queste montagne non ci hanno ucciso in tutti questi anni, penso che non ci riuscirà nulla." }
   ]
 }

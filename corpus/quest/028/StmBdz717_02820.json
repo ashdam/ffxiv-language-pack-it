@@ -2,16 +2,16 @@
   "conversation": "quest/028/StmBdz717_02820",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_SEQ_00", "hash": "F4CE658907597F1E", "target": "" },
-    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_TODO_00", "hash": "14CB9ADBDBF3BBD7", "target": "" },
-    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_TODO_01", "hash": "C65470A4C15150B1", "target": "" },
-    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_001", "hash": "DE7A9FD56C62DEB5", "target": "" },
-    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_002", "hash": "0AC7B6DB4A831282", "target": "" },
-    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_003", "hash": "1A35A80B93B82DA9", "target": "" },
-    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_004", "hash": "2DCCDA9F55F37182", "target": "" },
-    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_005", "hash": "A317E24A5511FC39", "target": "" },
-    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_010", "hash": "387AAFA16D37A64A", "target": "" },
-    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_011", "hash": "7FAA5532D010A82C", "target": "" },
-    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_014", "hash": "B47F7BF05D021BE6", "target": "" }
+    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_SEQ_00", "hash": "F4CE658907597F1E", "target": "M'linhbo si trova tra l'incudine e il martello." },
+    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_TODO_00", "hash": "14CB9ADBDBF3BBD7", "target": "Abbattere highland dhara, poi sconfiggere il gold dust dhara quando compare" },
+    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_TODO_01", "hash": "C65470A4C15150B1", "target": "Fare rapporto a M'linhbo" },
+    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_001", "hash": "DE7A9FD56C62DEB5", "target": "Ma guarda! Sei <if(gnum4,l'avventuriera,l'avventuriero)> di Castellum Velodyna, vero? Hai dato proprio spettacolo, laggiù. Sono certa che te lo dicano sempre, ma una persona con le tue doti ci farebbe davvero comodo, in questo momento." },
+    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_002", "hash": "0AC7B6DB4A831282", "target": "A sud di qui sono comparsi dei dhara e ci stanno dando un bel po' di problemi." },
+    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_003", "hash": "1A35A80B93B82DA9", "target": "Facciamo quel che possiamo per tenerli a bada, ma ogni tanto incontriamo un'enorme montagna di roccia ricoperta di polvere d'oro che ci fa scappare con la coda tra le gambe. Immagino che per te affrontare qualche dhara sia come schiacciare mosche." },
+    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_004", "hash": "2DCCDA9F55F37182", "target": "Se vai ad abbatterne un po', salterà fuori una di quelle mostruosità dorate. Buttarne giù anche una sola ci aiuterebbe molto a riconquistare i nostri territori di caccia." },
+    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_005", "hash": "A317E24A5511FC39", "target": "Continua a picchiare i dhara e quelle bestiole dorate compariranno di sicuro. Ma fa' attenzione: probabilmente saranno arrabbiate perché hai ucciso i loro simili." },
+    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_010", "hash": "387AAFA16D37A64A", "target": "Non serve spiegare. Ho visto tutto da qui. Hai fatto meraviglie, proprio come speravo." },
+    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_011", "hash": "7FAA5532D010A82C", "target": "Peccato che quelle cose probabilmente torneranno dopo un po'. Si dice che nascano dagli spiriti dei guerrieri caduti in battaglia." },
+    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_014", "hash": "B47F7BF05D021BE6", "target": "Personalmente, penso che c'entri l'etere di questi luoghi, ma prego comunque perché la guerra finisca. Stammi bene. Farò il tifo per te." }
   ]
 }

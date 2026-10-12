@@ -2,19 +2,19 @@
   "conversation": "quest/027/StmBdz619_02797",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_SEQ_00", "hash": "2C1AA41D61DCDBC7", "target": "" },
-    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_TODO_00", "hash": "92DB1E4A3FBCF5BA", "target": "" },
-    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_TODO_01", "hash": "B07410333BA92F9F", "target": "" },
-    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_CAALUN_000_000", "hash": "36520CDB06708888", "target": "" },
-    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_CAALUN_000_001", "hash": "5701A15D0E3FD391", "target": "" },
-    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_CAALUN_000_002", "hash": "718EE23679C7202E", "target": "" },
-    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_CAALUN_000_003", "hash": "F0F0823850C96DAD", "target": "" },
-    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_CAALUN_000_004", "hash": "DC94E740BB72DBE9", "target": "" },
-    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_CAALUN_000_005", "hash": "9203A4C8EB974A28", "target": "" },
-    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_CAALUN_000_010", "hash": "6B11DA2FC9592CA7", "target": "" },
-    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_CAALUN_100_020", "hash": "E43B99120CD1F60D", "target": "" },
-    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_CAALUN_000_020", "hash": "926DD0A8C8D78D34", "target": "" },
-    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_CAALUN_000_021", "hash": "C8CE687DB1FBD581", "target": "" },
-    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_CAALUN_000_022", "hash": "A277E69669ED99EA", "target": "" }
+    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_SEQ_00", "hash": "2C1AA41D61DCDBC7", "target": "Caalun vorrebbe tramandare una tradizione a suo figlio." },
+    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_TODO_00", "hash": "92DB1E4A3FBCF5BA", "target": "Abbattere baras e ottenere le loro zanne" },
+    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_TODO_01", "hash": "B07410333BA92F9F", "target": "Consegnare le baras tusks a Caalun" },
+    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_CAALUN_000_000", "hash": "36520CDB06708888", "target": "Conosci per caso la Melodia di Ceol Aen? I nostri antenati, quelli che vivevano prima che gli dèi ci punissero, adoravano la musica." },
+    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_CAALUN_000_001", "hash": "5701A15D0E3FD391", "target": "Per tramandare la loro melodia preferita alle generazioni future, praticarono dei fori nelle rocce che coprivano le pianure di Ceol Aen. Ma il tempo non è stato clemente. Le rocce sono così erose che ormai nella zona non si sente altro che il vento." },
+    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_CAALUN_000_002", "hash": "718EE23679C7202E", "target": "Questo però non significa che sia andata completamente perduta. La melodia si tramanda ancora dai genitori ai figli. È tempo che lo faccia anch'io, ma di recente ho rotto il mio flauto." },
+    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_CAALUN_000_003", "hash": "F0F0823850C96DAD", "target": "All’inizio ho pensato di crearne uno nuovo, ma sarebbe stata troppa avidità da parte mia. Se solo avessi due zanne di baras..." },
+    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_CAALUN_000_004", "hash": "DC94E740BB72DBE9", "target": "Oh, di questo passo non potrò tramandare la melodia a mio figlio." },
+    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_CAALUN_000_005", "hash": "9203A4C8EB974A28", "target": "Se solo avessi due zanne di baras... Oh, di questo passo non potrò tramandare la melodia a mio figlio." },
+    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_CAALUN_000_010", "hash": "6B11DA2FC9592CA7", "target": "Oh, ciao di nuovo. Ancora non so come procurarmi due zanne di baras." },
+    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_CAALUN_100_020", "hash": "E43B99120CD1F60D", "target": "Le hai portate per me?" },
+    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_CAALUN_000_020", "hash": "926DD0A8C8D78D34", "target": "Grazie di cuore. Sei davvero troppo gentile. Ora posso fare in modo che la melodia venga tramandata al mio amato bambino." },
+    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_CAALUN_000_021", "hash": "C8CE687DB1FBD581", "target": "Ti prego di tornare tra qualche estate, quando mio figlio sarà alto quanto il ginocchio di un cavallo." },
+    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_CAALUN_000_022", "hash": "A277E69669ED99EA", "target": "Sono certa che vorrà ricambiarti il favore. Forse ti suonerà persino la melodia!" }
   ]
 }

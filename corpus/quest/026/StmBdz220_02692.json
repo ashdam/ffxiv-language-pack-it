@@ -2,18 +2,18 @@
   "conversation": "quest/026/StmBdz220_02692",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_SEQ_00", "hash": "2CED4BB4D626E2F0", "target": "" },
-    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_TODO_00", "hash": "9D0A5CF8251F6B14", "target": "" },
-    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_TODO_01", "hash": "ECE00FB4C723A3D5", "target": "" },
-    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_000", "hash": "65FF0AC37959ECF0", "target": "" },
-    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_001", "hash": "12DE6BABDBE37735", "target": "" },
-    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_002", "hash": "8098192A3DA1CA25", "target": "" },
-    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_003", "hash": "1A521182A4D31ED3", "target": "" },
-    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_100_003", "hash": "F96A1986CEFFC105", "target": "" },
-    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_004", "hash": "7DE514974E1666CF", "target": "" },
-    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_010", "hash": "EF47DC2C3BF068B8", "target": "" },
-    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_011", "hash": "3196278DBB40370F", "target": "" },
-    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_012", "hash": "D06FB5F944011EE2", "target": "" },
-    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_013", "hash": "D4BFADF6F9FADD19", "target": "" }
+    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_SEQ_00", "hash": "2CED4BB4D626E2F0", "target": "Kaioke sembra in preda all'agitazione." },
+    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_TODO_00", "hash": "9D0A5CF8251F6B14", "target": "Collocare il Rotting Fish nei luoghi indicati e uccidere gli Hungry Giant Coralshell che compaiono per ottenerne le zampe" },
+    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_TODO_01", "hash": "ECE00FB4C723A3D5", "target": "Consegnare le Giant Coralshell Leg a Kaioke" },
+    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_000", "hash": "65FF0AC37959ECF0", "target": "<if(gnum4,Signora,Signore)>! Posso supporre che tu venga dalla superficie? Mi dispiace chiedere un favore, soprattutto a chi ci fa visita come te, ma temo di non avere nessun altro a cui rivolgermi." },
+    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_001", "hash": "12DE6BABDBE37735", "target": "Vedi, un paio di volte all'anno organizziamo un banchetto per tutto il villaggio, al quale ognuno porta la propria specialità. Dato che mi è stata affidata l'organizzazione, i preparativi principali mi hanno lasciato poco tempo per raccogliere gli ingredienti necessari per il mio piatto!" },
+    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_002", "hash": "8098192A3DA1CA25", "target": "Quasi tutti hanno finito di preparare il proprio, ma io devo ancora cominciare! Il brodo richiede più tempo, quindi devo mettermi subito al lavoro. Per completarlo, però, mi servono le zampe di due Giant Coralshell." },
+    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_003", "hash": "1A521182A4D31ED3", "target": "Ti prego, potresti procurarmele?" },
+    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_100_003", "hash": "F96A1986CEFFC105", "target": "Li troverai sulla costa di Onokoro. Ecco, prendi questa esca. I Giant Coralshell sono creature schive, ma questo odore dovrebbe bastare a farli uscire dai loro nascondigli." },
+    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_004", "hash": "7DE514974E1666CF", "target": "Ti prego, portami le zampe di due Giant Coralshell. Nel frattempo, metterò una pentola sul fuoco e comincerò a preparare il brodo." },
+    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_010", "hash": "EF47DC2C3BF068B8", "target": "\\<annusa> \\<annusa> Ah, se non sbaglio, quello che indugia sui tuoi vestiti è il pungente odore dei granchi." },
+    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_011", "hash": "3196278DBB40370F", "target": "Ahah! Guarda quanto sono grandi queste zampe! Inoltre, la carne al loro interno sembra tenerissima e succulenta. Una volta aggiunte allo stufato e bollite, sarà tutto pronto da servire!" },
+    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_012", "hash": "D06FB5F944011EE2", "target": "A dire il vero, questi banchetti non servono soltanto a divertirsi. Anzi, c'è chi li considera una gara silenziosa per vedere chi prepara il cibo migliore. A chi porta il piatto più delizioso viene di solito concesso l'onore di organizzare il prossimo." },
+    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_013", "hash": "D4BFADF6F9FADD19", "target": "Grazie a te e a queste deliziose zampe che mi hai portato, la mia vittoria è praticamente certa!" }
   ]
 }

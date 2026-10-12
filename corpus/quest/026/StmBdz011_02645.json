@@ -2,19 +2,19 @@
   "conversation": "quest/026/StmBdz011_02645",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_SEQ_00", "hash": "13BC9D8730E2F0AC", "target": "" },
-    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_TODO_00", "hash": "8708B732484C9738", "target": "" },
-    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_TODO_01", "hash": "020A64A0F55DB7F5", "target": "" },
-    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_000", "hash": "EAEB7FC5520BCFC0", "target": "" },
-    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_001", "hash": "E937391B11CDB734", "target": "" },
-    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_002", "hash": "C1A16E1D082DC408", "target": "" },
-    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_003", "hash": "7F993D40961F2761", "target": "" },
-    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_004", "hash": "97EEC32421DA2730", "target": "" },
-    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_010", "hash": "3E6124F32296BABB", "target": "" },
-    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_020", "hash": "D20800D4537A7561", "target": "" },
-    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_030", "hash": "753324C64BD03A1A", "target": "" },
-    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_031", "hash": "DA3F84A7CAB26647", "target": "" },
-    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_032", "hash": "008C22A779DFE503", "target": "" },
-    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_033", "hash": "D6756BF24E9E19E8", "target": "" }
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_SEQ_00", "hash": "13BC9D8730E2F0AC", "target": "Ansger è preoccupato per le riserve d'acqua del villaggio." },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_TODO_00", "hash": "8708B732484C9738", "target": "Uccidere tre dust anila per i loro nuclei" },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_TODO_01", "hash": "020A64A0F55DB7F5", "target": "Consegnare gli anila cores ad Ansger" },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_000", "hash": "EAEB7FC5520BCFC0", "target": "<if([gnum11<12],<if([gnum11<4],Buonasera,Buongiorno)>,<if([gnum11<17],Buongiorno,Buonasera)>)>, <if(gnum4,ragazza,ragazzo)>. Sembri capace di cavartela in uno scontro. Ti andrebbe di darmi una mano?" },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_001", "hash": "E937391B11CDB734", "target": "Un tempo Ala Gannha era nota per la sua cava e per la pietra che produceva. Ma una serie di problemi ha posto fine a tutto questo. Uno dei problemi attuali riguarda le riserve d'acqua del posto." },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_002", "hash": "C1A16E1D082DC408", "target": "L'estrazione richiede enormi quantità d'acqua, che nel processo si sporca terribilmente. Se finisse nel bacino vicino al villaggio, perderemmo la nostra unica fonte di acqua potabile pulita." },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_003", "hash": "7F993D40961F2761", "target": "Però, se avessimo uno o due nuclei di anila, anzi, tre, potremmo purificare facilmente l'acqua." },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_004", "hash": "97EEC32421DA2730", "target": "Vorrei che uccidessi tre dust anila e mi portassi i loro nuclei. Dovresti trovarne a sud." },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_010", "hash": "3E6124F32296BABB", "target": "Vorrei che uccidessi tre dust anila e mi portassi i loro nuclei. Dovresti trovarne a sud." },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_020", "hash": "D20800D4537A7561", "target": "Sei <if(gnum4,riuscita,riuscito)> a ottenere tre nuclei?" },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_030", "hash": "753324C64BD03A1A", "target": "Magnifico! Ci aiuteranno a eliminare la polvere minerale dall'acqua che usiamo nella cava." },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_031", "hash": "DA3F84A7CAB26647", "target": "Prima dell'invasione imperiale, tutto il villaggio andava insieme a caccia di anila per raccoglierne i nuclei. Ora non abbiamo abbastanza persone, visto che metà di Ala Gannha è stata assorbita nell'esercito imperiale." },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_032", "hash": "008C22A779DFE503", "target": "Non che avremmo lavoro anche se ci fosse più gente. Garlemald usa solo metallo per i suoi edifici." },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_033", "hash": "D6756BF24E9E19E8", "target": "Comunque, lascia perdere. Grazie del tuo aiuto, <if(gnum4,ragazza,ragazzo)>. Lo apprezzo molto." }
   ]
 }

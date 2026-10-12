@@ -2,17 +2,17 @@
   "conversation": "quest/028/StmBdz910_02866",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_SEQ_00", "hash": "9317886178CFFA33", "target": "" },
-    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_TODO_00", "hash": "1E10532686AD8A71", "target": "" },
-    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_TODO_01", "hash": "3E2D9F4D55BF7065", "target": "" },
-    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_FRAGILEWOMAN02866_000_000", "hash": "933FADC24E5B6449", "target": "" },
-    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_FRAGILEWOMAN02866_000_001", "hash": "BEC42403FE219A6F", "target": "" },
-    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_FRAGILEWOMAN02866_000_002", "hash": "CDFEE091A583C706", "target": "" },
-    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_FRAGILEWOMAN02866_000_003", "hash": "6CCC504506AD0122", "target": "" },
-    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_FRAGILEWOMAN02866_000_010", "hash": "58BF6986BC6A601D", "target": "" },
-    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_FRAGILEWOMAN02866_000_020", "hash": "ACE1C9FB7F0C90F0", "target": "" },
-    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_FRAGILEWOMAN02866_000_021", "hash": "827AED70CE9640AB", "target": "" },
-    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_FRAGILEWOMAN02866_000_022", "hash": "A11E5D1F8D5E49AB", "target": "" },
-    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_FRAGILEWOMAN02866_000_023", "hash": "4ADA0D57616A4F5C", "target": "" }
+    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_SEQ_00", "hash": "9317886178CFFA33", "target": "La delicata fanciulla vuole che tu raccolga dei fiori." },
+    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_TODO_00", "hash": "1E10532686AD8A71", "target": "Raccogliere mazzi di Rhalgr's gold" },
+    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_TODO_01", "hash": "3E2D9F4D55BF7065", "target": "Consegnare i mazzi di Rhalgr's gold alla delicata fanciulla" },
+    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_FRAGILEWOMAN02866_000_000", "hash": "933FADC24E5B6449", "target": "Fai parte dell'esercito dell'Alleanza, vero? Sei <if(gnum4,una soldatessa,un soldato)>? Ti sarei tanto grata se potessi raccogliere dei fiori speciali per me." },
+    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_FRAGILEWOMAN02866_000_001", "hash": "BEC42403FE219A6F", "target": "Ho perso una cara amica nei combattimenti contro l'Impero e vorrei deporre un mazzo di fiori in sua memoria. È solo che nei campi dove crescono vagano creature che, per dirla senza giri di parole, mi staccherebbero la mia graziosa testolina." },
+    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_FRAGILEWOMAN02866_000_002", "hash": "CDFEE091A583C706", "target": "Se vuoi affrontare queste mostruosità, ti chiedo di cercare i fiori chiamati Rhalgr's gold e portarmene circa tre manciate. Prova lungo il Thirstless Path, molto a nord di Specula Imperatoris." },
+    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_FRAGILEWOMAN02866_000_003", "hash": "6CCC504506AD0122", "target": "Ho sentito che i Rhalgr's gold fioriscono a nord di Specula Imperatoris, lungo il Thirstless Path. Ho anche sentito che quei campi ospitano bestioni alti dodici fulm, con l'indole di un jhammel maschio punto dalle api..." },
+    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_FRAGILEWOMAN02866_000_010", "hash": "58BF6986BC6A601D", "target": "Hai trovato i fiori che ti ho chiesto?" },
+    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_FRAGILEWOMAN02866_000_020", "hash": "ACE1C9FB7F0C90F0", "target": "Sono belli, vero? Si dice che crescano soltanto nei luoghi colpiti dal fulmine del Distruttore: rari e preziosi, proprio come lei." },
+    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_FRAGILEWOMAN02866_000_021", "hash": "827AED70CE9640AB", "target": "Scusa, io... non sopporto di pronunciare il suo nome. Non credeva negli dei e non conosco i costumi della sua terra. Ma voglio comunque onorarne la memoria." },
+    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_FRAGILEWOMAN02866_000_022", "hash": "A11E5D1F8D5E49AB", "target": "Prenderò questo mazzo e lo deporrò nel posto dove ci incontravamo spesso a Specula Imperatoris. Era lì che lavoravo... e dove lei era di stanza." },
+    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_FRAGILEWOMAN02866_000_023", "hash": "4ADA0D57616A4F5C", "target": "Grazie per la tua gentilezza. Le parlerò di te nelle mie preghiere." }
   ]
 }

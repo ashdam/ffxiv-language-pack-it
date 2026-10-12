@@ -4807,7 +4807,7 @@
     { "gameKey": "LogMessage#5388", "hash": "7D3E98E4ACFC844C", "target": "" },
     { "gameKey": "LogMessage#5389", "hash": "891042ACA96B5357", "target": "Hai recuperato un leather collar dalla bestia da guardia caduta!" },
     { "gameKey": "LogMessage#5390", "hash": "989FDEE6A31C97F9", "target": "Il sarcofago mhachi sembra sigillato dalla magia..." },
-    { "gameKey": "LogMessage#5391", "hash": "89F99A418E96C2E2", "target": "Stai subendo un attacco!" },
+    {"gameKey": "LogMessage#5391", "hash": "89F99A418E96C2E2", "target": "Sei sotto attacco!"},
     { "gameKey": "LogMessage#5392", "hash": "0E2A48310A6A08A8", "target": "<sheet(ENpcResident,lnum1,0)> <switch(lnum2,accetta la tua consegna,accetta con gioia la tua consegna)>." },
     { "gameKey": "LogMessage#5393", "hash": "EF6C0C9DDAAA38F0", "target": "Iola ora ti considera «<switch(lnum1,Iron Bellows' Lifeline,Iron Bellows' Hidden Gem,Iron Bellows' Ace in the Hole,Iron Bellows' Greatest Weapon)>»." },
     { "gameKey": "LogMessage#5394", "hash": "63880A37713E1CAC", "target": "Thiuna ora ti considera “<switch(lnum1,Sostegno dei Ricordi Cari,<if(gnum4,Restauratrice,Restauratore)> dei Ricordi Cari,Custode dei Ricordi Cari,Salvezza dei Ricordi Cari)>”." },

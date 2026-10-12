@@ -2,19 +2,19 @@
   "conversation": "quest/026/StmBdz016_02650",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_SEQ_00", "hash": "03B8C41DFA0EB8BB", "target": "" },
-    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_TODO_00", "hash": "9E7DB7BDDC824122", "target": "" },
-    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_TODO_01", "hash": "B7778EECD8494550", "target": "" },
-    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_TODO_02", "hash": "52D121B8426DA713", "target": "" },
-    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_000", "hash": "92CA0F1331CFA134", "target": "" },
-    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_001", "hash": "29023A312EF6B35F", "target": "" },
-    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_002", "hash": "3C64AA9888022CAF", "target": "" },
-    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_003", "hash": "4AC7DA2C1A2D643A", "target": "" },
-    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_010", "hash": "6F58FE7D73033D7A", "target": "" },
-    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_011", "hash": "65A359AAEDC7F2F6", "target": "" },
-    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_012", "hash": "15CE0DBAFDF37044", "target": "" },
-    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_020", "hash": "7E69DA87F1C6F5D7", "target": "" },
-    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_040", "hash": "9CA2A0E63DD07FA6", "target": "" },
-    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_041", "hash": "F68C72DE63CD472F", "target": "" }
+    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_SEQ_00", "hash": "03B8C41DFA0EB8BB", "target": "Questo Hyur affamato non sa da dove arriverà il suo prossimo pasto." },
+    {"gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_TODO_00", "hash": "9E7DB7BDDC824122", "target": "Parlare con lo Hyur affamato"},
+    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_TODO_01", "hash": "B7778EECD8494550", "target": "Collocare le smoke bombs nei punti indicati e disperdere i midge cloud" },
+    {"gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_TODO_02", "hash": "52D121B8426DA713", "target": "Fare rapporto allo Hyur affamato"},
+    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_000", "hash": "92CA0F1331CFA134", "target": "<if([gnum11<12],<if([gnum11<4],Buonasera,Buongiorno)>,<if([gnum11<17],Buon pomeriggio,Buonasera)>)>. Ti va di aiutarmi con una commissione?" },
+    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_001", "hash": "29023A312EF6B35F", "target": "Sono venuto da Ala Gannha per comprare cibo, ma mi hanno appena detto che nemmeno qui c'è stato raccolto." },
+    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_002", "hash": "3C64AA9888022CAF", "target": "Ho pensato di vedere quali piante selvatiche potessi raccogliere. Però la zona che avevo in mente ospita uno sciame di moscerini." },
+    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_003", "hash": "4AC7DA2C1A2D643A", "target": "Se pensi di farcela, vorrei chiederti di occuparti di questi insetti. Raggiungimi ad Ala Gannha, se accetti." },
+    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_010", "hash": "6F58FE7D73033D7A", "target": "Grazie di essere <if(gnum4,venuta,venuto)>." },
+    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_011", "hash": "65A359AAEDC7F2F6", "target": "Come senza dubbio sai, gli insetti non amano il fumo. Ho deciso di creare bombe fumogene per scacciarli usando la polvere da sparo che adoperiamo nella cava." },
+    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_012", "hash": "15CE0DBAFDF37044", "target": "Usale per occuparti di quelle creature. Le troverai a ovest del villaggio." },
+    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_020", "hash": "7E69DA87F1C6F5D7", "target": "Usa le smoke bombs per occuparti di quelle creature. Le troverai a ovest del villaggio." },
+    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_040", "hash": "9CA2A0E63DD07FA6", "target": "Hai finito? Fantastico." },
+    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_041", "hash": "F68C72DE63CD472F", "target": "Ecco il compenso per il tuo aiuto. Ora vado a raccogliere le piante che riesco a trovare." }
   ]
 }

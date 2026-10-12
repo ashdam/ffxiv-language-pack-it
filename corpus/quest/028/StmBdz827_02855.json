@@ -2,19 +2,19 @@
   "conversation": "quest/028/StmBdz827_02855",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_SEQ_00", "hash": "95BFE67B2A5A0053", "target": "" },
-    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_TODO_00", "hash": "E7F214F1DA2B83E5", "target": "" },
-    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_TODO_01", "hash": "87F5980FC9AA7DE0", "target": "" },
-    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_TODO_02", "hash": "A23DF332CC03B54A", "target": "" },
-    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_OGGERY_000_000", "hash": "51120502FC3391DC", "target": "" },
-    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_OGGERY_000_001", "hash": "7C0C8C73B2A74989", "target": "" },
-    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_OGGERY_000_002", "hash": "A515D659D7A596FE", "target": "" },
-    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_OGGERY_000_003", "hash": "FEB9234AB0851AF9", "target": "" },
-    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_OGGERY_000_004", "hash": "AD1C7C4358E443C4", "target": "" },
-    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_OGGERY_000_005", "hash": "59B309121195D607", "target": "" },
-    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_OGGERY_000_010", "hash": "3070ABAF66371306", "target": "" },
-    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_OGGERY_000_020", "hash": "6089D67A23879466", "target": "" },
-    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_OGGERY_000_021", "hash": "487A13FBA67DE865", "target": "" },
-    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_OGGERY_000_022", "hash": "3AB5721F6AB2FE1C", "target": "" }
+    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_SEQ_00", "hash": "95BFE67B2A5A0053", "target": "Oggery ha bisogno di una mano forte per salvare gli alberi." },
+    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_TODO_00", "hash": "E7F214F1DA2B83E5", "target": "Cercare intorno alla pozza d'acqua e ottenere i Mossling Clump dai Mossified Mossling" },
+    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_TODO_01", "hash": "87F5980FC9AA7DE0", "target": "Seppellire i Mossling Clump fra le radici marce" },
+    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_TODO_02", "hash": "A23DF332CC03B54A", "target": "Tornare da Oggery" },
+    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_OGGERY_000_000", "hash": "51120502FC3391DC", "target": "Be', quelle sembrano proprio mani belle forti. Non hai paura di sporcarle, vero?" },
+    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_OGGERY_000_001", "hash": "7C0C8C73B2A74989", "target": "Te lo chiedo solo perché gli alberi qui avrebbero bisogno di cure. Le radici hanno cominciato a marcire e, se non facciamo nulla, rischiamo di perdere l'unica vegetazione di grandi dimensioni nel raggio di malm." },
+    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_OGGERY_000_002", "hash": "A515D659D7A596FE", "target": "C'è però un modo per salvarli. Devi andare alla pozza d'acqua a sud-ovest e fare a pezzi un paio di Mossling." },
+    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_OGGERY_000_003", "hash": "FEB9234AB0851AF9", "target": "Raccogli ciò che ne resta e seppellisci i ciuffi fra le radici degli alberi che crescono vicino all'acqua. Dovrebbe funzionare." },
+    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_OGGERY_000_004", "hash": "AD1C7C4358E443C4", "target": "Troverai i Mossling nella pozza d'acqua a sud-ovest. Quei piccoli esseri sono sorprendentemente aggressivi, quindi non dovresti avere problemi ad attirare la loro attenzione." },
+    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_OGGERY_000_005", "hash": "59B309121195D607", "target": "Una volta ridotti a ciuffi di muschio, seppellisci i resti fra le radici degli alberi vicini. È tutto qui." },
+    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_OGGERY_000_010", "hash": "3070ABAF66371306", "target": "Hai dei ciuffi di muschio? Cerca gli alberi con le radici marce vicino alla pozza d'acqua e mescola quei resti muschiosi alla terra alla base dei tronchi." },
+    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_OGGERY_000_020", "hash": "6089D67A23879466", "target": "Tutto finito, allora?" },
+    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_OGGERY_000_021", "hash": "487A13FBA67DE865", "target": "Vedi, c'è una certa muffa che attacca le radici degli alberi, e qualche proprietà dei Mossling riesce a ucciderla. Non so bene come o perché funzioni, ma gli alberi sono abbastanza resistenti da riprendersi dai danni." },
+    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_OGGERY_000_022", "hash": "3AB5721F6AB2FE1C", "target": "Grazie. Con tutti gli altri problemi che assediano questa terra, è difficile trovare qualcuno che si preoccupi di qualche albero stentato. Ma penso che potrebbero insegnare a tutti noi qualcosa sulla sopravvivenza..." }
   ]
 }

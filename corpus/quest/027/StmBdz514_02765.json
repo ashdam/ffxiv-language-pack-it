@@ -2,17 +2,17 @@
   "conversation": "quest/027/StmBdz514_02765",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_SEQ_00", "hash": "1677C94ED171FBB5", "target": "" },
-    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_TODO_00", "hash": "B8E243CED2CD412D", "target": "" },
-    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_TODO_01", "hash": "27AABE61B94D7245", "target": "" },
-    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_000", "hash": "6DBD4D94999A2642", "target": "" },
-    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_001", "hash": "7A3B371B918B2B71", "target": "" },
-    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_002", "hash": "C9FB3FB7546192EE", "target": "" },
-    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_003", "hash": "06CD89F9152C8E2A", "target": "" },
-    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_004", "hash": "9C3ACED196F2E0E4", "target": "" },
-    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_010", "hash": "943D89A147A7A49F", "target": "" },
-    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_011", "hash": "E6DAB4B180E3A757", "target": "" },
-    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_012", "hash": "5BC2E19BA3C4C008", "target": "" },
-    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_013", "hash": "9BDD05C42F7A3244", "target": "" }
+    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_SEQ_00", "hash": "1677C94ED171FBB5", "target": "Buqatai ha messo gli occhi su ossa ben sorvegliate." },
+    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_TODO_00", "hash": "B8E243CED2CD412D", "target": "Ottenere quattro beast bone" },
+    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_TODO_01", "hash": "27AABE61B94D7245", "target": "Consegnare le beast bone a Buqatai" },
+    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_000", "hash": "6DBD4D94999A2642", "target": "Per caso ti dirigi verso quella montagna a ovest?" },
+    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_001", "hash": "7A3B371B918B2B71", "target": "Lassù ci sono ossa che devo raccogliere, ma non riesco a superare tutti i muu shuwuu che vi nidificano." },
+    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_002", "hash": "C9FB3FB7546192EE", "target": "Non voglio far loro del male, ma credono che stia rubando le uova. L'ultima volta sono riuscito a salvarmi a malapena." },
+    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_003", "hash": "06CD89F9152C8E2A", "target": "Se te la senti, vorrei che raccogliessi quattro ossa per me. Temo che, tornando lassù, non sarei fortunato come la volta scorsa." },
+    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_004", "hash": "9C3ACED196F2E0E4", "target": "Va' sulla montagna a ovest e raccogli quattro ossa per me." },
+    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_010", "hash": "943D89A147A7A49F", "target": "Sono felice che non ti abbiano <if([gnum4==0],mangiato,mangiata)>! Hai trovato le ossa?" },
+    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_011", "hash": "E6DAB4B180E3A757", "target": "Ah, sì, questo più spesso apparteneva a uno steppe dzo. Questo è l'osso della caviglia di un gulo gulo. Oh, un osso di baras!" },
+    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_012", "hash": "5BC2E19BA3C4C008", "target": "Grazie. Ne farò dei dadi per la divinazione." },
+    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_013", "hash": "9BDD05C42F7A3244", "target": "Sono tanto impegnato nel lavoro che non ho tempo di visitare l'udgan. Sarà un metodo primitivo, ma con i dadi posso continuare a consultare gli dèi antichi." }
   ]
 }
