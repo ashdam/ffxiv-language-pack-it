@@ -1,10 +1,10 @@
 {
   "gameVersion": "2026.09.15.0000.0000",
-  "translated": 195193,
-  "total": 528223,
-  "percent": 37,
-  "chars": 48837426,
-  "unresolved": 5455,
+  "translated": 202126,
+  "total": 528700,
+  "percent": 38.2,
+  "chars": 48864412,
+  "unresolved": 5504,
   "groups": [
     {
       "expansion": "A Realm Reborn",
@@ -39,7 +39,7 @@
     {
       "expansion": "A Realm Reborn",
       "content": "Normal Raids, Alliance Raids & Trials",
-      "translated": 160,
+      "translated": 1906,
       "total": 1906
     },
     {
@@ -129,7 +129,7 @@
     {
       "expansion": "Stormblood",
       "content": "Side quests — yellow",
-      "translated": 0,
+      "translated": 5187,
       "total": 5187
     },
     {
@@ -406,7 +406,7 @@
       "expansion": null,
       "content": "Ambient text: NPC chatter, shouts, balloons, duties and guides",
       "translated": 42900,
-      "total": 169027
+      "total": 169504
     }
   ],
   "excludedFromLocalization": [
@@ -420,7 +420,7 @@
       "expansion": null,
       "content": "No English to translate",
       "translated": 20,
-      "total": 1012
+      "total": 1015
     }
   ],
   "futureLocalization": [
