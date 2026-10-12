@@ -2,18 +2,18 @@
   "conversation": "quest/028/StmBdz811_02839",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_SEQ_00", "hash": "30E5E4B241D4E61D", "target": "" },
-    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_TODO_00", "hash": "8BA028D06F0F7FBE", "target": "" },
-    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_TODO_01", "hash": "224B98D9D773403E", "target": "" },
-    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_EMORY_000_000", "hash": "77FBFAD758E11F31", "target": "" },
-    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_EMORY_000_001", "hash": "F70CFE053EB3AA21", "target": "" },
-    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_EMORY_000_002", "hash": "22A7A0C4F166FD8E", "target": "" },
-    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_EMORY_000_003", "hash": "F623FA1177167EC2", "target": "" },
-    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_EMORY_000_004", "hash": "0584495EF8A8F20C", "target": "" },
-    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_EMORY_000_005", "hash": "E3FECC72ACBDD05E", "target": "" },
-    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_EMORY_000_010", "hash": "A4A42BE1B49CE201", "target": "" },
-    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_EMORY_000_011", "hash": "9CFD1AB13542E2B3", "target": "" },
-    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_EMORY_000_012", "hash": "70DE1DF1E151FCBD", "target": "" },
-    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_EMORY_000_013", "hash": "86F31D230BE963FF", "target": "" }
+    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_SEQ_00", "hash": "30E5E4B241D4E61D", "target": "Emory si sta preparando per una nuova impresa commerciale." },
+    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_TODO_00", "hash": "8BA028D06F0F7FBE", "target": "Esaminare il luogo indicato e abbattere tutti i migrating crag claw che compaiono" },
+    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_TODO_01", "hash": "224B98D9D773403E", "target": "Fare rapporto a Emory" },
+    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_EMORY_000_000", "hash": "77FBFAD758E11F31", "target": "Ehi, sei <if(gnum4,quell'avventuriera,quell'avventuriero)> di cui parlano tutti. La persona che ha aiutato la Resistenza. Mi farebbero comodo delle braccia forti come le tue, se ti va, naturalmente." },
+    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_EMORY_000_001", "hash": "F70CFE053EB3AA21", "target": "Da quando ricordo, porto avanti l'attività di mio padre qui ad Ala Ghiri. Ma non vendevo a quei bastardi imperiali. Non vado troppo fiero delle cose che ho dovuto fare, ma ce la siamo cavata." },
+    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_EMORY_000_002", "hash": "22A7A0C4F166FD8E", "target": "Ora che se ne sono andati, possiamo tornare a fare un lavoro come si deve. E non solo: posso finalmente darmi all'agricoltura, come ho sempre sognato." },
+    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_EMORY_000_003", "hash": "F623FA1177167EC2", "target": "L'unico problema è che l'appezzamento a cui pensavo è infestato dai crag. Ti ricompenserò bene, se andrai a liberarlo." },
+    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_EMORY_000_004", "hash": "0584495EF8A8F20C", "target": "Ecco, te lo segno sulla mappa. Guardati intorno: li riconoscerai quando li vedrai." },
+    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_EMORY_000_005", "hash": "E3FECC72ACBDD05E", "target": "Quei crag sono delle brutte bestie, ma sono certo che una persona come te possa affrontarli." },
+    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_EMORY_000_010", "hash": "A4A42BE1B49CE201", "target": "Se ne sono andati? Bel lavoro, <if(gnum4,ragazza,ragazzo)>, bel lavoro!" },
+    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_EMORY_000_011", "hash": "9CFD1AB13542E2B3", "target": "La terra non è nelle migliori condizioni, ma mi arrangerò. Sì, la sistemerò perché la gente possa coltivarla e rimettersi in piedi. Troppi hanno perso la casa e i propri cari..." },
+    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_EMORY_000_012", "hash": "70DE1DF1E151FCBD", "target": "Ehm. Non fraintendermi, <if(gnum4,ragazza,ragazzo)>. Più gente che coltiva significa solo più profitti per la mia attività." },
+    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_EMORY_000_013", "hash": "86F31D230BE963FF", "target": "Se aiuta la gente a vivere meglio, beh, è un motivo in più per cominciare, no?" }
   ]
 }

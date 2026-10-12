@@ -2,19 +2,19 @@
   "conversation": "quest/027/StmBdz609_02787",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_SEQ_00", "hash": "977187613EDBAB98", "target": "" },
-    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_TODO_00", "hash": "C85FFB861FD92142", "target": "" },
-    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_TODO_01", "hash": "D32CE4C4B87827FC", "target": "" },
-    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_000", "hash": "AB1F72453903A286", "target": "" },
-    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_001", "hash": "66829C4641DD222B", "target": "" },
-    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_002", "hash": "87FD54E907A742FA", "target": "" },
-    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_003", "hash": "3722380EE6A51FD4", "target": "" },
-    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_004", "hash": "24A8BFAE85EADEE4", "target": "" },
-    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_005", "hash": "31ACE8CC46F2D2A1", "target": "" },
-    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_010", "hash": "E48BA16C20DA231E", "target": "" },
-    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_011", "hash": "CA1886F04F74DF0C", "target": "" },
-    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_012", "hash": "0DE78D29E132CC00", "target": "" },
-    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_013", "hash": "1F34899FBB1AB5FD", "target": "" },
-    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_014", "hash": "015BBE587716EE68", "target": "" }
+    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_SEQ_00", "hash": "977187613EDBAB98", "target": "Dagasi teme per il bestiame locale." },
+    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_TODO_00", "hash": "C85FFB861FD92142", "target": "Abbattere gulo gulo" },
+    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_TODO_01", "hash": "D32CE4C4B87827FC", "target": "Fare rapporto a Dagasi" },
+    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_000", "hash": "AB1F72453903A286", "target": "Mi sembri <if(gnum4,un'ottima guerriera,un ottimo guerriero)> e raramente mi sbaglio." },
+    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_001", "hash": "66829C4641DD222B", "target": "Forse non sei <if(gnum4,una Dotharl,un Dotharl)>, ma se hai esperienza nell’abbattere bestie c’è qualcosa che vorrei chiederti." },
+    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_002", "hash": "87FD54E907A742FA", "target": "Ultimamente è comparso un gruppo di creature vicino al villaggio. Minacciano le nostre pecore. Finora erano state avvistate solo molto più a nord." },
+    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_003", "hash": "3722380EE6A51FD4", "target": "La nostra tribù ospita molti guerrieri coraggiosi. Non temiamo la morte. Tuttavia, i gulo gulo sono tra le poche bestie che mettono in difficoltà anche i nostri guerrieri migliori." },
+    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_004", "hash": "24A8BFAE85EADEE4", "target": "Per questo desidero affidare il compito a una persona esterna. Vorrei che abbattessi quattro di quelle creature. Non preoccuparti, verrai <if(gnum4,ricompensata,ricompensato)>." },
+    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_005", "hash": "31ACE8CC46F2D2A1", "target": "Abbatti quattro di quelle creature. Se riesci, verrai <if(gnum4,ricompensata,ricompensato)>." },
+    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_010", "hash": "E48BA16C20DA231E", "target": "È fatta? Bene, ora le nostre pecore possono stare tranquille." },
+    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_011", "hash": "CA1886F04F74DF0C", "target": "Come forse hai notato, il gulo gulo è una creatura astuta. Illude i suoi assalitori di essere al sicuro, prima di far scattare una trappola. È così che mio fratello ha trovato la morte." },
+    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_012", "hash": "0DE78D29E132CC00", "target": "Per quanto intelligenti, sono pur sempre bestie. Ma bisogna fare attenzione quando si cerca di abbatterle. Molti Dotharl hanno scambiato l'imprudenza per coraggio, perdendo la vita." },
+    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_013", "hash": "1F34899FBB1AB5FD", "target": "Immagino che i nostri guerrieri trarrebbero beneficio dall'osservare una persona come te. Nella sua prossima vita, insegnerò a mio fratello a non essere tanto avventato." },
+    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_014", "hash": "015BBE587716EE68", "target": "Grazie per il tuo aiuto. Farò in modo che la prossima volta che compare un gulo gulo non ci serva aiuto dall'esterno." }
   ]
 }

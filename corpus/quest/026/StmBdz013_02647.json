@@ -2,17 +2,17 @@
   "conversation": "quest/026/StmBdz013_02647",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_SEQ_00", "hash": "904B744667365DC1", "target": "" },
-    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_TODO_00", "hash": "7F59537EF32D2A0C", "target": "" },
-    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_TODO_01", "hash": "2643737DD1245A9D", "target": "" },
-    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_000", "hash": "9AE6BD581E66F001", "target": "" },
-    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_001", "hash": "CEDBFE554476783D", "target": "" },
-    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_002", "hash": "E7F5AF5E46479C6F", "target": "" },
-    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_10", "hash": "B7D2E26C1ADC222A", "target": "" },
-    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_020", "hash": "543E962EA8C112F6", "target": "" },
-    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_021", "hash": "A3D2C9C2CEC08CB6", "target": "" },
-    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_022", "hash": "996962D06841D7F0", "target": "" },
-    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_023", "hash": "31C2919D3A8A3F89", "target": "" },
-    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_024", "hash": "3DC1DD1CA989B06B", "target": "" }
+    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_SEQ_00", "hash": "904B744667365DC1", "target": "La casa di Gelen è un po' più ventilata del solito." },
+    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_TODO_00", "hash": "7F59537EF32D2A0C", "target": "Uccidere degli earth sprite e ottenere i loro nuclei" },
+    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_TODO_01", "hash": "2643737DD1245A9D", "target": "Consegnare gli earth sprite cores a Gelen" },
+    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_000", "hash": "9AE6BD581E66F001", "target": "Ti dispiacerebbe darmi una mano? Non mi resta molto da vivere. È il minimo che potresti fare." },
+    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_001", "hash": "CEDBFE554476783D", "target": "Vivo in questa casa da quando mi sono sposata. Non è mai stata in quelle che chiamerei buone condizioni, ma è mia. Però, di recente è comparsa una grossa crepa nel muro." },
+    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_002", "hash": "E7F5AF5E46479C6F", "target": "La riparerei da sola, ma non ho i materiali necessari. Fai un favore a una vecchia e uccidi tre earth sprite. Ne troverai vicino allo Ziggurat. Porta i loro nuclei e vedremo se questa casa si può sistemare." },
+    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_10", "hash": "B7D2E26C1ADC222A", "target": "Fai un favore a una vecchia e uccidi tre earth sprite. Porta i loro nuclei e vedremo se questa casa si può sistemare." },
+    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_020", "hash": "543E962EA8C112F6", "target": "Spero proprio che tu non sia <if(gnum4,tornata,tornato)> senza quei nuclei." },
+    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_021", "hash": "A3D2C9C2CEC08CB6", "target": "Magnifico! Comincerò subito a frantumarli. Poi dovrò solo mescolarli in una pasta da applicare alla crepa." },
+    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_022", "hash": "996962D06841D7F0", "target": "Così non dovrebbe ricomparire per qualche anno. Con un po' di fortuna, non sarò nemmeno più qui per vederla riaprirsi!" },
+    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_023", "hash": "31C2919D3A8A3F89", "target": "A quanto pare, il terreno su cui stiamo era parte della cava. Poi, un giorno qualcuno decise di usarlo come area di riposo. Alla fine qui fu costruita una casa, una cosa tirò l'altra e, prima che qualcuno se ne accorgesse, era spuntato un intero insediamento." },
+    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_024", "hash": "3DC1DD1CA989B06B", "target": "Comunque, basta storie per oggi. Grazie, <if(gnum4,ragazza,ragazzo)>." }
   ]
 }

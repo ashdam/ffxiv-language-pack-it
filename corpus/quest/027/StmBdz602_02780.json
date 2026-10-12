@@ -2,18 +2,18 @@
   "conversation": "quest/027/StmBdz602_02780",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_SEQ_00", "hash": "AC4CA35F77F42F57", "target": "" },
-    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_TODO_00", "hash": "0DA8A0BF48F4F56C", "target": "" },
-    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_TODO_01", "hash": "DAA00B389EE4704F", "target": "" },
-    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_000", "hash": "E96267B276B67F5E", "target": "" },
-    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_001", "hash": "5BD7AD92E2FD7700", "target": "" },
-    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_002", "hash": "FAB127B4DFA0EA6C", "target": "" },
-    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_003", "hash": "9B4B4289963E6F6A", "target": "" },
-    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_SYSTEM_000_005", "hash": "2980EC0D04CE5521", "target": "" },
-    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_010", "hash": "6B06DB81274CDC32", "target": "" },
-    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_011", "hash": "14329C7A96AE955A", "target": "" },
-    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_012", "hash": "257B6A0BAB189E54", "target": "" },
-    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_013", "hash": "9FDA39C19F070DB2", "target": "" },
-    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_014", "hash": "1FFCFFEBE289B67A", "target": "" }
+    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_SEQ_00", "hash": "AC4CA35F77F42F57", "target": "Yabuqa guarda le fiamme del fuoco con un'espressione malinconica." },
+    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_TODO_00", "hash": "0DA8A0BF48F4F56C", "target": "Usare /pray nel punto indicato" },
+    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_TODO_01", "hash": "DAA00B389EE4704F", "target": "Fare rapporto a Yabuqa" },
+    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_000", "hash": "E96267B276B67F5E", "target": "Dimmi, <if(gnum4,amica,amico)>, potresti farmi un favore?" },
+    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_001", "hash": "5BD7AD92E2FD7700", "target": "Non molto lontano a sud-est di qui si trovano le rovine devastate di Kahkol Iloh. Ti chiedo di andare lì e usare <colortype(500)><edgecolortype(501)>/pray<edgecolortype(0)><colortype(0)> per pregare per le anime dei miei genitori e di mia sorella defunti." },
+    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_002", "hash": "FAB127B4DFA0EA6C", "target": "\\<sospiro> Non è un sentimento che gli altri Buduga capirebbero, perciò ho bisogno che tu vada al posto mio." },
+    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_003", "hash": "9B4B4289963E6F6A", "target": "Ti prego, vai a Kahkol Iloh e rivolgi le tue <colortype(500)><edgecolortype(501)>preghiere<edgecolortype(0)><colortype(0)> ai miei genitori e a mia sorella. Forse attraverso di te riceveranno anche le mie." },
+    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_SYSTEM_000_005", "hash": "2980EC0D04CE5521", "target": "Usa <colortype(500)><edgecolortype(501)>/pray<edgecolortype(0)><colortype(0)> per pregare per la famiglia defunta di Yabuqa." },
+    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_010", "hash": "6B06DB81274CDC32", "target": "Apprezzo che tu abbia assecondato una richiesta tanto... strana. Molti degli altri guerrieri Buduga mi considererebbero debole, ma in questo periodo dell'anno sento sempre il bisogno di mandare qualcuno al mio vecchio villaggio a pregare per loro." },
+    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_011", "hash": "14329C7A96AE955A", "target": "Ah, sembra che abbia dimenticato di dirti che sono originario di Kahkol Iloh. Quando ero bambino, i Buduga arrivarono e saccheggiarono il nostro insediamento. La mia famiglia mi offrì loro come tributo." },
+    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_012", "hash": "257B6A0BAB189E54", "target": "Per molto tempo li ho odiati. Alla fine, però, ho scoperto che poco dopo la mia partenza un'epidemia mortale aveva colpito il mio vecchio villaggio, uccidendo tutti quelli rimasti." },
+    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_013", "hash": "9FDA39C19F070DB2", "target": "Credo che i miei genitori sapessero cosa stava per accadere e mi avessero mandato via per proteggermi. \\<sospiro> Devo rimediare a tanti anni di odio che ho portato nel cuore contro di loro." },
+    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_014", "hash": "1FFCFFEBE289B67A", "target": "Come membro dei Buduga, mi è difficile trovare occasioni per visitare Kahkol Iloh e offrire loro le mie preghiere. Per questo chiedo ai viaggiatori di passaggio di aiutarmi. Hai la mia più sincera gratitudine, <if(gnum4,amica,amico)>." }
   ]
 }

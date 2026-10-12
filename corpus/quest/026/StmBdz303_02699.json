@@ -2,16 +2,16 @@
   "conversation": "quest/026/StmBdz303_02699",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_SEQ_00", "hash": "A1BD3F1C7E8AA55C", "target": "" },
-    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_TODO_00", "hash": "2D3AF8E95B33A67E", "target": "" },
-    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_TODO_01", "hash": "A3CD41F246EE333D", "target": "" },
-    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_000", "hash": "D4CC833214F7A41F", "target": "" },
-    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_001", "hash": "530ADBCFCDB34BA8", "target": "" },
-    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_002", "hash": "02BCA550EA6CFF55", "target": "" },
-    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_003", "hash": "77B784E853343AD5", "target": "" },
-    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_010", "hash": "DC94E455B13CFFB0", "target": "" },
-    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_011", "hash": "F55649E66362505C", "target": "" },
-    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_012", "hash": "657C3B98B04C7212", "target": "" },
-    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_013", "hash": "A3C29E975BC1359A", "target": "" }
+    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_SEQ_00", "hash": "A1BD3F1C7E8AA55C", "target": "Mine annusa l'aria, con un sorriso delicato sul viso." },
+    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_TODO_00", "hash": "2D3AF8E95B33A67E", "target": "Ottenere i Water Sprite Core dagli Apa" },
+    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_TODO_01", "hash": "A3CD41F246EE333D", "target": "Consegnare i Water Sprite Core a Mine" },
+    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_000", "hash": "D4CC833214F7A41F", "target": "\\<annusa> \\<annusa> Quel profumo... L'odore del sole e del cielo indugia su di te. È davvero un aroma meraviglioso." },
+    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_001", "hash": "530ADBCFCDB34BA8", "target": "Posso chiederti un favore? C'è qualcosa che mi serve dalla superficie. Naturalmente, ti ricompenserò per il disturbo." },
+    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_002", "hash": "02BCA550EA6CFF55", "target": "Vorrei che mi portassi tre Water Sprite Core, che puoi ottenere dagli Apa a Hells' Lid. Possono sembrare fragili, ma non lasciarti ingannare. Non sono affatto facili da sconfiggere." },
+    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_003", "hash": "77B784E853343AD5", "target": "Ti prego, portami tre Water Sprite Core dagli Apa a Hells' Lid. Preparati, sarà dura abbatterli." },
+    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_010", "hash": "DC94E455B13CFFB0", "target": "Ah, <if(gnum4,sei tornata,sei tornato)>. Sei <if(gnum4,riuscita,riuscito)> a ottenere ciò che ti avevo chiesto?" },
+    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_011", "hash": "F55649E66362505C", "target": "Fantastico! Ora non dovremo preoccuparci dell'acqua potabile per un bel po'. Sebbene viviamo qui da generazioni, non possiamo ancora bere l'acqua di mare. Questi ci permetteranno di rimuovere il sale e trasformarla in acqua dolce." },
+    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_012", "hash": "657C3B98B04C7212", "target": "Di solito mandiamo gli uomini più forti del villaggio a procurarci i nuclei degli spiriti d'acqua, ma ultimamente i Kojin Rossi sono diventati sospettosamente territoriali. Questo ha reso molto difficile avvicinarsi a Hells' Lid." },
+    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_013", "hash": "A3C29E975BC1359A", "target": "Grazie di cuore per il tuo aiuto. Non potremmo sopravvivere senza i nuclei che ci hai portato. Come promesso, ecco la tua ricompensa." }
   ]
 }

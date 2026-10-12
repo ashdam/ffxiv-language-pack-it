@@ -2,17 +2,17 @@
   "conversation": "quest/027/StmBdz403_02726",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SEQ_00", "hash": "0233F117C6028195", "target": "" },
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_TODO_00", "hash": "84BCB4EA7B2F698C", "target": "" },
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_TODO_01", "hash": "8EC965858BC005B8", "target": "" },
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_000", "hash": "DC21CB44757C1A1B", "target": "" },
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_001", "hash": "F4478136A2C37644", "target": "" },
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_002", "hash": "53A016537A8A663D", "target": "" },
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_003", "hash": "2E65A26860FA5F64", "target": "" },
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_004", "hash": "7B3BCDF759EED996", "target": "" },
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_010", "hash": "91C313BABBF7AA62", "target": "" },
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_011", "hash": "637425F872ECF28E", "target": "" },
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_012", "hash": "7056FCD05AFFD128", "target": "" },
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_013", "hash": "F82ADF295279A808", "target": "" }
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SEQ_00", "hash": "0233F117C6028195", "target": "Sentei ha bisogno d'aiuto per catturare un predatore." },
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_TODO_00", "hash": "84BCB4EA7B2F698C", "target": "Collocare le tagliole di ferro nei luoghi indicati" },
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_TODO_01", "hash": "8EC965858BC005B8", "target": "Fare rapporto a Sentei" },
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_000", "hash": "DC21CB44757C1A1B", "target": "Tu, <if(gnum4,viaggiatrice,viaggiatore)>! Se hai tempo, ti sarei grato del tuo aiuto." },
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_001", "hash": "F4478136A2C37644", "target": "L'altro giorno frugavo in giro e ho trovato queste tagliole di ferro." },
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_002", "hash": "53A016537A8A663D", "target": "Mi piacerebbe usarle per andare a caccia, ma so che aggraverei solo una mia vecchia ferita. Ti dispiacerebbe sistemarle al posto mio?" },
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_003", "hash": "2E65A26860FA5F64", "target": "Ho segnato su questa mappa i luoghi in cui voglio collocarle. Bada a non intrappolare per sbaglio la tua stessa gamba mentre le prepari!" },
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_004", "hash": "7B3BCDF759EED996", "target": "Su quella mappa troverai i luoghi in cui voglio collocare le trappole. Bada a non intrappolare per sbaglio la tua stessa gamba mentre le prepari!" },
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_010", "hash": "91C313BABBF7AA62", "target": "Hai finito, immagino? Ti ringrazio." },
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_011", "hash": "637425F872ECF28E", "target": "Un tempo ero piuttosto abile con l'ascia. Potevo cacciare ogni genere di bestia selvatica senza affidarmi a sciocche trappole. Ho perfino fatto la mia parte nel resistere all'Impero quando ci ha invasi." },
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_012", "hash": "7056FCD05AFFD128", "target": "Ma un colpo alla gamba mise fine a tutto. Ogni tanto il dolore si riacutizza e rimango paralizzato finché non si attenua. Non preoccuparti, controllerò le trappole appena potrò." },
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_013", "hash": "F82ADF295279A808", "target": "Ecco, prendi questo per avermi aiutato." }
   ]
 }

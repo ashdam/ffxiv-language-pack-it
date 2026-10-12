@@ -2,19 +2,19 @@
   "conversation": "quest/028/StmBdz703_02806",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_SEQ_00", "hash": "5E689B1CB98DCA8B", "target": "" },
-    { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_TODO_00", "hash": "F1584BED05ABCFC1", "target": "" },
-    { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_TODO_01", "hash": "0EF742F08286A2B8", "target": "" },
-    { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_HANAME_000_000", "hash": "7133CD6658E2786F", "target": "" },
-    { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_HANAME_000_001", "hash": "187EE3CF6A097ADD", "target": "" },
-    { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_HANAME_000_002", "hash": "02F74B4FDED49B7C", "target": "" },
-    { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_HANAME_000_003", "hash": "F432D64110BDA2D7", "target": "" },
-    { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_HANAME_000_004", "hash": "A7D04A308ADB3255", "target": "" },
-    { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_HANAME_000_005", "hash": "B06840D6BF9A71AE", "target": "" },
-    { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_HANAME_000_010", "hash": "CE8E8284FFEF99C6", "target": "" },
-    { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_HANAME_000_011", "hash": "2F2CAED3DA05C257", "target": "" },
-    { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_HANAME_000_012", "hash": "235FA599F77C5454", "target": "" },
-    { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_HANAME_000_013", "hash": "C19AF92CE541230D", "target": "" },
-    { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_HANAME_000_014", "hash": "70032614013A2508", "target": "" }
+    { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_SEQ_00", "hash": "5E689B1CB98DCA8B", "target": "Haname desidera dimostrare la sua gratitudine a un fedele sostenitore del Fronte." },
+    { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_TODO_00", "hash": "F1584BED05ABCFC1", "target": "Uccidere dei whitewing hornbill e ottenere un golden bezoar" },
+    { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_TODO_01", "hash": "0EF742F08286A2B8", "target": "Consegnare il golden bezoar a Haname" },
+    { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_HANAME_000_000", "hash": "7133CD6658E2786F", "target": "Ah, sei tu, <split(<string(gstr1)>, ,1)>. Se non ti dispiace, vorrei il tuo aiuto per una certa faccenda." },
+    { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_HANAME_000_001", "hash": "187EE3CF6A097ADD", "target": "Una persona della tua esperienza capirà che per fare la guerra non bastano i guerrieri. Oltre a chi combatte in prima linea, come noi, ci sono moltissime persone che contribuiscono alla nostra causa in innumerevoli altri modi." },
+    { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_HANAME_000_002", "hash": "02F74B4FDED49B7C", "target": "In particolare, c'è un uomo a cui dobbiamo molto, e desidero esprimergli la mia gratitudine con un dono." },
+    { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_HANAME_000_003", "hash": "F432D64110BDA2D7", "target": "Ho in mente un golden bezoar, una pietra che si trova soltanto nello stomaco dei whitewing hornbill. Queste creature vivono vicino a Monzen, a ovest. Ti chiederei di dar loro la caccia finché una non ti darà ciò che cerco." },
+    { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_HANAME_000_004", "hash": "A7D04A308ADB3255", "target": "I bezoari comuni si trovano facilmente e valgono poco o nulla, ma la varietà dorata è molto apprezzata come talismano." },
+    { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_HANAME_000_005", "hash": "B06840D6BF9A71AE", "target": "In circostanze normali me ne occuperei personalmente, ma queste circostanze sono tutt'altro che normali. Non oso lasciare il mio posto, per timore di essere chiamata all'azione mentre sono via. Grazie fin d'ora, <if(gnum4,compagna,compagno)>." },
+    { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_HANAME_000_010", "hash": "CE8E8284FFEF99C6", "target": "Hai ottenuto un golden bezoar?" },
+    { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_HANAME_000_011", "hash": "2F2CAED3DA05C257", "target": "Che splendido, intenso colore dorato! Non sorprende che si chiami così. Ti sono debitrice, <if(gnum4,amica mia,amico mio)>." },
+    { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_HANAME_000_012", "hash": "235FA599F77C5454", "target": "Senza dubbio ti chiedi a chi sia destinato il dono. Non posso rivelarti il nome, ma è un anziano signore che da molto tempo ci fornisce il denaro necessario per continuare la lotta." },
+    { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_HANAME_000_013", "hash": "C19AF92CE541230D", "target": "Si può considerare sano e vigoroso, ma non si può negare che sia avanti negli anni. Per questo ho scelto un talismano che gli porti buona fortuna." },
+    { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_HANAME_000_014", "hash": "70032614013A2508", "target": "Sono certa che gli piacerà. Ti ringrazio ancora, <split(<string(gstr1)>, ,1)>." }
   ]
 }

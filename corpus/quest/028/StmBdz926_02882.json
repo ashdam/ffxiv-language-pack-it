@@ -2,19 +2,19 @@
   "conversation": "quest/028/StmBdz926_02882",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz926_02882#TEXT_STMBDZ926_02882_SEQ_00", "hash": "3237ABCF11DD2700", "target": "" },
-    { "gameKey": "quest/028/StmBdz926_02882#TEXT_STMBDZ926_02882_TODO_00", "hash": "E236E7CAA1805BBC", "target": "" },
-    { "gameKey": "quest/028/StmBdz926_02882#TEXT_STMBDZ926_02882_TODO_01", "hash": "EAED40E71B6D7699", "target": "" },
-    { "gameKey": "quest/028/StmBdz926_02882#TEXT_STMBDZ926_02882_PAMISOLAUX_000_000", "hash": "17AD5FFFD6A473C9", "target": "" },
-    { "gameKey": "quest/028/StmBdz926_02882#TEXT_STMBDZ926_02882_PAMISOLAUX_000_001", "hash": "FFAB90EF8C955926", "target": "" },
-    { "gameKey": "quest/028/StmBdz926_02882#TEXT_STMBDZ926_02882_PAMISOLAUX_000_002", "hash": "C1F2DD0D195C121C", "target": "" },
-    { "gameKey": "quest/028/StmBdz926_02882#TEXT_STMBDZ926_02882_PAMISOLAUX_000_003", "hash": "F3E89A61376605D8", "target": "" },
-    { "gameKey": "quest/028/StmBdz926_02882#TEXT_STMBDZ926_02882_PAMISOLAUX_000_004", "hash": "AC403154334805D9", "target": "" },
-    { "gameKey": "quest/028/StmBdz926_02882#TEXT_STMBDZ926_02882_PAMISOLAUX_000_010", "hash": "FF9B0FECFA31DFAB", "target": "" },
-    { "gameKey": "quest/028/StmBdz926_02882#TEXT_STMBDZ926_02882_PAMISOLAUX_000_011", "hash": "D34E6CCE7C64BBD6", "target": "" },
-    { "gameKey": "quest/028/StmBdz926_02882#TEXT_STMBDZ926_02882_PAMISOLAUX_000_012", "hash": "623DA9C3BED67C05", "target": "" },
-    { "gameKey": "quest/028/StmBdz926_02882#TEXT_STMBDZ926_02882_PAMISOLAUX_000_013", "hash": "F3F4FBE8CF4A13DE", "target": "" },
-    { "gameKey": "quest/028/StmBdz926_02882#TEXT_STMBDZ926_02882_PAMISOLAUX_000_014", "hash": "C251641C0B9C92B9", "target": "" },
-    { "gameKey": "quest/028/StmBdz926_02882#TEXT_STMBDZ926_02882_PAMISOLAUX_000_015", "hash": "A64F130FAD1A9C8F", "target": "" }
+    { "gameKey": "quest/028/StmBdz926_02882#TEXT_STMBDZ926_02882_SEQ_00", "hash": "3237ABCF11DD2700", "target": "Pamisolaux cerca aiuto per rifornire le sue scorte mediche." },
+    { "gameKey": "quest/028/StmBdz926_02882#TEXT_STMBDZ926_02882_TODO_00", "hash": "E236E7CAA1805BBC", "target": "Ottenere tendini dagli abaddon" },
+    { "gameKey": "quest/028/StmBdz926_02882#TEXT_STMBDZ926_02882_TODO_01", "hash": "EAED40E71B6D7699", "target": "Consegnare gli abaddon tendons a Pamisolaux" },
+    { "gameKey": "quest/028/StmBdz926_02882#TEXT_STMBDZ926_02882_PAMISOLAUX_000_000", "hash": "17AD5FFFD6A473C9", "target": "Tu... Sei la persona che si è guadagnata la stima di lord Drillemont. Potresti avere la gentilezza di aiutarmi?" },
+    {"gameKey": "quest/028/StmBdz926_02882#TEXT_STMBDZ926_02882_PAMISOLAUX_000_001", "hash": "FFAB90EF8C955926", "target": "Sono Pamisolaux, un chirurgo inviato dal Fronte di Whitebrim. Per quanto bene la si combatta, questa guerra continua a portare un flusso infinito di feriti alla mia postazione. Quindi, per quante provviste arrivino, consumo le scorte a un ritmo allarmante."},
+    { "gameKey": "quest/028/StmBdz926_02882#TEXT_STMBDZ926_02882_PAMISOLAUX_000_002", "hash": "C1F2DD0D195C121C", "target": "Pensavo di rifornirmi sfruttando le risorse naturali della regione, e una persona tanto rinomata sui campi di battaglia potrebbe sicuramente accelerare il processo." },
+    { "gameKey": "quest/028/StmBdz926_02882#TEXT_STMBDZ926_02882_PAMISOLAUX_000_003", "hash": "F3E89A61376605D8", "target": "I combattenti della Resistenza mi hanno parlato di rane gigantesche che vivono a sud. Credo si chiamino «abaddon». Potresti ucciderne alcune e portarmi quattro pezzi dei loro tendini?" },
+    { "gameKey": "quest/028/StmBdz926_02882#TEXT_STMBDZ926_02882_PAMISOLAUX_000_004", "hash": "AC403154334805D9", "target": "Dovresti trovare gli abaddon a sud. Sono curioso di scoprire le proprietà dei loro tendini..." },
+    { "gameKey": "quest/028/StmBdz926_02882#TEXT_STMBDZ926_02882_PAMISOLAUX_000_010", "hash": "FF9B0FECFA31DFAB", "target": "Gli abaddon ti hanno dato problemi?" },
+    { "gameKey": "quest/028/StmBdz926_02882#TEXT_STMBDZ926_02882_PAMISOLAUX_000_011", "hash": "D34E6CCE7C64BBD6", "target": "Sì. Sì, questi andranno benissimo." },
+    { "gameKey": "quest/028/StmBdz926_02882#TEXT_STMBDZ926_02882_PAMISOLAUX_000_012", "hash": "623DA9C3BED67C05", "target": "Vedi quanto sono elastici i tendini? Dovrebbero allungarsi molto senza spezzarsi, quindi sono perfetti per fermare le bende o fissare protesi di legno agli arti." },
+    { "gameKey": "quest/028/StmBdz926_02882#TEXT_STMBDZ926_02882_PAMISOLAUX_000_013", "hash": "F3F4FBE8CF4A13DE", "target": "Nei secoli della Guerra del Canto dei Draghi, noi ishgardiani abbiamo sviluppato molte tecniche per gli interventi d'emergenza sul campo. Il fatto stesso che siamo stati costretti a inventarle dice molto sulla nostra storia." },
+    { "gameKey": "quest/028/StmBdz926_02882#TEXT_STMBDZ926_02882_PAMISOLAUX_000_014", "hash": "C251641C0B9C92B9", "target": "Un guaritore farà sempre ciò che deve per salvare la vita che si spegne davanti a lui. È una vocazione che non potevo ignorare." },
+    { "gameKey": "quest/028/StmBdz926_02882#TEXT_STMBDZ926_02882_PAMISOLAUX_000_015", "hash": "A64F130FAD1A9C8F", "target": "...Scusami, non intendevo trattenerti con le mie divagazioni. Grazie per l'aiuto." }
   ]
 }

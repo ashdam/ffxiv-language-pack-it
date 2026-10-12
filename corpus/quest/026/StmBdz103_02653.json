@@ -2,18 +2,18 @@
   "conversation": "quest/026/StmBdz103_02653",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_SEQ_00", "hash": "54176F8CEF55D786", "target": "" },
-    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_TODO_00", "hash": "F73320C144696967", "target": "" },
-    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_TODO_01", "hash": "1ADA495AC0E1167B", "target": "" },
-    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_000", "hash": "C7E2111FA6F58A8C", "target": "" },
-    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_001", "hash": "8CADE606F7B2DBDA", "target": "" },
-    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_002", "hash": "9A42EE74A6574268", "target": "" },
-    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_003", "hash": "75504D7F66C38BEC", "target": "" },
-    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_010", "hash": "FCAB368487588081", "target": "" },
-    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_020", "hash": "B087E3CF690E666F", "target": "" },
-    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_021", "hash": "240291A068180EBE", "target": "" },
-    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_022", "hash": "C7FFCFE9C63A8344", "target": "" },
-    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_023", "hash": "B04091958E07C965", "target": "" },
-    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_024", "hash": "E9F5E9F66C67ED26", "target": "" }
+    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_SEQ_00", "hash": "54176F8CEF55D786", "target": "Gerbert ha un problema con i roditori." },
+    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_TODO_00", "hash": "F73320C144696967", "target": "Usare il liquido marrone nei punti indicati e uccidere tutti i robber rat che attaccano" },
+    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_TODO_01", "hash": "1ADA495AC0E1167B", "target": "Fare rapporto a Gerbert" },
+    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_000", "hash": "C7E2111FA6F58A8C", "target": "Beh, non <italic(1)>sembri<italic(0)> <if(gnum4,una Garleana,un Garleano)>... Se ho ragione, potresti aiutarmi con un piccolo problema di parassiti?" },
+    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_001", "hash": "8CADE606F7B2DBDA", "target": "Da quando l'Impero ha proibito ogni pratica religiosa, non posso più pregare a Hidden Tear. Così ho creato un luogo a sud-ovest dove poter piangere i morti in segreto." },
+    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_002", "hash": "9A42EE74A6574268", "target": "Il problema è che ogni volta che lascio offerte di cibo per i defunti, quei maledetti robber rat se le divorano. Per questo ho creato questa roba." },
+    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_003", "hash": "75504D7F66C38BEC", "target": "Basta che ne sentano l'odore e quei parassiti se ne andranno. Ma stai in guardia: alcuni dei ratti più aggressivi potrebbero invece attaccarti." },
+    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_010", "hash": "FCAB368487588081", "target": "Basta che sentano l'odore di quel liquido e quei parassiti se ne andranno. Ma stai in guardia: alcuni dei ratti più aggressivi potrebbero invece attaccarti." },
+    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_020", "hash": "B087E3CF690E666F", "target": "I ratti sono tutti spariti? Ottima notizia. Ora posso parlare di nuovo con mio figlio." },
+    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_021", "hash": "240291A068180EBE", "target": "Ho perso il mio ragazzo in un incidente nella cava, qualche tempo fa. Mi spinse via quando ci crollarono addosso dei massi. Fu sepolto così in profondità che non trovammo nemmeno il corpo..." },
+    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_022", "hash": "C7FFCFE9C63A8344", "target": "Non sopportavo l'idea che venisse dimenticato, così gli ho costruito una tomba. È vicino al luogo dell'incidente." },
+    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_023", "hash": "B04091958E07C965", "target": "Non passa giorno senza che desideri che avesse salvato sé stesso. Aveva ancora tutta la vita davanti..." },
+    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_024", "hash": "E9F5E9F66C67ED26", "target": "Grazie per tutto il tuo aiuto. Sapere che posso ancora parlare con mio figlio di tanto in tanto mi dà un po' di conforto." }
   ]
 }

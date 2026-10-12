@@ -2,15 +2,15 @@
   "conversation": "quest/027/StmBdz406_02729",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_SEQ_00", "hash": "8A590E268FD60654", "target": "" },
-    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_TODO_00", "hash": "823CCBF6ED562B03", "target": "" },
-    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_TODO_01", "hash": "A82C39D948F9BEB9", "target": "" },
-    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_000", "hash": "AF414DB58E740B4A", "target": "" },
-    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_001", "hash": "DF68F58304436050", "target": "" },
-    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_002", "hash": "E720BE67E43D4111", "target": "" },
-    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_003", "hash": "5CFFE3FCDFF37267", "target": "" },
-    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_010", "hash": "EB3992A2DE71C526", "target": "" },
-    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_011", "hash": "CF16DC915A1447B6", "target": "" },
-    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_012", "hash": "10108C5B45D14B8F", "target": "" }
+    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_SEQ_00", "hash": "8A590E268FD60654", "target": "Aohata non ama le donnole." },
+    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_TODO_00", "hash": "823CCBF6ED562B03", "target": "Esaminare la zona ed eliminare le mad weasel" },
+    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_TODO_01", "hash": "A82C39D948F9BEB9", "target": "Fare rapporto a Aohata" },
+    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_000", "hash": "AF414DB58E740B4A", "target": "Tu. Ti va di guadagnare qualche gil?" },
+    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_001", "hash": "DF68F58304436050", "target": "Qui vicino c'è un boschetto di bambù da cui gli abitanti attingono spesso per costruire spaventapasseri. Ultimamente, però, sono comparse delle mad weasel e da allora nessuno è riuscito a raccogliere bambù." },
+    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_002", "hash": "E720BE67E43D4111", "target": "Si dice che siano tre. Ti ricompenserò bene se riesci ad ammazzarle tutte." },
+    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_003", "hash": "5CFFE3FCDFF37267", "target": "Si dice che siano tre. Ti ricompenserò bene se riesci ad ammazzarle tutte." },
+    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_010", "hash": "EB3992A2DE71C526", "target": "Finito? Fantastico!" },
+    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_011", "hash": "CF16DC915A1447B6", "target": "Ora che ci penso, un tempo gli abitanti usavano qualcosa di diverso dagli spaventapasseri per proteggere i campi. A quanto pare, sistemavano le carcasse infilzate delle bestie per tenere lontani i parassiti." },
+    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_012", "hash": "10108C5B45D14B8F", "target": "Alcuni dicono che usassero i cadaveri di cuccioli di donnola. Forse possiamo solo incolpare noi stessi per la situazione recente..." }
   ]
 }

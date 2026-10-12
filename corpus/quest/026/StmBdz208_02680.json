@@ -2,17 +2,17 @@
   "conversation": "quest/026/StmBdz208_02680",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_SEQ_00", "hash": "34C96F9BF62E4536", "target": "" },
-    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_TODO_00", "hash": "3BB2EE14D7C3A809", "target": "" },
-    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_TODO_01", "hash": "FBD8790EB78AA026", "target": "" },
-    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_KAIZAN_000_000", "hash": "1F4A47E1498D84B5", "target": "" },
-    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_KAIZAN_000_001", "hash": "E04B955B02D8D4A0", "target": "" },
-    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_KAIZAN_000_002", "hash": "F66C5F0015B90541", "target": "" },
-    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_KAIZAN_000_003", "hash": "B74B88EB5C74B3CB", "target": "" },
-    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_KAIZAN_000_010", "hash": "0B577EC5816C95CB", "target": "" },
-    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_KAIZAN_000_011", "hash": "6F832C86FA9571B8", "target": "" },
-    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_KAIZAN_000_012", "hash": "6779DCDC586AA6A4", "target": "" },
-    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_KAIZAN_000_013", "hash": "6758723EAEAF0DAA", "target": "" },
-    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_KAIZAN_000_014", "hash": "C2BB9143F949D676", "target": "" }
+    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_SEQ_00", "hash": "34C96F9BF62E4536", "target": "Kaizan cerca <if(gnum4,una donna,un uomo)> di vera tempra." },
+    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_TODO_00", "hash": "3BB2EE14D7C3A809", "target": "Usare i Large Burlap Sack per catturare i Sea Serpent indeboliti" },
+    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_TODO_01", "hash": "FBD8790EB78AA026", "target": "Consegnare i Sea Serpent indeboliti a Kaizan" },
+    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_KAIZAN_000_000", "hash": "1F4A47E1498D84B5", "target": "Ah! Sembri <if(gnum4,una donna,un uomo)> di grande forza e anche di coraggio! Ti va di farmi un favore?" },
+    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_KAIZAN_000_001", "hash": "E04B955B02D8D4A0", "target": "A ovest di Shoal Rock ci sono dei Sea Serpent. Devi indebolirne tre e riportarmeli in questi sacchi." },
+    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_KAIZAN_000_002", "hash": "F66C5F0015B90541", "target": "Sei <if(gnum4,una donna coraggiosa,un uomo coraggioso)>, molto più di quei codardi senza spina dorsale che abitano quest'isola. Si definiscono pirati e poi basta un po' di veleno di serpente a spaventarli. Ah! Che branco di miserabili!" },
+    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_KAIZAN_000_003", "hash": "B74B88EB5C74B3CB", "target": "A ovest di Shoal Rock ci sono dei Sea Serpent. Devi indebolirne tre, metterli nei sacchi di iuta che ti ho dato e consegnarmeli." },
+    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_KAIZAN_000_010", "hash": "0B577EC5816C95CB", "target": "Mi hai portato i serpenti marini?" },
+    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_KAIZAN_000_011", "hash": "6F832C86FA9571B8", "target": "Be', sono colpito! Sei davvero <if(gnum4,riuscita,riuscito)> a catturarne tre! È il numero che avevo chiesto, ma sono creature ferocissime e pensavo che saresti <if(gnum4,tornata,tornato)> con uno soltanto." },
+    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_KAIZAN_000_012", "hash": "6779DCDC586AA6A4", "target": "Sono felice anche di vedere che hai fatto attenzione a non ucciderli. La bistecca di serpente marino è incredibilmente gustosa, ma solo se preparata fresca." },
+    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_KAIZAN_000_013", "hash": "6758723EAEAF0DAA", "target": "Prima di metterli sulla griglia, però, devo estrarne il veleno. Lo usiamo per correggere le bevande dei traditori della Confederazione." },
+    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_KAIZAN_000_014", "hash": "C2BB9143F949D676", "target": "Nove volte su dieci muoiono, ma i fortunati che sopravvivono, come me, hanno la possibilità di riscattarsi." }
   ]
 }

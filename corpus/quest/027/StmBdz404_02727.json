@@ -2,17 +2,17 @@
   "conversation": "quest/027/StmBdz404_02727",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_SEQ_00", "hash": "E758B21478D256F6", "target": "" },
-    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_TODO_00", "hash": "B42E5B9DE9AFC5D0", "target": "" },
-    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_TODO_01", "hash": "AA5A5FF9A1F45C3D", "target": "" },
-    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_TODO_02", "hash": "74E21FF130C70FF0", "target": "" },
-    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_SENTEI_000_000", "hash": "5337CE1C9F702A00", "target": "" },
-    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_SENTEI_000_001", "hash": "0D31C8E0F3A140C9", "target": "" },
-    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_SENTEI_000_002", "hash": "33E6B27B956CA00F", "target": "" },
-    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_SENTEI_000_003", "hash": "E0220F782A4F95E3", "target": "" },
-    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_KOHAGI_000_010", "hash": "5E576CF6E11BAA78", "target": "" },
-    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_KOHAGI_000_011", "hash": "90DF3CFC6057533E", "target": "" },
-    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_KOHAGI_000_012", "hash": "FA451A41B5D2A68B", "target": "" },
-    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_KOHAGI_000_013", "hash": "990F78EC4EF9A91E", "target": "" }
+    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_SEQ_00", "hash": "E758B21478D256F6", "target": "Sentei ha altro lavoro, se vuoi." },
+    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_TODO_00", "hash": "B42E5B9DE9AFC5D0", "target": "Ottenere la legna da ardere" },
+    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_TODO_01", "hash": "AA5A5FF9A1F45C3D", "target": "Ottenere una tasty trout dalla trappola di Sentei" },
+    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_TODO_02", "hash": "74E21FF130C70FF0", "target": "Consegnare la legna da ardere e la tasty trout a Kohagi" },
+    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_SENTEI_000_000", "hash": "5337CE1C9F702A00", "target": "Salve ancora, <if(gnum4,gentile viaggiatrice,gentile viaggiatore)>. Se te la senti, c'è qualcos'altro che vorrei chiederti." },
+    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_SENTEI_000_001", "hash": "0D31C8E0F3A140C9", "target": "Ho bisogno che la legna da ardere che vedi alle mie spalle venga consegnata a mia moglie Kohagi, a Namai." },
+    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_SENTEI_000_002", "hash": "33E6B27B956CA00F", "target": "Ho anche bisogno che tu controlli se la trappola che ho collocato nel ruscello vicino ha catturato qualche pesce. Se sì, ti prego di portare anche quello a Kohagi." },
+    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_SENTEI_000_003", "hash": "E0220F782A4F95E3", "target": "Ti prego di consegnare questa legna da ardere e gli eventuali pesci catturati dalla mia trappola a mia moglie, a Namai." },
+    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_KOHAGI_000_010", "hash": "5E576CF6E11BAA78", "target": "Oh, salve. Ci siamo già incontrati?" },
+    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_KOHAGI_000_011", "hash": "90DF3CFC6057533E", "target": "Ah, mio marito ti ha chiesto di portarmi queste cose? Grazie per la tua gentilezza." },
+    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_KOHAGI_000_012", "hash": "FA451A41B5D2A68B", "target": "Scambierò la legna e la trota con del riso. La nostra famiglia non possiede una risaia, quindi portiamo riso in tavola commerciando con chi ne ha una a Namai." },
+    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_KOHAGI_000_013", "hash": "990F78EC4EF9A91E", "target": "Dobbiamo essere grati all'acqua sorgiva che scorre dal cuore della catena Gensui. Senza la vita che sostiene, non avremmo nulla da scambiare e nessun modo di nutrirci." }
   ]
 }

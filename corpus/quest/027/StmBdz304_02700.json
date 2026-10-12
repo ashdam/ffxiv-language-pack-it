@@ -2,16 +2,16 @@
   "conversation": "quest/027/StmBdz304_02700",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_SEQ_00", "hash": "904F5BED152593FC", "target": "" },
-    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_TODO_00", "hash": "BF1AA3FD1AEC496E", "target": "" },
-    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_TODO_01", "hash": "293C02382D47EED0", "target": "" },
-    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_000", "hash": "4133F0DA5A1409FE", "target": "" },
-    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_001", "hash": "C9088E1D320C7BA0", "target": "" },
-    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_002", "hash": "3E5E8DE8C70EB5A8", "target": "" },
-    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_003", "hash": "7898A03426E2F170", "target": "" },
-    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_004", "hash": "BBE27D79DFBD9B05", "target": "" },
-    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_010", "hash": "C0676A272FA6FC55", "target": "" },
-    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_011", "hash": "9792D3453BAE4876", "target": "" },
-    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_012", "hash": "832141FB0909AB75", "target": "" }
+    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_SEQ_00", "hash": "904F5BED152593FC", "target": "Kagero è curioso di parlare con qualcuno che non venga da Sui<-->no<-->Sato." },
+    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_TODO_00", "hash": "BF1AA3FD1AEC496E", "target": "Distruggere le awahaki" },
+    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_TODO_01", "hash": "293C02382D47EED0", "target": "Fare rapporto a Kagero" },
+    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_000", "hash": "4133F0DA5A1409FE", "target": "Salve, <if(gnum4,signora,signore)>! Immagino bene se dico che vieni dalla superficie? A parte i Kojin, non riceviamo molti visitatori. Del resto, c'era da aspettarselo. Viviamo in fondo al mare, dopotutto!" },
+    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_001", "hash": "C9088E1D320C7BA0", "target": "Molto tempo fa, in cambio dei tesori che donavamo loro, i Kojin insegnarono ai nostri antenati il segreto per vivere in questa grande distesa d'acqua." },
+    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_002", "hash": "3E5E8DE8C70EB5A8", "target": "Da allora abitiamo qui, come loro vicini. Sono un popolo molto gentile e intelligente, che ama collezionare oggetti rari. Ti sarebbe molto utile fare amicizia con loro." },
+    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_003", "hash": "7898A03426E2F170", "target": "Ah! Un momento, mi sta venendo un'idea. Sì! So come fare. Se eliminassi alcune delle awahaki che crescono intorno al loro villaggio, ne sarebbero senz'altro felicissimi! Circa sei dovrebbero bastare a farti entrare nelle loro grazie." },
+    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_004", "hash": "BBE27D79DFBD9B05", "target": "Sì, se andrai a distruggere sei awahaki, farai sicuramente amicizia con i Kojin in men che non si dica!" },
+    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_010", "hash": "C0676A272FA6FC55", "target": "Hai sterminato le awahaki? Ottimo lavoro!" },
+    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_011", "hash": "9792D3453BAE4876", "target": "I Kojin saranno felicissimi di saperlo! Vedi, usano soprattutto le razze striate per spostarsi e consegnare le merci. Ma quelle bestie sono così terrorizzate dalle bolle emesse da queste piante che, appena le vedono, disarcionano chiunque, o qualunque cosa, stiano trasportando." },
+    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_012", "hash": "832141FB0909AB75", "target": "Più tardi li informerò di tutto ciò che hai fatto per loro. Per ora, permettimi di darti la tua ricompensa. Vedi, non ti fa piacere aver aiutato?" }
   ]
 }

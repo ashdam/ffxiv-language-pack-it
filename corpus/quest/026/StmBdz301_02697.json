@@ -2,18 +2,18 @@
   "conversation": "quest/026/StmBdz301_02697",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEQ_00", "hash": "129D676ED78E2E04", "target": "" },
-    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_TODO_00", "hash": "1FD38A89F5D2E2AF", "target": "" },
-    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_TODO_01", "hash": "5D48552101A110D1", "target": "" },
-    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEIZAU_000_000", "hash": "1669F37F0085D19B", "target": "" },
-    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEIZAU_000_001", "hash": "433CE0648B5D76B8", "target": "" },
-    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEIZAU_000_002", "hash": "336822D84CF1457E", "target": "" },
-    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEIZAU_000_003", "hash": "A6194E3DC55C8E21", "target": "" },
-    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEIZAU_000_010", "hash": "DBBA204962A76CB8", "target": "" },
-    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEIZAU_000_011", "hash": "314A805D4045495F", "target": "" },
-    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEIZAU_000_012", "hash": "7494DD87F77D74F0", "target": "" },
-    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEIZAU_000_013", "hash": "D3E7F98D66ED0AA6", "target": "" },
-    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEIZAU_000_014", "hash": "57A4A46D8D40D449", "target": "" },
-    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEIZAU_000_015", "hash": "1DFF769F7FFC7C86", "target": "" }
+    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEQ_00", "hash": "129D676ED78E2E04", "target": "Seizau ha bisogno di <if(gnum4,una donna,un uomo)> con occhi attenti e riflessi pronti." },
+    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_TODO_00", "hash": "1FD38A89F5D2E2AF", "target": "Ottenere i Ruby Hornbill Breast Meat dai Ruby Hornbill" },
+    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_TODO_01", "hash": "5D48552101A110D1", "target": "Consegnare i Ruby Hornbill Breast Meat a Seizau" },
+    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEIZAU_000_000", "hash": "1669F37F0085D19B", "target": "A giudicare dalla tua pelle baciata dal sole, vieni dal mondo di sopra. Purtroppo per te, siamo una comunità molto unita e autosufficiente e non abbiamo lavoro per gli estranei." },
+    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEIZAU_000_001", "hash": "433CE0648B5D76B8", "target": "Ah, aspetta, forse non è del tutto vero. Mi è appena venuto in mente un compito che solo qualcuno della tua gente può svolgere. Dimmi, te la cavi a cacciare gli uccelli?" },
+    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEIZAU_000_002", "hash": "336822D84CF1457E", "target": "Ottimo! In tal caso, vorrei che mi portassi la carne del petto di tre Ruby Hornbill." },
+    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEIZAU_000_003", "hash": "A6194E3DC55C8E21", "target": "Dovrebbero esserci molti Ruby Hornbill sull'Isle of Bekko. Ti prego, portami la carne del petto di tre di questi uccelli." },
+    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEIZAU_000_010", "hash": "DBBA204962A76CB8", "target": "Hai ciò che ti ho chiesto?" },
+    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEIZAU_000_011", "hash": "314A805D4045495F", "target": "Questi tagli di carne che mi hai portato sono bellissimi. Ottimo lavoro. Desideravo assaggiare della carne di uccello da troppo tempo. Vedi, molti anni fa cadde una gabbia da una nave che passava sopra di noi. Dentro c'era un uccello. Non appena la sua carne mi sfiorò le labbra, capii che nessun cibo, per quanto raffinato, avrebbe potuto eguagliarla." },
+    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEIZAU_000_012", "hash": "7494DD87F77D74F0", "target": "Riceviamo così pochi visitatori dalla superficie che è quasi impossibile procurarci questa carne, o qualsiasi altra carne, a dire il vero. I mercanti Kojin portano sempre e soltanto prodotti del mare." },
+    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEIZAU_000_013", "hash": "D3E7F98D66ED0AA6", "target": "Prima che tu vada, ho una domanda. Se non sbaglio, gli uccelli hanno appendici che permettono loro di librarsi nel cielo. Tu non sembri in grado di volare, quindi come hai fatto a catturare queste magnifiche creature alate?" },
+    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEIZAU_000_014", "hash": "57A4A46D8D40D449", "target": "Li fai arrabbiare e, quando ti attaccano, ti avventi su di loro? Ahahah! Voi della terraferma siete proprio feroci." },
+    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEIZAU_000_015", "hash": "1DFF769F7FFC7C86", "target": "Piano piano comincio a capire perché i miei antenati decisero di rifugiarsi in mare. Comunque, grazie per la carne. Stasera io e i miei fratelli faremo una bella scorpacciata!" }
   ]
 }

@@ -2,19 +2,19 @@
   "conversation": "quest/028/StmBdz822_02850",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz822_02850#TEXT_STMBDZ822_02850_SEQ_00", "hash": "5318D27A76979AF1", "target": "" },
-    { "gameKey": "quest/028/StmBdz822_02850#TEXT_STMBDZ822_02850_TODO_00", "hash": "0A2DD72DDB5018A7", "target": "" },
-    { "gameKey": "quest/028/StmBdz822_02850#TEXT_STMBDZ822_02850_TODO_01", "hash": "0C750825A7F0015B", "target": "" },
-    { "gameKey": "quest/028/StmBdz822_02850#TEXT_STMBDZ822_02850_GODAFRE_000_000", "hash": "D54A8DB868365ED2", "target": "" },
-    { "gameKey": "quest/028/StmBdz822_02850#TEXT_STMBDZ822_02850_GODAFRE_000_001", "hash": "3F7EEB42806CA272", "target": "" },
-    { "gameKey": "quest/028/StmBdz822_02850#TEXT_STMBDZ822_02850_GODAFRE_000_002", "hash": "3BDC28768EA1F0A1", "target": "" },
-    { "gameKey": "quest/028/StmBdz822_02850#TEXT_STMBDZ822_02850_GODAFRE_000_003", "hash": "EDBBA780D959D61E", "target": "" },
-    { "gameKey": "quest/028/StmBdz822_02850#TEXT_STMBDZ822_02850_GODAFRE_000_004", "hash": "14A60DC026F5A1B4", "target": "" },
-    { "gameKey": "quest/028/StmBdz822_02850#TEXT_STMBDZ822_02850_GODAFRE_000_010", "hash": "B4D1A918C297EA98", "target": "" },
-    { "gameKey": "quest/028/StmBdz822_02850#TEXT_STMBDZ822_02850_GODAFRE_000_020", "hash": "7AFF64ABB375C3B0", "target": "" },
-    { "gameKey": "quest/028/StmBdz822_02850#TEXT_STMBDZ822_02850_GODAFRE_000_021", "hash": "13EB4A31EB088F3C", "target": "" },
-    { "gameKey": "quest/028/StmBdz822_02850#TEXT_STMBDZ822_02850_GODAFRE_000_022", "hash": "80E77A37834B6031", "target": "" },
-    { "gameKey": "quest/028/StmBdz822_02850#TEXT_STMBDZ822_02850_GODAFRE_000_023", "hash": "89DDD05E7AA65084", "target": "" },
-    { "gameKey": "quest/028/StmBdz822_02850#TEXT_STMBDZ822_02850_GODAFRE_000_025", "hash": "9AD8A29771EDF00B", "target": "" }
+    { "gameKey": "quest/028/StmBdz822_02850#TEXT_STMBDZ822_02850_SEQ_00", "hash": "5318D27A76979AF1", "target": "Godafre sembra aver bisogno di un aiuto discreto." },
+    { "gameKey": "quest/028/StmBdz822_02850#TEXT_STMBDZ822_02850_TODO_00", "hash": "0A2DD72DDB5018A7", "target": "Recuperare l'unheavy package" },
+    { "gameKey": "quest/028/StmBdz822_02850#TEXT_STMBDZ822_02850_TODO_01", "hash": "0C750825A7F0015B", "target": "Consegnare l'unheavy package a Godafre" },
+    { "gameKey": "quest/028/StmBdz822_02850#TEXT_STMBDZ822_02850_GODAFRE_000_000", "hash": "D54A8DB868365ED2", "target": "Maledizione...<br>Senza la merce andrà tutto a monte, ma come faccio ad andare e tornare senza..." },
+    { "gameKey": "quest/028/StmBdz822_02850#TEXT_STMBDZ822_02850_GODAFRE_000_001", "hash": "3F7EEB42806CA272", "target": "Accidenti, da dove sei <if(gnum4,sbucata,sbucato)>!? Bah, lascia perdere... Sai tenere la bocca chiusa, <if(gnum4,ragazza,ragazzo)>?" },
+    { "gameKey": "quest/028/StmBdz822_02850#TEXT_STMBDZ822_02850_GODAFRE_000_002", "hash": "3BDC28768EA1F0A1", "target": "Ho nascosto un pacco a Specula Imperatoris e mi serve qualcuno di discreto che vada a prenderlo." },
+    { "gameKey": "quest/028/StmBdz822_02850#TEXT_STMBDZ822_02850_GODAFRE_000_003", "hash": "EDBBA780D959D61E", "target": "Non farti scoraggiare dalle dimensioni: è leggero come l'aria. Ci andrei io stesso, sai, ma se mi vedessero causerebbe delle <italic(1)>complicazioni<italic(0)> per gli affari futuri. Be', vai! C'è una ricompensa per te!" },
+    { "gameKey": "quest/028/StmBdz822_02850#TEXT_STMBDZ822_02850_GODAFRE_000_004", "hash": "14A60DC026F5A1B4", "target": "Il pacco è in un angolo appartato di Specula Imperatoris. Cerca di entrare e uscire senza farti notare, se ci riesci, eh?" },
+    { "gameKey": "quest/028/StmBdz822_02850#TEXT_STMBDZ822_02850_GODAFRE_000_010", "hash": "B4D1A918C297EA98", "target": "Allora? Hai portato la merce?" },
+    { "gameKey": "quest/028/StmBdz822_02850#TEXT_STMBDZ822_02850_GODAFRE_000_020", "hash": "7AFF64ABB375C3B0", "target": "Sì, è proprio quella! Hai già fatto lavori del genere, eh?" },
+    { "gameKey": "quest/028/StmBdz822_02850#TEXT_STMBDZ822_02850_GODAFRE_000_021", "hash": "13EB4A31EB088F3C", "target": "Capisco che cosa stai pensando: «Che cosa c'è in questo grosso pacco che non pesa quasi nulla?» Be', meglio soddisfare la tua curiosità prima che tu inizi a fare domande alle persone sbagliate. È tabacco, <if(gnum4,amica mia,amico mio)>, prodotto proprio qui a Radiata." },
+    { "gameKey": "quest/028/StmBdz822_02850#TEXT_STMBDZ822_02850_GODAFRE_000_022", "hash": "80E77A37834B6031", "target": "Facevo il facchino per gli imperiali, sai, trasportavo scorte tutto il giorno finché la schiena non urlava. Gli ufficiali si lamentavano del tabacco fornito dall'esercito, così ho cominciato a concedermi qualche piccolo lusso contrabbandando il migliore di Radiata. Di nascosto, naturalmente." },
+    { "gameKey": "quest/028/StmBdz822_02850#TEXT_STMBDZ822_02850_GODAFRE_000_023", "hash": "89DDD05E7AA65084", "target": "E apprezzerei che anche tu mantenessi il segreto. Ora voglio vendere alle forze della Resistenza, ed è meglio che non sappiano nulla dei miei vecchi clienti." },
+    { "gameKey": "quest/028/StmBdz822_02850#TEXT_STMBDZ822_02850_GODAFRE_000_025", "hash": "9AD8A29771EDF00B", "target": "Ecco la ricompensa che ti ho promesso. Metà per il lavoro e metà per tenere la bocca chiusa, capito?" }
   ]
 }

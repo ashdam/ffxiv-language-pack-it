@@ -2,17 +2,17 @@
   "conversation": "quest/028/StmBdz720_02823",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz720_02823#TEXT_STMBDZ720_02823_SEQ_00", "hash": "44F5A79C4B151D6C", "target": "" },
-    { "gameKey": "quest/028/StmBdz720_02823#TEXT_STMBDZ720_02823_TODO_00", "hash": "6716A2736A4AA5D5", "target": "" },
-    { "gameKey": "quest/028/StmBdz720_02823#TEXT_STMBDZ720_02823_TODO_01", "hash": "A4E927BB558B2E50", "target": "" },
-    { "gameKey": "quest/028/StmBdz720_02823#TEXT_STMBDZ720_02823_MGIZZOH_000_000", "hash": "A58D4F879C1D7963", "target": "" },
-    { "gameKey": "quest/028/StmBdz720_02823#TEXT_STMBDZ720_02823_MGIZZOH_000_001", "hash": "07B5826366D27F4D", "target": "" },
-    { "gameKey": "quest/028/StmBdz720_02823#TEXT_STMBDZ720_02823_MGIZZOH_000_002", "hash": "306B8C6DB3B14C9F", "target": "" },
-    { "gameKey": "quest/028/StmBdz720_02823#TEXT_STMBDZ720_02823_MGIZZOH_000_003", "hash": "61F0A963556252FB", "target": "" },
-    { "gameKey": "quest/028/StmBdz720_02823#TEXT_STMBDZ720_02823_MGIZZOH_000_004", "hash": "ABB4171F050B6A1D", "target": "" },
-    { "gameKey": "quest/028/StmBdz720_02823#TEXT_STMBDZ720_02823_MGIZZOH_000_010", "hash": "3A6194869A0B7C20", "target": "" },
-    { "gameKey": "quest/028/StmBdz720_02823#TEXT_STMBDZ720_02823_MGIZZOH_100_010", "hash": "34E1E260B74D0AA8", "target": "" },
-    { "gameKey": "quest/028/StmBdz720_02823#TEXT_STMBDZ720_02823_MGIZZOH_000_011", "hash": "5F5398FDF99CFB39", "target": "" },
-    { "gameKey": "quest/028/StmBdz720_02823#TEXT_STMBDZ720_02823_MGIZZOH_000_012", "hash": "AAA538E9057F539F", "target": "" }
+    { "gameKey": "quest/028/StmBdz720_02823#TEXT_STMBDZ720_02823_SEQ_00", "hash": "44F5A79C4B151D6C", "target": "M'gizzoh non vede l'ora di andare a caccia." },
+    { "gameKey": "quest/028/StmBdz720_02823#TEXT_STMBDZ720_02823_TODO_00", "hash": "6716A2736A4AA5D5", "target": "Esaminare il luogo indicato e abbattere tutti i broken bhoot che compaiono" },
+    { "gameKey": "quest/028/StmBdz720_02823#TEXT_STMBDZ720_02823_TODO_01", "hash": "A4E927BB558B2E50", "target": "Fare rapporto a M'gizzoh" },
+    { "gameKey": "quest/028/StmBdz720_02823#TEXT_STMBDZ720_02823_MGIZZOH_000_000", "hash": "A58D4F879C1D7963", "target": "<if([gnum11<12],<if([gnum11<4],Bella notte,Bella giornata)>,<if([gnum11<17],Bella giornata,Bella notte)>)> per andare a caccia, vero? Soprattutto ora che i Garlean se la sono data a gambe. Prima non si poteva uscire dalle Peering Stones senza finire in uno scontro tra loro e la Resistenza." },
+    { "gameKey": "quest/028/StmBdz720_02823#TEXT_STMBDZ720_02823_MGIZZOH_000_001", "hash": "07B5826366D27F4D", "target": "Ora che siamo tornati nei nostri soliti posti, ho incontrato un piccolo problema. Pare che, durante la nostra assenza, un'orda di bhoot si sia affezionata al mio territorio di caccia preferito." },
+    { "gameKey": "quest/028/StmBdz720_02823#TEXT_STMBDZ720_02823_MGIZZOH_000_002", "hash": "306B8C6DB3B14C9F", "target": "Si nascondono sempre in cima alle scogliere, appena fuori dalla portata delle mie frecce, e si gettano su di me quando non guardo. Magari avessi le ali per inseguirli lassù." },
+    { "gameKey": "quest/028/StmBdz720_02823#TEXT_STMBDZ720_02823_MGIZZOH_000_003", "hash": "61F0A963556252FB", "target": "Si dice che tu sappia risolvere problemi apparentemente insormontabili. Mi faresti un enorme favore se scalassi le scogliere a sud-ovest di qui e ti sbarazzassi dei bhoot." },
+    { "gameKey": "quest/028/StmBdz720_02823#TEXT_STMBDZ720_02823_MGIZZOH_000_004", "hash": "ABB4171F050B6A1D", "target": "Forse non li vedrai subito, ma aspettando abbastanza compariranno di certo. Fa' attenzione, però. Sanno essere parecchio cattivi." },
+    { "gameKey": "quest/028/StmBdz720_02823#TEXT_STMBDZ720_02823_MGIZZOH_000_010", "hash": "3A6194869A0B7C20", "target": "I bhoot se ne sono andati? Quindi hai scalato le scogliere! È un'impresa notevole." },
+    { "gameKey": "quest/028/StmBdz720_02823#TEXT_STMBDZ720_02823_MGIZZOH_100_010", "hash": "34E1E260B74D0AA8", "target": "Peccato che tu non faccia parte della nostra tribù. Ci farebbero comodo altri cacciatori capaci come te." },
+    { "gameKey": "quest/028/StmBdz720_02823#TEXT_STMBDZ720_02823_MGIZZOH_000_011", "hash": "5F5398FDF99CFB39", "target": "Ma che cosa ci fanno dei fantasmi laggiù? A rigor di logica, dovrebbero starsene a rimuginare in qualche cimitero." },
+    { "gameKey": "quest/028/StmBdz720_02823#TEXT_STMBDZ720_02823_MGIZZOH_000_012", "hash": "AAA538E9057F539F", "target": "D'altra parte, ultimamente Virdjala ha visto fin troppi morti. Speriamo che gli altri spiriti rimasti lì trovino presto pace." }
   ]
 }

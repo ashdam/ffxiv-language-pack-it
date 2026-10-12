@@ -2,19 +2,19 @@
   "conversation": "quest/028/StmBdz821_02849",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_SEQ_00", "hash": "BA430AA34721B4FD", "target": "" },
-    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_TODO_00", "hash": "150B4E4BF5D717CE", "target": "" },
-    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_TODO_01", "hash": "422DA56ED89EB7EA", "target": "" },
-    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_GARRULOUSGALL_000_000", "hash": "EA40F36F1CDED43D", "target": "" },
-    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_GARRULOUSGALL_000_001", "hash": "CE250338AA7D3E52", "target": "" },
-    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_GARRULOUSGALL_000_002", "hash": "A73971F2ED7EEBD0", "target": "" },
-    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_GARRULOUSGALL_000_003", "hash": "0BBC89CCA80A64E5", "target": "" },
-    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_GARRULOUSGALL_000_004", "hash": "CB6375213DF17C47", "target": "" },
-    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_GARRULOUSGALL_000_010", "hash": "14D4043F1CE1D73C", "target": "" },
-    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_GARRULOUSGALL_000_020", "hash": "B740164A60140085", "target": "" },
-    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_GARRULOUSGALL_000_030", "hash": "B34A5F1574A84B51", "target": "" },
-    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_GARRULOUSGALL_000_031", "hash": "8C122EAB4C62FA7F", "target": "" },
-    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_GARRULOUSGALL_000_032", "hash": "2840636273580780", "target": "" },
-    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_GARRULOUSGALL_000_033", "hash": "FD3105C620F7E2A9", "target": "" }
+    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_SEQ_00", "hash": "BA430AA34721B4FD", "target": "Garrulous Gall vuole gettare le basi per una nuova attività." },
+    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_TODO_00", "hash": "150B4E4BF5D717CE", "target": "Versare l'honey syrup a terra nel punto indicato e ottenere un pile of iridescent scales da una purple morpho" },
+    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_TODO_01", "hash": "422DA56ED89EB7EA", "target": "Consegnare il pile of iridescent scales a Garrulous Gall" },
+    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_GARRULOUSGALL_000_000", "hash": "EA40F36F1CDED43D", "target": "Fai parte dell'Alleanza Eorzeana? Vi siamo grati per tutto ciò che avete fatto per liberare Radiata dalla morsa degli imperiali." },
+    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_GARRULOUSGALL_000_001", "hash": "CE250338AA7D3E52", "target": "Abbiamo dovuto inchinarci all'Impero e fare i lavori più umili per il suo esercito solo per sopravvivere giorno dopo giorno. Ma ora che se ne sono andati, dobbiamo trovare nuovi modi per guadagnarci da vivere." },
+    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_GARRULOUSGALL_000_002", "hash": "A73971F2ED7EEBD0", "target": "Qui puoi aiutarci, se vuoi. Mi serve soltanto che tu raccolga delle scaglie da una purple morpho." },
+    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_GARRULOUSGALL_000_003", "hash": "0BBC89CCA80A64E5", "target": "Ecco, prendi questo sciroppo. Versalo a terra nel punto segnato sulla mappa e il profumo dovrebbe attirare una di quelle bellezze svolazzanti." },
+    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_GARRULOUSGALL_000_004", "hash": "CB6375213DF17C47", "target": "Posso usare le scaglie per avviare una nuova attività, capisci, ma persino una sola maledetta morpho è troppo per me. L'ultima volta che ci ho provato ho quasi perso un occhio..." },
+    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_GARRULOUSGALL_000_010", "hash": "14D4043F1CE1D73C", "target": "Hai ancora lo sciroppo? Basta versarne un po' a terra dove ti ho detto e dovrebbe attirare una morpho. Cerca di non danneggiare le scaglie!" },
+    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_GARRULOUSGALL_000_020", "hash": "B740164A60140085", "target": "Hai preso le scaglie?" },
+    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_GARRULOUSGALL_000_030", "hash": "B34A5F1574A84B51", "target": "Oh, queste sono proprio...<br>Vedi come brillano alla luce? Saranno perfette per creare dei glamour prism." },
+    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_GARRULOUSGALL_000_031", "hash": "8C122EAB4C62FA7F", "target": "...Un tempo il mio lavoro era strofinare i pavimenti delle caserme dell'esercito e simili. Non lo considereresti un compito particolarmente difficile... finché non ti ritrovi a lavare via il sangue dei tuoi compatrioti." },
+    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_GARRULOUSGALL_000_032", "hash": "2840636273580780", "target": "Voglio lasciarmi alle spalle quei giorni bui commerciando in oggetti fatti di bellezza e luce. Ecco perché desideravo quelle scaglie." },
+    { "gameKey": "quest/028/StmBdz821_02849#TEXT_STMBDZ821_02849_GARRULOUSGALL_000_033", "hash": "FD3105C620F7E2A9", "target": "Grazie per l'aiuto. Spero che la stessa luce che hai portato a me possa risplendere su di te, alla fine." }
   ]
 }

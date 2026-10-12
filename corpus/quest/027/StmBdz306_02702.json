@@ -2,17 +2,17 @@
   "conversation": "quest/027/StmBdz306_02702",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_SEQ_00", "hash": "A278A122B259D049", "target": "" },
-    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_TODO_00", "hash": "406899B4F34B9069", "target": "" },
-    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_TODO_01", "hash": "AC8B186535AF0020", "target": "" },
-    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_000", "hash": "E3D1D386EFA290A6", "target": "" },
-    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_001", "hash": "89D4196553A828C4", "target": "" },
-    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_002", "hash": "6A0DDDA1C17BD65D", "target": "" },
-    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_003", "hash": "6EEE321CC3B7033F", "target": "" },
-    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_SYSTEM_000_009", "hash": "0440990818B6C189", "target": "" },
-    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_010", "hash": "1381220013952749", "target": "" },
-    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_011", "hash": "480421B110F3FDE7", "target": "" },
-    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_012", "hash": "CC3B3D447E76A90E", "target": "" },
-    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_013", "hash": "999FB77169A021DC", "target": "" }
+    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_SEQ_00", "hash": "A278A122B259D049", "target": "Mozu si guarda intorno nervosamente." },
+    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_TODO_00", "hash": "406899B4F34B9069", "target": "Sconfiggere i warmspring gasame" },
+    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_TODO_01", "hash": "AC8B186535AF0020", "target": "Fare rapporto a Mozu" },
+    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_000", "hash": "E3D1D386EFA290A6", "target": "Oh, cielo, devi venire dalla superficie. Normalmente eviterei di avere rapporti con persone come te, ma abbiamo un disperato bisogno di aiuto esterno." },
+    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_001", "hash": "89D4196553A828C4", "target": "Vedi, due warmspring gasame sono arrivati negli Anemone Gardens. Alcuni uomini del villaggio sono andati a eliminarli, ma non essendo abituati a combattere sulla terraferma, nessuno è sopravvissuto allo scontro..." },
+    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_002", "hash": "6A0DDDA1C17BD65D", "target": "Se non riusciremo a ucciderli presto, finiranno per divorare tutto il cibo disponibile laggiù! Ti prego, devi liberarcene!" },
+    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_003", "hash": "6EEE321CC3B7033F", "target": "Stanno divorando enormi quantità di cibo nelle grotte anche mentre parliamo. Ti supplico, sbrigati a sterminarli!" },
+    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_SYSTEM_000_009", "hash": "0440990818B6C189", "target": "Sei sotto attacco!" },
+    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_010", "hash": "1381220013952749", "target": "Li hai sconfitti? Grazie. Grazie infinite. Ci hai salvati dalla fame." },
+    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_011", "hash": "480421B110F3FDE7", "target": "Le alghe e i molluschi di quel luogo sono una delle nostre principali fonti di cibo. Gli yumemi, soprattutto, sono molto nutrienti, e senza di loro non riusciremmo a sostentarci." },
+    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_012", "hash": "CC3B3D447E76A90E", "target": "Purtroppo sono anche uno degli spuntini preferiti dei warmspring gasame. Se non li avessi uccisi quando l'hai fatto, ci saremmo trovati in gravi difficoltà." },
+    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_013", "hash": "999FB77169A021DC", "target": "Peggio ancora, queste bestie feroci sembrano diventare sempre più forti, forse a causa del crescente numero di eruzioni di Hells' Lid. Hai una forza incredibile, ma faresti bene a prestare attenzione quando affronterai queste bestie in futuro." }
   ]
 }

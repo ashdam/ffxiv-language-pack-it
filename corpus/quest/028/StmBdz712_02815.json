@@ -2,19 +2,19 @@
   "conversation": "quest/028/StmBdz712_02815",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_SEQ_00", "hash": "003B49CE7CD827CE", "target": "" },
-    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TODO_00", "hash": "22A5D039F1707E41", "target": "" },
-    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TODO_01", "hash": "56DCFC2730B319DE", "target": "" },
-    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_000", "hash": "5F63D4F9BB64263D", "target": "" },
-    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_001", "hash": "F2B9F710CC811C08", "target": "" },
-    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_002", "hash": "034343BAF5564F6E", "target": "" },
-    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_DRAGDEALER02815_000_010", "hash": "AFFB2F5C57C6138D", "target": "" },
-    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_DRAGDEALER02815_000_011", "hash": "00B268A36C8A478D", "target": "" },
-    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_DRAGDEALER02815_000_012", "hash": "B9581354D1AE5900", "target": "" },
-    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_020", "hash": "4CAB9310334DF55D", "target": "" },
-    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_021", "hash": "04F42A2A6FAA8106", "target": "" },
-    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_022", "hash": "EEF15E4E70EE2754", "target": "" },
-    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_023", "hash": "EDE6C3FF7E55CE7E", "target": "" },
-    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_024", "hash": "4A938849FB290927", "target": "" }
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_SEQ_00", "hash": "003B49CE7CD827CE", "target": "Un robusto facchino di Kugane si è ferito gravemente alla spalla." },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TODO_00", "hash": "22A5D039F1707E41", "target": "Parlare con l'abile speziale" },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TODO_01", "hash": "56DCFC2730B319DE", "target": "Consegnare il pungent ginger poultice al robusto facchino" },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_000", "hash": "5F63D4F9BB64263D", "target": "Ho bisogno d'aiuto. Sembra che la mia spalla non abbia gradito questo sacco di riso. Il dolore è tanto forte che non posso portarlo oltre." },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_001", "hash": "F2B9F710CC811C08", "target": "Ma io e gli altri facchini custodiamo un segreto per queste occasioni. C'è un abile speziale vicino a Kogane Dori. Prepara un pungent ginger poultice che è pura magia. Mi conosce e sa che pago. Digli chi ti manda e ti darà ciò che mi serve." },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_002", "hash": "034343BAF5564F6E", "target": "Io e gli altri facchini custodiamo un segreto per queste occasioni. C'è un abile speziale vicino a Kogane Dori. Prepara un pungent ginger poultice che è pura magia. Mi conosce e sa che pago. Digli chi ti manda e ti darà ciò che mi serve." },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_DRAGDEALER02815_000_010", "hash": "AFFB2F5C57C6138D", "target": "Un pungent ginger poultice? Se chiedi quello, deve averti mandato quel facchino. Sembra che si sia fatto male di nuovo alla spalla. Porta sempre più peso di quanto un uomo dovrebbe." },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_DRAGDEALER02815_000_011", "hash": "00B268A36C8A478D", "target": "Tieni, allora. Portaglielo. Digli che può pagare dopo e ricordagli che la salute è la vera ricchezza." },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_DRAGDEALER02815_000_012", "hash": "B9581354D1AE5900", "target": "Di' al facchino che può pagare dopo il rimedio e ricordagli che la salute è la vera ricchezza." },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_020", "hash": "4CAB9310334DF55D", "target": "Hai portato il pungent ginger poultice?" },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_021", "hash": "04F42A2A6FAA8106", "target": "Agli occhi di tutta Hingashi sembrerò un semplice servitore. Ma sappi che il mio bisnonno era un grande alchimista. È stato lui a preparare per primo questi impacchi. E finché li avrò, potrò portare tutto ciò che serve." },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_022", "hash": "EEF15E4E70EE2754", "target": "Ho sentito che gli stranieri hanno imparato ad apprezzare il riso di Kogane. Sempre più mercanti vengono a comprarlo, quindi sempre più facchini sono impegnati a trasportarlo. Sapevo che gli altri mi avrebbero detto di riposare se avessi chiesto aiuto. Per questo l'ho chiesto a te." },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_023", "hash": "EDE6C3FF7E55CE7E", "target": "Chi ha tempo di riposare? Ho un sogno da inseguire! Voglio sposare una bella ragazza e aprire una taverna di cucina di Kugane. E tutto mentre sono ancora giovane. Non lascerò che una spalla dolorante mi impedisca di guadagnare gil finché posso." },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_024", "hash": "4A938849FB290927", "target": "Ho sentito che al prossimo luogo in cui devo andare c'è una bella ragazza. Forse in questi chicchi di riso porto il peso del mio destino. Solo il tempo lo dirà. Grazie dell'aiuto." }
   ]
 }

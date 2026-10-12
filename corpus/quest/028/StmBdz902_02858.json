@@ -2,17 +2,17 @@
   "conversation": "quest/028/StmBdz902_02858",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_SEQ_00", "hash": "92FB2AE10BB0BEE2", "target": "" },
-    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_TODO_00", "hash": "36245E23EB9FB3E7", "target": "" },
-    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_TODO_01", "hash": "BFEF7B85BCA5835A", "target": "" },
-    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_PAPIN_000_000", "hash": "E65BA6D0D964A95B", "target": "" },
-    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_PAPIN_000_001", "hash": "95469047910B3E9B", "target": "" },
-    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_PAPIN_000_002", "hash": "E0E13BFD96AB474A", "target": "" },
-    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_PAPIN_000_003", "hash": "5B95CE35B22211C2", "target": "" },
-    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_PAPIN_000_010", "hash": "4849164FB2650EBE", "target": "" },
-    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_PAPIN_000_011", "hash": "593DA0194A03B97C", "target": "" },
-    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_PAPIN_000_012", "hash": "C953DE182460CA6B", "target": "" },
-    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_PAPIN_000_013", "hash": "4F9EFFC7A9F234C3", "target": "" },
-    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_PAPIN_000_014", "hash": "DACA75618A44A5FA", "target": "" }
+    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_SEQ_00", "hash": "92FB2AE10BB0BEE2", "target": "Papin vuole sorprendere la sua famiglia con qualcosa di bello." },
+    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_TODO_00", "hash": "36245E23EB9FB3E7", "target": "Uccidere i True Griffin per ottenerne la carne" },
+    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_TODO_01", "hash": "BFEF7B85BCA5835A", "target": "Consegnare i Griffin Meat a Papin" },
+    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_PAPIN_000_000", "hash": "E65BA6D0D964A95B", "target": "Scusa, <if(gnum4,signorina,signore)>? Ho sentito che voi avventurieri siete davvero coraggiosi e forti. Puoi aiutarmi? Voglio procurare qualcosa di davvero speciale per la mamma, ma non posso farlo da solo." },
+    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_PAPIN_000_001", "hash": "95469047910B3E9B", "target": "A nord del villaggio ci sono questi enormi uccelli chiamati grifoni, e dicono che la loro carne sia fra le migliori." },
+    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_PAPIN_000_002", "hash": "E0E13BFD96AB474A", "target": "Se ne portassi anche solo un po', sono sicuro che la mamma sarebbe felicissima." },
+    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_PAPIN_000_003", "hash": "5B95CE35B22211C2", "target": "Se vai a nord, dove prima c'erano tutti i soldati, dovrebbero esserci dei grifoni. Almeno, così dice la mamma." },
+    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_PAPIN_000_010", "hash": "4849164FB2650EBE", "target": "Caspita, che velocità. Hai visto qualche grifone?" },
+    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_PAPIN_000_011", "hash": "593DA0194A03B97C", "target": "Wow, non pensavo che ne avresti portata così tanta. Voi avventurieri siete davvero straordinari." },
+    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_PAPIN_000_012", "hash": "C953DE182460CA6B", "target": "L'hai mai mangiata? La mamma dice che è piena di sostanze nutritive. Ma i grifoni sono troppo pericolosi da cacciare, quindi non ne mangiamo mai. La mamma e mia sorella saranno felicissime." },
+    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_PAPIN_000_013", "hash": "4F9EFFC7A9F234C3", "target": "Peccato che il papà non sia qui per assaggiarla. È dovuto partire per lavoro. Prima mi scriveva ogni giorno, ma ultimamente non è arrivato niente." },
+    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_PAPIN_000_014", "hash": "DACA75618A44A5FA", "target": "Sono sicuro che stia bene. È davvero forte, proprio come te. E quando torna, andremo a caccia e mangeremo carne di grifone tutto il tempo!" }
   ]
 }

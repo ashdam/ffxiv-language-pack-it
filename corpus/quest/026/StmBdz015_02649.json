@@ -2,18 +2,18 @@
   "conversation": "quest/026/StmBdz015_02649",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_SEQ_00", "hash": "05EDE13C9891169E", "target": "" },
-    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_TODO_00", "hash": "1A4AF6F7904BE7CE", "target": "" },
-    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_TODO_01", "hash": "E67864E86A7B7CB6", "target": "" },
-    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_LEANINGENT_000_000", "hash": "1920553FC08D790C", "target": "" },
-    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_LEANINGENT_000_001", "hash": "C9B096A6E5EBEAA4", "target": "" },
-    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_LEANINGENT_000_002", "hash": "1B7851075417B2CE", "target": "" },
-    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_LEANINGENT_000_010", "hash": "BA51AAE5A8AF3371", "target": "" },
-    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_FEARVILLAGER02649_000_020", "hash": "CBA999BACC6BC021", "target": "" },
-    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_FEARVILLAGER02649_000_021", "hash": "7D2B0F0494D946A4", "target": "" },
-    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_FEARVILLAGER02649_000_022", "hash": "2D59760B5335F29D", "target": "" },
-    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_LEANINGENT_000_030", "hash": "2BCE410BA5F5111F", "target": "" },
-    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_LEANINGENT_000_031", "hash": "AD59E43B3776C86C", "target": "" },
-    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_LEANINGENT_000_032", "hash": "4F1269EFE535038F", "target": "" }
+    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_SEQ_00", "hash": "05EDE13C9891169E", "target": "Leaning Ent vorrebbe che il suo amico corresse più veloce." },
+    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_TODO_00", "hash": "1A4AF6F7904BE7CE", "target": "Salvare l'uomo prigioniero" },
+    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_TODO_01", "hash": "E67864E86A7B7CB6", "target": "Fare rapporto a Leaning Ent" },
+    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_LEANINGENT_000_000", "hash": "1920553FC08D790C", "target": "Ti prego, devi aiutare il mio amico!" },
+    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_LEANINGENT_000_001", "hash": "C9B096A6E5EBEAA4", "target": "Ci facevamo gli affari nostri, trasportando del fertilizzante, quando ci ha attaccato un gruppo di Qiqirn. Io sono riuscito a fuggire, ma il mio amico non è stato così fortunato." },
+    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_LEANINGENT_000_002", "hash": "1B7851075417B2CE", "target": "Quei topi bastardi di certo lo tengono legato alla Carmine Kitchen. Ti supplico, salvalo!" },
+    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_LEANINGENT_000_010", "hash": "BA51AAE5A8AF3371", "target": "Quei topi bastardi di certo tengono il mio amico legato alla Carmine Kitchen. Ti supplico, salvalo!" },
+    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_FEARVILLAGER02649_000_020", "hash": "CBA999BACC6BC021", "target": "Oh, grazie infinite!" },
+    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_FEARVILLAGER02649_000_021", "hash": "7D2B0F0494D946A4", "target": "Non voglio nemmeno immaginare cosa sarebbe successo se non fossi <if(gnum4,arrivata,arrivato)>." },
+    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_FEARVILLAGER02649_000_022", "hash": "2D59760B5335F29D", "target": "Anzi, non sopporto di restare qui un momento di più. Torno al villaggio. Grazie ancora!" },
+    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_LEANINGENT_000_030", "hash": "2BCE410BA5F5111F", "target": "Ho visto il mio amico poco fa. Non aveva nemmeno un graffio!" },
+    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_LEANINGENT_000_031", "hash": "AD59E43B3776C86C", "target": "L'Impero non considera i Qiqirn dei banditi. Li tratta come qualsiasi altra bestia. Così, quando chiediamo aiuto per liberare la zona dai ladri, ci dicono che occuparci dei parassiti è responsabilità nostra." },
+    { "gameKey": "quest/026/StmBdz015_02649#TEXT_STMBDZ015_02649_LEANINGENT_000_032", "hash": "4F1269EFE535038F", "target": "Ma basta lamentele. Grazie per aver salvato il mio amico dall'essere divorato da quei topi." }
   ]
 }

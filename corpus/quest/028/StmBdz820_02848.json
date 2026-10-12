@@ -2,15 +2,15 @@
   "conversation": "quest/028/StmBdz820_02848",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_SEQ_00", "hash": "E98091816737F0B2", "target": "" },
-    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_TODO_00", "hash": "AC4B84075FEE41E3", "target": "" },
-    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_GUNTMAR_000_000", "hash": "DBB3DB405FEE81D6", "target": "" },
-    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_GUNTMAR_000_001", "hash": "C0E9FBE3405E67EC", "target": "" },
-    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_GUNTMAR_000_002", "hash": "663147DAA76F682A", "target": "" },
-    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_LADYSOLDIER02834_000_010", "hash": "32C4F33FADCDB007", "target": "" },
-    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_LADYSOLDIER02834_000_011", "hash": "7F5D3F36DE0C27A4", "target": "" },
-    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_LADYSOLDIER02834_000_012", "hash": "940A1C97EBC665AA", "target": "" },
-    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_LADYSOLDIER02834_000_013", "hash": "344265717CBE87BC", "target": "" },
-    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_LADYSOLDIER02834_000_014", "hash": "7166EAB5375BA8A0", "target": "" }
+    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_SEQ_00", "hash": "E98091816737F0B2", "target": "Guntmar è ben sveglio e vuole sfruttare il brodo rimasto." },
+    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_TODO_00", "hash": "AC4B84075FEE41E3", "target": "Consegnare il muud suud broth alla combattente della Resistenza" },
+    {"gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_GUNTMAR_000_000", "hash": "DBB3DB405FEE81D6", "target": "È bello rivederti. Grazie ancora per quel muud suud horn. Non mi sono mai sentito meglio."},
+    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_GUNTMAR_000_001", "hash": "C0E9FBE3405E67EC", "target": "Ne è rimasto abbastanza per un'altra tazza e, già che sei qui, speravo potessi consegnarla a qualcuno. Quando torni ad Ala Ghiri, puoi darla alla soldatessa che fa la guardia al cancello nord?" },
+    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_GUNTMAR_000_002", "hash": "663147DAA76F682A", "target": "Porteresti quest'ultima tazza di brodo alla soldatessa di guardia al cancello nord? Me lo chiede da un po', e sarebbe un peccato non offrirgliene." },
+    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_LADYSOLDIER02834_000_010", "hash": "32C4F33FADCDB007", "target": "Ah, che piacere rivederti. C'è qualcosa che posso fare per te?" },
+    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_LADYSOLDIER02834_000_011", "hash": "7F5D3F36DE0C27A4", "target": "È forse... \\<sniff> \\<sniff> Sì! Il brodo di muud suud di Guntmar. Non ho mai assaggiato nulla di tanto ricco e corposo. E quel piacevole retrogusto che dura giorni e giorni. È semplicemente da morire." },
+    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_LADYSOLDIER02834_000_012", "hash": "940A1C97EBC665AA", "target": "Non immagineresti mai che qualcosa di tanto meraviglioso possa venire da una creatura così orribile, ma i piatti fatti con le corna e le ossa degli animali sono piuttosto comuni a Gyr Abania. Oltre ai loro sapori caratteristici, hanno tutti effetti diversi e molto benefici per la salute." },
+    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_LADYSOLDIER02834_000_013", "hash": "344265717CBE87BC", "target": "Alcuni dicono che queste ricette siano nate grazie ai commerci con il Vicino Oriente, se puoi crederci." },
+    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_LADYSOLDIER02834_000_014", "hash": "7166EAB5375BA8A0", "target": "Dovrei tornare subito a casa e... oh, cielo, credo di avere l'acquolina in bocca. Scusami. Grazie ancora per questa piacevolissima sorpresa." }
   ]
 }

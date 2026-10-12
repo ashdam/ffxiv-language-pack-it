@@ -2,19 +2,19 @@
   "conversation": "quest/028/StmBdz923_02879",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SEQ_00", "hash": "CCFC8CE8B63B5C10", "target": "" },
-    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_TODO_00", "hash": "6ECF20B743456A91", "target": "" },
-    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_TODO_01", "hash": "A7E14C90E3087347", "target": "" },
-    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SUPRIYA_000_000", "hash": "BD8A3B767D68CBCE", "target": "" },
-    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SUPRIYA_000_001", "hash": "D457C0DF3C019F4C", "target": "" },
-    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SUPRIYA_000_002", "hash": "558F336989B071FA", "target": "" },
-    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SUPRIYA_000_003", "hash": "A4B56FA8429180AD", "target": "" },
-    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SUPRIYA_000_005", "hash": "66911ECB17D11C74", "target": "" },
-    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SUPRIYA_000_010", "hash": "FFC762E9D05073B1", "target": "" },
-    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SUPRIYA_000_011", "hash": "F94B6950A650CBF4", "target": "" },
-    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SUPRIYA_000_012", "hash": "5FD1F64E1C3A8A2D", "target": "" },
-    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SUPRIYA_000_013", "hash": "B4942372769A4FEB", "target": "" },
-    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SUPRIYA_000_014", "hash": "7746D5E09C5F7108", "target": "" },
-    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SUPRIYA_000_015", "hash": "F76CDC5A25C4C338", "target": "" }
+    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SEQ_00", "hash": "CCFC8CE8B63B5C10", "target": "Supriya sembra incantata dall'idea delle piume di fagiano." },
+    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_TODO_00", "hash": "6ECF20B743456A91", "target": "Ottenere le piume di fagiano" },
+    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_TODO_01", "hash": "A7E14C90E3087347", "target": "Consegnare le piume di fagiano a Supriya" },
+    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SUPRIYA_000_000", "hash": "BD8A3B767D68CBCE", "target": "Tu sssei quell<if(gnum4,a,o)> che cammina e ha uccissso Sri Lakshmi...<br>Assscolteresti la mia umile richiessta?" },
+    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SUPRIYA_000_001", "hash": "D457C0DF3C019F4C", "target": "Ho ssentito raccontare degli uccelli noti come «fagiani», e desssidero qualche loro piuma. Ahimè, mi è ssstato ordinato di mantenere questa posssizione, e così farò." },
+    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SUPRIYA_000_002", "hash": "558F336989B071FA", "target": "Le mie sssorelle che pattugliano i sssentieri di montagna parlano di belle creature alate che volano sssopra il loro percorso. Forsse le piume che cerco ssi possono trovare cadute qua e là." },
+    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SUPRIYA_000_003", "hash": "A4B56FA8429180AD", "target": "Ti prego, tu che cammini, avventurati nel luogo elevato che la tua gente chiama «Royal Hunting Grounds» e raccogli tutte le piume di fagiano che riesssci a trovare." },
+    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SUPRIYA_000_005", "hash": "66911ECB17D11C74", "target": "Le piume che cerco ssi possono trovare nei vosstri «Royal Hunting Grounds». Chiedo sssolo una manciata di quesssti tesssori." },
+    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SUPRIYA_000_010", "hash": "FFC762E9D05073B1", "target": "Hai trovato le piume che cercavo?" },
+    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SUPRIYA_000_011", "hash": "F94B6950A650CBF4", "target": "Sssì... Sono più belle di quanto immaginasssi. I combattenti della Resssistenza con cui ho parlato dicono che le rissserve di caccia venivano mantenute per il piacere della famiglia reale di Ala Mhigo." },
+    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SUPRIYA_000_012", "hash": "5FD1F64E1C3A8A2D", "target": "Dicono che i fagiani fossssero inviati come doni dai nobili di altre terre, e lasssciati riprodurre per avere selvaggina da cacciare." },
+    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SUPRIYA_000_013", "hash": "B4942372769A4FEB", "target": "Le piume di fagiano, ressistenti ma flesssibili, erano apprezzate per l'impennaggio e usssate per realizzare frecce della masssima qualità. Perciò, a quanto pare, venivano cacciati tanto che quelle creature un tempo prolifiche divennero rare." },
+    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SUPRIYA_000_014", "hash": "7746D5E09C5F7108", "target": "Non mi piace uccidere quando non è necesssario. Ma se le piume ssono già cadute, non vedo motivo di sssprecarle." },
+    { "gameKey": "quest/028/StmBdz923_02879#TEXT_STMBDZ923_02879_SUPRIYA_000_015", "hash": "F76CDC5A25C4C338", "target": "Grazie, tu che hai uccissso Sri Lakshmi. Pressto avrò nuove, belle frecce per il mio arco." }
   ]
 }

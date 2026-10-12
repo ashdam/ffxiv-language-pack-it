@@ -2,18 +2,18 @@
   "conversation": "quest/026/StmBdz222_02694",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdz222_02694#TEXT_STMBDZ222_02694_SEQ_00", "hash": "113F021F62B56B43", "target": "" },
-    { "gameKey": "quest/026/StmBdz222_02694#TEXT_STMBDZ222_02694_TODO_00", "hash": "69A7358E1BA220FD", "target": "" },
-    { "gameKey": "quest/026/StmBdz222_02694#TEXT_STMBDZ222_02694_TODO_01", "hash": "8D31375ACFC74F68", "target": "" },
-    { "gameKey": "quest/026/StmBdz222_02694#TEXT_STMBDZ222_02694_TORO_000_000", "hash": "DDF96F85C5276B00", "target": "" },
-    { "gameKey": "quest/026/StmBdz222_02694#TEXT_STMBDZ222_02694_TORO_000_001", "hash": "B2F5A4AFB5505D60", "target": "" },
-    { "gameKey": "quest/026/StmBdz222_02694#TEXT_STMBDZ222_02694_TORO_000_002", "hash": "3D58879F3B26BC8C", "target": "" },
-    { "gameKey": "quest/026/StmBdz222_02694#TEXT_STMBDZ222_02694_TORO_000_003", "hash": "182B6A9D89C9F97E", "target": "" },
-    { "gameKey": "quest/026/StmBdz222_02694#TEXT_STMBDZ222_02694_TORO_000_004", "hash": "00DC012B7E3B6DC1", "target": "" },
-    { "gameKey": "quest/026/StmBdz222_02694#TEXT_STMBDZ222_02694_TORO_100_010", "hash": "A027440B1CBE4E59", "target": "" },
-    { "gameKey": "quest/026/StmBdz222_02694#TEXT_STMBDZ222_02694_TORO_000_010", "hash": "ACF9BBED3930D1A0", "target": "" },
-    { "gameKey": "quest/026/StmBdz222_02694#TEXT_STMBDZ222_02694_TORO_000_011", "hash": "E4EFCD5E96A344BE", "target": "" },
-    { "gameKey": "quest/026/StmBdz222_02694#TEXT_STMBDZ222_02694_TORO_000_012", "hash": "5E4FDC184132566E", "target": "" },
-    { "gameKey": "quest/026/StmBdz222_02694#TEXT_STMBDZ222_02694_TORO_000_013", "hash": "3D8BD920D82020BF", "target": "" }
+    { "gameKey": "quest/026/StmBdz222_02694#TEXT_STMBDZ222_02694_SEQ_00", "hash": "113F021F62B56B43", "target": "Toro ha bisogno di un paio di braccia forti." },
+    { "gameKey": "quest/026/StmBdz222_02694#TEXT_STMBDZ222_02694_TODO_00", "hash": "69A7358E1BA220FD", "target": "Uccidere gli Unkiu" },
+    { "gameKey": "quest/026/StmBdz222_02694#TEXT_STMBDZ222_02694_TODO_01", "hash": "8D31375ACFC74F68", "target": "Parlare con Toro" },
+    { "gameKey": "quest/026/StmBdz222_02694#TEXT_STMBDZ222_02694_TORO_000_000", "hash": "DDF96F85C5276B00", "target": "Ma guarda che braccia muscolose! Sembri forte quanto me, se non di più! Scommetterei tutti i miei tesori che anche tu potresti uccidere uno squalo volante a mani nude." },
+    { "gameKey": "quest/026/StmBdz222_02694#TEXT_STMBDZ222_02694_TORO_000_001", "hash": "B2F5A4AFB5505D60", "target": "L'altro giorno ho comprato questa pietra della vitalità da un mercante della superficie. Mi ha promesso che, indossandola, avrei ottenuto un'immensa forza fisica." },
+    { "gameKey": "quest/026/StmBdz222_02694#TEXT_STMBDZ222_02694_TORO_000_002", "hash": "3D58879F3B26BC8C", "target": "Sono andato a provarla contro ogni sorta di bestia selvatica, ma non sembrava avere alcun effetto. Potresti provare tu? Sospetto che ci sia un trucco per farla funzionare che ancora non ho capito." },
+    { "gameKey": "quest/026/StmBdz222_02694#TEXT_STMBDZ222_02694_TORO_000_003", "hash": "182B6A9D89C9F97E", "target": "Forse potresti provarla contro qualche Unkiu a est di qui. Si dice che queste bestie abbiano gusci duri come il diamante e siano quasi indistruttibili." },
+    { "gameKey": "quest/026/StmBdz222_02694#TEXT_STMBDZ222_02694_TORO_000_004", "hash": "00DC012B7E3B6DC1", "target": "Ti prego, prendi la pietra della vitalità e provala sugli Unkiu a est di qui." },
+    { "gameKey": "quest/026/StmBdz222_02694#TEXT_STMBDZ222_02694_TORO_100_010", "hash": "A027440B1CBE4E59", "target": "Allora, dimmi: la pietra della vitalità ha funzionato?" },
+    { "gameKey": "quest/026/StmBdz222_02694#TEXT_STMBDZ222_02694_TORO_000_010", "hash": "ACF9BBED3930D1A0", "target": "Non hai capito se avesse qualche effetto? \\<sospiro> Il mercante mi aveva avvertito che la pietra avrebbe fatto poco per chi ha già raggiunto la vera forza." },
+    { "gameKey": "quest/026/StmBdz222_02694#TEXT_STMBDZ222_02694_TORO_000_011", "hash": "E4EFCD5E96A344BE", "target": "Forse siamo semplicemente entrambi troppo forti per trarne qualche beneficio." },
+    { "gameKey": "quest/026/StmBdz222_02694#TEXT_STMBDZ222_02694_TORO_000_012", "hash": "5E4FDC184132566E", "target": "Sarà pure costata una fortuna, ma non rimpiango neanche un koban speso. Questa pietra mi ha dimostrato che ho ciò che serve per proteggere il mio popolo e il mio villaggio, e che per farlo non mi occorre altro che le mie braccia e le mie gambe." },
+    { "gameKey": "quest/026/StmBdz222_02694#TEXT_STMBDZ222_02694_TORO_000_013", "hash": "3D8BD920D82020BF", "target": "Terrò la pietra della vitalità per ricordarmelo. Grazie per tutto il tuo aiuto. Oggi mi hai fatto capire qualcosa di molto importante." }
   ]
 }

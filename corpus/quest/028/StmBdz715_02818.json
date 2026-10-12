@@ -2,19 +2,19 @@
   "conversation": "quest/028/StmBdz715_02818",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_SEQ_00", "hash": "21F4D3A7F57E3614", "target": "" },
-    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_TODO_00", "hash": "46F9E73408327092", "target": "" },
-    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_TODO_01", "hash": "14BDA910BCBE8D16", "target": "" },
-    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_000", "hash": "FBF9046A852C5350", "target": "" },
-    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_001", "hash": "3DBE993AE17B117B", "target": "" },
-    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_002", "hash": "2FC323919CAFAA04", "target": "" },
-    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_100_003", "hash": "73D149EC74B1069D", "target": "" },
-    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_003", "hash": "1DBFB1AD71631273", "target": "" },
-    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_004", "hash": "186CA5F1E03823D9", "target": "" },
-    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_005", "hash": "490378322043A832", "target": "" },
-    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_010", "hash": "54F428DF82C314E3", "target": "" },
-    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_011", "hash": "ABF13D848DC24D0F", "target": "" },
-    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_012", "hash": "1142C9DC925F0B70", "target": "" },
-    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_013", "hash": "A0823217C592B5F9", "target": "" }
+    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_SEQ_00", "hash": "21F4D3A7F57E3614", "target": "Jayanti sembra avere qualche riserva sulla sua prossima uscita." },
+    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_TODO_00", "hash": "46F9E73408327092", "target": "Usare la flat ale nel luogo indicato e abbattere i Gyr Abanian mud slugs" },
+    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_TODO_01", "hash": "14BDA910BCBE8D16", "target": "Fare rapporto a Jayanti" },
+    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_000", "hash": "FBF9046A852C5350", "target": "Ah, <if(gnum4,avventuriera,avventuriero)>. Ci stavamo preparando a cacciare. È un dovere di cui andiamo molto fiere, ma temo che ultimamente il rissschio per le mie sorelle sia aumentato." },
+    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_001", "hash": "3DBE993AE17B117B", "target": "La nostra arma migliore è la freccia avvelenata. Tutte le bestie sssoccombono rapidamente ai suoi effetti. Tutte tranne una: il Gyr Abanian mud slug. Ultimamente sono diventati più numerosssi, rendendo la caccia ancora più difficile." },
+    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_002", "hash": "2FC323919CAFAA04", "target": "La loro resistenza ai nostri veleni non ci lassscia altra scelta che combattere da vicino, ed è proprio questo il problema." },
+    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_100_003", "hash": "73D149EC74B1069D", "target": "Attaccano sssputando. Sembra inefficace contro la maggior parte delle creature, ma è molto corrosivo per la nostra pelle." },
+    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_003", "hash": "1DBFB1AD71631273", "target": "La Signora della Beatitudine si adirerebbe certamente se rovinasssimo la bella pelle di cui ci ha fatto dono. Per questo vorrei chiederti di ridurre il loro numero al posssto nostro." },
+    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_004", "hash": "186CA5F1E03823D9", "target": "Prendi questa bottiglia di flat ale. Spargila sul terreno a nord di qui e abbatti tutti gli ssslug attirati dall'odore." },
+    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_005", "hash": "490378322043A832", "target": "Quando arrivano gli ssslug, fa' attenzione ai loro sputi. Non so che effetto possano avere sui viandanti." },
+    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_010", "hash": "54F428DF82C314E3", "target": "Sei <if(gnum4,tornata sssana e salva,tornato sssano e salvo)>. Siamo fortunate ad avere stretto amicizia con una persona così capace." },
+    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_011", "hash": "ABF13D848DC24D0F", "target": "Dimmi, anche tu hai trovato gli ssslug ripugnanti?" },
+    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_012", "hash": "1142C9DC925F0B70", "target": "Il loro dorso vissscido e il loro contorcersi sgraziato. Non riesco a immaginare una creatura più orrenda dello slug." },
+    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_013", "hash": "A0823217C592B5F9", "target": "Eppure sembri immune sia alla loro sssaliva sia al loro aspetto grottesco. Se ci minacceranno di nuovo, ti chiamerò sssenz'altro." }
   ]
 }

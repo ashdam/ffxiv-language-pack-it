@@ -2,18 +2,18 @@
   "conversation": "quest/026/StmBdz102_02652",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_SEQ_00", "hash": "462E1B16188C7862", "target": "" },
-    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_TODO_00", "hash": "46D924CCBD2B21D2", "target": "" },
-    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_INJURED02652_000_000", "hash": "E5B51968E454C00A", "target": "" },
-    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_INJURED02652_000_001", "hash": "2D5F365D12455270", "target": "" },
-    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_INJURED02652_000_002", "hash": "827768C30E7F80E2", "target": "" },
-    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_INJURED02652_000_003", "hash": "C1CD2CD5785500C8", "target": "" },
-    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_INJURED02652_000_004", "hash": "45A15D008CA7676E", "target": "" },
-    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_INJURED02652_000_005", "hash": "A894895EA01461BF", "target": "" },
-    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_SURVIVINGFAMILY02652_000_010", "hash": "537C2231A26C7F1F", "target": "" },
-    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_SURVIVINGFAMILY02652_000_011", "hash": "6F66B1BBD8D591B1", "target": "" },
-    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_SURVIVINGFAMILY02652_000_012", "hash": "AAD9C9153D6C84E1", "target": "" },
-    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_SURVIVINGFAMILY02652_000_013", "hash": "169FA1AC246D8D85", "target": "" },
-    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_SURVIVINGFAMILY02652_000_014", "hash": "5564AC77EFA259FA", "target": "" }
+    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_SEQ_00", "hash": "462E1B16188C7862", "target": "Il combattente ferito della Resistenza ha molti pensieri." },
+    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_TODO_00", "hash": "46D924CCBD2B21D2", "target": "Consegnare la bloody bandana alla madre del combattente della Resistenza ad Ala Gannha" },
+    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_INJURED02652_000_000", "hash": "E5B51968E454C00A", "target": "Vorrei chiederti una cosa, <if(gnum4,ragazza,ragazzo)>." },
+    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_INJURED02652_000_001", "hash": "2D5F365D12455270", "target": "Mi sono unito alla Resistenza contro il volere di mia madre. Mi aspetta nella mia città natale." },
+    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_INJURED02652_000_002", "hash": "827768C30E7F80E2", "target": "Sono fortunato a essere ancora qui dopo l'ultima battaglia, e non voglio più dare per scontato il suo amore." },
+    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_INJURED02652_000_003", "hash": "C1CD2CD5785500C8", "target": "Ti prego, porta questa bandana a mia madre ad Ala Gannha, per conto mio." },
+    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_INJURED02652_000_004", "hash": "45A15D008CA7676E", "target": "E dille che le ho detto «Grazie». Voglio che sappia che capisco perché non voleva che mi unissi alla lotta contro l'Impero." },
+    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_INJURED02652_000_005", "hash": "A894895EA01461BF", "target": "Ti prego, porta questa bandana a mia madre ad Ala Gannha, per conto mio. E dille che le sono grato." },
+    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_SURVIVINGFAMILY02652_000_010", "hash": "537C2231A26C7F1F", "target": "Ci conosciamo?" },
+    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_SURVIVINGFAMILY02652_000_011", "hash": "6F66B1BBD8D591B1", "target": "M-Ma questa è di mio figlio! Gli è successo qualcosa!?" },
+    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_SURVIVINGFAMILY02652_000_012", "hash": "AAD9C9153D6C84E1", "target": "Grazie al cielo. È ancora al sicuro. Ho cercato di dissuaderlo dall'unirsi alla Resistenza, ma non voleva ascoltare. Abbiamo litigato duramente e alla fine è sgattaiolato via nel cuore della notte." },
+    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_SURVIVINGFAMILY02652_000_013", "hash": "169FA1AC246D8D85", "target": "Sapere che non mi porta rancore mi toglie un peso dal cuore. Però, il fatto che abbia restituito questa bandana deve significare che intende continuare a combattere." },
+    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_SURVIVINGFAMILY02652_000_014", "hash": "5564AC77EFA259FA", "target": "Se è davvero tanto risoluto, ho ben poche possibilità di convincerlo a tornare a casa. Continuerò a pregare perché ritorni sano e salvo." }
   ]
 }
