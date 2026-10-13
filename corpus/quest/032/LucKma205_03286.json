@@ -1,6 +1,6 @@
 {
   "conversation": "quest/032/LucKma205_03286",
-  "gameVersion": "2026.09.15.0000.0000",
+  "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/032/LucKma205_03286#TEXT_LUCKMA205_03286_SEQ_00", "hash": "29BD96DAF28AAA63", "target": "Alphinaud soppesa pensieroso il pennello che hai ricevuto da Tristol." },
     { "gameKey": "quest/032/LucKma205_03286#TEXT_LUCKMA205_03286_SEQ_01", "hash": "21F9331D1CD1FBDE", "target": "Con il pennello di Tristol in mano, Alphinaud espone il suo piano per entrare a Eulmore: lui si fingerà un pittore e tu interpreterai il ruolo <if(gnum4,della sua fedele assistente,del suo fedele assistente)>. Presa la decisione, partite per Gatetown, sperando che i giullari folli tornino presto in cerca di un nuovo artista..." },

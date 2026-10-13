@@ -1,6 +1,6 @@
 {
   "conversation": "quest/035/LucKzk001_03592",
-  "gameVersion": "2026.09.15.0000.0000",
+  "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKzk001_03592#TEXT_LUCKZK001_03592_SEQ_00", "hash": "3F12A96F47903FEC", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>L'addetto all'ufficio sembra considerarti <if(gnum4,una bambina,un bambino)> che ha perso la strada..." },
     { "gameKey": "quest/035/LucKzk001_03592#TEXT_LUCKZK001_03592_SEQ_01", "hash": "B52168EA9A7D33B2", "target": "L'Ufficio dell'Architetto svolge varie funzioni, fra cui l'approvazione e la regolamentazione dei «concetti» elaborati dalla gente di Amaurot, che sembra aver dominato il potere stesso della creazione per dare forma a qualsiasi cosa riesca a immaginare. Per saperne di più su questo e molto altro, l'addetto ti invita a parlare con le altre persone in attesa che le loro proposte vengano esaminate.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale." },

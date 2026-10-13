@@ -1,6 +1,6 @@
 {
   "conversation": "quest/005/ClsAlc250_00583",
-  "gameVersion": "2026.09.15.0000.0000",
+  "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/005/ClsAlc250_00583#TEXT_CLSALC250_00583_SEQ_00", "hash": "72BA94A1D191918E", "target": "Il pessimo umore del maestro della gilda Severian lascia intuire un altro incarico indesiderato in attesa del tuo aiuto." },
     { "gameKey": "quest/005/ClsAlc250_00583#TEXT_CLSALC250_00583_SEQ_01", "hash": "18ECD07850F46078", "target": "Il maestro della gilda conclude che l'incarico impostogli dai colleghi sia più adatto alla formazione continua <if(gnum4,della sua assistente,del suo assistente)>. Sintetizza un pinch of natron di alta qualità e consegnalo al tuo istruttore maniacale." },

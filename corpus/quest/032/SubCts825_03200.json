@@ -1,6 +1,6 @@
 {
   "conversation": "quest/032/SubCts825_03200",
-  "gameVersion": "2026.09.15.0000.0000",
+  "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/032/SubCts825_03200#TEXT_SUBCTS825_03200_SEQ_00", "hash": "1B5B83747C77AFF5", "target": "Il venditore di giornali mostra un interesse preoccupante nei tuoi confronti." },
     { "gameKey": "quest/032/SubCts825_03200#TEXT_SUBCTS825_03200_SEQ_01", "hash": "403077AC59275EEB", "target": "Mentre attraversi Kugane, un venditore di giornali ti chiama. Anziché venderti una pubblicazione locale, come ti aspetteresti, ti chiede se conosci una persona nota come <if([gnum4==0],il Sussurratore,la Sussurratrice)> dei Kamuy. Avendo familiarità con diversi di questi cani mistici, sospetti che si riferisca a te. Ti suggerisce di visitare il suo cliente vestito di cremisi a Namai, dicendo soltanto che «ne varrà la pena»." },

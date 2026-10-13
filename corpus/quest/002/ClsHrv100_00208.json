@@ -1,6 +1,6 @@
 {
   "conversation": "quest/002/ClsHrv100_00208",
-  "gameVersion": "2026.09.15.0000.0000",
+  "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/002/ClsHrv100_00208#TEXT_CLSHRV100_00208_SEQ_00", "hash": "22C920F477F6F7CE", "target": "Fufucha vuole assegnarti il primo incarico da <if(gnum4,botanica,botanico)>." },
     { "gameKey": "quest/002/ClsHrv100_00208#TEXT_CLSHRV100_00208_SEQ_01", "hash": "2ADDAB55D4D85EC3", "target": "Desiderando che tu acquisisca le basi della botanica attraverso l’esperienza pratica, Fufucha ti chiede di raccogliere abbastanza latex da riempire dieci recipienti. I mature trees fuori da Blue Badger Gate e Yellow Serpent Gate dovrebbero fornire ciò che ti serve." },

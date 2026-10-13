@@ -1,6 +1,6 @@
 {
   "conversation": "quest/041/AktKyx101_04167",
-  "gameVersion": "2026.09.15.0000.0000",
+  "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/041/AktKyx101_04167#TEXT_AKTKYX101_04167_SEQ_00", "hash": "EC40D1015A7A2E0C", "target": "Questo Loporrit in preda al panico ha disperatamente bisogno dell'aiuto di <if(gnum4,un'avventuriera,un avventuriero)> in buona forma." },
     { "gameKey": "quest/041/AktKyx101_04167#TEXT_AKTKYX101_04167_SEQ_01", "hash": "D60289043D738CC1", "target": "Sulla luna c'è un'emergenza e, pur non sapendo nulla di preciso, il Loporrit in preda al panico è fuori di sé. Sa soltanto che Buildingway ti cerca e ti chiede di raggiungere Mare Lamentorum al più presto." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/008/GaiUsb303_00844",
-  "gameVersion": "2026.09.15.0000.0000",
+  "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/008/GaiUsb303_00844#TEXT_GAIUSB303_00844_SEQ_00", "hash": "A5FB4D9875216BC6", "target": "Etgar sembra piuttosto emozionato in <if([gnum11<12],<if([gnum11<4],questa bella serata,questa bella mattinata)>,<if([gnum11<17],questa bella giornata,questa bella serata)>)>." },
     { "gameKey": "quest/008/GaiUsb303_00844#TEXT_GAIUSB303_00844_SEQ_01", "hash": "25EE0E7AE9774F6E", "target": "Etgar ti ha detto che mastro Byrglaent ha ingaggiato un miniaturista per creare una nuova etichetta di vino. Va' a incontrare l'artista ai moli della Gola dei Raccoglipioggia e informalo che il maestro vinificatore attende il suo arrivo." },
