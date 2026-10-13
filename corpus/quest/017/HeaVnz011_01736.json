@@ -1,6 +1,6 @@
 {
   "conversation": "quest/017/HeaVnz011_01736",
-  "gameVersion": "2026.09.15.0000.0000",
+  "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_SEQ_00", "hash": "D0EE99AB05DE5C05", "target": "Ingaret emette un lungo sospiro sconsolato." },
     { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_SEQ_01", "hash": "0EB08721C445D448", "target": "Ingaret sperava di poter cercare gli oggetti perduti di suo nonno presso i moli gelati vicino al Campo Riversmeet, ma non può lasciare il suo posto incustodito. Poiché bestie feroci si aggirano fra i moli, non può mandare chiunque al suo posto: decide che tu sei <if(gnum4,la donna adatta,l'uomo adatto)> al compito. Dimostra che ha visto giusto superando le bestie e tornando con gli effetti personali di suo nonno." },

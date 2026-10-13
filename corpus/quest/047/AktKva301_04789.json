@@ -1,6 +1,6 @@
 {
   "conversation": "quest/047/AktKva301_04789",
-  "gameVersion": "2026.09.15.0000.0000",
+  "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/047/AktKva301_04789#TEXT_AKTKVA301_04789_SEQ_00", "hash": "1885D83DC55B1780", "target": "Shallow Moor ha un incarico per <if(gnum4,una certa avventuriera,un certo avventuriero)>." },
     { "gameKey": "quest/047/AktKva301_04789#TEXT_AKTKVA301_04789_SEQ_01", "hash": "AFA74DE004BB85A4", "target": "I raccoglitori hanno ricevuto un incarico occasionale che porta il tuo nome, letteralmente. L'alchimista Pasasun, a nome del pescatore Matsya, ha chiesto aiuto per liberare l'amico da certi guai di natura imprecisata. Shallow Moor ti informa che, se deciderai di rispondere alla richiesta, dovresti trovare l'alchimista al Great Work." },

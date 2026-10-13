@@ -1,6 +1,6 @@
 {
   "conversation": "quest/054/KinGwk401_05483",
-  "gameVersion": "2026.09.15.0000.0000",
+  "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/054/KinGwk401_05483#TEXT_KINGWK401_05483_SEQ_00", "hash": "FD399E1B1042D7FA", "target": "La discrezione non è mai stata il forte di Searchingway, ma <if([gnum11<12],<if([gnum11<4],stanotte,oggi)>,<if([gnum11<17],oggi,stanotte)>)> vibra a una frequenza che suggerisce stia per scoppiare di notizie." },
     { "gameKey": "quest/054/KinGwk401_05483#TEXT_KINGWK401_05483_SEQ_01", "hash": "E3084E37ACE2EE7E", "target": "Incapace di trattenere ancora le buone notizie, Searchingway rivela che l'analisi della carta di navigazione dei Viaggiatori ha individuato la prossima destinazione. Il nome provvisorio «EG 1-9» ispira a Namingway soltanto la determinazione a sostituirlo, ma la promessa di reliquie mai viste ti alletta abbastanza da raggiungere i compagni di viaggio alla <italic(1)>Via Galattica<italic(0)>." },

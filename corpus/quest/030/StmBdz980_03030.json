@@ -1,6 +1,6 @@
 {
   "conversation": "quest/030/StmBdz980_03030",
-  "gameVersion": "2026.09.15.0000.0000",
+  "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     {"gameKey": "quest/030/StmBdz980_03030#TEXT_STMBDZ980_03030_SEQ_00", "hash": "99C0AFD5BA134D0E", "target": "Il vivace venditore ambulante decanta le sublimi qualità del sale della Salina."},
     {"gameKey": "quest/030/StmBdz980_03030#TEXT_STMBDZ980_03030_SEQ_01", "hash": "8491350E4FF69B5D", "target": "Un venditore ambulante incontrato a Rhalgr's Reach ti riconosce come <if([gnum4==0],l'eroe,l'eroina)> della rivoluzione di Ala Mhigo. Dopo averti ringraziato profusamente per avergli migliorato la vita, ti riferisce una richiesta di Wiscar: vorrebbe che visitassi i Lochs e la Salina appena possibile."},

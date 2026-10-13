@@ -1,6 +1,6 @@
 {
   "conversation": "quest/010/JobWhm300_01079",
-  "gameVersion": "2026.09.15.0000.0000",
+  "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/010/JobWhm300_01079#TEXT_JOBWHM300_01079_SEQ_00", "hash": "1132BD5608189192", "target": "E<-->Sumi<-->Yan ha un incarico per <if(gnum4,un'abile avventuriera,un abile avventuriero)>." },
     { "gameKey": "quest/010/JobWhm300_01079#TEXT_JOBWHM300_01079_SEQ_01", "hash": "7D3162C89FF08220", "target": "Raya<-->O<-->Senna e A<-->Ruhn<-->Senna, sorella e fratello della Veggente Anziana, sono diretti a Ombraperenne per compiere un rituale che plachi la furia del grande elementale che dimora nell'Albero Guardiano. Fratello E<-->Sumi<-->Yan teme per la loro sicurezza e ti affida il compito di proteggerli." },
