@@ -2,19 +2,19 @@
   "conversation": "quest/033/LucKza020_03362",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/033/LucKza020_03362#TEXT_LUCKZA020_03362_SEQ_00", "hash": "339B02A0B09ECB0D", "target": "" },
-    { "gameKey": "quest/033/LucKza020_03362#TEXT_LUCKZA020_03362_TODO_00", "hash": "623707EEDFF10CA8", "target": "" },
-    { "gameKey": "quest/033/LucKza020_03362#TEXT_LUCKZA020_03362_TODO_01", "hash": "6445DBB44B2F1A32", "target": "" },
-    { "gameKey": "quest/033/LucKza020_03362#TEXT_LUCKZA020_03362_BHILBIL_000_001", "hash": "104A1E0195C20BAA", "target": "" },
-    { "gameKey": "quest/033/LucKza020_03362#TEXT_LUCKZA020_03362_BHILBIL_000_002", "hash": "A29B6BBE110F6161", "target": "" },
-    { "gameKey": "quest/033/LucKza020_03362#TEXT_LUCKZA020_03362_BHILBIL_000_003", "hash": "A20BEA57AEC7E40B", "target": "" },
-    { "gameKey": "quest/033/LucKza020_03362#TEXT_LUCKZA020_03362_BHILBIL_000_004", "hash": "75608185B1876A5D", "target": "" },
-    { "gameKey": "quest/033/LucKza020_03362#TEXT_LUCKZA020_03362_BHILBIL_000_010", "hash": "510298DDDA42531C", "target": "" },
-    { "gameKey": "quest/033/LucKza020_03362#TEXT_LUCKZA020_03362_BHILBIL_000_020", "hash": "06D00F699CED7EF9", "target": "" },
-    { "gameKey": "quest/033/LucKza020_03362#TEXT_LUCKZA020_03362_BHILBIL_000_021", "hash": "523EB45D2AA4901A", "target": "" },
-    { "gameKey": "quest/033/LucKza020_03362#TEXT_LUCKZA020_03362_BHILBIL_000_022", "hash": "2B7E89DDF0BBCAD2", "target": "" },
-    { "gameKey": "quest/033/LucKza020_03362#TEXT_LUCKZA020_03362_BHILBIL_000_023", "hash": "0500DE02948BC94E", "target": "" },
-    { "gameKey": "quest/033/LucKza020_03362#TEXT_LUCKZA020_03362_BHILBIL_000_024", "hash": "7FD08D393F812C4F", "target": "" },
-    { "gameKey": "quest/033/LucKza020_03362#TEXT_LUCKZA020_03362_BHILBIL_000_025", "hash": "FBDB587BC1F00C89", "target": "" }
+    { "gameKey": "quest/033/LucKza020_03362#TEXT_LUCKZA020_03362_SEQ_00", "hash": "339B02A0B09ECB0D", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Bhil Bil cerca un lavoratore ignaro che lo aiuti a fare qualche gil in fretta." },
+    { "gameKey": "quest/033/LucKza020_03362#TEXT_LUCKZA020_03362_TODO_00", "hash": "623707EEDFF10CA8", "target": "Esaminare il luogo indicato e abbattere i gigantender per la loro carne" },
+    { "gameKey": "quest/033/LucKza020_03362#TEXT_LUCKZA020_03362_TODO_01", "hash": "6445DBB44B2F1A32", "target": "Consegnare un pezzo di fruiting gigantender flesh a Bhil Bil" },
+    { "gameKey": "quest/033/LucKza020_03362#TEXT_LUCKZA020_03362_BHILBIL_000_001", "hash": "104A1E0195C20BAA", "target": "<if(gnum4,Peccatrice,Peccatore)>! Da questa parte! Hai visto dei fruiting gigantender qui vicino, sì?" },
+    { "gameKey": "quest/033/LucKza020_03362#TEXT_LUCKZA020_03362_BHILBIL_000_002", "hash": "A29B6BBE110F6161", "target": "Sono molto aggressivi. Noi Mord stiamo lontani da loro, ma una persona come te... Sì, ho un'idea." },
+    { "gameKey": "quest/033/LucKza020_03362#TEXT_LUCKZA020_03362_BHILBIL_000_003", "hash": "A20BEA57AEC7E40B", "target": "Hai salute e forza! Ho un favore da chiederti. Portami pezzi, grossi pezzi della loro carne." },
+    { "gameKey": "quest/033/LucKza020_03362#TEXT_LUCKZA020_03362_BHILBIL_000_004", "hash": "75608185B1876A5D", "target": "Vai a est di qui e li troverai, oppure saranno loro a trovare te! Avrai una ricompensa se fai ciò che dico. Presto, ora!" },
+    { "gameKey": "quest/033/LucKza020_03362#TEXT_LUCKZA020_03362_BHILBIL_000_010", "hash": "510298DDDA42531C", "target": "Sei ancora qui, ma perché? Forse hai cambiato idea, sì?" },
+    { "gameKey": "quest/033/LucKza020_03362#TEXT_LUCKZA020_03362_BHILBIL_000_020", "hash": "06D00F699CED7EF9", "target": "Ce l'hai? Fammi vedere, fammi vedere!" },
+    { "gameKey": "quest/033/LucKza020_03362#TEXT_LUCKZA020_03362_BHILBIL_000_021", "hash": "523EB45D2AA4901A", "target": "Hai fatto bene. Molto bene..." },
+    { "gameKey": "quest/033/LucKza020_03362#TEXT_LUCKZA020_03362_BHILBIL_000_022", "hash": "2B7E89DDF0BBCAD2", "target": "Eh eh... Questa non è per le bocche dei Mord, no. Ma frutterà un bel prezzo." },
+    { "gameKey": "quest/033/LucKza020_03362#TEXT_LUCKZA020_03362_BHILBIL_000_023", "hash": "0500DE02948BC94E", "target": "I peccatori come te mangiano volentieri la carne di quelli piccoli. Di quelli grandi, non tanto." },
+    { "gameKey": "quest/033/LucKza020_03362#TEXT_LUCKZA020_03362_BHILBIL_000_024", "hash": "7FD08D393F812C4F", "target": "Sì, i piccoli sono buoni da vendere, ma difficili da catturare e uccidere. Però non così difficili per te, a quanto pare..." },
+    { "gameKey": "quest/033/LucKza020_03362#TEXT_LUCKZA020_03362_BHILBIL_000_025", "hash": "FBDB587BC1F00C89", "target": "Ecco, prendi questi luccichini." }
   ]
 }

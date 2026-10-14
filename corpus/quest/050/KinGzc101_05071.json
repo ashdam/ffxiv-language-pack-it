@@ -2,19 +2,19 @@
   "conversation": "quest/050/KinGzc101_05071",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_SEQ_00", "hash": "B0978C897FFE9F07", "target": "" },
-    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_TODO_00", "hash": "0EA36D2576D89EE1", "target": "" },
-    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_TODO_01", "hash": "F80C21BB96DF7543", "target": "" },
-    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_TODO_02", "hash": "CD4433AAB93E9EFD", "target": "" },
-    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_000", "hash": "00BBA7264E7C407A", "target": "" },
-    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_001", "hash": "C822F165CEF84FAE", "target": "" },
-    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_002", "hash": "6F3AC591C0F44DF2", "target": "" },
-    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_003", "hash": "664E9FF1C4689137", "target": "" },
-    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_004", "hash": "DBD5C2D900546583", "target": "" },
-    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_005", "hash": "06C8611C21499AC9", "target": "" },
-    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_006", "hash": "E77A11B04947A742", "target": "" },
-    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_007", "hash": "4E7BC4392C4E8C18", "target": "" },
-    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_008", "hash": "254DBB27983A902D", "target": "" },
-    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_009", "hash": "44686F50551D38BF", "target": "" }
+    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_SEQ_00", "hash": "B0978C897FFE9F07", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Prestapik ha gli occhilacrima per i suoi vasi polverizzati." },
+    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_TODO_00", "hash": "0EA36D2576D89EE1", "target": "Raccogliere la goodpot craftclay" },
+    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_TODO_01", "hash": "F80C21BB96DF7543", "target": "Raccogliere il fineflux feldspar" },
+    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_TODO_02", "hash": "CD4433AAB93E9EFD", "target": "Consegnare la goodpot craftclay e il fineflux feldspar a Prestapik" },
+    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_000", "hash": "00BBA7264E7C407A", "target": "Pfff... Pfffkohhh... Povero Prestapik... Chi può aiutare povero Prestapik?" },
+    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_001", "hash": "C822F165CEF84FAE", "target": "Bassaterra può aiutare povero Prestapik! Bassaterra <italic(1)>deve<italic(0)> aiutare povero Prestapik!" },
+    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_002", "hash": "6F3AC591C0F44DF2", "target": "Prestaorecchio, bassaterra. Prestapik ha una delle più belle collezioni di ceramiche di tutta Earthenshire... ma poi arriva tempesta, e tutti suoi preziosi vasi fanno spaccacocci!" },
+    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_003", "hash": "664E9FF1C4689137", "target": "Deve ingegnocreare vasi nuovi, ma Prestapik troppo impegnato in spazzacocci per tornare a scavosito e raccogliere scavomateriali." },
+    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_004", "hash": "DBD5C2D900546583", "target": "Bassaterra raccoglie scavomateriali per Prestapik? Servono goodpot craftclay e fineflux feldspar. Già scavatiesu e insaccati: chiede solo di riportarli da grotta vicino a pregaposto Yok Huy!" },
+    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_005", "hash": "06C8611C21499AC9", "target": "Prestapik aveva appena finito di scavare nuovo vasoforaggio quando arriva tempesta. Fa piedisvelti a villaggio, ma troppo tardi! Vasocasa già diventata marecocci... Ti prego, bassaterra! Vai a grotta dietro pregaposto Yok Huy e riporta preziosi scavomateriali di Prestapik!" },
+    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_006", "hash": "E77A11B04947A742", "target": "Pfffkohhh...? Trovati scavomateriali di Prestapik?" },
+    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_007", "hash": "4E7BC4392C4E8C18", "target": "Grangrazie, bassaterra! Prestapik ingegnocrea vasi nuovi subito!" },
+    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_008", "hash": "254DBB27983A902D", "target": "Tuttimobbie hanno bisogno di vasi, e molti. Dove altro mettere nostrerobe?" },
+    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_009", "hash": "44686F50551D38BF", "target": "Per questo tuttimobbie qui fanno vasi! Non serve chiedere a maniarte quando manimobbie bastano! Ma tempo per labbrasvolazzi finito: tempo per vasofare iniziato!" }
   ]
 }

@@ -2,18 +2,18 @@
   "conversation": "quest/050/KinGzc009_05068",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_SEQ_00", "hash": "B8B3A26A58963DC1", "target": "" },
-    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_TODO_00", "hash": "7F77798D05A0D339", "target": "" },
-    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_TODO_01", "hash": "C41ADD0F84930F88", "target": "" },
-    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_TODO_02", "hash": "A7FDEBF97E791823", "target": "" },
-    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_000", "hash": "16868998691EBFCC", "target": "" },
-    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_001", "hash": "EF781F6AE2DD52E8", "target": "" },
-    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_002", "hash": "F9D3282505492F2B", "target": "" },
-    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_003", "hash": "DDCC929451513936", "target": "" },
-    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_004", "hash": "8DFD74BA18EF7A2B", "target": "" },
-    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_005", "hash": "BF0BA9D69F5C5DCB", "target": "" },
-    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_006", "hash": "D9286E1B922C9D8B", "target": "" },
-    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_007", "hash": "7A43EF1225791668", "target": "" },
-    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_008", "hash": "5DC23EFF1F4B5456", "target": "" }
+    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_SEQ_00", "hash": "B8B3A26A58963DC1", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>L'industrioso carpentiere cerca un paio d'artigli in più, ma all'occorrenza andranno bene anche delle mani." },
+    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_TODO_00", "hash": "7F77798D05A0D339", "target": "Raccogliere i fasci di freshly cut reeds" },
+    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_TODO_01", "hash": "C41ADD0F84930F88", "target": "Disporre i fasci di freshly cut reeds nel luogo indicato" },
+    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_TODO_02", "hash": "A7FDEBF97E791823", "target": "Parlare con l'industrioso carpentiere" },
+    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_000", "hash": "16868998691EBFCC", "target": "Ohokaliy! Avresti un momento per dare una mano?" },
+    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_001", "hash": "EF781F6AE2DD52E8", "target": "Le canne stanno germogliando più vigorose che mai, e ora è il momento di riparare i nostri tetti consumati dalle intemperie." },
+    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_002", "hash": "F9D3282505492F2B", "target": "Ma le canne bagnate non vanno bene, proprio no! Prima devono essere essiccate a fondo, o i tetti potrebbero crollare alla prima goccia di pioggia." },
+    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_003", "hash": "DDCC929451513936", "target": "Ti chiedo di raccogliere le canne appena tagliate vicino a un edificio a est e portarle a Kozanuakiy, dove la brezza gentile le asciugherà. Aiutaci con questo compito e ti prometto che la ricompensa ti soddisferà!" },
+    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_004", "hash": "8DFD74BA18EF7A2B", "target": "Se lasciate dove sono, le canne potrebbero ammuffire. I venti gentili di Kozanuakiy le asciugheranno, rendendole adatte al lavoro che ci aspetta." },
+    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_005", "hash": "BF0BA9D69F5C5DCB", "target": "Hai finito? Sì? Grazie, le nostre case saranno molto più sicure grazie ai tuoi sforzi!" },
+    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_006", "hash": "D9286E1B922C9D8B", "target": "Immagino ti chieda perché ti abbia fatto portare le canne dall'altra parte del bosco. Be', Kozanuakiy significa «terra del santuario arido» nella nostra lingua." },
+    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_007", "hash": "7A43EF1225791668", "target": "Le leggende dicono che la brezza vicino al santuario sia tanto rasserenante che un tempo Kixaihih vi riposò le ali stanche." },
+    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_008", "hash": "5DC23EFF1F4B5456", "target": "Una volta essiccate le canne e riparati i tetti, le nostre case saranno più protette dalle intemperie. Per questa tranquillità vale la pena pagare qualsiasi prezzo. Ecco quindi la tua giusta ricompensa!" }
   ]
 }

@@ -2,19 +2,19 @@
   "conversation": "quest/034/LucKzd202_03432",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKzd202_03432#TEXT_LUCKZD202_03432_SEQ_00", "hash": "1024334213D5F63D", "target": "" },
-    { "gameKey": "quest/034/LucKzd202_03432#TEXT_LUCKZD202_03432_TODO_00", "hash": "8252EA4B7EB9D3B3", "target": "" },
-    { "gameKey": "quest/034/LucKzd202_03432#TEXT_LUCKZD202_03432_TODO_01", "hash": "D00813F2AC574E4F", "target": "" },
-    { "gameKey": "quest/034/LucKzd202_03432#TEXT_LUCKZD202_03432_THONAN_000_001", "hash": "ADBA8E2FDDC2846D", "target": "" },
-    { "gameKey": "quest/034/LucKzd202_03432#TEXT_LUCKZD202_03432_THONAN_000_002", "hash": "414B07EE69EEDFC1", "target": "" },
-    { "gameKey": "quest/034/LucKzd202_03432#TEXT_LUCKZD202_03432_THONAN_000_003", "hash": "650ED6802D5E9D46", "target": "" },
-    { "gameKey": "quest/034/LucKzd202_03432#TEXT_LUCKZD202_03432_THONAN_000_004", "hash": "EA80E58174C8B7E7", "target": "" },
-    { "gameKey": "quest/034/LucKzd202_03432#TEXT_LUCKZD202_03432_THONAN_000_020", "hash": "4AA3FBD39C928334", "target": "" },
-    { "gameKey": "quest/034/LucKzd202_03432#TEXT_LUCKZD202_03432_THONAN_000_021", "hash": "FD30761890A7DAD9", "target": "" },
-    { "gameKey": "quest/034/LucKzd202_03432#TEXT_LUCKZD202_03432_SYSTEM_000_022", "hash": "FF006F073BD14011", "target": "" },
-    { "gameKey": "quest/034/LucKzd202_03432#TEXT_LUCKZD202_03432_THONAN_000_023", "hash": "71FD10309B1D665B", "target": "" },
-    { "gameKey": "quest/034/LucKzd202_03432#TEXT_LUCKZD202_03432_THONAN_000_024", "hash": "79822F102A670A0E", "target": "" },
-    { "gameKey": "quest/034/LucKzd202_03432#TEXT_LUCKZD202_03432_THONAN_000_025", "hash": "5BA113547DA3BCF2", "target": "" },
-    { "gameKey": "quest/034/LucKzd202_03432#TEXT_LUCKZD202_03432_THONAN_000_026", "hash": "6E96B6AB95371CB5", "target": "" }
+    { "gameKey": "quest/034/LucKzd202_03432#TEXT_LUCKZD202_03432_SEQ_00", "hash": "1024334213D5F63D", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Thon An vorrebbe affidarti una mappa." },
+    { "gameKey": "quest/034/LucKzd202_03432#TEXT_LUCKZD202_03432_TODO_00", "hash": "8252EA4B7EB9D3B3", "target": "Cercare la prova nei pressi di Deepwood Swim" },
+    { "gameKey": "quest/034/LucKzd202_03432#TEXT_LUCKZD202_03432_TODO_01", "hash": "D00813F2AC574E4F", "target": "Consegnare la Voeburtite lockbox a Thon An" },
+    { "gameKey": "quest/034/LucKzd202_03432#TEXT_LUCKZD202_03432_THONAN_000_001", "hash": "ADBA8E2FDDC2846D", "target": "Ah, arriva <if(gnum4,una viaggiatrice,un viaggiatore)> che ha l'aria affidabile. Guarda questa mappa, per favore. Apparteneva al mio padrone, un cavaliere di Voeburt, e indica una prova relativa a una questione su cui stava indagando." },
+    { "gameKey": "quest/034/LucKzd202_03432#TEXT_LUCKZD202_03432_THONAN_000_002", "hash": "414B07EE69EEDFC1", "target": "Purtroppo il mio padrone è morto da molto tempo, e il luogo indicato sulla mappa giace sommerso sotto il Lago Longmirror. Noi amaro non siamo fatti per l'acqua, e non posso raggiungerlo. Se ritieni di saper nuotare bene, potresti cercare al posto mio?" },
+    { "gameKey": "quest/034/LucKzd202_03432#TEXT_LUCKZD202_03432_THONAN_000_003", "hash": "650ED6802D5E9D46", "target": "Ti sono debitore. Il luogo che cerchi è nei pressi di Deepwood Swim. Ti prego, immergiti lì e guarda cosa trovi." },
+    { "gameKey": "quest/034/LucKzd202_03432#TEXT_LUCKZD202_03432_THONAN_000_004", "hash": "EA80E58174C8B7E7", "target": "Il luogo che cerchi è nei pressi di Deepwood Swim. Ti prego, immergiti lì e guarda cosa trovi." },
+    { "gameKey": "quest/034/LucKzd202_03432#TEXT_LUCKZD202_03432_THONAN_000_020", "hash": "4AA3FBD39C928334", "target": "Ah, sei <if(gnum4,tornata,tornato)>. Sei <if(gnum4,riuscita,riuscito)> a trovare qualcosa?" },
+    { "gameKey": "quest/034/LucKzd202_03432#TEXT_LUCKZD202_03432_THONAN_000_021", "hash": "FD30761890A7DAD9", "target": "Mmm, a prima vista è un normale cofanetto. Forse la prova è all'interno. Non ho le appendici necessarie per aprirlo, quindi ti prego di farlo tu." },
+    { "gameKey": "quest/034/LucKzd202_03432#TEXT_LUCKZD202_03432_SYSTEM_000_022", "hash": "FF006F073BD14011", "target": "Con un po' di sforzo, il coperchio si stacca e rivela una pergamena consumata dal tempo, ma miracolosamente intatta nonostante l'acqua. Il contenuto è chiaramente leggibile." },
+    { "gameKey": "quest/034/LucKzd202_03432#TEXT_LUCKZD202_03432_THONAN_000_023", "hash": "71FD10309B1D665B", "target": "È una lettera che porta il simbolo dei maghi reali di Voeburt ed è indirizzata a una casata nobile. Una casata alleata con la fazione che cercava di usurpare la corona..." },
+    { "gameKey": "quest/034/LucKzd202_03432#TEXT_LUCKZD202_03432_THONAN_000_024", "hash": "79822F102A670A0E", "target": "Sembra che i maghi fossero in combutta con gli insorti. Se il mio padrone l'avesse vista, non si sarebbe fermato davanti a nulla pur di assicurarli tutti alla giustizia." },
+    { "gameKey": "quest/034/LucKzd202_03432#TEXT_LUCKZD202_03432_THONAN_000_025", "hash": "5BA113547DA3BCF2", "target": "Tuttavia il Diluvio rese tutto irrilevante. Il mio padrone, i traditori, il regno stesso: nessuno esiste più." },
+    { "gameKey": "quest/034/LucKzd202_03432#TEXT_LUCKZD202_03432_THONAN_000_026", "hash": "6E96B6AB95371CB5", "target": "Eppure recuperando questa lettera hai permesso al mio padrone di chiudere una questione che gli era sfuggita a lungo. Credo che ora possa riposare più serenamente. Grazie per il tuo gentile aiuto." }
   ]
 }

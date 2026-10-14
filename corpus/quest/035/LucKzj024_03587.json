@@ -2,15 +2,15 @@
   "conversation": "quest/035/LucKzj024_03587",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_SEQ_00", "hash": "2934EA88B9BF8FB0", "target": "" },
-    { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_TODO_00", "hash": "25C153200CBD5A17", "target": "" },
-    { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_TODO_01", "hash": "113A5FAEBAFB8386", "target": "" },
-    { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_000", "hash": "E429616B7099FC34", "target": "" },
-    { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_001", "hash": "721BC76EB96A8419", "target": "" },
-    { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_002", "hash": "679313162BCD4EA1", "target": "" },
-    { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_005", "hash": "2B1A0C556EC8E1D9", "target": "" },
-    { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_010", "hash": "3D72478C09834821", "target": "" },
-    { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_011", "hash": "70BF1142D77ABC48", "target": "" },
-    { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_012", "hash": "B362D1F72BC81F31", "target": "" }
+    { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_SEQ_00", "hash": "2934EA88B9BF8FB0", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>A Nemshs Ooan farebbe comodo una mano per un male necessario." },
+    { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_TODO_00", "hash": "25C153200CBD5A17", "target": "Uccidere i dagon" },
+    { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_TODO_01", "hash": "113A5FAEBAFB8386", "target": "Parlare con Nemshs Ooan" },
+    { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_000", "hash": "E429616B7099FC34", "target": "Salute, ospite onorato. Potresti aiutare un vecchio Ondo con una caccia difficoltosa?" },
+    { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_001", "hash": "721BC76EB96A8419", "target": "I dagon sono una minaccia per i giovani e i deboli: si travestono da rocce e tendono agguati alle prede per nutrirsi. Bisogna ridurne il numero per il bene di tutti, ma da solo non posso farcela." },
+    { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_002", "hash": "679313162BCD4EA1", "target": "Ti chiedo dunque di aiutarmi a uccidere questi fastidiosi parasssiti. Tre dovrebbero bastare. Vieni a trovarmi quando avrai finito." },
+    { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_005", "hash": "2B1A0C556EC8E1D9", "target": "Non devi ucciderne duecento o qualche altra quantità spropositata, <if(gnum4,amica,amico)>. Tre dagon sarebbero già un enorme aiuto." },
+    { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_010", "hash": "3D72478C09834821", "target": "Non dire altro, ospite onorato. I dagon sono morti. Sento l'odore del loro sangue su di te." },
+    { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_011", "hash": "70BF1142D77ABC48", "target": "Come gli Ondo, anche loro cercano rifugio nelle rovine antiche. È spiacevole doverci impegnare continuamente per tenerne il numero sotto controllo, altrimenti ci scaccerebbero dalle nostre case." },
+    { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_012", "hash": "B362D1F72BC81F31", "target": "Sarà ancora più difficile farlo senza l'acqua... ma ormai questa è la nostra vita. Non serve a nulla rimpiangere ciò che è andato perduto..." }
   ]
 }

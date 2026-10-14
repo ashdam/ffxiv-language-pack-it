@@ -2,19 +2,19 @@
   "conversation": "quest/034/LucKzg006_03491",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_SEQ_00", "hash": "07E843DC0CBE4C0D", "target": "" },
-    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_TODO_00", "hash": "A89BB7ECF33FCC77", "target": "" },
-    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_TODO_01", "hash": "22A34B8DC70B0E6A", "target": "" },
-    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_BHOLBOL_000_000", "hash": "92124257C67C4FB8", "target": "" },
-    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_BHOLBOL_000_001", "hash": "BE369ECA27E871FC", "target": "" },
-    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_BHOLBOL_000_002", "hash": "D39CFFAF34C43643", "target": "" },
-    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_BHOLBOL_000_003", "hash": "DCE31518CA771921", "target": "" },
-    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_BHOLBOL_000_004", "hash": "A28715904C12164C", "target": "" },
-    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_BHOLBOL_000_010", "hash": "2C3CBAFC49CE8A9C", "target": "" },
-    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_BHOLBOL_000_020", "hash": "A15AADD921683F56", "target": "" },
-    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_BHOLBOL_000_021", "hash": "A9C5955D73ED0AA1", "target": "" },
-    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_BHOLBOL_000_022", "hash": "0C34A03AB971E440", "target": "" },
-    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_BHOLBOL_000_023", "hash": "C911DF121BE5F8F8", "target": "" },
-    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_BHOLBOL_000_024", "hash": "23A382BCA99A79B4", "target": "" }
+    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_SEQ_00", "hash": "07E843DC0CBE4C0D", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Bhol Bol digrigna i denti, un chiaro segno del suo cattivo umore." },
+    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_TODO_00", "hash": "A89BB7ECF33FCC77", "target": "Versare l'olio viscoso sulla lucertola inselvatichita, poi ucciderla" },
+    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_TODO_01", "hash": "22A34B8DC70B0E6A", "target": "Consegnare la carne della lucertola inselvatichita a Bhol Bol" },
+    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_BHOLBOL_000_000", "hash": "92124257C67C4FB8", "target": "Ti ho <if(gnum4,vista,visto)> in giro, <if(gnum4,viaggiatrice,viaggiatore)>. Ti piace renderti utile, sì? C'è del lavoro per te, se vuoi." },
+    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_BHOLBOL_000_001", "hash": "BE369ECA27E871FC", "target": "Una delle lucertole che allevavo per la carne è scappata tempo fa. Pensavo che i predatori l'avessero già mangiata, ma una minatrice di Twine ha detto che l'ha attaccata. Sembra diventata una vera bestia." },
+    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_BHOLBOL_000_002", "hash": "D39CFFAF34C43643", "target": "Il che ci porta al lavoro in questione. Voglio che tu metta fine alle sue malefatte. Uccidila, in altre parole. Ti consiglio di ammorbidirne prima la pelle con un po' di quest'olio." },
+    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_BHOLBOL_000_003", "hash": "DCE31518CA771921", "target": "Quando te ne sarai <if(gnum4,occupata,occupato)>, portami la carne. Non ha senso sprecarla." },
+    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_BHOLBOL_000_004", "hash": "A28715904C12164C", "target": "Ho sentito che si aggira ai margini del villaggio, a ovest. E capirò dall'odore se cercherai di rifilarmi carne di un'altra lucertola, quindi non provarci nemmeno!" },
+    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_BHOLBOL_000_010", "hash": "2C3CBAFC49CE8A9C", "target": "Quasi tutte le lucertole sembrano uguali, così le distinguiamo dall'odore. Questa sa di cuoio bruciato, proprio come ci ha detto la minatrice di Twine." },
+    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_BHOLBOL_000_020", "hash": "A15AADD921683F56", "target": "Dici di averla uccisa? Dimostralo." },
+    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_BHOLBOL_000_021", "hash": "A9C5955D73ED0AA1", "target": "Molto bene. Quella bestia ci ha causato molti problemi, quindi è ora che ne ricaviamo qualcosa." },
+    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_BHOLBOL_000_022", "hash": "0C34A03AB971E440", "target": "Di solito sono piuttosto innocue da giovani, ma questa era una piccola bastarda feroce già allora." },
+    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_BHOLBOL_000_023", "hash": "C911DF121BE5F8F8", "target": "Eh! Ben le sta, per aver sbranato i passanti. Se avesse avuto un po' di cervello, sarebbe scomparsa per sempre." },
+    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_BHOLBOL_000_024", "hash": "23A382BCA99A79B4", "target": "Comunque essiccherò questa carne e la manderò a Twine per scusarmi. Per te, questa dovrebbe essere una ricompensa abbondante." }
   ]
 }

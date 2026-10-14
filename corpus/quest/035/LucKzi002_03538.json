@@ -2,18 +2,18 @@
   "conversation": "quest/035/LucKzi002_03538",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzi002_03538#TEXT_LUCKZI002_03538_SEQ_00", "hash": "461C9075C1E816E2", "target": "" },
-    { "gameKey": "quest/035/LucKzi002_03538#TEXT_LUCKZI002_03538_TODO_00", "hash": "AEAD962B04423CC5", "target": "" },
-    { "gameKey": "quest/035/LucKzi002_03538#TEXT_LUCKZI002_03538_TODO_01", "hash": "8F34957BBCEDA060", "target": "" },
-    { "gameKey": "quest/035/LucKzi002_03538#TEXT_LUCKZI002_03538_TODO_02", "hash": "8B91B13D2C21C9A4", "target": "" },
-    { "gameKey": "quest/035/LucKzi002_03538#TEXT_LUCKZI002_03538_GRAWLEY_000_000", "hash": "E15A458E695019A8", "target": "" },
-    { "gameKey": "quest/035/LucKzi002_03538#TEXT_LUCKZI002_03538_GRAWLEY_000_001", "hash": "4F14CFFF737D8434", "target": "" },
-    { "gameKey": "quest/035/LucKzi002_03538#TEXT_LUCKZI002_03538_GRAWLEY_000_002", "hash": "C5E6951E78AEB0EC", "target": "" },
-    { "gameKey": "quest/035/LucKzi002_03538#TEXT_LUCKZI002_03538_GRAWLEY_000_003", "hash": "CA4D72EF4214955C", "target": "" },
-    { "gameKey": "quest/035/LucKzi002_03538#TEXT_LUCKZI002_03538_GRAWLEY_000_004", "hash": "6E0FA270E8811307", "target": "" },
-    { "gameKey": "quest/035/LucKzi002_03538#TEXT_LUCKZI002_03538_GRAWLEY_000_010", "hash": "DD4FEDD9D838ABCA", "target": "" },
-    { "gameKey": "quest/035/LucKzi002_03538#TEXT_LUCKZI002_03538_GRAWLEY_000_011", "hash": "FBA1A65A595D2EF5", "target": "" },
-    { "gameKey": "quest/035/LucKzi002_03538#TEXT_LUCKZI002_03538_GRAWLEY_000_012", "hash": "A1709FF494FE3805", "target": "" },
-    { "gameKey": "quest/035/LucKzi002_03538#TEXT_LUCKZI002_03538_GRAWLEY_000_013", "hash": "D5A7693C1C0F4B34", "target": "" }
+    { "gameKey": "quest/035/LucKzi002_03538#TEXT_LUCKZI002_03538_SEQ_00", "hash": "461C9075C1E816E2", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Grawley sembra sul punto di esplodere." },
+    { "gameKey": "quest/035/LucKzi002_03538#TEXT_LUCKZI002_03538_TODO_00", "hash": "AEAD962B04423CC5", "target": "Posizionare il bulging sack of foodstuffs nel luogo indicato" },
+    { "gameKey": "quest/035/LucKzi002_03538#TEXT_LUCKZI002_03538_TODO_01", "hash": "8F34957BBCEDA060", "target": "Attendere e sconfiggere gli hobgoblin thieves" },
+    { "gameKey": "quest/035/LucKzi002_03538#TEXT_LUCKZI002_03538_TODO_02", "hash": "8B91B13D2C21C9A4", "target": "Riferire a Grawley" },
+    { "gameKey": "quest/035/LucKzi002_03538#TEXT_LUCKZI002_03538_GRAWLEY_000_000", "hash": "E15A458E695019A8", "target": "Aaah, quando è troppo è troppo!!!" },
+    { "gameKey": "quest/035/LucKzi002_03538#TEXT_LUCKZI002_03538_GRAWLEY_000_001", "hash": "4F14CFFF737D8434", "target": "...Scusa, non ce l'avevo con te. Sono quei maledetti hobgoblin..." },
+    { "gameKey": "quest/035/LucKzi002_03538#TEXT_LUCKZI002_03538_GRAWLEY_000_002", "hash": "C5E6951E78AEB0EC", "target": "Sanno che nessuno di noi sa combattere, quindi si intrufolano e saccheggiano le nostre scorte di cibo, con una faccia tosta incredibile! Ma scommetto che tu potresti dar loro qualcosa da masticare, eh?" },
+    { "gameKey": "quest/035/LucKzi002_03538#TEXT_LUCKZI002_03538_GRAWLEY_000_003", "hash": "CA4D72EF4214955C", "target": "Ecco, prendi questo sacco di provviste e lascialo appena fuori dal villaggio. Quando quei ladri arriveranno ad annusare in giro, salta fuori dal nascondiglio e scatena una tempesta di giusta vendetta!" },
+    { "gameKey": "quest/035/LucKzi002_03538#TEXT_LUCKZI002_03538_GRAWLEY_000_004", "hash": "6E0FA270E8811307", "target": "La giustizia va servita! Apparecchia con quel sacco di provviste e assicurati che quegli hobgoblin ne ricevano una bella porzione!" },
+    { "gameKey": "quest/035/LucKzi002_03538#TEXT_LUCKZI002_03538_GRAWLEY_000_010", "hash": "DD4FEDD9D838ABCA", "target": "Sì! Vendetta per i pasti saltati e le pance brontolanti! Ottimo lavoro!" },
+    { "gameKey": "quest/035/LucKzi002_03538#TEXT_LUCKZI002_03538_GRAWLEY_000_011", "hash": "FBA1A65A595D2EF5", "target": "Gli hobgoblin tormentano quest'isola da tempo immemorabile. Sono abbastanza furbi da fabbricare attrezzi, ma si comportano comunque come bestie: bruti meschini e sudici senza il minimo briciolo di decenza!" },
+    { "gameKey": "quest/035/LucKzi002_03538#TEXT_LUCKZI002_03538_GRAWLEY_000_012", "hash": "A1709FF494FE3805", "target": "E anche se per ora li hai intimoriti, temo che non impareranno la lezione. Oh, torneranno. Puoi starne <if(gnum4,certa,certo)>." },
+    { "gameKey": "quest/035/LucKzi002_03538#TEXT_LUCKZI002_03538_GRAWLEY_000_013", "hash": "D5A7693C1C0F4B34", "target": "Nel frattempo, dovremo pensare a una soluzione più <italic(1)>definitiva<italic(0)>..." }
   ]
 }

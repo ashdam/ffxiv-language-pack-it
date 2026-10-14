@@ -2,17 +2,17 @@
   "conversation": "quest/050/KinGzc002_05061",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_SEQ_00", "hash": "9C836BB759542217", "target": "" },
-    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_TODO_00", "hash": "95F50BE2BAE533F0", "target": "" },
-    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_TODO_01", "hash": "56E499B9B26D4AE0", "target": "" },
-    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_000", "hash": "8257E1FBDF3DA039", "target": "" },
-    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_001", "hash": "D05525865E9F62F1", "target": "" },
-    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_002", "hash": "33BCD2A7F322AFDA", "target": "" },
-    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_003", "hash": "EA7B28196B43FA9C", "target": "" },
-    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_004", "hash": "8D557BCD6BA80CBC", "target": "" },
-    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_005", "hash": "8A4F9E1C6975A3A2", "target": "" },
-    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_006", "hash": "DF81965E773283C3", "target": "" },
-    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_007", "hash": "FE6D231305F6B069", "target": "" },
-    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_009", "hash": "04B947EEF77C8D98", "target": "" }
+    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_SEQ_00", "hash": "9C836BB759542217", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Zanuhanu giocherella nervosamente con gli artigli." },
+    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_TODO_00", "hash": "95F50BE2BAE533F0", "target": "Esaminare il punto indicato e uccidere un marbled beetle per il suo guscio" },
+    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_TODO_01", "hash": "56E499B9B26D4AE0", "target": "Consegnare il marbled shell a Zanuhanu" },
+    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_000", "hash": "8257E1FBDF3DA039", "target": "Oh, non ne ho proprio abbastanza. Di questo passo non finirò mai..." },
+    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_001", "hash": "D05525865E9F62F1", "target": "Oh? Ma un'anima gentile potrebbe cambiare le cose! Gentile e forte, abbastanza forte da aiutarmi con un piccolo problema." },
+    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_002", "hash": "33BCD2A7F322AFDA", "target": "Vedi, presto noi Hanu cominceremo a perdere le piume e a farne crescere di nuove, ma la grande tempesta ha portato via le nostre scorte di pettini. Non possiamo certo usare gli <italic(1)>artigli<italic(0)>, quindi da allora passo ogni momento libero a fabbricarne quanti più posso. Ora sto finendo i materiali..." },
+    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_003", "hash": "EA7B28196B43FA9C", "target": "Ma se avessi un guscio di marbled beetle adulto, potrei fare pettini per tutti. Ti prego, affrettati nel bosco a sud-ovest e cacciane uno: sento già cadere le piume mentre parliamo!" },
+    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_004", "hash": "8D557BCD6BA80CBC", "target": "Gli scarabei più vecchi hanno i gusci più resistenti e, naturalmente, ne vengono i pettini migliori. Li troverai a sud-ovest di qui. Oh, e fa' attenzione a non ferirti con le loro mandibole!" },
+    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_005", "hash": "8A4F9E1C6975A3A2", "target": "Sei già di ritorno? Hai <italic(1)>davvero<italic(0)> cacciato uno scarabeo adulto, vero? Non uno appena nato?" },
+    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_006", "hash": "DF81965E773283C3", "target": "Oh, è in condizioni squisite! Farò pettini degni di Kixaihih!" },
+    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_007", "hash": "FE6D231305F6B069", "target": "Come puoi immaginare, nella stagione della muta i pavimenti si coprono di piume cadute. Se il piumaggio non viene perso correttamente, non è solo brutto da vedere: le vecchie piume possono farci ammalare!" },
+    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_009", "hash": "04B947EEF77C8D98", "target": "Ecco perché un buon pettine è essenziale per noi quanto una buona lancia. Ed ecco perché meriti una ricompensa adeguata al tuo contributo alla nostra salute e bellezza!" }
   ]
 }

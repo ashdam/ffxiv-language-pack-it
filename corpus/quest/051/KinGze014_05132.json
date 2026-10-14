@@ -2,18 +2,18 @@
   "conversation": "quest/051/KinGze014_05132",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_SEQ_00", "hash": "0898FBF6E62288F3", "target": "" },
-    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_TODO_00", "hash": "FB54FF55E751388C", "target": "" },
-    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_TODO_01", "hash": "FD15985A9DC3D71E", "target": "" },
-    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_000", "hash": "3E2822EBF9618717", "target": "" },
-    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_001", "hash": "132F0F6B116A1154", "target": "" },
-    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_002", "hash": "90740899ABD85BAC", "target": "" },
-    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_003", "hash": "31435B22F3AC5EE4", "target": "" },
-    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_004", "hash": "5CE0136CFDA37258", "target": "" },
-    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_010", "hash": "1F20253E3DBE9807", "target": "" },
-    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_020", "hash": "3143701F04F8C8B6", "target": "" },
-    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_021", "hash": "630736EADED78D3F", "target": "" },
-    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_022", "hash": "3CE14C9AAFB0F439", "target": "" },
-    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_023", "hash": "63B425A96C5A18A8", "target": "" }
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_SEQ_00", "hash": "0898FBF6E62288F3", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Le infestazioni delle colture sono una cosa, ma che succede quando le colture <italic(1)>sono<italic(0)> l'infestazione?" },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_TODO_00", "hash": "FB54FF55E751388C", "target": "Spargere il flying popoto repellent nei luoghi indicati e sconfiggere i nemici che compaiono" },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_TODO_01", "hash": "FD15985A9DC3D71E", "target": "Parlare con il cittadino preoccupato" },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_000", "hash": "3E2822EBF9618717", "target": "<if([gnum11<12],<if([gnum11<4],Buonasera,Buongiorno)>,<if([gnum11<17],Buongiorno,Buonasera)>)>, <if(gnum4,viaggiatrice,viaggiatore)>. Eh, sembra che tu conosca bene il pericolo. In tal caso, ho un lavoro per te." },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_001", "hash": "132F0F6B116A1154", "target": "Ultimamente siamo invasi dai popoto volanti. Non lasciarti ingannare dal nome: sono bestiole cattive. Tempo fa abbiamo sparso un repellente, ma sembra che l'effetto stia svanendo." },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_002", "hash": "90740899ABD85BAC", "target": "Da quando è comparsa quell'enorme cupola, abbiamo avuto ogni sorta di guaio da affrontare e non riesco proprio a trovare il tempo per spargere il repellente. Dev'essere per questo che quei maledetti popoto arrivano a frotte. Di questo passo invaderanno tutto il posto!" },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_003", "hash": "31435B22F3AC5EE4", "target": "Andrei a spargere il repellente di persona, ma mi divorerebbero in un batter d'occhio. Pensi di potertene occupare per me?" },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_004", "hash": "5CE0136CFDA37258", "target": "Oh, e il repellente non agisce subito, quindi i popoto volanti già presenti andranno probabilmente eliminati alla vecchia maniera. Se potessi occuparti anche di quello, faresti un gran favore a tutti noi!" },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_010", "hash": "1F20253E3DBE9807", "target": "Accidenti, l’ultima cosa che voglio nel mio necrologio è «Morte per divoramento da parte di popoto...»" },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_020", "hash": "3143701F04F8C8B6", "target": "Hai finito? Questo dovrebbe tenerli lontani, almeno per un po'." },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_021", "hash": "630736EADED78D3F", "target": "Vedi, finché non abbiamo scoperto come ricavare un repellente da succhi dall'odore amaro, quei popoto devastavano le nostre colture, mangiavano i nostri rroneek... Hanno perfino provato ad addentare più di un abitante!" },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_022", "hash": "3CE14C9AAFB0F439", "target": "Abbiamo provato a chiedere alla Dustwatch di occuparsene, ma non volevano essere coinvolti nell'abbattimento di... ehm, tuberi selvatici. Un'altra possibilità era costruire una recinzione perimetrale, ma ci mancano persone e materiali. Perciò abbiamo ideato il repellente." },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_023", "hash": "63B425A96C5A18A8", "target": "Comunque, non serve che ti assilli raccontandoti tutto questo! Ci hai fatto un bel favore e non lo dimenticherò presto." }
   ]
 }

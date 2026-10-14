@@ -2,19 +2,19 @@
   "conversation": "quest/051/KinGzf104_05158",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_SEQ_00", "hash": "B8AF879700CFCFA6", "target": "" },
-    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_TODO_00", "hash": "49F2C545913FFD67", "target": "" },
-    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_TODO_01", "hash": "40CA82C7F6D8E4A3", "target": "" },
-    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_TODO_02", "hash": "594CE55BB65C51F6", "target": "" },
-    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_CINNABAR_000_000", "hash": "B3037235A58EC65B", "target": "" },
-    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_CINNABAR_000_001", "hash": "3C908F0CC4389195", "target": "" },
-    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_CINNABAR_000_002", "hash": "2AEB1C83D9BEE533", "target": "" },
-    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_CINNABAR_000_003", "hash": "A30DB4FFEE7F60F6", "target": "" },
-    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_CINNABAR_000_004", "hash": "9E7195A10C6B0574", "target": "" },
-    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_CINNABAR_000_005", "hash": "A3C6215823F4712D", "target": "" },
-    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_CINNABAR_000_006", "hash": "E58AF06E4ED72E21", "target": "" },
-    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_CINNABAR_000_007", "hash": "F04A62EF91B57ABA", "target": "" },
-    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_CINNABAR_000_008", "hash": "02F5A1B893AD0345", "target": "" },
-    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_CINNABAR_000_009", "hash": "D3355536B40C4F29", "target": "" }
+    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_SEQ_00", "hash": "B8AF879700CFCFA6", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Cinnabar ha bisogno di una mano, preferibilmente armata." },
+    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_TODO_00", "hash": "49F2C545913FFD67", "target": "Sconfiggere i mostri che infestano la voragine crepitante a nord-ovest" },
+    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_TODO_01", "hash": "40CA82C7F6D8E4A3", "target": "Sconfiggere i mostri che infestano la voragine crepitante a sud" },
+    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_TODO_02", "hash": "594CE55BB65C51F6", "target": "Parlare con Cinnabar" },
+    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_CINNABAR_000_000", "hash": "B3037235A58EC65B", "target": "Ah, eccellente. Proprio ciò che mi serve: qualcuno che sembra saper uccidere." },
+    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_CINNABAR_000_001", "hash": "3C908F0CC4389195", "target": "Venendo qui, hai notato per caso le dense sacche di energia del fulmine sparse in giro?" },
+    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_CINNABAR_000_002", "hash": "2AEB1C83D9BEE533", "target": "Queste zone tendono ad attirare sciami di mostri. Normalmente li facciamo eliminare da un cacciatore, ma dato che sono a corto di personale, vorrei assumere te per il compito." },
+    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_CINNABAR_000_003", "hash": "A30DB4FFEE7F60F6", "target": "Le zone più infestate si trovano a nord-ovest e a sud. Oh, e un avvertimento: cerca di non caderci dentro. Il formicolio è molto spiacevole." },
+    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_CINNABAR_000_004", "hash": "9E7195A10C6B0574", "target": "I crateri infestati si trovano a nord-ovest e a sud. Cerca di uccidere i mostri prima che ti si intorpidisca la mano con cui impugni l'arma, va bene?" },
+    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_CINNABAR_000_005", "hash": "A3C6215823F4712D", "target": "Li hai eliminati tutti, immagino? Un lavoro fantastico." },
+    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_CINNABAR_000_006", "hash": "E58AF06E4ED72E21", "target": "Vedi laggiù, oltre la riva occidentale, il minaccioso bagliore viola della città capovolta? Per quello dobbiamo ringraziare la Guerra dei Fulmini." },
+    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_CINNABAR_000_007", "hash": "F04A62EF91B57ABA", "target": "Si dice che un'arma bellica abbia creato quella gigantesca sorgente di fulmini. E dove si raduna tanta energia, si radunano anche mostri, dieci volte di più." },
+    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_CINNABAR_000_008", "hash": "02F5A1B893AD0345", "target": "Rispetto a una cosa simile, queste piccole voragini sembrano quasi decorative. Eppure i mostri sono un pericolo che non possiamo ignorare. \\<sospiro> Se solo avessimo una soluzione più duratura." },
+    { "gameKey": "quest/051/KinGzf104_05158#TEXT_KINGZF104_05158_CINNABAR_000_009", "hash": "D3355536B40C4F29", "target": "Ah, ma divago. Qui il tuo lavoro è finito ed è ora che tu riceva il compenso per i servizi resi. Buon viaggio!" }
   ]
 }

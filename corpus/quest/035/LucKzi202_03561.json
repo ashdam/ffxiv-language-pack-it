@@ -2,18 +2,18 @@
   "conversation": "quest/035/LucKzi202_03561",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_SEQ_00", "hash": "7B680955E8DAC713", "target": "" },
-    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_TODO_00", "hash": "1180F745D4EA8910", "target": "" },
-    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_TODO_01", "hash": "E393770282DE7061", "target": "" },
-    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_000", "hash": "7E995F85BB909A1C", "target": "" },
-    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_001", "hash": "AC842AF74C815670", "target": "" },
-    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_002", "hash": "E148AAFFC3E80DEB", "target": "" },
-    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_003", "hash": "91C690F10AEC7607", "target": "" },
-    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_004", "hash": "6F7F04BB0E5D49BE", "target": "" },
-    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_005", "hash": "7CB8A62837D48221", "target": "" },
-    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_006", "hash": "8B97D90162F52A14", "target": "" },
-    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_010", "hash": "FE0C84D391D76419", "target": "" },
-    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_011", "hash": "47C2C3A8FA9AFEF2", "target": "" },
-    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_012", "hash": "1CE39304E206A8C6", "target": "" }
+    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_SEQ_00", "hash": "7B680955E8DAC713", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Xorutt è basso, barbuto e pronto a preparare la birra." },
+    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_TODO_00", "hash": "1180F745D4EA8910", "target": "Trovare ciuffi di magma grass e raccogliere magma blooms" },
+    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_TODO_01", "hash": "E393770282DE7061", "target": "Consegnare i magma blooms a Xorutt" },
+    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_000", "hash": "7E995F85BB909A1C", "target": "Lali-ho! Senti, non sei <switch(gnum71,la persona in viaggio,la persona in viaggio,<if(gnum4,la nana straniera,il nano straniero)>,la persona in viaggio,la persona in viaggio,la persona in viaggio,la persona in viaggio,la persona in viaggio)> di cui parlano tutti?" },
+    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_001", "hash": "AC842AF74C815670", "target": "Beh, ancora lali-ho e benvenuti a Tomra! Ti offrirò un po' di ospitalità Tholl e non accetterò un no!" },
+    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_002", "hash": "E148AAFFC3E80DEB", "target": "Prima di tutto prepariamo insieme della birra nanica! Sì, ci divertiremo!" },
+    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_003", "hash": "91C690F10AEC7607", "target": "La maggior parte della gente prepara la birra con l'orzo, ma non noi nani. Usiamo semi raccolti dall'erba del magma che cresce sulle pendici di Mt. Gulg." },
+    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_004", "hash": "6F7F04BB0E5D49BE", "target": "Quelle erbacce assorbono l'aria marina da quando spuntano dalla terra fino a quando appassiscono e muoiono. Danno alla nostra birra un sapore pungente che non troverai mai nella roba fatta con l'orzo!" },
+    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_005", "hash": "7CB8A62837D48221", "target": "Quindi! Facciamo in modo che tu viva tutta l'esperienza, d'accordo? Esci dal villaggio e raccogli circa quattro bei fiori di magma, sono pieni zeppi di semi, sai!" },
+    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_006", "hash": "8B97D90162F52A14", "target": "...Che aspetto hanno i fiori di magma? Beh, sono alti, arancioni e probabilmente un po' scintillanti. Li riconoscerai appena li vedrai." },
+    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_010", "hash": "FE0C84D391D76419", "target": "Allora? Hai raccolto quei fiori come ti ho chiesto? Stiamo perdendo tempo prezioso per la birra!" },
+    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_011", "hash": "47C2C3A8FA9AFEF2", "target": "Sì, sono abbastanza semi da riempire il mio elmo e anche di più! Ben fatto! La prossima parte è un po' complicata, quindi lasciamola a un esperto. Vale a dire, me." },
+    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_012", "hash": "1CE39304E206A8C6", "target": "Ma non andare ancora via! Le nostre tradizioni non consistono solo nel raccogliere fiori scintillanti, e abbiamo appena cominciato!" }
   ]
 }

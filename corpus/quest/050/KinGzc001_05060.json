@@ -2,19 +2,19 @@
   "conversation": "quest/050/KinGzc001_05060",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_SEQ_00", "hash": "3C88A0A6E1698D0B", "target": "" },
-    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_TODO_00", "hash": "E5E534A225DBD813", "target": "" },
-    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_TODO_01", "hash": "E9ABFB6667DBEB09", "target": "" },
-    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_TODO_02", "hash": "1969679D1F00C6CA", "target": "" },
-    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_KANUHANU_000_001", "hash": "C8D8F123AD0F85C8", "target": "" },
-    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_KANUHANU_000_002", "hash": "645BD4A286BB5C86", "target": "" },
-    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_KANUHANU_000_003", "hash": "FCAE0A8F6AD13E15", "target": "" },
-    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_KANUHANU_000_004", "hash": "0B54A74BFF96B24C", "target": "" },
-    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_KANUHANU_000_005", "hash": "A51EF7B63D5BCBBF", "target": "" },
-    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_SYSTEM_000_006", "hash": "780BF052BB6AB983", "target": "" },
-    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_KANUHANU_000_007", "hash": "79BF96F508FE6494", "target": "" },
-    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_KANUHANU_000_008", "hash": "25F5C00D666F2DEF", "target": "" },
-    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_KANUHANU_000_009", "hash": "901CF2B5E0DF14DB", "target": "" },
-    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_KANUHANU_000_010", "hash": "77BB33F8C3294798", "target": "" }
+    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_SEQ_00", "hash": "3C88A0A6E1698D0B", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Kanuhanu guarda i pilastri di legno con occhi preoccupati." },
+    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_TODO_00", "hash": "E5E534A225DBD813", "target": "Ottenere repellent resin dal boschetto a nord di Ok'hanu" },
+    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_TODO_01", "hash": "E9ABFB6667DBEB09", "target": "Usare la repellent resin sui pilastri di legno" },
+    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_TODO_02", "hash": "1969679D1F00C6CA", "target": "Parlare con Kanuhanu" },
+    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_KANUHANU_000_001", "hash": "C8D8F123AD0F85C8", "target": "<if(gnum4,Onorata visitatrice,Onorato visitatore)>, potreste aiutarmi? Dalla tempesta lavoro giorno e notte per riparare le nostre case, e finalmente vedo la fine. L'ultimo passo è rivestire pavimenti e fondamenta di resina impermeabile, ma c'è troppo lavoro per un solo paio d'artigli..." },
+    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_KANUHANU_000_002", "hash": "645BD4A286BB5C86", "target": "Ci aiuterete, allora? Splendido! Cominciamo raccogliendo la resina dagli alberi a nord di Ok'hanu." },
+    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_KANUHANU_000_003", "hash": "FCAE0A8F6AD13E15", "target": "Poi dovremo solo usarla per rivestire gli edifici di Ok'bek'be e rafforzarli contro le intemperie." },
+    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_KANUHANU_000_004", "hash": "0B54A74BFF96B24C", "target": "Applicherò la resina ai pavimenti dopo le ultime riparazioni, e vi chiedo di occuparvi dei pilastri portanti. In seguito dovrebbero resistere al peggio che il cielo possa riservare." },
+    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_KANUHANU_000_005", "hash": "A51EF7B63D5BCBBF", "target": "Usiamo la resina degli alberi a nord di Ok'hanu per proteggere le nostre case. Andate a raccoglierne un po', poi applicatene uno strato ai pilastri portanti di Ok'bek'be." },
+    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_SYSTEM_000_006", "hash": "780BF052BB6AB983", "target": "La resina densa e viscosa scorre lentamente nella bottiglia. Va' a Ok'bek'be e rivesti i pilastri portanti con la sostanza." },
+    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_KANUHANU_000_007", "hash": "79BF96F508FE6494", "target": "Un lavoro rapido e ben fatto. I pilastri che sostengono i nostri piedi sono vitali quanto le canne che proteggono le nostre teste. Se si danneggiano, le fondamenta stesse della nostra vita diventano instabili." },
+    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_KANUHANU_000_008", "hash": "25F5C00D666F2DEF", "target": "Forse non avete mai visto case simili, ma sono costruite così per un motivo. In questi climi umidi, l'aria che sale dal basso rinfresca i nostri pavimenti rialzati di legno, che impediscono anche all'acqua delle inondazioni di bagnarci i piedi." },
+    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_KANUHANU_000_009", "hash": "901CF2B5E0DF14DB", "target": "Nemmeno i dischi bianchi sui pilastri sono soltanto decorativi: tengono lontani topi e altri piccoli animali. Ma, nonostante tutti i suoi vantaggi, il legno marcisce facilmente, quindi dobbiamo rinforzarlo per evitare di ricostruire continuamente." },
+    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_KANUHANU_000_010", "hash": "77BB33F8C3294798", "target": "Grazie al vostro aiuto, spero che questi edifici restino qui per gli anni a venire. Prendete questo, un piccolo segno di gratitudine per i vostri sforzi!" }
   ]
 }

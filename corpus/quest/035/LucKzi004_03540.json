@@ -2,17 +2,17 @@
   "conversation": "quest/035/LucKzi004_03540",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_SEQ_00", "hash": "78E89A6FB9BFF58A", "target": "" },
-    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_TODO_00", "hash": "BAD8803637626B97", "target": "" },
-    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_TODO_01", "hash": "D6EADD12CB23F8B0", "target": "" },
-    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_000", "hash": "EE3CF57B08293E66", "target": "" },
-    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_001", "hash": "0CB3F9E73F3CEB60", "target": "" },
-    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_002", "hash": "EE71E9D3234BD00A", "target": "" },
-    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_003", "hash": "A9D9D1CD506BF5C7", "target": "" },
-    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_004", "hash": "8E29082F388FA463", "target": "" },
-    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_010", "hash": "758474F8998BA793", "target": "" },
-    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_011", "hash": "8FDF2E8D89582ECF", "target": "" },
-    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_012", "hash": "393D77D09FC223C1", "target": "" },
-    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_013", "hash": "72B3553EB0F906DB", "target": "" }
+    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_SEQ_00", "hash": "78E89A6FB9BFF58A", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Jaimbert ha bisogno di una persona volontaria." },
+    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_TODO_00", "hash": "BAD8803637626B97", "target": "Raccogliere gli stacks of seasoned timber al Piolo Superiore" },
+    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_TODO_01", "hash": "D6EADD12CB23F8B0", "target": "Consegnare gli stacks of seasoned timber a Jaimbert" },
+    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_000", "hash": "EE3CF57B08293E66", "target": "Salve! Ho un piccolo favore da chiederti, se hai un momento." },
+    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_001", "hash": "0CB3F9E73F3CEB60", "target": "Guardati intorno e dimmi cosa vedi. Già! Roccia, roccia e altra maledetta roccia. Nemmeno un albero. E questo significa niente legno per le case." },
+    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_002", "hash": "EE71E9D3234BD00A", "target": "Ogni tanto i nani ci lasciano strisciare nei loro «tunnel segreti» per raggiungere le terre basse, ma trasportare tronchi in quei cunicoli stretti, per non dire ripidi, è un lavoro da pazzi." },
+    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_003", "hash": "A9D9D1CD506BF5C7", "target": "Soprattutto considerando tutto il legname lasciato a marcire al Piolo Superiore. È lì, basta prenderlo... sempre che si abbia il fegato di affrontare tutte le bestiacce fra qui e là, naturalmente. E credo proprio che tu ce l'abbia!" },
+    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_004", "hash": "8E29082F388FA463", "target": "Su, <if(gnum4,ragazza,ragazzo)>, portami qualche catasta di legname e vedrai che ne varrà la pena!" },
+    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_010", "hash": "758474F8998BA793", "target": "Oh! O mi hai portato del legname, oppure hai intenzione di costruirti una capanna." },
+    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_011", "hash": "8FDF2E8D89582ECF", "target": "Grazie, <if(gnum4,ragazza,ragazzo)>: ora potrò finalmente tornare a costruire!" },
+    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_012", "hash": "393D77D09FC223C1", "target": "Il legno che mi hai portato è salito sulla Scala quando i nani erano più aperti al commercio. Amity era un terreno neutrale per concludere affari, sai, e un tempo c'erano piani per ampliare il villaggio." },
+    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_013", "hash": "72B3553EB0F906DB", "target": "Quindi, direi che usiamo il legname per lo scopo previsto... anche se con qualche anno di ritardo! Stammi bene e grazie ancora per l'aiuto!" }
   ]
 }

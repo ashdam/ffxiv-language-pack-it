@@ -2,17 +2,17 @@
   "conversation": "quest/041/AktKza011_04190",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_SEQ_00", "hash": "8D43799828AA488A", "target": "" },
-    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_TODO_00", "hash": "BFA5D61BB6294BAF", "target": "" },
-    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_TODO_01", "hash": "32B86D16DB5FB92C", "target": "" },
-    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_BORAGCHIN_000_000", "hash": "73E808F76346741D", "target": "" },
-    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_BORAGCHIN_000_001", "hash": "6191D24645CC7A8F", "target": "" },
-    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_BORAGCHIN_000_002", "hash": "92F3DBB98BA684F6", "target": "" },
-    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_BORAGCHIN_000_003", "hash": "DDE55EBD4EE097F3", "target": "" },
-    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_BORAGCHIN_000_004", "hash": "336D518B3FA2645D", "target": "" },
-    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_BORAGCHIN_000_005", "hash": "0E612E6A44558D23", "target": "" },
-    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_BORAGCHIN_000_010", "hash": "D18017950E035797", "target": "" },
-    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_BORAGCHIN_000_011", "hash": "FF5B4D0113E6B8E5", "target": "" },
-    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_BORAGCHIN_000_012", "hash": "4DF5ABE318AFF497", "target": "" }
+    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_SEQ_00", "hash": "8D43799828AA488A", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Boragchin ti guarda con aria calcolatrice." },
+    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_TODO_00", "hash": "BFA5D61BB6294BAF", "target": "Collocare le slabs of raw meat" },
+    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_TODO_01", "hash": "32B86D16DB5FB92C", "target": "Fare rapporto a Boragchin" },
+    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_BORAGCHIN_000_000", "hash": "73E808F76346741D", "target": "Hai un'aria di pericolosa competenza, e sicuramente <italic(1)>non<italic(0)> sei di Sharlayan. Sì... sì, andrai benissimo!" },
+    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_BORAGCHIN_000_001", "hash": "6191D24645CC7A8F", "target": "Per cosa, chiedi? Come responsabile della fauna di questo settore, ho spesso bisogno di nuovi volontari che aiutino a nutrirla." },
+    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_BORAGCHIN_000_002", "hash": "92F3DBB98BA684F6", "target": "Sarei ben felice di farlo da sola, ma sarebbe, ehm, <italic(1)>imprudente<italic(0)> lasciare che i carnivori si abituino troppo al mio odore, o a quello di qualsiasi mio collega." },
+    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_BORAGCHIN_000_003", "hash": "DDE55EBD4EE097F3", "target": "Ecco perché sono felice di incontrare «carne fresca» come te, se mi concedi l'espressione. Allora! Che ne dici di una breve incursione nel bosco? Riceverai un compenso adeguato, naturalmente." },
+    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_BORAGCHIN_000_004", "hash": "336D518B3FA2645D", "target": "Magnifico! Ecco, prendi questi pezzi di carne cruda e lasciali in questi luoghi. Torna in fretta appena hai finito!" },
+    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_BORAGCHIN_000_005", "hash": "0E612E6A44558D23", "target": "Una volta sistemata la carne, non ti consiglio di indugiare nella zona... a meno che tu non voglia essere <if(gnum4,scambiata,scambiato)> per il piatto principale!" },
+    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_BORAGCHIN_000_010", "hash": "D18017950E035797", "target": "Ma guardati: hai finito tutto senza sanguinare né singhiozzare! Ecco perché preferisco affidare ai mercenari il compito di nutrire i nostri esemplari più aggressivi." },
+    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_BORAGCHIN_000_011", "hash": "FF5B4D0113E6B8E5", "target": "Per fortuna, la maggior parte delle volte posso lasciare che i carnivori si procurino da soli il pasto. Ma questo è un habitat chiuso..." },
+    { "gameKey": "quest/041/AktKza011_04190#TEXT_AKTKZA011_04190_BORAGCHIN_000_012", "hash": "4DF5ABE318AFF497", "target": "Se ogni tanto non interveniamo per riempire le pance, il delicato equilibrio fra predatore e preda crollerà. Grazie per averci aiutato a mantenerlo." }
   ]
 }

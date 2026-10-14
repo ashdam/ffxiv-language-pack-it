@@ -2,19 +2,19 @@
   "conversation": "quest/034/LucKze016_03450",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_SEQ_00", "hash": "F2ED516A8F167995", "target": "" },
-    { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_TODO_00", "hash": "1D1C33BBF158D44F", "target": "" },
-    { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_TODO_01", "hash": "1EA3F5E6A592FEDE", "target": "" },
-    { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_ERSABEL_000_001", "hash": "39493D5959B8BC06", "target": "" },
-    { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_ERSABEL_000_002", "hash": "B91004E8B3E71D18", "target": "" },
-    { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_ERSABEL_000_003", "hash": "D1B9061FF9EE6A89", "target": "" },
-    { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_ERSABEL_000_004", "hash": "F421C69C8A621ADF", "target": "" },
-    { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_ERSABEL_000_005", "hash": "F5EA0A1AF9172E6C", "target": "" },
-    { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_ERSABEL_000_020", "hash": "D831F50921385A2A", "target": "" },
-    { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_ERSABEL_000_021", "hash": "D50B1AF4BAC7B605", "target": "" },
-    { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_ERSABEL_000_022", "hash": "CCBCDF76CF10BA3D", "target": "" },
-    { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_ERSABEL_000_023", "hash": "2E65B7E3292D6227", "target": "" },
-    { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_ERSABEL_000_024", "hash": "AC161EBD02C93321", "target": "" },
-    { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_ERSABEL_000_025", "hash": "142596640A38F7D7", "target": "" }
+    { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_SEQ_00", "hash": "F2ED516A8F167995", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Ersabel ti guarda con aspettativa, e questo può significare una cosa sola." },
+    { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_TODO_00", "hash": "1D1C33BBF158D44F", "target": "Usare il sickly sweet nectar nel luogo indicato e uccidere lo snapmint per le sue foglie" },
+    { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_TODO_01", "hash": "1EA3F5E6A592FEDE", "target": "Consegnare le snapmint leaf a Ersabel" },
+    { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_ERSABEL_000_001", "hash": "39493D5959B8BC06", "target": "Scusa, <if(gnum4,signorina,signore)>, potrei chiederti di aiutarmi a preparare <if([gnum11<12],<if([gnum11<4],il pasto,la cena)>,<if([gnum11<17],la cena,il pasto)>)>?" },
+    { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_ERSABEL_000_002", "hash": "B91004E8B3E71D18", "target": "Grazie. Mi serve un'erba piuttosto insolita, ma temo di non essere in grado di raccoglierla." },
+    { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_ERSABEL_000_003", "hash": "D1B9061FF9EE6A89", "target": "Cresce sugli snapmint. Il mimetismo li rende difficili da trovare e, anche se ci riuscissi, probabilmente mi divorerebbero prima di prendere una foglia dalla pelle." },
+    { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_ERSABEL_000_004", "hash": "F421C69C8A621ADF", "target": "Prendi questo nettare e spargilo nei campi a nord. Quando usciranno allo scoperto, avrai l'occasione di colpire." },
+    { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_ERSABEL_000_005", "hash": "F5EA0A1AF9172E6C", "target": "Appena sentiranno il nettare, saranno costretti a mostrarsi. Sarà l'occasione di colpire." },
+    { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_ERSABEL_000_020", "hash": "D831F50921385A2A", "target": "Hai trovato degli snapmint?" },
+    { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_ERSABEL_000_021", "hash": "D50B1AF4BAC7B605", "target": "Santo cielo, che foglie grandi. Grazie." },
+    { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_ERSABEL_000_022", "hash": "CCBCDF76CF10BA3D", "target": "Non potrei mai cucinare il prahok senza." },
+    { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_ERSABEL_000_023", "hash": "2E65B7E3292D6227", "target": "Conosci questo piatto? Dopo aver lasciato seccare il pesce, lo saliamo e fermentiamo. Poi lo mescoliamo con carne alla griglia a scelta e lo avvolgiamo nelle foglie di snapmint." },
+    { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_ERSABEL_000_024", "hash": "AC161EBD02C93321", "target": "Si conserva bene, quindi lo mangiamo spesso. Anche se la ricetta è semplice, si possono aggiungere erbe e spezie secondo i gusti." },
+    { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_ERSABEL_000_025", "hash": "142596640A38F7D7", "target": "Se ne hai l'occasione, devi proprio provarlo." }
   ]
 }

@@ -2,17 +2,17 @@
   "conversation": "quest/035/LucKzj019_03582",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_SEQ_00", "hash": "CE7746327A04A342", "target": "" },
-    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_TODO_00", "hash": "D37A86E5855DC024", "target": "" },
-    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_TODO_01", "hash": "5C8B3A73F935C451", "target": "" },
-    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_TODO_02", "hash": "616C468EF8CB4E5B", "target": "" },
-    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_000", "hash": "8828E1C5542ED9B4", "target": "" },
-    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_001", "hash": "04AAFE3E5803C4BC", "target": "" },
-    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_002", "hash": "68D92301FC71144D", "target": "" },
-    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_003", "hash": "2C6DDD2E2B2E7E63", "target": "" },
-    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_010", "hash": "6D7396FE94C49907", "target": "" },
-    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_020", "hash": "8F2048A79C09A0F8", "target": "" },
-    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_021", "hash": "149B0897BA828BEC", "target": "" },
-    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_022", "hash": "2811E04E1D47B080", "target": "" }
+    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_SEQ_00", "hash": "CE7746327A04A342", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Amshs Aath cerca un essere senza pinne in salute che cacci una bestia pericolosa al suo posto." },
+    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_TODO_00", "hash": "D37A86E5855DC024", "target": "Usare la carne di granchio per attirare un amphisbaena" },
+    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_TODO_01", "hash": "5C8B3A73F935C451", "target": "Attendere in agguato un amphisbaena e ucciderlo per ricavarne le scaglie" },
+    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_TODO_02", "hash": "616C468EF8CB4E5B", "target": "Consegnare le scaglie di amphisbaena ad Amshs Aath" },
+    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_000", "hash": "8828E1C5542ED9B4", "target": "Ma guarda, un essere senza pinne! Dedica un momento a un aath fragile, ospite onorato, se ti è posssibile." },
+    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_001", "hash": "04AAFE3E5803C4BC", "target": "Noi Ondo siamo i custodi di queste e altre rovine antiche. La nostra è una sorte pericolosa, perché molte creature marine vorrebbero scacciarci da qui e insediarsi al nostro possto. Dobbiamo dunque indossare armature per proteggere i nostri corpi dai loro colpi." },
+    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_002", "hash": "68D92301FC71144D", "target": "Le scaglie dell'amphisbaena sono uno dei materiali che usiamo per fabbricare il nostro equipaggiamento. Uccidine uno e portami le sue ssscaglie, così potrò aiutare i nostri giovani koal a vivere fino a domani." },
+    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_003", "hash": "2C6DDD2E2B2E7E63", "target": "Sono predatori opportunisti, che preferiscono restare nascosti finché non avvertono la presssenza di una possibile preda. Usa questa carne di granchio per attirarne uno fuori dal nascondiglio, poi confondi i suoi sensi con questa sfera scintillante." },
+    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_010", "hash": "6D7396FE94C49907", "target": "Per quanto vorrei accompagnarti in questa caccia, temo che uno della mia età rischierebbe di diventare il prossimo pasto di un amphisssbaena. Devo chiederti di farlo senza il mio aiuto, essere senza pinne. Spero solo che la sfera basti a garantirti la vittoria." },
+    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_020", "hash": "8F2048A79C09A0F8", "target": "Ah, chi caccia senza pinne. Hai portato le ssscaglie che cerco?" },
+    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_021", "hash": "149B0897BA828BEC", "target": "Molto bene, molto bene. Sono proprio quelle che ci servono per fabbricare armature forti e robuste per i giovani." },
+    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_022", "hash": "2811E04E1D47B080", "target": "Un tempo avremmo evitato simili misure, tanto ingombranti e pesanti. Ma dobbiamo adattarci alla vita fuori dall'acqua, e questo significa usare i metodi che voi senza pinne prediligete..." }
   ]
 }

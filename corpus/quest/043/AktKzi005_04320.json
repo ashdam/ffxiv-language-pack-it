@@ -3,9 +3,9 @@
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/043/AktKzi005_04320#TEXT_AKTKZI005_04320_SEQ_00", "hash": "F2180DF40603D10C", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Il raccoglitore Viera ti osserva con interesse." },
-    { "gameKey": "quest/043/AktKzi005_04320#TEXT_AKTKZI005_04320_TODO_00", "hash": "14C9958E1D9AB9D3", "target": "Parlare con l'elemental reactor operator" },
-    { "gameKey": "quest/043/AktKzi005_04320#TEXT_AKTKZI005_04320_TODO_01", "hash": "F9852C26ECFB7CDE", "target": "Usare /pray davanti al cristallo da lanterna" },
-    { "gameKey": "quest/043/AktKzi005_04320#TEXT_AKTKZI005_04320_TODO_02", "hash": "39DF9EA326175B21", "target": "Consegnare il cristallo da lanterna al Viera gleaner" },
+    {"gameKey": "quest/043/AktKzi005_04320#TEXT_AKTKZI005_04320_TODO_00", "hash": "14C9958E1D9AB9D3", "target": "Parlare con l'operatore del reattore elementale"},
+    {"gameKey": "quest/043/AktKzi005_04320#TEXT_AKTKZI005_04320_TODO_01", "hash": "F9852C26ECFB7CDE", "target": "Usare /pray davanti al lantern crystal"},
+    {"gameKey": "quest/043/AktKzi005_04320#TEXT_AKTKZI005_04320_TODO_02", "hash": "39DF9EA326175B21", "target": "Consegnare il lantern crystal al raccoglitore Viera"},
     { "gameKey": "quest/043/AktKzi005_04320#TEXT_AKTKZI005_04320_GLEANER04320_000_000", "hash": "FEDE97EEA7FEE021", "target": "Siete in visita a Sharlayan, vero? Avete proprio l'aria di chi ha visto il mondo..." },
     { "gameKey": "quest/043/AktKzi005_04320#TEXT_AKTKZI005_04320_GLEANER04320_000_001", "hash": "5756CF9B99E9C010", "target": "Anch'io, da raccoglitore, ho viaggiato in lungo e in largo. Ditemi, qual è il luogo più lontano in cui vi siete <if(gnum4,spinta,spinto)>?" },
     { "gameKey": "quest/043/AktKzi005_04320#TEXT_AKTKZI005_04320_Q1_000_000", "hash": "7F4C95E521C5776D", "target": "Che cosa dirai?" },

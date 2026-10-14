@@ -2,16 +2,16 @@
   "conversation": "quest/035/LucKzh002_03512",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_SEQ_00", "hash": "70D4B0E887789387", "target": "" },
-    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_TODO_00", "hash": "AB89153640C9736B", "target": "" },
-    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_TODO_01", "hash": "EF7A084E47E61A43", "target": "" },
-    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_000", "hash": "0059E4C4297FEA0E", "target": "" },
-    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_001", "hash": "E9BF9E19BB688D15", "target": "" },
-    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_002", "hash": "F4075D7EABAE8840", "target": "" },
-    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_010", "hash": "1EFB14B3C54F5A09", "target": "" },
-    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_020", "hash": "675E0A9C50F7C2FC", "target": "" },
-    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_021", "hash": "395ADCCD69256F5D", "target": "" },
-    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_022", "hash": "3BEC3881F47683CB", "target": "" },
-    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_023", "hash": "42CC7B7B80DE1E6D", "target": "" }
+    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_SEQ_00", "hash": "70D4B0E887789387", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Hilmar offre un buon compenso per un compito apparentemente semplice." },
+    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_TODO_00", "hash": "AB89153640C9736B", "target": "Riempire le lampade della miniera con il pungent lamp oil" },
+    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_TODO_01", "hash": "EF7A084E47E61A43", "target": "Fare rapporto a Hilmar" },
+    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_000", "hash": "0059E4C4297FEA0E", "target": "Hai da fare? Non mi pareva." },
+    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_001", "hash": "E9BF9E19BB688D15", "target": "Pago chiunque sia disposto a riempire le lampade. Ti interessa?" },
+    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_002", "hash": "F4075D7EABAE8840", "target": "Sono quattro. Ecco l'olio. Vieni da me quando hai finito." },
+    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_010", "hash": "1EFB14B3C54F5A09", "target": "Vorrei che fosse fatto subito, se non ti dispiace." },
+    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_020", "hash": "675E0A9C50F7C2FC", "target": "Finalmente hai finito. Gli gnomi non ti hanno intralciato, vero?" },
+    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_021", "hash": "395ADCCD69256F5D", "target": "Ultimamente sembrano sempre più numerosi. Rendono una rottura di scatole perfino riempire le lampade." },
+    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_022", "hash": "3BEC3881F47683CB", "target": "Comunque non possiamo lasciare che ci impediscano di lavorare. È solo un altro rischio del mestiere." },
+    { "gameKey": "quest/035/LucKzh002_03512#TEXT_LUCKZH002_03512_HILMAR_000_023", "hash": "42CC7B7B80DE1E6D", "target": "Comunque, ecco il tuo compenso. Bel lavoro, <if(gnum4,peccatrice,peccatore)>." }
   ]
 }

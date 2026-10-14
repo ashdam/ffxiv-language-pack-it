@@ -2,17 +2,17 @@
   "conversation": "quest/041/AktKza013_04192",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_SEQ_00", "hash": "E7474861B03DD8EB", "target": "" },
-    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_TODO_00", "hash": "B055CD30C7D8D69C", "target": "" },
-    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_TODO_01", "hash": "723725AB8FDFBDA9", "target": "" },
-    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_000", "hash": "03CFCF5AC03A960C", "target": "" },
-    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_001", "hash": "C86CCAE6A65EE1B9", "target": "" },
-    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_002", "hash": "6D80A5261C5B9F5F", "target": "" },
-    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_003", "hash": "BEC537ED12875E37", "target": "" },
-    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_010", "hash": "2DD118FE9F6EDC46", "target": "" },
-    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_011", "hash": "673FEF280D1E73B7", "target": "" },
-    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_012", "hash": "518E613B82ECA0E9", "target": "" },
-    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_013", "hash": "984415D6018EF4DD", "target": "" },
-    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_014", "hash": "398064D6F6845F00", "target": "" }
+    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_SEQ_00", "hash": "E7474861B03DD8EB", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Jonquinet ha bisogno di una schiena robusta che lo aiuti." },
+    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_TODO_00", "hash": "B055CD30C7D8D69C", "target": "Piantare gli experimental seeds nei luoghi indicati" },
+    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_TODO_01", "hash": "723725AB8FDFBDA9", "target": "Fare rapporto a Jonquinet" },
+    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_000", "hash": "03CFCF5AC03A960C", "target": "Hai un po' di tempo per un vecchio ricercatore, <if(gnum4,ragazza,ragazzo)>? Il lavoro fisico non mi viene più facile come una volta, e cerco qualcuno un po' più agile che mi aiuti." },
+    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_001", "hash": "C86CCAE6A65EE1B9", "target": "Il compito è semplice, stai <if(gnum4,tranquilla,tranquillo)>. Devi solo piantare questi experimental seeds nei campi vicini. Naturalmente riceverai un compenso per il disturbo." },
+    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_002", "hash": "6D80A5261C5B9F5F", "target": "Non servono abilità particolari. Se hai piantato un seme, sai piantarli quasi tutti. Bene, non vedo l'ora di scoprire che cosa sai fare." },
+    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_003", "hash": "BEC537ED12875E37", "target": "Hai i semi, vero? Immagino che tu sappia che cosa farne. Altrimenti, be'... temo che avremmo problemi più seri." },
+    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_010", "hash": "2DD118FE9F6EDC46", "target": "Hai il viso un po' arrossato? Bene. Immagino che significhi che hai piantato i semi. Ti ringrazio, e se tutto va secondo i piani, anche il mondo lo farà." },
+    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_011", "hash": "673FEF280D1E73B7", "target": "La mia ricerca riguarda la produzione di piante ricche di nutrienti che si possano raccogliere in quantità maggiori di qualsiasi altra vista finora." },
+    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_012", "hash": "518E613B82ECA0E9", "target": "Tuttavia, anche la coltura più straordinaria è inutile se non può essere piantata e coltivata da <if(gnum4,una donna,un uomo)> comune." },
+    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_013", "hash": "984415D6018EF4DD", "target": "Da tempo privilegio la facilità d'uso quando sviluppo nuovi semi, chiedendo a tutti, dai ricercatori esperti ai bambini entusiasti, di piantarli nella terra e confrontando poi i risultati." },
+    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_014", "hash": "398064D6F6845F00", "target": "Ma naturalmente sono certo che nei tuoi viaggi hai ascoltato abbastanza spiegazioni prolisse per tutta una vita. Prendi questa ricompensa per il tuo contributo e goditi la soddisfazione di un lavoro ben fatto." }
   ]
 }

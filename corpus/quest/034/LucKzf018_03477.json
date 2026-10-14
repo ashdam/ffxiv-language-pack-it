@@ -2,17 +2,17 @@
   "conversation": "quest/034/LucKzf018_03477",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKzf018_03477#TEXT_LUCKZF018_03477_SEQ_00", "hash": "3FF38FEFEC96F6B7", "target": "" },
-    { "gameKey": "quest/034/LucKzf018_03477#TEXT_LUCKZF018_03477_TODO_00", "hash": "615237540CBCD3E1", "target": "" },
-    { "gameKey": "quest/034/LucKzf018_03477#TEXT_LUCKZF018_03477_TODO_01", "hash": "522D9F051D0083D1", "target": "" },
-    { "gameKey": "quest/034/LucKzf018_03477#TEXT_LUCKZF018_03477_FANOWHUNTER03477_000_000", "hash": "B1175F56631E43BF", "target": "" },
-    { "gameKey": "quest/034/LucKzf018_03477#TEXT_LUCKZF018_03477_FANOWHUNTER03477_000_001", "hash": "875430B11C799F50", "target": "" },
-    { "gameKey": "quest/034/LucKzf018_03477#TEXT_LUCKZF018_03477_FANOWHUNTER03477_000_002", "hash": "70469DA72B356DA0", "target": "" },
-    { "gameKey": "quest/034/LucKzf018_03477#TEXT_LUCKZF018_03477_FANOWHUNTER03477_000_003", "hash": "C94367285C4863E4", "target": "" },
-    { "gameKey": "quest/034/LucKzf018_03477#TEXT_LUCKZF018_03477_FANOWHUNTER03477_000_004", "hash": "14356206B7F43170", "target": "" },
-    { "gameKey": "quest/034/LucKzf018_03477#TEXT_LUCKZF018_03477_FANOWHUNTER03477_000_010", "hash": "A1361FB5476B0442", "target": "" },
-    { "gameKey": "quest/034/LucKzf018_03477#TEXT_LUCKZF018_03477_FANOWHUNTER03477_000_011", "hash": "071D05FAAADB747C", "target": "" },
-    { "gameKey": "quest/034/LucKzf018_03477#TEXT_LUCKZF018_03477_FANOWHUNTER03477_000_012", "hash": "1B077FE517ACC077", "target": "" },
-    { "gameKey": "quest/034/LucKzf018_03477#TEXT_LUCKZF018_03477_FANOWHUNTER03477_000_013", "hash": "5371C8898453CA51", "target": "" }
+    { "gameKey": "quest/034/LucKzf018_03477#TEXT_LUCKZF018_03477_SEQ_00", "hash": "3FF38FEFEC96F6B7", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>La cacciatrice frettolosa ricorda quanto tu possa essere utile." },
+    { "gameKey": "quest/034/LucKzf018_03477#TEXT_LUCKZF018_03477_TODO_00", "hash": "615237540CBCD3E1", "target": "Uccidere un cracked Ronkan doll per il suo nucleo" },
+    { "gameKey": "quest/034/LucKzf018_03477#TEXT_LUCKZF018_03477_TODO_01", "hash": "522D9F051D0083D1", "target": "Consegnare il nucleo alla cacciatrice frettolosa" },
+    { "gameKey": "quest/034/LucKzf018_03477#TEXT_LUCKZF018_03477_FANOWHUNTER03477_000_000", "hash": "B1175F56631E43BF", "target": "Una vista gradita nel momento del bisogno." },
+    { "gameKey": "quest/034/LucKzf018_03477#TEXT_LUCKZF018_03477_FANOWHUNTER03477_000_001", "hash": "875430B11C799F50", "target": "Come sai, alcune sentinelle di pietra si sono rivoltate contro di noi. Ma, se possono essere uccise, potranno ancora servire a proteggere queste rovine." },
+    { "gameKey": "quest/034/LucKzf018_03477#TEXT_LUCKZF018_03477_FANOWHUNTER03477_000_002", "hash": "70469DA72B356DA0", "target": "Non sappiamo come costruirne altre, ma possiamo usarne le parti per riparare quelle rimaste." },
+    { "gameKey": "quest/034/LucKzf018_03477#TEXT_LUCKZF018_03477_FANOWHUNTER03477_000_003", "hash": "C94367285C4863E4", "target": "Se uccidessi anche una sola sentinella e mi portassi il nucleo, avrei tutto ciò che serve per cominciare il lavoro." },
+    { "gameKey": "quest/034/LucKzf018_03477#TEXT_LUCKZF018_03477_FANOWHUNTER03477_000_004", "hash": "14356206B7F43170", "target": "Mi basta un solo nucleo per cominciare il lavoro." },
+    { "gameKey": "quest/034/LucKzf018_03477#TEXT_LUCKZF018_03477_FANOWHUNTER03477_000_010", "hash": "A1361FB5476B0442", "target": "Hai un nucleo?" },
+    { "gameKey": "quest/034/LucKzf018_03477#TEXT_LUCKZF018_03477_FANOWHUNTER03477_000_011", "hash": "071D05FAAADB747C", "target": "Sì, è perfetto." },
+    { "gameKey": "quest/034/LucKzf018_03477#TEXT_LUCKZF018_03477_FANOWHUNTER03477_000_012", "hash": "1B077FE517ACC077", "target": "Come dicevo, non sappiamo come costruire le sentinelle. E forse questa è la parte più difficile da riprodurre." },
+    { "gameKey": "quest/034/LucKzf018_03477#TEXT_LUCKZF018_03477_FANOWHUNTER03477_000_013", "hash": "5371C8898453CA51", "target": "Finché riusciremo a recuperare i nuclei, potremo prolungare la vita di quelle che abbiamo ancora." }
   ]
 }

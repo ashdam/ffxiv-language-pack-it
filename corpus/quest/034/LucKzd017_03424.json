@@ -2,19 +2,19 @@
   "conversation": "quest/034/LucKzd017_03424",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_SEQ_00", "hash": "97A381779490D4A8", "target": "" },
-    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_TODO_00", "hash": "16169895E5FE6FFB", "target": "" },
-    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_TODO_01", "hash": "B8FE0ABD56B2E2A7", "target": "" },
-    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_001", "hash": "7A8F585CE12912AA", "target": "" },
-    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_002", "hash": "83B1F6EE3D2660DD", "target": "" },
-    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_003", "hash": "C40F07EAD9B498F6", "target": "" },
-    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_004", "hash": "728CA809EF492D36", "target": "" },
-    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_005", "hash": "7F894DD32C03E2F6", "target": "" },
-    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_020", "hash": "CE84B6D5465D0D1D", "target": "" },
-    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_021", "hash": "E9966EAB9185447B", "target": "" },
-    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_022", "hash": "8A76966FA695FF6E", "target": "" },
-    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_023", "hash": "4DB337C2CCB956D2", "target": "" },
-    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_024", "hash": "109C4C529BBA4F3B", "target": "" },
-    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_025", "hash": "657003EFEE78074D", "target": "" }
+    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_SEQ_00", "hash": "97A381779490D4A8", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Iala Jul ha una richiesta per <if(gnum4,una figlia degli uomini,un figlio degli uomini)>." },
+    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_TODO_00", "hash": "16169895E5FE6FFB", "target": "Sconfiggere un rabbit's tail, un tot aevis o un phooka" },
+    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_TODO_01", "hash": "B8FE0ABD56B2E2A7", "target": "Parlare con Iala Jul" },
+    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_001", "hash": "7A8F585CE12912AA", "target": "Che <if(gnum4,una figlia degli uomini,un figlio degli uomini)> appaia proprio ora! Questo piccolo è davvero fortunato." },
+    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_002", "hash": "83B1F6EE3D2660DD", "target": "Ho l'onore di vegliare sulla vita che si forma in questo uovo. Sarà un giorno felice quando uscirà finalmente nel mondo. Purtroppo, probabilmente crescerà senza conoscere gli uomini, e questo mi rattrista." },
+    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_003", "hash": "C40F07EAD9B498F6", "target": "Ma ho un'idea. Se hai tempo, mi porteresti qualcosa di caldo con cui rivestire quel nido?" },
+    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_004", "hash": "728CA809EF492D36", "target": "Il vello di un rabbit's tail, le piume di un tot aevis o la pelliccia di un phooka: andrà bene uno qualunque." },
+    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_005", "hash": "7F894DD32C03E2F6", "target": "Ti prego di portarmi il vello di un rabbit's tail, le piume di un tot aevis o la pelliccia di un phooka. Lo userò per rivestire quel nido." },
+    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_020", "hash": "CE84B6D5465D0D1D", "target": "Eccoti di ritorno. Allora, che cosa hai portato?" },
+    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_021", "hash": "E9966EAB9185447B", "target": "Ah, il vello di un rabbit's tail. Anche se l'origine del nome non è un segreto, la creatura è avvolta in un mistero fitto quanto il suo vello." },
+    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_022", "hash": "8A76966FA695FF6E", "target": "Ah, le piume di un tot aevis. Anche se non si può dire che l'aspetto della creatura sia piacevole, le sue piume offrono un calore senza pari." },
+    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_023", "hash": "4DB337C2CCB956D2", "target": "Ah, la pelliccia di un phooka. Hai fatto bene a procurarla. Quando guardo negli occhi della creatura, mi sembra di fissare la follia." },
+    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_024", "hash": "109C4C529BBA4F3B", "target": "Grazie, sarà un ottimo rivestimento per il nido. E quando nascerà il piccolo, gli racconterò la storia della tua visita e del tuo dono." },
+    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_025", "hash": "657003EFEE78074D", "target": "Gli darà grande gioia avere un legame con <if(gnum4,una figlia degli uomini,un figlio degli uomini)>, questo lo so. Accetta questo come ringraziamento, ti prego." }
   ]
 }

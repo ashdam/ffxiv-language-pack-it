@@ -2,19 +2,19 @@
   "conversation": "quest/050/KinGzb004_05033",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_SEQ_00", "hash": "6594219407F64400", "target": "" },
-    { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_TODO_00", "hash": "5A91CDF6575A5479", "target": "" },
-    { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_TODO_01", "hash": "0C24AC4732F616DD", "target": "" },
-    { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_CRAFTERPELUPELU05033_000_000", "hash": "FD60C9D5E60CAE94", "target": "" },
-    { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_CRAFTERPELUPELU05033_000_001", "hash": "B3FD6454D13D9E75", "target": "" },
-    { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_CRAFTERPELUPELU05033_000_002", "hash": "46CA3F438DF0AF6F", "target": "" },
-    { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_CRAFTERPELUPELU05033_000_005", "hash": "E7959DADB3D69841", "target": "" },
-    { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_SYSTEM_000_010", "hash": "29CEADB79537542F", "target": "" },
-    { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_SYSTEM_000_011", "hash": "278324E10C4A11AD", "target": "" },
-    { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_SYSTEM_000_012", "hash": "512B73DA5208CB14", "target": "" },
-    { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_CRAFTERPELUPELU05033_000_020", "hash": "0BB95C00B7F527A6", "target": "" },
-    { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_CRAFTERPELUPELU05033_000_021", "hash": "F103B47755DCC49F", "target": "" },
-    { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_CRAFTERPELUPELU05033_000_022", "hash": "A143B4624513EBA5", "target": "" },
-    { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_CRAFTERPELUPELU05033_000_023", "hash": "E372547064612EA1", "target": "" }
+    { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_SEQ_00", "hash": "6594219407F64400", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>L'artigiano preoccupato ha bisogno di una mano." },
+    { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_TODO_00", "hash": "5A91CDF6575A5479", "target": "Cercare la missing pouch a Panaqpelu Retreat" },
+    { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_TODO_01", "hash": "0C24AC4732F616DD", "target": "Consegnare la missing pouch all’artigiano preoccupato" },
+    { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_CRAFTERPELUPELU05033_000_000", "hash": "FD60C9D5E60CAE94", "target": "Scusa, <if(gnum4,signorina,signore)>, hai un momento? Ti prego, ho bisogno del tuo aiuto! Sono un artigiano e sono venuto a discutere un nuovo progetto con un cliente, ma temo di aver perso il mio portafortuna lungo la strada: la mia cara bambola." },
+    { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_CRAFTERPELUPELU05033_000_001", "hash": "B3FD6454D13D9E75", "target": "Temo come andrà l'incontro senza di lei... L'ultima volta che l'ho vista ero a Panaqpelu Retreat. Forse è caduta mentre raccoglievo le mie cose." },
+    { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_CRAFTERPELUPELU05033_000_002", "hash": "46CA3F438DF0AF6F", "target": "Devo incontrare il cliente fra poco e non posso arrivare in ritardo. So che è una richiesta improvvisa, ma potresti ritrovare la mia bambola? Rimanderò l'incontro il più possibile." },
+    { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_CRAFTERPELUPELU05033_000_005", "hash": "E7959DADB3D69841", "target": "Dovrebbe trovarsi in una piccola borsa da qualche parte a Panaqpelu Retreat. Ti prego, ritrovala per me, vuoi?" },
+    { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_SYSTEM_000_010", "hash": "29CEADB79537542F", "target": "Trovi una piccola borsa dietro lo scaffale. Dentro c'è una bambola adorabile, con un caldo sorriso sul viso. Sembra essere l'oggetto smarrito." },
+    { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_SYSTEM_000_011", "hash": "278324E10C4A11AD", "target": "Apri il coperchio e guardi nel vaso, ma della bambola non c'è traccia." },
+    { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_SYSTEM_000_012", "hash": "512B73DA5208CB14", "target": "Il cesto è completamente vuoto." },
+    { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_CRAFTERPELUPELU05033_000_020", "hash": "0BB95C00B7F527A6", "target": "Sei <if(gnum4,riuscita,riuscito)> a trovarla?" },
+    { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_CRAFTERPELUPELU05033_000_021", "hash": "F103B47755DCC49F", "target": "Oh, grazie al cielo, la mia preziosa bambola! Non la perderò più di vista!" },
+    { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_CRAFTERPELUPELU05033_000_022", "hash": "A143B4624513EBA5", "target": "Noi Pelupelu diventammo mercanti dopo che Gulool Ja Ja mostrò una grande benevolenza al nostro popolo, per aiutarlo a realizzare il suo obiettivo di creare amicizia fra i clan. Il sorriso luminoso di questa bambola ci ricorda di rispettare quell'ideale e diffondere felicità attraverso il commercio." },
+    { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_CRAFTERPELUPELU05033_000_023", "hash": "E372547064612EA1", "target": "Non dubito che una persona dal cuore gentile come te godrà di grande fortuna e felicità nelle proprie future attività commerciali. Non potrò mai ringraziarti abbastanza per l'aiuto!" }
   ]
 }
