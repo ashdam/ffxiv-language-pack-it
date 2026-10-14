@@ -1,9 +1,9 @@
 {
   "gameVersion": "2026.10.06.0000.0000",
   "translated": 202126,
-  "total": 533035,
+  "total": 532985,
   "percent": 37.9,
-  "chars": 49326980,
+  "chars": 49318884,
   "unresolved": 5585,
   "groups": [
     {
@@ -406,7 +406,7 @@
       "expansion": null,
       "content": "Ambient text: NPC chatter, shouts, balloons, duties and guides",
       "translated": 42900,
-      "total": 173839
+      "total": 173789
     }
   ],
   "excludedFromLocalization": [
