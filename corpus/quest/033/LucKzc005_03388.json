@@ -2,17 +2,17 @@
   "conversation": "quest/033/LucKzc005_03388",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_SEQ_00", "hash": "475294DB9E8F8539", "target": "" },
-    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_TODO_00", "hash": "D3F6B709669AB159", "target": "" },
-    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_TODO_01", "hash": "262D6671317981B0", "target": "" },
-    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_000", "hash": "FB6B7E9E99A18FBE", "target": "" },
-    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_001", "hash": "17261715983EBD14", "target": "" },
-    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_010", "hash": "B64048C21B8ED978", "target": "" },
-    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_020", "hash": "A0C91ADE32E1DADD", "target": "" },
-    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_021", "hash": "4DF3AFF1DFA76C75", "target": "" },
-    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_022", "hash": "037FD0271E886B24", "target": "" },
-    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_023", "hash": "617E95C42F198638", "target": "" },
-    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_024", "hash": "6E643BEE286E1F90", "target": "" },
-    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_025", "hash": "188C30BB0972DAB0", "target": "" }
+    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_SEQ_00", "hash": "475294DB9E8F8539", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Aiscar ha bisogno di semi." },
+    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_TODO_00", "hash": "D3F6B709669AB159", "target": "Uccidere dei lake anemone e ottenere i loro semi" },
+    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_TODO_01", "hash": "262D6671317981B0", "target": "Consegnare i lake anemone seeds ad Aiscar" },
+    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_000", "hash": "FB6B7E9E99A18FBE", "target": "Senti, potrei chiederti un favore? Nulla di troppo complicato, te lo assicuro. Be', purché tu non abbia nulla contro l'uccisione di qualche lake anemone." },
+    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_001", "hash": "17261715983EBD14", "target": "Vedi, mi servono i loro semi, e pagherò volentieri più del prezzo corrente per una consegna rapida. Per ora non preoccuparti dei motivi, portameli il prima possibile!" },
+    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_010", "hash": "B64048C21B8ED978", "target": "Forse conosci gli anemoni come piante fiorite o come creature acquatiche predatrici. Gli anemoni <italic(1)>di lago<italic(0)>, però, sono forse un po' entrambe le cose..." },
+    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_020", "hash": "A0C91ADE32E1DADD", "target": "Immagino tu abbia fatto quello che ti ho chiesto?" },
+    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_021", "hash": "4DF3AFF1DFA76C75", "target": "Sì, questi dovrebbero bastare. Naturalmente, non voglio allevare anemoni di lago, per carità! Intendo estrarne l'olio per alcune migliorie che vorrei apportare al telescopio." },
+    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_022", "hash": "037FD0271E886B24", "target": "Magnifico, vero? Fu costruito molto prima del Diluvio e in origine serviva a osservare i corpi celesti." },
+    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_023", "hash": "617E95C42F198638", "target": "Come puoi immaginare, un cielo inondato di Luce non favorisce l'osservazione delle stelle, e il telescopio fu invece puntato verso il basso per avvistare i divorapeccati in arrivo." },
+    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_024", "hash": "6E643BEE286E1F90", "target": "Il ritorno dell'oscurità ha risvegliato in me il desiderio di studiare i movimenti delle varie costellazioni, ma gli anni trascorsi in questa posizione abbassata hanno irrigidito i supporti. In effetti, sono del tutto bloccati." },
+    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_025", "hash": "188C30BB0972DAB0", "target": "Ecco perché mi serve l'olio di semi di anemone. Ne applicherò in abbondanza per puntare il telescopio verso il cielo e godermi lo splendore del firmamento!" }
   ]
 }

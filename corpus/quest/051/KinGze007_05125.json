@@ -2,18 +2,18 @@
   "conversation": "quest/051/KinGze007_05125",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_SEQ_00", "hash": "A3D9850E33E9D04A", "target": "" },
-    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_TODO_00", "hash": "CBA3BB6727FC7D01", "target": "" },
-    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_TODO_01", "hash": "FB282488AF592AC6", "target": "" },
-    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_MAATSO_000_000", "hash": "5B957904D61CF54C", "target": "" },
-    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_MAATSO_000_001", "hash": "CFA9DC5E0E678369", "target": "" },
-    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_MAATSO_000_002", "hash": "3B42107158A30E70", "target": "" },
-    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_MAATSO_000_003", "hash": "5796444A0083E0CB", "target": "" },
-    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_MAATSO_000_004", "hash": "5A602E66B503494F", "target": "" },
-    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_MAATSO_000_005", "hash": "5838D3483858FA6B", "target": "" },
-    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_MAATSO_000_006", "hash": "D332F07169B7900D", "target": "" },
-    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_MAATSO_000_007", "hash": "F1853A65C51E71B0", "target": "" },
-    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_MAATSO_000_008", "hash": "01E027EC68D2E994", "target": "" },
-    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_MAATSO_000_009", "hash": "1584746FE104DADE", "target": "" }
+    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_SEQ_00", "hash": "A3D9850E33E9D04A", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>A quanto pare, fonti di combustibile altamente infiammabili e mostri esplosivi sono una pessima combinazione." },
+    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_TODO_00", "hash": "CBA3BB6727FC7D01", "target": "Esaminare il luogo indicato e sconfiggere i nemici che compaiono" },
+    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_TODO_01", "hash": "FB282488AF592AC6", "target": "Parlare con Maatso" },
+    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_MAATSO_000_000", "hash": "5B957904D61CF54C", "target": "Dov'è un cacciatore quando serve?" },
+    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_MAATSO_000_001", "hash": "CFA9DC5E0E678369", "target": "Oh, ciao. Senti, sembri il tipo capace di domare bestie selvatiche. Che ne dici di un po' di lavoro onesto?" },
+    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_MAATSO_000_002", "hash": "3B42107158A30E70", "target": "Vedi, giù alle fosse di ceruleum abbiamo una specie d'infestazione. Di piros al ceruleum, per la precisione." },
+    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_MAATSO_000_003", "hash": "5796444A0083E0CB", "target": "Ora, dato che quei figli di salamandre sputano fiamme ed esplodono per un nonnulla, se anche uno solo finisse nelle nostre riserve di combustibile, questo posto salterebbe tutto in aria!" },
+    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_MAATSO_000_004", "hash": "5A602E66B503494F", "target": "Fino a poco fa, facevo sempre tenere sotto controllo il loro numero da un mio amico cacciatore, ma è, ehm... temporaneamente fuori gioco. Pensavo che tu potessi sostituirlo. In tal caso, ce n'è un bel mucchio poco più a sud. Buona caccia!" },
+    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_MAATSO_000_005", "hash": "5838D3483858FA6B", "target": "Se fai fatica a trovarli, aspetta vicino a una fossa di ceruleum e di sicuro troveranno <italic(1)>te<italic(0)>!" },
+    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_MAATSO_000_006", "hash": "D332F07169B7900D", "target": "Hai finito? Quanti ce n'erano?" },
+    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_MAATSO_000_007", "hash": "F1853A65C51E71B0", "target": "Scherzi? Devono aver invitato alla festa ogni maledetto piros e tutta la sua parentela! Direi che sei <if(gnum4,arrivata,arrivato)> appena in tempo." },
+    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_MAATSO_000_008", "hash": "01E027EC68D2E994", "target": "Naturalmente, abbatterli alla vecchia maniera è un lavoro rischioso, e non è facile trovare qualcuno con le capacità necessarie. Mi sa che dovremmo escogitare un piano migliore per tenerli a bada." },
+    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_MAATSO_000_009", "hash": "1584746FE104DADE", "target": "In ogni caso, ci hai fatto un bel favore. Sapevo di aver scelto <if(gnum4,la ragazza giusta,il ragazzo giusto)> per questo lavoro!" }
   ]
 }

@@ -2,16 +2,16 @@
   "conversation": "quest/043/AktKzj011_04347",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/043/AktKzj011_04347#TEXT_AKTKZJ011_04347_SEQ_00", "hash": "6BCCCD33DA3E75DF", "target": "" },
-    { "gameKey": "quest/043/AktKzj011_04347#TEXT_AKTKZJ011_04347_TODO_00", "hash": "3CC89DA1B5F7617B", "target": "" },
-    { "gameKey": "quest/043/AktKzj011_04347#TEXT_AKTKZJ011_04347_TODO_01", "hash": "1D0253569725D771", "target": "" },
-    { "gameKey": "quest/043/AktKzj011_04347#TEXT_AKTKZJ011_04347_SEEKINGTHEBODY04347_000_000", "hash": "799D53B48FE4781A", "target": "" },
-    { "gameKey": "quest/043/AktKzj011_04347#TEXT_AKTKZJ011_04347_SEEKINGTHEBODY04347_000_001", "hash": "41C1025407E5FEB2", "target": "" },
-    { "gameKey": "quest/043/AktKzj011_04347#TEXT_AKTKZJ011_04347_SEEKINGTHEBODY04347_000_002", "hash": "7786EF9C8159267C", "target": "" },
-    { "gameKey": "quest/043/AktKzj011_04347#TEXT_AKTKZJ011_04347_SEEKINGTHEBODY04347_000_003", "hash": "08D10E16A4F80836", "target": "" },
-    { "gameKey": "quest/043/AktKzj011_04347#TEXT_AKTKZJ011_04347_SEEKINGTHEBODY04347_000_010", "hash": "B5CE915D7AC15BE3", "target": "" },
-    { "gameKey": "quest/043/AktKzj011_04347#TEXT_AKTKZJ011_04347_SEEKINGTHEBODY04347_000_011", "hash": "6C5D1F00187A2CA5", "target": "" },
-    { "gameKey": "quest/043/AktKzj011_04347#TEXT_AKTKZJ011_04347_SEEKINGTHEBODY04347_000_012", "hash": "19790FCAF3D260F6", "target": "" },
-    { "gameKey": "quest/043/AktKzj011_04347#TEXT_AKTKZJ011_04347_SEEKINGTHEBODY04347_000_013", "hash": "AE588A8AD2961111", "target": "" }
+    { "gameKey": "quest/043/AktKzj011_04347#TEXT_AKTKZJ011_04347_SEQ_00", "hash": "6BCCCD33DA3E75DF", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>L'Ea desideroso sembra guardarti intensamente." },
+    { "gameKey": "quest/043/AktKzj011_04347#TEXT_AKTKZJ011_04347_TODO_00", "hash": "3CC89DA1B5F7617B", "target": "Recuperare due nuclei dai wandering luminions" },
+    { "gameKey": "quest/043/AktKzj011_04347#TEXT_AKTKZJ011_04347_TODO_01", "hash": "1D0253569725D771", "target": "Consegnare i luminion cores all'Ea desideroso" },
+    { "gameKey": "quest/043/AktKzj011_04347#TEXT_AKTKZJ011_04347_SEEKINGTHEBODY04347_000_000", "hash": "799D53B48FE4781A", "target": "Salve, forma di vita sconosciuta. Poiché possiedi una forma corporea, che io, come vedi, non ho, forse puoi offrirmi una via d'uscita da questa difficoltà. Sto tentando di creare un ricettacolo che accolga le nostre anime stanche. Purtroppo, senza un modello su cui lavorare, devo ammettere con vergogna che i miei esperimenti sono falliti, e in modo piuttosto spettacolare." },
+    { "gameKey": "quest/043/AktKzj011_04347#TEXT_AKTKZJ011_04347_SEEKINGTHEBODY04347_000_001", "hash": "41C1025407E5FEB2", "target": "Forse hai notato i sottoprodotti dei miei fallimenti: ora vagano senza scopo e miseramente in questi dintorni. Intendevo rimediare io stesso, ma potrebbe essere difficile per un essere senza forma come me. Potresti porre fine alla sofferenza di quelle povere creature al posto mio?" },
+    { "gameKey": "quest/043/AktKzj011_04347#TEXT_AKTKZJ011_04347_SEEKINGTHEBODY04347_000_002", "hash": "7786EF9C8159267C", "target": "Grazie, essere curioso! Se nel frattempo potessi recuperarne anche i nuclei interni, sarebbero molto utili ai miei futuri esperimenti. Comunque, attendo con ansia notizie del tuo inevitabile successo." },
+    { "gameKey": "quest/043/AktKzj011_04347#TEXT_AKTKZJ011_04347_SEEKINGTHEBODY04347_000_003", "hash": "08D10E16A4F80836", "target": "Indugi ancora? Se hai dimenticato l'incarico, devi cacciare due di quegli sventurati luminion e recuperare i loro nuclei per me. Non preoccuparti d'altro: capisco che qui molte cose sfuggano alla comprensione della tua mente non illuminata." },
+    { "gameKey": "quest/043/AktKzj011_04347#TEXT_AKTKZJ011_04347_SEEKINGTHEBODY04347_000_010", "hash": "B5CE915D7AC15BE3", "target": "Allora? I prodotti inconsapevoli del mio lavoro non soffrono più? E mi hai riportato i loro nuclei? Se sì, restituiscimeli." },
+    { "gameKey": "quest/043/AktKzj011_04347#TEXT_AKTKZJ011_04347_SEEKINGTHEBODY04347_000_011", "hash": "6C5D1F00187A2CA5", "target": "...Sì. Questi sono senza dubbio i nuclei che formano i cuori dolenti della mia stirpe. Sebbene vedere finire così i miei sforzi mi scoraggi, posso solo imparare dai fallimenti, affinché i prossimi esperimenti producano un ricettacolo soddisfacente." },
+    { "gameKey": "quest/043/AktKzj011_04347#TEXT_AKTKZJ011_04347_SEEKINGTHEBODY04347_000_012", "hash": "19790FCAF3D260F6", "target": "...Comunque, è passato molto tempo dall'ultima volta che abbiamo incontrato entità con anche solo un briciolo d'intelligenza, come sembri averne tu. Direi che le nostre conversazioni ci hanno dato un minimo di stimolo che ci sfuggiva da ere." },
+    { "gameKey": "quest/043/AktKzj011_04347#TEXT_AKTKZJ011_04347_SEEKINGTHEBODY04347_000_013", "hash": "AE588A8AD2961111", "target": "Ti sono grato per l'assistenza sotto più di un aspetto. Spero davvero che arrivi il giorno in cui potremo incontrarci... ah, come dite?... in carne e ossa." }
   ]
 }

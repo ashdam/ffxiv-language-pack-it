@@ -2,17 +2,17 @@
   "conversation": "quest/034/LucKze018_03452",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_SEQ_00", "hash": "EC886AD54A89DB73", "target": "" },
-    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_TODO_00", "hash": "EEFCB138096D0FF7", "target": "" },
-    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_TODO_01", "hash": "8DC129F56532ACE4", "target": "" },
-    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_MENTOR03452_000_000", "hash": "59A984543190C268", "target": "" },
-    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_MENTOR03452_000_001", "hash": "B59E01B9477366FF", "target": "" },
-    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_MENTOR03452_000_002", "hash": "A6DEDB817A48A80A", "target": "" },
-    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_SYSTEM_000_010", "hash": "BE88B3A244208A4A", "target": "" },
-    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_SYSTEM_000_011", "hash": "234979063C89E389", "target": "" },
-    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_MENTOR03452_000_020", "hash": "336578C3E0FC2F84", "target": "" },
-    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_MENTOR03452_000_021", "hash": "51FDADD461E63357", "target": "" },
-    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_MENTOR03452_000_022", "hash": "ED9B9CD4A4D62056", "target": "" },
-    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_MENTOR03452_000_023", "hash": "47806F4948E08422", "target": "" }
+    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_SEQ_00", "hash": "EC886AD54A89DB73", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Il mentore benintenzionato vorrebbe il tuo aiuto per una faccenda incompiuta." },
+    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_TODO_00", "hash": "EEFCB138096D0FF7", "target": "Esaminare le zone indicate e uccidere l'anemone se compare" },
+    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_TODO_01", "hash": "8DC129F56532ACE4", "target": "Consegnare la carcassa dell'anemone al mentore benintenzionato" },
+    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_MENTOR03452_000_000", "hash": "59A984543190C268", "target": "Il viaggio ti ha riportato a Slitherbough, vedo. Il tempismo è provvidenziale. I preparativi per la caccia all'anemone sono finiti. Se vuoi unirti a me, apprezzerò molto l'aiuto." },
+    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_MENTOR03452_000_001", "hash": "B59E01B9477366FF", "target": "È stato visto l'ultima volta nel sud-ovest di Cleric. Ma la caccia sarà difficile, perché è lì che i Figli hanno costruito il loro nido di ragni." },
+    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_MENTOR03452_000_002", "hash": "A6DEDB817A48A80A", "target": "Cammina con cautela e non esitare a ucciderlo appena lo vedi. Ti chiedo solo di recuperare la carcassa, se lo trovi per primo." },
+    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_SYSTEM_000_010", "hash": "BE88B3A244208A4A", "target": "Non vedi traccia dell'anemone. Forse devi cercare altrove." },
+    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_SYSTEM_000_011", "hash": "234979063C89E389", "target": "Trovi la carcassa di un animale, ma non ci sono segni di lotta. Forse è morto avvelenato..." },
+    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_MENTOR03452_000_020", "hash": "336578C3E0FC2F84", "target": "Sei di ritorno. Spero tu abbia avuto più fortuna di me." },
+    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_MENTOR03452_000_021", "hash": "51FDADD461E63357", "target": "L'anemone. L'hai trovato..." },
+    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_MENTOR03452_000_022", "hash": "ED9B9CD4A4D62056", "target": "\\<sospiro> Se solo ci fosse un altro modo, ma non potevamo ignorare la minaccia al Greatwood." },
+    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_MENTOR03452_000_023", "hash": "47806F4948E08422", "target": "Ricorda le mie parole: questo <italic(1)>non<italic(0)> accadrà più." }
   ]
 }

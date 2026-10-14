@@ -2,18 +2,18 @@
   "conversation": "quest/041/AktKza007_04186",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_SEQ_00", "hash": "CD8EFDFCBB40A37E", "target": "" },
-    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_TODO_00", "hash": "F4CB33D515F5144B", "target": "" },
-    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_TODO_01", "hash": "0C9CE02A28FD2B7B", "target": "" },
-    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_000", "hash": "F0211A6273530175", "target": "" },
-    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_002", "hash": "0900BB67D9854886", "target": "" },
-    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_003", "hash": "25D0DA988144E0A3", "target": "" },
-    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_005", "hash": "0964F1D396C55461", "target": "" },
-    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_006", "hash": "24AFEF0A9CEB7F4E", "target": "" },
-    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_010", "hash": "22558436170B8AE0", "target": "" },
-    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_011", "hash": "543B9631F2F4C2DE", "target": "" },
-    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_012", "hash": "D724F1998CBDF8DC", "target": "" },
-    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_013", "hash": "B2727A2FE34915CC", "target": "" },
-    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_014", "hash": "5BBBE92ABAFE0902", "target": "" }
+    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_SEQ_00", "hash": "CD8EFDFCBB40A37E", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Il raccoglitore inesperto sembra volerti parlare." },
+    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_TODO_00", "hash": "F4CB33D515F5144B", "target": "Abbattere i caribou" },
+    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_TODO_01", "hash": "0C9CE02A28FD2B7B", "target": "Parlare con il raccoglitore inesperto" },
+    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_000", "hash": "F0211A6273530175", "target": "Scusa, ma non sei la persona che aiutava Erenville? Se hai un momento, anche a me farebbe comodo una mano con un certo incarico..." },
+    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_002", "hash": "0900BB67D9854886", "target": "In breve, devo cacciare alcuni caribù. Ma è il primo incarico che accetto che richieda una qualche forma di violenza, quindi non sono del tutto sicuro di come affrontare le prede." },
+    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_003", "hash": "25D0DA988144E0A3", "target": "Sembri <if(gnum4,una donna,un uomo)> che ha visto la propria parte di combattimenti. E se potessi osservarti di nascosto mentre affronti gli animali che devo cacciare!?" },
+    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_005", "hash": "0964F1D396C55461", "target": "Naturalmente non dovresti passarci tutta la giornata: uno o due esempi nel bosco a ovest di qui dovrebbero bastare! Facciamo due, va bene? Ti pagherò anche! ...Ti prego?" },
+    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_006", "hash": "24AFEF0A9CEB7F4E", "target": "I caribù non dovrebbero darti troppi problemi. E se te ne danno, be'... sarà comunque una lezione preziosa per me!" },
+    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_010", "hash": "22558436170B8AE0", "target": "Grazie per la lezione! Dubito di poter imitare il tuo stile particolare, ma vederti in azione è stato enormemente utile." },
+    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_011", "hash": "543B9631F2F4C2DE", "target": "Hai anche reso un servizio abbattendo alcuni degli animali più prolifici di Labyrinthos. Non preoccuparti: è essenziale ridurre ogni tanto il numero dei caribù per mantenere stabile l'habitat." },
+    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_012", "hash": "D724F1998CBDF8DC", "target": "E qui non si uccide nulla per puro divertimento. Ogni parte della carcassa viene recuperata e utilizzata, e mi assicurerò che lo stesso valga per le creature che hai abbattuto." },
+    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_013", "hash": "B2727A2FE34915CC", "target": "Ce ne sono ancora alcuni da abbattere, ma credo di poterci riuscire da solo adesso. È il destino di un raccoglitore, e dovrei imparare a farlo prima possibile." },
+    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_014", "hash": "5BBBE92ABAFE0902", "target": "Oh, ed ecco il tuo pagamento. Augurami buona fortuna!" }
   ]
 }

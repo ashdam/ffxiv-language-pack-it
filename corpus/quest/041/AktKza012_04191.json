@@ -2,17 +2,17 @@
   "conversation": "quest/041/AktKza012_04191",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_SEQ_00", "hash": "EABFAD674A963E2C", "target": "" },
-    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_TODO_00", "hash": "8CD283C03FEC7BA5", "target": "" },
-    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_TODO_01", "hash": "DCC78B5FC441B7EC", "target": "" },
-    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_CHATBERT_000_000", "hash": "2B833F2946BAEC90", "target": "" },
-    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_CHATBERT_000_001", "hash": "53EAC191C7CA899F", "target": "" },
-    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_CHATBERT_000_002", "hash": "6AFA76A7AF5D95CC", "target": "" },
-    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_CHATBERT_000_003", "hash": "29BEE7D8A8BB3CBC", "target": "" },
-    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_CHATBERT_000_004", "hash": "12901EFD29F0EBAA", "target": "" },
-    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_CHATBERT_000_010", "hash": "B809E0C615944E6C", "target": "" },
-    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_CHATBERT_000_011", "hash": "B27DFA1E6B62C442", "target": "" },
-    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_CHATBERT_000_012", "hash": "D7124681502FCC90", "target": "" },
-    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_CHATBERT_000_013", "hash": "43578FE32DEB6212", "target": "" }
+    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_SEQ_00", "hash": "EABFAD674A963E2C", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Chatbert sembra essersi lasciato prendere dal panico." },
+    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_TODO_00", "hash": "8CD283C03FEC7BA5", "target": "Cercare il runaway coblyn nel luogo indicato, indebolirlo e catturarlo nello sturdy sack" },
+    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_TODO_01", "hash": "DCC78B5FC441B7EC", "target": "Consegnare il coblyn-filled sack a Chatbert" },
+    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_CHATBERT_000_000", "hash": "2B833F2946BAEC90", "target": "Andrà tutto bene, devo solo... solo... Oh dèi, che cosa faccio!?" },
+    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_CHATBERT_000_001", "hash": "53EAC191C7CA899F", "target": "Ho chiesto a un raccoglitore di portarmi un esemplare vivace di coblyn, ma forse ho insistito un po' troppo sul «vivace». Si è agitato con tanta forza da sfondare la parete del recinto ed è fuggito!" },
+    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_CHATBERT_000_002", "hash": "6AFA76A7AF5D95CC", "target": "Per un momento ho pensato di inseguirlo io stesso... poi ho capito che probabilmente avrebbe ridotto in poltiglia il mio morbido corpo da accademico. Tu, invece, sembri possedere una resistenza ben superiore." },
+    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_CHATBERT_000_003", "hash": "29BEE7D8A8BB3CBC", "target": "L'ultima volta che l'ho visto correva verso la Foresta di Mornveil. Ti prego, rintraccia e immobilizza il nostro vivace fuggitivo, infilalo in questo sturdy sack e riportamelo qui. Avrai la mia umile gratitudine e una generosa ricompensa!" },
+    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_CHATBERT_000_004", "hash": "12901EFD29F0EBAA", "target": "Ricorda: prima immobilizzalo, poi catturalo! Per quanto quel sacco sia robusto, dubito che possa contenere un coblyn che si dibatte furiosamente." },
+    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_CHATBERT_000_010", "hash": "B809E0C615944E6C", "target": "L'hai preso!? Hai messo il coblyn nel sacco!?" },
+    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_CHATBERT_000_011", "hash": "B27DFA1E6B62C442", "target": "Oh, sia lodato lo Studioso..." },
+    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_CHATBERT_000_012", "hash": "D7124681502FCC90", "target": "Sai, mi hanno incaricato di valutare le affermazioni dietetiche di un'opera intitolata <italic(1)>Cucina dei coblyn<italic(0)>, e stavo per preparare il mio primo piatto." },
+    { "gameKey": "quest/041/AktKza012_04191#TEXT_AKTKZA012_04191_CHATBERT_000_013", "hash": "43578FE32DEB6212", "target": "Che sapore avrà? Sarà almeno commestibile? Tu, <if(gnum4,amica mia,amico mio)>, mi hai permesso di rispondere a queste domande. Grazie per il tuo contributo alla scienza culinaria!" }
   ]
 }

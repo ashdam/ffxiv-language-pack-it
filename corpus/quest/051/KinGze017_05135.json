@@ -2,18 +2,18 @@
   "conversation": "quest/051/KinGze017_05135",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_SEQ_00", "hash": "24D65E1D57DE6ED8", "target": "" },
-    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_TODO_00", "hash": "6C4A0F421D550D58", "target": "" },
-    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_TODO_01", "hash": "FE76781528F3F953", "target": "" },
-    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_000", "hash": "DC7FF77C251E4ECF", "target": "" },
-    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_001", "hash": "5EC83E85C171EFD5", "target": "" },
-    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_002", "hash": "F453C127EAC33244", "target": "" },
-    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_003", "hash": "B383569D6BBB1897", "target": "" },
-    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_004", "hash": "BBE74F849371C6E8", "target": "" },
-    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_005", "hash": "23020D5A5D4B3E8B", "target": "" },
-    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_006", "hash": "436F48FD61E66DE9", "target": "" },
-    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_007", "hash": "C3340B812717C650", "target": "" },
-    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_008", "hash": "2D7D7EAD6A94E26D", "target": "" },
-    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_009", "hash": "F625A4E8A26C99FE", "target": "" }
+    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_SEQ_00", "hash": "24D65E1D57DE6ED8", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Proprio quando pensavi che la vita nel deserto non potesse essere più spiacevole, ecco arrivare i serpenti." },
+    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_TODO_00", "hash": "6C4A0F421D550D58", "target": "Sconfiggere due aspis e poi uccidere l'elder aspis quando appare" },
+    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_TODO_01", "hash": "FE76781528F3F953", "target": "Consegnare l'elder aspis carcass all'ispettore ferroviario" },
+    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_000", "hash": "DC7FF77C251E4ECF", "target": "Come va? Se hai un momento, avrei un piccolo favore da chiederti." },
+    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_001", "hash": "5EC83E85C171EFD5", "target": "Poco a nord-ovest di qui, un gruppo di serpenti ha attaccato alcuni lavoratori della ferrovia. Aspis, per l'esattezza." },
+    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_002", "hash": "F453C127EAC33244", "target": "So che cosa pensi: «I serpenti non cacciano in gruppo, vero?» Be', questi sì, e ce n'è uno particolarmente enorme che sembra il capo. Se te la senti, vorrei che andassi a ucciderlo!" },
+    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_003", "hash": "B383569D6BBB1897", "target": "Elimina il capo e gli altri capiranno il messaggio. Il difficile è che di solito resta nascosto, quindi ti consiglio di eliminare un paio dei più piccoli per attirare la sua attenzione. Quando hai finito, portami una prova della sua morte, va bene?" },
+    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_004", "hash": "BBE74F849371C6E8", "target": "Gli aspis non sono solo velenosi, sono anche dannatamente grossi. Fa' attenzione, là fuori!" },
+    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_005", "hash": "23020D5A5D4B3E8B", "target": "Sono felice di vederti <if(gnum4,tutta intera,tutto intero)>! Allora, hai qualche pezzo di serpente da mostrarmi?" },
+    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_006", "hash": "436F48FD61E66DE9", "target": "Guarda un po'! Questo doveva appartenere a un vero colosso!" },
+    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_007", "hash": "C3340B812717C650", "target": "Credo che potremmo usarlo persino per produrre un antidoto. Se qualcuno viene morso, potrebbe salvargli la vita." },
+    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_008", "hash": "2D7D7EAD6A94E26D", "target": "Sai, quasi mi dispiace dirlo, ma se là fuori resta altro di quel serpente, potremmo vendere la sua pelle come cuoio. Possiamo persino mangiarne la carne, che è sorprendentemente gustosa. Potrebbe addirittura diventare una buona fonte di reddito per la compagnia!" },
+    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_009", "hash": "F625A4E8A26C99FE", "target": "Però sarà meglio che mi affretti, altrimenti gli altri animali del deserto mi lasceranno solo le ossa! Grazie dell'aiuto!" }
   ]
 }

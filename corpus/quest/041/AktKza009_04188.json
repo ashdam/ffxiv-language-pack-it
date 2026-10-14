@@ -2,17 +2,17 @@
   "conversation": "quest/041/AktKza009_04188",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_SEQ_00", "hash": "2DAD6C499E693A8B", "target": "" },
-    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_TODO_00", "hash": "475E9B66E489271B", "target": "" },
-    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_TODO_01", "hash": "6CBC4CA98CF806A9", "target": "" },
-    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_NNAGALI_000_000", "hash": "FDC8557C5A414527", "target": "" },
-    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_NNAGALI_000_001", "hash": "A8CB057AE30D9C79", "target": "" },
-    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_NNAGALI_000_002", "hash": "4265832C471C1209", "target": "" },
-    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_NNAGALI_000_003", "hash": "54C12A85A2E02778", "target": "" },
-    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_NNAGALI_000_004", "hash": "169143BD04DDD861", "target": "" },
-    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_NNAGALI_000_005", "hash": "667DAF52C0D2EF54", "target": "" },
-    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_NNAGALI_000_010", "hash": "A2B7CE0085480BA2", "target": "" },
-    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_NNAGALI_000_011", "hash": "46A3035633D517B9", "target": "" },
-    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_NNAGALI_000_012", "hash": "6D690D1E86DADC77", "target": "" }
+    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_SEQ_00", "hash": "2DAD6C499E693A8B", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>N'nagali ti guarda con una preoccupazione materna." },
+    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_TODO_00", "hash": "475E9B66E489271B", "target": "Recuperare i rotting logs" },
+    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_TODO_01", "hash": "6CBC4CA98CF806A9", "target": "Consegnare i rotting logs a N'nagali" },
+    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_NNAGALI_000_000", "hash": "FDC8557C5A414527", "target": "<if(gnum4,Signora,Signore)>, puoi tendere la mano? Ho qualcosa che devi assolutamente mangiare. Ti prego, insisto!" },
+    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_NNAGALI_000_001", "hash": "A8CB057AE30D9C79", "target": "Non è la cosa più succosa, dolce e rinvigorente che tu abbia mai assaggiato? Ne ho appena sfornata una partita e, visto il tuo colorito un po' pallido, ho pensato che ti avrebbe fatto bene una piccola delizia!" },
+    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_NNAGALI_000_002", "hash": "4265832C471C1209", "target": "Oh, non preoccuparti: so esattamente cosa ti sto dando da mangiare. Anche se ora vivo qui, in questo rifugio di tesori culturali archiviati, un tempo studiavo scienze della nutrizione alla Facoltà di Medicina." },
+    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_NNAGALI_000_003", "hash": "54C12A85A2E02778", "target": "Ciò che ho imparato torna certamente utile per mantenere sani e in forze i miei colleghi stanchi. ...Anche se faccio fatica a trovare il tempo per raccogliere tutti gli ingredienti necessari." },
+    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_NNAGALI_000_004", "hash": "169143BD04DDD861", "target": "A dire il vero, potresti aiutarmi con questo? Stavo per andare a raccogliere alcune cose a est di qui, ma se potessi cercare un paio di rotting logs nella zona a nord-ovest, te ne sarei molto grata!" },
+    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_NNAGALI_000_005", "hash": "667DAF52C0D2EF54", "target": "Sì, rotting logs! Non devono essere enormi, ma mi servono interi!" },
+    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_NNAGALI_000_010", "hash": "A2B7CE0085480BA2", "target": "Hai trovato i tronchi?" },
+    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_NNAGALI_000_011", "hash": "46A3035633D517B9", "target": "Sì! Dovrebbero essere <italic(1)>pieni<italic(0)> di quelle adorabili creaturine!" },
+    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_NNAGALI_000_012", "hash": "6D690D1E86DADC77", "target": "Grazie da parte mia e dei miei colleghi archivisti, che apprezzeranno sicuramente! Dopotutto, nessun piatto è più nutriente di uno preparato con larve di coleottero!" }
   ]
 }

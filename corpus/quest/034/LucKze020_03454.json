@@ -2,17 +2,17 @@
   "conversation": "quest/034/LucKze020_03454",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_SEQ_00", "hash": "F15F4ACDF3E63159", "target": "" },
-    { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_TODO_00", "hash": "2639C05A2EE33170", "target": "" },
-    { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_TODO_01", "hash": "B0F836BEF863E37F", "target": "" },
-    { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_ASGEIR_000_000", "hash": "A565BCD4902674AB", "target": "" },
-    { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_ASGEIR_000_001", "hash": "36D2CEF1C9315F3D", "target": "" },
-    { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_ASGEIR_000_002", "hash": "D56665010C9FFD4A", "target": "" },
-    { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_ASGEIR_000_010", "hash": "9780E7B9DB6191FC", "target": "" },
-    { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_ASGEIR_000_020", "hash": "BC810DD1E5129BCE", "target": "" },
-    { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_ASGEIR_000_021", "hash": "F4450BD242BF954C", "target": "" },
-    { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_ASGEIR_000_022", "hash": "135C06A839544AEA", "target": "" },
-    { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_ASGEIR_000_023", "hash": "72EA82ED33D5EE8E", "target": "" },
-    { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_ASGEIR_000_024", "hash": "D4576AA406757CD1", "target": "" }
+    { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_SEQ_00", "hash": "F15F4ACDF3E63159", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Asgeir è confuso da ciò che ha trovato nel bosco." },
+    { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_TODO_00", "hash": "2639C05A2EE33170", "target": "Indagare nel luogo indicato" },
+    { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_TODO_01", "hash": "B0F836BEF863E37F", "target": "Consegnare la pristine crate ad Asgeir" },
+    { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_ASGEIR_000_000", "hash": "A565BCD4902674AB", "target": "L'altro giorno raccoglievo legna quando, dal nulla, una freccia mi è sibilata vicino alla testa. Solo dopo essermi ripreso mi sono accorto che vi era legata una lettera." },
+    { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_ASGEIR_000_001", "hash": "36D2CEF1C9315F3D", "target": "O meglio, una mappa su cui era segnato un luogo non lontano da qui." },
+    { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_ASGEIR_000_002", "hash": "D56665010C9FFD4A", "target": "Probabilmente è una trappola, ma sospetto che qualsiasi pericolo in agguato non darebbe problemi a <if(gnum4,un'ospite,un ospite)> della maestra Matoya. Se trovi qualcosa, un tesoro o altro, lo condividerò volentieri con te." },
+    { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_ASGEIR_000_010", "hash": "9780E7B9DB6191FC", "target": "Non so da dove venga la mappa, ma sono curioso di vedere che cosa troverai." },
+    { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_ASGEIR_000_020", "hash": "BC810DD1E5129BCE", "target": "Ah, <if(gnum4,sei tornata,sei tornato)>. Hai trovato qualcosa?" },
+    { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_ASGEIR_000_021", "hash": "F4450BD242BF954C", "target": "Una cassa...?<br>È piena di bastoni e archi. \\<sussulto> Non può essere..." },
+    { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_ASGEIR_000_022", "hash": "135C06A839544AEA", "target": "Qualche giorno fa hanno rubato diverse armi dal nostro magazzino. Le abbiamo seguite fin dove potevamo, ma abbiamo perso le tracce al confine con Yx'Maja." },
+    { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_ASGEIR_000_023", "hash": "72EA82ED33D5EE8E", "target": "Pensi che i custodi di Yx'Maja abbiano lasciato lì la cassa?" },
+    { "gameKey": "quest/034/LucKze020_03454#TEXT_LUCKZE020_03454_ASGEIR_000_024", "hash": "D4576AA406757CD1", "target": "Comunque, siamo grati di aver riavuto le armi, anche se non immagino che a te servano. Ma devi ricevere un compenso per il disturbo. Ecco, questo è per te." }
   ]
 }

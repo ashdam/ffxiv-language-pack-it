@@ -2,18 +2,18 @@
   "conversation": "quest/050/KinGzb009_05038",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_SEQ_00", "hash": "86190823000F40F2", "target": "" },
-    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_TODO_00", "hash": "401C48C3BDCD9B31", "target": "" },
-    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_TODO_01", "hash": "EC6D32215980AA6D", "target": "" },
-    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_MIVLI_000_000", "hash": "B5CE68DEC47585CD", "target": "" },
-    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_MIVLI_000_001", "hash": "02360C54968DA42C", "target": "" },
-    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_MIVLI_000_002", "hash": "29176F5FDE79D047", "target": "" },
-    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_MIVLI_000_003", "hash": "11646ECC1548D32C", "target": "" },
-    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_MIVLI_000_010", "hash": "2E845F1629D2B124", "target": "" },
-    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_MIVLI_000_011", "hash": "4A4DF8E8FA078091", "target": "" },
-    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_MIVLI_000_012", "hash": "209E29609116DD5C", "target": "" },
-    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_MIVLI_000_013", "hash": "3D4292E791A09E80", "target": "" },
-    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_MIVLI_000_014", "hash": "9BE2920A2762D79E", "target": "" },
-    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_MIVLI_000_015", "hash": "CA2C2C8B2A15DDE4", "target": "" }
+    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_SEQ_00", "hash": "86190823000F40F2", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Mivli ha una richiesta che comporta un bel po' di pericoli." },
+    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_TODO_00", "hash": "401C48C3BDCD9B31", "target": "Esaminare il luogo indicato e abbattere un overgrown megamaguey per ottenere il suo enlarged bulb" },
+    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_TODO_01", "hash": "EC6D32215980AA6D", "target": "Consegnare l'enlarged bulb a Mivli" },
+    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_MIVLI_000_000", "hash": "B5CE68DEC47585CD", "target": "Dimmi, sembri una persona intrepida. Mi farebbe davvero comodo il tuo aiuto." },
+    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_MIVLI_000_001", "hash": "02360C54968DA42C", "target": "Poco lontano da qui, a Chabameki, compaiono megamaguey eccezionalmente grandi, diciamo cresciuti a dismisura." },
+    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_MIVLI_000_002", "hash": "29176F5FDE79D047", "target": "Vorrei che ne abbattessi uno e recuperassi un enlarged bulb dal suo corpo. Ti spiegherò il motivo al tuo ritorno!" },
+    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_MIVLI_000_003", "hash": "11646ECC1548D32C", "target": "Va', <if(gnum4,amica mia,amico mio)>, e abbatti un overgrown megamaguey! Mi serve un enlarged bulb dal suo corpo. Ti dirò il perché più tardi!" },
+    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_MIVLI_000_010", "hash": "2E845F1629D2B124", "target": "<if(gnum4,Bentornata,Bentornato)>! Com'è andata?" },
+    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_MIVLI_000_011", "hash": "4A4DF8E8FA078091", "target": "Un esemplare perfetto! Ci faremo sicuramente un ottimo mezcal!" },
+    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_MIVLI_000_012", "hash": "209E29609116DD5C", "target": "Dimmi, sapevi che furono proprio i popoli di Xak Tural a insegnare a noi Pelupelu a fare il mezcal?" },
+    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_MIVLI_000_013", "hash": "3D4292E791A09E80", "target": "Ci insegnarono a preparare il liquore con l'agave, ma scoprimmo anche che usare il bulbo di un megamaguey dà alla bevanda una bella botta." },
+    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_MIVLI_000_014", "hash": "9BE2920A2762D79E", "target": "E il megamaguey darebbe una bella botta a <italic(1)>me<italic(0)> se provassi a procurarmi i bulbi da solo." },
+    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_MIVLI_000_015", "hash": "CA2C2C8B2A15DDE4", "target": "Ecco perché non potrò mai ringraziarti abbastanza per l'aiuto! Non dubito che il mezcal che preparerò con questo sarà delizioso!" }
   ]
 }

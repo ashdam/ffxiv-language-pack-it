@@ -2,17 +2,17 @@
   "conversation": "quest/034/LucKzc020_03403",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_SEQ_00", "hash": "BB2439C5BCB646D8", "target": "" },
-    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_TODO_00", "hash": "BEF3907AE3BB29D2", "target": "" },
-    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_TODO_01", "hash": "2A92CA2212CD9AB2", "target": "" },
-    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_000", "hash": "21A3940430142C76", "target": "" },
-    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_001", "hash": "5D86588E412C592C", "target": "" },
-    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_002", "hash": "BE3049DE97C139D8", "target": "" },
-    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_003", "hash": "EACE21BCD8BF6EF0", "target": "" },
-    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_004", "hash": "4F335347E1024E86", "target": "" },
-    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_010", "hash": "0B760CBE8F222AB1", "target": "" },
-    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_011", "hash": "905C84403B35BE93", "target": "" },
-    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_012", "hash": "C7ABC4F5A6B775D8", "target": "" },
-    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_013", "hash": "F9D7547BC5E5E0B3", "target": "" }
+    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_SEQ_00", "hash": "BB2439C5BCB646D8", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>An Iala ha una richiesta sincera da farti." },
+    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_TODO_00", "hash": "BEF3907AE3BB29D2", "target": "Uccidere due rosebears, poi sconfiggere il giant rosebear quando appare" },
+    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_TODO_01", "hash": "2A92CA2212CD9AB2", "target": "Fare rapporto ad An Iala" },
+    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_000", "hash": "21A3940430142C76", "target": "Aiuto! Aiutaci, per favore! Giuro che non è uno scherzo!" },
+    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_001", "hash": "5D86588E412C592C", "target": "Vedi, ci sono questi orsi spaventosi che ci terrorizzano. Si chiamano rosebears e di solito riusciamo a scacciarli. Ma ultimamente ne è comparso uno più grande, più feroce e più affamato degli altri!" },
+    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_002", "hash": "BE3049DE97C139D8", "target": "Abbiamo troppa paura di affrontarlo, piccoli e deboli come siamo. Ma tu sei molto più grande e più forte di noi. Se qualcuno può occuparsi di quella bestia furiosa, credo che quel qualcuno sia tu!" },
+    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_003", "hash": "EACE21BCD8BF6EF0", "target": "I rosebears comuni si aggirano nella zona a est di qui. Se ne uccidessi alcuni, dovresti attirare il loro simile più temibile. E quando apparirà, voglio che tu uccida anche lui!" },
+    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_004", "hash": "4F335347E1024E86", "target": "I rosebears comuni si aggirano nella zona a est di qui. Se ne uccidessi alcuni, dovresti attirare il loro simile più temibile. E quando apparirà, voglio che tu uccida anche lui!" },
+    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_010", "hash": "0B760CBE8F222AB1", "target": "Ce l'hai fatta! Ci hai liberato dal giant rosebear! Ti siamo debitori!" },
+    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_011", "hash": "905C84403B35BE93", "target": "Per lunghi, lunghi anni, quelle bestie sfacciate hanno predato le nostre pecore, le nostre preziose amiche che ci danno il latte." },
+    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_012", "hash": "C7ABC4F5A6B775D8", "target": "Per dare loro una lezione, abbiamo fatto crescere delle piante sui loro corpi, ma, con nostro sgomento, le abbiamo soltanto rese più spaventose." },
+    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_013", "hash": "F9D7547BC5E5E0B3", "target": "Ma grazie a te il più spaventoso non c'è più, e degli altri possiamo occuparci da soli. Il Mheg è un posto migliore grazie a mortali gentili e disponibili come te!" }
   ]
 }

@@ -2,17 +2,17 @@
   "conversation": "quest/050/KinGzc003_05062",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_SEQ_00", "hash": "35CE22C96BFD7878", "target": "" },
-    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_TODO_00", "hash": "401595B745657092", "target": "" },
-    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_TODO_01", "hash": "CF177CB1D740A1D5", "target": "" },
-    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_000", "hash": "A7591BF5CB1984AD", "target": "" },
-    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_002", "hash": "4800B3DB364DB382", "target": "" },
-    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_004", "hash": "EEE82D80D29DC1A8", "target": "" },
-    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_006", "hash": "ED5494F5FDD9AA0F", "target": "" },
-    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_007", "hash": "9287982A7114BFB9", "target": "" },
-    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_008", "hash": "33A08BE555E6DA95", "target": "" },
-    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_009", "hash": "C6984089D9D2A623", "target": "" },
-    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_010", "hash": "7C326FA74C60B486", "target": "" },
-    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_011", "hash": "A77224DC49932869", "target": "" }
+    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_SEQ_00", "hash": "35CE22C96BFD7878", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Lenuhali cerca qualcuno abbastanza forte da abbattere gli alberi o, almeno, schiacciare i parassiti." },
+    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_TODO_00", "hash": "401595B745657092", "target": "Esaminare il luogo indicato e uccidere gli u'out che compaiono" },
+    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_TODO_01", "hash": "CF177CB1D740A1D5", "target": "Parlare con Lenuhali" },
+    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_000", "hash": "A7591BF5CB1984AD", "target": "Oh, quelle gambe robuste come un albero imponente. Quelle braccia muscolose come rami nodosi. Mi presteresti la tua forza per una semplice caccia?" },
+    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_002", "hash": "4800B3DB364DB382", "target": "La tempesta ha lasciato più che distruzione. Ora bestie temibili infestano il bosco, e il loro abbattimento è un compito senza fine." },
+    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_004", "hash": "EEE82D80D29DC1A8", "target": "Si dice che tre u'out siano stati avvistati vicino ai moli a est: prede facili per te. Potresti sterminarli, così potremo tornare a navigare in sicurezza?" },
+    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_006", "hash": "ED5494F5FDD9AA0F", "target": "Gli u'out hanno reso pericolosi i moli a est. Uccidili, così potremo tornare a percorrere quelle acque!" },
+    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_007", "hash": "9287982A7114BFB9", "target": "Ah, <if(gnum4,la potente cacciatrice,il potente cacciatore)> ritorna! Gli u'out sono stati ridotti a liane sbrindellate?" },
+    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_008", "hash": "33A08BE555E6DA95", "target": "Sapevo che saresti <if(gnum4,stata,stato)> all'altezza! Spargerò la voce che i moli sono aperti al transito sicuro." },
+    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_009", "hash": "C6984089D9D2A623", "target": "La grande tempesta ha colpito ogni forma di vita nel bosco, spazzando via ciò che c'era e lasciando solo incertezza. Su molte strade poco frequentate si nascondono ancora mostri disperati..." },
+    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_010", "hash": "7C326FA74C60B486", "target": "Dopo il crollo della grande scalinata, usiamo i corsi d'acqua e altre vie insolite per spostarci finché le riparazioni non saranno finite. Quel giorno non arriverà mai abbastanza presto!" },
+    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_011", "hash": "A77224DC49932869", "target": "Fino ad allora, però, dobbiamo arrangiarci. Grazie per il tuo coraggio!" }
   ]
 }

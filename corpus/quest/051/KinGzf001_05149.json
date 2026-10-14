@@ -2,18 +2,18 @@
   "conversation": "quest/051/KinGzf001_05149",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_SEQ_00", "hash": "4318527A4F3A4FAE", "target": "" },
-    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_TODO_00", "hash": "2344120CDD71E895", "target": "" },
-    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_TODO_01", "hash": "AD20B66CF12A0CA9", "target": "" },
-    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_000", "hash": "D0E1BFBE88BEB53B", "target": "" },
-    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_001", "hash": "C53DDE9D06CECB05", "target": "" },
-    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_002", "hash": "3478B9B75691621E", "target": "" },
-    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_003", "hash": "4AE0CACCD4B2FCD4", "target": "" },
-    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_005", "hash": "A046FE51BBB0939A", "target": "" },
-    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_006", "hash": "049BE5617CA6D640", "target": "" },
-    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_007", "hash": "8BBF57B280A520BC", "target": "" },
-    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_008", "hash": "99DB2723C1AD7314", "target": "" },
-    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_009", "hash": "026263AEAAD24E97", "target": "" },
-    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_010", "hash": "3B7BFDDFFF0EFD57", "target": "" }
+    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_SEQ_00", "hash": "4318527A4F3A4FAE", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Uaauashe ha uno spruzzatore destinato a te." },
+    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_TODO_00", "hash": "2344120CDD71E895", "target": "Spruzzare l'extra-strength debugifier nei luoghi indicati" },
+    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_TODO_01", "hash": "AD20B66CF12A0CA9", "target": "Parlare con Uaauashe" },
+    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_000", "hash": "D0E1BFBE88BEB53B", "target": "Ehi, ti conosco! Hai visitato le fattorie con Sua Maestà, vero? Che ne dici di qualcosa di un po' più pratico?" },
+    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_001", "hash": "C53DDE9D06CECB05", "target": "Mi è stato assegnato il ruolo di addetta alle pulizie, e uno dei miei compiti è applicare periodicamente l'insetticida." },
+    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_002", "hash": "3478B9B75691621E", "target": "Ecco, ho segnato sulla tua mappa alcune zone che hanno bisogno di un trattamento. Prendi questo extra-strength debugifier e spruzzacene sopra in abbondanza. Fammi sapere quando hai finito, va bene?" },
+    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_003", "hash": "4AE0CACCD4B2FCD4", "target": "Ognuna di quelle zone va spruzzata per bene per tenere lontani gli insetti. Fammi sapere quando hai finito!" },
+    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_005", "hash": "A046FE51BBB0939A", "target": "Eccoti di ritorno! Grazie di essertene <if(gnum4,occupata,occupato)>, a proposito. Passerà un po' di tempo prima di doverci preoccupare di avvistare qualche oglop!" },
+    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_006", "hash": "049BE5617CA6D640", "target": "Come addetti alle pulizie, ci occupiamo di igiene, smaltimento dei rifiuti, riciclaggio e persino manutenzione del terreno, tutto per mantenere le nostre case libere dai batteri." },
+    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_007", "hash": "8BBF57B280A520BC", "target": "E a differenza dell'Everkeep, che è interamente artificiale, qui in periferia abbiamo <italic(1)>tantissimi<italic(0)> insetti. Fidati, si insedieranno subito se glielo permettiamo." },
+    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_008", "hash": "99DB2723C1AD7314", "target": "Gli oglop, in particolare, sono i peggiori. Diffondono malattie attraverso i germi che trasportano, quindi il loro sterminio non è negoziabile. Il problema è che sono geneticamente predisposti a resistere anche agli ambienti più ostili, il che li rende difficili da uccidere." },
+    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_009", "hash": "026263AEAAD24E97", "target": "Personalmente, li trovo piuttosto carini, ma come addetti alle pulizie abbiamo un lavoro da fare." },
+    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_010", "hash": "3B7BFDDFFF0EFD57", "target": "Non riusciremo mai a eliminarli completamente, vista la loro tendenza a riprodursi, ma grazie al tuo impegno avremo qualche altra luna prima di dovercene preoccupare ancora. Ecco, per l'ottimo lavoro." }
   ]
 }

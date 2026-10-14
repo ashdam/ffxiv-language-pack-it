@@ -2,17 +2,17 @@
   "conversation": "quest/042/AktKzh004_04299",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_SEQ_00", "hash": "41E0B8F546CF59F7", "target": "" },
-    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_TODO_00", "hash": "EB8B653D6CB4CEA0", "target": "" },
-    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_TODO_01", "hash": "F83FB54F18D9534C", "target": "" },
-    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_OBSERVER04299_000_000", "hash": "048FB41A589861DD", "target": "" },
-    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_OBSERVER04299_000_001", "hash": "BD95A482445ABB42", "target": "" },
-    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_OBSERVER04299_000_002", "hash": "D1C307FFB9DE9464", "target": "" },
-    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_OBSERVER04299_000_003", "hash": "6BB57668C5EB66AB", "target": "" },
-    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_OBSERVER04299_000_005", "hash": "FE1118266EED7A3A", "target": "" },
-    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_OBSERVER04299_000_006", "hash": "E070CA11EF81E301", "target": "" },
-    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_OBSERVER04299_000_007", "hash": "4A3AB1DD16356624", "target": "" },
-    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_OBSERVER04299_000_008", "hash": "B4ADDF510DC89838", "target": "" },
-    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_OBSERVER04299_000_009", "hash": "B815764A91610B5F", "target": "" }
+    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_SEQ_00", "hash": "41E0B8F546CF59F7", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>L'entusiasta osservatore ha bisogno d'aiuto per recuperare piante perdute." },
+    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_TODO_00", "hash": "EB8B653D6CB4CEA0", "target": "Recuperare ciuffi di cloud mallow" },
+    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_TODO_01", "hash": "F83FB54F18D9534C", "target": "Consegnare i ciuffi di cloud mallow all'entusiasta osservatore" },
+    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_OBSERVER04299_000_000", "hash": "048FB41A589861DD", "target": "Che spettacolo! Un ampelos ha starnutito e fatto volare ciuffi di cloud mallow in ogni direzione." },
+    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_OBSERVER04299_000_001", "hash": "BD95A482445ABB42", "target": "Per quanto sia divertente, non riuscirò mai a raccoglierli tutti senza aiuto... a meno che tu non voglia darmi una mano?" },
+    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_OBSERVER04299_000_002", "hash": "D1C307FFB9DE9464", "target": "Grazie mille! Dividiamoci e cominciamo a cercarli." },
+    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_OBSERVER04299_000_003", "hash": "6BB57668C5EB66AB", "target": "Cerca piante bianche e soffici che fluttuano attorno a Poieten Oikos e riportami quelle che trovi." },
+    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_OBSERVER04299_000_005", "hash": "FE1118266EED7A3A", "target": "Hai trovato qualche pianta?" },
+    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_OBSERVER04299_000_006", "hash": "E070CA11EF81E301", "target": "Perfetto! Che sollievo riaverle..." },
+    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_OBSERVER04299_000_007", "hash": "4A3AB1DD16356624", "target": "Un creatore piuttosto inesperto ideò il concetto per portare più vita tra le nuvole. Il che va benissimo, ma il vento le porta via troppo facilmente." },
+    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_OBSERVER04299_000_008", "hash": "B4ADDF510DC89838", "target": "Sarebbe bello se resistessero un po' di più al vento... Dobbiamo sapere che possono stabilirsi in un posto senza temere che volino via perché una bestia respira troppo forte." },
+    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_OBSERVER04299_000_009", "hash": "B815764A91610B5F", "target": "Be', sarà meglio che le rimetta al loro posto prima che una brezza leggera vanifichi tutto il tuo lavoro. Ecco, accetta questo come ringraziamento per l'aiuto." }
   ]
 }

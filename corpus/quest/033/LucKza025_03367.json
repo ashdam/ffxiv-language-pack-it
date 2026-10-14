@@ -2,17 +2,17 @@
   "conversation": "quest/033/LucKza025_03367",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_SEQ_00", "hash": "AD59054968635FFA", "target": "" },
-    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_TODO_00", "hash": "A8E4C03FDE6FBCB9", "target": "" },
-    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_TODO_01", "hash": "43A55AAE87830934", "target": "" },
-    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_LAMON_000_000", "hash": "EC157521191BF2ED", "target": "" },
-    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_LAMON_000_001", "hash": "FA5EC75F82E6FD58", "target": "" },
-    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_LAMON_000_002", "hash": "F913CF8E5663E408", "target": "" },
-    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_LAMON_000_003", "hash": "3643C27584312CA9", "target": "" },
-    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_LAMON_000_010", "hash": "EABA1AB7D3EC5924", "target": "" },
-    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_LAMON_000_020", "hash": "D98573AA21710655", "target": "" },
-    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_LAMON_000_021", "hash": "EE27F10622FA2B82", "target": "" },
-    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_LAMON_000_022", "hash": "761F4F0983EAD073", "target": "" },
-    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_LAMON_000_023", "hash": "1D4F7F2E5B10A082", "target": "" }
+    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_SEQ_00", "hash": "AD59054968635FFA", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Lamon ha un lavoro da fare e spera che lo farai tu al posto suo." },
+    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_TODO_00", "hash": "A8E4C03FDE6FBCB9", "target": "Usare il brass siphon sulla pianta succulenta gigante" },
+    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_TODO_01", "hash": "43A55AAE87830934", "target": "Consegnare le sweet-smelling succulent secretions a Lamon" },
+    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_LAMON_000_000", "hash": "EC157521191BF2ED", "target": "Cerchi lavoro, per caso?" },
+    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_LAMON_000_001", "hash": "FA5EC75F82E6FD58", "target": "Dovrei estrarre acqua dalle piante con questi sifoni, ma mi farebbe comodo un aiuto." },
+    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_LAMON_000_002", "hash": "F913CF8E5663E408", "target": "Come avrai notato, tutta la zona brulica di creature ostili di ogni tipo, quindi non è un lavoro per deboli di cuore." },
+    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_LAMON_000_003", "hash": "3643C27584312CA9", "target": "Me la caverei se estrarre l'acqua non richiedesse tanto tempo. Mentre aspetto sono una preda facile. Se puoi andarci al posto mio, ti ricompenserò come si deve." },
+    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_LAMON_000_010", "hash": "EABA1AB7D3EC5924", "target": "Per fare questo lavoro bisogna avere occhi anche dietro la testa. Però sembra che tu sappia cavartela." },
+    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_LAMON_000_020", "hash": "D98573AA21710655", "target": "Hai già finito?" },
+    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_LAMON_000_021", "hash": "EE27F10622FA2B82", "target": "Davvero notevole! <if(gnum4,Sei sicura,Sei sicuro)> di non averlo mai fatto prima?" },
+    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_LAMON_000_022", "hash": "761F4F0983EAD073", "target": "Ora forse ti chiedi perché estrarre acqua dalle piante con tanta fatica. Dopotutto ci sono modi più facili per procurarla. Be', questa sostanza ha una dolcezza utile nella preparazione dei medicinali." },
+    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_LAMON_000_023", "hash": "1D4F7F2E5B10A082", "target": "Di solito hanno un gusto piuttosto amaro, quindi questo lo attenua. Non rende le cure più efficaci, ma i pazienti sembrano apprezzarlo. Ti ringraziamo." }
   ]
 }

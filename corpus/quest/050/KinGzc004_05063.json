@@ -2,17 +2,17 @@
   "conversation": "quest/050/KinGzc004_05063",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_SEQ_00", "hash": "83F9735F91293A4E", "target": "" },
-    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_TODO_00", "hash": "7FA3596953E2C036", "target": "" },
-    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_TODO_01", "hash": "86955C5029223C08", "target": "" },
-    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_GONAHANU_000_000", "hash": "9EE5CAB415ED5F9D", "target": "" },
-    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_GONAHANU_000_001", "hash": "3103989909101279", "target": "" },
-    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_GONAHANU_000_002", "hash": "47DC203FAFC1B0E3", "target": "" },
-    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_GONAHANU_000_003", "hash": "5D68FCE14C765CE3", "target": "" },
-    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_MUNAHANU_000_004", "hash": "4951E475166745C3", "target": "" },
-    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_MUNAHANU_000_005", "hash": "447AC8D17F31F62B", "target": "" },
-    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_MUNAHANU_000_006", "hash": "163369BC4A94A4B3", "target": "" },
-    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_MUNAHANU_000_007", "hash": "73574CC4D913063D", "target": "" },
-    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_MUNAHANU_000_008", "hash": "B6612192AEF6FAD0", "target": "" }
+    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_SEQ_00", "hash": "83F9735F91293A4E", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Gonahanu ha bisogno di qualcuno disposto a bagnarsi i piedi." },
+    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_TODO_00", "hash": "7FA3596953E2C036", "target": "Raccogliere lush reed leaves" },
+    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_TODO_01", "hash": "86955C5029223C08", "target": "Consegnare le lush reed leaves a Munahanu" },
+    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_GONAHANU_000_000", "hash": "9EE5CAB415ED5F9D", "target": "Salve! Hai visto tutto ciò che il nostro umile villaggio offre? Se per caso vai al Breath Between, c'è un compito per cui vorrei il tuo aiuto." },
+    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_GONAHANU_000_001", "hash": "3103989909101279", "target": "Sei davvero gentile come dicono! Mi hanno chiesto di consegnare foglie di canna appena germogliate da usare come esca, ma il lavoro qui mi ha tenuto tanto impegnato che ho avuto poco tempo per completare l'ordine." },
+    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_GONAHANU_000_002", "hash": "47DC203FAFC1B0E3", "target": "Nei campi vicini crescono le canne migliori, e ti sarei debitore se raccogliessi qualche foglia e la portassi a Munahanu. Puoi tenere il suo pagamento per il disturbo!" },
+    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_GONAHANU_000_003", "hash": "5D68FCE14C765CE3", "target": "Munahanu ha chiesto foglie fresche delle canne qui vicino. Consegnagliele per me e il suo pagamento sarà tuo!" },
+    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_MUNAHANU_000_004", "hash": "4951E475166745C3", "target": "Oh, che sorpresa. Non mi aspettavo di vedere uno dei nostri visitatori proprio qui. Sei qui per pescare?" },
+    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_MUNAHANU_000_005", "hash": "447AC8D17F31F62B", "target": "Ah, queste sono le foglie che avevo chiesto a Gonahanu di consegnare. Dici di averle raccolte di persona? Hai proprio occhio, andranno benissimo!" },
+    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_MUNAHANU_000_006", "hash": "163369BC4A94A4B3", "target": "Non diventiamo così grandi mangiando soltanto canne, sai. Il pesce di queste acque è un ingrediente fondamentale di molti piatti Hanu." },
+    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_MUNAHANU_000_007", "hash": "73574CC4D913063D", "target": "Abbiamo scoperto che le canne piacciono ai pesci quasi quanto a noi! E, dato che mangiamo soprattutto i fusti, possiamo usare come esca le foglie fresche delle canne non ancora raccolte. Così banchettano tutti!" },
+    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_MUNAHANU_000_008", "hash": "B6612192AEF6FAD0", "target": "Forse anche tu potrai banchettare con questi soldi. Te li sei meritati!" }
   ]
 }

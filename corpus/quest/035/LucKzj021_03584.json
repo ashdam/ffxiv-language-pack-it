@@ -2,17 +2,17 @@
   "conversation": "quest/035/LucKzj021_03584",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzj021_03584#TEXT_LUCKZJ021_03584_SEQ_00", "hash": "3E26800C358544D3", "target": "" },
-    { "gameKey": "quest/035/LucKzj021_03584#TEXT_LUCKZJ021_03584_TODO_00", "hash": "2A0FCB47F8ADE949", "target": "" },
-    { "gameKey": "quest/035/LucKzj021_03584#TEXT_LUCKZJ021_03584_TODO_01", "hash": "2AB153DD9CB2734C", "target": "" },
-    { "gameKey": "quest/035/LucKzj021_03584#TEXT_LUCKZJ021_03584_NAKSHSKOAL_000_000", "hash": "D2DF14B5B3C20DCC", "target": "" },
-    { "gameKey": "quest/035/LucKzj021_03584#TEXT_LUCKZJ021_03584_NAKSHSKOAL_000_001", "hash": "16C12BE650F37625", "target": "" },
-    { "gameKey": "quest/035/LucKzj021_03584#TEXT_LUCKZJ021_03584_NAKSHSKOAL_000_002", "hash": "B5DEA99E175CAF9A", "target": "" },
-    { "gameKey": "quest/035/LucKzj021_03584#TEXT_LUCKZJ021_03584_NAKSHSKOAL_000_003", "hash": "FC77AFF0C659DA2C", "target": "" },
-    { "gameKey": "quest/035/LucKzj021_03584#TEXT_LUCKZJ021_03584_NAKSHSKOAL_000_010", "hash": "E765B61372F68C1D", "target": "" },
-    { "gameKey": "quest/035/LucKzj021_03584#TEXT_LUCKZJ021_03584_NAKSHSKOAL_000_020", "hash": "556CC0DE9935BD98", "target": "" },
-    { "gameKey": "quest/035/LucKzj021_03584#TEXT_LUCKZJ021_03584_NAKSHSKOAL_000_021", "hash": "F91029E076AF6C73", "target": "" },
-    { "gameKey": "quest/035/LucKzj021_03584#TEXT_LUCKZJ021_03584_NAKSHSKOAL_000_022", "hash": "B452627C45C5FFAF", "target": "" },
-    { "gameKey": "quest/035/LucKzj021_03584#TEXT_LUCKZJ021_03584_NAKSHSKOAL_000_023", "hash": "CB4B17140B26A138", "target": "" }
+    { "gameKey": "quest/035/LucKzj021_03584#TEXT_LUCKZJ021_03584_SEQ_00", "hash": "3E26800C358544D3", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Nakshs Koal non sa se vuole conversare con te o scappare urlando di terrore." },
+    { "gameKey": "quest/035/LucKzj021_03584#TEXT_LUCKZJ021_03584_TODO_00", "hash": "2A0FCB47F8ADE949", "target": "Recuperare oggetti di valore dalle navi affondate" },
+    { "gameKey": "quest/035/LucKzj021_03584#TEXT_LUCKZJ021_03584_TODO_01", "hash": "2AB153DD9CB2734C", "target": "Consegnare gli oggetti di valore a Nakshs Koal" },
+    { "gameKey": "quest/035/LucKzj021_03584#TEXT_LUCKZJ021_03584_NAKSHSKOAL_000_000", "hash": "D2DF14B5B3C20DCC", "target": "N-No, ti prego, non avvicinarti! Risssparmiami, o essere senza pinne, dalle tue spietate masticazioni! Sono troppo giovane per essere mangiato!" },
+    { "gameKey": "quest/035/LucKzj021_03584#TEXT_LUCKZJ021_03584_NAKSHSKOAL_000_001", "hash": "16C12BE650F37625", "target": "Oh, non vuoi mangiarmi? Bene. Forse sono giunto a conclusioni premature, ma essendo la prima volta che incontro uno della tua gente, è un'esperienza piuttosto terrificante..." },
+    { "gameKey": "quest/035/LucKzj021_03584#TEXT_LUCKZJ021_03584_NAKSHSKOAL_000_002", "hash": "B5DEA99E175CAF9A", "target": "Ma ora che abbiamo stabilito un rapporto, forse potresti gentilmente illuminarmi un po'? Parlami delle vostre usanze e preferenze. Il commercio è esssenziale per i rapporti cordiali, dopotutto." },
+    { "gameKey": "quest/035/LucKzj021_03584#TEXT_LUCKZJ021_03584_NAKSHSKOAL_000_003", "hash": "FC77AFF0C659DA2C", "target": "Avrai certo notato che in questa regione ci sono molte navi affondate, e molte contengono senz'altro oggetti di valore. Ti chiedo di cercare fra questi relitti e tornare con tali oggetti, così capirò meglio che cosa dovremmo recuperare io e gli altri." },
+    { "gameKey": "quest/035/LucKzj021_03584#TEXT_LUCKZJ021_03584_NAKSHSKOAL_000_010", "hash": "E765B61372F68C1D", "target": "Troverai diversi relitti dissspersi sul fondo, a est e a ovest dei Cups. Se volessi esaminare queste navi affondate e tornare con qualche oggetto di valore, ti sarei debitore." },
+    { "gameKey": "quest/035/LucKzj021_03584#TEXT_LUCKZJ021_03584_NAKSHSKOAL_000_020", "hash": "556CC0DE9935BD98", "target": "Ahhh, torna l'essere senza pinne dall'aria vorace! E con gli oggetti di valore che ho chiesto, spero...?" },
+    { "gameKey": "quest/035/LucKzj021_03584#TEXT_LUCKZJ021_03584_NAKSHSKOAL_000_021", "hash": "F91029E076AF6C73", "target": "Affascinante, davvero affascinante... Non immaginavo che simili curiosità avessero valore per te e la tua gente. Persino questa cosa deforme? Che strano..." },
+    { "gameKey": "quest/035/LucKzj021_03584#TEXT_LUCKZJ021_03584_NAKSHSKOAL_000_022", "hash": "B452627C45C5FFAF", "target": "Mi hai offerto una grande comprensione della vostra cultura, essere senza pinne. Presto potrei essere pronto a commerciare con altri della tua gente e garantire grandi profitti agli Ondo!" },
+    { "gameKey": "quest/035/LucKzj021_03584#TEXT_LUCKZJ021_03584_NAKSHSKOAL_000_023", "hash": "CB4B17140B26A138", "target": "Oh, ma che scortese sono! Per il tuo servizio devi ricevere una ricompensa, vero? E ora che conosco ciò che desideri più profondamente, credo di poterti compensssare in modo appropriato!" }
   ]
 }

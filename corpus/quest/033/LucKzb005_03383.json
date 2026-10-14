@@ -2,17 +2,17 @@
   "conversation": "quest/033/LucKzb005_03383",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_SEQ_00", "hash": "809B5A786546A447", "target": "" },
-    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_TODO_00", "hash": "3F8A7B938C4C4DFE", "target": "" },
-    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_TODO_01", "hash": "496484FE3A27436E", "target": "" },
-    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_BJORN_000_000", "hash": "DE643807F5EB8F0B", "target": "" },
-    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_BJORN_000_001", "hash": "2E757844CCBD6FE9", "target": "" },
-    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_BJORN_000_002", "hash": "040280EFCB48F13C", "target": "" },
-    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_BJORN_000_003", "hash": "7DB98AFDBDF41272", "target": "" },
-    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_BJORN_100_003", "hash": "2FD4E417441B2D8F", "target": "" },
-    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_BJORN_000_004", "hash": "77AECC33B059ECE4", "target": "" },
-    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_DAWKES_000_010", "hash": "2268F37BB477A910", "target": "" },
-    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_DAWKES_000_011", "hash": "5AC390A37B44D3CD", "target": "" },
-    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_DAWKES_000_012", "hash": "87885495516908A9", "target": "" }
+    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_SEQ_00", "hash": "809B5A786546A447", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Bjorn ha bisogno del tuo aiuto per impartire un'importante lezione alle nuove reclute della guardia del Crystarium." },
+    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_TODO_00", "hash": "3F8A7B938C4C4DFE", "target": "Uccidere un violet triffid e ottenere un sap-rich cutting" },
+    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_TODO_01", "hash": "496484FE3A27436E", "target": "Consegnare il sap-rich cutting a Dawkes al Crystarium" },
+    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_BJORN_000_000", "hash": "DE643807F5EB8F0B", "target": "È un onore parlare con voi, <if(gnum4,signora,signore)>! Le vostre imprese a Holminster Switch continuano a ispirarci tutti, e molte delle nostre nuove reclute non vedono l'ora di seguire il vostro esempio." },
+    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_BJORN_000_001", "hash": "2E757844CCBD6FE9", "target": "Purtroppo, al momento ben pochi hanno la forza e l'abilità necessarie. Naturalmente non vogliono sentirselo dire, e preferirebbero correre ad affrontare qualche divorapeccati isolato anziché seguire i nostri programmi di addestramento." },
+    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_BJORN_000_002", "hash": "040280EFCB48F13C", "target": "Francamente, di questo passo finiranno per farsi ammazzare. Vi andrebbe di mostrare loro quanta strada debbano ancora fare prima di raggiungere il vostro livello?" },
+    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_BJORN_000_003", "hash": "7DB98AFDBDF41272", "target": "Benissimo! Ovviamente non posso chiedervi di affrontarli corpo a corpo, non sono minimamente pronti. Ma potreste mostrare loro con quanta facilità svolgete i compiti che trovano tanto gravosi." },
+    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_BJORN_100_003", "hash": "2FD4E417441B2D8F", "target": "Raccogliere la linfa dei trifidi nel Bosco del Pastore Smarrito, per esempio. Ce ne vogliono sempre almeno tre per abbatterne uno, e poi impiegano un'eternità a portare la talea a Dawkes al Crystarium. Mi piacerebbe raccontare loro quanto rapidamente riuscirete a fare lo stesso." },
+    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_BJORN_000_004", "hash": "77AECC33B059ECE4", "target": "Dovrete uccidere un violet triffid, uno soltanto! Una sciocchezza per chi ha dedicato il tempo necessario a un buon addestramento, sarete d'accordo." },
+    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_DAWKES_000_010", "hash": "2268F37BB477A910", "target": "Sei tu che porti la linfa di trifide, allora? Bjorn mi aveva avvisato del tuo arrivo. A dire il vero, ho ricevuto il messaggio solo pochi istanti fa." },
+    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_DAWKES_000_011", "hash": "5AC390A37B44D3CD", "target": "E che bella talea! Dovrei riuscire a ricavarne parecchia linfa. La prossima volta che vedrò le reclute, non mancherò di dire loro quanto sei <if(gnum4,stata,stato)> più efficiente." },
+    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_DAWKES_000_012", "hash": "87885495516908A9", "target": "Potrà sembrare un po' crudele, ma, a sentire Bjorn, saranno in serio pericolo se non cominciano a prendere l'addestramento più sul serio. Speriamo che questa scossa li faccia ragionare." }
   ]
 }

@@ -2,17 +2,17 @@
   "conversation": "quest/051/KinGzd101_05100",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_SEQ_00", "hash": "5C20328E031F78A0", "target": "" },
-    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_TODO_00", "hash": "2730E79354FBFD03", "target": "" },
-    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_TODO_01", "hash": "390E967C9CC7AB82", "target": "" },
-    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_QUROLLJA_000_000", "hash": "D80ADED9EDBEBCC7", "target": "" },
-    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_QUROLLJA_000_001", "hash": "70B48250A178627F", "target": "" },
-    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_QUROLLJA_000_002", "hash": "B05D104827582B0F", "target": "" },
-    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_QUROLLJA_000_003", "hash": "334CCA58A5D3FFE7", "target": "" },
-    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_SYSTEM_000_100", "hash": "E47850A2AF522831", "target": "" },
-    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_QUROLLJA_000_004", "hash": "81E5937D1A40796B", "target": "" },
-    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_QUROLLJA_000_005", "hash": "3666AE01FF07284F", "target": "" },
-    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_QUROLLJA_000_006", "hash": "52127E8441120396", "target": "" },
-    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_QUROLLJA_000_007", "hash": "C7A4557BC3E2104D", "target": "" }
+    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_SEQ_00", "hash": "5C20328E031F78A0", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Quroll Ja non vede l'ora d'insegnarti qualcosa sui fratelli benedetti." },
+    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_TODO_00", "hash": "2730E79354FBFD03", "target": "Studiare la statua dei fratelli benedetti" },
+    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_TODO_01", "hash": "390E967C9CC7AB82", "target": "Parlare con Quroll Ja" },
+    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_QUROLLJA_000_000", "hash": "D80ADED9EDBEBCC7", "target": "Fai parte del seguito della Terza Erede, vero? Mi ha fatto piacere sentire il tuo interesse per le nostre usanze." },
+    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_QUROLLJA_000_001", "hash": "70B48250A178627F", "target": "Forse ti piacerebbe sapere di più della nostra cultura? Potrei insegnartelo, se vuoi." },
+    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_QUROLLJA_000_002", "hash": "B05D104827582B0F", "target": "La statua alle mie spalle ha un grande significato culturale per il nostro popolo. Chiedi pure di qualunque cosa ti incuriosisca." },
+    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_QUROLLJA_000_003", "hash": "334CCA58A5D3FFE7", "target": "La statua alle mie spalle rappresenta molto di Mamook. Guardala da laggiù, e ti spiegherò ciò che ti incuriosisce." },
+    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_SYSTEM_000_100", "hash": "E47850A2AF522831", "target": "Studia la statua dei fratelli benedetti. Puoi muovere la visuale e ingrandire o rimpicciolire. Seleziona una parte e scopri altri dettagli con <if([gnum80==0],<colortype(546)>\uE051<colortype(0)>,<icon2(15)> / <icon2(8)>)>." },
+    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_QUROLLJA_000_004", "hash": "81E5937D1A40796B", "target": "In conclusione, questa statua simboleggia il cuore di Mamook, fino alla pietra in cui è scolpita: proprio quella lasciata dagli Yok Huy che governavano queste terre molto tempo fa." },
+    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_QUROLLJA_000_005", "hash": "3666AE01FF07284F", "target": "I nostri predecessori reinterpretarono le strutture abbandonate e costruirono la città che vedi oggi, creando un futuro tutto loro." },
+    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_QUROLLJA_000_006", "hash": "52127E8441120396", "target": "...A differenza dei loro discendenti, ora incatenati a un passato, a una terra e a una pratica che hanno avvelenato le prospettive di Mamook. Mi chiedo se siamo davvero capaci di cambiare." },
+    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_QUROLLJA_000_007", "hash": "C7A4557BC3E2104D", "target": "Ma no: come i nostri antenati trovarono la loro strada, così faremo noi. Mentre cerchiamo di scoprire ciò che potremmo diventare, prego che tu non dimentichi mai tutto ciò che Mamook è stata." }
   ]
 }

@@ -2,19 +2,19 @@
   "conversation": "quest/042/AktKzc014_04223",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_SEQ_00", "hash": "0DACC521EFD93357", "target": "" },
-    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_TODO_00", "hash": "A2EFFDE9889C505C", "target": "" },
-    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_TODO_01", "hash": "205CFBFAC07D4FA8", "target": "" },
-    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_000", "hash": "2989671339773E97", "target": "" },
-    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_001", "hash": "4EB77438CF36D578", "target": "" },
-    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_002", "hash": "805D30560187B539", "target": "" },
-    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_003", "hash": "2E60072C1B0E2ADC", "target": "" },
-    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_004", "hash": "357048177D7582CD", "target": "" },
-    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_010", "hash": "505B0BB226272C39", "target": "" },
-    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_011", "hash": "41FDAFF93788A4A8", "target": "" },
-    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_012", "hash": "B32CF54CD74F2AB8", "target": "" },
-    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_013", "hash": "0A1065898757AB2B", "target": "" },
-    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_014", "hash": "652642037E7591A4", "target": "" },
-    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_015", "hash": "75A0A7E01D0A80D0", "target": "" }
+    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_SEQ_00", "hash": "0DACC521EFD93357", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Orsi mangiauomini si aggirano fra i ghiacci, e Iliette intende ribaltare la situazione, ma non proprio come ci si aspetterebbe." },
+    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_TODO_00", "hash": "A2EFFDE9889C505C", "target": "Collocare il sedative-laced venison nei luoghi indicati" },
+    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_TODO_01", "hash": "205CFBFAC07D4FA8", "target": "Fare rapporto a Iliette" },
+    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_000", "hash": "2989671339773E97", "target": "Proprio la persona che speravo di vedere! Ti andrebbe di cacciare un po'?" },
+    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_001", "hash": "4EB77438CF36D578", "target": "Voglio cacciare degli orsi. Se non hai mai assaggiato la loro carne, te la consiglio vivamente! Non sono certo prede facili, anche se immagino che tu abbia affrontato ben di peggio." },
+    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_002", "hash": "805D30560187B539", "target": "Se ti va, il piano è questo: prima li attiriamo con questa carne di cervo, imbevuta anche di sonnifero. Poi basta avvicinarsi e finirli nel modo che preferisci. Che cosa potrebbe essere più semplice?" },
+    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_003", "hash": "2E60072C1B0E2ADC", "target": "Ecco tre abbondanti porzioni di ottima carne di cervo. Assicurati che il preparato faccia effetto prima di piombare sulla preda!" },
+    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_004", "hash": "357048177D7582CD", "target": "Mentre aspetti, ti conviene stare all'erta. Non vorrai che un orso ti arrivi alle spalle, vero?" },
+    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_010", "hash": "505B0BB226272C39", "target": "Vedo che hai ancora tutti gli arti, il che può significare solo che la caccia è andata bene! A dire il vero, chi era sul campo mi ha detto che l'orso che hai incontrato era piuttosto più... vivace del previsto. E anche parecchio più grosso." },
+    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_011", "hash": "41FDAFF93788A4A8", "target": "Come!? Hai abbattuto quella bestiaccia <if(gnum4,tutta sola,tutto solo)>?" },
+    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_012", "hash": "B32CF54CD74F2AB8", "target": "Davvero notevole... Anche se sembra che il sonnifero fornito da Lord Emmanellain fosse molto meno efficace di quanto ci avesse fatto credere..." },
+    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_013", "hash": "0A1065898757AB2B", "target": "A sentir lui, ha adottato questo metodo dopo essersi attirato l'ira di suo padre per la sua incapacità di padroneggiare tecniche più... sportive. Parlava delle sue imprese con un certo orgoglio, anche se quei racconti non gli facevano certo onore." },
+    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_014", "hash": "652642037E7591A4", "target": "Tuttavia, nella situazione attuale dobbiamo rinunciare al brivido della caccia e scegliere il metodo che ci dia più probabilità di successo, per quanto sleale." },
+    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_015", "hash": "75A0A7E01D0A80D0", "target": "Purtroppo gli orsi di questa regione sono del tutto immuni alla formula... oppure c'era qualcosa che non andava fin dall'inizio. Comunque, nessun danno, eh? A te, intendo, non agli orsi. Ovviamente." }
   ]
 }

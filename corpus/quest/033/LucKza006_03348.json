@@ -2,18 +2,18 @@
   "conversation": "quest/033/LucKza006_03348",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_SEQ_00", "hash": "FA23B5B19A1C1B53", "target": "" },
-    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_TODO_00", "hash": "DB058B6402145AD8", "target": "" },
-    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_TODO_01", "hash": "06721C57EB48ABB7", "target": "" },
-    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_000", "hash": "4A79C0142F219BCE", "target": "" },
-    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_001", "hash": "B222FD76E04512AB", "target": "" },
-    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_002", "hash": "6CDBEF0997585E89", "target": "" },
-    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_003", "hash": "7E24E07D066F1037", "target": "" },
-    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_004", "hash": "2EAA39C74B83ACD4", "target": "" },
-    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_010", "hash": "33950891B0D26032", "target": "" },
-    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_011", "hash": "1F538B88188E7FEF", "target": "" },
-    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_020", "hash": "AACE0DF9DB360C38", "target": "" },
-    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_021", "hash": "7C992A4EE4ADD7B1", "target": "" },
-    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_022", "hash": "C6CE5F52F1086B91", "target": "" }
+    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_SEQ_00", "hash": "FA23B5B19A1C1B53", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>L'astuto artigiano ti fissa apertamente." },
+    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_TODO_00", "hash": "DB058B6402145AD8", "target": "Mostrare all'astuto artigiano la propria /battlestance" },
+    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_TODO_01", "hash": "06721C57EB48ABB7", "target": "Usare /box per l'astuto artigiano" },
+    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_000", "hash": "4A79C0142F219BCE", "target": "Perdona gli sguardi: non ho potuto fare a meno di notare che hai la postura di chi si è allenato nelle tecniche marziali. Potrei chiedere il tuo aiuto per una piccola faccenda?" },
+    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_001", "hash": "B222FD76E04512AB", "target": "Una mia amica si è unita di recente alla guardia, vedi. Speravo di mettere a frutto le mie capacità realizzandole un'armatura più resistente di quella ordinaria, ma è già stata assegnata a una postazione a Lakeland." },
+    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_002", "hash": "6CDBEF0997585E89", "target": "Naturalmente ho le sue misure, ma non so quali parti dell'abito vadano rinforzate e quali debbano restare un po' larghe per favorire i movimenti. Saresti <if(gnum4,disposta,disposto)> a mostrarmi alcune posizioni comuni?" },
+    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_003", "hash": "7E24E07D066F1037", "target": "Grazie! In tal caso, potresti cominciare mostrandomi la tua abituale <colortype(500)><edgecolortype(501)>battle stance<edgecolortype(0)><colortype(0)>?" },
+    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_004", "hash": "2EAA39C74B83ACD4", "target": "Non devi sentirti in imbarazzo: muoviti come fai di solito." },
+    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_010", "hash": "33950891B0D26032", "target": "Mmm... forse dovrò lasciare un po' più di spazio intorno alle spalle. Ti dispiacerebbe tirare anche qualche pugno? Come se stessi facendo <colortype(500)><edgecolortype(501)>boxing<edgecolortype(0)><colortype(0)>." },
+    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_011", "hash": "1F538B88188E7FEF", "target": "Forse è superfluo dirlo, ma non devi colpire davvero nessuno. Voglio solo vedere come ti muovi quando tiri un pugno." },
+    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_020", "hash": "AACE0DF9DB360C38", "target": "Capisco: tutto il busto deve potersi torcere. E la parte dei guanti sulle nocche avrebbe probabilmente bisogno di un po' più di imbottitura..." },
+    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_021", "hash": "7C992A4EE4ADD7B1", "target": "Credo di aver capito quali modifiche apportare. Mi hai aiutato molto, grazie." },
+    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_022", "hash": "C6CE5F52F1086B91", "target": "Devo dire che ciò che indossi sembra di ottima fattura, ma se mai ti servisse nuovo equipaggiamento, vieni da me. Sarò felice di offrirti un prezzo ridotto sui miei lavori su misura!" }
   ]
 }
