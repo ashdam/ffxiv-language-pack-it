@@ -2,16 +2,16 @@
   "conversation": "quest/020/JobAst500_02018",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_SEQ_00", "hash": "D0E8F5ACD5ACD799", "target": "" },
-    { "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_SEQ_01", "hash": "7D8BE535B8AC92C0", "target": "" },
-    { "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_SEQ_02", "hash": "C6694188FE6984B9", "target": "" },
-    { "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_TODO_00", "hash": "FC8A7ABC21F43FA6", "target": "" },
-    { "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_JANNEQUINARD_000_000", "hash": "DAC54069BE028A08", "target": "" },
-    { "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_JANNEQUINARD_000_001", "hash": "9EC36920A7211B2B", "target": "" },
-    { "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_JANNEQUINARD_000_009", "hash": "C42C19B152019485", "target": "" },
-    { "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_LEVEVA_000_010", "hash": "4C443AB80470316C", "target": "" },
-    { "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_LEVEVA_000_011", "hash": "F3B4E99F6E02B9B6", "target": "" },
-    { "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_LEVEVA_000_012", "hash": "D87086394068B802", "target": "" },
-    { "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_LEVEVA_000_013", "hash": "9B590D774CF80D6C", "target": "" }
+    { "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_SEQ_00", "hash": "D0E8F5ACD5ACD799", "target": "Jannequinard sta quasi scoppiando dall'entusiasmo. Fallo attendere ancora e di certo qualche cucitura dei suoi abiti cederà." },
+    { "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_SEQ_01", "hash": "7D8BE535B8AC92C0", "target": "Jannequinard crede che tu sia <if(gnum4,pronta,pronto)> ad aprire la porta del sesto cielo. Ma non spetta a lui decidere. Parla con Leveva al piano superiore dell'Athenaeum Astrologicum e scopri cosa ne pensa lei." },
+    { "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_SEQ_02", "hash": "C6694188FE6984B9", "target": "Anche Leveva crede che tu sia <if(gnum4,pronta,pronto)> ad aprire la sesta porta. Prima di proseguire, però, ti insegna il concetto di sinastria e i benefici che può portare ai tuoi alleati sul campo." },
+    { "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_TODO_00", "hash": "FC8A7ABC21F43FA6", "target": "Parlare con Leveva al piano superiore" },
+    { "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_JANNEQUINARD_000_000", "hash": "DAC54069BE028A08", "target": "Lady Leveva mi dice che siete quasi <if(gnum4,pronta,pronto)> ad aprire la sesta e ultima porta. Sì, ho detto ultima. Sappiamo tutti che ci sono sette cieli, ma aprire il settimo è impossibile... beh, se non morendo, naturalmente. Tentare di sintonizzarsi con la stella polare sarebbe pura follia e segnerebbe certamente la vostra fine. Ah, ma guardatemi. Anche ora cerco di insegnare a <split(<string(gstr1)>, ,1)>, quando è evidente che il vostro talento supera di gran lunga il mio. Perdonatemi." },
+    { "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_JANNEQUINARD_000_001", "hash": "9EC36920A7211B2B", "target": "Lady Leveva non è ancora partita per il luogo dell'ultima porta. Senza dubbio teme un altro attacco dei banditi, ma qualunque sia il motivo, resta al piano superiore e ha chiesto di vedervi appena possibile." },
+    { "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_JANNEQUINARD_000_009", "hash": "C42C19B152019485", "target": "Lady Leveva è al piano superiore soltanto perché rifiuta la stanza che le ho offerto alla residenza Durendaire. Non è che farei tentativi sconvenienti di infangare il suo onore. Ha visto appena la metà delle mie estati, è troppo giovane per i miei gusti." },
+    { "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_LEVEVA_000_010", "hash": "4C443AB80470316C", "target": "Avete fatto molta strada da quel giorno fatidico in cui i nostri cammini si incrociarono nella Foresta Nera. E ora eccoci qui, a un passo dalla vostra sintonia con il sesto cielo. Il tempo non aspetta proprio nessuno, vero?" },
+    { "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_LEVEVA_000_011", "hash": "F3B4E99F6E02B9B6", "target": "Prima di intraprendere questo compito, voglio insegnarvi una tecnica chiamata Synastry." },
+    { "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_LEVEVA_000_012", "hash": "D87086394068B802", "target": "Unendo temporaneamente il vostro destino a quello di un compagno, anche lui trarrà beneficio dalle stelle come voi." },
+    { "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_LEVEVA_000_013", "hash": "9B590D774CF80D6C", "target": "In quanto <if(gnum4,astrologa,astrologo)> già abbastanza <if(gnum4,esperta,esperto)>, avete un controllo sufficiente sull'etere. Dovete soltanto concentrarlo per stabilire un legame con l'alleato scelto e realizzare la sinastria." }
   ]
 }
