@@ -1,9 +1,9 @@
 {
   "gameVersion": "2026.10.06.0000.0000",
-  "translated": 221114,
-  "total": 532985,
-  "percent": 41.5,
-  "chars": 49318884,
+  "translated": 243711,
+  "total": 532993,
+  "percent": 45.7,
+  "chars": 49318991,
   "unresolved": 5585,
   "groups": [
     {
@@ -87,7 +87,7 @@
     {
       "expansion": "Heavensward",
       "content": "Class and job quests",
-      "translated": 0,
+      "translated": 10290,
       "total": 10290
     },
     {
@@ -141,7 +141,7 @@
     {
       "expansion": "Stormblood",
       "content": "Class and job quests",
-      "translated": 0,
+      "translated": 12307,
       "total": 12307
     },
     {
@@ -406,7 +406,7 @@
       "expansion": null,
       "content": "Ambient text: NPC chatter, shouts, balloons, duties and guides",
       "translated": 42900,
-      "total": 173789
+      "total": 173797
     }
   ],
   "excludedFromLocalization": [
