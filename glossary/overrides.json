@@ -2599,7 +2599,14 @@
     { "en": "Dawnbright Coalition", "it": "Coalizione dell'Alba Splendente", "protect": false, "note": "Hunt organization in narrative text. Unverified Italian form. Keep exact UI labels in English." },
     { "en": "Pomguard", "it": "Guardia dei Pompon", "protect": false, "note": "Moghome defense group in narrative text. Unverified Italian form. Keep exact nameplates in English." },
     { "en": "Mogmenders", "it": "Restauratori Moguri", "protect": false, "note": "Restoration group in narrative text. Unverified Italian form. Keep exact UI labels in English." },
-    { "en": "Rousing Douse", "it": "Doccia Energizzante", "protect": false, "note": "Narrative event name. Unverified Italian form. Keep the full quest title A Rousing Douse in English." }
+    { "en": "Rousing Douse", "it": "Doccia Energizzante", "protect": false, "note": "Narrative event name. Unverified Italian form. Keep the full quest title A Rousing Douse in English." },
+    {"en":"shadow-blindness","it":"emeralopia","protect":false,"fr":"héméralopie","ja":"暗盲症","note":"Narrative illness name. Keep exact Item and UI labels in English. Unverified Italian form."},
+    {"en":"crysteosis","it":"cristallosi","protect":false,"fr":"cristalite","ja":"水晶患い","note":"Narrative illness name. Keep exact Item and UI labels in English. Unverified Italian form."},
+    {"en":"Noble's Rot","it":"marciume nobiliare","protect":false,"fr":"","ja":"贅沢病","note":"Narrative illness name. Keep exact Item and UI labels in English. Unverified Italian form."},
+    {"en":"stoneblight","it":"male della pietra","protect":false,"fr":"gangrène des Duergars; hautement contagieuse; transformation de l’épiderme","ja":"ドヴェルグ病; 強い感染力に肉体の変異を伴う症状","note":"Narrative illness name. Keep exact Item and UI labels in English. Unverified Italian form."},
+    {"en":"Keeper of the Entwined Serpents","it":"Custode delle Vipere Intrecciate","protect":false,"note":"Narrative title. Use Custodi delle Vipere Intrecciate in the plural. Keep exact NPC and UI labels in English. Unverified Italian form."},
+    {"en":"Fury's Grace","it":"Grazia della Furia","fr":"Grâce de Halone","ja":"戦神の慈悲","protect":false,"note":"Name of the archbishop's staff in dialogue. Unverified Italian form."},
+    {"en":"The Ephemeral Palace","it":"Il Palazzo Effimero","protect":false,"fr":"Palais au parfum onirique","ja":"夢香る宮殿","note":"Narrative painting title. Keep exact Item, EventItem and UI labels in English. Unverified Italian form."}
   ],
   "_emotes_comment": [
     "Stage directions FFXIV writes as literal on-screen text, \\<sigh>, not as macros. The backslash is the game's escape and must survive; the word inside is translated."
