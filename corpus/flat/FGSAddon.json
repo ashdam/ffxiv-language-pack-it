@@ -1,0 +1,24 @@
+{
+  "sheet": "FGSAddon",
+  "gameVersion": "2026.10.06.0000.0000",
+  "entries": [
+    { "gameKey": "FGSAddon#1", "hash": "45B2564D87FEF4C0", "target": "■Obiettivo■<br>Evita gli ostacoli e raggiungi il traguardo!<br><br>■Fine del round■<br>Il round termina quando si qualifica un numero sufficiente di partecipanti." },
+    { "gameKey": "FGSAddon#2", "hash": "8D9E1688D2A69F06", "target": "■Obiettivo■<br>Evita gli ostacoli e raggiungi il traguardo!<br><br>■Fine del round■<br>Il round termina quando si qualifica un numero sufficiente di partecipanti." },
+    { "gameKey": "FGSAddon#3", "hash": "26AD99A0C985E09E", "target": "■Obiettivo■<br>Evita gli sbuffi di Typhon e resta sulla piattaforma!<br><br>■Fine del round■<br>Il round termina quando viene eliminato un numero sufficiente di partecipanti." },
+    { "gameKey": "FGSAddon#4", "hash": "3333C02E33E27750", "target": "■Obiettivo■<br>Porta i cristalli nei posti giusti!<br><br>■Fine del round■<br>Il round termina quando si qualifica un numero sufficiente di partecipanti." },
+    { "gameKey": "FGSAddon#5", "hash": "BAC2C397AB97604F", "target": "■Obiettivo■<br>Raggiungi la cima della montagna e afferra la corona!<br><br>■Fine del round■<br>Il round termina quando qualcuno conquista la corona." },
+    { "gameKey": "FGSAddon#6", "hash": "5CA0DFEAA7891895", "target": "Evita gli ostacoli e raggiungi il traguardo!" },
+    { "gameKey": "FGSAddon#7", "hash": "F0EEB57562F8D48B", "target": "Evita gli ostacoli e raggiungi il traguardo!" },
+    { "gameKey": "FGSAddon#8", "hash": "A9B044863DDE43B3", "target": "Evita gli sbuffi di Typhon e resta sulla piattaforma!" },
+    { "gameKey": "FGSAddon#9", "hash": "E15DA9CEE49AF0B5", "target": "Porta i cristalli nei posti giusti!" },
+    { "gameKey": "FGSAddon#10", "hash": "DD52D0B79F43C4B6", "target": "Raggiungi la cima della montagna e afferra la corona!" },
+    { "gameKey": "FGSAddon#11", "hash": "C0C3B5EFC0DF1CE7", "target": "Corri al traguardo!" },
+    { "gameKey": "FGSAddon#12", "hash": "99C963ADFF4BBF5C", "target": "Corri al traguardo!" },
+    { "gameKey": "FGSAddon#13", "hash": "7EC6D5E032B12B06", "target": "Non cadere!" },
+    { "gameKey": "FGSAddon#14", "hash": "91C1ED77A9BD9C80", "target": "Porta i cristalli!" },
+    { "gameKey": "FGSAddon#15", "hash": "559780E6C8D873E3", "target": "Raggiungi la corona!" },
+    { "gameKey": "FGSAddon#16", "hash": "262663E69C72042D", "target": "In attesa dei giocatori..." },
+    { "gameKey": "FGSAddon#17", "hash": "42FA49ED80CF0180", "target": "<if(gnum4,QUALIFICATA,QUALIFICATO)>!" },
+    { "gameKey": "FGSAddon#18", "hash": "CF4BB5DC75E99640", "target": "<if(gnum4,ELIMINATA,ELIMINATO)>!" }
+  ]
+}
