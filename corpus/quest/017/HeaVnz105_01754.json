@@ -4,19 +4,19 @@
   "entries": [
     { "gameKey": "quest/017/HeaVnz105_01754#TEXT_HEAVNZ105_01754_SEQ_00", "hash": "39E59FE0B8899BB8", "target": "La nobildonna perplessa guarda verso i parapetti con un'espressione terrorizzata." },
     { "gameKey": "quest/017/HeaVnz105_01754#TEXT_HEAVNZ105_01754_SEQ_01", "hash": "E573448E725E42E1", "target": "L'amata bestiola di una nobildonna si è cacciata in un bel guaio. È salita sul tetto e non riesce a scendere. Aiuta la poverina a tornare a terra." },
-    { "gameKey": "quest/017/HeaVnz105_01754#TEXT_HEAVNZ105_01754_SEQ_02", "hash": "67117A63C73464E1", "target": "Salvi la gattina. Somiglia sospettosamente a un coeurl, ma riportala comunque alla nobildonna: ha promesso una ricompensa!" },
-    { "gameKey": "quest/017/HeaVnz105_01754#TEXT_HEAVNZ105_01754_SEQ_03", "hash": "7B603C0CAEE93B34", "target": "La donna è felicissima di riavere la sua bestiola sana e salva. Cerchi di spiegarle che sembra più un cucciolo di coeurl che un gatto, ma lei è assolutamente convinta che sia un'adorabile gattina. Ora non ti resta che pregare per la sua incolumità." },
+    { "gameKey": "quest/017/HeaVnz105_01754#TEXT_HEAVNZ105_01754_SEQ_02", "hash": "67117A63C73464E1", "target": "Salvi la gattina. Somiglia sospettosamente a uno iaguaro, ma riportala comunque alla nobildonna: ha promesso una ricompensa!" },
+    { "gameKey": "quest/017/HeaVnz105_01754#TEXT_HEAVNZ105_01754_SEQ_03", "hash": "7B603C0CAEE93B34", "target": "La donna è felicissima di riavere la sua bestiola sana e salva. Cerchi di spiegarle che sembra più un cucciolo di iaguaro che un gatto, ma lei è assolutamente convinta che sia un'adorabile gattina. Ora non ti resta che pregare per la sua incolumità." },
     { "gameKey": "quest/017/HeaVnz105_01754#TEXT_HEAVNZ105_01754_TODO_00", "hash": "38C777CE1622D6A8", "target": "Salvare la gattina." },
     { "gameKey": "quest/017/HeaVnz105_01754#TEXT_HEAVNZ105_01754_TODO_01", "hash": "A7F36D2BCC0D124B", "target": "Consegnare la bestiola alla nobildonna." },
-    { "gameKey": "quest/017/HeaVnz105_01754#TEXT_HEAVNZ105_01754_SYSTEM_000_100", "hash": "B9687F7BEC310D44", "target": "La gattina che somiglia sospettosamente a un coeurl guarda con apprensione oltre il bordo." },
+    { "gameKey": "quest/017/HeaVnz105_01754#TEXT_HEAVNZ105_01754_SYSTEM_000_100", "hash": "B9687F7BEC310D44", "target": "La gattina che somiglia sospettosamente a uno iaguaro guarda con apprensione oltre il bordo." },
     { "gameKey": "quest/017/HeaVnz105_01754#TEXT_HEAVNZ105_01754_LADY01754_000_000", "hash": "874F6456E59EFEFE", "target": "Oh, piccola mia! Povera, povera piccola mia! Come hai fatto a salire lassù!?" },
     { "gameKey": "quest/017/HeaVnz105_01754#TEXT_HEAVNZ105_01754_LADY01754_000_001", "hash": "1541BC3C05CAFF53", "target": "\\<singhiozzo> Oh, che cosa farò? È così in alto... Vi prego, qualcuno faccia qualcosa!" },
     { "gameKey": "quest/017/HeaVnz105_01754#TEXT_HEAVNZ105_01754_LADY01754_000_002", "hash": "168DA0279A535DCC", "target": "Mi aiuterete, vero!? Vi prego! Prometto che vi ricompenserò! Salvate la mia povera gattina!" },
     { "gameKey": "quest/017/HeaVnz105_01754#TEXT_HEAVNZ105_01754_LADY01754_000_010", "hash": "7460B93A4735A5FD", "target": "Vi prego! Salvate la mia povera gattina! Vi prego!" },
-    { "gameKey": "quest/017/HeaVnz105_01754#TEXT_HEAVNZ105_01754_SYSTEM_000_020", "hash": "1E0A7F580B04E7C2", "target": "La gattina che somiglia sospettosamente a un coeurl ti balza fra le braccia." },
+    { "gameKey": "quest/017/HeaVnz105_01754#TEXT_HEAVNZ105_01754_SYSTEM_000_020", "hash": "1E0A7F580B04E7C2", "target": "La gattina che somiglia sospettosamente a uno iaguaro ti balza fra le braccia." },
     { "gameKey": "quest/017/HeaVnz105_01754#TEXT_HEAVNZ105_01754_LADY01754_100_030", "hash": "AEC897406FC3A8A6", "target": "L'avete presa? Avete la mia cara, cara gattina?" },
     { "gameKey": "quest/017/HeaVnz105_01754#TEXT_HEAVNZ105_01754_LADY01754_000_030", "hash": "5D4B24FF2BD324AC", "target": "Eccoti qui, sciocchina. Mi hai fatto <italic(1)>preoccupare<italic(0)> tanto!" },
-    { "gameKey": "quest/017/HeaVnz105_01754#TEXT_HEAVNZ105_01754_LADY01754_000_031", "hash": "FFFBB92B2547BD58", "target": "...Cosa? Pensate che la mia cara gattina non sia davvero un gatto? È un coeurl!?" },
+    { "gameKey": "quest/017/HeaVnz105_01754#TEXT_HEAVNZ105_01754_LADY01754_000_031", "hash": "FFFBB92B2547BD58", "target": "...Cosa? Pensate che la mia cara gattina non sia davvero un gatto? È uno iaguaro!?" },
     { "gameKey": "quest/017/HeaVnz105_01754#TEXT_HEAVNZ105_01754_LADY01754_000_032", "hash": "EB6C330A56BD1AA2", "target": "Ahahah! Pensare che per un attimo quasi vi credevo! La mia cara gattina non è un mostro mangiauomini. Guardatela! Guardate quanto è carina!" }
   ]
 }

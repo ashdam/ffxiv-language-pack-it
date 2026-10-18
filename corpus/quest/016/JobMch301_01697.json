@@ -31,7 +31,7 @@
     { "gameKey": "quest/016/JobMch301_01697#TEXT_JOBMCH301_01697_QIB_001_ROSTNSTHAL_BATTLETALK_00", "hash": "976B29CB9A10A2D2", "target": "Bene, faremo una bella caccia alla vecchia maniera." },
     { "gameKey": "quest/016/JobMch301_01697#TEXT_JOBMCH301_01697_QIB_001_ROSTNSTHAL_BATTLETALK_01", "hash": "157841B2B81DA05E", "target": "Joye ti darà le istruzioni, mentre io guarderò come spari." },
     { "gameKey": "quest/016/JobMch301_01697#TEXT_JOBMCH301_01697_QIB_001_JOYE_BATTLETALK_03", "hash": "3FE07B53F6E318D8", "target": "I primi bersagli saranno i golem.<br>Cercate di prendere la misura delle distanze e il ritmo." },
-    { "gameKey": "quest/016/JobMch301_01697#TEXT_JOBMCH301_01697_QIB_001_JOYE_BATTLETALK_04", "hash": "02D13759D4700983", "target": "Cercate di evitare quei coeurl!<br>Non sprecate munizioni." },
+    { "gameKey": "quest/016/JobMch301_01697#TEXT_JOBMCH301_01697_QIB_001_JOYE_BATTLETALK_04", "hash": "02D13759D4700983", "target": "Cercate di evitare quegli iaguari!<br>Non sprecate munizioni." },
     { "gameKey": "quest/016/JobMch301_01697#TEXT_JOBMCH301_01697_QIB_001_JOYE_BATTLETALK_05", "hash": "0E4504A4EE92ED00", "target": "Ora andiamo a caccia di Piros." },
     { "gameKey": "quest/016/JobMch301_01697#TEXT_JOBMCH301_01697_QIB_001_ROSTNSTHAL_BATTLETALK_08", "hash": "D3D92DB8EE6A6C44", "target": "Non male, <if(gnum4,ragazza,ragazzo)>, per niente male.<br>Però vediamo come te la cavi con qualche bestiaccia seria, eh?" },
     { "gameKey": "quest/016/JobMch301_01697#TEXT_JOBMCH301_01697_QIB_001_JOYE_BATTLETALK_09", "hash": "C92A8F7438D4A988", "target": "Rostnsthal...<br><if(gnum4,Lei,Lui)> non ha già fatto abbastanza per <if(gnum4,una principiante,un principiante)>?" },
