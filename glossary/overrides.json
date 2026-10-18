@@ -1,6 +1,7 @@
 {
   "_comment": [
     "Hand-decided terms. Format in docs/glossary.md of ffxiv-corpus-en.",
+    "Creature names are in creature-families.json. NPC names use bnpc-override.json and enpc-override.json.",
     "protect true: the English stays. protect false: translate it, and the `it` column is the agreed rendering.",
     "fr and ja are copied from corpus lines; empty means that language uses no fixed term."
   ],
@@ -32,7 +33,6 @@
     {"en":"lost-thoughts","protect":false,"note":"Unverified Italian form. Goblin compound for forgotten ideas in research pages; preserve the rhetorical question.","it":"pensieripersi"},
     {"en":"sneaky-taken","protect":false,"note":"Unverified Italian form. Goblin compound for stealthy theft; agree with the narrative device noun.","it":"furtipresi"},
     {"en":"sweetener","protect":false,"note":"Use only for the agricultural material in NpcYell#17785 and its soil context. Exclude food additives and exact Item names. Unverified Italian form.","it":"ammendante"},
-    {"en":"Bomb","protect":false,"note":"Official Square Enix Italian FF14 creature name. Use in narrative creature references; preserve unrelated explosives.","it":"Piros"},
     {"en":"Cosmic Harvester","protect":false,"note":"Unverified Italian form. Use the narrative vegetation-clearing machine; keep exact UI and selectable labels in English.","it":"Mietitore Cosmico"},
     {"en":"cosmotastic","protect":false,"note":"Unverified Italian adjective. Use the cosmic and fantastic wordplay; do not name facilities. Unverified Italian form.","it":"cosmofantastico"},
     {"en":"Duke of Destruction","protect":false,"note":"Unverified Italian form. Narrative epithet only; preserve exact UI labels.","it":"Duca della Distruzione"},
@@ -407,7 +407,7 @@
     {"en":"Velodyna bridge","protect":false,"note":"Use for the historical bridge in prose. Keep current area and UI labels in English. Unverified Italian form.","it":"ponte di Velodyna"},
     {"en":"Queen of Reason","protect":false,"note":"Use for the female officeholder's title in prose. Keep exact UI labels in English. Unverified Italian form.","it":"Regina della Ragione"},
     {"en":"the Builder","protect":false,"note":"Use for Byregot's epithet in prose. Keep exact UI labels in English. Unverified Italian form.","it":"il Costruttore"},
-    {"en":"Titan's Bane","protect":false,"note":"Use the invariable epithet for the player. Keep Titan unchanged. Unverified Italian form.","it":"Flagello di Titan"},
+    {"en":"Titan's Bane","it":"Flagello di Titano","protect":false,"note":"The player epithet is invariable. Use the agreed primal name Titano."},
     {"en":"friendly one","protect":false,"note":"Use as Noraxia's fixed third-person address to the player. The grammatical head does not identify the player's gender. Unverified Italian form.","it":"quello amichevole"},
     {"en":"Crown Gemworks","it":"Officina delle Gemme della Corona","protect":false,"note":"Use for the goldsmith school named in honor of the sultana. Keep exact item labels in English. Unverified Italian form."},
     {"en":"Redbills","it":"Becchi Rossi","protect":false,"note":"Use for Leofard's sky pirate crew in narrative text. Keep exact selectable labels in English. Unverified Italian form."},
@@ -764,7 +764,7 @@
     {"en":"Arbiters of Truth","it":"Arbitri della Verità","protect":false,"note":"Ul'dahn secret society. Unverified Italian coinage."},
     {"en":"lapis maiden","it":"fanciulla di lapislazzuli","protect":false,"note":"Arabella's epithet; preserve the double meaning. Unverified Italian coinage."},
     {"en":"watcher","it":"Custode","protect":false,"note":"The lunar guardian of Zodiark's seal. Keep Watcher's Palace in English."},
-    {"en":"Crystal Tower","it":"Torre di Cristallo","protect":false,"note":"The building in prose. Keep quest-series and interface labels in English."},
+    {"en":"Crystal Tower","it":"Torre di Cristallo","protect":false,"note":"Use for the building in prose. Keep quest-series and interface labels in English. https://it.store.square-enix-games.com/final-fantasy-iii-music-box---the-crystal-tower"},
     {"en":"Endsinger","it":"Cantatrice della Fine","protect":false,"note":"Epithet in prose. Keep boss names and combat objectives in English. Unverified Italian coinage."},
     {"en":"hyperhopper","it":"iperpropulsore","protect":false,"note":"Loporrit device for travel between stars. Unverified Italian coinage."},
     {"en":"nouliths","it":"nouliti","protect":false,"note":"Generic sage weapons in prose; singular noulito. Keep UI and enemy labels in English. Unverified Italian coinage."},
@@ -1115,7 +1115,7 @@
     { "en": "Sea of Clouds", "fr": "Mer de nuages", "ja": "雲海", "it": "Mare delle Nuvole", "protect": false, "note": "PlaceName#407 below Ishgard. Keep English for the Heavensward zone." },
     { "en": "Daniffen's Collar", "fr": "collier de Daniffen", "ja": "ダナフェンの首飾り", "it": "Collare di Daniffen", "protect": false },
     { "en": "Raubahn's Push", "fr": "Poussée de Raubahn", "ja": "ラウバーン緩衝地", "it": "Spinta di Raubahn", "protect": false, "note": "Unverified coinage. PlaceName#259." },
-    { "en": "Phoenix", "it": "Fenice", "protect": false },
+    {"en":"Phoenix","it":"Fenice","protect":false,"note":"Use for the primal. Keep Phoenix Down item labels and the separate place name Phoenix Gate. https://www.square-enix.com/ffvii/it/games/rebirth/battle/"},
     { "en": "elder primal", "it": "antico primordiale", "protect": false },
     { "en": "internment hulk", "it": "nave di contenimento", "protect": false, "note": "Also coil when it names the Allagan vessel." },
     { "en": "Boulder Downs", "fr": "Coteaux rocheux", "ja": "巨石の丘", "it": "Colline Rocciose", "protect": false },
@@ -1182,7 +1182,6 @@
     { "en": "Fool's Rest", "fr": "repos du sot", "ja": "愚者の広間", "it": "Riposo dello Stolto", "protect": false },
     { "en": "Echelon", "fr": "Échelon", "ja": "斜行リフト", "it": "Scaglione", "protect": false },
     { "en": "Hear... Feel... Think...", "it": "Ascolta... Senti... Pensa...", "protect": false },
-    { "en": "adamantoise", "it": "adamanthart", "protect": false, "note": "Official Italian FFXV guide: https://www.piggyback.com/it/ffxv_i_crownupdate_161202_co/" },
     { "en": "Florentel's Spire", "fr": "tour de Florentel", "ja": "フロランテル監視哨", "it": "Torre di Florentel", "protect": false },
     { "en": "Raincatcher Gully", "fr": "ravine des Cueillepluies", "ja": "レインキャッチャー樹林", "it": "Gola dei Raccoglipioggia", "protect": false },
     { "en": "Hidden Falls", "it": "Cascate Nascoste", "protect": false },
@@ -1239,12 +1238,7 @@
       "ja": "",
       "protect": true
     },
-    {
-      "en": "Odin",
-      "fr": "Odin",
-      "ja": "オーディン",
-      "protect": true
-    },
+    {"en":"Odin","it":"Odino","protect":false,"note":"Use for the primal. Keep complete protected variant and item labels. https://www.square-enix.com/ffvii/it/games/rebirth/battle/"},
     {
       "en": "MGP",
       "fr": "PGS",
@@ -1369,18 +1363,6 @@
       "en": "ceruleum",
       "fr": "céruleum",
       "ja": "青燐水",
-      "protect": true
-    },
-    {
-      "en": "sabotender",
-      "fr": "pampa",
-      "ja": "サボテンダー",
-      "protect": true
-    },
-    {
-      "en": "cactuar",
-      "fr": "pampa",
-      "ja": "サボテンダー",
       "protect": true
     },
     {
@@ -1599,12 +1581,7 @@
       "ja": "エヌオー",
       "protect": true
     },
-    {
-      "en": "Zodiark",
-      "fr": "Zordiarche",
-      "ja": "ゾディアーク",
-      "protect": true
-    },
+    {"en":"Zodiark","it":"Zodiark","protect":true,"note":"Keep the FFXIV source name. Italian game-localization confirmation is pending; Magic is supporting evidence only. https://media.wizards.com/ContentResources/WPN/deck_checklists/fin/MTGFIN_IT_DckCklst.pdf"},
     {
       "en": "Amaurot",
       "fr": "Amaurote",
@@ -1721,12 +1698,6 @@
     },
     {
       "en": "Alzadaal's Legacy",
-      "fr": "",
-      "ja": "",
-      "protect": true
-    },
-    {
-      "en": "tonberry",
       "fr": "",
       "ja": "",
       "protect": true
@@ -1989,12 +1960,7 @@
       "ja": "エスナ",
       "protect": true
     },
-    {
-      "en": "Fenrir",
-      "fr": "Fenrir",
-      "ja": "フェンリル",
-      "protect": true
-    },
+    {"en":"Fenrir","it":"Fenrir","protect":true,"note":"Keep the FFXIV source name. Italian game-localization confirmation is pending; Magic is supporting evidence only. https://media.wizards.com/ContentResources/WPN/deck_checklists/fin/MTGFIN_IT_DckCklst.pdf"},
     {
       "en": "Altana",
       "fr": "Déesse",
@@ -2097,12 +2063,7 @@
       "ja": "",
       "protect": true
     },
-    {
-      "en": "Gold Saucer",
-      "fr": "Gold Saucer",
-      "ja": "Gold Saucer",
-      "protect": true
-    },
+    {"en":"Gold Saucer","it":"Gold Saucer","protect":true,"note":"Keep the established place name. FINAL FANTASY VII REBIRTH, Italian Cait Sith profile: https://www.square-enix.com/ffvii/it/games/rebirth/characters/cait-sith/"},
     {
       "en": "gunbreaker",
       "fr": "",
@@ -2221,10 +2182,7 @@
       "en": "Rhalgr",
       "protect": true
     },
-    {
-      "en": "Ivalice",
-      "protect": true
-    },
+    {"en":"Ivalice","it":"Ivalice","protect":true,"note":"Keep the established place name. https://www.nintendo.com/it-it/Giochi/Giochi-per-Nintendo-Switch/FINAL-FANTASY-XII-THE-ZODIAC-AGE-1438870.html"},
     {
       "en": "koban",
       "protect": true
@@ -2606,7 +2564,23 @@
     {"en":"stoneblight","it":"male della pietra","protect":false,"fr":"gangrène des Duergars; hautement contagieuse; transformation de l’épiderme","ja":"ドヴェルグ病; 強い感染力に肉体の変異を伴う症状","note":"Narrative illness name. Keep exact Item and UI labels in English. Unverified Italian form."},
     {"en":"Keeper of the Entwined Serpents","it":"Custode delle Vipere Intrecciate","protect":false,"note":"Narrative title. Use Custodi delle Vipere Intrecciate in the plural. Keep exact NPC and UI labels in English. Unverified Italian form."},
     {"en":"Fury's Grace","it":"Grazia della Furia","fr":"Grâce de Halone","ja":"戦神の慈悲","protect":false,"note":"Name of the archbishop's staff in dialogue. Unverified Italian form."},
-    {"en":"The Ephemeral Palace","it":"Il Palazzo Effimero","protect":false,"fr":"Palais au parfum onirique","ja":"夢香る宮殿","note":"Narrative painting title. Keep exact Item, EventItem and UI labels in English. Unverified Italian form."}
+    {"en":"The Ephemeral Palace","it":"Il Palazzo Effimero","protect":false,"fr":"Palais au parfum onirique","ja":"夢香る宮殿","note":"Narrative painting title. Keep exact Item, EventItem and UI labels in English. Unverified Italian form."},
+    {"en":"Titan","it":"Titano","protect":false,"note":"Use for the primal. Keep Titan-Egi and complete protected variant and item labels. https://www.square-enix.com/ffvii/it/games/rebirth/battle/"},
+    {"en":"Leviathan","it":"Leviatano","protect":false,"note":"Use for the primal. Keep complete protected variant and item labels. https://na.finalfantasyxvi.com/it/dlc/the-rising-tide"},
+    {"en":"Cloud of Darkness","it":"Nube Oscura","protect":false,"note":"Use for the named entity. Do not apply to a generic cloud. DISSIDIA FINAL FANTASY NT, Italian playable-character description: https://store.steampowered.com/app/1022440/?l=italian"},
+    {"en":"Ifrit","it":"Ifrit","protect":true,"note":"Keep the FFXIV source name. Square Enix merchandise supports the spelling; direct Italian game-text confirmation is pending. https://it.store.square-enix-games.com/final-fantasy-xvi--bust---eikons-8-pcs-display"},
+    {"en":"Shiva","it":"Shiva","protect":true,"note":"Keep the FFXIV source name. Square Enix merchandise supports the spelling; direct Italian game-text confirmation is pending. https://it.store.square-enix-games.com/final-fantasy-xvi--bust---eikons-8-pcs-display"},
+    {"en":"Ramuh","it":"Ramuh","protect":true,"note":"Keep the FFXIV source name. Square Enix merchandise supports the spelling; direct Italian game-text confirmation is pending. https://it.store.square-enix-games.com/final-fantasy-xvi--bust---eikons-8-pcs-display"},
+    {"en":"Garuda","it":"Garuda","protect":true,"note":"Keep the FFXIV source name. Square Enix merchandise supports the spelling; direct Italian game-text confirmation is pending. https://it.store.square-enix-games.com/final-fantasy-xvi--bust---eikons-8-pcs-display"},
+    {"en":"Bahamut","it":"Bahamut","protect":true,"note":"Keep the name used in FINAL FANTASY VII REBIRTH. https://www.square-enix.com/ffvii/it/games/rebirth/battle/"},
+    {"en":"Alexander","it":"Alexander","protect":true,"note":"Keep the series name. https://www.square-enix.com/ffvii/it/games/rebirth/battle/"},
+    {"en":"Carbuncle","it":"Carbuncle","protect":true,"note":"Keep the series name. https://www.square-enix.com/ffvii/it/games/remake-intergrade/buy/"},
+    {"en":"Anima","it":"Anima","protect":true,"note":"Use for the named primal; review anima weapons separately. Italian game-localization confirmation is pending; Magic is supporting evidence only. https://media.wizards.com/ContentResources/WPN/deck_checklists/fin/MTGFIN_IT_DckCklst.pdf"},
+    {"en":"Ultros","it":"Ultros","protect":true,"note":"Keep the FFXIV source name. Italian game-localization confirmation is pending; Magic is supporting evidence only. https://media.wizards.com/ContentResources/WPN/deck_checklists/fin/MTGFIN_IT_DckCklst.pdf"},
+    {"en":"Omega","it":"Omega","protect":true,"note":"Keep the FFXIV source name. Italian game-localization confirmation is pending; Magic is supporting evidence only. https://media.wizards.com/ContentResources/WPN/deck_checklists/fin/MTGFIN_IT_DckCklst.pdf"},
+    {"en":"Hydaelyn","it":"Hydaelyn","protect":true,"note":"Keep the FFXIV source name. Italian game-localization confirmation is pending; Magic is supporting evidence only. https://media.wizards.com/ContentResources/WPN/deck_checklists/fin/MTGFIN_IT_DckCklst.pdf"},
+    {"en":"Dalmasca","it":"Dalmasca","protect":true,"note":"Keep the established place name. https://www.nintendo.com/it-it/Giochi/Giochi-per-Nintendo-Switch/FINAL-FANTASY-XII-THE-ZODIAC-AGE-1438870.html"},
+    {"en":"Rabanastre","it":"Rabanastre","protect":true,"note":"Keep the established place name. https://www.nintendo.com/it-it/Giochi/Giochi-per-Nintendo-Switch/FINAL-FANTASY-XII-THE-ZODIAC-AGE-1438870.html"}
   ],
   "_emotes_comment": [
     "Stage directions FFXIV writes as literal on-screen text, \\<sigh>, not as macros. The backslash is the game's escape and must survive; the word inside is translated."
