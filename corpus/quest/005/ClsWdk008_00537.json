@@ -1,6 +1,6 @@
 {
   "conversation": "quest/005/ClsWdk008_00537",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/005/ClsWdk008_00537#TEXT_CLSWDK008_00537_SEQ_00", "hash": "7EBB3526F7690813", "target": "Il mastro falegname Beatin ti fissa con grande intensità." },
     { "gameKey": "quest/005/ClsWdk008_00537#TEXT_CLSWDK008_00537_SEQ_01", "hash": "C039BAE35AF6D621", "target": "Gairhard ti ha <if(gnum4,indicata,indicato)> ancora una volta come <if(gnum4,la falegname,il falegname)> di sua scelta, chiedendoti di fabbricare un oak composite bow. Beatin immagina che l’arco sia destinato allo stesso Gairhard e quindi non si accontenterà di nulla che non sia la perfezione assoluta. Fabbrica un oak composite bow di qualità e mostralo al mastro falegname." },

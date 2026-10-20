@@ -1,6 +1,6 @@
 {
   "conversation": "quest/047/AktKva201_04733",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/047/AktKva201_04733#TEXT_AKTKVA201_04733_SEQ_00", "hash": "983E0D34786D39A4", "target": "Shallow Moor vorrebbe parlare con <if(gnum4,la sua avventuriera preferita,il suo avventuriero preferito)>, che ha viaggiato tanto." },
     { "gameKey": "quest/047/AktKva201_04733#TEXT_AKTKVA201_04733_SEQ_01", "hash": "F480C82ABFC0BBEA", "target": "Shallow Moor ti informa subito dell'ultimo incarico occasionale affidato alla corporazione dei raccoglitori: una richiesta nientemeno che di Hancock, rivolta proprio a te. La sua lettera ti invita a raggiungere Hingashi per partecipare a una spedizione a Mount Rokkon. Il tono adulatorio lascia alquanto a desiderare, ma nessun ijin ha mai visto la destinazione proposta. Sembra dunque il caso di recarsi a Kugane per saperne di più su questa rara opportunità." },

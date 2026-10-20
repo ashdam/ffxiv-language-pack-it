@@ -1,6 +1,6 @@
 {
   "conversation": "quest/053/KinGza101_05307",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/053/KinGza101_05307#TEXT_KINGZA101_05307_SEQ_00", "hash": "CE5855CC4A4982D9", "target": "Questa pannocchia solitamente allegra sembra stranamente preoccupata." },
     { "gameKey": "quest/053/KinGza101_05307#TEXT_KINGZA101_05307_SEQ_01", "hash": "C4A10A953F9BA978", "target": "Trovi Cornservant in una situazione molto insolita. Di solito non vede l'ora di occuparsi delle pance affamate di Tuliyollal, ma ora avverte uno stomaco tanto vorace da non osare avvicinarsi da solo. In tua compagnia, però, trova il coraggio di compiere il proprio dovere. Non volendo spingerti ad agire, attende umilmente al molo che tu sia <if(gnum4,pronta,pronto)>." },

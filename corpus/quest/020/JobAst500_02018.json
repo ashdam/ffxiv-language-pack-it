@@ -1,6 +1,6 @@
 {
   "conversation": "quest/020/JobAst500_02018",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_SEQ_00", "hash": "D0E8F5ACD5ACD799", "target": "Jannequinard sta quasi scoppiando dall'entusiasmo. Fallo attendere ancora e di certo qualche cucitura dei suoi abiti cederà." },
     { "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_SEQ_01", "hash": "7D8BE535B8AC92C0", "target": "Jannequinard crede che tu sia <if(gnum4,pronta,pronto)> ad aprire la porta del sesto cielo. Ma non spetta a lui decidere. Parla con Leveva al piano superiore dell'Athenaeum Astrologicum e scopri cosa ne pensa lei." },

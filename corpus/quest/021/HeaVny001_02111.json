@@ -1,6 +1,6 @@
 {
   "conversation": "quest/021/HeaVny001_02111",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/021/HeaVny001_02111#TEXT_HEAVNY001_02111_SEQ_00", "hash": "13555F7DEC482C24", "target": "Ai morti non importa della giustizia, ma Wealdtheow intende comunque fargliela ottenere." },
     { "gameKey": "quest/021/HeaVny001_02111#TEXT_HEAVNY001_02111_SEQ_01", "hash": "7322077D6E021178", "target": "Riconoscendo in te <if(gnum4,l'illustre protetta,l'illustre protetto)> della casata Fortemps, Wealdtheow ti implora di entrare nelle rovine del Dusk Vigil e recuperare un tesoro inestimabile: una gemma di ghiaccio incastonata nell'elmo di una statua nella cappella della fortezza. Il Vigil è rimasto abbandonato dalla sua caduta, ma ora i cavalieri lo sorvegliano per scoraggiare i saccheggiatori. Dovrai identificarti per poter entrare." },

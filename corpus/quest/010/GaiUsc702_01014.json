@@ -1,6 +1,6 @@
 {
   "conversation": "quest/010/GaiUsc702_01014",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_SEQ_00", "hash": "02D1B311B5D808FA", "target": "Nedrick conosce un luogo dove <if(gnum4,un'abile avventuriera,un abile avventuriero)> potrebbe affinare le proprie capacità." },
     { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_SEQ_01", "hash": "CD44207A035E47CA", "target": "Secondo Nedrick, una zona chiamata Aurum Vale potrebbe offrire una sfida adeguata alle tue imprese. La valle si trova all'estremità sudoccidentale degli altopiani centrali di Coerthas. Raggiungila e cerca un uomo di nome Willielmus." },

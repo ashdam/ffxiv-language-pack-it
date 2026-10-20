@@ -1,6 +1,6 @@
 {
   "conversation": "quest/028/ClsFsh680_02898",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/028/ClsFsh680_02898#TEXT_CLSFSH680_02898_SEQ_00", "hash": "345C5FA09742CCB1", "target": "Mastro Wawalago ti osserva con sguardo carico d'aspettativa." },
     { "gameKey": "quest/028/ClsFsh680_02898#TEXT_CLSFSH680_02898_SEQ_01", "hash": "472B1EC6416A3084", "target": "Wawalago ti spiega con entusiasmo di aver ricevuto un messaggio da Reyna, impaziente di condividere ciò che lei e i suoi colleghi hanno scoperto esaminando gli harutsuge sprags che sei <if(gnum4,riuscita,riuscito)> a pescarle. Incapace di contenere il desiderio di incontrare l'affascinante ragazza appassionata di tutto ciò che riguarda i pesci, il capogilda annuncia anche l'intenzione di sfuggire allo sguardo vigile di Sisipu e unirsi a te. Raggiungi la Stretta degli Dei per scoprire quali illuminanti conoscenze abbiano ricavato gli appassionati di pesca." },

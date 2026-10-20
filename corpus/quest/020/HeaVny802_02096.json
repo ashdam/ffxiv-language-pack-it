@@ -1,6 +1,6 @@
 {
   "conversation": "quest/020/HeaVny802_02096",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/020/HeaVny802_02096#TEXT_HEAVNY802_02096_SEQ_00", "hash": "1C409787584A2B80", "target": "Lydirlona pensa che diventare specialista ti farebbe bene." },
     { "gameKey": "quest/020/HeaVny802_02096#TEXT_HEAVNY802_02096_SEQ_01", "hash": "122AE882907C63A4", "target": "Ritenendoti <if(gnum4,un'artigiana,un artigiano)> di notevole abilità, Lydirlona suggerisce che diventare specialista potrebbe essere nel tuo interesse. Ti invita a cercare Alderan, maestro artigiano di Ishgard, e a consegnargli una lettera perché ti mostri la via." },

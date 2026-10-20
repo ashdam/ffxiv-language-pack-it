@@ -1,6 +1,6 @@
 {
   "conversation": "quest/025/JobSam601_02566",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/025/JobSam601_02566#TEXT_JOBSAM601_02566_SEQ_00", "hash": "2B6B460283F00525", "target": "Momozigo ha un'espressione imbarazzata che lascia presagire una richiesta di favore." },
     { "gameKey": "quest/025/JobSam601_02566#TEXT_JOBSAM601_02566_SEQ_01", "hash": "49032F909BB7629A", "target": "Momozigo ti informa che una visitatrice di Hingashi è venuta a cercare Musosai, ma non ha avuto il cuore di annunciarle la sua morte. Poiché eri <if(gnum4,allieva,allievo)> del vecchio, però, suggerisce che sia meglio che la notizia venga da te e ti indica la samurai dall'aria dignitosa davanti al Quicksand." },
