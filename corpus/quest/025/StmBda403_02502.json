@@ -1,6 +1,6 @@
 {
   "conversation": "quest/025/StmBda403_02502",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/025/StmBda403_02502#TEXT_STMBDA403_02502_SEQ_00", "hash": "C9844147C56E838B", "target": "Cirina sa dove potresti trovare lord Hien." },
     { "gameKey": "quest/025/StmBda403_02502#TEXT_STMBDA403_02502_SEQ_01", "hash": "37846F38A082E578", "target": "La ricerca dell'erede scomparso del trono di Doma nell'Azim Steppe ti ha <if(gnum4,condotta,condotto)> da Cirina, una giovane della tribù Mol. Molto tempo fa, guidata da una visione ricevuta dalla nonna, si avventurò tra le montagne meridionali e vi trovò Hien in fin di vita. Cirina condusse il lord domano al suo villaggio, dove lo curarono fino alla guarigione, e lì egli è rimasto da allora, in attesa di poter ripagare il proprio debito. Spesso l'accompagna a Reunion, benché abbia l'abitudine di frequentare un luogo in cima alla rupe a est del mercato..." },

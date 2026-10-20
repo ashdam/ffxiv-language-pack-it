@@ -1,6 +1,6 @@
 {
   "conversation": "quest/017/HeaVnz023_01748",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/017/HeaVnz023_01748#TEXT_HEAVNZ023_01748_SEQ_00", "hash": "D665E6091748636F", "target": "Laniaitte cerca <if(gnum4,un'avventuriera,un avventuriero)> dal tocco delicato." },
     { "gameKey": "quest/017/HeaVnz023_01748#TEXT_HEAVNZ023_01748_SEQ_01", "hash": "2DF110BCCF28D06C", "target": "Laniaitte ti chiede di prelevare un campione d'ala da un gaelicat, un alato tanto adorabile quanto feroce originario della zona. Ti avverte, però, che queste creature sono molto delicate. Le occorre un campione perfettamente conservato, e dubita che lei o i suoi uomini possano abbatterle lasciandone intatte le appendici coriacee. Ti implora di procurarle un'ala, per quanti gaelicat tu debba uccidere." },

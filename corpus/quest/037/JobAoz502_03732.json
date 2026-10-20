@@ -1,6 +1,6 @@
 {
   "conversation": "quest/037/JobAoz502_03732",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/037/JobAoz502_03732#TEXT_JOBAOZ502_03732_SEQ_00", "hash": "A67BEFC47F018B24", "target": "Martyn se da ancora più arie del solito." },
     { "gameKey": "quest/037/JobAoz502_03732#TEXT_JOBAOZ502_03732_SEQ_01", "hash": "1592CC964EFCFE41", "target": "Trovi Martyn vestito con i panni del Gran Azuro, in qualche modo ancora più pomposo dell'ultima volta. Rivela che la sua gilda dei maghi blu, fondata di recente, sta crescendo costantemente. Ha accolto diversi allievi, fra cui Nutiba Buntiba e P'yandih, che arrivano a interrompere la conversazione. I due non nascondono di ammirare te, in quanto Azuro <if(gnum4,Seconda,Secondo)>, molto più del loro mentore e capogilda, con grande disappunto di Martyn. Dopo averli scacciati indignato, ricorda che fra pochi istanti deve esibirsi nel Masked Carnivale e ti invita a guardare il Gran Azuro in azione davanti al pubblico. Pur affrontando un gigantesco kronprinz behemoth, Martyn lo sconfigge in modo spettacolare, scatenando una raffica di magie blu che non sapevi nemmeno possedesse." },

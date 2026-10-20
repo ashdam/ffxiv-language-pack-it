@@ -1,6 +1,6 @@
 {
   "conversation": "quest/048/AktKct304_04805",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/048/AktKct304_04805#TEXT_AKTKCT304_04805_SEQ_00", "hash": "261C6368E472452D", "target": "Grenoldt pensa a un impegno importante.<br>※Cambiare classe o job impedirà di progredire nella missione." },
     { "gameKey": "quest/048/AktKct304_04805#TEXT_AKTKCT304_04805_SEQ_01", "hash": "6A199A7EE621C902", "target": "Dopo un breve festeggiamento per il completamento del tuo strumento splendente, Chora-Zoi torna subito al futuro matrimonio di Grenoldt e Mowen. Sebbene il leggendario fabbro inizialmente dubiti di poter essere un marito degno di lei, Mowen rassicura il promesso sposo e i due si uniscono in matrimonio sulle rive del Lago dell'Origine. Sapendo che il lavoro potrebbe tenerli lontani, si promettono fedeltà scambiandosi due bollitori in miniatura. Conclusa la cerimonia, intuisci che Grenoldt desidera parlarti ancora per esprimere la sua gratitudine per il tuo instancabile impegno <if(gnum4,come collaboratrice e confidente,come collaboratore e confidente)>.<br><br>※Non puoi progredire con una classe o un job diversi da quelli con cui hai accettato la missione." },

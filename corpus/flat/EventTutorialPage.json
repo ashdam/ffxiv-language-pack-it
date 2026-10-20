@@ -1,6 +1,6 @@
 {
   "sheet": "EventTutorialPage",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "EventTutorialPage#11.1", "hash": "EAB55E605DAD83A2", "target": "Come funziona il trasporto" },
     { "gameKey": "EventTutorialPage#11.2", "hash": "0329CD95882D0B85", "target": "Alcuni incarichi richiedono di trasportare oggetti in un luogo prestabilito.<br><br>Durante queste attività, l'uso delle azioni è limitato e riceverai l'effetto di stato <colortype(506)><edgecolortype(507)>Transporting<edgecolortype(0)><colortype(0)>.<br><br>Fai attenzione agli attacchi, perché consumeranno le tue forze." },

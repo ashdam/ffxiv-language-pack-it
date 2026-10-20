@@ -1,6 +1,6 @@
 {
   "conversation": "quest/049/KinGla101_04968",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/049/KinGla101_04968#TEXT_KINGLA101_04968_SEQ_00", "hash": "9F0BE68CE02D19F0", "target": "Rral Soj sembra sollevata nel vederti." },
     { "gameKey": "quest/049/KinGla101_04968#TEXT_KINGLA101_04968_SEQ_01", "hash": "A14BDD43DB57C626", "target": "Rral Soj, proprietaria dell'omonimo negozio XRral Soj Metalwares, accoglie con piacere l'arrivo di una persona esperta nell'artigianato. Spiega di aver assunto di recente una dipendente di nome Papawni, che sembra avere difficoltà a svolgere anche i compiti più semplici. Prima di rendersene conto, però, Rral Soj aveva accettato un grosso ordine e rischiava di non riuscire a completarlo in tempo, finché non sei <if(gnum4,arrivata,arrivato)> tu. Ti chiede di trovare Papawni, incaricata di acquistare materiali a Bayside Bevy, e riportarla al negozio." },

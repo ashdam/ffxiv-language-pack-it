@@ -1,6 +1,6 @@
 {
   "conversation": "quest/040/AktKbb202_04074",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/040/AktKbb202_04074#TEXT_AKTKBB202_04074_SEQ_00", "hash": "0CD4B266F90754C9", "target": "Drusilla ha in mente una missione per <if(gnum4,una mietitrice,un mietitore)> alle prime armi." },
     { "gameKey": "quest/040/AktKbb202_04074#TEXT_AKTKBB202_04074_SEQ_01", "hash": "C7B50EFFB7713E66", "target": "La vista di una falce tra le tue mani incontra l'approvazione di Drusilla, che dichiara che prenderai dimestichezza con i tuoi nuovi talenti attraverso una prova del fuoco. Uno dei Lemures ha fatto sapere che una bestia affamata minaccia le sue attività a Cutter's Cry. Desiderosa sia di aiutare un membro della sua famiglia sia di farti conoscere gli strumenti del mestiere, Drusilla ti invita ad accompagnarla a Cutter's Cry per affrontare questa minaccia." },

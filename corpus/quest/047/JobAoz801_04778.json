@@ -1,6 +1,6 @@
 {
   "conversation": "quest/047/JobAoz801_04778",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/047/JobAoz801_04778#TEXT_JOBAOZ801_04778_SEQ_00", "hash": "E24130308A108877", "target": "Sfortunatamente per Martyn, hai dimostrato di essere <if(gnum4,la maga blu,il mago blu)> che sperava, fino all'ultima onze." },
     { "gameKey": "quest/047/JobAoz801_04778#TEXT_JOBAOZ801_04778_SEQ_01", "hash": "B860AD8A9AEB012D", "target": "Grazie alla tua abilità quasi senza pari come <if(gnum4,maga blu,mago blu)>, Martyn ha ricevuto una bella ripassata al Celestium, e sugli spalti non c'era un solo posto vuoto. Restava da risolvere la questione della sua paga, ma anche quella si è rivelata una sconfitta per il cattivo in erba, pur senza che lui se ne rendesse del tutto conto. Pur essendo disposto a fare un'eccezione per te, Martyn non intende perdere contro nessun altro mago blu che lo sfidi, perciò decide di affinare le proprie capacità nelle altre scuole magiche." },

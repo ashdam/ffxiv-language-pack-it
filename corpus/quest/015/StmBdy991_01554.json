@@ -1,6 +1,6 @@
 {
   "conversation": "quest/015/StmBdy991_01554",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/015/StmBdy991_01554#TEXT_STMBDY991_01554_SEQ_00", "hash": "8B841F5D5E46CC27", "target": "L'entusiasmo incontenibile di questo cacciatore può significare solo una cosa: la caccia è aperta!" },
     { "gameKey": "quest/015/StmBdy991_01554#TEXT_STMBDY991_01554_SEQ_01", "hash": "4E0E2A3093BBEB36", "target": "Pur non avendoti mai incontrato, questo cacciatore gioviale sembra conoscerti molto bene. Tanto bene, infatti, da considerarti <if(gnum4,la sua rivale,il suo rivale)>. Forse è per questo che decide di mostrarti un insolito mandato di caccia del clan, recuperato dalla bacheca. Gli strani scarabocchi descrivono una grande viverna chiamata Rathalos. Sebbene il mandato non ne menzioni le origini, il cacciatore gioviale ha scoperto che l'ultimo avvistamento risale alla Azim Steppe. Ti suggerisce di visitare Reunion per saperne di più sulla preda, mentre lui si prepara alla caccia." },

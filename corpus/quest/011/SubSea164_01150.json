@@ -1,6 +1,6 @@
 {
   "conversation": "quest/011/SubSea164_01150",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/011/SubSea164_01150#TEXT_SUBSEA164_01150_SEQ_00", "hash": "736A7E88A94CE2AD", "target": "Gli studiosi scrivono che chi è adirato non avverte <if([gnum11<12],<if([gnum11<4],l'arrivo della notte,il sole del mattino)>,<if([gnum11<17],il sole allo zenit,l'arrivo della notte)>)>, e Alyrloef sembra certamente insensibile a tutto tranne all'urgente bisogno dei tuoi servizi." },
     { "gameKey": "quest/011/SubSea164_01150#TEXT_SUBSEA164_01150_SEQ_01", "hash": "492CD590E7532658", "target": "La presenza del sergente Roehanth manca al Bastione, e Alyrloef ti chiede di correre alla Cripta del Fondatore per trovarlo. Parla con Roehanth, ma ricorda che disturbare un uomo durante le sue preghiere è a proprio rischio." },

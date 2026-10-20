@@ -1,6 +1,6 @@
 {
   "conversation": "quest/041/AktKba101_04102",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/041/AktKba101_04102#TEXT_AKTKBA101_04102_SEQ_00", "hash": "6100EBD3346502DA", "target": "Il delegato gridaniano ha urgente bisogno <if(gnum4,di una valorosa protettrice,di un valoroso protettore)> per combattere una nuova minaccia alla sua patria." },
     { "gameKey": "quest/041/AktKba101_04102#TEXT_AKTKBA101_04102_SEQ_01", "hash": "D0F33A7CA24C073D", "target": "Una bestemmia ha fatto del Twelveswood il proprio covo, dando la caccia ai suoi abitanti e stendendo un'ombra oscura sull'intera regione. Si è dimostrata difficile da rintracciare, perciò il Nido delle Vipere ha chiesto l'aiuto di una persona impavida capace di proteggere i soldati durante la caccia. Devi presentarti subito al Nido delle Vipere." },

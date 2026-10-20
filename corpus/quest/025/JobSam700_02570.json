@@ -1,6 +1,6 @@
 {
   "conversation": "quest/025/JobSam700_02570",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/025/JobSam700_02570#TEXT_JOBSAM700_02570_SEQ_00", "hash": "AD9C798DE8BA848A", "target": "Makoto sembra sconfitta prima ancora che la battaglia cominci." },
     { "gameKey": "quest/025/JobSam700_02570#TEXT_JOBSAM700_02570_SEQ_01", "hash": "8C8F5AD624A8ADE2", "target": "I timori di Makoto si sono avverati. I membri dei Sekiseigumi disertano dopo aver scoperto che è la sorella di Ugetsu e tu <if(gnum4,l'allieva,l'allievo)> di Musosai. Così non avrà la forza di affrontare gli insorti. Non volendo che tutto finisca in questo modo, ti chiede di cercare i vostri compagni disillusi a Kugane e riportarli ad ascoltarla." },

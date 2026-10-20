@@ -1,6 +1,6 @@
 {
   "conversation": "quest/000/ClsHrv005_00007",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/000/ClsHrv005_00007#TEXT_CLSHRV005_00007_SEQ_00", "hash": "1A96E33D3442127E", "target": "Fufucha sembra preoccupata per il tuo aspetto." },
     { "gameKey": "quest/000/ClsHrv005_00007#TEXT_CLSHRV005_00007_SEQ_01", "hash": "56F645E52D6111B5", "target": "Per crescere come <if(gnum4,botanica,botanico)>, devi assicurarti che gli attrezzi siano adeguati alla tua abilità. A questo scopo Fufucha ti parla delle materia, un particolare tipo di cristallo che può potenziare l’equipaggiamento. Un tempo il processo richiedeva certi catalizzatori presenti in natura e, benché non si usino più, Fufucha pensa che raccoglierli sia una sfida adatta a te. Recati ad Aleport, nella La Noscea occidentale, e procura quindici fragments of grade 1 carbonized matter. Quando ne avrai abbastanza, presentali a Sandre alla Botanists' Guild." },

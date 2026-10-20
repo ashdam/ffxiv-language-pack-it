@@ -1,6 +1,6 @@
 {
   "conversation": "quest/048/KinGbb221_04857",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/048/KinGbb221_04857#TEXT_KINGBB221_04857_SEQ_00", "hash": "C04AC2E0BC2665BC", "target": "Kupopo ti esamina un po’ <italic(1)>troppo<italic(0)> da vicino." },
     { "gameKey": "quest/048/KinGbb221_04857#TEXT_KINGBB221_04857_SEQ_01", "hash": "3FB19F09CA79EE10", "target": "Prima di lasciare Camp Dragonhead, l’Uditore, ora felice, ti presenta un cavaliere ishgardese: proprio quello che hai contribuito a salvare. L’uomo desidera ringraziarti, ma si rammarica di informarti che né lui né i compagni di stanza lungo il confine hanno visto qualcuno che corrisponda alla descrizione di Beruru. Mentre i due si congedano, Kupopo annuncia che la prossima meta sarà Kugane. Poiché ci sei già <if(gnum4,stata,stato)> e probabilmente sei in sintonia con l’eterite locale, ti invita a infilarlo in un sacco di canapa per teletrasportarti lì portandolo con te." },

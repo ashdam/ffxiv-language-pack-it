@@ -1,6 +1,6 @@
 {
   "conversation": "quest/036/LucKmd111_03616",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/036/LucKmd111_03616#TEXT_LUCKMD111_03616_SEQ_00", "hash": "7D3E806A63462EBE", "target": "Thancred è stanco di aspettare." },
     { "gameKey": "quest/036/LucKmd111_03616#TEXT_LUCKMD111_03616_SEQ_01", "hash": "146E36B2CE334DAF", "target": "Non appena informi Thancred che sei <if(gnum4,pronta,pronto)> a partire, lui si dirige a sud, verso le Vecchie Miniere di Nuvy. Per non essere da meno, lo segui in fretta." },
