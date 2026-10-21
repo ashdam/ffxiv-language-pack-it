@@ -2,7 +2,7 @@
   "conversation": "custom/009/CtsWksMechaCharger_00935",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/009/CtsWksMechaCharger_00935#TEXT_CTSWKSMECHACHARGER_00935_TALK_ACTIVE", "hash": "F4AAAE8905573024", "target": "" },
-    { "gameKey": "custom/009/CtsWksMechaCharger_00935#TEXT_CTSWKSMECHACHARGER_00935_TALK_NON_ACTIVE", "hash": "C2657FFCAE9808D8", "target": "" }
+    { "gameKey": "custom/009/CtsWksMechaCharger_00935#TEXT_CTSWKSMECHACHARGER_00935_TALK_ACTIVE", "hash": "F4AAAE8905573024", "target": "Ricezione di rifornimenti di carburante dal supporto a terra in corso. Potenza erogata al <num(lnum1)> percento." },
+    { "gameKey": "custom/009/CtsWksMechaCharger_00935#TEXT_CTSWKSMECHACHARGER_00935_TALK_NON_ACTIVE", "hash": "C2657FFCAE9808D8", "target": "Inizializzazione dello scanner da campo..." }
   ]
 }

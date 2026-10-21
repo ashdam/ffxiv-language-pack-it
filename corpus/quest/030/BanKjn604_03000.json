@@ -2,16 +2,16 @@
   "conversation": "quest/030/BanKjn604_03000",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_SEQ_00", "hash": "88440B619F5ADB8A", "target": "" },
-    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_TODO_00", "hash": "A1DBD769ECED59B0", "target": "" },
-    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_TODO_01", "hash": "20F6B6091EC4E3DA", "target": "" },
-    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_ZUKIN_000_000", "hash": "F34E40B271C836F8", "target": "" },
-    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_ZUKIN_000_001", "hash": "81F47512D4FFAA0A", "target": "" },
-    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_ZUKIN_000_002", "hash": "659CA601DE98C20C", "target": "" },
-    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_SYSTEM_000_010", "hash": "BAAFB96A2581D777", "target": "" },
-    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_SYSTEM_000_011", "hash": "0AB6A57F8E277233", "target": "" },
-    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_ZUKIN_000_020", "hash": "CD12DB15CB13DB3C", "target": "" },
-    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_ZUKIN_000_021", "hash": "D537070EC03C956A", "target": "" },
-    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_ZUKIN_000_023", "hash": "BC0A920FED6784C1", "target": "" }
+    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_SEQ_00", "hash": "88440B619F5ADB8A", "target": "Zukin ha trovato un nuovo uso per i vecchi scrigni.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
+    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_TODO_00", "hash": "A1DBD769ECED59B0", "target": "Esaminare le octopus trap vicino all'<italic(1)>Adventure<italic(0)> e ottenere un polpo" },
+    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_TODO_01", "hash": "20F6B6091EC4E3DA", "target": "Consegnare il polpo koromo gigante a Zukin" },
+    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_ZUKIN_000_000", "hash": "F34E40B271C836F8", "target": "Avevamo dei vecchi scrigni del tesoro che stavano lì a prendere polvere. Con un po' di creatività li ho trasformati in trappole per polpi. E funzionano benissimo, se posso dirlo." },
+    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_ZUKIN_000_001", "hash": "81F47512D4FFAA0A", "target": "Ora vorrei regalare un po' di pescato fresco alla brava gente di Kokajiya, e ti sarei grato se potessi andare a controllare le trappole." },
+    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_ZUKIN_000_002", "hash": "659CA601DE98C20C", "target": "Ne ho piazzate tre vicino al relitto a sud-ovest di qui. Ormai almeno una avrà catturato un polpo. Ti ringrazio in anticipo, <split(<string(gstr1)>, ,1)>." },
+    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_SYSTEM_000_010", "hash": "BAAFB96A2581D777", "target": "In questo scrigno non c'è niente." },
+    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_SYSTEM_000_011", "hash": "0AB6A57F8E277233", "target": "Lo scrigno è pieno di tentacoli che si contorcono!" },
+    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_ZUKIN_000_020", "hash": "CD12DB15CB13DB3C", "target": "Ah, eccoti. I kami ci hanno benedetto con una cattura?" },
+    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_ZUKIN_000_021", "hash": "D537070EC03C956A", "target": "Oh, che polpo grande e vivace! I nostri amici fabbri saranno felici!" },
+    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_ZUKIN_000_023", "hash": "BC0A920FED6784C1", "target": "A proposito, ti ho detto che gli scrigni più vecchi e coperti di alghe sono le trappole migliori? Be', è così. Tienilo a mente per il futuro." }
   ]
 }

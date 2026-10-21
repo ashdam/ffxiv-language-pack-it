@@ -42,7 +42,7 @@
     { "gameKey": "quest/032/LucKbc002_03211#TEXT_LUCKBC002_03211_OTCHAKHA_000_106", "hash": "F894059038DD0E29", "target": "Avete fatto del vostro meglio per fargli vedere la luce, come avete fatto per noi." },
     { "gameKey": "quest/032/LucKbc002_03211#TEXT_LUCKBC002_03211_DZENTSA_000_107", "hash": "AB09523AA795A061", "target": "Sì. Non dovete essere così duro con voi stesso." },
     { "gameKey": "quest/032/LucKbc002_03211#TEXT_LUCKBC002_03211_WIDARGELT_000_108", "hash": "8AD2E04D89DF0242", "target": "Sono accadute molte cose anche a voi, <if(gnum4,sorella,fratello)>. Si vede chiaramente. Venite, lasciate che ascolti il vostro racconto." },
-    { "gameKey": "quest/032/LucKbc002_03211#TEXT_LUCKBC002_03211_Q1_000_000", "hash": "602CAF5A3273F778", "target": "Di che cosa parlerai?" },
+    { "gameKey": "quest/032/LucKbc002_03211#TEXT_LUCKBC002_03211_Q1_000_000", "hash": "602CAF5A3273F778", "target": "Di cosa vuoi parlare?" },
     { "gameKey": "quest/032/LucKbc002_03211#TEXT_LUCKBC002_03211_A1_000_001", "hash": "F3D77B708B6EFF25", "target": "Lue-Reeq." },
     { "gameKey": "quest/032/LucKbc002_03211#TEXT_LUCKBC002_03211_A1_000_002", "hash": "A6E76C4267A89516", "target": "Un cacciatore che ha trovato la sua strada." },
     { "gameKey": "quest/032/LucKbc002_03211#TEXT_LUCKBC002_03211_WIDARGELT_000_110", "hash": "E7FFFCD793317D3E", "target": "...Dunque Lue-Reeq ha scelto di spezzare i legami con la sua famiglia." },

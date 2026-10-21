@@ -2,16 +2,16 @@
   "conversation": "quest/036/BanPix107_03695",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_SEQ_00", "hash": "B429CE3DEB473E94", "target": "" },
-    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_TODO_00", "hash": "31A8DCB357AB9D08", "target": "" },
-    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_TODO_01", "hash": "0E11CB601589AFA3", "target": "" },
-    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_000", "hash": "6D77D860A98ED6CC", "target": "" },
-    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_001", "hash": "BD3628A8887E804F", "target": "" },
-    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_002", "hash": "9A7BDF80E0C44475", "target": "" },
-    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_010", "hash": "BA6065F5CAEC5D6C", "target": "" },
-    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_011", "hash": "0C88A2C92633FC3E", "target": "" },
-    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_012", "hash": "22AEE678CE060691", "target": "" },
-    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_013", "hash": "2FA8979054BEBD4C", "target": "" },
-    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_014", "hash": "B3A567FC05C66454", "target": "" }
+    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_SEQ_00", "hash": "B429CE3DEB473E94", "target": "Uin Nee non può aspettare un altro istante che i suoi ordini vengano eseguiti.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
+    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_TODO_00", "hash": "31A8DCB357AB9D08", "target": "Sorvegliare Grazia della Buona Jenanna e uccidere una witchweed per i petali" },
+    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_TODO_01", "hash": "0E11CB601589AFA3", "target": "Consegnare i petali di erba strega a Uin Nee" },
+    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_000", "hash": "6D77D860A98ED6CC", "target": "Oh, no! L'ho fatto di nuovo, ho dimenticato qualcosa di terribilmente importante! Dimenticato cosa, dici? <if(gnum4,Sciocca,Sciocco)> mortale, è proprio quello che cerco di ricordare!" },
+    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_001", "hash": "BD3628A8887E804F", "target": "Oh, ma certo, petali di erba strega! In qualche modo sono riuscito a esaurire completamente la scorta! Non va proprio bene. No, per niente!" },
+    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_002", "hash": "9A7BDF80E0C44475", "target": "Per fortuna sei qui al momento giusto per aiutarmi a sistemare le cose! È davvero impressionante come sembri sempre sapere quando ho bisogno di te. Ora vai a Grazia della Buona Jenanna, dove si aggirano le erbe streghe più frastagliate e fiorite! Non preoccuparti, qui bado io alle cose." },
+    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_010", "hash": "BA6065F5CAEC5D6C", "target": "Oh, guarda chi torna! Hai portato i... aspetta, che cosa ti avevo chiesto?" },
+    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_011", "hash": "0C88A2C92633FC3E", "target": "Ma certo! Petali di erba strega! Come ho potuto dimenticarlo? A proposito di dimenticare, mi sono completamente scordato di dirti perché mi servivano, vero?" },
+    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_012", "hash": "22AEE678CE060691", "target": "Se prestavi attenzione, e tu presti sempre attenzione, vero, avrai notato come le erbe streghe modifichino i petali per assumere la forma delle loro prede. Le povere bestioline si avvicinano, convinte di aver trovato un amico, e... GLUG! GNAM! Addio bestiolina." },
+    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_013", "hash": "2FA8979054BEBD4C", "target": "\\<singhiozzo> Povere bestioline... Comunque, dov'ero rimasto? Oh sì! Con i petali di erba strega mi basta intessere un semplice incantesimo per creare ogni sorta di animaletti carini per i miei piccoli sognatori!" },
+    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_014", "hash": "B3A567FC05C66454", "target": "Ma quale creatura evocherò per prima? Una coccinella? Un vermetto guizzante? Magari un esercito di ragnetti minuscoli! Aspetta, che ne dici di <italic(1)>tutti quanti<italic(0)>! Sì, li sommergerò di insetti! Non vorresti essere ancora <if(gnum4,bambina,bambino)> per fare sogni tanto belli?" }
   ]
 }

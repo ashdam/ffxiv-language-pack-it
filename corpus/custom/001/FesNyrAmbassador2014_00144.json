@@ -2,8 +2,8 @@
   "conversation": "custom/001/FesNyrAmbassador2014_00144",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/FesNyrAmbassador2014_00144#TEXT_FESNYRAMBASSADOR2014_00144_HORSEMISSIONARY_000_000", "hash": "E678458256868C35", "target": "" },
-    { "gameKey": "custom/001/FesNyrAmbassador2014_00144#TEXT_FESNYRAMBASSADOR2014_00144_HORSEMISSIONARY_000_010", "hash": "DB04793989351197", "target": "" },
-    { "gameKey": "custom/001/FesNyrAmbassador2014_00144#TEXT_FESNYRAMBASSADOR2014_00144_HORSEMISSIONARY_000_011", "hash": "04780AD26B1075CA", "target": "" }
+    { "gameKey": "custom/001/FesNyrAmbassador2014_00144#TEXT_FESNYRAMBASSADOR2014_00144_HORSEMISSIONARY_000_000", "hash": "E678458256868C35", "target": "Tra festeggiamenti e calcoli, dall'Estremo Oriente portiamo a Eorzea un dono per il Capodanno Celeste. Che tra noi scorra sempre buon sangue!" },
+    { "gameKey": "custom/001/FesNyrAmbassador2014_00144#TEXT_FESNYRAMBASSADOR2014_00144_HORSEMISSIONARY_000_010", "hash": "DB04793989351197", "target": "Forse <if(gnum4,la mia signora,il mio signore)> ha smarrito il dono che <if(gnum4,le,gli)> è stato consegnato, quello che sia il donatore sia chi lo riceve chiamano uma kabuto?" },
+    { "gameKey": "custom/001/FesNyrAmbassador2014_00144#TEXT_FESNYRAMBASSADOR2014_00144_HORSEMISSIONARY_000_011", "hash": "04780AD26B1075CA", "target": "Siete <if(gnum4,una donna,un uomo)> senza paura e senza senno, per perdere un oggetto di tale importanza! Ve ne darò un altro, ma non smarritelo di nuovo." }
   ]
 }

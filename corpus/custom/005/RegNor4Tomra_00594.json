@@ -2,15 +2,15 @@
   "conversation": "custom/005/RegNor4Tomra_00594",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_MAGUTT_000_000", "hash": "F3CE46CD14EDC08D", "target": "" },
-    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_Q1_000_000", "hash": "0164FFEE4D89D726", "target": "" },
-    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_A1_000_001", "hash": "B0FE1A04D4FB0B13", "target": "" },
-    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_A1_000_002", "hash": "81960018734A973F", "target": "" },
-    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_A1_000_003", "hash": "E554E77A5F750472", "target": "" },
-    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_MAGUTT_000_010", "hash": "F8E12F786F3FB27C", "target": "" },
-    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_MAGUTT_000_011", "hash": "FB4D72DB039BE9B9", "target": "" },
-    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_MAGUTT_000_020", "hash": "3CFB127E880ABA3D", "target": "" },
-    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_MAGUTT_000_021", "hash": "8F9B86E230A4A700", "target": "" },
-    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_MAGUTT_000_022", "hash": "6EC5EC247E86A9EE", "target": "" }
+    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_MAGUTT_000_000", "hash": "F3CE46CD14EDC08D", "target": "Lali-ho! Ti do il benvenuto a Tomra. Se hai delle domande, hai trovato il nano giusto!" },
+    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_Q1_000_000", "hash": "0164FFEE4D89D726", "target": "Cosa vuoi chiedere?" },
+    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_A1_000_001", "hash": "B0FE1A04D4FB0B13", "target": "Di cosa ti occupi qui?" },
+    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_A1_000_002", "hash": "81960018734A973F", "target": "Che posto è questo?" },
+    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_A1_000_003", "hash": "E554E77A5F750472", "target": "Niente." },
+    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_MAGUTT_000_010", "hash": "F8E12F786F3FB27C", "target": "Una volta ero un minatore, ma i tempi del piccone sono finiti quando la mia vecchia schiena si è storta troppo. Ora mi godo la vecchiaia!" },
+    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_MAGUTT_000_011", "hash": "FB4D72DB039BE9B9", "target": "Me ne sto qui a bere buona birra nanica e passo il tempo a vantarmi di chi ha la barba migliore. La mia sarà anche vecchia, ma non ha perso nulla del suo brio!" },
+    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_MAGUTT_000_020", "hash": "3CFB127E880ABA3D", "target": "Questo villaggio è la casa della famiglia Tholl." },
+    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_MAGUTT_000_021", "hash": "8F9B86E230A4A700", "target": "Viviamo soprattutto di quello che estraiamo dalle miniere. Vedrai anche qualche cacciatore e contadino, per non parlare dei nostri automi: sono aiutanti di metallo che costruiamo per agevolarci nelle faccende quotidiane." },
+    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_MAGUTT_000_022", "hash": "6EC5EC247E86A9EE", "target": "Oh, un consiglio se vai a est: fa’ attenzione a quei Gogg. Non puoi fidarti di nani con barbe selvatiche e ispide come le loro! Mi basta vedere quei tipi loschi per sentire i baffi arricciarsi... \\<sputo>" }
   ]
 }

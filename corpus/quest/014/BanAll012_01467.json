@@ -2,16 +2,16 @@
   "conversation": "quest/014/BanAll012_01467",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_SEQ_00", "hash": "214BB97304001F8A", "target": "" },
-    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_SEQ_01", "hash": "FF922ABA9C598958", "target": "" },
-    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_SEQ_02", "hash": "C97C870EC40BE782", "target": "" },
-    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_TODO_00", "hash": "B56DAE41532EA11D", "target": "" },
-    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_MIMIO_000_000", "hash": "989B31D3A8D5AE90", "target": "" },
-    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_MIMIO_000_001", "hash": "86C84A8514FF1415", "target": "" },
-    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_MIMIO_000_002", "hash": "412FFD9538C64FF7", "target": "" },
-    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_MIMIO_000_003", "hash": "236E9A7815B2D626", "target": "" },
-    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_MIMIO_000_004", "hash": "A56B6385A7D94C37", "target": "" },
-    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_GAVIN_000_010", "hash": "2059BBF8822407EF", "target": "" },
-    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_GAVIN_000_011", "hash": "8B46F45F26750B24", "target": "" }
+    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_SEQ_00", "hash": "214BB97304001F8A", "target": "Mimio vuole lodare il tuo lavoro tra le diverse società di Eorzea e chiederti ancora aiuto." },
+    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_SEQ_01", "hash": "FF922ABA9C598958", "target": "La tenente Mimio Mio ti ringrazia per le imprese che hanno gettato le basi di una futura pace duratura con le tribù bestiali di Eorzea. Apprezza le tue doti diplomatiche e desidera il tuo aiuto per un incarico importante. Chiedi i dettagli al tenente Gavin dell'Ordine delle Due Vipere di Gridania." },
+    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_SEQ_02", "hash": "C97C870EC40BE782", "target": "Il tenente Gavin è rincuorato dalla tua presenza, avendo sentito delle tue imprese per la pace con le tribù bestiali. Per conoscere l'incarico che le Due Vipere vogliono affidarti, parlagli di nuovo." },
+    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_TODO_00", "hash": "B56DAE41532EA11D", "target": "Parlare con Gavin al Nido delle Vipere a Gridania" },
+    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_MIMIO_000_000", "hash": "989B31D3A8D5AE90", "target": "<if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<split(<string(gstr1)>, ,1)>,<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>)>)>! Le storie delle tue imprese con gli uomini lucertola percorrono questi corridoi come un incendio." },
+    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_MIMIO_000_001", "hash": "86C84A8514FF1415", "target": "Non mancano avventurieri capaci di abbattere uno o due uomini-bestia. Ma quelli con il talento e la volontà di aprire la strada alla pace sono rari." },
+    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_MIMIO_000_002", "hash": "412FFD9538C64FF7", "target": "...E arrivi proprio al momento giusto. L'Ordine delle Due Vipere ha bisogno di abilità diplomatiche e non penso a nessuno di più adatto di te." },
+    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_MIMIO_000_003", "hash": "236E9A7815B2D626", "target": "Il nostro contatto a Gridania è il tenente Gavin. Cercalo al Nido delle Vipere e ti darà i dettagli della missione." },
+    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_MIMIO_000_004", "hash": "A56B6385A7D94C37", "target": "Il nostro contatto a Gridania è il tenente Gavin. Cercalo al Nido delle Vipere e ti darà i dettagli della missione." },
+    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_GAVIN_000_010", "hash": "2059BBF8822407EF", "target": "<if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<split(<string(gstr1)>, ,1)>)>)>! Cosa non darei per ascoltare le vostre avventure con gli uomini-bestia davanti a un boccale d'idromele!" },
+    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_GAVIN_000_011", "hash": "8B46F45F26750B24", "target": "...Eppure temo che oggi ci attendano questioni più urgenti. Quando vorrete conoscere l'incarico, non dovrete far altro che dirlo." }
   ]
 }

@@ -2,17 +2,17 @@
   "conversation": "custom/001/RegFstQuarrymill_00126",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_000", "hash": "9C1C6C90534AE59C", "target": "" },
-    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_010", "hash": "8EBB73E748C2BB37", "target": "" },
-    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_011", "hash": "F8B42A84C1EC9052", "target": "" },
-    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_012", "hash": "627193FFCC0ED7AB", "target": "" },
-    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_020", "hash": "41806FC1E0BCE9A4", "target": "" },
-    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_021", "hash": "21C87BDE0C52193B", "target": "" },
-    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_022", "hash": "E8F85E6B76CAF07D", "target": "" },
-    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_023", "hash": "29FCE930C2A0788F", "target": "" },
-    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_Q1_000_000", "hash": "FA9A0715A6A14685", "target": "" },
-    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_A1_000_001", "hash": "FE0E5645A35748AF", "target": "" },
-    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_A1_000_002", "hash": "2C5ECFD478D3879B", "target": "" },
-    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_A1_000_003", "hash": "B8CF834EED32C11D", "target": "" }
+    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_000", "hash": "9C1C6C90534AE59C", "target": "Salve, avventuriere. Cosa vi porta a Quarrymill?" },
+    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_010", "hash": "8EBB73E748C2BB37", "target": "Sono un'Uditrice di Gridania. Il Consiglio dei Veggenti mi ha affidato la guida di questo villaggio." },
+    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_011", "hash": "F8B42A84C1EC9052", "target": "Il mio compito è ascoltare i sussurri degli elementali, eterni custodi del Bosco dei Dodici, per trasmettere la loro volontà agli abitanti." },
+    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_012", "hash": "627193FFCC0ED7AB", "target": "Se ve lo state chiedendo, il mio lavoro è simile a quello di una consigliera. Tuttavia, i consigli che offro provengono perlopiù dagli elementali stessi, non da me." },
+    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_020", "hash": "41806FC1E0BCE9A4", "target": "Quarrymill deve il suo nome alle ruote idrauliche che servivano a lavorare la pietra grezza per ricavarne materiale da costruzione." },
+    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_021", "hash": "21C87BDE0C52193B", "target": "Col passare degli anni è diventato un luogo di ritrovo per cacciatori e cacciatori di pellicce, grazie alla sua posizione tra territori di caccia approvati dagli elementali." },
+    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_022", "hash": "E8F85E6B76CAF07D", "target": "Quarrymill è anche un luogo di giudizio. Tutti gli stranieri che desiderano dimorare nel Bosco dei Dodici devono presentarsi qui affinché gli elementali valutino se ne siano degni." },
+    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_023", "hash": "29FCE930C2A0788F", "target": "Chi vede respinta la propria richiesta non può restare nel bosco né godere dei suoi doni. Può sembrare una regola severa, ma è così da tempo immemorabile." },
+    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_Q1_000_000", "hash": "FA9A0715A6A14685", "target": "Cosa vuoi chiedere?" },
+    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_A1_000_001", "hash": "FE0E5645A35748AF", "target": "Di cosa vi occupate qui?" },
+    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_A1_000_002", "hash": "2C5ECFD478D3879B", "target": "Che posto è questo?" },
+    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_A1_000_003", "hash": "B8CF834EED32C11D", "target": "Niente." }
   ]
 }

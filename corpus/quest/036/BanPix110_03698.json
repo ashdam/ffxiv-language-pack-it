@@ -2,19 +2,19 @@
   "conversation": "quest/036/BanPix110_03698",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_SEQ_00", "hash": "048F8559E9152C8B", "target": "" },
-    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_TODO_00", "hash": "53000E3ACDFC2BC4", "target": "" },
-    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_TODO_01", "hash": "6FACF1645DA7872F", "target": "" },
-    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_TODO_02", "hash": "E563FBB11825EFC4", "target": "" },
-    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_UINNEE_000_000", "hash": "9BDD943E2B6C3824", "target": "" },
-    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_UINNEE_000_001", "hash": "5A576BCA2F09A2AC", "target": "" },
-    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_UINNEE_000_002", "hash": "BFE4661974841A64", "target": "" },
-    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_LUGGAENC_000_010", "hash": "625E674CBA5AB356", "target": "" },
-    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_LUGGAENC_000_011", "hash": "B82C2F708AF6233A", "target": "" },
-    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_SYSTEM_000_012", "hash": "802A25E20C54A180", "target": "" },
-    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_SYSTEM_000_013", "hash": "FF07764DAD7B7E31", "target": "" },
-    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_UINNEE_000_020", "hash": "668B80E056D0EE69", "target": "" },
-    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_UINNEE_000_021", "hash": "85C71F98673A4C32", "target": "" },
-    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_UINNEE_000_022", "hash": "68408C6E67DFF6CA", "target": "" }
+    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_SEQ_00", "hash": "048F8559E9152C8B", "target": "Uin Nee ha bisogno di nettare.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
+    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_TODO_00", "hash": "53000E3ACDFC2BC4", "target": "Parlare con Lugg Aenc" },
+    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_TODO_01", "hash": "6FACF1645DA7872F", "target": "Raggiungere il Lago dello Specchietto sul porxie e aspirare del nettare" },
+    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_TODO_02", "hash": "E563FBB11825EFC4", "target": "Fare rapporto a Uin Nee" },
+    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_UINNEE_000_000", "hash": "9BDD943E2B6C3824", "target": "Facciamo un indovinello, <split(<string(gstr1)>, ,1)>? Indovina cosa amo più di <italic(1)>qualunque altra cosa<italic(0)> al mondo! No, non te, <if(gnum4,sciocchina,sciocchino)>. È il nettare! Nettare dolce, succoso e delizioso!" },
+    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_UINNEE_000_001", "hash": "5A576BCA2F09A2AC", "target": "E indovina cosa amo <italic(1)>quasi<italic(0)> quanto il nettare? Ma i porxie semplicemente <italic(1)>perfetti<italic(0)> che i Nu Mou hanno creato per farci raccogliere tutto il nettare che possiamo bere!" },
+    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_UINNEE_000_002", "hash": "BFE4661974841A64", "target": "Ora lascia indovinare <italic(1)>me<italic(0)>: anche tu hai sempre voluto cavalcare un porxie? Be', oggi è il tuo giorno fortunato! Basta parlare con il mio amico Lugg Aenc e in un attimo sarai in groppa a uno dei nostri graziosi famigli! Non sembra divertente?" },
+    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_LUGGAENC_000_010", "hash": "625E674CBA5AB356", "target": "Salve! Non preoccupatevi, Uin Nee mi ha già spiegato tutto. Porterete fuori uno dei nostri porxie per raccogliere una buona scorta di nettare, giusto? È davvero gentile da parte vostra offrirvi per un compito tanto noioso. Comunque, sarò felice di affidarvi uno dei miei preferiti." },
+    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_LUGGAENC_000_011", "hash": "B82C2F708AF6233A", "target": "State bene? Quando il porxie è tornato da solo, temevo che aveste fatto una brutta caduta. Meno male che siete ancora in piedi: Uin Nee sta diventando terribilmente impaziente per quel nettare che gli avete promesso." },
+    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_SYSTEM_000_012", "hash": "802A25E20C54A180", "target": "Il porxie inspira a fondo, riempiendosi il naso, e presumibilmente altre parti della sua anatomia interna, di dolcissimo nettare. Cerchi di non pensare a come Uin Nee intenda estrarlo dalle viscere della bestiola." },
+    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_SYSTEM_000_013", "hash": "FF07764DAD7B7E31", "target": "Il profumo del dolce nettare ti giunge al naso. Purtroppo non hai modo di raccoglierlo senza aiuto. Parla con Lugg Aenc a Lydha Lran per procurarti un porxie e rimediare." },
+    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_UINNEE_000_020", "hash": "668B80E056D0EE69", "target": "Oh, salve. È appena tornato un porxie con la pancia piena del nettare più dolce e succoso. Non c'entrerai per caso qualcosa, vero? Comunque, spero che il tuo voletto ti sia piaciuto!" },
+    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_UINNEE_000_021", "hash": "85C71F98673A4C32", "target": "Sì, non vedo proprio l'ora di bere a fondo quel dolcissimo nettare! Oh, forse ti chiedevi come facciamo a farlo uscire dal porxie?" },
+    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_UINNEE_000_022", "hash": "68408C6E67DFF6CA", "target": "Be', se proprio vuoi saperlo... cerco di non pensare a quella parte. A volte diventa un po' disgustosa, sai. Una volta un porxie ha starnutito proprio mentre stavo per... bleah! Ripensandoci, credo di non avere più sete. Oh, perché me l'hai dovuto ricordare!?" }
   ]
 }

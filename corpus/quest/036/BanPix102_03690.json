@@ -2,17 +2,17 @@
   "conversation": "quest/036/BanPix102_03690",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_SEQ_00", "hash": "EB36809AE1C1C3CA", "target": "" },
-    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_TODO_00", "hash": "ADD25C51601BAFD4", "target": "" },
-    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_TODO_01", "hash": "7306058CBC03D1AC", "target": "" },
-    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_UINNEE_000_001", "hash": "6C59F910B96316D3", "target": "" },
-    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_UINNEE_000_002", "hash": "71A5ED096C10594D", "target": "" },
-    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_UINNEE_000_003", "hash": "A5CC0112F6036432", "target": "" },
-    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_UINNEE_000_004", "hash": "C2C295227B089652", "target": "" },
-    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_UINNEE_000_030", "hash": "8038C8F19868D5EA", "target": "" },
-    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_UINNEE_000_031", "hash": "D7F8DC7D26023071", "target": "" },
-    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_UINNEE_000_032", "hash": "0711653648F35A59", "target": "" },
-    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_UINNEE_000_033", "hash": "8B236655981590A7", "target": "" },
-    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_UINNEE_000_034", "hash": "687E3CA3E1EE220D", "target": "" }
+    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_SEQ_00", "hash": "EB36809AE1C1C3CA", "target": "Uin Nee vorrebbe riempire di fiori i sogni dei bambini.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
+    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_TODO_00", "hash": "ADD25C51601BAFD4", "target": "Rintracciare e catturare un bitsy basket nel punto indicato" },
+    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_TODO_01", "hash": "7306058CBC03D1AC", "target": "Consegnare il cestino minuscolo a Uin Nee" },
+    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_UINNEE_000_001", "hash": "6C59F910B96316D3", "target": "Oh, non sono adorabili? Fiori vivaci di ogni colore sbocciano dai rami intrecciati, veri e propri mazzi di fiori rigogliosi che prendono vita! Li hai visti gironzolare qui a Lydha Lran, vero?" },
+    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_UINNEE_000_002", "hash": "71A5ED096C10594D", "target": "<italic(1)>So<italic(0)> che i bambini li adorerebbero quanto me. Se non fosse per un problemino piccolissimo. Vedi, hanno la brutta tendenza a calpestare le creature più piccole, non apposta, ne sono certo, e a schiacciarle sotto i possenti tronchi che formano i loro piedi." },
+    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_UINNEE_000_003", "hash": "A5CC0112F6036432", "target": "Così mi sono messo a pensare! Mi sono detto: basta intessere un incantesimo per rimpicciolirli! E ho fatto proprio così! Purtroppo ha funzionato <italic(1)>tanto<italic(0)> bene che non mi sono neanche accorto che una di quelle creaturine era sgattaiolata via!" },
+    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_UINNEE_000_004", "hash": "C2C295227B089652", "target": "Non potrei proprio <italic(1)>sopportare<italic(0)> di far aspettare ancora i bambini! Rintraccerai la mia piccola creazione e me la riporterai, vero? Vero? E se oppone resistenza, non esitare a darle una botta o due in testa per ricordarle le buone maniere!" },
+    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_UINNEE_000_030", "hash": "8038C8F19868D5EA", "target": "Ma guarda, <if(gnum4,la mia mortale preferita,il mio mortale preferito)>! Sei riuscit<if(gnum4,a,o)> a catturare il mio adorato cestino? Perché, in caso contrario, potrei dover trovare un <italic(1)>nuovo<italic(0)> mortale preferito." },
+    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_UINNEE_000_031", "hash": "D7F8DC7D26023071", "target": "Oh, cielo... guarda tutti quei rami malconci. Sembra che abbia opposto parecchia resistenza. Ma non preoccuparti! Oh, no, per niente! La mia magia lo rimetterà a nuovo in un battito d'ali!" },
+    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_UINNEE_000_032", "hash": "0711653648F35A59", "target": "Pensare che la versione minuscola sia così vivace, mentre i suoi fratelli maggiori sono tanto tranquilli e rilassati. Possibile che le creature più piccole tendano di più a correre e sfrecciare senza scopo né ragione?" },
+    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_UINNEE_000_033", "hash": "8B236655981590A7", "target": "Proprio l'altro giorno l'ho visto cercare di piantarsi addosso un fiore nuovo. Quando il profumo ha attirato un insettino curioso, si è dimenticato completamente del fiore e ha inseguito l'insetto per i campi, dove ha visto <italic(1)>un altro<italic(0)> fiore e... be', sembra che non riesca a concentrarsi su una sola cosa per più di pochi istanti!" },
+    { "gameKey": "quest/036/BanPix102_03690#TEXT_BANPIX102_03690_UINNEE_000_034", "hash": "687E3CA3E1EE220D", "target": "Ma di che cosa stavo parlando? Comunque, non importa. Dovrei davvero mettermi a intessere sogni sul mio piccolo amico fiorito. Mi aiuterai se scappa di nuovo, vero?" }
   ]
 }

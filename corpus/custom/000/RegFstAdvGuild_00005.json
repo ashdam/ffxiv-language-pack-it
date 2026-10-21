@@ -2,15 +2,15 @@
   "conversation": "custom/000/RegFstAdvGuild_00005",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_NAOHGAMDUHLA_000_1", "hash": "1142832E64883077", "target": "" },
-    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_NAOHGAMDUHLA_000_2", "hash": "3778F7D857D62E46", "target": "" },
-    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_NAOHGAMDUHLA_000_3", "hash": "2926B07F53B702A9", "target": "" },
-    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_NAOHGAMDUHLA_000_4", "hash": "A9687BF08A99BBE2", "target": "" },
-    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_NAOHGAMDUHLA_000_5", "hash": "1025B55905249956", "target": "" },
-    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_NAOHGAMDUHLA_000_6", "hash": "860297B4012F605A", "target": "" },
-    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_Q1_000_1", "hash": "B9F24178B696BEC8", "target": "" },
-    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_A1_000_1", "hash": "7EE465B4CD6465DD", "target": "" },
-    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_A1_000_2", "hash": "1DB3F1C324122E5C", "target": "" },
-    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_A1_000_3", "hash": "8885EA2D0B2611D8", "target": "" }
+    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_NAOHGAMDUHLA_000_1", "hash": "1142832E64883077", "target": "Vi do il benvenuto alla Carline Canopy. Se avete bisogno d'aiuto per qualunque cosa, non esitate a chiedere." },
+    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_NAOHGAMDUHLA_000_2", "hash": "3778F7D857D62E46", "target": "Faccio un po' di tutto, a dire il vero, anche se passo gran parte del tempo a servire o ad accogliere i visitatori della Gilda degli Avventurieri." },
+    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_NAOHGAMDUHLA_000_3", "hash": "2926B07F53B702A9", "target": "Sono arrivata alla Carline Canopy dopo la Calamità, senza sapere dove andare. Avevo perso la famiglia, il lavoro e la voglia di andare avanti." },
+    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_NAOHGAMDUHLA_000_4", "hash": "A9687BF08A99BBE2", "target": "A volte il dolore era tanto opprimente che riuscivo a malapena a parlare. Ma mamma Miounne mi ha dato uno scopo e un posto dove guarire, e da allora sono rimasta qui." },
+    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_NAOHGAMDUHLA_000_5", "hash": "1025B55905249956", "target": "Ah, una volta ho posto la stessa domanda a Miounne. Mi ha detto semplicemente che le piaceva quel fiore." },
+    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_NAOHGAMDUHLA_000_6", "hash": "860297B4012F605A", "target": "Ma lo sguardo che aveva mentre lo diceva... Be', suppongo che tutti abbiamo i nostri segreti." },
+    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_Q1_000_1", "hash": "B9F24178B696BEC8", "target": "Che cosa vuoi sapere?" },
+    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_A1_000_1", "hash": "7EE465B4CD6465DD", "target": "Informarsi sul lavoro svolto qui." },
+    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_A1_000_2", "hash": "1DB3F1C324122E5C", "target": "Perché si chiama “Carline Canopy”?" },
+    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_A1_000_3", "hash": "8885EA2D0B2611D8", "target": "Niente." }
   ]
 }

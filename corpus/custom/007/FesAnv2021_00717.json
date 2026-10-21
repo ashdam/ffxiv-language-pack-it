@@ -2,17 +2,17 @@
   "conversation": "custom/007/FesAnv2021_00717",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_000", "hash": "8447265999572D15", "target": "" },
-    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_Q1_000_001", "hash": "F2F980F6C38B1039", "target": "" },
-    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_A1_000_001", "hash": "B387A39C7D09AF5A", "target": "" },
-    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_A1_000_002", "hash": "AE47A7CA264F33DF", "target": "" },
-    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_A1_000_003", "hash": "83CF2C366783D746", "target": "" },
-    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_010", "hash": "6186DA3C33F805E2", "target": "" },
-    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_011", "hash": "A5CE9C0DEE611B85", "target": "" },
-    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_012", "hash": "AA4246CAB84D9D52", "target": "" },
-    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_020", "hash": "50094965A52B237F", "target": "" },
-    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_021", "hash": "C6A2E24A3E3F81A2", "target": "" },
-    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_022", "hash": "9097C9AC36D7A573", "target": "" },
-    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_023", "hash": "F69901A1B140AB64", "target": "" }
+    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_000", "hash": "8447265999572D15", "target": "Guardando al passato, troviamo conforto nel presente e pensiamo a ciò che il futuro può riservarci. È questa la vera essenza della Rinascita! Quest'anno abbiamo preparato uno spettacolare evento di fuochi d'artificio. Di certo incanterà tutti i presenti!" },
+    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_Q1_000_001", "hash": "F2F980F6C38B1039", "target": "Cosa vuoi chiedere?" },
+    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_A1_000_001", "hash": "B387A39C7D09AF5A", "target": "Che cos'è la Rinascita?" },
+    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_A1_000_002", "hash": "AE47A7CA264F33DF", "target": "Che cosa potete dirmi del Nymeia potpourri?" },
+    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_A1_000_003", "hash": "83CF2C366783D746", "target": "Niente." },
+    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_010", "hash": "6186DA3C33F805E2", "target": "La Rinascita è un periodo di raccoglimento che commemora le vite perdute nella grande tragedia della Calamità. Rendiamo omaggio anche agli eroi sconosciuti che rischiarono la vita perché altri potessero conoscere un futuro più luminoso." },
+    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_011", "hash": "A5CE9C0DEE611B85", "target": "Così le strade si adornano di decorazioni sobrie e i cieli notturni si riempiono di vivaci fuochi d'artificio." },
+    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_012", "hash": "AA4246CAB84D9D52", "target": "L'atmosfera solenne e le luci brillanti in cielo possono spingere a riflettere sulla rovina preannunciata da Dalamud. Così si può essere grati per il presente e trovare speranza in un domani più luminoso." },
+    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_020", "hash": "50094965A52B237F", "target": "Anche se il giglio di Nymeia è noto soprattutto come fiore da lasciare sulle tombe dei defunti, tradizionalmente rappresenta una preghiera per un viaggio sicuro." },
+    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_021", "hash": "C6A2E24A3E3F81A2", "target": "Si dice anche che il profumo del giglio abbia un effetto calmante. Speravamo dunque di produrre e distribuire un pot-pourri che racchiudesse il messaggio della Rinascita, mentre il suo dolce profumo leniva i cuori tormentati di chi ha perso qualcuno nella Calamità." },
+    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_022", "hash": "9097C9AC36D7A573", "target": "Ne vorreste un sacchetto? Credo che i nostri venditori abbiano ancora qualche confezione disponibile..." },
+    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_023", "hash": "F69901A1B140AB64", "target": "Ne vorreste un sacchetto? Andate a Ul'dah e cercate uno dei nostri venditori al Ruby Road Exchange. Dovrebbero avere ancora qualche confezione disponibile..." }
   ]
 }

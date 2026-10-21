@@ -2,9 +2,9 @@
   "conversation": "custom/001/FesNyrSeaShogun2014_00147",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/FesNyrSeaShogun2014_00147#TEXT_FESNYRSEASHOGUN2014_00147_REDGENERAL_000_000", "hash": "C9EBB475886520FC", "target": "" },
-    { "gameKey": "custom/001/FesNyrSeaShogun2014_00147#TEXT_FESNYRSEASHOGUN2014_00147_REDGENERAL_000_001", "hash": "CDDF1D10E8884BA6", "target": "" },
-    { "gameKey": "custom/001/FesNyrSeaShogun2014_00147#TEXT_FESNYRSEASHOGUN2014_00147_REDGENERAL_000_010", "hash": "BB73236FABEAF31E", "target": "" },
-    { "gameKey": "custom/001/FesNyrSeaShogun2014_00147#TEXT_FESNYRSEASHOGUN2014_00147_REDGENERAL_000_011", "hash": "2CD1DB7842551825", "target": "" }
+    { "gameKey": "custom/001/FesNyrSeaShogun2014_00147#TEXT_FESNYRSEASHOGUN2014_00147_REDGENERAL_000_000", "hash": "C9EBB475886520FC", "target": "Il Capodanno Celeste è una nuova possibilità, sì? Penso che sia come quel gioco: sasso, seta, artiglio." },
+    { "gameKey": "custom/001/FesNyrSeaShogun2014_00147#TEXT_FESNYRSEASHOGUN2014_00147_REDGENERAL_000_001", "hash": "CDDF1D10E8884BA6", "target": "La mano si alza, la mano fa delle forme, la mano vince, perde o pareggia. A ogni Capodanno Celeste, la mano si alza. La sorte, <if(gnum4,mia signora,mio signore)>, la sorte." },
+    { "gameKey": "custom/001/FesNyrSeaShogun2014_00147#TEXT_FESNYRSEASHOGUN2014_00147_REDGENERAL_000_010", "hash": "BB73236FABEAF31E", "target": "Avete perso il crimson uma kabuto? A volte penso che non siate una persona molto sveglia." },
+    { "gameKey": "custom/001/FesNyrSeaShogun2014_00147#TEXT_FESNYRSEASHOGUN2014_00147_REDGENERAL_000_011", "hash": "2CD1DB7842551825", "target": "<if(gnum4,La mia signora,Il mio signore)> tira su col naso? Penso che averne un altro tra le mani asciugherà quelle lacrime." }
   ]
 }

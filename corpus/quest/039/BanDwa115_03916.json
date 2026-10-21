@@ -2,19 +2,19 @@
   "conversation": "quest/039/BanDwa115_03916",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_SEQ_00", "hash": "9957BFA49BC14EEC", "target": "" },
-    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_TODO_00", "hash": "E033B6C5BBAF6BE2", "target": "" },
-    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_TODO_01", "hash": "DA766CE131F5F242", "target": "" },
-    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_REGITT_000_000", "hash": "0DB9D81E16319CE7", "target": "" },
-    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_REGITT_000_001", "hash": "0A17DD38A2E071B3", "target": "" },
-    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_REGITT_000_002", "hash": "F7C4A42CE1536E39", "target": "" },
-    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_TALLFUATH_000_010", "hash": "8F14087C8E788790", "target": "" },
-    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_TALLFUATH_000_020", "hash": "CD9B06705A1BC0ED", "target": "" },
-    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_TALLFUATH_000_021", "hash": "C02F8E0AE6EC6742", "target": "" },
-    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_TALLFUATH_000_022", "hash": "66476EA006DCF417", "target": "" },
-    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_TALLFUATH_000_023", "hash": "BB25D09F1ED42D11", "target": "" },
-    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_REGITT_000_030", "hash": "6AE04E60C9E1E399", "target": "" },
-    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_REGITT_000_040", "hash": "8DFA613CA1BEEA1F", "target": "" },
-    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_REGITT_000_041", "hash": "5721780A58A54C64", "target": "" }
+    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_SEQ_00", "hash": "9957BFA49BC14EEC", "target": "Regitt guarda cupo in lontananza, forse pensando agli automi dispersi.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
+    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_TODO_00", "hash": "E033B6C5BBAF6BE2", "target": "Cercare gli automi dispersi nel Bosco del Pastore Smarrito" },
+    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_TODO_01", "hash": "DA766CE131F5F242", "target": "Consegnare gli automi dispersi a Regitt" },
+    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_REGITT_000_000", "hash": "0DB9D81E16319CE7", "target": "Uff, dove sono!? Quegli automi dovevano tornare da un pezzo! Li ho mandati tra gli alberi a raccogliere materiali e non si vedono." },
+    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_REGITT_000_001", "hash": "0A17DD38A2E071B3", "target": "Di questo passo non costruiremo mai i carri. Ma se vado a cercarli nel sottobosco, rischio di perdermi come il pastore da cui prende nome il bosco. Dovrei studiare meglio la mappa..." },
+    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_REGITT_000_002", "hash": "F7C4A42CE1536E39", "target": "Comunque! Ora ci sei tu e, immagino, conosci la geografia locale molto meglio. Fammi un favore: riporta quei due sciocchi senza senso dell'orientamento!" },
+    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_TALLFUATH_000_010", "hash": "8F14087C8E788790", "target": "Salve, buona creatura mortale! Cosa ti porta in questo bosco meraviglioso? Se hai affari con me, dovranno aspettare. Ho un impegno precedente e urgente!" },
+    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_TALLFUATH_000_020", "hash": "CD9B06705A1BC0ED", "target": "Spiegati subito, creatura mortale birichina! Perché cerchi di portarmi via questo Fuath meraviglioso e mistico?" },
+    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_TALLFUATH_000_021", "hash": "C02F8E0AE6EC6742", "target": "...Un automa costruito dai nani, dici?" },
+    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_TALLFUATH_000_022", "hash": "66476EA006DCF417", "target": "O crudele realtà! Credevo di aver trovato un nuovo parente fatato, in una pelle di ferro corazzato..." },
+    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_TALLFUATH_000_023", "hash": "BB25D09F1ED42D11", "target": "Tanto tempo sprecato! Ho erbe preziose da raccogliere e pozioni da preparare. Prendi il tuo premio e non seccarmi più!" },
+    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_REGITT_000_030", "hash": "6AE04E60C9E1E399", "target": "Lali-ho! Hai trovato gli automi dispersi, allora?" },
+    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_REGITT_000_040", "hash": "8DFA613CA1BEEA1F", "target": "Ho preso una pila di ricambi per sistemarli. A prima vista non sembrano danneggiati, ma vediamo cos'è andato storto... Uhm?" },
+    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_REGITT_000_041", "hash": "5721780A58A54C64", "target": "Senza combustibile...? Ma ne avevano per ore, dannazione! Qualcosa deve averli inseguiti per fargli bruciare il carbone così in fretta. Ecco perché ci servono quei carri!" }
   ]
 }

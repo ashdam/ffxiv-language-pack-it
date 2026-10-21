@@ -2,15 +2,15 @@
   "conversation": "quest/030/BanAna605_03068",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_SEQ_00", "hash": "94B4350A3B6E57FB", "target": "" },
-    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_TODO_00", "hash": "4088528EC41ED1DB", "target": "" },
-    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_TODO_01", "hash": "2E07358868AC71F5", "target": "" },
-    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_000", "hash": "D56FF28D8E65C7CB", "target": "" },
-    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_001", "hash": "750CE580E8E698B4", "target": "" },
-    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_002", "hash": "7451F8AAEB248178", "target": "" },
-    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_010", "hash": "C044B513001A120F", "target": "" },
-    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_011", "hash": "85862838CB9D9512", "target": "" },
-    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_012", "hash": "5DC6132D404C0501", "target": "" },
-    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_013", "hash": "06E22E5DD74A520C", "target": "" }
+    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_SEQ_00", "hash": "94B4350A3B6E57FB", "target": "Eshana chiede il tuo aiuto per preparare un balsamo per l'infermeria.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
+    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_TODO_00", "hash": "4088528EC41ED1DB", "target": "Procurarsi pezzi di argillite a Mirage Creek" },
+    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_TODO_01", "hash": "2E07358868AC71F5", "target": "Consegnare i pezzi di argillite a Eshana" },
+    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_000", "hash": "D56FF28D8E65C7CB", "target": "Salute, <split(<string(gstr1)>, ,1)>. Nessuna emergenza urgente al momento, ma all'infermeria servirebbe una mano, se volete." },
+    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_001", "hash": "750CE580E8E698B4", "target": "Abbiamo un problema con gli insetti, quelli che mordono e pungono. Le nostre sssentinelle finiscono i turni coperte di pomfi, e non possiamo ignorare gli effetti sul morale." },
+    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_002", "hash": "7451F8AAEB248178", "target": "Nemmeno l'incenso più forte tiene lontani tutti gli insetti, ma l'argillite può essere ridotta in una passsta che allevia il peggiore prurito. Potreste portarmene tre pezzi o giù di lì? Troverete deposssiti di questa roccia nelle acque di Mirage Creek." },
+    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_010", "hash": "C044B513001A120F", "target": "Avete individuato qualche deposssito di argillite?" },
+    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_011", "hash": "85862838CB9D9512", "target": "Sssì, questi andranno benissimo. Una volta applicato, il balsamo allevia l'irritazione quasi subito." },
+    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_012", "hash": "5DC6132D404C0501", "target": "È un nostro rimedio tradizionale, tramandato da generazioni." },
+    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_013", "hash": "06E22E5DD74A520C", "target": "Abbiamo anche un unguento alchemico della vostra gente che cura proprio le punture, ma ne abbiamo poche ssscorte. Preferirei tenerlo per i casi più gravi e usare l'argillite ogni giorno." }
   ]
 }

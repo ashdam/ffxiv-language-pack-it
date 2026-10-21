@@ -2,18 +2,18 @@
   "conversation": "quest/038/BanQiq114_03819",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_SEQ_00", "hash": "A26AC5E6269E6B53", "target": "" },
-    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_TODO_00", "hash": "754940BCB2AAD810", "target": "" },
-    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_TODO_01", "hash": "8494181D717210E2", "target": "" },
-    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_QHOTERLPASOL_000_000", "hash": "40F5F454997E6618", "target": "" },
-    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_QHOTERLPASOL_000_001", "hash": "0A0CA74508A83A55", "target": "" },
-    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_SYSTEM_000_010", "hash": "30FD1149F0C070EF", "target": "" },
-    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_SYSTEM_000_011", "hash": "B681EE24C0EDADF2", "target": "" },
-    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_SYSTEM_000_020", "hash": "AB069D681D7EA2B0", "target": "" },
-    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_QHOTERLPASOL_000_030", "hash": "3ADFB05EC1FDACDE", "target": "" },
-    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_QHOTERLPASOL_000_031", "hash": "1F9FB88FD03967D9", "target": "" },
-    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_QHOTERLPASOL_000_040", "hash": "796E24ADD369099D", "target": "" },
-    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_QHOTERLPASOL_000_041", "hash": "27C44D3AA35BA267", "target": "" },
-    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_SAYTODO_000_000", "hash": "283B7A26FA831E85", "target": "" }
+    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_SEQ_00", "hash": "A26AC5E6269E6B53", "target": "Qhoterl Pasol vorrebbe farti pronunciare la parola del potere.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
+    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_TODO_00", "hash": "754940BCB2AAD810", "target": "Con la modalità di chat impostata su <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, inserire «la-hee» per chiamare il dormant Ronkan doll alle Stelle del Mattino" },
+    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_TODO_01", "hash": "8494181D717210E2", "target": "Fare rapporto a Qhoterl Pasol" },
+    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_QHOTERLPASOL_000_000", "hash": "40F5F454997E6618", "target": "Le Stelle del Mattino sono protette da guardiani di ogni genere costruiti a Ronka, statue animate che tengono lontani gli intrusi." },
+    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_QHOTERLPASOL_000_001", "hash": "0A0CA74508A83A55", "target": "Dato che anche noi cerchiamo di preservarne l'eredità, trovo giusto che ci difendano mentre esploriamo le caverne! Se diceste «la-hee» a una delle bambole dormienti, senz'altro vi ascolterebbe e accorrerebbe in nostro aiuto!" },
+    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_SYSTEM_000_010", "hash": "30FD1149F0C070EF", "target": "La bambola di Ronka riposa in silenzio." },
+    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_SYSTEM_000_011", "hash": "B681EE24C0EDADF2", "target": "Con la modalità di chat impostata su <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, usa la tastiera o la tastiera virtuale per inserire «la-hee» e svegliare la bambola dormiente." },
+    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_SYSTEM_000_020", "hash": "AB069D681D7EA2B0", "target": "La bambola si è svegliata!" },
+    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_QHOTERLPASOL_000_030", "hash": "3ADFB05EC1FDACDE", "target": "È un miracolo! Il guardiano è arrivato! È sceso nelle caverne poco prima del vostro ritorno e senza dubbio sta scacciando qualsiasi minaccia ai nostri lavoratori." },
+    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_QHOTERLPASOL_000_031", "hash": "1F9FB88FD03967D9", "target": "E soprattutto, ora che è sveglio continuerà a pattugliare senza riposo né cibo. Forse potremmo persino farci aiutare negli scavi..." },
+    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_QHOTERLPASOL_000_040", "hash": "796E24ADD369099D", "target": "L'antica parola del potere che avete pronunciato, «la-hee», significa in realtà «svegliati» nella lingua di Ronka, ma veniva usata anche come saluto." },
+    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_QHOTERLPASOL_000_041", "hash": "27C44D3AA35BA267", "target": "Si dice che chi gode del favore degli dèi possa persino udire le voci degli antichi, portate dal vento lungo il cammino nel Greatwood. Forse è accaduto anche a voi?" },
+    { "gameKey": "quest/038/BanQiq114_03819#TEXT_BANQIQ114_03819_SAYTODO_000_000", "hash": "283B7A26FA831E85", "target": "la-hee" }
   ]
 }

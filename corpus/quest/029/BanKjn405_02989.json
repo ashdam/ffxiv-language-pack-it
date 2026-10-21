@@ -2,15 +2,15 @@
   "conversation": "quest/029/BanKjn405_02989",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_SEQ_00", "hash": "E8BD7F97F7142832", "target": "" },
-    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_TODO_00", "hash": "E5356445C3E36F75", "target": "" },
-    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_TODO_01", "hash": "7E15AB9EC3CB95EC", "target": "" },
-    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_ZUKIN_000_000", "hash": "DE8F6D5DF2856C6C", "target": "" },
-    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_ZUKIN_000_001", "hash": "09E55E4106EA2AE8", "target": "" },
-    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_ZUKIN_000_002", "hash": "9F5DC68DE7E60BC9", "target": "" },
-    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_ZUKIN_000_019", "hash": "E357535C5C650701", "target": "" },
-    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_ZUKIN_000_020", "hash": "86A2197780AAF541", "target": "" },
-    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_ZUKIN_000_021", "hash": "305C7B85544256C9", "target": "" },
-    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_ZUKIN_000_022", "hash": "AF163F4B190FFDC1", "target": "" }
+    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_SEQ_00", "hash": "E8BD7F97F7142832", "target": "Gli anala infuriati minacciano la vita dei raccoglitori di molluschi a Hells' Lid.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
+    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_TODO_00", "hash": "E5356445C3E36F75", "target": "Uccidere i kaen anala e il goen anala" },
+    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_TODO_01", "hash": "7E15AB9EC3CB95EC", "target": "Riferire a Zukin" },
+    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_ZUKIN_000_000", "hash": "DE8F6D5DF2856C6C", "target": "Hells' Lid è uno dei posti più inospitali che si possano trovare. Se non fosse così ricco di molluschi, lo eviteremmo del tutto." },
+    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_ZUKIN_000_001", "hash": "09E55E4106EA2AE8", "target": "Quasi tutte le creature di laggiù attaccano solo se ci avviciniamo troppo. Gli anala, invece, fanno di tutto per darci la caccia. La loro ferocia è nota in tutto il Ruby Sea." },
+    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_ZUKIN_000_002", "hash": "9F5DC68DE7E60BC9", "target": "Dobbiamo rivolgerci a te. Avventurati nel loro territorio e abbatti quelli che ti affrontano. Una dimostrazione di forza dovrebbe rispedire gli altri a rintanarsi nelle loro tane." },
+    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_ZUKIN_000_019", "hash": "E357535C5C650701", "target": "Sembri un po' abbrustolit<if(gnum4,a,o)> ai bordi! Gli anala ti hanno dato filo da torcere?" },
+    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_ZUKIN_000_020", "hash": "86A2197780AAF541", "target": "Ottime notizie. Da ciò che racconti, le rive di Hells' Lid sono di nuovo tutte nostre. La zona è sicura per raccogliere molluschi, almeno per ora." },
+    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_ZUKIN_000_021", "hash": "305C7B85544256C9", "target": "Non sono soltanto buoni da mangiare: servono anche a produrre vasi intarsiati di madreperla. I Namazu li pagano volentieri grosse somme, solo per saltarci dentro e restarci per ore." },
+    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_ZUKIN_000_022", "hash": "AF163F4B190FFDC1", "target": "Perché? Forse lo sanno i kami, io no. So però che gli anala non si accontenteranno di restare nelle tane come i Namazu nei loro vasi. Se usciranno di nuovo, potremmo avere bisogno di te." }
   ]
 }

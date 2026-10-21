@@ -2,15 +2,15 @@
   "conversation": "custom/001/RegSeaCampSkullValley_00119",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_AHTMHAS_000_000", "hash": "E5695C00C01B3C99", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_AHTMHAS_000_010", "hash": "F390EBDF11ABA027", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_AHTMHAS_000_011", "hash": "93EC63DCBD821C72", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_AHTMHAS_000_020", "hash": "3DBDFF81988A9B85", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_AHTMHAS_000_021", "hash": "578A5B6D826ED24F", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_AHTMHAS_000_022", "hash": "A9F6F4DF9E572A61", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_Q1_000_000", "hash": "ADC3D869D59F11B0", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_A1_000_001", "hash": "B4E23FEBA3AB8D50", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_A1_000_002", "hash": "7D53106767234B39", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_A1_000_003", "hash": "B685D0ECABB2CF16", "target": "" }
+    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_AHTMHAS_000_000", "hash": "E5695C00C01B3C99", "target": "<if(gnum4,Avventuriera,Avventuriero)>! <if(gnum4,Signora,Signore)>! Come posso esservi utile?" },
+    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_AHTMHAS_000_010", "hash": "F390EBDF11ABA027", "target": "Io, <if(gnum4,signora,signore)>? Sono responsabile della sicurezza di questa base, <if(gnum4,signora,signore)>!" },
+    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_AHTMHAS_000_011", "hash": "93EC63DCBD821C72", "target": "Sono qui da appena un anno, ma intendo difendere la Valle del Teschio a costo della vita, <if(gnum4,signora,signore)>!" },
+    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_AHTMHAS_000_020", "hash": "3DBDFF81988A9B85", "target": "Permettete che vi spieghi, <if(gnum4,signora,signore)>! La Valle del Teschio è un accampamento fondato per proteggerci dalle incursioni dei Sahagin. Anche se i primi scontri con quei dorsosquame erano solo piccole scaramucce, ora cominciano a muoversi contro di noi in numero maggiore." },
+    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_AHTMHAS_000_021", "hash": "578A5B6D826ED24F", "target": "Per questo le strutture sono state ampliate e rafforzate, così da ospitare una presenza più consistente del Maelstrom." },
+    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_AHTMHAS_000_022", "hash": "A9F6F4DF9E572A61", "target": "Sarebbe un onore se ci aiutaste nei numerosi compiti necessari a proteggere la Valle del Teschio, e quindi Limsa Lominsa, dalla minaccia dei Sahagin, <if(gnum4,signora,signore)>!" },
+    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_Q1_000_000", "hash": "ADC3D869D59F11B0", "target": "Cosa vuoi chiedere?" },
+    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_A1_000_001", "hash": "B4E23FEBA3AB8D50", "target": "Di cosa vi occupate qui?" },
+    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_A1_000_002", "hash": "7D53106767234B39", "target": "Che posto è questo?" },
+    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_A1_000_003", "hash": "B685D0ECABB2CF16", "target": "Niente." }
   ]
 }

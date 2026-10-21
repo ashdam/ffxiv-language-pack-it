@@ -2,17 +2,17 @@
   "conversation": "quest/013/BanKob309_01372",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_SEQ_00", "hash": "2FA90A55D10FD963", "target": "" },
-    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_SEQ_01", "hash": "D452EC4249CA744A", "target": "" },
-    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_SEQ_02", "hash": "F54A483ABF8A8150", "target": "" },
-    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_TODO_00", "hash": "EABA361154D52305", "target": "" },
-    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_BOBU_000_000", "hash": "3CB8947F8BB4F3C5", "target": "" },
-    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_BOBU_000_001", "hash": "4CF7179C890C09B0", "target": "" },
-    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_BOBU_000_002", "hash": "72861F1C97279500", "target": "" },
-    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_BOBU_000_003", "hash": "6256DD0F4E98E956", "target": "" },
-    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_BOBU_000_004", "hash": "9867EB33C4AD823B", "target": "" },
-    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_BOBU_000_010", "hash": "2C5333E36B1E9030", "target": "" },
-    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_BOBU_000_011", "hash": "BAF55F1D07FCB317", "target": "" },
-    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_BOBU_000_012", "hash": "6A5D94DD7AAB1CDE", "target": "" }
+    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_SEQ_00", "hash": "2FA90A55D10FD963", "target": "789th Order Dustman Bo Bu cerca di farsi degli amici e influenzare i kobold." },
+    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_SEQ_01", "hash": "D452EC4249CA744A", "target": "Il sempre ambizioso Bo Bu vorrebbe seguire l'esempio di Zo Ga e usare la ricchezza per radunare un esercito di seguaci, ma si trova un po' a corto di denaro. Rimedia infliggendo una sonora lezione a uno dei fedeli tirapiedi del caporione, un feroce sorvegliante del 59º Ordine, e sottraendogli il compenso ricevuto dal padrone." },
+    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_SEQ_02", "hash": "F54A483ABF8A8150", "target": "Consegni il Titan electrumshield a Bo Bu, moltiplicando senza dubbio la sua ricchezza diverse migliaia di volte. Sebbene al giovane spazzino servirà tempo per accumulare la fortuna che desidera, entrambi potete comunque rallegrarvi del fatto che oggi il 789º ha trionfato sul proprio nemico giurato..." },
+    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_TODO_00", "hash": "EABA361154D52305", "target": "Consegnare il Titan electrumshield ottenuto nel FATE «Making the Rounds» a 789th Order Dustman Bo Bu" },
+    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_BOBU_000_000", "hash": "3CB8947F8BB4F3C5", "target": "L'unione fa la forza: la potenza, il potere, la forza. Zo Ga lo sa bene e si circonda di chi obbedisce a ogni suo ordine, di chi ha un corpo forte e una mente debole." },
+    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_BOBU_000_001", "hash": "4CF7179C890C09B0", "target": "Bo Bu ne conosce uno, sì. Uno di loro è un sorvegliante del 59º. Un sorvegliante malvagio. Chiunque pronunci il suo nome si vede strappare la lingua. Ora nessun kobold pronuncia il suo nome, no, nemmeno uno." },
+    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_BOBU_000_002", "hash": "72861F1C97279500", "target": "Ma Zo Ga sa come trattare quel bruto. Sì, sì, come tratta ogni cosa: con le ricchezze, i tesori, il denaro, le ricchezze." },
+    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_BOBU_000_003", "hash": "6256DD0F4E98E956", "target": "Bo Bu osserva, e gli viene un'idea: un'intuizione, un pensiero, un'idea. Tu sconfiggi il sorvegliante e gli prendi i soldi dalla tasca, sì?" },
+    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_BOBU_000_004", "hash": "9867EB33C4AD823B", "target": "Bo Bu prende i soldi e si trova un sorvegliante malvagio e avido tutto suo. I soldi attirano il potere, il potere attira altro potere, e presto Bo Bu sarà in cima alla montagna! Sì, sì, Bo Bu compie il suo destino: la sua sorte, la sua fortuna, il suo destino!" },
+    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_BOBU_000_010", "hash": "2C5333E36B1E9030", "target": "Il sorvegliante non sorveglia più? Porti una moneta come prova del tuo trionfo, sì?" },
+    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_BOBU_000_011", "hash": "BAF55F1D07FCB317", "target": "Il sorvegliante è stato ricacciato nei suoi scavi: battuto, malmenato, ricacciato... e Bo Bu è un kobold ricco? Tutto va bene, tutto va bene sulla montagna." },
+    { "gameKey": "quest/013/BanKob309_01372#TEXT_BANKOB309_01372_BOBU_000_012", "hash": "6A5D94DD7AAB1CDE", "target": "Sì, sì, questa singola moneta segna il primo passo dell'ascesa di Bo Bu al potere. Non preoccuparti, <if(gnum4,avventuriera,avventuriero)>, perché Bo Bu non dimenticherà, no, no, non dimenticherà mai il tuo umile contributo." }
   ]
 }

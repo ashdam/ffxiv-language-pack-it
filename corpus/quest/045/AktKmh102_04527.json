@@ -31,7 +31,7 @@
     { "gameKey": "quest/045/AktKmh102_04527#TEXT_AKTKMH102_04527_MIHLEEL_000_057", "hash": "466E9D97E1553306", "target": "A proposito, tutto ciò che gli offrirete sarà a carico della casa. Se Mehryde scoprisse che ho fatto pagare <if(gnum4,la salvatrice,il salvatore)> di Thavnair, mi farebbe lavare pentole per una settimana." },
     { "gameKey": "quest/045/AktKmh102_04527#TEXT_AKTKMH102_04527_MIHLEEL_000_100", "hash": "00A7DFD1F136EA0A", "target": "Tenete chiuso il borsello, <if(gnum4,amica mia,amico mio)>! Tutto ciò che ordinerete per il professore o per voi sarà a nostre spese." },
     { "gameKey": "quest/045/AktKmh102_04527#TEXT_AKTKMH102_04527_JALHEEN_000_110", "hash": "E962DECABA107090", "target": "Sì...?" },
-    { "gameKey": "quest/045/AktKmh102_04527#TEXT_AKTKMH102_04527_SYSTEM_000_111", "hash": "7FBA48F5C8B6624B", "target": "Il prossimo evento non può essere saltato. È consigliabile annullare eventuali iscrizioni in attesa su Duty Finder." },
+    { "gameKey": "quest/045/AktKmh102_04527#TEXT_AKTKMH102_04527_SYSTEM_000_111", "hash": "7FBA48F5C8B6624B", "target": "L'evento seguente non può essere saltato. Ti consigliamo di annullare eventuali iscrizioni in sospeso nel Duty Finder." },
     { "gameKey": "quest/045/AktKmh102_04527#TEXT_AKTKMH102_04527_Q9_100_111", "hash": "F3510C3F827CBCF8", "target": "Iniziare a parlare con Jalheen?" },
     { "gameKey": "quest/045/AktKmh102_04527#TEXT_AKTKMH102_04527_JALHEEN_000_112", "hash": "84B6E0E08B2F1F3B", "target": "Cosa posso fare per te, <if(gnum4,amica eorzeana,amico eorzeano)>?" },
     { "gameKey": "quest/045/AktKmh102_04527#TEXT_AKTKMH102_04527_Q1_000_000", "hash": "644397C5170AB610", "target": "Che cosa dirai?" },

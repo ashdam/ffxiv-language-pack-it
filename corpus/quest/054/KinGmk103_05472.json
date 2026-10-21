@@ -30,7 +30,7 @@
     { "gameKey": "quest/054/KinGmk103_05472#TEXT_KINGMK103_05472_LOPORRIT05472_000_202", "hash": "CE9AA470F8FA4EB3", "target": "Aveva diversi automi sterminatori al seguito, ma temo che non bastino contro tutte quelle creature del Vuoto. Faresti meglio a sbrigarti!" },
     { "gameKey": "quest/054/KinGmk103_05472#TEXT_KINGMK103_05472_SYSTEM_000_500", "hash": "4F1BCE9B160B2F2B", "target": "Recarsi a Mare Lamentorum?" },
     { "gameKey": "quest/054/KinGmk103_05472#TEXT_KINGMK103_05472_SYSTEM_000_501", "hash": "3A91DA714B90E345", "target": "Recarsi all'Unmaking?" },
-    { "gameKey": "quest/054/KinGmk103_05472#TEXT_KINGMK103_05472_LIVINGWAY_000_505", "hash": "0F0889DA5741229E", "target": "Ma dove diamine eravate <if(gnum4,finita,finito)>!? Se ve lo state chiedendo, Y'shtola e G'raha Tia sono andati ad aiutare gli altri." },
+    { "gameKey": "quest/054/KinGmk103_05472#TEXT_KINGMK103_05472_LIVINGWAY_000_505", "hash": "0F0889DA5741229E", "target": "Ma dove diamine eri <if(gnum4,finita,finito)>!? Se te lo stai chiedendo, Y'shtola e G'raha Tia sono andati ad aiutare gli altri." },
     { "gameKey": "quest/054/KinGmk103_05472#TEXT_KINGMK103_05472_SYSTEM_000_700", "hash": "64568299BDD7AA18", "target": "Sembra il momento giusto per consegnare a Zero il pacco preparato da Jullus." },
     { "gameKey": "quest/054/KinGmk103_05472#TEXT_KINGMK103_05472_BLACKKNIGHT_000_705", "hash": "C5CDC0467BCC929A", "target": "La tua chiave mi incuriosisce. Se il mio vecchio io ne avesse conosciuto l'esistenza, forse avrei cercato un altro modo per raggiungere l'Origine..." },
     { "gameKey": "quest/054/KinGmk103_05472#TEXT_KINGMK103_05472_SYSTEM_000_715", "hash": "7B2C1251B4855A89", "target": "Recarsi sulla luna rossa?" },

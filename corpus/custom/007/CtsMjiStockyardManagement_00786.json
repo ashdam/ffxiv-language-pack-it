@@ -2,14 +2,14 @@
   "conversation": "custom/007/CtsMjiStockyardManagement_00786",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/007/CtsMjiStockyardManagement_00786#TEXT_CTSMJISTOCKYARDMANAGEMENT_00786_SYSTEM_000_000", "hash": "C2F209CAE8F75A70", "target": "" },
-    { "gameKey": "custom/007/CtsMjiStockyardManagement_00786#TEXT_CTSMJISTOCKYARDMANAGEMENT_00786_Q1_000_000", "hash": "0BD236F362579F9F", "target": "" },
-    { "gameKey": "custom/007/CtsMjiStockyardManagement_00786#TEXT_CTSMJISTOCKYARDMANAGEMENT_00786_Q1_000_005", "hash": "37F2F8645D924DD4", "target": "" },
-    { "gameKey": "custom/007/CtsMjiStockyardManagement_00786#TEXT_CTSMJISTOCKYARDMANAGEMENT_00786_Q1_000_010", "hash": "0C9B656E09023D95", "target": "" },
-    { "gameKey": "custom/007/CtsMjiStockyardManagement_00786#TEXT_CTSMJISTOCKYARDMANAGEMENT_00786_OFFICER_000_000", "hash": "2ED22FEEB348906A", "target": "" },
-    { "gameKey": "custom/007/CtsMjiStockyardManagement_00786#TEXT_CTSMJISTOCKYARDMANAGEMENT_00786_OFFICER_000_005", "hash": "FD48295513DFABB0", "target": "" },
-    { "gameKey": "custom/007/CtsMjiStockyardManagement_00786#TEXT_CTSMJISTOCKYARDMANAGEMENT_00786_OFFICER_100_000", "hash": "9A1868B4498007C2", "target": "" },
-    { "gameKey": "custom/007/CtsMjiStockyardManagement_00786#TEXT_CTSMJISTOCKYARDMANAGEMENT_00786_OFFICER_200_000", "hash": "9C377C8E4E1C7FEB", "target": "" },
-    { "gameKey": "custom/007/CtsMjiStockyardManagement_00786#TEXT_CTSMJISTOCKYARDMANAGEMENT_00786_OFFICER_300_000", "hash": "A84BC8BFA39DBB1A", "target": "" }
+    { "gameKey": "custom/007/CtsMjiStockyardManagement_00786#TEXT_CTSMJISTOCKYARDMANAGEMENT_00786_SYSTEM_000_000", "hash": "C2F209CAE8F75A70", "target": "Cosa vuoi fare?" },
+    { "gameKey": "custom/007/CtsMjiStockyardManagement_00786#TEXT_CTSMJISTOCKYARDMANAGEMENT_00786_Q1_000_000", "hash": "0BD236F362579F9F", "target": "Controllare lo stato delle spedizioni di raccolta." },
+    { "gameKey": "custom/007/CtsMjiStockyardManagement_00786#TEXT_CTSMJISTOCKYARDMANAGEMENT_00786_Q1_000_005", "hash": "37F2F8645D924DD4", "target": "Informarsi sul granaio." },
+    { "gameKey": "custom/007/CtsMjiStockyardManagement_00786#TEXT_CTSMJISTOCKYARDMANAGEMENT_00786_Q1_000_010", "hash": "0C9B656E09023D95", "target": "Niente." },
+    { "gameKey": "custom/007/CtsMjiStockyardManagement_00786#TEXT_CTSMJISTOCKYARDMANAGEMENT_00786_OFFICER_000_000", "hash": "2ED22FEEB348906A", "target": "Dove volete che mandi la prossima spedizione?" },
+    { "gameKey": "custom/007/CtsMjiStockyardManagement_00786#TEXT_CTSMJISTOCKYARDMANAGEMENT_00786_OFFICER_000_005", "hash": "FD48295513DFABB0", "target": "Una delle nostre squadre è appena tornata da una spedizione! Ho qui tutto ciò che ha raccolto, quindi ricordatevi di ritirare i materiali quando avete un momento." },
+    { "gameKey": "custom/007/CtsMjiStockyardManagement_00786#TEXT_CTSMJISTOCKYARDMANAGEMENT_00786_OFFICER_100_000", "hash": "9A1868B4498007C2", "target": "Al granaio potete inviare una squadra dei migliori mammet esploratori a raccogliere vari materiali in una zona a vostra scelta. Ditemi soltanto dove volete mandarli e saranno là in un batter d'occhio." },
+    { "gameKey": "custom/007/CtsMjiStockyardManagement_00786#TEXT_CTSMJISTOCKYARDMANAGEMENT_00786_OFFICER_200_000", "hash": "9C377C8E4E1C7FEB", "target": "Vedo un'altra persona che ama esplorare. Potete visitare l'isola, ehm, ammesso che abbiate il permesso di chi la possiede, ma temo che le attività di questa struttura siano strettamente riservate." },
+    { "gameKey": "custom/007/CtsMjiStockyardManagement_00786#TEXT_CTSMJISTOCKYARDMANAGEMENT_00786_OFFICER_300_000", "hash": "A84BC8BFA39DBB1A", "target": "Sull'isola non si parla che della nuova caverna! Se volete, posso mandarci una squadra a vedere quali materiali preziosi riusciamo a trovare." }
   ]
 }

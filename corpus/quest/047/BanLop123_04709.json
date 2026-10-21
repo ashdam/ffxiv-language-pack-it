@@ -2,16 +2,16 @@
   "conversation": "quest/047/BanLop123_04709",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_SEQ_00", "hash": "C28E117CCF8B1987", "target": "" },
-    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_TODO_00", "hash": "36ECD30BD0563CB5", "target": "" },
-    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_TODO_01", "hash": "B28F35E0F47E5AFE", "target": "" },
-    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_MANAGINGWAY_000_000", "hash": "DAFBEDF469165741", "target": "" },
-    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_MANAGINGWAY_000_001", "hash": "E96EB63227503EFB", "target": "" },
-    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_MANAGINGWAY_000_002", "hash": "FD6B91AAF139F87A", "target": "" },
-    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_MANAGINGWAY_000_003", "hash": "C8E3431FF515F190", "target": "" },
-    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_SYSTEM_000_010", "hash": "BB30890F40A07882", "target": "" },
-    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_MANAGINGWAY_000_020", "hash": "4BDCA950D540AF76", "target": "" },
-    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_MANAGINGWAY_000_021", "hash": "E99676E64AFDD1DC", "target": "" },
-    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_MANAGINGWAY_000_022", "hash": "84EC45E8634027ED", "target": "" }
+    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_SEQ_00", "hash": "C28E117CCF8B1987", "target": "Managingway vuole che i Way smettano di dipingere la città di rosso... e di blu e giallo e di tutti gli altri colori.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
+    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_TODO_00", "hash": "36ECD30BD0563CB5", "target": "Rimuovere le opere d'arte non autorizzate a Bestways Burrow" },
+    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_TODO_01", "hash": "B28F35E0F47E5AFE", "target": "Fare rapporto a Managingway" },
+    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_MANAGINGWAY_000_000", "hash": "DAFBEDF469165741", "target": "<split(<string(gstr1)>, ,1)>, potrei disturbarvi un momento?" },
+    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_MANAGINGWAY_000_001", "hash": "E96EB63227503EFB", "target": "Vedere tanti Way entusiasti della pittura scalda il cuore, ma abbiamo notato che alcuni artisti lasciano traboccare la propria creatività oltre i confini della postazione per le immagini." },
+    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_MANAGINGWAY_000_002", "hash": "FD6B91AAF139F87A", "target": "Sembra che un artista entusiasta sia uscito di nuovo dai margini." },
+    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_MANAGINGWAY_000_003", "hash": "C8E3431FF515F190", "target": "Non approvo la distruzione delle opere creative, ma non posso nemmeno perdonare una violazione delle regole. Sareste così gentile da strofinare via le opere non autorizzate?" },
+    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_SYSTEM_000_010", "hash": "BB30890F40A07882", "target": "La pittura si dissolve con effimera bellezza. Anche pulire può essere creativo!" },
+    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_MANAGINGWAY_000_020", "hash": "4BDCA950D540AF76", "target": "Grazie per aver ripulito. Un altro momento e avremmo subito tutti l'ira di Livingway..." },
+    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_MANAGINGWAY_000_021", "hash": "E99676E64AFDD1DC", "target": "Vi farà piacere sapere che l'autore dei nostri guai creativi è stato fermato e severamente redarguito." },
+    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_MANAGINGWAY_000_022", "hash": "84EC45E8634027ED", "target": "A quanto pare, infrangere deliberatamente le regole è parte integrante del suo processo artistico, ma un motivo del genere non dovrebbe far dimenticare le buone maniere. Devo riflettere su come gestire un tale desiderio creativo..." }
   ]
 }

@@ -2,14 +2,14 @@
   "conversation": "custom/009/RegFim7v6e2Estinien_00989",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/009/RegFim7v6e2Estinien_00989#TEXT_REGFIM7V6E2ESTINIEN_00989_ESTINIEN_000_000", "hash": "B3A708E0E07B0ACB", "target": "" },
-    { "gameKey": "custom/009/RegFim7v6e2Estinien_00989#TEXT_REGFIM7V6E2ESTINIEN_00989_ESTINIEN_000_001", "hash": "EEED74BA6209C83C", "target": "" },
-    { "gameKey": "custom/009/RegFim7v6e2Estinien_00989#TEXT_REGFIM7V6E2ESTINIEN_00989_ESTINIEN_000_002", "hash": "2221BEF1E8F27C7B", "target": "" },
-    { "gameKey": "custom/009/RegFim7v6e2Estinien_00989#TEXT_REGFIM7V6E2ESTINIEN_00989_ESTINIEN_000_100", "hash": "D7CA9B9E8964FF17", "target": "" },
-    { "gameKey": "custom/009/RegFim7v6e2Estinien_00989#TEXT_REGFIM7V6E2ESTINIEN_00989_ESTINIEN_000_101", "hash": "92FC31F96F68CFED", "target": "" },
-    { "gameKey": "custom/009/RegFim7v6e2Estinien_00989#TEXT_REGFIM7V6E2ESTINIEN_00989_ESTINIEN_000_102", "hash": "FB682AC4F365789D", "target": "" },
-    { "gameKey": "custom/009/RegFim7v6e2Estinien_00989#TEXT_REGFIM7V6E2ESTINIEN_00989_ESTINIEN_000_103", "hash": "220169619D781376", "target": "" },
-    { "gameKey": "custom/009/RegFim7v6e2Estinien_00989#TEXT_REGFIM7V6E2ESTINIEN_00989_ESTINIEN_000_200", "hash": "8160F12F301B60BE", "target": "" },
-    { "gameKey": "custom/009/RegFim7v6e2Estinien_00989#TEXT_REGFIM7V6E2ESTINIEN_00989_ESTINIEN_000_201", "hash": "B0CA2718E511F11A", "target": "" }
+    { "gameKey": "custom/009/RegFim7v6e2Estinien_00989#TEXT_REGFIM7V6E2ESTINIEN_00989_ESTINIEN_000_000", "hash": "B3A708E0E07B0ACB", "target": "Quindi puoi andare e venire come ti pare anche mentre l’isola si sposta? Non so come funzioni quel tuo sentiero dorato, ma è senz’altro comodo." },
+    { "gameKey": "custom/009/RegFim7v6e2Estinien_00989#TEXT_REGFIM7V6E2ESTINIEN_00989_ESTINIEN_000_001", "hash": "EEED74BA6209C83C", "target": "Non avendo molto da fare, ogni tanto monto la guardia, come ora..." },
+    { "gameKey": "custom/009/RegFim7v6e2Estinien_00989#TEXT_REGFIM7V6E2ESTINIEN_00989_ESTINIEN_000_002", "hash": "2221BEF1E8F27C7B", "target": "Ma non ci sono che nuvole, fitte e interminabili. Non ho intravisto neanche un lembo della superficie." },
+    { "gameKey": "custom/009/RegFim7v6e2Estinien_00989#TEXT_REGFIM7V6E2ESTINIEN_00989_ESTINIEN_000_100", "hash": "D7CA9B9E8964FF17", "target": "<split(<string(gstr1)>, ,1)>... \\<pant> Che notizie ci sono là fuori?" },
+    { "gameKey": "custom/009/RegFim7v6e2Estinien_00989#TEXT_REGFIM7V6E2ESTINIEN_00989_ESTINIEN_000_101", "hash": "92FC31F96F68CFED", "target": "Qui non c’è molto...\\<pant>...da riferire..." },
+    { "gameKey": "custom/009/RegFim7v6e2Estinien_00989#TEXT_REGFIM7V6E2ESTINIEN_00989_ESTINIEN_000_102", "hash": "FB682AC4F365789D", "target": "Non mi dispiacerebbe...\\<pant>...un po’ di allenamento..." },
+    { "gameKey": "custom/009/RegFim7v6e2Estinien_00989#TEXT_REGFIM7V6E2ESTINIEN_00989_ESTINIEN_000_103", "hash": "220169619D781376", "target": "Forse Visna può costruire...\\<pant>...un manichino da allenamento..." },
+    { "gameKey": "custom/009/RegFim7v6e2Estinien_00989#TEXT_REGFIM7V6E2ESTINIEN_00989_ESTINIEN_000_200", "hash": "8160F12F301B60BE", "target": "Quella dunque è una nave-regno. Non somiglia ad Azys Lla come immaginavo, ma le dimensioni sono impressionanti." },
+    { "gameKey": "custom/009/RegFim7v6e2Estinien_00989#TEXT_REGFIM7V6E2ESTINIEN_00989_ESTINIEN_000_201", "hash": "B0CA2718E511F11A", "target": "Nel bene e nel male, il viaggio è stato tranquillo, ma ho continuato ad affinare le mie capacità. Sono pronto a qualunque cosa ci attenda." }
   ]
 }

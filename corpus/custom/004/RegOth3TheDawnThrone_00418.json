@@ -2,16 +2,16 @@
   "conversation": "custom/004/RegOth3TheDawnThrone_00418",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_000", "hash": "0C123A03752A1C7C", "target": "" },
-    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_Q1_000_000", "hash": "5DD77BF05427BBBD", "target": "" },
-    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_A1_000_001", "hash": "A7973FC623E63A58", "target": "" },
-    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_A1_000_002", "hash": "0A8C285CD3A75E28", "target": "" },
-    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_A1_000_003", "hash": "050BAEE8C4243F37", "target": "" },
-    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_010", "hash": "5060BE1032EE984B", "target": "" },
-    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_011", "hash": "9510EB73E3CB950B", "target": "" },
-    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_012", "hash": "8426B5D622964368", "target": "" },
-    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_020", "hash": "B6BB1D636F39E5D1", "target": "" },
-    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_021", "hash": "F2C8ED9938934B9C", "target": "" },
-    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_022", "hash": "FA0AF49A4832FBB7", "target": "" }
+    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_000", "hash": "0C123A03752A1C7C", "target": "<if(gnum4,Una visitatrice,Un visitatore)>? Non ne vediamo molti da queste parti. Se c'è qualcosa che vuoi sapere, chiedi pure." },
+    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_Q1_000_000", "hash": "5DD77BF05427BBBD", "target": "Cosa vuoi chiedere?" },
+    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_A1_000_001", "hash": "A7973FC623E63A58", "target": "Parlatemi di voi." },
+    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_A1_000_002", "hash": "0A8C285CD3A75E28", "target": "Che posto è questo?" },
+    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_A1_000_003", "hash": "050BAEE8C4243F37", "target": "Niente." },
+    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_010", "hash": "5060BE1032EE984B", "target": "Vuoi sapere di <italic(1)>me<italic(0)>? Mi occupo dell'addestramento dei nostri lottatori di Azim Bökh. È uno stile di lotta tradizionale della Steppa, tramandato di generazione in generazione." },
+    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_011", "hash": "9510EB73E3CB950B", "target": "Non sembrerò molto minacciosa, ma non lasciarti ingannare. Ho ottenuto il rango di «Gigante», un titolo assegnato soltanto a chi vince la nostra grande competizione." },
+    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_012", "hash": "8426B5D622964368", "target": "Eh eh eh! Una mossa sbagliata contro di me e ti ritroverai <if(gnum4,schienata,schienato)>! Chiedilo a chiunque qui. Potranno confermartelo." },
+    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_020", "hash": "B6BB1D636F39E5D1", "target": "Il Dawn Throne è una terra sacra, scolpita dalle mani del grande Azim in persona. È anche il luogo di nascita di suo figlio, il primo della nostra stirpe." },
+    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_021", "hash": "F2C8ED9938934B9C", "target": "Il volto del Padre dell'Alba è inciso alla base della regione sacra, che noi, suoi figli, abbiamo il compito di proteggere." },
+    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_022", "hash": "FA0AF49A4832FBB7", "target": "Da qui si vede quanto sia vasta la Steppa, con praterie che si estendono fino all'orizzonte lontano. È un panorama mozzafiato, che ha anche il vantaggio di permetterci di avvistare bestie o forze nemiche in avvicinamento." }
   ]
 }

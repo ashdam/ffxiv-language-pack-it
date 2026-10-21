@@ -2,12 +2,12 @@
   "conversation": "custom/009/CtsMkdWepTrade3_00967",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/009/CtsMkdWepTrade3_00967#TEXT_CTSMKDWEPTRADE3_00967_GEROLT_000_000", "hash": "C0F0BFACF5421133", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade3_00967#TEXT_CTSMKDWEPTRADE3_00967_GEROLT_000_001", "hash": "63ABAA4D783CF17B", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade3_00967#TEXT_CTSMKDWEPTRADE3_00967_GEROLT_000_002", "hash": "66052273CFFEBC31", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade3_00967#TEXT_CTSMKDWEPTRADE3_00967_GEROLT_000_003", "hash": "03F60A0C204DA7B7", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade3_00967#TEXT_CTSMKDWEPTRADE3_00967_GEROLT_000_004", "hash": "79F86E9140C8C715", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade3_00967#TEXT_CTSMKDWEPTRADE3_00967_GEROLT_000_005", "hash": "6B1D719838BD972A", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade3_00967#TEXT_CTSMKDWEPTRADE3_00967_GEROLT_000_006", "hash": "01BE984BC3B94CE5", "target": "" }
+    { "gameKey": "custom/009/CtsMkdWepTrade3_00967#TEXT_CTSMKDWEPTRADE3_00967_GEROLT_000_000", "hash": "C0F0BFACF5421133", "target": "È ora di vedere cosa ha fatto la conversione eterea al mio martello, e cosa farà lui alla tua arma fantasma!" },
+    { "gameKey": "custom/009/CtsMkdWepTrade3_00967#TEXT_CTSMKDWEPTRADE3_00967_GEROLT_000_001", "hash": "63ABAA4D783CF17B", "target": "MUAHAHAHAHAHA!" },
+    { "gameKey": "custom/009/CtsMkdWepTrade3_00967#TEXT_CTSMKDWEPTRADE3_00967_GEROLT_000_002", "hash": "66052273CFFEBC31", "target": "Successo! Se me l'avessi chiesto fino a un attimo fa, avrei giurato che fosse impossibile ottenere un'armonia eterea tanto perfetta..." },
+    { "gameKey": "custom/009/CtsMkdWepTrade3_00967#TEXT_CTSMKDWEPTRADE3_00967_GEROLT_000_003", "hash": "03F60A0C204DA7B7", "target": "Contempla lo spaventoso potere del Vuoto reso manifesto: <ennoun(Item,3,lnum1,1,1)>!" },
+    { "gameKey": "custom/009/CtsMkdWepTrade3_00967#TEXT_CTSMKDWEPTRADE3_00967_GEROLT_000_004", "hash": "79F86E9140C8C715", "target": "Contempla lo spaventoso potere del Vuoto reso manifesto: <ennoun(Item,3,lnum1,1,1)> e <ennoun(Item,3,lnum2,1,1)>!" },
+    { "gameKey": "custom/009/CtsMkdWepTrade3_00967#TEXT_CTSMKDWEPTRADE3_00967_GEROLT_000_005", "hash": "6B1D719838BD972A", "target": "Vedi come ti ci trovi. Certo, senza allenamento, persino l'arma migliore sembrerà un pezzo di ferraglia tra le tue mani." },
+    { "gameKey": "custom/009/CtsMkdWepTrade3_00967#TEXT_CTSMKDWEPTRADE3_00967_GEROLT_000_006", "hash": "01BE984BC3B94CE5", "target": "In altre parole, devi usare quella dannata cosa. Agitala, abbatti qualche mostro: fa' ciò che sai fare meglio, <if(gnum4,ragazza,ragazzo)>!" }
   ]
 }

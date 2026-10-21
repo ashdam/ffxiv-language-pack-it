@@ -2,17 +2,17 @@
   "conversation": "custom/008/FesXms2023Guide_00833",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/FesXms2023Guide_00833#TEXT_FESXMS2023GUIDE_00833_GUIDEXMS2023_000_000", "hash": "2D0FB61853DABA20", "target": "" },
-    { "gameKey": "custom/008/FesXms2023Guide_00833#TEXT_FESXMS2023GUIDE_00833_Q1_000_001", "hash": "E428BC943C6D9BFE", "target": "" },
-    { "gameKey": "custom/008/FesXms2023Guide_00833#TEXT_FESXMS2023GUIDE_00833_A1_000_001", "hash": "C879BA4E79B74D5F", "target": "" },
-    { "gameKey": "custom/008/FesXms2023Guide_00833#TEXT_FESXMS2023GUIDE_00833_A1_000_002", "hash": "AAEE48B471FBDD80", "target": "" },
-    { "gameKey": "custom/008/FesXms2023Guide_00833#TEXT_FESXMS2023GUIDE_00833_A1_000_003", "hash": "A67CBFE2F88E65EE", "target": "" },
-    { "gameKey": "custom/008/FesXms2023Guide_00833#TEXT_FESXMS2023GUIDE_00833_GUIDEXMS2023_000_010", "hash": "4FB1CB77F674B137", "target": "" },
-    { "gameKey": "custom/008/FesXms2023Guide_00833#TEXT_FESXMS2023GUIDE_00833_GUIDEXMS2023_000_011", "hash": "4BD279E6DF0B48A3", "target": "" },
-    { "gameKey": "custom/008/FesXms2023Guide_00833#TEXT_FESXMS2023GUIDE_00833_GUIDEXMS2023_000_012", "hash": "B08AD2F87B69E6F2", "target": "" },
-    { "gameKey": "custom/008/FesXms2023Guide_00833#TEXT_FESXMS2023GUIDE_00833_GUIDEXMS2023_000_013", "hash": "88B5F1E28BEE27F1", "target": "" },
-    { "gameKey": "custom/008/FesXms2023Guide_00833#TEXT_FESXMS2023GUIDE_00833_GUIDEXMS2023_000_014", "hash": "F1EA91084ECD1B6C", "target": "" },
-    { "gameKey": "custom/008/FesXms2023Guide_00833#TEXT_FESXMS2023GUIDE_00833_GUIDEXMS2023_000_020", "hash": "426D555A07242F94", "target": "" },
-    { "gameKey": "custom/008/FesXms2023Guide_00833#TEXT_FESXMS2023GUIDE_00833_GUIDEXMS2023_000_021", "hash": "1DDC11B452C78B71", "target": "" }
+    { "gameKey": "custom/008/FesXms2023Guide_00833#TEXT_FESXMS2023GUIDE_00833_GUIDEXMS2023_000_000", "hash": "2D0FB61853DABA20", "target": "Buona Festa delle Stelle, <if(gnum4,brava avventuriera,bravo avventuriero)>! Vi state godendo i festeggiamenti, spero? Se avete domande, non esitate a chiedere." },
+    { "gameKey": "custom/008/FesXms2023Guide_00833#TEXT_FESXMS2023GUIDE_00833_Q1_000_001", "hash": "E428BC943C6D9BFE", "target": "Cosa vuoi chiedere?" },
+    { "gameKey": "custom/008/FesXms2023Guide_00833#TEXT_FESXMS2023GUIDE_00833_A1_000_001", "hash": "C879BA4E79B74D5F", "target": "Che cos'è la Festa delle Stelle?" },
+    { "gameKey": "custom/008/FesXms2023Guide_00833#TEXT_FESXMS2023GUIDE_00833_A1_000_002", "hash": "AAEE48B471FBDD80", "target": "Qual è il vostro compito?" },
+    { "gameKey": "custom/008/FesXms2023Guide_00833#TEXT_FESXMS2023GUIDE_00833_A1_000_003", "hash": "A67CBFE2F88E65EE", "target": "Niente." },
+    { "gameKey": "custom/008/FesXms2023Guide_00833#TEXT_FESXMS2023GUIDE_00833_GUIDEXMS2023_000_010", "hash": "4FB1CB77F674B137", "target": "La Festa delle Stelle risale all'antica Ishgard. Tanto tempo fa, una terribile battaglia mieté innumerevoli vite, lasciando migliaia di bambini orfani nel freddo pungente di Coerthas." },
+    { "gameKey": "custom/008/FesXms2023Guide_00833#TEXT_FESXMS2023GUIDE_00833_GUIDEXMS2023_000_011", "hash": "4BD279E6DF0B48A3", "target": "Non sopportando la loro sofferenza, i cavalieri di Ishgard offrivano ai bambini vitto e alloggio nelle proprie caserme. Naturalmente era espressamente vietato, ma i cavalieri escogitarono un piano per farli entrare di nascosto: li travestivano con le giubbe delle proprie uniformi scarlatte." },
+    { "gameKey": "custom/008/FesXms2023Guide_00833#TEXT_FESXMS2023GUIDE_00833_GUIDEXMS2023_000_012", "hash": "B08AD2F87B69E6F2", "target": "Grazie alla loro generosità, i bambini sopravvissero all'inverno e poterono ricambiare la bontà ricevuta. Una volta cresciuti, quegli orfani indossavano uniformi scarlatte e consegnavano doni ai bambini nella settimana più fredda dell'anno. Così nacque la Festa delle Stelle." },
+    { "gameKey": "custom/008/FesXms2023Guide_00833#TEXT_FESXMS2023GUIDE_00833_GUIDEXMS2023_000_013", "hash": "88B5F1E28BEE27F1", "target": "Nel corso degli anni, la festa ha subito graduali cambiamenti. Il capitano dalla barba candida di quei cavalieri di buon cuore è diventato noto come il «Santo di Nymeia», e i bambini credono che porti le loro speranze e preghiere direttamente alla dea." },
+    { "gameKey": "custom/008/FesXms2023Guide_00833#TEXT_FESXMS2023GUIDE_00833_GUIDEXMS2023_000_014", "hash": "F1EA91084ECD1B6C", "target": "Allo stesso modo, i suoi cavalieri dalla giubba rossa sono diventati i «piccoli aiutanti del Santo». I bambini li adorano particolarmente, perché hanno il compito di portare doni a ogni piccolo che rivolge una preghiera alla Filatrice." },
+    { "gameKey": "custom/008/FesXms2023Guide_00833#TEXT_FESXMS2023GUIDE_00833_GUIDEXMS2023_000_020", "hash": "426D555A07242F94", "target": "La Gilda degli Avventurieri ha incaricato me e i miei colleghi vestiti di scarlatto di organizzare la Festa delle Stelle. La festa si estende a tutta Eorzea, e abbiamo piccoli aiutanti nelle città di Gridania, Limsa Lominsa e Ul'dah." },
+    { "gameKey": "custom/008/FesXms2023Guide_00833#TEXT_FESXMS2023GUIDE_00833_GUIDEXMS2023_000_021", "hash": "1DDC11B452C78B71", "target": "Quest'anno onoriamo il Santo di Nymeia indossando fedeli riproduzioni dei suoi abiti mentre distribuiamo doni. Speriamo che chiunque partecipi ricordi le radici più generose della nostra festa." }
   ]
 }

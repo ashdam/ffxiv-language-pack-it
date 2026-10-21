@@ -2,18 +2,18 @@
   "conversation": "quest/046/BanLop111_04697",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_SEQ_00", "hash": "FBF51AB62A62827A", "target": "" },
-    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_TODO_00", "hash": "137F2A6C2632AD16", "target": "" },
-    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_TODO_01", "hash": "1B5B73E2D3E46236", "target": "" },
-    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_MANAGINGWAY_000_000", "hash": "D1805DE5DDFFFB46", "target": "" },
-    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_MANAGINGWAY_000_001", "hash": "031CC6E355FB2C77", "target": "" },
-    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_MANAGINGWAY_000_002", "hash": "975AEE5C233644B4", "target": "" },
-    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_MANAGINGWAY_000_003", "hash": "654727F28739B4C5", "target": "" },
-    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_SYSTEM_000_010", "hash": "63761D26DE3C6128", "target": "" },
-    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_MANAGINGWAY_000_020", "hash": "420B1AAD14A207B4", "target": "" },
-    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_MANAGINGWAY_000_021", "hash": "563F4EF94A166E78", "target": "" },
-    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_MANAGINGWAY_000_022", "hash": "EA61400B713361DD", "target": "" },
-    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_MANAGINGWAY_100_022", "hash": "F405210FDD51C167", "target": "" },
-    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_MANAGINGWAY_000_023", "hash": "9AD4D2555036DBA6", "target": "" }
+    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_SEQ_00", "hash": "FBF51AB62A62827A", "target": "Managingway cerca qualcuno che recuperi una macchina in fuga.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
+    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_TODO_00", "hash": "137F2A6C2632AD16", "target": "Cercare l'unità di supporto prototipo vicino a Ultimo Sguardo di Heimdall" },
+    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_TODO_01", "hash": "1B5B73E2D3E46236", "target": "Consegnare l'unità di supporto prototipo a Managingway" },
+    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_MANAGINGWAY_000_000", "hash": "D1805DE5DDFFFB46", "target": "È arrivata una chiamata d'emergenza da Inventingway! Una delle sue unità di supporto in fase di sviluppo è partita senza preavviso." },
+    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_MANAGINGWAY_000_001", "hash": "031CC6E355FB2C77", "target": "È arrivata una chiamata d'emergenza da Inventingway! Un'altra delle sue unità di supporto è partita senza preavviso." },
+    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_MANAGINGWAY_000_002", "hash": "975AEE5C233644B4", "target": "Abbiamo seguito la macchina fino a Ultimo Sguardo di Heimdall, dove si aggirano letali armi allagane." },
+    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_MANAGINGWAY_000_003", "hash": "654727F28739B4C5", "target": "Per quanto detesti delegare compiti pericolosi, ci serve che troviate e recuperiate l'unità di supporto. Fate presto... e attenzione!" },
+    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_SYSTEM_000_010", "hash": "63761D26DE3C6128", "target": "L'unità di supporto ha smesso di funzionare. Managingway sarà impaziente di riaverla." },
+    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_MANAGINGWAY_000_020", "hash": "420B1AAD14A207B4", "target": "Ah, eccovi di ritorno, e senza un graffio, meno male. Spero siate <if(gnum4,riuscita,riuscito)> a recuperare la nostra unità di supporto in fuga?" },
+    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_MANAGINGWAY_000_021", "hash": "563F4EF94A166E78", "target": "Siamo in debito con voi! Se ve lo chiedete, questa macchina è stata progettata per farci da compagna di giochi." },
+    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_MANAGINGWAY_000_022", "hash": "EA61400B713361DD", "target": "Sembra sia partita così perché ha scambiato le armi allagane per amiche." },
+    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_MANAGINGWAY_100_022", "hash": "F405210FDD51C167", "target": "Siamo di nuovo in debito con voi. Sembra che la macchina scambi ancora le armi allagane per amiche..." },
+    { "gameKey": "quest/046/BanLop111_04697#TEXT_BANLOP111_04697_MANAGINGWAY_000_023", "hash": "9AD4D2555036DBA6", "target": "Tutti abbiamo bisogno di sogni, ed è bello che Inventingway si dedichi a realizzare i propri. Vorrei soltanto che, nel farlo, non creasse lavoro agli altri. Va contro lo scopo stesso di inventare cose che ci semplifichino la vita." }
   ]
 }

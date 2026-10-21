@@ -2,16 +2,16 @@
   "conversation": "quest/012/BanSyl308_01284",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/012/BanSyl308_01284#TEXT_BANSYL308_01284_SEQ_00", "hash": "E751FF1C9FAD765F", "target": "" },
-    { "gameKey": "quest/012/BanSyl308_01284#TEXT_BANSYL308_01284_SEQ_01", "hash": "7644E67AEC875EBA", "target": "" },
-    { "gameKey": "quest/012/BanSyl308_01284#TEXT_BANSYL308_01284_SEQ_02", "hash": "AC4C17B3D261FE09", "target": "" },
-    { "gameKey": "quest/012/BanSyl308_01284#TEXT_BANSYL308_01284_TODO_00", "hash": "B4191E82EBD020ED", "target": "" },
-    { "gameKey": "quest/012/BanSyl308_01284#TEXT_BANSYL308_01284_MOXIA_000_000", "hash": "53CBD3586922A014", "target": "" },
-    { "gameKey": "quest/012/BanSyl308_01284#TEXT_BANSYL308_01284_MOXIA_000_001", "hash": "B592A28A5BBDBFD6", "target": "" },
-    { "gameKey": "quest/012/BanSyl308_01284#TEXT_BANSYL308_01284_MOXIA_000_002", "hash": "41893A5C49752F04", "target": "" },
-    { "gameKey": "quest/012/BanSyl308_01284#TEXT_BANSYL308_01284_MOXIA_000_003", "hash": "AEFBEE7722E9FE4D", "target": "" },
-    { "gameKey": "quest/012/BanSyl308_01284#TEXT_BANSYL308_01284_MOXIA_000_020", "hash": "7112DC060837BA2C", "target": "" },
-    { "gameKey": "quest/012/BanSyl308_01284#TEXT_BANSYL308_01284_MOXIA_000_021", "hash": "34E25004F71F5440", "target": "" },
-    { "gameKey": "quest/012/BanSyl308_01284#TEXT_BANSYL308_01284_MOXIA_000_022", "hash": "357522B85CF4B633", "target": "" }
+    { "gameKey": "quest/012/BanSyl308_01284#TEXT_BANSYL308_01284_SEQ_00", "hash": "E751FF1C9FAD765F", "target": "Moxia ti guarda implorante, con una lacrima agli occhi." },
+    { "gameKey": "quest/012/BanSyl308_01284#TEXT_BANSYL308_01284_SEQ_01", "hash": "7644E67AEC875EBA", "target": "Un grosso cinghiale di nome Kafre, un tempo amato animale da compagnia dei silfi, è impazzito e ora imperversa nelle Terre dei Silfi, incornando chiunque incontri con le sue terribili zanne. Sconvolta per la sorte del vecchio amico, Moxia prende la difficile ma necessaria decisione di chiederti di abbatterlo. Partecipa al FATE «What a Boar» nelle propaggini occidentali delle Terre dei Silfi e torna da Moxia con la prova di aver compiuto il tuo dovere." },
+    { "gameKey": "quest/012/BanSyl308_01284#TEXT_BANSYL308_01284_SEQ_02", "hash": "AC4C17B3D261FE09", "target": "Vedendo la zanna e apprendendo che Kafre non è stato ucciso, ma soltanto scacciato, Moxia si rincuora molto. Commossa dalla tua bontà e dal tuo coraggio, ti ringrazia di cuore e continua a sperare, contro ogni speranza, che un giorno il grande cinghiale torni a Piccolo Conforto più mansueto." },
+    { "gameKey": "quest/012/BanSyl308_01284#TEXT_BANSYL308_01284_TODO_00", "hash": "B4191E82EBD020ED", "target": "Partecipare al FATE «What a Boar» e consegnare a Moxia la prova del proprio operato" },
+    { "gameKey": "quest/012/BanSyl308_01284#TEXT_BANSYL308_01284_MOXIA_000_000", "hash": "53CBD3586922A014", "target": "\\<singhiozzo> ...Oh, quello fidato. Che perdoni questa qui. Questa qui ha un favore difficile da chiedere a quello fidato." },
+    { "gameKey": "quest/012/BanSyl308_01284#TEXT_BANSYL308_01284_MOXIA_000_001", "hash": "B592A28A5BBDBFD6", "target": "Per molti anni questi qui hanno tenuto un grande zannuto di nome Kafre come animale da compagnia. Kafre è il più forte degli zannuti e dà grande gioia a questi qui nelle feste di lotta con le zanne." },
+    { "gameKey": "quest/012/BanSyl308_01284#TEXT_BANSYL308_01284_MOXIA_000_002", "hash": "41893A5C49752F04", "target": "Ahimè! Kafre è sfuggito alle cure di questi qui e ora corre furioso per le Terre dei Silfi, rivolgendo le sue terribili zanne contro chiunque incontri. È opera di quelli asserviti, o Kafre si è stancato della compagnia di questi qui? Questa qui non sa dirlo." },
+    { "gameKey": "quest/012/BanSyl308_01284#TEXT_BANSYL308_01284_MOXIA_000_003", "hash": "AEFBEE7722E9FE4D", "target": "Questa qui non vuole fare male allo zannuto, ma Kafre... \\<singhiozzo>... deve essere fermato. Quello fidato compirà il triste dovere?" },
+    { "gameKey": "quest/012/BanSyl308_01284#TEXT_BANSYL308_01284_MOXIA_000_020", "hash": "7112DC060837BA2C", "target": "Ah, quello fidato. Che dica a questa qui, Kafre è... \\<singhiozzo>... morto?" },
+    { "gameKey": "quest/012/BanSyl308_01284#TEXT_BANSYL308_01284_MOXIA_000_021", "hash": "34E25004F71F5440", "target": "Quello fidato ha spezzato una zanna e Kafre è scappato strillando? L'amico zannuto di questi qui è ancora vivo? Oh, questa qui non poteva sperare in notizie più felici!" },
+    { "gameKey": "quest/012/BanSyl308_01284#TEXT_BANSYL308_01284_MOXIA_000_022", "hash": "357522B85CF4B633", "target": "È sperare troppo che un giorno Kafre torni da questi qui ormai mansueto? Questa qui può soltanto sognare." }
   ]
 }

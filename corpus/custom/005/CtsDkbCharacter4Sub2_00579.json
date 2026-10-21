@@ -2,9 +2,9 @@
   "conversation": "custom/005/CtsDkbCharacter4Sub2_00579",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/005/CtsDkbCharacter4Sub2_00579#TEXT_CTSDKBCHARACTER4SUB2_00579_MAOLADD_000_000", "hash": "5707FD1C6FE618CA", "target": "" },
-    { "gameKey": "custom/005/CtsDkbCharacter4Sub2_00579#TEXT_CTSDKBCHARACTER4SUB2_00579_MAOLADD_000_010", "hash": "0D411317F05CEBD5", "target": "" },
-    { "gameKey": "custom/005/CtsDkbCharacter4Sub2_00579#TEXT_CTSDKBCHARACTER4SUB2_00579_MAOLADD_000_020", "hash": "1C2C6667A24EA8A7", "target": "" },
-    { "gameKey": "custom/005/CtsDkbCharacter4Sub2_00579#TEXT_CTSDKBCHARACTER4SUB2_00579_MAOLADD_000_030", "hash": "F65CB334E69D2FB5", "target": "" }
+    { "gameKey": "custom/005/CtsDkbCharacter4Sub2_00579#TEXT_CTSDKBCHARACTER4SUB2_00579_MAOLADD_000_000", "hash": "5707FD1C6FE618CA", "target": "Sto cercando di migliorare le varietà di frutta che coltiviamo. Non c'è niente come un boccone dolce e succulento per sollevare il morale della gente." },
+    { "gameKey": "custom/005/CtsDkbCharacter4Sub2_00579#TEXT_CTSDKBCHARACTER4SUB2_00579_MAOLADD_000_010", "hash": "0D411317F05CEBD5", "target": "<if(gnum4,Capitana,Capitano)>! Farò del mio meglio per onorare il nome della... ehm, Squadra di Ricerca dei Samiel!" },
+    { "gameKey": "custom/005/CtsDkbCharacter4Sub2_00579#TEXT_CTSDKBCHARACTER4SUB2_00579_MAOLADD_000_020", "hash": "1C2C6667A24EA8A7", "target": "Accettate ancora le mie scuse per i problemi che ho causato. Prometto di non scappare più e di concentrarmi su ciò che so fare meglio: analizzare campioni." },
+    { "gameKey": "custom/005/CtsDkbCharacter4Sub2_00579#TEXT_CTSDKBCHARACTER4SUB2_00579_MAOLADD_000_030", "hash": "F65CB334E69D2FB5", "target": "Yalana finge di essere seccata quando il capo arriva con una richiesta, ma è soprattutto per salvare le apparenze. In realtà, quel lavoro le piace molto." }
   ]
 }

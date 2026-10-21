@@ -2,17 +2,17 @@
   "conversation": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_A1", "hash": "9EB3ED3C768FBC73", "target": "" },
-    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_A2", "hash": "350EFB21C806AC2B", "target": "" },
-    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_A3", "hash": "995CF88666FC37B4", "target": "" },
-    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_A4", "hash": "B2C4E7331B68734A", "target": "" },
-    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_A5", "hash": "215AF613F1D94F08", "target": "" },
-    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_A6", "hash": "606CB3E29A840A52", "target": "" },
-    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_A7", "hash": "FDF1191011E92451", "target": "" },
-    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_001", "hash": "5322B57589178B12", "target": "" },
-    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_011", "hash": "5278CF7D0F9815CD", "target": "" },
-    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_021", "hash": "FF2BB52279B155D8", "target": "" },
-    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_031", "hash": "89CA9C4E7258BB84", "target": "" },
-    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_041", "hash": "3C917044CBBBF0D1", "target": "" }
+    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_A1", "hash": "9EB3ED3C768FBC73", "target": "Scambiare Brass Spoils (guerra/magia)" },
+    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_A2", "hash": "350EFB21C806AC2B", "target": "Scambiare Brass Spoils (materiali/equipaggiamento)" },
+    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_A3", "hash": "995CF88666FC37B4", "target": "Scambiare Steel Spoils (raccolta) I" },
+    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_A4", "hash": "B2C4E7331B68734A", "target": "Scambiare Steel Spoils (raccolta) II" },
+    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_A5", "hash": "215AF613F1D94F08", "target": "Scambiare bottino (altro)" },
+    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_A6", "hash": "606CB3E29A840A52", "target": "Scambiare bottino (viaggi esplorativi)" },
+    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_A7", "hash": "FDF1191011E92451", "target": "Annulla" },
+    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_001", "hash": "5322B57589178B12", "target": "Perdonatemi, <if(gnum4,signorina,signore)>, ma tratto soltanto sky pirate spoils, e voi non ne avete." },
+    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_011", "hash": "5278CF7D0F9815CD", "target": "Mi dispiace molto, ma senza sky pirate spoils temo che non potremo fare affari." },
+    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_021", "hash": "FF2BB52279B155D8", "target": "Niente bottino? Temo di non potervi aiutare, allora, <if(gnum4,signorina,amico)>." },
+    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_031", "hash": "89CA9C4E7258BB84", "target": "Qui accettiamo soltanto una valuta particolare: gli sky pirate spoils. Mi sembra di capire che non ne abbiate? Molto bene, allora." },
+    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_041", "hash": "3C917044CBBBF0D1", "target": "Se entrerete in possesso di sky pirate spoils, sarò felice di commerciare con voi." }
   ]
 }

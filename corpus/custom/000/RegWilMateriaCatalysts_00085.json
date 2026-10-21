@@ -2,13 +2,13 @@
   "conversation": "custom/000/RegWilMateriaCatalysts_00085",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/000/RegWilMateriaCatalysts_00085#TEXT_REGWILMATERIACATALYSTS_00085_KOKOSAMU_000_1", "hash": "CF08ADDE03D07D7F", "target": "" },
-    { "gameKey": "custom/000/RegWilMateriaCatalysts_00085#TEXT_REGWILMATERIACATALYSTS_00085_SCENE00000Q", "hash": "45832DA59A1E952F", "target": "" },
-    { "gameKey": "custom/000/RegWilMateriaCatalysts_00085#TEXT_REGWILMATERIACATALYSTS_00085_SCENE00000A1", "hash": "1F3B6748B0652A1D", "target": "" },
-    { "gameKey": "custom/000/RegWilMateriaCatalysts_00085#TEXT_REGWILMATERIACATALYSTS_00085_SCENE00000A3", "hash": "50793FA7B79F09C0", "target": "" },
-    { "gameKey": "custom/000/RegWilMateriaCatalysts_00085#TEXT_REGWILMATERIACATALYSTS_00085_KOKOSAMU_000_10", "hash": "FBDA0897FC809547", "target": "" },
-    { "gameKey": "custom/000/RegWilMateriaCatalysts_00085#TEXT_REGWILMATERIACATALYSTS_00085_KOKOSAMU_000_11", "hash": "4B8620C512D37F62", "target": "" },
-    { "gameKey": "custom/000/RegWilMateriaCatalysts_00085#TEXT_REGWILMATERIACATALYSTS_00085_KOKOSAMU_000_12", "hash": "5399748186DC71A6", "target": "" },
-    { "gameKey": "custom/000/RegWilMateriaCatalysts_00085#TEXT_REGWILMATERIACATALYSTS_00085_KOKOSAMU_000_13", "hash": "EB4B2885C730D26E", "target": "" }
+    { "gameKey": "custom/000/RegWilMateriaCatalysts_00085#TEXT_REGWILMATERIACATALYSTS_00085_KOKOSAMU_000_1", "hash": "CF08ADDE03D07D7F", "target": "Raccogliere catalizzatori è la mia specialità, ma da quando hanno trovato il modo di fondere la materia senza usarli, questa roba è utile quanto i capezzoli su una corazza. Però, se ti interessa ancora saperne qualcosa, ti racconto volentieri quel che so." },
+    { "gameKey": "custom/000/RegWilMateriaCatalysts_00085#TEXT_REGWILMATERIACATALYSTS_00085_SCENE00000Q", "hash": "45832DA59A1E952F", "target": "Cosa vuoi chiedere?" },
+    { "gameKey": "custom/000/RegWilMateriaCatalysts_00085#TEXT_REGWILMATERIACATALYSTS_00085_SCENE00000A1", "hash": "1F3B6748B0652A1D", "target": "Che cos'è un catalizzatore?" },
+    { "gameKey": "custom/000/RegWilMateriaCatalysts_00085#TEXT_REGWILMATERIACATALYSTS_00085_SCENE00000A3", "hash": "50793FA7B79F09C0", "target": "Niente." },
+    { "gameKey": "custom/000/RegWilMateriaCatalysts_00085#TEXT_REGWILMATERIACATALYSTS_00085_KOKOSAMU_000_10", "hash": "FBDA0897FC809547", "target": "In parole povere, un catalizzatore è materia oscura impura. Se non sai cos'è la materia oscura, sono frammenti di rocce cadute dal cielo secoli fa. Siccome tende a legarsi a tutto ciò che tocca, si usa comunemente per riparare l'equipaggiamento." },
+    { "gameKey": "custom/000/RegWilMateriaCatalysts_00085#TEXT_REGWILMATERIACATALYSTS_00085_KOKOSAMU_000_11", "hash": "4B8620C512D37F62", "target": "La materia oscura si trova in natura, in vari stadi di legame con altre sostanze. Quella semilegata al carbone si chiama materia carbonizzata, ed è <italic(1)>questo<italic(0)>, <if(gnum4,avventuriera,avventuriero)>, il nostro catalizzatore." },
+    { "gameKey": "custom/000/RegWilMateriaCatalysts_00085#TEXT_REGWILMATERIACATALYSTS_00085_KOKOSAMU_000_12", "hash": "5399748186DC71A6", "target": "Ecco, la materia carbonizzata non vale nulla per le riparazioni, ma un tempo era indispensabile per fondere la materia. Con i recenti progressi, però, non serve più neanche a quello." },
+    { "gameKey": "custom/000/RegWilMateriaCatalysts_00085#TEXT_REGWILMATERIACATALYSTS_00085_KOKOSAMU_000_13", "hash": "EB4B2885C730D26E", "target": "Beh, non si può fermare la marcia inesorabile del tempo. Bisogna adattarsi, eh?" }
   ]
 }

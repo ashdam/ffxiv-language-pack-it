@@ -2,11 +2,11 @@
   "conversation": "custom/007/RegNor4Limbeth_00718",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/007/RegNor4Limbeth_00718#TEXT_REGNOR4LIMBETH_00718_LIMBETH_000_000", "hash": "3F9A014B89DB6C80", "target": "" },
-    { "gameKey": "custom/007/RegNor4Limbeth_00718#TEXT_REGNOR4LIMBETH_00718_LIMBETH_000_001", "hash": "1ADAEF9C93AC6E9A", "target": "" },
-    { "gameKey": "custom/007/RegNor4Limbeth_00718#TEXT_REGNOR4LIMBETH_00718_SYSTEM_000_002", "hash": "369BF90E046361EE", "target": "" },
-    { "gameKey": "custom/007/RegNor4Limbeth_00718#TEXT_REGNOR4LIMBETH_00718_SYSTEM_000_003", "hash": "93EFC8D5B4292B86", "target": "" },
-    { "gameKey": "custom/007/RegNor4Limbeth_00718#TEXT_REGNOR4LIMBETH_00718_SYSTEM_000_004", "hash": "AA559B3461986EBA", "target": "" },
-    { "gameKey": "custom/007/RegNor4Limbeth_00718#TEXT_REGNOR4LIMBETH_00718_SYSTEM_000_005", "hash": "AFB8238D71D19995", "target": "" }
+    { "gameKey": "custom/007/RegNor4Limbeth_00718#TEXT_REGNOR4LIMBETH_00718_LIMBETH_000_000", "hash": "3F9A014B89DB6C80", "target": "Vi chiedo scusa, <if(gnum4,signora,signore)>, ma posso commerciare soltanto con una lista selezionata di clienti registrati presso la Bottega delle Meraviglie." },
+    { "gameKey": "custom/007/RegNor4Limbeth_00718#TEXT_REGNOR4LIMBETH_00718_LIMBETH_000_001", "hash": "1ADAEF9C93AC6E9A", "target": "Vi do il benvenuto, <if(gnum4,cara signora,buon signore)>. Qui al Resplendent Tool Exchange offriamo la migliore selezione di attrezzi per gli artigiani più esigenti. Come posso esservi utile?" },
+    { "gameKey": "custom/007/RegNor4Limbeth_00718#TEXT_REGNOR4LIMBETH_00718_SYSTEM_000_002", "hash": "369BF90E046361EE", "target": "Per ottenere un attrezzo splendente, devi prima usare crafters' scrips per acquistare materiale splendente A dal servizio di scambio materiali." },
+    { "gameKey": "custom/007/RegNor4Limbeth_00718#TEXT_REGNOR4LIMBETH_00718_SYSTEM_000_003", "hash": "93EFC8D5B4292B86", "target": "Con le ricette da maestro di ottavo livello, puoi poi usare questo materiale per fabbricare un componente splendente A, scambiabile da Limbeth con un materiale di grado superiore, il materiale splendente B." },
+    { "gameKey": "custom/007/RegNor4Limbeth_00718#TEXT_REGNOR4LIMBETH_00718_SYSTEM_000_004", "hash": "AA559B3461986EBA", "target": "Ripeti poi il procedimento fabbricando un componente splendente B da scambiare con materiale splendente C. Con questo fabbrichi un componente splendente C, scambiabile con il materiale splendente finale." },
+    { "gameKey": "custom/007/RegNor4Limbeth_00718#TEXT_REGNOR4LIMBETH_00718_SYSTEM_000_005", "hash": "AFB8238D71D19995", "target": "Una volta ottenuta una quantità sufficiente di materiali splendenti finali, puoi scambiarli con un attrezzo splendente." }
   ]
 }

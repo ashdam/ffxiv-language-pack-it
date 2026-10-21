@@ -2,18 +2,18 @@
   "conversation": "custom/008/RegSak6SolutionNine_00879",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/RegSak6SolutionNine_00879#TEXT_REGSAK6SOLUTIONNINE_00879_UBUYU_000_000", "hash": "4B09558E05321163", "target": "" },
-    { "gameKey": "custom/008/RegSak6SolutionNine_00879#TEXT_REGSAK6SOLUTIONNINE_00879_Q1_000_000", "hash": "676FBF7E52D0E8B9", "target": "" },
-    { "gameKey": "custom/008/RegSak6SolutionNine_00879#TEXT_REGSAK6SOLUTIONNINE_00879_A1_000_001", "hash": "BFB99F5A7289689C", "target": "" },
-    { "gameKey": "custom/008/RegSak6SolutionNine_00879#TEXT_REGSAK6SOLUTIONNINE_00879_A1_000_002", "hash": "1ABB844AA9D4B975", "target": "" },
-    { "gameKey": "custom/008/RegSak6SolutionNine_00879#TEXT_REGSAK6SOLUTIONNINE_00879_A1_000_003", "hash": "F2968B9284C0F124", "target": "" },
-    { "gameKey": "custom/008/RegSak6SolutionNine_00879#TEXT_REGSAK6SOLUTIONNINE_00879_UBUYU_000_010", "hash": "FD3DF174FB86A345", "target": "" },
-    { "gameKey": "custom/008/RegSak6SolutionNine_00879#TEXT_REGSAK6SOLUTIONNINE_00879_UBUYU_000_011", "hash": "C3447E3F60A6B6FD", "target": "" },
-    { "gameKey": "custom/008/RegSak6SolutionNine_00879#TEXT_REGSAK6SOLUTIONNINE_00879_UBUYU_000_020", "hash": "526FE95F30D1846E", "target": "" },
-    { "gameKey": "custom/008/RegSak6SolutionNine_00879#TEXT_REGSAK6SOLUTIONNINE_00879_UBUYU_000_021", "hash": "C6E4B23C877FD750", "target": "" },
-    { "gameKey": "custom/008/RegSak6SolutionNine_00879#TEXT_REGSAK6SOLUTIONNINE_00879_UBUYU_000_022", "hash": "6827F216FF0754E2", "target": "" },
-    { "gameKey": "custom/008/RegSak6SolutionNine_00879#TEXT_REGSAK6SOLUTIONNINE_00879_UBUYU_000_030", "hash": "D7D0466C08604776", "target": "" },
-    { "gameKey": "custom/008/RegSak6SolutionNine_00879#TEXT_REGSAK6SOLUTIONNINE_00879_UBUYU_000_040", "hash": "8CAE83F36831AEBA", "target": "" },
-    { "gameKey": "custom/008/RegSak6SolutionNine_00879#TEXT_REGSAK6SOLUTIONNINE_00879_UBUYU_000_050", "hash": "CB5693925080B847", "target": "" }
+    { "gameKey": "custom/008/RegSak6SolutionNine_00879#TEXT_REGSAK6SOLUTIONNINE_00879_UBUYU_000_000", "hash": "4B09558E05321163", "target": "Ma che piacere. Vi va di fare due chiacchiere, <if(gnum4,forestiera,forestiero)>?" },
+    { "gameKey": "custom/008/RegSak6SolutionNine_00879#TEXT_REGSAK6SOLUTIONNINE_00879_Q1_000_000", "hash": "676FBF7E52D0E8B9", "target": "Cosa vuoi chiedere?" },
+    { "gameKey": "custom/008/RegSak6SolutionNine_00879#TEXT_REGSAK6SOLUTIONNINE_00879_A1_000_001", "hash": "BFB99F5A7289689C", "target": "Informarsi sul lavoro svolto qui." },
+    { "gameKey": "custom/008/RegSak6SolutionNine_00879#TEXT_REGSAK6SOLUTIONNINE_00879_A1_000_002", "hash": "1ABB844AA9D4B975", "target": "Che posto è questo?" },
+    { "gameKey": "custom/008/RegSak6SolutionNine_00879#TEXT_REGSAK6SOLUTIONNINE_00879_A1_000_003", "hash": "F2968B9284C0F124", "target": "Niente." },
+    { "gameKey": "custom/008/RegSak6SolutionNine_00879#TEXT_REGSAK6SOLUTIONNINE_00879_UBUYU_000_010", "hash": "FD3DF174FB86A345", "target": "Io? Sono solo una madre e una casalinga di questa città. Be', da quando i miei figli hanno ottenuto impieghi governativi e sono subito volati via dal nido, non mi resta molto da fare come madre..." },
+    { "gameKey": "custom/008/RegSak6SolutionNine_00879#TEXT_REGSAK6SOLUTIONNINE_00879_UBUYU_000_011", "hash": "C3447E3F60A6B6FD", "target": "Da quando sono in pensione, mi sembra di avere fin troppo tempo libero... Così passo le giornate a chiacchierare con i passanti, come voi." },
+    { "gameKey": "custom/008/RegSak6SolutionNine_00879#TEXT_REGSAK6SOLUTIONNINE_00879_UBUYU_000_020", "hash": "526FE95F30D1846E", "target": "Questo posto è noto come Solution Nine. Un'opera d'ingegneria di dimensioni impressionanti, persino rispetto agli altri undici livelli di Everkeep." },
+    { "gameKey": "custom/008/RegSak6SolutionNine_00879#TEXT_REGSAK6SOLUTIONNINE_00879_UBUYU_000_021", "hash": "C6E4B23C877FD750", "target": "La città ospita strutture di ogni genere: servizi di consulenza per i cittadini, mercati vivaci, innumerevoli negozi ed esercizi commerciali... la lista continua." },
+    { "gameKey": "custom/008/RegSak6SolutionNine_00879#TEXT_REGSAK6SOLUTIONNINE_00879_UBUYU_000_022", "hash": "6827F216FF0754E2", "target": "A quanto pare, c'è persino un settore dove si possono trovare merci... ehm... <italic(1)>non proprio ufficiali<italic(0)>. In ogni caso, per noi cittadini non esiste quasi problema senza soluzione. Da qui il nome." },
+    { "gameKey": "custom/008/RegSak6SolutionNine_00879#TEXT_REGSAK6SOLUTIONNINE_00879_UBUYU_000_030", "hash": "D7D0466C08604776", "target": "Gli addetti alle pulizie fanno un lavoro meraviglioso per tenere in ordine le strade e ogni nostra necessità è soddisfatta. Solution Nine è davvero un posto splendido in cui vivere. Potreste pensare di stabilirvi qui anche voi." },
+    { "gameKey": "custom/008/RegSak6SolutionNine_00879#TEXT_REGSAK6SOLUTIONNINE_00879_UBUYU_000_040", "hash": "8CAE83F36831AEBA", "target": "Ancora adesso, tutta quella vicenda sembra un sogno. Pensare che Zoraal Ja fosse capace di un atto tanto spregevole... Sembra non esserci modo di lenire il dolore duraturo che ha inflitto." },
+    { "gameKey": "custom/008/RegSak6SolutionNine_00879#TEXT_REGSAK6SOLUTIONNINE_00879_UBUYU_000_050", "hash": "CB5693925080B847", "target": "La città ha affrontato molte difficoltà ultimamente, ma noi cittadini dobbiamo impegnarci insieme, uniti, perché il nome «Solution» continui a rispecchiare la realtà negli anni a venire. Mi sembra un modo appropriato per onorare la memoria della regina Sphene." }
   ]
 }

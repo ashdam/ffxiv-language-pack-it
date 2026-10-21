@@ -2,10 +2,10 @@
   "conversation": "cut_scene/061/VoiceMan_06101",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "cut_scene/061/VoiceMan_06101#TEXT_VOICEMAN_06101_000010_NALDTHAL", "hash": "6BEEBD3712FAA84B", "target": "" },
-    { "gameKey": "cut_scene/061/VoiceMan_06101#TEXT_VOICEMAN_06101_000020_NALDTHAL", "hash": "B6F1B1ADF2EBE483", "target": "" },
-    { "gameKey": "cut_scene/061/VoiceMan_06101#TEXT_VOICEMAN_06101_000025_NALDTHAL", "hash": "BE45BA9A15594807", "target": "" },
-    { "gameKey": "cut_scene/061/VoiceMan_06101#TEXT_VOICEMAN_06101_000030_NALDTHAL", "hash": "567C62F042A7E098", "target": "" },
-    { "gameKey": "cut_scene/061/VoiceMan_06101#TEXT_VOICEMAN_06101_000040_ENDSINGER_NONE_VOICE", "hash": "8D025668C632CF8E", "target": "" }
+    { "gameKey": "cut_scene/061/VoiceMan_06101#TEXT_VOICEMAN_06101_000010_NALDTHAL", "hash": "6BEEBD3712FAA84B", "target": "Io sono Nald, custode del regno dei vivi." },
+    { "gameKey": "cut_scene/061/VoiceMan_06101#TEXT_VOICEMAN_06101_000020_NALDTHAL", "hash": "B6F1B1ADF2EBE483", "target": "Io sono Thal, custode del regno dei morti." },
+    { "gameKey": "cut_scene/061/VoiceMan_06101#TEXT_VOICEMAN_06101_000025_NALDTHAL", "hash": "BE45BA9A15594807", "target": "Preparatevi al giudizio, figli degli uomini." },
+    { "gameKey": "cut_scene/061/VoiceMan_06101#TEXT_VOICEMAN_06101_000030_NALDTHAL", "hash": "567C62F042A7E098", "target": "Siete stati ritenuti degni." },
+    { "gameKey": "cut_scene/061/VoiceMan_06101#TEXT_VOICEMAN_06101_000040_ENDSINGER_NONE_VOICE", "hash": "8D025668C632CF8E", "target": "Speranza, dunque...? Inutile. Del tutto inutile.<br>Una luce tanto fioca non ha alcun potere di fronte alla disperazione più oscura." }
   ]
 }

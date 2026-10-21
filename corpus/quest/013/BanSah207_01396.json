@@ -2,16 +2,16 @@
   "conversation": "quest/013/BanSah207_01396",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_SEQ_00", "hash": "1FAC3DEEBED7B068", "target": "" },
-    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_SEQ_01", "hash": "FC890536AD5486B1", "target": "" },
-    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_SEQ_02", "hash": "F272003ECCD33C82", "target": "" },
-    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_TODO_00", "hash": "0507E51F6F6EFF05", "target": "" },
-    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_HOUU_000_000", "hash": "D82B8DDD187D309E", "target": "" },
-    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_HOUU_000_001", "hash": "C8B8DFCCFFCF7936", "target": "" },
-    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_HOUU_000_002", "hash": "E128593045C93F23", "target": "" },
-    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_HOUU_000_003", "hash": "DAB3FBE293AE93DE", "target": "" },
-    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_HOUU_000_010", "hash": "F453FB9C4E7D792F", "target": "" },
-    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_HOUU_000_011", "hash": "52118FEDCBBD2A1F", "target": "" },
-    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_HOUU_000_012", "hash": "8CC49A609E0EDEE6", "target": "" }
+    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_SEQ_00", "hash": "1FAC3DEEBED7B068", "target": "Houu sa soppesare i mali minori e i beni maggiori, e vorrebbe capire dove ti collochi nell'equazione." },
+    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_SEQ_01", "hash": "FC890536AD5486B1", "target": "Houu ti chiede di sconfiggere Worr the Whalefin, uno stratego asservito ai Tridenti del Corallo. Ottieni la vittoria nel FATE «Tail of a Whale» nella Zona di Riproduzione di Sapsa per ricevere il coral band di Worr, poi presentalo a Houu come prova della tua impresa." },
+    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_SEQ_02", "hash": "F272003ECCD33C82", "target": "Houu riceve il coral band ed è molto colpito dalle tue capacità marziali. Pare che tu abbia fatto un'impressione altrettanto forte su altri Sahagin. Speriamo che non siano più così pronti a seguire l'incitamento dei Tridenti e affrontare la gente di terraferma in guerra aperta..." },
+    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_TODO_00", "hash": "0507E51F6F6EFF05", "target": "Consegnare a Houu il coral band ottenuto nel FATE «Tail of a Whale»" },
+    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_HOUU_000_000", "hash": "D82B8DDD187D309E", "target": "Pshhh... Hai sentito parlare degli strateghi della Zona di Riproduzione di Sapsa? Sono capi fra i guerrieri Sahagin e godono di grande influenza." },
+    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_HOUU_000_001", "hash": "C8B8DFCCFFCF7936", "target": "Ahimè, il Diavolo Scarlatto del Mare ne ha acceso l'orgoglio con visioni di facili vittorie. I Tridenti del Corallo sono sottili e astuti. Se non si fa nulla, la loro aggressività porterà presto a una guerra totale con voi di terraferma..." },
+    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_HOUU_000_002", "hash": "E128593045C93F23", "target": "Gli strateghi devono capire che la gente di terraferma è un nemico abile e pericoloso. Combatterai il più vanaglorioso di loro. Si chiama Worr the Whalefin e oggi deve morire. Pshhh..." },
+    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_HOUU_000_003", "hash": "DAB3FBE293AE93DE", "target": "Worr possiede un coral band, ricevuto come alleato giurato dei Tridenti del Corallo. Portami questo gingillo come prova che Worr è morto vergognosamente quanto è vissuto. Pshhh..." },
+    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_HOUU_000_010", "hash": "F453FB9C4E7D792F", "target": "Pshhh... Uccidi Worr the Whalefin e sottraigli il coral band dei Tridenti." },
+    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_HOUU_000_011", "hash": "52118FEDCBBD2A1F", "target": "Pshhh... Il coral band di Worr, per tutto ciò che è indaco! Il padre della covata sceglie sempre saggiamente... Non mi aspettavo proprio che un essere di terraferma battesse Worr the Whalefin." },
+    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_HOUU_000_012", "hash": "8CC49A609E0EDEE6", "target": "Uno stratego guida le menti oltre alle lance. La sconfitta di Worr per mano di un essere di terraferma è una lezione concreta che si diffonderà per tutta la Zona di Riproduzione di Sapsa. Pshhh..." }
   ]
 }

@@ -2,15 +2,15 @@
   "conversation": "custom/004/RegGyr3Coldhearth_00401",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/004/RegGyr3Coldhearth_00401#TEXT_REGGYR3COLDHEARTH_00401_GIBBON_000_000", "hash": "D8651DAECBF5983F", "target": "" },
-    { "gameKey": "custom/004/RegGyr3Coldhearth_00401#TEXT_REGGYR3COLDHEARTH_00401_Q1_000_000", "hash": "FEFE0B679748CEA6", "target": "" },
-    { "gameKey": "custom/004/RegGyr3Coldhearth_00401#TEXT_REGGYR3COLDHEARTH_00401_A1_000_001", "hash": "4AF37039FBB7A558", "target": "" },
-    { "gameKey": "custom/004/RegGyr3Coldhearth_00401#TEXT_REGGYR3COLDHEARTH_00401_A1_000_002", "hash": "C487FA2145B4556C", "target": "" },
-    { "gameKey": "custom/004/RegGyr3Coldhearth_00401#TEXT_REGGYR3COLDHEARTH_00401_A1_000_003", "hash": "3C9C2E271B828145", "target": "" },
-    { "gameKey": "custom/004/RegGyr3Coldhearth_00401#TEXT_REGGYR3COLDHEARTH_00401_GIBBON_000_010", "hash": "DC2DE942AC44827D", "target": "" },
-    { "gameKey": "custom/004/RegGyr3Coldhearth_00401#TEXT_REGGYR3COLDHEARTH_00401_GIBBON_000_011", "hash": "158FD51EEDC5731B", "target": "" },
-    { "gameKey": "custom/004/RegGyr3Coldhearth_00401#TEXT_REGGYR3COLDHEARTH_00401_GIBBON_000_020", "hash": "999FA1A9227F21A5", "target": "" },
-    { "gameKey": "custom/004/RegGyr3Coldhearth_00401#TEXT_REGGYR3COLDHEARTH_00401_GIBBON_000_021", "hash": "1F4626FAB5DAB53E", "target": "" },
-    { "gameKey": "custom/004/RegGyr3Coldhearth_00401#TEXT_REGGYR3COLDHEARTH_00401_GIBBON_000_022", "hash": "AFAD46E78D355CF1", "target": "" }
+    { "gameKey": "custom/004/RegGyr3Coldhearth_00401#TEXT_REGGYR3COLDHEARTH_00401_GIBBON_000_000", "hash": "D8651DAECBF5983F", "target": "Oh, <if(gnum4,un'avventuriera,un avventuriero)>. Non abbiamo niente da offrirti, ma puoi riposare qui tutto il tempo che vuoi." },
+    { "gameKey": "custom/004/RegGyr3Coldhearth_00401#TEXT_REGGYR3COLDHEARTH_00401_Q1_000_000", "hash": "FEFE0B679748CEA6", "target": "Cosa vuoi chiedere?" },
+    { "gameKey": "custom/004/RegGyr3Coldhearth_00401#TEXT_REGGYR3COLDHEARTH_00401_A1_000_001", "hash": "4AF37039FBB7A558", "target": "Informarsi sul suo conto." },
+    { "gameKey": "custom/004/RegGyr3Coldhearth_00401#TEXT_REGGYR3COLDHEARTH_00401_A1_000_002", "hash": "C487FA2145B4556C", "target": "Che posto è questo?" },
+    { "gameKey": "custom/004/RegGyr3Coldhearth_00401#TEXT_REGGYR3COLDHEARTH_00401_A1_000_003", "hash": "3C9C2E271B828145", "target": "Niente." },
+    { "gameKey": "custom/004/RegGyr3Coldhearth_00401#TEXT_REGGYR3COLDHEARTH_00401_GIBBON_000_010", "hash": "DC2DE942AC44827D", "target": "Mi chiamo Gibbon. Sono solo un uomo semplice che vive in un villaggio semplice. Un tempo ero un soldato. Ah, quelli sì che erano tempi." },
+    { "gameKey": "custom/004/RegGyr3Coldhearth_00401#TEXT_REGGYR3COLDHEARTH_00401_GIBBON_000_011", "hash": "158FD51EEDC5731B", "target": "Ma per quanto tu possa essere un bravo soldato, contro il tempo non puoi combattere. Alla fine mi sono ritirato dal servizio e sono tornato a casa. Da allora non faccio che zappare quel poco di terra che abbiamo, dall'alba al tramonto." },
+    { "gameKey": "custom/004/RegGyr3Coldhearth_00401#TEXT_REGGYR3COLDHEARTH_00401_GIBBON_000_020", "hash": "999FA1A9227F21A5", "target": "Questo villaggio, o almeno quel che ne resta, è Coldhearth." },
+    { "gameKey": "custom/004/RegGyr3Coldhearth_00401#TEXT_REGGYR3COLDHEARTH_00401_GIBBON_000_021", "hash": "1F4626FAB5DAB53E", "target": "Se lo chiedi a me, è già un maledetto miracolo che quassù cresca qualcosa. Riusciamo a raccogliere un po' da mangiare e un po' da scambiare. Gran parte di quel che abbiamo viene dai pochi giovani che sono partiti per unirsi alla Resistenza. Usano la loro paga per sostenerci come possono." },
+    { "gameKey": "custom/004/RegGyr3Coldhearth_00401#TEXT_REGGYR3COLDHEARTH_00401_GIBBON_000_022", "hash": "AFAD46E78D355CF1", "target": "Quando sono arrivati quei dannati garleani, chiunque non fosse già partito è stato arruolato a forza. Ormai qui siamo quasi solo bambini e vecchi. Se le cose non cambiano presto, fra qualche anno Coldhearth potrebbe non esistere più..." }
   ]
 }

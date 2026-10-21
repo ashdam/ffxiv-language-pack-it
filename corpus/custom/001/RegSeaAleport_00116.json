@@ -2,16 +2,16 @@
   "conversation": "custom/001/RegSeaAleport_00116",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/RegSeaAleport_00116#TEXT_REGSEAALEPORT_00116_KAIZOPORAIZO_000_000", "hash": "9FBE8A9F59AF20B1", "target": "" },
-    { "gameKey": "custom/001/RegSeaAleport_00116#TEXT_REGSEAALEPORT_00116_KAIZOPORAIZO_000_010", "hash": "FE7FD9870098D040", "target": "" },
-    { "gameKey": "custom/001/RegSeaAleport_00116#TEXT_REGSEAALEPORT_00116_KAIZOPORAIZO_000_011", "hash": "F532106B956D675F", "target": "" },
-    { "gameKey": "custom/001/RegSeaAleport_00116#TEXT_REGSEAALEPORT_00116_KAIZOPORAIZO_000_012", "hash": "6DCBC9564A0ADD92", "target": "" },
-    { "gameKey": "custom/001/RegSeaAleport_00116#TEXT_REGSEAALEPORT_00116_KAIZOPORAIZO_000_020", "hash": "58821F78810FC7D4", "target": "" },
-    { "gameKey": "custom/001/RegSeaAleport_00116#TEXT_REGSEAALEPORT_00116_KAIZOPORAIZO_000_021", "hash": "9E89B9D03F3A05A9", "target": "" },
-    { "gameKey": "custom/001/RegSeaAleport_00116#TEXT_REGSEAALEPORT_00116_KAIZOPORAIZO_000_022", "hash": "516A04E674C626E8", "target": "" },
-    { "gameKey": "custom/001/RegSeaAleport_00116#TEXT_REGSEAALEPORT_00116_Q1_000_000", "hash": "4EDB9D209DE27807", "target": "" },
-    { "gameKey": "custom/001/RegSeaAleport_00116#TEXT_REGSEAALEPORT_00116_A1_000_001", "hash": "55D750A7099290E2", "target": "" },
-    { "gameKey": "custom/001/RegSeaAleport_00116#TEXT_REGSEAALEPORT_00116_A1_000_002", "hash": "94FD82F5F40AAFDC", "target": "" },
-    { "gameKey": "custom/001/RegSeaAleport_00116#TEXT_REGSEAALEPORT_00116_A1_000_003", "hash": "82196E78D4B48837", "target": "" }
+    { "gameKey": "custom/001/RegSeaAleport_00116#TEXT_REGSEAALEPORT_00116_KAIZOPORAIZO_000_000", "hash": "9FBE8A9F59AF20B1", "target": "Hai l'aria di chi vive d'avventure. Stai esplorando un po'?" },
+    { "gameKey": "custom/001/RegSeaAleport_00116#TEXT_REGSEAALEPORT_00116_KAIZOPORAIZO_000_010", "hash": "FE7FD9870098D040", "target": "Io? Sono un mercante come tanti altri e vendo i miei alcolici qui ad Aleport." },
+    { "gameKey": "custom/001/RegSeaAleport_00116#TEXT_REGSEAALEPORT_00116_KAIZOPORAIZO_000_011", "hash": "F532106B956D675F", "target": "Con tutte le navi affondate durante la Calamità, temevo che i miei giorni da mercante fossero finiti. Ma siamo riusciti a resistere in qualche modo e a salvare questo posto dal baratro." },
+    { "gameKey": "custom/001/RegSeaAleport_00116#TEXT_REGSEAALEPORT_00116_KAIZOPORAIZO_000_012", "hash": "6DCBC9564A0ADD92", "target": "Sono stati tempi duri. Per un po' ho pensato di dover vendere la vecchia casa di famiglia." },
+    { "gameKey": "custom/001/RegSeaAleport_00116#TEXT_REGSEAALEPORT_00116_KAIZOPORAIZO_000_020", "hash": "58821F78810FC7D4", "target": "Aleport? Be', è un porto... che commercia soprattutto birra." },
+    { "gameKey": "custom/001/RegSeaAleport_00116#TEXT_REGSEAALEPORT_00116_KAIZOPORAIZO_000_021", "hash": "9E89B9D03F3A05A9", "target": "Commerciamo anche altre merci, in misura modesta, ma con le tasse sugli alcolici più basse di Aleport, non è difficile capire perché tutti i mercanti di liquori vengano qui." },
+    { "gameKey": "custom/001/RegSeaAleport_00116#TEXT_REGSEAALEPORT_00116_KAIZOPORAIZO_000_022", "hash": "516A04E674C626E8", "target": "Arrivano anche molte navi mercantili che vogliono rifornirsi della nostra allegra bevanda. Nei lunghi viaggi l'acqua diventa stantia, vedi, quindi ogni capitano degno del nome vuole qualche botte di quella buona nella stiva." },
+    { "gameKey": "custom/001/RegSeaAleport_00116#TEXT_REGSEAALEPORT_00116_Q1_000_000", "hash": "4EDB9D209DE27807", "target": "Cosa vuoi chiedere?" },
+    { "gameKey": "custom/001/RegSeaAleport_00116#TEXT_REGSEAALEPORT_00116_A1_000_001", "hash": "55D750A7099290E2", "target": "Informarsi sul lavoro svolto qui." },
+    { "gameKey": "custom/001/RegSeaAleport_00116#TEXT_REGSEAALEPORT_00116_A1_000_002", "hash": "94FD82F5F40AAFDC", "target": "Che posto è questo?" },
+    { "gameKey": "custom/001/RegSeaAleport_00116#TEXT_REGSEAALEPORT_00116_A1_000_003", "hash": "82196E78D4B48837", "target": "Niente." }
   ]
 }

@@ -2,18 +2,18 @@
   "conversation": "custom/008/RegSak6Hhusatahwi_00880",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/RegSak6Hhusatahwi_00880#TEXT_REGSAK6HHUSATAHWI_00880_HHUTEPI_000_000", "hash": "5E2C985A49774832", "target": "" },
-    { "gameKey": "custom/008/RegSak6Hhusatahwi_00880#TEXT_REGSAK6HHUSATAHWI_00880_HHUTEPI_000_001", "hash": "1302D52B7D7C3E36", "target": "" },
-    { "gameKey": "custom/008/RegSak6Hhusatahwi_00880#TEXT_REGSAK6HHUSATAHWI_00880_HHUTEPI_000_002", "hash": "7667E2BD2E2D9A5A", "target": "" },
-    { "gameKey": "custom/008/RegSak6Hhusatahwi_00880#TEXT_REGSAK6HHUSATAHWI_00880_HHUTEPI_000_003", "hash": "3E5E3DF0F3299FB5", "target": "" },
-    { "gameKey": "custom/008/RegSak6Hhusatahwi_00880#TEXT_REGSAK6HHUSATAHWI_00880_HHUTEPI_Q1_000_000", "hash": "40B72311A4D94F5F", "target": "" },
-    { "gameKey": "custom/008/RegSak6Hhusatahwi_00880#TEXT_REGSAK6HHUSATAHWI_00880_HHUTEPI_A1_000_001", "hash": "27C8803A03BE327A", "target": "" },
-    { "gameKey": "custom/008/RegSak6Hhusatahwi_00880#TEXT_REGSAK6HHUSATAHWI_00880_HHUTEPI_A1_000_002", "hash": "500626A618B00140", "target": "" },
-    { "gameKey": "custom/008/RegSak6Hhusatahwi_00880#TEXT_REGSAK6HHUSATAHWI_00880_HHUTEPI_A1_000_003", "hash": "291B09BF0C3EDF37", "target": "" },
-    { "gameKey": "custom/008/RegSak6Hhusatahwi_00880#TEXT_REGSAK6HHUSATAHWI_00880_HHUTEPI_000_004", "hash": "39146ED269B8C498", "target": "" },
-    { "gameKey": "custom/008/RegSak6Hhusatahwi_00880#TEXT_REGSAK6HHUSATAHWI_00880_HHUTEPI_000_005", "hash": "A0F15C03183FACFA", "target": "" },
-    { "gameKey": "custom/008/RegSak6Hhusatahwi_00880#TEXT_REGSAK6HHUSATAHWI_00880_HHUTEPI_000_006", "hash": "64B9287D9073E1C4", "target": "" },
-    { "gameKey": "custom/008/RegSak6Hhusatahwi_00880#TEXT_REGSAK6HHUSATAHWI_00880_HHUTEPI_000_007", "hash": "74C6EE126865FD1D", "target": "" },
-    { "gameKey": "custom/008/RegSak6Hhusatahwi_00880#TEXT_REGSAK6HHUSATAHWI_00880_HHUTEPI_000_008", "hash": "860319AED51A560D", "target": "" }
+    { "gameKey": "custom/008/RegSak6Hhusatahwi_00880#TEXT_REGSAK6HHUSATAHWI_00880_HHUTEPI_000_000", "hash": "5E2C985A49774832", "target": "Ti do il benvenuto, <if(gnum4,viaggiatrice,viaggiatore)>. Se posso aiutarti in qualcosa, non esitare a chiedere." },
+    { "gameKey": "custom/008/RegSak6Hhusatahwi_00880#TEXT_REGSAK6HHUSATAHWI_00880_HHUTEPI_000_001", "hash": "1302D52B7D7C3E36", "target": "Hai sentito qualcosa su quegli strani aggeggi volanti in cielo? Se ne stanno lì. Minacciosi... Finché non hanno intenzione di muoversi, cerco di non pensarci. Comunque, posso aiutarti in qualcosa, <if(gnum4,signorina,signore)>?" },
+    { "gameKey": "custom/008/RegSak6Hhusatahwi_00880#TEXT_REGSAK6HHUSATAHWI_00880_HHUTEPI_000_002", "hash": "7667E2BD2E2D9A5A", "target": "Che sollievo alzare gli occhi e vedere finalmente un cielo sereno. Qui si comincia davvero a respirare di nuovo un'aria normale." },
+    { "gameKey": "custom/008/RegSak6Hhusatahwi_00880#TEXT_REGSAK6HHUSATAHWI_00880_HHUTEPI_000_003", "hash": "3E5E3DF0F3299FB5", "target": "È sorprendente quanto in fretta tutti si siano abituati alla cupola all'orizzonte. Ora che chi sta dentro può entrare e uscire liberamente, mi piacerebbe sedermi a bere qualcosa con quella brava gente. E a te?" },
+    { "gameKey": "custom/008/RegSak6Hhusatahwi_00880#TEXT_REGSAK6HHUSATAHWI_00880_HHUTEPI_Q1_000_000", "hash": "40B72311A4D94F5F", "target": "Cosa vuoi chiedere?" },
+    { "gameKey": "custom/008/RegSak6Hhusatahwi_00880#TEXT_REGSAK6HHUSATAHWI_00880_HHUTEPI_A1_000_001", "hash": "27C8803A03BE327A", "target": "Informarsi sul lavoro svolto qui." },
+    { "gameKey": "custom/008/RegSak6Hhusatahwi_00880#TEXT_REGSAK6HHUSATAHWI_00880_HHUTEPI_A1_000_002", "hash": "500626A618B00140", "target": "Che posto è questo?" },
+    { "gameKey": "custom/008/RegSak6Hhusatahwi_00880#TEXT_REGSAK6HHUSATAHWI_00880_HHUTEPI_A1_000_003", "hash": "291B09BF0C3EDF37", "target": "Niente." },
+    { "gameKey": "custom/008/RegSak6Hhusatahwi_00880#TEXT_REGSAK6HHUSATAHWI_00880_HHUTEPI_000_004", "hash": "39146ED269B8C498", "target": "Con tutti i mercanti e i viaggiatori che passano di qui, serviva una guida che aiutasse la gente a trovare ciò che cerca. Ed è qui che entro in gioco io. A proposito, mi chiamo Hhutepi." },
+    { "gameKey": "custom/008/RegSak6Hhusatahwi_00880#TEXT_REGSAK6HHUSATAHWI_00880_HHUTEPI_000_005", "hash": "A0F15C03183FACFA", "target": "Vorrei poter dire che lo faccio solo per bontà d'animo, ma tutti dobbiamo campare in qualche modo. Non significa che ti farò pagare, bada: sono le attività a darmi un compenso per metterle in contatto con potenziali clienti." },
+    { "gameKey": "custom/008/RegSak6Hhusatahwi_00880#TEXT_REGSAK6HHUSATAHWI_00880_HHUTEPI_000_006", "hash": "64B9287D9073E1C4", "target": "In poche parole, questa è una città di commerci. La più grande da questa parte di Zorgor the Boundless, ci scommetto." },
+    { "gameKey": "custom/008/RegSak6Hhusatahwi_00880#TEXT_REGSAK6HHUSATAHWI_00880_HHUTEPI_000_007", "hash": "74C6EE126865FD1D", "target": "Niente male, se pensi che qui non c'era nulla fino a pochi anni fa. Kemakka e la sua famiglia hanno comprato il terreno, eretto un'eterite e cominciato a costruire magazzini per le merci importate." },
+    { "gameKey": "custom/008/RegSak6Hhusatahwi_00880#TEXT_REGSAK6HHUSATAHWI_00880_HHUTEPI_000_008", "hash": "860319AED51A560D", "target": "Grazie ai viaggiatori provenienti da ogni angolo di Tural, quei magazzini si sono riempiti fino a scoppiare in poco tempo. Con tanta merce che passa per la città e le attività minerarie nelle Springs, gli affari vanno a gonfie vele!" }
   ]
 }

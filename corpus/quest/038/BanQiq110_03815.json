@@ -2,19 +2,19 @@
   "conversation": "quest/038/BanQiq110_03815",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/038/BanQiq110_03815#TEXT_BANQIQ110_03815_SEQ_00", "hash": "05CA522473ED365E", "target": "" },
-    { "gameKey": "quest/038/BanQiq110_03815#TEXT_BANQIQ110_03815_SEQ_01", "hash": "562A3EA52457DD30", "target": "" },
-    { "gameKey": "quest/038/BanQiq110_03815#TEXT_BANQIQ110_03815_TODO_00", "hash": "EDA9157649160E3C", "target": "" },
-    { "gameKey": "quest/038/BanQiq110_03815#TEXT_BANQIQ110_03815_QHOTERLPASOL_000_000", "hash": "C81157037DFA4941", "target": "" },
-    { "gameKey": "quest/038/BanQiq110_03815#TEXT_BANQIQ110_03815_QHOTERLPASOL_000_001", "hash": "CA9B3C804018F4E4", "target": "" },
-    { "gameKey": "quest/038/BanQiq110_03815#TEXT_BANQIQ110_03815_QHOTERLPASOL_000_010", "hash": "3E156B46C13249F0", "target": "" },
-    { "gameKey": "quest/038/BanQiq110_03815#TEXT_BANQIQ110_03815_QHOTERLPASOL_000_020", "hash": "63680455A5B636A8", "target": "" },
-    { "gameKey": "quest/038/BanQiq110_03815#TEXT_BANQIQ110_03815_QHOTERLPASOL_000_030", "hash": "D5F2044EC2E0C979", "target": "" },
-    { "gameKey": "quest/038/BanQiq110_03815#TEXT_BANQIQ110_03815_QHOTERLPASOL_000_040", "hash": "E32A1D989C3D749E", "target": "" },
-    { "gameKey": "quest/038/BanQiq110_03815#TEXT_BANQIQ110_03815_QHOTERLPASOL_000_050", "hash": "21DE71FFFB1EE3C0", "target": "" },
-    { "gameKey": "quest/038/BanQiq110_03815#TEXT_BANQIQ110_03815_QHOTERLPASOL_000_060", "hash": "0607206FE4AE5D80", "target": "" },
-    { "gameKey": "quest/038/BanQiq110_03815#TEXT_BANQIQ110_03815_QHOTERLPASOL_000_070", "hash": "0504C915DF862953", "target": "" },
-    { "gameKey": "quest/038/BanQiq110_03815#TEXT_BANQIQ110_03815_QHOTERLPASOL_000_080", "hash": "2B5C564B9209A95A", "target": "" },
-    { "gameKey": "quest/038/BanQiq110_03815#TEXT_BANQIQ110_03815_QHOTERLPASOL_000_081", "hash": "F48A2B813C07048B", "target": "" }
+    { "gameKey": "quest/038/BanQiq110_03815#TEXT_BANQIQ110_03815_SEQ_00", "hash": "05CA522473ED365E", "target": "La goffaggine dei lavoratori getta Qhoterl Pasol nello sconforto.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
+    { "gameKey": "quest/038/BanQiq110_03815#TEXT_BANQIQ110_03815_SEQ_01", "hash": "562A3EA52457DD30", "target": "Consegnare gli oggetti richiesti a Qhoterl Pasol" },
+    { "gameKey": "quest/038/BanQiq110_03815#TEXT_BANQIQ110_03815_TODO_00", "hash": "EDA9157649160E3C", "target": "<if([lnum4==16],<if([lnum1<lnum2],Estrarre splendid mineral oil nell'Astropoli di K'mul,Consegnare splendid mineral oil a Qhoterl Pasol)>,<if([lnum4==17],<if([lnum1<lnum2],Raccogliere splendid greenwattle nell'Astropoli di K'mul,Consegnare splendid greenwattle a Qhoterl Pasol)>,<if([lnum4==18],<if([lnum1<lnum2],Raccogliere splendid pondfrond nel Lozatl,Consegnare splendid pondfrond a Qhoterl Pasol)>,)>)>)>" },
+    { "gameKey": "quest/038/BanQiq110_03815#TEXT_BANQIQ110_03815_QHOTERLPASOL_000_000", "hash": "C81157037DFA4941", "target": "Le caverne sotterranee possono essere terribilmente pericolose! I lavoratori non fanno che inciampare e sbucciarsi il muso e chissà cos'altro." },
+    { "gameKey": "quest/038/BanQiq110_03815#TEXT_BANQIQ110_03815_QHOTERLPASOL_000_001", "hash": "CA9B3C804018F4E4", "target": "Per fortuna le Viis ci hanno gentilmente dato la ricetta di un unguento miracoloso per tagli e graffi. Se non avete troppo da fare, potreste aiutarmi a raccogliere qualche ingrediente?" },
+    { "gameKey": "quest/038/BanQiq110_03815#TEXT_BANQIQ110_03815_QHOTERLPASOL_000_010", "hash": "3E156B46C13249F0", "target": "Per ora mi serve dell'olio minerale, che dovreste trovare nei pressi dell'Astropoli di K'mul. Non c'è fretta, ma prima è sempre infinitamente meglio che dopo!" },
+    { "gameKey": "quest/038/BanQiq110_03815#TEXT_BANQIQ110_03815_QHOTERLPASOL_000_020", "hash": "63680455A5B636A8", "target": "Per ora mi serve del greenwattle, che dovreste trovare nei pressi dell'Astropoli di K'mul. Non c'è fretta, ma prima è sempre infinitamente meglio che dopo!" },
+    { "gameKey": "quest/038/BanQiq110_03815#TEXT_BANQIQ110_03815_QHOTERLPASOL_000_030", "hash": "D5F2044EC2E0C979", "target": "Per ora mi serve soltanto un pezzo di pondfrond, che cresce nel Lozatl. È piuttosto difficile da trovare, ma un fruit worm vi condurrà dritto a lui. A quanto pare, è attirato dall'odore!" },
+    { "gameKey": "quest/038/BanQiq110_03815#TEXT_BANQIQ110_03815_QHOTERLPASOL_000_040", "hash": "E32A1D989C3D749E", "target": "Come procede la ricerca degli ingredienti?" },
+    { "gameKey": "quest/038/BanQiq110_03815#TEXT_BANQIQ110_03815_QHOTERLPASOL_000_050", "hash": "21DE71FFFB1EE3C0", "target": "Come procede la ricerca degli ingredienti?" },
+    { "gameKey": "quest/038/BanQiq110_03815#TEXT_BANQIQ110_03815_QHOTERLPASOL_000_060", "hash": "0607206FE4AE5D80", "target": "Avete trovato il pondfrond?" },
+    { "gameKey": "quest/038/BanQiq110_03815#TEXT_BANQIQ110_03815_QHOTERLPASOL_000_070", "hash": "0504C915DF862953", "target": "Dal vostro passo vivace capisco che avete avuto successo. Forza, vediamo cosa mi avete portato!" },
+    { "gameKey": "quest/038/BanQiq110_03815#TEXT_BANQIQ110_03815_QHOTERLPASOL_000_080", "hash": "2B5C564B9209A95A", "target": "Splendido! Così preparerò un'altra scorta di unguento in men che non si dica, anche se non posso fare a meno di pensare che, in questo caso, prevenire sarebbe meglio che curare." },
+    { "gameKey": "quest/038/BanQiq110_03815#TEXT_BANQIQ110_03815_QHOTERLPASOL_000_081", "hash": "F48A2B813C07048B", "target": "Forse, se i lavoratori smettessero di ferirsi a ogni occasione, non ne servirebbe tanto. Fino ad allora, potrei dover ricorrere ancora ai vostri talenti!" }
   ]
 }

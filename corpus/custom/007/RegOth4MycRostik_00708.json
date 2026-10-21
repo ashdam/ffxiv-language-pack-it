@@ -2,13 +2,13 @@
   "conversation": "custom/007/RegOth4MycRostik_00708",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/007/RegOth4MycRostik_00708#TEXT_REGOTH4MYCROSTIK_00708_ROSTIK_000_000", "hash": "E0AE97FC5D6026F3", "target": "" },
-    { "gameKey": "custom/007/RegOth4MycRostik_00708#TEXT_REGOTH4MYCROSTIK_00708_ROSTIK_100_030", "hash": "FCFE40FBF9CCB269", "target": "" },
-    { "gameKey": "custom/007/RegOth4MycRostik_00708#TEXT_REGOTH4MYCROSTIK_00708_ROSTIK_100_040", "hash": "E341F749155CB987", "target": "" },
-    { "gameKey": "custom/007/RegOth4MycRostik_00708#TEXT_REGOTH4MYCROSTIK_00708_ROSTIK_000_050", "hash": "3EC91014AF0CB9EE", "target": "" },
-    { "gameKey": "custom/007/RegOth4MycRostik_00708#TEXT_REGOTH4MYCROSTIK_00708_ROSTIK_000_055", "hash": "2B059DEE50809846", "target": "" },
-    { "gameKey": "custom/007/RegOth4MycRostik_00708#TEXT_REGOTH4MYCROSTIK_00708_ROSTIK_000_060", "hash": "5E10436F5A6EE41D", "target": "" },
-    { "gameKey": "custom/007/RegOth4MycRostik_00708#TEXT_REGOTH4MYCROSTIK_00708_ROSTIK_000_065", "hash": "A9F05DB5515A28EE", "target": "" },
-    { "gameKey": "custom/007/RegOth4MycRostik_00708#TEXT_REGOTH4MYCROSTIK_00708_ROSTIK_000_070", "hash": "2A5B6BB33889215D", "target": "" }
+    { "gameKey": "custom/007/RegOth4MycRostik_00708#TEXT_REGOTH4MYCROSTIK_00708_ROSTIK_000_000", "hash": "E0AE97FC5D6026F3", "target": "Neanche nei miei sogni più sfrenati avrei immaginato che un giorno la lama sacra Save the Queen sarebbe finita nelle mie mani. Siamo fortunati ad averla recuperata prima dell'arrivo del grosso dell'esercito nemico." },
+    { "gameKey": "custom/007/RegOth4MycRostik_00708#TEXT_REGOTH4MYCROSTIK_00708_ROSTIK_100_030", "hash": "FCFE40FBF9CCB269", "target": "Perdonami, non ci siamo presentati come si deve. Mi chiamo Rostik. Per molto tempo ho scelto di combattere da solo contro l'Impero, ma ora capisco quanto fosse sciocca la mia impresa. E, visto il grande debito che ho con Bajsaljen, mi è sembrato naturale mettere la mia lama al servizio della Resistenza." },
+    { "gameKey": "custom/007/RegOth4MycRostik_00708#TEXT_REGOTH4MYCROSTIK_00708_ROSTIK_100_040", "hash": "E341F749155CB987", "target": "Ci siamo incontrati per la prima volta al Punto della Provvidenza, vero? Mi conforta sapere che tra noi c'è <if(gnum4,un'altra gunbreaker,un altro gunbreaker)> e <if(gnum4,compagna,compagno)> di Radovan." },
+    { "gameKey": "custom/007/RegOth4MycRostik_00708#TEXT_REGOTH4MYCROSTIK_00708_ROSTIK_000_050", "hash": "3EC91014AF0CB9EE", "target": "Ora che affrontiamo le navi da guerra imperiali, le probabilità sono contro di noi. Ma non dobbiamo perdere la speranza, <if(gnum4,amica mia,amico mio)>. Se qualcuno può condurci alla vittoria, è Bajsaljen." },
+    { "gameKey": "custom/007/RegOth4MycRostik_00708#TEXT_REGOTH4MYCROSTIK_00708_ROSTIK_000_055", "hash": "2B059DEE50809846", "target": "È curioso che la IV Legione abbia radunato una simile flotta e scelga comunque di ritirarsi anziché attaccare. A quanto pare non intendono ripiegare su Dalmasca: che cosa avranno in mente?" },
+    { "gameKey": "custom/007/RegOth4MycRostik_00708#TEXT_REGOTH4MYCROSTIK_00708_ROSTIK_000_060", "hash": "5E10436F5A6EE41D", "target": "Lascerò a menti più acute, come quella di Bajsaljen, il compito di districare i piani imperiali. Le mie capacità sono molto più utili sul campo di battaglia." },
+    { "gameKey": "custom/007/RegOth4MycRostik_00708#TEXT_REGOTH4MYCROSTIK_00708_ROSTIK_000_065", "hash": "A9F05DB5515A28EE", "target": "Per quanto mi costi ammetterlo, Bajsaljen aveva ragione: un uomo da solo può fare solo fino a un certo punto. Ma insieme, il nostro potenziale non ha limiti. Bozja <italic(1)>sarà<italic(0)> libera, su questo non ho dubbi." },
+    { "gameKey": "custom/007/RegOth4MycRostik_00708#TEXT_REGOTH4MYCROSTIK_00708_ROSTIK_000_070", "hash": "2A5B6BB33889215D", "target": "Dunque sono venuti in cerca di reliquie allagan? Se dovessero scoprire qualcosa di simile all'Arma Ultima, bisognerà fermarli prima che possano scatenare una simile mostruosità sul mondo." }
   ]
 }

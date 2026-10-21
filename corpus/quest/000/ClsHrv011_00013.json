@@ -75,7 +75,7 @@
     { "gameKey": "quest/000/ClsHrv011_00013#TEXT_CLSHRV011_00013_FUFUCHA_000_085", "hash": "93FBE54E445D869C", "target": "State <if(gnum4,tranquilla,tranquillo)>, <split(<string(gstr1)>, ,1)>. Resterò qui alla fattoria. Come potrei fare altrimenti? In questi tempi bui la foresta ha bisogno di tutti gli amici che può trovare, e sembra che io abbia ancora molto da imparare." },
     { "gameKey": "quest/000/ClsHrv011_00013#TEXT_CLSHRV011_00013_FUFUCHA_000_086", "hash": "344B4E0CB7879813", "target": "Sarei onorata di continuare a percorrere con voi il cammino della botanica. Non come capogilda e apprendista, ma alla pari, custodi della foresta insieme. Che i vostri viaggi siano sempre sicuri." },
     { "gameKey": "quest/000/ClsHrv011_00013#TEXT_CLSHRV011_00013_SYSTEM_000_500", "hash": "6FE41B9584D0C0BE", "target": "Qui si concludono le missioni di Botanist di FINAL FANTASY XIV: A Realm Reborn. Per intraprendere la prossima serie di missioni, devi prima soddisfare i seguenti requisiti:" },
-    { "gameKey": "quest/000/ClsHrv011_00013#TEXT_CLSHRV011_00013_SYSTEM_000_501", "hash": "54A7E24F1F7E64A0", "target": "※Devi aver completato la missione dello scenario principale «Before the Dawn»." },
+    { "gameKey": "quest/000/ClsHrv011_00013#TEXT_CLSHRV011_00013_SYSTEM_000_501", "hash": "54A7E24F1F7E64A0", "target": "※Devi aver completato la missione della storia principale «Before the Dawn»." },
     { "gameKey": "quest/000/ClsHrv011_00013#TEXT_CLSHRV011_00013_SYSTEM_000_502", "hash": "204EEA87C1FB707E", "target": "Una volta fatto, la prossima missione di Botanist sarà disponibile da Fufucha." }
   ]
 }

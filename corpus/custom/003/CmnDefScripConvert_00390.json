@@ -2,15 +2,15 @@
   "conversation": "custom/003/CmnDefScripConvert_00390",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/003/CmnDefScripConvert_00390#TEXT_CMNDEFSCRIPCONVERT_00390_TALK_GREETING_00000", "hash": "CAAD4F74BF2E5350", "target": "" },
-    { "gameKey": "custom/003/CmnDefScripConvert_00390#TEXT_CMNDEFSCRIPCONVERT_00390_ASK_SCRIP_Q000", "hash": "091BBFB19CA15BE6", "target": "" },
-    { "gameKey": "custom/003/CmnDefScripConvert_00390#TEXT_CMNDEFSCRIPCONVERT_00390_ASK_SCRIP_A001", "hash": "F26FCA90A389ED92", "target": "" },
-    { "gameKey": "custom/003/CmnDefScripConvert_00390#TEXT_CMNDEFSCRIPCONVERT_00390_ASK_SCRIP_A002", "hash": "07CB385FF9D0E9C6", "target": "" },
-    { "gameKey": "custom/003/CmnDefScripConvert_00390#TEXT_CMNDEFSCRIPCONVERT_00390_ASK_SCRIP_A003", "hash": "D738A819E74FB056", "target": "" },
-    { "gameKey": "custom/003/CmnDefScripConvert_00390#TEXT_CMNDEFSCRIPCONVERT_00390_ASK_EXCHANGE_Q000", "hash": "5EE4E2F6E466F8F6", "target": "" },
-    { "gameKey": "custom/003/CmnDefScripConvert_00390#TEXT_CMNDEFSCRIPCONVERT_00390_ASK_LIMIT_Q000", "hash": "A52998F12387614E", "target": "" },
-    { "gameKey": "custom/003/CmnDefScripConvert_00390#TEXT_CMNDEFSCRIPCONVERT_00390_SYSTEM_EXCHANGE_00000", "hash": "B33A12DC756C9B5B", "target": "" },
-    { "gameKey": "custom/003/CmnDefScripConvert_00390#TEXT_CMNDEFSCRIPCONVERT_00390_TALK_NOTOBTAINABLE_00000", "hash": "912EFED892E73CF5", "target": "" },
-    { "gameKey": "custom/003/CmnDefScripConvert_00390#TEXT_CMNDEFSCRIPCONVERT_00390_TALK_MAXIMUM_00000", "hash": "BA096881979A7DDD", "target": "" }
+    { "gameKey": "custom/003/CmnDefScripConvert_00390#TEXT_CMNDEFSCRIPCONVERT_00390_TALK_GREETING_00000", "hash": "CAAD4F74BF2E5350", "target": "Salve, <if(gnum4,signora,signore)>. Se avete <ennoun(Item,3,lnum1,2,1)> o <ennoun(Item,3,lnum2,2,1)>, sarà un piacere offrirvi in cambio rispettivamente <ennoun(Item,3,lnum3,2,1)> e <ennoun(Item,3,lnum4,2,1)>." },
+    { "gameKey": "custom/003/CmnDefScripConvert_00390#TEXT_CMNDEFSCRIPCONVERT_00390_ASK_SCRIP_Q000", "hash": "091BBFB19CA15BE6", "target": "Seleziona gli scrip che vuoi scambiare." },
+    { "gameKey": "custom/003/CmnDefScripConvert_00390#TEXT_CMNDEFSCRIPCONVERT_00390_ASK_SCRIP_A001", "hash": "F26FCA90A389ED92", "target": "<headall(<ennoun(Item,3,lnum1,2,1)>)>." },
+    { "gameKey": "custom/003/CmnDefScripConvert_00390#TEXT_CMNDEFSCRIPCONVERT_00390_ASK_SCRIP_A002", "hash": "07CB385FF9D0E9C6", "target": "<headall(<ennoun(Item,3,lnum1,2,1)>)>." },
+    { "gameKey": "custom/003/CmnDefScripConvert_00390#TEXT_CMNDEFSCRIPCONVERT_00390_ASK_SCRIP_A003", "hash": "D738A819E74FB056", "target": "Annulla" },
+    { "gameKey": "custom/003/CmnDefScripConvert_00390#TEXT_CMNDEFSCRIPCONVERT_00390_ASK_EXCHANGE_Q000", "hash": "5EE4E2F6E466F8F6", "target": "Scambiare <if([lnum2==1],<num(lnum2)> <ennoun(Item,3,lnum1,1,1)>,<num(lnum2)> <ennoun(Item,3,lnum1,lnum2,1)>)> con <if([lnum4==1],<num(lnum4)> <ennoun(Item,3,lnum3,1,1)>,<num(lnum4)> <ennoun(Item,3,lnum3,lnum4,1)>)>?" },
+    { "gameKey": "custom/003/CmnDefScripConvert_00390#TEXT_CMNDEFSCRIPCONVERT_00390_ASK_LIMIT_Q000", "hash": "A52998F12387614E", "target": "Attenzione: non potrai ricevere l'intera quantità di <ennoun(Item,3,lnum1,2,1)>. Vuoi procedere comunque?" },
+    { "gameKey": "custom/003/CmnDefScripConvert_00390#TEXT_CMNDEFSCRIPCONVERT_00390_SYSTEM_EXCHANGE_00000", "hash": "B33A12DC756C9B5B", "target": "Scambio completato." },
+    { "gameKey": "custom/003/CmnDefScripConvert_00390#TEXT_CMNDEFSCRIPCONVERT_00390_TALK_NOTOBTAINABLE_00000", "hash": "912EFED892E73CF5", "target": "Oh? Non sembra che abbiate <ennoun(Item,3,lnum1,2,1)>..." },
+    { "gameKey": "custom/003/CmnDefScripConvert_00390#TEXT_CMNDEFSCRIPCONVERT_00390_TALK_MAXIMUM_00000", "hash": "BA096881979A7DDD", "target": "Oh? Pare che possediate già la quantità massima consentita di <ennoun(Item,3,lnum1,2,1)>..." }
   ]
 }

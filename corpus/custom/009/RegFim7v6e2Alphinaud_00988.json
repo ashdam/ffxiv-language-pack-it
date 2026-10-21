@@ -2,12 +2,12 @@
   "conversation": "custom/009/RegFim7v6e2Alphinaud_00988",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/009/RegFim7v6e2Alphinaud_00988#TEXT_REGFIM7V6E2ALPHINAUD_00988_ALPHINAUD_000_000", "hash": "5AF972C4EC0F457C", "target": "" },
-    { "gameKey": "custom/009/RegFim7v6e2Alphinaud_00988#TEXT_REGFIM7V6E2ALPHINAUD_00988_ALPHINAUD_000_001", "hash": "8AA75BCA685411DE", "target": "" },
-    { "gameKey": "custom/009/RegFim7v6e2Alphinaud_00988#TEXT_REGFIM7V6E2ALPHINAUD_00988_ALPHINAUD_000_100", "hash": "3F4B64FEA7EA58CB", "target": "" },
-    { "gameKey": "custom/009/RegFim7v6e2Alphinaud_00988#TEXT_REGFIM7V6E2ALPHINAUD_00988_ALPHINAUD_000_101", "hash": "6E2578A594089CE5", "target": "" },
-    { "gameKey": "custom/009/RegFim7v6e2Alphinaud_00988#TEXT_REGFIM7V6E2ALPHINAUD_00988_ALPHINAUD_000_102", "hash": "A841E53703F5ACAE", "target": "" },
-    { "gameKey": "custom/009/RegFim7v6e2Alphinaud_00988#TEXT_REGFIM7V6E2ALPHINAUD_00988_ALPHINAUD_000_200", "hash": "B3898F027A349F8A", "target": "" },
-    { "gameKey": "custom/009/RegFim7v6e2Alphinaud_00988#TEXT_REGFIM7V6E2ALPHINAUD_00988_ALPHINAUD_000_201", "hash": "CCC60D1695261F42", "target": "" }
+    { "gameKey": "custom/009/RegFim7v6e2Alphinaud_00988#TEXT_REGFIM7V6E2ALPHINAUD_00988_ALPHINAUD_000_000", "hash": "5AF972C4EC0F457C", "target": "I Fimm Himnar, i cinque firmamenti... Fa riflettere pensare che siano tutto ciò che resta all’umanità." },
+    { "gameKey": "custom/009/RegFim7v6e2Alphinaud_00988#TEXT_REGFIM7V6E2ALPHINAUD_00988_ALPHINAUD_000_001", "hash": "8AA75BCA685411DE", "target": "Non ci sono altre imbarcazioni nel cielo, men che meno navi-regno. Incontrare qualcuno di un altro collettivo deve essere davvero raro." },
+    { "gameKey": "custom/009/RegFim7v6e2Alphinaud_00988#TEXT_REGFIM7V6E2ALPHINAUD_00988_ALPHINAUD_000_100", "hash": "3F4B64FEA7EA58CB", "target": "<split(<string(gstr1)>, ,1)>, vedi l’oggetto in lontananza? A quanto pare è la nave-regno dell’acqua, la <italic(1)>Naglfar<italic(0)>." },
+    { "gameKey": "custom/009/RegFim7v6e2Alphinaud_00988#TEXT_REGFIM7V6E2ALPHINAUD_00988_ALPHINAUD_000_101", "hash": "6E2578A594089CE5", "target": "Per sfuggire agli jötnar, è sempre in movimento. Ecco perché il viaggio richiede tanto tempo." },
+    { "gameKey": "custom/009/RegFim7v6e2Alphinaud_00988#TEXT_REGFIM7V6E2ALPHINAUD_00988_ALPHINAUD_000_102", "hash": "A841E53703F5ACAE", "target": "L’equipaggio della <italic(1)>Glaðr<italic(0)> non deve soltanto stare in guardia contro i servi, ma anche prevedere il percorso sempre mutevole della nave madre. Il semplice ritorno a casa è un’impresa ardua." },
+    { "gameKey": "custom/009/RegFim7v6e2Alphinaud_00988#TEXT_REGFIM7V6E2ALPHINAUD_00988_ALPHINAUD_000_200", "hash": "B3898F027A349F8A", "target": "Finalmente siamo abbastanza vicini alla <italic(1)>Naglfar<italic(0)> da distinguerne i dettagli. Non posso fare a meno di chiedermi quali spettacoli ci attendano laggiù..." },
+    { "gameKey": "custom/009/RegFim7v6e2Alphinaud_00988#TEXT_REGFIM7V6E2ALPHINAUD_00988_ALPHINAUD_000_201", "hash": "CCC60D1695261F42", "target": "Ora che i nostri compagni sono rassicurati, possiamo rivolgere tutta l’attenzione al compito che ci aspetta. Facciamoci trovare pronti quando sarà il momento di sbarcare!" }
   ]
 }

@@ -2,15 +2,15 @@
   "conversation": "quest/052/BanPel113_05211",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_SEQ_00", "hash": "96D2DBF234ED6D8A", "target": "" },
-    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_TODO_00", "hash": "D71249052CE21773", "target": "" },
-    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_TODO_01", "hash": "91C7706CE765C6BD", "target": "" },
-    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_000", "hash": "89CCEC77C3625A32", "target": "" },
-    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_001", "hash": "34EF203AAE971CB8", "target": "" },
-    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_002", "hash": "BD93F037801B6BAF", "target": "" },
-    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_010", "hash": "D958379B1AACF532", "target": "" },
-    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_020", "hash": "44EF82C3776FB0AD", "target": "" },
-    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_021", "hash": "4F977DA947E51C0A", "target": "" },
-    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_022", "hash": "2F447052B6FA8B7E", "target": "" }
+    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_SEQ_00", "hash": "96D2DBF234ED6D8A", "target": "Yubli desidera rifornire l'agenzia di repellente per mostri.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
+    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_TODO_00", "hash": "D71249052CE21773", "target": "Usare gli estrattori per raccogliere nettare dai fiori profumati vicino a Xodune" },
+    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_TODO_01", "hash": "91C7706CE765C6BD", "target": "Consegnare il nettare profumato a Yubli" },
+    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_000", "hash": "89CCEC77C3625A32", "target": "Nel continuo sforzo di tenere lontani i mostri dalla zona, usiamo un incenso potente. Le scorte, però, sono diminuite e presto dovremo prepararne altro." },
+    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_001", "hash": "34EF203AAE971CB8", "target": "Purtroppo non abbiamo gli ingredienti necessari a portata di mano. Creiamo l'incenso con il nettare di un fiore particolarmente profumato. Il problema è che cresce in un luogo piuttosto pericoloso e possiamo chiedere a poche persone di affrontare il viaggio." },
+    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_002", "hash": "BD93F037801B6BAF", "target": "Ma non immagino che <if(gnum4,la nostra consulente speciale,il nostro consulente speciale)> avrà molta difficoltà! Ecco, prendete questi estrattori. Usandoli, dovreste poter raccogliere il nettare senza danneggiare il fogliame. Dirigetevi a Xodune, la pianta cresce nei dintorni." },
+    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_010", "hash": "D958379B1AACF532", "target": "<if(gnum4,Bentornata,Bentornato)>. Avete raccolto nettare a sufficienza?" },
+    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_020", "hash": "44EF82C3776FB0AD", "target": "Riconosco questo profumo! Ottimo lavoro, <split(<string(gstr1)>, ,1)>." },
+    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_021", "hash": "4F977DA947E51C0A", "target": "Sono stati gli Hanuhanu a condividere con noi la ricetta del repellente. A quanto pare è particolarmente efficace contro i mostri originari di Kozama'uka." },
+    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_022", "hash": "2F447052B6FA8B7E", "target": "Grazie a quel potente odore, gli incontri con i mostri sono diminuiti e la soddisfazione dei clienti è cresciuta! Ha anche alleggerito il carico delle nostre guide protettrici. Comunque, lo consumiamo in fretta, quindi vi avviserò quando servirà rifornirci!" }
   ]
 }

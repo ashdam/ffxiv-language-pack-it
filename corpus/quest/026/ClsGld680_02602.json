@@ -15,7 +15,7 @@
     { "gameKey": "quest/026/ClsGld680_02602#TEXT_CLSGLD680_02602_TODO_02", "hash": "0912DFFFEE6FB756", "target": "Parlare con J'khebica" },
     { "gameKey": "quest/026/ClsGld680_02602#TEXT_CLSGLD680_02602_TODO_03", "hash": "A46EBD77FD9AE0E6", "target": "Parlare con Wido" },
     { "gameKey": "quest/026/ClsGld680_02602#TEXT_CLSGLD680_02602_TODO_04", "hash": "B1B5655612FB0DFD", "target": "Parlare con Hal" },
-    { "gameKey": "quest/026/ClsGld680_02602#TEXT_CLSGLD680_02602_TODO_05", "hash": "E618E0F5CCBEAEEE", "target": "Aspettare nel luogo designato" },
+    { "gameKey": "quest/026/ClsGld680_02602#TEXT_CLSGLD680_02602_TODO_05", "hash": "E618E0F5CCBEAEEE", "target": "Attendere nel luogo indicato" },
     { "gameKey": "quest/026/ClsGld680_02602#TEXT_CLSGLD680_02602_TODO_06", "hash": "4F2B8B76B187F8DF", "target": "Parlare con Emeloth a Rhalgr's Reach" },
     { "gameKey": "quest/026/ClsGld680_02602#TEXT_CLSGLD680_02602_TODO_07", "hash": "0C2C67AB5C38C16D", "target": "<if([lnum1<lnum2],Realizzare un sample chronometer <sheet(Addon,9,0)>,Consegnare il sample chronometer <sheet(Addon,9,0)> a Emeloth)>" },
     { "gameKey": "quest/026/ClsGld680_02602#TEXT_CLSGLD680_02602_EMELOTH_000_030", "hash": "B8485F5E50444364", "target": "<if(gnum4,Maestra,Maestro)>, confido che stiate bene. Mi fa piacere dire che gli apprendisti compiono progressi solidi. È tanta la loro dedizione che hanno persino formato un gruppo di studio di propria iniziativa." },

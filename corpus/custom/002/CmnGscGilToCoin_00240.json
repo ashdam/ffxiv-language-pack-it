@@ -2,10 +2,10 @@
   "conversation": "custom/002/CmnGscGilToCoin_00240",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/CmnGscGilToCoin_00240#TEXT_CMNGSCGILTOCOIN_00240_TALK_ACTOR", "hash": "F5B6711A2A1EF3C1", "target": "" },
-    { "gameKey": "custom/002/CmnGscGilToCoin_00240#TEXT_CMNGSCGILTOCOIN_00240_ERROR_GIL", "hash": "71A37418DDE59373", "target": "" },
-    { "gameKey": "custom/002/CmnGscGilToCoin_00240#TEXT_CMNGSCGILTOCOIN_00240_ERROR_COIN_MAX", "hash": "360FD2CC56BB2966", "target": "" },
-    { "gameKey": "custom/002/CmnGscGilToCoin_00240#TEXT_CMNGSCGILTOCOIN_00240_ERROR_COIN_MAX_SYSTEM_000", "hash": "E9321F39DE587129", "target": "" },
-    { "gameKey": "custom/002/CmnGscGilToCoin_00240#TEXT_CMNGSCGILTOCOIN_00240_ERROR_COIN_MAX_SYSTEM_001", "hash": "FA5CF3E1E947A22C", "target": "" }
+    { "gameKey": "custom/002/CmnGscGilToCoin_00240#TEXT_CMNGSCGILTOCOIN_00240_TALK_ACTOR", "hash": "F5B6711A2A1EF3C1", "target": "Vi diamo il benvenuto al Gold Saucer! Se volete scambiare i vostri normali Gil con scintillanti MGP nuovi di zecca, siete nel posto giusto. Che ne dite?" },
+    { "gameKey": "custom/002/CmnGscGilToCoin_00240#TEXT_CMNGSCGILTOCOIN_00240_ERROR_GIL", "hash": "71A37418DDE59373", "target": "Mi dispiace, ma sembra che non abbiate i fondi necessari per la transazione. Posso suggerirvi di controllare che il borsellino non sia bucato?" },
+    { "gameKey": "custom/002/CmnGscGilToCoin_00240#TEXT_CMNGSCGILTOCOIN_00240_ERROR_COIN_MAX", "hash": "360FD2CC56BB2966", "target": "Oh, oh! A quanto pare avete già una bella somma di MGP, gentile cliente. Se ne volete altri, dovrete guadagnarveli!" },
+    { "gameKey": "custom/002/CmnGscGilToCoin_00240#TEXT_CMNGSCGILTOCOIN_00240_ERROR_COIN_MAX_SYSTEM_000", "hash": "E9321F39DE587129", "target": "Il servizio di cambio è riservato a chi possiede meno di 500 MGP." },
+    { "gameKey": "custom/002/CmnGscGilToCoin_00240#TEXT_CMNGSCGILTOCOIN_00240_ERROR_COIN_MAX_SYSTEM_001", "hash": "FA5CF3E1E947A22C", "target": "Puoi vincere altri MGP nei numerosi eventi e nelle attrazioni del Gold Saucer. Che la Filatrice ti sorrida!" }
   ]
 }

@@ -2,15 +2,15 @@
   "conversation": "quest/037/BanPix118_03706",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_SEQ_00", "hash": "3B308CEA3C8E44A0", "target": "" },
-    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_TODO_00", "hash": "968691807718E570", "target": "" },
-    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_TODO_01", "hash": "A2CC0FD325DCFE0C", "target": "" },
-    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_UINNEE_000_000", "hash": "F75F1777E4268C86", "target": "" },
-    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_UINNEE_000_001", "hash": "1D3A6FF6DA837FA4", "target": "" },
-    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_UINNEE_000_002", "hash": "E9E4D93FB673985B", "target": "" },
-    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_UINNEE_000_003", "hash": "113F70E5CC3F3D83", "target": "" },
-    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_UINNEE_000_010", "hash": "6B4B53A884F02DEB", "target": "" },
-    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_UINNEE_000_011", "hash": "78DF78C7BDFBE536", "target": "" },
-    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_UINNEE_000_012", "hash": "A1EDB33647744B4E", "target": "" }
+    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_SEQ_00", "hash": "3B308CEA3C8E44A0", "target": "Uin Nee spera di smuovere le acque a Lyhe Mheg.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
+    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_TODO_00", "hash": "968691807718E570", "target": "Esaminare il punto indicato a nord-est di Phisor Lran e ottenere il cuore di una icewater undine" },
+    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_TODO_01", "hash": "A2CC0FD325DCFE0C", "target": "Consegnare il cuore di ondina d'acqua gelida a Uin Nee" },
+    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_UINNEE_000_000", "hash": "F75F1777E4268C86", "target": "Sai per chi mi dispiace? Per i bambini di Amh Araeng. Perché? Lì l'acqua è tanto preziosa che basta a malapena per un bagno, figuriamoci per giochi come «Affonda la strega» o «La sfida di Bismarck»!" },
+    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_UINNEE_000_001", "hash": "1D3A6FF6DA837FA4", "target": "Per loro fortuna, ho ideato un altro dei miei piani geniali! Riempiremo Lyhe Mheg d'acqua!" },
+    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_UINNEE_000_002", "hash": "E9E4D93FB673985B", "target": "Così i bambini si divertiranno come non mai e noi pixie potremo sguazzare e schizzare a piacimento senza essere tormentati da quegli odiosi Fuath." },
+    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_UINNEE_000_003", "hash": "113F70E5CC3F3D83", "target": "Ci serve soltanto un cuore di ondina d'acqua gelida. Dopo la mia magia, avremo fiumi e cascate in abbondanza! Naturalmente sarai tu a raccoglierlo, anche se dubito che la proprietaria sarà felice di separarsene. Non preoccuparti, <italic(1)>probabilmente<italic(0)> non farai una fine orribile!" },
+    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_UINNEE_000_010", "hash": "6B4B53A884F02DEB", "target": "Sei riuscit<if(gnum4,a,o)> a rubare il cuore di un'ondina d'acqua gelida? Alla lettera, intendo." },
+    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_UINNEE_000_011", "hash": "78DF78C7BDFBE536", "target": "Ooh, un bell'esemplare! Con questo possiamo creare tutta l'acqua che ci serve!" },
+    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_UINNEE_000_012", "hash": "A1EDB33647744B4E", "target": "Presto Lyhe Mheg risuonerà delle risate dei bambini che sguazzano, nuotano e si trascinano a vicenda negli abissi, proprio come i Fuath! È solo un sogno, quindi è tutto perfettamente sicuro, a meno che la voce secondo cui «se muori nei sogni, muori anche nella vita reale» non sia vera...<br>In effetti, prima o poi dovrei controllare." }
   ]
 }

@@ -2,14 +2,14 @@
   "conversation": "custom/000/CmnDefTemporaryBag_00083",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/000/CmnDefTemporaryBag_00083#TEXT_CMNDEFTEMPORARYBAG_00083_TALK_ACTOR_01", "hash": "E4CC2CED75F601ED", "target": "" },
-    { "gameKey": "custom/000/CmnDefTemporaryBag_00083#TEXT_CMNDEFTEMPORARYBAG_00083_TALK_Q1", "hash": "6112C4F44F96FCDC", "target": "" },
-    { "gameKey": "custom/000/CmnDefTemporaryBag_00083#TEXT_CMNDEFTEMPORARYBAG_00083_TALK_A1", "hash": "91B000893DFBE27B", "target": "" },
-    { "gameKey": "custom/000/CmnDefTemporaryBag_00083#TEXT_CMNDEFTEMPORARYBAG_00083_TALK_A2", "hash": "6D91D5D01E9D4176", "target": "" },
-    { "gameKey": "custom/000/CmnDefTemporaryBag_00083#TEXT_CMNDEFTEMPORARYBAG_00083_TALK_A3", "hash": "E33EBD7AE6924765", "target": "" },
-    { "gameKey": "custom/000/CmnDefTemporaryBag_00083#TEXT_CMNDEFTEMPORARYBAG_00083_TALK_ACTOR_05", "hash": "8A17198F34401125", "target": "" },
-    { "gameKey": "custom/000/CmnDefTemporaryBag_00083#TEXT_CMNDEFTEMPORARYBAG_00083_TALK_ACTOR_06", "hash": "6727BD303A85DC79", "target": "" },
-    { "gameKey": "custom/000/CmnDefTemporaryBag_00083#TEXT_CMNDEFTEMPORARYBAG_00083_TALK_ACTOR_10", "hash": "289FAB19771A7E5C", "target": "" },
-    { "gameKey": "custom/000/CmnDefTemporaryBag_00083#TEXT_CMNDEFTEMPORARYBAG_00083_TALK_ACTOR_11", "hash": "52885FAEF6E99129", "target": "" }
+    { "gameKey": "custom/000/CmnDefTemporaryBag_00083#TEXT_CMNDEFTEMPORARYBAG_00083_TALK_ACTOR_01", "hash": "E4CC2CED75F601ED", "target": "Salve. Mi occupo di custodire i beni smarriti durante la Calamità." },
+    { "gameKey": "custom/000/CmnDefTemporaryBag_00083#TEXT_CMNDEFTEMPORARYBAG_00083_TALK_Q1", "hash": "6112C4F44F96FCDC", "target": "Siete qui per recuperare i vostri averi?" },
+    { "gameKey": "custom/000/CmnDefTemporaryBag_00083#TEXT_CMNDEFTEMPORARYBAG_00083_TALK_A1", "hash": "91B000893DFBE27B", "target": "Sì, esatto." },
+    { "gameKey": "custom/000/CmnDefTemporaryBag_00083#TEXT_CMNDEFTEMPORARYBAG_00083_TALK_A2", "hash": "6D91D5D01E9D4176", "target": "Ascoltare una spiegazione." },
+    { "gameKey": "custom/000/CmnDefTemporaryBag_00083#TEXT_CMNDEFTEMPORARYBAG_00083_TALK_A3", "hash": "E33EBD7AE6924765", "target": "No." },
+    { "gameKey": "custom/000/CmnDefTemporaryBag_00083#TEXT_CMNDEFTEMPORARYBAG_00083_TALK_ACTOR_05", "hash": "8A17198F34401125", "target": "Durante la Calamità sono scomparse innumerevoli persone, lasciando una vera montagna di oggetti senza proprietario. La Gilda degli Avventurieri li custodisce nella speranza che un giorno i legittimi proprietari tornino a reclamarli." },
+    { "gameKey": "custom/000/CmnDefTemporaryBag_00083#TEXT_CMNDEFTEMPORARYBAG_00083_TALK_ACTOR_06", "hash": "6727BD303A85DC79", "target": "Ricordate, però, che <italic(1)>non<italic(0)> offriamo un servizio di deposito. Gli oggetti che ritirate diventano di vostra esclusiva responsabilità e non potranno esserci restituiti in nessun caso." },
+    { "gameKey": "custom/000/CmnDefTemporaryBag_00083#TEXT_CMNDEFTEMPORARYBAG_00083_TALK_ACTOR_10", "hash": "289FAB19771A7E5C", "target": "Ogni giorno vengono sempre meno persone a reclamare i propri averi." },
+    { "gameKey": "custom/000/CmnDefTemporaryBag_00083#TEXT_CMNDEFTEMPORARYBAG_00083_TALK_ACTOR_11", "hash": "52885FAEF6E99129", "target": "Mi rattrista pensare che alcuni oggetti resteranno per sempre sotto la nostra custodia, perché i loro proprietari non torneranno mai." }
   ]
 }

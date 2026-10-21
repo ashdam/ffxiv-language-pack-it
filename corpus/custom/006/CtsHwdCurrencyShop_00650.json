@@ -2,19 +2,19 @@
   "conversation": "custom/006/CtsHwdCurrencyShop_00650",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/006/CtsHwdCurrencyShop_00650#TEXT_CTSHWDCURRENCYSHOP_00650_ENIE_000_000", "hash": "573F173682A4147B", "target": "" },
-    { "gameKey": "custom/006/CtsHwdCurrencyShop_00650#TEXT_CTSHWDCURRENCYSHOP_00650_ENIE_010_000", "hash": "847E0D4A3F6F38AE", "target": "" },
-    { "gameKey": "custom/006/CtsHwdCurrencyShop_00650#TEXT_CTSHWDCURRENCYSHOP_00650_ENIE_010_010", "hash": "D4F27590649CAFE5", "target": "" },
-    { "gameKey": "custom/006/CtsHwdCurrencyShop_00650#TEXT_CTSHWDCURRENCYSHOP_00650_ENIE_010_020", "hash": "F957C1626F96F500", "target": "" },
-    { "gameKey": "custom/006/CtsHwdCurrencyShop_00650#TEXT_CTSHWDCURRENCYSHOP_00650_ENIE_010_021", "hash": "3E57B42A3C0771FC", "target": "" },
-    { "gameKey": "custom/006/CtsHwdCurrencyShop_00650#TEXT_CTSHWDCURRENCYSHOP_00650_ENIE_010_030", "hash": "F027278D47E21D36", "target": "" },
-    { "gameKey": "custom/006/CtsHwdCurrencyShop_00650#TEXT_CTSHWDCURRENCYSHOP_00650_ENIE_010_040", "hash": "35299EA7F841CCEF", "target": "" },
-    { "gameKey": "custom/006/CtsHwdCurrencyShop_00650#TEXT_CTSHWDCURRENCYSHOP_00650_ENIE_010_050", "hash": "4E3A0C09BD458D49", "target": "" },
-    { "gameKey": "custom/006/CtsHwdCurrencyShop_00650#TEXT_CTSHWDCURRENCYSHOP_00650_ENIE_010_060", "hash": "01100E37F6B79024", "target": "" },
-    { "gameKey": "custom/006/CtsHwdCurrencyShop_00650#TEXT_CTSHWDCURRENCYSHOP_00650_ENIE_020_000", "hash": "B64DD8DD19CD55C7", "target": "" },
-    { "gameKey": "custom/006/CtsHwdCurrencyShop_00650#TEXT_CTSHWDCURRENCYSHOP_00650_ENIE_020_010", "hash": "63A977C797CC09CC", "target": "" },
-    { "gameKey": "custom/006/CtsHwdCurrencyShop_00650#TEXT_CTSHWDCURRENCYSHOP_00650_ENIE_020_020", "hash": "4BB628D6440FB367", "target": "" },
-    { "gameKey": "custom/006/CtsHwdCurrencyShop_00650#TEXT_CTSHWDCURRENCYSHOP_00650_ENIE_020_030", "hash": "EC5F83868C4419D1", "target": "" },
-    { "gameKey": "custom/006/CtsHwdCurrencyShop_00650#TEXT_CTSHWDCURRENCYSHOP_00650_ENIE_020_040", "hash": "1E223312DA8EBA1A", "target": "" }
+    { "gameKey": "custom/006/CtsHwdCurrencyShop_00650#TEXT_CTSHWDCURRENCYSHOP_00650_ENIE_000_000", "hash": "573F173682A4147B", "target": "Distribuisco merci come ricompensa a chi contribuisce alla ricostruzione. Mi dispiace, ma temo di non poter accettare gil." },
+    { "gameKey": "custom/006/CtsHwdCurrencyShop_00650#TEXT_CTSHWDCURRENCYSHOP_00650_ENIE_010_000", "hash": "847E0D4A3F6F38AE", "target": "<if(gnum4,Benvenuta,Benvenuto)>, <if(gnum4,mia signora,mio signore)>! Ci onorate non solo della vostra presenza, ma anche del vostro contributo!" },
+    { "gameKey": "custom/006/CtsHwdCurrencyShop_00650#TEXT_CTSHWDCURRENCYSHOP_00650_ENIE_010_010", "hash": "D4F27590649CAFE5", "target": "Avrete sentito dire che contribuire alla causa permette di ottenere skybuilders' scrips. Potete portarli qui e scambiarli con una selezione di merci." },
+    { "gameKey": "custom/006/CtsHwdCurrencyShop_00650#TEXT_CTSHWDCURRENCYSHOP_00650_ENIE_010_020", "hash": "F957C1626F96F500", "target": "Per attirare sempre più collaboratori, cerchiamo di ampliare la gamma degli oggetti offerti." },
+    { "gameKey": "custom/006/CtsHwdCurrencyShop_00650#TEXT_CTSHWDCURRENCYSHOP_00650_ENIE_010_021", "hash": "3E57B42A3C0771FC", "target": "Cerchiamo di ampliare la gamma degli oggetti offerti per continuare ad attirare collaboratori, anche ora che la ricostruzione è stata completata." },
+    { "gameKey": "custom/006/CtsHwdCurrencyShop_00650#TEXT_CTSHWDCURRENCYSHOP_00650_ENIE_010_030", "hash": "F027278D47E21D36", "target": "Oltre a donare oggetti, potete ottenere scrips partecipando ai lavori collettivi. Per caso ve ne hanno parlato?" },
+    { "gameKey": "custom/006/CtsHwdCurrencyShop_00650#TEXT_CTSHWDCURRENCYSHOP_00650_ENIE_010_040", "hash": "35299EA7F841CCEF", "target": "In tal caso, vi invito a chiedere i dettagli al capocantiere Augebert. Nel frattempo, non vedo l'ora di scambiare molti scrips per voi!" },
+    { "gameKey": "custom/006/CtsHwdCurrencyShop_00650#TEXT_CTSHWDCURRENCYSHOP_00650_ENIE_010_050", "hash": "4E3A0C09BD458D49", "target": "Oltre a donare oggetti, potete ottenere scrips portando materiali raccolti nel Diadem. Per caso ve ne hanno parlato?" },
+    { "gameKey": "custom/006/CtsHwdCurrencyShop_00650#TEXT_CTSHWDCURRENCYSHOP_00650_ENIE_010_060", "hash": "01100E37F6B79024", "target": "In caso contrario, Flotpassant potrà fornirvi tutti i dettagli. Nel frattempo, non vedo l'ora di scambiare molti scrips per voi!" },
+    { "gameKey": "custom/006/CtsHwdCurrencyShop_00650#TEXT_CTSHWDCURRENCYSHOP_00650_ENIE_020_000", "hash": "B64DD8DD19CD55C7", "target": "Skybuilders' Scrips" },
+    { "gameKey": "custom/006/CtsHwdCurrencyShop_00650#TEXT_CTSHWDCURRENCYSHOP_00650_ENIE_020_010", "hash": "63A977C797CC09CC", "target": "Skybuilders' Scrips (Equipaggiamento/Arredi)" },
+    { "gameKey": "custom/006/CtsHwdCurrencyShop_00650#TEXT_CTSHWDCURRENCYSHOP_00650_ENIE_020_020", "hash": "4BB628D6440FB367", "target": "Skybuilders' Scrips (Materiali/Materia/Oggetti)" },
+    { "gameKey": "custom/006/CtsHwdCurrencyShop_00650#TEXT_CTSHWDCURRENCYSHOP_00650_ENIE_020_030", "hash": "EC5F83868C4419D1", "target": "Annulla" },
+    { "gameKey": "custom/006/CtsHwdCurrencyShop_00650#TEXT_CTSHWDCURRENCYSHOP_00650_ENIE_020_040", "hash": "1E223312DA8EBA1A", "target": "Fête Tokens" }
   ]
 }

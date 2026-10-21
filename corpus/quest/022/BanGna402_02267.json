@@ -2,19 +2,19 @@
   "conversation": "quest/022/BanGna402_02267",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEQ_00", "hash": "A35987C157CC1BBA", "target": "" },
-    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEQ_01", "hash": "953CC13B96A2C20F", "target": "" },
-    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEQ_02", "hash": "8179B34772E0955A", "target": "" },
-    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEQ_03", "hash": "54DC57CC0F4F0887", "target": "" },
-    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_TODO_00", "hash": "5313A2C253245432", "target": "" },
-    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_TODO_01", "hash": "633403C111BBF535", "target": "" },
-    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEARCHER_000_000", "hash": "D86CA23355D8F32B", "target": "" },
-    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEARCHER_000_001", "hash": "76B85C444CB23321", "target": "" },
-    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_GNATHDRONEA02267_100_005", "hash": "8FBCB11B64A94FB3", "target": "" },
-    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_GNATHDRONEB02267_100_006", "hash": "60F1E8BF11A15DDC", "target": "" },
-    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEARCHER_000_010", "hash": "BF2E8078D2E493D8", "target": "" },
-    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEARCHER_000_011", "hash": "0A49F6B8B02E4FE7", "target": "" },
-    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEARCHER_000_012", "hash": "F6DF1D53D6C3BC43", "target": "" },
-    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEARCHER_000_013", "hash": "A8C3B1B162D1953C", "target": "" }
+    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEQ_00", "hash": "A35987C157CC1BBA", "target": "Il Vath keeneye fissa sconsolato un unico rametto appassito di rugiada d'argento.<br>※La difficoltà di questa missione sarà adattata al tuo livello attuale." },
+    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEQ_01", "hash": "953CC13B96A2C20F", "target": "Al Vath keeneye servono quattro rametti di rugiada d'argento per completare l'ordine del Presidio dei Giustizieri, e ti chiede di raccoglierli ad Avalonia Fallen. Prima della partenza, ti invita a restare all'erta: molti Gnath sono stati avvistati a raccogliere freneticamente la stessa erba.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
+    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEQ_02", "hash": "8179B34772E0955A", "target": "Hai trovato e raccolto i rametti di rugiada d'argento. Torna a Loth ast Vath e consegnali al Vath keeneye." },
+    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEQ_03", "hash": "54DC57CC0F4F0887", "target": "Le azioni degli Gnath fanno pensare che stiano preparando un attacco preventivo contro i draghi. Il Vath keeneye teme che questo provochi una scarsità di rugiada d'argento, lasciando la sua gente priva di mezzi di sostentamento. Per evitare una possibile catastrofe, ritiene sia ora di cominciare a coltivarla." },
+    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_TODO_00", "hash": "5313A2C253245432", "target": "Raccogliere rugiada d'argento" },
+    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_TODO_01", "hash": "633403C111BBF535", "target": "Consegnare la rugiada d'argento al Vath keeneye" },
+    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEARCHER_000_000", "hash": "D86CA23355D8F32B", "target": "<if(gnum4,Avventuriera,Avventuriero)>, arrivi al momento giusto. \\<clic> \\<clic> Il Presidio dei Giustizieri ci ha appena mandato richiesta. Chiedono la solita spedizione di rugiada d'argento. Ti prego, raccogli quattro rametti di queste piante preziose per noi." },
+    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEARCHER_000_001", "hash": "76B85C444CB23321", "target": "La rugiada d'argento abbonda ad Avalonia Fallen. Ma bada. Di recente la Mente Unica è in fermento. Molti Gnath sono stati visti raccogliere queste erbe. Non gradiranno la tua presenza." },
+    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_GNATHDRONEA02267_100_005", "hash": "8FBCB11B64A94FB3", "target": "Vile essere di carne! \\<clic> \\<clic> Come osi rubare la nostra rugiada!" },
+    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_GNATHDRONEB02267_100_006", "hash": "60F1E8BF11A15DDC", "target": "\\<clic> \\<clic> Vattene subito, essere di carne, o morirai sul posto!" },
+    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEARCHER_000_010", "hash": "BF2E8078D2E493D8", "target": "Finalmente sei <if(gnum4,tornata,tornato)>! \\<clic> \\<clic> Hai la nostra rugiada d'argento?" },
+    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEARCHER_000_011", "hash": "0A49F6B8B02E4FE7", "target": "Oh, sono bellissime! Tu, invece, sembri molto più in disordine dell'ultima volta. Hai incrociato i nostri fratelli della Mente Unica?" },
+    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEARCHER_000_012", "hash": "F6DF1D53D6C3BC43", "target": "La loro ossessione per quest'erba è molto preoccupante. Temiamo che intendano usarla per fare guerra ai draghi. Se abbiamo ragione, i fratelli della Mente Unica non smetteranno finché non avranno spogliato la terra di tutta la rugiada d'argento." },
+    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEARCHER_000_013", "hash": "A8C3B1B162D1953C", "target": "Non possiamo permetterlo. \\<clic> \\<clic> Se svanisse, la gilda cadrebbe in polvere. Presto seguirebbero le mura del rifugio. Dobbiamo cominciare a coltivarla per impedirlo." }
   ]
 }

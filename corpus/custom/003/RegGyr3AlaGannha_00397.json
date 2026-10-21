@@ -2,17 +2,17 @@
   "conversation": "custom/003/RegGyr3AlaGannha_00397",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_BERGARD_000_000", "hash": "C9BEEEA5642FA4AC", "target": "" },
-    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_Q1_000_000", "hash": "B731966E2EBFF8F6", "target": "" },
-    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_A1_000_001", "hash": "E49AC50FBD0E99DA", "target": "" },
-    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_A1_000_002", "hash": "45E7D14A9962198E", "target": "" },
-    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_A1_000_003", "hash": "68EE915EFFB2637E", "target": "" },
-    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_BERGARD_000_010", "hash": "2BDAC96DADCC364E", "target": "" },
-    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_BERGARD_000_011", "hash": "19A6512DBC3796BF", "target": "" },
-    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_BERGARD_000_012", "hash": "3E7035E19C25B645", "target": "" },
-    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_BERGARD_000_020", "hash": "CF525CBE151FDB68", "target": "" },
-    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_BERGARD_000_021", "hash": "C7C2B7AE806609DB", "target": "" },
-    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_BERGARD_000_022", "hash": "755017BF0956C6B0", "target": "" },
-    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_BERGARD_000_023", "hash": "D8FE53226711BC71", "target": "" }
+    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_BERGARD_000_000", "hash": "C9BEEEA5642FA4AC", "target": "Non riceviamo spesso visite, ma sei più che <if(gnum4,benvenuta,benvenuto)>, <if(gnum4,ragazza,ragazzo)>! Per caso vuoi comprare della pietra?" },
+    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_Q1_000_000", "hash": "B731966E2EBFF8F6", "target": "Cosa vuoi chiedere?" },
+    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_A1_000_001", "hash": "E49AC50FBD0E99DA", "target": "Che cosa fate qui?" },
+    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_A1_000_002", "hash": "45E7D14A9962198E", "target": "Che posto è questo?" },
+    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_A1_000_003", "hash": "68EE915EFFB2637E", "target": "Niente." },
+    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_BERGARD_000_010", "hash": "2BDAC96DADCC364E", "target": "Io? Non c'è molto da dire, sinceramente. Sono una normale donna di Ala Mhigo, nata e cresciuta ad Ala Gannha." },
+    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_BERGARD_000_011", "hash": "19A6512DBC3796BF", "target": "Sono rimasta qui nella buona e nella cattiva sorte. C'ero quando il paese prosperava grazie alla cava, c'ero quando soffrivamo sotto il re folle e puoi scommetterci che c'ero quando l'Impero si è impadronito del nostro paese." },
+    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_BERGARD_000_012", "hash": "3E7035E19C25B645", "target": "Il mio caro marito si è rovinato i polmoni lavorando nella cava ed è morto insieme all'attività a cui aveva dedicato la vita. Non ho più lacrime da versare." },
+    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_BERGARD_000_020", "hash": "CF525CBE151FDB68", "target": "Ala Gannha era una fiorente cittadina di cavatori. Avevamo la pietra migliore e i cavatori migliori: il villaggio fornì persino la pietra usata per costruire il Palazzo Reale." },
+    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_BERGARD_000_021", "hash": "C7C2B7AE806609DB", "target": "In molti arrivavano da ogni dove per fare fortuna qui." },
+    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_BERGARD_000_022", "hash": "755017BF0956C6B0", "target": "Ma quando l'Impero ci invase, la pietra passò di moda e ovunque sorsero edifici di metallo, freddi e severi." },
+    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_BERGARD_000_023", "hash": "D8FE53226711BC71", "target": "Oggi facciamo fatica anche solo a sopravvivere. Gran parte delle case qui sono state messe insieme con pietre recuperate dai resti della cava, e certi giorni il cibo non basta nemmeno per un pasto, figuriamoci per tre." }
   ]
 }

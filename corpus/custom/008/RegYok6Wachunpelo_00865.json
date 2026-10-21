@@ -2,19 +2,19 @@
   "conversation": "custom/008/RegYok6Wachunpelo_00865",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/RegYok6Wachunpelo_00865#TEXT_REGYOK6WACHUNPELO_00865_LEBLU_000_000", "hash": "DF7781D81906BC50", "target": "" },
-    { "gameKey": "custom/008/RegYok6Wachunpelo_00865#TEXT_REGYOK6WACHUNPELO_00865_LEBLU_000_001", "hash": "0E337484E33C63B4", "target": "" },
-    { "gameKey": "custom/008/RegYok6Wachunpelo_00865#TEXT_REGYOK6WACHUNPELO_00865_LEBLU_000_002", "hash": "4F85CA17C2BABB7A", "target": "" },
-    { "gameKey": "custom/008/RegYok6Wachunpelo_00865#TEXT_REGYOK6WACHUNPELO_00865_LEBLU_000_003", "hash": "F985BEE8C8FDE8C1", "target": "" },
-    { "gameKey": "custom/008/RegYok6Wachunpelo_00865#TEXT_REGYOK6WACHUNPELO_00865_LEBLU_000_004", "hash": "CAE25A9CA57368FA", "target": "" },
-    { "gameKey": "custom/008/RegYok6Wachunpelo_00865#TEXT_REGYOK6WACHUNPELO_00865_Q1_000_000", "hash": "39DB7E4B4DD35D7E", "target": "" },
-    { "gameKey": "custom/008/RegYok6Wachunpelo_00865#TEXT_REGYOK6WACHUNPELO_00865_A1_000_001", "hash": "0C586AC438C32BBB", "target": "" },
-    { "gameKey": "custom/008/RegYok6Wachunpelo_00865#TEXT_REGYOK6WACHUNPELO_00865_A1_000_002", "hash": "2D28252276197551", "target": "" },
-    { "gameKey": "custom/008/RegYok6Wachunpelo_00865#TEXT_REGYOK6WACHUNPELO_00865_A1_000_003", "hash": "AD95B1D95BDD173B", "target": "" },
-    { "gameKey": "custom/008/RegYok6Wachunpelo_00865#TEXT_REGYOK6WACHUNPELO_00865_LEBLU_000_010", "hash": "A8703096623A41C5", "target": "" },
-    { "gameKey": "custom/008/RegYok6Wachunpelo_00865#TEXT_REGYOK6WACHUNPELO_00865_LEBLU_000_011", "hash": "F2674142C0DF67EC", "target": "" },
-    { "gameKey": "custom/008/RegYok6Wachunpelo_00865#TEXT_REGYOK6WACHUNPELO_00865_LEBLU_000_020", "hash": "156ADC8F99CC274D", "target": "" },
-    { "gameKey": "custom/008/RegYok6Wachunpelo_00865#TEXT_REGYOK6WACHUNPELO_00865_LEBLU_000_021", "hash": "841A5534F3E7890D", "target": "" },
-    { "gameKey": "custom/008/RegYok6Wachunpelo_00865#TEXT_REGYOK6WACHUNPELO_00865_LEBLU_000_022", "hash": "93BEA62063EFC333", "target": "" }
+    { "gameKey": "custom/008/RegYok6Wachunpelo_00865#TEXT_REGYOK6WACHUNPELO_00865_LEBLU_000_000", "hash": "DF7781D81906BC50", "target": "Benvenut<if(gnum4,a,o)>, <if(gnum4,amica,amico)>, benvenut<if(gnum4,a,o)>! Hai una domanda per me, vero? Te lo leggo negli occhi." },
+    { "gameKey": "custom/008/RegYok6Wachunpelo_00865#TEXT_REGYOK6WACHUNPELO_00865_LEBLU_000_001", "hash": "0E337484E33C63B4", "target": "Se ti serve qualcosa, mi dispiace ma dovrai fare in fretta. Ho un sacco di bagagli e preparativi da fare. Con Valigarmanda in libertà, dobbiamo essere pronti a partire in qualsiasi momento." },
+    { "gameKey": "custom/008/RegYok6Wachunpelo_00865#TEXT_REGYOK6WACHUNPELO_00865_LEBLU_000_002", "hash": "4F85CA17C2BABB7A", "target": "Hai sentito? Valigarmanda non c'è più! Finalmente posso smettere di guardarmi alle spalle ogni volta che esco da Wachunpelo." },
+    { "gameKey": "custom/008/RegYok6Wachunpelo_00865#TEXT_REGYOK6WACHUNPELO_00865_LEBLU_000_003", "hash": "F985BEE8C8FDE8C1", "target": "Si dice che il rito di successione sia finito e che ora abbiamo <italic(1)>due<italic(0)> Servitori dell'Alba. I mercanti già si accalcano per cercare merci adatte a commemorare l'occasione." },
+    { "gameKey": "custom/008/RegYok6Wachunpelo_00865#TEXT_REGYOK6WACHUNPELO_00865_LEBLU_000_004", "hash": "CAE25A9CA57368FA", "target": "Ma tu sei <if(gnum4,l'amica,l'amico)> della Promessa Wuk Lamat di cui parlano tutti. Be', che posso fare per te?" },
+    { "gameKey": "custom/008/RegYok6Wachunpelo_00865#TEXT_REGYOK6WACHUNPELO_00865_Q1_000_000", "hash": "39DB7E4B4DD35D7E", "target": "Cosa vuoi chiedere?" },
+    { "gameKey": "custom/008/RegYok6Wachunpelo_00865#TEXT_REGYOK6WACHUNPELO_00865_A1_000_001", "hash": "0C586AC438C32BBB", "target": "Che cosa fai qui?" },
+    { "gameKey": "custom/008/RegYok6Wachunpelo_00865#TEXT_REGYOK6WACHUNPELO_00865_A1_000_002", "hash": "2D28252276197551", "target": "Che posto è questo?" },
+    { "gameKey": "custom/008/RegYok6Wachunpelo_00865#TEXT_REGYOK6WACHUNPELO_00865_A1_000_003", "hash": "AD95B1D95BDD173B", "target": "Niente." },
+    { "gameKey": "custom/008/RegYok6Wachunpelo_00865#TEXT_REGYOK6WACHUNPELO_00865_LEBLU_000_010", "hash": "A8703096623A41C5", "target": "Commercio in informazioni. Il mio lavoro è prima di tutto sapere ogni cosa che succede qui a Wachunpelo." },
+    { "gameKey": "custom/008/RegYok6Wachunpelo_00865#TEXT_REGYOK6WACHUNPELO_00865_LEBLU_000_011", "hash": "F2674142C0DF67EC", "target": "Mio marito, invece, è un mercante itinerante. Quando torna dopo aver venduto le sue merci nei vari insediamenti di Tural, mi racconta altre notizie recenti. Tra tutti e due, c'è ben poco che non sappiamo di ciò che succede a Tural." },
+    { "gameKey": "custom/008/RegYok6Wachunpelo_00865#TEXT_REGYOK6WACHUNPELO_00865_LEBLU_000_020", "hash": "156ADC8F99CC274D", "target": "Questa è Wachunpelo, che nella lingua comune significa «casa dei Pelupelu»." },
+    { "gameKey": "custom/008/RegYok6Wachunpelo_00865#TEXT_REGYOK6WACHUNPELO_00865_LEBLU_000_021", "hash": "841A5534F3E7890D", "target": "La maggior parte delle persone che incontri qui saranno probabilmente mercanti, ma troverai anche qualche allevatore di alpaca o produttore di mezcal." },
+    { "gameKey": "custom/008/RegYok6Wachunpelo_00865#TEXT_REGYOK6WACHUNPELO_00865_LEBLU_000_022", "hash": "93BEA62063EFC333", "target": "Ma se non si fa qualcosa per Valigarmanda, e in fretta, non credo che alla tua prossima visita incontrerai ancora qualcuno qui." }
   ]
 }

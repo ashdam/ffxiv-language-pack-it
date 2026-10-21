@@ -2,18 +2,18 @@
   "conversation": "custom/005/FesHlw2018Guide_00534",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/005/FesHlw2018Guide_00534#TEXT_FESHLW2018GUIDE_00534_GUIDEHLW2018_000_000", "hash": "A7A8991676F0A036", "target": "" },
-    { "gameKey": "custom/005/FesHlw2018Guide_00534#TEXT_FESHLW2018GUIDE_00534_Q1_000_000", "hash": "E3AD55D6243F35E8", "target": "" },
-    { "gameKey": "custom/005/FesHlw2018Guide_00534#TEXT_FESHLW2018GUIDE_00534_A1_000_001", "hash": "C554092B279320B8", "target": "" },
-    { "gameKey": "custom/005/FesHlw2018Guide_00534#TEXT_FESHLW2018GUIDE_00534_A1_000_002", "hash": "27766C7CB89A632B", "target": "" },
-    { "gameKey": "custom/005/FesHlw2018Guide_00534#TEXT_FESHLW2018GUIDE_00534_A1_000_0023", "hash": "02358BA1FBA23CDA", "target": "" },
-    { "gameKey": "custom/005/FesHlw2018Guide_00534#TEXT_FESHLW2018GUIDE_00534_GUIDEHLW2018_000_010", "hash": "C67FDC2DF64FD574", "target": "" },
-    { "gameKey": "custom/005/FesHlw2018Guide_00534#TEXT_FESHLW2018GUIDE_00534_GUIDEHLW2018_000_011", "hash": "F537CBF032DF8EE4", "target": "" },
-    { "gameKey": "custom/005/FesHlw2018Guide_00534#TEXT_FESHLW2018GUIDE_00534_GUIDEHLW2018_000_012", "hash": "45F13B56C0CE3E96", "target": "" },
-    { "gameKey": "custom/005/FesHlw2018Guide_00534#TEXT_FESHLW2018GUIDE_00534_GUIDEHLW2018_000_013", "hash": "4DB9BCE1C9553861", "target": "" },
-    { "gameKey": "custom/005/FesHlw2018Guide_00534#TEXT_FESHLW2018GUIDE_00534_GUIDEHLW2018_000_020", "hash": "591AF7FF4C54A659", "target": "" },
-    { "gameKey": "custom/005/FesHlw2018Guide_00534#TEXT_FESHLW2018GUIDE_00534_GUIDEHLW2018_000_021", "hash": "3522C5F4B6DF7184", "target": "" },
-    { "gameKey": "custom/005/FesHlw2018Guide_00534#TEXT_FESHLW2018GUIDE_00534_GUIDEHLW2018_000_022", "hash": "3733413967655487", "target": "" },
-    { "gameKey": "custom/005/FesHlw2018Guide_00534#TEXT_FESHLW2018GUIDE_00534_GUIDEHLW2018_000_023", "hash": "463A0E7C200F6167", "target": "" }
+    { "gameKey": "custom/005/FesHlw2018Guide_00534#TEXT_FESHLW2018GUIDE_00534_GUIDEHLW2018_000_000", "hash": "A7A8991676F0A036", "target": "Ciao, zucchetta! Ti stai godendo i festeggiamenti, spero? Se vuoi sapere qualcosa, chiedi pure!" },
+    { "gameKey": "custom/005/FesHlw2018Guide_00534#TEXT_FESHLW2018GUIDE_00534_Q1_000_000", "hash": "E3AD55D6243F35E8", "target": "Su cosa vuoi informarti?" },
+    { "gameKey": "custom/005/FesHlw2018Guide_00534#TEXT_FESHLW2018GUIDE_00534_A1_000_001", "hash": "C554092B279320B8", "target": "Sul Circo Continentale." },
+    { "gameKey": "custom/005/FesHlw2018Guide_00534#TEXT_FESHLW2018GUIDE_00534_A1_000_002", "hash": "27766C7CB89A632B", "target": "Sulla Veglia di Ognissanti." },
+    { "gameKey": "custom/005/FesHlw2018Guide_00534#TEXT_FESHLW2018GUIDE_00534_A1_000_0023", "hash": "02358BA1FBA23CDA", "target": "Niente." },
+    { "gameKey": "custom/005/FesHlw2018Guide_00534#TEXT_FESHLW2018GUIDE_00534_GUIDEHLW2018_000_010", "hash": "C67FDC2DF64FD574", "target": "Come suggerisce il nome, siamo una compagnia di artisti che percorre il paese in lungo e in largo. La nostra missione: trasformare i musi lunghi in sorrisi!" },
+    { "gameKey": "custom/005/FesHlw2018Guide_00534#TEXT_FESHLW2018GUIDE_00534_GUIDEHLW2018_000_011", "hash": "F537CBF032DF8EE4", "target": "In questo periodo dell'anno ci troviamo di solito a Eorzea per aiutare la gente a celebrare la Veglia di Ognissanti." },
+    { "gameKey": "custom/005/FesHlw2018Guide_00534#TEXT_FESHLW2018GUIDE_00534_GUIDEHLW2018_000_012", "hash": "45F13B56C0CE3E96", "target": "Abbiamo preparato ogni genere di evento emozionante, per divertirti e farti tremare di paura! Perché non metti da parte per un po' le fatiche delle avventure e partecipi ai festeggiamenti?" },
+    { "gameKey": "custom/005/FesHlw2018Guide_00534#TEXT_FESHLW2018GUIDE_00534_GUIDEHLW2018_000_013", "hash": "4DB9BCE1C9553861", "target": "Abbiamo preparato le attrazioni di quest'anno nella verdeggiante Gridania. Perché non metti da parte per un po' le fatiche delle avventure e partecipi ai festeggiamenti?" },
+    { "gameKey": "custom/005/FesHlw2018Guide_00534#TEXT_FESHLW2018GUIDE_00534_GUIDEHLW2018_000_020", "hash": "591AF7FF4C54A659", "target": "La leggenda narra che, una volta all'anno, i Dodici onorino i santi con un sontuoso banchetto nei cieli. Mentre i santi sono assenti, però, il regno rimane privo della loro divina protezione e le creature delle tenebre escono in massa." },
+    { "gameKey": "custom/005/FesHlw2018Guide_00534#TEXT_FESHLW2018GUIDE_00534_GUIDEHLW2018_000_021", "hash": "3522C5F4B6DF7184", "target": "Temendo per la propria vita, la gente prese a chiudersi in casa. Chi non aveva altra scelta che uscire si travestiva da mostro, sperando di non farsi notare da quelli veri." },
+    { "gameKey": "custom/005/FesHlw2018Guide_00534#TEXT_FESHLW2018GUIDE_00534_GUIDEHLW2018_000_022", "hash": "3733413967655487", "target": "Una faccenda spaventosa, vero? Ma ormai appartiene al passato, perché oggi abbiamo valorosi avventurieri come te a proteggere le città quando i santi sono assenti!" },
+    { "gameKey": "custom/005/FesHlw2018Guide_00534#TEXT_FESHLW2018GUIDE_00534_GUIDEHLW2018_000_023", "hash": "463A0E7C200F6167", "target": "Non avendo più motivo di temere, la gente ha trasformato la Veglia di Ognissanti in una festa divertente. Una situazione davvero detestabile... ehm... <italic(1)>deliziosa<italic(0)>!" }
   ]
 }

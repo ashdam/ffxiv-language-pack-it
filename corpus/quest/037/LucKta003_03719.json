@@ -2,18 +2,18 @@
   "conversation": "quest/037/LucKta003_03719",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_SEQ_00", "hash": "57CC0FF4714705C9", "target": "" },
-    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_SEQ_01", "hash": "6D51DC95C20DCADD", "target": "" },
-    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_SEQ_02", "hash": "5EEA1E5F278C228B", "target": "" },
-    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_TODO_00", "hash": "4306F2932EF4B58A", "target": "" },
-    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_ANOGG_000_001", "hash": "0250201FDC37702B", "target": "" },
-    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_KONOGG_000_005", "hash": "1392BD32E638B74C", "target": "" },
-    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_ANOGG_000_050", "hash": "BBF33B2E11D792CF", "target": "" },
-    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_KONOGG_000_051", "hash": "DA61B5B868E83646", "target": "" },
-    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_ANOGG_000_052", "hash": "A82AE43B6B565339", "target": "" },
-    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_KONOGG_000_053", "hash": "773DFB8A9DF89221", "target": "" },
-    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_ANOGG_000_054", "hash": "EC066AC8C917FD09", "target": "" },
-    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_ANOGG_000_055", "hash": "5000D1A8AFBAE323", "target": "" },
-    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_KONOGG_000_060", "hash": "AD03A47630BEFF03", "target": "" }
+    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_SEQ_00", "hash": "57CC0FF4714705C9", "target": "Anogg non vuole aspettare un solo istante di più per scoprire i segreti delle rovine." },
+    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_SEQ_01", "hash": "6D51DC95C20DCADD", "target": "Parli con Anogg, che corre a cercare la «chiave» richiesta da 2P prima che tu possa dire una parola. A questo punto, a te e Konogg non resta che seguirla." },
+    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_SEQ_02", "hash": "5EEA1E5F278C228B", "target": "Raggiunta Anogg nelle rovine, Konogg cerca di dissuaderla dal gettarsi nel pericolo su richiesta di 2P. Osserva, con una certa lucidità, che la conoscete appena e <italic(1)>non<italic(0)> sapete affatto quali siano le sue vere intenzioni. Anogg rifiuta però di dargli ragione e insiste per collaborare con l'androide, ritenendolo il modo più rapido per fare scoperte ancora maggiori. Sembra che tu debba scegliere da che parte stare." },
+    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_TODO_00", "hash": "4306F2932EF4B58A", "target": "Parlare con Anogg" },
+    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_ANOGG_000_001", "hash": "0250201FDC37702B", "target": "Ci sei? Domanda trabocchetto: non m'importa! Andiamo!" },
+    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_KONOGG_000_005", "hash": "1392BD32E638B74C", "target": "Ormai non la ferma nessuno. Alla faccia dei preparativi." },
+    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_ANOGG_000_050", "hash": "BBF33B2E11D792CF", "target": "Pensa: macchine pari agli umani! No, forse superiori! Trovando la chiave capiremo come funzionano! Ripareremo 2P, e poi..." },
+    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_KONOGG_000_051", "hash": "DA61B5B868E83646", "target": "...E poi cosa? Rallenta e usa la testa! Come sappiamo che ciò che ha detto è vero?" },
+    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_ANOGG_000_052", "hash": "A82AE43B6B565339", "target": "Oh, dovremmo stare con le mani in mano anziché cercare il potere immenso nascosto qui? Girarci i pollici mentre altri si prendono il premio?" },
+    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_KONOGG_000_053", "hash": "773DFB8A9DF89221", "target": "Sono curioso quanto te! Ma <italic(1)>non<italic(0)> mi fiderei ciecamente di chi abbiamo appena conosciuto, soprattutto se fa affermazioni tanto assurde. Portandole la «chiave», chissà cosa potrebbe farne..." },
+    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_ANOGG_000_054", "hash": "EC066AC8C917FD09", "target": "Tsk. Se vuoi fare il codardo, accomodati. Io avanzerò coraggiosamente, come avevamo deciso, ricordi? E se 2P continuerà ad aiutarci, tanto meglio." },
+    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_ANOGG_000_055", "hash": "5000D1A8AFBAE323", "target": "E tu? Puoi tuffarti nell'ignoto con me o bagnarti una punta alla volta come un neonato sbarbato." },
+    { "gameKey": "quest/037/LucKta003_03719#TEXT_LUCKTA003_03719_KONOGG_000_060", "hash": "AD03A47630BEFF03", "target": "A volte odio essere quello ragionevole." }
   ]
 }

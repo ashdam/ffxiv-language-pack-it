@@ -2,18 +2,18 @@
   "conversation": "custom/004/FesXms2017Guide_00440",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_GUIDEXMS2017_000_000", "hash": "DDEF39966623F216", "target": "" },
-    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_Q1_000_001", "hash": "AF5CF3B890CD3FDF", "target": "" },
-    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_A1_000_001", "hash": "D73F2B87A1459F69", "target": "" },
-    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_A1_000_002", "hash": "1E61F245EB32B95D", "target": "" },
-    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_A1_000_003", "hash": "662AC679AD833EF9", "target": "" },
-    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_GUIDEXMS2017_000_010", "hash": "601A8C7DF776959D", "target": "" },
-    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_GUIDEXMS2017_000_011", "hash": "DB32A71015DD3074", "target": "" },
-    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_GUIDEXMS2017_000_012", "hash": "4D2EC61F08D4A6CF", "target": "" },
-    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_GUIDEXMS2017_000_013", "hash": "7560BD0FD3065132", "target": "" },
-    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_GUIDEXMS2017_000_014", "hash": "369A578B96125A6B", "target": "" },
-    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_GUIDEXMS2017_000_020", "hash": "B5DA3F0068A47DBA", "target": "" },
-    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_GUIDEXMS2017_000_021", "hash": "CEC6E4763D14327A", "target": "" },
-    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_GUIDEXMS2017_000_022", "hash": "53F82CF228BD2EC1", "target": "" }
+    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_GUIDEXMS2017_000_000", "hash": "DDEF39966623F216", "target": "La benedizione della Filatrice sia con voi! Sono qui per far conoscere la Festa delle Stelle. Se avete domande, chiedete pure liberamente!" },
+    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_Q1_000_001", "hash": "AF5CF3B890CD3FDF", "target": "Cosa vuoi chiedere?" },
+    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_A1_000_001", "hash": "D73F2B87A1459F69", "target": "Che cos'è la Festa delle Stelle?" },
+    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_A1_000_002", "hash": "1E61F245EB32B95D", "target": "Di cosa vi occupate?" },
+    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_A1_000_003", "hash": "662AC679AD833EF9", "target": "Niente." },
+    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_GUIDEXMS2017_000_010", "hash": "601A8C7DF776959D", "target": "La Festa delle Stelle affonda le sue radici nell'antica Ishgard. Molto tempo fa, una terribile battaglia mieté innumerevoli vittime, lasciando migliaia di bambini orfani nel gelo impietoso del Coerthas." },
+    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_GUIDEXMS2017_000_011", "hash": "DB32A71015DD3074", "target": "Non sopportando di vederli soffrire, i cavalieri di Ishgard offrirono loro vitto e alloggio nelle caserme. Era espressamente proibito, naturalmente, ma i cavalieri escogitarono un piano per introdurli di nascosto, camuffandoli con le giacche scarlatte delle proprie uniformi." },
+    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_GUIDEXMS2017_000_012", "hash": "4D2EC61F08D4A6CF", "target": "Grazie alla loro generosità, i bambini sopravvissero all'inverno e, una volta cresciuti, vollero ricambiare la bontà ricevuta. Gli ex orfani indossavano uniformi scarlatte e distribuivano doni ai bambini durante la settimana più fredda dell'anno. Nacque così la Festa delle Stelle." },
+    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_GUIDEXMS2017_000_013", "hash": "7560BD0FD3065132", "target": "Nel corso degli anni, la festa è cambiata gradualmente. Il capitano dalla barba candida di quei cavalieri generosi è diventato noto come il «Santo di Nymeia», e i bambini credono che consegni le loro speranze e preghiere direttamente alla dea in persona." },
+    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_GUIDEXMS2017_000_014", "hash": "369A578B96125A6B", "target": "Allo stesso modo, i suoi cavalieri dalle giacche rosse sono diventati i «piccoli aiutanti del Santo». I bambini li adorano particolarmente, poiché hanno il compito di portare doni a ogni piccolo che rivolga una preghiera alla Filatrice." },
+    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_GUIDEXMS2017_000_020", "hash": "B5DA3F0068A47DBA", "target": "La Gilda degli Avventurieri ha incaricato me e i miei colleghi in abiti scarlatti di organizzare la Festa delle Stelle. La festa si celebra in tutta Eorzea e i nostri piccoli aiutanti sono presenti nelle città di Gridania, Limsa Lominsa e Ul'dah." },
+    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_GUIDEXMS2017_000_021", "hash": "CEC6E4763D14327A", "target": "Quest'anno intendiamo far partecipare gli orsi addestrati della Gilda degli Avventurieri. Hanno imparato un numero a tema che farà sorridere tutti, specialmente i bambini!" },
+    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_GUIDEXMS2017_000_022", "hash": "53F82CF228BD2EC1", "target": "Finora abbiamo avuto qualche intoppo e potremmo aver bisogno di avventurieri come voi perché la festa si svolga senza inconvenienti. Se tutto andrà secondo i piani, i festeggiamenti di quest'anno saranno senz'altro i migliori di sempre!" }
   ]
 }

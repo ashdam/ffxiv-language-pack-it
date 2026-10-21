@@ -2,16 +2,16 @@
   "conversation": "quest/014/BanSah310_01409",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEQ_00", "hash": "AA75303BB1CFD932", "target": "" },
-    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEQ_01", "hash": "03D7ADBED3FD583C", "target": "" },
-    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEQ_02", "hash": "4C77790E032EAE37", "target": "" },
-    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_TODO_00", "hash": "8F955B8358C22E1C", "target": "" },
-    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEWW_000_000", "hash": "1AAC9670F0804E07", "target": "" },
-    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEWW_000_001", "hash": "D5B63501724645DF", "target": "" },
-    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEWW_000_002", "hash": "F52B80D2B000AACB", "target": "" },
-    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEWW_000_003", "hash": "95BCEC1AE73DD11E", "target": "" },
-    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEWW_000_010", "hash": "BE07EC2D6F8E20F1", "target": "" },
-    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEWW_000_011", "hash": "8BAD0BB5FC9E8BAE", "target": "" },
-    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEWW_000_012", "hash": "BF3DBA4947DA6D11", "target": "" }
+    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEQ_00", "hash": "AA75303BB1CFD932", "target": "Seww desidera che tu elimini una pericolosa minaccia alla pace dei luoghi di deposizione." },
+    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEQ_01", "hash": "03D7ADBED3FD583C", "target": "Secondo Seww, una famigerata capitana dei Predoni del Serpente di nome Aermswys the Stained sta complottando con i capi dei Tridenti del Corallo. Il giovane Sahagin teme che restare a guardare mentre attuano i loro piani nefasti significhi attirare la sciagura sul suo popolo. Partecipa al FATE «Watch Your Tongue» nella Lingua del Serpente e presenta a Seww la prova della tua impresa." },
+    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEQ_02", "hash": "4C77790E032EAE37", "target": "Hai sconfitto la terribile capitana e consegnato il suo coral necklace a Seww. Il piccolo di Novv conferma l'autenticità del gingillo ed elogia la grandezza della tua impresa. Ma benché tu abbia sventato i piani che i Tridenti del Corallo stavano tramando, nulla impedirà loro di assoldare i vili servigi del prossimo capitano che emergerà dalle file dei Predoni del Serpente..." },
+    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_TODO_00", "hash": "8F955B8358C22E1C", "target": "Consegnare a Seww il coral necklace ottenuto nel FATE «Watch Your Tongue»" },
+    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEWW_000_000", "hash": "1AAC9670F0804E07", "target": "Pshhh... Una famigerata capitana dei Predoni del Serpente di nome Aermswys the Stained è stata vista incontrarsi con i capi dei Tridenti del Corallo." },
+    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEWW_000_001", "hash": "D5B63501724645DF", "target": "Non sappiamo quali loschi piani stiano tramando, ma nulla in cui sia coinvolta quella bruta senza pinne promette bene per la pace dei luoghi di deposizione." },
+    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEWW_000_002", "hash": "F52B80D2B000AACB", "target": "Non credo sia saggio restare a guardare gli eventi. Se la morte di un'odiosa pirata può risparmiare future tragedie al mio popolo, così sia!" },
+    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEWW_000_003", "hash": "95BCEC1AE73DD11E", "target": "Pshhh... La capitana si chiude spesso nella sua cabina, ma potresti trovarla a passeggiare nella Lingua del Serpente. Uccidi quella donna pericolosa, <split(<string(gstr1)>, ,1)>, e portami il coral necklace che testimonia la sua lealtà ai Tridenti del Corallo." },
+    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEWW_000_010", "hash": "BE07EC2D6F8E20F1", "target": "Aermswys the Stained è una delle più vili creature addomesticate dei Tridenti. Portami il suo coral necklace, così sapremo che quella terribile donna di terraferma non c'è più!" },
+    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEWW_000_011", "hash": "8BAD0BB5FC9E8BAE", "target": "Sì, questo gingillo dimostra che la pirata che hai sconfitto era proprio la capitana e nessun'altra. I Predoni avranno poco tempo per le malefatte mentre si contendono la sua successione." },
+    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEWW_000_012", "hash": "BF3DBA4947DA6D11", "target": "Pshhh... Non capisco perché i Tridenti frequentino simile feccia. Sembra che il padre della nostra covata abbia molto più gusto nello scegliere gli alleati di terraferma!" }
   ]
 }

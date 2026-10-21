@@ -84,7 +84,7 @@
     { "gameKey": "quest/011/ClsFsh501_01118#TEXT_CLSFSH501_01118_SISIPU_000_096", "hash": "7E6277F89640A9D9", "target": "Ma suppongo che potremmo almeno fargli sapere che ha <if(gnum4,una rivale,un rivale)>." },
     { "gameKey": "quest/011/ClsFsh501_01118#TEXT_CLSFSH501_01118_SISIPU_000_097", "hash": "CA9E3559CAD4A4FE", "target": "E questo potrebbe essere il vostro più grande risultato nella pesca: adescare Wawalago per farlo tornare al lavoro!" },
     { "gameKey": "quest/011/ClsFsh501_01118#TEXT_CLSFSH501_01118_SYSTEM_000_500", "hash": "FA94A112AED68CA0", "target": "Qui si concludono le missioni da Fisher di FINAL FANTASY XIV: A Realm Reborn. Per intraprendere la prossima serie di missioni, devi prima soddisfare i seguenti requisiti:" },
-    { "gameKey": "quest/011/ClsFsh501_01118#TEXT_CLSFSH501_01118_SYSTEM_000_501", "hash": "86F89BFFD4A934CA", "target": "※Devi aver completato la missione dello scenario principale «Before the Dawn»." },
+    { "gameKey": "quest/011/ClsFsh501_01118#TEXT_CLSFSH501_01118_SYSTEM_000_501", "hash": "86F89BFFD4A934CA", "target": "※Devi aver completato la missione della storia principale «Before the Dawn»." },
     { "gameKey": "quest/011/ClsFsh501_01118#TEXT_CLSFSH501_01118_SYSTEM_000_502", "hash": "1A5A5FEC85BC1841", "target": "Una volta fatto, la prossima missione da Fisher sarà disponibile presso Sisipu." }
   ]
 }

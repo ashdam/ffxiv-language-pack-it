@@ -2,8 +2,8 @@
   "conversation": "cut_scene/063/VoiceMan_06301",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "cut_scene/063/VoiceMan_06301#TEXT_VOICEMAN_06301_000005_NOPHICA", "hash": "895FCE372A21FF52", "target": "" },
-    { "gameKey": "cut_scene/063/VoiceMan_06301#TEXT_VOICEMAN_06301_000030_MENPHINA", "hash": "CD17BDD7BBF59CA5", "target": "" },
-    { "gameKey": "cut_scene/063/VoiceMan_06301#TEXT_VOICEMAN_06301_000040_MENPHINA", "hash": "FBBD8B4AF12891AB", "target": "" }
+    { "gameKey": "cut_scene/063/VoiceMan_06301#TEXT_VOICEMAN_06301_000005_NOPHICA", "hash": "895FCE372A21FF52", "target": "Finalmente è giunta l'ora!" },
+    { "gameKey": "cut_scene/063/VoiceMan_06301#TEXT_VOICEMAN_06301_000030_MENPHINA", "hash": "CD17BDD7BBF59CA5", "target": "Venite a immergervi nel tenero chiarore della luna!" },
+    { "gameKey": "cut_scene/063/VoiceMan_06301#TEXT_VOICEMAN_06301_000040_MENPHINA", "hash": "FBBD8B4AF12891AB", "target": "I nostri sogni potranno ancora diventare realtà. Grazie." }
   ]
 }

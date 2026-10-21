@@ -2,17 +2,17 @@
   "conversation": "quest/040/LucKsa311_04092",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_SEQ_00", "hash": "A64386A9639850C8", "target": "" },
-    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_TODO_00", "hash": "E6946626BF908563", "target": "" },
-    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_SYSTEM_100_000", "hash": "857E8A3364BAA8FD", "target": "" },
-    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_DMITAR_000_000", "hash": "AF29671C1D762968", "target": "" },
-    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_DMITAR_000_002", "hash": "A62C98044C268C69", "target": "" },
-    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_DMITAR_000_003", "hash": "6D761EE4EB2EB909", "target": "" },
-    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_DMITAR_000_004", "hash": "82E292E9C06F0568", "target": "" },
-    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_DMITAR_000_010", "hash": "97C13AAFF76FF954", "target": "" },
-    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_DMITAR_000_011", "hash": "91C95D6BEA16E99A", "target": "" },
-    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_DMITAR_000_012", "hash": "77DDFEB2EC9446B9", "target": "" },
-    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_SYSTEM_000_030", "hash": "01E68A9F26F722DD", "target": "" },
-    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_SYSTEM_000_031", "hash": "FE07091CE6417939", "target": "" }
+    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_SEQ_00", "hash": "A64386A9639850C8", "target": "Dmitar ha buone notizie dal campo di battaglia." },
+    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_TODO_00", "hash": "E6946626BF908563", "target": "Parlare con Dmitar sull'altopiano meridionale" },
+    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_SYSTEM_100_000", "hash": "857E8A3364BAA8FD", "target": "Per proseguire questa missione è richiesto un Resistance rank di <num(lnum1)>." },
+    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_DMITAR_000_000", "hash": "AF29671C1D762968", "target": "Lama <split(<string(gstr1)>, ,2)>! Che piacere vedervi. Come sempre, le notizie del vostro contributo alla Resistenza vi precedono. Ci hanno appena informati che la barriera sul nuovo avamposto è completa." },
+    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_DMITAR_000_002", "hash": "A62C98044C268C69", "target": "Finalmente la nostra prima linea può avanzare. Un'impresa impossibile senza il vostro aiuto e quello delle Officine Garlond." },
+    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_DMITAR_000_003", "hash": "6D761EE4EB2EB909", "target": "Se avete completato i preparativi, sono stato incaricato di accompagnarvi al nostro nuovo accampamento." },
+    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_DMITAR_000_004", "hash": "82E292E9C06F0568", "target": "Vi consiglio inoltre vivamente di sintonizzarvi con l'eterite qui presente, se non l'avete ancora fatto. Ora seguitemi: l'accampamento è esattamente a ovest di qui." },
+    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_DMITAR_000_010", "hash": "97C13AAFF76FF954", "target": "Troverete tutte le strutture essenziali, compresa un'eterite per agevolare gli spostamenti." },
+    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_DMITAR_000_011", "hash": "91C95D6BEA16E99A", "target": "Bajsaljen intende conquistare un altro avamposto mentre continuiamo a far avanzare la prima linea. Naturalmente, occorrerà probabilmente altro lavoro per assicurare le correnti eteree necessarie ad alimentare un'altra barriera protettiva." },
+    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_DMITAR_000_012", "hash": "77DDFEB2EC9446B9", "target": "Eppure, con voi ad aiutarci, ho fiducia che alla fine la Resistenza prevarrà." },
+    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_SYSTEM_000_030", "hash": "01E68A9F26F722DD", "target": "La prima linea della Resistenza avanza, permettendoti di partecipare a nuovi skirmish e critical engagement." },
+    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_SYSTEM_000_031", "hash": "FE07091CE6417939", "target": "Puoi accettare la missione successiva parlando con Mikoto dopo aver raggiunto un Resistance rank di almeno <num(lnum1)>." }
   ]
 }

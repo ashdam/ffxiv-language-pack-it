@@ -2,10 +2,10 @@
   "conversation": "custom/001/CmnDefRelicWeapon030ReplicaTalk_00176",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/CmnDefRelicWeapon030ReplicaTalk_00176#TEXT_CMNDEFRELICWEAPON030REPLICATALK_00176_HUBAIRTIN_000_000", "hash": "740903B3BE0213A9", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon030ReplicaTalk_00176#TEXT_CMNDEFRELICWEAPON030REPLICATALK_00176_HUBAIRTIN_000_030", "hash": "521C240963FE9D16", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon030ReplicaTalk_00176#TEXT_CMNDEFRELICWEAPON030REPLICATALK_00176_HUBAIRTIN_000_050", "hash": "CF374920BE2D71DD", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon030ReplicaTalk_00176#TEXT_CMNDEFRELICWEAPON030REPLICATALK_00176_HUBAIRTIN_000_051", "hash": "A0F8DE45FF28C272", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon030ReplicaTalk_00176#TEXT_CMNDEFRELICWEAPON030REPLICATALK_00176_HUBAIRTIN_000_052", "hash": "E29D83652B1C8C0F", "target": "" }
+    { "gameKey": "custom/001/CmnDefRelicWeapon030ReplicaTalk_00176#TEXT_CMNDEFRELICWEAPON030REPLICATALK_00176_HUBAIRTIN_000_000", "hash": "740903B3BE0213A9", "target": "L'inserimento avanzato di materia è un procedimento estremamente instabile. <italic(1)>Deve<italic(0)> esserci un modo di sfruttare il potere delle pietre senza rischiare di distruggerle..." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon030ReplicaTalk_00176#TEXT_CMNDEFRELICWEAPON030REPLICATALK_00176_HUBAIRTIN_000_030", "hash": "521C240963FE9D16", "target": "Quando una pergamena sferica è completamente infusa di materia, risplende come le stelle del firmamento. È il segno che il suo potere è pronto a essere trasferito in un ricettacolo adatto." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon030ReplicaTalk_00176#TEXT_CMNDEFRELICWEAPON030REPLICATALK_00176_HUBAIRTIN_000_050", "hash": "CF374920BE2D71DD", "target": "Per gli dei, voi... ce l'avete fatta! <italic(1)>Ce l'abbiamo<italic(0)> fatta! Pensare che i miei sforzi hanno finalmente dato frutto... Non esistono parole per esprimere la gioia che provo in questo momento." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon030ReplicaTalk_00176#TEXT_CMNDEFRELICWEAPON030REPLICATALK_00176_HUBAIRTIN_000_051", "hash": "A0F8DE45FF28C272", "target": "Naturalmente, le mie ricerche sono tutt'altro che concluse. Devo verificare ancora molte cose prima di trarre conclusioni, e vi sarei dunque molto grato se continuaste a collaborare con me." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon030ReplicaTalk_00176#TEXT_CMNDEFRELICWEAPON030REPLICATALK_00176_HUBAIRTIN_000_052", "hash": "E29D83652B1C8C0F", "target": "Se desiderate potenziare un'altra reliquia, portatemi la quantità necessaria di superior enchanted ink e vi preparerò una pergamena sferica adatta." }
   ]
 }

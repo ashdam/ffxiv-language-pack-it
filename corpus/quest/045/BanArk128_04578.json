@@ -2,17 +2,17 @@
   "conversation": "quest/045/BanArk128_04578",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_SEQ_00", "hash": "B42CDFEE9C859870", "target": "" },
-    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_TODO_00", "hash": "8EE09C3224D20E0D", "target": "" },
-    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_TODO_01", "hash": "78B0D2D780497079", "target": "" },
-    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_MARU_000_000", "hash": "3977ED9716C27E57", "target": "" },
-    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_MARU_000_001", "hash": "FCA5ACDFC6C0D2D2", "target": "" },
-    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_MARU_000_002", "hash": "DD54A3F90C09F635", "target": "" },
-    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_SYSTEM_000_003", "hash": "2215C8AFAF8A488B", "target": "" },
-    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_MARU_000_004", "hash": "B16ACA5E1C3C3AEF", "target": "" },
-    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_MARU_000_005", "hash": "0456A27795B0AE0E", "target": "" },
-    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_MARU_000_006", "hash": "3D2C1005705093AF", "target": "" },
-    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_MARU_000_007", "hash": "6C076EF594AB1906", "target": "" },
-    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_MARU_000_008", "hash": "A723315EA2F0E776", "target": "" }
+    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_SEQ_00", "hash": "B42CDFEE9C859870", "target": "Maru ha bisogno di rifornimenti per un'attività frenetica.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
+    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_TODO_00", "hash": "8EE09C3224D20E0D", "target": "Posizionare il pesce odoroso nei luoghi indicati e uccidere gli Akyaali crabs che compaiono" },
+    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_TODO_01", "hash": "78B0D2D780497079", "target": "Consegnare le zampe di granchio di Akyaali a Maru" },
+    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_MARU_000_000", "hash": "3977ED9716C27E57", "target": "Il meyhane ha attirato persone di ogni tipo nel nostro angolino del reame, e ne sono grato. Detto questo, la pressione sulle scorte cresce con ogni nuovo volto e ho bisogno del tuo aiuto per evitare una carenza imminente." },
+    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_MARU_000_001", "hash": "FCA5ACDFC6C0D2D2", "target": "Parlo delle zampe di granchio di Akyaali, tanto richieste quanto appuntite! La creatura che le porta dovrebbe comunque essere una facile preda per te. Penso che lo sappiano anche loro, quindi non lesinare sulle esche se vuoi che arrivino zampettando." },
+    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_MARU_000_002", "hash": "DD54A3F90C09F635", "target": "Per sicurezza, faresti meglio a posare tre di questi pesci, eh? Distanziali anche, così aumenti le probabilità. Buona caccia, <if(gnum4,amica,amico)>." },
+    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_SYSTEM_000_003", "hash": "2215C8AFAF8A488B", "target": "Non sembrano esserci granchi affamati nella zona." },
+    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_MARU_000_004", "hash": "B16ACA5E1C3C3AEF", "target": "Ah, eccoti. Spero tu abbia potuto goderti gli spruzzi d'acqua salata sul viso durante la caccia. Hai preso le zampe?" },
+    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_MARU_000_005", "hash": "0456A27795B0AE0E", "target": "Ah, sì... Sono proprio quelle che cercavo. Grazie di avermi portato esemplari tanto belli, ci sfameremo parecchi Cavalcaippopotami affamati." },
+    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_MARU_000_006", "hash": "3D2C1005705093AF", "target": "... E senz'altro anche molti visitatori. Non ci sono molti cuochi in fila per duellare con quei dannati zampalunga, anche se la loro carne è fra i frutti di mare più appetitosi dell'isola." },
+    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_MARU_000_007", "hash": "6C076EF594AB1906", "target": "Buttale in un curry e il loro sapore risalterà fra le spezie, o mettile in un biryani per una consistenza deliziosa. Ed è solo l'inizio..." },
+    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_MARU_000_008", "hash": "A723315EA2F0E776", "target": "Naturalmente, se non sono fresche non sono altrettanto buone, quindi presto potremmo averne bisogno di altre. Alla prossima!" }
   ]
 }

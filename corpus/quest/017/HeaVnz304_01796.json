@@ -9,7 +9,7 @@
     { "gameKey": "quest/017/HeaVnz304_01796#TEXT_HEAVNZ304_01796_TODO_00", "hash": "80DD493711B7C47A", "target": "Uccidere un Gnath haildrone." },
     { "gameKey": "quest/017/HeaVnz304_01796#TEXT_HEAVNZ304_01796_TODO_01", "hash": "D9BFF8A67EC01C51", "target": "Uccidere un Gnath irondrone." },
     { "gameKey": "quest/017/HeaVnz304_01796#TEXT_HEAVNZ304_01796_TODO_02", "hash": "B1D4B62A15EE7235", "target": "Uccidere un Gnath forager." },
-    { "gameKey": "quest/017/HeaVnz304_01796#TEXT_HEAVNZ304_01796_TODO_03", "hash": "FBC6997286395A99", "target": "Fare rapporto al narratore dei Vath." },
+    { "gameKey": "quest/017/HeaVnz304_01796#TEXT_HEAVNZ304_01796_TODO_03", "hash": "FBC6997286395A99", "target": "Fare rapporto al Vath storyteller" },
     { "gameKey": "quest/017/HeaVnz304_01796#TEXT_HEAVNZ304_01796_STORYTELLER_000_000", "hash": "0E66AE4C58072E12", "target": "Quella detestabile Mente Unica. Vengono qui e prendono di mira i nostri giovani. \\<click> \\<click> <if(gnum4,Generosa cacciatrice,Generoso cacciatore)>, vi supplico. Fateci giustizia. Fateli soffrire come abbiamo sofferto noi." },
     { "gameKey": "quest/017/HeaVnz304_01796#TEXT_HEAVNZ304_01796_STORYTELLER_000_001", "hash": "2A14E105CC42E1FD", "target": "Un irondrone, un haildrone, un forager. Uccidetene uno per tipo. Non cerchiamo giustizia contro una singola casta della Mente Unica. Cerchiamo giustizia contro la Mente Unica stessa." },
     { "gameKey": "quest/017/HeaVnz304_01796#TEXT_HEAVNZ304_01796_STORYTELLER_000_010", "hash": "F112503785AAAC14", "target": "Ci avete vendicato contro gli Gnath, <if(gnum4,cacciatrice,cacciatore)>? Un irondrone, un haildrone, un forager." },

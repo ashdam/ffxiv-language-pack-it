@@ -2,17 +2,17 @@
   "conversation": "custom/003/FesHlw2015_00307",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_TALK_ACTOR", "hash": "DC66A636062C49C5", "target": "" },
-    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_Q1_000_000", "hash": "59AD89BC4DCD11BA", "target": "" },
-    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_A1_000_001", "hash": "8B68077B29FA661F", "target": "" },
-    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_A1_000_002", "hash": "C8962FEF43747E72", "target": "" },
-    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_A1_000_003", "hash": "C3AF5ED66B1938F1", "target": "" },
-    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_HLW2015_000_010", "hash": "1B05895D801275DC", "target": "" },
-    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_HLW2015_000_011", "hash": "4AAA09470EECB7CE", "target": "" },
-    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_HLW2015_000_012", "hash": "96C6E96DDED12DD5", "target": "" },
-    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_HLW2015_000_020", "hash": "D67BB7819F620759", "target": "" },
-    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_HLW2015_000_021", "hash": "9E283BAE9C4BB411", "target": "" },
-    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_HLW2015_000_022", "hash": "20121477EA8951AE", "target": "" },
-    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_HLW2015_000_023", "hash": "0E176E41DA99F240", "target": "" }
+    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_TALK_ACTOR", "hash": "DC66A636062C49C5", "target": "Ciao, zucchetta! Ti stai godendo i festeggiamenti, spero? Se vuoi sapere qualcosa, chiedi pure!" },
+    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_Q1_000_000", "hash": "59AD89BC4DCD11BA", "target": "Su cosa vuoi informarti?" },
+    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_A1_000_001", "hash": "8B68077B29FA661F", "target": "Sul Circo Continentale." },
+    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_A1_000_002", "hash": "C8962FEF43747E72", "target": "Sulla Veglia di Ognissanti." },
+    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_A1_000_003", "hash": "C3AF5ED66B1938F1", "target": "Niente." },
+    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_HLW2015_000_010", "hash": "1B05895D801275DC", "target": "Come suggerisce il nome, siamo una compagnia di artisti che percorre il paese in lungo e in largo. La nostra missione: trasformare i musi lunghi in sorrisi!" },
+    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_HLW2015_000_011", "hash": "4AAA09470EECB7CE", "target": "In questo periodo dell'anno ci troviamo di solito nelle tre città<-->stato per aiutare la gente a celebrare la Veglia di Ognissanti." },
+    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_HLW2015_000_012", "hash": "96C6E96DDED12DD5", "target": "Abbiamo preparato ogni genere di evento emozionante, per divertirti e farti tremare di paura! Perché non metti da parte per un po' le fatiche delle avventure e partecipi ai festeggiamenti?" },
+    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_HLW2015_000_020", "hash": "D67BB7819F620759", "target": "La leggenda narra che, una volta all'anno, i Dodici onorino i santi con un sontuoso banchetto nei cieli. Mentre i santi sono assenti, però, il regno rimane privo della loro divina protezione e le creature delle tenebre escono in massa." },
+    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_HLW2015_000_021", "hash": "9E283BAE9C4BB411", "target": "Temendo per la propria vita, la gente prese a chiudersi in casa. Chi non aveva altra scelta che uscire si travestiva da mostro, sperando di non farsi notare da quelli veri." },
+    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_HLW2015_000_022", "hash": "20121477EA8951AE", "target": "Una faccenda spaventosa, vero? Ma ormai appartiene al passato, perché oggi abbiamo valorosi avventurieri come te a proteggere le città quando i santi sono assenti!" },
+    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_HLW2015_000_023", "hash": "0E176E41DA99F240", "target": "Non avendo più motivo di temere, la gente ha trasformato la Veglia di Ognissanti in una festa divertente. Una situazione davvero detestabile... ehm... <italic(1)>deliziosa<italic(0)>!" }
   ]
 }

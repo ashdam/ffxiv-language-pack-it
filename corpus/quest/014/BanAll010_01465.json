@@ -2,16 +2,16 @@
   "conversation": "quest/014/BanAll010_01465",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_SEQ_00", "hash": "6C4A1EF5D133E5FC", "target": "" },
-    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_SEQ_01", "hash": "9F60B982E9A63A4A", "target": "" },
-    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_SEQ_02", "hash": "459D1C129432C75D", "target": "" },
-    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_TODO_00", "hash": "8B01EEDBA577222F", "target": "" },
-    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_SCARLET_000_000", "hash": "9B5E7EF5C1BED205", "target": "" },
-    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_SCARLET_000_001", "hash": "5A3DB561EEE5CA74", "target": "" },
-    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_SCARLET_000_002", "hash": "736C1E0E71AFC2C2", "target": "" },
-    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_SCARLET_000_003", "hash": "880F10C5A88AF4E5", "target": "" },
-    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_SCARLET_000_005", "hash": "214F92899204DF65", "target": "" },
-    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_GAVIN_000_010", "hash": "94C848FAA6DD2DFB", "target": "" },
-    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_GAVIN_000_011", "hash": "1ACA6B21D547ECDF", "target": "" }
+    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_SEQ_00", "hash": "6C4A1EF5D133E5FC", "target": "Scarlet vuole lodare il tuo lavoro tra le diverse società di Eorzea e chiederti ancora aiuto." },
+    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_SEQ_01", "hash": "9F60B982E9A63A4A", "target": "La tenente Scarlet ti ringrazia per le imprese che hanno gettato le basi di una futura pace duratura con le tribù bestiali di Eorzea. Apprezza le tue doti diplomatiche e desidera il tuo aiuto per un incarico importante. Chiedi i dettagli al tenente Gavin." },
+    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_SEQ_02", "hash": "459D1C129432C75D", "target": "Il tenente Gavin è rincuorato dalla tua presenza, avendo sentito delle tue imprese per la pace con le tribù bestiali. Per conoscere l'incarico che le Due Vipere vogliono affidarti, parlagli di nuovo." },
+    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_TODO_00", "hash": "8B01EEDBA577222F", "target": "Parlare con Gavin" },
+    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_SCARLET_000_000", "hash": "9B5E7EF5C1BED205", "target": "<if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<split(<string(gstr1)>, ,1)>)>)>. A nome dell'intero Ordine delle Due Vipere, ti porgo i nostri più alti encomi." },
+    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_SCARLET_000_001", "hash": "5A3DB561EEE5CA74", "target": "La pace duratura con le tribù bestiali non sarà facile, ma i tuoi sforzi hanno posto le fondamenta su cui un giorno potrà essere costruita." },
+    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_SCARLET_000_002", "hash": "736C1E0E71AFC2C2", "target": "Voglio affidare a te, <if(gnum4,la nostra più abile ambasciatrice,il nostro più abile ambasciatore)>, un incarico della massima importanza." },
+    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_SCARLET_000_003", "hash": "880F10C5A88AF4E5", "target": "Il tenente Gavin ti darà i dettagli. Buon viaggio, <if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<split(<string(gstr1)>, ,1)>)>)>, e che gli elementali veglino su di te." },
+    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_SCARLET_000_005", "hash": "214F92899204DF65", "target": "Il tenente Gavin ti darà i dettagli della missione. Buon viaggio, <if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<split(<string(gstr1)>, ,1)>)>)>, e che gli elementali veglino su di te." },
+    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_GAVIN_000_010", "hash": "94C848FAA6DD2DFB", "target": "<if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<split(<string(gstr1)>, ,1)>)>)>! Cosa non darei per ascoltare le vostre avventure con gli Ixal davanti a un boccale d'idromele!" },
+    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_GAVIN_000_011", "hash": "1ACA6B21D547ECDF", "target": "...Eppure temo che oggi ci attendano questioni più urgenti. Quando vorrete conoscere l'incarico, basterà dirlo." }
   ]
 }

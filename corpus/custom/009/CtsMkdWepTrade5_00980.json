@@ -2,16 +2,16 @@
   "conversation": "custom/009/CtsMkdWepTrade5_00980",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_BRIGID_000_000", "hash": "49E2CF9462D377BB", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_BRIGID_000_001", "hash": "7C9641D708866AAE", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_BRIGID_000_002", "hash": "FCAEA12FAF7D99F1", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_BRIGID_000_003", "hash": "8A34826B8525F234", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_GEROLT_000_004", "hash": "638B8FD18AB0CC64", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_GEROLT_000_005", "hash": "05DADD37FDD00D1D", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_GEROLT_000_006", "hash": "CE82C0BAAB76F942", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_GEROLT_000_007", "hash": "EEB4D36F6F6D8170", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_GEROLT_000_008", "hash": "2CBCD2D693C2697B", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_SYSTEM_100_008", "hash": "BD989682396C4588", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_SYSTEM_000_009", "hash": "F8BA11397397B924", "target": "" }
+    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_BRIGID_000_000", "hash": "49E2CF9462D377BB", "target": "Come prima, devi innanzitutto specificare le qualità che desideri dal tuo armamento." },
+    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_BRIGID_000_001", "hash": "7C9641D708866AAE", "target": "Ora replicherò i ricordi di battaglia e li fonderò con la tua arma fantasma..." },
+    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_BRIGID_000_002", "hash": "FCAEA12FAF7D99F1", "target": "Ah, molto promettente..." },
+    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_BRIGID_000_003", "hash": "8A34826B8525F234", "target": "Ta-daaa! Il mio lavoro è finito!" },
+    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_GEROLT_000_004", "hash": "638B8FD18AB0CC64", "target": "I vividi ricordi di battaglia di chi padroneggia le armi, uniti al miglior artigianato del dannato regno... E senza un briciolo di magia illusoria a limitarne il potenziale!" },
+    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_GEROLT_000_005", "hash": "05DADD37FDD00D1D", "target": "La tua arma, <ennoun(Item,3,lnum1,1,1)>, è il vertice della perfezione bellica!" },
+    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_GEROLT_000_006", "hash": "CE82C0BAAB76F942", "target": "Le tue armi, <ennoun(Item,3,lnum1,1,1)> e <ennoun(Item,3,lnum2,1,1)>, sono il vertice della perfezione bellica!" },
+    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_GEROLT_000_007", "hash": "EEB4D36F6F6D8170", "target": "Qui alla forgia non possiamo fare molto altro. È ora che tu porti fuori la tua arma e crei una nuova serie di ricordi di battaglia!" },
+    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_GEROLT_000_008", "hash": "2CBCD2D693C2697B", "target": "Oh, se vuoi rimetterci mano, ti costerà un pezzo di ecliptic arcanite. Capito?" },
+    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_SYSTEM_100_008", "hash": "BD989682396C4588", "target": "Parla con Brigid al Phantom Village se desideri modificare di nuovo gli attributi della tua arma fantasma." },
+    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_SYSTEM_000_009", "hash": "F8BA11397397B924", "target": "Puoi ottenere i chunks of ecliptic arcanite necessari per la modifica da Ermina, anch'essa al Phantom Village." }
   ]
 }

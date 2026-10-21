@@ -2,13 +2,13 @@
   "conversation": "quest/029/BanKjn601_02997",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/BanKjn601_02997#TEXT_BANKJN601_02997_SEQ_00", "hash": "4F76AD906E62ABF6", "target": "" },
-    { "gameKey": "quest/029/BanKjn601_02997#TEXT_BANKJN601_02997_TODO_00", "hash": "A2F8507D1AAE7960", "target": "" },
-    { "gameKey": "quest/029/BanKjn601_02997#TEXT_BANKJN601_02997_TODO_01", "hash": "DB590089F94913DC", "target": "" },
-    { "gameKey": "quest/029/BanKjn601_02997#TEXT_BANKJN601_02997_ZUKIN_000_000", "hash": "218C26713514EF1D", "target": "" },
-    { "gameKey": "quest/029/BanKjn601_02997#TEXT_BANKJN601_02997_ZUKIN_000_001", "hash": "348B3FAA2791033B", "target": "" },
-    { "gameKey": "quest/029/BanKjn601_02997#TEXT_BANKJN601_02997_ZUKIN_000_020", "hash": "7142EB6D13F62888", "target": "" },
-    { "gameKey": "quest/029/BanKjn601_02997#TEXT_BANKJN601_02997_ZUKIN_000_021", "hash": "2297AE274E1234F5", "target": "" },
-    { "gameKey": "quest/029/BanKjn601_02997#TEXT_BANKJN601_02997_ZUKIN_000_022", "hash": "B192B474844256E1", "target": "" }
+    { "gameKey": "quest/029/BanKjn601_02997#TEXT_BANKJN601_02997_SEQ_00", "hash": "4F76AD906E62ABF6", "target": "Zukin reclama a gran voce dei molluschi giganti.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
+    { "gameKey": "quest/029/BanKjn601_02997#TEXT_BANKJN601_02997_TODO_00", "hash": "A2F8507D1AAE7960", "target": "Ottenere detriti viscidi dalle giant clam" },
+    { "gameKey": "quest/029/BanKjn601_02997#TEXT_BANKJN601_02997_TODO_01", "hash": "DB590089F94913DC", "target": "Consegnare i detriti viscidi a Zukin" },
+    { "gameKey": "quest/029/BanKjn601_02997#TEXT_BANKJN601_02997_ZUKIN_000_000", "hash": "218C26713514EF1D", "target": "<split(<string(gstr1)>, ,1)>, conosci i molluschi giganti, vero? Hanno un appetito proporzionato alle loro dimensioni e sono noti per divorare senza distinzione gli oggetti che passano alla deriva." },
+    { "gameKey": "quest/029/BanKjn601_02997#TEXT_BANKJN601_02997_ZUKIN_000_001", "hash": "348B3FAA2791033B", "target": "Ti sarei grato se potessi cercarli, aprirli e riportare i detriti viscidi che trovi dentro. Quattro pezzi dovrebbero bastare." },
+    { "gameKey": "quest/029/BanKjn601_02997#TEXT_BANKJN601_02997_ZUKIN_000_020", "hash": "7142EB6D13F62888", "target": "Ah, eccoti, e con le braccia intatte. Meno male, potremmo averne ancora bisogno. Ma forza, vediamo che cosa hanno restituito i molluschi." },
+    { "gameKey": "quest/029/BanKjn601_02997#TEXT_BANKJN601_02997_ZUKIN_000_021", "hash": "2297AE274E1234F5", "target": "Sì, è proprio quello che cercavo! Ben fatto." },
+    { "gameKey": "quest/029/BanKjn601_02997#TEXT_BANKJN601_02997_ZUKIN_000_022", "hash": "B192B474844256E1", "target": "Quando un corpo estraneo si deposita dentro una conchiglia, sviluppa gradualmente un rivestimento duro e lucente. Questi oggetti non valgono quanto una perla ben formata, ma non sono privi di valore. E non è raro che i molluschi custodiscano tesori!" }
   ]
 }

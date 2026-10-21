@@ -2,15 +2,15 @@
   "conversation": "custom/007/RegUni5BaseOmicron_00760",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/007/RegUni5BaseOmicron_00760#TEXT_REGUNI5BASEOMICRON_00760_M051_000_000", "hash": "8F78ABAED6546A66", "target": "" },
-    { "gameKey": "custom/007/RegUni5BaseOmicron_00760#TEXT_REGUNI5BASEOMICRON_00760_Q1_000_000", "hash": "B570492E172929FC", "target": "" },
-    { "gameKey": "custom/007/RegUni5BaseOmicron_00760#TEXT_REGUNI5BASEOMICRON_00760_A1_000_001", "hash": "B8FC44819DBCB955", "target": "" },
-    { "gameKey": "custom/007/RegUni5BaseOmicron_00760#TEXT_REGUNI5BASEOMICRON_00760_A1_000_002", "hash": "146ADE1EA7C2391F", "target": "" },
-    { "gameKey": "custom/007/RegUni5BaseOmicron_00760#TEXT_REGUNI5BASEOMICRON_00760_A1_000_003", "hash": "E9BB60AC957D37BD", "target": "" },
-    { "gameKey": "custom/007/RegUni5BaseOmicron_00760#TEXT_REGUNI5BASEOMICRON_00760_M051_000_010", "hash": "B03E53A06781F9CF", "target": "" },
-    { "gameKey": "custom/007/RegUni5BaseOmicron_00760#TEXT_REGUNI5BASEOMICRON_00760_M051_000_011", "hash": "B61ACF88FA17C38C", "target": "" },
-    { "gameKey": "custom/007/RegUni5BaseOmicron_00760#TEXT_REGUNI5BASEOMICRON_00760_M051_000_020", "hash": "B980BF54201C981A", "target": "" },
-    { "gameKey": "custom/007/RegUni5BaseOmicron_00760#TEXT_REGUNI5BASEOMICRON_00760_M051_000_021", "hash": "C63C65AE0A9A8D06", "target": "" },
-    { "gameKey": "custom/007/RegUni5BaseOmicron_00760#TEXT_REGUNI5BASEOMICRON_00760_M051_000_022", "hash": "CB25F1534547A0C7", "target": "" }
+    { "gameKey": "custom/007/RegUni5BaseOmicron_00760#TEXT_REGUNI5BASEOMICRON_00760_M051_000_000", "hash": "8F78ABAED6546A66", "target": "Saluti. Qualsiasi richiesta rivolta a questa unità deve essere formulata in modo chiaro e conciso." },
+    { "gameKey": "custom/007/RegUni5BaseOmicron_00760#TEXT_REGUNI5BASEOMICRON_00760_Q1_000_000", "hash": "B570492E172929FC", "target": "Cosa vuoi chiedere?" },
+    { "gameKey": "custom/007/RegUni5BaseOmicron_00760#TEXT_REGUNI5BASEOMICRON_00760_A1_000_001", "hash": "B8FC44819DBCB955", "target": "Di cosa vi occupate qui?" },
+    { "gameKey": "custom/007/RegUni5BaseOmicron_00760#TEXT_REGUNI5BASEOMICRON_00760_A1_000_002", "hash": "146ADE1EA7C2391F", "target": "Che posto è questo?" },
+    { "gameKey": "custom/007/RegUni5BaseOmicron_00760#TEXT_REGUNI5BASEOMICRON_00760_A1_000_003", "hash": "E9BB60AC957D37BD", "target": "Niente." },
+    { "gameKey": "custom/007/RegUni5BaseOmicron_00760#TEXT_REGUNI5BASEOMICRON_00760_M051_000_010", "hash": "B03E53A06781F9CF", "target": "Questa unità è stata designata M-051. Questa unità è responsabile della supervisione e del funzionamento della centrale energetica della base." },
+    { "gameKey": "custom/007/RegUni5BaseOmicron_00760#TEXT_REGUNI5BASEOMICRON_00760_M051_000_011", "hash": "B61ACF88FA17C38C", "target": "Si prega di rivolgere a questa unità eventuali reclami o suggerimenti relativi alla centrale. Questa unità vi risponderà con la massima efficienza possibile." },
+    { "gameKey": "custom/007/RegUni5BaseOmicron_00760#TEXT_REGUNI5BASEOMICRON_00760_M051_000_020", "hash": "B980BF54201C981A", "target": "Questa è Base Omicron, un avamposto costruito per consentirci di combattere contro avversari sconosciuti." },
+    { "gameKey": "custom/007/RegUni5BaseOmicron_00760#TEXT_REGUNI5BASEOMICRON_00760_M051_000_021", "hash": "C63C65AE0A9A8D06", "target": "In conformità agli ultimi ordini di Stigma-1, stiamo attualmente rafforzando la base e le nostre forze. Attendiamo ulteriori ordini. Si richiede la vostra collaborazione." },
+    { "gameKey": "custom/007/RegUni5BaseOmicron_00760#TEXT_REGUNI5BASEOMICRON_00760_M051_000_022", "hash": "CB25F1534547A0C7", "target": "È stato recentemente rilevato un problema nella nostra struttura di comando. Questa unità calcola che sia dovuto a interpretazioni divergenti degli ordini di Stigma-1. Questa unità ha rilevato qualcosa che potreste chiamare «speranza»." }
   ]
 }

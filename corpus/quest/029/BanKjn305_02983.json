@@ -2,15 +2,15 @@
   "conversation": "quest/029/BanKjn305_02983",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/BanKjn305_02983#TEXT_BANKJN305_02983_SEQ_00", "hash": "6B3B80728D3CE39C", "target": "" },
-    { "gameKey": "quest/029/BanKjn305_02983#TEXT_BANKJN305_02983_TODO_00", "hash": "FD9D6C483354064F", "target": "" },
-    { "gameKey": "quest/029/BanKjn305_02983#TEXT_BANKJN305_02983_TODO_01", "hash": "DB283A410175158C", "target": "" },
-    { "gameKey": "quest/029/BanKjn305_02983#TEXT_BANKJN305_02983_ZUKIN_000_000", "hash": "7A5A7AA3DF895CE5", "target": "" },
-    { "gameKey": "quest/029/BanKjn305_02983#TEXT_BANKJN305_02983_ZUKIN_000_001", "hash": "09586531BCCD9CFE", "target": "" },
-    { "gameKey": "quest/029/BanKjn305_02983#TEXT_BANKJN305_02983_ZUKIN_000_002", "hash": "F9E7B45CC6C29435", "target": "" },
-    { "gameKey": "quest/029/BanKjn305_02983#TEXT_BANKJN305_02983_ZUKIN_000_020", "hash": "8F02B25947FDB2C1", "target": "" },
-    { "gameKey": "quest/029/BanKjn305_02983#TEXT_BANKJN305_02983_ZUKIN_000_021", "hash": "89B09A80B43DB447", "target": "" },
-    { "gameKey": "quest/029/BanKjn305_02983#TEXT_BANKJN305_02983_ZUKIN_000_022", "hash": "527B29E8309B1DFA", "target": "" },
-    { "gameKey": "quest/029/BanKjn305_02983#TEXT_BANKJN305_02983_ZUKIN_000_023", "hash": "704AFD44031C4935", "target": "" }
+    { "gameKey": "quest/029/BanKjn305_02983#TEXT_BANKJN305_02983_SEQ_00", "hash": "6B3B80728D3CE39C", "target": "Zukin ha bisogno d'aiuto per preparare un banchetto.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
+    { "gameKey": "quest/029/BanKjn305_02983#TEXT_BANKJN305_02983_TODO_00", "hash": "FD9D6C483354064F", "target": "Attirare i voracious gasame con carne d'ostrica a Hells' Lid e ucciderli per ottenere i loro carapaci roventi" },
+    { "gameKey": "quest/029/BanKjn305_02983#TEXT_BANKJN305_02983_TODO_01", "hash": "DB283A410175158C", "target": "Consegnare i carapaci roventi a Zukin" },
+    { "gameKey": "quest/029/BanKjn305_02983#TEXT_BANKJN305_02983_ZUKIN_000_000", "hash": "7A5A7AA3DF895CE5", "target": "Come capirai bene, cercare tesori mette appetito. Per aiutarci a mantenere le forze, Kaioke cucinerà un pasto sostanzioso, e gli serviranno diversi carapaci roventi." },
+    { "gameKey": "quest/029/BanKjn305_02983#TEXT_BANKJN305_02983_ZUKIN_000_001", "hash": "09586531BCCD9CFE", "target": "Se ognuno di noi ne procurasse anche solo due, ne avremmo abbastanza in un attimo. Tieni questa carne d'ostrica. Puoi usarla per attirare i voracious gasame a Hells' Lid." },
+    { "gameKey": "quest/029/BanKjn305_02983#TEXT_BANKJN305_02983_ZUKIN_000_002", "hash": "F9E7B45CC6C29435", "target": "L'esca potrebbe attirare anche altri gasame, ma non tutti daranno il carapace che ci serve. Fa' attenzione e buona fortuna!" },
+    { "gameKey": "quest/029/BanKjn305_02983#TEXT_BANKJN305_02983_ZUKIN_000_020", "hash": "8F02B25947FDB2C1", "target": "Ah, eccoti di ritorno. Hai procurato la tua parte di carapaci?" },
+    { "gameKey": "quest/029/BanKjn305_02983#TEXT_BANKJN305_02983_ZUKIN_000_021", "hash": "89B09A80B43DB447", "target": "Oh, che gusci grandi e ardenti! Sarà un vero banchetto!" },
+    { "gameKey": "quest/029/BanKjn305_02983#TEXT_BANKJN305_02983_ZUKIN_000_022", "hash": "527B29E8309B1DFA", "target": "Basterà capovolgerli e riempirli d'ingredienti, e in un attimo avremo uno stufato di gasame gustoso e nutriente! Aaah, il solo pensiero mi fa venire l'acquolina..." },
+    { "gameKey": "quest/029/BanKjn305_02983#TEXT_BANKJN305_02983_ZUKIN_000_023", "hash": "704AFD44031C4935", "target": "Non dubito che piacerà anche a te. Ma è così richiesto che dovrai perdonarci se finirà prima che tu possa assaggiarlo!" }
   ]
 }

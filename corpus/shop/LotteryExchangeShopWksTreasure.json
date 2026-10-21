@@ -2,11 +2,11 @@
   "conversation": "shop/LotteryExchangeShopWksTreasure",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "shop/LotteryExchangeShopWksTreasure#TEXT_LOTTERYEXCHANGESHOPWKSTREASURE_UI_TITLE", "hash": "916383336B5F7D78", "target": "" },
-    { "gameKey": "shop/LotteryExchangeShopWksTreasure#TEXT_LOTTERYEXCHANGESHOPWKSTREASURE_UI_NOITEM", "hash": "D856004C4826FE34", "target": "" },
-    { "gameKey": "shop/LotteryExchangeShopWksTreasure#TEXT_LOTTERYEXCHANGESHOPWKSTREASURE_RESULT_UI_TITLE", "hash": "1F7057ABA9842F1F", "target": "" },
-    { "gameKey": "shop/LotteryExchangeShopWksTreasure#TEXT_LOTTERYEXCHANGESHOPWKSTREASURE_RESULT_UI_NEXT", "hash": "EE8A28BD4866CB81", "target": "" },
-    { "gameKey": "shop/LotteryExchangeShopWksTreasure#TEXT_LOTTERYEXCHANGESHOPWKSTREASURE_CONFIRM_SINGLE", "hash": "F6E86B70FBBC309E", "target": "" },
-    { "gameKey": "shop/LotteryExchangeShopWksTreasure#TEXT_LOTTERYEXCHANGESHOPWKSTREASURE_CONFIRM_MULTI", "hash": "DDCE53E3C2771B9F", "target": "" }
+    { "gameKey": "shop/LotteryExchangeShopWksTreasure#TEXT_LOTTERYEXCHANGESHOPWKSTREASURE_UI_TITLE", "hash": "916383336B5F7D78", "target": "Valutazione dei reperti antichi" },
+    { "gameKey": "shop/LotteryExchangeShopWksTreasure#TEXT_LOTTERYEXCHANGESHOPWKSTREASURE_UI_NOITEM", "hash": "D856004C4826FE34", "target": "Non c'è nulla da visualizzare." },
+    { "gameKey": "shop/LotteryExchangeShopWksTreasure#TEXT_LOTTERYEXCHANGESHOPWKSTREASURE_RESULT_UI_TITLE", "hash": "1F7057ABA9842F1F", "target": "Compenso" },
+    { "gameKey": "shop/LotteryExchangeShopWksTreasure#TEXT_LOTTERYEXCHANGESHOPWKSTREASURE_RESULT_UI_NEXT", "hash": "EE8A28BD4866CB81", "target": "Avanti" },
+    { "gameKey": "shop/LotteryExchangeShopWksTreasure#TEXT_LOTTERYEXCHANGESHOPWKSTREASURE_CONFIRM_SINGLE", "hash": "F6E86B70FBBC309E", "target": "Valutare <ennoun(Item,3,lnum1,1,1)>?<br><br><head(<ennoun(Item,3,lnum1,2,1)>)> rimanenti: <num(lnum3)><br>Tentativi rimanenti: <num(lnum2)>" },
+    { "gameKey": "shop/LotteryExchangeShopWksTreasure#TEXT_LOTTERYEXCHANGESHOPWKSTREASURE_CONFIRM_MULTI", "hash": "DDCE53E3C2771B9F", "target": "Valutare <num(lnum4)> <ennoun(Item,3,lnum1,2,1)>?<br><br><head(<ennoun(Item,3,lnum1,2,1)>)> rimanenti: <num(lnum3)><br>Tentativi rimanenti: <num(lnum2)>" }
   ]
 }

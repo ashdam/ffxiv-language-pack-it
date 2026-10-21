@@ -2,19 +2,19 @@
   "conversation": "quest/038/BanQiq116_03821",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_SEQ_00", "hash": "C4B63AF2EEF85F7A", "target": "" },
-    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_SEQ_01", "hash": "1ED42C2DCD5184FD", "target": "" },
-    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_TODO_00", "hash": "1F775CB3E99DD7B6", "target": "" },
-    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_QHOTERLPASOL_000_000", "hash": "4C4D6F85E080A897", "target": "" },
-    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_QHOTERLPASOL_000_001", "hash": "D643AA05AA74198A", "target": "" },
-    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_QHOTERLPASOL_000_002", "hash": "59759665158E9AA7", "target": "" },
-    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_QHOTERLPASOL_000_003", "hash": "B3EB9203838626FB", "target": "" },
-    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_QHOTERLPASOL_000_004", "hash": "D7E779EF182C38C8", "target": "" },
-    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_QHOTERLPASOL_000_005", "hash": "CB83747F4B936418", "target": "" },
-    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_QHOTERLPASOL_000_006", "hash": "4BFF7B838B098322", "target": "" },
-    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_SYSTEM_000_007", "hash": "D2BAA82A34559170", "target": "" },
-    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_QHOTERLPASOL_000_010", "hash": "2E172888D80D5858", "target": "" },
-    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_QHOTERLPASOL_000_011", "hash": "2478838A2EA7DBB6", "target": "" },
-    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_QHOTERLPASOL_000_012", "hash": "BF1DE158AB62A945", "target": "" }
+    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_SEQ_00", "hash": "C4B63AF2EEF85F7A", "target": "Qhoterl Pasol affronta un dilemma senza precedenti: una disastrosa sovrabbondanza di deliziosa selvaggina.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
+    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_SEQ_01", "hash": "1ED42C2DCD5184FD", "target": "Consegnare gli oggetti richiesti a Qhoterl Pasol" },
+    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_TODO_00", "hash": "1F775CB3E99DD7B6", "target": "<if([lnum4==16],<if([lnum1<lnum2],Estrarre splendid rock salt nell'Astropoli di K'mul,Consegnare splendid rock salt a Qhoterl Pasol)>,<if([lnum4==17],<if([lnum1<lnum2],Raccogliere splendid tree bark nell'Astropoli di K'mul,Consegnare splendid tree bark a Qhoterl Pasol)>,<if([lnum4==18],<if([lnum1<lnum2],Pescare con la fiocina splendid Night's bass nelle profondità del Lago Tusi Mek'ta,Consegnare splendid Night's bass a Qhoterl Pasol)>,)>)>)>" },
+    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_QHOTERLPASOL_000_000", "hash": "4C4D6F85E080A897", "target": "Le nostre amiche Viis ci hanno donato un'enorme quantità di carne di cervo per ringraziarci del nostro lavoro. Il problema è che ce n'è talmente tanta che dobbiamo affumicarla prima che vada a male!" },
+    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_QHOTERLPASOL_000_001", "hash": "D643AA05AA74198A", "target": "Potrei permettermi di chiedervi del salgemma? Spargendolo sulla carne prima della preparazione, ne esaltiamo il gusto ricco e selvatico!" },
+    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_QHOTERLPASOL_000_002", "hash": "59759665158E9AA7", "target": "Potrei permettermi di chiedervi della corteccia? Naturalmente, soltanto la più splendida andrà bene." },
+    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_QHOTERLPASOL_000_003", "hash": "B3EB9203838626FB", "target": "Potrei permettermi di chiedervi di fiocinare un Night's bass? Non sarà la scelta più ovvia, ma sembra che affumicarlo insieme al cervo aiuti a conservare la carne." },
+    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_QHOTERLPASOL_000_004", "hash": "D7E779EF182C38C8", "target": "Se potessi staccarmi dai miei doveri qui, inizierei a cercare nei pressi dell'Astropoli di K'mul. Quel luogo ha qualcosa che grida «splendido», non trovate?" },
+    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_QHOTERLPASOL_000_005", "hash": "CB83747F4B936418", "target": "Se potessi staccarmi dai miei doveri qui, inizierei a cercare nei pressi dell'Astropoli di K'mul. Quel luogo ha qualcosa che grida «splendido», non trovate?" },
+    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_QHOTERLPASOL_000_006", "hash": "4BFF7B838B098322", "target": "Se potessi staccarmi dai miei doveri qui e avessi la minima idea di come funzioni la pesca subacquea, tenterei la fortuna al Lago Tusi Mek'ta." },
+    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_SYSTEM_000_007", "hash": "D2BAA82A34559170", "target": "Per proseguire con questa missione, devi prima completare la missione «A New Fishing Ex-spear-ience» e sbloccare la pesca subacquea." },
+    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_QHOTERLPASOL_000_010", "hash": "2E172888D80D5858", "target": "Avete portato quanto richiesto? Ogni istante conta!" },
+    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_QHOTERLPASOL_000_011", "hash": "2478838A2EA7DBB6", "target": "Perbacco, è splendido! Il solo profumo mi fa venir voglia di divorare tutto, anche senza il cervo..." },
+    { "gameKey": "quest/038/BanQiq116_03821#TEXT_BANQIQ116_03821_QHOTERLPASOL_000_012", "hash": "BF1DE158AB62A945", "target": "Ah, certo, così vanificherei la fretta che vi ho messo per evitare che la carne marcisse. E non vorremmo sprecare il generoso dono delle Viis, vero?" }
   ]
 }

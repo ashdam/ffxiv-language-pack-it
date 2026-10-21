@@ -2,14 +2,14 @@
   "conversation": "quest/030/BanAna302_03043",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_SEQ_00", "hash": "21BDC3486BA334AB", "target": "" },
-    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_TODO_00", "hash": "09FB2409DC4C4FFA", "target": "" },
-    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_TODO_01", "hash": "204CEA3381DCCD35", "target": "" },
-    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_ESHANA_000_000", "hash": "4222B0E9407CE90D", "target": "" },
-    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_ESHANA_000_001", "hash": "039CDBE1CD77E198", "target": "" },
-    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_ESHANA_000_020", "hash": "E71B6FCD55EF0CAF", "target": "" },
-    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_ESHANA_000_021", "hash": "3124088151A2AA40", "target": "" },
-    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_ESHANA_000_022", "hash": "ECE8CBCA01397DAA", "target": "" },
-    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_ESHANA_000_023", "hash": "F286361E46ABD175", "target": "" }
+    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_SEQ_00", "hash": "21BDC3486BA334AB", "target": "Eshana ritiene che Castellum Velodyna abbia urgente bisogno di riparazioni.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
+    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_TODO_00", "hash": "09FB2409DC4C4FFA", "target": "Raccogliere lastre di rivestimento in cermet a Pike Falls" },
+    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_TODO_01", "hash": "204CEA3381DCCD35", "target": "Consegnare le lastre di rivestimento in cermet a Eshana" },
+    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_ESHANA_000_000", "hash": "4222B0E9407CE90D", "target": "Come ricorderete, la battaglia per riconquistare Castellum Velodyna fu aspra. Il ponte non ne è uscito indenne, ovviamente, ed è nostra responsssabilità provvedere alle riparazioni e alla manutenzione. Il problema è che ci mancano i materiali adatti." },
+    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_ESHANA_000_001", "hash": "039CDBE1CD77E198", "target": "I garleani hanno eretto questo ponte con materiali rari nella regione, ma i rivessstimenti in cermet delle loro macchine da guerra ci sono stati utili. Se poteste recuperarne, diciamo, tre lastre, ve ne saremmo molto grate." },
+    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_ESHANA_000_020", "hash": "E71B6FCD55EF0CAF", "target": "Avete trovato qualche macchina da guerra da cui recuperare materiali, sss?" },
+    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_ESHANA_000_021", "hash": "3124088151A2AA40", "target": "Sssì, basteranno." },
+    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_ESHANA_000_022", "hash": "ECE8CBCA01397DAA", "target": "A dire il vero, trovo piuttosto rozza l'architettura di questo posto, ma per fortuna è fatto perlopiù di metallo. È un buon esssercizio per le nostre magie di modellazione dei metalli." },
+    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_ESHANA_000_023", "hash": "F286361E46ABD175", "target": "Comunque, serviranno parecchie lastre per completare le riparazioni. Sssospetto che presto avremo ancora bisogno del vostro aiuto." }
   ]
 }

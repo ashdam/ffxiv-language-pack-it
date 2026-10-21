@@ -2,14 +2,14 @@
   "conversation": "quest/029/BanKjn603_02999",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_SEQ_00", "hash": "01B3184BD49BC6B1", "target": "" },
-    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_TODO_00", "hash": "FAAB906F0E351338", "target": "" },
-    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_TODO_01", "hash": "D3DAB130F578D8EF", "target": "" },
-    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_ZUKIN_000_000", "hash": "4611CB60A10D56E6", "target": "" },
-    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_ZUKIN_000_001", "hash": "56928DE1DF6BFDAB", "target": "" },
-    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_ZUKIN_000_002", "hash": "0B93DC51B390F2DB", "target": "" },
-    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_ZUKIN_100_002", "hash": "A09952A407E6FB71", "target": "" },
-    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_ZUKIN_000_003", "hash": "EC01CBAB104C5EB3", "target": "" },
-    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_ZUKIN_000_004", "hash": "39DEEBA676AF45D2", "target": "" }
+    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_SEQ_00", "hash": "01B3184BD49BC6B1", "target": "Zukin vede rosso.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
+    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_TODO_00", "hash": "FAAB906F0E351338", "target": "Usare gli esplosivi confederati per distruggere le imperial crate sull'Isle of Zekki" },
+    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_TODO_01", "hash": "D3DAB130F578D8EF", "target": "Riferire a Zukin" },
+    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_ZUKIN_000_000", "hash": "4611CB60A10D56E6", "target": "Le recenti attività dei Rossi mi preoccupano, <split(<string(gstr1)>, ,1)>. Hanno cominciato a tirar fuori dai magazzini le loro armi imperiali. Non c'è dubbio, preparano un assalto, e potremmo essere noi il bersaglio." },
+    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_ZUKIN_000_001", "hash": "56928DE1DF6BFDAB", "target": "Per impedirlo, intendo sabotare quelle armi. Abbiamo degli esplosivi confederati adatti allo scopo, ma non sono fatti per le grandi mani dei Kojin." },
+    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_ZUKIN_000_002", "hash": "0B93DC51B390F2DB", "target": "Quindi dobbiamo rivolgerci a te. Ti chiedo di infiltrarti nella roccaforte dei Rossi, l'Isle of Zekki, e usare gli esplosivi per distruggere le casse imperiali che vedrai in giro. Che i kami ti benedicano e ti proteggano!" },
+    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_ZUKIN_100_002", "hash": "A09952A407E6FB71", "target": "<split(<string(gstr1)>, ,1)>, aspettavo il tuo ritorno col fiato sospeso! Dimmi che hai distrutto le armi!" },
+    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_ZUKIN_000_003", "hash": "EC01CBAB104C5EB3", "target": "Oh, che sollievo! Grazie a te potremo stare tranquilli per un po'. Ma non significa che possiamo abbassare la guardia." },
+    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_ZUKIN_000_004", "hash": "39DEEBA676AF45D2", "target": "Anche se per ora i Rossi sono inoffensivi, possono facilmente procurarsi altre armi dai loro padroni imperiali. Potremmo avere ancora bisogno della tua bravura." }
   ]
 }

@@ -2,13 +2,13 @@
   "conversation": "custom/002/FesPdyPlayerAltar_00254",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_MAIDPDY2015_000_000", "hash": "49716BE585FE8A71", "target": "" },
-    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_MAIDPDY2015_000_001", "hash": "7D3F90D233C9925C", "target": "" },
-    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_SYSTEM_000_002", "hash": "163A7AB991B14539", "target": "" },
-    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_SYSTEM_000_003", "hash": "B41CAC8DB1A5C459", "target": "" },
-    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_SYSTEM_000_100", "hash": "6A23FA9D78CB0569", "target": "" },
-    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_MAIDPDY2015_000_200", "hash": "9474240A9F842F83", "target": "" },
-    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_MAIDPDY2015_000_201", "hash": "F21E5874A7D90E63", "target": "" },
-    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_MAIDPDY2015_000_202", "hash": "EEF60CBEBEE050BE", "target": "" }
+    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_MAIDPDY2015_000_000", "hash": "49716BE585FE8A71", "target": "Il piedistallo accanto a me è una delle opere create in origine per l'elaborata esposizione di bambole della Festa delle Fanciulle del signor Nanapasi." },
+    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_MAIDPDY2015_000_001", "hash": "7D3F90D233C9925C", "target": "Sebbene alla fine sia stato scartato in favore di un altro progetto, il mio padrone non voleva che andasse sprecato. Ha quindi offerto di collocarlo qui, perché tutti potessero usarlo liberamente." },
+    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_SYSTEM_000_002", "hash": "163A7AB991B14539", "target": "Il piedistallo è a disposizione gratuita di tutti gli avventurieri. Usatelo per scattare fotografie ricordo o come preferite!" },
+    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_SYSTEM_000_003", "hash": "B41CAC8DB1A5C459", "target": "Usate il piedistallo tutte le volte che volete, ma siate rispettosi degli altri avventurieri che potrebbero aspettare il proprio turno." },
+    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_SYSTEM_000_100", "hash": "6A23FA9D78CB0569", "target": "Sul piedistallo si erge una bambola così grande e lavorata con tanta cura da poter essere facilmente scambiata per un essere vivente." },
+    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_MAIDPDY2015_000_200", "hash": "9474240A9F842F83", "target": "Salve, <if(gnum4,avventuriera,avventuriero)>. Come forse avrete notato, il mio padrone ha grandi progetti per la Festa delle Fanciulle di quest'anno. Temo però che abbiano incontrato qualche intoppo. Se voleste offrire i vostri servizi, ci sarebbero molto graditi." },
+    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_MAIDPDY2015_000_201", "hash": "F21E5874A7D90E63", "target": "I vostri sforzi contribuiranno senz'altro a rendere memorabile questa Festa delle Fanciulle. A nome del signor Nanapasi, vi porgo i nostri più sinceri ringraziamenti." },
+    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_MAIDPDY2015_000_202", "hash": "EEF60CBEBEE050BE", "target": "In tutti gli anni al servizio di questa famiglia, non avevo mai visto il signor Nanapasi e la signorina Ninimo felici come oggi. Senza di voi non sarebbe stato possibile, <if(gnum4,avventuriera,avventuriero)>, e per questo vi ringrazio di cuore." }
   ]
 }

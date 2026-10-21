@@ -2,9 +2,9 @@
   "conversation": "custom/004/FesXms2017Mount_00439",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/004/FesXms2017Mount_00439#TEXT_FESXMS2017MOUNT_00439_COMMITTEE00439_000_000", "hash": "FB4ABDA92B3A9AA5", "target": "" },
-    { "gameKey": "custom/004/FesXms2017Mount_00439#TEXT_FESXMS2017MOUNT_00439_COMMITTEE00439_000_010", "hash": "3CA833A7B7AD5FBD", "target": "" },
-    { "gameKey": "custom/004/FesXms2017Mount_00439#TEXT_FESXMS2017MOUNT_00439_COMMITTEE00439_000_020", "hash": "7312445DE8196845", "target": "" },
-    { "gameKey": "custom/004/FesXms2017Mount_00439#TEXT_FESXMS2017MOUNT_00439_Q1_000_000", "hash": "23A3DB6D2B707B13", "target": "" }
+    { "gameKey": "custom/004/FesXms2017Mount_00439#TEXT_FESXMS2017MOUNT_00439_COMMITTEE00439_000_000", "hash": "FB4ABDA92B3A9AA5", "target": "Come avrete notato, la Festa delle Stelle è in pieno svolgimento. Volete partecipare ai festeggiamenti? Amh Garanjy è a Gridania in cerca di altri piccoli aiutanti!" },
+    { "gameKey": "custom/004/FesXms2017Mount_00439#TEXT_FESXMS2017MOUNT_00439_COMMITTEE00439_000_010", "hash": "3CA833A7B7AD5FBD", "target": "Lasciate a noi il compito di legare i treant e recuperare le decorazioni rubate. Voi dovete solo cavalcare <switch(gnum71,Kochab,<if(gnum4,Kochab,Polaris)>,Pferkad,Kochab,Polaris,<if(gnum4,Kochab,Polaris)>,Polaris,Kochab)> e dare a quei ladri una bella dose di Starburst in faccia!" },
+    { "gameKey": "custom/004/FesXms2017Mount_00439#TEXT_FESXMS2017MOUNT_00439_COMMITTEE00439_000_020", "hash": "7312445DE8196845", "target": "Volete dare la caccia ad altri treant ladri di decorazioni? <switch(gnum71,Kochab,<if(gnum4,Kochab,Polaris)>,Pferkad,Kochab,Polaris,<if(gnum4,Kochab,Polaris)>,Polaris,Kochab)> è pronto a partire!" },
+    { "gameKey": "custom/004/FesXms2017Mount_00439#TEXT_FESXMS2017MOUNT_00439_Q1_000_000", "hash": "23A3DB6D2B707B13", "target": "Salire su <switch(gnum71,Kochab,<if(gnum4,Kochab,Polaris)>,Pferkad,Kochab,Polaris,<if(gnum4,Kochab,Polaris)>,Polaris,Kochab)>?" }
   ]
 }

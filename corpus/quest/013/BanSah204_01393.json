@@ -2,18 +2,18 @@
   "conversation": "quest/013/BanSah204_01393",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_SEQ_00", "hash": "85459676CD0EC4DF", "target": "" },
-    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_SEQ_01", "hash": "662DD78093BBEDD9", "target": "" },
-    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_SEQ_02", "hash": "6AC7797A500C851D", "target": "" },
-    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_SEQ_03", "hash": "A2B4FBFC7B293D56", "target": "" },
-    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_TODO_00", "hash": "E8F9E8EDF7450707", "target": "" },
-    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_TODO_01", "hash": "B8933C18D6C4D884", "target": "" },
-    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_HOUU_000_000", "hash": "746A2350C6624D64", "target": "" },
-    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_HOUU_000_001", "hash": "2712E043FC811C14", "target": "" },
-    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_HOUU_000_002", "hash": "82134341043F6F16", "target": "" },
-    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_HOUU_000_003", "hash": "D5B52891FC0D0928", "target": "" },
-    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_HOUU_000_010", "hash": "965E78071A9B92BE", "target": "" },
-    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_HOUU_000_020", "hash": "DF7170E51F29B77B", "target": "" },
-    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_HOUU_000_021", "hash": "86BF3EC8CE0CDA53", "target": "" }
+    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_SEQ_00", "hash": "85459676CD0EC4DF", "target": "Gli ingranaggi della guerra girano inesorabili nella Zona di Riproduzione di Sapsa, ma Houu spera che un tempestivo sabotaggio possa incepparli." },
+    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_SEQ_01", "hash": "662DD78093BBEDD9", "target": "Nuove macchine d'assedio sono sorvegliate nella Zona di Riproduzione di Sapsa, pronte per il fronte e destinate a mietere decine di vite. Houu ha scelto proprio te per distruggere almeno due di queste fresh whelk ballistas, a qualsiasi costo." },
+    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_SEQ_02", "hash": "6AC7797A500C851D", "target": "Hai annientato due baliste, benché non possa fare a meno di temere che altre le sostituiranno presto. Torna subito da Houu per sentire la sua opinione in merito." },
+    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_SEQ_03", "hash": "A2B4FBFC7B293D56", "target": "Benché molto soddisfatto del successo della tua missione, Houu è meno entusiasta quando scopre che i Tridenti hanno radunato nella zona forze più numerose di quanto si pensasse. Spera che le tue imprese li facciano esitare, ma hai la netta impressione che ci sarà ancora molto da fare per mantenere la pace..." },
+    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_TODO_00", "hash": "E8F9E8EDF7450707", "target": "Distruggere le fresh whelk ballistas" },
+    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_TODO_01", "hash": "B8933C18D6C4D884", "target": "Fare rapporto a Houu" },
+    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_HOUU_000_000", "hash": "746A2350C6624D64", "target": "Pshhh... Pshhh... I Tridenti del Corallo hanno costruito nuove macchine d'assedio. Una buccina sulla base a ruote costruita dai Predoni del Serpente. Una sola devasterebbe le difese della gente di terraferma, ma ce ne sono diverse..." },
+    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_HOUU_000_001", "hash": "2712E043FC811C14", "target": "Ho sentito parlare di questi molluschi. Si dice che sia uno spettacolo incredibile: le saette d'energia che scagliano illuminano l'Indigo Deep in un bagliore accecante." },
+    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_HOUU_000_002", "hash": "82134341043F6F16", "target": "Le baliste sono appena state scaricate, ma andranno al fronte, e presto. Vanno distrutte ora, prima che possano usarle. Rabbrividisco al pensiero della devastazione che provocheranno. Pshhh..." },
+    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_HOUU_000_003", "hash": "D5B52891FC0D0928", "target": "Tocca a te distruggere le baliste. Saranno sorvegliate, e temo che non si possa evitare uno spargimento di sangue. Pshhh..." },
+    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_HOUU_000_010", "hash": "965E78071A9B92BE", "target": "Pshhh... Distruggi almeno due fresh whelk ballistas nella Zona di Riproduzione di Sapsa. Ci saranno guardie, ma... fa' ciò che devi." },
+    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_HOUU_000_020", "hash": "DF7170E51F29B77B", "target": "Pshhh! Il tuo ritorno può solo significare che le baliste sono state...<br>...Come dici? Ce n'erano più di quante avessi detto? Sono cattive notizie, essere di terraferma." },
+    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_HOUU_000_021", "hash": "86BF3EC8CE0CDA53", "target": "Mi piace pensare che le tue azioni abbiano incusso un po' di paura nei Tridenti del Corallo, ed è ciò che ci serve. Se nemmeno un'arma ben sorvegliata è al sicuro, quanto potranno esserlo i loro guerrieri? Eppure... sembra che abbiamo ancora molta strada da fare..." }
   ]
 }

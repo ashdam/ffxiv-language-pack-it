@@ -2,18 +2,18 @@
   "conversation": "custom/003/JobRel500QuestLeave_00373",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/003/JobRel500QuestLeave_00373#TEXT_JOBREL500QUESTLEAVE_00373_ARDASHIR_000_000", "hash": "A2505DB4E58BD682", "target": "" },
-    { "gameKey": "custom/003/JobRel500QuestLeave_00373#TEXT_JOBREL500QUESTLEAVE_00373_Q1_000_000", "hash": "9AAD5CBC69F366AB", "target": "" },
-    { "gameKey": "custom/003/JobRel500QuestLeave_00373#TEXT_JOBREL500QUESTLEAVE_00373_ARDASHIR_000_010", "hash": "1D28B709AB93BE75", "target": "" },
-    { "gameKey": "custom/003/JobRel500QuestLeave_00373#TEXT_JOBREL500QUESTLEAVE_00373_ARDASHIR_000_011", "hash": "F7238B8062D6425F", "target": "" },
-    { "gameKey": "custom/003/JobRel500QuestLeave_00373#TEXT_JOBREL500QUESTLEAVE_00373_ARDASHIR_000_020", "hash": "715642BE6963EF42", "target": "" },
-    { "gameKey": "custom/003/JobRel500QuestLeave_00373#TEXT_JOBREL500QUESTLEAVE_00373_ARDASHIR_000_030", "hash": "7EA8D4FDE289517E", "target": "" },
-    { "gameKey": "custom/003/JobRel500QuestLeave_00373#TEXT_JOBREL500QUESTLEAVE_00373_ARDASHIR_000_031", "hash": "1449DD93C18708D9", "target": "" },
-    { "gameKey": "custom/003/JobRel500QuestLeave_00373#TEXT_JOBREL500QUESTLEAVE_00373_SYSTEM_000_001", "hash": "DBF635CD781E3627", "target": "" },
-    { "gameKey": "custom/003/JobRel500QuestLeave_00373#TEXT_JOBREL500QUESTLEAVE_00373_SYSTEM_000_002", "hash": "5A6646C16F002C22", "target": "" },
-    { "gameKey": "custom/003/JobRel500QuestLeave_00373#TEXT_JOBREL500QUESTLEAVE_00373_SYSTEM_000_003", "hash": "ECC59CC5DDE3C6B8", "target": "" },
-    { "gameKey": "custom/003/JobRel500QuestLeave_00373#TEXT_JOBREL500QUESTLEAVE_00373_Q1_000_010", "hash": "F5425B2E3B760C39", "target": "" },
-    { "gameKey": "custom/003/JobRel500QuestLeave_00373#TEXT_JOBREL500QUESTLEAVE_00373_SYSTEM_000_010", "hash": "A99BA06CD5357A03", "target": "" },
-    { "gameKey": "custom/003/JobRel500QuestLeave_00373#TEXT_JOBREL500QUESTLEAVE_00373_SYSTEM_000_020", "hash": "69B1911C95AB1F2A", "target": "" }
+    { "gameKey": "custom/003/JobRel500QuestLeave_00373#TEXT_JOBREL500QUESTLEAVE_00373_ARDASHIR_000_000", "hash": "A2505DB4E58BD682", "target": "Oh, <split(<string(gstr1)>, ,1)>! Non mi aspettavo di rivedervi così presto. C'è... c'è qualcosa che non va?" },
+    { "gameKey": "custom/003/JobRel500QuestLeave_00373#TEXT_JOBREL500QUESTLEAVE_00373_Q1_000_000", "hash": "9AAD5CBC69F366AB", "target": "Dirgli che vuoi abbandonare il lavoro sull'anima?" },
+    { "gameKey": "custom/003/JobRel500QuestLeave_00373#TEXT_JOBREL500QUESTLEAVE_00373_ARDASHIR_000_010", "hash": "1D28B709AB93BE75", "target": "Ma certo, che sciocco! E pensare che per un momento ero quasi sicuro che voleste... che voleste..." },
+    { "gameKey": "custom/003/JobRel500QuestLeave_00373#TEXT_JOBREL500QUESTLEAVE_00373_ARDASHIR_000_011", "hash": "F7238B8062D6425F", "target": "Ehm. Ma se mai decideste di non poter più proseguire, lo capirei." },
+    { "gameKey": "custom/003/JobRel500QuestLeave_00373#TEXT_JOBREL500QUESTLEAVE_00373_ARDASHIR_000_020", "hash": "715642BE6963EF42", "target": "Non occorre aggiungere altro. Non sarò certo io a negarvi una pausa meritata. Se e quando vorrete riprendere le nostre ricerche, sarò qui, pronto ad aspettarvi." },
+    { "gameKey": "custom/003/JobRel500QuestLeave_00373#TEXT_JOBREL500QUESTLEAVE_00373_ARDASHIR_000_030", "hash": "7EA8D4FDE289517E", "target": "Molto bene, allora custodirò io la lente dell'anima." },
+    { "gameKey": "custom/003/JobRel500QuestLeave_00373#TEXT_JOBREL500QUESTLEAVE_00373_ARDASHIR_000_031", "hash": "1449DD93C18708D9", "target": "Se e quando vorrete riprendere le nostre ricerche, sarò qui, pronto ad aspettarvi." },
+    { "gameKey": "custom/003/JobRel500QuestLeave_00373#TEXT_JOBREL500QUESTLEAVE_00373_SYSTEM_000_001", "hash": "DBF635CD781E3627", "target": "Se scegli di abbandonare la missione “Born Again Anima”, la condensazione eterea della tua arma anima verrà azzerata." },
+    { "gameKey": "custom/003/JobRel500QuestLeave_00373#TEXT_JOBREL500QUESTLEAVE_00373_SYSTEM_000_002", "hash": "5A6646C16F002C22", "target": "Inoltre, i tuoi progressi non verranno ripristinati qualora decidessi di affrontare nuovamente questa missione con lo stesso job." },
+    { "gameKey": "custom/003/JobRel500QuestLeave_00373#TEXT_JOBREL500QUESTLEAVE_00373_SYSTEM_000_003", "hash": "ECC59CC5DDE3C6B8", "target": "Tieni presente che questa operazione è irreversibile." },
+    { "gameKey": "custom/003/JobRel500QuestLeave_00373#TEXT_JOBREL500QUESTLEAVE_00373_Q1_000_010", "hash": "F5425B2E3B760C39", "target": "Vuoi davvero abbandonare la missione “Born Again Anima” e azzerare i tuoi progressi?" },
+    { "gameKey": "custom/003/JobRel500QuestLeave_00373#TEXT_JOBREL500QUESTLEAVE_00373_SYSTEM_000_010", "hash": "A99BA06CD5357A03", "target": "Puoi parlare con Ardashir in qualsiasi momento se in futuro deciderai di abbandonare questa missione." },
+    { "gameKey": "custom/003/JobRel500QuestLeave_00373#TEXT_JOBREL500QUESTLEAVE_00373_SYSTEM_000_020", "hash": "69B1911C95AB1F2A", "target": "Puoi parlare con Ardashir in qualsiasi momento se in futuro deciderai di affrontare questa missione." }
   ]
 }

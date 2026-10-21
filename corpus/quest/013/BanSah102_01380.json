@@ -2,18 +2,18 @@
   "conversation": "quest/013/BanSah102_01380",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_SEQ_00", "hash": "C5F7A71680A9B6E1", "target": "" },
-    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_SEQ_01", "hash": "C5A81A95DD55343F", "target": "" },
-    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_SEQ_02", "hash": "C0D7411E2E2B554C", "target": "" },
-    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_SEQ_03", "hash": "E7ABE1B5BE009E5E", "target": "" },
-    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_TODO_00", "hash": "24D896AA5CEC732C", "target": "" },
-    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_TODO_01", "hash": "216CC7CC48043748", "target": "" },
-    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_FYUU_000_000", "hash": "A61A2E6B2D6444EB", "target": "" },
-    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_FYUU_000_001", "hash": "F0EA6A2E4CF77679", "target": "" },
-    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_FYUU_000_002", "hash": "6D5E8FEB35DFAEF0", "target": "" },
-    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_FYUU_000_003", "hash": "41E4EE6F7DAD9CF7", "target": "" },
-    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_FYUU_000_020", "hash": "805B5A9C69BDC505", "target": "" },
-    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_FYUU_000_021", "hash": "75847D204F0B23EA", "target": "" },
-    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_FYUU_000_022", "hash": "F1C2A6A5BDDF4F0E", "target": "" }
+    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_SEQ_00", "hash": "C5F7A71680A9B6E1", "target": "Fyuu desidera contrastare le azioni aggressive dei Tridenti del Corallo." },
+    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_SEQ_01", "hash": "C5A81A95DD55343F", "target": "Fyuu teme che gli stendardi da battaglia eretti dai Tridenti del Corallo provochino indebitamente i soldati di guardia agli sbarramenti. Porta le pietre focaie ricevute dal piccolo a Sahagin Landbase e brucia questi simboli di guerra e violenza." },
+    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_SEQ_02", "hash": "C0D7411E2E2B554C", "target": "Hai dato fuoco agli stendardi da battaglia dei Tridenti del Corallo. Torna da Fyuu a Novv's Nursery e riferisci il tuo successo." },
+    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_SEQ_03", "hash": "E7ABE1B5BE009E5E", "target": "Fyuu è certo che il tuo piccolo atto di vandalismo abbia assestato un colpo discreto in favore della campagna di pace di Novv. Benché la sua covata preferisca ricorrere alla diplomazia quando possibile, il giovane Sahagin ritiene che un approccio più diretto sia l'unica scelta per affrontare i suoi fanatici simili." },
+    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_TODO_00", "hash": "24D896AA5CEC732C", "target": "Bruciare gli stendardi da battaglia sahagin davanti agli sbarramenti" },
+    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_TODO_01", "hash": "216CC7CC48043748", "target": "Fare rapporto a Fyuu" },
+    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_FYUU_000_000", "hash": "A61A2E6B2D6444EB", "target": "Pshhh... I Tridenti del Corallo hanno eretto stendardi da battaglia a pochi passi dagli sbarramenti. Mi sembra pericoloso lasciare che provochino così i soldati di guardia alle mura." },
+    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_FYUU_000_001", "hash": "F0EA6A2E4CF77679", "target": "So che il padre della covata consiglia il dialogo anziché la distruzione, ma, a differenza di mio fratello Pyuu, non credo che i Tridenti accoglierebbero bene una richiesta cortese." },
+    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_FYUU_000_002", "hash": "6D5E8FEB35DFAEF0", "target": "Credo che ci voglia un piccolo atto di vandalismo. Prendi queste pietre focaie e fai scoccare scintille sui loro vessilli di guerra. Dovrebbero bruciare a meraviglia." },
+    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_FYUU_000_003", "hash": "41E4EE6F7DAD9CF7", "target": "Prendi le pietre focaie che ti ho dato e brucia quegli stendardi da battaglia! L'atteggiamento dei Tridenti verso i discorsi ragionevoli è ben noto: se non possiamo distoglierli dalla loro strada con le parole, dobbiamo cercare di contrastare la loro ossstilità!" },
+    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_FYUU_000_020", "hash": "805B5A9C69BDC505", "target": "Ottimo lavoro, essere di terraferma! Un gesto semplice, certo, ma hai assestato un colpo discreto in favore della nostra causa." },
+    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_FYUU_000_021", "hash": "75847D204F0B23EA", "target": "Pshhh. I miei fratelli di covata mi considerano una testa calda, e il padre Novv mi rimprovera spesso per il mio carattere..." },
+    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_FYUU_000_022", "hash": "F1C2A6A5BDDF4F0E", "target": "Ma l'approccio diretto è <italic(1)>l'unico<italic(0)> approccio quando si tratta dei Tridenti del Corallo. E non dimenticare: tutto ciò che facciamo serve a impedire un conflitto più grande con i vostri popoli senza pinne." }
   ]
 }

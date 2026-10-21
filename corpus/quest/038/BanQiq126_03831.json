@@ -2,17 +2,17 @@
   "conversation": "quest/038/BanQiq126_03831",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_SEQ_00", "hash": "4A046EABED47BE54", "target": "" },
-    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_SEQ_01", "hash": "663D45F7A851C5DA", "target": "" },
-    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_TODO_00", "hash": "8F582A29B1FC9F02", "target": "" },
-    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_000", "hash": "5CDD0180A6F90932", "target": "" },
-    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_001", "hash": "70C587C082D7E633", "target": "" },
-    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_002", "hash": "FC2801BDE96C53B4", "target": "" },
-    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_003", "hash": "BF2191FFBD29B0BB", "target": "" },
-    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_004", "hash": "F25E4BAFC68800C6", "target": "" },
-    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_005", "hash": "66C18ADD1D490FCC", "target": "" },
-    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_006", "hash": "643DE9A42550A474", "target": "" },
-    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_010", "hash": "2C8FE4AC71EABE8F", "target": "" },
-    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_011", "hash": "AF7A1917EFC38BDC", "target": "" }
+    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_SEQ_00", "hash": "4A046EABED47BE54", "target": "Qhoterl Pasol non vede l'ora di condividere una recente scoperta.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
+    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_SEQ_01", "hash": "663D45F7A851C5DA", "target": "Consegnare le provviste richieste a Qhoterl Pasol" },
+    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_TODO_00", "hash": "8F582A29B1FC9F02", "target": "<if([lnum4==16],<if([lnum1<lnum2],Estrarre splendid bone fragments al Guscio,Consegnare splendid bone fragments a Qhoterl Pasol)>,<if([lnum4==17],<if([lnum1<lnum2],Raccogliere splendid earthworms al Guscio,Consegnare splendid earthworms a Qhoterl Pasol)>,<if([lnum4==18],<if([lnum1<lnum2],Pescare splendid larva al Rimpianto di Mjrl,Consegnare splendid larva a Qhoterl Pasol)>,)>)>)>" },
+    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_000", "hash": "5CDD0180A6F90932", "target": "Scavando in una caverna sotterranea, i lavoratori hanno scoperto un vasto specchio d'acqua pieno di pesci. Questa benedizione ci garantirà viveri costanti mentre scendiamo. Sempre che riusciamo a pescarli, naturalmente." },
+    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_001", "hash": "70C587C082D7E633", "target": "Un'esca d'osso dovrebbe essere irresistibile, e al Guscio non mancano resti rinsecchiti. I lavoratori e io vi saremmo grati se ce ne portaste qualcuno." },
+    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_002", "hash": "FC2801BDE96C53B4", "target": "I vermi sarebbero esche ideali, ma servono quelli più grossi e succosi. Al Guscio ingrassano mangiando i resti sparsi ovunque. I lavoratori e io vi saremmo grati se ce ne portaste qualcuno, per i pesci, non per noi!" },
+    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_003", "hash": "BF2191FFBD29B0BB", "target": "I pesci non resistono a un insetto grasso e succoso all'amo, ma un semplice fruit worm non basta per quelli più prelibati. Un fruit worm, però, <italic(1)>potrebbe<italic(0)> procurarci ciò che serve. Andate al Rimpianto di Mjrl con un fruit worm all'amo e riportateci una splendid larva." },
+    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_004", "hash": "F25E4BAFC68800C6", "target": "I pesci impazziranno per un'esca d'osso. Andate al Guscio: quasi inciamperete in ciò che ci serve." },
+    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_005", "hash": "66C18ADD1D490FCC", "target": "Ci servono vermi, e tanti. Grossi e succosi, come quelli che ricoprono il Guscio. Confido che non vi facciano troppo ribrezzo." },
+    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_006", "hash": "643DE9A42550A474", "target": "Il compito è semplice: usare un insetto per prenderne un altro. Andate al Rimpianto di Mjrl, canna in mano e fruit worm all'amo, e avrete ciò che serve in un attimo." },
+    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_010", "hash": "2C8FE4AC71EABE8F", "target": "Ecco <if(gnum4,la mia abile raccoglitrice,il mio abile raccoglitore)>! Avete ottenuto gli oggetti? Non vediamo l'ora di banchettare." },
+    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_011", "hash": "AF7A1917EFC38BDC", "target": "Avete superato ogni aspettativa ancora una volta! Finora vivevamo di cibi conservati. Riempiono la pancia, ma io credo che un pasto vada gustato. Forse riusciremo finalmente a dimenticare le fatiche del sottosuolo, anche solo per un pasto." }
   ]
 }

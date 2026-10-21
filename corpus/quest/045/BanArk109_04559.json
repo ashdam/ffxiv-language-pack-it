@@ -2,19 +2,19 @@
   "conversation": "quest/045/BanArk109_04559",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_SEQ_00", "hash": "AB3FC49EC03BDD51", "target": "" },
-    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_TODO_00", "hash": "FFDB812F7F6BBA57", "target": "" },
-    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_TODO_01", "hash": "EEEBFB2E4D4C496B", "target": "" },
-    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_TODO_02", "hash": "FE15F9FAD81E2393", "target": "" },
-    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_MARU_000_000", "hash": "0741C4E66A96AEC0", "target": "" },
-    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_MARU_000_001", "hash": "D48B5E769749FB08", "target": "" },
-    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_MARU_000_002", "hash": "9C0917433F2C6A1C", "target": "" },
-    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_ROUGHDELIVERER04559_000_010", "hash": "9B5D8FD6A6943533", "target": "" },
-    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_ROUGHDELIVERER04559_000_011", "hash": "88A6F904E8ABC727", "target": "" },
-    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_ROUGHDELIVERER04559_000_012", "hash": "D5BEF9EFEF1AB342", "target": "" },
-    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_MARU_000_020", "hash": "499A99FEA190FDA4", "target": "" },
-    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_MARU_000_021", "hash": "334B5B304F5BD602", "target": "" },
-    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_MARU_000_022", "hash": "4E57B302695FFBE7", "target": "" },
-    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_MARU_000_023", "hash": "CE9696A9AAE6EA39", "target": "" }
+    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_SEQ_00", "hash": "AB3FC49EC03BDD51", "target": "Maru aspetta con ansia il ritorno di qualcuno.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
+    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_TODO_00", "hash": "FFDB812F7F6BBA57", "target": "Cercare il taciturn Rider" },
+    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_TODO_01", "hash": "EEEBFB2E4D4C496B", "target": "Parlare con il taciturn Rider" },
+    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_TODO_02", "hash": "FE15F9FAD81E2393", "target": "Fare rapporto a Maru" },
+    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_MARU_000_000", "hash": "0741C4E66A96AEC0", "target": "<split(<string(gstr1)>, ,1)>, non hai visto un Cavalcaippopotami taciturno che portava un paio di brocche d'olio di valras, vero?" },
+    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_MARU_000_001", "hash": "D48B5E769749FB08", "target": "È un tipo tosto, quindi non ci ho pensato due volte a mandarlo a pestare valras, ma ora temo gli sia successo qualcosa." },
+    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_MARU_000_002", "hash": "9C0917433F2C6A1C", "target": "Penso che tu sia ancora più <if(gnum4,tosta,tosto)> di lui, quindi ti dispiacerebbe cercarlo? Dovrebbe essere da qualche parte sul Colle Profumato, e spero non a pezzi." },
+    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_ROUGHDELIVERER04559_000_010", "hash": "9B5D8FD6A6943533", "target": "... Ti devo i miei ringraziamenti. Le circostanze mi impedivano di ritirarmi." },
+    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_ROUGHDELIVERER04559_000_011", "hash": "88A6F904E8ABC727", "target": "Recupererò l'olio e tornerò senza indugio. Riferiscilo a Maru, se vuoi." },
+    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_ROUGHDELIVERER04559_000_012", "hash": "D5BEF9EFEF1AB342", "target": "Vedendo questa fragile creatura in pericolo di vita, mi vergogno ad ammettere di aver perso il controllo... Di' a Maru che tornerò presto con l'olio." },
+    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_MARU_000_020", "hash": "499A99FEA190FDA4", "target": "L'hai trovato tutto intero?" },
+    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_MARU_000_021", "hash": "334B5B304F5BD602", "target": "Figuriamoci... Di solito è un tipo assennato, ma quando c'è di mezzo una bestiolina salta tutto." },
+    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_MARU_000_022", "hash": "4E57B302695FFBE7", "target": "Comunque, sono sollevato di sapere che sta bene. Non sapevo cosa avrei fatto, altrimenti..." },
+    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_MARU_000_023", "hash": "CE9696A9AAE6EA39", "target": "Lo terrò a mente la prossima volta che lo mando a fare un lavoro. Grazie di aiutarci come sempre, <split(<string(gstr1)>, ,1)>!" }
   ]
 }

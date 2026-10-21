@@ -2,16 +2,16 @@
   "conversation": "quest/045/BanArk122_04572",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/045/BanArk122_04572#TEXT_BANARK122_04572_SEQ_00", "hash": "DAA6F2CC7E7DEE1A", "target": "" },
-    { "gameKey": "quest/045/BanArk122_04572#TEXT_BANARK122_04572_TODO_00", "hash": "BE40E1D193289116", "target": "" },
-    { "gameKey": "quest/045/BanArk122_04572#TEXT_BANARK122_04572_TODO_01", "hash": "1B843423DCFE449B", "target": "" },
-    { "gameKey": "quest/045/BanArk122_04572#TEXT_BANARK122_04572_MARU_000_000", "hash": "0CD49B13C8480CC3", "target": "" },
-    { "gameKey": "quest/045/BanArk122_04572#TEXT_BANARK122_04572_MARU_000_001", "hash": "4CA7203957D241BD", "target": "" },
-    { "gameKey": "quest/045/BanArk122_04572#TEXT_BANARK122_04572_MARU_000_002", "hash": "87AE5296B83DBD1D", "target": "" },
-    { "gameKey": "quest/045/BanArk122_04572#TEXT_BANARK122_04572_MARU_000_010", "hash": "5F1581C8A6E91900", "target": "" },
-    { "gameKey": "quest/045/BanArk122_04572#TEXT_BANARK122_04572_MARU_000_011", "hash": "545782C157B49F6C", "target": "" },
-    { "gameKey": "quest/045/BanArk122_04572#TEXT_BANARK122_04572_MARU_000_012", "hash": "A2BD552178CCA62E", "target": "" },
-    { "gameKey": "quest/045/BanArk122_04572#TEXT_BANARK122_04572_MARU_000_013", "hash": "19DB783EAC2156E3", "target": "" },
-    { "gameKey": "quest/045/BanArk122_04572#TEXT_BANARK122_04572_MARU_000_014", "hash": "0F2C9467631B43A1", "target": "" }
+    { "gameKey": "quest/045/BanArk122_04572#TEXT_BANARK122_04572_SEQ_00", "hash": "DAA6F2CC7E7DEE1A", "target": "Maru cerca chi osi avventurarsi nelle terre selvagge per cacciare.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
+    { "gameKey": "quest/045/BanArk122_04572#TEXT_BANARK122_04572_TODO_00", "hash": "BE40E1D193289116", "target": "Tenere d'occhio i luoghi indicati e uccidere gli odqan che compaiono" },
+    { "gameKey": "quest/045/BanArk122_04572#TEXT_BANARK122_04572_TODO_01", "hash": "1B843423DCFE449B", "target": "Consegnare i frammenti di odqan a Maru" },
+    { "gameKey": "quest/045/BanArk122_04572#TEXT_BANARK122_04572_MARU_000_000", "hash": "0CD49B13C8480CC3", "target": "Ora un po' di caccia, un compito per cui sono tristemente inadatto. Tu, però, sei proprio <if(gnum4,la donna,l'uomo)> che ci serve." },
+    { "gameKey": "quest/045/BanArk122_04572#TEXT_BANARK122_04572_MARU_000_001", "hash": "4CA7203957D241BD", "target": "Le tue prede sono creature che fanno tremare di terrore anche il Radioso più coriaceo, o... qualcosa del genere. Non lo so bene, ma scommetto che l'idea di un nemico così ti faccia ribollire il sangue." },
+    { "gameKey": "quest/045/BanArk122_04572#TEXT_BANARK122_04572_MARU_000_002", "hash": "87AE5296B83DBD1D", "target": "Vai, arma in pugno, al Sudario del Samgha e cerca gli odqan che si aggirano nella zona. Braccali a tua volta e raccogli due frammenti della loro pelle indurita. ... Ti va bene? Sì, vero?" },
+    { "gameKey": "quest/045/BanArk122_04572#TEXT_BANARK122_04572_MARU_000_010", "hash": "5F1581C8A6E91900", "target": "<if(gnum4,Bentornata,Bentornato)>. Hai un'aria feroce, immagino che la febbre della battaglia non ti sia ancora passata. Spero tu non abbia ucciso più odqan del necessario..." },
+    { "gameKey": "quest/045/BanArk122_04572#TEXT_BANARK122_04572_MARU_000_011", "hash": "545782C157B49F6C", "target": "Ah, questa volta hai davvero superato te <if(gnum4,stessa,stesso)>, <split(<string(gstr1)>, ,1)>. Dopo averli ridotti in polvere fine, penso che i liquori che ne ricaveremo faranno parlare, e bere, la gente ben oltre l'ora della nanna degli ippopotami." },
+    { "gameKey": "quest/045/BanArk122_04572#TEXT_BANARK122_04572_MARU_000_012", "hash": "A2BD552178CCA62E", "target": "Dicono che un alchimista abbia scoperto la ricetta dopo una serie di fallimenti: cercava di fare un liquido esplosivo con la polvere, ma otteneva solo un liquido liquidoso. Non sapendo più cosa fare, decise di affogare i dispiaceri nella miscela tiepida." },
+    { "gameKey": "quest/045/BanArk122_04572#TEXT_BANARK122_04572_MARU_000_013", "hash": "19DB783EAC2156E3", "target": "Immagina la sorpresa quando la prima goccia gli toccò la lingua, rivelando che ciò che mancava alla soluzione in potere esplosivo era compensato dal sapore! Presto la sua bevanda si diffuse in ogni angolo dell'isola, e lui fu acclamato come un genio." },
+    { "gameKey": "quest/045/BanArk122_04572#TEXT_BANARK122_04572_MARU_000_014", "hash": "0F2C9467631B43A1", "target": "Comunque, questa è la storia. Che tu ci creda o no, la bevanda sparisce quasi alla velocità con cui la facciamo, quindi sono certo che tornerò a chiederti aiuto presto..." }
   ]
 }

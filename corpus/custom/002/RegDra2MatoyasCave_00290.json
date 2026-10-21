@@ -2,19 +2,19 @@
   "conversation": "custom/002/RegDra2MatoyasCave_00290",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/RegDra2MatoyasCave_00290#TEXT_REGDRA2MATOYASCAVE_00290_TOROROGGO_000_000", "hash": "23A8415DD6CD9F72", "target": "" },
-    { "gameKey": "custom/002/RegDra2MatoyasCave_00290#TEXT_REGDRA2MATOYASCAVE_00290_Q1_000_050", "hash": "E987F3B224615DB0", "target": "" },
-    { "gameKey": "custom/002/RegDra2MatoyasCave_00290#TEXT_REGDRA2MATOYASCAVE_00290_A1_000_051", "hash": "EA6DAC2DD3732B12", "target": "" },
-    { "gameKey": "custom/002/RegDra2MatoyasCave_00290#TEXT_REGDRA2MATOYASCAVE_00290_A1_000_052", "hash": "4BA0F64488F8171D", "target": "" },
-    { "gameKey": "custom/002/RegDra2MatoyasCave_00290#TEXT_REGDRA2MATOYASCAVE_00290_A1_000_053", "hash": "EBD0D354E5026465", "target": "" },
-    { "gameKey": "custom/002/RegDra2MatoyasCave_00290#TEXT_REGDRA2MATOYASCAVE_00290_TOROROGGO_000_070", "hash": "B96FA8B9F5D6E4BF", "target": "" },
-    { "gameKey": "custom/002/RegDra2MatoyasCave_00290#TEXT_REGDRA2MATOYASCAVE_00290_TOROROGGO_000_071", "hash": "F3CEB1024D4B9AAF", "target": "" },
-    { "gameKey": "custom/002/RegDra2MatoyasCave_00290#TEXT_REGDRA2MATOYASCAVE_00290_TOROROGGO_000_072", "hash": "D718872C95620445", "target": "" },
-    { "gameKey": "custom/002/RegDra2MatoyasCave_00290#TEXT_REGDRA2MATOYASCAVE_00290_TOROROGGO_000_073", "hash": "596885C25C801E84", "target": "" },
-    { "gameKey": "custom/002/RegDra2MatoyasCave_00290#TEXT_REGDRA2MATOYASCAVE_00290_TOROROGGO_000_074", "hash": "5264457FE848D7D6", "target": "" },
-    { "gameKey": "custom/002/RegDra2MatoyasCave_00290#TEXT_REGDRA2MATOYASCAVE_00290_TOROROGGO_000_090", "hash": "2F89F0E1C2B709E5", "target": "" },
-    { "gameKey": "custom/002/RegDra2MatoyasCave_00290#TEXT_REGDRA2MATOYASCAVE_00290_TOROROGGO_000_091", "hash": "2B844792DF2456BB", "target": "" },
-    { "gameKey": "custom/002/RegDra2MatoyasCave_00290#TEXT_REGDRA2MATOYASCAVE_00290_TOROROGGO_000_092", "hash": "1197652B2EBAEC47", "target": "" },
-    { "gameKey": "custom/002/RegDra2MatoyasCave_00290#TEXT_REGDRA2MATOYASCAVE_00290_TOROROGGO_000_093", "hash": "C6CAD06DE26FB8EB", "target": "" }
+    { "gameKey": "custom/002/RegDra2MatoyasCave_00290#TEXT_REGDRA2MATOYASCAVE_00290_TOROROGGO_000_000", "hash": "23A8415DD6CD9F72", "target": "Salve, ti do il benvenuto nella dimora della mia padrona. Come posso servirti, cra?" },
+    { "gameKey": "custom/002/RegDra2MatoyasCave_00290#TEXT_REGDRA2MATOYASCAVE_00290_Q1_000_050", "hash": "E987F3B224615DB0", "target": "Cosa vuoi chiedere?" },
+    { "gameKey": "custom/002/RegDra2MatoyasCave_00290#TEXT_REGDRA2MATOYASCAVE_00290_A1_000_051", "hash": "EA6DAC2DD3732B12", "target": "Di cosa ti occupi qui?" },
+    { "gameKey": "custom/002/RegDra2MatoyasCave_00290#TEXT_REGDRA2MATOYASCAVE_00290_A1_000_052", "hash": "4BA0F64488F8171D", "target": "Che posto è questo?" },
+    { "gameKey": "custom/002/RegDra2MatoyasCave_00290#TEXT_REGDRA2MATOYASCAVE_00290_A1_000_053", "hash": "EBD0D354E5026465", "target": "Niente." },
+    { "gameKey": "custom/002/RegDra2MatoyasCave_00290#TEXT_REGDRA2MATOYASCAVE_00290_TOROROGGO_000_070", "hash": "B96FA8B9F5D6E4BF", "target": "Sono Toro Roggo, umile servitore della signora Matoya, cra." },
+    { "gameKey": "custom/002/RegDra2MatoyasCave_00290#TEXT_REGDRA2MATOYASCAVE_00290_TOROROGGO_000_071", "hash": "F3CEB1024D4B9AAF", "target": "A Sharlayan è comune conferire intelligenza ad animali e oggetti per farne dei servitori." },
+    { "gameKey": "custom/002/RegDra2MatoyasCave_00290#TEXT_REGDRA2MATOYASCAVE_00290_TOROROGGO_000_072", "hash": "D718872C95620445", "target": "Per grazia della mia padrona, da semplice rospo sono diventato un poroggo capace di parlare e ragionare." },
+    { "gameKey": "custom/002/RegDra2MatoyasCave_00290#TEXT_REGDRA2MATOYASCAVE_00290_TOROROGGO_000_073", "hash": "596885C25C801E84", "target": "Ma bada bene, cra: non tutti i poroggo che incontri mostrano la mia stessa civiltà e raffinatezza. Quelli senza padrone fuori dalla grotta, per esempio, attaccano i passanti senza motivo. Abbandonati al momento dell'esodo, hanno perso ogni capacità di discernimento." },
+    { "gameKey": "custom/002/RegDra2MatoyasCave_00290#TEXT_REGDRA2MATOYASCAVE_00290_TOROROGGO_000_074", "hash": "5264457FE848D7D6", "target": "Oltre a noi poroggo, la mia padrona ha anche delle scope al suo servizio. Insieme l'aiutiamo in moltissimi modi, dalle sue ricerche alle necessità quotidiane. Le faccende da sbrigare non finiscono proprio mai, cra." },
+    { "gameKey": "custom/002/RegDra2MatoyasCave_00290#TEXT_REGDRA2MATOYASCAVE_00290_TOROROGGO_000_090", "hash": "2F89F0E1C2B709E5", "target": "Questa grotta è la dimora segreta della signora Matoya, cra. Nessuno sa della sua esistenza, a parte te e i tuoi compagni." },
+    { "gameKey": "custom/002/RegDra2MatoyasCave_00290#TEXT_REGDRA2MATOYASCAVE_00290_TOROROGGO_000_091", "hash": "2B844792DF2456BB", "target": "Quando la mia padrona vi si stabilì, non era certo un posto accogliente. Tanto per cominciare, il pavimento era disseminato di ossa di varie creature." },
+    { "gameKey": "custom/002/RegDra2MatoyasCave_00290#TEXT_REGDRA2MATOYASCAVE_00290_TOROROGGO_000_092", "hash": "1197652B2EBAEC47", "target": "Ma grazie alla magia della mia padrona e all'instancabile lavoro delle scope, alla fine è diventata il luogo confortevole che vedi ora." },
+    { "gameKey": "custom/002/RegDra2MatoyasCave_00290#TEXT_REGDRA2MATOYASCAVE_00290_TOROROGGO_000_093", "hash": "C6CAD06DE26FB8EB", "target": "Certo, l'umidità è rimasta, ma è proprio così che piace a noi poroggo. Spero che non ti dia fastidio, cra!" }
   ]
 }

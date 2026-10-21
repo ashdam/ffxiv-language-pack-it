@@ -2,16 +2,16 @@
   "conversation": "custom/000/ComDefSanction_00086",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_001", "hash": "21C4A28ADB87F422", "target": "" },
-    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_006", "hash": "E601D4DB1C773311", "target": "" },
-    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_Q00", "hash": "5582CA84D1C16F0F", "target": "" },
-    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_A01", "hash": "8A532C559564A174", "target": "" },
-    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_A02", "hash": "475E3E04123705EB", "target": "" },
-    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_A03", "hash": "3E9C7ADC5123FD55", "target": "" },
-    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_011", "hash": "B9E7B8E4F94A6705", "target": "" },
-    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_012", "hash": "F046F1ECB0EF14E9", "target": "" },
-    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_016", "hash": "7C512FE3FB605AA8", "target": "" },
-    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_017", "hash": "4670EABC6BB1D10C", "target": "" },
-    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_018", "hash": "226705FC92B9D302", "target": "" }
+    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_001", "hash": "21C4A28ADB87F422", "target": "Ho l'incarico di conferire Sanction ai nostri membri. Poiché non siete dei nostri, temo che non possiate avvalervi di questo servizio." },
+    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_006", "hash": "E601D4DB1C773311", "target": "Ho l'incarico di conferire lo stato Sanction a chi ha raggiunto il grado di <switch(lnum1,chief storm sergeant,chief serpent sergeant,chief flame sergeant)> o superiore. Come posso servirvi oggi?" },
+    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_Q00", "hash": "5582CA84D1C16F0F", "target": "Cosa vuoi fare?" },
+    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_A01", "hash": "8A532C559564A174", "target": "Ricevere Sanction." },
+    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_A02", "hash": "475E3E04123705EB", "target": "Informarsi su Sanction." },
+    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_A03", "hash": "3E9C7ADC5123FD55", "target": "Niente." },
+    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_011", "hash": "B9E7B8E4F94A6705", "target": "Ascoltami, o Saggio Costruttore! Concedi il tuo favore divino a <if(gnum4,questa tua fedele servitrice,questo tuo fedele servitore)>!" },
+    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_012", "hash": "F046F1ECB0EF14E9", "target": "È fatto: la nostra organizzazione vi ha ora conferito Sanction. Vi auguro ogni successo sul campo." },
+    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_016", "hash": "7C512FE3FB605AA8", "target": "Per dotare i nostri uomini e le nostre donne di equipaggiamenti superiori, le menti più brillanti <switch(lnum1,del Maelstrom,dell'Ordine delle Due Vipere,delle Fiamme Immortali)> e dell'Alleanza Eorzeana hanno unito le forze per sviluppare un metodo avanzato di potenziamento dell'equipaggiamento." },
+    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_017", "hash": "4670EABC6BB1D10C", "target": "Il risultato è “Sanction”, un procedimento che consiste nel lanciare uno fra diversi incantesimi di potenziamento su equipaggiamenti appositamente realizzati per ospitare incantamenti." },
+    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_018", "hash": "226705FC92B9D302", "target": "<switch(lnum1,Il Maelstrom ha,L'Ordine delle Due Vipere ha,Le Fiamme Immortali hanno)> recentemente destinato ulteriori risorse alla fabbricazione di queste armi e armature. Gli oggetti compatibili con Sanction sono disponibili a partire dal grado di <switch(lnum1,chief storm sergeant,chief serpent sergeant,chief flame sergeant)> in cambio di company seals." }
   ]
 }

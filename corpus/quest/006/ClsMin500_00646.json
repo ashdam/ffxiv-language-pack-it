@@ -85,7 +85,7 @@
     { "gameKey": "quest/006/ClsMin500_00646#TEXT_CLSMIN500_00646_ADALBERTA_000_094", "hash": "C73DA7CEA7BB2A70", "target": "Come <if(gnum4,avventuriera,avventuriero)>, probabilmente ti ritroverai in ogni angolo del reame. Ma ovunque ti porti il cammino, voglio che pratichi il nostro mestiere per il bene di tutti." },
     { "gameKey": "quest/006/ClsMin500_00646#TEXT_CLSMIN500_00646_ADALBERTA_000_095", "hash": "047A235333444619", "target": "Buon viaggio, <split(<string(gstr1)>, ,1)>, e che le tue fatiche non restino mai senza ricompensa!" },
     { "gameKey": "quest/006/ClsMin500_00646#TEXT_CLSMIN500_00646_SYSTEM_000_500", "hash": "69DB161A0C5E3003", "target": "Questo conclude le missioni per Miner di FINAL FANTASY XIV: A Realm Reborn. Per affrontare la prossima serie di missioni, devi prima soddisfare i seguenti requisiti:" },
-    { "gameKey": "quest/006/ClsMin500_00646#TEXT_CLSMIN500_00646_SYSTEM_000_501", "hash": "D0995F3FC1515E0D", "target": "※Devi aver completato la missione dello scenario principale «Before the Dawn»." },
+    { "gameKey": "quest/006/ClsMin500_00646#TEXT_CLSMIN500_00646_SYSTEM_000_501", "hash": "D0995F3FC1515E0D", "target": "※Devi aver completato la missione della storia principale «Before the Dawn»." },
     { "gameKey": "quest/006/ClsMin500_00646#TEXT_CLSMIN500_00646_SYSTEM_000_502", "hash": "DF5F1E84EBEC9453", "target": "Una volta fatto, la prossima missione per Miner sarà disponibile presso Adalberta." }
   ]
 }

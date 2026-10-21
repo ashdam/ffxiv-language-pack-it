@@ -2,17 +2,17 @@
   "conversation": "quest/012/BanSyl108_01264",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_SEQ_00", "hash": "8D095A97E2CB7041", "target": "" },
-    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_SEQ_01", "hash": "C94DA09CA3BC5010", "target": "" },
-    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_SEQ_02", "hash": "B6F313CFA7E05B5B", "target": "" },
-    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_TODO_00", "hash": "1A4D5F64FC8122C6", "target": "" },
-    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_TONAXIA_000_000", "hash": "6F29F3BC3A95C964", "target": "" },
-    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_TONAXIA_000_001", "hash": "683224C8FB818BD6", "target": "" },
-    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_TONAXIA_000_002", "hash": "181ABD2BBE7DFD28", "target": "" },
-    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_TONAXIA_000_003", "hash": "F69C57D115BF6A81", "target": "" },
-    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_TONAXIA_000_004", "hash": "3D676368E49F3728", "target": "" },
-    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_TONAXIA_000_020", "hash": "02CE61CF1ADD0942", "target": "" },
-    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_TONAXIA_000_021", "hash": "E89DB527E8B42EAF", "target": "" },
-    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_TONAXIA_000_022", "hash": "1A9845E207935470", "target": "" }
+    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_SEQ_00", "hash": "8D095A97E2CB7041", "target": "Tonaxia ha disperatamente bisogno dell'aiuto di un avventuriero." },
+    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_SEQ_01", "hash": "C94DA09CA3BC5010", "target": "La continua presenza dell'Impero Garleano nella foresta fa temere per la vita a Tonaxia e agli altri Silfi. Partecipa al FATE «A Wrench in the Works» nella zona orientale di Larkscall, poi consegna a Tonaxia la prova del tuo trionfo per tranquillizzare il suo povero cuore." },
+    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_SEQ_02", "hash": "B6F313CFA7E05B5B", "target": "Tonaxia è profondamente colpita dal tuo trionfo sulla tecnologia imperiale e sembra ansiosa di condividerne la notizia con tutti a Piccolo Conforto. I Silfi non possono però ancora riposare tranquilli e sarebbero molto rincuorati se ti fermassi fra loro ancora un po'." },
+    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_TODO_00", "hash": "1A4D5F64FC8122C6", "target": "Partecipare al FATE «A Wrench in the Works» e tornare con la prova del trionfo" },
+    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_TONAXIA_000_000", "hash": "6F29F3BC3A95C964", "target": "Chi è amico, per favore! Questi qui sono in un pericolo terribile, terribile!" },
+    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_TONAXIA_000_001", "hash": "683224C8FB818BD6", "target": "Gli amici di questa qui hanno visto quelli d'acciaio nella foresta! Hanno visto quelli giganti e spinosi strappare gli alberi dal terreno! Quegli amici sono sfuggiti a malapena vivi!" },
+    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_TONAXIA_000_002", "hash": "181ABD2BBE7DFD28", "target": "La foresta non è sicura per questi qui con quelli spinosi che rompono e fracassano, e questa qui non può fare nulla." },
+    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_TONAXIA_000_003", "hash": "F69C57D115BF6A81", "target": "Chi è amico è forte, sì? Chi è amico deve fracassare quello spinoso, far andare via quello spinoso." },
+    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_TONAXIA_000_004", "hash": "3D676368E49F3728", "target": "Chi è amico lo farà, sì? Porti un pezzo di quello spinoso, faccia sapere a questi qui che non c'è niente da temere." },
+    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_TONAXIA_000_020", "hash": "02CE61CF1ADD0942", "target": "Questa qui non sente più urti e fracassi. Questa qui osa sognare?" },
+    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_TONAXIA_000_021", "hash": "E89DB527E8B42EAF", "target": "Cos'è questo? Chi è amico ha fracassato quello spinoso in tanti pezzetti?" },
+    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_TONAXIA_000_022", "hash": "1A9845E207935470", "target": "Questa qui ammira la forza di chi è amico! Questa qui deve mostrarlo a tutti questi qui, far sapere a tutti che chi è amico è <if(gnum4,un'eroina,un eroe)> per questi qui!" }
   ]
 }

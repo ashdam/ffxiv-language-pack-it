@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/036/LucKmf110_03653#TEXT_LUCKMF110_03653_SEQ_00", "hash": "D52D10B8F5B2FBBC", "target": "Alphinaud attende il ritorno degli altri compagni." },
     { "gameKey": "quest/036/LucKmf110_03653#TEXT_LUCKMF110_03653_TODO_00", "hash": "86FE4231B3B15327", "target": "Parlare con l'impiegato amministrativo" },
-    { "gameKey": "quest/036/LucKmf110_03653#TEXT_LUCKMF110_03653_TODO_01", "hash": "172D356908431B24", "target": "Attendere nel luogo designato" },
+    { "gameKey": "quest/036/LucKmf110_03653#TEXT_LUCKMF110_03653_TODO_01", "hash": "172D356908431B24", "target": "Attendere nel luogo indicato" },
     { "gameKey": "quest/036/LucKmf110_03653#TEXT_LUCKMF110_03653_TODO_02", "hash": "497DEB2AC38FF846", "target": "Parlare con l'impiegato amministrativo" },
     { "gameKey": "quest/036/LucKmf110_03653#TEXT_LUCKMF110_03653_TODO_03", "hash": "B2A70F53C35D4848", "target": "Consegnare la domanda di permesso per visitatori all'impiegato della segreteria" },
     { "gameKey": "quest/036/LucKmf110_03653#TEXT_LUCKMF110_03653_TODO_04", "hash": "BD50C1F9244315F4", "target": "Trovare un posto libero" },

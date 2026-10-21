@@ -2,18 +2,18 @@
   "conversation": "quest/012/BanSyl110_01266",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_SEQ_00", "hash": "9D90788482415D71", "target": "" },
-    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_SEQ_01", "hash": "85A01E1AA37E804F", "target": "" },
-    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_SEQ_02", "hash": "381ABFCA9299EBD9", "target": "" },
-    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_SEQ_03", "hash": "A007B9C05E437149", "target": "" },
-    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_TODO_00", "hash": "3D5A3682C6704DF9", "target": "" },
-    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_TODO_01", "hash": "9DCA0A7ECE37240C", "target": "" },
-    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_TONAXIA_000_000", "hash": "266DA99D74980BAB", "target": "" },
-    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_TONAXIA_000_001", "hash": "FC33370A8F5DC32B", "target": "" },
-    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_TONAXIA_000_002", "hash": "FE73DD381C5AB1DD", "target": "" },
-    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_TONAXIA_000_003", "hash": "833CF1982759DD18", "target": "" },
-    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_TONAXIA_000_010", "hash": "9EE7528A270662E7", "target": "" },
-    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_TONAXIA_000_020", "hash": "E1B2CC6808A35BF9", "target": "" },
-    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_TONAXIA_000_021", "hash": "B6034D1751B32FEB", "target": "" }
+    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_SEQ_00", "hash": "9D90788482415D71", "target": "Il naso di Tonaxia sente qualcosa di marcio a Larkscall." },
+    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_SEQ_01", "hash": "85A01E1AA37E804F", "target": "Nel maldestro tentativo di proteggere la loro dimora forestale dagli estranei, alcuni Silfi malevoli hanno liberato un'orda di banestools velenosi a Larkscall. Su richiesta di Tonaxia, elimina la minaccia fungina prima che la contaminazione si diffonda." },
+    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_SEQ_02", "hash": "381ABFCA9299EBD9", "target": "I funghi non ci sono più, e l'aria della foresta è di nuovo incontaminata. Riferisci il tuo successo a Tonaxia." },
+    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_SEQ_03", "hash": "A007B9C05E437149", "target": "Tonaxia respira a fondo l'aria fresca della foresta e ti ringrazia per le tue azioni. La sensibile Silfa prova compassione per i suoi simili sviati, che hanno permesso alla diffidenza per gli estranei di offuscare l'amore per la propria casa." },
+    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_TODO_00", "hash": "3D5A3682C6704DF9", "target": "Sconfiggere banestools" },
+    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_TODO_01", "hash": "9DCA0A7ECE37240C", "target": "Fare rapporto a Tonaxia" },
+    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_TONAXIA_000_000", "hash": "266DA99D74980BAB", "target": "Qualcosa puzza di marcio, e questa qui scommette che ci siano dietro quelli asserviti!" },
+    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_TONAXIA_000_001", "hash": "FC33370A8F5DC32B", "target": "Questa qui ha visto quelli asserviti piantare funghi puzzolenti a Larkscall. Quelli asserviti vogliono fare puzza per tenere quelli che camminano fuori dalla foresta, questa qui lo sa." },
+    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_TONAXIA_000_002", "hash": "FE73DD381C5AB1DD", "target": "Cosa pensano quelli lì!? Quelli asserviti appesterebbero la casa di questi qui per tenere fuori gli altri!?" },
+    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_TONAXIA_000_003", "hash": "833CF1982759DD18", "target": "Per favore, chi è amico! Affetti quelli puzzolenti prima che la puzza copra tutta la foresta!" },
+    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_TONAXIA_000_010", "hash": "9EE7528A270662E7", "target": "Per favore, chi è amico! Vada a Larkscall e affetti quelli puzzolenti prima che la puzza copra tutta la foresta!" },
+    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_TONAXIA_000_020", "hash": "E1B2CC6808A35BF9", "target": "Ahhhhhh! Il naso di questa qui dice a questa qui che chi è amico ha salvato ancora questi qui. La gratitudine di questa qui non ha fine." },
+    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_TONAXIA_000_021", "hash": "B6034D1751B32FEB", "target": "Un tempo quelli asserviti amavano la foresta come questi qui, ma non più. Questa qui è triste per quelli asserviti." }
   ]
 }

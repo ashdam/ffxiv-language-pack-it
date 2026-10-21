@@ -2,17 +2,17 @@
   "conversation": "quest/012/BanSyl201_01267",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_SEQ_00", "hash": "3BC45910258E6F8D", "target": "" },
-    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_SEQ_01", "hash": "BC1B98A4E07314F5", "target": "" },
-    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_SEQ_02", "hash": "6E682ADC7BC0A70A", "target": "" },
-    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_SEQ_03", "hash": "18F9CDB199C1DA05", "target": "" },
-    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_TODO_00", "hash": "9797D138CC8AA8D0", "target": "" },
-    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_TODO_01", "hash": "92A4FEDBDC97FFF2", "target": "" },
-    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_TODO_02", "hash": "1D3752DD3476ACF5", "target": "" },
-    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_PONNIXIA_000_000", "hash": "50FC662E8777F09B", "target": "" },
-    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_PONNIXIA_000_001", "hash": "4B475258FD730FF0", "target": "" },
-    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_PONNIXIA_000_002", "hash": "CA19FF40FB80D217", "target": "" },
-    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_PONNIXIA_000_010", "hash": "6FBD454DD64D1606", "target": "" },
-    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_PONNIXIA_000_020", "hash": "6680CAB9395187C3", "target": "" }
+    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_SEQ_00", "hash": "3BC45910258E6F8D", "target": "Ponnixia è preoccupata per una nuova minaccia alla sicurezza del suo popolo." },
+    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_SEQ_01", "hash": "BC1B98A4E07314F5", "target": "I Silfi asserviti creano di nuovo problemi, questa volta addestrando la fauna locale a tormentare e ferire i loro pacifici simili. Avventurati nelle Terre dei Silfi, uccidi i due condor e occupati dei Silfi responsabili dell'addestramento degli uccelli come feroci assassini." },
+    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_SEQ_02", "hash": "6E682ADC7BC0A70A", "target": "Hai eliminato la minaccia alata. Riferisci le tue azioni a Ponnixia." },
+    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_SEQ_03", "hash": "18F9CDB199C1DA05", "target": "Ponnixia è grata per gli sforzi con cui hai placato l'ultima minaccia alla foresta e spera che un giorno gli uccelli possano essere addestrati a essere meno ostili." },
+    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_TODO_00", "hash": "9797D138CC8AA8D0", "target": "Sconfiggere i Sylphlands condors" },
+    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_TODO_01", "hash": "92A4FEDBDC97FFF2", "target": "Sconfiggere i sylpheed snarls" },
+    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_TODO_02", "hash": "1D3752DD3476ACF5", "target": "Fare rapporto a Ponnixia" },
+    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_PONNIXIA_000_000", "hash": "50FC662E8777F09B", "target": "Quelli asserviti combinano di nuovo guai. Rubano quelli col becco dai nidi e insegnano a quelli col becco a essere cattivi con questi qui." },
+    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_PONNIXIA_000_001", "hash": "4B475258FD730FF0", "target": "Questa qui è andata a raccogliere fiori vicino alle Terre dei Silfi e uno cattivo col becco ha quasi staccato a beccate la testa a questa qui!" },
+    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_PONNIXIA_000_002", "hash": "CA19FF40FB80D217", "target": "Questa qui non è mai stata tanto arrabbiata. Questa foresta dovrebbe essere per tutti! Per favore, chi è amico fermi quelli asserviti e quelli cattivi col becco." },
+    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_PONNIXIA_000_010", "hash": "6FBD454DD64D1606", "target": "Per favore, chi è amico! Vada nelle Terre dei Silfi e fermi quelli asserviti e quelli cattivi col becco." },
+    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_PONNIXIA_000_020", "hash": "6680CAB9395187C3", "target": "Chi è amico ha la gratitudine di questa qui. Forse un giorno questa qui potrà insegnare a quelli col becco a essere quelli amichevoli..." }
   ]
 }

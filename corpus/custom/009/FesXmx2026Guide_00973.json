@@ -2,17 +2,17 @@
   "conversation": "custom/009/FesXmx2026Guide_00973",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_GUIDEXMS2026_000_000", "hash": "3A69685ADC594A1C", "target": "" },
-    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_Q1_000_001", "hash": "A9AE72D509C609A4", "target": "" },
-    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_A1_000_001", "hash": "2FA3D6B1F422E93B", "target": "" },
-    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_A1_000_002", "hash": "0404612230C42BA8", "target": "" },
-    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_A1_000_003", "hash": "6D5AC12F9754238D", "target": "" },
-    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_GUIDEXMS2026_000_010", "hash": "66986FC94D2809F9", "target": "" },
-    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_GUIDEXMS2026_000_011", "hash": "FB00AE199D163CCE", "target": "" },
-    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_GUIDEXMS2026_000_012", "hash": "54CB3B57CEAB99B5", "target": "" },
-    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_GUIDEXMS2026_000_013", "hash": "D24451E65BC05459", "target": "" },
-    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_GUIDEXMS2026_000_014", "hash": "C2762440AF021917", "target": "" },
-    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_GUIDEXMS2026_000_020", "hash": "07B0217E329E7F18", "target": "" },
-    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_GUIDEXMS2026_000_021", "hash": "060CC346CA400915", "target": "" }
+    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_GUIDEXMS2026_000_000", "hash": "3A69685ADC594A1C", "target": "Buona Festa delle Stelle! Sono a vostra disposizione per qualsiasi domanda sulla festa." },
+    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_Q1_000_001", "hash": "A9AE72D509C609A4", "target": "Cosa vuoi chiedere?" },
+    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_A1_000_001", "hash": "2FA3D6B1F422E93B", "target": "Che cos'è la Festa delle Stelle?" },
+    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_A1_000_002", "hash": "0404612230C42BA8", "target": "Qual è il vostro compito in tutto questo?" },
+    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_A1_000_003", "hash": "6D5AC12F9754238D", "target": "Niente." },
+    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_GUIDEXMS2026_000_010", "hash": "66986FC94D2809F9", "target": "Le origini della Festa delle Stelle risalgono all'antica Ishgard. Molto tempo fa, una terribile battaglia costò innumerevoli vite, lasciando migliaia di bambini orfani nel gelo spietato di Coerthas." },
+    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_GUIDEXMS2026_000_011", "hash": "FB00AE199D163CCE", "target": "Incapaci di sopportare le loro sofferenze, i cavalieri ishgardesi offrivano ai bambini vitto e alloggio nelle proprie caserme. Naturalmente era espressamente vietato, ma i cavalieri escogitarono un piano per farli entrare di nascosto, camuffandoli con le giacche delle loro uniformi scarlatte." },
+    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_GUIDEXMS2026_000_012", "hash": "54CB3B57CEAB99B5", "target": "Grazie alla loro generosità, i bambini sopravvissero all'inverno e crebbero per ricambiare la gentilezza ricevuta. Gli ex orfani indossavano uniformi scarlatte e consegnavano doni ai bambini nella settimana più fredda dell'anno. Così nacque la Festa delle Stelle." },
+    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_GUIDEXMS2026_000_013", "hash": "D24451E65BC05459", "target": "Nel corso degli anni, la festa è cambiata gradualmente. Il capitano dalla barba candida di quei cavalieri dal cuore buono è diventato noto come il «Santo di Nymeia», e i bambini credono che porti le loro speranze e preghiere direttamente alla dea." },
+    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_GUIDEXMS2026_000_014", "hash": "C2762440AF021917", "target": "Allo stesso modo, i suoi cavalieri dalle giacche rosse sono diventati i «piccoli aiutanti del Santo». Sono particolarmente amati dai bambini, perché hanno il compito di portare doni a tutti quelli che rivolgono una preghiera alla Filatrice." },
+    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_GUIDEXMS2026_000_020", "hash": "07B0217E329E7F18", "target": "La Gilda degli Avventurieri ha incaricato me e i miei colleghi vestiti di scarlatto di organizzare la Festa delle Stelle. La festa si estende a tutta Eorzea, e abbiamo piccoli aiutanti nelle città di Gridania, Limsa Lominsa e Ul'dah." },
+    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_GUIDEXMS2026_000_021", "hash": "060CC346CA400915", "target": "A Gridania potete anche visitare le Bancarelle delle Stelle. Con attrazioni capaci di divertire grandi e piccini, speriamo che offrano a tutti un po' di allegria festiva!" }
   ]
 }

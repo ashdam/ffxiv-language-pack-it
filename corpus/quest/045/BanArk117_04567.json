@@ -2,15 +2,15 @@
   "conversation": "quest/045/BanArk117_04567",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_SEQ_00", "hash": "E76F31B8BD07629E", "target": "" },
-    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_TODO_00", "hash": "FB1B44E49535C936", "target": "" },
-    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_TODO_01", "hash": "51F050D30291BA14", "target": "" },
-    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_MARU_000_001", "hash": "378CE9654A2C31DE", "target": "" },
-    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_MARU_000_002", "hash": "9AD315CB703BDAAD", "target": "" },
-    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_MARU_000_003", "hash": "5ECBF417FD950AE8", "target": "" },
-    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_MARU_000_004", "hash": "AF867D058C9A6350", "target": "" },
-    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_MARU_000_020", "hash": "D893BD7E2A9B56D6", "target": "" },
-    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_MARU_000_021", "hash": "1E1CF7FD6C6C6F1C", "target": "" },
-    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_MARU_000_022", "hash": "5C7083062C8FDF88", "target": "" }
+    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_SEQ_00", "hash": "E76F31B8BD07629E", "target": "Maru vuole distribuire prelibatezze.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
+    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_TODO_00", "hash": "FB1B44E49535C936", "target": "Procurarsi le erbe d'acqua dolce" },
+    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_TODO_01", "hash": "51F050D30291BA14", "target": "Consegnare le erbe d'acqua dolce a Maru" },
+    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_MARU_000_001", "hash": "378CE9654A2C31DE", "target": "<split(<string(gstr1)>, ,1)>... Hai mai guardato nei grandi occhi scuri di un ippopotamo, sapendo nel cuore che non c'è niente di più carino al mondo? A me è successo..." },
+    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_MARU_000_002", "hash": "9AD315CB703BDAAD", "target": "Mi viene voglia di dare loro tutti i bocconcini preferiti: frutta, verdure, erba medica..." },
+    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_MARU_000_003", "hash": "5ECBF417FD950AE8", "target": "E le erbe d'acqua dolce! Sono tanto richieste dai nostri ippopotamini che non riesco mai a raccoglierne abbastanza..." },
+    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_MARU_000_004", "hash": "AF867D058C9A6350", "target": "Sento arrivare un banchetto d'acqua dolce, quindi potresti procurarci delle erbe? Le trovi sulle rive dello Ksiroda, appena a est di Yedlihmad. Con tre fasci avresti la mia eterna gratitudine, e quella dei nostri dolci ippopotami!" },
+    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_MARU_000_020", "hash": "D893BD7E2A9B56D6", "target": "Hai trovato le erbe d'acqua dolce?" },
+    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_MARU_000_021", "hash": "1E1CF7FD6C6C6F1C", "target": "Stasera si banchetta! Prima le tenevamo per le occasioni speciali, perché crescono solo nel sud di Thavnair, ma trasferirci qui ha i suoi vantaggi." },
+    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_MARU_000_022", "hash": "5C7083062C8FDF88", "target": "Comunque, le acque dello Ksiroda vengono da Vanaspati, sai? Quindi, in un certo senso, è come se la nostra vecchia casa si prendesse ancora cura di noi. ... Almeno, mi piace pensarlo." }
   ]
 }

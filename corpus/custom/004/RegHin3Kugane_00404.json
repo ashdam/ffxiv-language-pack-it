@@ -2,16 +2,16 @@
   "conversation": "custom/004/RegHin3Kugane_00404",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_TENZAN_000_000", "hash": "27B089AB56F964EC", "target": "" },
-    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_Q1_000_000", "hash": "366F1CB1E46D8E62", "target": "" },
-    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_A1_000_001", "hash": "49EE9B27FB390393", "target": "" },
-    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_A1_000_002", "hash": "267345E593E9163D", "target": "" },
-    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_A1_000_003", "hash": "AE8218E829D90F2B", "target": "" },
-    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_TENZAN_000_010", "hash": "ADEAF36900BD6CF1", "target": "" },
-    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_TENZAN_000_011", "hash": "D75916D6162E9586", "target": "" },
-    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_TENZAN_000_012", "hash": "3025EE49881C15E4", "target": "" },
-    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_TENZAN_000_020", "hash": "5FAAFAE38E98AA09", "target": "" },
-    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_TENZAN_000_021", "hash": "6D5F82BB428FA148", "target": "" },
-    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_TENZAN_000_022", "hash": "6F6C5835AB587AEE", "target": "" }
+    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_TENZAN_000_000", "hash": "27B089AB56F964EC", "target": "Siete in visita a Kugane, suppongo? Vi occorre qualcosa?" },
+    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_Q1_000_000", "hash": "366F1CB1E46D8E62", "target": "Cosa vuoi chiedere?" },
+    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_A1_000_001", "hash": "49EE9B27FB390393", "target": "Di cosa vi occupate qui?" },
+    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_A1_000_002", "hash": "267345E593E9163D", "target": "Che posto è questo?" },
+    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_A1_000_003", "hash": "AE8218E829D90F2B", "target": "Niente." },
+    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_TENZAN_000_010", "hash": "ADEAF36900BD6CF1", "target": "Sono Tenzan, funzionario doganale di questo porto. Il signor bugyo mi ha incaricato di assicurarmi che nessun articolo proibito entri nelle nostre terre." },
+    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_TENZAN_000_011", "hash": "D75916D6162E9586", "target": "Il nostro è un porto aperto, ma ciò non significa che si possa introdurre tutto ciò che si desidera. Se volete commerciare qui, dovete rispettare le nostre leggi." },
+    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_TENZAN_000_012", "hash": "3025EE49881C15E4", "target": "Chi tenta di importare merci ritenute una minaccia alla sicurezza nazionale verrà affidato alla custodia dei Sekiseigumi e trattato con severità. Se volete rivedere le vostre coste, consideratevi <if(gnum4,avvertita,avvertito)>." },
+    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_TENZAN_000_020", "hash": "5FAAFAE38E98AA09", "target": "Dato che siete qui, dovreste già saperlo, ma vi accontenterò comunque." },
+    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_TENZAN_000_021", "hash": "6D5F82BB428FA148", "target": "Kugane è una città portuale situata su Shishu, l'isola più occidentale di Hingashi. Nel quadro della politica di isolamento nazionale, ha il privilegio di essere l'unico porto aperto al mondo esterno." },
+    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_TENZAN_000_022", "hash": "6F6C5835AB587AEE", "target": "Poiché tutto il commercio con l'estero si concentra qui, noi funzionari doganali siamo sempre indaffarati, ma non possiamo permetterci negligenze. Senza eccezioni, tutte le navi straniere devono sottoporsi a un'ispezione qui, al molo numero due." }
   ]
 }

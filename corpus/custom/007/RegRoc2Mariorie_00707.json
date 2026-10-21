@@ -2,19 +2,19 @@
   "conversation": "custom/007/RegRoc2Mariorie_00707",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/007/RegRoc2Mariorie_00707#TEXT_REGROC2MARIORIE_00707_MARIORIE_000_000", "hash": "65D0B4E3B7C81133", "target": "" },
-    { "gameKey": "custom/007/RegRoc2Mariorie_00707#TEXT_REGROC2MARIORIE_00707_MARIORIE_000_001", "hash": "CD3D6131BB51FDDF", "target": "" },
-    { "gameKey": "custom/007/RegRoc2Mariorie_00707#TEXT_REGROC2MARIORIE_00707_Q1_000_000", "hash": "32E50B271294E9AE", "target": "" },
-    { "gameKey": "custom/007/RegRoc2Mariorie_00707#TEXT_REGROC2MARIORIE_00707_A1_000_001", "hash": "795F31C2CFAE4721", "target": "" },
-    { "gameKey": "custom/007/RegRoc2Mariorie_00707#TEXT_REGROC2MARIORIE_00707_A1_000_002", "hash": "F3920E49A9FDA963", "target": "" },
-    { "gameKey": "custom/007/RegRoc2Mariorie_00707#TEXT_REGROC2MARIORIE_00707_A1_000_003", "hash": "644A84A95D6B4D91", "target": "" },
-    { "gameKey": "custom/007/RegRoc2Mariorie_00707#TEXT_REGROC2MARIORIE_00707_A1_000_004", "hash": "25134C2324340D48", "target": "" },
-    { "gameKey": "custom/007/RegRoc2Mariorie_00707#TEXT_REGROC2MARIORIE_00707_MARIORIE_000_003", "hash": "0CC84762411A0740", "target": "" },
-    { "gameKey": "custom/007/RegRoc2Mariorie_00707#TEXT_REGROC2MARIORIE_00707_SYSTEM_000_004", "hash": "1C903274D157078B", "target": "" },
-    { "gameKey": "custom/007/RegRoc2Mariorie_00707#TEXT_REGROC2MARIORIE_00707_SYSTEM_000_005", "hash": "89D5ACA6134AD567", "target": "" },
-    { "gameKey": "custom/007/RegRoc2Mariorie_00707#TEXT_REGROC2MARIORIE_00707_SYSTEM_000_006", "hash": "FBCC363CF795DBF7", "target": "" },
-    { "gameKey": "custom/007/RegRoc2Mariorie_00707#TEXT_REGROC2MARIORIE_00707_SYSTEM_000_007", "hash": "BE76EAEAA4D32BBF", "target": "" },
-    { "gameKey": "custom/007/RegRoc2Mariorie_00707#TEXT_REGROC2MARIORIE_00707_SYSTEM_000_008", "hash": "9D6BE0010E3ABE33", "target": "" },
-    { "gameKey": "custom/007/RegRoc2Mariorie_00707#TEXT_REGROC2MARIORIE_00707_MARIORIE_000_999", "hash": "D708880AF101808E", "target": "" }
+    { "gameKey": "custom/007/RegRoc2Mariorie_00707#TEXT_REGROC2MARIORIE_00707_MARIORIE_000_000", "hash": "65D0B4E3B7C81133", "target": "<split(<string(gstr1)>, ,1)>! Posso sperare che la vostra presenza significhi che vorrete onorarci con un bis? In tal caso, sarò felice di far chiamare subito gli altri musicisti!" },
+    { "gameKey": "custom/007/RegRoc2Mariorie_00707#TEXT_REGROC2MARIORIE_00707_MARIORIE_000_001", "hash": "CD3D6131BB51FDDF", "target": "Oh, e se questa volta voleste cimentarvi con una composizione più impegnativa, sarò felice di procurarvi un altro spartito." },
+    { "gameKey": "custom/007/RegRoc2Mariorie_00707#TEXT_REGROC2MARIORIE_00707_Q1_000_000", "hash": "32E50B271294E9AE", "target": "Cominciare il concerto?" },
+    { "gameKey": "custom/007/RegRoc2Mariorie_00707#TEXT_REGROC2MARIORIE_00707_A1_000_001", "hash": "795F31C2CFAE4721", "target": "Eseguire un brano tradizionale." },
+    { "gameKey": "custom/007/RegRoc2Mariorie_00707#TEXT_REGROC2MARIORIE_00707_A1_000_002", "hash": "F3920E49A9FDA963", "target": "Eseguire un brano elaborato." },
+    { "gameKey": "custom/007/RegRoc2Mariorie_00707#TEXT_REGROC2MARIORIE_00707_A1_000_003", "hash": "644A84A95D6B4D91", "target": "Non ancora." },
+    { "gameKey": "custom/007/RegRoc2Mariorie_00707#TEXT_REGROC2MARIORIE_00707_A1_000_004", "hash": "25134C2324340D48", "target": "Come si fa, di nuovo?" },
+    { "gameKey": "custom/007/RegRoc2Mariorie_00707#TEXT_REGROC2MARIORIE_00707_MARIORIE_000_003", "hash": "0CC84762411A0740", "target": "Oh, ma perdonatemi. Non volevo mettervi sotto pressione. Quando avrete voglia di esibirvi, basterà dirlo." },
+    { "gameKey": "custom/007/RegRoc2Mariorie_00707#TEXT_REGROC2MARIORIE_00707_SYSTEM_000_004", "hash": "1C903274D157078B", "target": "Quando comincerà l'esibizione, l'orchestra eseguirà un brano. Premi i comandi a tempo seguendo le indicazioni sullo schermo." },
+    { "gameKey": "custom/007/RegRoc2Mariorie_00707#TEXT_REGROC2MARIORIE_00707_SYSTEM_000_005", "hash": "89D5ACA6134AD567", "target": "Quando compare un'indicazione blu (a sinistra), premi il comando quando i rombi si sovrappongono.<br>Quando compare un'indicazione arancione (al centro), premi rapidamente più volte finché l'indicazione non scompare.<br>Quando compare un'indicazione rossa (a destra), tieni premuto il comando per tutta la durata dell'indicazione." },
+    { "gameKey": "custom/007/RegRoc2Mariorie_00707#TEXT_REGROC2MARIORIE_00707_SYSTEM_000_006", "hash": "FBCC363CF795DBF7", "target": "I comandi sono i seguenti:" },
+    { "gameKey": "custom/007/RegRoc2Mariorie_00707#TEXT_REGROC2MARIORIE_00707_SYSTEM_000_007", "hash": "BE76EAEAA4D32BBF", "target": "<if([gnum80==0],Mouse: \uE051clic sinistro o \uE052clic destro in un punto qualsiasi dello schermo<br>Tastiera: qualunque tasto normale\\, senza modificatori<br>Nota: la chat verrà temporaneamente disabilitata.,<if([gnum75>0],Controller,Gamepad)>: tutti i pulsanti e i tasti direzionali tranne <icon2(18)>)>" },
+    { "gameKey": "custom/007/RegRoc2Mariorie_00707#TEXT_REGROC2MARIORIE_00707_SYSTEM_000_008", "hash": "9D6BE0010E3ABE33", "target": "Per accedere al menu Pause, premi il tasto <if([gnum78==3],esc,Esc)> o il pulsante <icon2(18)>. Da lì potrai scegliere di terminare l'esibizione." },
+    { "gameKey": "custom/007/RegRoc2Mariorie_00707#TEXT_REGROC2MARIORIE_00707_MARIORIE_000_999", "hash": "D708880AF101808E", "target": "Ah, <split(<string(gstr1)>, ,1)>. Sto proprio preparando il necessario per un bis. Tornate un po' più tardi, se avrete voglia di condividere ancora la gioia della musica." }
   ]
 }

@@ -2,15 +2,15 @@
   "conversation": "custom/001/RegWilVesperBay_00124",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/RegWilVesperBay_00124#TEXT_REGWILVESPERBAY_00124_WILFRID_000_000", "hash": "F3D7AE2128ACD2AA", "target": "" },
-    { "gameKey": "custom/001/RegWilVesperBay_00124#TEXT_REGWILVESPERBAY_00124_WILFRID_000_010", "hash": "A74479F1510662B5", "target": "" },
-    { "gameKey": "custom/001/RegWilVesperBay_00124#TEXT_REGWILVESPERBAY_00124_WILFRID_000_011", "hash": "053780F0CDD7BCFD", "target": "" },
-    { "gameKey": "custom/001/RegWilVesperBay_00124#TEXT_REGWILVESPERBAY_00124_WILFRID_000_020", "hash": "610F245F0E693D5B", "target": "" },
-    { "gameKey": "custom/001/RegWilVesperBay_00124#TEXT_REGWILVESPERBAY_00124_WILFRID_000_021", "hash": "9D5F1AD8C30DDF6A", "target": "" },
-    { "gameKey": "custom/001/RegWilVesperBay_00124#TEXT_REGWILVESPERBAY_00124_WILFRID_000_022", "hash": "0C91F584E9FFA3D6", "target": "" },
-    { "gameKey": "custom/001/RegWilVesperBay_00124#TEXT_REGWILVESPERBAY_00124_Q1_000_000", "hash": "84325050D3DD2379", "target": "" },
-    { "gameKey": "custom/001/RegWilVesperBay_00124#TEXT_REGWILVESPERBAY_00124_A1_000_001", "hash": "AF3B6F34A3706954", "target": "" },
-    { "gameKey": "custom/001/RegWilVesperBay_00124#TEXT_REGWILVESPERBAY_00124_A1_000_002", "hash": "EF8648BF9DC9C43B", "target": "" },
-    { "gameKey": "custom/001/RegWilVesperBay_00124#TEXT_REGWILVESPERBAY_00124_A1_000_003", "hash": "4B946F63AB00F49D", "target": "" }
+    { "gameKey": "custom/001/RegWilVesperBay_00124#TEXT_REGWILVESPERBAY_00124_WILFRID_000_000", "hash": "F3D7AE2128ACD2AA", "target": "Hai bisogno di me, <if(gnum4,avventuriera,avventuriero)>?" },
+    { "gameKey": "custom/001/RegWilVesperBay_00124#TEXT_REGWILVESPERBAY_00124_WILFRID_000_010", "hash": "A74479F1510662B5", "target": "Sono il capitano del porto della Baia del Vespro. Il mio compito è assicurarmi che tutto fili liscio, in ogni momento." },
+    { "gameKey": "custom/001/RegWilVesperBay_00124#TEXT_REGWILVESPERBAY_00124_WILFRID_000_011", "hash": "053780F0CDD7BCFD", "target": "Mi vanto di dirigere il miglior porto della terraferma. Qui il traffico è intenso e senza una buona gestione precipiteremmo subito nel caos." },
+    { "gameKey": "custom/001/RegWilVesperBay_00124#TEXT_REGWILVESPERBAY_00124_WILFRID_000_020", "hash": "610F245F0E693D5B", "target": "La Baia del Vespro è stata costruita solo pochi anni fa, ma in breve tempo è diventata la principale porta marittima di Ul'dah." },
+    { "gameKey": "custom/001/RegWilVesperBay_00124#TEXT_REGWILVESPERBAY_00124_WILFRID_000_021", "hash": "9D5F1AD8C30DDF6A", "target": "Per permettere anche alle navi più grandi di ormeggiare qui, sono stati eseguiti scavi su vasta scala per rendere più profondo il fondale. Un'impresa costosa, resa possibile soltanto dalla generosità di lord Lolorito." },
+    { "gameKey": "custom/001/RegWilVesperBay_00124#TEXT_REGWILVESPERBAY_00124_WILFRID_000_022", "hash": "0C91F584E9FFA3D6", "target": "È a lui che il nostro porto deve la sua prosperità. Alle persone intraprendenti non mancano certo le opportunità." },
+    { "gameKey": "custom/001/RegWilVesperBay_00124#TEXT_REGWILVESPERBAY_00124_Q1_000_000", "hash": "84325050D3DD2379", "target": "Cosa vuoi chiedere?" },
+    { "gameKey": "custom/001/RegWilVesperBay_00124#TEXT_REGWILVESPERBAY_00124_A1_000_001", "hash": "AF3B6F34A3706954", "target": "Di cosa vi occupate qui?" },
+    { "gameKey": "custom/001/RegWilVesperBay_00124#TEXT_REGWILVESPERBAY_00124_A1_000_002", "hash": "EF8648BF9DC9C43B", "target": "Che posto è questo?" },
+    { "gameKey": "custom/001/RegWilVesperBay_00124#TEXT_REGWILVESPERBAY_00124_A1_000_003", "hash": "4B946F63AB00F49D", "target": "Niente." }
   ]
 }

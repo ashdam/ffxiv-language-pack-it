@@ -2,19 +2,19 @@
   "conversation": "quest/012/BanSyl210_01276",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_SEQ_00", "hash": "BC547F836B54D63D", "target": "" },
-    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_SEQ_01", "hash": "6C749F8F88296ECD", "target": "" },
-    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_SEQ_02", "hash": "136C58CF85F9879D", "target": "" },
-    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_SEQ_03", "hash": "1BB86B9CB7C9274C", "target": "" },
-    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_TODO_00", "hash": "E4CB93E587E06638", "target": "" },
-    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_TODO_01", "hash": "5A72E8D997AAA515", "target": "" },
-    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_000", "hash": "FF0698004E257CB5", "target": "" },
-    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_001", "hash": "4F8D86C73AB156E3", "target": "" },
-    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_002", "hash": "57B89C101CAB0840", "target": "" },
-    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_003", "hash": "01C18117F9CFC98E", "target": "" },
-    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_005", "hash": "AF2D6FCF6D07D6FF", "target": "" },
-    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_006", "hash": "B809CF7859308FB9", "target": "" },
-    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_010", "hash": "3DAE9F1A5CA41AE3", "target": "" },
-    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_011", "hash": "3384D68998BE3E2A", "target": "" }
+    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_SEQ_00", "hash": "BC547F836B54D63D", "target": "Ponnixia ha un lavoro sporco, ma qualcuno deve farlo." },
+    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_SEQ_01", "hash": "6C749F8F88296ECD", "target": "Silfi malevoli stanno inquinando le Terre dei Silfi con una varietà particolarmente sgradevole di fungo velenoso, causando notevoli danni alla flora e alla fauna locali. Uccidi due di quei luridi funghi per impedire che la contaminazione della foresta prosegua." },
+    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_SEQ_02", "hash": "136C58CF85F9879D", "target": "I greater banestools non appesteranno più le Terre dei Silfi. Ponnixia sarà felice di sapere del tuo successo." },
+    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_SEQ_03", "hash": "1BB86B9CB7C9274C", "target": "Ponnixia apprezza i tuoi sforzi per rendere la foresta un luogo più piacevole in cui vivere per lei e il suo popolo. Ti ringrazia per i tuoi servigi e ti esorta a restare nei paraggi nel caso abbia di nuovo bisogno del tuo aiuto." },
+    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_TODO_00", "hash": "E4CB93E587E06638", "target": "Uccidere greater banestools" },
+    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_TODO_01", "hash": "5A72E8D997AAA515", "target": "Fare rapporto a Ponnixia" },
+    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_000", "hash": "FF0698004E257CB5", "target": "\\<sospiro> Quelli asserviti fanno di nuovo puzza e piantano spore puzzolenti in tutte le Terre dei Silfi." },
+    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_001", "hash": "4F8D86C73AB156E3", "target": "La puzza si diffonde, gli alberi avvizziscono e muoiono, e gli amici della foresta di questi qui diventano malati e arrabbiati. Se qualcuno non li ferma, presto la foresta non sarà più abitabile per nessuno." },
+    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_002", "hash": "57B89C101CAB0840", "target": "<if(gnum4,Quella coraggiosa,Quello coraggioso)> deve affettare le spore puzzolenti e salvare la foresta da un destino fetido!" },
+    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_003", "hash": "01C18117F9CFC98E", "target": "Ma <if(gnum4,quella coraggiosa,quello coraggioso)> deve stare in guardia! Ovunque vadano le spore puzzolenti, quelli che piantano e le creature impazzite per la puzza le seguiranno di certo." },
+    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_005", "hash": "AF2D6FCF6D07D6FF", "target": "<if(gnum4,Quella coraggiosa,Quello coraggioso)> deve affettare le spore puzzolenti e salvare la foresta da un destino fetido!" },
+    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_006", "hash": "B809CF7859308FB9", "target": "Ma <if(gnum4,quella coraggiosa,quello coraggioso)> deve stare in guardia! Ovunque vadano le spore puzzolenti, quelli che piantano e le creature impazzite per la puzza le seguiranno di certo." },
+    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_010", "hash": "3DAE9F1A5CA41AE3", "target": "Questi qui ringraziano <if(gnum4,quella coraggiosa,quello coraggioso)>. Da quando <if(gnum4,quella coraggiosa è arrivata,quello coraggioso è arrivato)> qui, la nube oscura sulle Terre dei Silfi ha cominciato a diradarsi, poco a poco." },
+    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_011", "hash": "3384D68998BE3E2A", "target": "...Ma c'è ancora molto lavoro da fare. Per favore, <if(gnum4,quella coraggiosa,quello coraggioso)> non abbandoni questi qui." }
   ]
 }

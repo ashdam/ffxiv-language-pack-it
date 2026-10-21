@@ -2,12 +2,12 @@
   "conversation": "custom/009/CtsMkdWepTrade2_00952",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/009/CtsMkdWepTrade2_00952#TEXT_CTSMKDWEPTRADE2_00952_GEROLT_000_000", "hash": "866B33206C65C0C4", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade2_00952#TEXT_CTSMKDWEPTRADE2_00952_GEROLT_000_001", "hash": "75D9E94A898F7BDC", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade2_00952#TEXT_CTSMKDWEPTRADE2_00952_GEROLT_000_002", "hash": "3CC9B2C46CB7429C", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade2_00952#TEXT_CTSMKDWEPTRADE2_00952_GEROLT_000_003", "hash": "C80ADB278278AE83", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade2_00952#TEXT_CTSMKDWEPTRADE2_00952_GEROLT_000_004", "hash": "730F8BA637A6A7F3", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade2_00952#TEXT_CTSMKDWEPTRADE2_00952_GEROLT_000_005", "hash": "122B1DE775C9172C", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade2_00952#TEXT_CTSMKDWEPTRADE2_00952_GEROLT_000_006", "hash": "335E682451291983", "target": "" }
+    { "gameKey": "custom/009/CtsMkdWepTrade2_00952#TEXT_CTSMKDWEPTRADE2_00952_GEROLT_000_000", "hash": "866B33206C65C0C4", "target": "Bene, è ora di far lavorare queste mani divine, e ora pure infuse d'etere!" },
+    { "gameKey": "custom/009/CtsMkdWepTrade2_00952#TEXT_CTSMKDWEPTRADE2_00952_GEROLT_000_001", "hash": "75D9E94A898F7BDC", "target": "MUAHAHAHA!" },
+    { "gameKey": "custom/009/CtsMkdWepTrade2_00952#TEXT_CTSMKDWEPTRADE2_00952_GEROLT_000_002", "hash": "3CC9B2C46CB7429C", "target": "Eh, non mi stancherò mai di ammirare i miei capolavori. Un fantasma d'etere altamente concentrato e dalle molteplici affinità, in perfetta armonia con l'essenza stessa dell'arma..." },
+    { "gameKey": "custom/009/CtsMkdWepTrade2_00952#TEXT_CTSMKDWEPTRADE2_00952_GEROLT_000_003", "hash": "C80ADB278278AE83", "target": "Ammira il vero potenziale della maledetta infusione eterea: <ennoun(Item,3,lnum1,1,1)>!" },
+    { "gameKey": "custom/009/CtsMkdWepTrade2_00952#TEXT_CTSMKDWEPTRADE2_00952_GEROLT_000_004", "hash": "730F8BA637A6A7F3", "target": "Ammira il vero potenziale della maledetta infusione eterea: <ennoun(Item,3,lnum1,1,1)> e <ennoun(Item,3,lnum2,1,1)>!" },
+    { "gameKey": "custom/009/CtsMkdWepTrade2_00952#TEXT_CTSMKDWEPTRADE2_00952_GEROLT_000_005", "hash": "122B1DE775C9172C", "target": "Sta bene in mano, eh? Direi che ne è valsa la pena, dopo tutta quella fatica e quelle spese da capogiro." },
+    { "gameKey": "custom/009/CtsMkdWepTrade2_00952#TEXT_CTSMKDWEPTRADE2_00952_GEROLT_000_006", "hash": "335E682451291983", "target": "Dopo quella storia delle sfere eteree, probabilmente non ne puoi più di combattere, ma non voglio vederti lasciare quell'arma a marcire nello zaino. Va' là fuori e mettine alla prova il potenziale!" }
   ]
 }

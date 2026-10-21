@@ -2,17 +2,17 @@
   "conversation": "custom/004/RegOth3HundredAndOne_00420",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_BAAVGAI_000_000", "hash": "5A008899B3C34151", "target": "" },
-    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_Q1_000_000", "hash": "5F343DECA3CE07D9", "target": "" },
-    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_A1_000_001", "hash": "1ACDC6AA2D5F9D48", "target": "" },
-    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_A1_000_002", "hash": "C8E0D9718A46F4B9", "target": "" },
-    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_A1_000_003", "hash": "399C8C71077F3F13", "target": "" },
-    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_BAAVGAI_000_010", "hash": "AD09FCD81FC51A37", "target": "" },
-    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_BAAVGAI_000_011", "hash": "FDCB7E1FADF99F19", "target": "" },
-    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_BAAVGAI_000_020", "hash": "1EC97913FB61A1EB", "target": "" },
-    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_BAAVGAI_000_021", "hash": "CCE4A18FF58BCB5D", "target": "" },
-    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_BAAVGAI_000_023", "hash": "13E5B7442BD0D089", "target": "" },
-    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_BAAVGAI_000_024", "hash": "9CAC2F72F0C4F1E5", "target": "" },
-    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_BAAVGAI_000_025", "hash": "ACF9141A881798BD", "target": "" }
+    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_BAAVGAI_000_000", "hash": "5A008899B3C34151", "target": "Cosa ti porta qui, <if(gnum4,viaggiatrice,viaggiatore)>?" },
+    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_Q1_000_000", "hash": "5F343DECA3CE07D9", "target": "Cosa vuoi chiedere?" },
+    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_A1_000_001", "hash": "1ACDC6AA2D5F9D48", "target": "Di cosa ti occupi qui?" },
+    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_A1_000_002", "hash": "C8E0D9718A46F4B9", "target": "Che posto è questo?" },
+    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_A1_000_003", "hash": "399C8C71077F3F13", "target": "Niente." },
+    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_BAAVGAI_000_010", "hash": "AD09FCD81FC51A37", "target": "Sovrintendo a tutti gli affari fra noi Uyagir e gli stranieri. C'è chi vorrebbe approfittare della nostra buona natura per imbrogliarci. Io mi assicuro che gli scambi ci fruttino un compenso equo." },
+    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_BAAVGAI_000_011", "hash": "FDCB7E1FADF99F19", "target": "Dopotutto, non possiamo certo espiare l'avidità del passato se non riusciamo a sfamarci. Siamo disposti a scambiare minerali, ma dobbiamo ricevere una quantità adeguata di cibo in cambio." },
+    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_BAAVGAI_000_020", "hash": "1EC97913FB61A1EB", "target": "Come suggerisce il nome, questa grotta permette a chi vi si trova di ricevere rivelazioni divine." },
+    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_BAAVGAI_000_021", "hash": "CCE4A18FF58BCB5D", "target": "Viviamo qui per fare ammenda dei nostri peccati. In passato, ebbra della propria avidità, la nostra tribù cercò di soggiogare tutto ciò che poteva." },
+    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_BAAVGAI_000_023", "hash": "13E5B7442BD0D089", "target": "In risposta alla nostra insaziabile avidità, gli dei punirono gli Uyagir scatenando sulle nostre terre scarabei giganteschi, simili a olifanti." },
+    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_BAAVGAI_000_024", "hash": "9CAC2F72F0C4F1E5", "target": "Gli scarabei lasciarono dietro di sé una devastazione assoluta. I fiumi si prosciugarono, i raccolti appassirono e nei deserti meridionali si aprirono enormi voragini. Davanti ai frutti della loro avarizia, i nostri antenati giurarono di pentirsi dei propri errori. Scelsero di vivere nelle caverne scavate dagli insetti giganti e di rinunciare a ogni avidità." },
+    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_BAAVGAI_000_025", "hash": "ACF9141A881798BD", "target": "Ci volle tempo, ma alla fine riconquistammo la fiducia degli dei. Chi cominciò a ricevere rivelazioni divine ne fu la prova." }
   ]
 }

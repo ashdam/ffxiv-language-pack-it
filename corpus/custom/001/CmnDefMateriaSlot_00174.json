@@ -2,12 +2,12 @@
   "conversation": "custom/001/CmnDefMateriaSlot_00174",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/CmnDefMateriaSlot_00174#TEXT_CMNDEFMATERIASLOT_00174_MUTAMIX_000_000", "hash": "AB76B2073D465146", "target": "" },
-    { "gameKey": "custom/001/CmnDefMateriaSlot_00174#TEXT_CMNDEFMATERIASLOT_00174_MUTAMIX_000_020", "hash": "65CAE6EDB09BAC13", "target": "" },
-    { "gameKey": "custom/001/CmnDefMateriaSlot_00174#TEXT_CMNDEFMATERIASLOT_00174_MUTAMIX_000_030", "hash": "C371517367D0DEE2", "target": "" },
-    { "gameKey": "custom/001/CmnDefMateriaSlot_00174#TEXT_CMNDEFMATERIASLOT_00174_MUTAMIX_000_035", "hash": "D0FC1DF82D93A000", "target": "" },
-    { "gameKey": "custom/001/CmnDefMateriaSlot_00174#TEXT_CMNDEFMATERIASLOT_00174_MUTAMIX_000_040", "hash": "C20F70EE2B1A46B8", "target": "" },
-    { "gameKey": "custom/001/CmnDefMateriaSlot_00174#TEXT_CMNDEFMATERIASLOT_00174_MUTAMIX_000_050", "hash": "81502C38DBC769C4", "target": "" },
-    { "gameKey": "custom/001/CmnDefMateriaSlot_00174#TEXT_CMNDEFMATERIASLOT_00174_MUTAMIX_000_070", "hash": "3A908F704693309F", "target": "" }
+    { "gameKey": "custom/001/CmnDefMateriaSlot_00174#TEXT_CMNDEFMATERIASLOT_00174_MUTAMIX_000_000", "hash": "AB76B2073D465146", "target": "Pshhh... Shkohhh...<br>Altaterra chiede cambiafare a Mutamix? Altaterra deve manoscambiare cinque pezzi di materia nonservono con Mutamix." },
+    { "gameKey": "custom/001/CmnDefMateriaSlot_00174#TEXT_CMNDEFMATERIASLOT_00174_MUTAMIX_000_020", "hash": "65CAE6EDB09BAC13", "target": "Mescolafondi, fondimescola, schiaccia e strizza, strizza e schiaccia..." },
+    { "gameKey": "custom/001/CmnDefMateriaSlot_00174#TEXT_CMNDEFMATERIASLOT_00174_MUTAMIX_000_030", "hash": "C371517367D0DEE2", "target": "Occhioni! Cinque nonservono rinascono come uno!" },
+    { "gameKey": "custom/001/CmnDefMateriaSlot_00174#TEXT_CMNDEFMATERIASLOT_00174_MUTAMIX_000_035", "hash": "D0FC1DF82D93A000", "target": "Occhionissimi! Shkohhh... Mutamix vede davvero!?" },
+    { "gameKey": "custom/001/CmnDefMateriaSlot_00174#TEXT_CMNDEFMATERIASLOT_00174_MUTAMIX_000_040", "hash": "C20F70EE2B1A46B8", "target": "Materia rinata brilla di tanto chiaroluccichio. Per altaterra, questo è giornofelice!" },
+    { "gameKey": "custom/001/CmnDefMateriaSlot_00174#TEXT_CMNDEFMATERIASLOT_00174_MUTAMIX_000_050", "hash": "81502C38DBC769C4", "target": "Cambiafare è emozionante giocoazzardo, sì? Nemmeno Mutamix ha saperi di quale materia rinascerà! Cuore di altaterra non fa tutto sfarfalladanza?" },
+    { "gameKey": "custom/001/CmnDefMateriaSlot_00174#TEXT_CMNDEFMATERIASLOT_00174_MUTAMIX_000_070", "hash": "3A908F704693309F", "target": "Shkohhh? Borsa di altaterra è strapiena! Mutamix non può cambiafare se altaterra non può portare materia rinata!" }
   ]
 }

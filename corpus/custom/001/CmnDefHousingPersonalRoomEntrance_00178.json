@@ -2,17 +2,17 @@
   "conversation": "custom/001/CmnDefHousingPersonalRoomEntrance_00178",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/CmnDefHousingPersonalRoomEntrance_00178#TEXT_CMNDEFHOUSINGPERSONALROOMENTRANCE_00178_MENU_BUY_ROOM", "hash": "BEC2BBC4A2F8F61F", "target": "" },
-    { "gameKey": "custom/001/CmnDefHousingPersonalRoomEntrance_00178#TEXT_CMNDEFHOUSINGPERSONALROOMENTRANCE_00178_MENU_GO_MY_ROOM", "hash": "781D067E8B9E7318", "target": "" },
-    { "gameKey": "custom/001/CmnDefHousingPersonalRoomEntrance_00178#TEXT_CMNDEFHOUSINGPERSONALROOMENTRANCE_00178_MENU_GO_OTHER_ROOM", "hash": "ED39DC9630E60D14", "target": "" },
-    { "gameKey": "custom/001/CmnDefHousingPersonalRoomEntrance_00178#TEXT_CMNDEFHOUSINGPERSONALROOMENTRANCE_00178_MENU_EXIT", "hash": "C23FEEDA23A0C90A", "target": "" },
-    { "gameKey": "custom/001/CmnDefHousingPersonalRoomEntrance_00178#TEXT_CMNDEFHOUSINGPERSONALROOMENTRANCE_00178_NO_PERMIT_TO_BUY1", "hash": "18620A492E3A6DA0", "target": "" },
-    { "gameKey": "custom/001/CmnDefHousingPersonalRoomEntrance_00178#TEXT_CMNDEFHOUSINGPERSONALROOMENTRANCE_00178_NO_PERMIT_TO_BUY2", "hash": "0A96DD54F4914296", "target": "" },
-    { "gameKey": "custom/001/CmnDefHousingPersonalRoomEntrance_00178#TEXT_CMNDEFHOUSINGPERSONALROOMENTRANCE_00178_BUY_CONFIRM_TITLE", "hash": "11B59B8E2773B32D", "target": "" },
-    { "gameKey": "custom/001/CmnDefHousingPersonalRoomEntrance_00178#TEXT_CMNDEFHOUSINGPERSONALROOMENTRANCE_00178_BUY_CONFIRM_YES", "hash": "16347D7D977092AE", "target": "" },
-    { "gameKey": "custom/001/CmnDefHousingPersonalRoomEntrance_00178#TEXT_CMNDEFHOUSINGPERSONALROOMENTRANCE_00178_BUY_CONFIRM_NO", "hash": "4557B8A48DB54D1B", "target": "" },
-    { "gameKey": "custom/001/CmnDefHousingPersonalRoomEntrance_00178#TEXT_CMNDEFHOUSINGPERSONALROOMENTRANCE_00178_BUY_WORKSHOP_MENU", "hash": "6FFD1AD2A5FB34BB", "target": "" },
-    { "gameKey": "custom/001/CmnDefHousingPersonalRoomEntrance_00178#TEXT_CMNDEFHOUSINGPERSONALROOMENTRANCE_00178_BUY_WORKSHOP_CONF", "hash": "F64CAF502FD211E6", "target": "" },
-    { "gameKey": "custom/001/CmnDefHousingPersonalRoomEntrance_00178#TEXT_CMNDEFHOUSINGPERSONALROOMENTRANCE_00178_GOTO_WORKSHOP", "hash": "960231AD370F0DC3", "target": "" }
+    { "gameKey": "custom/001/CmnDefHousingPersonalRoomEntrance_00178#TEXT_CMNDEFHOUSINGPERSONALROOMENTRANCE_00178_MENU_BUY_ROOM", "hash": "BEC2BBC4A2F8F61F", "target": "Acquistare una camera privata (<kilo(lnum1,\\,)> gil)" },
+    { "gameKey": "custom/001/CmnDefHousingPersonalRoomEntrance_00178#TEXT_CMNDEFHOUSINGPERSONALROOMENTRANCE_00178_MENU_GO_MY_ROOM", "hash": "781D067E8B9E7318", "target": "Andare nella tua camera privata" },
+    { "gameKey": "custom/001/CmnDefHousingPersonalRoomEntrance_00178#TEXT_CMNDEFHOUSINGPERSONALROOMENTRANCE_00178_MENU_GO_OTHER_ROOM", "hash": "ED39DC9630E60D14", "target": "Andare in una camera privata specifica" },
+    { "gameKey": "custom/001/CmnDefHousingPersonalRoomEntrance_00178#TEXT_CMNDEFHOUSINGPERSONALROOMENTRANCE_00178_MENU_EXIT", "hash": "C23FEEDA23A0C90A", "target": "Esci" },
+    { "gameKey": "custom/001/CmnDefHousingPersonalRoomEntrance_00178#TEXT_CMNDEFHOUSINGPERSONALROOMENTRANCE_00178_NO_PERMIT_TO_BUY1", "hash": "18620A492E3A6DA0", "target": "Non puoi acquistare una camera privata finché non raggiungi il livello 50 con una classe." },
+    { "gameKey": "custom/001/CmnDefHousingPersonalRoomEntrance_00178#TEXT_CMNDEFHOUSINGPERSONALROOMENTRANCE_00178_NO_PERMIT_TO_BUY2", "hash": "0A96DD54F4914296", "target": "Devi inoltre aver raggiunto il grado di sottotenente nel Maelstrom, nell'Ordine delle Due Vipere o nelle Fiamme Immortali." },
+    { "gameKey": "custom/001/CmnDefHousingPersonalRoomEntrance_00178#TEXT_CMNDEFHOUSINGPERSONALROOMENTRANCE_00178_BUY_CONFIRM_TITLE", "hash": "11B59B8E2773B32D", "target": "Vuoi acquistare una camera privata per <kilo(lnum1,\\,)> gil?<br>La somma pagata non sarà rimborsata in nessun caso." },
+    { "gameKey": "custom/001/CmnDefHousingPersonalRoomEntrance_00178#TEXT_CMNDEFHOUSINGPERSONALROOMENTRANCE_00178_BUY_CONFIRM_YES", "hash": "16347D7D977092AE", "target": "Sì" },
+    { "gameKey": "custom/001/CmnDefHousingPersonalRoomEntrance_00178#TEXT_CMNDEFHOUSINGPERSONALROOMENTRANCE_00178_BUY_CONFIRM_NO", "hash": "4557B8A48DB54D1B", "target": "No" },
+    { "gameKey": "custom/001/CmnDefHousingPersonalRoomEntrance_00178#TEXT_CMNDEFHOUSINGPERSONALROOMENTRANCE_00178_BUY_WORKSHOP_MENU", "hash": "6FFD1AD2A5FB34BB", "target": "Acquistare un laboratorio della Free Company (<kilo(lnum1,\\,)> gil)" },
+    { "gameKey": "custom/001/CmnDefHousingPersonalRoomEntrance_00178#TEXT_CMNDEFHOUSINGPERSONALROOMENTRANCE_00178_BUY_WORKSHOP_CONF", "hash": "F64CAF502FD211E6", "target": "Vuoi acquistare un laboratorio della Free Company per <kilo(lnum1,\\,)> gil?<br>La somma pagata non sarà rimborsata in nessun caso." },
+    { "gameKey": "custom/001/CmnDefHousingPersonalRoomEntrance_00178#TEXT_CMNDEFHOUSINGPERSONALROOMENTRANCE_00178_GOTO_WORKSHOP", "hash": "960231AD370F0DC3", "target": "Andare al laboratorio della Free Company" }
   ]
 }
