@@ -22,7 +22,7 @@
     { "gameKey": "quest/020/JobDrk350_02055#TEXT_JOBDRK350_02055_TODO_07", "hash": "393A0E680D33D1FF", "target": "Entrare in comunione con Fray" },
     { "gameKey": "quest/020/JobDrk350_02055#TEXT_JOBDRK350_02055_FRAY_000_000", "hash": "C72D1FC567C6D5BC", "target": "Sentivo che saresti passat<if(gnum4,a,o)> <if([gnum11<12],<if([gnum11<4],stanotte,oggi)>,<if([gnum11<17],oggi,stanotte)>)>, <split(<string(gstr1)>, ,1)>. E infatti eccoti qui, impaziente di riprendere da dove avevamo lasciato." },
     { "gameKey": "quest/020/JobDrk350_02055#TEXT_JOBDRK350_02055_FRAY_000_001", "hash": "7DB3FC0839873DD3", "target": "Cominciamo con una domanda, allora. Dopo l'ultima vicenda, immagino che tu ne abbia parecchie." },
-    { "gameKey": "quest/020/JobDrk350_02055#TEXT_JOBDRK350_02055_Q1_000_002", "hash": "BBC6678EBCC1BA2A", "target": "Cosa chiederai?" },
+    { "gameKey": "quest/020/JobDrk350_02055#TEXT_JOBDRK350_02055_Q1_000_002", "hash": "BBC6678EBCC1BA2A", "target": "Cosa vuoi chiedere?" },
     { "gameKey": "quest/020/JobDrk350_02055#TEXT_JOBDRK350_02055_A1_000_003", "hash": "C9B19D29A1042482", "target": "Cos'era quella voce che ho sentito?" },
     { "gameKey": "quest/020/JobDrk350_02055#TEXT_JOBDRK350_02055_A1_000_004", "hash": "BD4F87784AA0C049", "target": "Perché ti ha arrestato l'Inquisizione?" },
     { "gameKey": "quest/020/JobDrk350_02055#TEXT_JOBDRK350_02055_A1_000_005", "hash": "36D9C3A2CFF82A50", "target": "Che ne è stato della vecchia e di sua nipote?" },

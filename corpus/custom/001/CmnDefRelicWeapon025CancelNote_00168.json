@@ -2,12 +2,12 @@
   "conversation": "custom/001/CmnDefRelicWeapon025CancelNote_00168",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/CmnDefRelicWeapon025CancelNote_00168#TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_GJUSANA_000_000", "hash": "EDB053C76720ACDA", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon025CancelNote_00168#TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_GJUSANA_000_100", "hash": "AE9FC6D4E9A803FA", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon025CancelNote_00168#TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_00010", "hash": "F45E8E62C620F90F", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon025CancelNote_00168#TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_00011", "hash": "9EE849D47F6D3708", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon025CancelNote_00168#TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_00012", "hash": "D959FF43B23F13E8", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon025CancelNote_00168#TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_GJUSANA_000_050", "hash": "21BDF00177514C05", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon025CancelNote_00168#TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_SYSTEM_000_055", "hash": "784C1471A452BD90", "target": "" }
+    { "gameKey": "custom/001/CmnDefRelicWeapon025CancelNote_00168#TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_GJUSANA_000_000", "hash": "EDB053C76720ACDA", "target": "...Mh? Non posso certo disfarmi di qualcosa che non hai, no?" },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025CancelNote_00168#TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_GJUSANA_000_100", "hash": "AE9FC6D4E9A803FA", "target": "...Davvero? Be', suppongo che quel vecchio libro ammuffito <italic(1)>fosse<italic(0)> comunque destinato alla fornace... ehm... Volevo dire, mi spezza il cuore vedere un pezzo di storia trattato come un mucchio di pergamene sporche, ma chi sono io per contraddire <if(gnum4,una cliente,un cliente)>?" },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025CancelNote_00168#TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_00010", "hash": "F45E8E62C620F90F", "target": "Tutti i progressi in <ennoun(EventItem,3,lnum1,1,1)> andranno perduti. Vuoi davvero procedere?" },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025CancelNote_00168#TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_00011", "hash": "9EE849D47F6D3708", "target": "Sì" },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025CancelNote_00168#TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_00012", "hash": "D959FF43B23F13E8", "target": "No" },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025CancelNote_00168#TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_GJUSANA_000_050", "hash": "21BDF00177514C05", "target": "Ecco. Fatto. Quel particolare pezzo di storia non ti darà mai più fastidio. Spero che adesso tu sia <if(gnum4,contenta,contento)>." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025CancelNote_00168#TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_SYSTEM_000_055", "hash": "784C1471A452BD90", "target": "Getti via un libro delle Prove dei Prodi." }
   ]
 }

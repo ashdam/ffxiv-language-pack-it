@@ -2,16 +2,16 @@
   "conversation": "custom/000/RegSeaSwiftperch_00072",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/000/RegSeaSwiftperch_00072#TEXT_REGSEASWIFTPERCH_00072_LYULF_000_1", "hash": "DD1335581EC0B39C", "target": "" },
-    { "gameKey": "custom/000/RegSeaSwiftperch_00072#TEXT_REGSEASWIFTPERCH_00072_LYULF_000_2", "hash": "DC3AD1AEFB537562", "target": "" },
-    { "gameKey": "custom/000/RegSeaSwiftperch_00072#TEXT_REGSEASWIFTPERCH_00072_LYULF_000_3", "hash": "22224A711E13ADA4", "target": "" },
-    { "gameKey": "custom/000/RegSeaSwiftperch_00072#TEXT_REGSEASWIFTPERCH_00072_LYULF_000_4", "hash": "05925FBCD33A3002", "target": "" },
-    { "gameKey": "custom/000/RegSeaSwiftperch_00072#TEXT_REGSEASWIFTPERCH_00072_LYULF_000_5", "hash": "9E579560F2B8A80D", "target": "" },
-    { "gameKey": "custom/000/RegSeaSwiftperch_00072#TEXT_REGSEASWIFTPERCH_00072_LYULF_000_6", "hash": "5A23E9672B106FC3", "target": "" },
-    { "gameKey": "custom/000/RegSeaSwiftperch_00072#TEXT_REGSEASWIFTPERCH_00072_LYULF_000_7", "hash": "C3900484E8351A1E", "target": "" },
-    { "gameKey": "custom/000/RegSeaSwiftperch_00072#TEXT_REGSEASWIFTPERCH_00072_Q1_000_1", "hash": "5DC9422DA72C90BB", "target": "" },
-    { "gameKey": "custom/000/RegSeaSwiftperch_00072#TEXT_REGSEASWIFTPERCH_00072_A1_000_1", "hash": "1E54B103CB5DFDE1", "target": "" },
-    { "gameKey": "custom/000/RegSeaSwiftperch_00072#TEXT_REGSEASWIFTPERCH_00072_A1_000_2", "hash": "CE71F9E3EB156549", "target": "" },
-    { "gameKey": "custom/000/RegSeaSwiftperch_00072#TEXT_REGSEASWIFTPERCH_00072_A1_000_3", "hash": "4D2A5DC900F242E0", "target": "" }
+    { "gameKey": "custom/000/RegSeaSwiftperch_00072#TEXT_REGSEASWIFTPERCH_00072_LYULF_000_1", "hash": "DD1335581EC0B39C", "target": "A parte l'eterite, a Swiftperch c'è ben poco di interessante. Siete comunque <if(gnum4,la benvenuta,il benvenuto)> e potete restare quanto desiderate." },
+    { "gameKey": "custom/000/RegSeaSwiftperch_00072#TEXT_REGSEASWIFTPERCH_00072_LYULF_000_2", "hash": "DC3AD1AEFB537562", "target": "Prima che la Calamità riducesse questo posto a una rovina fumante, aiutavo mio padre a coltivare il grano." },
+    { "gameKey": "custom/000/RegSeaSwiftperch_00072#TEXT_REGSEASWIFTPERCH_00072_LYULF_000_3", "hash": "22224A711E13ADA4", "target": "Ora il mio caro padre non c'è più, i campi un tempo belli sono incolti e invasi dalle erbacce, e i nostri dodo hanno imparato ad apprezzare la libertà senza confini." },
+    { "gameKey": "custom/000/RegSeaSwiftperch_00072#TEXT_REGSEASWIFTPERCH_00072_LYULF_000_4", "hash": "05925FBCD33A3002", "target": "Ma non lascerò che questa tragedia mi sconfigga! Ho giurato di riportare l'insediamento amato da mio padre a com'era quando era in vita, anche con le mie sole forze, se necessario." },
+    { "gameKey": "custom/000/RegSeaSwiftperch_00072#TEXT_REGSEASWIFTPERCH_00072_LYULF_000_5", "hash": "9E579560F2B8A80D", "target": "Questo insediamento è stato costruito qui nell'ambito della ricostruzione degli accampamenti con eterite distrutti dopo... beh, dopo quell'orribile incidente." },
+    { "gameKey": "custom/000/RegSeaSwiftperch_00072#TEXT_REGSEASWIFTPERCH_00072_LYULF_000_6", "hash": "5A23E9672B106FC3", "target": "In origine si trovava più a nord-ovest, ma quando tornammo da Limsa Lominsa, dove ci eravamo rifugiati per sfuggire alla distruzione delle fiamme, non restava molto delle nostre case o dei campi." },
+    { "gameKey": "custom/000/RegSeaSwiftperch_00072#TEXT_REGSEASWIFTPERCH_00072_LYULF_000_7", "hash": "C3900484E8351A1E", "target": "La scena che ci accolse bastò a far avvizzire persino i nostri animi. La gente aveva a malapena la forza di trascinarsi in un torpore depresso, figuriamoci sollevare una zappa o riparare una recinzione. Ma ho intenzione di scacciare quest'aria di sconfitta con un soffio fresco di speranza!" },
+    { "gameKey": "custom/000/RegSeaSwiftperch_00072#TEXT_REGSEASWIFTPERCH_00072_Q1_000_1", "hash": "5DC9422DA72C90BB", "target": "Cosa vuoi chiedere?" },
+    { "gameKey": "custom/000/RegSeaSwiftperch_00072#TEXT_REGSEASWIFTPERCH_00072_A1_000_1", "hash": "1E54B103CB5DFDE1", "target": "Di cosa vi occupate qui?" },
+    { "gameKey": "custom/000/RegSeaSwiftperch_00072#TEXT_REGSEASWIFTPERCH_00072_A1_000_2", "hash": "CE71F9E3EB156549", "target": "Che tipo di posto è Swiftperch?" },
+    { "gameKey": "custom/000/RegSeaSwiftperch_00072#TEXT_REGSEASWIFTPERCH_00072_A1_000_3", "hash": "4D2A5DC900F242E0", "target": "Niente." }
   ]
 }

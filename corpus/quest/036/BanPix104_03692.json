@@ -2,18 +2,18 @@
   "conversation": "quest/036/BanPix104_03692",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_SEQ_00", "hash": "D7CC8BF1495D42F0", "target": "" },
-    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_TODO_00", "hash": "C299944D6D28F292", "target": "" },
-    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_TODO_01", "hash": "B720342B59E620B9", "target": "" },
-    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_001", "hash": "6440027EFD63A108", "target": "" },
-    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_002", "hash": "EF827A8B174B9297", "target": "" },
-    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_003", "hash": "F4C6F79D8C0A3268", "target": "" },
-    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_004", "hash": "CD70AA4329E63365", "target": "" },
-    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_SYSTEM_000_010", "hash": "D6BB0DE8999FB7AB", "target": "" },
-    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_SYSTEM_000_011", "hash": "185DDA7859CCED87", "target": "" },
-    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_020", "hash": "2F9E0F676E64B4CF", "target": "" },
-    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_021", "hash": "A5B3E2DBFB5ADF22", "target": "" },
-    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_022", "hash": "1AEF950A5D1D61E4", "target": "" },
-    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_023", "hash": "900681F7CF988B6D", "target": "" }
+    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_SEQ_00", "hash": "D7CC8BF1495D42F0", "target": "Agli uomini foglia preferiti di Uin Nee serve una bella potatura.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
+    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_TODO_00", "hash": "C299944D6D28F292", "target": "Esaminare gli overgrown leafmen e ottenere delle foglie" },
+    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_TODO_01", "hash": "B720342B59E620B9", "target": "Consegnare le foglie degli uomini foglia a Uin Nee" },
+    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_001", "hash": "6440027EFD63A108", "target": "Oh, ma qual era il mio preferito? Quello che una volta ha cercato di avvicinarsi di soppiatto per strapparmi le ali? O quello che era <italic(1)>così<italic(0)> carino quando mi ha confessato il suo amore che <italic(1)>dovevo<italic(0)> proprio tenerlo al mio fianco per sempre e ancora un giorno!" },
+    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_002", "hash": "EF827A8B174B9297", "target": "Hai visto la mia collezione di adorabili ometti foglia, vero? Sempre a crogiolarsi beati nella luce del sole, facendo spuntare nuove fronde qui, là e dappertutto!" },
+    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_003", "hash": "F4C6F79D8C0A3268", "target": "Pensavo di dar loro una spuntatina ogni tanto, ma gli oggetti appuntiti sono troppo pungenti e pericolosi per i miei gusti, sai. Però <italic(1)>tu<italic(0)>, <if(gnum4,la mia mortale preferita,il mio mortale preferito)>, non sembri temere lame e cesoie, vero?" },
+    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_004", "hash": "CD70AA4329E63365", "target": "Perché non vai a dare una spuntatina ai miei amici frondosi? E non dimenticare di riportarmi alcune delle loro belle foglioline! Ai bambini del Giardino dei Sogni piace tanto ammucchiarle e saltarci dentro!" },
+    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_SYSTEM_000_010", "hash": "D6BB0DE8999FB7AB", "target": "Un folto fogliame verde spunta da ogni angolo del corpo dell'uomo foglia, tanto che molte foglie e molti rami si sono aggrovigliati e intrecciati." },
+    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_SYSTEM_000_011", "hash": "185DDA7859CCED87", "target": "Con qualche colpo di cesoia elimini la vegetazione in eccesso dal corpo dell'uomo foglia, lasciandolo ordinato e ben potato come il giorno in cui è nato!" },
+    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_020", "hash": "2F9E0F676E64B4CF", "target": "Ti serviva qualcosa? Oh, ma certo! Dovevi potare i miei preziosi ometti foglia. Be', l'hai fatto?" },
+    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_021", "hash": "A5B3E2DBFB5ADF22", "target": "Grazie infinite! Sapevo che c'era un motivo per cui sei <if(gnum4,la mia mortale preferita,il mio mortale preferito)>. Oooh, e guarda che belle fronde mi hai riportato! Forse ne intesserò un piccolo uomo foglia per i bambini!" },
+    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_022", "hash": "1AEF950A5D1D61E4", "target": "Alcuni di loro non hanno molti amici, sai? Mi si spezza davvero il cuore a vederli. Così creerò un'intera orda di uomini foglia con cui giocare! Dovrebbero andare d'amore e d'accordo, dopotutto anche gli uomini foglia erano mortali!" },
+    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_023", "hash": "900681F7CF988B6D", "target": "A volte mi chiedo come sia essere un uomo foglia. Te lo sei mai chiesto anche tu? Se sì, be', si potrebbe certamente fare! Basta una tua paro... aspetta, perché ti allontani da me così?" }
   ]
 }

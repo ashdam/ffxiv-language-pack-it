@@ -39,7 +39,7 @@
     { "gameKey": "quest/029/JobNin601_02948#TEXT_JOBNIN601_02948_JACKE_000_028", "hash": "DC31D005DD598D84", "target": "<split(<string(gstr1)>, ,1)>, perché non vai a trovare I'tolwann alla Wench? Se girano voci su orientali loschi, quella ragazza probabilmente le conosce." },
     { "gameKey": "quest/029/JobNin601_02948#TEXT_JOBNIN601_02948_JACKE_000_029", "hash": "B80F01CEFCBD6A18", "target": "Ti ricordi <italic(1)>cosa<italic(0)> ordinare, sì? Ma certo che te lo ricordi, con la tua furbizia. Buona fortuna, e tieni le orecchie aperte: ti aspetteremo alla Sala del Baluardo quando avrai finito." },
     { "gameKey": "quest/029/JobNin601_02948#TEXT_JOBNIN601_02948_ITOLWANN_000_030", "hash": "D928E98193296E50", "target": "Benvenut<if(gnum4,a,o)> alla Drowning Wench! Che cosa desiderate, <if(gnum4,signorina,signore)>?" },
-    { "gameKey": "quest/029/JobNin601_02948#TEXT_JOBNIN601_02948_Q1_000_031", "hash": "FC5B2197CA45DE23", "target": "Che cosa ordini?" },
+    { "gameKey": "quest/029/JobNin601_02948#TEXT_JOBNIN601_02948_Q1_000_031", "hash": "FC5B2197CA45DE23", "target": "Cosa vuoi ordinare?" },
     { "gameKey": "quest/029/JobNin601_02948#TEXT_JOBNIN601_02948_A1_000_032", "hash": "763172A5FDE72E21", "target": "Una birra fresca." },
     { "gameKey": "quest/029/JobNin601_02948#TEXT_JOBNIN601_02948_A2_000_033", "hash": "D52D462B96580F25", "target": "Una birra forte." },
     { "gameKey": "quest/029/JobNin601_02948#TEXT_JOBNIN601_02948_A3_000_034", "hash": "2DAD3D30BBE1C537", "target": "Una birra annacquata." },

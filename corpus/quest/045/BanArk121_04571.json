@@ -2,16 +2,16 @@
   "conversation": "quest/045/BanArk121_04571",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_SEQ_00", "hash": "7B28632832FA51B9", "target": "" },
-    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_TODO_00", "hash": "8B3CF15EE8615B5B", "target": "" },
-    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_TODO_01", "hash": "5A5E7A1DFC779EDD", "target": "" },
-    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_TODO_02", "hash": "E7E15A7C824C74AF", "target": "" },
-    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_MARU_000_000", "hash": "592DABCDD99FD216", "target": "" },
-    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_MARU_000_001", "hash": "BE1454D23D8D3134", "target": "" },
-    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_MARU_000_002", "hash": "FA1FFB98931C8586", "target": "" },
-    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_MARU_000_010", "hash": "8271F8B942C143FF", "target": "" },
-    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_MARU_000_011", "hash": "30D4209847CB137A", "target": "" },
-    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_MARU_000_012", "hash": "F0043E75D55FEEE9", "target": "" },
-    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_MARU_000_013", "hash": "C45380179971DBB6", "target": "" }
+    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_SEQ_00", "hash": "7B28632832FA51B9", "target": "Maru si tiene a distanza da una cassa lì vicino.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
+    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_TODO_00", "hash": "8B3CF15EE8615B5B", "target": "Usare i Demolitori di Daemir sul cumulo di argillite nello Shroud of the Samgha" },
+    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_TODO_01", "hash": "5A5E7A1DFC779EDD", "target": "Procurarsi il pezzo di argillite dello Ksiroda" },
+    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_TODO_02", "hash": "E7E15A7C824C74AF", "target": "Consegnare il pezzo di argillite dello Ksiroda a Maru" },
+    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_MARU_000_000", "hash": "592DABCDD99FD216", "target": "Volevo chiedertelo da un po', <split(<string(gstr1)>, ,1)>, ma a dire il vero ero nervoso. Pensavo fosse troppo pericoloso..." },
+    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_MARU_000_001", "hash": "BE1454D23D8D3134", "target": "Poi però Kancana mi ha detto che le tue avventure ti hanno fatto entrare e uscire dalle fauci della morte. Immagino che maneggiare esplosivi sia un gioco da ragazzi al confronto... giusto?" },
+    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_MARU_000_002", "hash": "FA1FFB98931C8586", "target": "... Be', sei ancora qui, quindi lo prenderò come un segno di tacito accordo. Ci serve qualcuno che spacchi l'argillite intorno allo Ksiroda e ne riporti un pezzo. Gli alchimisti continuano a dirmi che è il modo migliore, ma... attenzione alle dita, d'accordo?" },
+    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_MARU_000_010", "hash": "8271F8B942C143FF", "target": "Eccoti, e con tutte le dita ancora attaccate! Immagino voglia dire che gli alchimisti avevano ragione, dopotutto." },
+    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_MARU_000_011", "hash": "30D4209847CB137A", "target": "Bene, bene, questi andranno. Mescolare argillite e acqua crea una pasta che protegge la pelle dal sole e dal vento meglio di quasi qualsiasi altra cosa." },
+    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_MARU_000_012", "hash": "F0043E75D55FEEE9", "target": "A guardarli non si direbbe, ma gli ippopotami hanno una pelle delicata. Se non la tieni bella umida, si crepa come fango in una giornata calda. Questa volta ti siamo davvero debitori." },
+    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_MARU_000_013", "hash": "C45380179971DBB6", "target": "Certo, forse potevi semplicemente rompere la pietra con martello e scalpello... ma ora non devo nemmeno preoccuparmi che qualcuno dia fuoco per sbaglio a quei demolitori e ci spedisca tutti nell'aldilà." }
   ]
 }

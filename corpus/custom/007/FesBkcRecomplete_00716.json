@@ -2,9 +2,9 @@
   "conversation": "custom/007/FesBkcRecomplete_00716",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/007/FesBkcRecomplete_00716#TEXT_FESBKCRECOMPLETE_00716_SYSTEM_000_000", "hash": "6F748FB61E915A49", "target": "" },
-    { "gameKey": "custom/007/FesBkcRecomplete_00716#TEXT_FESBKCRECOMPLETE_00716_YESNO_000_001", "hash": "D199B07DC1157B3B", "target": "" },
-    { "gameKey": "custom/007/FesBkcRecomplete_00716#TEXT_FESBKCRECOMPLETE_00716_YESNOCHECK_000_002", "hash": "CA61E64358058CFC", "target": "" },
-    { "gameKey": "custom/007/FesBkcRecomplete_00716#TEXT_FESBKCRECOMPLETE_00716_CHECKBOX_000_003", "hash": "C7181A1F93C43CA2", "target": "" }
+    { "gameKey": "custom/007/FesBkcRecomplete_00716#TEXT_FESBKCRECOMPLETE_00716_SYSTEM_000_000", "hash": "6F748FB61E915A49", "target": "Per un periodo limitato, puoi rivivere questo evento tramite la funzione Seasonal Event Replay." },
+    { "gameKey": "custom/007/FesBkcRecomplete_00716#TEXT_FESBKCRECOMPLETE_00716_YESNO_000_001", "hash": "D199B07DC1157B3B", "target": "Vuoi rigiocare l'evento?" },
+    { "gameKey": "custom/007/FesBkcRecomplete_00716#TEXT_FESBKCRECOMPLETE_00716_YESNOCHECK_000_002", "hash": "CA61E64358058CFC", "target": "Se procedi, le seguenti missioni torneranno incomplete:<br>  <sheet(Quest,lnum1,0)><br><if([lnum2==0],,  <sheet(Quest,lnum2,0)><br>)><if([lnum3==0],,  <sheet(Quest,lnum3,0)><br>)><if([lnum4==0],,Non potrai commerciare con i seguenti PNG finché non avrai completato nuovamente la missione richiesta:<br>  <headall(<ennoun(ENpcResident,2,lnum4,1,1)>)><br>)><if([lnum5==0],,  <headall(<ennoun(ENpcResident,2,lnum5,1,1)>)><br>)>Assicurati di avere abbastanza tempo e ricorda che questa funzione non conferisce le ricompense delle missioni.<br><br>" },
+    { "gameKey": "custom/007/FesBkcRecomplete_00716#TEXT_FESBKCRECOMPLETE_00716_CHECKBOX_000_003", "hash": "C7181A1F93C43CA2", "target": "Procedi con Seasonal Event Replay." }
   ]
 }

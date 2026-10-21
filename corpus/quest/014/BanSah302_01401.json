@@ -2,18 +2,18 @@
   "conversation": "quest/014/BanSah302_01401",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEQ_00", "hash": "2D238B1FAD6CAE2E", "target": "" },
-    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEQ_01", "hash": "21B86888779249C1", "target": "" },
-    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEQ_02", "hash": "5A9289742DBC167E", "target": "" },
-    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEQ_03", "hash": "8508BCD9F945F1C0", "target": "" },
-    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_TODO_00", "hash": "5EA07021689E1116", "target": "" },
-    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_TODO_01", "hash": "B97492CA900EFFD3", "target": "" },
-    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEWW_000_000", "hash": "A2787CCA37D7ECEB", "target": "" },
-    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEWW_000_001", "hash": "60EFF081B5D04AA5", "target": "" },
-    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEWW_000_002", "hash": "2972AC9F6154B166", "target": "" },
-    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEWW_000_003", "hash": "8A61E72EC113DB3D", "target": "" },
-    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEWW_000_004", "hash": "ED11F248F8FA26E3", "target": "" },
-    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEWW_000_010", "hash": "8A56A17285526E1A", "target": "" },
-    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEWW_000_011", "hash": "FAFEAF1F7938A0E1", "target": "" }
+    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEQ_00", "hash": "2D238B1FAD6CAE2E", "target": "Seww desidera che ti addentri nei luoghi di deposizione." },
+    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEQ_01", "hash": "21B86888779249C1", "target": "Secondo Seww, i Tridenti del Corallo hanno lavorato duramente per perfezionare una versione ancora più potente delle loro armi d'assedio a base di molluschi. Ti chiede di agire subito per proteggere gli sbarramenti dalla forza devastante di queste creazioni innaturali. Addentrati nei luoghi di deposizione e distruggi le reinforced whelk ballistas prima che siano trasportate in prima linea." },
+    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEQ_02", "hash": "5A9289742DBC167E", "target": "Hai distrutto le versioni più recenti e potenti delle baliste. Torna a Novv's Nursery e fai rapporto a Seww." },
+    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEQ_03", "hash": "8508BCD9F945F1C0", "target": "Sentito il tuo rapporto, un sollevato Seww ribadisce l'importanza degli sbarramenti nel mantenere separati i popoli in guerra. Ma benché le tue azioni abbiano di nuovo ostacolato i Tridenti del Corallo, sembra che questi siano intenzionati a strangolarsi con la catena di rappresaglie che Seww descrive tanto vividamente." },
+    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_TODO_00", "hash": "5EA07021689E1116", "target": "Distruggere le reinforced whelk ballistas" },
+    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_TODO_01", "hash": "B97492CA900EFFD3", "target": "Fare rapporto a Seww" },
+    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEWW_000_000", "hash": "A2787CCA37D7ECEB", "target": "Pshhh... Si dice che i Tridenti del Corallo abbiano perfezionato versioni più potenti delle loro innaturali baliste a base di molluschi." },
+    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEWW_000_001", "hash": "60EFF081B5D04AA5", "target": "Pare che abbiano profuso grandi sforzi nell'allevare molluschi più grandi e robusti: i Tridenti non vogliono correre rischi al prossimo attacco agli sbarramenti." },
+    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEWW_000_002", "hash": "2972AC9F6154B166", "target": "Per nostra fortuna, queste armi innaturali sono ancora in fase di collaudo nel cuore dei luoghi di deposizione. È la nostra occasione per distruggerle prima che possano essere trasportate in prima linea!" },
+    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEWW_000_003", "hash": "8A61E72EC113DB3D", "target": "Qualsiasi attacco alle baliste provocherà probabilmente rapide rappresaglie, quindi preparati a difenderti dalle guardie." },
+    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEWW_000_004", "hash": "ED11F248F8FA26E3", "target": "È l'occasione perfetta per distruggere queste armi d'assedio prima che siano rivolte contro gli sbarramenti! Ma attenzione: le baliste non saranno incustodite." },
+    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEWW_000_010", "hash": "8A56A17285526E1A", "target": "Pshhh! Un'altra vittoria per la nostra causa! Se gli sbarramenti cadessero, le nostre battaglie con la gente di terraferma non avrebbero fine." },
+    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEWW_000_011", "hash": "FAFEAF1F7938A0E1", "target": "Noi attacchiamo, loro contrattaccano, e l'ininterrotta catena delle rappresaglie si stringe sempre più attorno al collo di tutti. Una semplice verità, ma i miei fanatici simili sembrano incapaci di afferrarla..." }
   ]
 }

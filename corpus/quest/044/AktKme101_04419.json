@@ -49,7 +49,7 @@
     { "gameKey": "quest/044/AktKme101_04419#TEXT_AKTKME101_04419_LYNA_000_066", "hash": "1F62DCCB9EEE7983", "target": "Credo che sarebbe più disposta a confidarsi con voi. Posso chiedervi di affrontare l'argomento con lei?" },
     { "gameKey": "quest/044/AktKme101_04419#TEXT_AKTKME101_04419_LYNA_000_067", "hash": "58DBA4A37F426BD5", "target": "Volete entrare nell'Ombelico? Molto bene. Vado subito a prendere la chiave─e ne approfitterò per cercare Ryne." },
     { "gameKey": "quest/044/AktKme101_04419#TEXT_AKTKME101_04419_LYNA_000_068", "hash": "B0C48B1B5BD1788C", "target": "Aspettatemi in città, direi davanti al Cabinet of Curiosity. Vi raggiungerò appena possibile." },
-    { "gameKey": "quest/044/AktKme101_04419#TEXT_AKTKME101_04419_SYSTEM_000_070", "hash": "372B5ADAB65C1527", "target": "Il prossimo evento non può essere saltato. Ti consigliamo di annullare eventuali iscrizioni in corso nel Duty Finder." },
+    { "gameKey": "quest/044/AktKme101_04419#TEXT_AKTKME101_04419_SYSTEM_000_070", "hash": "372B5ADAB65C1527", "target": "L'evento seguente non può essere saltato. Ti consigliamo di annullare eventuali iscrizioni in sospeso nel Duty Finder." },
     { "gameKey": "quest/044/AktKme101_04419#TEXT_AKTKME101_04419_Q2_000_071", "hash": "6AA13E6E9F37270E", "target": "Aspettare Lyna?" },
     { "gameKey": "quest/044/AktKme101_04419#TEXT_AKTKME101_04419_BEQLUGG_000_072", "hash": "2FA922E516D4A3F3", "target": "...I miei vecchi occhi mi ingannano? È davvero <split(<string(gstr1)>, ,1)>?" },
     { "gameKey": "quest/044/AktKme101_04419#TEXT_AKTKME101_04419_BEQLUGG_000_073", "hash": "03018902E4EB5D95", "target": "Ah, proprio così! Sono davvero felice di vederti in salute, <if(gnum4,amica mia,amico mio)>!" },

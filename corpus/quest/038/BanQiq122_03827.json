@@ -2,19 +2,19 @@
   "conversation": "quest/038/BanQiq122_03827",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/038/BanQiq122_03827#TEXT_BANQIQ122_03827_SEQ_00", "hash": "1DF0D783794C6A44", "target": "" },
-    { "gameKey": "quest/038/BanQiq122_03827#TEXT_BANQIQ122_03827_SEQ_01", "hash": "20422C58FDB29704", "target": "" },
-    { "gameKey": "quest/038/BanQiq122_03827#TEXT_BANQIQ122_03827_TODO_00", "hash": "6C4AB3D09E2F6654", "target": "" },
-    { "gameKey": "quest/038/BanQiq122_03827#TEXT_BANQIQ122_03827_QHOTERLPASOL_000_000", "hash": "53FBB7A29056DE02", "target": "" },
-    { "gameKey": "quest/038/BanQiq122_03827#TEXT_BANQIQ122_03827_QHOTERLPASOL_000_001", "hash": "3C29CCCF045ED661", "target": "" },
-    { "gameKey": "quest/038/BanQiq122_03827#TEXT_BANQIQ122_03827_QHOTERLPASOL_000_002", "hash": "78FDDFCAD7FDAA97", "target": "" },
-    { "gameKey": "quest/038/BanQiq122_03827#TEXT_BANQIQ122_03827_QHOTERLPASOL_000_003", "hash": "69617B0ADA3B2E54", "target": "" },
-    { "gameKey": "quest/038/BanQiq122_03827#TEXT_BANQIQ122_03827_QHOTERLPASOL_000_004", "hash": "B652EEFE6835DC3C", "target": "" },
-    { "gameKey": "quest/038/BanQiq122_03827#TEXT_BANQIQ122_03827_QHOTERLPASOL_000_005", "hash": "5404F8391DA4CEE4", "target": "" },
-    { "gameKey": "quest/038/BanQiq122_03827#TEXT_BANQIQ122_03827_QHOTERLPASOL_000_006", "hash": "280013BE00653451", "target": "" },
-    { "gameKey": "quest/038/BanQiq122_03827#TEXT_BANQIQ122_03827_QHOTERLPASOL_000_007", "hash": "183F8A9B4018E10D", "target": "" },
-    { "gameKey": "quest/038/BanQiq122_03827#TEXT_BANQIQ122_03827_QHOTERLPASOL_000_008", "hash": "651892D98FA11495", "target": "" },
-    { "gameKey": "quest/038/BanQiq122_03827#TEXT_BANQIQ122_03827_QHOTERLPASOL_000_010", "hash": "77DDA7F65378C4ED", "target": "" },
-    { "gameKey": "quest/038/BanQiq122_03827#TEXT_BANQIQ122_03827_QHOTERLPASOL_000_011", "hash": "4E7D5EC05B352C24", "target": "" }
+    { "gameKey": "quest/038/BanQiq122_03827#TEXT_BANQIQ122_03827_SEQ_00", "hash": "1DF0D783794C6A44", "target": "Gli occhi di Qhoterl Pasol brillano d'ispirazione.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
+    { "gameKey": "quest/038/BanQiq122_03827#TEXT_BANQIQ122_03827_SEQ_01", "hash": "20422C58FDB29704", "target": "Consegnare le provviste richieste a Qhoterl Pasol" },
+    { "gameKey": "quest/038/BanQiq122_03827#TEXT_BANQIQ122_03827_TODO_00", "hash": "6C4AB3D09E2F6654", "target": "<if([lnum4==16],<if([lnum1<lnum2],Estrarre splendid stones nell'Astropoli di K'mul,Consegnare splendid stones a Qhoterl Pasol)>,<if([lnum4==17],<if([lnum1<lnum2],Raccogliere splendid nuts nell'Astropoli di K'mul,Consegnare splendid nuts a Qhoterl Pasol)>,<if([lnum4==18],<if([lnum1<lnum2],Pescare splendid shellfish alle Lacrime di Mjrl,Consegnare splendid shellfish a Qhoterl Pasol)>,)>)>)>" },
+    { "gameKey": "quest/038/BanQiq122_03827#TEXT_BANQIQ122_03827_QHOTERLPASOL_000_000", "hash": "53FBB7A29056DE02", "target": "Buongiorno, <if(gnum4,signora,signor)> <split(<string(gstr1)>, ,1)>! Sembrate aver viaggiato molto: siete mai <if(gnum4,stata,stato)> alla Grande Piramide di Ux'ner?" },
+    { "gameKey": "quest/038/BanQiq122_03827#TEXT_BANQIQ122_03827_QHOTERLPASOL_000_001", "hash": "3C29CCCF045ED661", "target": "Ve lo chiedo perché una nobile Viis mi ha parlato delle statue di gufi nella piramide, dotate di trappole mortali per scoraggiare anche i profanatori più intrepidi. Sentita la storia, ho avuto un'illuminazione." },
+    { "gameKey": "quest/038/BanQiq122_03827#TEXT_BANQIQ122_03827_QHOTERLPASOL_000_002", "hash": "78FDDFCAD7FDAA97", "target": "Anche queste rovine potrebbero essere attrezzate allo stesso modo! Qui intorno pullula di bestie feroci, e qualche trappola ingegnosa ci renderebbe tutti più tranquilli. Potreste aiutarmi a fabbricarle?" },
+    { "gameKey": "quest/038/BanQiq122_03827#TEXT_BANQIQ122_03827_QHOTERLPASOL_000_003", "hash": "69617B0ADA3B2E54", "target": "Il congegno che ho in mente sfrutterà l'energia latente delle pietre magiche. Vi sarei molto grata se me ne portaste qualcuna dall'Astropoli di K'mul." },
+    { "gameKey": "quest/038/BanQiq122_03827#TEXT_BANQIQ122_03827_QHOTERLPASOL_000_004", "hash": "B652EEFE6835DC3C", "target": "Il congegno che immagino sfrutterà l'energia latente delle noci sparse nell'Astropoli di K'mul. Sarei felicissima se ne raccoglieste qualcuna per me." },
+    { "gameKey": "quest/038/BanQiq122_03827#TEXT_BANQIQ122_03827_QHOTERLPASOL_000_005", "hash": "5404F8391DA4CEE4", "target": "Ho progettato un congegno che sfrutta la potente energia delle perle dei molluschi delle Lacrime di Mjrl. Pescarli dalle profondità potrà sembrarvi difficile, ma con i fruit worm come esca tornerete prima ancora che senta la vostra mancanza." },
+    { "gameKey": "quest/038/BanQiq122_03827#TEXT_BANQIQ122_03827_QHOTERLPASOL_000_006", "hash": "280013BE00653451", "target": "Il potere latente delle pietre sparse nell'Astropoli di K'mul è proprio ciò che mi serve. Aspetterò pazientemente il vostro ritorno." },
+    { "gameKey": "quest/038/BanQiq122_03827#TEXT_BANQIQ122_03827_QHOTERLPASOL_000_007", "hash": "183F8A9B4018E10D", "target": "Le noci che crescono vicino all'Astropoli di K'mul traboccano di energia arcana: ne ricaveremo una trappola tanto letale quanto deliziosa." },
+    { "gameKey": "quest/038/BanQiq122_03827#TEXT_BANQIQ122_03827_QHOTERLPASOL_000_008", "hash": "651892D98FA11495", "target": "Le perle delle Lacrime di Mjrl trasudano energia arcana, sufficiente a creare una trappola potente. Andate a pescare qualche mollusco, ma ricordate i fruit worm!" },
+    { "gameKey": "quest/038/BanQiq122_03827#TEXT_BANQIQ122_03827_QHOTERLPASOL_000_010", "hash": "77DDA7F65378C4ED", "target": "Eccovi! Avete i materiali richiesti? Vi prego, ditemi di sì: mi sembra che le belve si avvicinino ogni istante!" },
+    { "gameKey": "quest/038/BanQiq122_03827#TEXT_BANQIQ122_03827_QHOTERLPASOL_000_011", "hash": "4E7D5EC05B352C24", "target": "Ah, sì, pericoloso <italic(1)>e<italic(0)> mozzafiato! Ne farò uno spaventapasseri arcano tanto letale quanto minaccioso! Naturalmente, non dovrò renderlo <italic(1)>troppo<italic(0)> terrificante, o il mio Chaqurl se la farà sotto dalla paura! Ah!" }
   ]
 }

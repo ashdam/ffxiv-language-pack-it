@@ -2,18 +2,18 @@
   "conversation": "custom/005/CmnFatShop1N4Town_00584",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/005/CmnFatShop1N4Town_00584#TEXT_CMNFATSHOP1N4TOWN_00584_GRAMSOL_000_001", "hash": "5DC2B19DA2A2B8F5", "target": "" },
-    { "gameKey": "custom/005/CmnFatShop1N4Town_00584#TEXT_CMNFATSHOP1N4TOWN_00584_GRAMSOL_001_001", "hash": "EBF88C21103FFCD3", "target": "" },
-    { "gameKey": "custom/005/CmnFatShop1N4Town_00584#TEXT_CMNFATSHOP1N4TOWN_00584_SYSTEM_001_002", "hash": "4CE84716966848BF", "target": "" },
-    { "gameKey": "custom/005/CmnFatShop1N4Town_00584#TEXT_CMNFATSHOP1N4TOWN_00584_SYSTEM_001_012", "hash": "7534424D4B13F25E", "target": "" },
-    { "gameKey": "custom/005/CmnFatShop1N4Town_00584#TEXT_CMNFATSHOP1N4TOWN_00584_GRAMSOL_002_001", "hash": "CBEB5BE2DF05A2A9", "target": "" },
-    { "gameKey": "custom/005/CmnFatShop1N4Town_00584#TEXT_CMNFATSHOP1N4TOWN_00584_SYSTEM_999_001", "hash": "2103F005B7FC544A", "target": "" },
-    { "gameKey": "custom/005/CmnFatShop1N4Town_00584#TEXT_CMNFATSHOP1N4TOWN_00584_SYSTEM_002_002", "hash": "EA5F299F8016306B", "target": "" },
-    { "gameKey": "custom/005/CmnFatShop1N4Town_00584#TEXT_CMNFATSHOP1N4TOWN_00584_GRAMSOL_003_001", "hash": "6E1C80F4AEC7B2EB", "target": "" },
-    { "gameKey": "custom/005/CmnFatShop1N4Town_00584#TEXT_CMNFATSHOP1N4TOWN_00584_PEDRONILLE_000_001", "hash": "F7FEA3644B3694C3", "target": "" },
-    { "gameKey": "custom/005/CmnFatShop1N4Town_00584#TEXT_CMNFATSHOP1N4TOWN_00584_PEDRONILLE_001_001", "hash": "9639AF709E51CFDC", "target": "" },
-    { "gameKey": "custom/005/CmnFatShop1N4Town_00584#TEXT_CMNFATSHOP1N4TOWN_00584_PEDRONILLE_002_001", "hash": "B90798446309EACA", "target": "" },
-    { "gameKey": "custom/005/CmnFatShop1N4Town_00584#TEXT_CMNFATSHOP1N4TOWN_00584_SYSTEM_999_002", "hash": "5A76EAC31F5AB67B", "target": "" },
-    { "gameKey": "custom/005/CmnFatShop1N4Town_00584#TEXT_CMNFATSHOP1N4TOWN_00584_PEDRONILLE_003_001", "hash": "42DF318BB60E349D", "target": "" }
+    { "gameKey": "custom/005/CmnFatShop1N4Town_00584#TEXT_CMNFATSHOP1N4TOWN_00584_GRAMSOL_000_001", "hash": "5DC2B19DA2A2B8F5", "target": "Circola, <if(gnum4,ragazza,ragazzo)>. Non c'è niente da vedere." },
+    { "gameKey": "custom/005/CmnFatShop1N4Town_00584#TEXT_CMNFATSHOP1N4TOWN_00584_GRAMSOL_001_001", "hash": "EBF88C21103FFCD3", "target": "Scusa, <if(gnum4,ragazza,ragazzo)>, ma non ho nulla da vendere finché non arriva il prossimo carico." },
+    { "gameKey": "custom/005/CmnFatShop1N4Town_00584#TEXT_CMNFATSHOP1N4TOWN_00584_SYSTEM_001_002", "hash": "4CE84716966848BF", "target": "Devi proseguire ulteriormente nello scenario principale di Shadowbringers per accedere alle merci di questo venditore." },
+    { "gameKey": "custom/005/CmnFatShop1N4Town_00584#TEXT_CMNFATSHOP1N4TOWN_00584_SYSTEM_001_012", "hash": "7534424D4B13F25E", "target": "Quando avrai contribuito in misura significativa alla sicurezza di Lakeland, Kholusia, Amh Araeng, Il Mheg, Rak'tika Greatwood e Tempest, potrai commerciare con questo venditore." },
+    { "gameKey": "custom/005/CmnFatShop1N4Town_00584#TEXT_CMNFATSHOP1N4TOWN_00584_GRAMSOL_002_001", "hash": "CBEB5BE2DF05A2A9", "target": "Ti è andata bene, <if(gnum4,ragazza,ragazzo)>. Le merci da ogni dove cominciano finalmente ad arrivare al Crystarium. Se vuoi separarti da qualche bicolor gemstone, forse possiamo fare affari." },
+    { "gameKey": "custom/005/CmnFatShop1N4Town_00584#TEXT_CMNFATSHOP1N4TOWN_00584_SYSTEM_999_001", "hash": "2103F005B7FC544A", "target": "Ora puoi commerciare con Gramsol!" },
+    { "gameKey": "custom/005/CmnFatShop1N4Town_00584#TEXT_CMNFATSHOP1N4TOWN_00584_SYSTEM_002_002", "hash": "EA5F299F8016306B", "target": "Raccogli bicolor gemstones da scambiare con merci di vario tipo." },
+    { "gameKey": "custom/005/CmnFatShop1N4Town_00584#TEXT_CMNFATSHOP1N4TOWN_00584_GRAMSOL_003_001", "hash": "6E1C80F4AEC7B2EB", "target": "Ti interessa qualcosa, <if(gnum4,ragazza,ragazzo)>? Se hai bicolor gemstones da spendere, sono sicuro di avere qualcosa che cerchi." },
+    { "gameKey": "custom/005/CmnFatShop1N4Town_00584#TEXT_CMNFATSHOP1N4TOWN_00584_PEDRONILLE_000_001", "hash": "F7FEA3644B3694C3", "target": "Sono davvero spiacente, <if(gnum4,signorina,signore)>, ma al momento non ho nulla da vendere." },
+    { "gameKey": "custom/005/CmnFatShop1N4Town_00584#TEXT_CMNFATSHOP1N4TOWN_00584_PEDRONILLE_001_001", "hash": "9639AF709E51CFDC", "target": "Sono davvero spiacente, <if(gnum4,signorina,signore)>. Un nuovo carico di merci dovrebbe arrivare a giorni." },
+    { "gameKey": "custom/005/CmnFatShop1N4Town_00584#TEXT_CMNFATSHOP1N4TOWN_00584_PEDRONILLE_002_001", "hash": "B90798446309EACA", "target": "Ho una notizia meravigliosa! Abbiamo appena ricevuto un carico di merci da vendere. Forse c'è qualcosa di vostro gradimento?" },
+    { "gameKey": "custom/005/CmnFatShop1N4Town_00584#TEXT_CMNFATSHOP1N4TOWN_00584_SYSTEM_999_002", "hash": "5A76EAC31F5AB67B", "target": "Ora puoi commerciare con Pedronille!" },
+    { "gameKey": "custom/005/CmnFatShop1N4Town_00584#TEXT_CMNFATSHOP1N4TOWN_00584_PEDRONILLE_003_001", "hash": "42DF318BB60E349D", "target": "Che cosa desiderate oggi, <if(gnum4,signorina,signore)>?" }
   ]
 }

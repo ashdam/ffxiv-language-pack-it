@@ -2,12 +2,12 @@
   "conversation": "custom/000/CmnDefNpcRepair_00019",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/000/CmnDefNpcRepair_00019#TEXT_CMNDEFNPCREPAIR_00019_AMALJAAREPAIR_000_000", "hash": "31886B77B8827F01", "target": "" },
-    { "gameKey": "custom/000/CmnDefNpcRepair_00019#TEXT_CMNDEFNPCREPAIR_00019_KOBOLDREPAIR_000_000", "hash": "532C4C6977BDEE47", "target": "" },
-    { "gameKey": "custom/000/CmnDefNpcRepair_00019#TEXT_CMNDEFNPCREPAIR_00019_SAHUAGINREPAIR_000_000", "hash": "1883609AFD4B695A", "target": "" },
-    { "gameKey": "custom/000/CmnDefNpcRepair_00019#TEXT_CMNDEFNPCREPAIR_00019_IXALREPAIR_000_000", "hash": "93DD971E514A182F", "target": "" },
-    { "gameKey": "custom/000/CmnDefNpcRepair_00019#TEXT_CMNDEFNPCREPAIR_00019_TERTIUM_000_000", "hash": "49615D4CE8D7E0F7", "target": "" },
-    { "gameKey": "custom/000/CmnDefNpcRepair_00019#TEXT_CMNDEFNPCREPAIR_00019_SYSTEM_000_001", "hash": "04355B8BA4A18D25", "target": "" },
-    { "gameKey": "custom/000/CmnDefNpcRepair_00019#TEXT_CMNDEFNPCREPAIR_00019_TERTIUM_000_002", "hash": "C7C61172D2DAD077", "target": "" }
+    { "gameKey": "custom/000/CmnDefNpcRepair_00019#TEXT_CMNDEFNPCREPAIR_00019_AMALJAAREPAIR_000_000", "hash": "31886B77B8827F01", "target": "Hai qualcosa da riparare? E chi sei tu perché debba servirti? Dimostra la tua amicizia alla Confraternita, e forse ti ascolterò." },
+    { "gameKey": "custom/000/CmnDefNpcRepair_00019#TEXT_CMNDEFNPCREPAIR_00019_KOBOLDREPAIR_000_000", "hash": "532C4C6977BDEE47", "target": "I tuoi oggetti vanno aggiustati, rattoppati, riparati? Torna a casa, trova un altro abitante della superficie che lo faccia. I miei servizi non sono per gli estranei. No, no, non per te." },
+    { "gameKey": "custom/000/CmnDefNpcRepair_00019#TEXT_CMNDEFNPCREPAIR_00019_SAHUAGINREPAIR_000_000", "hash": "1883609AFD4B695A", "target": "I tuoi averi richiedono riparazioni? Anche quelli dei miei fratelli, e ho sssolo un certo numero di braccia. Ssse vuoi il mio aiuto, prima devi parlare col padre della nidiata." },
+    { "gameKey": "custom/000/CmnDefNpcRepair_00019#TEXT_CMNDEFNPCREPAIR_00019_IXALREPAIR_000_000", "hash": "93DD971E514A182F", "target": "Craaa! Cose da riparare, dici!? Senza piume non è amico nostro! Aiuto non ti do. Solo cra! Craaa!" },
+    { "gameKey": "custom/000/CmnDefNpcRepair_00019#TEXT_CMNDEFNPCREPAIR_00019_TERTIUM_000_000", "hash": "49615D4CE8D7E0F7", "target": "..." },
+    { "gameKey": "custom/000/CmnDefNpcRepair_00019#TEXT_CMNDEFNPCREPAIR_00019_SYSTEM_000_001", "hash": "04355B8BA4A18D25", "target": "Chiaramente non ha intenzione di parlarti." },
+    { "gameKey": "custom/000/CmnDefNpcRepair_00019#TEXT_CMNDEFNPCREPAIR_00019_TERTIUM_000_002", "hash": "C7C61172D2DAD077", "target": "Non abbiamo né le risorse né la voglia di aiutare gente come te. Vattene." }
   ]
 }

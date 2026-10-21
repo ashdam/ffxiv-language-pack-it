@@ -2,19 +2,19 @@
   "conversation": "quest/012/BanSyl202_01268",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_SEQ_00", "hash": "77CB23CB7D351274", "target": "" },
-    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_SEQ_01", "hash": "D7D140C6D10D2EF4", "target": "" },
-    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_SEQ_02", "hash": "28F479307AAE43D7", "target": "" },
-    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_SEQ_03", "hash": "3020FAC540992920", "target": "" },
-    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_TODO_00", "hash": "FD8556F0A055322E", "target": "" },
-    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_TODO_01", "hash": "B0F5EB8CAA7E785C", "target": "" },
-    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_000", "hash": "AC59A77B510C528C", "target": "" },
-    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_001", "hash": "2890C054B7E68BD8", "target": "" },
-    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_002", "hash": "6B5CAABEC1662FE1", "target": "" },
-    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_003", "hash": "D8C5E99A8E4FD055", "target": "" },
-    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_005", "hash": "54D0C5F160189E35", "target": "" },
-    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_010", "hash": "E54E6163D082471C", "target": "" },
-    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_012", "hash": "88AE12242FDF6C64", "target": "" },
-    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_013", "hash": "9EF40827FA80EDEE", "target": "" }
+    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_SEQ_00", "hash": "77CB23CB7D351274", "target": "Ponnixia desidera soltanto distrarsi dai propri problemi." },
+    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_SEQ_01", "hash": "D7D140C6D10D2EF4", "target": "Negli ultimi giorni Ponnixia fatica a trovare divertimento e cerca muco onirico per aumentare la potenza della sua amata radice lattea. Purtroppo quella sostanza tanto ricercata è monopolizzata da egoisti asserviti. Procura quattro fiale di muco di rospo onirico, direttamente dalla fonte oppure dai Silfi inebriati che già si abbandonano ai suoi piaceri." },
+    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_SEQ_02", "hash": "28F479307AAE43D7", "target": "Hai ottenuto quattro fiale del muco sgradevole ma molto prezioso. Consegna il materiale a Ponnixia." },
+    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_SEQ_03", "hash": "3020FAC540992920", "target": "Gli occhi di Ponnixia si illuminano alla vista del muco. Anche se il potente miscuglio di radice lattea non risolverà i molti problemi del suo popolo, servirà almeno a riportare il sorriso sui loro volti." },
+    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_TODO_00", "hash": "FD8556F0A055322E", "target": "Sconfiggere dreamtoads o sylpheed sighs per ottenere fiale di muco di rospo onirico" },
+    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_TODO_01", "hash": "B0F5EB8CAA7E785C", "target": "Consegnare le fiale di muco di rospo onirico a Ponnixia" },
+    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_000", "hash": "AC59A77B510C528C", "target": "Quello che cammina sa cosa amano questi qui ancora più della radice lattea? La radice lattea mescolata al muco onirico! Il muco onirico rende la radice lattea tre volte più divertente, ih ih!" },
+    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_001", "hash": "2890C054B7E68BD8", "target": "Ma oggi questa qui non si diverte molto. Perché? Perché quelli asserviti radunano quelli viscidi e si accaparrano tutto il muco onirico!" },
+    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_002", "hash": "6B5CAABEC1662FE1", "target": "Quello che cammina deve punire quelli asserviti e rubare il muco onirico, insegnare a quelli asserviti a non essere quelli avidi!" },
+    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_003", "hash": "D8C5E99A8E4FD055", "target": "...Oppure basta trovare uno viscido e portare il muco onirico a questa qui, così questa qui può dimenticare le sue preoccupazioni." },
+    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_005", "hash": "54D0C5F160189E35", "target": "Quelli asserviti radunano quelli viscidi e si accaparrano tutto il muco onirico! Quello che cammina deve insegnare a quelli asserviti a non essere quelli avidi. Oppure basta trovare uno viscido e portare il muco onirico a questa qui, così questa qui può dimenticare le sue preoccupazioni." },
+    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_010", "hash": "E54E6163D082471C", "target": "Questa qui non si diverte, non si diverte affatto! Chi è amico ha trovato il muco onirico per questa qui?" },
+    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_012", "hash": "88AE12242FDF6C64", "target": "Chi è amico porta muco onirico! Finalmente questa qui può tornare a essere quella sorridente!" },
+    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_013", "hash": "9EF40827FA80EDEE", "target": "Questi qui hanno molte preoccupazioni, in questi giorni. Senza radice lattea e muco onirico, questi qui sarebbero quelli imbronciati e pensierosi, e che divertimento ci sarebbe? Ih ih!" }
   ]
 }

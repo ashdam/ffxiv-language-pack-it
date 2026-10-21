@@ -2,16 +2,16 @@
   "conversation": "custom/000/RegWikAdvGuild_00059",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_PAPASU_000", "hash": "338F31759E6620F8", "target": "" },
-    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_Q1_000_1", "hash": "8CFA902AE0E02297", "target": "" },
-    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_A1_000_1", "hash": "8F17F0D80FD1887D", "target": "" },
-    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_A1_000_2", "hash": "C810DBE8E5EBFC92", "target": "" },
-    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_A1_000_3", "hash": "38FCF9D1AD077202", "target": "" },
-    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_PAPASU_010", "hash": "B731CEC43EFCFF5C", "target": "" },
-    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_PAPASU_011", "hash": "4F110AE7226E4D8E", "target": "" },
-    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_PAPASU_012", "hash": "9521C22799F01C99", "target": "" },
-    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_PAPASU_020", "hash": "D8792D69BE996EA4", "target": "" },
-    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_PAPASU_021", "hash": "B668ACF258327526", "target": "" },
-    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_PAPASU_022", "hash": "6DE0E24B0F1C27BE", "target": "" }
+    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_PAPASU_000", "hash": "338F31759E6620F8", "target": "Salve, <if(gnum4,viaggiatrice,viaggiatore)>. Hai già assaggiato qualche piatto al Quicksand? Niente ti prepara a una giornata d'avventure come un pasto abbondante, sai!" },
+    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_Q1_000_1", "hash": "8CFA902AE0E02297", "target": "Che cosa vuoi sapere?" },
+    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_A1_000_1", "hash": "8F17F0D80FD1887D", "target": "Di cosa vi occupate qui?" },
+    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_A1_000_2", "hash": "C810DBE8E5EBFC92", "target": "Perché si chiama «Quicksand»?" },
+    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_A1_000_3", "hash": "38FCF9D1AD077202", "target": "Niente." },
+    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_PAPASU_010", "hash": "B731CEC43EFCFF5C", "target": "Oh, mi aggiro per il Quicksand, occupandomi di ogni necessità dei nostri ospiti." },
+    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_PAPASU_011", "hash": "4F110AE7226E4D8E", "target": "Di tanto in tanto do anche una mano in cucina. Nessuno prepara focaccine imburrate burrose quanto le mie, sai. La prossima volta che ne sforno un po', assaggiane una!" },
+    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_PAPASU_012", "hash": "9521C22799F01C99", "target": "Naturalmente dovresti provare tutti i nostri piatti: tutto ciò che serviamo è eccellente. Perché non mangi un boccone e ti riposi un po'? Ti prometto che non te ne pentirai!" },
+    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_PAPASU_020", "hash": "D8792D69BE996EA4", "target": "Guardati intorno: il fascino del Quicksand cattura ogni genere di persona! Si ritrovano qui per conoscersi e stare insieme." },
+    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_PAPASU_021", "hash": "B668ACF258327526", "target": "Voi avventurieri, certo, tendete a non fermarvi a lungo. Sì, somigliate proprio alla sabbia: più cerchiamo di stringervi, più facilmente ci sfuggite fra le dita..." },
+    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_PAPASU_022", "hash": "6DE0E24B0F1C27BE", "target": "Oh, conosco <italic(1)>bene<italic(0)> i tipi come voi. Mio marito era un avventuriero, sai. Un tempo era proprio un eroe valoroso. Ma ormai le sue imprese ardimentose sono solo un ricordo lontano... e anche il suo fisico prestante. \\<sospiro>" }
   ]
 }

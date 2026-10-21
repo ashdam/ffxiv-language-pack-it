@@ -53,7 +53,7 @@
     { "gameKey": "quest/001/ClsRog050_00110#TEXT_CLSROG050_00110_PERIMUHAURIMU_000_045", "hash": "02CFC24D81465C6F", "target": "Non vi sto preparando uno scherzo, <if(gnum4,ragazza,ragazzo)>. Fidatevi!" },
     { "gameKey": "quest/001/ClsRog050_00110#TEXT_CLSROG050_00110_PERIMUHAURIMU_000_050", "hash": "6B5B3C255CCB35AF", "target": "Ordinatevi una birra annacquata. Fra poco tutto avrà senso." },
     { "gameKey": "quest/001/ClsRog050_00110#TEXT_CLSROG050_00110_ITOLWANN_000_060", "hash": "991FD09947F640BC", "target": "<if(gnum4,Benvenuta,Benvenuto)> al Drowning Wench! Che cosa desiderate, <if(gnum4,signorina,signore)>?" },
-    { "gameKey": "quest/001/ClsRog050_00110#TEXT_CLSROG050_00110_Q1_000_061", "hash": "6469BE72498257C4", "target": "Che cosa ordini?" },
+    { "gameKey": "quest/001/ClsRog050_00110#TEXT_CLSROG050_00110_Q1_000_061", "hash": "6469BE72498257C4", "target": "Cosa vuoi ordinare?" },
     { "gameKey": "quest/001/ClsRog050_00110#TEXT_CLSROG050_00110_A1_000_062", "hash": "AE4B313ED2243E91", "target": "Una birra fresca." },
     { "gameKey": "quest/001/ClsRog050_00110#TEXT_CLSROG050_00110_A1_000_063", "hash": "6B56645F4C324136", "target": "Una birra forte." },
     { "gameKey": "quest/001/ClsRog050_00110#TEXT_CLSROG050_00110_A1_000_064", "hash": "92B3D9FA9851B383", "target": "Una birra annacquata." },

@@ -2,15 +2,15 @@
   "conversation": "custom/000/RegSeaAdvGuild_00050",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/000/RegSeaAdvGuild_00050#TEXT_REGSEAADVGUILD_00050_SDHODJBI_000_1", "hash": "9BA1C9024ADC7D0A", "target": "" },
-    { "gameKey": "custom/000/RegSeaAdvGuild_00050#TEXT_REGSEAADVGUILD_00050_SDHODJBI_000_2", "hash": "32AE703FAC89C971", "target": "" },
-    { "gameKey": "custom/000/RegSeaAdvGuild_00050#TEXT_REGSEAADVGUILD_00050_SDHODJBI_000_3", "hash": "242CD4A4B6108B4C", "target": "" },
-    { "gameKey": "custom/000/RegSeaAdvGuild_00050#TEXT_REGSEAADVGUILD_00050_SDHODJBI_000_4", "hash": "8D58AAF34AB3EFCA", "target": "" },
-    { "gameKey": "custom/000/RegSeaAdvGuild_00050#TEXT_REGSEAADVGUILD_00050_SDHODJBI_000_5", "hash": "09253B981AF2DE28", "target": "" },
-    { "gameKey": "custom/000/RegSeaAdvGuild_00050#TEXT_REGSEAADVGUILD_00050_SDHODJBI_000_6", "hash": "E04BF1EF7E0BDAE0", "target": "" },
-    { "gameKey": "custom/000/RegSeaAdvGuild_00050#TEXT_REGSEAADVGUILD_00050_Q1_000_1", "hash": "1EB527C4D23F6101", "target": "" },
-    { "gameKey": "custom/000/RegSeaAdvGuild_00050#TEXT_REGSEAADVGUILD_00050_A1_000_1", "hash": "512D22ECCD4B36FF", "target": "" },
-    { "gameKey": "custom/000/RegSeaAdvGuild_00050#TEXT_REGSEAADVGUILD_00050_A1_000_2", "hash": "3A16FEDD2BD56B02", "target": "" },
-    { "gameKey": "custom/000/RegSeaAdvGuild_00050#TEXT_REGSEAADVGUILD_00050_A1_000_3", "hash": "07B8624A3D8D0CCF", "target": "" }
+    { "gameKey": "custom/000/RegSeaAdvGuild_00050#TEXT_REGSEAADVGUILD_00050_SDHODJBI_000_1", "hash": "9BA1C9024ADC7D0A", "target": "Ti do il benvenuto alla Drowning Wench. Se ti serve qualcosa, basta che mi chiami." },
+    { "gameKey": "custom/000/RegSeaAdvGuild_00050#TEXT_REGSEAADVGUILD_00050_SDHODJBI_000_2", "hash": "32AE703FAC89C971", "target": "Servo gli zoticoni e gli ubriaconi che entrano da quella porta. Baderon, il proprietario, ha lasciato la vita da mercenario per aprire questo locale, ma si sente ancora più a suo agio con una lama in mano che con uno spazzolone. Quindi mi occupo anche delle pulizie." },
+    { "gameKey": "custom/000/RegSeaAdvGuild_00050#TEXT_REGSEAADVGUILD_00050_SDHODJBI_000_3", "hash": "242CD4A4B6108B4C", "target": "Sempre molto meglio di come me la passavo dopo la Calamità, credimi. Avevo perso quasi tutto ciò che si può perdere e passavo le notti a vomitare birra scadente nei rigagnoli. Una mattina Baderon mi ha trovata svenuta davanti al locale, mi ha accolta, ripulita e aiutata a smettere di bere il peggio del peggio." },
+    { "gameKey": "custom/000/RegSeaAdvGuild_00050#TEXT_REGSEAADVGUILD_00050_SDHODJBI_000_4", "hash": "8D58AAF34AB3EFCA", "target": "Non è che lavori per ripagare il favore, capisci. È più che un giorno ho cominciato a dare una mano con le faccende e non me ne sono più andata." },
+    { "gameKey": "custom/000/RegSeaAdvGuild_00050#TEXT_REGSEAADVGUILD_00050_SDHODJBI_000_5", "hash": "09253B981AF2DE28", "target": "Macabro? Ah! Solo se pensi che la ragazza stia affogando nell'acqua. Il nome ha più a che fare con quantità peccaminose di birra che con altro, ed è così che piace ai marinai e alle canaglie qui dentro." },
+    { "gameKey": "custom/000/RegSeaAdvGuild_00050#TEXT_REGSEAADVGUILD_00050_SDHODJBI_000_6", "hash": "E04BF1EF7E0BDAE0", "target": "Vediamo anche un bel po' di avventurieri come te, e questo tiene Baderon impegnato a soffiare nasi e dare consigli ai novellini. Non ha mai saputo resistere alla tentazione di accogliere i randagi." },
+    { "gameKey": "custom/000/RegSeaAdvGuild_00050#TEXT_REGSEAADVGUILD_00050_Q1_000_1", "hash": "1EB527C4D23F6101", "target": "Che cosa vuoi sapere?" },
+    { "gameKey": "custom/000/RegSeaAdvGuild_00050#TEXT_REGSEAADVGUILD_00050_A1_000_1", "hash": "512D22ECCD4B36FF", "target": "Informarsi sul lavoro svolto qui." },
+    { "gameKey": "custom/000/RegSeaAdvGuild_00050#TEXT_REGSEAADVGUILD_00050_A1_000_2", "hash": "3A16FEDD2BD56B02", "target": "“Drowning Wench”. Non è un po' macabro?" },
+    { "gameKey": "custom/000/RegSeaAdvGuild_00050#TEXT_REGSEAADVGUILD_00050_A1_000_3", "hash": "07B8624A3D8D0CCF", "target": "Niente." }
   ]
 }

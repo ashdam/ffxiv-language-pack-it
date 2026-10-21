@@ -2,19 +2,19 @@
   "conversation": "custom/008/RegSak6Luwateninyawawsa_00881",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_000", "hash": "5E349A9568D47785", "target": "" },
-    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_001", "hash": "9D08DEF72A32BA5C", "target": "" },
-    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_002", "hash": "A6ACE714E2B5068B", "target": "" },
-    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_003", "hash": "577C421142D308A9", "target": "" },
-    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_Q1_000_000", "hash": "018B03192270249D", "target": "" },
-    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_A1_000_001", "hash": "76DD9E7961BD7DF7", "target": "" },
-    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_A1_000_002", "hash": "B6AE1FEB7C00E234", "target": "" },
-    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_A1_000_003", "hash": "95F05DAF1F1BE2AE", "target": "" },
-    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_004", "hash": "C3E512ACCFB5A9D5", "target": "" },
-    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_005", "hash": "3A15D85996D031C5", "target": "" },
-    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_006", "hash": "8A64AED159A7DE5F", "target": "" },
-    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_007", "hash": "2CA613A7E33F20E5", "target": "" },
-    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_008", "hash": "630075069897ED0C", "target": "" },
-    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_009", "hash": "EDAC39BDC115BA98", "target": "" }
+    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_000", "hash": "5E349A9568D47785", "target": "Ultimamente abbiamo avuto parecchi mercanti, ma qualcosa mi dice che tu non sia qui per affari. Ti do il benvenuto a Luwateninyawawsa, <if(gnum4,amica mia,amico mio)>." },
+    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_001", "hash": "9D08DEF72A32BA5C", "target": "Immagino tu non sia di queste parti? Vorrei che la tua visita non avvenisse in circostanze così terribili... Quelle navi in cielo sono uno spettacolo spaventoso." },
+    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_002", "hash": "A6ACE714E2B5068B", "target": "Hai scelto un buon momento per venire a Luwateninyawawsa, <if(gnum4,amica mia,amico mio)>. Sembra che il pericolo sia finalmente passato." },
+    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_003", "hash": "577C421142D308A9", "target": "Ti do il benvenuto a Luwateninyawawsa, <if(gnum4,amica mia,amico mio)>. Hai bisogno di qualcosa?" },
+    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_Q1_000_000", "hash": "018B03192270249D", "target": "Cosa vuoi chiedere?" },
+    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_A1_000_001", "hash": "76DD9E7961BD7DF7", "target": "Di cosa ti occupi qui?" },
+    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_A1_000_002", "hash": "B6AE1FEB7C00E234", "target": "Che posto è questo?" },
+    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_A1_000_003", "hash": "95F05DAF1F1BE2AE", "target": "Niente." },
+    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_004", "hash": "C3E512ACCFB5A9D5", "target": "Lavoro nell'artigianato e produco soprattutto oggetti d'uso pratico. Sebbene noi Tonawawta ci dedichiamo principalmente alla caccia e all'agricoltura, abbiamo anche manufatti tradizionali da offrire ai mercanti che visitano il villaggio." },
+    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_005", "hash": "3A15D85996D031C5", "target": "La nostra lunga storia di baratto, tuttavia, ci precede. Non è raro che i mercanti presumano, a torto, di poter acquistare le mie merci per una frazione del loro vero valore." },
+    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_006", "hash": "8A64AED159A7DE5F", "target": "Questa è Luwateninyawawsa, patria dei Tonawawta. Nella lingua comune significa all'incirca «cielo dei falchi in volo»." },
+    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_007", "hash": "2CA613A7E33F20E5", "target": "Le case che vedi qui sono state tutte costruite con grande cura in mattoni d'argilla circa cent'anni fa." },
+    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_008", "hash": "630075069897ED0C", "target": "All'interno rimangono sorprendentemente fresche, anche sotto il sole cocente del pomeriggio. La saggezza e l'ingegno dei nostri antenati meritano davvero ammirazione." },
+    { "gameKey": "custom/008/RegSak6Luwateninyawawsa_00881#TEXT_REGSAK6LUWATENINYAWAWSA_00881_LIYUKWA_000_009", "hash": "EDAC39BDC115BA98", "target": "Senza nulla togliere alle innovazioni del presente, naturalmente. Non pochi della nostra tribù hanno cominciato a interessarsi all'estrazione del ceruleum. Uno spettacolo che vale la pena vedere, se hai tempo." }
   ]
 }

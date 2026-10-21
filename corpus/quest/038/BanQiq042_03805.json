@@ -2,18 +2,18 @@
   "conversation": "quest/038/BanQiq042_03805",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_SEQ_00", "hash": "C56F1F39E4EAD3E2", "target": "" },
-    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_SEQ_01", "hash": "639FF3E2D5F7E50B", "target": "" },
-    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_SEQ_02", "hash": "FDC80597585FE599", "target": "" },
-    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_TODO_00", "hash": "053B47DEB498412E", "target": "" },
-    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_CHAQURLQHOTL_000_001", "hash": "5732BB307BBE5710", "target": "" },
-    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_CHAQURLQHOTL_000_002", "hash": "8AA09217F067DF95", "target": "" },
-    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_SYSTEM_000_003", "hash": "368B2CF6CF1023DC", "target": "" },
-    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_SYSTEM_000_004", "hash": "9A1576116C07886D", "target": "" },
-    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_Q1_000_000", "hash": "CA7717D9C2CF936E", "target": "" },
-    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_CHAQURLQHOTL_000_006", "hash": "EF9ECA2E06C73DC3", "target": "" },
-    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_QITARLNATL_000_006", "hash": "D2E9797B7736D284", "target": "" },
-    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_CHAQURLQHOTL_000_007", "hash": "47A5B3683D4085AA", "target": "" },
-    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_CHAQURLQHOTL_000_008", "hash": "E8AD24E568FE1CBB", "target": "" }
+    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_SEQ_00", "hash": "C56F1F39E4EAD3E2", "target": "Chaqurl Qhotl vorrebbe persuaderti della sua teoria sul destino del misterioso popolo degli uomini pesce gatto.<br>※La difficoltà di questa missione sarà adattata al tuo livello attuale." },
+    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_SEQ_01", "hash": "639FF3E2D5F7E50B", "target": "Gli argomenti di Chaqurl Qhotl ti convincono e sostieni la sua teoria secondo cui i Qitari condivisero le provviste con gli affamati uomini pesce gatto, prima della loro sfortunata scomparsa dalla foresta. Pur a malincuore, il padre ostinato ammette che suo figlio potrebbe avere ragione e accetta di contribuire al restauro della terza stele.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
+    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_SEQ_02", "hash": "FDC80597585FE599", "target": "Sotto il tuo sguardo attento, gli artigiani qitari restituiscono alla terza stele l'antico splendore secondo l'interpretazione di Chaqurl Qhotl. Rincuorati dal recupero di un'altra parte fondamentale della loro eredità, i Custodi riprendono gli scavi con nuovo fervore. Se lo desideri, continua ad aiutarli nei loro sforzi." },
+    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_TODO_00", "hash": "053B47DEB498412E", "target": "Parlare con Chaqurl Qhotl" },
+    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_CHAQURLQHOTL_000_001", "hash": "5732BB307BBE5710", "target": "Papà interpreterà diversamente le incisioni, ma sono certo che i miei antenati non fossero crudeli e violenti come dice. Quando la carestia colpì la foresta, noi Qitari avemmo pietà degli uomini pesce gatto e dividemmo con loro il pesce più fresco!" },
+    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_CHAQURLQHOTL_000_002", "hash": "8AA09217F067DF95", "target": "È un peccato che poi siano scomparsi dal Greatwood, ma so che i nostri antenati fecero tutto il possibile per salvare i loro piccoli amici scivolosi. È senz'altro, in-<italic(1)>tubbiamente<italic(0)>, così. Non siete d'accordo?" },
+    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_SYSTEM_000_003", "hash": "368B2CF6CF1023DC", "target": "Se sostieni la teoria di Chaqurl Qhotl, la terza stele verrà restaurata secondo la sua interpretazione della storia. Proseguendo, non potrai vedere la stele come la immagina Qitarl Natl." },
+    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_SYSTEM_000_004", "hash": "9A1576116C07886D", "target": "Le ricompense e il contenuto delle missioni successive saranno identici, qualunque sia la tua scelta. Puoi scegliere liberamente la versione della storia che trovi più convincente." },
+    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_Q1_000_000", "hash": "CA7717D9C2CF936E", "target": "Vuoi sostenere la teoria di Chaqurl Qhotl?" },
+    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_CHAQURLQHOTL_000_006", "hash": "EF9ECA2E06C73DC3", "target": "Mag-<italic(1)>finico<italic(0)>! Sapevo che eravamo della stessa idea, voi e io." },
+    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_QITARLNATL_000_006", "hash": "D2E9797B7736D284", "target": "Forse il ragazzo ha ragione, e a volte la storia è meno crudele di quanto sembri. In ogni caso, se trovate davvero più convincente la sua versione degli eventi, non vedo motivo di oppormi." },
+    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_CHAQURLQHOTL_000_007", "hash": "47A5B3683D4085AA", "target": "Splen-<italic(1)>fido<italic(0)>-fero! E con questo, cominciamo il restauro della terza stele! Resterete per assicurarvi che tutto sia fatto a dovere, vero? Quando vorrete iniziare, basterà dirlo!" },
+    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_CHAQURLQHOTL_000_008", "hash": "E8AD24E568FE1CBB", "target": "Possiamo cominciare, <split(<string(gstr1)>, ,1)>? Allora papà e io chiameremo subito i nostri migliori artigiani!" }
   ]
 }

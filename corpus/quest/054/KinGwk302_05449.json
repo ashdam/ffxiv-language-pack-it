@@ -33,9 +33,9 @@
     { "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_SYSTEM_000_030", "hash": "CC69BEED9860D20C", "target": "Per proseguire con gli obiettivi della missione devi farti accompagnare da Namingway e averlo al tuo fianco." },
     { "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_SYSTEM_000_031", "hash": "A748E80BCA4E11A0", "target": "Namingway non è ancora arrivato. Assicurati che sia al tuo fianco prima di continuare." },
     { "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_Q2_000_000", "hash": "0E6F820CE8D38A5B", "target": "Cosa vuoi fare?" },
-    { "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_A2_000_001", "hash": "8581AA254612D25B", "target": "Chiacchierare." },
+    { "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_A2_000_001", "hash": "8581AA254612D25B", "target": "Fare due chiacchiere." },
     { "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_A2_000_002", "hash": "7BE8F52E90C1884A", "target": "Separarsi da Namingway." },
-    { "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_A2_000_003", "hash": "BDC2BDF2F1E02723", "target": "Nulla." },
+    { "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_A2_000_003", "hash": "BDC2BDF2F1E02723", "target": "Niente." },
     { "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_NAMINGWAY_000_033", "hash": "B981719F68D39504", "target": "Le nostre passeggiate sono sempre un piacere!" },
     { "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_SYSTEM_000_034", "hash": "2EC6E140A02E1A17", "target": "Vuoi davvero separarti da Namingway?" },
     { "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_NAMINGWAY_000_035", "hash": "77F9C35A4F1CEBC2", "target": "Il dovere ti chiama altrove, suppongo? Allora passerò il tempo con Searchingway fino al tuo ritorno." },
@@ -70,7 +70,7 @@
     { "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_NAMINGWAY_000_074", "hash": "686D56534A3E79DD", "target": "Immagini cosa accadrebbe se un Loporrit vivo ci cadesse dentro!? ...Ripensandoci, meglio non fare ipotesi." },
     { "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_NAMINGWAY_000_075", "hash": "077E941D93B08E21", "target": "Ora passiamo alla Flotta d'Ombra per osservare più da vicino l'aspetto più spaventoso di questo astro..." },
     { "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_NAMINGWAY_000_076", "hash": "7A6971BA1A3791E8", "target": "È questa la veduta che ricorderò sempre di Oizys." },
-    { "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_SYSTEM_000_077", "hash": "901B4B07E76C85EA", "target": "Il prossimo evento non può essere saltato. Potresti voler annullare le iscrizioni al Duty Finder in sospeso." },
+    { "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_SYSTEM_000_077", "hash": "901B4B07E76C85EA", "target": "L'evento seguente non può essere saltato. Ti consigliamo di annullare eventuali iscrizioni in sospeso nel Duty Finder." },
     { "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_Q2_100_000", "hash": "9485425365567EBA", "target": "Ammirare il panorama?" },
     { "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_NAMINGWAY_000_080", "hash": "8FE659A0428A54BB", "target": "Hai visto Terra Firma rimpicciolirsi mentre salivamo? Mi è venuto in mente che a questa altezza una brezza abbastanza forte sia pericolosa quanto qualsiasi anomalia..." },
     { "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_NAMINGWAY_000_081", "hash": "3722980311FC43CC", "target": "Ma per ora non pensarci. Dimmi cos'altro attira il tuo sguardo!" },
@@ -141,9 +141,9 @@
     { "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_SEARCHINGWAY_000_115", "hash": "513527473D5928E7", "target": "Puoi scommetterci le carote! Se potremo contattare i loro discendenti, sarà il più grande balzo dell'iniziativa!" },
     { "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_SEARCHINGWAY_000_116", "hash": "0814776FF44AA3AA", "target": "Per questo farò concentrare tutta la squadra sull'analisi dei dati. Non appena avremo le prossime coordinate, sarete i primi a saperlo." },
     { "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_SEARCHINGWAY_000_117", "hash": "188F6A50750C72FA", "target": "Perché, quando verrà il momento, vi voglio entrambi a bordo con me!" },
-    { "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_SYSTEM_000_150", "hash": "812EE161452663FD", "target": "Hai completato 50 stellar missions su Oizys e puoi accettare una nuova missione." },
+    { "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_SYSTEM_000_150", "hash": "812EE161452663FD", "target": "Hai completato 50 missioni stellari su Oizys e puoi accettare una nuova missione." },
     { "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_SYSTEM_000_151", "hash": "E686BE3F264A5D14", "target": "Cerca Mumukko per sapere come aiutare ancora l'iniziativa." },
-    { "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_SYSTEM_000_152", "hash": "03E66ECAA37730B8", "target": "Completa 50 stellar missions su Oizys per poter accettare una nuova missione." },
+    { "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_SYSTEM_000_152", "hash": "03E66ECAA37730B8", "target": "Completa 50 missioni stellari su Oizys per poter intraprendere una missione aggiuntiva." },
     { "gameKey": "quest/054/KinGwk302_05449#TEXT_KINGWK302_05449_SYSTEM_000_153", "hash": "8FB0A94A03B5706D", "target": "Consulta l'exotablet per le missioni disponibili e gli altri modi di contribuire all'iniziativa d'esplorazione cosmica." }
   ]
 }

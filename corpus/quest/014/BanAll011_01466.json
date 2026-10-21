@@ -2,16 +2,16 @@
   "conversation": "quest/014/BanAll011_01466",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/014/BanAll011_01466#TEXT_BANALL011_01466_SEQ_00", "hash": "CBA894DC63DF7AE5", "target": "" },
-    { "gameKey": "quest/014/BanAll011_01466#TEXT_BANALL011_01466_SEQ_01", "hash": "140459A8AF96BA25", "target": "" },
-    { "gameKey": "quest/014/BanAll011_01466#TEXT_BANALL011_01466_SEQ_02", "hash": "300B6D36ADACF375", "target": "" },
-    { "gameKey": "quest/014/BanAll011_01466#TEXT_BANALL011_01466_TODO_00", "hash": "ED7376478C5B9748", "target": "" },
-    { "gameKey": "quest/014/BanAll011_01466#TEXT_BANALL011_01466_TRACHRAET_000_000", "hash": "6EB93F88530D7D7C", "target": "" },
-    { "gameKey": "quest/014/BanAll011_01466#TEXT_BANALL011_01466_TRACHRAET_000_001", "hash": "C1F00A662FA6FE3F", "target": "" },
-    { "gameKey": "quest/014/BanAll011_01466#TEXT_BANALL011_01466_TRACHRAET_000_002", "hash": "1A42D62851092A73", "target": "" },
-    { "gameKey": "quest/014/BanAll011_01466#TEXT_BANALL011_01466_TRACHRAET_000_003", "hash": "B53F1EB9E46DB9B8", "target": "" },
-    { "gameKey": "quest/014/BanAll011_01466#TEXT_BANALL011_01466_TRACHRAET_000_004", "hash": "88C3CD1CF3CDDD98", "target": "" },
-    { "gameKey": "quest/014/BanAll011_01466#TEXT_BANALL011_01466_GAVIN_000_010", "hash": "13D925EE952855DE", "target": "" },
-    { "gameKey": "quest/014/BanAll011_01466#TEXT_BANALL011_01466_GAVIN_000_011", "hash": "9D14EF7D09F3A727", "target": "" }
+    { "gameKey": "quest/014/BanAll011_01466#TEXT_BANALL011_01466_SEQ_00", "hash": "CBA894DC63DF7AE5", "target": "Trachraet vuole lodare il tuo lavoro tra le diverse società di Eorzea e chiederti ancora aiuto." },
+    { "gameKey": "quest/014/BanAll011_01466#TEXT_BANALL011_01466_SEQ_01", "hash": "140459A8AF96BA25", "target": "Il tenente Trachraet ti ringrazia per le imprese che hanno gettato le basi di una futura pace duratura con le tribù bestiali di Eorzea. Apprezza le tue doti diplomatiche e desidera il tuo aiuto per un incarico importante. Chiedi i dettagli al tenente Gavin dell'Ordine delle Due Vipere di Gridania." },
+    { "gameKey": "quest/014/BanAll011_01466#TEXT_BANALL011_01466_SEQ_02", "hash": "300B6D36ADACF375", "target": "Il tenente Gavin è rincuorato dalla tua presenza, avendo sentito delle tue imprese per la pace con le tribù bestiali. Per conoscere l'incarico che le Due Vipere vogliono affidarti, parlagli di nuovo." },
+    { "gameKey": "quest/014/BanAll011_01466#TEXT_BANALL011_01466_TODO_00", "hash": "ED7376478C5B9748", "target": "Parlare con Gavin al Nido delle Vipere a Gridania" },
+    { "gameKey": "quest/014/BanAll011_01466#TEXT_BANALL011_01466_TRACHRAET_000_000", "hash": "6EB93F88530D7D7C", "target": "Ah, <if([gnum52>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<if([gnum53>0],<split(<string(gstr1)>, ,1)>,<split(<string(gstr1)>, ,1)>)>)>. Hai reso un grande servizio al regno. A nome di tutto il Maelstrom, ti ringrazio." },
+    { "gameKey": "quest/014/BanAll011_01466#TEXT_BANALL011_01466_TRACHRAET_000_001", "hash": "C1F00A662FA6FE3F", "target": "Un tempo, a parlare di pace con gli uomini-bestia ti ridevano dietro per tutta Limsa. Ma non più. I tuoi sforzi hanno aperto strade ritenute impossibili." },
+    { "gameKey": "quest/014/BanAll011_01466#TEXT_BANALL011_01466_TRACHRAET_000_002", "hash": "1A42D62851092A73", "target": "...E non potevi arrivare in un momento migliore. Abbiamo ricevuto una richiesta urgente dall'Ordine delle Due Vipere. Pare abbiano bisogno di te a Gridania." },
+    { "gameKey": "quest/014/BanAll011_01466#TEXT_BANALL011_01466_TRACHRAET_000_003", "hash": "B53F1EB9E46DB9B8", "target": "Il tenente Gavin ti darà i dettagli al Nido delle Vipere. Buon viaggio, <if([gnum52>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<if([gnum53>0],<split(<string(gstr1)>, ,1)>,<split(<string(gstr1)>, ,1)>)>)>, e che Llymlaen ti guidi." },
+    { "gameKey": "quest/014/BanAll011_01466#TEXT_BANALL011_01466_TRACHRAET_000_004", "hash": "88C3CD1CF3CDDD98", "target": "Hanno bisogno di te a Gridania, <if([gnum52>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<if([gnum53>0],<split(<string(gstr1)>, ,1)>,<split(<string(gstr1)>, ,1)>)>)>. Buon viaggio e che Llymlaen ti guidi." },
+    { "gameKey": "quest/014/BanAll011_01466#TEXT_BANALL011_01466_GAVIN_000_010", "hash": "13D925EE952855DE", "target": "<if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<split(<string(gstr1)>, ,1)>)>)>! Cosa non darei per ascoltare le vostre avventure con gli Ixal davanti a un boccale d'idromele!" },
+    { "gameKey": "quest/014/BanAll011_01466#TEXT_BANALL011_01466_GAVIN_000_011", "hash": "9D14EF7D09F3A727", "target": "...Eppure temo che oggi ci attendano questioni più urgenti. Quando vorrete conoscere l'incarico, basterà dirlo." }
   ]
 }

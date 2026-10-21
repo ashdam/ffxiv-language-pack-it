@@ -2,15 +2,15 @@
   "conversation": "custom/007/RegUni5AdobeoftheEa_00759",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/007/RegUni5AdobeoftheEa_00759#TEXT_REGUNI5ADOBEOFTHEEA_00759_GEWGEESV_000_000", "hash": "D1B6E7F765E441E4", "target": "" },
-    { "gameKey": "custom/007/RegUni5AdobeoftheEa_00759#TEXT_REGUNI5ADOBEOFTHEEA_00759_Q1_000_000", "hash": "FC33675FD53E4E70", "target": "" },
-    { "gameKey": "custom/007/RegUni5AdobeoftheEa_00759#TEXT_REGUNI5ADOBEOFTHEEA_00759_A1_000_001", "hash": "5C3B23EF2E86A3C8", "target": "" },
-    { "gameKey": "custom/007/RegUni5AdobeoftheEa_00759#TEXT_REGUNI5ADOBEOFTHEEA_00759_A1_000_002", "hash": "8DB7E865BD306BB9", "target": "" },
-    { "gameKey": "custom/007/RegUni5AdobeoftheEa_00759#TEXT_REGUNI5ADOBEOFTHEEA_00759_A1_000_003", "hash": "721B6C6C7526046A", "target": "" },
-    { "gameKey": "custom/007/RegUni5AdobeoftheEa_00759#TEXT_REGUNI5ADOBEOFTHEEA_00759_GEWGEESV_000_010", "hash": "91B30B34D9F60174", "target": "" },
-    { "gameKey": "custom/007/RegUni5AdobeoftheEa_00759#TEXT_REGUNI5ADOBEOFTHEEA_00759_GEWGEESV_000_011", "hash": "3B547E11C69811C5", "target": "" },
-    { "gameKey": "custom/007/RegUni5AdobeoftheEa_00759#TEXT_REGUNI5ADOBEOFTHEEA_00759_GEWGEESV_000_020", "hash": "664037BBFEFFEFC9", "target": "" },
-    { "gameKey": "custom/007/RegUni5AdobeoftheEa_00759#TEXT_REGUNI5ADOBEOFTHEEA_00759_GEWGEESV_000_021", "hash": "EBFBFAAA21EA965D", "target": "" },
-    { "gameKey": "custom/007/RegUni5AdobeoftheEa_00759#TEXT_REGUNI5ADOBEOFTHEEA_00759_GEWGEESV_000_022", "hash": "31F2683D7B6D19A9", "target": "" }
+    { "gameKey": "custom/007/RegUni5AdobeoftheEa_00759#TEXT_REGUNI5ADOBEOFTHEEA_00759_GEWGEESV_000_000", "hash": "D1B6E7F765E441E4", "target": "...Mh? Scusa, ti sei appena <if(gnum4,rivolta,rivolto)> a me? Vedi... non parlo con nessuno da tanto, tanto tempo. Comunque... di cosa hai bisogno? Non che immagini di poter fare molto per te..." },
+    { "gameKey": "custom/007/RegUni5AdobeoftheEa_00759#TEXT_REGUNI5ADOBEOFTHEEA_00759_Q1_000_000", "hash": "FC33675FD53E4E70", "target": "Cosa vuoi chiedere?" },
+    { "gameKey": "custom/007/RegUni5AdobeoftheEa_00759#TEXT_REGUNI5ADOBEOFTHEEA_00759_A1_000_001", "hash": "5C3B23EF2E86A3C8", "target": "Informarsi sul lavoro svolto qui." },
+    { "gameKey": "custom/007/RegUni5AdobeoftheEa_00759#TEXT_REGUNI5ADOBEOFTHEEA_00759_A1_000_002", "hash": "8DB7E865BD306BB9", "target": "Che posto è questo?" },
+    { "gameKey": "custom/007/RegUni5AdobeoftheEa_00759#TEXT_REGUNI5ADOBEOFTHEEA_00759_A1_000_003", "hash": "721B6C6C7526046A", "target": "Niente." },
+    { "gameKey": "custom/007/RegUni5AdobeoftheEa_00759#TEXT_REGUNI5ADOBEOFTHEEA_00759_GEWGEESV_000_010", "hash": "91B30B34D9F60174", "target": "Sono... o meglio, <italic(1)>ero<italic(0)>... Mmh, aspetta... cosa <italic(1)>ero<italic(0)>? Ah, sì. Mi occupavo di ricerca, studiavo i segreti dell'universo. Ma è stato tanto, tanto, tanto tempo fa..." },
+    { "gameKey": "custom/007/RegUni5AdobeoftheEa_00759#TEXT_REGUNI5ADOBEOFTHEEA_00759_GEWGEESV_000_011", "hash": "3B547E11C69811C5", "target": "Ora sono poco più della scintilla distaccata che vedi davanti a te. Nella disperazione di sapere che la fine è inevitabile, mi limito a fissare il vuoto, invano, per sempre..." },
+    { "gameKey": "custom/007/RegUni5AdobeoftheEa_00759#TEXT_REGUNI5ADOBEOFTHEEA_00759_GEWGEESV_000_020", "hash": "664037BBFEFFEFC9", "target": "Questo luogo non ha un vero nome. Se proprio devi chiamarlo in qualche modo, chiamalo dimora degli Ea, perché è qui che viviamo. Se si può chiamare «vita» questo labile aggrapparsi all'esistenza..." },
+    { "gameKey": "custom/007/RegUni5AdobeoftheEa_00759#TEXT_REGUNI5ADOBEOFTHEEA_00759_GEWGEESV_000_021", "hash": "EBFBFAAA21EA965D", "target": "Pochi individui sparsi e illusi della mia specie cercano di recuperare una parvenza della nostra gloria passata... ma chi fra noi è illuminato sa che è tutto inutile. La fine è inevitabile... è solo questione di tempo..." },
+    { "gameKey": "custom/007/RegUni5AdobeoftheEa_00759#TEXT_REGUNI5ADOBEOFTHEEA_00759_GEWGEESV_000_022", "hash": "31F2683D7B6D19A9", "target": "Detto questo, per quanto sia strano dirlo, ultimamente avverto una vaga sensazione di ciò che un tempo avremmo forse chiamato... speranza. Pochissimi di noi cercano di recuperare quanto abbiamo perduto: le forme fisiche, la vita quotidiana. E non posso fare a meno di chiedermi cosa accadrà..." }
   ]
 }

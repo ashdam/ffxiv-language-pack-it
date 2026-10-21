@@ -2,14 +2,14 @@
   "conversation": "custom/005/CtsErkEureka4Armor_00562",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_CRAFSMAN00532_000_000", "hash": "05EFCF98CB659E7B", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_CRAFSMAN00532_000_010", "hash": "F362E1C128C6A4CF", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_Q1_000_000", "hash": "33D5A1D3122ED137", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_A1_000_001", "hash": "0A650A1403CEBD69", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_A1_000_002", "hash": "E854FBE1537C4D75", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_A1_000_003", "hash": "174774E0EDC97F28", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_A1_000_004", "hash": "7EADFF763EF0A163", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_CRAFSMAN00532_000_020", "hash": "04A6A9FF2674D46D", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_CRAFSMAN00532_100_020", "hash": "A85C919AF77DAE3A", "target": "" }
+    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_CRAFSMAN00532_000_000", "hash": "05EFCF98CB659E7B", "target": "Ho portato tutto il necessario al nostro accampamento qui a Hydatos, ma mi servirà tempo per allestire una postazione efficiente. Temo che le commissioni di armature dovranno aspettare ancora un po'." },
+    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_CRAFSMAN00532_000_010", "hash": "F362E1C128C6A4CF", "target": "Desiderate far forgiare un'armatura? Mi dispiace, ma devo insistere: i pezzi realizzati con materiali di Pyros vanno commissionati nell'accampamento di Pyros." },
+    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_Q1_000_000", "hash": "33D5A1D3122ED137", "target": "Cosa vuoi fare?" },
+    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_A1_000_001", "hash": "0A650A1403CEBD69", "target": "Potenziare un'armatura di Eureka." },
+    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_A1_000_002", "hash": "E854FBE1537C4D75", "target": "Potenziare un'armatura di Eureka +1." },
+    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_A1_000_003", "hash": "174774E0EDC97F28", "target": "Fare due chiacchiere." },
+    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_A1_000_004", "hash": "7EADFF763EF0A163", "target": "Niente." },
+    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_CRAFSMAN00532_000_020", "hash": "04A6A9FF2674D46D", "target": "La fama di eccellenza di mastro Gerolt è, semmai, riduttiva. La sua lavorazione è squisita, in qualche modo audace e al tempo stesso di una delicatezza mozzafiato. Ah, che privilegio poter ammirare un simile talento da così vicino..." },
+    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_CRAFSMAN00532_100_020", "hash": "A85C919AF77DAE3A", "target": "I progetti di mastro Drake richiedono materiali particolari, ma, seguendoli alla lettera, dovrebbe essere possibile infondere nella vostra armatura una potenza elementale superiore. Una tecnica di straordinaria genialità!" }
   ]
 }

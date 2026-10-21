@@ -2,17 +2,17 @@
   "conversation": "quest/030/BanKjn605_03001",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_SEQ_00", "hash": "2302F9900EB5765E", "target": "" },
-    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_TODO_00", "hash": "CB5DE2F8082B17DB", "target": "" },
-    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_TODO_01", "hash": "FE7F9F9542596E0E", "target": "" },
-    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_ZUKIN_000_000", "hash": "F2813DA8ED9F4500", "target": "" },
-    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_ZUKIN_000_001", "hash": "1A0F4D2FFB509491", "target": "" },
-    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_BALLOON_000_010", "hash": "1B5C689A8B2679CE", "target": "" },
-    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_BALLOON_000_011", "hash": "FC30DB16A426F6F3", "target": "" },
-    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_BALLOON_000_012", "hash": "257A0C6D1D34442F", "target": "" },
-    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_HOTTURTLE03001_000_015", "hash": "5436F2D48F3269E9", "target": "" },
-    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_HOTTURTLE03001_000_016", "hash": "295E18751B626D71", "target": "" },
-    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_ZUKIN_000_020", "hash": "B88BB4B136D66836", "target": "" },
-    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_ZUKIN_000_021", "hash": "1246F88BF5C145BC", "target": "" }
+    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_SEQ_00", "hash": "2302F9900EB5765E", "target": "Zukin è il ritratto del panico.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
+    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_TODO_00", "hash": "CB5DE2F8082B17DB", "target": "Salvare il hot-headed Kojin sull'Isle of Zekki" },
+    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_TODO_01", "hash": "FE7F9F9542596E0E", "target": "Riferire a Zukin" },
+    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_ZUKIN_000_000", "hash": "F2813DA8ED9F4500", "target": "<split(<string(gstr1)>, ,1)>, abbiamo un problema! Una banda di Rossi ha rubato la merce destinata a Kokajiya... e non è neanche la parte peggiore." },
+    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_ZUKIN_000_001", "hash": "1A0F4D2FFB509491", "target": "Per recuperare gli oggetti rubati, uno dei nostri fratelli più impulsivi è partito per l'Isle of Zekki, ma tarda a tornare. Temo per la sua vita. Ti prego, trovalo e riportalo sano e salvo!" },
+    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_BALLOON_000_010", "hash": "1B5C689A8B2679CE", "target": "Un altro intruso!" },
+    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_BALLOON_000_011", "hash": "FC30DB16A426F6F3", "target": "Pagherai per la tua intrusione!" },
+    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_BALLOON_000_012", "hash": "257A0C6D1D34442F", "target": "Che i kami ti portino via!" },
+    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_HOTTURTLE03001_000_015", "hash": "5436F2D48F3269E9", "target": "S-Sei del Cerchio Divino? Grazie!" },
+    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_HOTTURTLE03001_000_016", "hash": "295E18751B626D71", "target": "Senza il tuo tempestivo intervento avremmo perso la merce, per non parlare della mia vita. Ma andiamo, lasciamo questo posto prima che arrivino altri Rossi." },
+    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_ZUKIN_000_020", "hash": "B88BB4B136D66836", "target": "<split(<string(gstr1)>, ,1)>, sono felice che tu sia san<if(gnum4,a,o)> e salv<if(gnum4,a,o)>. Anche il nostro fratello impulsivo è tornato poco fa, senza conseguenze per la sua incursione sconsiderata e con la merce intatta." },
+    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_ZUKIN_000_021", "hash": "1246F88BF5C145BC", "target": "Anche se basterebbe che nessuno si fosse fatto male, sono grato di poter rispettare i nostri impegni commerciali. Hai i miei più umili ringraziamenti." }
   ]
 }

@@ -2,16 +2,16 @@
   "conversation": "custom/001/RegFstCampTranquil_00127",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/RegFstCampTranquil_00127#TEXT_REGFSTCAMPTRANQUIL_00127_FARRIMOND_000_000", "hash": "0A982A110CE02AA3", "target": "" },
-    { "gameKey": "custom/001/RegFstCampTranquil_00127#TEXT_REGFSTCAMPTRANQUIL_00127_FARRIMOND_000_010", "hash": "380C776C38060177", "target": "" },
-    { "gameKey": "custom/001/RegFstCampTranquil_00127#TEXT_REGFSTCAMPTRANQUIL_00127_FARRIMOND_000_011", "hash": "24DA19DDD65E8FAC", "target": "" },
-    { "gameKey": "custom/001/RegFstCampTranquil_00127#TEXT_REGFSTCAMPTRANQUIL_00127_FARRIMOND_000_012", "hash": "224BC6AAE5935F9E", "target": "" },
-    { "gameKey": "custom/001/RegFstCampTranquil_00127#TEXT_REGFSTCAMPTRANQUIL_00127_FARRIMOND_000_020", "hash": "532C435EC6AF047A", "target": "" },
-    { "gameKey": "custom/001/RegFstCampTranquil_00127#TEXT_REGFSTCAMPTRANQUIL_00127_FARRIMOND_000_021", "hash": "44692B441137434E", "target": "" },
-    { "gameKey": "custom/001/RegFstCampTranquil_00127#TEXT_REGFSTCAMPTRANQUIL_00127_FARRIMOND_000_022", "hash": "68DEE1664C685A8B", "target": "" },
-    { "gameKey": "custom/001/RegFstCampTranquil_00127#TEXT_REGFSTCAMPTRANQUIL_00127_Q1_000_000", "hash": "93BB3D8A11F734ED", "target": "" },
-    { "gameKey": "custom/001/RegFstCampTranquil_00127#TEXT_REGFSTCAMPTRANQUIL_00127_A1_000_001", "hash": "4223B52291CD60B6", "target": "" },
-    { "gameKey": "custom/001/RegFstCampTranquil_00127#TEXT_REGFSTCAMPTRANQUIL_00127_A1_000_002", "hash": "200DBAA2A022F1F8", "target": "" },
-    { "gameKey": "custom/001/RegFstCampTranquil_00127#TEXT_REGFSTCAMPTRANQUIL_00127_A1_000_003", "hash": "4D0B9126C991B614", "target": "" }
+    { "gameKey": "custom/001/RegFstCampTranquil_00127#TEXT_REGFSTCAMPTRANQUIL_00127_FARRIMOND_000_000", "hash": "0A982A110CE02AA3", "target": "Sei a Campo Tranquil. Vuoi sapere qualcosa?" },
+    { "gameKey": "custom/001/RegFstCampTranquil_00127#TEXT_REGFSTCAMPTRANQUIL_00127_FARRIMOND_000_010", "hash": "380C776C38060177", "target": "Come Sentinella Cupa, ho il compito di garantire la sicurezza dell'accampamento e della zona circostante." },
+    { "gameKey": "custom/001/RegFstCampTranquil_00127#TEXT_REGFSTCAMPTRANQUIL_00127_FARRIMOND_000_011", "hash": "24DA19DDD65E8FAC", "target": "Dalla Calamità ci è stata affidata anche la manutenzione dei ponti sospesi che attraversano il Lago delle Radici." },
+    { "gameKey": "custom/001/RegFstCampTranquil_00127#TEXT_REGFSTCAMPTRANQUIL_00127_FARRIMOND_000_012", "hash": "224BC6AAE5935F9E", "target": "Può sembrare un lavoro ingrato, ma preferisco sostituire qualche asse piuttosto che tirar fuori ogni singolo carro sovraccarico rimasto impantanato nelle pozze fangose qui sotto." },
+    { "gameKey": "custom/001/RegFstCampTranquil_00127#TEXT_REGFSTCAMPTRANQUIL_00127_FARRIMOND_000_020", "hash": "532C435EC6AF047A", "target": "Questo accampamento è una tappa importante lungo l'arteria commerciale tra Gridania e Ul'dah. Segui il ponte a sud e ti ritroverai nelle terre brulle di Thanalan." },
+    { "gameKey": "custom/001/RegFstCampTranquil_00127#TEXT_REGFSTCAMPTRANQUIL_00127_FARRIMOND_000_021", "hash": "44692B441137434E", "target": "Qui sotto, il Lago delle Radici un tempo era un lago vero e proprio, ma la Calamità ne ha prosciugato quasi tutta l'acqua. È rimasta una palude afosa, brulicante di animali mai visti prima nella Bosco dei Dodici." },
+    { "gameKey": "custom/001/RegFstCampTranquil_00127#TEXT_REGFSTCAMPTRANQUIL_00127_FARRIMOND_000_022", "hash": "68DEE1664C685A8B", "target": "Ah, fa' attenzione quando attraversi i ponti sospesi. Sempre più viaggiatori vengono colti da un'inspiegabile voglia di saltare e fanno brutte cadute. E spesso si pentono di essere piombati proprio su ciò che trovano all'atterraggio..." },
+    { "gameKey": "custom/001/RegFstCampTranquil_00127#TEXT_REGFSTCAMPTRANQUIL_00127_Q1_000_000", "hash": "93BB3D8A11F734ED", "target": "Cosa vuoi chiedere?" },
+    { "gameKey": "custom/001/RegFstCampTranquil_00127#TEXT_REGFSTCAMPTRANQUIL_00127_A1_000_001", "hash": "4223B52291CD60B6", "target": "Di cosa vi occupate qui?" },
+    { "gameKey": "custom/001/RegFstCampTranquil_00127#TEXT_REGFSTCAMPTRANQUIL_00127_A1_000_002", "hash": "200DBAA2A022F1F8", "target": "Che posto è questo?" },
+    { "gameKey": "custom/001/RegFstCampTranquil_00127#TEXT_REGFSTCAMPTRANQUIL_00127_A1_000_003", "hash": "4D0B9126C991B614", "target": "Niente." }
   ]
 }

@@ -2,18 +2,18 @@
   "conversation": "custom/008/RegSak6ShesheneweziSprings_00883",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/RegSak6ShesheneweziSprings_00883#TEXT_REGSAK6SHESHENEWEZISPRINGS_00883_LOASAKWE_000_000", "hash": "24637D83488621F9", "target": "" },
-    { "gameKey": "custom/008/RegSak6ShesheneweziSprings_00883#TEXT_REGSAK6SHESHENEWEZISPRINGS_00883_LOASAKWE_000_001", "hash": "D53EB74FB92A3CB1", "target": "" },
-    { "gameKey": "custom/008/RegSak6ShesheneweziSprings_00883#TEXT_REGSAK6SHESHENEWEZISPRINGS_00883_LOASAKWE_000_002", "hash": "B3CE4147BE8314C5", "target": "" },
-    { "gameKey": "custom/008/RegSak6ShesheneweziSprings_00883#TEXT_REGSAK6SHESHENEWEZISPRINGS_00883_LOASAKWE_000_003", "hash": "F1FFDE2FA94C57CF", "target": "" },
-    { "gameKey": "custom/008/RegSak6ShesheneweziSprings_00883#TEXT_REGSAK6SHESHENEWEZISPRINGS_00883_LOASAKWE_Q1_000_000", "hash": "F2D30FD0559007D3", "target": "" },
-    { "gameKey": "custom/008/RegSak6ShesheneweziSprings_00883#TEXT_REGSAK6SHESHENEWEZISPRINGS_00883_LOASAKWE_A1_000_001", "hash": "00AFD4896F21C7D6", "target": "" },
-    { "gameKey": "custom/008/RegSak6ShesheneweziSprings_00883#TEXT_REGSAK6SHESHENEWEZISPRINGS_00883_LOASAKWE_A1_000_002", "hash": "CBD7486DFA8E0C5B", "target": "" },
-    { "gameKey": "custom/008/RegSak6ShesheneweziSprings_00883#TEXT_REGSAK6SHESHENEWEZISPRINGS_00883_LOASAKWE_A1_000_003", "hash": "20815B2FDF2DA4A7", "target": "" },
-    { "gameKey": "custom/008/RegSak6ShesheneweziSprings_00883#TEXT_REGSAK6SHESHENEWEZISPRINGS_00883_LOASAKWE_000_004", "hash": "4DCA04FC0E0A9505", "target": "" },
-    { "gameKey": "custom/008/RegSak6ShesheneweziSprings_00883#TEXT_REGSAK6SHESHENEWEZISPRINGS_00883_LOASAKWE_000_005", "hash": "C1A8C3B5920B5F52", "target": "" },
-    { "gameKey": "custom/008/RegSak6ShesheneweziSprings_00883#TEXT_REGSAK6SHESHENEWEZISPRINGS_00883_LOASAKWE_000_006", "hash": "EB638876D3DA91AB", "target": "" },
-    { "gameKey": "custom/008/RegSak6ShesheneweziSprings_00883#TEXT_REGSAK6SHESHENEWEZISPRINGS_00883_LOASAKWE_000_007", "hash": "722AB940F0AF33C9", "target": "" },
-    { "gameKey": "custom/008/RegSak6ShesheneweziSprings_00883#TEXT_REGSAK6SHESHENEWEZISPRINGS_00883_LOASAKWE_000_008", "hash": "548B3302806080BD", "target": "" }
+    { "gameKey": "custom/008/RegSak6ShesheneweziSprings_00883#TEXT_REGSAK6SHESHENEWEZISPRINGS_00883_LOASAKWE_000_000", "hash": "24637D83488621F9", "target": "Uff, lasciatemi sdraiare e morire... <if(gnum4,Viaggiatrice,Viaggiatore)>, fermati a parlare un po', vuoi? Dimmi qualcosa che mi tolga dalla testa tutte quelle maledette urla." },
+    { "gameKey": "custom/008/RegSak6ShesheneweziSprings_00883#TEXT_REGSAK6SHESHENEWEZISPRINGS_00883_LOASAKWE_000_001", "hash": "D53EB74FB92A3CB1", "target": "Sai qualcosa di quel livido sospeso all'orizzonte? La gente dice guerra, fine del mondo o entrambe. Tu che dici?" },
+    { "gameKey": "custom/008/RegSak6ShesheneweziSprings_00883#TEXT_REGSAK6SHESHENEWEZISPRINGS_00883_LOASAKWE_000_002", "hash": "B3CE4147BE8314C5", "target": "Addio a quella cupola tre volte maledetta. Non ci mancherai. Già è brutto quando la gente perde arti: è peggio quando perde la testa per la paura. Ma insomma, <italic(1)>tu<italic(0)> che hai per la testa?" },
+    { "gameKey": "custom/008/RegSak6ShesheneweziSprings_00883#TEXT_REGSAK6SHESHENEWEZISPRINGS_00883_LOASAKWE_000_003", "hash": "F1FFDE2FA94C57CF", "target": "Che cosa ti affligge? Ti prego, dimmi che non è grave. Mi servirebbe una pausa da sangue e bende..." },
+    { "gameKey": "custom/008/RegSak6ShesheneweziSprings_00883#TEXT_REGSAK6SHESHENEWEZISPRINGS_00883_LOASAKWE_Q1_000_000", "hash": "F2D30FD0559007D3", "target": "Cosa vuoi chiedere?" },
+    { "gameKey": "custom/008/RegSak6ShesheneweziSprings_00883#TEXT_REGSAK6SHESHENEWEZISPRINGS_00883_LOASAKWE_A1_000_001", "hash": "00AFD4896F21C7D6", "target": "Di cosa ti occupi qui?" },
+    { "gameKey": "custom/008/RegSak6ShesheneweziSprings_00883#TEXT_REGSAK6SHESHENEWEZISPRINGS_00883_LOASAKWE_A1_000_002", "hash": "CBD7486DFA8E0C5B", "target": "Che posto è questo?" },
+    { "gameKey": "custom/008/RegSak6ShesheneweziSprings_00883#TEXT_REGSAK6SHESHENEWEZISPRINGS_00883_LOASAKWE_A1_000_003", "hash": "20815B2FDF2DA4A7", "target": "Niente." },
+    { "gameKey": "custom/008/RegSak6ShesheneweziSprings_00883#TEXT_REGSAK6SHESHENEWEZISPRINGS_00883_LOASAKWE_000_004", "hash": "4DCA04FC0E0A9505", "target": "Io? Sono la fortunata che qui si fa chiamare cerusica. Un gran posto per esercitarsi, fra macchinari pesanti e pesanti bevute." },
+    { "gameKey": "custom/008/RegSak6ShesheneweziSprings_00883#TEXT_REGSAK6SHESHENEWEZISPRINGS_00883_LOASAKWE_000_005", "hash": "C1A8C3B5920B5F52", "target": "Oh, e come dimenticare il ceruleum? Se la gente non si dà fuoco, scambia le fiasche e se lo beve. O tutte e due le cose, quando vuole strafare. Già, qui alle sorgenti non ci si annoia mai!" },
+    { "gameKey": "custom/008/RegSak6ShesheneweziSprings_00883#TEXT_REGSAK6SHESHENEWEZISPRINGS_00883_LOASAKWE_000_006", "hash": "EB638876D3DA91AB", "target": "Avrai visto i pozzi di ceruleum salendo. Qualche anno fa hanno scoperto che sotto la roccia ce n'è un mare. Sono arrivate le compagnie d'estrazione e hanno cominciato a fare ciò che sanno fare meglio." },
+    { "gameKey": "custom/008/RegSak6ShesheneweziSprings_00883#TEXT_REGSAK6SHESHENEWEZISPRINGS_00883_LOASAKWE_000_007", "hash": "722AB940F0AF33C9", "target": "Presto hanno trovato il filone principale e sono diventate ricche. I lavoratori hanno cominciato ad affluire da tutto Tural per approfittarne." },
+    { "gameKey": "custom/008/RegSak6ShesheneweziSprings_00883#TEXT_REGSAK6SHESHENEWEZISPRINGS_00883_LOASAKWE_000_008", "hash": "548B3302806080BD", "target": "Li chiamiamo manovali, e sono proprio rozzi. Non passa giorno senza che qualcuno rompa il naso a qualcun altro per un motivo o un altro. Di solito soldi. Be', almeno non ci si annoia." }
   ]
 }

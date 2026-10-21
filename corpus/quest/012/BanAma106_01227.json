@@ -2,18 +2,18 @@
   "conversation": "quest/012/BanAma106_01227",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/012/BanAma106_01227#TEXT_BANAMA106_01227_SEQ_00", "hash": "85ED01BEF76E4503", "target": "" },
-    { "gameKey": "quest/012/BanAma106_01227#TEXT_BANAMA106_01227_SEQ_01", "hash": "6E5C1C775B0B5A61", "target": "" },
-    { "gameKey": "quest/012/BanAma106_01227#TEXT_BANAMA106_01227_SEQ_02", "hash": "0945962E1955876C", "target": "" },
-    { "gameKey": "quest/012/BanAma106_01227#TEXT_BANAMA106_01227_SEQ_03", "hash": "040284786E6EE2D6", "target": "" },
-    { "gameKey": "quest/012/BanAma106_01227#TEXT_BANAMA106_01227_TODO_00", "hash": "215C29267938FEC4", "target": "" },
-    { "gameKey": "quest/012/BanAma106_01227#TEXT_BANAMA106_01227_TODO_01", "hash": "AC1541F210FB2FFC", "target": "" },
-    { "gameKey": "quest/012/BanAma106_01227#TEXT_BANAMA106_01227_FIBUBBGAH_000_001", "hash": "082D4E2D47D4A824", "target": "" },
-    { "gameKey": "quest/012/BanAma106_01227#TEXT_BANAMA106_01227_FIBUBBGAH_000_002", "hash": "3CD440D8A076DF3D", "target": "" },
-    { "gameKey": "quest/012/BanAma106_01227#TEXT_BANAMA106_01227_FIBUBBGAH_000_003", "hash": "6061195FF54CD2C0", "target": "" },
-    { "gameKey": "quest/012/BanAma106_01227#TEXT_BANAMA106_01227_FIBUBBGAH_000_004", "hash": "8C4A467B59551E22", "target": "" },
-    { "gameKey": "quest/012/BanAma106_01227#TEXT_BANAMA106_01227_FIBUBBGAH_000_011", "hash": "16096B6CE93E4CB0", "target": "" },
-    { "gameKey": "quest/012/BanAma106_01227#TEXT_BANAMA106_01227_FIBUBBGAH_000_031", "hash": "39F3A9305C17B5EB", "target": "" },
-    { "gameKey": "quest/012/BanAma106_01227#TEXT_BANAMA106_01227_FIBUBBGAH_000_032", "hash": "7F8E8A16B4A2A602", "target": "" }
+    { "gameKey": "quest/012/BanAma106_01227#TEXT_BANAMA106_01227_SEQ_00", "hash": "85ED01BEF76E4503", "target": "Fibubb Gah vuole il tuo aiuto per estirpare un flagello dalla terra." },
+    { "gameKey": "quest/012/BanAma106_01227#TEXT_BANAMA106_01227_SEQ_01", "hash": "6E5C1C775B0B5A61", "target": "Fibubb Gah ti ha incaricato di spegnere le fiamme innaturali degli Amalj'aa beacon. Usa la cenere soffocante preparata ritualmente per privare i nemici della Confraternita delle loro benedizioni potenziate." },
+    { "gameKey": "quest/012/BanAma106_01227#TEXT_BANAMA106_01227_SEQ_02", "hash": "0945962E1955876C", "target": "Hai usato la cenere soffocante per spegnere i fuochi corrotti degli Amalj'aa beacon. Torna al Ring of Ash e fai rapporto a Fibubb Gah." },
+    { "gameKey": "quest/012/BanAma106_01227#TEXT_BANAMA106_01227_SEQ_03", "hash": "040284786E6EE2D6", "target": "Fibubb Gah elogia i tuoi sforzi, affermando che la terra stessa respira meglio senza i malefici Amalj'aa beacon. Ti chiede di prepararti ad aiutarlo qualora i suoi vili simili riaccendessero le loro fiamme empie." },
+    { "gameKey": "quest/012/BanAma106_01227#TEXT_BANAMA106_01227_TODO_00", "hash": "215C29267938FEC4", "target": "Usare la cenere soffocante per spegnere gli Amalj'aa beacon" },
+    { "gameKey": "quest/012/BanAma106_01227#TEXT_BANAMA106_01227_TODO_01", "hash": "AC1541F210FB2FFC", "target": "Fare rapporto a Fibubb Gah" },
+    { "gameKey": "quest/012/BanAma106_01227#TEXT_BANAMA106_01227_FIBUBBGAH_000_001", "hash": "082D4E2D47D4A824", "target": "Dimmi, <if(gnum4,onorata alleata,onorato alleato)>, hai visto i sinistri bracieri che i fanatici di Zahar'ak accendono per queste terre? Quelle fiamme innaturali sono talismani di empia stregoneria che amplificano le benedizioni del Signore dell'Inferno." },
+    { "gameKey": "quest/012/BanAma106_01227#TEXT_BANAMA106_01227_FIBUBBGAH_000_002", "hash": "3CD440D8A076DF3D", "target": "Non possiamo lasciare che quei simboli di servitù e di strisciante debolezza contaminino ancora il sacro dominio di Zanr'ak!" },
+    { "gameKey": "quest/012/BanAma106_01227#TEXT_BANAMA106_01227_FIBUBBGAH_000_003", "hash": "6061195FF54CD2C0", "target": "Se vuoi davvero affiancarci contro i nostri simili senza onore, aiutaci a spegnere i bracieri. Porta questa cenere: è stata preparata ritualmente per soffocare del tutto i fuochi nocivi del nemico." },
+    { "gameKey": "quest/012/BanAma106_01227#TEXT_BANAMA106_01227_FIBUBBGAH_000_004", "hash": "8C4A467B59551E22", "target": "Bada, però, che i bracieri non saranno incustoditi. I nostri deboli fratelli non cederanno volentieri nemmeno un frammento della loro immeritata potenza." },
+    { "gameKey": "quest/012/BanAma106_01227#TEXT_BANAMA106_01227_FIBUBBGAH_000_011", "hash": "16096B6CE93E4CB0", "target": "Prendi la cenere soffocante e spegni questi bracieri di indegna servitù!" },
+    { "gameKey": "quest/012/BanAma106_01227#TEXT_BANAMA106_01227_FIBUBBGAH_000_031", "hash": "39F3A9305C17B5EB", "target": "La terra stessa respira meglio senza quelle fiamme empie. Continui a dimostrarti <if(gnum4,una degna alleata,un degno alleato)> della Confraternita." },
+    { "gameKey": "quest/012/BanAma106_01227#TEXT_BANAMA106_01227_FIBUBBGAH_000_032", "hash": "7F8E8A16B4A2A602", "target": "I nostri spregevoli simili non tollereranno a lungo di perdere le benedizioni amplificate. Troppo presto si accenderanno nuovi bracieri e saremo di nuovo lieti del tuo aiuto." }
   ]
 }

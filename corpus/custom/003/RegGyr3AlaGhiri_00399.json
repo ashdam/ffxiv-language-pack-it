@@ -2,15 +2,15 @@
   "conversation": "custom/003/RegGyr3AlaGhiri_00399",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/003/RegGyr3AlaGhiri_00399#TEXT_REGGYR3ALAGHIRI_00399_DIGGIN_000_000", "hash": "84174AFA9CE4F799", "target": "" },
-    { "gameKey": "custom/003/RegGyr3AlaGhiri_00399#TEXT_REGGYR3ALAGHIRI_00399_Q1_000_000", "hash": "CF20E20E8ECD2C6F", "target": "" },
-    { "gameKey": "custom/003/RegGyr3AlaGhiri_00399#TEXT_REGGYR3ALAGHIRI_00399_A1_000_001", "hash": "E49C12D888D5F5A8", "target": "" },
-    { "gameKey": "custom/003/RegGyr3AlaGhiri_00399#TEXT_REGGYR3ALAGHIRI_00399_A1_000_002", "hash": "2DE90665C126801D", "target": "" },
-    { "gameKey": "custom/003/RegGyr3AlaGhiri_00399#TEXT_REGGYR3ALAGHIRI_00399_A1_000_003", "hash": "E5B26596D0C2C16D", "target": "" },
-    { "gameKey": "custom/003/RegGyr3AlaGhiri_00399#TEXT_REGGYR3ALAGHIRI_00399_DIGGIN_000_010", "hash": "2575372C73B8AFC6", "target": "" },
-    { "gameKey": "custom/003/RegGyr3AlaGhiri_00399#TEXT_REGGYR3ALAGHIRI_00399_DIGGIN_000_011", "hash": "BE902B814B47BFA6", "target": "" },
-    { "gameKey": "custom/003/RegGyr3AlaGhiri_00399#TEXT_REGGYR3ALAGHIRI_00399_DIGGIN_000_020", "hash": "F0741ACB365CF26A", "target": "" },
-    { "gameKey": "custom/003/RegGyr3AlaGhiri_00399#TEXT_REGGYR3ALAGHIRI_00399_DIGGIN_000_021", "hash": "C3E892231D26A4A8", "target": "" },
-    { "gameKey": "custom/003/RegGyr3AlaGhiri_00399#TEXT_REGGYR3ALAGHIRI_00399_DIGGIN_000_022", "hash": "32E5665C8E928386", "target": "" }
+    { "gameKey": "custom/003/RegGyr3AlaGhiri_00399#TEXT_REGGYR3ALAGHIRI_00399_DIGGIN_000_000", "hash": "84174AFA9CE4F799", "target": "Se hai qualcosa da chiedermi, fa' in fretta. Sono di pattuglia." },
+    { "gameKey": "custom/003/RegGyr3AlaGhiri_00399#TEXT_REGGYR3ALAGHIRI_00399_Q1_000_000", "hash": "CF20E20E8ECD2C6F", "target": "Cosa vuoi chiedere?" },
+    { "gameKey": "custom/003/RegGyr3AlaGhiri_00399#TEXT_REGGYR3ALAGHIRI_00399_A1_000_001", "hash": "E49C12D888D5F5A8", "target": "Di cosa vi occupate qui?" },
+    { "gameKey": "custom/003/RegGyr3AlaGhiri_00399#TEXT_REGGYR3ALAGHIRI_00399_A1_000_002", "hash": "2DE90665C126801D", "target": "Che posto è questo?" },
+    { "gameKey": "custom/003/RegGyr3AlaGhiri_00399#TEXT_REGGYR3ALAGHIRI_00399_A1_000_003", "hash": "E5B26596D0C2C16D", "target": "Niente." },
+    { "gameKey": "custom/003/RegGyr3AlaGhiri_00399#TEXT_REGGYR3ALAGHIRI_00399_DIGGIN_000_010", "hash": "2575372C73B8AFC6", "target": "Mi chiamo Diggin. Faccio parte della Resistenza di Ala Mhigo e ho il compito di proteggere questo villaggio." },
+    { "gameKey": "custom/003/RegGyr3AlaGhiri_00399#TEXT_REGGYR3ALAGHIRI_00399_DIGGIN_000_011", "hash": "BE902B814B47BFA6", "target": "Detto questo, non intendo limitarmi a proteggerlo. Ala Ghiri ha sofferto per vent'anni sotto l'Impero: vorrei fare la mia parte per aiutarla a rinascere." },
+    { "gameKey": "custom/003/RegGyr3AlaGhiri_00399#TEXT_REGGYR3ALAGHIRI_00399_DIGGIN_000_020", "hash": "F0741ACB365CF26A", "target": "Questa è Ala Ghiri. Prima che l'Impero la occupasse, era una tappa molto frequentata sulla rotta commerciale verso l'Estremo Oriente." },
+    { "gameKey": "custom/003/RegGyr3AlaGhiri_00399#TEXT_REGGYR3ALAGHIRI_00399_DIGGIN_000_021", "hash": "C3E892231D26A4A8", "target": "La rotta commerciale ha fatto la stessa fine della libertà di Ala Ghiri. Negli ultimi decenni, il villaggio è sopravvissuto soltanto commerciando con le truppe imperiali." },
+    { "gameKey": "custom/003/RegGyr3AlaGhiri_00399#TEXT_REGGYR3ALAGHIRI_00399_DIGGIN_000_022", "hash": "32E5665C8E928386", "target": "Finché l'Impero esisterà, nessuno potrà commerciare via terra con l'Estremo Oriente. Eppure, per Ala Ghiri c'è ancora speranza, se aumenterà gli scambi con Ul'dah e Gridania." }
   ]
 }

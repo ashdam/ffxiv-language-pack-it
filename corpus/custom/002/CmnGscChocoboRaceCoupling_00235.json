@@ -2,17 +2,17 @@
   "conversation": "custom/002/CmnGscChocoboRaceCoupling_00235",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_TALK_ACTOR", "hash": "912D8BA6D63BAE57", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_001_01", "hash": "FDA0BBA278FF824C", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_001_02", "hash": "1DB02A44BB11A292", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_ERROR_001_01", "hash": "5F1DD9DAA5301147", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_ERROR_001_02", "hash": "115DD9AC57DFA6E7", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_ERROR_002_01", "hash": "AF1CCEB1F206DD40", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_ERROR_002_02", "hash": "5B46AFFD0940FE06", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_ERROR_003_01", "hash": "A2F8978053BFB8C6", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_ERROR_003_02", "hash": "38C2A194249985DB", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_ERROR_004_01", "hash": "3A06AC42E1F5CB09", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_ERROR_004_02", "hash": "12F23800B85C705D", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_ERROR_004_03", "hash": "01A2E219D5D50C85", "target": "" }
+    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_TALK_ACTOR", "hash": "912D8BA6D63BAE57", "target": "Bene. Presumo che tu abbia portato la documentazione necessaria, allora?" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_001_01", "hash": "FDA0BBA278FF824C", "target": "Al resto pensiamo noi, non preoccuparti. Non perdere la proof of covering: ti servirà quando tornerai a ritirare il pulcino." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_001_02", "hash": "1DB02A44BB11A292", "target": "Per sapere da quando potrai ritirare il pulcino, consulta la descrizione della proof of covering." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_ERROR_001_01", "hash": "5F1DD9DAA5301147", "target": "Un momento, non abbiamo appena organizzato un accoppiamento per te? Temo che ci siano alcune restrizioni..." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_ERROR_001_02", "hash": "115DD9AC57DFA6E7", "target": "Non puoi organizzare un altro accoppiamento prima di aver ritirato il pulcino appena nato." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_ERROR_002_01", "hash": "AF1CCEB1F206DD40", "target": "Mmh? Non hai <italic(1)>nemmeno un<italic(0)> retired chocobo registration form? Ti rendi conto che è indispensabile, vero?" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_ERROR_002_02", "hash": "5B46AFFD0940FE06", "target": "Non puoi organizzare un accoppiamento senza avere un retired chocobo registration form." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_ERROR_003_01", "hash": "A2F8978053BFB8C6", "target": "Forse è solo una mia impressione, ma mi sembra che tu stia portando un bel po' di roba..." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_ERROR_003_02", "hash": "38C2A194249985DB", "target": "Non puoi organizzare un accoppiamento senza spazio nell'inventario per conservare la proof of covering." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_ERROR_004_01", "hash": "3A06AC42E1F5CB09", "target": "Vedo che hai un retired chocobo registration form. Bene. Purtroppo, non sembra che tu ne abbia uno per un chocobo compatibile. Male." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_ERROR_004_02", "hash": "12F23800B85C705D", "target": "Non puoi organizzare un accoppiamento senza i moduli di due chocobo compatibili." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_ERROR_004_03", "hash": "01A2E219D5D50C85", "target": "Ogni accoppiamento richiede un maschio e una femmina. Nota però che non possono essere entrambi chocobo da riproduzione." }
   ]
 }

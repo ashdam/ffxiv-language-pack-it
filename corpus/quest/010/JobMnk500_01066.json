@@ -89,7 +89,7 @@
     { "gameKey": "quest/010/JobMnk500_01066#TEXT_JOBMNK500_01066_WIDARGELT_000_091", "hash": "0E844B5FC20C390E", "target": "Vorrei potergli parlare. Vorrei dirgli che non è così." },
     { "gameKey": "quest/010/JobMnk500_01066#TEXT_JOBMNK500_01066_WIDARGELT_000_092", "hash": "051BF68F11D30951", "target": "Addio, <if(gnum4,sorella,fratello)>. Che Rhalgr vegli su di voi." },
     { "gameKey": "quest/010/JobMnk500_01066#TEXT_JOBMNK500_01066_SYSTEM_100_000", "hash": "0800C577D856C819", "target": "Questo conclude le missioni per Monk di FINAL FANTASY XIV: A Realm Reborn. Per affrontare la prossima serie di missioni, devi prima soddisfare i seguenti requisiti:" },
-    { "gameKey": "quest/010/JobMnk500_01066#TEXT_JOBMNK500_01066_SYSTEM_100_001", "hash": "885D9005A3BE36F5", "target": "※Devi aver completato la missione dello scenario principale «Before the Dawn»." },
+    { "gameKey": "quest/010/JobMnk500_01066#TEXT_JOBMNK500_01066_SYSTEM_100_001", "hash": "885D9005A3BE36F5", "target": "※Devi aver completato la missione della storia principale «Before the Dawn»." },
     { "gameKey": "quest/010/JobMnk500_01066#TEXT_JOBMNK500_01066_SYSTEM_100_002", "hash": "5A54F062C0D6E839", "target": "Una volta fatto, la prossima missione per Monk sarà disponibile presso Erik." },
     { "gameKey": "quest/010/JobMnk500_01066#TEXT_JOBMNK500_01066_TALK_SCENE00001_000", "hash": "D87735D7BAF021BD", "target": "" },
     { "gameKey": "quest/010/JobMnk500_01066#TEXT_JOBMNK500_01066_QIB_001_TODO_1", "hash": "44693B83099124EE", "target": "Sconfiggere Widargelt" },

@@ -2,17 +2,17 @@
   "conversation": "custom/001/RegLakRevenantsToll_00112",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_000", "hash": "0E7875A17374908F", "target": "" },
-    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_010", "hash": "876CFDF87D1D96FF", "target": "" },
-    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_011", "hash": "E08096003B350006", "target": "" },
-    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_012", "hash": "95DA1044901D7D8C", "target": "" },
-    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_020", "hash": "1F1BA794729ADCA0", "target": "" },
-    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_021", "hash": "42A33F797447CB59", "target": "" },
-    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_022", "hash": "ABAEF5D173E7DE26", "target": "" },
-    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_023", "hash": "35A5CFF3EE2F2593", "target": "" },
-    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_Q1_000_000", "hash": "0909BE2E372FEC4B", "target": "" },
-    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_A1_000_001", "hash": "589A8A33EAAB2E69", "target": "" },
-    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_A1_000_002", "hash": "3145E3A0C03BEB4B", "target": "" },
-    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_A1_000_003", "hash": "D03CAE8492756CD9", "target": "" }
+    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_000", "hash": "0E7875A17374908F", "target": "Salve! Ti do il benvenuto al Pedaggio del Redivivo. Vuoi sapere qualcosa?" },
+    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_010", "hash": "876CFDF87D1D96FF", "target": "Anch'io sono un'avventuriera. Sono qui per incarico della gilda, per offrire sostegno a chi intende sfidare le terre selvagge di Mor Dhona." },
+    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_011", "hash": "E08096003B350006", "target": "Posso chiederti dove hai mosso i primi passi? A <switch(gnum70,Limsa Lominsa,Gridania,Ul'dah)>, dici? Be', puoi congratularti con te <if(gnum4,stessa,stesso)> per essere <if(gnum4,arrivata,arrivato)> fin qui. Ci vuole esperienza per fare il viaggio senza danni." },
+    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_012", "hash": "95DA1044901D7D8C", "target": "Per quanto tu abbia esperienza, però, ti consiglio prudenza da queste parti. Un solo passo falso potrebbe costarti la vita. Se dovessimo ritrovare il tuo cadavere, <switch(gnum70,Baderon,Miounne,Momodi)> non smetterebbe più di rinfacciarmelo." },
+    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_020", "hash": "1F1BA794729ADCA0", "target": "Questa struttura è stata fondata sotto l'egida della Gilda degli Avventurieri. Un tempo si trovava poco più a ovest, ma la Calamità ha devastato il campo originario." },
+    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_021", "hash": "42A33F797447CB59", "target": "Quando in tutta Eorzea è iniziata la ricostruzione degli accampamenti delle eteriti, si è deciso di trasferire il Pedaggio del Redivivo nel luogo in cui ci troviamo ora." },
+    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_022", "hash": "ABAEF5D173E7DE26", "target": "Ah, forse ti chiedi da dove venga il nome del campo. Be', qualche anno prima della fine della Sesta Era Astrale, un'aeronave imperiale precipitò qui." },
+    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_023", "hash": "35A5CFF3EE2F2593", "target": "L'impatto fu tale da annientare un intero insediamento in un batter d'occhio. Quando costruirono il campo, gli diedero questo nome in memoria di quelle povere anime morte nella tragedia." },
+    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_Q1_000_000", "hash": "0909BE2E372FEC4B", "target": "Cosa vuoi chiedere?" },
+    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_A1_000_001", "hash": "589A8A33EAAB2E69", "target": "Di cosa vi occupate qui?" },
+    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_A1_000_002", "hash": "3145E3A0C03BEB4B", "target": "Che posto è questo?" },
+    { "gameKey": "custom/001/RegLakRevenantsToll_00112#TEXT_REGLAKREVENANTSTOLL_00112_A1_000_003", "hash": "D03CAE8492756CD9", "target": "Niente." }
   ]
 }

@@ -2,10 +2,10 @@
   "conversation": "custom/009/FesEst2025Guide_00914",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/009/FesEst2025Guide_00914#TEXT_FESEST2025GUIDE_00914_EGGHUNTINGSTAFFA_000_000", "hash": "645DB6CC0FA5E610", "target": "" },
-    { "gameKey": "custom/009/FesEst2025Guide_00914#TEXT_FESEST2025GUIDE_00914_EGGHUNTINGSTAFFA_000_001", "hash": "CEC93DB5EC585457", "target": "" },
-    { "gameKey": "custom/009/FesEst2025Guide_00914#TEXT_FESEST2025GUIDE_00914_EGGHUNTINGSTAFFA_000_002", "hash": "304062FDF0C1995E", "target": "" },
-    { "gameKey": "custom/009/FesEst2025Guide_00914#TEXT_FESEST2025GUIDE_00914_EGGHUNTINGSTAFFA_000_003", "hash": "BDBF869AC3462487", "target": "" },
-    { "gameKey": "custom/009/FesEst2025Guide_00914#TEXT_FESEST2025GUIDE_00914_EGGHUNTINGSTAFFA_000_010", "hash": "EBF43A5623192A7A", "target": "" }
+    { "gameKey": "custom/009/FesEst2025Guide_00914#TEXT_FESEST2025GUIDE_00914_EGGHUNTINGSTAFFA_000_000", "hash": "645DB6CC0FA5E610", "target": "<if([gnum11<12],<if([gnum11<4],Buonasera,Buongiorno)>,<if([gnum11<17],Buongiorno,Buonasera)>)>, <if(gnum4,amica,amico)>. Vi interessa saperne di più sui festeggiamenti della Festa delle Uo<-->va?" },
+    { "gameKey": "custom/009/FesEst2025Guide_00914#TEXT_FESEST2025GUIDE_00914_EGGHUNTINGSTAFFA_000_001", "hash": "CEC93DB5EC585457", "target": "Una festa recente, la Festa delle Uo<-->va nacque da un sogno profetico avuto da una giovane di Gridania di nome Jihli Aliapoh. Nel sogno le apparvero i Dodici Arconti dell'antichità, gli eroi che salvarono il regno dalla distruzione della Sesta Calamità Umbrale." },
+    { "gameKey": "custom/009/FesEst2025Guide_00914#TEXT_FESEST2025GUIDE_00914_EGGHUNTINGSTAFFA_000_002", "hash": "304062FDF0C1995E", "target": "Discesi dal cielo a bordo di uova splendidamente decorate, dissero a Jihli: «Alzati, giovane Sognatrice, e prepara i veicoli per il nostro ritorno». E lei così fece, dipingendo e dorando minuziosamente le uova perché somigliassero a quelle della visione." },
+    { "gameKey": "custom/009/FesEst2025Guide_00914#TEXT_FESEST2025GUIDE_00914_EGGHUNTINGSTAFFA_000_003", "hash": "BDBF869AC3462487", "target": "La voce della profezia si diffuse e Jihli attirò aiutanti che la assistettero nell'impresa. Dopo la Calamità, la festa crebbe ancora: cittadini e avventurieri accorrevano a celebrare gli Arconti di un tempo, che molti ritengono abbiano contribuito a salvare nuovamente il regno." },
+    { "gameKey": "custom/009/FesEst2025Guide_00914#TEXT_FESEST2025GUIDE_00914_EGGHUNTINGSTAFFA_000_010", "hash": "EBF43A5623192A7A", "target": "Ora che conoscete la Festa delle Uo<-->va, forse vorrete parteciparvi. Se è così, vi invitiamo a visitare Gridania: vi aspettiamo con piacere!" }
   ]
 }

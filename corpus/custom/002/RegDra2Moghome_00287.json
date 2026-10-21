@@ -2,17 +2,17 @@
   "conversation": "custom/002/RegDra2Moghome_00287",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_MOGGIE_000", "hash": "AEAFFC1A3A82569D", "target": "" },
-    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_MOGGIE_001", "hash": "118C3108D1561756", "target": "" },
-    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_MOGGIE_002", "hash": "5B0C92AB7DFA5B8E", "target": "" },
-    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_SCENE00000Q", "hash": "9D0E01CCD73C6914", "target": "" },
-    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_SCENE00000A1", "hash": "B99A533E27CD4218", "target": "" },
-    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_SCENE00000A2", "hash": "F93FB96CA6213296", "target": "" },
-    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_SCENE00000A3", "hash": "32AC773B8DE67296", "target": "" },
-    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_MOGGIE_010", "hash": "758154D079A3772A", "target": "" },
-    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_MOGGIE_011", "hash": "5A2D58B083D7157B", "target": "" },
-    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_MOGGIE_012", "hash": "0C431A47ED7F8E02", "target": "" },
-    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_MOGGIE_020", "hash": "707B3AD36F50A553", "target": "" },
-    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_MOGGIE_021", "hash": "1B80A9DFB8A28292", "target": "" }
+    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_MOGGIE_000", "hash": "AEAFFC1A3A82569D", "target": "Ma guarda, <if(gnum4,una visitatrice,un visitatore)> dalle terre di sotto! Cerchi qualcosa? Basta chiedere! Mi vanto di essere il secondo moguri più informato di qui, kupò!" },
+    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_MOGGIE_001", "hash": "118C3108D1561756", "target": "Spero che Sid si rimetta presto, kupò... Il lato positivo è che non mi sembra tetro e cupo come ricordavo! Tranne quando parla di prendere a pugni i moguri, s'intende." },
+    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_MOGGIE_002", "hash": "5B0C92AB7DFA5B8E", "target": "Ah, niente Sid o Rielle oggi? Solo tu, kupò? Che peccato. Comunque, sono sempre il secondo moguri più informato di qui, quindi se hai domande, chiedi pure!" },
+    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_SCENE00000Q", "hash": "9D0E01CCD73C6914", "target": "Cosa vuoi chiedere?" },
+    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_SCENE00000A1", "hash": "B99A533E27CD4218", "target": "Informarsi sul lavoro svolto qui." },
+    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_SCENE00000A2", "hash": "F93FB96CA6213296", "target": "Che posto è questo?" },
+    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_SCENE00000A3", "hash": "32AC773B8DE67296", "target": "Niente." },
+    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_MOGGIE_010", "hash": "758154D079A3772A", "target": "Be', sorveglio l'ingresso di Moghome! Se vedo uno dei tanti mostri malvagi avvicinarsi troppo, o anche solo qualcosa di insolito, ho il dovere di riferirlo subito al capo Moglin o alla Guardia dei Pompon, kupò!" },
+    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_MOGGIE_011", "hash": "5A2D58B083D7157B", "target": "Naturalmente, quando qualcosa non va, un rapporto tempestivo e dettagliato è essenziale, quindi per essere un'ottima guardia servono attenzione <italic(1)>e<italic(0)> conoscenza. Ecco perché, dopo il capo Moglin, sono il secondo moguri più informato di tutta Moghome!" },
+    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_MOGGIE_012", "hash": "0C431A47ED7F8E02", "target": "Se qualcosa ti preoccupa o hai domande, probabilmente saprò aiutarti. Non ci nasconderemo e non scapperemo più, kupò!" },
+    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_MOGGIE_020", "hash": "707B3AD36F50A553", "target": "Come suggerisce il nome, Moghome è la casa di noi moguri! Si trova sulla cima dell'imponente montagna Sohm Al. Quanto è alta Sohm Al, chiedi? Be', se proprio vuoi saperlo, puoi scendere a vedere di persona!" },
+    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_MOGGIE_021", "hash": "1B80A9DFB8A28292", "target": "A volte un lontano ululato di drago ci sveglia di notte, o un mostro maleducato ci insegue, ma a parte questo direi che quassù, sopra le nuvole, ce la passiamo piuttosto bene, kupò!" }
   ]
 }

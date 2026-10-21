@@ -18,7 +18,7 @@
     { "gameKey": "quest/039/LucKyb815_03965#TEXT_LUCKYB815_03965_Q2_000_000", "hash": "A2DEB4FE37C64F5F", "target": "Che cosa dirai?" },
     { "gameKey": "quest/039/LucKyb815_03965#TEXT_LUCKYB815_03965_A2_000_001", "hash": "DE1413280041403D", "target": "Aaah, parla! Non so come, ma è senz'altro la cosa più strana che mi sia mai capitata." },
     { "gameKey": "quest/039/LucKyb815_03965#TEXT_LUCKYB815_03965_A2_000_002", "hash": "E8797E6CABCC4586", "target": "Aymeric! Che cosa ti hanno fatto?" },
-    { "gameKey": "quest/039/LucKyb815_03965#TEXT_LUCKYB815_03965_A2_000_003", "hash": "BDDD0F1A4743F13B", "target": "Sei un auspice, allora." },
+    { "gameKey": "quest/039/LucKyb815_03965#TEXT_LUCKYB815_03965_A2_000_003", "hash": "BDDD0F1A4743F13B", "target": "Sei un auspicio, allora." },
     { "gameKey": "quest/039/LucKyb815_03965#TEXT_LUCKYB815_03965_FAUXCOMMANDER_000_012", "hash": "2DDE29D7B9093537", "target": "Sì, sì, «Aiuto, una volpe parlante!» di qua, «Per i sette inferi, non è naturale!» di là. Siete tutti così melodrammatici. Se incontraste i miei simili al Tempio di Reisen, morireste pur di non rinunciare alla scena madre." },
     { "gameKey": "quest/039/LucKyb815_03965#TEXT_LUCKYB815_03965_FAUXCOMMANDER_000_013", "hash": "AFFAF8BD40D7A684", "target": "Esilarante. Una battuta del tutto originale, che certo non ho già sentito otto volte <if([gnum11<12],<if([gnum11<4],stasera,stamattina)>,<if([gnum11<17],questo pomeriggio,stasera)>)>." },
     { "gameKey": "quest/039/LucKyb815_03965#TEXT_LUCKYB815_03965_FAUXCOMMANDER_000_014", "hash": "1D3B7963CBAC2CA1", "target": "Lo sono. E devo dire che una risposta così è un gradito sollievo dopo tutti gli strilli e i vezzeggiamenti subiti." },

@@ -2,13 +2,13 @@
   "conversation": "custom/007/CmnDefReturnBelt_00721",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/007/CmnDefReturnBelt_00721#TEXT_CMNDEFRETURNBELT_00721_TALK_ACTOR_01", "hash": "779D41B39CEBB871", "target": "" },
-    { "gameKey": "custom/007/CmnDefReturnBelt_00721#TEXT_CMNDEFRETURNBELT_00721_TALK_Q1", "hash": "0E781814EC3DD7D7", "target": "" },
-    { "gameKey": "custom/007/CmnDefReturnBelt_00721#TEXT_CMNDEFRETURNBELT_00721_TALK_A1", "hash": "E845A6F025D04858", "target": "" },
-    { "gameKey": "custom/007/CmnDefReturnBelt_00721#TEXT_CMNDEFRETURNBELT_00721_TALK_A2", "hash": "F062D8889995F223", "target": "" },
-    { "gameKey": "custom/007/CmnDefReturnBelt_00721#TEXT_CMNDEFRETURNBELT_00721_TALK_A3", "hash": "0CC1D0DBE1F90208", "target": "" },
-    { "gameKey": "custom/007/CmnDefReturnBelt_00721#TEXT_CMNDEFRETURNBELT_00721_TALK_ACTOR_05", "hash": "CAAD7644F62826C9", "target": "" },
-    { "gameKey": "custom/007/CmnDefReturnBelt_00721#TEXT_CMNDEFRETURNBELT_00721_TALK_ACTOR_06", "hash": "03822D7F75FE9B4E", "target": "" },
-    { "gameKey": "custom/007/CmnDefReturnBelt_00721#TEXT_CMNDEFRETURNBELT_00721_SYSTEM_07", "hash": "364FBAEC22C88F7B", "target": "" }
+    { "gameKey": "custom/007/CmnDefReturnBelt_00721#TEXT_CMNDEFRETURNBELT_00721_TALK_ACTOR_01", "hash": "779D41B39CEBB871", "target": "La Gilda degli Avventurieri è entrata in possesso di oggetti che ritiene siano stati smarriti dagli avventurieri durante i loro viaggi. Non sappiamo come né perché, ma se la vostra sacca vi sembra più leggera del solito, forse alcuni vostri beni sono finiti nel nostro deposito." },
+    { "gameKey": "custom/007/CmnDefReturnBelt_00721#TEXT_CMNDEFRETURNBELT_00721_TALK_Q1", "hash": "0E781814EC3DD7D7", "target": "Cosa vuoi fare?" },
+    { "gameKey": "custom/007/CmnDefReturnBelt_00721#TEXT_CMNDEFRETURNBELT_00721_TALK_A1", "hash": "E845A6F025D04858", "target": "Recuperare cinture smarrite." },
+    { "gameKey": "custom/007/CmnDefReturnBelt_00721#TEXT_CMNDEFRETURNBELT_00721_TALK_A2", "hash": "F062D8889995F223", "target": "Chiedere informazioni sul recupero delle cinture smarrite." },
+    { "gameKey": "custom/007/CmnDefReturnBelt_00721#TEXT_CMNDEFRETURNBELT_00721_TALK_A3", "hash": "0CC1D0DBE1F90208", "target": "Niente." },
+    { "gameKey": "custom/007/CmnDefReturnBelt_00721#TEXT_CMNDEFRETURNBELT_00721_TALK_ACTOR_05", "hash": "CAAD7644F62826C9", "target": "Per una ragione o per l’altra, sembra che gli avventurieri non siano più interessati a indossare cinture. Quelle smarrite o scartate per errore sono finite da me." },
+    { "gameKey": "custom/007/CmnDefReturnBelt_00721#TEXT_CMNDEFRETURNBELT_00721_TALK_ACTOR_06", "hash": "03822D7F75FE9B4E", "target": "Se qualcosa di vostro si trova nel nostro deposito, sarò più che felice di restituirvelo, naturalmente senza alcun costo. Tenete però presente che non è garantito che le vostre cinture finiscano in mia custodia una seconda volta." },
+    { "gameKey": "custom/007/CmnDefReturnBelt_00721#TEXT_CMNDEFRETURNBELT_00721_SYSTEM_07", "hash": "364FBAEC22C88F7B", "target": "Ricorda che le cinture appartenute a te e ai tuoi servitori possono essere recuperate soltanto sul tuo Mondo d’origine." }
   ]
 }

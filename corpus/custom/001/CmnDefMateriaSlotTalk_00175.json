@@ -2,9 +2,9 @@
   "conversation": "custom/001/CmnDefMateriaSlotTalk_00175",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/CmnDefMateriaSlotTalk_00175#TEXT_CMNDEFMATERIASLOTTALK_00175_MUTAMIX_000_000", "hash": "5B9495A716476AF2", "target": "" },
-    { "gameKey": "custom/001/CmnDefMateriaSlotTalk_00175#TEXT_CMNDEFMATERIASLOTTALK_00175_MUTAMIX_000_001", "hash": "ED40F552F5022BB9", "target": "" },
-    { "gameKey": "custom/001/CmnDefMateriaSlotTalk_00175#TEXT_CMNDEFMATERIASLOTTALK_00175_SYSTEM_000_005", "hash": "AEDE30CD7270400F", "target": "" },
-    { "gameKey": "custom/001/CmnDefMateriaSlotTalk_00175#TEXT_CMNDEFMATERIASLOTTALK_00175_SYSTEM_000_006", "hash": "B7A7D77BE678A37B", "target": "" }
+    { "gameKey": "custom/001/CmnDefMateriaSlotTalk_00175#TEXT_CMNDEFMATERIASLOTTALK_00175_MUTAMIX_000_000", "hash": "5B9495A716476AF2", "target": "Procedimento di cambiafare è di grande aiutoutilità. Prima prendere cinque materie nonservono, sì? Fonderimescola questa, mescolafondi quella, strizza e schiaccia, poi occhioni! Cinque nonservono rinascono in una lucentenuova!" },
+    { "gameKey": "custom/001/CmnDefMateriaSlotTalk_00175#TEXT_CMNDEFMATERIASLOTTALK_00175_MUTAMIX_000_001", "hash": "ED40F552F5022BB9", "target": "Che tipo di materia rinasce? Questi saperi non tintinnano in scatolacervello di Mutamix. Forse nuova materia vale molto tintinnaluccichio; forse è ancora più rottameciarpame delle cinque precedenti. Cambiafare è emozionante giocoazzardo, sì?" },
+    { "gameKey": "custom/001/CmnDefMateriaSlotTalk_00175#TEXT_CMNDEFMATERIASLOTTALK_00175_SYSTEM_000_005", "hash": "AEDE30CD7270400F", "target": "Mutamix può effettuare gratuitamente la trasmutazione delle materie in qualsiasi momento. Porta al goblin cinque materie che non ti servono e lui le trasformerà in un'unica nuova materia, da usare come preferisci." },
+    { "gameKey": "custom/001/CmnDefMateriaSlotTalk_00175#TEXT_CMNDEFMATERIASLOTTALK_00175_SYSTEM_000_006", "hash": "B7A7D77BE678A37B", "target": "La trasmutazione delle materie resta comunque una scienza inesatta. Quanto al tipo di materia che nascerà ogni volta dai prodigi di Mutamix, nemmeno il geniale goblin sa dirlo." }
   ]
 }

@@ -2,19 +2,19 @@
   "conversation": "quest/012/BanAma310_01251",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_SEQ_00", "hash": "494B7674BD10F2BD", "target": "" },
-    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_SEQ_01", "hash": "7102A3318D6754E1", "target": "" },
-    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_SEQ_02", "hash": "33D41D17BE8B237B", "target": "" },
-    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_SEQ_03", "hash": "815B4C2717848D5C", "target": "" },
-    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_TODO_00", "hash": "D63A5B0FC77696FB", "target": "" },
-    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_TODO_01", "hash": "D22521607E4D45D4", "target": "" },
-    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_000", "hash": "F374BE406FD6DB6D", "target": "" },
-    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_002", "hash": "67E252133CC728CD", "target": "" },
-    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_003", "hash": "77382FE460DE5599", "target": "" },
-    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_004", "hash": "DC4AA0E6B90BBA0D", "target": "" },
-    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_005", "hash": "E9DBD16B8F700D2B", "target": "" },
-    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_010", "hash": "203B3CB13CD3828E", "target": "" },
-    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_020", "hash": "DDF817626CE60DD3", "target": "" },
-    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_021", "hash": "C07E72C6D2E0AA6A", "target": "" }
+    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_SEQ_00", "hash": "494B7674BD10F2BD", "target": "Yadovv Gah pretende che i fuochi dei bracieri di Ifrit vengano spenti." },
+    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_SEQ_01", "hash": "7102A3318D6754E1", "target": "I bracieri delle Zanne di Fuoco sono simboli di potere e prestigio, soprattutto quelli che portano il nome del Signore dell'Inferno. Yadovv Gah vuole che tu distrugga queste abominazioni, danneggiando così irreparabilmente la reputazione degli zeloti." },
+    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_SEQ_02", "hash": "33D41D17BE8B237B", "target": "Le Zanne di Fuoco rimpiangeranno amaramente questa giornata. Torna al Ring of Ash e fai rapporto a Yadovv Gah." },
+    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_SEQ_03", "hash": "815B4C2717848D5C", "target": "Gli ululati delle Zanne di Fuoco, udibili a grandi distanze, hanno annunciato il tuo successo a Yadovv Gah. Dichiara che, grazie ai tuoi sforzi instancabili, i nemici giurati della Confraternita giaceranno presto sconfitti ai loro piedi." },
+    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_TODO_00", "hash": "D63A5B0FC77696FB", "target": "Distruggere gli Ifrit's beacon" },
+    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_TODO_01", "hash": "D22521607E4D45D4", "target": "Fare rapporto a Yadovv Gah" },
+    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_000", "hash": "F374BE406FD6DB6D", "target": "I bracieri delle Zanne di Fuoco sono una piaga su Zahar'ak, soprattutto quelli che portano il nome del Signore dell'Inferno." },
+    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_002", "hash": "67E252133CC728CD", "target": "Ognuno è simbolo di potere e prestigio. Distruggendoli, priveremo gli zeloti di entrambi." },
+    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_003", "hash": "77382FE460DE5599", "target": "Sappi che la tua missione non sarà facile: i bracieri ardono nel cuore di Zahar'ak, difesi dai seguaci più devoti di Ifrit." },
+    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_004", "hash": "DC4AA0E6B90BBA0D", "target": "Inoltre, quelle abominazioni si difendono con una magia vigile, scagliando fiamme contro qualunque minaccia percepita." },
+    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_005", "hash": "E9DBD16B8F700D2B", "target": "Pochi sono in grado di svolgere un compito tanto pericoloso, ma sono certo che porterai grande gloria alla Confraternita." },
+    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_010", "hash": "203B3CB13CD3828E", "target": "Quando gli ululati degli zeloti echeggeranno per Zahar'ak, saprò che i bracieri non esistono più." },
+    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_020", "hash": "DDF817626CE60DD3", "target": "Il vento ha portato notizia del tuo successo, <if(gnum4,stimata alleata,stimato alleato)>. Come tremava la terra, come piangevano le Zanne di Fuoco!" },
+    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_021", "hash": "C07E72C6D2E0AA6A", "target": "Ogni vittoria ci avvicina al giorno della resa dei conti, quando i nostri nemici giurati giaceranno sconfitti ai nostri piedi!" }
   ]
 }

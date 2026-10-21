@@ -2,10 +2,10 @@
   "conversation": "custom/003/RegSeaPvpSeasonReward_00341",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/003/RegSeaPvpSeasonReward_00341#TEXT_REGSEAPVPSEASONREWARD_00341_SEASONREWARD_000_005", "hash": "E8AEB6562BCD5C6F", "target": "" },
-    { "gameKey": "custom/003/RegSeaPvpSeasonReward_00341#TEXT_REGSEAPVPSEASONREWARD_00341_SEASONREWARD_000_006", "hash": "7FEB4C30817C918D", "target": "" },
-    { "gameKey": "custom/003/RegSeaPvpSeasonReward_00341#TEXT_REGSEAPVPSEASONREWARD_00341_SEASONREWARD_000_007", "hash": "7918F1C10771626C", "target": "" },
-    { "gameKey": "custom/003/RegSeaPvpSeasonReward_00341#TEXT_REGSEAPVPSEASONREWARD_00341_SEASONREWARD_000_008", "hash": "1AE62FAEB073EAA0", "target": "" },
-    { "gameKey": "custom/003/RegSeaPvpSeasonReward_00341#TEXT_REGSEAPVPSEASONREWARD_00341_SYSTEM_000_009", "hash": "5A57919032F60F55", "target": "" }
+    { "gameKey": "custom/003/RegSeaPvpSeasonReward_00341#TEXT_REGSEAPVPSEASONREWARD_00341_SEASONREWARD_000_005", "hash": "E8AEB6562BCD5C6F", "target": "Le ricompense del «Feast» verranno assegnate in base alla categoria di ciascun partecipante alla fine di ogni stagione." },
+    { "gameKey": "custom/003/RegSeaPvpSeasonReward_00341#TEXT_REGSEAPVPSEASONREWARD_00341_SEASONREWARD_000_006", "hash": "7FEB4C30817C918D", "target": "Anche i partecipanti meglio classificati riceveranno bonus esclusivi, quindi affila le lame, spolvera i bastoni e preparati alla battaglia." },
+    { "gameKey": "custom/003/RegSeaPvpSeasonReward_00341#TEXT_REGSEAPVPSEASONREWARD_00341_SEASONREWARD_000_007", "hash": "7918F1C10771626C", "target": "Sfrutta al massimo l'attuale periodo prestagionale per affinare le tue abilità e punta a conquistare i premi migliori quando inizierà la prima stagione ufficiale!" },
+    { "gameKey": "custom/003/RegSeaPvpSeasonReward_00341#TEXT_REGSEAPVPSEASONREWARD_00341_SEASONREWARD_000_008", "hash": "1AE62FAEB073EAA0", "target": "La prima stagione è in corso!<br>Le ricompense saranno disponibili al termine della stagione." },
+    { "gameKey": "custom/003/RegSeaPvpSeasonReward_00341#TEXT_REGSEAPVPSEASONREWARD_00341_SYSTEM_000_009", "hash": "5A57919032F60F55", "target": "Puoi consultare le classifiche della prima stagione sul Lodestone." }
   ]
 }

@@ -18,7 +18,7 @@
     { "gameKey": "quest/004/GaiUse615_00427#TEXT_GAIUSE615_00427_LADYINWAITING00427_000_010", "hash": "7A587BDA2C798B20", "target": "Grazie di essere <if(gnum4,venuta,venuto)>, <if(gnum4,signora,signore)>. Sua Grazia desidera ardentemente parlarvi." },
     { "gameKey": "quest/004/GaiUse615_00427#TEXT_GAIUSE615_00427_LADYINWAITING00427_000_011", "hash": "BE6FAC1FD084377D", "target": "Se vi serve un momento per prepararvi all'udienza, prendetevelo pure. Quando sarete <if(gnum4,pronta,pronto)>, avrò l'onore di accompagnarvi subito nelle stanze di Sua Grazia." },
     { "gameKey": "quest/004/GaiUse615_00427#TEXT_GAIUSE615_00427_SYSTEM_100_011", "hash": "C1BD14F0F49C959C", "target": "Entrando nella camera da letto della Sultana, verranno riprodotti diversi filmati in successione." },
-    { "gameKey": "quest/004/GaiUse615_00427#TEXT_GAIUSE615_00427_SYSTEM_100_012", "hash": "D11D4BC741FC5BEF", "target": "Si consiglia di riservare tempo sufficiente per guardare interamente questi filmati." },
+    { "gameKey": "quest/004/GaiUse615_00427#TEXT_GAIUSE615_00427_SYSTEM_100_012", "hash": "D11D4BC741FC5BEF", "target": "Si consiglia di riservare tempo sufficiente per guardare queste scene nella loro interezza." },
     { "gameKey": "quest/004/GaiUse615_00427#TEXT_GAIUSE615_00427_Q1_000_012", "hash": "C4864C9D07CE5D6F", "target": "Entrare nella camera da letto della Sultana?" },
     { "gameKey": "quest/004/GaiUse615_00427#TEXT_GAIUSE615_00427_A1_000_013", "hash": "1C84BDF5B66461D8", "target": "Sì" },
     { "gameKey": "quest/004/GaiUse615_00427#TEXT_GAIUSE615_00427_A1_000_014", "hash": "1A6230B09BEC9C24", "target": "No" },

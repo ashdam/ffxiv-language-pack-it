@@ -2,6 +2,6 @@
   "conversation": "custom/003/CmnDefSkyIslandLotteryExchangeShop_00382",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/003/CmnDefSkyIslandLotteryExchangeShop_00382#TEXT_CMNDEFSKYISLANDLOTTERYEXCHANGESHOP_00382_TALK_ACTOR", "hash": "89B0A200BC7ED0E7", "target": "" }
+    { "gameKey": "custom/003/CmnDefSkyIslandLotteryExchangeShop_00382#TEXT_CMNDEFSKYISLANDLOTTERYEXCHANGESHOP_00382_TALK_ACTOR", "hash": "89B0A200BC7ED0E7", "target": "Salve, <if(gnum4,signora,signore)>! Mi occupo di serrature e ho deciso di aprire bottega qui quando ho saputo che la gente riportava dal Diadem delle cassette chiuse a chiave. Sarà un piacere mettere le mie capacità al vostro servizio... se doveste averne bisogno." }
   ]
 }

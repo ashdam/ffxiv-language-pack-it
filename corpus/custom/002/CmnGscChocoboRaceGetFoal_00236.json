@@ -2,11 +2,11 @@
   "conversation": "custom/002/CmnGscChocoboRaceGetFoal_00236",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/CmnGscChocoboRaceGetFoal_00236#TEXT_CMNGSCCHOCOBORACEGETFOAL_00236_TALK_ACTOR", "hash": "71002DFD7D904529", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceGetFoal_00236#TEXT_CMNGSCCHOCOBORACEGETFOAL_00236_001_01", "hash": "AF25EB93A4BA9C83", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceGetFoal_00236#TEXT_CMNGSCCHOCOBORACEGETFOAL_00236_ERROR_001_01", "hash": "FAD301429D9C7148", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceGetFoal_00236#TEXT_CMNGSCCHOCOBORACEGETFOAL_00236_ERROR_001_02", "hash": "68EF8C89B94928B4", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceGetFoal_00236#TEXT_CMNGSCCHOCOBORACEGETFOAL_00236_ERROR_002_01", "hash": "2ADB1215095D20C2", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceGetFoal_00236#TEXT_CMNGSCCHOCOBORACEGETFOAL_00236_ERROR_002_02", "hash": "E180FC9F67621A3D", "target": "" }
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetFoal_00236#TEXT_CMNGSCCHOCOBORACEGETFOAL_00236_TALK_ACTOR", "hash": "71002DFD7D904529", "target": "Sei qui per ritirare un pulcino, vero? Dovrò vedere la proof of covering..." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetFoal_00236#TEXT_CMNGSCCHOCOBORACEGETFOAL_00236_001_01", "hash": "AF25EB93A4BA9C83", "target": "Bene, bene! A quanto pare qualcuno è pronto a correre! Ecco il modulo di registrazione del tuo pulcino. Il resto lo lascio a te." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetFoal_00236#TEXT_CMNGSCCHOCOBORACEGETFOAL_00236_ERROR_001_01", "hash": "FAD301429D9C7148", "target": "Come? Non hai la proof of covering? \\<sospiro> Che cosa ho appena detto?" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetFoal_00236#TEXT_CMNGSCCHOCOBORACEGETFOAL_00236_ERROR_001_02", "hash": "68EF8C89B94928B4", "target": "Per ritirare il tuo pulcino appena nato, devi presentare la proof of covering a Katering." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetFoal_00236#TEXT_CMNGSCCHOCOBORACEGETFOAL_00236_ERROR_002_01", "hash": "2ADB1215095D20C2", "target": "Qualcuno ha molta fretta. Troppa, direi. Queste cose richiedono tempo, nel caso non lo ricordassi." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetFoal_00236#TEXT_CMNGSCCHOCOBORACEGETFOAL_00236_ERROR_002_02", "hash": "E180FC9F67621A3D", "target": "Non puoi ritirare il tuo pulcino prima della data indicata sulla tua proof of covering." }
   ]
 }

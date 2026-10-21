@@ -70,7 +70,7 @@
     { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_LYNGSATH_000_094", "hash": "2E4096D2DDCCFE5F", "target": "No, no, non è un risultato da poco, <if(gnum4,ragazza,ragazzo)>! E da qui raggiungerai vette ancora più alte nel nostro mestiere. Ma ovunque tu arrivi, ricorda sempre le mie parole: è la passione a fare un cuoco." },
     { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_LYNGSATH_000_095", "hash": "55CB3AE0F82706BB", "target": "Con quella passione nel cuore, vai e regala sorrisi alla gente con la tua cucina! Di certo continuerò a impegnarmi per fare lo stesso!" },
     { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_SYSTEM_000_500", "hash": "435F9ECEFD447143", "target": "Qui si concludono le missioni da Culinarian di FINAL FANTASY XIV: A Realm Reborn. Per intraprendere la prossima serie di missioni, devi prima soddisfare i seguenti requisiti:" },
-    { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_SYSTEM_000_501", "hash": "9DAC7CD30C6E83D2", "target": "※Devi aver completato la missione dello scenario principale «Before the Dawn»." },
+    { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_SYSTEM_000_501", "hash": "9DAC7CD30C6E83D2", "target": "※Devi aver completato la missione della storia principale «Before the Dawn»." },
     { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_SYSTEM_000_502", "hash": "3EC720A46A1591C0", "target": "Una volta fatto, la prossima missione da Culinarian sarà disponibile presso Lyngsath." }
   ]
 }

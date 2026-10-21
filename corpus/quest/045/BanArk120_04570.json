@@ -2,15 +2,15 @@
   "conversation": "quest/045/BanArk120_04570",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/045/BanArk120_04570#TEXT_BANARK120_04570_SEQ_00", "hash": "DB685D2692685A06", "target": "" },
-    { "gameKey": "quest/045/BanArk120_04570#TEXT_BANARK120_04570_TODO_00", "hash": "E9BBDCEAC7EC92EA", "target": "" },
-    { "gameKey": "quest/045/BanArk120_04570#TEXT_BANARK120_04570_TODO_01", "hash": "EABD0D52A6AA7B1B", "target": "" },
-    { "gameKey": "quest/045/BanArk120_04570#TEXT_BANARK120_04570_MARU_000_000", "hash": "089FE3E5E72CFB2A", "target": "" },
-    { "gameKey": "quest/045/BanArk120_04570#TEXT_BANARK120_04570_MARU_000_001", "hash": "1E24EE98DCD201C9", "target": "" },
-    { "gameKey": "quest/045/BanArk120_04570#TEXT_BANARK120_04570_MARU_000_002", "hash": "6DC5C35C3703C015", "target": "" },
-    { "gameKey": "quest/045/BanArk120_04570#TEXT_BANARK120_04570_MARU_000_010", "hash": "4C95F1EC1BFF7556", "target": "" },
-    { "gameKey": "quest/045/BanArk120_04570#TEXT_BANARK120_04570_MARU_000_011", "hash": "0A1D0E7B5BBE46F5", "target": "" },
-    { "gameKey": "quest/045/BanArk120_04570#TEXT_BANARK120_04570_MARU_000_012", "hash": "292B81B064AD2278", "target": "" },
-    { "gameKey": "quest/045/BanArk120_04570#TEXT_BANARK120_04570_MARU_000_013", "hash": "7DF63513A1F20A07", "target": "" }
+    { "gameKey": "quest/045/BanArk120_04570#TEXT_BANARK120_04570_SEQ_00", "hash": "DB685D2692685A06", "target": "Maru vuole costruire una casa duratura per gli ippopotami.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
+    { "gameKey": "quest/045/BanArk120_04570#TEXT_BANARK120_04570_TODO_00", "hash": "E9BBDCEAC7EC92EA", "target": "Usare il coltello di giantsgall nei luoghi indicati per ottenere linfa dai grandi alberi" },
+    { "gameKey": "quest/045/BanArk120_04570#TEXT_BANARK120_04570_TODO_01", "hash": "EABD0D52A6AA7B1B", "target": "Consegnare i vasetti di linfa di grande albero a Maru" },
+    { "gameKey": "quest/045/BanArk120_04570#TEXT_BANARK120_04570_MARU_000_000", "hash": "089FE3E5E72CFB2A", "target": "Ora che abbiamo stalle e acqua per gli ippopotami, c'è tutto perché possano prosperare. Naturalmente, tocca a noi mantenere ogni cosa, così che vivano a lungo e felici." },
+    { "gameKey": "quest/045/BanArk120_04570#TEXT_BANARK120_04570_MARU_000_001", "hash": "1E24EE98DCD201C9", "target": "Ed è qui che entrate in gioco tu e questo coltello, <split(<string(gstr1)>, ,1)>: devi andare nel boschetto di grandi alberi a ovest di Purusa e raschiare un po' di linfa dalla corteccia. Incidendone tre o giù di lì dovresti raccoglierne abbastanza per le riparazioni per un bel po'." },
+    { "gameKey": "quest/045/BanArk120_04570#TEXT_BANARK120_04570_MARU_000_002", "hash": "6DC5C35C3703C015", "target": "Ho segnato il punto sulla mappa, caso mai ti sfuggissero i rami torreggianti. E ricorda: quella linfa serve per lavorare, non per mangiare." },
+    { "gameKey": "quest/045/BanArk120_04570#TEXT_BANARK120_04570_MARU_000_010", "hash": "4C95F1EC1BFF7556", "target": "Allora, com'è andata? Gli alberi sono stati generosi con il succo?" },
+    { "gameKey": "quest/045/BanArk120_04570#TEXT_BANARK120_04570_MARU_000_011", "hash": "0A1D0E7B5BBE46F5", "target": "Grazie di cuore, <split(<string(gstr1)>, ,1)>. Questa sarà una benedizione nei giorni a venire." },
+    { "gameKey": "quest/045/BanArk120_04570#TEXT_BANARK120_04570_MARU_000_012", "hash": "292B81B064AD2278", "target": "Quando questa linfa indurisce, l'acqua ci rimbalza sopra come una spada su uno scudo. Penso che rinforzando la vasca con essa eviteremo perdite fastidiose. Almeno per un po'." },
+    { "gameKey": "quest/045/BanArk120_04570#TEXT_BANARK120_04570_MARU_000_013", "hash": "7DF63513A1F20A07", "target": "Bisogna prevedere i problemi prima che accadano, altrimenti si rompe tutto insieme. Continuerò a fare i miei giri e ti chiamerò se mi serviranno di nuovo le tue mani esperte." }
   ]
 }

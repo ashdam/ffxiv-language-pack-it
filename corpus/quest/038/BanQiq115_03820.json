@@ -2,19 +2,19 @@
   "conversation": "quest/038/BanQiq115_03820",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_SEQ_00", "hash": "F4DB20006E3C2444", "target": "" },
-    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_SEQ_01", "hash": "FBB8E94A384A51D4", "target": "" },
-    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_TODO_00", "hash": "CE4BCA6EE7447576", "target": "" },
-    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_QHOTERLPASOL_000_000", "hash": "51C82DE4328A9A87", "target": "" },
-    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_QHOTERLPASOL_000_001", "hash": "D5A7C26126017CE3", "target": "" },
-    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_QHOTERLPASOL_000_002", "hash": "37E947A2301591DF", "target": "" },
-    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_QHOTERLPASOL_000_003", "hash": "3B4257508F4E604A", "target": "" },
-    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_QHOTERLPASOL_000_004", "hash": "1FE812BB9D189BDC", "target": "" },
-    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_QHOTERLPASOL_000_005", "hash": "920436D6AD9AF32B", "target": "" },
-    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_QHOTERLPASOL_000_006", "hash": "4CCE58C5EAF65A12", "target": "" },
-    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_QHOTERLPASOL_000_007", "hash": "F9CB5C2AE6BF5EF9", "target": "" },
-    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_QHOTERLPASOL_000_010", "hash": "2A97C0DC3938C011", "target": "" },
-    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_QHOTERLPASOL_000_011", "hash": "D90A9893FC0B33E6", "target": "" },
-    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_QHOTERLPASOL_000_012", "hash": "3067F96FF1891789", "target": "" }
+    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_SEQ_00", "hash": "F4DB20006E3C2444", "target": "L'instancabile lavoro di annotazione di Qhoterl Pasol ha quasi esaurito le sue scorte per scrivere.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
+    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_SEQ_01", "hash": "FBB8E94A384A51D4", "target": "Consegnare gli oggetti richiesti a Qhoterl Pasol" },
+    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_TODO_00", "hash": "CE4BCA6EE7447576", "target": "<if([lnum4==16],<if([lnum1<lnum2],Estrarre splendid graphite nella Foresta Cieca di Yx'Maja,Consegnare splendid graphite a Qhoterl Pasol)>,<if([lnum4==17],<if([lnum1<lnum2],Raccogliere splendid tarichuk feathers nella Foresta Cieca di Yx'Maja,Consegnare splendid tarichuk feathers a Qhoterl Pasol)>,<if([lnum4==18],<if([lnum1<lnum2],Pescare splendid silver kitten vicino al Calice Rosso,Consegnare splendid silver kitten a Qhoterl Pasol)>,)>)>)>" },
+    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_QHOTERLPASOL_000_000", "hash": "51C82DE4328A9A87", "target": "Povera me! Non si direbbe, ma sono occupatissima. Basta annotare le ultime scoperte per farmi girare la testa! Per non parlare di tutte le mappe e le carte che disegniamo..." },
+    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_QHOTERLPASOL_000_001", "hash": "D5A7C26126017CE3", "target": "Perciò devo registrare tutto nei dettagli, usando soltanto i metodi tradizionali tramandati da Ronka." },
+    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_QHOTERLPASOL_000_002", "hash": "37E947A2301591DF", "target": "Mi occorrono vari pezzi di grafite, che ridurremo in polvere per produrre inchiostro. Non temete, la ricompensa varrà il disturbo, ve lo assicuro!" },
+    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_QHOTERLPASOL_000_003", "hash": "3B4257508F4E604A", "target": "Mi occorrono varie piume di tarichuk da usare come penne. Non temete, la ricompensa varrà il disturbo, ve lo assicuro!" },
+    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_QHOTERLPASOL_000_004", "hash": "1FE812BB9D189BDC", "target": "Mi occorre un silver kitten, la cui pelle serve a preparare l'inchiostro. Non temete, è un pesce, non un vero gattino! Che fortuna essermi ricordata di precisarlo..." },
+    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_QHOTERLPASOL_000_005", "hash": "920436D6AD9AF32B", "target": "Di solito andiamo a raccogliere queste cose nella Foresta Cieca, ma nessun altro ha tempo..." },
+    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_QHOTERLPASOL_000_006", "hash": "4CCE58C5EAF65A12", "target": "Di solito andiamo a raccogliere queste cose nella Foresta Cieca, ma nessun altro ha tempo..." },
+    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_QHOTERLPASOL_000_007", "hash": "F9CB5C2AE6BF5EF9", "target": "Di solito i pescatori vanno al Calice Rosso con un secchio di fruit worm, ma temo che soltanto voi abbiate tempo..." },
+    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_QHOTERLPASOL_000_010", "hash": "2A97C0DC3938C011", "target": "Oh, <italic(1)>sono<italic(0)> felice di rivedervi incolume. Spero che non abbiate avuto guai per colpa mia!" },
+    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_QHOTERLPASOL_000_011", "hash": "D90A9893FC0B33E6", "target": "Splendido! È proprio ciò che cercavo! Presto avrò una scorta nuova di materiali per scrivere e potrò annotare a mio piacimento!" },
+    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_QHOTERLPASOL_000_012", "hash": "3067F96FF1891789", "target": "Oltre a riportare alla luce tesori perduti, noi Qitari non amiamo nulla quanto registrare le nostre imprese. Persino i più piccoli, che ancora non sanno scrivere, disegnano spesso mappe dei luoghi visitati. Adorabile, vero?" }
   ]
 }

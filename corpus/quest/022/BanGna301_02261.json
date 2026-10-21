@@ -2,18 +2,18 @@
   "conversation": "quest/022/BanGna301_02261",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEQ_00", "hash": "90B009A44E82A2E5", "target": "" },
-    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEQ_01", "hash": "BA8DB9089B1F31A1", "target": "" },
-    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEQ_02", "hash": "1669FAF79D8D7D4C", "target": "" },
-    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEQ_03", "hash": "699845881B385711", "target": "" },
-    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_TODO_00", "hash": "45214E91AC311EDF", "target": "" },
-    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_TODO_01", "hash": "44C05ADC505B3A3A", "target": "" },
-    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEARCHER_000_000", "hash": "CD7C324305C7582C", "target": "" },
-    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEARCHER_000_001", "hash": "C5AF694EC06184BD", "target": "" },
-    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SYSTEM_100_000", "hash": "C04AF16BE563A1AD", "target": "" },
-    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEARCHER_000_010", "hash": "DEB19F7CF4A7BDAA", "target": "" },
-    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEARCHER_000_011", "hash": "F082339047C35F32", "target": "" },
-    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEARCHER_000_012", "hash": "930152CE6928532B", "target": "" },
-    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEARCHER_000_013", "hash": "2703CE9BDD4D9121", "target": "" }
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEQ_00", "hash": "90B009A44E82A2E5", "target": "Dallo schioccare delle mandibole, il Vath keeneye sembra felice di vederti.<br>※La difficoltà di questa missione sarà adattata al tuo livello attuale." },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEQ_01", "hash": "BA8DB9089B1F31A1", "target": "Poco tempo fa i cacciatori di Tailfeather hanno richiesto rami di melia, un legno flessibile perfetto per le frecce. Il Vath keeneye ti chiede di avventurarti nelle Terre Fumanti al posto suo. Segna sulla mappa tre luoghi noti per la crescita delle melia e ti chiede di abbattere quelle che trovi e raccoglierne i rami.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEQ_02", "hash": "1669FAF79D8D7D4C", "target": "Visiti i tre luoghi, ma ottieni rami soltanto da due delle melia comparse. Dopotutto non puoi fare più di quanto richiesto. Torna a Loth ast Vath e consegna i rami che hai trovato." },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEQ_03", "hash": "699845881B385711", "target": "Il Vath keeneye è più che soddisfatto dei rami ricevuti. Per inciso, ti racconta di aver offerto uova di nanka ai cacciatori di Tailfeather, oltre ai rami richiesti. Malgrado le buone intenzioni, la loro reazione lo ha sorpreso. Sembra che abbia ancora molto da imparare sui gusti delle altre razze." },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_TODO_00", "hash": "45214E91AC311EDF", "target": "Perlustrare i luoghi indicati e abbattere melia per raccoglierne i rami" },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_TODO_01", "hash": "44C05ADC505B3A3A", "target": "Consegnare i rami di melia al Vath keeneye" },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEARCHER_000_000", "hash": "CD7C324305C7582C", "target": "Salute a te, <if(gnum4,grande cacciatrice,grande cacciatore)>. Poco fa abbiamo ricevuto una richiesta dagli esseri di carne di Tailfeather. Sì, qualche campana fa ci hanno chiesto rami di melia. Andresti a raccoglierli per noi?" },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEARCHER_000_001", "hash": "C5AF694EC06184BD", "target": "Le melia preferiscono il terreno delle Terre Fumanti. Ecco, segnerò sulla mappa buoni luoghi di crescita. Tre posti, tre occasioni di trovare rami di melia. \\<clic> \\<clic> Se le vedi, sconfiggile in fretta e riporta ciò che trovi." },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SYSTEM_100_000", "hash": "C04AF16BE563A1AD", "target": "Perlustri la zona, ma non trovi traccia delle melia." },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEARCHER_000_010", "hash": "DEB19F7CF4A7BDAA", "target": "Ecco di ritorno <if(gnum4,la grande cacciatrice,il grande cacciatore)>. Hai trovato melia? Hai trovato rami flessibili, pieghevoli di melia?" },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEARCHER_000_011", "hash": "F082339047C35F32", "target": "Rami di <italic(1)>due<italic(0)> melia? Una sarebbe bastata, ma con due gli esseri di carne saranno molto contenti. Questi rami fanno ottime frecce per cacciare chocobo, così dicono. \\<clic> \\<clic> Sembra che amino fare frecce. Sì, molte frecce." },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEARCHER_000_012", "hash": "930152CE6928532B", "target": "Finora le melia erano solo un fastidio. I rami non portano frutti, la corteccia non si mangia. Cacciare nelle Terre Fumanti era seccante. Ora le melia hanno valore, grazie ai cacciatori." },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEARCHER_000_013", "hash": "2703CE9BDD4D9121", "target": "Per i Vath, le uova di nanka hanno sempre grande valore. Sono una prelibatezza. Uno spuntino molto gustoso. \\<clic> \\<clic> Le abbiamo offerte ai cacciatori, ma dicono che sono marce. Che strani esseri di carne. Sì, molto strani." }
   ]
 }

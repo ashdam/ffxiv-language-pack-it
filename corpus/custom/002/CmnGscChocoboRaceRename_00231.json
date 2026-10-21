@@ -2,18 +2,18 @@
   "conversation": "custom/002/CmnGscChocoboRaceRename_00231",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/CmnGscChocoboRaceRename_00231#TEXT_CMNGSCCHOCOBORACERENAME_00231_TALK_ACTOR_02", "hash": "91A4AB81A0C31535", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceRename_00231#TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_002_02", "hash": "7AE6559DDDB60396", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceRename_00231#TEXT_CMNGSCCHOCOBORACERENAME_00231_RENAME_Q1", "hash": "9D93742C5CCBEB00", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceRename_00231#TEXT_CMNGSCCHOCOBORACERENAME_00231_RENAME_A1", "hash": "F3E9E33DDD62CE45", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceRename_00231#TEXT_CMNGSCCHOCOBORACERENAME_00231_RENAME_A2", "hash": "E7CB21E57ADD9249", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceRename_00231#TEXT_CMNGSCCHOCOBORACERENAME_00231_RENAME_DONE", "hash": "44566FB10F0B7D73", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceRename_00231#TEXT_CMNGSCCHOCOBORACERENAME_00231_TALK_ACTOR", "hash": "73F636EFBF9E4BF0", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceRename_00231#TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_001_01", "hash": "04B400A83194162E", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceRename_00231#TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_001_02", "hash": "A6877108639B531E", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceRename_00231#TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_002_01", "hash": "298074A3C5D44288", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceRename_00231#TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_003_01", "hash": "1E6F170FFEBD56A5", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceRename_00231#TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_003_02", "hash": "0192DF2C18AAA806", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceRename_00231#TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_004_01", "hash": "738CD889E8CABE7E", "target": "" }
+    { "gameKey": "custom/002/CmnGscChocoboRaceRename_00231#TEXT_CMNGSCCHOCOBORACERENAME_00231_TALK_ACTOR_02", "hash": "91A4AB81A0C31535", "target": "Non ti piace il nome “<string(lstr1)>”? Capisco. Lascia che controlli la tua registrazione..." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRename_00231#TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_002_02", "hash": "7AE6559DDDB60396", "target": "Ogni cambio di nome richiede il pagamento di 2.000 gil." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRename_00231#TEXT_CMNGSCCHOCOBORACERENAME_00231_RENAME_Q1", "hash": "9D93742C5CCBEB00", "target": "Cambiare il nome del tuo chocobo da corsa in <head(lstr1)> per <kilo(lnum2,\\,)> gil?" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRename_00231#TEXT_CMNGSCCHOCOBORACERENAME_00231_RENAME_A1", "hash": "F3E9E33DDD62CE45", "target": "Sì" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRename_00231#TEXT_CMNGSCCHOCOBORACERENAME_00231_RENAME_A2", "hash": "E7CB21E57ADD9249", "target": "No" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRename_00231#TEXT_CMNGSCCHOCOBORACERENAME_00231_RENAME_DONE", "hash": "44566FB10F0B7D73", "target": "Ottima scelta, <if(gnum4,signora,signore)>. Credo che qui tutti concordino sul fatto che <string(lstr1)> sia un nome molto migliore." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRename_00231#TEXT_CMNGSCCHOCOBORACERENAME_00231_TALK_ACTOR", "hash": "73F636EFBF9E4BF0", "target": "Non ti piace il nome del tuo chocobo da corsa? Capisco. Lascia che controlli la tua registrazione..." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRename_00231#TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_001_01", "hash": "04B400A83194162E", "target": "Chiedo scusa, ma ho frainteso la tua richiesta? Non trovo alcun chocobo da corsa attualmente registrato a tuo nome..." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRename_00231#TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_001_02", "hash": "A6877108639B531E", "target": "Puoi cambiare soltanto il nome di un chocobo da corsa registrato." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRename_00231#TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_002_01", "hash": "298074A3C5D44288", "target": "Non vorrei metterti in imbarazzo, <if(gnum4,signora,signore)>, ma sembra che tu non abbia i gil necessari..." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRename_00231#TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_003_01", "hash": "1E6F170FFEBD56A5", "target": "Ah... Perdonami, ma sembra che il nome che hai richiesto sia... Come posso dire? Non ammissibile." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRename_00231#TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_003_02", "hash": "0192DF2C18AAA806", "target": "La combinazione di parole selezionata è vietata. Scegli un nome diverso." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRename_00231#TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_004_01", "hash": "738CD889E8CABE7E", "target": "Allora vuoi mantenere il nome attuale del tuo chocobo da corsa, <if(gnum4,signora,signore)>? Molto bene." }
   ]
 }

@@ -2,19 +2,19 @@
   "conversation": "quest/022/BanGna604_02279",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEQ_00", "hash": "DDC8FC43FB06E7BB", "target": "" },
-    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEQ_01", "hash": "121365D46451879C", "target": "" },
-    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEQ_02", "hash": "D9C350B3C04CD5D7", "target": "" },
-    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEQ_03", "hash": "F049DB86322AF4C6", "target": "" },
-    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_TODO_00", "hash": "A36354160F1B783D", "target": "" },
-    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_TODO_01", "hash": "36438C009A4B19BC", "target": "" },
-    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEARCHER_000_000", "hash": "8B1657B17BE72AA1", "target": "" },
-    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEARCHER_000_001", "hash": "88AFCCF525FBD1B4", "target": "" },
-    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEARCHER_000_002", "hash": "F7878FE5FCEAADB3", "target": "" },
-    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEARCHER_000_003", "hash": "2EE97F92CAAC5D87", "target": "" },
-    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_GNATHDRONEA02279_000_010", "hash": "CD736292A0A6DFEA", "target": "" },
-    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_GNATHDRONEB02279_000_011", "hash": "E8835AC5F107FBC2", "target": "" },
-    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEARCHER_000_020", "hash": "A3638E8F1606751C", "target": "" },
-    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEARCHER_000_021", "hash": "46AA07D3BAFEDB44", "target": "" }
+    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEQ_00", "hash": "DDC8FC43FB06E7BB", "target": "Il Vath keeneye è assorto nei pensieri.<br>※La difficoltà di questa missione sarà adattata al tuo livello attuale." },
+    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEQ_01", "hash": "121365D46451879C", "target": "Il fumo di rugiada d'argento avvolge Anyx Trine in una fitta nube, e i draghi della torre accusano i Vath di questo crimine odioso. I Vath, però, sospettano che il fumo venga dagli incensieri comparsi di recente in territorio gnath. Il Vath keeneye crede che siano quattro, avendo contato da lontano quattro scie distinte. Raggiungi le Terre Fumanti, disattiva gli incensieri gnath e aiuta i Vath a fare chiarezza.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
+    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEQ_02", "hash": "D9C350B3C04CD5D7", "target": "Disattivi tutti gli incensieri gnath. Torna a Loth ast Vath e fai rapporto al Vath keeneye." },
+    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEQ_03", "hash": "F049DB86322AF4C6", "target": "Il Vath keeneye ti ringrazia per l'impegno. È certo che i Vath conserveranno il favore dei draghi, ora che gli incensieri gnath sono disattivati." },
+    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_TODO_00", "hash": "A36354160F1B783D", "target": "Disattivare gli incensieri gnath" },
+    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_TODO_01", "hash": "36438C009A4B19BC", "target": "Fare rapporto al Vath keeneye" },
+    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEARCHER_000_000", "hash": "8B1657B17BE72AA1", "target": "<if(gnum4,Avventuriera,Avventuriero)>, per fortuna sei qui. Abbiamo lamentele. I draghi dicono che Anyx Trine e i dintorni puzzano di rugiada d'argento bruciata." },
+    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEARCHER_000_001", "hash": "88AFCCF525FBD1B4", "target": "Sono convinti che i colpevoli siamo noi. Non ha senso. Non abbiamo cambiato quanta rugiada d'argento bruciamo. \\<clic> \\<clic> Può essere solo una cosa. La Mente Unica: sta erigendo nuovi incensieri." },
+    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEARCHER_000_002", "hash": "F7878FE5FCEAADB3", "target": "La fiducia costruita coi draghi è in grande pericolo. Dobbiamo dimostrare innocenza! Altrimenti potremmo perderli per sempre come clienti." },
+    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEARCHER_000_003", "hash": "2EE97F92CAAC5D87", "target": "Le nostre spie hanno osservato quattro nuove colonne di fumo. Senza dubbio vengono da quegli incensieri. \\<clic> \\<clic> Cercali e poni fine ai loro piani, ti prego." },
+    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_GNATHDRONEA02279_000_010", "hash": "CD736292A0A6DFEA", "target": "\\<clic> \\<clic> Essere di carne, come osi toccare i nostri preziosi incensieri!" },
+    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_GNATHDRONEB02279_000_011", "hash": "E8835AC5F107FBC2", "target": "\\<clic> \\<clic> Sfidi la volontà della Mente Suprema per l'ultima volta!" },
+    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEARCHER_000_020", "hash": "A3638E8F1606751C", "target": "Non sappiamo come ringraziarti, <if(gnum4,gentile cacciatrice,gentile cacciatore)>. I draghi resteranno amici e clienti. Chi sapeva quanto fosse faticoso mantenere buoni rapporti coi vicini?" },
+    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEARCHER_000_021", "hash": "46AA07D3BAFEDB44", "target": "Speriamo che un giorno Vath, Gnath e draghi di Dravania trovino tutti modo di vivere in armonia. \\<clic> \\<clic> Allora nessuno dovrà più subire il fetore della rugiada d'argento!" }
   ]
 }

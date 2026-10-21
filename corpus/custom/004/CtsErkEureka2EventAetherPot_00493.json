@@ -2,8 +2,8 @@
   "conversation": "custom/004/CtsErkEureka2EventAetherPot_00493",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/004/CtsErkEureka2EventAetherPot_00493#TEXT_CTSERKEUREKA2EVENTAETHERPOT_00493_SYSTEM_000_000", "hash": "B50D1E8DB4B78B06", "target": "" },
-    { "gameKey": "custom/004/CtsErkEureka2EventAetherPot_00493#TEXT_CTSERKEUREKA2EVENTAETHERPOT_00493_SYSTEM_000_010", "hash": "2BD2A547396F406E", "target": "" },
-    { "gameKey": "custom/004/CtsErkEureka2EventAetherPot_00493#TEXT_CTSERKEUREKA2EVENTAETHERPOT_00493_YESNO_CONTENT", "hash": "5CDB69D422F9A9F3", "target": "" }
+    { "gameKey": "custom/004/CtsErkEureka2EventAetherPot_00493#TEXT_CTSERKEUREKA2EVENTAETHERPOT_00493_SYSTEM_000_000", "hash": "B50D1E8DB4B78B06", "target": "Su una placca di metallo sono incise le parole «forgia di cristalli». L'apparato non sembra danneggiato, ma il suo scopo e il suo utilizzo non sono del tutto chiari..." },
+    { "gameKey": "custom/004/CtsErkEureka2EventAetherPot_00493#TEXT_CTSERKEUREKA2EVENTAETHERPOT_00493_SYSTEM_000_010", "hash": "2BD2A547396F406E", "target": "Su una placca di metallo sono incise le parole «forgia di cristalli». L'apparato non sembra danneggiato e pare abbastanza semplice da usare, ammesso di avere sufficiente etere alterato per alimentarlo..." },
+    { "gameKey": "custom/004/CtsErkEureka2EventAetherPot_00493#TEXT_CTSERKEUREKA2EVENTAETHERPOT_00493_YESNO_CONTENT", "hash": "5CDB69D422F9A9F3", "target": "Convertire l'etere alterato in forma cristallina?" }
   ]
 }

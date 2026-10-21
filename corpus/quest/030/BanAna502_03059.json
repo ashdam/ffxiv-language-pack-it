@@ -2,17 +2,17 @@
   "conversation": "quest/030/BanAna502_03059",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_SEQ_00", "hash": "FC297B9D64B2C7E6", "target": "" },
-    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_TODO_00", "hash": "E838842FB00D48D5", "target": "" },
-    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_TODO_01", "hash": "898A5402AB76667C", "target": "" },
-    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_TODO_02", "hash": "89B9474067A6FB29", "target": "" },
-    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_ESHANA_000_000", "hash": "C999B5B63B6623F4", "target": "" },
-    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_ESHANA_100_000", "hash": "35CFC8A3BC2C91A3", "target": "" },
-    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_ESHANA_000_001", "hash": "CB8B3E8414C144A6", "target": "" },
-    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_ESHANA_000_002", "hash": "0BB99E2C09CFA037", "target": "" },
-    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_SYSTEM_000_010", "hash": "97CEEFE822BB727F", "target": "" },
-    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_ESHANA_000_020", "hash": "B04C662C8C5CFFC2", "target": "" },
-    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_ESHANA_000_021", "hash": "0103A0B75D3D1595", "target": "" },
-    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_ESHANA_000_022", "hash": "92DCB991A53263B6", "target": "" }
+    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_SEQ_00", "hash": "FC297B9D64B2C7E6", "target": "Eshana vuole che tu risolva un problema di formicaleoni.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
+    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_TODO_00", "hash": "E838842FB00D48D5", "target": "Far detonare gli esplosivi fragorosi nel luogo indicato a Virdjala" },
+    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_TODO_01", "hash": "898A5402AB76667C", "target": "Attendere che compaia l'hunter antlion ed eliminarlo" },
+    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_TODO_02", "hash": "89B9474067A6FB29", "target": "Fare rapporto a Eshana" },
+    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_ESHANA_000_000", "hash": "C999B5B63B6623F4", "target": "Abbiamo un problema di formicaleoni, <split(<string(gstr1)>, ,1)>. Un esemplare particolarmente feroce terrorizza la strada per i Peaks, e vi chiedo di abbatterlo, sss." },
+    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_ESHANA_100_000", "hash": "35CFC8A3BC2C91A3", "target": "La creatura scava in profondità e si apposta in attesa di prede. Non prede qualsiasi, sss, ma grandi: carrozze di chocobo e simili." },
+    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_ESHANA_000_001", "hash": "CB8B3E8414C144A6", "target": "Il rumore dei vostri passi non basterà a far uscire quella bestia ingorda... ma questi esplosivi dovrebbero funzionare, sss. Ce li hanno forniti i nostri amici di Rhalgr's Reach e sono tanto rumorosi quanto potenti." },
+    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_ESHANA_000_002", "hash": "0BB99E2C09CFA037", "target": "Quando li farete detonare, badate di non farvi coinvolgere nell'esplosssione. Mi dispiacerebbe perdere un aiuto prezioso come il vostro." },
+    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_SYSTEM_000_010", "hash": "97CEEFE822BB727F", "target": "Il terreno esplode in una pioggia di sabbia!" },
+    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_ESHANA_000_020", "hash": "B04C662C8C5CFFC2", "target": "Avete sssabbia dappertutto. Immagino che abbiate incontrato, ed eliminato, il formicaleone. Eccellente, eccellente." },
+    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_ESHANA_000_021", "hash": "0103A0B75D3D1595", "target": "Per ora la regione accoglie pochi visitatori, ma col tempo le cose cambieranno. Il commercio crescerà e porterà con sé più traffico, sss." },
+    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_ESHANA_000_022", "hash": "92DCB991A53263B6", "target": "La strada per i Peaks, in particolare, è vitale per la nostra prosssperità e dobbiamo garantire a tutti un passaggio sicuro. Tenere a bada insetti come i formicaleoni sarà un compito regolare e spero che potremo contare ancora su di voi." }
   ]
 }

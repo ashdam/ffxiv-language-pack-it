@@ -2,14 +2,14 @@
   "conversation": "quest/036/BanPix108_03696",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_SEQ_00", "hash": "1ABC9FC53416F7CF", "target": "" },
-    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_TODO_00", "hash": "5803D4C40E2834CB", "target": "" },
-    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_TODO_01", "hash": "61103325148AAB04", "target": "" },
-    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_UINNEE_000_000", "hash": "4C689D6925CFE9FE", "target": "" },
-    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_UINNEE_000_001", "hash": "8569E56D00241737", "target": "" },
-    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_UINNEE_000_002", "hash": "BD8B4F61F9DCF448", "target": "" },
-    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_UINNEE_000_010", "hash": "E057326D73696C70", "target": "" },
-    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_UINNEE_000_011", "hash": "CD3CEE57B9AEAF43", "target": "" },
-    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_UINNEE_000_012", "hash": "D91A68B1F1C5B6DA", "target": "" }
+    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_SEQ_00", "hash": "1ABC9FC53416F7CF", "target": "Uin Nee non si stancherà mai di sognare nuovi compiti per la sua persona mortale preferita.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
+    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_TODO_00", "hash": "5803D4C40E2834CB", "target": "Ottenere ciuffi di malva in miniatura vicino a Lyhe Ghiah" },
+    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_TODO_01", "hash": "61103325148AAB04", "target": "Consegnare i ciuffi di malva in miniatura a Uin Nee" },
+    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_UINNEE_000_000", "hash": "4C689D6925CFE9FE", "target": "Oh, salve, <split(<string(gstr1)>, ,1)>! A proposito di niente, sei mai <if(gnum4,stata,stato)> a Lyhe Ghiah? È un posto meraviglioso, con un castello magnifico e belle palle di malva soffice che fluttuano su e giù, avanti e indietro nei venti che frusciano dolcemente." },
+    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_UINNEE_000_001", "hash": "8569E56D00241737", "target": "Be', pensavo a come rendere i sogni dei bambini ancora più dolci, quando l'idea mi ha colpito con tutta la forza di un gigantesco batuffolo! Potrei riempirli di malva gonfia e vaporosa! Non sarebbe il sogno più delizioso di sempre? Ma certo che sì!" },
+    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_UINNEE_000_002", "hash": "BD8B4F61F9DCF448", "target": "Ma per farlo mi servono ciuffi di malva e non sopporterei di sottrarre tempo al mio lavoro di tessitore di sogni per svolazzare fino a Lyhe Ghiah! Dopotutto, cosa farebbero i bambini senza di me? Meno male che sei qui per offrirmi aiuto! <italic(1)>È<italic(0)> per questo che sei qui, vero?" },
+    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_UINNEE_000_010", "hash": "E057326D73696C70", "target": "Eccoti di ritorno! Sono ciuffi di malva quelli che spuntano dalle tue tasche o è la gioia di vedermi? O entrambe le cose? Di certo entrambe, vero?" },
+    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_UINNEE_000_011", "hash": "CD3CEE57B9AEAF43", "target": "Sapevo di poter contare su di te. E guarda questi soffici ciuffetti! Ora forse non sembrano granché, ma quando avrò fatto la mia magia diventeranno aeree palle di fantastica morbidezza, più soffici della lana di pecora più folta!" },
+    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_UINNEE_000_012", "hash": "D91A68B1F1C5B6DA", "target": "Sì, i miei sognatori adoreranno fluttuare nel cielo su enormi nuvole di malva! Vorrei provarci anch'io! Non che ci sia niente di male a volare con le buone vecchie ali, naturalmente. È solo che tutto quello svolazzare ogni tanto stanca un po'. \\<sbadiglio> Credo di essermi meritato un riposo!" }
   ]
 }

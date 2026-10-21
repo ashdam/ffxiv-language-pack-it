@@ -2,15 +2,15 @@
   "conversation": "quest/037/BanPix121_03709",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_SEQ_00", "hash": "A55369AAE5E8A426", "target": "" },
-    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_TODO_00", "hash": "5F24EB8F23AD45AB", "target": "" },
-    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_TODO_01", "hash": "79EAB44E5CD2D709", "target": "" },
-    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_UINNEE_000_000", "hash": "60F63881E0C2A4EF", "target": "" },
-    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_UINNEE_000_001", "hash": "1178D6679DCCE1B8", "target": "" },
-    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_UINNEE_000_002", "hash": "9CF7BA5E458DF9B1", "target": "" },
-    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_UINNEE_000_003", "hash": "6CEE4032109C2E66", "target": "" },
-    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_UINNEE_000_010", "hash": "75E7A5CC95E4416A", "target": "" },
-    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_UINNEE_000_011", "hash": "1BBC875FECE33E69", "target": "" },
-    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_UINNEE_000_012", "hash": "D48B483F0CFE3A8C", "target": "" }
+    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_SEQ_00", "hash": "A55369AAE5E8A426", "target": "A Uin Nee farebbe comodo una mano per esaudire il desiderio più caro di un giovane Mord.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
+    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_TODO_00", "hash": "5F24EB8F23AD45AB", "target": "Uccidere un anemone a nord di Lydha Lran e ottenere un viticcio guizzante" },
+    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_TODO_01", "hash": "79EAB44E5CD2D709", "target": "Consegnare il viticcio guizzante a Uin Nee" },
+    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_UINNEE_000_000", "hash": "60F63881E0C2A4EF", "target": "Dunque, l'altro giorno giocavo nel sogno di un piccolo Mord, sì, sì, salve anche a te, e lui comincia a parlare di quanto vorrebbe mangiare «un secchio intero di vermi guizzanti»! E io ho detto che potevo accontentarlo, da Tessisogni servizievole quale sono, anche se non avevo la minima idea di cosa parlasse..." },
+    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_UINNEE_000_001", "hash": "1178D6679DCCE1B8", "target": "Be', a quanto pare, i vermi guizzanti, una specie di verme <italic(1)>straordinariamente<italic(0)> strana, non sono facili da trovare a Il Mheg. Con questo intendo che non ne abbiamo proprio, figuriamoci un secchio intero!" },
+    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_UINNEE_000_002", "hash": "9CF7BA5E458DF9B1", "target": "Ma non preoccuparti! Basta che usi un po' di magia su qualcosa di abbastanza guizzante e dovrebbe venire la stessa cosa. Più o meno. Probabilmente." },
+    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_UINNEE_000_003", "hash": "6CEE4032109C2E66", "target": "Comunque non lo sapremo finché non proviamo! Ecco perché mi serve che tu mi procuri la parte guizzante di un anemone. Prima è, meglio è, <if(gnum4,mia mortale preferita,mio mortale preferito)>!" },
+    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_UINNEE_000_010", "hash": "75E7A5CC95E4416A", "target": "Da come ondeggia quel sacco, immagino che tu abbia preso ciò che ci serve!" },
+    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_UINNEE_000_011", "hash": "1BBC875FECE33E69", "target": "Perfetto! Oooh, è proprio disgustoso!" },
+    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_UINNEE_000_012", "hash": "D48B483F0CFE3A8C", "target": "Con qualche piccolo ritocco, non dovrei avere difficoltà a trasformarlo in un verme guizzante da sogno. Nessuna! Ora, dove ho messo quel catarro che tenevo da parte..." }
   ]
 }

@@ -2,18 +2,18 @@
   "conversation": "custom/006/RegNor4TheOndoCups_00604",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/006/RegNor4TheOndoCups_00604#TEXT_REGNOR4THEONDOCUPS_00604_GHOLSHSAATH_000_000", "hash": "A8C4B58D1B91DE74", "target": "" },
-    { "gameKey": "custom/006/RegNor4TheOndoCups_00604#TEXT_REGNOR4THEONDOCUPS_00604_Q1_000_000", "hash": "29CCBA1328778B93", "target": "" },
-    { "gameKey": "custom/006/RegNor4TheOndoCups_00604#TEXT_REGNOR4THEONDOCUPS_00604_A1_000_001", "hash": "7F05BD61C4DC0511", "target": "" },
-    { "gameKey": "custom/006/RegNor4TheOndoCups_00604#TEXT_REGNOR4THEONDOCUPS_00604_A1_000_002", "hash": "CDDF4C7BEB99A713", "target": "" },
-    { "gameKey": "custom/006/RegNor4TheOndoCups_00604#TEXT_REGNOR4THEONDOCUPS_00604_A1_000_003", "hash": "BA3884CA341C095F", "target": "" },
-    { "gameKey": "custom/006/RegNor4TheOndoCups_00604#TEXT_REGNOR4THEONDOCUPS_00604_GHOLSHSAATH_000_010", "hash": "4828F2871A5B4A79", "target": "" },
-    { "gameKey": "custom/006/RegNor4TheOndoCups_00604#TEXT_REGNOR4THEONDOCUPS_00604_GHOLSHSAATH_000_011", "hash": "EF938BF5BD3604CD", "target": "" },
-    { "gameKey": "custom/006/RegNor4TheOndoCups_00604#TEXT_REGNOR4THEONDOCUPS_00604_GHOLSHSAATH_000_020", "hash": "CAF95238AAD5F597", "target": "" },
-    { "gameKey": "custom/006/RegNor4TheOndoCups_00604#TEXT_REGNOR4THEONDOCUPS_00604_GHOLSHSAATH_000_021", "hash": "73BE3D9FFD0E6145", "target": "" },
-    { "gameKey": "custom/006/RegNor4TheOndoCups_00604#TEXT_REGNOR4THEONDOCUPS_00604_GHOLSHSAATH_000_022", "hash": "288C24495B8E9763", "target": "" },
-    { "gameKey": "custom/006/RegNor4TheOndoCups_00604#TEXT_REGNOR4THEONDOCUPS_00604_GHOLSHSAATH_000_023", "hash": "7CDAC9EFDC6E70BA", "target": "" },
-    { "gameKey": "custom/006/RegNor4TheOndoCups_00604#TEXT_REGNOR4THEONDOCUPS_00604_GHOLSHSAATH_000_024", "hash": "05A82576F9D8B5D0", "target": "" },
-    { "gameKey": "custom/006/RegNor4TheOndoCups_00604#TEXT_REGNOR4THEONDOCUPS_00604_GHOLSHSAATH_000_025", "hash": "7977684B8E98971D", "target": "" }
+    { "gameKey": "custom/006/RegNor4TheOndoCups_00604#TEXT_REGNOR4THEONDOCUPS_00604_GHOLSHSAATH_000_000", "hash": "A8C4B58D1B91DE74", "target": "Salve, onorato ossspite. Come posssso servirvi?" },
+    { "gameKey": "custom/006/RegNor4TheOndoCups_00604#TEXT_REGNOR4THEONDOCUPS_00604_Q1_000_000", "hash": "29CCBA1328778B93", "target": "Cosa vuoi chiedere?" },
+    { "gameKey": "custom/006/RegNor4TheOndoCups_00604#TEXT_REGNOR4THEONDOCUPS_00604_A1_000_001", "hash": "7F05BD61C4DC0511", "target": "Informarsi sul lavoro svolto qui." },
+    { "gameKey": "custom/006/RegNor4TheOndoCups_00604#TEXT_REGNOR4THEONDOCUPS_00604_A1_000_002", "hash": "CDDF4C7BEB99A713", "target": "Che posto è questo?" },
+    { "gameKey": "custom/006/RegNor4TheOndoCups_00604#TEXT_REGNOR4THEONDOCUPS_00604_A1_000_003", "hash": "BA3884CA341C095F", "target": "Niente." },
+    { "gameKey": "custom/006/RegNor4TheOndoCups_00604#TEXT_REGNOR4THEONDOCUPS_00604_GHOLSHSAATH_000_010", "hash": "4828F2871A5B4A79", "target": "Sono un cussstode di racconti. Molto è andato perduto nel Diluvio, perciò questo dovere è più importante che mai. Come potrebbero altrimenti i giovani imparare dai nostri errori e costruire un mondo migliore?" },
+    { "gameKey": "custom/006/RegNor4TheOndoCups_00604#TEXT_REGNOR4THEONDOCUPS_00604_GHOLSHSAATH_000_011", "hash": "EF938BF5BD3604CD", "target": "Gli aath devono istruire i koal, così come chiunque abbia dimenticato la nossstra storia e la saggezza degli antenati." },
+    { "gameKey": "custom/006/RegNor4TheOndoCups_00604#TEXT_REGNOR4THEONDOCUPS_00604_GHOLSHSAATH_000_020", "hash": "CAF95238AAD5F597", "target": "Un tempo avevamo un'altra casa, a sssud, finché non scomparve nel Diluvio. I superstiti vagarono in cerca di una nuova dimora, fino a giungere a queste rovine e farne la casa degli Ondo." },
+    { "gameKey": "custom/006/RegNor4TheOndoCups_00604#TEXT_REGNOR4THEONDOCUPS_00604_GHOLSHSAATH_000_021", "hash": "73BE3D9FFD0E6145", "target": "Le chiamiamo Cups, per le numerose nicchie in cui i viandanti si rifugiarono per resistere alla Luce mortale. Fu così che sssopravvissero." },
+    { "gameKey": "custom/006/RegNor4TheOndoCups_00604#TEXT_REGNOR4THEONDOCUPS_00604_GHOLSHSAATH_000_022", "hash": "288C24495B8E9763", "target": "Ancora oggi li onoriamo conservando questo nome e proteggendo il luogo. Adessso e per sempre." },
+    { "gameKey": "custom/006/RegNor4TheOndoCups_00604#TEXT_REGNOR4THEONDOCUPS_00604_GHOLSHSAATH_000_023", "hash": "7CDAC9EFDC6E70BA", "target": "Molti qui potrebbero trattarvi in modo insolito, ma non è per mancanza di rissspetto: non sono abituati alla vostra presenza. Vi prego di non offendervi." },
+    { "gameKey": "custom/006/RegNor4TheOndoCups_00604#TEXT_REGNOR4THEONDOCUPS_00604_GHOLSHSAATH_000_024", "hash": "05A82576F9D8B5D0", "target": "Speriamo di riconquistare un giorno ciò che il Diluvio ci ha portato via." },
+    { "gameKey": "custom/006/RegNor4TheOndoCups_00604#TEXT_REGNOR4THEONDOCUPS_00604_GHOLSHSAATH_000_025", "hash": "7977684B8E98971D", "target": "A lungo l'abbiamo creduto impossibile, ma questi sono giorni di cambiamento: antichi sssegni si manifestano e le profezie si avverano. Voi ne siete parte integrante, onorato ossspite. Del cambiamento che vediamo e di quello che verrà..." }
   ]
 }

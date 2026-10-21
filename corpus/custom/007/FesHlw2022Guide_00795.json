@@ -2,17 +2,17 @@
   "conversation": "custom/007/FesHlw2022Guide_00795",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/007/FesHlw2022Guide_00795#TEXT_FESHLW2022GUIDE_00795_GUIDEHLW2022_000_000", "hash": "B8794792428B29B1", "target": "" },
-    { "gameKey": "custom/007/FesHlw2022Guide_00795#TEXT_FESHLW2022GUIDE_00795_Q1_000_000", "hash": "673F5D5EBB19CC31", "target": "" },
-    { "gameKey": "custom/007/FesHlw2022Guide_00795#TEXT_FESHLW2022GUIDE_00795_A1_000_001", "hash": "7384A0929330D4CB", "target": "" },
-    { "gameKey": "custom/007/FesHlw2022Guide_00795#TEXT_FESHLW2022GUIDE_00795_A1_000_002", "hash": "9DE9C5193E7C685E", "target": "" },
-    { "gameKey": "custom/007/FesHlw2022Guide_00795#TEXT_FESHLW2022GUIDE_00795_A1_000_003", "hash": "6C27DEB7E308981C", "target": "" },
-    { "gameKey": "custom/007/FesHlw2022Guide_00795#TEXT_FESHLW2022GUIDE_00795_GUIDEHLW2022_000_010", "hash": "9E2470CE4BC02ABC", "target": "" },
-    { "gameKey": "custom/007/FesHlw2022Guide_00795#TEXT_FESHLW2022GUIDE_00795_GUIDEHLW2022_000_011", "hash": "3AAC0A241F2E0D26", "target": "" },
-    { "gameKey": "custom/007/FesHlw2022Guide_00795#TEXT_FESHLW2022GUIDE_00795_GUIDEHLW2022_000_012", "hash": "A274EF75D7BE9D72", "target": "" },
-    { "gameKey": "custom/007/FesHlw2022Guide_00795#TEXT_FESHLW2022GUIDE_00795_GUIDEHLW2022_000_020", "hash": "EE9662B5B625C0F5", "target": "" },
-    { "gameKey": "custom/007/FesHlw2022Guide_00795#TEXT_FESHLW2022GUIDE_00795_GUIDEHLW2022_000_021", "hash": "5CBC3AC56A21279B", "target": "" },
-    { "gameKey": "custom/007/FesHlw2022Guide_00795#TEXT_FESHLW2022GUIDE_00795_GUIDEHLW2022_000_022", "hash": "B55B31067ACDB5D2", "target": "" },
-    { "gameKey": "custom/007/FesHlw2022Guide_00795#TEXT_FESHLW2022GUIDE_00795_GUIDEHLW2022_000_023", "hash": "47FC383E888974E5", "target": "" }
+    { "gameKey": "custom/007/FesHlw2022Guide_00795#TEXT_FESHLW2022GUIDE_00795_GUIDEHLW2022_000_000", "hash": "B8794792428B29B1", "target": "Salve! Spero vi stiate godendo questi festeggiamenti spaventosamente deliziosi! Noi avventurieri proprio non sappiamo resistere, vero? Ah! Se volete sapere qualcosa, chiedete pure!" },
+    { "gameKey": "custom/007/FesHlw2022Guide_00795#TEXT_FESHLW2022GUIDE_00795_Q1_000_000", "hash": "673F5D5EBB19CC31", "target": "Cosa vuoi chiedere?" },
+    { "gameKey": "custom/007/FesHlw2022Guide_00795#TEXT_FESHLW2022GUIDE_00795_A1_000_001", "hash": "7384A0929330D4CB", "target": "Chi siete?" },
+    { "gameKey": "custom/007/FesHlw2022Guide_00795#TEXT_FESHLW2022GUIDE_00795_A1_000_002", "hash": "9DE9C5193E7C685E", "target": "Che cos'è la Veglia di Ognissanti?" },
+    { "gameKey": "custom/007/FesHlw2022Guide_00795#TEXT_FESHLW2022GUIDE_00795_A1_000_003", "hash": "6C27DEB7E308981C", "target": "Niente." },
+    { "gameKey": "custom/007/FesHlw2022Guide_00795#TEXT_FESHLW2022GUIDE_00795_GUIDEHLW2022_000_010", "hash": "9E2470CE4BC02ABC", "target": "Ma certo, siamo normalissimi avventurieri, qui per conto della Gilda degli Avventurieri! Abbiamo preso le redini della Veglia di Ognissanti dall'abominevole Circo Continentale. E dico: finalmente! Potete star cert<if(gnum4,a,o)> che i festeggiamenti di quest'anno saranno i più orribili e terrificanti di sempre." },
+    { "gameKey": "custom/007/FesHlw2022Guide_00795#TEXT_FESHLW2022GUIDE_00795_GUIDEHLW2022_000_011", "hash": "3AAC0A241F2E0D26", "target": "Abbiamo preparato ogni sorta di evento emozionante, capace di deliziare e spaventare! Perché non vi concedete una breve pausa dalla routine dell'avventura e partecipate ai festeggiamenti?" },
+    { "gameKey": "custom/007/FesHlw2022Guide_00795#TEXT_FESHLW2022GUIDE_00795_GUIDEHLW2022_000_012", "hash": "A274EF75D7BE9D72", "target": "I miei colleghi hanno preparato un assortimento di attrazioni e decorazioni davvero macabre e gratificanti per la Veglia di Ognissanti, nella verdeggiante Gridania. Perché non vi concedete un meritato riposo e partecipate ai festeggiamenti?" },
+    { "gameKey": "custom/007/FesHlw2022Guide_00795#TEXT_FESHLW2022GUIDE_00795_GUIDEHLW2022_000_020", "hash": "EE9662B5B625C0F5", "target": "La leggenda narra che, una volta l'anno, i Dodici onorino i santi con un sontuoso banchetto nei cieli. Durante la loro assenza, però, il regno è privo della loro protezione divina e le creature dell'oscurità escono in massa." },
+    { "gameKey": "custom/007/FesHlw2022Guide_00795#TEXT_FESHLW2022GUIDE_00795_GUIDEHLW2022_000_021", "hash": "5CBC3AC56A21279B", "target": "Temendo per la propria vita, la gente cominciò a chiudersi in casa. Chi non aveva altra scelta che avventurarsi all'aperto si travestiva da mostro, sperando di passare inosservato tra quelli veri." },
+    { "gameKey": "custom/007/FesHlw2022Guide_00795#TEXT_FESHLW2022GUIDE_00795_GUIDEHLW2022_000_022", "hash": "B55B31067ACDB5D2", "target": "Una faccenda spaventosa, vero? Ma ormai appartiene al passato, perché oggi abbiamo avventurieri valorosi come voi a proteggere le nostre città durante l'assenza dei santi!" },
+    { "gameKey": "custom/007/FesHlw2022Guide_00795#TEXT_FESHLW2022GUIDE_00795_GUIDEHLW2022_000_023", "hash": "47FC383E888974E5", "target": "Non avendo più motivo di temere, la gente ha trasformato la Veglia di Ognissanti in una festa divertente. Una situazione davvero detestabile... ehm... <italic(1)>deliziosa<italic(0)>!" }
   ]
 }

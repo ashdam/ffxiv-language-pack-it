@@ -2,11 +2,11 @@
   "conversation": "shop/LotteryExchangeShopEureka3Shard",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "shop/LotteryExchangeShopEureka3Shard#TEXT_LOTTERYEXCHANGESHOPEUREKA3SHARD_UI_TITLE", "hash": "EAEA308D5162EC15", "target": "" },
-    { "gameKey": "shop/LotteryExchangeShopEureka3Shard#TEXT_LOTTERYEXCHANGESHOPEUREKA3SHARD_UI_NOITEM", "hash": "E1D8CD09D8FBFAE3", "target": "" },
-    { "gameKey": "shop/LotteryExchangeShopEureka3Shard#TEXT_LOTTERYEXCHANGESHOPEUREKA3SHARD_RESULT_UI_TITLE", "hash": "506AEE29C142F8DF", "target": "" },
-    { "gameKey": "shop/LotteryExchangeShopEureka3Shard#TEXT_LOTTERYEXCHANGESHOPEUREKA3SHARD_RESULT_UI_NEXT", "hash": "63BC9982DFCCC126", "target": "" },
-    { "gameKey": "shop/LotteryExchangeShopEureka3Shard#TEXT_LOTTERYEXCHANGESHOPEUREKA3SHARD_CONFIRM_SINGLE", "hash": "57C3B58E4E727BF2", "target": "" },
-    { "gameKey": "shop/LotteryExchangeShopEureka3Shard#TEXT_LOTTERYEXCHANGESHOPEUREKA3SHARD_CONFIRM_MULTI", "hash": "723856DD504C07C3", "target": "" }
+    { "gameKey": "shop/LotteryExchangeShopEureka3Shard#TEXT_LOTTERYEXCHANGESHOPEUREKA3SHARD_UI_TITLE", "hash": "EAEA308D5162EC15", "target": "Valutazione dei logogrammi" },
+    { "gameKey": "shop/LotteryExchangeShopEureka3Shard#TEXT_LOTTERYEXCHANGESHOPEUREKA3SHARD_UI_NOITEM", "hash": "E1D8CD09D8FBFAE3", "target": "Non c’è nulla da mostrare." },
+    { "gameKey": "shop/LotteryExchangeShopEureka3Shard#TEXT_LOTTERYEXCHANGESHOPEUREKA3SHARD_RESULT_UI_TITLE", "hash": "506AEE29C142F8DF", "target": "Risultati" },
+    { "gameKey": "shop/LotteryExchangeShopEureka3Shard#TEXT_LOTTERYEXCHANGESHOPEUREKA3SHARD_RESULT_UI_NEXT", "hash": "63BC9982DFCCC126", "target": "Avanti" },
+    { "gameKey": "shop/LotteryExchangeShopEureka3Shard#TEXT_LOTTERYEXCHANGESHOPEUREKA3SHARD_CONFIRM_SINGLE", "hash": "57C3B58E4E727BF2", "target": "Valutare l'oggetto <ennoun(Item,3,lnum1,1,1)>?<br><br><head(<ennoun(Item,3,lnum1,2,1)>)> rimanenti: <num(lnum3)><br>Tentativi rimanenti: <num(lnum2)>" },
+    { "gameKey": "shop/LotteryExchangeShopEureka3Shard#TEXT_LOTTERYEXCHANGESHOPEUREKA3SHARD_CONFIRM_MULTI", "hash": "723856DD504C07C3", "target": "Valutare <num(lnum4)> <ennoun(Item,3,lnum1,2,1)>?<br><br><head(<ennoun(Item,3,lnum1,2,1)>)> rimanenti: <num(lnum3)><br>Tentativi rimanenti: <num(lnum2)>" }
   ]
 }

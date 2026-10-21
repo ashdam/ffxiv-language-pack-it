@@ -2,16 +2,16 @@
   "conversation": "quest/036/BanPix109_03697",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_SEQ_00", "hash": "FA3CD6DCE7C39522", "target": "" },
-    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_TODO_00", "hash": "D622DE2EEC7653B5", "target": "" },
-    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_TODO_01", "hash": "8CF23353EC39A5CE", "target": "" },
-    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_000", "hash": "00046A3BE1DBD02A", "target": "" },
-    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_001", "hash": "F94B5F120058B0B8", "target": "" },
-    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_002", "hash": "03081E089274DA2D", "target": "" },
-    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_003", "hash": "E14D64784FE4FE6E", "target": "" },
-    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_010", "hash": "418BA256E5015E56", "target": "" },
-    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_011", "hash": "FAB87C47E86B4B7F", "target": "" },
-    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_012", "hash": "6D9B2489566A93F6", "target": "" },
-    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_013", "hash": "500634D1BA6805B4", "target": "" }
+    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_SEQ_00", "hash": "FA3CD6DCE7C39522", "target": "Uin Nee non si sognerebbe mai di imporsi alla sua persona mortale preferita.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
+    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_TODO_00", "hash": "D622DE2EEC7653B5", "target": "Esaminare la zona a nord-ovest della Secca dei Sestupletti e uccidere un moss fungus per il cappello" },
+    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_TODO_01", "hash": "8CF23353EC39A5CE", "target": "Consegnare il cappello di fungo muschioso a Uin Nee" },
+    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_000", "hash": "00046A3BE1DBD02A", "target": "Sai, a volte mi sento in colpa a chiederti sempre di correre avanti e indietro a fare commissioni per me. Ma non preoccuparti, oggi non farò niente del genere! Oggi ti racconterò una storia. Una storia di funghi muschiosi e di bambini." },
+    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_001", "hash": "F94B5F120058B0B8", "target": "I funghi muschiosi crescono spesso sulle tombe e per questo gli abitanti di Kholusia li considerano funesti, presagi di morte, malattie e ogni sorta di altre brutte cose. Ecco perché tanti bambini hanno incubi in cui vengono inseguiti da enormi funghi muschiosi! O erano funghi muschiosiosi?" },
+    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_002", "hash": "03081E089274DA2D", "target": "Comunque, questo mi ha fatto pensare. Non sarebbe <italic(1)>tanto<italic(0)> bello se <italic(1)>qualcuno<italic(0)> rasserenasse il cuore di quei poveri sognatori portandomi il cappello di un fungo muschioso ucciso, perché possa intesserlo in un sogno che mostri ai bambini che non c'è nulla da temere da queste buffe creature?" },
+    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_003", "hash": "E14D64784FE4FE6E", "target": "Non ti sto chiedendo di farlo. Cielo, no! Dico soltanto che, <italic(1)>se<italic(0)> qualcuno fosse incline a questo gesto gentile, gli basterebbe un viaggetto brevissimo alla Secca dei Sestupletti per strappare il cappello a uno degli ignari funghi muschiosiosissimi che vivono lì. Ma non preoccuparti, sono certo che ai miei sognatori non dispiacerà vivere nel terrore più assoluto per un altro giorno o due." },
+    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_010", "hash": "418BA256E5015E56", "target": "Mmm? Hai qualcosa per me? Ma non ti ho chiesto niente!" },
+    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_011", "hash": "FAB87C47E86B4B7F", "target": "Il cappello di un fungo muschioso! Come sapevi che ne cercavo uno? È quasi come se avessi il potere di entrare nella <italic(1)>mia<italic(0)> mente! Ma come potrò ricompensare un gesto tanto altruista e del tutto spontaneo?" },
+    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_012", "hash": "6D9B2489566A93F6", "target": "Lo so, ti racconterò un'altra storia sui funghi muschiosi! C'era una volta un regno mortale che ora non esiste più, dove a volte si facevano piccoli scherzi alle persone sgradite mettendo di nascosto ogni giorno un pochino minuscolo di veleno di fungo muschioso nelle loro bevande." },
+    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_013", "hash": "500634D1BA6805B4", "target": "Indovina cosa succedeva? La povera persona si ammalava poco a poco e alla fine moriva, senza che nessuno capisse niente! Un bello scherzo, non trovi? Vorrei averci pensato io! A proposito, posso offrirti un sorso d'acqua prima che tu vada? Eh eh!" }
   ]
 }

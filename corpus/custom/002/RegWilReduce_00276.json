@@ -2,13 +2,13 @@
   "conversation": "custom/002/RegWilReduce_00276",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_TALK_Q1", "hash": "4530BEB8258E4420", "target": "" },
-    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_TALK_A1", "hash": "2108F8CE09E38351", "target": "" },
-    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_TALK_A2", "hash": "CF1DF0422CDAC0B7", "target": "" },
-    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_TALK_A3", "hash": "8BB66DBFD6D7E8D2", "target": "" },
-    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_KOKOSAMU_000_000", "hash": "CF2128C2511105A3", "target": "" },
-    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_KOKOSAMU_000_001", "hash": "D4BE825D68896289", "target": "" },
-    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_KOKOSAMU_000_010", "hash": "C36812A46C2A3120", "target": "" },
-    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_KOKOSAMU_000_011", "hash": "EECE6ED895D7FE7B", "target": "" }
+    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_TALK_Q1", "hash": "4530BEB8258E4420", "target": "Cosa vuoi chiedere?" },
+    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_TALK_A1", "hash": "2108F8CE09E38351", "target": "Che cos'è la riduzione eterica?" },
+    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_TALK_A2", "hash": "CF1DF0422CDAC0B7", "target": "Quali oggetti si prestano alla riduzione eterica?" },
+    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_TALK_A3", "hash": "8BB66DBFD6D7E8D2", "target": "Niente." },
+    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_KOKOSAMU_000_000", "hash": "CF2128C2511105A3", "target": "Come ti ho già detto, è un metodo per ridurre certi oggetti ai loro componenti eterici di base. Soprattutto cristalli, ma ogni tanto anche altri materiali rari." },
+    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_KOKOSAMU_000_001", "hash": "D4BE825D68896289", "target": "Non oggetti qualsiasi, bada bene: oggetti collezionabili. Non è già facile mettere le mani su rarità simili, quindi farai meglio a consultare i registri per cercare nel posto giusto." },
+    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_KOKOSAMU_000_010", "hash": "C36812A46C2A3120", "target": "Be'... se non è un oggetto collezionabile, non puoi ridurlo. Questo è quanto." },
+    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_KOKOSAMU_000_011", "hash": "EECE6ED895D7FE7B", "target": "Inoltre, anche se puoi ridurre qualsiasi oggetto collezionabile, quelli con un valore collezionistico particolarmente alto danno rese molto migliori. Certo, dovrai separartene, ma non serve che ti ricordi l'ovvio, eh?" }
   ]
 }

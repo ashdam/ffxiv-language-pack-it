@@ -2,16 +2,16 @@
   "conversation": "quest/037/BanPix127_03715",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_SEQ_00", "hash": "57D25982D65FB4A0", "target": "" },
-    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_TODO_00", "hash": "CF8FD3E599C7DD27", "target": "" },
-    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_TODO_01", "hash": "F05207A298F3C64A", "target": "" },
-    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_000", "hash": "7DB3035785D3CC21", "target": "" },
-    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_001", "hash": "090C147F4EBBD071", "target": "" },
-    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_002", "hash": "2D7C234B00E4E15B", "target": "" },
-    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_003", "hash": "7E0F75CCDDCEB4C1", "target": "" },
-    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_004", "hash": "1E95D06A5640C839", "target": "" },
-    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_010", "hash": "1165231627F9D52F", "target": "" },
-    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_011", "hash": "57CC22F4D033D411", "target": "" },
-    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_012", "hash": "8CEF6CE501D055A5", "target": "" }
+    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_SEQ_00", "hash": "57D25982D65FB4A0", "target": "Uin Nee si arrovella sul concetto di altalena.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
+    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_TODO_00", "hash": "CF8FD3E599C7DD27", "target": "Uccidere i fibrous psammeads nel punto indicato e ottenere seta di psammead" },
+    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_TODO_01", "hash": "F05207A298F3C64A", "target": "Consegnare la seta di psammead a Uin Nee" },
+    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_000", "hash": "7DB3035785D3CC21", "target": "Nulla mi fa compatire la tua gente quanto le altalene. Dopotutto, a chi serve un arnese tanto sciocco quando può volare?" },
+    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_001", "hash": "090C147F4EBBD071", "target": "Eppure voi... dovete legare un pezzo di legno al ramo di un albero e sperare che non si spezzi, facendovi cadere a terra e morire sul colpo! Tutto per poter andare sempre più in alto e sentirvi sul punto di spiccare il volo. Ma non volerete! È deprimente, ecco cos'è." },
+    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_002", "hash": "2D7C234B00E4E15B", "target": "Ai bambini però sembrano piacere. E se vogliono una triste imitazione del volo, chi sono io per rifiutare? Comunque, ho un albero e questo pezzo di legno raccolto da terra, quindi in pratica ho già costruito quasi tutto!" },
+    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_003", "hash": "7E0F75CCDDCEB4C1", "target": "Ci serve solo una corda! Possibilmente robusta. Sfracellarsi al suolo non è affatto divertente, anche se <italic(1)>è<italic(0)> un sogno. Forse potresti procurarmi quella resistente seta di psammead di cui tutti parlano? Per favore, per favore?" },
+    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_004", "hash": "1E95D06A5640C839", "target": "Le grandi e cattive madri psammead producono la seta più robusta. Sono sempre un po' restie a uscire dai nascondigli, ma per fortuna accorreranno se attacchi le più piccole!" },
+    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_010", "hash": "1165231627F9D52F", "target": "Come stanno le psammead? Sempre striscianti e inquietanti?" },
+    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_011", "hash": "57CC22F4D033D411", "target": "Oh, sì! Questa dovrebbe essere più che robusta a sufficienza. Prima dovrò ingannare qualche mortale adulto perché la provi, naturalmente. Non vorrei rischiare i bambini! Una volta intessuta per bene nel sogno, forse la proverò anch'io!" },
+    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_012", "hash": "8CEF6CE501D055A5", "target": "Ammetto che l'idea di essere cullato dolcemente è in qualche modo rasserenante. Avanti e indietro, avanti e indietro... Se chiudo gli occhi, quasi ricordo..." }
   ]
 }

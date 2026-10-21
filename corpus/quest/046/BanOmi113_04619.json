@@ -2,17 +2,17 @@
   "conversation": "quest/046/BanOmi113_04619",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_SEQ_00", "hash": "55B6E3D5069F4CE6", "target": "" },
-    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_TODO_00", "hash": "91C4A9136481862A", "target": "" },
-    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_TODO_01", "hash": "6E92E359B7FDA835", "target": "" },
-    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_STIGMA4_000_000", "hash": "6792DF03088D44C2", "target": "" },
-    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_STIGMA4_000_001", "hash": "F0A19644D27E2E8E", "target": "" },
-    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_STIGMA4_000_002", "hash": "A2A2A38349F38D56", "target": "" },
-    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_STIGMA4_000_003", "hash": "0230AF32F62FCC6D", "target": "" },
-    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_GREBULOFF04619_000_010", "hash": "3C8E9CFE555CFD51", "target": "" },
-    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_SYSTEM_000_011", "hash": "1D247E73A117889A", "target": "" },
-    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_STIGMA4_000_021", "hash": "08012AF451C44035", "target": "" },
-    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_STIGMA4_000_022", "hash": "FA68CA473F8D58A0", "target": "" },
-    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_STIGMA4_000_023", "hash": "2DAA95C0385A88E5", "target": "" }
+    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_SEQ_00", "hash": "55B6E3D5069F4CE6", "target": "Stigma-4 ha una richiesta urgente.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
+    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_TODO_00", "hash": "91C4A9136481862A", "target": "Riporre il parched Grebuloff nel sacco umettante per corpi" },
+    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_TODO_01", "hash": "6E92E359B7FDA835", "target": "Consegnare il sacco umettante per corpi a Stigma-4" },
+    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_STIGMA4_000_000", "hash": "6792DF03088D44C2", "target": "Richiesta di assistenza per una questione urgente. Un'unità grebuloff si è avventurata su un altro astro nella speranza di pescare pesci più grandi. Da allora il suo ricetrasmettitore ha smesso di rispondere. Occorre avviare una ricerca con soccorso." },
+    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_STIGMA4_000_001", "hash": "F0A19644D27E2E8E", "target": "Le normali riserve d'acqua non sono adatte a una spedizione tanto lunga. Il soggetto soffre probabilmente di disidratazione avanzata, con conseguente perdita delle funzioni corporee." },
+    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_STIGMA4_000_002", "hash": "A2A2A38349F38D56", "target": "Individua l'unità scomparsa e riponila in questo sacco umettante per corpi. I livelli di umidità dovrebbero restare stabili fino al tuo ritorno, quando sarà possibile prestare cure mediche appropriate." },
+    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_STIGMA4_000_003", "hash": "0230AF32F62FCC6D", "target": "Il soggetto è stato avvistato l'ultima volta nei pressi del villaggio degli Ea. Per preservarne la vita, è indispensabile trovare rapidamente il Grebuloff." },
+    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_GREBULOFF04619_000_010", "hash": "3C8E9CFE555CFD51", "target": "A-Acqua... Acqua..." },
+    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_SYSTEM_000_011", "hash": "1D247E73A117889A", "target": "Il Grebuloff giace bocconi a terra e sembra morire di sete. Prepari il sacco per corpi..." },
+    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_STIGMA4_000_021", "hash": "08012AF451C44035", "target": "Ritorno confermato. Presentare il sacco per corpi per una scansione medica preventiva." },
+    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_STIGMA4_000_022", "hash": "FA68CA473F8D58A0", "target": "...Scansione completata. Benché i livelli di idratazione siano gravemente ridotti, i parametri vitali restano stabili." },
+    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_STIGMA4_000_023", "hash": "2DAA95C0385A88E5", "target": "Per prevenire incidenti simili, tutti i Grebuloff dovranno portare riserve d'acqua aggiuntive quando partono per una spedizione. Chi non si adeguerà verrà considerato un elemento ostile soggetto a eliminazione immediata.<br>Grazie per la collaborazione. Riposa bene." }
   ]
 }

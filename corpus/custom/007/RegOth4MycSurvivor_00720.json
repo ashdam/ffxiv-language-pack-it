@@ -2,13 +2,13 @@
   "conversation": "custom/007/RegOth4MycSurvivor_00720",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/007/RegOth4MycSurvivor_00720#TEXT_REGOTH4MYCSURVIVOR_00720_BLADESOFGUNNHILDR_000_000", "hash": "AED3DC41ED3CB1B1", "target": "" },
-    { "gameKey": "custom/007/RegOth4MycSurvivor_00720#TEXT_REGOTH4MYCSURVIVOR_00720_BLADESOFGUNNHILDR_000_001", "hash": "6A681A45354ED45B", "target": "" },
-    { "gameKey": "custom/007/RegOth4MycSurvivor_00720#TEXT_REGOTH4MYCSURVIVOR_00720_BLADESOFGUNNHILDR_000_002", "hash": "9F57151C2C7D6196", "target": "" },
-    { "gameKey": "custom/007/RegOth4MycSurvivor_00720#TEXT_REGOTH4MYCSURVIVOR_00720_BLADESOFGUNNHILDR_000_003", "hash": "71D05F3400ED840C", "target": "" },
-    { "gameKey": "custom/007/RegOth4MycSurvivor_00720#TEXT_REGOTH4MYCSURVIVOR_00720_BLADESOFGUNNHILDR_000_004", "hash": "845D9A0FB264BA80", "target": "" },
-    { "gameKey": "custom/007/RegOth4MycSurvivor_00720#TEXT_REGOTH4MYCSURVIVOR_00720_BLADESOFGUNNHILDR_000_005", "hash": "1A696244CF683F6F", "target": "" },
-    { "gameKey": "custom/007/RegOth4MycSurvivor_00720#TEXT_REGOTH4MYCSURVIVOR_00720_BLADESOFGUNNHILDR_000_006", "hash": "79EC6F4BDB2B1E45", "target": "" },
-    { "gameKey": "custom/007/RegOth4MycSurvivor_00720#TEXT_REGOTH4MYCSURVIVOR_00720_BLADESOFGUNNHILDR_000_007", "hash": "FA59750F430C4365", "target": "" }
+    { "gameKey": "custom/007/RegOth4MycSurvivor_00720#TEXT_REGOTH4MYCSURVIVOR_00720_BLADESOFGUNNHILDR_000_000", "hash": "AED3DC41ED3CB1B1", "target": "Lama <split(<string(gstr1)>, ,2)>, è un onore. Vorrei che i miei fratelli e le mie sorelle d'armi fossero sopravvissuti per vedere Bozja libera dalla IV Legione." },
+    { "gameKey": "custom/007/RegOth4MycSurvivor_00720#TEXT_REGOTH4MYCSURVIVOR_00720_BLADESOFGUNNHILDR_000_001", "hash": "6A681A45354ED45B", "target": "Ah, perdonatemi, non ci siamo presentati ufficialmente. Sono Meryall, l'... l'ultima delle Lame di Gunnhildr." },
+    { "gameKey": "custom/007/RegOth4MycSurvivor_00720#TEXT_REGOTH4MYCSURVIVOR_00720_BLADESOFGUNNHILDR_000_002", "hash": "9F57151C2C7D6196", "target": "E finché vivrò, giuro sul mio onore di Lama della Regina che la storia non dimenticherà i sacrifici compiuti per dare a Bozja la libertà. I nomi dei miei compagni caduti continueranno a vivere!" },
+    { "gameKey": "custom/007/RegOth4MycSurvivor_00720#TEXT_REGOTH4MYCSURVIVOR_00720_BLADESOFGUNNHILDR_000_003", "hash": "71D05F3400ED840C", "target": "Che gli imperiali abbiano osato infangarne l'onore rivoltandoli contro di noi, trasformandoli in mostri... È più di quanto il mio cuore possa sopportare." },
+    { "gameKey": "custom/007/RegOth4MycSurvivor_00720#TEXT_REGOTH4MYCSURVIVOR_00720_BLADESOFGUNNHILDR_000_004", "hash": "845D9A0FB264BA80", "target": "Per fortuna, uno dei miei compagni delle Lame era ancora integro nel corpo, e siamo riusciti a prenderlo in custodia." },
+    { "gameKey": "custom/007/RegOth4MycSurvivor_00720#TEXT_REGOTH4MYCSURVIVOR_00720_BLADESOFGUNNHILDR_000_005", "hash": "1A696244CF683F6F", "target": "Se ho ben capito, è stata scoperta una cura per l'asservimento, vero? Allora è soltanto questione di tempo prima che la sua mente venga guarita." },
+    { "gameKey": "custom/007/RegOth4MycSurvivor_00720#TEXT_REGOTH4MYCSURVIVOR_00720_BLADESOFGUNNHILDR_000_006", "hash": "79EC6F4BDB2B1E45", "target": "Poi potremo cominciare davvero a ricostituire le Lame di Gunnhildr. È il minimo che possiamo fare per onorare i nostri caduti." },
+    { "gameKey": "custom/007/RegOth4MycSurvivor_00720#TEXT_REGOTH4MYCSURVIVOR_00720_BLADESOFGUNNHILDR_000_007", "hash": "FA59750F430C4365", "target": "Senza di voi, dubito molto che sarei ancora qui a perpetuare le tradizioni delle Lame di Gunnhildr. A nome delle Lame che ci hanno preceduto e di quelle che verranno, vi ringrazio." }
   ]
 }

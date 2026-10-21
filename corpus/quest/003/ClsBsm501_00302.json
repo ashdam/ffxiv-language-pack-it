@@ -70,7 +70,7 @@
     { "gameKey": "quest/003/ClsBsm501_00302#TEXT_CLSBSM501_00302_BRITHAEL_000_055", "hash": "A5B8DE6E73A4FA79", "target": "E non avere dubbi, <if(gnum4,ragazza,ragazzo)>: l’impatto di ciò che hai fatto per la gilda si farà sentire negli anni a venire." },
     { "gameKey": "quest/003/ClsBsm501_00302#TEXT_CLSBSM501_00302_BRITHAEL_000_056", "hash": "2A06CE1D2E4BE0B4", "target": "Sei <if(gnum4,una delle migliori fabbre,uno dei migliori fabbri)> che abbia mai avuto il dannato piacere di conoscere, <split(<string(gstr1)>, ,1)>. Non c’è altro da dire." },
     { "gameKey": "quest/003/ClsBsm501_00302#TEXT_CLSBSM501_00302_SYSTEM_000_500", "hash": "D4A4D987C7D86D12", "target": "Questo conclude le missioni Blacksmith di FINAL FANTASY XIV: A Realm Reborn. Per intraprendere la prossima serie di missioni, devi prima soddisfare i seguenti requisiti:" },
-    { "gameKey": "quest/003/ClsBsm501_00302#TEXT_CLSBSM501_00302_SYSTEM_000_501", "hash": "E6799FB71474914E", "target": "※Devi aver completato la missione dello scenario principale «Before the Dawn»." },
+    { "gameKey": "quest/003/ClsBsm501_00302#TEXT_CLSBSM501_00302_SYSTEM_000_501", "hash": "E6799FB71474914E", "target": "※Devi aver completato la missione della storia principale «Before the Dawn»." },
     { "gameKey": "quest/003/ClsBsm501_00302#TEXT_CLSBSM501_00302_SYSTEM_000_502", "hash": "3CD2F08A6AE2FAA6", "target": "Una volta fatto, la prossima missione Blacksmith sarà disponibile presso Brithael." }
   ]
 }

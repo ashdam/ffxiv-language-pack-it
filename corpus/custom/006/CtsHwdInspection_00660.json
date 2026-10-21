@@ -2,19 +2,19 @@
   "conversation": "custom/006/CtsHwdInspection_00660",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_000_000", "hash": "B143F5AA7D86E7ED", "target": "" },
-    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_000", "hash": "ABAF45B8E24A47FB", "target": "" },
-    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_010", "hash": "76DE3A7E0BDE2AE3", "target": "" },
-    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_020", "hash": "8D0D35DEE51A0B6E", "target": "" },
-    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_030", "hash": "6E065124FF0F6D6F", "target": "" },
-    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_040", "hash": "87E566555C4D184A", "target": "" },
-    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_050", "hash": "14D44034D43F834B", "target": "" },
-    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_060", "hash": "AE0BBFAFFE401E82", "target": "" },
-    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_070", "hash": "10AD281F69C414EB", "target": "" },
-    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_073", "hash": "D2020FE4101A074F", "target": "" },
-    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_077", "hash": "1763925E5BA925C1", "target": "" },
-    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_080", "hash": "CA2C9FF3916670A8", "target": "" },
-    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_090", "hash": "EEE1A5D609889BE0", "target": "" },
-    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_020_000", "hash": "2ADDC04929598328", "target": "" }
+    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_000_000", "hash": "B143F5AA7D86E7ED", "target": "<if(gnum4,Lady,Lord)> <split(<string(gstr1)>, ,1)>, quale onore! Cercate lord Aurvael?" },
+    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_000", "hash": "ABAF45B8E24A47FB", "target": "<if(gnum4,Lady,Lord)> <split(<string(gstr1)>, ,1)>, quale onore! Come posso servirvi oggi?" },
+    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_010", "hash": "76DE3A7E0BDE2AE3", "target": "Dite di voler mettere le vostre capacità di raccolta al servizio della ricostruzione? Meraviglioso, meraviglioso! Sarà un piacere illustrarvi il nostro lavoro!" },
+    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_020", "hash": "8D0D35DEE51A0B6E", "target": "Come sicuramente saprete, la ricostruzione del Firmament richiede una vera montagna di materiali. Per soddisfare tale necessità, si è deciso di sfruttare l'abbondanza di risorse del Diadem." },
+    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_030", "hash": "6E065124FF0F6D6F", "target": "Persone abili nella raccolta come voi possono avventurarsi nelle isole e riportare materiali da usare per ricostruire il Firmament." },
+    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_040", "hash": "87E566555C4D184A", "target": "Data la natura delle isole, però, dobbiamo assicurarci che i materiali trovati laggiù non siano... come dire, <italic(1)>contaminati<italic(0)>, prima di usarli." },
+    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_050", "hash": "14D44034D43F834B", "target": "Per questo vi chiediamo di portarmi tutti gli oggetti che raccogliete, affinché li ispezioni." },
+    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_060", "hash": "AE0BBFAFFE401E82", "target": "Gli oggetti ritenuti sicuri vi saranno restituiti con un sigillo d'approvazione." },
+    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_070", "hash": "10AD281F69C414EB", "target": "E, se ve lo state chiedendo, sì, anche i pesci devono essere ispezionati.<br>...Dalla vostra espressione perplessa, vedo che faticate a immaginare a che cosa servano i pesci per ricostruire." },
+    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_073", "hash": "D2020FE4101A074F", "target": "Vedete, i pesci del Diadem sono noti per mangiare cose insolite e, con l'ispezione, verifichiamo se hanno risorse nella pancia. Una volta confermato, potrete recuperare quel tesoro con una rapida desintesi." },
+    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_077", "hash": "1763925E5BA925C1", "target": "Ora, vorrete certamente sapere che cosa ci guadagnerete. In considerazione dei pericoli del Diadem, offriamo skybuilders' scrips come ricompensa." },
+    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_080", "hash": "CA2C9FF3916670A8", "target": "Inoltre, potrete fare ciò che desiderate di tutti i materiali trovati. Che scegliate di venderli agli artigiani o di usarli personalmente, finiranno comunque per favorire la ricostruzione!" },
+    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_090", "hash": "EEE1A5D609889BE0", "target": "E con questo ho concluso la spiegazione. Se desiderate raggiungere il Diadem per quest'attività, rivolgetevi a lord Aurvael qui accanto per ulteriori informazioni." },
+    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_020_000", "hash": "2ADDC04929598328", "target": "Se avete materiali del Diadem da ispezionare, <if(gnum4,mia signora,mio signore)>, sarò lieto di aiutarvi!" }
   ]
 }

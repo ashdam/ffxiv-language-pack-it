@@ -2,19 +2,19 @@
   "conversation": "quest/013/BanKob108_01332",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_SEQ_00", "hash": "DAB914A6ED8CBE8C", "target": "" },
-    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_SEQ_01", "hash": "CC2CEBCA6FA0E109", "target": "" },
-    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_SEQ_02", "hash": "E0D7AF6188069CED", "target": "" },
-    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_SEQ_03", "hash": "C2E0FBA441259352", "target": "" },
-    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_TODO_00", "hash": "A8FD8C06FCF1FDAC", "target": "" },
-    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_TODO_01", "hash": "A6791648998D6187", "target": "" },
-    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_000", "hash": "11070C09341BB195", "target": "" },
-    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_001", "hash": "38A0EBDD0CA16740", "target": "" },
-    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_002", "hash": "F81564234B3CF322", "target": "" },
-    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_003", "hash": "AE010427598A77B5", "target": "" },
-    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_004", "hash": "213A99470A0A0F99", "target": "" },
-    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_010", "hash": "1B688501B3DA1908", "target": "" },
-    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_011", "hash": "4502A6E91674A8C2", "target": "" },
-    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_012", "hash": "D974CB9086D5685B", "target": "" }
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_SEQ_00", "hash": "DAB914A6ED8CBE8C", "target": "Negli occhi di 789th Order Dustman Bo Zu brilla una voglia di fare insolita." },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_SEQ_01", "hash": "CC2CEBCA6FA0E109", "target": "In uno degli sviluppi più sconvolgenti della Settima Era Astrale, il leggendario scansafatiche Bo Zu dichiara di voler voltare pagina e fare un po' di lavoro per cambiare, ma ti chiede aiuto per trovare la determinazione necessaria. A questo scopo, raggiungi il Kobold Dig e procurati una manciata di elettro dal 639º Ordine, perché possa vedere coi suoi occhi il frutto del lavoro onesto." },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_SEQ_02", "hash": "E0D7AF6188069CED", "target": "Hai «preso in prestito» una quantità di elettro puro dalle scorte del 639º Ordine. Consegnalo a Bo Zu perché possa risollevargli il morale." },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_SEQ_03", "hash": "C2E0FBA441259352", "target": "Senza sorprendere assolutamente nessuno, Bo Zu decide di appropriarsi dell'elettro preso in prestito a nome del 789º Ordine. Pur essendo discutibili i suoi metodi, senza dubbio sono gli abusi e l'oppressione subiti da lui e dai suoi simili per mano di Zo Ga ad averli spinti a misure tanto disperate..." },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_TODO_00", "hash": "A8FD8C06FCF1FDAC", "target": "Cercare minerale di elettro pregiato nei 639th Order pots" },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_TODO_01", "hash": "A6791648998D6187", "target": "Consegnare il minerale di elettro pregiato a 789th Order Dustman Bo Zu" },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_000", "hash": "11070C09341BB195", "target": "Bo Zu è stato un fannullone: un ozioso, uno scansafatiche, un fannullone. Ma Bo Zu non vuole esserlo più, no, no, non più!" },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_001", "hash": "38A0EBDD0CA16740", "target": "Gi Gu dice che il 639º Ordine trova metalli lucenti, sì, sì, i più lucenti. Sarà vero? Il 639º Ordine era un tempo misero quanto noi: malconcio, trasandato, misero." },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_002", "hash": "F81564234B3CF322", "target": "Se il 639º Ordine può trovare cose luccicanti, perché non io? Sì, sì, perché non io? Anche Bo Zu può arricchirsi!" },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_003", "hash": "AE010427598A77B5", "target": "Ma vorrei esserne certo: sicuro, convinto, certo. Andrai allo scavo, sì? Riporterai a Bo Zu la prova delle imprese del 639º Ordine? Sì, sì, devi farlo!" },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_004", "hash": "213A99470A0A0F99", "target": "Vorrei esserne certo: sicuro, convinto, certo. Andrai allo scavo, sì? Riporterai a Bo Zu la prova delle imprese del 639º Ordine? Sì, sì, devi farlo!" },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_010", "hash": "1B688501B3DA1908", "target": "<if(gnum4,L'avventuriera,L'avventuriero)> riporta cose luccicanti, sì? Dal 639º Ordine a Bo Zu?" },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_011", "hash": "4502A6E91674A8C2", "target": "Guarda come scintilla: brilla, luccica, scintilla! Il 639º Ordine ha estratto una fortuna. Sì, sì, colpiscono nel segno!" },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_012", "hash": "D974CB9086D5685B", "target": "Di certo... non sentiranno la mancanza di un luccichio, no, no, di uno o due luccichii. Grazie, sì, grazie, <if(gnum4,avventuriera,avventuriero)>! Perché oggi la ricchezza è arrivata anche a Bo Zu!" }
   ]
 }

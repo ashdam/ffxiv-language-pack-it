@@ -2,17 +2,17 @@
   "conversation": "quest/036/BanPix105_03693",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/036/BanPix105_03693#TEXT_BANPIX105_03693_SEQ_00", "hash": "F22823971EF241B0", "target": "" },
-    { "gameKey": "quest/036/BanPix105_03693#TEXT_BANPIX105_03693_TODO_00", "hash": "E62A1D5A725B47EC", "target": "" },
-    { "gameKey": "quest/036/BanPix105_03693#TEXT_BANPIX105_03693_TODO_01", "hash": "A6F8C491E07A6784", "target": "" },
-    { "gameKey": "quest/036/BanPix105_03693#TEXT_BANPIX105_03693_UINNEE_000_000", "hash": "EAB491232F973564", "target": "" },
-    { "gameKey": "quest/036/BanPix105_03693#TEXT_BANPIX105_03693_UINNEE_000_001", "hash": "B62FA14B04CC4C6A", "target": "" },
-    { "gameKey": "quest/036/BanPix105_03693#TEXT_BANPIX105_03693_UINNEE_000_002", "hash": "5F853C6C4AF37857", "target": "" },
-    { "gameKey": "quest/036/BanPix105_03693#TEXT_BANPIX105_03693_UINNEE_000_003", "hash": "CE5B5F6C99084F2C", "target": "" },
-    { "gameKey": "quest/036/BanPix105_03693#TEXT_BANPIX105_03693_UINNEE_000_004", "hash": "F74C877713C78222", "target": "" },
-    { "gameKey": "quest/036/BanPix105_03693#TEXT_BANPIX105_03693_UINNEE_000_010", "hash": "7C674936A75C86DE", "target": "" },
-    { "gameKey": "quest/036/BanPix105_03693#TEXT_BANPIX105_03693_UINNEE_000_011", "hash": "91E96F258A2357F9", "target": "" },
-    { "gameKey": "quest/036/BanPix105_03693#TEXT_BANPIX105_03693_UINNEE_000_012", "hash": "1F6D8A92E38CB77A", "target": "" },
-    { "gameKey": "quest/036/BanPix105_03693#TEXT_BANPIX105_03693_UINNEE_000_013", "hash": "99D908885596AD9B", "target": "" }
+    { "gameKey": "quest/036/BanPix105_03693#TEXT_BANPIX105_03693_SEQ_00", "hash": "F22823971EF241B0", "target": "Uin Nee è in apprensione per i suoi affari con i Nu Mou.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
+    { "gameKey": "quest/036/BanPix105_03693#TEXT_BANPIX105_03693_TODO_00", "hash": "E62A1D5A725B47EC", "target": "Esaminare il punto indicato a nord di Phisor Lran e uccidere uno sweet echevore per la coda" },
+    { "gameKey": "quest/036/BanPix105_03693#TEXT_BANPIX105_03693_TODO_01", "hash": "A6F8C491E07A6784", "target": "Consegnare la coda di echevore a Uin Nee" },
+    { "gameKey": "quest/036/BanPix105_03693#TEXT_BANPIX105_03693_UINNEE_000_000", "hash": "EAB491232F973564", "target": "Ma guarda, <if(gnum4,la mia mortale preferita,il mio mortale preferito)>! E sai <italic(1)>perché<italic(0)> sei <if(gnum4,la mia preferita,il mio preferito)>? Perché hai il talento di presentarti <italic(1)>esattamente<italic(0)> quando mi serve qualcosa. Come adesso, per esempio!" },
+    { "gameKey": "quest/036/BanPix105_03693#TEXT_BANPIX105_03693_UINNEE_000_001", "hash": "B62FA14B04CC4C6A", "target": "Vedi, ho chiesto a un artigiano Nu Mou di costruirmi un delizioso giocattolo nuovo da portare ai bambini nei loro sogni e ho promesso di ripagarlo con qualcosa di molto, molto speciale: una coda di echevore, per la precisione!" },
+    { "gameKey": "quest/036/BanPix105_03693#TEXT_BANPIX105_03693_UINNEE_000_002", "hash": "5F853C6C4AF37857", "target": "Hai mai visto una coda di echevore? Puoi annusarla o berne il contenuto, che ha il sapore e il profumo del dolcissimo miele! Un po' <italic(1)>troppo<italic(0)> dolce per i miei gusti, a dire il vero, ma i Nu Mou sembrano non averne mai abbastanza." },
+    { "gameKey": "quest/036/BanPix105_03693#TEXT_BANPIX105_03693_UINNEE_000_003", "hash": "CE5B5F6C99084F2C", "target": "C'è però un problemino. Gli echevore più dolci si trovano solo pericolosamente vicino al territorio di quegli odiosissimi Fuath. Al solo pensiero di quelle mani viscide, scivolose e sbavanti che mi afferrano... bleah! Perché mi hai fatto pensare a cose tanto spiacevoli!?" },
+    { "gameKey": "quest/036/BanPix105_03693#TEXT_BANPIX105_03693_UINNEE_000_004", "hash": "F74C877713C78222", "target": "Umpf! Come penitenza, esigo che tu vada a procurarmi la coda di echevore che cerco! E se lungo il tragitto incontri qualche Fuath, colpiscilo pure su quella faccia compiaciuta con quello stupido cappellino!" },
+    { "gameKey": "quest/036/BanPix105_03693#TEXT_BANPIX105_03693_UINNEE_000_010", "hash": "7C674936A75C86DE", "target": "\\<annusa> È dolcissimo miele quello che sento? Sapevo che non saresti <if(gnum4,tornata,tornato)> a mani vuote! Be', consegnamelo, allora!" },
+    { "gameKey": "quest/036/BanPix105_03693#TEXT_BANPIX105_03693_UINNEE_000_011", "hash": "91E96F258A2357F9", "target": "Ma questo è l'aroma più dolce che abbia mai avuto il piacere di annusare! Forse quei Nu Mou <italic(1)>sanno<italic(0)> di cosa parlano. Forse non se la prenderanno se ne prendo solo un pochino piccolissimo..." },
+    { "gameKey": "quest/036/BanPix105_03693#TEXT_BANPIX105_03693_UINNEE_000_012", "hash": "1F6D8A92E38CB77A", "target": "Ehm! Vale a dire che <italic(1)>certo<italic(0)> non sto pensando di berne un sorso! Noi pixie abbiamo palati <italic(1)>molto<italic(0)> più raffinati di quegli sciocchi Nu Mou. Non ce ne stiamo tutto il giorno a succhiare queste code disgustose!" },
+    { "gameKey": "quest/036/BanPix105_03693#TEXT_BANPIX105_03693_UINNEE_000_013", "hash": "99D908885596AD9B", "target": "Comunque, grazie come sempre di essere così servil... ehm, d'aiuto! Tanto d'aiuto! Torna presto, per favore! Ora, solo un pochino... Mmm? Sei ancora qui?" }
   ]
 }

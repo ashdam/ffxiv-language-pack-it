@@ -51,7 +51,7 @@
     { "gameKey": "quest/024/ClsWvr700_02435#TEXT_CLSWVR700_02435_Q1_000_000", "hash": "CFC237293640C834", "target": "Che cosa dirai?" },
     { "gameKey": "quest/024/ClsWvr700_02435#TEXT_CLSWVR700_02435_A1_000_001", "hash": "B2B4F3218454FAF3", "target": "Voi siete ciò che lei aspira a diventare." },
     { "gameKey": "quest/024/ClsWvr700_02435#TEXT_CLSWVR700_02435_A1_000_002", "hash": "DA39C4A903A4A4F2", "target": "Siete voi ad averle dato un sogno." },
-    { "gameKey": "quest/024/ClsWvr700_02435#TEXT_CLSWVR700_02435_A1_000_003", "hash": "628E990E86ED7F82", "target": "Nulla." },
+    { "gameKey": "quest/024/ClsWvr700_02435#TEXT_CLSWVR700_02435_A1_000_003", "hash": "628E990E86ED7F82", "target": "Niente." },
     { "gameKey": "quest/024/ClsWvr700_02435#TEXT_CLSWVR700_02435_KEIMEI_000_038", "hash": "C73ADAFBE17315AE", "target": "Noi saremo anche i suoi mecenati e amici, ma tu, Kototsuru, sei quella che ha sempre ammirato e ciò che un giorno vorrebbe diventare. La ragazza ha fatto molta strada, ma è pur sempre una ragazza. Senza di te a guidarla, a sfidarla a diventare più di ciò che è oggi, è perduta." },
     { "gameKey": "quest/024/ClsWvr700_02435#TEXT_CLSWVR700_02435_KEIMEI_000_039", "hash": "0787074283624B6C", "target": "È vero che non abbiamo risparmiato sforzi per aiutarla a realizzare il suo sogno. Ma senza di te, Kototsuru, quel sogno non sarebbe mai nato. Senza di te a guidarla, a sfidarla a diventare più di ciò che è oggi, è perduta." },
     { "gameKey": "quest/024/ClsWvr700_02435#TEXT_CLSWVR700_02435_KEIMEI_000_040", "hash": "F01522D408C1541F", "target": "Se permettete, <if(gnum4,maestra,maestro)> <split(<string(gstr1)>, ,2)>... lasciate fare a me." },

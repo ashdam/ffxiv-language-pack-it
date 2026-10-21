@@ -2,12 +2,12 @@
   "conversation": "custom/004/CtsErkEureka1GilShop_00448",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/004/CtsErkEureka1GilShop_00448#TEXT_CTSERKEUREKA1GILSHOP_00448_GILSHOP00448_000_000", "hash": "595BB173DAC68E46", "target": "" },
-    { "gameKey": "custom/004/CtsErkEureka1GilShop_00448#TEXT_CTSERKEUREKA1GILSHOP_00448_Q1_000_000", "hash": "B98801B64AF8838E", "target": "" },
-    { "gameKey": "custom/004/CtsErkEureka1GilShop_00448#TEXT_CTSERKEUREKA1GILSHOP_00448_A1_000_001", "hash": "749EFA663E41EC14", "target": "" },
-    { "gameKey": "custom/004/CtsErkEureka1GilShop_00448#TEXT_CTSERKEUREKA1GILSHOP_00448_A1_000_002", "hash": "14CF996AD26DAB77", "target": "" },
-    { "gameKey": "custom/004/CtsErkEureka1GilShop_00448#TEXT_CTSERKEUREKA1GILSHOP_00448_A1_000_003", "hash": "2202E67F4685F600", "target": "" },
-    { "gameKey": "custom/004/CtsErkEureka1GilShop_00448#TEXT_CTSERKEUREKA1GILSHOP_00448_GILSHOP00448_000_010", "hash": "88BE47D03027871D", "target": "" },
-    { "gameKey": "custom/004/CtsErkEureka1GilShop_00448#TEXT_CTSERKEUREKA1GILSHOP_00448_SYSTEM_000_011", "hash": "E29AD6A2EE1A79C8", "target": "" }
+    { "gameKey": "custom/004/CtsErkEureka1GilShop_00448#TEXT_CTSERKEUREKA1GILSHOP_00448_GILSHOP00448_000_000", "hash": "595BB173DAC68E46", "target": "Oh, volevate comprare qualcosa? Temo di essere ancora nel bel mezzo dei preparativi, perciò, se poteste concedermi un momento..." },
+    { "gameKey": "custom/004/CtsErkEureka1GilShop_00448#TEXT_CTSERKEUREKA1GILSHOP_00448_Q1_000_000", "hash": "B98801B64AF8838E", "target": "Cosa vuoi fare?" },
+    { "gameKey": "custom/004/CtsErkEureka1GilShop_00448#TEXT_CTSERKEUREKA1GILSHOP_00448_A1_000_001", "hash": "749EFA663E41EC14", "target": "Comprare oggetti." },
+    { "gameKey": "custom/004/CtsErkEureka1GilShop_00448#TEXT_CTSERKEUREKA1GILSHOP_00448_A1_000_002", "hash": "14CF996AD26DAB77", "target": "Informarsi sulla merce speciale." },
+    { "gameKey": "custom/004/CtsErkEureka1GilShop_00448#TEXT_CTSERKEUREKA1GILSHOP_00448_A1_000_003", "hash": "2202E67F4685F600", "target": "Niente." },
+    { "gameKey": "custom/004/CtsErkEureka1GilShop_00448#TEXT_CTSERKEUREKA1GILSHOP_00448_GILSHOP00448_000_010", "hash": "88BE47D03027871D", "target": "Be', oltre al consueto assortimento di articoli vari, la casata è lieta di offrire una selezione di oggetti preparati appositamente per questa spedizione. Naturalmente non si effettuano rimborsi. Regola della casata." },
+    { "gameKey": "custom/004/CtsErkEureka1GilShop_00448#TEXT_CTSERKEUREKA1GILSHOP_00448_SYSTEM_000_011", "hash": "E29AD6A2EE1A79C8", "target": "Tieni presente che alcuni oggetti venduti dall'expedition provisioner possono essere usati soltanto nella Terra Proibita, Eureka." }
   ]
 }

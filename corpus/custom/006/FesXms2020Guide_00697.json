@@ -2,18 +2,18 @@
   "conversation": "custom/006/FesXms2020Guide_00697",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/006/FesXms2020Guide_00697#TEXT_FESXMS2020GUIDE_00697_GUIDEXMS2020_000_000", "hash": "91C0FA2B36F68884", "target": "" },
-    { "gameKey": "custom/006/FesXms2020Guide_00697#TEXT_FESXMS2020GUIDE_00697_Q1_000_001", "hash": "51206454B8E7E866", "target": "" },
-    { "gameKey": "custom/006/FesXms2020Guide_00697#TEXT_FESXMS2020GUIDE_00697_A1_000_001", "hash": "DCEE850797B709F0", "target": "" },
-    { "gameKey": "custom/006/FesXms2020Guide_00697#TEXT_FESXMS2020GUIDE_00697_A1_000_002", "hash": "C7DAA70177B45E6E", "target": "" },
-    { "gameKey": "custom/006/FesXms2020Guide_00697#TEXT_FESXMS2020GUIDE_00697_A1_000_003", "hash": "197A0B9B88D84F52", "target": "" },
-    { "gameKey": "custom/006/FesXms2020Guide_00697#TEXT_FESXMS2020GUIDE_00697_GUIDEXMS2020_000_010", "hash": "5283F8A4FF2176F1", "target": "" },
-    { "gameKey": "custom/006/FesXms2020Guide_00697#TEXT_FESXMS2020GUIDE_00697_GUIDEXMS2020_000_011", "hash": "885689E62839F54B", "target": "" },
-    { "gameKey": "custom/006/FesXms2020Guide_00697#TEXT_FESXMS2020GUIDE_00697_GUIDEXMS2020_000_012", "hash": "275ABFD0873B53F3", "target": "" },
-    { "gameKey": "custom/006/FesXms2020Guide_00697#TEXT_FESXMS2020GUIDE_00697_GUIDEXMS2020_000_013", "hash": "72061896D6D2F098", "target": "" },
-    { "gameKey": "custom/006/FesXms2020Guide_00697#TEXT_FESXMS2020GUIDE_00697_GUIDEXMS2020_000_014", "hash": "47C5D71B42952A70", "target": "" },
-    { "gameKey": "custom/006/FesXms2020Guide_00697#TEXT_FESXMS2020GUIDE_00697_GUIDEXMS2020_000_020", "hash": "4E65BFBFB96E6377", "target": "" },
-    { "gameKey": "custom/006/FesXms2020Guide_00697#TEXT_FESXMS2020GUIDE_00697_GUIDEXMS2020_000_021", "hash": "4CE0D62EE652807F", "target": "" },
-    { "gameKey": "custom/006/FesXms2020Guide_00697#TEXT_FESXMS2020GUIDE_00697_GUIDEXMS2020_000_022", "hash": "5C54CECD59C2D6DA", "target": "" }
+    { "gameKey": "custom/006/FesXms2020Guide_00697#TEXT_FESXMS2020GUIDE_00697_GUIDEXMS2020_000_000", "hash": "91C0FA2B36F68884", "target": "Buona Festa delle Stelle, e che le benedizioni della Filatrice siano con voi. Vi ringraziamo di esservi <if(gnum4,unita,unito)> ai festeggiamenti. Posso esservi d'aiuto in qualcosa?" },
+    { "gameKey": "custom/006/FesXms2020Guide_00697#TEXT_FESXMS2020GUIDE_00697_Q1_000_001", "hash": "51206454B8E7E866", "target": "Cosa vuoi chiedere?" },
+    { "gameKey": "custom/006/FesXms2020Guide_00697#TEXT_FESXMS2020GUIDE_00697_A1_000_001", "hash": "DCEE850797B709F0", "target": "Che cos'è la Festa delle Stelle?" },
+    { "gameKey": "custom/006/FesXms2020Guide_00697#TEXT_FESXMS2020GUIDE_00697_A1_000_002", "hash": "C7DAA70177B45E6E", "target": "Qual è il vostro compito in tutto questo?" },
+    { "gameKey": "custom/006/FesXms2020Guide_00697#TEXT_FESXMS2020GUIDE_00697_A1_000_003", "hash": "197A0B9B88D84F52", "target": "Niente." },
+    { "gameKey": "custom/006/FesXms2020Guide_00697#TEXT_FESXMS2020GUIDE_00697_GUIDEXMS2020_000_010", "hash": "5283F8A4FF2176F1", "target": "Le origini della Festa delle Stelle risalgono all'antica Ishgard. Molto tempo fa, una terribile battaglia costò innumerevoli vite, lasciando migliaia di bambini orfani nel gelo spietato di Coerthas." },
+    { "gameKey": "custom/006/FesXms2020Guide_00697#TEXT_FESXMS2020GUIDE_00697_GUIDEXMS2020_000_011", "hash": "885689E62839F54B", "target": "Incapaci di sopportare le loro sofferenze, i cavalieri ishgardesi offrivano ai bambini vitto e alloggio nelle proprie caserme. Naturalmente era espressamente vietato, ma i cavalieri escogitarono un piano per farli entrare di nascosto, camuffandoli con le giacche delle loro uniformi scarlatte." },
+    { "gameKey": "custom/006/FesXms2020Guide_00697#TEXT_FESXMS2020GUIDE_00697_GUIDEXMS2020_000_012", "hash": "275ABFD0873B53F3", "target": "Grazie alla loro generosità, i bambini sopravvissero all'inverno e crebbero per ricambiare la gentilezza ricevuta. Gli ex orfani indossavano uniformi scarlatte e consegnavano doni ai bambini nella settimana più fredda dell'anno. Così nacque la Festa delle Stelle." },
+    { "gameKey": "custom/006/FesXms2020Guide_00697#TEXT_FESXMS2020GUIDE_00697_GUIDEXMS2020_000_013", "hash": "72061896D6D2F098", "target": "Nel corso degli anni, la festa è cambiata gradualmente. Il capitano dalla barba candida di quei cavalieri dal cuore buono è diventato noto come il «Santo di Nymeia», e i bambini credono che porti le loro speranze e preghiere direttamente alla dea." },
+    { "gameKey": "custom/006/FesXms2020Guide_00697#TEXT_FESXMS2020GUIDE_00697_GUIDEXMS2020_000_014", "hash": "47C5D71B42952A70", "target": "Allo stesso modo, i suoi cavalieri dalle giacche rosse sono diventati i «piccoli aiutanti del Santo». Sono particolarmente amati dai bambini, perché hanno il compito di portare doni a tutti quelli che rivolgono una preghiera alla Filatrice." },
+    { "gameKey": "custom/006/FesXms2020Guide_00697#TEXT_FESXMS2020GUIDE_00697_GUIDEXMS2020_000_020", "hash": "4E65BFBFB96E6377", "target": "La Gilda degli Avventurieri ha incaricato me e i miei colleghi vestiti di scarlatto di organizzare la Festa delle Stelle. La festa si estende a tutta Eorzea, e abbiamo piccoli aiutanti nelle città di Gridania, Limsa Lominsa e Ul'dah." },
+    { "gameKey": "custom/006/FesXms2020Guide_00697#TEXT_FESXMS2020GUIDE_00697_GUIDEXMS2020_000_021", "hash": "4CE0D62EE652807F", "target": "Quest'anno temo che siamo parecchio in ritardo, tanto da aver dovuto chiedere aiuto proprio ai bambini che altrimenti sarebbero nei loro letti ad aspettare l'arrivo del Santo. Per fortuna sembrano felici di preparare i festeggiamenti quanto di parteciparvi!" },
+    { "gameKey": "custom/006/FesXms2020Guide_00697#TEXT_FESXMS2020GUIDE_00697_GUIDEXMS2020_000_022", "hash": "5C54CECD59C2D6DA", "target": "Senza dubbio è anche merito del bell'assortimento di doni stagionali che abbiamo preparato nel nostro scrigno scintillante! Inutile dirlo, se volete darci una mano, potete prendere anche voi un regalo speciale. Buona Festa delle Stelle, e che la benedizione della Filatrice sia con voi!" }
   ]
 }

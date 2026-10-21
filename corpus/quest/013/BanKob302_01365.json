@@ -2,19 +2,19 @@
   "conversation": "quest/013/BanKob302_01365",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_SEQ_00", "hash": "0802300A478D3A8A", "target": "" },
-    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_SEQ_01", "hash": "73B21F8DE3C2098E", "target": "" },
-    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_SEQ_02", "hash": "6D40F958FB6C60F7", "target": "" },
-    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_SEQ_03", "hash": "6710E1336DE2EAAC", "target": "" },
-    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_TODO_00", "hash": "0E269D5BB7E3593A", "target": "" },
-    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_TODO_01", "hash": "5085D707EC45DAE4", "target": "" },
-    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_000", "hash": "12F7144344AF4FDC", "target": "" },
-    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_001", "hash": "67678DA4D946B41A", "target": "" },
-    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_002", "hash": "B095B19B4DE962C3", "target": "" },
-    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_003", "hash": "08E4902F0E466A9B", "target": "" },
-    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_004", "hash": "C5470CE02AC74375", "target": "" },
-    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_005", "hash": "B2751856544F00EB", "target": "" },
-    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_010", "hash": "81FEB841C86F9464", "target": "" },
-    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_011", "hash": "18CF9A2291A28055", "target": "" }
+    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_SEQ_00", "hash": "0802300A478D3A8A", "target": "Nelle gallerie brulicano troppi seguaci e leccapiedi di Zo Ga per i gusti di 789th Order Dustman Bo Bu." },
+    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_SEQ_01", "hash": "73B21F8DE3C2098E", "target": "Secondo Bo Bu, lo spaccone Zo Ga ha raggiunto la sua posizione elevata non per merito proprio, ma grazie al sostegno quasi fanatico di molti seguaci formidabili. Vai a U'Ghamaro ed elimina almeno cinque dei suoi scelti, elite roundsmen, elite quarrymen, elite priests o elite bedesmen, per indebolire la stretta di ferro del caporione sulle gallerie." },
+    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_SEQ_02", "hash": "6D40F958FB6C60F7", "target": "Cinque scagnozzi di Zo Ga sono caduti per mano tua, comprendendo troppo tardi la sorte di chi si schiera con aspiranti tiranni. Torna al 789th Order Dig e porta la notizia del trionfo a Bo Bu." },
+    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_SEQ_03", "hash": "6710E1336DE2EAAC", "target": "Bo Bu gioisce sapendo che i seguaci di Zo Ga hanno ricevuto la giusta punizione per le loro malefatte. I tuoi sforzi gli hanno infuso un po' di coraggio: forse il giorno in cui il 789º Ordine si solleverà contro gli oppressori non è così lontano..." },
+    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_TODO_00", "hash": "0E269D5BB7E3593A", "target": "Uccidere gli scagnozzi di Zo Ga nelle U'Ghamaro Mines" },
+    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_TODO_01", "hash": "5085D707EC45DAE4", "target": "Fare rapporto a 789th Order Dustman Bo Bu" },
+    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_000", "hash": "12F7144344AF4FDC", "target": "Zo Ga non è così grande: così alto, così potente, così grande. No, no, Zo Ga non è più forte di me o te, di te o me." },
+    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_001", "hash": "67678DA4D946B41A", "target": "Allora perché Zo Ga ottiene ciò che vuole, dici? Una domanda acuta: perspicace, sagace, acuta." },
+    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_002", "hash": "B095B19B4DE962C3", "target": "Zo Ga ha molti amici a U'Ghamaro: scagnozzi, sgherri, amici. Sì, sì, amici potenti." },
+    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_003", "hash": "08E4902F0E466A9B", "target": "Quando Zo Ga dice «Scavate!», loro dicono «Quanto a fondo?»<br>Quando Zo Ga dice «Uccidete Bo Bu!», loro dicono «Quanto morto?»" },
+    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_004", "hash": "C5470CE02AC74375", "target": "Senza amici, Zo Ga sarà l'ombra di se stesso: un guscio, un involucro, un'ombra. Il 789º Ordine avrà una possibilità di battersi. Sì, sì, l'avremo!" },
+    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_005", "hash": "B2751856544F00EB", "target": "Senza amici, Zo Ga sarà l'ombra di se stesso: un guscio, un involucro, un'ombra. Il 789º Ordine avrà un filo di speranza. Sì, sì, una possibilità di battersi!" },
+    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_010", "hash": "81FEB841C86F9464", "target": "Da qualche parte Zo Ga stringe i pugni per l'ira: la rabbia, la furia, l'ira. Sì, sì, hai fatto bene. Bene hai fatto." },
+    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_011", "hash": "18CF9A2291A28055", "target": "La rivoluzione comincia, comincia lenta ma sicura. Presto Zo Ga resterà solo: abbandonato, alla deriva, solo, e avremo la nostra vendetta. Sì, sì, la vendetta sarà nostra!" }
   ]
 }

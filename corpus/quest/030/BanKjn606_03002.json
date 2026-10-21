@@ -2,16 +2,16 @@
   "conversation": "quest/030/BanKjn606_03002",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_SEQ_00", "hash": "FC32182F26A35639", "target": "" },
-    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_TODO_00", "hash": "57C506724C5F2659", "target": "" },
-    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_TODO_01", "hash": "F561AAD9A21A9705", "target": "" },
-    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_000", "hash": "D617B74EA2C252B3", "target": "" },
-    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_001", "hash": "0CF1FECA3502F119", "target": "" },
-    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_002", "hash": "13C1279F29C5DAF7", "target": "" },
-    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_010", "hash": "205B1066338B5D28", "target": "" },
-    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_011", "hash": "EA69FF77A389AF5D", "target": "" },
-    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_012", "hash": "0E2D7191319CE985", "target": "" },
-    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_013", "hash": "6AAC1025FF4E3D30", "target": "" },
-    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_014", "hash": "D9A37AFD6C5F5CB5", "target": "" }
+    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_SEQ_00", "hash": "FC32182F26A35639", "target": "Zukin ha problemi con alcune razze.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
+    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_TODO_00", "hash": "57C506724C5F2659", "target": "Sottomettere le clever little ray ai Crab Pots e dar loro i bocconi amari" },
+    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_TODO_01", "hash": "F561AAD9A21A9705", "target": "Riferire a Zukin" },
+    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_000", "hash": "D617B74EA2C252B3", "target": "<split(<string(gstr1)>, ,1)>, abbiamo problemi con alcune delle nostre giovani razze. Per quanto piccole, sono inguaribilmente testarde e continuano ad allontanarsi dal nostro territorio nonostante i ripetuti rimproveri. Anche adesso vagano nei Crab Pots, incuranti dei pericoli." },
+    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_001", "hash": "0CF1FECA3502F119", "target": "Per quanto mi dispiaccia, hanno bisogno di disciplina, e vorrei che fossi tu a imporla. Ti prego di rintracciare le tre razze, dare loro un po' di botte e poi nutrirle con questi bocconi, per dare un finale amaro alla lezione." },
+    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_002", "hash": "13C1279F29C5DAF7", "target": "Se ti senti in colpa, non farlo. È per la loro sicurezza. Devono capire che il mondo esterno è pieno di pericoli." },
+    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_010", "hash": "205B1066338B5D28", "target": "Ah, eccoti. Com'è andata la lezione di disciplina?" },
+    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_011", "hash": "EA69FF77A389AF5D", "target": "Grazie, <split(<string(gstr1)>, ,1)>. La lezione dovrebbe tenere in riga le piccole per un bel po'." },
+    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_012", "hash": "0E2D7191319CE985", "target": "Anche se ora non sembra, sono fra le migliori razze che abbiamo allevato. Vorremmo che realizzassero il loro potenziale, e a volte ci vuole una mano ferma." },
+    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_013", "hash": "6AAC1025FF4E3D30", "target": "Certo, la testardaggine non è di per sé un difetto. È solo una sfumatura della determinazione che speriamo di coltivare in loro." },
+    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_014", "hash": "D9A37AFD6C5F5CB5", "target": "Con un po' di fortuna non serviranno altre lezioni del genere, ma se fossero necessarie confido che vorrai aiutarci di nuovo." }
   ]
 }

@@ -2,18 +2,18 @@
   "conversation": "quest/013/BanKob301_01364",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_SEQ_00", "hash": "814508C7C62262BF", "target": "" },
-    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_SEQ_01", "hash": "40A228F2DF58C17B", "target": "" },
-    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_SEQ_02", "hash": "F93964218F0A5E95", "target": "" },
-    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_TODO_00", "hash": "B1D80A31AA3060B1", "target": "" },
-    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_BOBU_000_000", "hash": "05278B3CC25C7598", "target": "" },
-    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_BOBU_000_001", "hash": "48B15982A8A76D34", "target": "" },
-    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_BOBU_000_002", "hash": "4ECF8C0E73A93440", "target": "" },
-    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_BOBU_000_003", "hash": "C0C33FE90F708DFD", "target": "" },
-    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_BOBU_000_004", "hash": "2CCD96C3E0D7EC4C", "target": "" },
-    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_BOBU_000_010", "hash": "C7CC275308433B99", "target": "" },
-    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_BOBU_000_011", "hash": "1A4410323F7CD004", "target": "" },
-    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_BOBU_000_012", "hash": "C24165D254A744A2", "target": "" },
-    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_BOBU_000_013", "hash": "F62D38EE564D67D6", "target": "" }
+    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_SEQ_00", "hash": "814508C7C62262BF", "target": "789th Order Dustman Bo Bu vuole liberare le gallerie dal terrore di un empio religioso e dei suoi orribili esperimenti." },
+    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_SEQ_01", "hash": "40A228F2DF58C17B", "target": "Alleatosi con l'odiato Zo Ga, un orante depravato ha dato vita a un'orda di coblyn potenziati alchemicamente che amano nutrirsi di Kobold scansafatiche. Temendo a ragione per lo scavo, Bo Bu vorrebbe mandare a casa il religioso e le sue orribili creazioni. Accontentalo partecipando al FATE «Full Metal Alchemist» a U'Ghamaro e riportando la prova del trionfo." },
+    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_SEQ_02", "hash": "F93964218F0A5E95", "target": "Bo Bu gioisce alla vista della Titan steelshield, compenso di Zo Ga per il turpe lavoro dell'orante, sapendo che lui e i suoi compagni non saranno divorati dalle creature fameliche. Ansioso di fare la propria parte per guidare l'ordine a una nuova era di rispettabilità, avrà senza dubbio ancora bisogno dei tuoi servizi..." },
+    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_TODO_00", "hash": "B1D80A31AA3060B1", "target": "Consegnare a 789th Order Dustman Bo Bu la Titan steelshield ottenuta nel FATE «Full Metal Alchemist»" },
+    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_BOBU_000_000", "hash": "05278B3CC25C7598", "target": "<if(gnum4,Amica,Amico)>, devi fermarlo! Sì, sì, devi porre fine ai suoi esperimenti più empi: orribili, odiosi, empi." },
+    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_BOBU_000_001", "hash": "48B15982A8A76D34", "target": "Gli esperimenti di chi? Bo Bu non lo dirà. No, no, il nome non va nemmeno sussurrato: non detto, non pronunciato, non sussurrato." },
+    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_BOBU_000_002", "hash": "4ECF8C0E73A93440", "target": "Dico solo questo, sì, sì, solo questo: è un orante del 59º Ordine. È noto per creare cose terribili, terribili, cose che si aggirano nelle gallerie assetate del nostro minerale. Sì, sì, del nostro minerale e della nostra carne!" },
+    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_BOBU_000_003", "hash": "C0C33FE90F708DFD", "target": "È favorito da Zo Ga, sì, sì, perché le sue creazioni si nutrono dei deboli e dei sofferenti. È solo questione di tempo, minuti, persino istanti, prima che il nostro scavo sia invaso! Ci aiuterai, sì, sì?" },
+    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_BOBU_000_004", "hash": "2CCD96C3E0D7EC4C", "target": "Ti prego, <if(gnum4,amica,amico)>, devi porre fine agli esperimenti di questo religioso odioso. Non vogliamo più vivere nel timore delle sue creazioni orribili. No, no, non più!" },
+    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_BOBU_000_010", "hash": "C7CC275308433B99", "target": "Hai trionfato sull'orante sinistro: hai vinto, prevalso, trionfato?" },
+    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_BOBU_000_011", "hash": "1A4410323F7CD004", "target": "Abbattuto, abbattuto è il nemico, e i coblyn pazzi di sangue non tormentano più il nostro scavo! Urrà: evviva, viva, urrà!" },
+    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_BOBU_000_012", "hash": "C24165D254A744A2", "target": "Colui che non va nominato risorgerà. Risorgerà, risorgerà. Ma fino ad allora ci hai guadagnato una tregua dal pericolo: una pausa, un sollievo, una tregua." },
+    { "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_BOBU_000_013", "hash": "F62D38EE564D67D6", "target": "Capisco bene i timori di Gi Gu, sì, sì, li capisco. Zo Ga è un nemico temibile, ma Bo Bu alzerà le zampe per arrendersi? No, no, forse gli altri, ma non Bo Bu!" }
   ]
 }

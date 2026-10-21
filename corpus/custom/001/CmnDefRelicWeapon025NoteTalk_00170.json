@@ -2,14 +2,14 @@
   "conversation": "custom/001/CmnDefRelicWeapon025NoteTalk_00170",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_GJUSANA_000_000", "hash": "61782EFFCE0A6D39", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_GJUSANA_000_001", "hash": "E2159C834EFA1C94", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_010", "hash": "624C573CA6C2923F", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_011", "hash": "29D4780DB9CBC06D", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_012", "hash": "89A5A7352EDE8B69", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_013", "hash": "C598A6EB8F3BC403", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_014", "hash": "64ABCA1041A951C5", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_015", "hash": "D0F2D6979F9D1443", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_016", "hash": "A700EAA414E8A046", "target": "" }
+    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_GJUSANA_000_000", "hash": "61782EFFCE0A6D39", "target": "Le Prove dei Prodi sono un’opera letteraria in nove volumi che racconta le gesta eroiche dei Prodi dello Zodiaco." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_GJUSANA_000_001", "hash": "E2159C834EFA1C94", "target": "Come ho già detto, sono disposta a cederti ciascun libro al prezzo scontato di 100 <ennoun(Item,3,\u300028,2,1)>." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_010", "hash": "624C573CA6C2923F", "target": "Sconfiggendo tutti i nemici elencati in un libro delle Prove dei Prodi, gli attributi della tua arma reliquia atma aumenteranno." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_011", "hash": "29D4780DB9CBC06D", "target": "Per ogni reliquia esiste una diversa serie delle Prove dei Prodi. Una serie comprende nove libri, di cui soltanto quattro sono inizialmente disponibili per lo scambio." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_012", "hash": "89A5A7352EDE8B69", "target": "La serie del paladino comprende sette libri per Curtana e due per Holy Shield. Soltanto sei sono inizialmente disponibili per lo scambio." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_013", "hash": "C598A6EB8F3BC403", "target": "Puoi acquistare ogni libro da G'jusana. Ricorda però che puoi possederne soltanto uno alla volta." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_014", "hash": "64ABCA1041A951C5", "target": "Devi completare tutti gli obiettivi di un libro prima di poterne acquistare un altro." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_015", "hash": "D0F2D6979F9D1443", "target": "In alternativa, puoi anche eliminarlo parlando con G'jusana o tramite il menu Key Items." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_016", "hash": "A700EAA414E8A046", "target": "Con questo si conclude la spiegazione del potenziamento. Che la tua reliquia si abbeveri a fondo alle anime dei nemici!" }
   ]
 }

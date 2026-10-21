@@ -2,18 +2,18 @@
   "conversation": "quest/022/BanGna304_02264",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_SEQ_00", "hash": "4CCBF12E1B7BEA4A", "target": "" },
-    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_SEQ_01", "hash": "A7D40700D43F1A86", "target": "" },
-    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_SEQ_02", "hash": "48673FF9530BAA1A", "target": "" },
-    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_SEQ_03", "hash": "97CC472628FAAAEC", "target": "" },
-    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_TODO_00", "hash": "1871B92516828CDE", "target": "" },
-    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_TODO_01", "hash": "CE1EF5A17894A813", "target": "" },
-    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_SEARCHER_000_000", "hash": "FA18FC3B212252C9", "target": "" },
-    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_SEARCHER_000_001", "hash": "19DD4B702C16BDD9", "target": "" },
-    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_SEARCHER_000_002", "hash": "A8A95774F59D2EEA", "target": "" },
-    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_SEARCHER_000_003", "hash": "516151A03CC4D644", "target": "" },
-    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_SEARCHER_000_010", "hash": "209830BB9732486B", "target": "" },
-    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_SEARCHER_000_011", "hash": "1AB808DC51EF4E4D", "target": "" },
-    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_SEARCHER_000_012", "hash": "B94CF65398849582", "target": "" }
+    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_SEQ_00", "hash": "4CCBF12E1B7BEA4A", "target": "Il Vath keeneye sembra sollevato nel vederti.<br>※La difficoltà di questa missione sarà adattata al tuo livello attuale." },
+    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_SEQ_01", "hash": "A7D40700D43F1A86", "target": "I rapporti fra Vath e cacciatori di Tailfeather migliorano ogni giorno. Tuttavia recenti attacchi di animali hanno ostacolato viaggi e commerci fra i due insediamenti. Desideroso di preservare la nascente amicizia, il Vath keeneye ti chiede di perlustrare la zona e abbattere le bestie che aggrediscono i viaggiatori nella foresta.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
+    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_SEQ_02", "hash": "48673FF9530BAA1A", "target": "Lungo il sentiero fra Loth ast Vath e Tailfeather vieni <if(gnum4,attaccata,attaccato)> da orsi bruni. Per fortuna non sono alla tua altezza. Torna dal Vath keeneye e rassicuralo che la strada per Tailfeather è di nuovo sicura." },
+    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_SEQ_03", "hash": "97CC472628FAAAEC", "target": "Torni a Loth ast Vath e trovi il Vath keeneye sollevato. Confessa di aver ricevuto la richiesta già da qualche tempo. Ma, sapendo che c'erano orsi, hanno deciso di aspettare qualcuno come te per il compito. Spera che un giorno i Vath trovino il coraggio di accettare richieste tanto impegnative." },
+    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_TODO_00", "hash": "1871B92516828CDE", "target": "Perlustrare i luoghi indicati e abbattere le bestie che compaiono" },
+    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_TODO_01", "hash": "CE1EF5A17894A813", "target": "Fare rapporto al Vath keeneye" },
+    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_SEARCHER_000_000", "hash": "FA18FC3B212252C9", "target": "Ah, <if(gnum4,grande cacciatrice,grande cacciatore)>. La persona di carne perfetta per il compito che ci attende." },
+    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_SEARCHER_000_001", "hash": "19DD4B702C16BDD9", "target": "Da quando aiutiamo i cacciatori di Tailfeather, c'è molto andirivieni fra i due insediamenti. \\<clic> \\<clic> Sì, molto andirivieni." },
+    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_SEARCHER_000_002", "hash": "A8A95774F59D2EEA", "target": "Ma questo attira attenzioni indesiderate dalla foresta. Animali selvatici si avvicinano alla strada e attaccano i nostri fratelli e gli esseri di carne. La strada non è più sicura per viaggiare." },
+    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_SEARCHER_000_003", "hash": "516151A03CC4D644", "target": "Tre luoghi subiscono più attacchi. Li segnerò sulla tua mappa. Sì, tre luoghi da controllare. \\<clic> \\<clic> Guarda bene, ti prego, e abbatti le bestie che trovi." },
+    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_SEARCHER_000_010", "hash": "209830BB9732486B", "target": "Ecco <if(gnum4,la grande cacciatrice,il grande cacciatore)> di ritorno, senza ferite! Abbiamo fatto bene ad assumere esseri di carne per questo compito." },
+    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_SEARCHER_000_011", "hash": "1AB808DC51EF4E4D", "target": "A dire il vero... sapevamo che il compito richiedeva di cacciare orsi, ma sono tanto feroci, imponenti sulle zampe posteriori! \\<clic> \\<clic> Sono troppo pericolosi. Sì, troppo pericolosi." },
+    { "gameKey": "quest/022/BanGna304_02264#TEXT_BANGNA304_02264_SEARCHER_000_012", "hash": "B94CF65398849582", "target": "Abbiamo ricevuto la richiesta qualche giorno fa, ma aspettavamo. Sapevamo che attendere esseri di carne, come te, era il piano migliore. Cercheremo di fare meglio in futuro. Sì, la prossima volta tenteremo di essere coraggiosi come te." }
   ]
 }

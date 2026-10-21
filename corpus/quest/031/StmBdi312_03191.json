@@ -2,19 +2,19 @@
   "conversation": "quest/031/StmBdi312_03191",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_SEQ_00", "hash": "695A7F3B502A8BAE", "target": "" },
-    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_SEQ_01", "hash": "61EBC9EC10FEA909", "target": "" },
-    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_SEQ_02", "hash": "F40FF9AE026B3A3A", "target": "" },
-    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_TODO_00", "hash": "F0574A5E3332BFA4", "target": "" },
-    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_BEWITCHINGMEMBER_000_000", "hash": "3824F090059671B1", "target": "" },
-    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_BEWITCHINGMEMBER_000_001", "hash": "433CAC5A0CA4AA7F", "target": "" },
-    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_WANDERINGWRITER_000_050", "hash": "16CFCB56C6D01CB0", "target": "" },
-    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_WANDERINGWRITER_000_051", "hash": "A47B94C78AE0AD2F", "target": "" },
-    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_WANDERINGWRITER_000_052", "hash": "AE32F1D061293FCD", "target": "" },
-    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_WANDERINGWRITER_000_053", "hash": "07E052D62FBC3C32", "target": "" },
-    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_BEWITCHINGMEMBER_000_080", "hash": "584B4F65ED30039C", "target": "" },
-    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_WANDERINGWRITER_000_100", "hash": "9908BA59E16B8EAF", "target": "" },
-    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_WANDERINGWRITER_000_120", "hash": "8B116BC1F1D3972F", "target": "" },
-    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_WANDERINGWRITER_000_121", "hash": "806F820887C1F53B", "target": "" }
+    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_SEQ_00", "hash": "695A7F3B502A8BAE", "target": "Naturalmente non era la fine. La bella della compagnia deve proprio avere l'ultima parola." },
+    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_SEQ_01", "hash": "61EBC9EC10FEA909", "target": "Il drammaturgo errante non sopporta di bere il vino di riso senza gli spuntini locali appropriati: grilled turbans, tempura e tako-yaki. E li accetterà soltanto della <italic(1)>migliore qualità<italic(0)> in assoluto." },
+    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_SEQ_02", "hash": "F40FF9AE026B3A3A", "target": "Il drammaturgo errante è soddisfatto del tuo nobile impegno nel procurargli gli spuntini. Ti consegna la ricompensa e ti chiede di andartene in fretta e in silenzio, così da godersi la cena." },
+    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_TODO_00", "hash": "F0574A5E3332BFA4", "target": "Consegnare tre grilled turbans <sheet(Addon,9,0)>, tre tempura platters <sheet(Addon,9,0)> e tre servings of tako-yaki <sheet(Addon,9,0)> al drammaturgo errante" },
+    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_BEWITCHINGMEMBER_000_000", "hash": "3824F090059671B1", "target": "Ora che il vecchio Jenomis ha finalmente smesso con le sue allegre scampagnate nelle terre selvagge, è tornato a dedicarsi alla compagnia. Direi che dobbiamo ringraziare <italic(1)>voi<italic(0)> per questo." },
+    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_BEWITCHINGMEMBER_000_001", "hash": "433CAC5A0CA4AA7F", "target": "E così, per mostrarvi la nostra gratitudine, mio marito vorrebbe offrirvi... un'altra occasione di lavoro! Non è premuroso da parte sua!?" },
+    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_WANDERINGWRITER_000_050", "hash": "16CFCB56C6D01CB0", "target": "<split(<string(gstr1)>, ,1)>! Vi ho mai detto quanto adoro questa città? È così... così... <italic(1)>esotica<italic(0)>! E la cucina! Oh, la <italic(1)>cucina<italic(0)>! Non avevo mai provato tanti sapori in bocca tutti insieme!" },
+    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_WANDERINGWRITER_000_051", "hash": "A47B94C78AE0AD2F", "target": "Pensate, proprio l'altro giorno il giovane del Mujikoza che ha acquistato la raccolta delle mie opere passate mi ha regalato una brocca di un meraviglioso vino di riso. Ci credete? Vino fatto proprio con il riso! Che cosa si inventeranno ancora?" },
+    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_WANDERINGWRITER_000_052", "hash": "AE32F1D061293FCD", "target": "Ah, ma immagino vi chiediate perché vi abbia fatto chiamare dalla mia diletta. Be', è per questo vino. Pur essendo delizioso, non si abbina a nessuno degli stuzzichini che accompagno di solito ai miei tradizionali rossi e bianchi. Perciò, ancora una volta, mi serve il vostro aiuto." },
+    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_WANDERINGWRITER_000_053", "hash": "07E052D62FBC3C32", "target": "La gentile donna che gestisce la navetta per la <italic(1)>Prima Vista<italic(0)> mi dice che, per mangiare come un vero abitante di Hingashi, dovrei cominciare con grilled turban, tempura e una cosa ridicola chiamata «tako-yaki». Credo che tre di ciascuno basteranno. E come sempre, solo il meglio del meglio." },
+    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_BEWITCHINGMEMBER_000_080", "hash": "584B4F65ED30039C", "target": "Quando si tratta della cucina locale, mio marito sa essere davvero snob. Per metà del tempo sono convinta che non distingua il pollo dal chocobo, eppure insiste nel mangiare soltanto cibi della <italic(1)>massima qualità<italic(0)>." },
+    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_WANDERINGWRITER_000_100", "hash": "9908BA59E16B8EAF", "target": "Tre porzioni di grilled turban, tempura e tako-yaki... e niente roba da bancarella all'angolo. Mi aspetto soltanto il meglio." },
+    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_WANDERINGWRITER_000_120", "hash": "8B116BC1F1D3972F", "target": "Non ho mai dubitato di voi, <split(<string(gstr1)>, ,1)>! La mia diletta forse sì, ma io? Mai! Avete davvero talento per questo genere di lavoro." },
+    { "gameKey": "quest/031/StmBdi312_03191#TEXT_STMBDI312_03191_WANDERINGWRITER_000_121", "hash": "806F820887C1F53B", "target": "Ora che i festeggiamenti abbiano inizio! Ecco la vostra ricompensa. Vi prego di accomodarvi all'uscita." }
   ]
 }

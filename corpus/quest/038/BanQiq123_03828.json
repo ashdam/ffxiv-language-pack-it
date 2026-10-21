@@ -2,19 +2,19 @@
   "conversation": "quest/038/BanQiq123_03828",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_SEQ_00", "hash": "26E3BDF30B11AEA9", "target": "" },
-    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_SEQ_01", "hash": "8F9BF1EED601AE22", "target": "" },
-    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_TODO_00", "hash": "33A44B230C25D342", "target": "" },
-    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_QHOTERLPASOL_000_000", "hash": "1A58D5F32FDE5D22", "target": "" },
-    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_QHOTERLPASOL_000_001", "hash": "1CAD5F81BFF12890", "target": "" },
-    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_QHOTERLPASOL_000_002", "hash": "3CEDA874C26CD7D1", "target": "" },
-    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_QHOTERLPASOL_000_003", "hash": "37F6E18BC253D2A3", "target": "" },
-    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_QHOTERLPASOL_000_004", "hash": "4C026EEC8B2459DE", "target": "" },
-    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_QHOTERLPASOL_000_005", "hash": "14743A2ED9332276", "target": "" },
-    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_QHOTERLPASOL_000_006", "hash": "53751865A418E056", "target": "" },
-    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_QHOTERLPASOL_000_007", "hash": "250F6CBC3104CBAC", "target": "" },
-    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_QHOTERLPASOL_000_008", "hash": "724EC6A84A43E686", "target": "" },
-    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_QHOTERLPASOL_000_010", "hash": "F1C2A07AB5B550E5", "target": "" },
-    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_QHOTERLPASOL_000_011", "hash": "1BF4BEA26ADF2271", "target": "" }
+    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_SEQ_00", "hash": "26E3BDF30B11AEA9", "target": "Qhoterl Pasol, sempre premurosa, vuole che i lavoratori abbiano la pancia piena.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
+    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_SEQ_01", "hash": "8F9BF1EED601AE22", "target": "Consegnare le provviste richieste a Qhoterl Pasol" },
+    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_TODO_00", "hash": "33A44B230C25D342", "target": "<if([lnum4==16],<if([lnum1<lnum2],Estrarre splendid worms nella Foresta Cieca di Yx'Maja,Consegnare splendid worms a Qhoterl Pasol)>,<if([lnum4==17],<if([lnum1<lnum2],Raccogliere splendid beehive chips nella Foresta Cieca di Yx'Maja,Consegnare splendid beehive chips a Qhoterl Pasol)>,<if([lnum4==18],<if([lnum1<lnum2],Pescare splendid egg-bearing trout nel Calice Rosso,Consegnare splendid egg-bearing trout a Qhoterl Pasol)>,)>)>)>" },
+    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_QHOTERLPASOL_000_000", "hash": "1A58D5F32FDE5D22", "target": "Con il favore del grande serpente siamo riusciti a curare molte malattie comuni. Ma prevenire è meglio che curare, perciò intendo fare tutto il possibile per mantenere i lavoratori in perfetta salute." },
+    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_QHOTERLPASOL_000_001", "hash": "1CAD5F81BFF12890", "target": "Ogni giorno i lavoratori affrontano l'ignoto, rischiando la vita per recuperare la nostra storia. È essenziale che restino sani e forti. Dopotutto, se cadono come mosche non faremo molti progressi!" },
+    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_QHOTERLPASOL_000_002", "hash": "3CEDA874C26CD7D1", "target": "Perciò vorrei cucinare qualcosa che rafforzi i loro corpi contro i malanni più ostinati. Mi aiutereste a raccogliere gli ingredienti?" },
+    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_QHOTERLPASOL_000_003", "hash": "37F6E18BC253D2A3", "target": "Le rocce della Foresta Cieca di Yx'Maja non saranno commestibili, ma i vermi che le abitano sono quasi un pasto completo! Sarebbero un banchetto splendido per i lavoratori, e anche per me!" },
+    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_QHOTERLPASOL_000_004", "hash": "4C026EEC8B2459DE", "target": "La rigogliosa Foresta Cieca di Yx'Maja abbonda di piante nutrienti e prelibatezze. Il miele dei frammenti di favo aiuta il corpo a resistere a malattie altrimenti debilitanti." },
+    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_QHOTERLPASOL_000_005", "hash": "14743A2ED9332276", "target": "Il Calice Rosso pullula di creature pericolose e nutrienti. Concentriamoci sulle seconde e peschiamo, eh? Basterà qualche trota: si dice che le uova rinforzino mente e corpo. Non dimenticate i fruit worm!" },
+    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_QHOTERLPASOL_000_006", "hash": "53751865A418E056", "target": "Correte nella Foresta Cieca di Yx'Maja. Oppure andate con calma, purché torniate con i vermi!" },
+    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_QHOTERLPASOL_000_007", "hash": "250F6CBC3104CBAC", "target": "La Foresta Cieca di Yx'Maja vi attende con la sua abbondanza. Prendete ciò che volete, purché mi portiate qualche frammento di favo!" },
+    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_QHOTERLPASOL_000_008", "hash": "724EC6A84A43E686", "target": "Oggi non occorre affrontare belve ringhianti. Pescate semplicemente una trota piena d'uova nel Calice Rosso e portatela qui. Ma senza fruit worm non aspettatevi di prendere nulla!" },
+    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_QHOTERLPASOL_000_010", "hash": "F1C2A07AB5B550E5", "target": "Eccovi! Avete avuto difficoltà a procurarvi gli ingredienti?" },
+    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_QHOTERLPASOL_000_011", "hash": "1BF4BEA26ADF2271", "target": "Ah, mi sento rinvigorita solo guardando un esemplare tanto splendido! Qualunque cosa ne cucini, sarà sulla bocca di tutto l'accampamento!" }
   ]
 }

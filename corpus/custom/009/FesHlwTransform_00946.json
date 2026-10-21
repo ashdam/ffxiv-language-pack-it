@@ -2,11 +2,11 @@
   "conversation": "custom/009/FesHlwTransform_00946",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/009/FesHlwTransform_00946#TEXT_FESHLWTRANSFORM_00946_TRANSFORMHLX2025_000_000", "hash": "2123A2F280ACED0E", "target": "" },
-    { "gameKey": "custom/009/FesHlwTransform_00946#TEXT_FESHLWTRANSFORM_00946_TRANSFORMHLX2025_000_001", "hash": "17722CB1476D5964", "target": "" },
-    { "gameKey": "custom/009/FesHlwTransform_00946#TEXT_FESHLWTRANSFORM_00946_TRANSFORMHLX2025_000_004", "hash": "A4D0CFD2E008B7A2", "target": "" },
-    { "gameKey": "custom/009/FesHlwTransform_00946#TEXT_FESHLWTRANSFORM_00946_SYSTEM_000_005", "hash": "72261E0CD1E10CBC", "target": "" },
-    { "gameKey": "custom/009/FesHlwTransform_00946#TEXT_FESHLWTRANSFORM_00946_TRANSFORMHLX2025_000_010", "hash": "A2D50424A9B4B629", "target": "" },
-    { "gameKey": "custom/009/FesHlwTransform_00946#TEXT_FESHLWTRANSFORM_00946_SYSTEM_000_011", "hash": "A5D65F258EE34F65", "target": "" }
+    { "gameKey": "custom/009/FesHlwTransform_00946#TEXT_FESHLWTRANSFORM_00946_TRANSFORMHLX2025_000_000", "hash": "2123A2F280ACED0E", "target": "Tramo qualcosa? Io? Mai! Sono solo un imp amante del divertimento, qui per aiutare gli altri a godersi la Veglia! E posso darti un travestimento <italic(1)>molto<italic(0)> convincente per la mascherata. Eh eh eh..." },
+    { "gameKey": "custom/009/FesHlwTransform_00946#TEXT_FESHLWTRANSFORM_00946_TRANSFORMHLX2025_000_001", "hash": "17722CB1476D5964", "target": "Mi basta che ricordi un viaggio, un viaggio indimenticabile. Attraversa i ricordi e dimmi cosa, o forse <italic(1)>chi<italic(0)>, vedi..." },
+    { "gameKey": "custom/009/FesHlwTransform_00946#TEXT_FESHLWTRANSFORM_00946_TRANSFORMHLX2025_000_004", "hash": "A4D0CFD2E008B7A2", "target": "Eh eh eh... Andrà benissimo. Non temere, non farà quasi male! Chiudi gli occhi..." },
+    { "gameKey": "custom/009/FesHlwTransform_00946#TEXT_FESHLWTRANSFORM_00946_SYSTEM_000_005", "hash": "72261E0CD1E10CBC", "target": "Puoi rimuovere la trasformazione usando l'azione «Unveil» o annullando l'effetto di stato «Transfiguration»." },
+    { "gameKey": "custom/009/FesHlwTransform_00946#TEXT_FESHLWTRANSFORM_00946_TRANSFORMHLX2025_000_010", "hash": "A2D50424A9B4B629", "target": "Torna con notizie dell'Impresario... o non tornare affatto. Eh eh eh..." },
+    { "gameKey": "custom/009/FesHlwTransform_00946#TEXT_FESHLWTRANSFORM_00946_SYSTEM_000_011", "hash": "A5D65F258EE34F65", "target": "L'unsavory imp offre trasformazioni soltanto durante la Veglia di Ognissanti." }
   ]
 }

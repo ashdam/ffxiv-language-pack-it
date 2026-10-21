@@ -2,12 +2,12 @@
   "conversation": "custom/004/FesAnv2018_00497",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/004/FesAnv2018_00497#TEXT_FESANV2018_00497_ANVENTRANCE00497_000_000", "hash": "A3B74C336387DACC", "target": "" },
-    { "gameKey": "custom/004/FesAnv2018_00497#TEXT_FESANV2018_00497_ANVENTRANCE00497_000_010", "hash": "E22F275D8F2B04B0", "target": "" },
-    { "gameKey": "custom/004/FesAnv2018_00497#TEXT_FESANV2018_00497_ANVENTRANCE00497_000_020", "hash": "91E3014DFCF59A66", "target": "" },
-    { "gameKey": "custom/004/FesAnv2018_00497#TEXT_FESANV2018_00497_YESNO_CONTENT", "hash": "82E749A0A5DFFBA3", "target": "" },
-    { "gameKey": "custom/004/FesAnv2018_00497#TEXT_FESANV2018_00497_ANVENTRANCE00497_000_030", "hash": "DBC12488D5382B39", "target": "" },
-    { "gameKey": "custom/004/FesAnv2018_00497#TEXT_FESANV2018_00497_SYSTEM_000_031", "hash": "B3C0BD8FF7B1A29A", "target": "" },
-    { "gameKey": "custom/004/FesAnv2018_00497#TEXT_FESANV2018_00497_SYSTEM_000_032", "hash": "E0D07EE38D16F654", "target": "" }
+    { "gameKey": "custom/004/FesAnv2018_00497#TEXT_FESANV2018_00497_ANVENTRANCE00497_000_000", "hash": "A3B74C336387DACC", "target": "Se volete partecipare alle esercitazioni militari, siete nel posto giusto." },
+    { "gameKey": "custom/004/FesAnv2018_00497#TEXT_FESANV2018_00497_ANVENTRANCE00497_000_010", "hash": "E22F275D8F2B04B0", "target": "Raccogliamo le iscrizioni alle esercitazioni militari di Ul'dah. Se volete partecipare, non dovete far altro che dirlo." },
+    { "gameKey": "custom/004/FesAnv2018_00497#TEXT_FESANV2018_00497_ANVENTRANCE00497_000_020", "hash": "91E3014DFCF59A66", "target": "Accettiamo iscrizioni per conto delle Fiamme Immortali alle esercitazioni militari di Ul'dah. Vi unirete alla mischia?" },
+    { "gameKey": "custom/004/FesAnv2018_00497#TEXT_FESANV2018_00497_YESNO_CONTENT", "hash": "82E749A0A5DFFBA3", "target": "Unirsi alla mischia in <sheet(ContentFinderCondition,lnum1,43)>?" },
+    { "gameKey": "custom/004/FesAnv2018_00497#TEXT_FESANV2018_00497_ANVENTRANCE00497_000_030", "hash": "DBC12488D5382B39", "target": "Se volete iscrivervi alle esercitazioni militari, temo di dovervi deludere. Ai partecipanti chiediamo un po' più di esperienza." },
+    { "gameKey": "custom/004/FesAnv2018_00497#TEXT_FESANV2018_00497_SYSTEM_000_031", "hash": "B3C0BD8FF7B1A29A", "target": "Per accedere a <sheet(ContentFinderCondition,lnum1,43)>, devi prima sbloccare <sheet(ContentFinderCondition,lnum2,43)>." },
+    { "gameKey": "custom/004/FesAnv2018_00497#TEXT_FESANV2018_00497_SYSTEM_000_032", "hash": "E0D07EE38D16F654", "target": "Per farlo, devi avanzare a sufficienza nella missione «It's Probably Pirates»." }
   ]
 }

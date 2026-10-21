@@ -2,18 +2,18 @@
   "conversation": "custom/008/RegSak6Mehwahhetsoan_00882",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/RegSak6Mehwahhetsoan_00882#TEXT_REGSAK6MEHWAHHETSOAN_00882_TSEPPI_000_000", "hash": "E16954707F467EC6", "target": "" },
-    { "gameKey": "custom/008/RegSak6Mehwahhetsoan_00882#TEXT_REGSAK6MEHWAHHETSOAN_00882_TSEPPI_000_001", "hash": "78775FF82DD89504", "target": "" },
-    { "gameKey": "custom/008/RegSak6Mehwahhetsoan_00882#TEXT_REGSAK6MEHWAHHETSOAN_00882_TSEPPI_000_002", "hash": "6DB2EC7E0A1C19DE", "target": "" },
-    { "gameKey": "custom/008/RegSak6Mehwahhetsoan_00882#TEXT_REGSAK6MEHWAHHETSOAN_00882_TSEPPI_000_003", "hash": "3C8663F79D9BE808", "target": "" },
-    { "gameKey": "custom/008/RegSak6Mehwahhetsoan_00882#TEXT_REGSAK6MEHWAHHETSOAN_00882_TSEPPI_Q1_000_000", "hash": "B1DE38C8369D496C", "target": "" },
-    { "gameKey": "custom/008/RegSak6Mehwahhetsoan_00882#TEXT_REGSAK6MEHWAHHETSOAN_00882_TSEPPI_A1_000_001", "hash": "275924DB3C0C101F", "target": "" },
-    { "gameKey": "custom/008/RegSak6Mehwahhetsoan_00882#TEXT_REGSAK6MEHWAHHETSOAN_00882_TSEPPI_A1_000_002", "hash": "4D6AECAB26212820", "target": "" },
-    { "gameKey": "custom/008/RegSak6Mehwahhetsoan_00882#TEXT_REGSAK6MEHWAHHETSOAN_00882_TSEPPI_A1_000_003", "hash": "E69A99B35C6605A1", "target": "" },
-    { "gameKey": "custom/008/RegSak6Mehwahhetsoan_00882#TEXT_REGSAK6MEHWAHHETSOAN_00882_TSEPPI_000_004", "hash": "EE48A088AE7D2052", "target": "" },
-    { "gameKey": "custom/008/RegSak6Mehwahhetsoan_00882#TEXT_REGSAK6MEHWAHHETSOAN_00882_TSEPPI_000_005", "hash": "30FA468FD3819691", "target": "" },
-    { "gameKey": "custom/008/RegSak6Mehwahhetsoan_00882#TEXT_REGSAK6MEHWAHHETSOAN_00882_TSEPPI_000_006", "hash": "FF438AC20AB43610", "target": "" },
-    { "gameKey": "custom/008/RegSak6Mehwahhetsoan_00882#TEXT_REGSAK6MEHWAHHETSOAN_00882_TSEPPI_000_007", "hash": "E085B5F2026C31D6", "target": "" },
-    { "gameKey": "custom/008/RegSak6Mehwahhetsoan_00882#TEXT_REGSAK6MEHWAHHETSOAN_00882_TSEPPI_000_008", "hash": "F10E0DE311518495", "target": "" }
+    { "gameKey": "custom/008/RegSak6Mehwahhetsoan_00882#TEXT_REGSAK6MEHWAHHETSOAN_00882_TSEPPI_000_000", "hash": "E16954707F467EC6", "target": "Ti do il benvenuto, <if(gnum4,straniera,straniero)>. Qualunque cosa cerchi a Mehwahhetsoan, spero che tu la trovi." },
+    { "gameKey": "custom/008/RegSak6Mehwahhetsoan_00882#TEXT_REGSAK6MEHWAHHETSOAN_00882_TSEPPI_000_001", "hash": "78775FF82DD89504", "target": "Se la natura è uno specchio che riflette ogni cosa, è chiaro che il male si aggira fra noi. Possiamo solo pregare che questa oscurità passi presto." },
+    { "gameKey": "custom/008/RegSak6Mehwahhetsoan_00882#TEXT_REGSAK6MEHWAHHETSOAN_00882_TSEPPI_000_002", "hash": "6DB2EC7E0A1C19DE", "target": "Il cielo è di nuovo sereno, e i venti che sussurrano fra gli alberi non giungono più alle mie orecchie come sussulti di paura, ma come sospiri di sollievo. La pace è tornata a Mehwahhetsoan." },
+    { "gameKey": "custom/008/RegSak6Mehwahhetsoan_00882#TEXT_REGSAK6MEHWAHHETSOAN_00882_TSEPPI_000_003", "hash": "3C8663F79D9BE808", "target": "Un vento nuovo soffia ora su Shaaloani. Un vento dolce. Noi di Mehwahhetsoan attendiamo di vedere i cambiamenti che porterà questa brezza." },
+    { "gameKey": "custom/008/RegSak6Mehwahhetsoan_00882#TEXT_REGSAK6MEHWAHHETSOAN_00882_TSEPPI_Q1_000_000", "hash": "B1DE38C8369D496C", "target": "Cosa vuoi chiedere?" },
+    { "gameKey": "custom/008/RegSak6Mehwahhetsoan_00882#TEXT_REGSAK6MEHWAHHETSOAN_00882_TSEPPI_A1_000_001", "hash": "275924DB3C0C101F", "target": "Informarsi sul lavoro svolto qui." },
+    { "gameKey": "custom/008/RegSak6Mehwahhetsoan_00882#TEXT_REGSAK6MEHWAHHETSOAN_00882_TSEPPI_A1_000_002", "hash": "4D6AECAB26212820", "target": "Che posto è questo?" },
+    { "gameKey": "custom/008/RegSak6Mehwahhetsoan_00882#TEXT_REGSAK6MEHWAHHETSOAN_00882_TSEPPI_A1_000_003", "hash": "E69A99B35C6605A1", "target": "Niente." },
+    { "gameKey": "custom/008/RegSak6Mehwahhetsoan_00882#TEXT_REGSAK6MEHWAHHETSOAN_00882_TSEPPI_000_004", "hash": "EE48A088AE7D2052", "target": "Sono l'ascoltatrice del villaggio. Apro le orecchie alla voce della natura e cerco di sentire quando cominciano a soffiare venti avversi, per proteggere la nostra gente e i nostri hhetso dai pericoli." },
+    { "gameKey": "custom/008/RegSak6Mehwahhetsoan_00882#TEXT_REGSAK6MEHWAHHETSOAN_00882_TSEPPI_000_005", "hash": "30FA468FD3819691", "target": "Altri Hhetsarro cercano la guida di animali diversi, ma qui noi seguiamo i rroneek. Ci prendiamo cura di loro, come loro si prendono cura di noi." },
+    { "gameKey": "custom/008/RegSak6Mehwahhetsoan_00882#TEXT_REGSAK6MEHWAHHETSOAN_00882_TSEPPI_000_006", "hash": "FF438AC20AB43610", "target": "Il nome “Mehwahhetsoan” significa “la terra dove pascolano gli hhetso”, dai rroneek che dimorano qui." },
+    { "gameKey": "custom/008/RegSak6Mehwahhetsoan_00882#TEXT_REGSAK6MEHWAHHETSOAN_00882_TSEPPI_000_007", "hash": "E085B5F2026C31D6", "target": "Non nel villaggio, capisci. I rroneek sono animali nomadi, e le loro mandrie percorrono in lungo e in largo le praterie al mutare delle stagioni. E noi ci spostiamo con loro." },
+    { "gameKey": "custom/008/RegSak6Mehwahhetsoan_00882#TEXT_REGSAK6MEHWAHHETSOAN_00882_TSEPPI_000_008", "hash": "F10E0DE311518495", "target": "Per questo costruiamo le nostre case con bastoni e pelli, anziché mattoni e assi: così possiamo smontarle e seguire i nostri hhetso. Ovunque vadano i rroneek, quel posto è Mehwahhetsoan." }
   ]
 }

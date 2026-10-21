@@ -2,14 +2,14 @@
   "conversation": "quest/052/BanPel103_05201",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_SEQ_00", "hash": "03AE263C16CD3968", "target": "" },
-    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_TODO_00", "hash": "5F9CAC6F07CA5489", "target": "" },
-    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_TODO_01", "hash": "3EA8A9922C3BD9CB", "target": "" },
-    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_YUBLI_000_000", "hash": "91302F8F5E9B350D", "target": "" },
-    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_YUBLI_000_001", "hash": "EF93155022674E3D", "target": "" },
-    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_YUBLI_000_002", "hash": "11571939EBB0B2AA", "target": "" },
-    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_YUBLI_000_004", "hash": "8299F7F6E1A4E2CD", "target": "" },
-    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_YUBLI_000_005", "hash": "FB76C203D5671D0C", "target": "" },
-    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_YUBLI_000_006", "hash": "4430447E0F2B70C0", "target": "" }
+    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_SEQ_00", "hash": "03AE263C16CD3968", "target": "Yubli è preoccupato per le incursioni dei mostri affamati.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
+    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_TODO_00", "hash": "5F9CAC6F07CA5489", "target": "Esaminare il luogo indicato e sconfiggere gli u'out che compaiono" },
+    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_TODO_01", "hash": "3EA8A9922C3BD9CB", "target": "Parlare con Yubli" },
+    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_YUBLI_000_000", "hash": "91302F8F5E9B350D", "target": "È confortante vedere Dock Poga così vivace e affollato, ma il maggiore viavai ha attirato alcuni... visitatori indesiderati." },
+    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_YUBLI_000_001", "hash": "EF93155022674E3D", "target": "Siamo alle prese con un'infestazione di u'out. Per proteggere i clienti da quelle creature vegetali erranti, dovremo ridurne regolarmente il numero..." },
+    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_YUBLI_000_002", "hash": "11571939EBB0B2AA", "target": "Apprezzerei l'assistenza <if(gnum4,della nostra consulente speciale,del nostro consulente speciale)> in questa questione! Sono stati segnalati avvistamenti nello Stride of the Sun. Esaminate la zona e affrontate tutti gli u'out che compariranno!" },
+    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_YUBLI_000_004", "hash": "8299F7F6E1A4E2CD", "target": "Grazie per aver affrontato le creature vegetali. Per il momento i clienti non devono temere i loro attacchi." },
+    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_YUBLI_000_005", "hash": "FB76C203D5671D0C", "target": "Infatti abbiamo appena ricevuto un estratto noto per tenere lontani gli u'out e i loro simili. Intendo spargere il repellente nella zona come ulteriore precauzione." },
+    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_YUBLI_000_006", "hash": "4430447E0F2B70C0", "target": "Detto questo, simili misure non sono affatto permanenti. Quando le creature torneranno, spero di poter contare ancora sul vostro aiuto!" }
   ]
 }

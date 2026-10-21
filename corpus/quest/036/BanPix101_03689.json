@@ -2,16 +2,16 @@
   "conversation": "quest/036/BanPix101_03689",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_SEQ_00", "hash": "573BE724EFFDFAC0", "target": "" },
-    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_TODO_00", "hash": "72D1BCDADD7D5C93", "target": "" },
-    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_TODO_01", "hash": "5317A40E6711B634", "target": "" },
-    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_001", "hash": "58FEE8ACF665F9CF", "target": "" },
-    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_002", "hash": "2310B8D6712CDC54", "target": "" },
-    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_003", "hash": "4B6BE856915B1F00", "target": "" },
-    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_020", "hash": "4EE8CE5E880C4FFF", "target": "" },
-    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_021", "hash": "A64B59F6CFE98199", "target": "" },
-    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_022", "hash": "A8F9FCB1712B2501", "target": "" },
-    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_023", "hash": "3F380B0D59D6224E", "target": "" },
-    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_024", "hash": "D567A538283A976A", "target": "" }
+    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_SEQ_00", "hash": "573BE724EFFDFAC0", "target": "Uin Nee vorrebbe riportare la Via della Lana al suo antico splendore.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
+    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_TODO_00", "hash": "72D1BCDADD7D5C93", "target": "Raccogliere gomitoli di lana soffice vicino a Lydha Lran" },
+    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_TODO_01", "hash": "5317A40E6711B634", "target": "Consegnare i gomitoli di lana soffice a Uin Nee" },
+    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_001", "hash": "58FEE8ACF665F9CF", "target": "Oh, una volta era così soffice, morbida e vaporosa, e adesso <italic(1)>non<italic(0)> lo è più! Dove andrà a finire questo mondo?" },
+    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_002", "hash": "2310B8D6712CDC54", "target": "Parlo della Via della Lana, naturalmente! Non era <italic(1)>ovvio<italic(0)>? Cerca di starmi dietro, <if(gnum4,cara,caro)> mortale. Comunque, la Via della Lana si trova poco a nord di qui. Un tempo era una grande strada su cui i mortali trasportavano giganteschi gomitoli di lana soffice, avanti e indietro, indietro e avanti. Non sembra una meraviglia?" },
+    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_003", "hash": "4B6BE856915B1F00", "target": "Ma certo che sì! Ecco perché voglio intessere il sogno di una strada tanto morbida e soffice da sembrare fatta con la lana di mille pecore! Ehm, greggi... di pecore? Comunque, mi servirà un grosso gomitolo di lana. Anzi, <italic(1)>tre<italic(0)> grossi gomitoli! Sarai così gentile da procurarmeli, vero?" },
+    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_020", "hash": "4EE8CE5E880C4FFF", "target": "Allora? Non posso aspettare in eterno la mia lana, sai. Ho sogni da intessere e posti in cui andare!" },
+    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_021", "hash": "A64B59F6CFE98199", "target": "Ma guarda quant'è grande e soffice questo! E quest'altro ancora di più! Ti sei davvero superat<if(gnum4,a,o)>, <if(gnum4,cara,caro)> mortale. Con questi potrò intessere la via più lanosa che i miei sognatori abbiano mai sognato!" },
+    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_022", "hash": "A8F9FCB1712B2501", "target": "Secondo le leggende dei Nu Mou, quando i mortali abitavano da queste parti, grandi carri percorrevano la Via della Lana, ognuno colmo fino all'orlo dei velli più soffici da portare al mercato." },
+    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_023", "hash": "3F380B0D59D6224E", "target": "Oggi, ahimè, resta solo il nome. \\<singhiozzo> Non è la storia più triste che tu abbia mai sentito? Ma non importa, perché intesseremo una <italic(1)>nuova<italic(0)> Via della Lana nei sogni dei bambini, ancora più splendida di prima!" },
+    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_024", "hash": "D567A538283A976A", "target": "Già me li immagino a rimbalzare su e giù per una strada di lana e morbidezza come una nuvola gigante! Non vorresti unirti a loro? Ma attenzione: sarà così incantevole e deliziosa che potresti non volerti svegliare mai più! Eh eh!" }
   ]
 }

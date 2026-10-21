@@ -2,8 +2,8 @@
   "conversation": "custom/005/CmnGscEMJGameTable_00547",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/005/CmnGscEMJGameTable_00547#TEXT_CMNGSCEMJGAMETABLE_00547_Q1_000_001", "hash": "E231D45A152BC55B", "target": "" },
-    { "gameKey": "custom/005/CmnGscEMJGameTable_00547#TEXT_CMNGSCEMJGAMETABLE_00547_Q1_000_002", "hash": "DAC5515586012753", "target": "" },
-    { "gameKey": "custom/005/CmnGscEMJGameTable_00547#TEXT_CMNGSCEMJGAMETABLE_00547_Q1_000_003", "hash": "67289A113F74BF82", "target": "" }
+    { "gameKey": "custom/005/CmnGscEMJGameTable_00547#TEXT_CMNGSCEMJGAMETABLE_00547_Q1_000_001", "hash": "E231D45A152BC55B", "target": "Questo tavolo è per principianti. Vuoi sfidare <sheet(Addon,12346,0)>, <sheet(Addon,12347,0)> e <sheet(Addon,12348,0)> a una partita di mahjong?" },
+    { "gameKey": "custom/005/CmnGscEMJGameTable_00547#TEXT_CMNGSCEMJGAMETABLE_00547_Q1_000_002", "hash": "DAC5515586012753", "target": "Questo tavolo è per giocatori di livello intermedio. Vuoi sfidare <sheet(Addon,12349,0)>, <sheet(Addon,12350,0)> e <sheet(Addon,12351,0)> a una partita di mahjong?" },
+    { "gameKey": "custom/005/CmnGscEMJGameTable_00547#TEXT_CMNGSCEMJGAMETABLE_00547_Q1_000_003", "hash": "67289A113F74BF82", "target": "Questo tavolo è per giocatori esperti. Vuoi sfidare <sheet(Addon,12352,0)>, <sheet(Addon,12353,0)> e <sheet(Addon,12354,0)> a una partita di mahjong?" }
   ]
 }

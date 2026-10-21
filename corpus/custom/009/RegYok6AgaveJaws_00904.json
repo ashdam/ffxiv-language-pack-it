@@ -2,17 +2,17 @@
   "conversation": "custom/009/RegYok6AgaveJaws_00904",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_000", "hash": "2E9E9E4F5C7216B9", "target": "" },
-    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_001", "hash": "53082AB3232700F1", "target": "" },
-    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_002", "hash": "BB0CB8737C8AE1BD", "target": "" },
-    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_003", "hash": "9302D436EF58239B", "target": "" },
-    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_Q1_000_000", "hash": "0D72F4DE59545952", "target": "" },
-    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_A1_000_001", "hash": "69D499174023E822", "target": "" },
-    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_A1_000_002", "hash": "1C9844F9958A49C2", "target": "" },
-    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_A1_000_003", "hash": "BF50C01B1EE152C5", "target": "" },
-    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_010", "hash": "691E8AC37E7AF688", "target": "" },
-    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_011", "hash": "9577C521652B861D", "target": "" },
-    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_020", "hash": "76C9627687C9A3DE", "target": "" },
-    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_021", "hash": "9D1F7C995BEECC23", "target": "" }
+    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_000", "hash": "2E9E9E4F5C7216B9", "target": "Ah, una visita! Ti do il benvenuto ad Agave Jaws. Come posso aiutarti?" },
+    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_001", "hash": "53082AB3232700F1", "target": "La notizia che Valigarmanda è libero è arrivata fin qui. E proprio dopo che la Terza Erede aveva respinto per noi un’orda di mostri... Sembra che non ci sia concesso neppure un attimo di tregua." },
+    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_002", "hash": "BB0CB8737C8AE1BD", "target": "Per fortuna Valigarmanda non si è mai spinto fin qui. Ora che è stato sconfitto, posso tornare a occuparmi della fattoria senza temere per la mia vita." },
+    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_003", "hash": "9302D436EF58239B", "target": "Forse dovrei preparare le nostre agavi migliori per la distillazione, in onore dei nuovi Servitori dell’Alba. Saranno certamente occupati con i loro molti doveri, ma prima o poi ci sarà una sera in cui potranno rilassarsi e godersi qualche bicchiere di mezcal." },
+    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_Q1_000_000", "hash": "0D72F4DE59545952", "target": "Cosa vuoi chiedere?" },
+    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_A1_000_001", "hash": "69D499174023E822", "target": "Di cosa ti occupi qui?" },
+    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_A1_000_002", "hash": "1C9844F9958A49C2", "target": "Che posto è questo?" },
+    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_A1_000_003", "hash": "BF50C01B1EE152C5", "target": "Niente." },
+    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_010", "hash": "691E8AC37E7AF688", "target": "Oh, di tante cose! Esamino il terreno e il clima per garantire alle nostre agavi le migliori condizioni di crescita, stabilisco i ritmi di coltivazione e decido quante destinarne alla distillazione." },
+    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_011", "hash": "9577C521652B861D", "target": "Nulla mi fa più piacere di qualcuno che si interessa alla fattoria! Io e i miei colleghi passiamo le giornate a prenderci cura delle agavi. Suppongo che sia semplicemente bello vedere apprezzato il proprio duro lavoro." },
+    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_020", "hash": "76C9627687C9A3DE", "target": "Ma è una piantagione di agave, naturalmente! Ne raccogliamo la linfa e la distilliamo per produrre mezcal." },
+    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_021", "hash": "9D1F7C995BEECC23", "target": "Quanto al nome della fattoria, basta guardare quanto sono ordinate le file di piante! Non ti ricordano le fauci spalancate di una bestia selvatica? Ehm, non che ne abbia mai viste da vicino..." }
   ]
 }

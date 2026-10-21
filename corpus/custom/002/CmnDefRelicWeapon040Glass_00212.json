@@ -2,9 +2,9 @@
   "conversation": "custom/002/CmnDefRelicWeapon040Glass_00212",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/CmnDefRelicWeapon040Glass_00212#TEXT_CMNDEFRELICWEAPON040GLASS_00212_DRAKE_000_000", "hash": "539C654790497FB5", "target": "" },
-    { "gameKey": "custom/002/CmnDefRelicWeapon040Glass_00212#TEXT_CMNDEFRELICWEAPON040GLASS_00212_DRAKE_000_010", "hash": "697ACDBC6EECD575", "target": "" },
-    { "gameKey": "custom/002/CmnDefRelicWeapon040Glass_00212#TEXT_CMNDEFRELICWEAPON040GLASS_00212_DRAKE_000_011", "hash": "47C6B90F60C688F2", "target": "" },
-    { "gameKey": "custom/002/CmnDefRelicWeapon040Glass_00212#TEXT_CMNDEFRELICWEAPON040GLASS_00212_DRAKE_000_020", "hash": "883341708D2C07C4", "target": "" }
+    { "gameKey": "custom/002/CmnDefRelicWeapon040Glass_00212#TEXT_CMNDEFRELICWEAPON040GLASS_00212_DRAKE_000_000", "hash": "539C654790497FB5", "target": "Mi risulta che mastro Gerolt abbia realizzato uno Zodiac glass per voi. Se doveste smarrirlo, non esitate a rivolgervi a me." },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040Glass_00212#TEXT_CMNDEFRELICWEAPON040GLASS_00212_DRAKE_000_010", "hash": "697ACDBC6EECD575", "target": "Avete perso il vostro Zodiac glass? Per fortuna mastro Gerolt ne ha realizzati alcuni di riserva e mi ha incaricato di darveli in caso di necessità." },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040Glass_00212#TEXT_CMNDEFRELICWEAPON040GLASS_00212_DRAKE_000_011", "hash": "47C6B90F60C688F2", "target": "Una simile generosità non è da lui, ma non occorre certo che ve lo dica io. Comunque, ecco il vostro nuovo strumento. Cercate di non perdere anche questo: non si sa mai quando la generosità di mastro Gerolt potrebbe esaurirsi." },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040Glass_00212#TEXT_CMNDEFRELICWEAPON040GLASS_00212_DRAKE_000_020", "hash": "883341708D2C07C4", "target": "Oh cielo, sembra che abbiate le mani piene. Custodirò lo strumento finché non avrete spazio per prenderlo." }
   ]
 }

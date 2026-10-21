@@ -2,15 +2,15 @@
   "conversation": "custom/002/RegAbr2CampCloudtop_00291",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_CAMPCLOUDTOPGUIDE_000_000", "hash": "A9244CEE788D6494", "target": "" },
-    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_Q1_000_000", "hash": "65DCD198D36F8002", "target": "" },
-    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_A1_000_001", "hash": "11DE4920D15ADC81", "target": "" },
-    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_A1_000_002", "hash": "DAEB2447F1D92394", "target": "" },
-    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_A1_000_003", "hash": "520091C2FA464F10", "target": "" },
-    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_CAMPCLOUDTOPGUIDE_000_010", "hash": "2300EEEF2638B27D", "target": "" },
-    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_CAMPCLOUDTOPGUIDE_000_011", "hash": "855145391670C210", "target": "" },
-    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_CAMPCLOUDTOPGUIDE_000_020", "hash": "F16543CDBB427F08", "target": "" },
-    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_CAMPCLOUDTOPGUIDE_000_021", "hash": "9C9620E6C7655676", "target": "" },
-    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_CAMPCLOUDTOPGUIDE_000_022", "hash": "57218215E9034FB7", "target": "" }
+    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_CAMPCLOUDTOPGUIDE_000_000", "hash": "A9244CEE788D6494", "target": "Ti serve qualcosa? Se hai bisogno di una scorta, credo di avere un po’ di tempo libero." },
+    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_Q1_000_000", "hash": "65DCD198D36F8002", "target": "Cosa vuoi chiedere?" },
+    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_A1_000_001", "hash": "11DE4920D15ADC81", "target": "Cosa fai qui?" },
+    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_A1_000_002", "hash": "DAEB2447F1D92394", "target": "Che posto è questo?" },
+    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_A1_000_003", "hash": "520091C2FA464F10", "target": "Niente." },
+    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_CAMPCLOUDTOPGUIDE_000_010", "hash": "2300EEEF2638B27D", "target": "Come cavalieri al servizio di Casa Haillenarte, abbiamo il dovere di sorvegliare eventuali attività dravaniane qui a Campo Cloudtop." },
+    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_CAMPCLOUDTOPGUIDE_000_011", "hash": "855145391670C210", "target": "Un dovere ben poco impegnativo, temo. Sembra che i draghi non vogliano avere niente a che fare con questo posto, quindi passiamo gran parte del tempo a occuparci del campo. Ultimamente i Vanu Vanu sono diventati una seccatura, ma niente che non possiamo gestire." },
+    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_CAMPCLOUDTOPGUIDE_000_020", "hash": "F16543CDBB427F08", "target": "In questo sonnolento accampamento teniamo gli occhi aperti in vista di possibili attacchi dravaniani." },
+    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_CAMPCLOUDTOPGUIDE_000_021", "hash": "9C9620E6C7655676", "target": "Tra noi, però, qui staziona soltanto chi è stato ritenuto inadatto ad... altri compiti, se capisci cosa intendo. Con i Dravaniani concentrati soprattutto dall’altra parte di Ishgard, al massimo vedremo nuvole a forma di drago." },
+    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_CAMPCLOUDTOPGUIDE_000_022", "hash": "57218215E9034FB7", "target": "Almeno ci teniamo occupati con le riparazioni del <italic(1)>Protettrice<italic(0)>. Ma vista la carenza di viveri e di veri incarichi, ogni cavaliere che si rispetti farebbe bene a evitare un trasferimento qui." }
   ]
 }

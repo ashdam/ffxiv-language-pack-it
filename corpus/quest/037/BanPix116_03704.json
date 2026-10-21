@@ -2,16 +2,16 @@
   "conversation": "quest/037/BanPix116_03704",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_SEQ_00", "hash": "4EB17AB260C0508F", "target": "" },
-    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_TODO_00", "hash": "BE03D6913BF0B77E", "target": "" },
-    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_TODO_01", "hash": "5CDC9F2A7ECD5231", "target": "" },
-    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_000", "hash": "3B587E03E41F3CC4", "target": "" },
-    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_001", "hash": "914C31DCF3CA2D84", "target": "" },
-    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_002", "hash": "677E0F42CF01F540", "target": "" },
-    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_003", "hash": "0ABD55133CFC77E5", "target": "" },
-    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_004", "hash": "67FB7B36B209D4A9", "target": "" },
-    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_020", "hash": "A23E23D76D42A394", "target": "" },
-    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_021", "hash": "23ACF249B69081E1", "target": "" },
-    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_022", "hash": "8E1ADF7B0EB139B0", "target": "" }
+    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_SEQ_00", "hash": "4EB17AB260C0508F", "target": "Uin Nee spera di portare un tocco di opulenza a Lyhe Mheg.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
+    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_TODO_00", "hash": "BE03D6913BF0B77E", "target": "Ottenere un sassolino lucente a sud-est degli Scaffali dell'Erudito" },
+    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_TODO_01", "hash": "5CDC9F2A7ECD5231", "target": "Consegnare il sassolino lucente a Uin Nee" },
+    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_000", "hash": "3B587E03E41F3CC4", "target": "Rubini! Smeraldi! Zaffiri! Oh, come brillano! Non che qui a Il Mheg abbiamo molte occasioni di vederli. A quanto sento, sono molto preziosi. Dev'essere per questo che i cercatori di tesori faticano tanto per scavarli fuori." },
+    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_001", "hash": "914C31DCF3CA2D84", "target": "Mi è venuta un'altra idea brillante! Dovremmo decorare Lyhe Mheg con gioielli tutti nostri!" },
+    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_002", "hash": "677E0F42CF01F540", "target": "Naturalmente non serve darsi tanta pena per trovare vere gemme, basta qualcosa che somigli loro vagamente. La nostra magia farà il resto!" },
+    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_003", "hash": "0ABD55133CFC77E5", "target": "Sembra che tu abbia tempo da perdere. Perché non ti rendi utile raccogliendomi dei bei sassolini lucenti?" },
+    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_004", "hash": "67FB7B36B209D4A9", "target": "Dovrebbero essercene vicino al lago. E se vedi qualche Fuath, dagli una botta da parte mia!" },
+    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_020", "hash": "A23E23D76D42A394", "target": "Su, allora, consegnamelo!" },
+    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_021", "hash": "23ACF249B69081E1", "target": "Be', è un po' ordinario, ma immagino che andrà bene. Potrei persino trasformare questi sassolini in monete d'oro, così i bambini sapranno cosa si prova a essere ricchi!" },
+    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_022", "hash": "8E1ADF7B0EB139B0", "target": "Naturalmente, al risveglio sparirà tutto, ma potranno goderselo finché dura il sogno. Anche senza un soldo nella vita reale, a Lyhe Mheg vivranno da re!" }
   ]
 }

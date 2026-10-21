@@ -2,17 +2,17 @@
   "conversation": "custom/008/CtsDdd1Gacha_00822",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_ABOUT_WOODWAILERAPPRAISERS_000_000", "hash": "D200EE9F749D55FD", "target": "" },
-    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_ABOUT_WOODWAILERAPPRAISERS_000_010", "hash": "87F0E4987F701759", "target": "" },
-    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_ABOUT_WOODWAILERAPPRAISERS_000_020", "hash": "CEAA11283D17576B", "target": "" },
-    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_STARTMENU_TITLE", "hash": "B54CF766E4D6CEFB", "target": "" },
-    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_STARTMENU_GACHA", "hash": "8DE141BA3F9205F0", "target": "" },
-    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_STARTMENU_ABOUT", "hash": "E962EB63CE6BB122", "target": "" },
-    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_STARTMENU_EXIT", "hash": "B7AE56291CF8FA18", "target": "" },
-    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_ABOUT_WOODWAILERAPPRAISERS_000_050", "hash": "F8852791E229D15E", "target": "" },
-    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_ABOUT_WOODWAILERAPPRAISERS_000_051", "hash": "92FD263FABD46A21", "target": "" },
-    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_ABOUT_SYSTEM_000_060", "hash": "EBE5CEFE06576248", "target": "" },
-    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_ABOUT_SYSTEM_000_061", "hash": "E6D7CE01A68FDFE3", "target": "" },
-    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_ABOUT_SYSTEM_100_061", "hash": "136F77C99F75FE04", "target": "" }
+    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_ABOUT_WOODWAILERAPPRAISERS_000_000", "hash": "D200EE9F749D55FD", "target": "La presenza di mostri nelle rovine è una questione molto grave, ma la lascerò a voi avventurieri. A me interessano di più i manufatti ancora da scoprire sepolti al loro interno." },
+    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_ABOUT_WOODWAILERAPPRAISERS_000_010", "hash": "87F0E4987F701759", "target": "Ti sei <if(gnum4,avventurata,avventurato)> nelle rovine, vero? Hai trovato delle strane sacche, chiuse ermeticamente dalla magia del palazzo? Se vuoi conoscere il valore di questi tesori, portameli e spezzerò il sigillo che li tiene chiusi." },
+    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_ABOUT_WOODWAILERAPPRAISERS_000_020", "hash": "CEAA11283D17576B", "target": "Hai sentito? Le Sentinelle Cupe hanno scoperto documenti scritti dall'architetto del palazzo! Oh, cosa non darei per leggerli." },
+    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_STARTMENU_TITLE", "hash": "B54CF766E4D6CEFB", "target": "Cosa vuoi fare?" },
+    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_STARTMENU_GACHA", "hash": "8DE141BA3F9205F0", "target": "Fai valutare un pezzo del bottino maledetto." },
+    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_STARTMENU_ABOUT", "hash": "E962EB63CE6BB122", "target": "Informarsi sul bottino maledetto." },
+    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_STARTMENU_EXIT", "hash": "B7AE56291CF8FA18", "target": "Niente." },
+    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_ABOUT_WOODWAILERAPPRAISERS_000_050", "hash": "F8852791E229D15E", "target": "Ultimamente le Sentinelle Cupe tornano con manufatti insoliti. Avvolti in strane sacche, sepolti in luoghi ancora più strani. Sono sigillati da magie simili a quelle che proteggono il Palace of the Dead, e questo rende pericoloso anche solo aprirli." },
+    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_ABOUT_WOODWAILERAPPRAISERS_000_051", "hash": "92FD263FABD46A21", "target": "Il mio compito è dissolvere gli incantesimi protettivi di questi strani contenitori portati fuori dalle rovine. Se ne trovi uno, portamelo: lo aprirò per te in tutta sicurezza." },
+    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_ABOUT_SYSTEM_000_060", "hash": "EBE5CEFE06576248", "target": "Esplorando il deep dungeon, i giocatori troveranno pezzi del bottino maledetto, nascosti e sepolti dai non morti." },
+    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_ABOUT_SYSTEM_000_061", "hash": "E6D7CE01A68FDFE3", "target": "Puoi scoprire il valore dei tesori trovati nel Palace of the Dead presentandoli all'expedition bishop per una valutazione." },
+    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_ABOUT_SYSTEM_100_061", "hash": "136F77C99F75FE04", "target": "Il capitano della spedizione delle Sentinelle Cupe può offrire informazioni dettagliate su come trovare questi tesori nascosti." }
   ]
 }

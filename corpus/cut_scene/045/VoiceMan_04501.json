@@ -2,10 +2,10 @@
   "conversation": "cut_scene/045/VoiceMan_04501",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "cut_scene/045/VoiceMan_04501#TEXT_VOICEMAN_04501_000000_ULTIMA", "hash": "01520A5A3EE1BFA7", "target": "" },
-    { "gameKey": "cut_scene/045/VoiceMan_04501#TEXT_VOICEMAN_04501_000010_ULTIMA", "hash": "634C6FEABCEAB033", "target": "" },
-    { "gameKey": "cut_scene/045/VoiceMan_04501#TEXT_VOICEMAN_04501_000020_ULTIMA", "hash": "89FB650A65D2727E", "target": "" },
-    { "gameKey": "cut_scene/045/VoiceMan_04501#TEXT_VOICEMAN_04501_000100_ULTIMA", "hash": "683934996DE348CD", "target": "" },
-    { "gameKey": "cut_scene/045/VoiceMan_04501#TEXT_VOICEMAN_04501_000200_SEIRYU", "hash": "62D23BD0013595EE", "target": "" }
+    { "gameKey": "cut_scene/045/VoiceMan_04501#TEXT_VOICEMAN_04501_000000_ULTIMA", "hash": "01520A5A3EE1BFA7", "target": "Cercate rifugio, miei figli smarriti?<br>O forse siete giunti in cerca di potere." },
+    { "gameKey": "cut_scene/045/VoiceMan_04501#TEXT_VOICEMAN_04501_000010_ULTIMA", "hash": "634C6FEABCEAB033", "target": "Ciò che giace ai vostri piedi, quel monile benedetto, può concedervi entrambi.<br>Vi basta volerlo." },
+    { "gameKey": "cut_scene/045/VoiceMan_04501#TEXT_VOICEMAN_04501_000020_ULTIMA", "hash": "89FB650A65D2727E", "target": "Ora raccogliete la vostra salvezza e andatevene.<br>Non sarà tollerato l'intervento dei mortali nelle questioni divine." },
+    { "gameKey": "cut_scene/045/VoiceMan_04501#TEXT_VOICEMAN_04501_000100_ULTIMA", "hash": "683934996DE348CD", "target": "Sono vostra madre. Sono la vostra creatrice! Io. Sono. Ivalice!<br>Relegatemi nelle tenebre e la vostra luce sarà perduta per sempre!" },
+    { "gameKey": "cut_scene/045/VoiceMan_04501#TEXT_VOICEMAN_04501_000200_SEIRYU", "hash": "62D23BD0013595EE", "target": "Dimostratemi che sbaglio, mortali! Costringetemi alla resa... o morite per la vostra insolenza!" }
   ]
 }

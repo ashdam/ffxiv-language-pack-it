@@ -83,7 +83,7 @@
     { "gameKey": "quest/006/ClsGld500_00658#TEXT_CLSGLD500_00658_SERENDIPITY_000_101", "hash": "62654ED4195A0412", "target": "Naturalmente, non ho intenzione di dirglielo. Saperlo lo renderebbe insopportabilmente arrogante." },
     { "gameKey": "quest/006/ClsGld500_00658#TEXT_CLSGLD500_00658_SERENDIPITY_000_102", "hash": "A797AED2E515ED18", "target": "Comunque, <split(<string(gstr1)>, ,1)>, accettate i miei più sinceri ringraziamenti. E anche se Gigi non vorrebbe ammetterlo, sono certa che in fondo anche lui vi sia grato. Oh, in futuro, vi prego di non tentare di riparare un mammet prima di aver imparato almeno le basi della sua costruzione!" },
     { "gameKey": "quest/006/ClsGld500_00658#TEXT_CLSGLD500_00658_SYSTEM_000_500", "hash": "74A17ADA3DD068F5", "target": "Si concludono qui le missioni da Goldsmith di FINAL FANTASY XIV: A Realm Reborn. Per iniziare la prossima serie di missioni, devi prima soddisfare i seguenti requisiti:" },
-    { "gameKey": "quest/006/ClsGld500_00658#TEXT_CLSGLD500_00658_SYSTEM_000_501", "hash": "2E84CE04560578BE", "target": "※Devi aver completato la missione dello scenario principale «Before the Dawn»." },
+    { "gameKey": "quest/006/ClsGld500_00658#TEXT_CLSGLD500_00658_SYSTEM_000_501", "hash": "2E84CE04560578BE", "target": "※Devi aver completato la missione della storia principale «Before the Dawn»." },
     { "gameKey": "quest/006/ClsGld500_00658#TEXT_CLSGLD500_00658_SYSTEM_000_502", "hash": "1CCE61266E89387A", "target": "Una volta soddisfatti i requisiti, la prossima missione da Goldsmith sarà disponibile presso Serendipity." }
   ]
 }

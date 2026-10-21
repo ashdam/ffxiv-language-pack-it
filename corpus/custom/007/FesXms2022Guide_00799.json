@@ -2,19 +2,19 @@
   "conversation": "custom/007/FesXms2022Guide_00799",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/007/FesXms2022Guide_00799#TEXT_FESXMS2022GUIDE_00799_GUIDEXMS2022_000_000", "hash": "6B5F086B2F3CA502", "target": "" },
-    { "gameKey": "custom/007/FesXms2022Guide_00799#TEXT_FESXMS2022GUIDE_00799_Q1_000_001", "hash": "6F8CDD07889E3F1D", "target": "" },
-    { "gameKey": "custom/007/FesXms2022Guide_00799#TEXT_FESXMS2022GUIDE_00799_A1_000_001", "hash": "BF041837E59A6B6B", "target": "" },
-    { "gameKey": "custom/007/FesXms2022Guide_00799#TEXT_FESXMS2022GUIDE_00799_A1_000_002", "hash": "038A8536A1A6B774", "target": "" },
-    { "gameKey": "custom/007/FesXms2022Guide_00799#TEXT_FESXMS2022GUIDE_00799_A1_000_003", "hash": "073A44FFFA5F6533", "target": "" },
-    { "gameKey": "custom/007/FesXms2022Guide_00799#TEXT_FESXMS2022GUIDE_00799_GUIDEXMS2022_000_010", "hash": "C4D4C50C18FC2C62", "target": "" },
-    { "gameKey": "custom/007/FesXms2022Guide_00799#TEXT_FESXMS2022GUIDE_00799_GUIDEXMS2022_000_011", "hash": "E1842636D1A94749", "target": "" },
-    { "gameKey": "custom/007/FesXms2022Guide_00799#TEXT_FESXMS2022GUIDE_00799_GUIDEXMS2022_000_012", "hash": "B634DFC13C72F530", "target": "" },
-    { "gameKey": "custom/007/FesXms2022Guide_00799#TEXT_FESXMS2022GUIDE_00799_GUIDEXMS2022_000_013", "hash": "7EB0B7135AFF159B", "target": "" },
-    { "gameKey": "custom/007/FesXms2022Guide_00799#TEXT_FESXMS2022GUIDE_00799_GUIDEXMS2022_000_014", "hash": "62C616B7FBB454E3", "target": "" },
-    { "gameKey": "custom/007/FesXms2022Guide_00799#TEXT_FESXMS2022GUIDE_00799_GUIDEXMS2022_000_020", "hash": "D36B3DD9B91D4240", "target": "" },
-    { "gameKey": "custom/007/FesXms2022Guide_00799#TEXT_FESXMS2022GUIDE_00799_GUIDEXMS2022_000_021", "hash": "B24FCFA68890B97A", "target": "" },
-    { "gameKey": "custom/007/FesXms2022Guide_00799#TEXT_FESXMS2022GUIDE_00799_GUIDEXMS2022_000_022", "hash": "7843953AF73A546A", "target": "" },
-    { "gameKey": "custom/007/FesXms2022Guide_00799#TEXT_FESXMS2022GUIDE_00799_GUIDEXMS2022_000_023", "hash": "69BAE3D2B02F2055", "target": "" }
+    { "gameKey": "custom/007/FesXms2022Guide_00799#TEXT_FESXMS2022GUIDE_00799_GUIDEXMS2022_000_000", "hash": "6B5F086B2F3CA502", "target": "Buona Festa delle Stelle, <if(gnum4,avventuriera,avventuriero)>. Se avete domande sui festeggiamenti di quest'anno, non dovete far altro che chiedere." },
+    { "gameKey": "custom/007/FesXms2022Guide_00799#TEXT_FESXMS2022GUIDE_00799_Q1_000_001", "hash": "6F8CDD07889E3F1D", "target": "Cosa vuoi chiedere?" },
+    { "gameKey": "custom/007/FesXms2022Guide_00799#TEXT_FESXMS2022GUIDE_00799_A1_000_001", "hash": "BF041837E59A6B6B", "target": "Che cos'è la Festa delle Stelle?" },
+    { "gameKey": "custom/007/FesXms2022Guide_00799#TEXT_FESXMS2022GUIDE_00799_A1_000_002", "hash": "038A8536A1A6B774", "target": "Qual è il vostro compito in tutto questo?" },
+    { "gameKey": "custom/007/FesXms2022Guide_00799#TEXT_FESXMS2022GUIDE_00799_A1_000_003", "hash": "073A44FFFA5F6533", "target": "Niente." },
+    { "gameKey": "custom/007/FesXms2022Guide_00799#TEXT_FESXMS2022GUIDE_00799_GUIDEXMS2022_000_010", "hash": "C4D4C50C18FC2C62", "target": "Le origini della Festa delle Stelle risalgono all'antica Ishgard. Molto tempo fa, una terribile battaglia causò innumerevoli morti e lasciò migliaia di bambini orfani nel clima gelido del Coerthas." },
+    { "gameKey": "custom/007/FesXms2022Guide_00799#TEXT_FESXMS2022GUIDE_00799_GUIDEXMS2022_000_011", "hash": "E1842636D1A94749", "target": "Incapaci di sopportare le loro sofferenze, alcuni cavalieri ishgardesi offrirono ai bambini vitto e alloggio nelle proprie caserme. Naturalmente, era espressamente vietato, ma i cavalieri escogitarono un piano per farli entrare di nascosto, camuffandoli con le giubbe delle loro uniformi scarlatte." },
+    { "gameKey": "custom/007/FesXms2022Guide_00799#TEXT_FESXMS2022GUIDE_00799_GUIDEXMS2022_000_012", "hash": "B634DFC13C72F530", "target": "Grazie alla loro generosità, i bambini sopravvissero all'inverno e crebbero, per poi ricambiare la gentilezza ricevuta. Gli ex orfani indossavano uniformi scarlatte e portavano doni ai bambini nella settimana più fredda dell'anno. Nacque così la Festa delle Stelle." },
+    { "gameKey": "custom/007/FesXms2022Guide_00799#TEXT_FESXMS2022GUIDE_00799_GUIDEXMS2022_000_013", "hash": "7EB0B7135AFF159B", "target": "Nel corso degli anni, la festa è gradualmente cambiata. Il capitano dalla barba candida di quei cavalieri generosi è diventato noto come il «Santo di Nymeia», e i bambini credono che porti le loro speranze e preghiere direttamente alla dea." },
+    { "gameKey": "custom/007/FesXms2022Guide_00799#TEXT_FESXMS2022GUIDE_00799_GUIDEXMS2022_000_014", "hash": "62C616B7FBB454E3", "target": "Allo stesso modo, i suoi cavalieri dalle giubbe rosse sono diventati i «piccoli aiutanti del Santo». Sono particolarmente amati dai più piccoli, perché hanno il compito di portare doni a ogni bambino che rivolga una preghiera alla Filatrice." },
+    { "gameKey": "custom/007/FesXms2022Guide_00799#TEXT_FESXMS2022GUIDE_00799_GUIDEXMS2022_000_020", "hash": "D36B3DD9B91D4240", "target": "La Gilda degli Avventurieri ha affidato a me e ai miei colleghi vestiti di scarlatto l'organizzazione della Festa delle Stelle. La celebrazione si estende a tutta Eorzea, e i nostri piccoli aiutanti sono presenti nelle città di Gridania, Limsa Lominsa e Ul'dah." },
+    { "gameKey": "custom/007/FesXms2022Guide_00799#TEXT_FESXMS2022GUIDE_00799_GUIDEXMS2022_000_021", "hash": "B24FCFA68890B97A", "target": "Quest'anno abbiamo persino dei partecipanti da Sharlayan: un professore associato e la sua talentuosa renna, che si dice sappia creare prodigiose illusioni in presenza dei bambini." },
+    { "gameKey": "custom/007/FesXms2022Guide_00799#TEXT_FESXMS2022GUIDE_00799_GUIDEXMS2022_000_022", "hash": "7843953AF73A546A", "target": "Ahimè, sembra che abbiano incontrato qualche complicazione imprevista e che non siano ancora riusciti a condividere queste meraviglie con i bambini di Gridania. Spero davvero che risolvano presto la situazione..." },
+    { "gameKey": "custom/007/FesXms2022Guide_00799#TEXT_FESXMS2022GUIDE_00799_GUIDEXMS2022_000_023", "hash": "69BAE3D2B02F2055", "target": "Anzi, credo che proprio di recente cercassero l'aiuto di <if(gnum4,una certa avventuriera,un certo avventuriero)> per diffondere l'allegria in tutta Gridania... Se immaginate di chi si tratti, siate così gentile da parlare con Laurenssen." }
   ]
 }

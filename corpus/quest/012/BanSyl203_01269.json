@@ -2,17 +2,17 @@
   "conversation": "quest/012/BanSyl203_01269",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_SEQ_00", "hash": "397570693F3C0E5D", "target": "" },
-    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_SEQ_01", "hash": "2A905F20E1BA4C55", "target": "" },
-    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_SEQ_02", "hash": "12C2C001FC79A47A", "target": "" },
-    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_SEQ_03", "hash": "86117EC62D621C9E", "target": "" },
-    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_TODO_00", "hash": "C5EF124CC0D9C746", "target": "" },
-    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_TODO_01", "hash": "5C4C391FF4AC45EE", "target": "" },
-    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_PONNIXIA_000_000", "hash": "0233D464388825AE", "target": "" },
-    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_PONNIXIA_000_001", "hash": "A50BB48470E9393D", "target": "" },
-    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_PONNIXIA_000_002", "hash": "44047CB972D119B4", "target": "" },
-    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_PONNIXIA_000_005", "hash": "FD4DB526477EB870", "target": "" },
-    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_PONNIXIA_000_010", "hash": "E0586F2825210B7F", "target": "" },
-    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_PONNIXIA_000_011", "hash": "28A481B11F35BE75", "target": "" }
+    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_SEQ_00", "hash": "397570693F3C0E5D", "target": "Qualcosa nell'aria angustia Ponnixia." },
+    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_SEQ_01", "hash": "2A905F20E1BA4C55", "target": "Silfi malevoli hanno tramato contro i funghi della foresta, cospargendoli di una polvere velenosa che li induce a emettere esalazioni tossiche. Lavali con acqua sorgiva per risparmiare ai Silfi di Piccolo Conforto un'epidemia di tosse." },
+    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_SEQ_02", "hash": "12C2C001FC79A47A", "target": "Hai bagnato i funghi, rimuovendo le loro proprietà velenose. Informa Ponnixia che può di nuovo respirare tranquilla." },
+    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_SEQ_03", "hash": "86117EC62D621C9E", "target": "Ponnixia respira a fondo, assaporando l'aria pulita e fresca della foresta. Ancora una volta, hai dimostrato di essere <if(gnum4,una vera amica,un vero amico)> di Piccolo Conforto e dei suoi abitanti." },
+    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_TODO_00", "hash": "C5EF124CC0D9C746", "target": "Bagnare i greater banestools con acqua sorgiva" },
+    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_TODO_01", "hash": "5C4C391FF4AC45EE", "target": "Fare rapporto a Ponnixia" },
+    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_PONNIXIA_000_000", "hash": "0233D464388825AE", "target": "Proprio quando questa qui pensava che quelli asserviti non potessero diventare più cattivi! Chi è amico sente uno strano odore nell'aria?" },
+    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_PONNIXIA_000_001", "hash": "A50BB48470E9393D", "target": "Questa qui ha visto quelli asserviti spargere una strana polvere sui funghi puzzolenti, rendendo ancora più puzzolente la brutta puzza! Questi qui non smettono di tirar su col naso e starnutire." },
+    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_PONNIXIA_000_002", "hash": "44047CB972D119B4", "target": "Per favore, chi è amico! Lavi via dai funghi puzzolenti la brutta polvere di quello cattivo, prima che questi qui diventino tutti quelli malaticci." },
+    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_PONNIXIA_000_005", "hash": "FD4DB526477EB870", "target": "Per favore, chi è amico! Lavi via la polvere dai funghi puzzolenti, prima che questi qui diventino tutti quelli malaticci." },
+    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_PONNIXIA_000_010", "hash": "E0586F2825210B7F", "target": "Il naso di questa qui non pizzica più. Chi è amico ha ripulito dalla puzza i funghi puzzolenti, sì?" },
+    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_PONNIXIA_000_011", "hash": "28A481B11F35BE75", "target": "Questi qui tirano un sospiro di sollievo. Ahhhhhh, anche chi è amico non ama i dolci profumi della foresta?" }
   ]
 }

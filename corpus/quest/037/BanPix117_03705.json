@@ -2,15 +2,15 @@
   "conversation": "quest/037/BanPix117_03705",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_SEQ_00", "hash": "72C2BE9FBD3AF4E2", "target": "" },
-    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_TODO_00", "hash": "3EE3EFE2737A97F9", "target": "" },
-    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_TODO_01", "hash": "23585E28A8762118", "target": "" },
-    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_UINNEE_000_001", "hash": "6BCEF5BC476F358D", "target": "" },
-    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_UINNEE_000_002", "hash": "EA6CEEC1D17EC64F", "target": "" },
-    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_UINNEE_000_003", "hash": "5C09846EA4BDD536", "target": "" },
-    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_UINNEE_000_004", "hash": "843D37057F2EE999", "target": "" },
-    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_UINNEE_000_020", "hash": "C6D206083C3D1882", "target": "" },
-    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_UINNEE_000_021", "hash": "79820A65EFF6FA40", "target": "" },
-    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_UINNEE_000_022", "hash": "024F4201E9C603C5", "target": "" }
+    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_SEQ_00", "hash": "72C2BE9FBD3AF4E2", "target": "L'ultimo piano di Uin Nee puzza di pesce più del solito.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
+    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_TODO_00", "hash": "3EE3EFE2737A97F9", "target": "Controllare la fish trap nel punto indicato" },
+    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_TODO_01", "hash": "23585E28A8762118", "target": "Consegnare la trappola piena di pesci a Uin Nee" },
+    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_UINNEE_000_001", "hash": "6BCEF5BC476F358D", "target": "Tyr Beq mi dice che la terra chiamata «Amh Araeng» non assomiglia per niente a Il Mheg. È un posto arido e caldo dove non cresce quasi nulla. Niente fiori, niente fiumi, niente laghi!" },
+    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_UINNEE_000_002", "hash": "EA6CEEC1D17EC64F", "target": "Alcuni bambini non hanno mai neanche <italic(1)>visto<italic(0)> un pesce! Pensa un po'! E sì, credo che sappiamo entrambi dove voglio arrivare..." },
+    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_UINNEE_000_003", "hash": "5C09846EA4BDD536", "target": "Esatto! Voglio che mi porti un pesce da mostrare ai bambini del Giardino dei Sogni. Uno bello, grazioso e con le squame lucenti!" },
+    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_UINNEE_000_004", "hash": "843D37057F2EE999", "target": "Forse ti sorprenderà tanta preparazione, ma ho già fatto piazzare una trappola a uno dei miei sottoposti al Guado del Bosco Fitto. Molto più semplice che armeggiare con ami e altre cose. Devi solo andare a vedere se abbiamo preso qualcosa!" },
+    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_UINNEE_000_020", "hash": "C6D206083C3D1882", "target": "Allora? Che cosa mi hai portato?" },
+    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_UINNEE_000_021", "hash": "79820A65EFF6FA40", "target": "Oh, sì. Queste sono... trote luccicose arcobalenose. Le chiameremo così. Ho grandi progetti per voi, piccoline! Non nuoterete nella solita noiosa acqua come gli altri pesci, volerete nei cieli di Lyhe Mheg!" },
+    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_UINNEE_000_022", "hash": "024F4201E9C603C5", "target": "E se ne catturiamo altre, potranno volare tutte insieme per creare un gigantesco arcobaleno di pesci! Ah ah! Non c'è da stupirsi che tutti mi considerino un genio!" }
   ]
 }

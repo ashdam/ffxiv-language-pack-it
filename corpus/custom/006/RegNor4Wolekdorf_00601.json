@@ -2,16 +2,16 @@
   "conversation": "custom/006/RegNor4Wolekdorf_00601",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_TRAVELER_000_000", "hash": "4CCB4562D478F212", "target": "" },
-    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_Q1_000_000", "hash": "E9B0FA5C98D83ADC", "target": "" },
-    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_A1_000_001", "hash": "7E9B995807B90740", "target": "" },
-    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_A1_000_002", "hash": "C7C117E92F0AA4A4", "target": "" },
-    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_A1_000_003", "hash": "A229E2987329E80F", "target": "" },
-    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_TRAVELER_000_100", "hash": "E7A0D21B3E03BA42", "target": "" },
-    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_TRAVELER_000_101", "hash": "6A52ACB2D46CE184", "target": "" },
-    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_TRAVELER_000_102", "hash": "589E06A0F2086245", "target": "" },
-    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_TRAVELER_000_200", "hash": "70EBAFAB7708B341", "target": "" },
-    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_TRAVELER_000_201", "hash": "6622F39F0F5C7616", "target": "" },
-    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_TRAVELER_000_202", "hash": "F683956E0B84CB79", "target": "" }
+    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_TRAVELER_000_000", "hash": "4CCB4562D478F212", "target": "È raro che degli uomini vengano qui. Purché tu non turbi la nostra pace, ti accogliamo ad ali aperte." },
+    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_Q1_000_000", "hash": "E9B0FA5C98D83ADC", "target": "Cosa vuoi chiedere?" },
+    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_A1_000_001", "hash": "7E9B995807B90740", "target": "Parlami di te." },
+    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_A1_000_002", "hash": "C7C117E92F0AA4A4", "target": "Che posto è questo?" },
+    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_A1_000_003", "hash": "A229E2987329E80F", "target": "Niente." },
+    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_TRAVELER_000_100", "hash": "E7A0D21B3E03BA42", "target": "Nella mia vita passata avevo un padrone con cui viaggiavo fino agli angoli più remoti del regno. Da Nabaath Areng, nel profondo sud, fino a Voeburt qui a nord, volavamo sulle ali del vento." },
+    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_TRAVELER_000_101", "hash": "6A52ACB2D46CE184", "target": "Il mio padrone amava tanto viaggiare, e nulla lo dimostra meglio del nome che mi diede: Traveler." },
+    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_TRAVELER_000_102", "hash": "589E06A0F2086245", "target": "Sono passati molti anni dal mio ultimo viaggio e immagino che il mondo fuori da Il Mheg sia molto cambiato. Eppure non desidero rivederlo. Preferisco lasciare quei luoghi come vivono nei miei ricordi." },
+    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_TRAVELER_000_200", "hash": "70EBAFAB7708B341", "target": "Fra noi amaro, alcuni risvegliano capacità da tempo perdute dalla nostra specie, fra cui la parola. Gli uomini di Ronka ci chiamavano \"Tupaq Amaro\", e veniamo qui a trascorrere i nostri ultimi giorni." },
+    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_TRAVELER_000_201", "hash": "6622F39F0F5C7616", "target": "Che sia per morte o per abbandono, tutti abbiamo perso i nostri padroni e conosciuto l'amarezza della solitudine. Ma in questa comunità possiamo trovare compagnia, comprensione e, non ultima, pace." },
+    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_TRAVELER_000_202", "hash": "F683956E0B84CB79", "target": "Come stormo, fondiamo la nostra vita sulla pace e ci teniamo lontani dai guai. Anche se i nostri vicini fatati non sempre rispettano i nostri desideri, nel complesso siamo contenti." }
   ]
 }

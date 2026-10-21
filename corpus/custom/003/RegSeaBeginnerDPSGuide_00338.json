@@ -2,19 +2,19 @@
   "conversation": "custom/003/RegSeaBeginnerDPSGuide_00338",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_000", "hash": "60800EF1C897D24F", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_SYSTEM_000_000", "hash": "5F64C93BC0F9824C", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_010", "hash": "42A588928A060333", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_020", "hash": "95C18BC720ABEA29", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_030", "hash": "542F471FE5FDF598", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_040", "hash": "6A2292E872634B51", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_Q1_000_000", "hash": "AB39F078620AB00D", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_A1_000_001", "hash": "77B73571D5695634", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_A1_000_002", "hash": "36DB72388615BB0C", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_A1_000_003", "hash": "A1A63E11F9FBE3AC", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_A1_000_004", "hash": "3290AE3620202310", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_100", "hash": "4D12949B90A82008", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_110", "hash": "A0A2DF6D5C15349A", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_120", "hash": "DC6C2344192E30D3", "target": "" }
+    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_000", "hash": "60800EF1C897D24F", "target": "Sono il Maestro d'Armi, e il mio compito è insegnare agli avventurieri alle prime armi i fondamenti del combattimento in gruppo. Uhm. Tu, <if(gnum4,amica mia,amico mio)>, forse hai appena rotto il guscio. Torna da me quando ti saranno cresciute un po' di piume!" },
+    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_SYSTEM_000_000", "hash": "5F64C93BC0F9824C", "target": "Per affrontare l'addestramento della Hall of the Novice, devi essere un discepolo della Guerra o della Magia di livello 15 o superiore." },
+    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_010", "hash": "42A588928A060333", "target": "Sono il Maestro d'Armi, e il mio compito è insegnare agli avventurieri alle prime armi i fondamenti del combattimento in gruppo. E tu, <if(gnum4,amica mia,amico mio)>, sei proprio <if(gnum4,la giovane eroina piena di vigore,il giovane eroe pieno di vigore)> che aspettavo. Comunica il tuo interesse allo Smith laggiù e potremo cominciare subito l'addestramento!" },
+    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_020", "hash": "95C18BC720ABEA29", "target": "Il mio campo è strettamente quello dei danni, e del modo migliore per infliggerli. Se ti interessa di più prevenirli o curarli, forse uno dei miei colleghi sarà più adatto alle tue esigenze." },
+    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_030", "hash": "542F471FE5FDF598", "target": "Sei qui per addestrarti? Parla con lo Smith per organizzare una lezione, e ti incontrerò sul campo d'esercitazione!" },
+    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_040", "hash": "6A2292E872634B51", "target": "Ah, <split(<string(gstr1)>, ,1)>! <if(gnum4,Una delle nostre allieve,Uno dei nostri allievi)> migliori! Non dubito che farai buon uso delle nostre lezioni sul campo di battaglia. Se vorrai altri insegnamenti, basterà chiedere!" },
+    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_Q1_000_000", "hash": "AB39F078620AB00D", "target": "Cosa vuoi chiedere?" },
+    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_A1_000_001", "hash": "77B73571D5695634", "target": "Cosa devo ricordare quando combatto al fianco degli alleati?" },
+    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_A1_000_002", "hash": "36DB72388615BB0C", "target": "Come devo affrontare i rinforzi nemici?" },
+    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_A1_000_003", "hash": "A1A63E11F9FBE3AC", "target": "Cosa devo fare con leve e meccanismi simili?" },
+    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_A1_000_004", "hash": "3290AE3620202310", "target": "Niente." },
+    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_100", "hash": "4D12949B90A82008", "target": "Quando combatti al fianco degli alleati, scegli con attenzione chi attaccare. Invece di distribuire gli attacchi fra vari nemici, spesso è molto più efficace che tutto il gruppo si concentri sull'eliminazione di un solo avversario alla volta!" },
+    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_110", "hash": "A0A2DF6D5C15349A", "target": "Nuovi nemici che compaiono nel mezzo della battaglia possono seminare caos e confusione! Se stai combattendo contro un avversario particolarmente forte, ti suggerisco di allontanarti per eliminare i fastidiosi rinforzi!" },
+    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_120", "hash": "DC6C2344192E30D3", "target": "Faresti bene a esaminare il funzionamento delle leve e dei congegni che trovi sul campo di battaglia. Un uso accorto di questi meccanismi potrebbe darti proprio il vantaggio necessario per conquistare la vittoria." }
   ]
 }

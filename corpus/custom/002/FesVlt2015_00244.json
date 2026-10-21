@@ -2,18 +2,18 @@
   "conversation": "custom/002/FesVlt2015_00244",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/FesVlt2015_00244#TEXT_FESVLT2015_00244_MAIDVLT2015_000_000", "hash": "20033615A436ED4D", "target": "" },
-    { "gameKey": "custom/002/FesVlt2015_00244#TEXT_FESVLT2015_00244_Q1_000_001", "hash": "3FAEB6F53FD35A9B", "target": "" },
-    { "gameKey": "custom/002/FesVlt2015_00244#TEXT_FESVLT2015_00244_A1_000_001", "hash": "FA4D351591FC7AFF", "target": "" },
-    { "gameKey": "custom/002/FesVlt2015_00244#TEXT_FESVLT2015_00244_A1_000_002", "hash": "11F04BA52A532C19", "target": "" },
-    { "gameKey": "custom/002/FesVlt2015_00244#TEXT_FESVLT2015_00244_A1_000_003", "hash": "B366EC972303E9C2", "target": "" },
-    { "gameKey": "custom/002/FesVlt2015_00244#TEXT_FESVLT2015_00244_A1_000_004", "hash": "DA8CD8D3E4565955", "target": "" },
-    { "gameKey": "custom/002/FesVlt2015_00244#TEXT_FESVLT2015_00244_MAIDVLT2015_000_010", "hash": "6CE64AA630007F05", "target": "" },
-    { "gameKey": "custom/002/FesVlt2015_00244#TEXT_FESVLT2015_00244_MAIDVLT2015_000_011", "hash": "D47BF96CAD489B83", "target": "" },
-    { "gameKey": "custom/002/FesVlt2015_00244#TEXT_FESVLT2015_00244_MAIDVLT2015_000_012", "hash": "B2A5538740136DE0", "target": "" },
-    { "gameKey": "custom/002/FesVlt2015_00244#TEXT_FESVLT2015_00244_MAIDVLT2015_000_020", "hash": "6FDA75DE9EFE761A", "target": "" },
-    { "gameKey": "custom/002/FesVlt2015_00244#TEXT_FESVLT2015_00244_MAIDVLT2015_000_021", "hash": "56CF40488C9C9423", "target": "" },
-    { "gameKey": "custom/002/FesVlt2015_00244#TEXT_FESVLT2015_00244_MAIDVLT2015_000_030", "hash": "83CA97D0C0331CFC", "target": "" },
-    { "gameKey": "custom/002/FesVlt2015_00244#TEXT_FESVLT2015_00244_MAIDVLT2015_000_031", "hash": "B58B92C21F374BD5", "target": "" }
+    { "gameKey": "custom/002/FesVlt2015_00244#TEXT_FESVLT2015_00244_MAIDVLT2015_000_000", "hash": "20033615A436ED4D", "target": "<if([gnum11<12],<if([gnum11<4],Buonasera,Buongiorno)>,<if([gnum11<17],Buongiorno,Buonasera)>)>, <if(gnum4,avventuriera,avventuriero)>, e che i fiori dell'amore sboccino sempre nel vostro cuore! Se desiderate sapere di più sui festeggiamenti del Giorno di Valentione, non esitate a chiedere. Sarà un piacere condividere con voi tutto ciò che so." },
+    { "gameKey": "custom/002/FesVlt2015_00244#TEXT_FESVLT2015_00244_Q1_000_001", "hash": "3FAEB6F53FD35A9B", "target": "Cosa vuoi chiedere?" },
+    { "gameKey": "custom/002/FesVlt2015_00244#TEXT_FESVLT2015_00244_A1_000_001", "hash": "FA4D351591FC7AFF", "target": "Come mai tutti questi cuori?" },
+    { "gameKey": "custom/002/FesVlt2015_00244#TEXT_FESVLT2015_00244_A1_000_002", "hash": "11F04BA52A532C19", "target": "Che cos'è il Giorno di Valentione?" },
+    { "gameKey": "custom/002/FesVlt2015_00244#TEXT_FESVLT2015_00244_A1_000_003", "hash": "B366EC972303E9C2", "target": "Chi è Lisette de Valentione?" },
+    { "gameKey": "custom/002/FesVlt2015_00244#TEXT_FESVLT2015_00244_A1_000_004", "hash": "DA8CD8D3E4565955", "target": "Niente." },
+    { "gameKey": "custom/002/FesVlt2015_00244#TEXT_FESVLT2015_00244_MAIDVLT2015_000_010", "hash": "6CE64AA630007F05", "target": "È proprio la domanda a cui cerchiamo risposta! Perché tanti cuori in questo bel regno si tormentano con ardori inespressi? Perché chi li possiede non libera quella passione, lasciando che i tralci che ne soffocano l'anima appassiscano e muoiano nel rifiuto, o sboccino nelle rose di un amore ricambiato?" },
+    { "gameKey": "custom/002/FesVlt2015_00244#TEXT_FESVLT2015_00244_MAIDVLT2015_000_011", "hash": "D47BF96CAD489B83", "target": "Così noi dell'orgoglioso casato ishgardese dei Valentione ci spargiamo oggi per Eorzea, incoraggiando tutti a esprimere e condividere il proprio amore e offrendo sostegno a quelle povere anime che arrossiscono al pensiero di confessare la loro passione a chi adorano." },
+    { "gameKey": "custom/002/FesVlt2015_00244#TEXT_FESVLT2015_00244_MAIDVLT2015_000_012", "hash": "B2A5538740136DE0", "target": "Ma siamo troppo pochi per un compito tanto grande. Per questo cerchiamo l'aiuto di avventurieri esperti che diffondano i semi dell'affetto in tutto il regno. Vi interesserebbe unirvi a noi in queste fatiche d'amore?" },
+    { "gameKey": "custom/002/FesVlt2015_00244#TEXT_FESVLT2015_00244_MAIDVLT2015_000_020", "hash": "6FDA75DE9EFE761A", "target": "È un periodo di festa in cui onoriamo la vita della contessa Arabelle de Valentione, una nobildonna di Ishgard che si ribellò a una vita agiata e distaccata e rischiò tutto per inseguire un amore puro e travolgente." },
+    { "gameKey": "custom/002/FesVlt2015_00244#TEXT_FESVLT2015_00244_MAIDVLT2015_000_021", "hash": "56CF40488C9C9423", "target": "Negli anni successivi alla morte della contessa, fra gli abitanti di Ishgard si instaurò una tradizione: ogni anno, in questo periodo, cercavano di emularne la passione e il coraggio, facendosi forza e donando un pegno d'amore alla persona amata." },
+    { "gameKey": "custom/002/FesVlt2015_00244#TEXT_FESVLT2015_00244_MAIDVLT2015_000_030", "hash": "83CA97D0C0331CFC", "target": "Lady Lisette discende direttamente dalla contessa Arabelle de Valentione e ne è il ritratto, nella bellezza come nello spirito. Che sia per le instancabili esortazioni o per la sua sola presenza incantevole, nessuno alimenta i fuochi della passione nei cuori eorzeani più di lei." },
+    { "gameKey": "custom/002/FesVlt2015_00244#TEXT_FESVLT2015_00244_MAIDVLT2015_000_031", "hash": "B58B92C21F374BD5", "target": "Gli uomini la desiderano, e le donne vorrebbero <italic(1)>essere<italic(0)> lei. E per molti vale anche il contrario. Ma come possono le mie parole rendere giustizia a una luce simile? Se volete saperne di più sulla mia signora, parlatele di persona. È sempre ansiosa di conoscere volti nuovi... purché siano disposti a sottomettersi ai suoi ordini." }
   ]
 }

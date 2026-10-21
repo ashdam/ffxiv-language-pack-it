@@ -2,17 +2,17 @@
   "conversation": "quest/012/BanAma304_01245",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_SEQ_00", "hash": "ADBB559D592A5E39", "target": "" },
-    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_SEQ_01", "hash": "D7B53B824820B247", "target": "" },
-    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_SEQ_02", "hash": "02CBBA6A4B872BD9", "target": "" },
-    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_TODO_00", "hash": "ABAD40185D5C32E6", "target": "" },
-    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_000_000", "hash": "EB4F6E03AAA42A87", "target": "" },
-    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_000_001", "hash": "10C6C5E4EC68832A", "target": "" },
-    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_000_002", "hash": "A9D9884DDD8F5268", "target": "" },
-    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_100_003", "hash": "844A2AC89C445D45", "target": "" },
-    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_000_005", "hash": "A3285F84A83DCB68", "target": "" },
-    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_000_010", "hash": "A0233972E49F436E", "target": "" },
-    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_000_011", "hash": "FAF24DBFE18A7AB4", "target": "" },
-    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_000_012", "hash": "BF603395EEC1E32A", "target": "" }
+    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_SEQ_00", "hash": "ADBB559D592A5E39", "target": "Yadovv Gah vuole mettere davvero alla prova la tua abilità marziale." },
+    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_SEQ_01", "hash": "D7B53B824820B247", "target": "Yadovv Gah ti ha incaricato di uccidere il comandante di una famigerata unità d'élite delle Zanne di Fuoco. Partecipa al FATE «Quenching the Flame» a Zahar'ak e presenta a Yadovv Gah una prova della tua impresa." },
+    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_SEQ_02", "hash": "02CBBA6A4B872BD9", "target": "Hai consegnato il Flamefang choker a Yadovv Gah. Il guerriero della Confraternita esulta per la tua grande vittoria e pregusta il crollo del morale nemico." },
+    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_TODO_00", "hash": "ABAD40185D5C32E6", "target": "Consegnare a Yadovv Gah il Flamefang choker ottenuto nel FATE «Quenching the Flame»" },
+    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_000_000", "hash": "EB4F6E03AAA42A87", "target": "Oggi ho una sfida per te: fra le deboli file delle Zanne di Fuoco c'è un'unità di soldati dalla forza ineguagliabile." },
+    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_000_001", "hash": "10C6C5E4EC68832A", "target": "Persino tra i loro alleati, questi sadici veterani incutono più terrore che rispetto. Come soldati, sono forse gli unici avversari capaci di competere davvero alla pari con la Confraternita delle Ceneri." },
+    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_000_002", "hash": "A9D9884DDD8F5268", "target": "Ti chiedo di affrontare questi guerrieri d'élite... e il loro comandante. Se riuscirai a strappargli il prezioso Flamefang choker, la gloria della tua impresa non conoscerà confini." },
+    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_100_003", "hash": "844A2AC89C445D45", "target": "Le grida incredule del nemico saranno come il più dolce canto degli uccelli, se avrai successo. Questa sarà una vera prova della tua abilità marziale." },
+    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_000_005", "hash": "A3285F84A83DCB68", "target": "Uccidi il comandante di questi soldati d'élite e portami il monile a cui tiene tanto. Una simile vittoria toglierà ai nemici la voglia di combattere, come una lama nelle viscere." },
+    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_000_010", "hash": "A0233972E49F436E", "target": "Ebbene? Hai superato la mia sfida? Il comandante delle truppe d'élite delle Zanne di Fuoco giace morto?" },
+    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_000_011", "hash": "FAF24DBFE18A7AB4", "target": "Sì! È la sua preziosa collana! Le zanne del monile vanno strappate dalla carne, quindi la tua impresa è indiscutibile." },
+    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_000_012", "hash": "BF603395EEC1E32A", "target": "Hai trionfato dove persino i più abili della Confraternita avrebbero potuto fallire. Mi inchino al tuo valore, potente <if(gnum4,guerriera,guerriero)>!" }
   ]
 }

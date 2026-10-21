@@ -68,7 +68,7 @@
     { "gameKey": "quest/006/ClsAlc500_00650#TEXT_CLSALC500_00650_SEVERIAN_000_102", "hash": "BA116610DD075896", "target": "Senza il tuo aiuto, non so se sarei sopravvissuto alla mia ossessione. <if(gnum4,Sei stata senza dubbio la migliore assistente,Sei stato senza dubbio il migliore assistente)> che un alchimista potesse avere. Ti ringrazio." },
     { "gameKey": "quest/006/ClsAlc500_00650#TEXT_CLSALC500_00650_SEVERIAN_000_103", "hash": "E88DDB71C8C890EF", "target": "Ora che hai conquistato questa montagna con me, quale sarà la tua prossima impresa? Il regno dell'alchimia non ha confini─le possibilità sono infinite!" },
     { "gameKey": "quest/006/ClsAlc500_00650#TEXT_CLSALC500_00650_SYSTEM_000_500", "hash": "D0B908C4A313497F", "target": "Si concludono qui le missioni di classe Alchemist di FINAL FANTASY XIV: A Realm Reborn. Per intraprendere la serie successiva, devi prima soddisfare i seguenti requisiti:" },
-    { "gameKey": "quest/006/ClsAlc500_00650#TEXT_CLSALC500_00650_SYSTEM_000_501", "hash": "50B0151DB1A8CB22", "target": "※Devi aver completato la missione dello scenario principale «Before the Dawn»." },
+    { "gameKey": "quest/006/ClsAlc500_00650#TEXT_CLSALC500_00650_SYSTEM_000_501", "hash": "50B0151DB1A8CB22", "target": "※Devi aver completato la missione della storia principale «Before the Dawn»." },
     { "gameKey": "quest/006/ClsAlc500_00650#TEXT_CLSALC500_00650_SYSTEM_000_502", "hash": "5D415A0DB17415F7", "target": "Quando l'avrai fatto, la prossima missione di classe Alchemist sarà disponibile da Severian." }
   ]
 }

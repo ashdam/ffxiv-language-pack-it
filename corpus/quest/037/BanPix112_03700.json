@@ -2,15 +2,15 @@
   "conversation": "quest/037/BanPix112_03700",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_SEQ_00", "hash": "91FAF3697EA60BE0", "target": "" },
-    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_TODO_00", "hash": "70DCEF99A26AB8A0", "target": "" },
-    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_TODO_01", "hash": "641167D997FA617B", "target": "" },
-    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_UINNEE_000_001", "hash": "7BEE6C79F4C17E5A", "target": "" },
-    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_UINNEE_000_002", "hash": "9DE70351597709F2", "target": "" },
-    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_UINNEE_000_003", "hash": "9EBF5CC3C5F0E6B0", "target": "" },
-    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_UINNEE_000_020", "hash": "186527F664ED4AC5", "target": "" },
-    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_UINNEE_000_021", "hash": "EA6FA0939402A22C", "target": "" },
-    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_UINNEE_000_022", "hash": "555A6A32150370D6", "target": "" },
-    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_UINNEE_000_023", "hash": "DE2FB9D60896C62E", "target": "" }
+    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_SEQ_00", "hash": "91FAF3697EA60BE0", "target": "Uin Nee desidera provare le gioie della navigazione in un ambiente privo di Fuath.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
+    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_TODO_00", "hash": "70DCEF99A26AB8A0", "target": "Esaminare il punto indicato a est di Mithai Glorianda e ottenere la membrana alare di un deepglider" },
+    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_TODO_01", "hash": "641167D997FA617B", "target": "Consegnare la membrana alare di deepglider a Uin Nee" },
+    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_UINNEE_000_001", "hash": "7BEE6C79F4C17E5A", "target": "Tyr Beq mi ha raccontato tutto del tuo viaggio a Kholusia. È vero che l'oceano è perfino più grande del Lago Longmirror? Ho sentito che i mortali amano andare in barca, per dimenticare gli affanni e magari pescare un pesce o due." },
+    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_UINNEE_000_002", "hash": "9DE70351597709F2", "target": "Mi piacerebbe provarci qui, ma quegli orribili Fuath si presenterebbero di sicuro a rovinarci il divertimento!<br>...Oh, ma certo! Possiamo farlo a Lyhe Mheg e invitare anche i bambini!" },
+    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_UINNEE_000_003", "hash": "9EBF5CC3C5F0E6B0", "target": "C'è solo un problema: non ho la minima idea di come sia fatta una barca. Forse possiamo provare a costruirne una con l'ala di un deepglider, che sono certo sarai più che felice di procurarmi!" },
+    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_UINNEE_000_020", "hash": "186527F664ED4AC5", "target": "Ricordo vagamente di averti chiesto di portarmi qualcosa... Che cos'era?" },
+    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_UINNEE_000_021", "hash": "EA6FA0939402A22C", "target": "Ah, sì! Ora ricordo! Questo dovrebbe andare bene. Non che sappia cosa farci..." },
+    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_UINNEE_000_022", "hash": "555A6A32150370D6", "target": "Dunque deve galleggiare sull'acqua e reggere il peso di diversi bambini piccoli. Non può essere così difficile costruire una cosa simile con un po' di pelle di lucertola, vero?" },
+    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_UINNEE_000_023", "hash": "DE2FB9D60896C62E", "target": "E dato che non navigheremo su acqua vera, basta evocare qualcosa che almeno <italic(1)>sembri<italic(0)> una barca. Oh sì, vivremo splendide avventure con i bambini sull'oceano blu! ...È blu, <italic(1)>vero<italic(0)>?" }
   ]
 }

@@ -2,7 +2,7 @@
   "conversation": "custom/009/CtsMkdTranspoint_00924",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/009/CtsMkdTranspoint_00924#TEXT_CTSMKDTRANSPOINT_00924_SYSTEM_000_000", "hash": "203C63418AAD4044", "target": "" },
-    { "gameKey": "custom/009/CtsMkdTranspoint_00924#TEXT_CTSMKDTRANSPOINT_00924_SYSTEM_000_010", "hash": "34E649A0848847F7", "target": "" }
+    { "gameKey": "custom/009/CtsMkdTranspoint_00924#TEXT_CTSMKDTRANSPOINT_00924_SYSTEM_000_000", "hash": "203C63418AAD4044", "target": "Ti sintonizzi con un frammento della rete eterea e ottieni accesso alla rete eterea dell'isola." },
+    { "gameKey": "custom/009/CtsMkdTranspoint_00924#TEXT_CTSMKDTRANSPOINT_00924_SYSTEM_000_010", "hash": "34E649A0848847F7", "target": "Puoi trovare altri frammenti in tutta Occult Crescent. Sintonizzati con essi per spostarti più velocemente sull'isola." }
   ]
 }
