@@ -1,9 +1,9 @@
 {
   "gameVersion": "2026.10.16.0000.0000",
-  "translated": 268447,
-  "total": 533535,
-  "percent": 50.3,
-  "chars": 49478217,
+  "translated": 346713,
+  "total": 470830,
+  "percent": 73.6,
+  "chars": 48803908,
   "unresolved": 5594,
   "groups": [
     {
@@ -33,7 +33,7 @@
     {
       "expansion": "A Realm Reborn",
       "content": "Allied societies",
-      "translated": 0,
+      "translated": 6303,
       "total": 6303
     },
     {
@@ -45,7 +45,7 @@
     {
       "expansion": "A Realm Reborn",
       "content": "Relic Weapons",
-      "translated": 0,
+      "translated": 791,
       "total": 791
     },
     {
@@ -93,19 +93,19 @@
     {
       "expansion": "Heavensward",
       "content": "Allied societies",
-      "translated": 0,
+      "translated": 4172,
       "total": 4175
     },
     {
       "expansion": "Heavensward",
       "content": "Normal Raids, Alliance Raids & Trials",
-      "translated": 3,
+      "translated": 2034,
       "total": 2034
     },
     {
       "expansion": "Heavensward",
       "content": "Relic Weapons",
-      "translated": 0,
+      "translated": 1115,
       "total": 1115
     },
     {
@@ -147,19 +147,19 @@
     {
       "expansion": "Stormblood",
       "content": "Allied societies",
-      "translated": 0,
+      "translated": 4371,
       "total": 4371
     },
     {
       "expansion": "Stormblood",
       "content": "Normal Raids, Alliance Raids & Trials",
-      "translated": 0,
+      "translated": 3374,
       "total": 3374
     },
     {
       "expansion": "Stormblood",
       "content": "Relic Weapons",
-      "translated": 0,
+      "translated": 59,
       "total": 59
     },
     {
@@ -201,19 +201,19 @@
     {
       "expansion": "Shadowbringers",
       "content": "Allied societies",
-      "translated": 0,
+      "translated": 3967,
       "total": 3967
     },
     {
       "expansion": "Shadowbringers",
       "content": "Normal Raids, Alliance Raids & Trials",
-      "translated": 0,
+      "translated": 4271,
       "total": 4271
     },
     {
       "expansion": "Shadowbringers",
       "content": "Relic Weapons",
-      "translated": 0,
+      "translated": 2527,
       "total": 2527
     },
     {
@@ -255,19 +255,19 @@
     {
       "expansion": "Endwalker",
       "content": "Allied societies",
-      "translated": 0,
+      "translated": 4538,
       "total": 4538
     },
     {
       "expansion": "Endwalker",
       "content": "Normal Raids, Alliance Raids & Trials",
-      "translated": 0,
+      "translated": 3555,
       "total": 3555
     },
     {
       "expansion": "Endwalker",
       "content": "Relic Weapons",
-      "translated": 0,
+      "translated": 577,
       "total": 577
     },
     {
@@ -309,19 +309,19 @@
     {
       "expansion": "Dawntrail",
       "content": "Allied societies",
-      "translated": 0,
+      "translated": 3729,
       "total": 3729
     },
     {
       "expansion": "Dawntrail",
       "content": "Normal Raids, Alliance Raids & Trials",
-      "translated": 0,
+      "translated": 2538,
       "total": 2538
     },
     {
       "expansion": "Dawntrail",
       "content": "Relic Weapons",
-      "translated": 0,
+      "translated": 911,
       "total": 911
     },
     {
@@ -357,7 +357,7 @@
     {
       "expansion": null,
       "content": "Duty Finder",
-      "translated": 600,
+      "translated": 700,
       "total": 700
     },
     {
@@ -369,7 +369,7 @@
     {
       "expansion": null,
       "content": "Service NPC menus",
-      "translated": 6,
+      "translated": 29352,
       "total": 29352
     },
     {
@@ -411,8 +411,8 @@
     {
       "expansion": null,
       "content": "Ambient text: NPC chatter, shouts, balloons, duties and guides",
-      "translated": 42927,
-      "total": 174290
+      "translated": 42918,
+      "total": 111585
     }
   ],
   "excludedFromLocalization": [
@@ -426,7 +426,7 @@
       "expansion": null,
       "content": "No English to translate",
       "translated": 20,
-      "total": 1025
+      "total": 841
     }
   ],
   "futureLocalization": [
@@ -460,6 +460,14 @@
       "total": 87,
       "translated": 0,
       "pending": 87,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "ENpcResident",
+      "content": "Non-battle NPC names",
+      "total": 62705,
+      "translated": 9,
+      "pending": 62696,
       "pendingPercent": 100
     },
     {
