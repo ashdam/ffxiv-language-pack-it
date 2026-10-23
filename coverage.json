@@ -1,9 +1,9 @@
 {
   "gameVersion": "2026.10.16.0000.0000",
-  "translated": 346713,
-  "total": 470830,
-  "percent": 73.6,
-  "chars": 48803908,
+  "translated": 442518,
+  "total": 470874,
+  "percent": 94,
+  "chars": 48804268,
   "unresolved": 5594,
   "groups": [
     {
@@ -51,13 +51,13 @@
     {
       "expansion": "A Realm Reborn",
       "content": "Seasonal events",
-      "translated": 0,
+      "translated": 21718,
       "total": 21718
     },
     {
       "expansion": "A Realm Reborn",
       "content": "Quest names",
-      "translated": 0,
+      "translated": 1795,
       "total": 1795
     },
     {
@@ -93,7 +93,7 @@
     {
       "expansion": "Heavensward",
       "content": "Allied societies",
-      "translated": 4172,
+      "translated": 4175,
       "total": 4175
     },
     {
@@ -111,7 +111,7 @@
     {
       "expansion": "Heavensward",
       "content": "Quest names",
-      "translated": 0,
+      "translated": 820,
       "total": 820
     },
     {
@@ -165,7 +165,7 @@
     {
       "expansion": "Stormblood",
       "content": "Quest names",
-      "translated": 0,
+      "translated": 742,
       "total": 742
     },
     {
@@ -219,7 +219,7 @@
     {
       "expansion": "Shadowbringers",
       "content": "Quest names",
-      "translated": 0,
+      "translated": 727,
       "total": 727
     },
     {
@@ -273,7 +273,7 @@
     {
       "expansion": "Endwalker",
       "content": "Quest names",
-      "translated": 0,
+      "translated": 685,
       "total": 685
     },
     {
@@ -327,7 +327,7 @@
     {
       "expansion": "Dawntrail",
       "content": "Quest names",
-      "translated": 0,
+      "translated": 604,
       "total": 604
     },
     {
@@ -411,8 +411,8 @@
     {
       "expansion": null,
       "content": "Ambient text: NPC chatter, shouts, balloons, duties and guides",
-      "translated": 42918,
-      "total": 111585
+      "translated": 111629,
+      "total": 111629
     }
   ],
   "excludedFromLocalization": [
@@ -425,7 +425,7 @@
     {
       "expansion": null,
       "content": "No English to translate",
-      "translated": 20,
+      "translated": 21,
       "total": 841
     }
   ],
