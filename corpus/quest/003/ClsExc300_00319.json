@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/003/ClsExc300_00319#TEXT_CLSEXC300_00319_SEQ_00", "hash": "D577DC0F9D411B8A", "target": "Il maestro d'ascia Wyrnzoen sembra avere notizie urgenti per te." },
-    { "gameKey": "quest/003/ClsExc300_00319#TEXT_CLSEXC300_00319_SEQ_01", "hash": "344B43CBDBC91252", "target": "Wyrnzoen ti informa che Kujata è stato avvistato nel Lower La Noscea. Prima di affrontare la bestia infuriata, il maestro d'ascia ti chiede di visitare Sighard alla Fattoria di Red Rooster." },
+    { "gameKey": "quest/003/ClsExc300_00319#TEXT_CLSEXC300_00319_SEQ_01", "hash": "344B43CBDBC91252", "target": "Wyrnzoen ti informa che Kujata è stato avvistato nella Bassa La Noscea. Prima di affrontare la bestia infuriata, il maestro d'ascia ti chiede di visitare Sighard alla Fattoria di Red Rooster." },
     { "gameKey": "quest/003/ClsExc300_00319#TEXT_CLSEXC300_00319_SEQ_02", "hash": "6C273AA32867ACC8", "target": "Sighard ti ha nuovamente implorato di uccidere la bestia responsabile della morte dei suoi genitori. Sembra però che non sarai <if(gnum4,sola,solo)> nell'impresa. Parla con Solkwyb e Broenbhar prima di lasciare la fattoria e chiedi il loro aiuto per l'imminente battaglia." },
     { "gameKey": "quest/003/ClsExc300_00319#TEXT_CLSEXC300_00319_SEQ_03", "hash": "19CAC144D08FF506", "target": "Solkwyb e Broenbhar non vedono l'ora di combattere al tuo fianco per abbattere la Montagna Galoppante. Segui il consiglio di Broenbhar e rintraccia Kujata seguendo la scia di distruzione della bestia." },
     { "gameKey": "quest/003/ClsExc300_00319#TEXT_CLSEXC300_00319_SEQ_04", "hash": "7F1F6D31EECC506F", "target": "Hai trovato i resti di un vaso rotto, ma Kujata non si vede. Continua a seguire la traccia lasciata da lui e dal suo branco di voraci bestie opportuniste." },
@@ -44,7 +44,7 @@
     { "gameKey": "quest/003/ClsExc300_00319#TEXT_CLSEXC300_00319_POP_MESSAGE", "hash": "0C0BD2F090E50D9D", "target": "Avverti una presenza ostile!" },
     { "gameKey": "quest/003/ClsExc300_00319#TEXT_CLSEXC300_00319_SYSTEM_000_51", "hash": "D25450770FEB34FF", "target": "Trovi un barile che sembra essere stato trascinato via dal carro del contadino." },
     { "gameKey": "quest/003/ClsExc300_00319#TEXT_CLSEXC300_00319_SYSTEM_000_52", "hash": "5355A79C887F26F5", "target": "Trovi una cassa che sembra essere stata trascinata via dal carro del contadino." },
-    { "gameKey": "quest/003/ClsExc300_00319#TEXT_CLSEXC300_00319_INSTANCE_BATTLE_YESNO_TITLE", "hash": "4B0D0586CB70BFD6", "target": "Il dovere chiama. Vuoi proseguire con<br>«Bringing Down the Mountain»?" },
+    { "gameKey": "quest/003/ClsExc300_00319#TEXT_CLSEXC300_00319_INSTANCE_BATTLE_YESNO_TITLE", "hash": "4B0D0586CB70BFD6", "target": "Il dovere chiama. Vuoi proseguire con<br>«Abbattere la montagna»?" },
     { "gameKey": "quest/003/ClsExc300_00319#TEXT_CLSEXC300_00319_INSTANCE_BATTLE_YESNO_YES", "hash": "99C53DF2CB128FAD", "target": "Sì" },
     { "gameKey": "quest/003/ClsExc300_00319#TEXT_CLSEXC300_00319_INSTANCE_BATTLE_YESNO_NO", "hash": "14D903D2A9D8EA29", "target": "No" },
     { "gameKey": "quest/003/ClsExc300_00319#TEXT_CLSEXC300_00319_SIGHARD_000_20", "hash": "205B5545699F499F", "target": "<split(<string(gstr1)>, ,1)>!" },

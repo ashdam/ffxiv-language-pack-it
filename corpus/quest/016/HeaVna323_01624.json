@@ -2,10 +2,10 @@
   "conversation": "quest/016/HeaVna323_01624",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/016/HeaVna323_01624#TEXT_HEAVNA323_01624_SEQ_00", "hash": "C7B12401E99F590E", "target": "Moghan è pronto a guidarvi fuori da Moghome." },
+    { "gameKey": "quest/016/HeaVna323_01624#TEXT_HEAVNA323_01624_SEQ_00", "hash": "C7B12401E99F590E", "target": "Moghan è pronto a guidarvi fuori da Casamoguri." },
     { "gameKey": "quest/016/HeaVna323_01624#TEXT_HEAVNA323_01624_SEQ_01", "hash": "DDF867A95B69AD9C", "target": "Moghan sembra impaziente di accompagnarvi. Verifica con Alphinaud che siano stati ultimati tutti i preparativi necessari per il viaggio." },
     { "gameKey": "quest/016/HeaVna323_01624#TEXT_HEAVNA323_01624_SEQ_02", "hash": "A8084B43D0AEBCE9", "target": "Prima di partire per Zenith, Alphinaud insiste per salutare un'ultima volta la Veggente Anziana. Parla con Kan<-->E<-->Senna e ringraziala per il suo prezioso aiuto." },
-    { "gameKey": "quest/016/HeaVna323_01624#TEXT_HEAVNA323_01624_SEQ_03", "hash": "AFB68CF5A3F574D3", "target": "Insieme ad Alphinaud, esprimi la tua gratitudine a Kan<-->E<-->Senna e Kuplo Kopp, poi li salutate con affetto. Mentre si volta per partire, però, la Veggente Anziana si ferma un momento per metterti in guardia sul tormento interiore di Estinien. Pur condividendo da tempo simili timori, non ti viene in mente altro che annuire obbediente. Torna all'eterite di Moghome e informa Moghan che puoi finalmente partire." },
+    { "gameKey": "quest/016/HeaVna323_01624#TEXT_HEAVNA323_01624_SEQ_03", "hash": "AFB68CF5A3F574D3", "target": "Insieme ad Alphinaud, esprimi la tua gratitudine a Kan<-->E<-->Senna e Kuplo Kopp, poi li salutate con affetto. Mentre si volta per partire, però, la Veggente Anziana si ferma un momento per metterti in guardia sul tormento interiore di Estinien. Pur condividendo da tempo simili timori, non ti viene in mente altro che annuire obbediente. Torna all'eterite di Casamoguri e informa Moghan che puoi finalmente partire." },
     { "gameKey": "quest/016/HeaVna323_01624#TEXT_HEAVNA323_01624_SEQ_04", "hash": "74E6051A42806657", "target": "Informi Moghan che puoi proseguire il viaggio. Zenith e il grande drago Hraesvelgr vi attendono..." },
     { "gameKey": "quest/016/HeaVna323_01624#TEXT_HEAVNA323_01624_TODO_00", "hash": "0EB6C74EAC526AE7", "target": "Parlare con Alphinaud" },
     { "gameKey": "quest/016/HeaVna323_01624#TEXT_HEAVNA323_01624_TODO_01", "hash": "05ADB9E272A38F71", "target": "Parlare con Kan<-->E<-->Senna" },

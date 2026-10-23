@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_SEQ_00", "hash": "5FEFBBC2E793E64C", "target": "Caribault cerca <if(gnum4,un'avventuriera,un avventuriero)> che non abbia paura di sporcarsi." },
-    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_SEQ_01", "hash": "8344D1ABF4D1FBFF", "target": "La qualità dei raccolti dipende dal terreno in cui crescono e a Caribault serve del blackloam per assicurare un raccolto abbondante. Ti chiede di portargli cinque staia di quel ricco terriccio dai pascoli dei wisents a est di Campo Cloudtop." },
+    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_SEQ_01", "hash": "8344D1ABF4D1FBFF", "target": "La qualità dei raccolti dipende dal terreno in cui crescono e a Caribault serve del blackloam per assicurare un raccolto abbondante. Ti chiede di portargli cinque staia di quel ricco terriccio dai pascoli dei wisents a est del Campo Cloudtop." },
     { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_SEQ_02", "hash": "AB41E1A880FA7741", "target": "Raccogli cinque staia di blackloam. Portale a Caribault affinché possa preparare il terreno per un raccolto abbondante." },
     { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_SEQ_03", "hash": "20DAD30A2119A56B", "target": "Caribault è entusiasta di vedere la tua sacca colma di ricco blackloam. Nota che è particolarmente fertile, forse perché tanto fresco. Quando te ne vai, ti suggerisce di lavarti. Non puoi fare a meno di chiederti se il lavoro fosse più sporco di quanto volesse farti credere." },
     { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_TODO_00", "hash": "3316E5E7F648A867", "target": "Raccogliere staia di blackloam." },

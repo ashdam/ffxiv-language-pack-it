@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/047/AktKea302_04792#TEXT_AKTKEA302_04792_SEQ_00", "hash": "F07453DCD0970485", "target": "Deryk è il ritratto della serenità." },
-    { "gameKey": "quest/047/AktKea302_04792#TEXT_AKTKEA302_04792_SEQ_01", "hash": "BB8A631091484100", "target": "Deryk spiega di essere ora un semplice uomo, ricreato dalla parte della sua essenza non tornata al pianeta. All'ultimo momento non ha sopportato l'idea di separarsi dai nuovi amici e ha scelto di restare. D'ora in poi vuole viaggiare per il mondo con uno sguardo rinnovato. Prima di partire, però, desidera trasferire le speranze dei fratelli, custodite nel monumento dell'Omphalos, in un luogo fra gli uomini. Decidete di accompagnarlo tutti e partite per il Santuario dei Dodici, nell'East Shroud." },
+    { "gameKey": "quest/047/AktKea302_04792#TEXT_AKTKEA302_04792_SEQ_01", "hash": "BB8A631091484100", "target": "Deryk spiega di essere ora un semplice uomo, ricreato dalla parte della sua essenza non tornata al pianeta. All'ultimo momento non ha sopportato l'idea di separarsi dai nuovi amici e ha scelto di restare. D'ora in poi vuole viaggiare per il mondo con uno sguardo rinnovato. Prima di partire, però, desidera trasferire le speranze dei fratelli, custodite nel monumento dell'Omphalos, in un luogo fra gli uomini. Decidete di accompagnarlo tutti e partite per il Santuario dei Dodici, nel Sudario Orientale." },
     { "gameKey": "quest/047/AktKea302_04792#TEXT_AKTKEA302_04792_SEQ_02", "hash": "20A22D9C418CD77C", "target": "Riunito davanti al cancello del Santuario, il gruppo osserva con attenzione Deryk infondere nell'arco le speranze dei fratelli. Parla poi con affetto delle persone straordinarie che un tempo erano, sperando che rimangano con voi in qualche modo. Terminato il compito, vi dirigete a Limsa Lominsa per salutare i compagni in partenza per Sharlayan." },
     { "gameKey": "quest/047/AktKea302_04792#TEXT_AKTKEA302_04792_SEQ_03", "hash": "21DD573BD2CF49A3", "target": "Salutati Krile, G'raha Tia e Snoegeim, resti con il solo Deryk. L'ex divinità ti chiede di accompagnarlo in un luogo fuori città e vi dirigete alla Porta della Tempesta." },
     { "gameKey": "quest/047/AktKea302_04792#TEXT_AKTKEA302_04792_SEQ_04", "hash": "1385976BC9828FDA", "target": "Per segnare il suo nuovo inizio come uomo, Deryk desidera vedere con te l'Abbraccio di Oschon. Prosegue verso il ponte e lo segui da vicino.<br><br>※Per completare questo incarico, devi seguire Deryk. Se vi separate, parlagli di nuovo." },
@@ -48,7 +48,7 @@
     { "gameKey": "quest/047/AktKea302_04792#TEXT_AKTKEA302_04792_DERYK_000_053", "hash": "9910FE67FED6E8D6", "target": "Ma prima di partire..." },
     { "gameKey": "quest/047/AktKea302_04792#TEXT_AKTKEA302_04792_DERYK_000_054", "hash": "57DCD1A83B000704", "target": "Vorrei portare altrove le speranze dei miei fratelli, in un luogo fra gli uomini." },
     { "gameKey": "quest/047/AktKea302_04792#TEXT_AKTKEA302_04792_KRILE_000_055", "hash": "C47415C39F1E0149", "target": "Oh, che splendida idea! Se non ti dispiace, vorremmo accompagnarti." },
-    { "gameKey": "quest/047/AktKea302_04792#TEXT_AKTKEA302_04792_DERYK_000_056", "hash": "B661E0B3A2C4B1ED", "target": "Volentieri. Andremo al Santuario dei Dodici, nell'East Shroud." },
+    { "gameKey": "quest/047/AktKea302_04792#TEXT_AKTKEA302_04792_DERYK_000_056", "hash": "B661E0B3A2C4B1ED", "target": "Volentieri. Andremo al Santuario dei Dodici, nel Sudario Orientale." },
     { "gameKey": "quest/047/AktKea302_04792#TEXT_AKTKEA302_04792_DERYK_000_060", "hash": "E14D8D1201B47C64", "target": "Vai pure avanti. Non sarà l'ultima volta che vengo qui, ma mi serve un momento prima di partire..." },
     { "gameKey": "quest/047/AktKea302_04792#TEXT_AKTKEA302_04792_GRAHATIA_000_065", "hash": "090F89FC4223E7E8", "target": "Le parole del monumento sono la promessa degli dei di vegliare sull'umanità." },
     { "gameKey": "quest/047/AktKea302_04792#TEXT_AKTKEA302_04792_GRAHATIA_000_066", "hash": "57761590D3879734", "target": "È confortante sapere che la loro promessa perdurerà..." },
@@ -138,7 +138,7 @@
     { "gameKey": "quest/047/AktKea302_04792#TEXT_AKTKEA302_04792_DERYK_000_309", "hash": "90BBCDE2859A03DA", "target": "Naturalmente, le tue parole avranno un posto di rilievo nel racconto." },
     { "gameKey": "quest/047/AktKea302_04792#TEXT_AKTKEA302_04792_DERYK_000_310", "hash": "D4FE9BD5B17AD2CB", "target": "Continuerai i tuoi viaggi, vero?" },
     { "gameKey": "quest/047/AktKea302_04792#TEXT_AKTKEA302_04792_DERYK_000_311", "hash": "60192B57226C1088", "target": "Allora ti cercherò là fuori. Stammi bene: che i Dodici ti benedicano e ti proteggano." },
-    { "gameKey": "quest/047/AktKea302_04792#TEXT_AKTKEA302_04792_SYSTEM_000_400", "hash": "ACEA86041000747A", "target": "I dipinti dei Dodici sono ora acquistabili da Duremert nei Pillars." },
-    { "gameKey": "quest/047/AktKea302_04792#TEXT_AKTKEA302_04792_SYSTEM_000_405", "hash": "FBC310BBCC5B950C", "target": "Completando la missione «Soaring Profits», i dipinti dei Dodici diventeranno acquistabili." }
+    { "gameKey": "quest/047/AktKea302_04792#TEXT_AKTKEA302_04792_SYSTEM_000_400", "hash": "ACEA86041000747A", "target": "I dipinti dei Dodici sono ora acquistabili da Duremert nei Pilastri." },
+    { "gameKey": "quest/047/AktKea302_04792#TEXT_AKTKEA302_04792_SYSTEM_000_405", "hash": "FBC310BBCC5B950C", "target": "Completando la missione «Profitti alle stelle», i dipinti dei Dodici diventeranno acquistabili." }
   ]
 }

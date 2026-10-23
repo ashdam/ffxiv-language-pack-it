@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "custom/006/FesEst2020Transform_00668#TEXT_FESEST2020TRANSFORM_00668_EGGHUNTSTAFF_000_000", "hash": "0279EDEDE6F5FDD1", "target": "Le nostre galline sono scappate dal pollaio! Se non troviamo il modo di riprenderle, niente uova e niente Festa delle Uo<-->va! Oh, come faremo!?" },
-    { "gameKey": "custom/006/FesEst2020Transform_00668#TEXT_FESEST2020TRANSFORM_00668_SYSTEM_000_001", "hash": "2E2CCCC5BFB29E02", "target": "Per partecipare al FATE «A Cluckin' Catastrophe», devi prima avanzare nella missione «The Eggth Umbral Calamity»." },
+    { "gameKey": "custom/006/FesEst2020Transform_00668#TEXT_FESEST2020TRANSFORM_00668_SYSTEM_000_001", "hash": "2E2CCCC5BFB29E02", "target": "Per partecipare al FATE «A Cluckin' Catastrophe», devi prima avanzare nella missione «L'uottava Calamità Umbrale»." },
     { "gameKey": "custom/006/FesEst2020Transform_00668#TEXT_FESEST2020TRANSFORM_00668_EGGHUNTSTAFF_000_002", "hash": "9D51CB8FA3C43444", "target": "Siano ringraziati i Dodici, sei qui! Le nostre galline sono scappate dal pollaio! Se non troviamo il modo di riprenderle, niente uova e niente Festa delle Uo<-->va!" },
     { "gameKey": "custom/006/FesEst2020Transform_00668#TEXT_FESEST2020TRANSFORM_00668_Q1_000_000", "hash": "9E497CF268371263", "target": "Che cosa dirai?" },
     { "gameKey": "custom/006/FesEst2020Transform_00668#TEXT_FESEST2020TRANSFORM_00668_A1_000_001", "hash": "531F79367239EAA1", "target": "Ci penso io." },
@@ -23,6 +23,6 @@
     { "gameKey": "custom/006/FesEst2020Transform_00668#TEXT_FESEST2020TRANSFORM_00668_SYSTEM_000_021", "hash": "604CC988CAC3FDCB", "target": "Usare abilmente queste azioni è la chiave per riuscire nel FATE. Rallenta le galline e catturane il più possibile per rendere la Festa delle Uo<-->va di quest'anno un grande successo!" },
     { "gameKey": "custom/006/FesEst2020Transform_00668#TEXT_FESEST2020TRANSFORM_00668_EGGHUNTSTAFF_000_030", "hash": "DFAF4499C1F04004", "target": "Speravo proprio che me lo chiedessi! Offriamo uova speciali a tutti gli avventurieri che ci aiutano a riprendere le galline in fuga." },
     { "gameKey": "custom/006/FesEst2020Transform_00668#TEXT_FESEST2020TRANSFORM_00668_EGGHUNTSTAFF_000_031", "hash": "F928B4BD81950AE0", "target": "Puoi scambiarle con una quantità di deliziosi regali stagionali dai nostri Sognatori. Più galline catturi, più bejeweled eggs ricevi e più ricche saranno le ricompense. Quindi torna tutte le volte che vuoi! Per favore. <italic(1)>Per favore.<italic(0)>" },
-    { "gameKey": "custom/006/FesEst2020Transform_00668#TEXT_FESEST2020TRANSFORM_00668_SYSTEM_000_032", "hash": "30CBC7E5D9317A94", "target": "Puoi ottenere bejeweled eggs partecipando al FATE «A Cluckin' Catastrophe» nel Central Shroud. Puoi parteciparvi tutte le volte che vuoi per tutta la durata dell'evento stagionale." }
+    { "gameKey": "custom/006/FesEst2020Transform_00668#TEXT_FESEST2020TRANSFORM_00668_SYSTEM_000_032", "hash": "30CBC7E5D9317A94", "target": "Puoi ottenere bejeweled eggs partecipando al FATE «A Cluckin' Catastrophe» nel Sudario Centrale. Puoi parteciparvi tutte le volte che vuoi per tutta la durata dell'evento stagionale." }
   ]
 }

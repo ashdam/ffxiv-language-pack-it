@@ -2,8 +2,8 @@
   "conversation": "dungeon/000/DungeonMYC1_00000",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "dungeon/000/DungeonMYC1_00000#TEXT_DUNGEONMYC1_00000_RIAN_000_000", "hash": "8AB3C8904DD52C85", "target": "" },
-    { "gameKey": "dungeon/000/DungeonMYC1_00000#TEXT_DUNGEONMYC1_00000_RIAN_000_050", "hash": "DC5BBAC1B0CA4619", "target": "" },
-    { "gameKey": "dungeon/000/DungeonMYC1_00000#TEXT_DUNGEONMYC1_00000_RIAN_000_051", "hash": "9CBFDEDAFED0F727", "target": "" }
+    { "gameKey": "dungeon/000/DungeonMYC1_00000#TEXT_DUNGEONMYC1_00000_RIAN_000_000", "hash": "8AB3C8904DD52C85", "target": "Vieni, Dawon! C'è della selvaggina che aspetta solo di essere cacciata." },
+    { "gameKey": "dungeon/000/DungeonMYC1_00000#TEXT_DUNGEONMYC1_00000_RIAN_000_050", "hash": "DC5BBAC1B0CA4619", "target": "Dawon è stato... sconfitto? Allora abbaiano <italic(1)>e<italic(0)> mordono." },
+    { "gameKey": "dungeon/000/DungeonMYC1_00000#TEXT_DUNGEONMYC1_00000_RIAN_000_051", "hash": "9CBFDEDAFED0F727", "target": "Forse vi metterò alla prova un'altra volta. Ci rivedremo." }
   ]
 }

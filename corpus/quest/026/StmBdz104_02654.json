@@ -3,8 +3,8 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/026/StmBdz104_02654#TEXT_STMBDZ104_02654_SEQ_00", "hash": "F18284E16BA6BDA4", "target": "Questo mercante sfortunato ha un disperato bisogno d'aiuto." },
-    { "gameKey": "quest/026/StmBdz104_02654#TEXT_STMBDZ104_02654_TODO_00", "hash": "32B5B152D53DAD57", "target": "Ottenere lo stolen sack" },
-    { "gameKey": "quest/026/StmBdz104_02654#TEXT_STMBDZ104_02654_TODO_01", "hash": "872553917529AFE2", "target": "Consegnare lo stolen sack ad Ansger" },
+    { "gameKey": "quest/026/StmBdz104_02654#TEXT_STMBDZ104_02654_TODO_00", "hash": "32B5B152D53DAD57", "target": "Ottenere il sacco rubato" },
+    { "gameKey": "quest/026/StmBdz104_02654#TEXT_STMBDZ104_02654_TODO_01", "hash": "872553917529AFE2", "target": "Consegnare il sacco rubato ad Ansger" },
     { "gameKey": "quest/026/StmBdz104_02654#TEXT_STMBDZ104_02654_TODO_02", "hash": "3BF3782D051BCFC8", "target": "Consegnare la crate of minerals al mercante sfortunato" },
     { "gameKey": "quest/026/StmBdz104_02654#TEXT_STMBDZ104_02654_PITYMERCHANT02654_000_000", "hash": "D4E8A589C59481BF", "target": "Salve, <if(gnum4,amica,amico)>. Non è che avresti tempo di aiutare un uomo nel momento del bisogno?" },
     { "gameKey": "quest/026/StmBdz104_02654#TEXT_STMBDZ104_02654_PITYMERCHANT02654_000_001", "hash": "2BC6E7E535DDA607", "target": "Sono venuto qui a comprare minerali da fornire alla Resistenza. Il problema è che, lungo la strada, dei banditi Qiqirn mi hanno rubato tutti i gil!" },

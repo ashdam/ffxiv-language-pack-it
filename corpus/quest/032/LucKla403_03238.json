@@ -12,7 +12,7 @@
     { "gameKey": "quest/032/LucKla403_03238#TEXT_LUCKLA403_03238_TODO_01", "hash": "FEFACB33E6752D19", "target": "<if([lnum1<lnum2],Raccogliere black aethersand a Scree,Consegnare la black aethersand a Qeshi-Rae)>" },
     { "gameKey": "quest/032/LucKla403_03238#TEXT_LUCKLA403_03238_TODO_02", "hash": "646E0DE8BBD92463", "target": "Usare il glamour dispeller nel luogo indicato" },
     { "gameKey": "quest/032/LucKla403_03238#TEXT_LUCKLA403_03238_TODO_03", "hash": "598961FB32CF2608", "target": "Parlare con Qeshi-Rae al Crystalline Mean" },
-    { "gameKey": "quest/032/LucKla403_03238#TEXT_LUCKLA403_03238_SYSTEM_000_900", "hash": "7A7594AB1793A165", "target": "Per intraprendere questa missione, devi prima completare la missione dello scenario principale “The View from Above”." },
+    { "gameKey": "quest/032/LucKla403_03238#TEXT_LUCKLA403_03238_SYSTEM_000_900", "hash": "7A7594AB1793A165", "target": "Per intraprendere questa missione, devi prima completare la missione dello scenario principale “Il panorama dall'alto”." },
     { "gameKey": "quest/032/LucKla403_03238#TEXT_LUCKLA403_03238_QESHIRAE_000_000", "hash": "7533012668637AA0", "target": "Sei qui. Bene! Ora possiamo partire!" },
     { "gameKey": "quest/032/LucKla403_03238#TEXT_LUCKLA403_03238_YALANA_000_001", "hash": "0384B3E152985146", "target": "Responsabile... Credo sia consuetudine dire alle persone dove vanno e perché." },
     { "gameKey": "quest/032/LucKla403_03238#TEXT_LUCKLA403_03238_YALANA_000_002", "hash": "5A142B9920834820", "target": "Permettete, <split(<string(gstr1)>, ,1)>. In base alla mia analisi della pelle, abbiamo identificato l'habitat principale del samiel." },
@@ -88,7 +88,7 @@
     { "gameKey": "quest/032/LucKla403_03238#TEXT_LUCKLA403_03238_SYSTEM_000_090", "hash": "5CACB397AC85CA5B", "target": "Qeshi-Rae non potrebbe essere più felice dei tuoi sforzi. Ora ti considera <colortype(500)><edgecolortype(501)>Honorary Captain of the Samiel Search Squad<edgecolortype(0)><colortype(0)>!" },
     { "gameKey": "quest/032/LucKla403_03238#TEXT_LUCKLA403_03238_SYSTEM_000_095", "hash": "B2D26325E2E86B30", "target": "Altre persone al Crystalline Mean potrebbero avere bisogno dell'aiuto di <if(gnum4,un'artigiana,un artigiano)> di talento. Chiedi in giro e scopri a chi servono le tue capacità." },
     { "gameKey": "quest/032/LucKla403_03238#TEXT_LUCKLA403_03238_SYSTEM_000_100", "hash": "C96B11ACB88976BF", "target": "Hai completato tutte le consegne attualmente disponibili. Quando avrai un momento libero, sembra che Katliss voglia parlarti." },
-    { "gameKey": "quest/032/LucKla403_03238#TEXT_LUCKLA403_03238_SYSTEM_000_101", "hash": "9B1DAD0C3FA84904", "target": "Torna a visitare il Crystalline Mean dopo aver completato la missione dello scenario principale “Shadowbringers”." },
+    { "gameKey": "quest/032/LucKla403_03238#TEXT_LUCKLA403_03238_SYSTEM_000_101", "hash": "9B1DAD0C3FA84904", "target": "Torna a visitare il Crystalline Mean dopo aver completato la missione dello scenario principale “Portatori d'ombra”." },
     { "gameKey": "quest/032/LucKla403_03238#TEXT_LUCKLA403_03238_SYSTEM_000_105", "hash": "181B7E473E7C664D", "target": "Hai completato tutte le consegne attualmente disponibili. Quando avrai un momento libero, sembra che Katliss voglia parlarti." },
     { "gameKey": "quest/032/LucKla403_03238#TEXT_LUCKLA403_03238_SYSTEM_000_106", "hash": "8FAE342F70DFDD3D", "target": "Incontrala al banco della reception principale del Crystalline Mean." }
   ]

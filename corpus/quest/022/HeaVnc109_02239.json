@@ -58,6 +58,6 @@
     { "gameKey": "quest/022/HeaVnc109_02239#TEXT_HEAVNC109_02239_THANCRED_000_120", "hash": "10AAACC411407776", "target": "Hai salutato?" },
     { "gameKey": "quest/022/HeaVnc109_02239#TEXT_HEAVNC109_02239_THANCRED_000_121", "hash": "35A17DF71231F8A7", "target": "In tutti gli anni in cui ho conosciuto Raubahn, non ricordo di averlo mai visto così felice dopo una sconfitta." },
     { "gameKey": "quest/022/HeaVnc109_02239#TEXT_HEAVNC109_02239_THANCRED_000_122", "hash": "32C3A25DF77600F4", "target": "Bene! Sembra che tutto stia andando al proprio posto, vero? Gli ishgardesi hanno ottenuto la vittoria simbolica e l'Alleanza Eorzeana ne è uscita più forte. <if(gnum4,Sii fiera,Sii fiero)>, <split(<string(gstr1)>, ,1)>. L'hai reso possibile tu." },
-    { "gameKey": "quest/022/HeaVnc109_02239#TEXT_HEAVNC109_02239_SYSTEM_000_130", "hash": "3248DDD5F9CDF20C", "target": "Hai appreso l'emote <colortype(500)><edgecolortype(501)>Victory<edgecolortype(0)><colortype(0)>!" }
+    { "gameKey": "quest/022/HeaVnc109_02239#TEXT_HEAVNC109_02239_SYSTEM_000_130", "hash": "3248DDD5F9CDF20C", "target": "Hai appreso l'emote <colortype(500)><edgecolortype(501)>Vittoria<edgecolortype(0)><colortype(0)>!" }
   ]
 }

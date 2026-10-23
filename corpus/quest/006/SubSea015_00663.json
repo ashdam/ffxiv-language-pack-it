@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_SEQ_00", "hash": "6CF62FF441ADD86B", "target": "Niniya ha informazioni che, a differenza dell'ultima volta, ti interesseranno di sicuro." },
-    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_SEQ_01", "hash": "4A96BDED3AA92778", "target": "Secondo Niniya, le sentinelle degli Occhi, nella lower La Noscea, chiedono spesso aiuto a chi vive d'avventure quando hanno troppo lavoro. Esci dalla città e parla con Ancreta per saperne di più." },
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_SEQ_01", "hash": "4A96BDED3AA92778", "target": "Secondo Niniya, le sentinelle degli Occhi, nella Bassa La Noscea, chiedono spesso aiuto a chi vive d'avventure quando hanno troppo lavoro. Esci dalla città e parla con Ancreta per saperne di più." },
     { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_SEQ_02", "hash": "0CE59B9EFCB9257D", "target": "Ancora una volta sembra che Niniya ti abbia fatto uno scherzo, perché Ancreta non può offrirti incarichi ufficiali. Se però accetti di aiutare in via ufficiosa, la Giubba Gialla potrebbe avere qualcosa per te..." },
     { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_TODO_00", "hash": "B3AE9595805859FD", "target": "Parlare con Ancreta agli Occhi" },
     { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_NINIYA_000_0", "hash": "4A7ACF4868457409", "target": "Oh, eccoti di nuovo. Spero che non ce l'abbia con me per il mio scherzo. Vedi, credo che la lezione più importante per <if(gnum4,un'avventuriera alle prime armi,un avventuriero alle prime armi)> sia dubitare sempre dei motivi di chi <if(gnum4,incontra,incontra)>." },

@@ -102,7 +102,7 @@
     { "gameKey": "quest/023/BanAll140_02385#TEXT_BANALL140_02385_UDEKIKI_000_109", "hash": "9FDEE31928BF69DF", "target": "...<split(<string(gstr1)>, ,1)>. Un nome davvero notevole! È chiaro che vi attendono da sempre grandi imprese. Sì, molto grandi. Sono onorato di potermi dire vostro allievo. Alla prossima avventura!" },
     { "gameKey": "quest/023/BanAll140_02385#TEXT_BANALL140_02385_SYSTEM_000_200", "hash": "DE1132D229FBEDA7", "target": "Hai raggiunto il rango di reputazione <colortype(500)><edgecolortype(501)>Allied<edgecolortype(0)><colortype(0)> presso i Gundu, i Vath e i Restauratori Moguri." },
     { "gameKey": "quest/023/BanAll140_02385#TEXT_BANALL140_02385_SYSTEM_000_201", "hash": "6A5BCCBF48A73C8D", "target": "Inoltre, ora puoi acquistare un assortimento più ampio di merci da Luna Vanu, dal Vath stickpeddler e da Mogmul Mogbelly." },
-    { "gameKey": "quest/023/BanAll140_02385#TEXT_BANALL140_02385_SYSTEM_100_201", "hash": "61FDFCE325A07ADD", "target": "Hai imparato l'emote <colortype(500)><edgecolortype(501)>Moonlift Dance<edgecolortype(0)><colortype(0)>!" },
+    { "gameKey": "quest/023/BanAll140_02385#TEXT_BANALL140_02385_SYSTEM_100_201", "hash": "61FDFCE325A07ADD", "target": "Hai imparato l'emote <colortype(500)><edgecolortype(501)>Danza del Sorgere della Luna<edgecolortype(0)><colortype(0)>!" },
     { "gameKey": "quest/023/BanAll140_02385#TEXT_BANALL140_02385_SYSTEM_000_202", "hash": "155EE9B262B7E692", "target": "Grazie al tuo impegno, i tuoi alleati di ogni forma e dimensione in tutta Ishgard hanno stretto legami d'amicizia destinati a restare saldi negli anni. Per le società di tutto il regno sei davvero <if(gnum4,un'eroina,un eroe)>!" }
   ]
 }

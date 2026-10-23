@@ -51,7 +51,7 @@
     { "gameKey": "quest/046/AktKdd102_04664#TEXT_AKTKDD102_04664_KOHRABNTAH_000_043", "hash": "41D0E1A768274D49", "target": "Se trovi qualcosa di interessante, prometto di dirti ciò che so della sua storia. Naturalmente, sempre che tu sopravviva al viaggio! Addio e buona caccia, <split(<string(gstr1)>, ,1)>!" },
     { "gameKey": "quest/046/AktKdd102_04664#TEXT_AKTKDD102_04664_SYSTEM_000_044", "hash": "2DFAAFD3A8201115", "target": "Ora puoi esplorare Eureka Orthos oltre il piano 30." },
     { "gameKey": "quest/046/AktKdd102_04664#TEXT_AKTKDD102_04664_SYSTEM_000_045", "hash": "B583321BEB414821", "target": "Per conoscere i requisiti d'accesso al piano 31 e a quelli inferiori, parla con Khatun." },
-    { "gameKey": "quest/046/AktKdd102_04664#TEXT_AKTKDD102_04664_SYSTEM_000_046", "hash": "34D069DFA980C0E6", "target": "Ora puoi consumare la potenza dell'Orthos aetherpool gear per ottenere Orthos aetherpool grips dal synthesis node." },
-    { "gameKey": "quest/046/AktKdd102_04664#TEXT_AKTKDD102_04664_SYSTEM_000_047", "hash": "0783E74667062336", "target": "Gli Orthos aetherpool grips possono essere scambiati con armi dall'aspetto identico agli Orthos aetherpool arms, ma utilizzabili al di fuori di Eureka Orthos." }
+    { "gameKey": "quest/046/AktKdd102_04664#TEXT_AKTKDD102_04664_SYSTEM_000_046", "hash": "34D069DFA980C0E6", "target": "Ora puoi consumare la potenza dell'equipaggiamento etereo di Orthos per ottenere Orthos aetherpool grips dal synthesis node." },
+    { "gameKey": "quest/046/AktKdd102_04664#TEXT_AKTKDD102_04664_SYSTEM_000_047", "hash": "0783E74667062336", "target": "Gli Orthos aetherpool grips possono essere scambiati con armi dall'aspetto identico alle armi eteree di Orthos, ma utilizzabili al di fuori di Eureka Orthos." }
   ]
 }

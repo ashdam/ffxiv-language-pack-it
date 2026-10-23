@@ -12,7 +12,7 @@
     { "gameKey": "quest/050/KinGla505_05000#TEXT_KINGLA505_05000_TODO_01", "hash": "FD87CC88EB46BA19", "target": "Cercare Donuhanu vicino al Cenote della Corteccia Amara" },
     { "gameKey": "quest/050/KinGla505_05000#TEXT_KINGLA505_05000_TODO_02", "hash": "D46A36264EC81FE4", "target": "<if([lnum1<lnum2],Pescare un cenote shark vicino al Cenote della Corteccia Amara,Consegnare il cenote shark a Donuhanu)>" },
     { "gameKey": "quest/050/KinGla505_05000#TEXT_KINGLA505_05000_TODO_03", "hash": "E0495DC8B3EA14FC", "target": "Parlare con Donuhanu a Tuliyollal" },
-    { "gameKey": "quest/050/KinGla505_05000#TEXT_KINGLA505_05000_SYSTEM_000_000", "hash": "0199A4B06470A2FF", "target": "Per intraprendere questa missione, devi prima completare la missione dello scenario principale “The Feat of the Brotherhood”." },
+    { "gameKey": "quest/050/KinGla505_05000#TEXT_KINGLA505_05000_SYSTEM_000_000", "hash": "0199A4B06470A2FF", "target": "Per intraprendere questa missione, devi prima completare la missione dello scenario principale “La Prova della Fratellanza”." },
     { "gameKey": "quest/050/KinGla505_05000#TEXT_KINGLA505_05000_PASHENINE_000_005", "hash": "0F633724C05C98D6", "target": "Il Qor pirarucu che avete pescato era delizioso e potente. Dubito che avrò fame ancora per un bel po'..." },
     { "gameKey": "quest/050/KinGla505_05000#TEXT_KINGLA505_05000_DONUHANU_000_009", "hash": "78D8DD8AC34E2D63", "target": "Finalmente è arrivato il momento, eh? Sei nervoso per le tue prove?" },
     { "gameKey": "quest/050/KinGla505_05000#TEXT_KINGLA505_05000_PASHENINE_000_010", "hash": "C7DDF825150A2FBC", "target": "La prospettiva di mettere alla prova le mie capacità in battaglia mi intimorisce... ma devo farlo, se voglio dimostrare il mio valore come Whalaqee." },
@@ -76,6 +76,6 @@
     { "gameKey": "quest/050/KinGla505_05000#TEXT_KINGLA505_05000_PASHENINE_000_114", "hash": "5290B7F7A62BC824", "target": "Grazie. Non vi deluderò!" },
     { "gameKey": "quest/050/KinGla505_05000#TEXT_KINGLA505_05000_DONUHANU_000_115", "hash": "7D33B5ACF6DB8CC9", "target": "Ti farò sapere quando Pashenine starà per tornare. Grazie, <split(<string(gstr1)>, ,1)>." },
     { "gameKey": "quest/050/KinGla505_05000#TEXT_KINGLA505_05000_SYSTEM_000_120", "hash": "F9E9DD6A845C004A", "target": "La prossima missione sarà disponibile presso Donuhanu al raggiungimento del livello 98 come Fisher." },
-    { "gameKey": "quest/050/KinGla505_05000#TEXT_KINGLA505_05000_SYSTEM_000_121", "hash": "65674758A72FA285", "target": "Per intraprendere la missione successiva, devi prima completare la missione dello scenario principale “The Long Road to Xak Tural”." }
+    { "gameKey": "quest/050/KinGla505_05000#TEXT_KINGLA505_05000_SYSTEM_000_121", "hash": "65674758A72FA285", "target": "Per intraprendere la missione successiva, devi prima completare la missione dello scenario principale “La lunga strada per Xak Tural”." }
   ]
 }

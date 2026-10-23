@@ -4,9 +4,9 @@
   "entries": [
     { "gameKey": "custom/007/FesHlw2021ActionGuide_00737#TEXT_FESHLW2021ACTIONGUIDE_00737_MARK_000", "hash": "EFAF47747DE073D8", "target": "Ah, salve. Come procedono i vostri tentativi di sventare i piani del Muso Scarlatto? Se desiderate sapere qualcosa sulle mie invenzioni, basta chiedere." },
     { "gameKey": "custom/007/FesHlw2021ActionGuide_00737#TEXT_FESHLW2021ACTIONGUIDE_00737_Q1_000_000", "hash": "A5521C4B6A219579", "target": "Su cosa vuoi informarti?" },
-    { "gameKey": "custom/007/FesHlw2021ActionGuide_00737#TEXT_FESHLW2021ACTIONGUIDE_00737_A1_000_001", "hash": "09629C3670EF5F6A", "target": "Il Muso Scarlatto" },
-    { "gameKey": "custom/007/FesHlw2021ActionGuide_00737#TEXT_FESHLW2021ACTIONGUIDE_00737_A1_000_002", "hash": "5ED66B9DCB561CDB", "target": "La lanterna scacciademoni" },
-    { "gameKey": "custom/007/FesHlw2021ActionGuide_00737#TEXT_FESHLW2021ACTIONGUIDE_00737_A1_000_003", "hash": "FA012E36977C9F8C", "target": "L’acqua santa protettiva" },
+    { "gameKey": "custom/007/FesHlw2021ActionGuide_00737#TEXT_FESHLW2021ACTIONGUIDE_00737_A1_000_001", "hash": "09629C3670EF5F6A", "target": "Il Muso Scarlatto." },
+    { "gameKey": "custom/007/FesHlw2021ActionGuide_00737#TEXT_FESHLW2021ACTIONGUIDE_00737_A1_000_002", "hash": "5ED66B9DCB561CDB", "target": "La lanterna scacciademoni." },
+    { "gameKey": "custom/007/FesHlw2021ActionGuide_00737#TEXT_FESHLW2021ACTIONGUIDE_00737_A1_000_003", "hash": "FA012E36977C9F8C", "target": "L'acqua santa protettiva." },
     { "gameKey": "custom/007/FesHlw2021ActionGuide_00737#TEXT_FESHLW2021ACTIONGUIDE_00737_A1_000_004", "hash": "6C9EF64EC665BC03", "target": "Niente." },
     { "gameKey": "custom/007/FesHlw2021ActionGuide_00737#TEXT_FESHLW2021ACTIONGUIDE_00737_MARK_010", "hash": "B00ABBDB00FCFE11", "target": "Si dice che, durante la Veglia di Ognissanti, i santi vengano invitati ogni sera a banchetti nei cieli." },
     { "gameKey": "custom/007/FesHlw2021ActionGuide_00737#TEXT_FESHLW2021ACTIONGUIDE_00737_MARK_011", "hash": "102EEBC3A5A28302", "target": "In quei momenti il mondo di sotto resta indifeso, e i demoni evocati dall’orco con la testa di zucca sono liberi di seminare il caos fra gli abitanti senza protezione. Uno in particolare, si dice, è particolarmente turbolento..." },
@@ -18,7 +18,7 @@
     { "gameKey": "custom/007/FesHlw2021ActionGuide_00737#TEXT_FESHLW2021ACTIONGUIDE_00737_MARK_030", "hash": "632B26185E302F06", "target": "L’acqua santa protettiva è un liquido davvero miracoloso: permette di salvare le anime smarrite e di restituirle ai loro corpi mortali." },
     { "gameKey": "custom/007/FesHlw2021ActionGuide_00737#TEXT_FESHLW2021ACTIONGUIDE_00737_MARK_031", "hash": "34D8F8049D00ACF5", "target": "Ve ne ho affidata una fiala piena, quindi non esitate a usarla se incontrate anime bisognose di soccorso." },
     { "gameKey": "custom/007/FesHlw2021ActionGuide_00737#TEXT_FESHLW2021ACTIONGUIDE_00737_SYSTEM_032", "hash": "C5D370953BF93306", "target": "Più anime riuscirai a salvare, più pumpkin cookies riceverai come ricompensa." },
-    { "gameKey": "custom/007/FesHlw2021ActionGuide_00737#TEXT_FESHLW2021ACTIONGUIDE_00737_SYSTEM_033", "hash": "6A2D76EAD17715FF", "target": "Puoi scambiare i biscotti con oggetti ed equipaggiamento parlando con lo shady smock nell’Anfiteatro di Mih Khetto." },
+    { "gameKey": "custom/007/FesHlw2021ActionGuide_00737#TEXT_FESHLW2021ACTIONGUIDE_00737_SYSTEM_033", "hash": "6A2D76EAD17715FF", "target": "Puoi scambiare i biscotti con oggetti ed equipaggiamento parlando con la shady smock nell’Anfiteatro di Mih Khetto." },
     { "gameKey": "custom/007/FesHlw2021ActionGuide_00737#TEXT_FESHLW2021ACTIONGUIDE_00737_SYSTEM_034", "hash": "0B6E8C2C39EC367D", "target": "Fatti coraggio e affronta gli orrori del dominio del Muso Scarlatto per salvare le anime smarrite che hanno bisogno d’aiuto." }
   ]
 }

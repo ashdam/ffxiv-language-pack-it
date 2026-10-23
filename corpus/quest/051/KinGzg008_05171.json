@@ -3,8 +3,8 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/051/KinGzg008_05171#TEXT_KINGZG008_05171_SEQ_00", "hash": "973B762EAC5EB481", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>La donna malinconica guarda in fretta ovunque." },
-    { "gameKey": "quest/051/KinGzg008_05171#TEXT_KINGZG008_05171_TODO_00", "hash": "49BBD5A5ED83C60E", "target": "Cercare l'heirloom ring" },
-    { "gameKey": "quest/051/KinGzg008_05171#TEXT_KINGZG008_05171_TODO_01", "hash": "1ACCFB3C380B60D5", "target": "Mostrare l'heirloom ring alla donna malinconica" },
+    { "gameKey": "quest/051/KinGzg008_05171#TEXT_KINGZG008_05171_TODO_00", "hash": "49BBD5A5ED83C60E", "target": "Cercare l'anello di famiglia" },
+    { "gameKey": "quest/051/KinGzg008_05171#TEXT_KINGZG008_05171_TODO_01", "hash": "1ACCFB3C380B60D5", "target": "Mostrare l'anello di famiglia alla donna malinconica" },
     { "gameKey": "quest/051/KinGzg008_05171#TEXT_KINGZG008_05171_LOOKINGWOMAN05171_000_000", "hash": "74B270A08433A315", "target": "Ti dispiacerebbe darmi una mano? Cerco il mio anello. Credo di averlo perso mentre cercavo di fuggire durante l'attacco." },
     { "gameKey": "quest/051/KinGzg008_05171#TEXT_KINGZG008_05171_LOOKINGWOMAN05171_000_001", "hash": "3BFC24C729C51BE8", "target": "È una semplice fascia con una pietra nera incastonata. Nulla di elaborato, ma è importante per me: appartiene alla nostra famiglia da generazioni." },
     { "gameKey": "quest/051/KinGzg008_05171#TEXT_KINGZG008_05171_LOOKINGWOMAN05171_000_002", "hash": "318C0B6F6008E8AA", "target": "Prima dell'attacco facevo acquisti al Nexus Arcade, quindi penso sia da qualche parte qui intorno. Il problema è che la zona è troppo grande da cercare da sola..." },

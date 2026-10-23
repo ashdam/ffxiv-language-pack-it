@@ -102,7 +102,7 @@
     { "gameKey": "quest/032/LucKla203_03232#TEXT_LUCKLA203_03232_SYSTEM_000_100", "hash": "9F644A828617AC38", "target": "Thiuna non potrebbe essere più felice dei tuoi sforzi. Ora ti considera <colortype(500)><edgecolortype(501)>Restorer of Bonds<edgecolortype(0)><colortype(0)>!" },
     { "gameKey": "quest/032/LucKla203_03232#TEXT_LUCKLA203_03232_SYSTEM_000_110", "hash": "B393A26D433E0543", "target": "Altre persone al Crystalline Mean potrebbero avere bisogno dell'aiuto di <if(gnum4,un'artigiana,un artigiano)> di talento. Chiedi in giro e scopri a chi servono le tue capacità." },
     { "gameKey": "quest/032/LucKla203_03232#TEXT_LUCKLA203_03232_SYSTEM_000_120", "hash": "1F00ABEB93415681", "target": "Hai completato tutte le consegne attualmente disponibili. Quando avrai un momento libero, sembra che Katliss voglia parlarti." },
-    { "gameKey": "quest/032/LucKla203_03232#TEXT_LUCKLA203_03232_SYSTEM_000_121", "hash": "B7C99EAFCFA20701", "target": "Torna a visitare il Crystalline Mean dopo aver completato la missione dello scenario principale “Shadowbringers”." },
+    { "gameKey": "quest/032/LucKla203_03232#TEXT_LUCKLA203_03232_SYSTEM_000_121", "hash": "B7C99EAFCFA20701", "target": "Torna a visitare il Crystalline Mean dopo aver completato la missione dello scenario principale “Portatori d'ombra”." },
     { "gameKey": "quest/032/LucKla203_03232#TEXT_LUCKLA203_03232_SYSTEM_000_130", "hash": "4FC0E9EF53F69F22", "target": "Hai completato tutte le consegne attualmente disponibili. Quando avrai un momento libero, sembra che Katliss voglia parlarti." },
     { "gameKey": "quest/032/LucKla203_03232#TEXT_LUCKLA203_03232_SYSTEM_000_131", "hash": "703341F5F4090072", "target": "Incontrala al banco della reception principale del Crystalline Mean." }
   ]

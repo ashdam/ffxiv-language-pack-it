@@ -2,9 +2,9 @@
   "sheet": "GrandCompany",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "GrandCompany#0.0", "hash": "E33DF91472F68F93", "target": "" },
-    { "gameKey": "GrandCompany#1.0", "hash": "A3F799B6F32B5477", "target": "" },
-    { "gameKey": "GrandCompany#2.0", "hash": "79281ACCD1DC6BD8", "target": "" },
-    { "gameKey": "GrandCompany#3.0", "hash": "FAAAF53C3BBBB732", "target": "" }
+    { "gameKey": "GrandCompany#0.0", "hash": "E33DF91472F68F93", "target": "Nessuna" },
+    { "gameKey": "GrandCompany#1.0", "hash": "A3F799B6F32B5477", "target": "Maelstrom" },
+    { "gameKey": "GrandCompany#2.0", "hash": "79281ACCD1DC6BD8", "target": "Ordine delle Due Vipere" },
+    { "gameKey": "GrandCompany#3.0", "hash": "FAAAF53C3BBBB732", "target": "Fiamme Immortali" }
   ]
 }

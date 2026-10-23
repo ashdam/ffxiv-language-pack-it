@@ -3,9 +3,9 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKzi008_03544#TEXT_LUCKZI008_03544_SEQ_00", "hash": "07608DD55B1A20D4", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Sylgran cerca un secondo parere." },
-    { "gameKey": "quest/035/LucKzi008_03544#TEXT_LUCKZI008_03544_TODO_00", "hash": "BAC9E834E33F8AC4", "target": "Esaminare i dirt mounds" },
+    { "gameKey": "quest/035/LucKzi008_03544#TEXT_LUCKZI008_03544_TODO_00", "hash": "BAC9E834E33F8AC4", "target": "Esaminare i cumuli di terra" },
     { "gameKey": "quest/035/LucKzi008_03544#TEXT_LUCKZI008_03544_TODO_01", "hash": "7BA53C2C0E0E39F4", "target": "Parlare con Sylgran" },
-    { "gameKey": "quest/035/LucKzi008_03544#TEXT_LUCKZI008_03544_SYLGRAN_000_000", "hash": "47E329EEC59FADB1", "target": "Salve, <if(gnum4,straniera,straniero)>, ben <if(gnum4,arrivata,arrivato)>. Dicono che la gente non faccia spesso una deviazione per visitare Amity. Io però sono venuto con l'idea di coltivare la terra." },
+    { "gameKey": "quest/035/LucKzi008_03544#TEXT_LUCKZI008_03544_SYLGRAN_000_000", "hash": "47E329EEC59FADB1", "target": "Salve, <if(gnum4,straniera,straniero)>, ben <if(gnum4,arrivata,arrivato)>. Dicono che la gente non faccia spesso una deviazione per visitare Concordia. Io però sono venuto con l'idea di coltivare la terra." },
     { "gameKey": "quest/035/LucKzi008_03544#TEXT_LUCKZI008_03544_SYLGRAN_000_001", "hash": "2F0C656DF2019BA3", "target": "...Cosa, non credi che un uomo possa coltivare questa terra? Be', sembri <if(gnum4,una ragazza,un ragazzo)> che ha viaggiato parecchio." },
     { "gameKey": "quest/035/LucKzi008_03544#TEXT_LUCKZI008_03544_SYLGRAN_000_002", "hash": "E0C4A45D907395CE", "target": "Perché non vai al mio «campo» qui dietro e dai un'occhiata di persona? Sarei curioso di sapere quante possibilità credi che abbia di domare questo suolo sterile..." },
     { "gameKey": "quest/035/LucKzi008_03544#TEXT_LUCKZI008_03544_SYLGRAN_000_003", "hash": "7AC8D3C16620B602", "target": "Il mio «campo» è proprio laggiù. Al momento è poco più di qualche mucchietto di terra, ma bisogna cominciare da qualche parte, eh?" },

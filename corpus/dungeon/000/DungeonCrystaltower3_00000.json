@@ -2,8 +2,8 @@
   "conversation": "dungeon/000/DungeonCrystaltower3_00000",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "dungeon/000/DungeonCrystaltower3_00000#TEXT_DUNGEONCRYSTALTOWER3_00000_CLOUDOFDARKNESS_000_000", "hash": "E95981C0AAB4EAA6", "target": "" },
-    { "gameKey": "dungeon/000/DungeonCrystaltower3_00000#TEXT_DUNGEONCRYSTALTOWER3_00000_CLOUDOFDARKNESS_000_010", "hash": "5173531C48925AA4", "target": "" },
-    { "gameKey": "dungeon/000/DungeonCrystaltower3_00000#TEXT_DUNGEONCRYSTALTOWER3_00000_CLOUDOFDARKNESS_000_020", "hash": "06C3F33817296ACD", "target": "" }
+    { "gameKey": "dungeon/000/DungeonCrystaltower3_00000#TEXT_DUNGEONCRYSTALTOWER3_00000_CLOUDOFDARKNESS_000_000", "hash": "E95981C0AAB4EAA6", "target": "Chi disturba le tenebre?<br>Ahhh, mortali del regno della luce.<br>Non siete giunti qui per caso..." },
+    { "gameKey": "dungeon/000/DungeonCrystaltower3_00000#TEXT_DUNGEONCRYSTALTOWER3_00000_CLOUDOFDARKNESS_000_010", "hash": "5173531C48925AA4", "target": "Sono la Nube Oscura.<br>Ciò che non soffoco, lo divoro.<br>Ciò che non posso divorare, lo distruggo." },
+    { "gameKey": "dungeon/000/DungeonCrystaltower3_00000#TEXT_DUNGEONCRYSTALTOWER3_00000_CLOUDOFDARKNESS_000_020", "hash": "06C3F33817296ACD", "target": "Il patto è eterno.<br>Dinanzi alla marea di tenebre, tutti i mortali<br>sprofonderanno senza vita nel Vuoto!" }
   ]
 }

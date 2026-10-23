@@ -23,7 +23,7 @@
     { "gameKey": "quest/035/LucKzi010_03546#TEXT_LUCKZI010_03546_BOY03546_000_024", "hash": "41C83AB76E1C00AF", "target": "Poco fa è passata tutta una folla, e temevo che facessero qualcosa a Rocky." },
     { "gameKey": "quest/035/LucKzi010_03546#TEXT_LUCKZI010_03546_BOY03546_000_025", "hash": "E1822082AB7103B5", "target": "Ma credo che qui sia abbastanza al sicuro. Vieni, dovremmo andarcene prima che qualcuno ci veda." },
     { "gameKey": "quest/035/LucKzi010_03546#TEXT_LUCKZI010_03546_ROCKY03546_000_028", "hash": "195A15A7524195E0", "target": "\\<annusa> \\<sbuffa>" },
-    { "gameKey": "quest/035/LucKzi010_03546#TEXT_LUCKZI010_03546_BOY03546_000_030", "hash": "2615D26C14BB21AE", "target": "Non ci sono altri giovani ad Amity, quindi Rocky è il mio unico amico." },
+    { "gameKey": "quest/035/LucKzi010_03546#TEXT_LUCKZI010_03546_BOY03546_000_030", "hash": "2615D26C14BB21AE", "target": "Non ci sono altri giovani a Concordia, quindi Rocky è il mio unico amico." },
     { "gameKey": "quest/035/LucKzi010_03546#TEXT_LUCKZI010_03546_BOY03546_000_031", "hash": "9D5D9F12A2884639", "target": "...E credo che anche tu non sia male. Per essere <if(gnum4,un'adulta,un adulto)>. E dato che sei <if(gnum4,stata gentile,stato gentile)> con Rocky, ti darò il mio tesoro!" },
     { "gameKey": "quest/035/LucKzi010_03546#TEXT_LUCKZI010_03546_BOY03546_000_032", "hash": "61EFA4CAE0FF4E80", "target": "Era lì per terra. Guarda! Una cosa tanto luccicante deve valere una fortuna!" }
   ]

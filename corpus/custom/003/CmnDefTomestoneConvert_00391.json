@@ -8,8 +8,8 @@
     { "gameKey": "custom/003/CmnDefTomestoneConvert_00391#TEXT_CMNDEFTOMESTONECONVERT_00391_TALK_NOT_HAVE", "hash": "6335435AF1807F93", "target": "Io però potrei ancora farne buon uso. Se ne hai di inutili, portamele e ti darò qualcosa di più interessante in cambio." },
     { "gameKey": "custom/003/CmnDefTomestoneConvert_00391#TEXT_CMNDEFTOMESTONECONVERT_00391_TALK_Q", "hash": "FDA1B87B70B9DD19", "target": "Io però potrei ancora farne buon uso. Se ne hai di inutili, ti darò qualcosa di più interessante in cambio." },
     { "gameKey": "custom/003/CmnDefTomestoneConvert_00391#TEXT_CMNDEFTOMESTONECONVERT_00391_EXCHANGE_Q", "hash": "69BD7FB1A2A2DC56", "target": "Scambiare <kilo(lnum2,\\,)> <ennoun(Item,3,lnum1,2,1)> con <kilo(lnum4,\\,)> <ennoun(Item,3,lnum3,2,1)>?" },
-    { "gameKey": "custom/003/CmnDefTomestoneConvert_00391#TEXT_CMNDEFTOMESTONECONVERT_00391_EXCHANGE_YES", "hash": "4124EF20DA2621B7", "target": "Sì." },
-    { "gameKey": "custom/003/CmnDefTomestoneConvert_00391#TEXT_CMNDEFTOMESTONECONVERT_00391_EXCHANGE_NO", "hash": "DA78BE64B4B2689D", "target": "No." },
+    { "gameKey": "custom/003/CmnDefTomestoneConvert_00391#TEXT_CMNDEFTOMESTONECONVERT_00391_EXCHANGE_YES", "hash": "4124EF20DA2621B7", "target": "Sì" },
+    { "gameKey": "custom/003/CmnDefTomestoneConvert_00391#TEXT_CMNDEFTOMESTONECONVERT_00391_EXCHANGE_NO", "hash": "DA78BE64B4B2689D", "target": "No" },
     { "gameKey": "custom/003/CmnDefTomestoneConvert_00391#TEXT_CMNDEFTOMESTONECONVERT_00391_TALK_NOT_GET", "hash": "012F27EC9063FBF6", "target": "Oh? A quanto pare hai già le borse piuttosto piene." },
     { "gameKey": "custom/003/CmnDefTomestoneConvert_00391#TEXT_CMNDEFTOMESTONECONVERT_00391_OVERMAX_Q", "hash": "21FF900389695734", "target": "Attenzione: non potrai ricevere l'intera quantità di <ennoun(Item,3,lnum1,2,1)>. Vuoi procedere comunque?" }
   ]

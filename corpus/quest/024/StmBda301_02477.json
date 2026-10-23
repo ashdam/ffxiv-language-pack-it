@@ -2,7 +2,7 @@
   "conversation": "quest/024/StmBda301_02477",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/024/StmBda301_02477#TEXT_STMBDA301_02477_SEQ_00", "hash": "22F4918F09F06140", "target": "Soroban sa bene che attraversare il Ruby Sea non è cosa da poco." },
+    { "gameKey": "quest/024/StmBda301_02477#TEXT_STMBDA301_02477_SEQ_00", "hash": "22F4918F09F06140", "target": "Soroban sa bene che attraversare il Mare di Rubino non è cosa da poco." },
     { "gameKey": "quest/024/StmBda301_02477#TEXT_STMBDA301_02477_TODO_00", "hash": "D83C5E86C51C92EE", "target": "Seguire Lyse" },
     { "gameKey": "quest/024/StmBda301_02477#TEXT_STMBDA301_02477_TODO_01", "hash": "71A1B8015EA4230C", "target": "Parlare con Soroban" },
     { "gameKey": "quest/024/StmBda301_02477#TEXT_STMBDA301_02477_TODO_02", "hash": "F654C05FBBB99FC2", "target": "Parlare con Tansui" },
@@ -26,7 +26,7 @@
     { "gameKey": "quest/024/StmBda301_02477#TEXT_STMBDA301_02477_SOROBAN_000_071", "hash": "12C4C4D099721FE7", "target": "Seguitemi, amici. Dobbiamo parlare con un uomo di nome Tansui." },
     { "gameKey": "quest/024/StmBda301_02477#TEXT_STMBDA301_02477_LYSE_000_080", "hash": "20B43A6428B77D68", "target": "Ugh... I vestiti sono quasi asciutti, ma si appiccicano un po'. Comunque non me ne pento!" },
     { "gameKey": "quest/024/StmBda301_02477#TEXT_STMBDA301_02477_ALISAIE_000_085", "hash": "9C0FF759F2FB09B2", "target": "Mi chiedo─è noto che i pirati lominsani dicano cose come «Arrr», ma quelli dall'altra parte del mondo non useranno forse espressioni diverse? Magari «Errr», «Urrr» o «Arururu»?" },
-    { "gameKey": "quest/024/StmBda301_02477#TEXT_STMBDA301_02477_GOSETSU_000_090", "hash": "1BFEE8383C4EFBEA", "target": "La posizione di Doma sulla Confederazione si potrebbe descrivere come «prudente accettazione». Sono pirati, sì, ma seguono un codice e costituiscono una forza stabilizzatrice nel Ruby Sea." },
+    { "gameKey": "quest/024/StmBda301_02477#TEXT_STMBDA301_02477_GOSETSU_000_090", "hash": "1BFEE8383C4EFBEA", "target": "La posizione di Doma sulla Confederazione si potrebbe descrivere come «prudente accettazione». Sono pirati, sì, ma seguono un codice e costituiscono una forza stabilizzatrice nel Mare di Rubino." },
     { "gameKey": "quest/024/StmBda301_02477#TEXT_STMBDA301_02477_SOROBAN_000_095", "hash": "6C2C688295F727B5", "target": "Lui è Tansui. Su, presentatevi." },
     { "gameKey": "quest/024/StmBda301_02477#TEXT_STMBDA301_02477_TANSUI_000_100", "hash": "58C5BDC25880FFCC", "target": "...Temo che tu sappia chi sono, mentre io non ti conosco." },
     { "gameKey": "quest/024/StmBda301_02477#TEXT_STMBDA301_02477_TANSUI_000_101", "hash": "EBC0A05015BEC84E", "target": "<if(gnum4,Onorevolissima e stimatissima,Onorevolissimo e stimatissimo)> <string(gstr1)>. Sono Tansui, umile ufficiale al servizio del capitano della Confederazione." },

@@ -3,8 +3,8 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKzg015_03500#TEXT_LUCKZG015_03500_SEQ_00", "hash": "FF4B092ABBB2F2AA", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>I due fratelli di Twine sperano che resterai alle Miniere del Monte Biran per aiutarli." },
-    { "gameKey": "quest/035/LucKzg015_03500#TEXT_LUCKZG015_03500_TODO_00", "hash": "6CB91B9F805FA773", "target": "Procurarsi discarded timber" },
-    { "gameKey": "quest/035/LucKzg015_03500#TEXT_LUCKZG015_03500_TODO_01", "hash": "2A0DF168882CC52A", "target": "Consegnare il discarded timber al minatore tarchiato" },
+    { "gameKey": "quest/035/LucKzg015_03500#TEXT_LUCKZG015_03500_TODO_00", "hash": "6CB91B9F805FA773", "target": "Procurarsi legname abbandonato" },
+    { "gameKey": "quest/035/LucKzg015_03500#TEXT_LUCKZG015_03500_TODO_01", "hash": "2A0DF168882CC52A", "target": "Consegnare il legname abbandonato al minatore tarchiato" },
     { "gameKey": "quest/035/LucKzg015_03500#TEXT_LUCKZG015_03500_TODO_02", "hash": "7379DAC66B25A9AB", "target": "Fare rapporto ad Annine" },
     { "gameKey": "quest/035/LucKzg015_03500#TEXT_LUCKZG015_03500_BROTHERB03500_000_000", "hash": "CB30C127152D67C3", "target": "Senza qualcuno che tenga gli occhi aperti per noi, tanto vale fare i bagagli e tornare a casa!" },
     { "gameKey": "quest/035/LucKzg015_03500#TEXT_LUCKZG015_03500_BROTHERA03500_000_010", "hash": "13CEB969B24CA8A5", "target": "Se vuoi fare ancora un po' di lavoro, il tuo aiuto ci farebbe piacere." },

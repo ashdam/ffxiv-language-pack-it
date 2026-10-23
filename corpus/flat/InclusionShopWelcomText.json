@@ -2,19 +2,19 @@
   "sheet": "InclusionShopWelcomText",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "InclusionShopWelcomText#1", "hash": "375D1497438AE99A", "target": "" },
-    { "gameKey": "InclusionShopWelcomText#2", "hash": "D7729256658FC2CB", "target": "" },
-    { "gameKey": "InclusionShopWelcomText#3", "hash": "EE1DF3E673173DED", "target": "" },
-    { "gameKey": "InclusionShopWelcomText#4", "hash": "4C3964472CDF648E", "target": "" },
-    { "gameKey": "InclusionShopWelcomText#5", "hash": "6FF4A1E39591C0E9", "target": "" },
-    { "gameKey": "InclusionShopWelcomText#6", "hash": "417F62945792CA71", "target": "" },
-    { "gameKey": "InclusionShopWelcomText#7", "hash": "18F79648161014BB", "target": "" },
-    { "gameKey": "InclusionShopWelcomText#8", "hash": "B0C93FE0B67B3C89", "target": "" },
-    { "gameKey": "InclusionShopWelcomText#9", "hash": "9E855C6BFBE6F730", "target": "" },
-    { "gameKey": "InclusionShopWelcomText#10", "hash": "954B731C58DBB138", "target": "" },
-    { "gameKey": "InclusionShopWelcomText#11", "hash": "E30CB3681DD33816", "target": "" },
-    { "gameKey": "InclusionShopWelcomText#12", "hash": "DEF9E0B95A364B3E", "target": "" },
-    { "gameKey": "InclusionShopWelcomText#13", "hash": "749ED62CA23CAB03", "target": "" },
-    { "gameKey": "InclusionShopWelcomText#14", "hash": "7F949954D8D4186F", "target": "" }
+    { "gameKey": "InclusionShopWelcomText#1", "hash": "375D1497438AE99A", "target": "Meraviglie assortite" },
+    { "gameKey": "InclusionShopWelcomText#2", "hash": "D7729256658FC2CB", "target": "Qui potete scambiare Allagan tomestones e altre simili cianfrusaglie con i beni di lusso disponibili alla Bottega delle Meraviglie di madama Mowen. Potete fidarvi: ogni articolo è stato procurato con cura da abili artigiani e pixie─onestà prima di tutto!" },
+    { "gameKey": "InclusionShopWelcomText#3", "hash": "EE1DF3E673173DED", "target": "Scambio Unificato di Scrip" },
+    { "gameKey": "InclusionShopWelcomText#4", "hash": "4C3964472CDF648E", "target": "Qui potete scambiare crafters' scrips e gatherers' scrips con tesori locali e utili merci d'importazione. Qualunque sia il vostro mestiere, qui allo Scambio Unificato di Scrip potete trovare tutto ciò che vi serve, e molto altro!" },
+    { "gameKey": "InclusionShopWelcomText#5", "hash": "6FF4A1E39591C0E9", "target": "Oblò dei Gatherers' Scrip" },
+    { "gameKey": "InclusionShopWelcomText#6", "hash": "417F62945792CA71", "target": "Date un'occhiata dal vecchio oblò: vedrete una distesa di scorte ambite dai Disciples of the Land di tutto il mondo. Gettiamo le reti ben lontano, perciò accettiamo tutti i gatherers' scrips!" },
+    { "gameKey": "InclusionShopWelcomText#7", "hash": "18F79648161014BB", "target": "Scorte del quartiermastro" },
+    { "gameKey": "InclusionShopWelcomText#8", "hash": "B0C93FE0B67B3C89", "target": "Scambiate i vostri sudati marchi con armi e altri rifornimenti utili nelle battaglie più feroci che vi attendono. Che possiate camminare nella luce del Cristallo... fino al capolinea dei cristalli!" },
+    { "gameKey": "InclusionShopWelcomText#9", "hash": "9E855C6BFBE6F730", "target": "Bottega delle Curiosità di Lor Ul" },
+    { "gameKey": "InclusionShopWelcomText#10", "hash": "954B731C58DBB138", "target": "Scambia i tuoi crafters' scrips e gatherers' scrips con ogni sorta di oggetto luccicante! Ne abbiamo radunati parecchi, quindi prenditi un momento per soddisfare la tua brama mortale di <italic(1)>cose<italic(0)>." },
+    { "gameKey": "InclusionShopWelcomText#11", "hash": "E30CB3681DD33816", "target": "Scambio di scrip del Thesauros" },
+    { "gameKey": "InclusionShopWelcomText#12", "hash": "DEF9E0B95A364B3E", "target": "...Siamo lieti di agevolare lo scambio di crafters' scrips e gatherers' scrips per conto della Casa delle Meraviglie di Rowena. Se vi occorre assistenza, non avete che da chiedere." },
+    { "gameKey": "InclusionShopWelcomText#13", "hash": "749ED62CA23CAB03", "target": "Scambio di Vecchia Sharlayan" },
+    { "gameKey": "InclusionShopWelcomText#14", "hash": "7F949954D8D4186F", "target": "Grazie anche ai nostri rapporti con la Casa delle Meraviglie di Rowena, ci siamo procurati una straordinaria selezione di articoli rari e merci pregiate─tutti disponibili in cambio di Allagan tomestones e altre curiosità!" }
   ]
 }

@@ -4,8 +4,8 @@
   "entries": [
     { "gameKey": "custom/002/CmnGscChocoboRaceForgetAbility_00229#TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_TALK_ACTOR_02", "hash": "DF248D8AD87E2B3D", "target": "Desiderate far dimenticare un'abilità a <string(lstr1)>? Molto bene, se volete indicarmi l'abilità indesiderata..." },
     { "gameKey": "custom/002/CmnGscChocoboRaceForgetAbility_00229#TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_001_Q1", "hash": "686FDE8903BCBD6A", "target": "Vuoi davvero che il tuo chocobo da corsa dimentichi <sheet(ChocoboRaceAbility,lnum2,0)>?" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceForgetAbility_00229#TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_001_A1", "hash": "E985DE77A6B03416", "target": "Sì." },
-    { "gameKey": "custom/002/CmnGscChocoboRaceForgetAbility_00229#TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_001_A2", "hash": "7F116C2FC8F6A5AB", "target": "No." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceForgetAbility_00229#TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_001_A1", "hash": "E985DE77A6B03416", "target": "Sì" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceForgetAbility_00229#TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_001_A2", "hash": "7F116C2FC8F6A5AB", "target": "No" },
     { "gameKey": "custom/002/CmnGscChocoboRaceForgetAbility_00229#TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_001_DONE", "hash": "51027DC9C75ADEAC", "target": "E con questo il procedimento è concluso. Spero che il risultato vi soddisfi." },
     { "gameKey": "custom/002/CmnGscChocoboRaceForgetAbility_00229#TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_TALK_ACTOR", "hash": "BF203A8D8B82E5A5", "target": "Desiderate far dimenticare un'abilità al vostro chocobo da corsa? Molto bene, se volete indicarmi l'abilità indesiderata..." },
     { "gameKey": "custom/002/CmnGscChocoboRaceForgetAbility_00229#TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_ERROR_001_01", "hash": "84A73AF67932EFEA", "target": "No, qualcosa non torna, non è vero? Secondo i miei registri, non avete nemmeno un chocobo da corsa registrato." },

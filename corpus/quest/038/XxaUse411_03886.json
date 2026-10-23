@@ -7,7 +7,7 @@
     { "gameKey": "quest/038/XxaUse411_03886#TEXT_XXAUSE411_03886_SEQ_02", "hash": "59C50F529B2AAD84", "target": "Eline Roaille sembra diretta alla Blue Badger Gate. Continua a pedinare la sospettata." },
     { "gameKey": "quest/038/XxaUse411_03886#TEXT_XXAUSE411_03886_SEQ_03", "hash": "2AD66A01CB78602B", "target": "Eline Roaille è entrata nella Carline Canopy e Ilberd ti chiede di cercarla all'interno. Se non si trova al piano superiore, estendi le ricerche all'area d'atterraggio sottostante e parla con Ephemie dei Prodi del Cristallo." },
     { "gameKey": "quest/038/XxaUse411_03886#TEXT_XXAUSE411_03886_SEQ_04", "hash": "E6E1D7D4F986E35A", "target": "Ephemie è certa che Eline Roaille non sia salita su un'aeronave. Torna fuori dalla Carline Canopy e riferisci a Ilberd della sua misteriosa scomparsa." },
-    { "gameKey": "quest/038/XxaUse411_03886#TEXT_XXAUSE411_03886_SEQ_05", "hash": "A729F15865CE0B5D", "target": "Ilberd ritiene che Eline Roaille possa aver usato una stanza al Posatoio per depistare gli inseguitori. Proprio quando sembra che la preda vi sia sfuggita, compare uno shinobi di Doma con la notizia che Eline Roaille ha lasciato Gridania passando dal Molo della Riva Occidentale. La prossima tappa della caccia sarà l'East Shroud." },
+    { "gameKey": "quest/038/XxaUse411_03886#TEXT_XXAUSE411_03886_SEQ_05", "hash": "A729F15865CE0B5D", "target": "Ilberd ritiene che Eline Roaille possa aver usato una stanza al Posatoio per depistare gli inseguitori. Proprio quando sembra che la preda vi sia sfuggita, compare uno shinobi di Doma con la notizia che Eline Roaille ha lasciato Gridania passando dal Molo della Riva Occidentale. La prossima tappa della caccia sarà il Sudario Orientale." },
     { "gameKey": "quest/038/XxaUse411_03886#TEXT_XXAUSE411_03886_TODO_00", "hash": "F765C03B25FF1C59", "target": "Parlare con Ilberd" },
     { "gameKey": "quest/038/XxaUse411_03886#TEXT_XXAUSE411_03886_TODO_01", "hash": "AC398964CA569C19", "target": "Parlare di nuovo con Ilberd" },
     { "gameKey": "quest/038/XxaUse411_03886#TEXT_XXAUSE411_03886_TODO_02", "hash": "90E2DAF1684A6212", "target": "Parlare con Ephemie all'area d'atterraggio delle aeronavi" },
@@ -30,7 +30,7 @@
     { "gameKey": "quest/038/XxaUse411_03886#TEXT_XXAUSE411_03886_ILBERD_000_176", "hash": "C48C161987E30338", "target": "...Aspettate. Quella collana─ Siete uno shinobi di Doma." },
     { "gameKey": "quest/038/XxaUse411_03886#TEXT_XXAUSE411_03886_SHINOBI00079_000_177", "hash": "053E05B844406FE8", "target": "La donna che cercate ha lasciato Gridania passando dal Molo della Riva Occidentale." },
     { "gameKey": "quest/038/XxaUse411_03886#TEXT_XXAUSE411_03886_SHINOBI00079_000_178", "hash": "E8649E4E5EBF9E7F", "target": "Era vestita da mercante, ma questi occhi non si lasciano ingannare tanto facilmente." },
-    { "gameKey": "quest/038/XxaUse411_03886#TEXT_XXAUSE411_03886_SHINOBI00079_000_179", "hash": "31806FAF469F0289", "target": "Vi conviene proseguire le ricerche nell'East Shroud. Potete star certi che continueremo a sostenervi dalle ombre." },
+    { "gameKey": "quest/038/XxaUse411_03886#TEXT_XXAUSE411_03886_SHINOBI00079_000_179", "hash": "31806FAF469F0289", "target": "Vi conviene proseguire le ricerche nel Sudario Orientale. Potete star certi che continueremo a sostenervi dalle ombre." },
     { "gameKey": "quest/038/XxaUse411_03886#TEXT_XXAUSE411_03886_ILBERD_000_180", "hash": "3960E5496850F871", "target": "Siano ringraziati i Dodici per i domani. Senza i loro talenti unici, Roaille sarebbe scomparsa senza lasciare traccia." }
   ]
 }

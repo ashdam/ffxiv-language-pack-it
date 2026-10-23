@@ -11,7 +11,7 @@
     { "gameKey": "quest/046/AktKdd101_04663#TEXT_AKTKDD101_04663_TODO_01", "hash": "C3E5373F1B7B2F7F", "target": "Parlare con Koh Rabntah" },
     { "gameKey": "quest/046/AktKdd101_04663#TEXT_AKTKDD101_04663_TODO_02", "hash": "C5E0FA9577CEA5F9", "target": "Mostrare l'equipaggiamento a Khatun" },
     { "gameKey": "quest/046/AktKdd101_04663#TEXT_AKTKDD101_04663_SYSTEM_000_000", "hash": "1EAA9E6E8D717B23", "target": "Per intraprendere questa missione, devi prima completare il piano 50 di Palace of the Dead." },
-    { "gameKey": "quest/046/AktKdd101_04663#TEXT_AKTKDD101_04663_SYSTEM_000_001", "hash": "C36F827901FFAC40", "target": "Per accedere a Palace of the Dead, devi completare la missione «The House That Death Built»." },
+    { "gameKey": "quest/046/AktKdd101_04663#TEXT_AKTKDD101_04663_SYSTEM_000_001", "hash": "C36F827901FFAC40", "target": "Per accedere al Palace of the Dead, devi completare la missione «La casa costruita dalla morte»." },
     { "gameKey": "quest/046/AktKdd101_04663#TEXT_AKTKDD101_04663_KOHRABNTAH_000_010", "hash": "D6F7C3A968654F28", "target": "Come stai, <if(gnum4,coraggiosa avventuriera,coraggioso avventuriero)>?" },
     { "gameKey": "quest/046/AktKdd101_04663#TEXT_AKTKDD101_04663_KOHRABNTAH_000_011", "hash": "BBE09C11E62ECF45", "target": "...O dovrei chiamarti <if(gnum4,eroina,eroe)> degli Eredi? Oppure <if(gnum4,intrepida ricercatrice,intrepido ricercatore)> di NOAH? Quale appellativo preferisci, <string(gstr1)>?" },
     { "gameKey": "quest/046/AktKdd101_04663#TEXT_AKTKDD101_04663_KOHRABNTAH_000_012", "hash": "8B0ACF54BCB3417F", "target": "Su, su, non c'è motivo di allarmarsi. Sono solo un'umile appartenente ai Figli di San Coinach, anche se chiaramente non sono un figlio. Mi chiamo Koh Rabntah..." },

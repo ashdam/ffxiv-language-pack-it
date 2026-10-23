@@ -2,19 +2,19 @@
   "conversation": "opening/OpeningGridania",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "opening/OpeningGridania#TEXT_OPENINGGRIDANIA_BERTENNANT_000_01", "hash": "6F0D7FD7DE3DA7C8", "target": "" },
-    { "gameKey": "opening/OpeningGridania#TEXT_OPENINGGRIDANIA_BERTENNANT_000_02", "hash": "43829C8C64C69F70", "target": "" },
-    { "gameKey": "opening/OpeningGridania#TEXT_OPENINGGRIDANIA_ULTA_000_03", "hash": "B665449457E9B8AF", "target": "" },
-    { "gameKey": "opening/OpeningGridania#TEXT_OPENINGGRIDANIA_CAPUCINE_000_05", "hash": "B31C9CFB4ECE3556", "target": "" },
-    { "gameKey": "opening/OpeningGridania#TEXT_OPENINGGRIDANIA_ADALHARD_000_10", "hash": "90F179670C851078", "target": "" },
-    { "gameKey": "opening/OpeningGridania#TEXT_OPENINGGRIDANIA_BERTENNANT_000_15", "hash": "B212A32AEA06CE77", "target": "" },
-    { "gameKey": "opening/OpeningGridania#TEXT_OPENINGGRIDANIA_BERTENNANT_000_16", "hash": "391FB982F651AE66", "target": "" },
-    { "gameKey": "opening/OpeningGridania#TEXT_OPENINGGRIDANIA_FST_SYSTEM_000_20", "hash": "A866AF5EC1B67B71", "target": "" },
-    { "gameKey": "opening/OpeningGridania#TEXT_OPENINGGRIDANIA_FST_SYSTEM_000_21", "hash": "47C0D9219E727B17", "target": "" },
-    { "gameKey": "opening/OpeningGridania#TEXT_OPENINGGRIDANIA_FST_SYSTEM_000_22", "hash": "D90A2E2F658F1C16", "target": "" },
-    { "gameKey": "opening/OpeningGridania#TEXT_OPENINGGRIDANIA_FST_SYSTEM_000_23", "hash": "FB5B9558C99269B2", "target": "" },
-    { "gameKey": "opening/OpeningGridania#TEXT_OPENINGGRIDANIA_FST_SYSTEM_Q_01", "hash": "F41A52DBB559A369", "target": "" },
-    { "gameKey": "opening/OpeningGridania#TEXT_OPENINGGRIDANIA_FST_SYSTEM_A_01", "hash": "D73B946A99DB8A1D", "target": "" },
-    { "gameKey": "opening/OpeningGridania#TEXT_OPENINGGRIDANIA_FST_SYSTEM_A_02", "hash": "1E0586B63D4042E3", "target": "" }
+    { "gameKey": "opening/OpeningGridania#TEXT_OPENINGGRIDANIA_BERTENNANT_000_01", "hash": "6F0D7FD7DE3DA7C8", "target": "Ehi, tu!" },
+    { "gameKey": "opening/OpeningGridania#TEXT_OPENINGGRIDANIA_BERTENNANT_000_02", "hash": "43829C8C64C69F70", "target": "Non mi hai sentito? Vieni qui, ti farò da guida." },
+    { "gameKey": "opening/OpeningGridania#TEXT_OPENINGGRIDANIA_ULTA_000_03", "hash": "B665449457E9B8AF", "target": "Dove credi di andare? La Gilda degli Avventurieri è dall'<italic(1)>altra<italic(0)> parte!" },
+    { "gameKey": "opening/OpeningGridania#TEXT_OPENINGGRIDANIA_CAPUCINE_000_05", "hash": "B31C9CFB4ECE3556", "target": "Alt! Chi viene da fuori e non si è ancora registrato non può oltrepassare questo punto. Se vuoi restare nella nostra città, devi rispettare le nostre regole e andare subito alla Carline Canopy." },
+    { "gameKey": "opening/OpeningGridania#TEXT_OPENINGGRIDANIA_ADALHARD_000_10", "hash": "90F179670C851078", "target": "Non sei di queste parti, vero? Faresti bene a parlare prima con mamma Miounne. La trovi al bancone della Gilda degli Avventurieri." },
+    { "gameKey": "opening/OpeningGridania#TEXT_OPENINGGRIDANIA_BERTENNANT_000_15", "hash": "B212A32AEA06CE77", "target": "All'interno di queste porte devi rispettare le nostre leggi─leggi che di certo non conosci." },
+    { "gameKey": "opening/OpeningGridania#TEXT_OPENINGGRIDANIA_BERTENNANT_000_16", "hash": "391FB982F651AE66", "target": "Ascolta bene e ti farò da guida." },
+    { "gameKey": "opening/OpeningGridania#TEXT_OPENINGGRIDANIA_FST_SYSTEM_000_20", "hash": "A866AF5EC1B67B71", "target": "<if(gnum4,Benvenuta,Benvenuto)> a Gridania, una rigogliosa nazione della foresta cullata nell'abbraccio della natura." },
+    { "gameKey": "opening/OpeningGridania#TEXT_OPENINGGRIDANIA_FST_SYSTEM_000_21", "hash": "47C0D9219E727B17", "target": "Segui le istruzioni per muovere il tuo personaggio e regolare la posizione della telecamera." },
+    { "gameKey": "opening/OpeningGridania#TEXT_OPENINGGRIDANIA_FST_SYSTEM_000_22", "hash": "D90A2E2F658F1C16", "target": "Quando vuoi proseguire, parla con Bertennant." },
+    { "gameKey": "opening/OpeningGridania#TEXT_OPENINGGRIDANIA_FST_SYSTEM_000_23", "hash": "FB5B9558C99269B2", "target": "Seleziona lo schema di comandi che desideri usare." },
+    { "gameKey": "opening/OpeningGridania#TEXT_OPENINGGRIDANIA_FST_SYSTEM_Q_01", "hash": "F41A52DBB559A369", "target": "Seleziona uno schema di comandi." },
+    { "gameKey": "opening/OpeningGridania#TEXT_OPENINGGRIDANIA_FST_SYSTEM_A_01", "hash": "D73B946A99DB8A1D", "target": "Mouse/tastiera." },
+    { "gameKey": "opening/OpeningGridania#TEXT_OPENINGGRIDANIA_FST_SYSTEM_A_02", "hash": "1E0586B63D4042E3", "target": "<if([gnum75>1],Controller,Gamepad)>." }
   ]
 }

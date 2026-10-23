@@ -97,6 +97,6 @@
     { "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_ALPHINAUD_000_190", "hash": "81A3F8799BA22841", "target": "Secondo Erenville, il Vanu che credevo di aver visto appartiene a un clan noto come Hanuhanu. Pare che abbiano in comune più del semplice aspetto." },
     { "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_ALISAIE_000_195", "hash": "892297A1B6953F75", "target": "Che città incredibile─vivace quanto Ul'dah e persino più colorata..." },
     { "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_ERENVILLE_000_200", "hash": "7B73776A65863ECB", "target": "Be', nonostante gli sforzi della tempesta, eccoci qui. Sani e salvi." },
-    { "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_SYSTEM_000_210", "hash": "0B393665F927C518", "target": "Sei <if(gnum4,arrivata,arrivato)> a Tuliyollal! Puoi tornare in città in qualsiasi momento parlando con il marinaio vivace a Scholar's Harbor, a Old Sharlayan." }
+    { "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_SYSTEM_000_210", "hash": "0B393665F927C518", "target": "Sei <if(gnum4,arrivata,arrivato)> a Tuliyollal! Puoi tornare in città in qualsiasi momento parlando con il marinaio vivace al Porto dell'Erudito, a Vecchia Sharlayan." }
   ]
 }

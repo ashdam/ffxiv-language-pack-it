@@ -47,6 +47,6 @@
     { "gameKey": "quest/014/SubSea159_01426#TEXT_SUBSEA159_01426_DODOZAN_000_072", "hash": "0170C0CE04BF6CBF", "target": "Oh, dai Boia... ehm, volevo dire, dai clienti in persona? Capisco. Sì, c'è sempre qualche giovane spaccone così. Scommetto che non si è ancora guadagnato le rondini o le stelle." },
     { "gameKey": "quest/014/SubSea159_01426#TEXT_SUBSEA159_01426_DODOZAN_000_073", "hash": "D947C114BEBCBF4E", "target": "Le palle, dici? Il capitano Moenskaet è gentile a dirlo, certo, ma io vengo da Ul'dah. Noi commerciamo con <italic(1)>chiunque<italic(0)> abbia Gil per pagare. Pirati, principi... per me sono tutti uguali." },
     { "gameKey": "quest/014/SubSea159_01426#TEXT_SUBSEA159_01426_DODOZAN_000_074", "hash": "40356E20E5065F47", "target": "E se conosco questi pirati, e li conosco, presto vorranno un altro barile per dimenticare bevendo questo piccolo trambusto. Grazie mille, <if(gnum4,avventuriera,avventuriero)>!" },
-    { "gameKey": "quest/014/SubSea159_01426#TEXT_SUBSEA159_01426_SYSTEM_000_300", "hash": "59FA2F5F588B1058", "target": "Hai imparato l'emote <colortype(500)><edgecolortype(501)>Step Dance<edgecolortype(0)><colortype(0)>!" }
+    { "gameKey": "quest/014/SubSea159_01426#TEXT_SUBSEA159_01426_SYSTEM_000_300", "hash": "59FA2F5F588B1058", "target": "Hai imparato l'emote <colortype(500)><edgecolortype(501)>Danza del Tip Tap<edgecolortype(0)><colortype(0)>!" }
   ]
 }

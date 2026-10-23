@@ -142,7 +142,7 @@
     { "gameKey": "quest/032/LucKla303_03235#TEXT_LUCKLA303_03235_SYSTEM_000_140", "hash": "BE16D16A11D9AC6D", "target": "Bethric è profondamente grato per i tuoi sforzi. Ora ti considera <colortype(500)><edgecolortype(501)>Savior of the Amaro<edgecolortype(0)><colortype(0)>!" },
     { "gameKey": "quest/032/LucKla303_03235#TEXT_LUCKLA303_03235_SYSTEM_000_150", "hash": "50A95CF89CF2C2D0", "target": "Altre persone al Crystalline Mean potrebbero avere bisogno dell'aiuto di <if(gnum4,un'artigiana,un artigiano)> di talento. Chiedi in giro e scopri a chi servono le tue capacità." },
     { "gameKey": "quest/032/LucKla303_03235#TEXT_LUCKLA303_03235_SYSTEM_000_160", "hash": "E2D915BA81ED6C06", "target": "Hai completato tutte le consegne attualmente disponibili. Quando avrai un momento libero, sembra che Katliss voglia parlarti." },
-    { "gameKey": "quest/032/LucKla303_03235#TEXT_LUCKLA303_03235_SYSTEM_000_161", "hash": "E0BD69031576F9C1", "target": "Torna a visitare il Crystalline Mean dopo aver completato la missione dello scenario principale “Shadowbringers”." },
+    { "gameKey": "quest/032/LucKla303_03235#TEXT_LUCKLA303_03235_SYSTEM_000_161", "hash": "E0BD69031576F9C1", "target": "Torna a visitare il Crystalline Mean dopo aver completato la missione dello scenario principale “Portatori d'ombra”." },
     { "gameKey": "quest/032/LucKla303_03235#TEXT_LUCKLA303_03235_SYSTEM_000_170", "hash": "B9E744A0B8271882", "target": "Hai completato tutte le consegne attualmente disponibili. Quando avrai un momento libero, sembra che Katliss voglia parlarti." },
     { "gameKey": "quest/032/LucKla303_03235#TEXT_LUCKLA303_03235_SYSTEM_000_171", "hash": "5E0EE0CA94FD80F5", "target": "Incontrala al banco della reception principale del Crystalline Mean." }
   ]

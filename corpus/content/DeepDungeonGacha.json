@@ -2,17 +2,17 @@
   "conversation": "content/DeepDungeonGacha",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_WOODWAILERAPPRAISERS_000_000", "hash": "C5A69EF0431A7648", "target": "" },
-    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_WOODWAILERAPPRAISERS_000_010", "hash": "6C13B5DD9513B9CF", "target": "" },
-    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_WOODWAILERAPPRAISERS_000_020", "hash": "018EC227A041AD05", "target": "" },
-    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_STARTMENU_TITLE", "hash": "8A6D619A2283B27E", "target": "" },
-    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_STARTMENU_GACHA", "hash": "92F5ECDCF7AC1294", "target": "" },
-    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_STARTMENU_ABOUT", "hash": "BA6040D17EE90A20", "target": "" },
-    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_STARTMENU_EXIT", "hash": "E13B0B9328BF2727", "target": "" },
-    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_WOODWAILERAPPRAISERS_000_050", "hash": "8B771A9EBE492749", "target": "" },
-    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_WOODWAILERAPPRAISERS_000_051", "hash": "0514F4D9C4EF421D", "target": "" },
-    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_SYSTEM_000_060", "hash": "5F00FCF96B35EB56", "target": "" },
-    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_SYSTEM_000_061", "hash": "6025ABE84D3A7146", "target": "" },
-    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_SYSTEM_100_061", "hash": "D631C9FFCBEAA322", "target": "" }
+    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_WOODWAILERAPPRAISERS_000_000", "hash": "C5A69EF0431A7648", "target": "La presenza di mostri nelle rovine è una questione molto grave, ma la lascerò a voi avventurieri. A me interessano di più i manufatti ancora da scoprire sepolti al loro interno." },
+    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_WOODWAILERAPPRAISERS_000_010", "hash": "6C13B5DD9513B9CF", "target": "Ti sei <if(gnum4,avventurata,avventurato)> nelle rovine, vero? Hai trovato delle strane sacche, chiuse ermeticamente dalla magia del palazzo? Se vuoi conoscere il valore di questi tesori, portameli e spezzerò il sigillo che li tiene chiusi." },
+    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_WOODWAILERAPPRAISERS_000_020", "hash": "018EC227A041AD05", "target": "Hai sentito? Le Sentinelle Cupe hanno scoperto documenti scritti dall'architetto del palazzo! Oh, cosa non darei per leggerli." },
+    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_STARTMENU_TITLE", "hash": "8A6D619A2283B27E", "target": "Cosa vuoi fare?" },
+    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_STARTMENU_GACHA", "hash": "92F5ECDCF7AC1294", "target": "Fai valutare un pezzo del bottino maledetto." },
+    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_STARTMENU_ABOUT", "hash": "BA6040D17EE90A20", "target": "Informarsi sul bottino maledetto." },
+    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_STARTMENU_EXIT", "hash": "E13B0B9328BF2727", "target": "Niente." },
+    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_WOODWAILERAPPRAISERS_000_050", "hash": "8B771A9EBE492749", "target": "Ultimamente le Sentinelle Cupe tornano con manufatti insoliti. Avvolti in strane sacche, sepolti in luoghi ancora più strani. Sono sigillati da magie simili a quelle che proteggono il Palace of the Dead, e questo rende pericoloso anche solo aprirli." },
+    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_WOODWAILERAPPRAISERS_000_051", "hash": "0514F4D9C4EF421D", "target": "Il mio compito è dissolvere gli incantesimi protettivi di questi strani contenitori portati fuori dalle rovine. Se ne trovi uno, portamelo: lo aprirò per te in tutta sicurezza." },
+    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_SYSTEM_000_060", "hash": "5F00FCF96B35EB56", "target": "Esplorando il deep dungeon, i giocatori troveranno pezzi del bottino maledetto─tesori nascosti e sepolti dai non morti." },
+    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_SYSTEM_000_061", "hash": "6025ABE84D3A7146", "target": "Puoi scoprire il valore dei tesori trovati nel Palace of the Dead presentandoli all'expedition bishop per una valutazione." },
+    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_SYSTEM_100_061", "hash": "D631C9FFCBEAA322", "target": "Il capitano della spedizione delle Sentinelle Cupe può offrire informazioni dettagliate su come trovare questi tesori nascosti." }
   ]
 }

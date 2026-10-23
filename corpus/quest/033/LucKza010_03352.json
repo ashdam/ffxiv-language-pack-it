@@ -14,9 +14,9 @@
     { "gameKey": "quest/033/LucKza010_03352#TEXT_LUCKZA010_03352_GRIMYMAN03352_000_006", "hash": "CF3778565BD5B943", "target": "Quando avrai tolto all'uccello la voglia di lottare, potrai legarlo con quella corda!" },
     { "gameKey": "quest/033/LucKza010_03352#TEXT_LUCKZA010_03352_GRIMYMAN03352_000_010", "hash": "0C93BCBED06D0985", "target": "Dimmi che c'è un uccello in quel sacco!" },
     { "gameKey": "quest/033/LucKza010_03352#TEXT_LUCKZA010_03352_GRIMYMAN03352_000_011", "hash": "8D1179A944D9E99F", "target": "Uff, è bello vivace! Ottimo lavoro, <if(gnum4,straniera,straniero)>!" },
-    { "gameKey": "quest/033/LucKza010_03352#TEXT_LUCKZA010_03352_GRIMYMAN03352_000_012", "hash": "64148449BEBBC178", "target": "Ah, vedere questo qui tutto legato e pronto per la tavola mi ricorda quando ero a Stilltide..." },
+    { "gameKey": "quest/033/LucKza010_03352#TEXT_LUCKZA010_03352_GRIMYMAN03352_000_012", "hash": "64148449BEBBC178", "target": "Ah, vedere questo qui tutto legato e pronto per la tavola mi ricorda quando ero a Marea Quieta..." },
     { "gameKey": "quest/033/LucKza010_03352#TEXT_LUCKZA010_03352_GRIMYMAN03352_000_013", "hash": "BE1276F76A2872BC", "target": "Sono anni che sono partito per inseguire le promesse di Eulmore, ma non sono più vicino a varcare quel portone di quando ho cominciato." },
-    { "gameKey": "quest/033/LucKza010_03352#TEXT_LUCKZA010_03352_GRIMYMAN03352_000_014", "hash": "B6215F2272A0D760", "target": "Sono anni che sono partito per inseguire le promesse di Eulmore: suppongo di essermi abituato fin troppo alla vita qui a Gatetown." },
+    { "gameKey": "quest/033/LucKza010_03352#TEXT_LUCKZA010_03352_GRIMYMAN03352_000_014", "hash": "B6215F2272A0D760", "target": "Sono anni che sono partito per inseguire le promesse di Eulmore: suppongo di essermi abituato fin troppo alla vita qui al Borgo della Porta." },
     { "gameKey": "quest/033/LucKza010_03352#TEXT_LUCKZA010_03352_GRIMYMAN03352_000_015", "hash": "E74E55E07C4EE897", "target": "Forse è ora di rinunciare ai sogni vuoti e tornare a casa dalla mia vecchia mamma...<br>Comunque, grazie per l'uccello!" }
   ]
 }

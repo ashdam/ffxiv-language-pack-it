@@ -3,9 +3,9 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKzi013_03549#TEXT_LUCKZI013_03549_SEQ_00", "hash": "936C0F624483E723", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Gli occhi di Giritt si illuminano al tuo arrivo." },
-    { "gameKey": "quest/035/LucKzi013_03549#TEXT_LUCKZI013_03549_TODO_00", "hash": "9598F4F68A643EB9", "target": "Usare la box of custom-made explosives per far saltare il tempting bedrock" },
-    { "gameKey": "quest/035/LucKzi013_03549#TEXT_LUCKZI013_03549_TODO_01", "hash": "E0510B73A56A094D", "target": "Raccogliere chunks of twinkling ore" },
-    { "gameKey": "quest/035/LucKzi013_03549#TEXT_LUCKZI013_03549_TODO_02", "hash": "2C140C4267FF8882", "target": "Consegnare i chunks of twinkling ore a Giritt" },
+    { "gameKey": "quest/035/LucKzi013_03549#TEXT_LUCKZI013_03549_TODO_00", "hash": "9598F4F68A643EB9", "target": "Usare la box of custom-made explosives per far saltare la roccia allettante" },
+    { "gameKey": "quest/035/LucKzi013_03549#TEXT_LUCKZI013_03549_TODO_01", "hash": "E0510B73A56A094D", "target": "Raccogliere pezzi di minerale scintillante" },
+    { "gameKey": "quest/035/LucKzi013_03549#TEXT_LUCKZI013_03549_TODO_02", "hash": "2C140C4267FF8882", "target": "Consegnare i pezzi di minerale scintillante a Giritt" },
     { "gameKey": "quest/035/LucKzi013_03549#TEXT_LUCKZI013_03549_GIRITT_000_000", "hash": "27D7061AED300D5F", "target": "Lali-ho! Oh, sei <switch(gnum71,la persona in visita,la persona in visita,<if(gnum4,la nana,il nano)>,la persona in visita,la persona in visita,la persona in visita,la persona in visita,la persona in visita)> che viene da... qualche terra lontana. Dimmi: ti piacciono le esplosioni?" },
     { "gameKey": "quest/035/LucKzi013_03549#TEXT_LUCKZI013_03549_GIRITT_000_001", "hash": "103A336E3256B169", "target": "...Quel brivido nervoso quando lanci una bomba appena costruita? La <italic(1)>soddisfazione<italic(0)> di frantumare uno strato di roccia in minuscoli pezzetti!? Compatisco le povere anime che non hanno mai conosciuto tanta gioia!" },
     { "gameKey": "quest/035/LucKzi013_03549#TEXT_LUCKZI013_03549_GIRITT_000_002", "hash": "D536DD8BA017C6F9", "target": "Sei <if(gnum4,una ragazza,un ragazzo)> di mondo, vero? Prometti di non farmi prediche sul «pericolo» e sullo «spaventare i piccoli barbuti» come i miei vicini rammolliti, e ti lascerò provare la mia ultima partita di esplosivi!" },

@@ -3,9 +3,9 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/033/LucKza011_03353#TEXT_LUCKZA011_03353_SEQ_00", "hash": "D8E126EB3621083C", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Tio-Reeq arriccia il naso, contrariato." },
-    { "gameKey": "quest/033/LucKza011_03353#TEXT_LUCKZA011_03353_TODO_00", "hash": "DD156BD949775719", "target": "Raccogliere mazzetti di Kholusian sage vicino al Clave" },
-    { "gameKey": "quest/033/LucKza011_03353#TEXT_LUCKZA011_03353_TODO_01", "hash": "956EAAE26DE5B7A8", "target": "Consegnare i mazzetti di Kholusian sage a Tio-Reeq" },
-    { "gameKey": "quest/033/LucKza011_03353#TEXT_LUCKZA011_03353_TODO_02", "hash": "DCB27112199AABBF", "target": "Usare il sachet of Kholusian sage nel luogo indicato" },
+    { "gameKey": "quest/033/LucKza011_03353#TEXT_LUCKZA011_03353_TODO_00", "hash": "DD156BD949775719", "target": "Raccogliere mazzetti di salvia di Kholusia vicino al Clave" },
+    { "gameKey": "quest/033/LucKza011_03353#TEXT_LUCKZA011_03353_TODO_01", "hash": "956EAAE26DE5B7A8", "target": "Consegnare i mazzetti di salvia di Kholusia a Tio-Reeq" },
+    { "gameKey": "quest/033/LucKza011_03353#TEXT_LUCKZA011_03353_TODO_02", "hash": "DCB27112199AABBF", "target": "Usare il sacchetto di salvia di Kholusia nel luogo indicato" },
     { "gameKey": "quest/033/LucKza011_03353#TEXT_LUCKZA011_03353_TODO_03", "hash": "63F1E538F3B280A0", "target": "Fare rapporto a Tio-Reeq" },
     { "gameKey": "quest/033/LucKza011_03353#TEXT_LUCKZA011_03353_TIOREEQ_000_001", "hash": "14D9418E035DB1C9", "target": "Ugh... Oh, il mio povero naso sensibile! Non senti quella terribile <italic(1)>puzza<italic(0)>!?" },
     { "gameKey": "quest/033/LucKza011_03353#TEXT_LUCKZA011_03353_TIOREEQ_000_002", "hash": "825694AD764E6445", "target": "Qui ci serve un sacchetto di salvia di Kholusia macinata, collocato strategicamente. Il problema è che non sono proprio disposto a morire per procurarmi quell'erba." },
@@ -21,7 +21,7 @@
     { "gameKey": "quest/033/LucKza011_03353#TEXT_LUCKZA011_03353_SYSTEM_000_020", "hash": "1029F1C0A8B7F44D", "target": "Le esalazioni fetide che permeano l'aria lasciano lentamente il posto a un profumo gradevole e rinfrescante..." },
     { "gameKey": "quest/033/LucKza011_03353#TEXT_LUCKZA011_03353_TIOREEQ_000_030", "hash": "C21F6F4936BB4896", "target": "Il mio sacchetto è risultato vincitore in quella gara di fragranze?" },
     { "gameKey": "quest/033/LucKza011_03353#TEXT_LUCKZA011_03353_TIOREEQ_000_031", "hash": "64E2C07FE153C136", "target": "Bene, mi fa piacere sentirlo! Continuerò a fabbricare questi sacchetti di salvia e a nasconderli qua e là." },
-    { "gameKey": "quest/033/LucKza011_03353#TEXT_LUCKZA011_03353_TIOREEQ_000_032", "hash": "3377221C120ECC59", "target": "Il fatto è che gli abitanti di Gatetown rovistano spesso fra i rifiuti gettati dai cittadini liberi di Eulmore." },
+    { "gameKey": "quest/033/LucKza011_03353#TEXT_LUCKZA011_03353_TIOREEQ_000_032", "hash": "3377221C120ECC59", "target": "Il fatto è che gli abitanti del Borgo della Porta rovistano spesso fra i rifiuti gettati dai cittadini liberi di Eulmore." },
     { "gameKey": "quest/033/LucKza011_03353#TEXT_LUCKZA011_03353_TIOREEQ_000_033", "hash": "AC72D7CCABA602B2", "target": "Gli oggetti così recuperati, però, hanno trascorso parecchio tempo ad ammuffire fra la vera spazzatura... Da qui l'odore sgradevole che sono stato costretto a sopportare. Ma non più!" },
     { "gameKey": "quest/033/LucKza011_03353#TEXT_LUCKZA011_03353_TIOREEQ_000_034", "hash": "3DCBDD8C2A596AEA", "target": "Grazie a te, il mio olfatto sarà risparmiato. Ti prego, accetta questo dono per il disturbo!" }
   ]

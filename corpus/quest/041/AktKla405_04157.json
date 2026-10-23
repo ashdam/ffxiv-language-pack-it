@@ -76,12 +76,12 @@
     { "gameKey": "quest/041/AktKla405_04157#TEXT_AKTKLA405_04157_TANKIN_100_100", "hash": "AD9A8DF6BDDC77B9", "target": "Cosa posso fare per confortarla?" },
     { "gameKey": "quest/041/AktKla405_04157#TEXT_AKTKLA405_04157_TANKIN_110_100", "hash": "DCD3AF4BB8750AD4", "target": "Ci sono!" },
     { "gameKey": "quest/041/AktKla405_04157#TEXT_AKTKLA405_04157_TANKIN_000_101", "hash": "E3171DACE4BC662B", "target": "Mi dispiace molto chiedertelo, ma vorrei far realizzare un fermaglio per Hinageshi per tirarle su il morale. Potrei chiederti di procurare il materiale necessario?" },
-    { "gameKey": "quest/041/AktKla405_04157#TEXT_AKTKLA405_04157_TANKIN_100_101", "hash": "0D09C9FCA913FB7C", "target": "Si dice che il Ruby Sea sia un tesoro di risorse. Forse puoi trovare qualcosa lungo la riva o sotto le onde." },
+    { "gameKey": "quest/041/AktKla405_04157#TEXT_AKTKLA405_04157_TANKIN_100_101", "hash": "0D09C9FCA913FB7C", "target": "Si dice che il Mare di Rubino sia un tesoro di risorse. Forse puoi trovare qualcosa lungo la riva o sotto le onde." },
     { "gameKey": "quest/041/AktKla405_04157#TEXT_AKTKLA405_04157_TANKIN_000_102", "hash": "698E617A4A12E325", "target": "Grazie. Sarei uno sciocco a lasciarla sola, quindi aspetterò qui con lei fino al tuo ritorno." },
     { "gameKey": "quest/041/AktKla405_04157#TEXT_AKTKLA405_04157_SYSTEM_100_102", "hash": "8EA79665F040D97C", "target": "Il hairpin material necessario si può trovare a Hells' Lid." },
     { "gameKey": "quest/041/AktKla405_04157#TEXT_AKTKLA405_04157_SYSTEM_110_102", "hash": "76FFA7B5B7CA707A", "target": "Il hairpin material necessario si può trovare a Onokoro." },
     { "gameKey": "quest/041/AktKla405_04157#TEXT_AKTKLA405_04157_HINAGESHI_000_110", "hash": "0DB4D5F69ECB6BC6", "target": "Mi dispiace terribilmente per tutto questo. Il nostro soggiorno doveva essere breve, e invece vi ho fatto perdere così tanto tempo..." },
-    { "gameKey": "quest/041/AktKla405_04157#TEXT_AKTKLA405_04157_TANKIN_000_120", "hash": "E0268C905B19475E", "target": "Si dice che il Ruby Sea sia un tesoro di risorse naturali. Sono certo che lì troverai ciò che mi occorre." },
+    { "gameKey": "quest/041/AktKla405_04157#TEXT_AKTKLA405_04157_TANKIN_000_120", "hash": "E0268C905B19475E", "target": "Si dice che il Mare di Rubino sia un tesoro di risorse naturali. Sono certo che lì troverai ciò che mi occorre." },
     { "gameKey": "quest/041/AktKla405_04157#TEXT_AKTKLA405_04157_TANKIN_000_130", "hash": "F89ECDF3E5AB511B", "target": "Assolutamente splendido!" },
     { "gameKey": "quest/041/AktKla405_04157#TEXT_AKTKLA405_04157_TANKIN_100_130", "hash": "D82160A14D398542", "target": "Non perderò tempo a portarlo da un artigiano. Ti prego di tenere compagnia a Hinageshi qui mentre sono via." },
     { "gameKey": "quest/041/AktKla405_04157#TEXT_AKTKLA405_04157_HINAGESHI_000_131", "hash": "F4575F70A1088F24", "target": "Dove sarà corso il professore? \\<sospiro> Suppongo non abbia importanza. Sarei soltanto d'intralcio se continuassi ad accompagnarlo." },
@@ -97,7 +97,7 @@
     { "gameKey": "quest/041/AktKla405_04157#TEXT_AKTKLA405_04157_HINAGESHI_000_141", "hash": "B7AB94FBC360F8A8", "target": "Grazie, professore. Non vedo l'ora!" },
     { "gameKey": "quest/041/AktKla405_04157#TEXT_AKTKLA405_04157_HINAGESHI_000_150", "hash": "7657AA9E4BEA033C", "target": "Ho appena trascorso un momento meraviglioso chiacchierando con i frequentatori delle terme." },
     { "gameKey": "quest/041/AktKla405_04157#TEXT_AKTKLA405_04157_TANKIN_000_160", "hash": "8006A12D320A91F8", "target": "Le terme erano splendide, anche se è stato il panorama a togliermi il fiato." },
-    { "gameKey": "quest/041/AktKla405_04157#TEXT_AKTKLA405_04157_TANKIN_000_161", "hash": "F691E6728CAAA12F", "target": "Fatico ancora a credere che dall'altra parte di questo oceano si trovino Doma e l'Azim Steppe, la terra dei miei antenati." },
+    { "gameKey": "quest/041/AktKla405_04157#TEXT_AKTKLA405_04157_TANKIN_000_161", "hash": "F691E6728CAAA12F", "target": "Fatico ancora a credere che dall'altra parte di questo oceano si trovino Doma e la Steppa di Azim, la terra dei miei antenati." },
     { "gameKey": "quest/041/AktKla405_04157#TEXT_AKTKLA405_04157_TANKIN_000_162", "hash": "37D255B01182D89E", "target": "Quanto mi piacerebbe andarci almeno una volta, per vedere di persona come vivono i nomadi." },
     { "gameKey": "quest/041/AktKla405_04157#TEXT_AKTKLA405_04157_HINAGESHI_000_163", "hash": "F7A42C5CF2F4EB71", "target": "Ci andrete, professore. Un giorno. E quando accadrà, sarò al vostro fianco!" },
     { "gameKey": "quest/041/AktKla405_04157#TEXT_AKTKLA405_04157_TANKIN_000_164", "hash": "85ADA1EDF30A0E0F", "target": "Mi piacerebbe moltissimo." },
@@ -108,6 +108,6 @@
     { "gameKey": "quest/041/AktKla405_04157#TEXT_AKTKLA405_04157_HINAGESHI_000_181", "hash": "F419B412A8DE0BA0", "target": "Spero che anche voi abbiate un posto da chiamare casa?" },
     { "gameKey": "quest/041/AktKla405_04157#TEXT_AKTKLA405_04157_HINAGESHI_000_182", "hash": "04D515A3D3B88EE9", "target": "Allora vi invito a tornarci e a concedervi un meritato riposo. Mi farò risentire quando saremo pronti a riprendere il lavoro." },
     { "gameKey": "quest/041/AktKla405_04157#TEXT_AKTKLA405_04157_SYSTEM_000_190", "hash": "1E3D37CEE9BC182E", "target": "La prossima missione sarà disponibile presso Hinageshi al raggiungimento del livello 88 come Miner o Botanist." },
-    { "gameKey": "quest/041/AktKla405_04157#TEXT_AKTKLA405_04157_SYSTEM_000_200", "hash": "CE83DE706960B1D6", "target": "Per intraprendere la missione successiva, devi prima completare la missione dello scenario principale “Hunger in the Garden”." }
+    { "gameKey": "quest/041/AktKla405_04157#TEXT_AKTKLA405_04157_SYSTEM_000_200", "hash": "CE83DE706960B1D6", "target": "Per intraprendere la missione successiva, devi prima completare la missione dello scenario principale “Fame nel giardino”." }
   ]
 }

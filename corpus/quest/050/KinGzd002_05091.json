@@ -3,8 +3,8 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/050/KinGzd002_05091#TEXT_KINGZD002_05091_SEQ_00", "hash": "D05A9FFE7B4C104A", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>La nuotatrice speranzosa cerca qualcuno con polmoni leggendari." },
-    { "gameKey": "quest/050/KinGzd002_05091#TEXT_KINGZD002_05091_TODO_00", "hash": "379B0BB18ACD405A", "target": "Cercare il waterlogged coinpurse a Xd'aa Talat Tsoly" },
-    { "gameKey": "quest/050/KinGzd002_05091#TEXT_KINGZD002_05091_TODO_01", "hash": "46D828D2BB9ED37F", "target": "Consegnare il waterlogged coinpurse alla nuotatrice speranzosa" },
+    { "gameKey": "quest/050/KinGzd002_05091#TEXT_KINGZD002_05091_TODO_00", "hash": "379B0BB18ACD405A", "target": "Cercare il borsellino fradicio a Xd'aa Talat Tsoly" },
+    { "gameKey": "quest/050/KinGzd002_05091#TEXT_KINGZD002_05091_TODO_01", "hash": "46D828D2BB9ED37F", "target": "Consegnare il borsellino fradicio alla nuotatrice speranzosa" },
     { "gameKey": "quest/050/KinGzd002_05091#TEXT_KINGZD002_05091_SWIMXBRAAL05091_000_000", "hash": "FC401F1A33A3ECD5", "target": "Oh, ciao. Sei qui anche tu per fare un tuffo? Se nuoti bene quanto sembra, c'è una cosa per cui vorrei il tuo aiuto." },
     { "gameKey": "quest/050/KinGzd002_05091#TEXT_KINGZD002_05091_SWIMXBRAAL05091_000_001", "hash": "25A7CDB0D315E7C1", "target": "Quello che vedi è uno tsoly, o cenote, come vengono chiamati più comunemente. È molto più vasto di quanto sembri dalla superficie. Ho persino sentito che alcuni sono collegati da gallerie sommerse." },
     { "gameKey": "quest/050/KinGzd002_05091#TEXT_KINGZD002_05091_SWIMXBRAAL05091_000_002", "hash": "29F767A658B90832", "target": "Questo si chiama Xd'aa Talat Tsoly. Le storie raccontano che molto tempo fa un nuotatore dai polmoni di pesce riuscì ad arrivare fino a un cenote a nord-ovest. Ma da allora nessuno è riuscito a nuotare così lontano..." },

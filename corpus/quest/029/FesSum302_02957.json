@@ -2,18 +2,18 @@
   "conversation": "quest/029/FesSum302_02957",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_SEQ_00", "hash": "59F8B097633C8D1D", "target": "" },
-    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_SEQ_01", "hash": "80A7E43A7A580B4D", "target": "" },
-    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_SEQ_02", "hash": "07BB4E604BF4A42C", "target": "" },
-    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_SEQ_03", "hash": "069A963A7A5C590D", "target": "" },
-    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_TODO_00", "hash": "CE7F078298A6F130", "target": "" },
-    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_TODO_01", "hash": "7C2F61DF5234384D", "target": "" },
-    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_POBYANO_000_000", "hash": "DD166AE651D1A60F", "target": "" },
-    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_POBYANO_000_001", "hash": "95571C65C3875538", "target": "" },
-    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_POBYANO_000_002", "hash": "FFFBD07625C72D59", "target": "" },
-    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_POBYANO_000_010", "hash": "8A13DFE69A9B44BE", "target": "" },
-    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_POBYANO_000_011", "hash": "FA3D8C9A5FFFD401", "target": "" },
-    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_POBYANO_000_020", "hash": "2D818A44B53B653A", "target": "" },
-    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_POBYANO_000_030", "hash": "B784FE3B151616DE", "target": "" }
+    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_SEQ_00", "hash": "59F8B097633C8D1D", "target": "P'obyano cerca un avventuriero che aiuti con i fuochi d'artificio della Festa del Fuoco Lunare.<br>※Questa missione è disponibile solo per un periodo limitato." },
+    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_SEQ_01", "hash": "80A7E43A7A580B4D", "target": "P'obyano ti chiede di aiutare ad accendere i fuochi d'artificio per la Festa del Fuoco Lunare. Usa il fuoco d'artificio estivo su tre mortai per fuochi d'artificio nei pressi dell'Isle of Endless Summer.<br><br>※Non potrai completare questa missione una volta concluso l'evento stagionale. Per ulteriori informazioni, consulta Lodestone." },
+    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_SEQ_02", "hash": "07BB4E604BF4A42C", "target": "Hai usato il fuoco d'artificio estivo sui mortai per fuochi d'artificio. Torna da P'obyano sull'Isle of Endless Summer e fai rapporto." },
+    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_SEQ_03", "hash": "069A963A7A5C590D", "target": "Hai riferito a P'obyano ciò che hai fatto. Parlale di nuovo se vuoi dare ancora una mano con i fuochi d'artificio della Festa del Fuoco Lunare." },
+    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_TODO_00", "hash": "CE7F078298A6F130", "target": "Usare il fuoco d'artificio estivo su un mortaio pirotecnico" },
+    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_TODO_01", "hash": "7C2F61DF5234384D", "target": "Fare rapporto a P'obyano" },
+    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_POBYANO_000_000", "hash": "DD166AE651D1A60F", "target": "Vuoi darci ancora una mano? Non sarò certo io a rifiutare un'offerta d'aiuto. Ti andrebbe di accendere altri fuochi d'artificio per noi?" },
+    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_POBYANO_000_001", "hash": "95571C65C3875538", "target": "Nel caso avessi dimenticato come si fa, devi solo gettare un fuoco d'artificio estivo in un mortaio per fuochi d'artificio vicino al punto in cui si radunano i partecipanti alla festa." },
+    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_POBYANO_000_002", "hash": "FFFBD07625C72D59", "target": "Non serve più che tu parli con Jiriri. Questa volta, però, ti chiedo di accendere i fuochi d'artificio in tre posti anziché uno solo. Cerca di non accaldarti troppo!" },
+    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_POBYANO_000_010", "hash": "8A13DFE69A9B44BE", "target": "Non ne hai mai abbastanza di questi fuochi d'artificio, vero, <split(<string(gstr1)>, ,1)>? Molto bene, non sarò certo io a lamentarmi." },
+    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_POBYANO_000_011", "hash": "FA3D8C9A5FFFD401", "target": "Il compito è lo stesso di prima. Accendi i fuochi gettando un fuoco d'artificio estivo in un mortaio vicino al punto in cui si radunano i partecipanti alla festa. Io terrò d'occhio il cielo." },
+    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_POBYANO_000_020", "hash": "2D818A44B53B653A", "target": "Ricorda: devi gettare i fuochi d'artificio estivi in tre mortai per fuochi d'artificio. Il pubblico aspetta. Sbrigati!" },
+    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_POBYANO_000_030", "hash": "B784FE3B151616DE", "target": "Un altro lavoro ben fatto. Grazie, <split(<string(gstr1)>, ,1)>. Se vorrai aiutarci ancora, sai dove trovarmi. Nel frattempo, buona Festa del Fuoco Lunare!" }
   ]
 }

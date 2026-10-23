@@ -2,12 +2,12 @@
   "conversation": "custom/000/CmnDefWarpNpc_00026",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/000/CmnDefWarpNpc_00026#TEXT_CMNDEFWARPNPC_00026_TALK_ACTOR0", "hash": "662FF2FD7F516737", "target": "Sto per attraversare il lago fino a Molo dei Dolcefiori, nell'East Shroud." },
-    { "gameKey": "custom/000/CmnDefWarpNpc_00026#TEXT_CMNDEFWARPNPC_00026_TALK_ACTOR1", "hash": "8432CBB78057EA4B", "target": "Stavo proprio per tornare a Old Gridania." },
+    { "gameKey": "custom/000/CmnDefWarpNpc_00026#TEXT_CMNDEFWARPNPC_00026_TALK_ACTOR0", "hash": "662FF2FD7F516737", "target": "Sto per attraversare il lago fino a Molo dei Dolcefiori, nel Sudario Orientale." },
+    { "gameKey": "custom/000/CmnDefWarpNpc_00026#TEXT_CMNDEFWARPNPC_00026_TALK_ACTOR1", "hash": "8432CBB78057EA4B", "target": "Stavo proprio per tornare a Vecchia Gridania." },
     { "gameKey": "custom/000/CmnDefWarpNpc_00026#TEXT_CMNDEFWARPNPC_00026_YESNO_QUESTION", "hash": "2F186051F4043A4F", "target": "Salire sul traghetto?" },
     { "gameKey": "custom/000/CmnDefWarpNpc_00026#TEXT_CMNDEFWARPNPC_00026_YESNO_YES", "hash": "A3471A7FFDCB3A36", "target": "Sì" },
     { "gameKey": "custom/000/CmnDefWarpNpc_00026#TEXT_CMNDEFWARPNPC_00026_YESNO_NO", "hash": "492F0F925342FB99", "target": "No" },
-    { "gameKey": "custom/000/CmnDefWarpNpc_00026#TEXT_CMNDEFWARPNPC_00026_LOCK", "hash": "C1BDB577375B2AD3", "target": "Faccio servizio sul traghetto per Molo dei Dolcefiori da prima della Calamità. Ricordo quando l'East Shroud era un posto tranquillo e pacifico, ma ora pullula di creature terribili d'ogni genere." },
+    { "gameKey": "custom/000/CmnDefWarpNpc_00026#TEXT_CMNDEFWARPNPC_00026_LOCK", "hash": "C1BDB577375B2AD3", "target": "Faccio servizio sul traghetto per Molo dei Dolcefiori da prima della Calamità. Ricordo quando il Sudario Orientale era un posto tranquillo e pacifico, ma ora pullula di creature terribili d'ogni genere." },
     { "gameKey": "custom/000/CmnDefWarpNpc_00026#TEXT_CMNDEFWARPNPC_00026_LOCK2", "hash": "581F54046369D4E2", "target": "Non dormirei la notte sapendo di aver lasciato <if(gnum4,una povera ragazza,un povero ragazzo)> come te sull'altra sponda, solo per finire tra le zanne di un cinghiale famelico. Perché non fai ancora un po' d'esperienza? Poi vedremo se sarà il caso di portarti di là." }
   ]
 }

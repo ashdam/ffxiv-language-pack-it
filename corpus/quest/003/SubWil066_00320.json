@@ -53,7 +53,7 @@
     { "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_BRASSSENTRY_000_57", "hash": "0F0F258550DD231B", "target": "L'abbiamo trovata! Abbiamo trovato la vena! Wystan, dovete venire a vedere!" },
     { "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_WYSTAN_000_58", "hash": "CBD009A2B06A447C", "target": "Già!? Fantastico! Partiamo subito!" },
     { "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_WYSTAN_000_59", "hash": "C01E7CB60E6F2001", "target": "Dovresti venire con me, <if(gnum4,amica mia,amico mio)>! Vieni a essere testimone della storia che si fa!" },
-    { "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_INSTANCE_BATTLE_YESNO_TITLE", "hash": "83280C17B5DBB88E", "target": "Il dovere chiama. Vuoi procedere con<br>«Way Down in the Hole»?" },
+    { "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_INSTANCE_BATTLE_YESNO_TITLE", "hash": "83280C17B5DBB88E", "target": "Il dovere chiama. Vuoi procedere con<br>«Giù in fondo al buco»?" },
     { "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_INSTANCE_BATTLE_YESNO_YES", "hash": "2973C59A4F2D502D", "target": "Sì" },
     { "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_INSTANCE_BATTLE_YESNO_NO", "hash": "8E3AF9B80C6A5020", "target": "No" },
     { "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_BRASSSENTRY_000_500", "hash": "B53B62560BA39CD0", "target": "Per le palle di Thal, ragazzo! Una vena di minerale in mezzo alle rovine di una <italic(1)>città<italic(0)>? Idiota maledetto!" },

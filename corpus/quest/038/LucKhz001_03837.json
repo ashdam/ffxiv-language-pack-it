@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/038/LucKhz001_03837#TEXT_LUCKHZ001_03837_SEQ_00", "hash": "3875453DEDE3D312", "target": "Ehll Tou è ansiosa di imparare." },
     { "gameKey": "quest/038/LucKhz001_03837#TEXT_LUCKHZ001_03837_TODO_00", "hash": "5A8BFA5000E98972", "target": "Parlare con Ehll Tou vicino al Vault" },
-    { "gameKey": "quest/038/LucKhz001_03837#TEXT_LUCKHZ001_03837_TODO_01", "hash": "004BBC4BD64D9840", "target": "Parlare con Ehll Tou a Falcon's Nest" },
+    { "gameKey": "quest/038/LucKhz001_03837#TEXT_LUCKHZ001_03837_TODO_01", "hash": "004BBC4BD64D9840", "target": "Parlare con Ehll Tou al Nido del Falco" },
     { "gameKey": "quest/038/LucKhz001_03837#TEXT_LUCKHZ001_03837_TODO_02", "hash": "938DC32882F729B5", "target": "Parlare con Ehll Tou nel Firmament" },
     { "gameKey": "quest/038/LucKhz001_03837#TEXT_LUCKHZ001_03837_EHLLTOU_000_000", "hash": "93C253CEFBC9BEDB", "target": "Ah, <if(gnum4,eroina,eroe)>, arrivi al momento giusto. Ho una domanda per te." },
     { "gameKey": "quest/038/LucKhz001_03837#TEXT_LUCKHZ001_03837_EHLLTOU_000_001", "hash": "1E6833D22E202867", "target": "Come sai, discendo da Ratatoskr e, come lei, voglio riempire i cieli di canti meravigliosi." },
@@ -24,7 +24,7 @@
     { "gameKey": "quest/038/LucKhz001_03837#TEXT_LUCKHZ001_03837_EHLLTOU_000_024", "hash": "E4F53DB820E86F63", "target": "Altri si sarebbero abbandonati alla disperazione, ma tu hai fatto di quella perdita la tua forza e hai proseguito. Sì, come si addice a <if(gnum4,un'eroina,un eroe)>." },
     { "gameKey": "quest/038/LucKhz001_03837#TEXT_LUCKHZ001_03837_EHLLTOU_000_025", "hash": "1DB88E67A8217DAF", "target": "Se non vuoi parlarne, non insisterò. Una storia raccontata controvoglia non diventerebbe il genere di canto che desidero condividere." },
     { "gameKey": "quest/038/LucKhz001_03837#TEXT_LUCKHZ001_03837_EHLLTOU_000_026", "hash": "ED401914D3325C5D", "target": "Bene, per il Vault può bastare." },
-    { "gameKey": "quest/038/LucKhz001_03837#TEXT_LUCKHZ001_03837_EHLLTOU_000_027", "hash": "53D368868CA0B716", "target": "Andiamo ora nel luogo chiamato Falcon's Nest. Vorrei vedere il famoso bassorilievo che simboleggia la pace tra uomini e draghi." },
+    { "gameKey": "quest/038/LucKhz001_03837#TEXT_LUCKHZ001_03837_EHLLTOU_000_027", "hash": "53D368868CA0B716", "target": "Andiamo ora nel luogo chiamato Nido del Falco. Vorrei vedere il famoso bassorilievo che simboleggia la pace tra uomini e draghi." },
     { "gameKey": "quest/038/LucKhz001_03837#TEXT_LUCKHZ001_03837_HAUTDLONG_000_030", "hash": "4FA85039C13DA3DA", "target": "Dunque quel drago vuole conoscere Ishgard..." },
     { "gameKey": "quest/038/LucKhz001_03837#TEXT_LUCKHZ001_03837_EHLLTOU_000_040", "hash": "B7780E2D16D36F73", "target": "Quindi è questo il bassorilievo... Ho già visto le opere d'arte degli uomini, ma mi sembra un modo curioso di esprimere i sentimenti. D'altra parte, la vostra abilità artistica è innegabile." },
     { "gameKey": "quest/038/LucKhz001_03837#TEXT_LUCKHZ001_03837_EHLLTOU_000_041", "hash": "F566CA297965099B", "target": "Eppure, per quanto grandioso, è avvolto da un odore di tristezza. Un odore di sangue. Quello di Vidofnir e di altri..." },

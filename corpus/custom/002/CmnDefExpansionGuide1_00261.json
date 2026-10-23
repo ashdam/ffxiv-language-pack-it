@@ -4,8 +4,8 @@
   "entries": [
     { "gameKey": "custom/002/CmnDefExpansionGuide1_00261#TEXT_CMNDEFEXPANSIONGUIDE1_00261_TEMPLEKNIGHT01580_000_000", "hash": "B43F6FD7367148CE", "target": "Nessuno può varcare le Porte del Giudizio senza averne ottenuto il permesso." },
     { "gameKey": "custom/002/CmnDefExpansionGuide1_00261#TEXT_CMNDEFEXPANSIONGUIDE1_00261_SYSTEM_000_001", "hash": "3DC41FFEE41FF26E", "target": "Per entrare a Ishgard devi prima soddisfare i seguenti requisiti:" },
-    { "gameKey": "custom/002/CmnDefExpansionGuide1_00261#TEXT_CMNDEFEXPANSIONGUIDE1_00261_SYSTEM_000_003", "hash": "F501ECA4C5AB8ED6", "target": "※Devi aver completato la missione della storia principale «Before the Dawn»." },
-    { "gameKey": "custom/002/CmnDefExpansionGuide1_00261#TEXT_CMNDEFEXPANSIONGUIDE1_00261_SYSTEM_000_004", "hash": "0CED73068A796FF2", "target": "※ Devi avere in corso la missione «Coming to Ishgard»." },
+    { "gameKey": "custom/002/CmnDefExpansionGuide1_00261#TEXT_CMNDEFEXPANSIONGUIDE1_00261_SYSTEM_000_003", "hash": "F501ECA4C5AB8ED6", "target": "※Devi aver completato la missione della storia principale «Prima dell'alba»." },
+    { "gameKey": "custom/002/CmnDefExpansionGuide1_00261#TEXT_CMNDEFEXPANSIONGUIDE1_00261_SYSTEM_000_004", "hash": "0CED73068A796FF2", "target": "※ Devi avere in corso la missione «Arrivo a Ishgard»." },
     { "gameKey": "custom/002/CmnDefExpansionGuide1_00261#TEXT_CMNDEFEXPANSIONGUIDE1_00261_SYSTEM_000_005", "hash": "82CC14BF3F1AE291", "target": "Per controllare i progressi nelle missioni, seleziona <colortype(500)><edgecolortype(501)>Duty<edgecolortype(0)><colortype(0)> nel menu principale, poi <colortype(500)><edgecolortype(501)>Journal<edgecolortype(0)><colortype(0)>." }
   ]
 }

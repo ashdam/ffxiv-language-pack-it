@@ -12,7 +12,7 @@
     { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_004", "hash": "8E29082F388FA463", "target": "Su, <if(gnum4,ragazza,ragazzo)>, portami qualche catasta di legname e vedrai che ne varrà la pena!" },
     { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_010", "hash": "758474F8998BA793", "target": "Oh! O mi hai portato del legname, oppure hai intenzione di costruirti una capanna." },
     { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_011", "hash": "8FDF2E8D89582ECF", "target": "Grazie, <if(gnum4,ragazza,ragazzo)>: ora potrò finalmente tornare a costruire!" },
-    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_012", "hash": "393D77D09FC223C1", "target": "Il legno che mi hai portato è salito sulla Scala quando i nani erano più aperti al commercio. Amity era un terreno neutrale per concludere affari, sai, e un tempo c'erano piani per ampliare il villaggio." },
+    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_012", "hash": "393D77D09FC223C1", "target": "Il legno che mi hai portato è salito sulla Scala quando i nani erano più aperti al commercio. Concordia era un terreno neutrale per concludere affari, sai, e un tempo c'erano piani per ampliare il villaggio." },
     { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_013", "hash": "72B3553EB0F906DB", "target": "Quindi, direi che usiamo il legname per lo scopo previsto... anche se con qualche anno di ritardo! Stammi bene e grazie ancora per l'aiuto!" }
   ]
 }
