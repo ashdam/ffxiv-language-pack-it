@@ -2,7 +2,7 @@
   "conversation": "quest/027/StmBdz522_02773",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz522_02773#TEXT_STMBDZ522_02773_SEQ_00", "hash": "BDC65EF58DD643F2", "target": "Questa fanciulla Mol non vede l'ora di fare acquisti a Reunion." },
+    { "gameKey": "quest/027/StmBdz522_02773#TEXT_STMBDZ522_02773_SEQ_00", "hash": "BDC65EF58DD643F2", "target": "Questa fanciulla Mol non vede l'ora di fare acquisti al Ritrovo." },
     { "gameKey": "quest/027/StmBdz522_02773#TEXT_STMBDZ522_02773_TODO_00", "hash": "761D9EA7953FE1BF", "target": "Parlare con la fanciulla Mol" },
     { "gameKey": "quest/027/StmBdz522_02773#TEXT_STMBDZ522_02773_TODO_01", "hash": "E1C1E41CD20400AA", "target": "Ottenere le erbe" },
     { "gameKey": "quest/027/StmBdz522_02773#TEXT_STMBDZ522_02773_TODO_02", "hash": "23DDBF1FF8DC973A", "target": "Parlare con la fanciulla Mol" },
@@ -11,7 +11,7 @@
     { "gameKey": "quest/027/StmBdz522_02773#TEXT_STMBDZ522_02773_TODO_05", "hash": "89234A22D5AEF753", "target": "Ottenere i semi" },
     { "gameKey": "quest/027/StmBdz522_02773#TEXT_STMBDZ522_02773_TODO_06", "hash": "7867EBD9E90E07CA", "target": "Consegnare le erbe, le cesoie e i semi alla fanciulla Mol" },
     { "gameKey": "quest/027/StmBdz522_02773#TEXT_STMBDZ522_02773_ASSERTIVEWOMAN02773_000_000", "hash": "8D3097838456B74D", "target": "Potrei chiederti di accompagnarmi a fare acquisti?" },
-    { "gameKey": "quest/027/StmBdz522_02773#TEXT_STMBDZ522_02773_ASSERTIVEWOMAN02773_000_001", "hash": "F369DC2B72BDDD2D", "target": "L'udgan mi ha detto che oggi devo fare acquisti con <if(gnum4,un'avventuriera,un avventuriero)>. Raggiungimi a Reunion, se hai tempo." },
+    { "gameKey": "quest/027/StmBdz522_02773#TEXT_STMBDZ522_02773_ASSERTIVEWOMAN02773_000_001", "hash": "F369DC2B72BDDD2D", "target": "L'udgan mi ha detto che oggi devo fare acquisti con <if(gnum4,un'avventuriera,un avventuriero)>. Raggiungimi al Ritrovo, se hai tempo." },
     { "gameKey": "quest/027/StmBdz522_02773#TEXT_STMBDZ522_02773_ASSERTIVEWOMAN02773_000_010", "hash": "36A476CF9884EAE7", "target": "Grazie di essere <if(gnum4,venuta,venuto)>! Sono appena riuscita a comprare un sack of herbs a un ottimo prezzo." },
     { "gameKey": "quest/027/StmBdz522_02773#TEXT_STMBDZ522_02773_ASSERTIVEWOMAN02773_000_011", "hash": "BAEF8B323F08775A", "target": "Anche se non sono sicura di riuscire a portarle fino a Mol Iloh..." },
     { "gameKey": "quest/027/StmBdz522_02773#TEXT_STMBDZ522_02773_ASSERTIVEWOMAN02773_000_012", "hash": "B4DEC9F15F69F8EB", "target": "Pensi di poterle portare per me? Io vado a guardare quella bancarella laggiù. Grazie!" },

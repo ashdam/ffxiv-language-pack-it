@@ -87,6 +87,6 @@
     { "gameKey": "quest/040/AktKbb241_04078#TEXT_AKTKBB241_04078_DRUSILLA_000_081", "hash": "47FE522439691D78", "target": "Troppe chiacchiere rischiano di rendermi sentimentale. O peggio, di farmi venire gli occhi lucidi." },
     { "gameKey": "quest/040/AktKbb241_04078#TEXT_AKTKBB241_04078_DRUSILLA_000_082", "hash": "6977144B2B393DD7", "target": "Quindi fermiamoci qui, eh? Se mai ti stanchi del peso del mondo sulle spalle, sappi che le nostre porte saranno sempre aperte." },
     { "gameKey": "quest/040/AktKbb241_04078#TEXT_AKTKBB241_04078_DRUSILLA_000_083", "hash": "D14B17AFB5CB9BC5", "target": "E se hai bisogno di un orecchio che ti ascolti, di una spalla su cui piangere o di una bottiglia di roba forte in cui tuffarti, sarò proprio qui, <if(gnum4,sorella,fratello)>!" },
-    { "gameKey": "quest/040/AktKbb241_04078#TEXT_AKTKBB241_04078_SYSTEM_000_100", "hash": "756B3663949435F6", "target": "Per intraprendere questa missione, devi prima completare la missione dello scenario principale “Over the Wall”." }
+    { "gameKey": "quest/040/AktKbb241_04078#TEXT_AKTKBB241_04078_SYSTEM_000_100", "hash": "756B3663949435F6", "target": "Per intraprendere questa missione, devi prima completare la missione dello scenario principale “Oltre il muro”." }
   ]
 }

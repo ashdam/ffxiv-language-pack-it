@@ -7,7 +7,7 @@
     { "gameKey": "quest/025/StmBda402_02501#TEXT_STMBDA402_02501_TODO_01", "hash": "26FD30F5CC08DA0E", "target": "Consegnare le radici sussurranti a Cirina" },
     { "gameKey": "quest/025/StmBda402_02501#TEXT_STMBDA402_02501_CIRINA_000_010", "hash": "B9DB6FB06838CC60", "target": "Voi... volete aiutarmi, è così?" },
     { "gameKey": "quest/025/StmBda402_02501#TEXT_STMBDA402_02501_CIRINA_000_011", "hash": "9C1B28205C18DAF7", "target": "Non so cosa dire... Grazie, <split(<string(gstr1)>, ,1)>, grazie!" },
-    { "gameKey": "quest/025/StmBda402_02501#TEXT_STMBDA402_02501_CIRINA_000_012", "hash": "C3E0A8B46751D632", "target": "I bestioni che dobbiamo abbattere vagano nelle pianure a ovest di Reunion. Se raccogliamo due radici a testa, dovremmo avere abbastanza radici sussurranti." },
+    { "gameKey": "quest/025/StmBda402_02501#TEXT_STMBDA402_02501_CIRINA_000_012", "hash": "C3E0A8B46751D632", "target": "I bestioni che dobbiamo abbattere vagano nelle pianure a ovest del Ritrovo. Se raccogliamo due radici a testa, dovremmo avere abbastanza radici sussurranti." },
     { "gameKey": "quest/025/StmBda402_02501#TEXT_STMBDA402_02501_CIRINA_000_013", "hash": "DC62C6B6B2B872DB", "target": "Tornate qui quando avrete finito. Buona fortuna!" },
     { "gameKey": "quest/025/StmBda402_02501#TEXT_STMBDA402_02501_CIRINA_000_020", "hash": "C41B3B48EF34B57A", "target": "<if(gnum4,Bentornata,Bentornato)>, <split(<string(gstr1)>, ,1)>. Avete portato le radici sussurranti?" },
     { "gameKey": "quest/025/StmBda402_02501#TEXT_STMBDA402_02501_CIRINA_000_021", "hash": "E6939C48E5F5688D", "target": "Benedetto è chi mostra gentilezza agli estranei, poiché cavalcherà sempre con la fortuna al fianco." },

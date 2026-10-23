@@ -2,8 +2,8 @@
   "conversation": "dungeon/000/DungeonBorderarea_00000",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "dungeon/000/DungeonBorderarea_00000#TEXT_DUNGEONBORDERAREA_00000_IMPERIALGUARDRED_000_000", "hash": "1669ECD6F7E71FFB", "target": "" },
-    { "gameKey": "dungeon/000/DungeonBorderarea_00000#TEXT_DUNGEONBORDERAREA_00000_IMPERIALGUARDBLUE_000_001", "hash": "0C0F70B40A05122F", "target": "" },
-    { "gameKey": "dungeon/000/DungeonBorderarea_00000#TEXT_DUNGEONBORDERAREA_00000_IMPERIALGUARDRED_000_010", "hash": "31A2D4C4E7C6996F", "target": "" }
+    { "gameKey": "dungeon/000/DungeonBorderarea_00000#TEXT_DUNGEONBORDERAREA_00000_IMPERIALGUARDRED_000_000", "hash": "1669ECD6F7E71FFB", "target": "Questi <italic(1)>selvaggi<italic(0)> hanno sconfitto la nostra avanguardia? Notevole..." },
+    { "gameKey": "dungeon/000/DungeonBorderarea_00000#TEXT_DUNGEONBORDERAREA_00000_IMPERIALGUARDBLUE_000_001", "hash": "0C0F70B40A05122F", "target": "Ma in fondo restano soltanto questo─selvaggi.<br>Ora sbrighiamoci. Sua Maestà ci attende." },
+    { "gameKey": "dungeon/000/DungeonBorderarea_00000#TEXT_DUNGEONBORDERAREA_00000_IMPERIALGUARDRED_000_010", "hash": "31A2D4C4E7C6996F", "target": "Abbiamo assolto il nostro compito. Andiamo, per ora ritiriamoci." }
   ]
 }

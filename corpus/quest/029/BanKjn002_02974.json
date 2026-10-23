@@ -16,7 +16,7 @@
     { "gameKey": "quest/029/BanKjn002_02974#TEXT_BANKJN002_02974_TODO_03", "hash": "89C84C0047DBA55B", "target": "Seguire Kabuto" },
     { "gameKey": "quest/029/BanKjn002_02974#TEXT_BANKJN002_02974_TODO_04", "hash": "530A00DF7A11DE9B", "target": "Seguire Kabuto" },
     { "gameKey": "quest/029/BanKjn002_02974#TEXT_BANKJN002_02974_TODO_05", "hash": "D3F286511645184B", "target": "Parlare con Kabuto a Tamamizu" },
-    { "gameKey": "quest/029/BanKjn002_02974#TEXT_BANKJN002_02974_SYSTEM_000_000", "hash": "322629F21133551D", "target": "Per intraprendere questa missione, devi prima completare la missione dello scenario principale «A Silence in Three Parts»." },
+    { "gameKey": "quest/029/BanKjn002_02974#TEXT_BANKJN002_02974_SYSTEM_000_000", "hash": "322629F21133551D", "target": "Per intraprendere questa missione, devi prima completare la missione dello scenario principale «Un silenzio in tre parti»." },
     { "gameKey": "quest/029/BanKjn002_02974#TEXT_BANKJN002_02974_KABUTO_000_001", "hash": "8EA83F995B962326", "target": "Bene. Siete qui. Ci stiamo preparando a partire alla ricerca di tesori." },
     { "gameKey": "quest/029/BanKjn002_02974#TEXT_BANKJN002_02974_KABUTO_000_002", "hash": "A70A85DB6A624C56", "target": "\\<colpo di tosse> Vorreste... ehm..." },
     { "gameKey": "quest/029/BanKjn002_02974#TEXT_BANKJN002_02974_KABUTO_100_002", "hash": "C4D413939D197B4F", "target": "..." },
@@ -137,6 +137,6 @@
     { "gameKey": "quest/029/BanKjn002_02974#TEXT_BANKJN002_02974_SYSTEM_100_100", "hash": "63EBD6680C74C76C", "target": "Inoltre, potrai intraprendere tre missioni aggiuntive di Zukin come bonus di reputazione. Questo bonus è disponibile fino all'orario di azzeramento giornaliero delle missioni delle società alleate." },
     { "gameKey": "quest/029/BanKjn002_02974#TEXT_BANKJN002_02974_SYSTEM_100_101", "hash": "6A6FE9F4AF4726BF", "target": "Queste missioni aggiuntive diventeranno disponibili dopo aver accettato tutte le missioni giornaliere attuali di Zukin. Ricorda che non puoi intraprenderle se hai esaurito le disponibilità giornaliere." },
     { "gameKey": "quest/029/BanKjn002_02974#TEXT_BANKJN002_02974_SYSTEM_100_105", "hash": "CB87B660BDC5B45E", "target": "Ora puoi acquistare un assortimento più ampio di merci da Shikitahe." },
-    { "gameKey": "quest/029/BanKjn002_02974#TEXT_BANKJN002_02974_SYSTEM_100_000", "hash": "9D97706338ED5314", "target": "Per intraprendere la prossima missione principale delle società alleate, devi prima completare la missione dello scenario principale «Here There Be Xaela»." }
+    { "gameKey": "quest/029/BanKjn002_02974#TEXT_BANKJN002_02974_SYSTEM_100_000", "hash": "9D97706338ED5314", "target": "Per intraprendere la prossima missione principale delle società alleate, devi prima completare la missione dello scenario principale «Qui ci sono gli Xaela»." }
   ]
 }

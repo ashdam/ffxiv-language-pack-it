@@ -89,7 +89,7 @@
     { "gameKey": "quest/005/ClsPgl150_00558#TEXT_CLSPGL150_00558_QIB_001_CHUCHUTO_BATTLETALK_04", "hash": "C7923A3E29AE7E05", "target": "Bada agli ampi fendenti dei predoni!" },
     { "gameKey": "quest/005/ClsPgl150_00558#TEXT_CLSPGL150_00558_QIB_001_CHUCHUTO_BATTLETALK_05", "hash": "E0403DAECECB81B5", "target": "I pugilisti nemici colpiscono duro! Tieniti <if(gnum4,leggera,leggero)> sui piedi!" },
     { "gameKey": "quest/005/ClsPgl150_00558#TEXT_CLSPGL150_00558_QIB_001_RURUKUTA_BATTLETALK_01", "hash": "65C2BDA05CF57065", "target": "Inutili, quei dannati buoni a nulla...<br>Meglio fuggire, per ora." },
-    { "gameKey": "quest/005/ClsPgl150_00558#TEXT_CLSPGL150_00558_SCENE00012_INSTANCE_BATTLE_YESNO_TITLE", "hash": "E0F19C1BF9E11381", "target": "Il dovere chiama. Vuoi procedere con<br>«The Spirit Is Willing»?" },
+    { "gameKey": "quest/005/ClsPgl150_00558#TEXT_CLSPGL150_00558_SCENE00012_INSTANCE_BATTLE_YESNO_TITLE", "hash": "E0F19C1BF9E11381", "target": "Il dovere chiama. Vuoi procedere con<br>«Lo spirito è pronto»?" },
     { "gameKey": "quest/005/ClsPgl150_00558#TEXT_CLSPGL150_00558_SCENE00012_INSTANCE_BATTLE_YESNO_YES", "hash": "76EF3AEE8FCAB27B", "target": "Sì" },
     { "gameKey": "quest/005/ClsPgl150_00558#TEXT_CLSPGL150_00558_SCENE00012_INSTANCE_BATTLE_YESNO_NO", "hash": "8D680674D89651F1", "target": "No" }
   ]

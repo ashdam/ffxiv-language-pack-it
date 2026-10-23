@@ -4,8 +4,8 @@
   "entries": [
     { "gameKey": "quest/054/KinGwz202_05412#TEXT_KINGWZ202_05412_SEQ_00", "hash": "3540F357A01D5027", "target": "Il vetraio di Ishgard ha bisogno di toccare del vetro." },
     { "gameKey": "quest/054/KinGwz202_05412#TEXT_KINGWZ202_05412_TODO_00", "hash": "10D8041DEFFE1444", "target": "Parlare con il vetraio di Ishgard" },
-    { "gameKey": "quest/054/KinGwz202_05412#TEXT_KINGWZ202_05412_TODO_01", "hash": "FA1A35428A8120A0", "target": "Raccogliere fetching fragments" },
-    { "gameKey": "quest/054/KinGwz202_05412#TEXT_KINGWZ202_05412_TODO_02", "hash": "D9832081BBCA6C21", "target": "Consegnare i fetching fragments al vetraio di Ishgard" },
+    { "gameKey": "quest/054/KinGwz202_05412#TEXT_KINGWZ202_05412_TODO_01", "hash": "FA1A35428A8120A0", "target": "Raccogliere frammenti graziosi" },
+    { "gameKey": "quest/054/KinGwz202_05412#TEXT_KINGWZ202_05412_TODO_02", "hash": "D9832081BBCA6C21", "target": "Consegnare i frammenti graziosi al vetraio di Ishgard" },
     { "gameKey": "quest/054/KinGwz202_05412#TEXT_KINGWZ202_05412_TODO_03", "hash": "95E2B0BF6729947B", "target": "Parlare con il vetraio di Ishgard" },
     { "gameKey": "quest/054/KinGwz202_05412#TEXT_KINGWZ202_05412_GLASSCRAFTMAN05412_000_001", "hash": "86253CDEA616F008", "target": "Ah, <if(gnum4,un'avventuriera,un avventuriero)>! <if(gnum4,Un'avventuriera,Un avventuriero)> sul serio, intendo. Qui fuori siamo tutti avventurieri, in un certo senso, no?" },
     { "gameKey": "quest/054/KinGwz202_05412#TEXT_KINGWZ202_05412_GLASSCRAFTMAN05412_000_002", "hash": "0CBD28484B1860EC", "target": "In verità, però, sono un vetraio di Ishgard." },

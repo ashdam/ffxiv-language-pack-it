@@ -2,16 +2,16 @@
   "conversation": "opening/OpeningUldah",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_WYMOND_000_10", "hash": "2A5C316581CE46DA", "target": "" },
-    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_TUTUMOKO_000_10", "hash": "D8125B61818DEE05", "target": "" },
-    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_BUBUKKULI_000_05", "hash": "AF9C34872AEE4A46", "target": "" },
-    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_YUYUTAZI_000_10", "hash": "33DA039823399665", "target": "" },
-    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_WIL_SYSTEM_000_20", "hash": "E86CA3A1D168BC00", "target": "" },
-    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_WIL_SYSTEM_000_21", "hash": "8CAA87B68658ADAB", "target": "" },
-    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_WIL_SYSTEM_000_22", "hash": "C58246B33E85D61A", "target": "" },
-    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_FST_SYSTEM_000_23", "hash": "71928367B2440DE2", "target": "" },
-    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_FST_SYSTEM_Q_01", "hash": "361F61A12A1BCADE", "target": "" },
-    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_FST_SYSTEM_A_01", "hash": "5AB63CA164818077", "target": "" },
-    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_FST_SYSTEM_A_02", "hash": "7EBB6528D92BFF35", "target": "" }
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_WYMOND_000_10", "hash": "2A5C316581CE46DA", "target": "Non fare così! Ti prometto che ne varrà la pena!" },
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_TUTUMOKO_000_10", "hash": "D8125B61818DEE05", "target": "Ul'dah non è di tuo gradimento? Perché non approfitti dell'ospitalità del Quicksand prima di decidere di lasciarci?" },
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_BUBUKKULI_000_05", "hash": "AF9C34872AEE4A46", "target": "Alt! Non avete ancora fatto l'iscrizione alla gilda, vero? Lo immaginavo. Andate al Quicksand, <if(gnum4,avventuriera,avventuriero)>─l'iscrizione è obbligatoria." },
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_YUYUTAZI_000_10", "hash": "33DA039823399665", "target": "Ehi, non eravate sulla carrozza appena arrivata? Tutti i nuovi avventurieri devono iscriversi alla gilda prima di potersene andare in giro per la città." },
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_WIL_SYSTEM_000_20", "hash": "E86CA3A1D168BC00", "target": "<if(gnum4,Benvenuta,Benvenuto)> a Ul'dah, il fulgido faro della prosperità che si erge dai deserti di Thanalan." },
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_WIL_SYSTEM_000_21", "hash": "8CAA87B68658ADAB", "target": "Segui le istruzioni per muovere il tuo personaggio e regolare la posizione della telecamera." },
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_WIL_SYSTEM_000_22", "hash": "C58246B33E85D61A", "target": "Quando vuoi proseguire, parla con Wymond." },
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_FST_SYSTEM_000_23", "hash": "71928367B2440DE2", "target": "Seleziona lo schema di comandi che desideri usare." },
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_FST_SYSTEM_Q_01", "hash": "361F61A12A1BCADE", "target": "Seleziona uno schema di comandi." },
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_FST_SYSTEM_A_01", "hash": "5AB63CA164818077", "target": "Mouse/tastiera." },
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_FST_SYSTEM_A_02", "hash": "7EBB6528D92BFF35", "target": "<if([gnum75>1],Controller,Gamepad)>." }
   ]
 }

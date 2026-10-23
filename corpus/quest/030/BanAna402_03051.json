@@ -5,7 +5,7 @@
     { "gameKey": "quest/030/BanAna402_03051#TEXT_BANANA402_03051_SEQ_00", "hash": "4F3447A5DB020B2D", "target": "Eshana vuole che tu rintracci dei ricercati.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
     { "gameKey": "quest/030/BanAna402_03051#TEXT_BANANA402_03051_TODO_00", "hash": "52B80A973351F938", "target": "Parlare con individui sospetti nei pressi dei Confini Orientali" },
     { "gameKey": "quest/030/BanAna402_03051#TEXT_BANANA402_03051_TODO_01", "hash": "8A054130402BA0F7", "target": "Fare rapporto a Eshana" },
-    { "gameKey": "quest/030/BanAna402_03051#TEXT_BANANA402_03051_ESHANA_000_000", "hash": "7DAAA3807E53446A", "target": "Abbiamo una sssituazione da risolvere. L'Alleanza ci ha avvertite che una banda di criminali senza scrupoli è fuggita di prigione e si è dispersa oltre il confine, nei Fringes." },
+    { "gameKey": "quest/030/BanAna402_03051#TEXT_BANANA402_03051_ESHANA_000_000", "hash": "7DAAA3807E53446A", "target": "Abbiamo una sssituazione da risolvere. L'Alleanza ci ha avvertite che una banda di criminali senza scrupoli è fuggita di prigione e si è dispersa oltre il confine, nei Confini." },
     { "gameKey": "quest/030/BanAna402_03051#TEXT_BANANA402_03051_ESHANA_000_001", "hash": "B04E124D99AAB48D", "target": "Le nostre guardie hanno subito iniziato a perlustrare la zona, ma non hanno ancora trovato i fuggitivi. Ci aiutereste a cercarli, sss?" },
     { "gameKey": "quest/030/BanAna402_03051#TEXT_BANANA402_03051_ESHANA_000_002", "hash": "D4766ABFD0A86858", "target": "Quanto al luogo, ho appena ricevuto segnalazioni di individui sssospetti di passaggio nei Confini Orientali. Non è certo che uno o tutti siano i criminali che cerchiamo, quindi avvicinatevi con cautela e difendetevi se necessario." },
     { "gameKey": "quest/030/BanAna402_03051#TEXT_BANANA402_03051_SUSPICIOUSPERSONA03051_000_010", "hash": "CC6F589605340563", "target": "Eh? Cosa? Che vuoi da me?" },
@@ -36,6 +36,6 @@
     { "gameKey": "quest/030/BanAna402_03051#TEXT_BANANA402_03051_ESHANA_000_040", "hash": "A065254C779174EA", "target": "Com'è andata la caccia, sss?" },
     { "gameKey": "quest/030/BanAna402_03051#TEXT_BANANA402_03051_ESHANA_000_041", "hash": "CE63B598F12DE365", "target": "Ah! Si aspettavano dei segugi alle calcagna e io ho mandato loro un drago, sss!" },
     { "gameKey": "quest/030/BanAna402_03051#TEXT_BANANA402_03051_ESHANA_000_042", "hash": "D914A700EDB59622", "target": "Ultimamente, i criminali delle terre vicine hanno iniziato a considerare Gyr Abania un rifugio dove sfuggire al pugno della giussstizia." },
-    { "gameKey": "quest/030/BanAna402_03051#TEXT_BANANA402_03051_ESHANA_000_043", "hash": "1AC24136A26CABC1", "target": "Tocca a noi, qui nei Fringes, disssuaderli. Aiutateci a tenere i nostri confini liberi da simile feccia." }
+    { "gameKey": "quest/030/BanAna402_03051#TEXT_BANANA402_03051_ESHANA_000_043", "hash": "1AC24136A26CABC1", "target": "Tocca a noi, qui nei Confini, disssuaderli. Aiutateci a tenere i nostri confini liberi da simile feccia." }
   ]
 }

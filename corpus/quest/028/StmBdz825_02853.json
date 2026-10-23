@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/028/StmBdz825_02853#TEXT_STMBDZ825_02853_SEQ_00", "hash": "0965C3145FE1E4EF", "target": "Dob ha bisogno di <if(gnum4,una donna,un uomo)> che sappia il fatto <if(gnum4,suo,suo)> in materia di esplosivi." },
     { "gameKey": "quest/028/StmBdz825_02853#TEXT_STMBDZ825_02853_TODO_00", "hash": "9789077E6737DE2F", "target": "Parlare con l'uomo hyur esagitato" },
-    { "gameKey": "quest/028/StmBdz825_02853#TEXT_STMBDZ825_02853_TODO_01", "hash": "3BE2CE89CB0A09B6", "target": "Usare le Mark XLII grenades per distruggere le weathered crates" },
+    { "gameKey": "quest/028/StmBdz825_02853#TEXT_STMBDZ825_02853_TODO_01", "hash": "3BE2CE89CB0A09B6", "target": "Usare le Mark XLII grenades per distruggere le casse consunte" },
     { "gameKey": "quest/028/StmBdz825_02853#TEXT_STMBDZ825_02853_TODO_02", "hash": "87F45690B23BF3FF", "target": "Parlare con l'uomo hyur esagitato" },
     { "gameKey": "quest/028/StmBdz825_02853#TEXT_STMBDZ825_02853_TODO_03", "hash": "288E2FCC0CA14862", "target": "Parlare con l'uomo hyur esagitato" },
     { "gameKey": "quest/028/StmBdz825_02853#TEXT_STMBDZ825_02853_TODO_04", "hash": "96912C37F4C2990D", "target": "Usare le Mark XLII grenades per distruggere i warmachina wreckage" },

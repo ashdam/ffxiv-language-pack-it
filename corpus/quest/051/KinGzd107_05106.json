@@ -3,8 +3,8 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_SEQ_00", "hash": "FD3908AE18851C35", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Kiishel Ja è a corto di mani e vorrebbe prendere in prestito le tue." },
-    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_TODO_00", "hash": "F1B4FF4D6439767B", "target": "Usare il Kiishel Ja's hammer per ottenere pezzi di azure crystal" },
-    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_TODO_01", "hash": "A6414829F0058F85", "target": "Consegnare il Kiishel Ja's hammer e i pezzi di azure crystal a Kiishel Ja" },
+    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_TODO_00", "hash": "F1B4FF4D6439767B", "target": "Usare il Kiishel Ja's hammer per ottenere pezzi di cristallo azzurro" },
+    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_TODO_01", "hash": "A6414829F0058F85", "target": "Consegnare il Kiishel Ja's hammer e i pezzi di cristallo azzurro a Kiishel Ja" },
     { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_000", "hash": "73658C8D446AB505", "target": "Sembri non temere un po' di lavoro manuale." },
     { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_001", "hash": "9CDFE5BA43A4A61C", "target": "Ci servono cristalli azzurri del Cenote Neyozzote, ma i nostri soliti aiutanti sono impegnati a riformare la città." },
     { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_002", "hash": "B052C01CF5D13EB8", "target": "Qualunque cosa faccia la città, abbiamo ancora najool da coltivare. Ti presterò il mio martello, quindi ti sarei molto grata se andassi a staccarmi due pezzi di cristallo azzurro." },

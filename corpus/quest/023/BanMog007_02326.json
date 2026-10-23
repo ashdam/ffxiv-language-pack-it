@@ -79,8 +79,8 @@
     { "gameKey": "quest/023/BanMog007_02326#TEXT_BANMOG007_02326_MOGZIN_000_110", "hash": "9B45A7475C88574C", "target": "Alla tavoletta serve un supporto adeguato, capace di resistere alle intemperie della regione. Vorrei affidarne a voi la realizzazione!" },
     { "gameKey": "quest/023/BanMog007_02326#TEXT_BANMOG007_02326_MOGZIN_000_120", "hash": "E99BB273C8E666AC", "target": "La tavoletta deve brillare, perché chiunque legga i nomi incisi li ricordi per sempre. Vorrei che preparaste i materiali per lucidarla!" },
     { "gameKey": "quest/023/BanMog007_02326#TEXT_BANMOG007_02326_MOGZIN_000_130", "hash": "13EE74C133F0539D", "target": "Le lettere vanno scurite con l'inchiostro, così resisteranno per molti anni all'erosione delle intemperie. Vorrei che preparaste quell'inchiostro!" },
-    { "gameKey": "quest/023/BanMog007_02326#TEXT_BANMOG007_02326_MOGZIN_000_140", "hash": "0CA5227C690B03FA", "target": "" },
-    { "gameKey": "quest/023/BanMog007_02326#TEXT_BANMOG007_02326_MOGZIN_000_150", "hash": "66DA3134383B9E33", "target": "Infine, vorrei ringraziarvi per il sostegno, non solo a nome dei Restauratori Moguri, ma di tutti i Moguri di Moghome! Senza di voi e Tarresson, Bahrr Lehs sarebbe ancora solo polvere e macerie." },
+    { "gameKey": "quest/023/BanMog007_02326#TEXT_BANMOG007_02326_MOGZIN_000_140", "hash": "0CA5227C690B03FA", "target": "Vorrei affidarvi gli ultimi ritocchi, kupò! Fabbricate un componente che dia risalto alla tavoletta. È un lavoro che posso chiedere soltanto a voi, kupò!" },
+    { "gameKey": "quest/023/BanMog007_02326#TEXT_BANMOG007_02326_MOGZIN_000_150", "hash": "66DA3134383B9E33", "target": "Infine, vorrei ringraziarvi per il sostegno, non solo a nome dei Restauratori Moguri, ma di tutti i Moguri di Casamoguri! Senza di voi e Tarresson, Bahrr Lehs sarebbe ancora solo polvere e macerie." },
     { "gameKey": "quest/023/BanMog007_02326#TEXT_BANMOG007_02326_MOGZIN_000_151", "hash": "F5ADD2C2F2516BF9", "target": "Ancora una volta ci affidiamo alla vostra mano sicura. So che ci stupirete!" },
     { "gameKey": "quest/023/BanMog007_02326#TEXT_BANMOG007_02326_MOGZIN_000_152", "hash": "80F0797F2B91C5EA", "target": "Mogmul vi darà tutte le scorte necessarie. Quando il capolavoro sarà finito, consegnatelo a Tarresson e potremo completare il lavoro!" },
     { "gameKey": "quest/023/BanMog007_02326#TEXT_BANMOG007_02326_MOGZIN_000_153", "hash": "DB86A77723D3321E", "target": "Cosa farò io, chiedete? Diciamo che ho un ultimo scherzo da fare. Uno scherzo d'addio, se volete. Lo preparerò mentre voi vi dedicherete alla creazione." },
@@ -103,6 +103,6 @@
     { "gameKey": "quest/023/BanMog007_02326#TEXT_BANMOG007_02326_SYSTEM_000_200", "hash": "A89D40411FC6A6EE", "target": "Hai raggiunto il grado di reputazione <colortype(500)><edgecolortype(501)>Sworn<edgecolortype(0)><colortype(0)> presso i Restauratori Moguri." },
     { "gameKey": "quest/023/BanMog007_02326#TEXT_BANMOG007_02326_SYSTEM_000_201", "hash": "725B1F984F28E20D", "target": "Completando le missioni giornaliere della società dei Moguri riceverai un bonus ai punti esperienza." },
     { "gameKey": "quest/023/BanMog007_02326#TEXT_BANMOG007_02326_SYSTEM_000_202", "hash": "ED0D9852FC22A7E7", "target": "Ora hai accesso a un assortimento più ampio di merci da Mogmul Mogbelly." },
-    { "gameKey": "quest/023/BanMog007_02326#TEXT_BANMOG007_02326_SYSTEM_000_210", "hash": "6F7D89805D7E7FBB", "target": "Hai imparato l'emote <colortype(500)><edgecolortype(501)>Moogle Dance<edgecolortype(0)><colortype(0)>!" }
+    { "gameKey": "quest/023/BanMog007_02326#TEXT_BANMOG007_02326_SYSTEM_000_210", "hash": "6F7D89805D7E7FBB", "target": "Hai imparato l'emote <colortype(500)><edgecolortype(501)>Danza dei Moguri<edgecolortype(0)><colortype(0)>!" }
   ]
 }

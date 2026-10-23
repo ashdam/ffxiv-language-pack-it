@@ -2,7 +2,7 @@
   "conversation": "dungeon/000/DungeonDaimyoyashiki_00000",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "dungeon/000/DungeonDaimyoyashiki_00000#TEXT_DUNGEONDAIMYOYASHIKI_00000_KAGEYAMA_000_000", "hash": "818F40DCFB2D6E6C", "target": "" },
-    { "gameKey": "dungeon/000/DungeonDaimyoyashiki_00000#TEXT_DUNGEONDAIMYOYASHIKI_00000_YOJIMBO_000_100", "hash": "6324B9DD79075AD9", "target": "" }
+    { "gameKey": "dungeon/000/DungeonDaimyoyashiki_00000#TEXT_DUNGEONDAIMYOYASHIKI_00000_KAGEYAMA_000_000", "hash": "818F40DCFB2D6E6C", "target": "Complimenti per essere arrivati fin qui, ma temo<br>che il vostro viaggio finisca qui. Vieni, Yojimbo! Abbiamo visite!" },
+    { "gameKey": "dungeon/000/DungeonDaimyoyashiki_00000#TEXT_DUNGEONDAIMYOYASHIKI_00000_YOJIMBO_000_100", "hash": "6324B9DD79075AD9", "target": "Le vostre casse sembrano vuote, Kageyama.<br>Se non potete pagare il mio compenso, qui ho finito." }
   ]
 }

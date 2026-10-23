@@ -2,8 +2,8 @@
   "conversation": "dungeon/000/DungeonTamtara_00000",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "dungeon/000/DungeonTamtara_00000#TEXT_DUNGEONTAMTARA_00000_EDDA_000_000", "hash": "DE8C27ADFFC0D811", "target": "" },
-    { "gameKey": "dungeon/000/DungeonTamtara_00000#TEXT_DUNGEONTAMTARA_00000_EDDA_000_001", "hash": "8E682F23EF1C7899", "target": "" },
-    { "gameKey": "dungeon/000/DungeonTamtara_00000#TEXT_DUNGEONTAMTARA_00000_EDDA_000_010", "hash": "F5CE31A1CEFCCB30", "target": "" }
+    { "gameKey": "dungeon/000/DungeonTamtara_00000#TEXT_DUNGEONTAMTARA_00000_EDDA_000_000", "hash": "DE8C27ADFFC0D811", "target": "Guarda, Avere! Tutta questa gente è venuta a donarti la propria anima! Non è gentile da parte loro?" },
+    { "gameKey": "dungeon/000/DungeonTamtara_00000#TEXT_DUNGEONTAMTARA_00000_EDDA_000_001", "hash": "8E682F23EF1C7899", "target": "C'è persino <split(<string(gstr1)>, ,1)>! Ora il tuo sogno di diventare come <if(gnum4,lei,lui)> può avverarsi!" },
+    { "gameKey": "dungeon/000/DungeonTamtara_00000#TEXT_DUNGEONTAMTARA_00000_EDDA_000_010", "hash": "F5CE31A1CEFCCB30", "target": "Che... che cosa avete fatto? Aveeerrreee! Noooooo!" }
   ]
 }

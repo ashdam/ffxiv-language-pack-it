@@ -4,8 +4,8 @@
   "entries": [
     { "gameKey": "quest/051/KinGze021_05139#TEXT_KINGZE021_05139_SEQ_00", "hash": "A9650901B05D0CF8", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>L'Hhetsarro severa ha qualcosa di pungente e commovente da affidarti per una consegna." },
     { "gameKey": "quest/051/KinGze021_05139#TEXT_KINGZE021_05139_TODO_00", "hash": "CEB4769757E1A599", "target": "Consegnare il polished horn all'Hhetsarro vivace" },
-    { "gameKey": "quest/051/KinGze021_05139#TEXT_KINGZE021_05139_TODO_01", "hash": "F340E9CB9706037E", "target": "Ottenere le fresh vegetables" },
-    { "gameKey": "quest/051/KinGze021_05139#TEXT_KINGZE021_05139_TODO_02", "hash": "FF011252DB0AE42F", "target": "Consegnare le fresh vegetables all'Hhetsarro severa" },
+    { "gameKey": "quest/051/KinGze021_05139#TEXT_KINGZE021_05139_TODO_01", "hash": "F340E9CB9706037E", "target": "Ottenere le verdure fresche" },
+    { "gameKey": "quest/051/KinGze021_05139#TEXT_KINGZE021_05139_TODO_02", "hash": "FF011252DB0AE42F", "target": "Consegnare le verdure fresche all'Hhetsarro severa" },
     { "gameKey": "quest/051/KinGze021_05139#TEXT_KINGZE021_05139_STRICT05139_000_000", "hash": "4738369AAC1D6DC1", "target": "Salve, <if(gnum4,viaggiatrice,viaggiatore)>. Se vai a Hhusatahwi, avrei un favore da chiederti." },
     { "gameKey": "quest/051/KinGze021_05139#TEXT_KINGZE021_05139_STRICT05139_000_001", "hash": "39E1C296DA386C03", "target": "Potresti consegnare questo polished horn a mia sorella?" },
     { "gameKey": "quest/051/KinGze021_05139#TEXT_KINGZE021_05139_STRICT05139_000_002", "hash": "B60E9E91B5A2C158", "target": "La troverai a lavorare nel campo alla periferia della città. Non dovrebbe essere difficile riconoscerla: abbiamo i capelli dello stesso colore." },

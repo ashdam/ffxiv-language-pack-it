@@ -3,8 +3,8 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_SEQ_00", "hash": "3EAF2F2AD052FBC1", "target": "Godwin delle Sentinelle Cupe ha un rapporto da consegnare urgentemente." },
-    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_SEQ_01", "hash": "420EA53A3288CA15", "target": "Godwin ti affida un rapporto riservato sui recenti eventi nei dintorni di Fallgourd Float. Consegnalo subito a Vortefaurt dell'Ordine delle Due Vipere." },
-    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_SEQ_02", "hash": "4B62C2716AF197BD", "target": "Il rapporto di Godwin descrive avvistamenti di un uomo mascherato che hanno allarmato Fallgourd Float. Quella figura minacciosa potrebbe essere un asciano?" },
+    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_SEQ_01", "hash": "420EA53A3288CA15", "target": "Godwin ti affida un rapporto riservato sui recenti eventi nei dintorni della Zattera di Fallgourd. Consegnalo subito a Vortefaurt dell'Ordine delle Due Vipere." },
+    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_SEQ_02", "hash": "4B62C2716AF197BD", "target": "Il rapporto di Godwin descrive avvistamenti di un uomo mascherato che hanno allarmato la Zattera di Fallgourd. Quella figura minacciosa potrebbe essere un asciano?" },
     { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_TODO_00", "hash": "C145A374CD816F4C", "target": "Consegnare il rapporto di Fallgourd a Vortefaurt" },
     { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_GODWIN_000_000", "hash": "7D1A6EA106408A6F", "target": "Salve. Se non vi dispiace fare da corriere, ho un rapporto da portare alla Torre di Florentel con la massima urgenza." },
     { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_GODWIN_000_001", "hash": "111E3BF0E132AE8A", "target": "Badate che queste informazioni sono altamente riservate. Mi fido che le consegnerete direttamente nelle mani del tenente delle Vipere Vortefaurt, <italic(1)>senza<italic(0)> sbirciarle." },

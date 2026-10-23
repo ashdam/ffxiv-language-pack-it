@@ -9,7 +9,7 @@
     { "gameKey": "quest/023/ChrEnd303_02363#TEXT_CHREND303_02363_SEQ_04", "hash": "F2EFEC9CA7F74B29", "target": "Condividi le tue scoperte con l'ispettore, che deduce rapidamente chi sia responsabile sia del rapimento sia delle lettere. Sapendo che hai raggiunto la sua stessa conclusione, non rivela altro, ma insegna ai presenti una potente tecnica per concentrarsi con precisione assoluta e aprire la mente a ogni possibile soluzione. Con questa conoscenza, hai tutto ciò che serve per affrontare il colpevole!" },
     { "gameKey": "quest/023/ChrEnd303_02363#TEXT_CHREND303_02363_TODO_00", "hash": "4DE6EFB5CFB0C7BB", "target": "Cercare suspicious letters a Saint Endalim's Scholasticate." },
     { "gameKey": "quest/023/ChrEnd303_02363#TEXT_CHREND303_02363_TODO_01", "hash": "769D5F41ACF7000F", "target": "Consegnare le suspicious letters a Theomocent." },
-    { "gameKey": "quest/023/ChrEnd303_02363#TEXT_CHREND303_02363_TODO_02", "hash": "D3A28B7AEED1E549", "target": "Parlare con Theomocent nei Pillars." },
+    { "gameKey": "quest/023/ChrEnd303_02363#TEXT_CHREND303_02363_TODO_02", "hash": "D3A28B7AEED1E549", "target": "Parlare con Theomocent nei Pilastri." },
     { "gameKey": "quest/023/ChrEnd303_02363#TEXT_CHREND303_02363_LEIGH_000_000", "hash": "884C324C6B17FF2E", "target": "\\<sigh> Se Theo non insistesse tanto per aiutare quel bastardo, lo avrei lasciato a cercare da solo una via d'uscita da questo pasticcio." },
     { "gameKey": "quest/023/ChrEnd303_02363#TEXT_CHREND303_02363_THEOMOCENT_000_000", "hash": "D88145E85CBAA883", "target": "Se riuscissimo a trovare l'autore delle lettere e convincerlo a ritrattare queste dichiarazioni, gli studenti non avrebbero altra scelta che ritirare la loro richiesta... Ma dove dovremmo cercare?" },
     {"gameKey": "quest/023/ChrEnd303_02363#TEXT_CHREND303_02363_Q1_000_000", "hash": "0950A477358C7E33", "target": "Che cosa dirai?"},
@@ -75,6 +75,6 @@
     { "gameKey": "quest/023/ChrEnd303_02363#TEXT_CHREND303_02363_BRIARDIEN_000_056", "hash": "999F2C28DF7007E8", "target": "Confido che anche voi abbiate messo insieme i pezzi?" },
     { "gameKey": "quest/023/ChrEnd303_02363#TEXT_CHREND303_02363_BRIARDIEN_000_057", "hash": "890C4C0FFFA27FB2", "target": "Avete dimostrato di essere <if(gnum4,una valida collaboratrice,un valido collaboratore)>. È da qui, però, che comincia il vero lavoro. Se sentite vacillare la concentrazione o diminuire l'attenzione ai dettagli, basta fare così: prendete un respiro profondo e fissate lo sguardo in lontananza. In quel momento, la soluzione apparirà davanti a voi." },
     { "gameKey": "quest/023/ChrEnd303_02363#TEXT_CHREND303_02363_BRIARDIEN_000_058", "hash": "C7565724AC6477F8", "target": "La partita è cominciata e, se vogliamo vincere, dobbiamo restare vigili. Ora prendiamo il nostro uomo!" },
-    { "gameKey": "quest/023/ChrEnd303_02363#TEXT_CHREND303_02363_SYSTEM_000_059", "hash": "616C32FFF6A82269", "target": "Hai imparato l'emote <colortype(500)><edgecolortype(501)>Spectacles<edgecolortype(0)><colortype(0)>!" }
+    { "gameKey": "quest/023/ChrEnd303_02363#TEXT_CHREND303_02363_SYSTEM_000_059", "hash": "616C32FFF6A82269", "target": "Hai imparato l'emote <colortype(500)><edgecolortype(501)>Sistemare gli occhiali<edgecolortype(0)><colortype(0)>!" }
   ]
 }

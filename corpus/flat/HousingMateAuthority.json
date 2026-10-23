@@ -2,12 +2,12 @@
   "sheet": "HousingMateAuthority",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "HousingMateAuthority#1", "hash": "BBEBBC19652C6A62", "target": "" },
-    { "gameKey": "HousingMateAuthority#2", "hash": "5110307ECF37C5C2", "target": "" },
-    { "gameKey": "HousingMateAuthority#3", "hash": "F00EC0819EF748D8", "target": "" },
-    { "gameKey": "HousingMateAuthority#4", "hash": "ECFF17AF02AE1516", "target": "" },
-    { "gameKey": "HousingMateAuthority#5", "hash": "CDCA03E699E31783", "target": "" },
-    { "gameKey": "HousingMateAuthority#6", "hash": "57B2F758F808E012", "target": "" },
-    { "gameKey": "HousingMateAuthority#7", "hash": "A0DB50C869B308CD", "target": "" }
+    { "gameKey": "HousingMateAuthority#1", "hash": "BBEBBC19652C6A62", "target": "Aggiunta/rimozione/tintura degli arredi" },
+    { "gameKey": "HousingMateAuthority#2", "hash": "5110307ECF37C5C2", "target": "Semina" },
+    { "gameKey": "HousingMateAuthority#3", "hash": "F00EC0819EF748D8", "target": "Raccolta delle colture" },
+    { "gameKey": "HousingMateAuthority#4", "hash": "ECFF17AF02AE1516", "target": "Eliminazione delle colture" },
+    { "gameKey": "HousingMateAuthority#5", "hash": "CDCA03E699E31783", "target": "Sistemazione dei chocobo nella scuderia" },
+    { "gameKey": "HousingMateAuthority#6", "hash": "57B2F758F808E012", "target": "Utilizzo dell'orchestrion" },
+    { "gameKey": "HousingMateAuthority#7", "hash": "A0DB50C869B308CD", "target": "Gestione del libro degli ospiti" }
   ]
 }

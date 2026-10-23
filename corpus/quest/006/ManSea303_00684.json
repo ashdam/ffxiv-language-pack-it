@@ -30,7 +30,7 @@
     { "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_MINFILIA_000_22", "hash": "D0D56FA4CEB3EC44", "target": "Non dubito che tu voglia conoscere i nuovi compagni, ma vorrei chiederti di visitare prima quelli di vecchia data. Ricorda: anche se ora sei <if(gnum4,una donna,un uomo)> del Maelstrom, non sei certo meno Erede! Torna alle Sabbie del Risveglio appena puoi. Ci sono degli amici che desidero tanto presentarti. Ti aspetteremo!" },
     { "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_STORMPERSONNEL_000_023", "hash": "EEE28C9C0723A13A", "target": "Non c'è mai un attimo di tregua, eh?" },
     { "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_STORMPERSONNEL_000_024", "hash": "A0E3DEE50BAFAC54", "target": "Prima di sparire, ti consiglio di parlare con la comandante Rhiki. Potrebbe valerne la pena..." },
-    { "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_SYSTEM_000_025", "hash": "C911403A6F023600", "target": "Ora puoi accettare la missione «My Little Chocobo (Maelstrom)» parlando con R'ashaht Rhiki." },
+    { "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_SYSTEM_000_025", "hash": "C911403A6F023600", "target": "Ora puoi accettare la missione «Il mio piccolo chocobo (Maelstrom)» parlando con R'ashaht Rhiki." },
     { "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_SYSTEM_000_026", "hash": "7C8421CB76E4757D", "target": "Devi completare questa missione per proseguire fino alla fine dello scenario principale di A Realm Reborn." },
     { "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_GUIDE_000_200", "hash": "FBDB1CA351164436", "target": "<if(gnum4,Bentornata,Bentornato)>, <split(<string(gstr1)>, ,1)>! Lady Minfilia vi attende all'interno." }
   ]

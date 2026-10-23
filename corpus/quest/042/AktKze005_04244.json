@@ -3,8 +3,8 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/042/AktKze005_04244#TEXT_AKTKZE005_04244_SEQ_00", "hash": "D8A05EA98F4BB0F1", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Il Loporrit dagli occhi scintillanti pensa agli arcobaleni." },
-    { "gameKey": "quest/042/AktKze005_04244#TEXT_AKTKZE005_04244_TODO_00", "hash": "284B49C726B5C477", "target": "Prendere un lightning-aspected crystal dalla relativa sparkling supply station" },
-    { "gameKey": "quest/042/AktKze005_04244#TEXT_AKTKZE005_04244_TODO_01", "hash": "641AB9FEE7033D97", "target": "Prendere un wind-aspected crystal dalla relativa sparkling supply station" },
+    { "gameKey": "quest/042/AktKze005_04244#TEXT_AKTKZE005_04244_TODO_00", "hash": "284B49C726B5C477", "target": "Prendere un lightning-aspected crystal dalla relativa stazione di rifornimento scintillante" },
+    { "gameKey": "quest/042/AktKze005_04244#TEXT_AKTKZE005_04244_TODO_01", "hash": "641AB9FEE7033D97", "target": "Prendere un wind-aspected crystal dalla relativa stazione di rifornimento scintillante" },
     { "gameKey": "quest/042/AktKze005_04244#TEXT_AKTKZE005_04244_TODO_02", "hash": "6EB13469EA7D9B86", "target": "Consegnare il lightning-aspected crystal al supervisore dello splendore" },
     { "gameKey": "quest/042/AktKze005_04244#TEXT_AKTKZE005_04244_TODO_03", "hash": "35A0FDCB84F7632F", "target": "Consegnare il wind-aspected crystal a Hoppingway" },
     { "gameKey": "quest/042/AktKze005_04244#TEXT_AKTKZE005_04244_TODO_04", "hash": "45B7DB3DAADF9738", "target": "Parlare con il Loporrit dagli occhi scintillanti" },

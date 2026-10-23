@@ -2,8 +2,8 @@
   "sheet": "EventItemCategory",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "EventItemCategory#1", "hash": "AE50B6FE048F684A", "target": "" },
-    { "gameKey": "EventItemCategory#2", "hash": "664463FAE9C33117", "target": "" },
-    { "gameKey": "EventItemCategory#4", "hash": "46D0BCCB84EB1209", "target": "" }
+    { "gameKey": "EventItemCategory#1", "hash": "AE50B6FE048F684A", "target": "Missione: <head(<string(lstr1)>)>" },
+    { "gameKey": "EventItemCategory#2", "hash": "664463FAE9C33117", "target": "Mappa del tesoro" },
+    { "gameKey": "EventItemCategory#4", "hash": "46D0BCCB84EB1209", "target": "Caccia" }
   ]
 }

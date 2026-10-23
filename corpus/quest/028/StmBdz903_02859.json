@@ -3,8 +3,8 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/028/StmBdz903_02859#TEXT_STMBDZ903_02859_SEQ_00", "hash": "68E93AE64D994D6D", "target": "Rawkin cerca qualcuno che abbia esperienza d'avventura e gambe robuste." },
-    { "gameKey": "quest/028/StmBdz903_02859#TEXT_STMBDZ903_02859_TODO_00", "hash": "BBBC715A0C907D16", "target": "Prendere l'Earthenware Vase" },
-    { "gameKey": "quest/028/StmBdz903_02859#TEXT_STMBDZ903_02859_TODO_01", "hash": "94A58206F226F6A4", "target": "Consegnare l'Earthenware Vase al mercante Hyur Midlander" },
+    { "gameKey": "quest/028/StmBdz903_02859#TEXT_STMBDZ903_02859_TODO_00", "hash": "BBBC715A0C907D16", "target": "Prendere il vaso di terracotta" },
+    { "gameKey": "quest/028/StmBdz903_02859#TEXT_STMBDZ903_02859_TODO_01", "hash": "94A58206F226F6A4", "target": "Consegnare il vaso di terracotta al mercante Hyur Midlander" },
     { "gameKey": "quest/028/StmBdz903_02859#TEXT_STMBDZ903_02859_TODO_02", "hash": "7BCC08636025ABDC", "target": "Fare rapporto a Rawkin" },
     { "gameKey": "quest/028/StmBdz903_02859#TEXT_STMBDZ903_02859_RAWKIN_000_000", "hash": "5346803F916DC7FB", "target": "Hai l'aria di <if(gnum4,una donna,un uomo)> che viaggia. Sì, di <if(gnum4,una donna,un uomo)> che non ha paura di camminare un po'. Forse potresti aiutarmi." },
     { "gameKey": "quest/028/StmBdz903_02859#TEXT_STMBDZ903_02859_RAWKIN_000_001", "hash": "54E3D8DF7149F52E", "target": "Dovevo consegnare delle provviste ad Ala Ghiri, ma ho impiegato tanto a preparare tutto che temo di non riuscire ad arrivare all'ora concordata." },

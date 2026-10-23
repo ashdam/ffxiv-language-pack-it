@@ -63,7 +63,7 @@
     { "gameKey": "quest/006/ManFst205_00660#TEXT_MANFST205_00660_ALIANNE_000_63", "hash": "DF86793AE7B02817", "target": "È importante avere degli obiettivi, ma non bisogna fissarsi al punto da ignorare tutto il resto. Altrimenti si finisce per pagarne il prezzo, come Dolorous Bear e i suoi compagni oggi." },
     { "gameKey": "quest/006/ManFst205_00660#TEXT_MANFST205_00660_PAINTEDMESA_000_65", "hash": "3986F9DC6F86D50F", "target": "Le speranze della nazione poggiano sulle vostre spalle, <if(gnum4,signora,messere)>. Rimandate quei giganti in qualunque dei sette inferni da cui siano fuggiti!" },
     { "gameKey": "quest/006/ManFst205_00660#TEXT_MANFST205_00660_STONETORCH_000_67", "hash": "744C2C705A488FEE", "target": "Buona fortuna là dentro, <if(gnum4,avventuriera,avventuriero)>. Noi Fiaccole di Pietra continueremo a vigilare qui, nel caso il nemico riesca a superarvi." },
-    { "gameKey": "quest/006/ManFst205_00660#TEXT_MANFST205_00660_Q1_000_1", "hash": "CFB4D75D8D2C2704", "target": "Il dovere chiama. Vuoi procedere con<br>«Into a Copper Hell»?" },
+    { "gameKey": "quest/006/ManFst205_00660#TEXT_MANFST205_00660_Q1_000_1", "hash": "CFB4D75D8D2C2704", "target": "Il dovere chiama. Vuoi procedere con<br>«In un inferno di rame»?" },
     { "gameKey": "quest/006/ManFst205_00660#TEXT_MANFST205_00660_A1_000_1", "hash": "24A353BB8503EEB0", "target": "Sì" },
     { "gameKey": "quest/006/ManFst205_00660#TEXT_MANFST205_00660_A1_000_2", "hash": "EAFF385E4CC0FFB1", "target": "No" },
     { "gameKey": "quest/006/ManFst205_00660#TEXT_MANFST205_00660_PAINTEDMESA_000_70", "hash": "98F15BFBC72F6891", "target": "Ah, torna chi ha conquistato Copperbell!" },

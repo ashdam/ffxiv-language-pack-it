@@ -15,7 +15,7 @@
     { "gameKey": "quest/022/BanGna002_02256#TEXT_BANGNA002_02256_SEQ_10", "hash": "47598B82D2A58939", "target": "Il deftarm considera il viaggio a Coerthas un successo: ha assicurato una fornitura di polvere esplosiva per i cannoni di Loth ast Vath. Pur non avendo gradito il clima freddo, è soddisfatto del suo primo viaggio oltre i territori dravaniani. Sogna di vedere altro del regno, ma la prossima spedizione dovrà aspettare: i doveri di capo della gilda lo terranno impegnato per un po'." },
     { "gameKey": "quest/022/BanGna002_02256#TEXT_BANGNA002_02256_TODO_00", "hash": "D23156E4C2CA7C8A", "target": "Incontrare il Vath deftarm al limitare della Chocobo Forest" },
     { "gameKey": "quest/022/BanGna002_02256#TEXT_BANGNA002_02256_TODO_01", "hash": "565617ACBF86B27A", "target": "Parlare con il Vath deftarm" },
-    { "gameKey": "quest/022/BanGna002_02256#TEXT_BANGNA002_02256_TODO_02", "hash": "CD40670951097E93", "target": "Parlare con il Vath deftarm nella parte occidentale delle Coerthas Western Highlands" },
+    { "gameKey": "quest/022/BanGna002_02256#TEXT_BANGNA002_02256_TODO_02", "hash": "CD40670951097E93", "target": "Parlare con il Vath deftarm nella parte occidentale degli Altopiani Occidentali del Coerthas" },
     { "gameKey": "quest/022/BanGna002_02256#TEXT_BANGNA002_02256_TODO_03", "hash": "30E4230E15FF79A7", "target": "Parlare con Jantellot al Presidio dei Giustizieri" },
     { "gameKey": "quest/022/BanGna002_02256#TEXT_BANGNA002_02256_TODO_04", "hash": "3D08DB41EC71BF5E", "target": "Accendere un fuoco fuori dall'accampamento" },
     { "gameKey": "quest/022/BanGna002_02256#TEXT_BANGNA002_02256_TODO_05", "hash": "AB48BDB8FED322D5", "target": "Parlare con il Vath deftarm" },
@@ -79,6 +79,6 @@
     { "gameKey": "quest/022/BanGna002_02256#TEXT_BANGNA002_02256_SYSTEM_100_100", "hash": "1AB5B00BDC18D36B", "target": "Inoltre, come bonus per il nuovo rango di reputazione, potrai intraprendere altre tre missioni dal Vath keeneye. Il bonus resta disponibile fino al ripristino giornaliero delle missioni delle società alleate." },
     { "gameKey": "quest/022/BanGna002_02256#TEXT_BANGNA002_02256_SYSTEM_100_101", "hash": "A12DC1C5A686BE0D", "target": "Queste missioni aggiuntive saranno disponibili dopo aver accettato tutte le attuali missioni giornaliere del Vath keeneye. Ricorda che non potrai intraprenderle se non hai più incarichi disponibili." },
     { "gameKey": "quest/022/BanGna002_02256#TEXT_BANGNA002_02256_SYSTEM_100_105", "hash": "689EA249C3A4D709", "target": "Ora hai accesso a un assortimento più ampio di merci presso il Vath stickpeddler." },
-    { "gameKey": "quest/022/BanGna002_02256#TEXT_BANGNA002_02256_SYSTEM_100_000", "hash": "257758BD55EC005F", "target": "Per intraprendere la prossima missione principale della società alleata, devi prima completare la missione dello scenario principale «A Great New Nation»." }
+    { "gameKey": "quest/022/BanGna002_02256#TEXT_BANGNA002_02256_SYSTEM_100_000", "hash": "257758BD55EC005F", "target": "Per intraprendere la prossima missione principale della società alleata, devi prima completare la missione dello scenario principale «Una grande nuova nazione»." }
   ]
 }

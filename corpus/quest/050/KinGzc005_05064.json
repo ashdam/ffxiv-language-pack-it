@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/050/KinGzc005_05064#TEXT_KINGZC005_05064_SEQ_00", "hash": "E7565D6466CB010F", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>A'anuhanu desidera far conoscere le usanze di Ok'hanu ai nuovi visitatori." },
-    { "gameKey": "quest/050/KinGzc005_05064#TEXT_KINGZC005_05064_TODO_00", "hash": "BE454292791F08C6", "target": "Raccogliere i votive fruit" },
+    { "gameKey": "quest/050/KinGzc005_05064#TEXT_KINGZC005_05064_TODO_00", "hash": "BE454292791F08C6", "target": "Raccogliere i frutti votivi" },
     { "gameKey": "quest/050/KinGzc005_05064#TEXT_KINGZC005_05064_TODO_01", "hash": "39A4453B1130B480", "target": "Consegnare i frutti votivi a Lanuhali" },
     { "gameKey": "quest/050/KinGzc005_05064#TEXT_KINGZC005_05064_TODO_02", "hash": "736597B44487CA05", "target": "Consegnare il sacco di frutti benedetti ad A'anuhanu" },
     { "gameKey": "quest/050/KinGzc005_05064#TEXT_KINGZC005_05064_AANUHANU_000_000", "hash": "017E40B817AD011C", "target": "Siete <if(gnum4,la compagna,il compagno)> di Wuk Lamat, vero? Kixaihih mi sorride! Speravo che il grande uccello guidasse da me qualcuno che ha salvato il villaggio." },

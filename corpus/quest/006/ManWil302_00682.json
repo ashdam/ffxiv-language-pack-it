@@ -37,7 +37,7 @@
     { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEPERSONNEL_000_28", "hash": "71D743DE566680B0", "target": "<split(<string(gstr1)>, ,1)>, non c'è tempo per le formalità! Le Fiamme Immortali hanno bisogno del vostro aiuto <italic(1)>adesso<italic(0)>!" },
     { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEPERSONNEL_000_29", "hash": "814AD192CA444A2C", "target": "Siamo nel mezzo di una vasta operazione contro gli Amalj'aa e non abbiamo nessuno disponibile nel Thanalan occidentale. Dovete raggiungere quella nave prima dei garleani!" },
     { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEPERSONNEL_000_30", "hash": "83576264EDACDF8F", "target": "Se ci sono superstiti, assicuratevi che non subiscano altri danni. Ora andate!" },
-    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_Q3_000_1", "hash": "075D33CB7D097CD6", "target": "Il dovere chiama. Vuoi procedere con<br>«The Company You Keep (Immortal Flames)»?" },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_Q3_000_1", "hash": "075D33CB7D097CD6", "target": "Il dovere chiama. Vuoi procedere con<br>«La compagnia che scegli (Fiamme Immortali)»?" },
     { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_A3_000_1", "hash": "692FD92F8B106875", "target": "Sì" },
     { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_A3_000_2", "hash": "E9A23A55E3344FA8", "target": "No" },
     { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_BIGGS_000_40", "hash": "1AE2A56731DDBAF3", "target": "<if(gnum4,Un'avventuriera,Un avventuriero)>!? Che ci fai qui? No, aspetta─prima troviamo un riparo..." },

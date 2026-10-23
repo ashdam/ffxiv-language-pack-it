@@ -3,8 +3,8 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_SEQ_00", "hash": "C7E2B7C772A08043", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Molti nel contingente di Ilsabard si sono lamentati degli imperiali che lasciano armi perfettamente utilizzabili in giro per la città." },
-    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_TODO_00", "hash": "465D6C14317DE2A8", "target": "Raccogliere le discarded weapon" },
-    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_TODO_01", "hash": "1030438942F0E4AF", "target": "Consegnare le discarded weapon a Kochacha" },
+    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_TODO_00", "hash": "465D6C14317DE2A8", "target": "Raccogliere le armi abbandonate" },
+    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_TODO_01", "hash": "1030438942F0E4AF", "target": "Consegnare le armi abbandonate a Kochacha" },
     { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_KOCHACHA_000_000", "hash": "480A9688055A090F", "target": "<split(<string(gstr1)>, ,1)>. Posso disturbarti un momento? Suppongo che tu abbia già sentito parlare del recupero delle armi abbandonate." },
     { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_KOCHACHA_000_001", "hash": "B9981D25DADC9EFF", "target": "No? Davvero? Allora è un bene che tu mi abbia trovato. Come sai, secondo la tregua, la I Legione ha deposto le armi. Purtroppo i soldati le hanno deposte dove capitava e ora sono sparse per tutta la città." },
     { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_KOCHACHA_000_002", "hash": "B9C44C9972524816", "target": "Se ti imbatti, o più probabilmente <italic(1)>inciampi<italic(0)>, in queste armi imperiali, ti chiediamo di raccoglierle e riportarcele subito." },

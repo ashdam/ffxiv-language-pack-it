@@ -56,6 +56,6 @@
     { "gameKey": "quest/041/AktKla304_04149#TEXT_AKTKLA304_04149_DEBROYE_000_060", "hash": "F17DFC1354D4EDB7", "target": "Scaldiamo il forno e mostriamo al professore di che pasta siamo <if(gnum4,fatte,fatti)>, noi e le nostre pagnotte!" },
     { "gameKey": "quest/041/AktKla304_04149#TEXT_AKTKLA304_04149_SYSTEM_000_061", "hash": "A58148F5059CA503", "target": "Debroye è felicissima dei tuoi sforzi. Ora ti considera <colortype(500)><edgecolortype(501)>Irreplaceable Baker<edgecolortype(0)><colortype(0)>!" },
     { "gameKey": "quest/041/AktKla304_04149#TEXT_AKTKLA304_04149_SYSTEM_000_062", "hash": "18A8C771A7C14963", "target": "Ora è disponibile una nuova missione che prosegue la storia della Facoltà di Medicina." },
-    { "gameKey": "quest/041/AktKla304_04149#TEXT_AKTKLA304_04149_SYSTEM_100_063", "hash": "C14CE4812E1D6648", "target": "Per intraprendere la missione successiva, devi prima completare la missione dello scenario principale “Under His Wing”." }
+    { "gameKey": "quest/041/AktKla304_04149#TEXT_AKTKLA304_04149_SYSTEM_100_063", "hash": "C14CE4812E1D6648", "target": "Per intraprendere la missione successiva, devi prima completare la missione dello scenario principale “Sotto la sua ala”." }
   ]
 }

@@ -10,7 +10,7 @@
     { "gameKey": "quest/049/KinGmf106_04951#TEXT_KINGMF106_04951_TODO_04", "hash": "30AB5DA20D37906C", "target": "Parlare con il cavaliere d'altri tempi" },
     { "gameKey": "quest/049/KinGmf106_04951#TEXT_KINGMF106_04951_TODO_05", "hash": "A01A5486BC6D5CCB", "target": "Parlare con Wuk Lamat" },
     { "gameKey": "quest/049/KinGmf106_04951#TEXT_KINGMF106_04951_GRAHATIA_000_001", "hash": "4C2ABF60F33B2CA2", "target": "Mi ero preparato, ma cancellare davvero gli Eterni è... difficile." },
-    { "gameKey": "quest/049/KinGmf106_04951#TEXT_KINGMF106_04951_KRILE_000_002", "hash": "AD502B3AB8537080", "target": "Questo è il vero aspetto di Living Memory..." },
+    { "gameKey": "quest/049/KinGmf106_04951#TEXT_KINGMF106_04951_KRILE_000_002", "hash": "AD502B3AB8537080", "target": "Questo è il vero aspetto di Memoria Vivente..." },
     { "gameKey": "quest/049/KinGmf106_04951#TEXT_KINGMF106_04951_ERENVILLE_000_003", "hash": "855C2FDFD2B0E903", "target": "..." },
     { "gameKey": "quest/049/KinGmf106_04951#TEXT_KINGMF106_04951_WUKLAMAT_000_004", "hash": "7EC1632B15BBCF94", "target": "Ho scelto questo cammino. Non mi fermerò." },
     { "gameKey": "quest/049/KinGmf106_04951#TEXT_KINGMF106_04951_CAHCIUA_000_005", "hash": "BC2255492AC590FC", "target": "Non tormentatevi così. Sono stata io a chiedervelo, quindi la responsabilità è mia." },
@@ -50,7 +50,7 @@
     { "gameKey": "quest/049/KinGmf106_04951#TEXT_KINGMF106_04951_WUKLAMAT_000_028", "hash": "535AAF9CF4D77FD0", "target": "Come prima, parleremo con gli Eterni. Scopriremo ciò che hanno a cuore prima di fare quello che dobbiamo." },
     { "gameKey": "quest/049/KinGmf106_04951#TEXT_KINGMF106_04951_WUKLAMAT_000_029", "hash": "4A1E7B5DDD19ACA7", "target": "Bene, cominciamo a esplorare e a orientarci!" },
     { "gameKey": "quest/049/KinGmf106_04951#TEXT_KINGMF106_04951_SYSTEM_000_060", "hash": "59417FBDB527217F", "target": "La splendida decorazione sul suolo raffigura un vortice di stelle. Forse un tempo uno spettacolo simile era visibile nel cielo notturno di Alexandria." },
-    { "gameKey": "quest/049/KinGmf106_04951#TEXT_KINGMF106_04951_SYSTEM_000_061", "hash": "2D27FEBAE52D11C7", "target": "Questo edificio, che sembra un'abitazione, ricorda quelli sommersi a Heritage Found. Le finestre presentano un variopinto mosaico di vetri colorati." },
+    { "gameKey": "quest/049/KinGmf106_04951#TEXT_KINGMF106_04951_SYSTEM_000_061", "hash": "2D27FEBAE52D11C7", "target": "Questo edificio, che sembra un'abitazione, ricorda quelli sommersi a Eredità Ritrovata. Le finestre presentano un variopinto mosaico di vetri colorati." },
     { "gameKey": "quest/049/KinGmf106_04951#TEXT_KINGMF106_04951_CHILDENDLESS04951_000_062", "hash": "C6FAD8B7C2BA20CC", "target": "Oh, salve, <if(gnum4,signorina,signore)>! Stavamo parlando di Ser Otis. Lo conosci?" },
     { "gameKey": "quest/049/KinGmf106_04951#TEXT_KINGMF106_04951_CHILDENDLESS04951_000_063", "hash": "266BC8345A48B517", "target": "È un po' strano e non capisce le battute, ma è fortissimo e può sconfiggere i mostri in un lampo!" },
     { "gameKey": "quest/049/KinGmf106_04951#TEXT_KINGMF106_04951_CHILDENDLESS04951_000_064", "hash": "6176FD168F41C72D", "target": "Probabilmente è là fuori a combattere proprio adesso. Da grande voglio essere forte come lui!" },
@@ -59,7 +59,7 @@
     { "gameKey": "quest/049/KinGmf106_04951#TEXT_KINGMF106_04951_SYSTEM_000_080", "hash": "330C3F3E984CC6C5", "target": "Un uomo sta combattendo contro dei mostri. Potrebbe aver bisogno di una mano." },
     { "gameKey": "quest/049/KinGmf106_04951#TEXT_KINGMF106_04951_OTIS_000_085", "hash": "0FD6AAEF38B8D5BA", "target": "È evidente che avete dimestichezza con la battaglia. Se volete occuparvi di questo mostro, io proteggerò i bambini!" },
     { "gameKey": "quest/049/KinGmf106_04951#TEXT_KINGMF106_04951_WUKLAMAT_000_110", "hash": "E88EC66323DE9C41", "target": "Dèi, che sorpresa incontrare Otis." },
-    { "gameKey": "quest/049/KinGmf106_04951#TEXT_KINGMF106_04951_WUKLAMAT_000_111", "hash": "C2D42669FA865DE5", "target": "Forse non è esattamente lo stesso che abbiamo incontrato a Heritage Found, ma comunque..." },
+    { "gameKey": "quest/049/KinGmf106_04951#TEXT_KINGMF106_04951_WUKLAMAT_000_111", "hash": "C2D42669FA865DE5", "target": "Forse non è esattamente lo stesso che abbiamo incontrato a Eredità Ritrovata, ma comunque..." },
     { "gameKey": "quest/049/KinGmf106_04951#TEXT_KINGMF106_04951_WUKLAMAT_000_112", "hash": "FC9BAA6618A0FDA3", "target": "Ora che ci penso, aveva detto di essere stato una cavia per la conservazione delle anime. Questo potrebbe spiegare perché si trovi qui in questa forma." },
     { "gameKey": "quest/049/KinGmf106_04951#TEXT_KINGMF106_04951_WUKLAMAT_000_113", "hash": "4148A2257D17D1C7", "target": "In ogni caso, mi piacerebbe parlare ancora con lui. Ci sono alcune cose che devo dirgli." }
   ]

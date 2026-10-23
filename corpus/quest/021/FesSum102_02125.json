@@ -2,15 +2,15 @@
   "conversation": "quest/021/FesSum102_02125",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/021/FesSum102_02125#TEXT_FESSUM102_02125_SEQ_00", "hash": "9073101C7D39C1FF", "target": "" },
-    { "gameKey": "quest/021/FesSum102_02125#TEXT_FESSUM102_02125_SEQ_01", "hash": "A29605397C725A2E", "target": "" },
-    { "gameKey": "quest/021/FesSum102_02125#TEXT_FESSUM102_02125_SEQ_02", "hash": "4AC32FD25281D9EA", "target": "" },
-    { "gameKey": "quest/021/FesSum102_02125#TEXT_FESSUM102_02125_TODO_00", "hash": "A9488591A2EF4375", "target": "" },
-    { "gameKey": "quest/021/FesSum102_02125#TEXT_FESSUM102_02125_CZIBHOTIA_000_000", "hash": "4D4C4ADA3DDB7C41", "target": "" },
-    { "gameKey": "quest/021/FesSum102_02125#TEXT_FESSUM102_02125_CZIBHOTIA_000_001", "hash": "9374464A44153226", "target": "" },
-    { "gameKey": "quest/021/FesSum102_02125#TEXT_FESSUM102_02125_CZIBHOTIA_000_002", "hash": "0A7472210C5E0E11", "target": "" },
-    { "gameKey": "quest/021/FesSum102_02125#TEXT_FESSUM102_02125_CZIBHOTIA_000_005", "hash": "388FF14B7A9CA96F", "target": "" },
-    { "gameKey": "quest/021/FesSum102_02125#TEXT_FESSUM102_02125_CZIBHOTIA_000_020", "hash": "3D05AA04C221CEBE", "target": "" },
-    { "gameKey": "quest/021/FesSum102_02125#TEXT_FESSUM102_02125_CZIBHOTIA_000_021", "hash": "0EC1BE91CA17139A", "target": "" }
+    { "gameKey": "quest/021/FesSum102_02125#TEXT_FESSUM102_02125_SEQ_00", "hash": "9073101C7D39C1FF", "target": "Non puoi non notare quanto sia indaffarato C'zibho Tia─sarebbe un peccato lasciarlo da solo.<br>※Questa missione è disponibile solo per un periodo limitato." },
+    { "gameKey": "quest/021/FesSum102_02125#TEXT_FESSUM102_02125_SEQ_01", "hash": "A29605397C725A2E", "target": "C'zibho Tia fatica a stare al passo con l'appetito degli ospiti di Costa del Sol e ha bisogno d'aiuto per preparare porzioni di battered fish. Ti spiega che l'ingrediente principale, il pesce haddock, si può comprare da una bancarella vicina. Prepara il battered fish e portaglielo prima che finisca il cibo da vendere.<br><br>※Non potrai completare questa missione dopo la fine dell'evento stagionale. Per maggiori dettagli, consulta il Lodestone." },
+    { "gameKey": "quest/021/FesSum102_02125#TEXT_FESSUM102_02125_SEQ_02", "hash": "4AC32FD25281D9EA", "target": "C'zibho Tia apprezza il battered fish che gli hai consegnato ed è sollevato di non dover ancora mandare via i clienti. Lui ed Espan sembrano dissentire su cosa renda importante un piatto: Espan bada alla qualità del pesce, mentre C'zibho Tia sostiene che, una volta fritto, la qualità non conti. I molti ospiti della Festa del Fuoco Lunare sembrano comunque soddisfatti, e C'zibho Tia ti chiede di portargli altre porzioni di battered fish quando le avrai preparate." },
+    { "gameKey": "quest/021/FesSum102_02125#TEXT_FESSUM102_02125_TODO_00", "hash": "A9488591A2EF4375", "target": "Consegnare una porzione di battered fish a C'zibho Tia" },
+    { "gameKey": "quest/021/FesSum102_02125#TEXT_FESSUM102_02125_CZIBHOTIA_000_000", "hash": "4D4C4ADA3DDB7C41", "target": "Ah, hai valutato le possibilità e deciso di aiutare il vecchio C'zibho Tia, eh? Ti ringrazio, e ti prometto che sarà un po' più piacevole di quello che ti farebbe fare Espan." },
+    { "gameKey": "quest/021/FesSum102_02125#TEXT_FESSUM102_02125_CZIBHOTIA_000_001", "hash": "9374464A44153226", "target": "Sono qui per riempire di battered fish le pance dei nostri cari ospiti, ma tanti di noi sono occupati coi pirati che riesco a malapena a soddisfare la domanda." },
+    { "gameKey": "quest/021/FesSum102_02125#TEXT_FESSUM102_02125_CZIBHOTIA_000_002", "hash": "0A7472210C5E0E11", "target": "Se vuoi aiutare, ci serve sempre del battered fish. Puoi comprare il pesce haddock, l'ingrediente principale, dal pescatore festoso laggiù. Portami le porzioni quando hai finito." },
+    { "gameKey": "quest/021/FesSum102_02125#TEXT_FESSUM102_02125_CZIBHOTIA_000_005", "hash": "388FF14B7A9CA96F", "target": "Abbiamo a malapena abbastanza battered fish per sfamare gli ospiti affamati! Portamene quanto puoi prima che siamo costretti a mandar via la gente." },
+    { "gameKey": "quest/021/FesSum102_02125#TEXT_FESSUM102_02125_CZIBHOTIA_000_020", "hash": "3D05AA04C221CEBE", "target": "Magnifico! Lo mangerei io, se non ci fossero tanti clienti. Espan non capisce la richiesta─probabilmente sta ancora a rimuginare sulla freschezza del pesce. Ma quando hai fame, una volta impastellato e fritto è tutto uguale." },
+    { "gameKey": "quest/021/FesSum102_02125#TEXT_FESSUM102_02125_CZIBHOTIA_000_021", "hash": "0EC1BE91CA17139A", "target": "Ti ringrazio. Alla Festa del Fuoco Lunare non mancano mai i festaioli affamati: parlami se ti va di cucinare ancora per noi." }
   ]
 }

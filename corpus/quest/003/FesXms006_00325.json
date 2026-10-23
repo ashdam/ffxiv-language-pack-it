@@ -2,18 +2,18 @@
   "conversation": "quest/003/FesXms006_00325",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_SEQ_00", "hash": "815B218C7D67CCEE", "target": "" },
-    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_SEQ_01", "hash": "6928A3FB6B804442", "target": "" },
-    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_SEQ_02", "hash": "C47D40C11D269A38", "target": "" },
-    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_TODO_00", "hash": "5CCD513043BE84B8", "target": "" },
-    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_AMHGARANJY_000_000", "hash": "0C6FB4A64C19B645", "target": "" },
-    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_AMHGARANJY_000_001", "hash": "4C5A7F5364C1DFE0", "target": "" },
-    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_AMHGARANJY_000_002", "hash": "EA99ECB07040ABCD", "target": "" },
-    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_AMHGARANJY_000_003", "hash": "2219709EB169780D", "target": "" },
-    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_VOLUNTEER65861_000_010", "hash": "325029C6B83AA433", "target": "" },
-    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_VOLUNTEER65861_000_011", "hash": "B2C86B4C9BDAC614", "target": "" },
-    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_VOLUNTEER65861_000_012", "hash": "3A299E94EDA8A243", "target": "" },
-    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_SYSTEM_000_14", "hash": "E7B90E969CE603E4", "target": "" },
-    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_SYSTEM_000_15", "hash": "4A8FA14DD6E29A5C", "target": "" }
+    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_SEQ_00", "hash": "815B218C7D67CCEE", "target": "Amh Garanjy vorrebbe che proseguissi il volontariato ai Lavandeti.<br>※Questa missione è disponibile solo per un periodo limitato." },
+    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_SEQ_01", "hash": "6928A3FB6B804442", "target": "Amh Garanjy accoglie con piacere il tuo continuo aiuto ai Lavandeti. Parla con il piccolo aiutante del Santo a Yainu-Par e scopri cos'altro puoi fare per sostenere la Festa delle Stelle.<br><br>※Non potrai completare questa missione dopo la conclusione dell'evento stagionale. Per maggiori dettagli, consulta il Lodestone." },
+    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_SEQ_02", "hash": "C47D40C11D269A38", "target": "L'aiutante ha saputo del tuo impegno a dare una mano e sembra impaziente di metterti al lavoro. Parla ancora con il volontario per contribuire ai festeggiamenti dei Lavandeti." },
+    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_TODO_00", "hash": "5CCD513043BE84B8", "target": "Parlare con il piccolo aiutante del Santo ai Lavandeti" },
+    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_AMHGARANJY_000_000", "hash": "0C6FB4A64C19B645", "target": "Volete fare ancora di più per la festa? Splendido! Se desiderate concentrare i vostri sforzi qui ai Lavandeti, parlate con l'aiutante laggiù." },
+    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_AMHGARANJY_000_001", "hash": "4C5A7F5364C1DFE0", "target": "I festeggiamenti portano sempre con sé una miriade di commissioni, e non so cosa farei senza i miei devoti volontari. Per quanto vorrei farmi carico di tutto, semplicemente non è possibile..." },
+    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_AMHGARANJY_000_002", "hash": "EA99ECB07040ABCD", "target": "...Ma non perdiamo tempo in pensieri malinconici! Abbiamo una festa gioiosa da organizzare!" },
+    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_AMHGARANJY_000_003", "hash": "2219709EB169780D", "target": "Se desiderate continuare a darci una mano qui ai Lavandeti, parlate con l'aiutante laggiù, a sinistra dei mammet. Grazie del vostro aiuto, <split(<string(gstr1)>, ,1)>!" },
+    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_VOLUNTEER65861_000_010", "hash": "325029C6B83AA433", "target": "Salve! Devi essere la persona di cui parlava la celebrante." },
+    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_VOLUNTEER65861_000_011", "hash": "B2C86B4C9BDAC614", "target": "Se non sbaglio, hai già recuperato una lettera e consegnato un regalo, vero? Allora hai tutto ciò che serve per gli incarichi che ti affiderò, perché sono della stessa natura." },
+    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_VOLUNTEER65861_000_012", "hash": "3A299E94EDA8A243", "target": "Oh, per caso ti preoccupa il contenuto dei regali che distribuirai? Non ce n'è bisogno. Sono semplici oggetti di legno: archi giocattolo, spilloni per capelli e simili, benedetti dagli Uditori in persona!" },
+    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_SYSTEM_000_14", "hash": "E7B90E969CE603E4", "target": "Ora puoi accettare una missione giornaliera dall'aiutante dei Lavandeti." },
+    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_SYSTEM_000_15", "hash": "4A8FA14DD6E29A5C", "target": "Completando questo incarico ripetibile, otterrai fallen stars da scambiare con oggetti stagionali della Festa delle Stelle." }
   ]
 }

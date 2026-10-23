@@ -37,6 +37,6 @@
     { "gameKey": "quest/049/KinGla503_04998#TEXT_KINGLA503_04998_DONUHANU_000_052", "hash": "749BD9246C9AFB67", "target": "Continuiamo entrambi ad affinare le nostre capacità, eh, <if(gnum4,ragazza,ragazzo)>? Non si sa mai cosa servirà a Pashenine la prossima volta!" },
     { "gameKey": "quest/049/KinGla503_04998#TEXT_KINGLA503_04998_SYSTEM_000_053", "hash": "EBCCDC7A1E54D735", "target": "Donuhanu è felicissimo del tuo impegno. Ora ti considera <colortype(500)><edgecolortype(501)>Firm Fish Finder<edgecolortype(0)><colortype(0)>!" },
     { "gameKey": "quest/049/KinGla503_04998#TEXT_KINGLA503_04998_SYSTEM_000_060", "hash": "9B6DEB0AD0DBC1D7", "target": "La prossima missione di Donuhanu sarà disponibile una volta raggiunto il livello 95 come Fisher." },
-    { "gameKey": "quest/049/KinGla503_04998#TEXT_KINGLA503_04998_SYSTEM_000_061", "hash": "877C12DC0EEDF78E", "target": "Per intraprendere la missione successiva, devi prima completare la missione dello scenario principale “The Skyruin”." }
+    { "gameKey": "quest/049/KinGla503_04998#TEXT_KINGLA503_04998_SYSTEM_000_061", "hash": "877C12DC0EEDF78E", "target": "Per intraprendere la missione successiva, devi prima completare la missione dello scenario principale “La rovina dal cielo”." }
   ]
 }

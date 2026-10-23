@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/028/StmBdz994_02888#TEXT_STMBDZ994_02888_SEQ_00", "hash": "3EED912E7E02409E", "target": "Bertliana è riposata e impaziente di ripartire." },
-    { "gameKey": "quest/028/StmBdz994_02888#TEXT_STMBDZ994_02888_SEQ_01", "hash": "0CC5263FDBD71FDD", "target": "Ansiosa di raggiungere Ala Mhigo, Bertliana invita il gruppo a riprendere la marcia verso la città stato. Concordi di incontrarli nei Lochs." },
+    { "gameKey": "quest/028/StmBdz994_02888#TEXT_STMBDZ994_02888_SEQ_01", "hash": "0CC5263FDBD71FDD", "target": "Ansiosa di raggiungere Ala Mhigo, Bertliana invita il gruppo a riprendere la marcia verso la città stato. Concordi di incontrarli nei Laghi." },
     { "gameKey": "quest/028/StmBdz994_02888#TEXT_STMBDZ994_02888_SEQ_02", "hash": "CA4679304CD958C1", "target": "Janyn ferma il gruppo: ha saputo che informatori imperiali cercano di fuggire ad Ala Mhigo travestiti da profughi. Ogni equivoco si chiarisce però quando ti riconosce come <if([gnum4==0],l'eroe,l'eroina)> della rivoluzione. Proseguite verso l'High Bank." },
     { "gameKey": "quest/028/StmBdz994_02888#TEXT_STMBDZ994_02888_SEQ_03", "hash": "834638BABA021ABE", "target": "Il gruppo viene assalito da minotauri, che non possono però competere con la tua forza." },
     { "gameKey": "quest/028/StmBdz994_02888#TEXT_STMBDZ994_02888_SEQ_04", "hash": "C45F930DCAD11F6E", "target": "Bertliana raduna i suoi compatrioti e si dirige verso l'Ala Mhigan Quarter nella speranza di trovare Wichard." },
@@ -13,7 +13,7 @@
     { "gameKey": "quest/028/StmBdz994_02888#TEXT_STMBDZ994_02888_TODO_02", "hash": "58FE4B512401A706", "target": "Parlare con Bertliana" },
     { "gameKey": "quest/028/StmBdz994_02888#TEXT_STMBDZ994_02888_TODO_03", "hash": "24AE08256CA0CF64", "target": "Parlare con Wichard" },
     { "gameKey": "quest/028/StmBdz994_02888#TEXT_STMBDZ994_02888_PASSIONATESOLDIER02888_100_000", "hash": "8F1003B2AE94ED55", "target": "Ormai siamo vicinissimi. Ancora non credo che potrò finalmente tornare a casa." },
-    { "gameKey": "quest/028/StmBdz994_02888#TEXT_STMBDZ994_02888_BERTLIANA_000_000", "hash": "333D01F1C386DEAB", "target": "Credo che abbiamo riposato abbastanza. La prossima destinazione sono i Lochs, passando per Castrum Abania." },
+    { "gameKey": "quest/028/StmBdz994_02888#TEXT_STMBDZ994_02888_BERTLIANA_000_000", "hash": "333D01F1C386DEAB", "target": "Credo che abbiamo riposato abbastanza. La prossima destinazione sono i Laghi, passando per Castrum Abania." },
     { "gameKey": "quest/028/StmBdz994_02888#TEXT_STMBDZ994_02888_BERTLIANA_000_001", "hash": "62AAD473D8BEC330", "target": "Da lì ci vorrà pochissimo per arrivare ad Ala Mhigo. Forza, tutti quanti!" },
     { "gameKey": "quest/028/StmBdz994_02888#TEXT_STMBDZ994_02888_JANYN_000_002", "hash": "62AAD0E952AEA2AF", "target": "Ho saputo che informatori imperiali cercano di fuggire travestiti da profughi. Non posso farvi passare senza qualcosa che dimostri la vostra identità." },
     { "gameKey": "quest/028/StmBdz994_02888#TEXT_STMBDZ994_02888_PASSIONATESOLDIER02888_000_003", "hash": "CF1FB67463B93BF4", "target": "Che cosa devo dire per convincerti che vogliamo soltanto tornare a casa!?" },

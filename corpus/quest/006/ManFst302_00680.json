@@ -38,7 +38,7 @@
     { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_SERPENTPERSONNEL_000_29", "hash": "23AED422B4ACE9A4", "target": "Con ogni probabilità, l'aeronave trasportava dei civili e, se i rapporti sono esatti, è precipitata pericolosamente vicino a un territorio occupato dai garleani." },
     { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_SERPENTPERSONNEL_000_30", "hash": "4039D2521340ACDE", "target": "Recatevi in fretta nella zona a sud-est delle Nove Edere, trovate l'aeronave e verificate le condizioni dei passeggeri." },
     { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_SERPENTPERSONNEL_000_40", "hash": "8806173B4F5314E3", "target": "Riteniamo che l'aeronave sia precipitata da qualche parte a sud-est delle Nove Edere. Andateci subito e verificate le condizioni dei passeggeri." },
-    { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_Q3_000_1", "hash": "2393E92CD203E79E", "target": "Il dovere chiama. Vuoi procedere con<br>«The Company You Keep (Twin Adder)»?" },
+    { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_Q3_000_1", "hash": "2393E92CD203E79E", "target": "Il dovere chiama. Vuoi procedere con<br>«La compagnia che scegli (Due Vipere)»?" },
     { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_A3_000_1", "hash": "C06A547D34D43BA6", "target": "Sì" },
     { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_A3_000_2", "hash": "132FD0F9629ED79D", "target": "No" },
     { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_BIGGS_000_40", "hash": "558CDAD53D5F85D5", "target": "<if(gnum4,Un'avventuriera,Un avventuriero)>!? Che ci fai qui? No, aspetta─prima troviamo un riparo..." },

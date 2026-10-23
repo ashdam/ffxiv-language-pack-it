@@ -2,11 +2,11 @@
   "conversation": "dungeon/000/DungeonOmega2_00000",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "dungeon/000/DungeonOmega2_00000#TEXT_DUNGEONOMEGA2_00000_OMEGA_000_000", "hash": "DB05DD4286A98B24", "target": "" },
-    { "gameKey": "dungeon/000/DungeonOmega2_00000#TEXT_DUNGEONOMEGA2_00000_OMEGA_000_001", "hash": "C77F37632A320A0C", "target": "" },
-    { "gameKey": "dungeon/000/DungeonOmega2_00000#TEXT_DUNGEONOMEGA2_00000_OMEGA_000_002", "hash": "647245988C2968FF", "target": "" },
-    { "gameKey": "dungeon/000/DungeonOmega2_00000#TEXT_DUNGEONOMEGA2_00000_OMEGA_000_003", "hash": "6659F672BF19E0B9", "target": "" },
-    { "gameKey": "dungeon/000/DungeonOmega2_00000#TEXT_DUNGEONOMEGA2_00000_OMEGA_000_004", "hash": "B1685F17AB7A45EF", "target": "" },
-    { "gameKey": "dungeon/000/DungeonOmega2_00000#TEXT_DUNGEONOMEGA2_00000_OMEGA_000_005", "hash": "11A6F5B26FCFCF1F", "target": "" }
+    { "gameKey": "dungeon/000/DungeonOmega2_00000#TEXT_DUNGEONOMEGA2_00000_OMEGA_000_000", "hash": "DB05DD4286A98B24", "target": "Il potere era mio... Ho ottenuto l'incommensurabile, e ora è giunta la mia fine." },
+    { "gameKey": "dungeon/000/DungeonOmega2_00000#TEXT_DUNGEONOMEGA2_00000_OMEGA_000_001", "hash": "C77F37632A320A0C", "target": "\\<blup> Impossibile elaborare..." },
+    { "gameKey": "dungeon/000/DungeonOmega2_00000#TEXT_DUNGEONOMEGA2_00000_OMEGA_000_002", "hash": "647245988C2968FF", "target": "Dici che non è la fine? Proseguiamo... insieme?" },
+    { "gameKey": "dungeon/000/DungeonOmega2_00000#TEXT_DUNGEONOMEGA2_00000_OMEGA_000_003", "hash": "6659F672BF19E0B9", "target": "\\<bip> Ricevuto. Accetto la tua proposta." },
+    { "gameKey": "dungeon/000/DungeonOmega2_00000#TEXT_DUNGEONOMEGA2_00000_OMEGA_000_004", "hash": "B1685F17AB7A45EF", "target": "Il vostro contributo al mio esperimento è apprezzato. Senza la vostra forza instancabile, non avrei mai scoperto questo nuovo potenziale." },
+    { "gameKey": "dungeon/000/DungeonOmega2_00000#TEXT_DUNGEONOMEGA2_00000_OMEGA_000_005", "hash": "11A6F5B26FCFCF1F", "target": "Intraprenderò un viaggio, osservando e registrando tutto ciò che incontrerò. Addio, mortali. Questo mondo ha molto da insegnarmi..." }
   ]
 }

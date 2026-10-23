@@ -91,6 +91,6 @@
     { "gameKey": "quest/030/StmBdd107_03076#TEXT_STMBDD107_03076_THANCRED_000_101", "hash": "68F9D42967C8BA2B", "target": "Abbiamo tutti i nostri talenti. I miei richiedono una lingua d'argento e passi silenziosi. Prometto di mandare notizie non appena scoprirò qualcosa d'importante." },
     { "gameKey": "quest/030/StmBdd107_03076#TEXT_STMBDD107_03076_YSHTOLA_000_102", "hash": "177D222C2C6122C6", "target": "Assicurati di avvisare anche me. Intendo partire per Doma non appena troverò una nave adatta della Compagnia Commerciale dell'Aldenard Orientale che mi conduca fin là, ma tornerò se necessario." },
     { "gameKey": "quest/030/StmBdd107_03076#TEXT_STMBDD107_03076_ALISAIE_000_103", "hash": "ABEF0A87D2EAF4E5", "target": "Passa a trovarmi la prossima volta che sarai da queste parti, <split(<string(gstr1)>, ,1)>. Con un po' di fortuna avrò un rapporto dolorosamente dettagliato di Alphinaud da condividere." },
-    { "gameKey": "quest/030/StmBdd107_03076#TEXT_STMBDD107_03076_SYSTEM_100_104", "hash": "1898648144ADF7C5", "target": "Hai appreso l'emote <colortype(500)><edgecolortype(501)>Ponder<edgecolortype(0)><colortype(0)>!" }
+    { "gameKey": "quest/030/StmBdd107_03076#TEXT_STMBDD107_03076_SYSTEM_100_104", "hash": "1898648144ADF7C5", "target": "Hai appreso l'emote <colortype(500)><edgecolortype(501)>Riflettere<edgecolortype(0)><colortype(0)>!" }
   ]
 }

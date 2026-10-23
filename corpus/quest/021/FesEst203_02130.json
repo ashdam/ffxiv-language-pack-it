@@ -2,17 +2,17 @@
   "conversation": "quest/021/FesEst203_02130",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_SEQ_00", "hash": "28AF77DC786BAAC6", "target": "" },
-    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_SEQ_01", "hash": "7ABD6D7386A86F2F", "target": "" },
-    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_SEQ_02", "hash": "29B0E2CFAB63CA6E", "target": "" },
-    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_SEQ_03", "hash": "943300F4C6F61E1C", "target": "" },
-    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_TODO_00", "hash": "AB29D3F6188B5C5C", "target": "" },
-    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_TODO_01", "hash": "D724B6BD649F0A81", "target": "" },
-    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_EGGHUNTINGSTAFFB02130_000_001", "hash": "D2E09E4F6BDD957D", "target": "" },
-    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_EGGHUNTINGSTAFFB02130_000_002", "hash": "A0C88318EC5B0954", "target": "" },
-    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_EGGHUNTINGSTAFFB02130_000_003", "hash": "2CE6CD732CBF8774", "target": "" },
-    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_EGGHUNTINGSTAFFB02130_100_010", "hash": "92657293FEB324CA", "target": "" },
-    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_EGGHUNTINGSTAFFB02130_000_010", "hash": "90BFA17748F83704", "target": "" },
-    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_EGGHUNTINGSTAFFB02130_000_011", "hash": "747A8161F6A5ECD9", "target": "" }
+    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_SEQ_00", "hash": "28AF77DC786BAAC6", "target": "Il collezionista colto ti rivolge un sorriso.<br>※Questa missione è disponibile solo per un periodo limitato." },
+    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_SEQ_01", "hash": "7ABD6D7386A86F2F", "target": "Il collezionista colto ti spiega che l'enorme benediction egg che rotola per Vecchia Gridania è in realtà frutto di un incantesimo dei silfi. Sebbene sembri quasi immacolato nonostante la velocità con cui sfreccia tra la folla, il collezionista ti invita a staccarne un pezzo di guscio strofinandoci sopra una polvere magica. Insegui quell'uovo degno di un re.<br><br>※Non potrai completare questa missione dopo la conclusione dell'evento stagionale. Per maggiori informazioni, consulta il Lodestone." },
+    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_SEQ_02", "hash": "29B0E2CFAB63CA6E", "target": "Riesci a staccare un pezzo dal benediction egg. Torna all'Anfiteatro di Mih Khetto e consegnalo al collezionista colto." },
+    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_SEQ_03", "hash": "943300F4C6F61E1C", "target": "Il collezionista colto è soddisfatto dell'ottimo pezzo che sei <if(gnum4,riuscita,riuscito)> a staccare e ti consegna il premio. Aspetti pazientemente una battuta sulle uova, per poi scoprire che preferisce lasciarle ai suoi colleghi." },
+    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_TODO_00", "hash": "AB29D3F6188B5C5C", "target": "Usare la polvere di scaglie scintillanti sul benediction egg per ottenere un frammento d'uovo" },
+    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_TODO_01", "hash": "D724B6BD649F0A81", "target": "Consegnare il frammento d'uovo al collezionista colto" },
+    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_EGGHUNTINGSTAFFB02130_000_001", "hash": "D2E09E4F6BDD957D", "target": "Avrete senz'altro visto l'enorme uovo che saltella per le strade di Vecchia Gridania. I nostri amici silfi lo hanno incantato proprio per l'occasione: rotola su radici, pietre e persone, ma non ha nemmeno un graffio!" },
+    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_EGGHUNTINGSTAFFB02130_000_002", "hash": "A0C88318EC5B0954", "target": "Ed ecco la sfida. Vi darò una polvere magica che, strofinata a fondo su un punto dell'uovo, ne indebolirà il guscio. Se riuscite a raggiungerlo e staccarne un frammento, portatemelo e scambiatelo con me per una ricompensa più fortunata!" },
+    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_EGGHUNTINGSTAFFB02130_000_003", "hash": "2CE6CD732CBF8774", "target": "Ricordate che il tempismo è tutto. Non si sa mai quando l'uovo ripartirà, quindi vi consiglio di lanciarvici appena si ferma." },
+    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_EGGHUNTINGSTAFFB02130_100_010", "hash": "92657293FEB324CA", "target": "Inseguire l'uovo può stancare in fretta. Siete qui per riposare un po'?" },
+    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_EGGHUNTINGSTAFFB02130_000_010", "hash": "90BFA17748F83704", "target": "Ah, sembra che la vostra determinazione abbia trionfato. Questo è proprio un pezzo di benediction egg. Vi consegnerò la ricompensa promessa." },
+    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_EGGHUNTINGSTAFFB02130_000_011", "hash": "747A8161F6A5ECD9", "target": "Splendido lavoro, e tornate a trovarmi, <if(gnum4,mia buona signora,mio buon signore)>! ...Ah, sì, avete notato che non ho detto <italic(1)>uovottimo<italic(0)> o qualcosa del genere? Sarò anche un Sognatore, ma come altri trovo che le battute dei miei colleghi siano un po'... stancanti, a volte." }
   ]
 }

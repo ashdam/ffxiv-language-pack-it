@@ -2,9 +2,9 @@
   "sheet": "VVDNotebookSeries",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "VVDNotebookSeries#1", "hash": "081B98873404BB4F", "target": "" },
-    { "gameKey": "VVDNotebookSeries#2", "hash": "6B8DEC67A2B17D80", "target": "" },
-    { "gameKey": "VVDNotebookSeries#3", "hash": "0AEA2C1131E03158", "target": "" },
-    { "gameKey": "VVDNotebookSeries#4", "hash": "A1709F08AFC3200E", "target": "" }
+    { "gameKey": "VVDNotebookSeries#1", "hash": "081B98873404BB4F", "target": "Resoconto delle esplorazioni di Sil'dih" },
+    { "gameKey": "VVDNotebookSeries#2", "hash": "6B8DEC67A2B17D80", "target": "Resoconto degli esorcismi del Mount Rokkon" },
+    { "gameKey": "VVDNotebookSeries#3", "hash": "0AEA2C1131E03158", "target": "Resoconto sulla tutela di Aloalo" },
+    { "gameKey": "VVDNotebookSeries#4", "hash": "A1709F08AFC3200E", "target": "Raccolta del folclore di Corvos" }
   ]
 }

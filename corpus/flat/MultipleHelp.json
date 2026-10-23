@@ -2,10 +2,10 @@
   "sheet": "MultipleHelp",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "MultipleHelp#2.1", "hash": "9CE80F1E2538F721", "target": "" },
-    { "gameKey": "MultipleHelp#3.1", "hash": "8E86506509EF7F8B", "target": "" },
-    { "gameKey": "MultipleHelp#4.1", "hash": "2953C4AACD419C05", "target": "" },
-    { "gameKey": "MultipleHelp#5.1", "hash": "5CE7446B6CDAE786", "target": "" },
-    { "gameKey": "MultipleHelp#6.1", "hash": "479D82D716679C0F", "target": "" }
+    { "gameKey": "MultipleHelp#2.1", "hash": "9CE80F1E2538F721", "target": "Guida al Raid Finder" },
+    { "gameKey": "MultipleHelp#3.1", "hash": "8E86506509EF7F8B", "target": "Guida al Duty Finder" },
+    { "gameKey": "MultipleHelp#4.1", "hash": "2953C4AACD419C05", "target": "Guida al V&C Dungeon Finder" },
+    { "gameKey": "MultipleHelp#5.1", "hash": "5CE7446B6CDAE786", "target": "Guida ai ritratti dei membri del gruppo" },
+    { "gameKey": "MultipleHelp#6.1", "hash": "479D82D716679C0F", "target": "Guida al Command Panel" }
   ]
 }

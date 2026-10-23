@@ -22,7 +22,7 @@
     { "gameKey": "quest/003/ClsThm200_00351#TEXT_CLSTHM200_00351_TODO_06", "hash": "0070944398FCDB34", "target": "Esaminare lo sperone roccioso in ombra" },
     { "gameKey": "quest/003/ClsThm200_00351#TEXT_CLSTHM200_00351_TODO_07", "hash": "6A9E422DF9655882", "target": "Fare rapporto a Cocoboha alla Gilda dei Taumaturghi" },
     { "gameKey": "quest/003/ClsThm200_00351#TEXT_CLSTHM200_00351_TODO_08", "hash": "F8D1D777F5F6B7E7", "target": "Parlare con Cocobuki" },
-    { "gameKey": "quest/003/ClsThm200_00351#TEXT_CLSTHM200_00351_SCENE00019_INSTANCE_BATTLE_YESNO_TITLE", "hash": "0ADFC05BF28BB0FE", "target": "Il dovere chiama. Vuoi procedere con<br>«The Threat of Perplexity»?" },
+    { "gameKey": "quest/003/ClsThm200_00351#TEXT_CLSTHM200_00351_SCENE00019_INSTANCE_BATTLE_YESNO_TITLE", "hash": "0ADFC05BF28BB0FE", "target": "Il dovere chiama. Vuoi procedere con<br>«La minaccia della confusione»?" },
     { "gameKey": "quest/003/ClsThm200_00351#TEXT_CLSTHM200_00351_SCENE00019_INSTANCE_BATTLE_YESNO_YES", "hash": "5797A4D18E860203", "target": "Sì" },
     { "gameKey": "quest/003/ClsThm200_00351#TEXT_CLSTHM200_00351_SCENE00019_INSTANCE_BATTLE_YESNO_NO", "hash": "00AA880F85772595", "target": "No" },
     { "gameKey": "quest/003/ClsThm200_00351#TEXT_CLSTHM200_00351_COCOBUKI_000_001", "hash": "837C70CD92CE8E11", "target": "<split(<string(gstr1)>, ,1)>, sei in salvo! Temevo che fossi <if(gnum4,caduta,caduto)> vittima dell'«Ammazzamaghi»! Non hai sentito parlare della recente serie di orribili omicidi avvenuti a Ul'dah?" },

@@ -15,7 +15,7 @@
     { "gameKey": "quest/046/AktKva101_04646#TEXT_AKTKVA101_04646_TODO_02", "hash": "C4450DC40FFD24AA", "target": "Entrare nel Sil'dihn Subterrane" },
     { "gameKey": "quest/046/AktKva101_04646#TEXT_AKTKVA101_04646_TODO_03", "hash": "21A57E77BFCBC0A5", "target": "Parlare con il Sil'dihn Subterrane foreman" },
     { "gameKey": "quest/046/AktKva101_04646#TEXT_AKTKVA101_04646_TODO_04", "hash": "5958E600BBC7EE22", "target": "Parlare con Kokoshu a Ul'dah" },
-    { "gameKey": "quest/046/AktKva101_04646#TEXT_AKTKVA101_04646_TODO_05", "hash": "6517278F9DDE34FE", "target": "Parlare con Shallow Moor a Old Sharlayan" },
+    { "gameKey": "quest/046/AktKva101_04646#TEXT_AKTKVA101_04646_TODO_05", "hash": "6517278F9DDE34FE", "target": "Parlare con Shallow Moor a Vecchia Sharlayan" },
     { "gameKey": "quest/046/AktKva101_04646#TEXT_AKTKVA101_04646_SHALLOWMOOR_000_001", "hash": "61233172C6313AEA", "target": "Allora, <split(<string(gstr1)>, ,1)>, hai trovato un momento libero nella tua fitta agenda di ammazzadei?" },
     { "gameKey": "quest/046/AktKva101_04646#TEXT_AKTKVA101_04646_SHALLOWMOOR_000_002", "hash": "77CC7A277BDB3551", "target": "Splendido. Abbiamo una lettera della signora Momodi indirizzata a te. Leggila pure, intanto cerco la perla di contatto con cui devo comunicarle la tua risposta." },
     { "gameKey": "quest/046/AktKva101_04646#TEXT_AKTKVA101_04646_MOMODI_000_003", "hash": "3B0C8F7EA66EEC87", "target": "<italic(1)><if(gnum4,Cara,Caro)> <split(<string(gstr1)>, ,1)>,<br>spero che tu stia bene e accetti ancora incarichi della gilda, perché ne abbiamo uno fatto apposta per te.<italic(0)>" },

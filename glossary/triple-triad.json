@@ -1,0 +1,253 @@
+{
+  "_comment": [
+    "Use these names for the specified Triple Triad rules and tournaments. Do not apply them to unrelated words or controls.",
+    "Reference glossary. CorpusValidator does not load these scoped entries as global terms."
+  ],
+  "entries": [
+    {
+      "en": "Roulette",
+      "it": "Roulette",
+      "protect": false,
+      "scopeRule": {
+        "labelGameKey": "TripleTriadRule#1.0",
+        "referenceGameKeys": []
+      },
+      "note": "Use only for the identified Triple Triad rule or tournament and its exact-key references. Do not use as a global word replacement; preserve ordinary words and complete unrelated labels."
+    },
+    {
+      "en": "All Open",
+      "it": "Tutte scoperte",
+      "protect": false,
+      "scopeRule": {
+        "labelGameKey": "TripleTriadRule#2.0",
+        "referenceGameKeys": [
+          "custom/002/CmnGscTripleTriadGuide_00238#TEXT_CMNGSCTRIPLETRIADGUIDE_00238_A3_000_001",
+          "custom/002/CmnGscTripleTriadGuide_00238#TEXT_CMNGSCTRIPLETRIADGUIDE_00238_TTGUIDE_401_001",
+          "custom/003/CmnGscTripleTriadMatching_00370#TEXT_CMNGSCTRIPLETRIADMATCHING_00370_MATCHING_200_002"
+        ]
+      },
+      "note": "Use only for the identified Triple Triad rule or tournament and its exact-key references. Do not use as a global word replacement; preserve ordinary words and complete unrelated labels."
+    },
+    {
+      "en": "Three Open",
+      "it": "Tre scoperte",
+      "protect": false,
+      "scopeRule": {
+        "labelGameKey": "TripleTriadRule#3.0",
+        "referenceGameKeys": [
+          "custom/002/CmnGscTripleTriadGuide_00238#TEXT_CMNGSCTRIPLETRIADGUIDE_00238_A3_000_002",
+          "custom/002/CmnGscTripleTriadGuide_00238#TEXT_CMNGSCTRIPLETRIADGUIDE_00238_TTGUIDE_402_001",
+          "custom/003/CmnGscTripleTriadMatching_00370#TEXT_CMNGSCTRIPLETRIADMATCHING_00370_MATCHING_200_002"
+        ]
+      },
+      "note": "Use only for the identified Triple Triad rule or tournament and its exact-key references. Do not use as a global word replacement; preserve ordinary words and complete unrelated labels."
+    },
+    {
+      "en": "Same",
+      "it": "Coppia",
+      "protect": false,
+      "scopeRule": {
+        "labelGameKey": "TripleTriadRule#4.0",
+        "referenceGameKeys": [
+          "custom/002/CmnGscTripleTriadGuide_00238#TEXT_CMNGSCTRIPLETRIADGUIDE_00238_A3_000_003",
+          "custom/002/CmnGscTripleTriadGuide_00238#TEXT_CMNGSCTRIPLETRIADGUIDE_00238_TTGUIDE_403_001",
+          "custom/002/CmnGscTripleTriadGuide_00238#TEXT_CMNGSCTRIPLETRIADGUIDE_00238_TTGUIDE_403_003"
+        ]
+      },
+      "note": "Use only for the identified Triple Triad rule or tournament and its exact-key references. Do not use as a global word replacement; preserve ordinary words and complete unrelated labels."
+    },
+    {
+      "en": "Sudden Death",
+      "it": "Morte improvvisa",
+      "protect": false,
+      "scopeRule": {
+        "labelGameKey": "TripleTriadRule#5.0",
+        "referenceGameKeys": [
+          "custom/002/CmnGscTripleTriadGuide_00238#TEXT_CMNGSCTRIPLETRIADGUIDE_00238_A3_000_004",
+          "custom/002/CmnGscTripleTriadGuide_00238#TEXT_CMNGSCTRIPLETRIADGUIDE_00238_TTGUIDE_404_001",
+          "custom/002/CmnGscTripleTriadGuide_00238#TEXT_CMNGSCTRIPLETRIADGUIDE_00238_TTGUIDE_404_002",
+          "custom/002/CmnGscTripleTriadGuide_00238#TEXT_CMNGSCTRIPLETRIADGUIDE_00238_TTGUIDE_404_003"
+        ]
+      },
+      "note": "Use only for the identified Triple Triad rule or tournament and its exact-key references. Do not use as a global word replacement; preserve ordinary words and complete unrelated labels."
+    },
+    {
+      "en": "Plus",
+      "it": "Plus",
+      "protect": false,
+      "scopeRule": {
+        "labelGameKey": "TripleTriadRule#6.0",
+        "referenceGameKeys": []
+      },
+      "note": "Use only for the identified Triple Triad rule or tournament and its exact-key references. Do not use as a global word replacement; preserve ordinary words and complete unrelated labels."
+    },
+    {
+      "en": "Random",
+      "it": "Mano a caso",
+      "protect": false,
+      "scopeRule": {
+        "labelGameKey": "TripleTriadRule#7.0",
+        "referenceGameKeys": [
+          "custom/002/CmnGscTripleTriadGuide_00238#TEXT_CMNGSCTRIPLETRIADGUIDE_00238_A3_000_006",
+          "custom/002/CmnGscTripleTriadGuide_00238#TEXT_CMNGSCTRIPLETRIADGUIDE_00238_TTGUIDE_406_001",
+          "custom/002/CmnGscTripleTriadGuide_00238#TEXT_CMNGSCTRIPLETRIADGUIDE_00238_TTGUIDE_406_002"
+        ]
+      },
+      "note": "Use only for the identified Triple Triad rule or tournament and its exact-key references. Do not use as a global word replacement; preserve ordinary words and complete unrelated labels."
+    },
+    {
+      "en": "Order",
+      "it": "Ordine",
+      "protect": false,
+      "scopeRule": {
+        "labelGameKey": "TripleTriadRule#8.0",
+        "referenceGameKeys": [
+          "custom/002/CmnGscTripleTriadGuide_00238#TEXT_CMNGSCTRIPLETRIADGUIDE_00238_A3_000_007",
+          "custom/002/CmnGscTripleTriadGuide_00238#TEXT_CMNGSCTRIPLETRIADGUIDE_00238_TTGUIDE_407_001"
+        ]
+      },
+      "note": "Use only for the identified Triple Triad rule or tournament and its exact-key references. Do not use as a global word replacement; preserve ordinary words and complete unrelated labels."
+    },
+    {
+      "en": "Chaos",
+      "it": "Caos",
+      "protect": false,
+      "scopeRule": {
+        "labelGameKey": "TripleTriadRule#9.0",
+        "referenceGameKeys": [
+          "custom/002/CmnGscTripleTriadGuide_00238#TEXT_CMNGSCTRIPLETRIADGUIDE_00238_A3_000_008",
+          "custom/002/CmnGscTripleTriadGuide_00238#TEXT_CMNGSCTRIPLETRIADGUIDE_00238_TTGUIDE_408_001"
+        ]
+      },
+      "note": "Use only for the identified Triple Triad rule or tournament and its exact-key references. Do not use as a global word replacement; preserve ordinary words and complete unrelated labels."
+    },
+    {
+      "en": "Reverse",
+      "it": "Al contrario",
+      "protect": false,
+      "scopeRule": {
+        "labelGameKey": "TripleTriadRule#10.0",
+        "referenceGameKeys": [
+          "custom/002/CmnGscTripleTriadGuide_00238#TEXT_CMNGSCTRIPLETRIADGUIDE_00238_A3_000_009",
+          "custom/002/CmnGscTripleTriadGuide_00238#TEXT_CMNGSCTRIPLETRIADGUIDE_00238_TTGUIDE_409_001",
+          "custom/002/CmnGscTripleTriadGuide_00238#TEXT_CMNGSCTRIPLETRIADGUIDE_00238_TTGUIDE_410_002"
+        ]
+      },
+      "note": "Use only for the identified Triple Triad rule or tournament and its exact-key references. Do not use as a global word replacement; preserve ordinary words and complete unrelated labels."
+    },
+    {
+      "en": "Fallen Ace",
+      "it": "Asso caduto",
+      "protect": false,
+      "scopeRule": {
+        "labelGameKey": "TripleTriadRule#11.0",
+        "referenceGameKeys": [
+          "custom/002/CmnGscTripleTriadGuide_00238#TEXT_CMNGSCTRIPLETRIADGUIDE_00238_A3_000_010",
+          "custom/002/CmnGscTripleTriadGuide_00238#TEXT_CMNGSCTRIPLETRIADGUIDE_00238_TTGUIDE_410_001",
+          "custom/002/CmnGscTripleTriadGuide_00238#TEXT_CMNGSCTRIPLETRIADGUIDE_00238_TTGUIDE_411_003"
+        ]
+      },
+      "note": "Use only for the identified Triple Triad rule or tournament and its exact-key references. Do not use as a global word replacement; preserve ordinary words and complete unrelated labels."
+    },
+    {
+      "en": "Ascension",
+      "it": "Ascendente",
+      "protect": false,
+      "scopeRule": {
+        "labelGameKey": "TripleTriadRule#12.0",
+        "referenceGameKeys": [
+          "custom/002/CmnGscTripleTriadGuide_00238#TEXT_CMNGSCTRIPLETRIADGUIDE_00238_A3_000_011",
+          "custom/002/CmnGscTripleTriadGuide_00238#TEXT_CMNGSCTRIPLETRIADGUIDE_00238_TTGUIDE_411_001"
+        ]
+      },
+      "note": "Use only for the identified Triple Triad rule or tournament and its exact-key references. Do not use as a global word replacement; preserve ordinary words and complete unrelated labels."
+    },
+    {
+      "en": "Descension",
+      "it": "Discendente",
+      "protect": false,
+      "scopeRule": {
+        "labelGameKey": "TripleTriadRule#13.0",
+        "referenceGameKeys": [
+          "custom/002/CmnGscTripleTriadGuide_00238#TEXT_CMNGSCTRIPLETRIADGUIDE_00238_A3_000_012",
+          "custom/002/CmnGscTripleTriadGuide_00238#TEXT_CMNGSCTRIPLETRIADGUIDE_00238_TTGUIDE_412_001"
+        ]
+      },
+      "note": "Use only for the identified Triple Triad rule or tournament and its exact-key references. Do not use as a global word replacement; preserve ordinary words and complete unrelated labels."
+    },
+    {
+      "en": "Swap",
+      "it": "Scambio",
+      "protect": false,
+      "scopeRule": {
+        "labelGameKey": "TripleTriadRule#14.0",
+        "referenceGameKeys": [
+          "custom/002/CmnGscTripleTriadGuide_00238#TEXT_CMNGSCTRIPLETRIADGUIDE_00238_A3_000_013",
+          "custom/002/CmnGscTripleTriadGuide_00238#TEXT_CMNGSCTRIPLETRIADGUIDE_00238_TTGUIDE_413_001"
+        ]
+      },
+      "note": "Use only for the identified Triple Triad rule or tournament and its exact-key references. Do not use as a global word replacement; preserve ordinary words and complete unrelated labels."
+    },
+    {
+      "en": "Draft",
+      "it": "Selezione",
+      "protect": false,
+      "scopeRule": {
+        "labelGameKey": "TripleTriadRule#15.0",
+        "referenceGameKeys": [
+          "custom/002/CmnGscTripleTriadGuide_00238#TEXT_CMNGSCTRIPLETRIADGUIDE_00238_A3_000_016",
+          "custom/002/CmnGscTripleTriadGuide_00238#TEXT_CMNGSCTRIPLETRIADGUIDE_00238_TTGUIDE_415_001",
+          "custom/002/CmnGscTripleTriadGuide_00238#TEXT_CMNGSCTRIPLETRIADGUIDE_00238_TTGUIDE_415_002",
+          "custom/007/CmnGscTripleTriadLTDTournament_00703#TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_SYSTEM_005",
+          "custom/007/CmnGscTripleTriadLTDTournament_00703#TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_SYSTEM_105",
+          "LogMessage#4906"
+        ]
+      },
+      "note": "Use only for the identified Triple Triad rule or tournament and its exact-key references. Do not use as a global word replacement; preserve ordinary words and complete unrelated labels."
+    },
+    {
+      "en": "the Manderville Tournament of Champions",
+      "it": "il Torneo dei Campioni Manderville",
+      "protect": false,
+      "scopeRule": {
+        "labelGameKey": "TripleTriadCompetition#1",
+        "referenceGameKeys": []
+      },
+      "note": "Use only for the identified Triple Triad rule or tournament and its exact-key references. Do not use as a global word replacement; preserve ordinary words and complete unrelated labels."
+    },
+    {
+      "en": "the Spinner's Pull",
+      "it": "il Premio della Filatrice",
+      "protect": false,
+      "scopeRule": {
+        "labelGameKey": "TripleTriadCompetition#2",
+        "referenceGameKeys": [
+          "custom/002/CmnGscTripleTriadCup_00247#TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_030_000"
+        ]
+      },
+      "note": "Use only for the identified Triple Triad rule or tournament and its exact-key references. Do not use as a global word replacement; preserve ordinary words and complete unrelated labels."
+    },
+    {
+      "en": "the Durai Memorial",
+      "it": "il Memoriale Durai",
+      "protect": false,
+      "scopeRule": {
+        "labelGameKey": "TripleTriadCompetition#3",
+        "referenceGameKeys": [
+          "custom/002/CmnGscTripleTriadCup_00247#TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_030_000"
+        ]
+      },
+      "note": "Use only for the identified Triple Triad rule or tournament and its exact-key references. Do not use as a global word replacement; preserve ordinary words and complete unrelated labels."
+    },
+    {
+      "en": "the Rowena Cup Classic",
+      "it": "la Coppa Classica Rowena",
+      "protect": false,
+      "scopeRule": {
+        "labelGameKey": "TripleTriadCompetition#4",
+        "referenceGameKeys": []
+      },
+      "note": "Use only for the identified Triple Triad rule or tournament and its exact-key references. Do not use as a global word replacement; preserve ordinary words and complete unrelated labels."
+    }
+  ]
+}
