@@ -1,8 +1,7 @@
 {
   "_comment": [
     "Hand-decided terms. Format in docs/glossary.md of ffxiv-corpus-en.",
-    "Demonyms, peoples and keyed place names use demonyms.json, tribes.json and placename-override.json. Evidence and limits are in sources.json.",
-    "Scoped rule names and book titles are in triple-triad.json and books.json. Do not apply them as global terms.",
+    "Demonyms, peoples and keyed place names use demonyms.json, tribes.json and placename-override.json.",
     "Creature names are in creature-families.json. NPC names use bnpc-canonical-names.json and enpc-canonical-names.json.",
     "protect true: the English stays. protect false: translate it, and the `it` column is the agreed rendering.",
     "fr and ja are copied from corpus lines; empty means that language uses no fixed term."
