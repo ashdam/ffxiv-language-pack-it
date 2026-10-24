@@ -1,7 +1,7 @@
 {
   "_comment": [
     "Use these names for the specified Triple Triad rules and tournaments. Do not apply them to unrelated words or controls.",
-    "Reference glossary. CorpusValidator does not load these scoped entries as global terms."
+    "CorpusValidator checks only the declared label and reference keys, not global word matches."
   ],
   "entries": [
     {

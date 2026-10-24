@@ -2,7 +2,7 @@
   "conversation": "custom/000/RegFstCnjGuild_00023",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/000/RegFstCnjGuild_00023#TEXT_REGFSTCNJGUILD_00023_ESUMIYAN_000_1", "hash": "F495A902A03B2F60", "target": "Salve, <if(gnum4,avventuriera,avventuriero)>. Vi trovate a Stillglade Fane, sede della Conjurers' Guild. Come posso esservi utile?" },
+    { "gameKey": "custom/000/RegFstCnjGuild_00023#TEXT_REGFSTCNJGUILD_00023_ESUMIYAN_000_1", "hash": "F495A902A03B2F60", "target": "Salve, <if(gnum4,avventuriera,avventuriero)>. Vi trovate al Tempio della Radura Quieta, sede della Gilda degli Invocatori. Come posso esservi utile?" },
     { "gameKey": "custom/000/RegFstCnjGuild_00023#TEXT_REGFSTCNJGUILD_00023_Q1_000_1", "hash": "1F46656D09CC9D0A", "target": "Cosa vuoi chiedere?" },
     { "gameKey": "custom/000/RegFstCnjGuild_00023#TEXT_REGFSTCNJGUILD_00023_A1_000_1", "hash": "5D14FFB32FF07D4F", "target": "Di cosa vi occupate qui?" },
     { "gameKey": "custom/000/RegFstCnjGuild_00023#TEXT_REGFSTCNJGUILD_00023_A1_000_2", "hash": "124700E464DD170F", "target": "Cos'è la magia invocativa?" },

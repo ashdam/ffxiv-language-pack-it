@@ -3,10 +3,10 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKzi015_03551#TEXT_LUCKZI015_03551_SEQ_00", "hash": "711D840C18712F42", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Bomott si guarda intorno timidamente." },
-    { "gameKey": "quest/035/LucKzi015_03551#TEXT_LUCKZI015_03551_TODO_00", "hash": "572B0F1C6A21AEEF", "target": "Raccogliere sassolini lisci nell'alto corso del Watts River" },
+    { "gameKey": "quest/035/LucKzi015_03551#TEXT_LUCKZI015_03551_TODO_00", "hash": "572B0F1C6A21AEEF", "target": "Raccogliere sassolini lisci nell'Alto Corso del Fiume Watts" },
     { "gameKey": "quest/035/LucKzi015_03551#TEXT_LUCKZI015_03551_TODO_01", "hash": "73134F3E5585936E", "target": "Consegnare i sassolini lisci a Bomott" },
     { "gameKey": "quest/035/LucKzi015_03551#TEXT_LUCKZI015_03551_BOMOTT_000_000", "hash": "010C2D41120C94EF", "target": "Lali-ho! Speravo di parlare con te, <if(gnum4,straniera,straniero)>! Potresti aiutarmi in un semplice compito? È qualcosa che... non posso chiedere a nessuno a Tomra." },
-    { "gameKey": "quest/035/LucKzi015_03551#TEXT_LUCKZI015_03551_BOMOTT_000_001", "hash": "829D54A4B277B60A", "target": "Lo farai!? Oh, grazie! Mi servono solo tre piccoli ciottoli dall'alto corso del Watts River. Lisci e levigati. Tutto qui." },
+    { "gameKey": "quest/035/LucKzi015_03551#TEXT_LUCKZI015_03551_BOMOTT_000_001", "hash": "829D54A4B277B60A", "target": "Lo farai!? Oh, grazie! Mi servono solo tre piccoli ciottoli dall'Alto Corso del Fiume Watts. Lisci e levigati. Tutto qui." },
     { "gameKey": "quest/035/LucKzi015_03551#TEXT_LUCKZI015_03551_BOMOTT_000_002", "hash": "A41239F3217D9C03", "target": "Portami tre ciottoli dal fiume, e ti sarò eternamente grato! Non posso rivolgermi a nessun altro..." },
     { "gameKey": "quest/035/LucKzi015_03551#TEXT_LUCKZI015_03551_BOMOTT_000_010", "hash": "73DB0B22D9BC983A", "target": "Ti prego, dimmi che hai portato i ciottoli..." },
     { "gameKey": "quest/035/LucKzi015_03551#TEXT_LUCKZI015_03551_BOMOTT_000_011", "hash": "D0B3F771A2A7E90B", "target": "Sì, proprio ciò che mi serviva! Grazie!" },

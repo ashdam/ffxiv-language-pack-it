@@ -44,6 +44,6 @@
     { "gameKey": "quest/045/AktKmi107_04598#TEXT_AKTKMI107_04598_SYSTEM_000_221", "hash": "7289267B0AC53616", "target": "Non potrai tornare liberamente nel Tredicesimo. Vuoi davvero andartene?" },
     { "gameKey": "quest/045/AktKmi107_04598#TEXT_AKTKMI107_04598_VARSHAHN_000_222", "hash": "547FA161A5EAD6A3", "target": "Torniamo a Troia, allora, e da lì a casa..." },
     { "gameKey": "quest/045/AktKmi107_04598#TEXT_AKTKMI107_04598_MEGHADUTAEMPLOYEE_000_400", "hash": "65E8EF866660E3E5", "target": "<if(gnum4,Signora,Signor)> <split(<string(gstr1)>, ,2)>, vi aspettavamo. Se volete seguirmi, vi mostrerò le stanze degli ospiti." },
-    { "gameKey": "quest/045/AktKmi107_04598#TEXT_AKTKMI107_04598_SYSTEM_000_401", "hash": "D3D1A9E3E43FA8EE", "target": "Raggiungere le stanze degli ospiti del Meghaduta?" }
+    { "gameKey": "quest/045/AktKmi107_04598#TEXT_AKTKMI107_04598_SYSTEM_000_401", "hash": "D3D1A9E3E43FA8EE", "target": "Raggiungere le Camere degli ospiti del Meghaduta?" }
   ]
 }

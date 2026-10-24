@@ -3,8 +3,8 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/033/LucKza015_03357#TEXT_LUCKZA015_03357_SEQ_00", "hash": "60BC2CF4E9E644CF", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Hastelot è in una situazione più grande di lui." },
-    { "gameKey": "quest/033/LucKza015_03357#TEXT_LUCKZA015_03357_TODO_00", "hash": "00F9CB38076B29B9", "target": "Esaminare la scia di cereali sparsi a est di Wright" },
-    { "gameKey": "quest/033/LucKza015_03357#TEXT_LUCKZA015_03357_TODO_01", "hash": "28F997587DD9FAC5", "target": "Esaminare la scia di cereali sparsi a ovest del Chisel" },
+    { "gameKey": "quest/033/LucKza015_03357#TEXT_LUCKZA015_03357_TODO_00", "hash": "00F9CB38076B29B9", "target": "Esaminare la scia di cereali sparsi a est di Carpentiere" },
+    { "gameKey": "quest/033/LucKza015_03357#TEXT_LUCKZA015_03357_TODO_01", "hash": "28F997587DD9FAC5", "target": "Esaminare la scia di cereali sparsi a ovest dello Scalpello" },
     { "gameKey": "quest/033/LucKza015_03357#TEXT_LUCKZA015_03357_TODO_02", "hash": "B92137790AD0CD76", "target": "Affrontare l'ex soldato eulmorano e sconfiggere i banditi" },
     { "gameKey": "quest/033/LucKza015_03357#TEXT_LUCKZA015_03357_TODO_03", "hash": "818CC9CD8E6869D3", "target": "Fare rapporto a Hastelot" },
     { "gameKey": "quest/033/LucKza015_03357#TEXT_LUCKZA015_03357_HASTELOT_000_000", "hash": "FAEE11973E72D027", "target": "Scusami, <if(gnum4,signorina,signore)>...? Ti prego, dimmi che sai combattere..." },

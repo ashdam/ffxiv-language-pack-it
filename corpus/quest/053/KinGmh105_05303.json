@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/053/KinGmh105_05303#TEXT_KINGMH105_05303_SEQ_00", "hash": "862DB2A32E053063", "target": "Negli occhi di Sphene si legge il dolore." },
-    { "gameKey": "quest/053/KinGmh105_05303#TEXT_KINGMH105_05303_TODO_00", "hash": "5830E9CFA1826669", "target": "Parlare con Krile al Backroom" },
+    { "gameKey": "quest/053/KinGmh105_05303#TEXT_KINGMH105_05303_TODO_00", "hash": "5830E9CFA1826669", "target": "Parlare con Krile al Retrobottega" },
     { "gameKey": "quest/053/KinGmh105_05303#TEXT_KINGMH105_05303_TODO_01", "hash": "0D6E5B99AA491EB1", "target": "Parlare con Sphene" },
     { "gameKey": "quest/053/KinGmh105_05303#TEXT_KINGMH105_05303_WUKLAMAT_000_000", "hash": "6F11B652A3C5E7C8", "target": "..." },
     { "gameKey": "quest/053/KinGmh105_05303#TEXT_KINGMH105_05303_GULOOLJA_000_001", "hash": "0BD4D20EBFF72ACA", "target": "Che parole crudeli per Sphene..." },
@@ -18,7 +18,7 @@
     { "gameKey": "quest/053/KinGmh105_05303#TEXT_KINGMH105_05303_ORIGINALSPHENE_000_021", "hash": "62B4FCD17181C9B1", "target": "Conoscete Preservazione?" },
     { "gameKey": "quest/053/KinGmh105_05303#TEXT_KINGMH105_05303_WUKLAMAT_000_022", "hash": "5F27A38A1B1953DE", "target": "Sì. A quanto sappiamo, hanno creato il sistema centrale di Everkeep e la Sphene Eterna." },
     { "gameKey": "quest/053/KinGmh105_05303#TEXT_KINGMH105_05303_ORIGINALSPHENE_000_023", "hash": "2BCFCA1164040378", "target": "Davvero? Tutto mentre io dormivo..." },
-    { "gameKey": "quest/053/KinGmh105_05303#TEXT_KINGMH105_05303_GULOOLJA_000_024", "hash": "2F9FBD2C42007145", "target": "I membri di Oblivion hanno indagato a lungo su Preservazione. Dovremmo tornare al Backroom e raccontare cos'è successo." },
+    { "gameKey": "quest/053/KinGmh105_05303#TEXT_KINGMH105_05303_GULOOLJA_000_024", "hash": "2F9FBD2C42007145", "target": "I membri di Oblivion hanno indagato a lungo su Preservazione. Dovremmo tornare al Retrobottega e raccontare cos'è successo." },
     { "gameKey": "quest/053/KinGmh105_05303#TEXT_KINGMH105_05303_WUKLAMAT_000_025", "hash": "BDF46F3AF4E046B8", "target": "Abbiamo riassunto la situazione agli altri, ma i dettagli possono aspettare, se hai bisogno di riposare." },
     { "gameKey": "quest/053/KinGmh105_05303#TEXT_KINGMH105_05303_GULOOLJA_000_026", "hash": "9E567F9D87830351", "target": "Ti senti bene?" },
     { "gameKey": "quest/053/KinGmh105_05303#TEXT_KINGMH105_05303_ORIGINALSPHENE_000_027", "hash": "C420929CE2FDC6B2", "target": "Pensare che i genitori di Krile facevano parte di Preservazione..." },

@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/009/GaiUsc308_00975#TEXT_GAIUSC308_00975_SEQ_00", "hash": "DFA9A69AB6E07092", "target": "Hedyn ha dimenticato di restituirti il cristallo corrotto." },
-    { "gameKey": "quest/009/GaiUsc308_00975#TEXT_GAIUSC308_00975_SEQ_01", "hash": "C087FB72C384FB38", "target": "La tua inspiegabilmente lunga ed estenuante ricerca di un cristallo corrotto è finalmente giunta al termine. Consegna il cristallo a Cid presso l'approdo aeronautico di Nuova Gridania." },
+    { "gameKey": "quest/009/GaiUsc308_00975#TEXT_GAIUSC308_00975_SEQ_01", "hash": "C087FB72C384FB38", "target": "La tua inspiegabilmente lunga ed estenuante ricerca di un cristallo corrotto è finalmente giunta al termine. Consegna il cristallo a Cid presso l'Approdo delle aeronavi di Nuova Gridania." },
     { "gameKey": "quest/009/GaiUsc308_00975#TEXT_GAIUSC308_00975_SEQ_02", "hash": "EFCD86A80D52E0AD", "target": "Il lavoro di Cid sull'<italic(1)>Enterprise<italic(0)> è quasi terminato. Gli resta solo da collaudare il cristallo che hai portato. Con la voce gonfia d'orgoglio, Cid dichiara che presto l'aeronave diventerà qualcosa di molto più grande, qualcosa di straordinario. Non ti resta che attendere i frutti del suo lavoro." },
     { "gameKey": "quest/009/GaiUsc308_00975#TEXT_GAIUSC308_00975_TODO_00", "hash": "A72A8F7988F3246E", "target": "Consegnare il cristallo corrotto a Cid" },
     { "gameKey": "quest/009/GaiUsc308_00975#TEXT_GAIUSC308_00975_HEDYN_000_000", "hash": "4A2498058E60EF51", "target": "Perdonatemi, <split(<string(gstr1)>, ,1)>─ho dimenticato di restituirvi il cristallo." },

@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/008/GaiUsb411_00867#TEXT_GAIUSB411_00867_SEQ_00", "hash": "A39F5472CA96B700", "target": "La guaritrice A'rhunlika ti saluta con un sorriso e una faccenda da sbrigare, come suo solito. Chi potrebbe lamentarsi, con una causa così buona e un sorriso così bello?" },
-    { "gameKey": "quest/008/GaiUsb411_00867#TEXT_GAIUSB411_00867_SEQ_01", "hash": "0963527EC19F1E04", "target": "A'rhunlika ha preparato un vino speziato ricco d'erbe e del profumo del sole di Wineport, e deve scaldarlo. Porta le bottiglie alla sorgente termale e immergile." },
+    { "gameKey": "quest/008/GaiUsb411_00867#TEXT_GAIUSB411_00867_SEQ_01", "hash": "0963527EC19F1E04", "target": "A'rhunlika ha preparato un vino speziato ricco d'erbe e del profumo del sole di Porto del Vino, e deve scaldarlo. Porta le bottiglie alla sorgente termale e immergile." },
     { "gameKey": "quest/008/GaiUsb411_00867#TEXT_GAIUSB411_00867_SEQ_02", "hash": "A882A1E8BAD7B251", "target": "Dal vapore delicato e dal profumo intenso, giudichi che il vino speziato sia ben caldo. Riprendi il vino caldo dove l'hai lasciato." },
     { "gameKey": "quest/008/GaiUsb411_00867#TEXT_GAIUSB411_00867_SEQ_03", "hash": "DBCF122CFABAD12B", "target": "Tieni in mano un nettare salutare, caldo come il deserto meridionale e profondo come il mare del nord. Consegna il vino ai soldati che guariscono sotto le cure di A'rhunlika." },
     { "gameKey": "quest/008/GaiUsb411_00867#TEXT_GAIUSB411_00867_SEQ_04", "hash": "2D51DB29AA508B32", "target": "Hai servito il vino caldo alle donne e agli uomini feriti. Parla con A'rhunlika." },
@@ -12,7 +12,7 @@
     { "gameKey": "quest/008/GaiUsb411_00867#TEXT_GAIUSB411_00867_TODO_01", "hash": "D7DC86B24145F89E", "target": "Prendere le bottiglie di vino caldo dalla sorgente termale" },
     { "gameKey": "quest/008/GaiUsb411_00867#TEXT_GAIUSB411_00867_TODO_02", "hash": "6E9BEC9B5F30A1F5", "target": "Dare il vino caldo ai soldati convalescenti" },
     { "gameKey": "quest/008/GaiUsb411_00867#TEXT_GAIUSB411_00867_TODO_03", "hash": "604C860694566795", "target": "Fare rapporto ad A'rhunlika" },
-    { "gameKey": "quest/008/GaiUsb411_00867#TEXT_GAIUSB411_00867_ARHUNLIKA_000_000", "hash": "F48BE155C964013B", "target": "Usiamo il vino speziato di Wineport per curare i feriti di guerra. Riequilibra gli umori del corpo e rinvigorisce i cuori stanchi di febbre." },
+    { "gameKey": "quest/008/GaiUsb411_00867#TEXT_GAIUSB411_00867_ARHUNLIKA_000_000", "hash": "F48BE155C964013B", "target": "Usiamo il vino speziato di Porto del Vino per curare i feriti di guerra. Riequilibra gli umori del corpo e rinvigorisce i cuori stanchi di febbre." },
     { "gameKey": "quest/008/GaiUsb411_00867#TEXT_GAIUSB411_00867_ARHUNLIKA_000_001", "hash": "AC3FC5BC234595DD", "target": "Perché non vi rendete utile, <if(gnum4,avventuriera,avventuriero)>? Ho preparato del vino speziato e devo scaldarlo per ottenere vino caldo. Potreste immergere queste bottiglie nella sorgente laggiù e servirle a chi ne ha tanto bisogno?" },
     { "gameKey": "quest/008/GaiUsb411_00867#TEXT_GAIUSB411_00867_TODO_000_020", "hash": "177DE7C0B77F0D5E", "target": "Interagire con la wine bottle per ottenere quattro porzioni di vino caldo" },
     { "gameKey": "quest/008/GaiUsb411_00867#TEXT_GAIUSB411_00867_IMUMU_000_030", "hash": "2B42C26170E464AA", "target": "Maledizione...ricordo a malapena un tempo in cui non mi faceva male tutto. Mi sembra di essere sempre stato qui." },

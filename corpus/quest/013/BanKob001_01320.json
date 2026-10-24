@@ -15,7 +15,7 @@
     { "gameKey": "quest/013/BanKob001_01320#TEXT_BANKOB001_01320_TODO_01", "hash": "0EFBD5344A38E36D", "target": "Cercare indizi a Swiftperch e nei dintorni" },
     { "gameKey": "quest/013/BanKob001_01320#TEXT_BANKOB001_01320_TODO_02", "hash": "A19B0026D9C72F0B", "target": "Consegnare il piccone storto a Skaetswys" },
     { "gameKey": "quest/013/BanKob001_01320#TEXT_BANKOB001_01320_TODO_03", "hash": "CF90E72CC0674385", "target": "Parlare con Bloeidin a Campo Overlook" },
-    { "gameKey": "quest/013/BanKob001_01320#TEXT_BANKOB001_01320_TODO_04", "hash": "34AF9D442F576808", "target": "Parlare con Skaetswys al 789th Order Dig" },
+    { "gameKey": "quest/013/BanKob001_01320#TEXT_BANKOB001_01320_TODO_04", "hash": "34AF9D442F576808", "target": "Parlare con Skaetswys allo Scavo del 789° Ordine" },
     { "gameKey": "quest/013/BanKob001_01320#TEXT_BANKOB001_01320_TODO_05", "hash": "61D05D98C3170A53", "target": "Parlare con Skaetswys" },
     { "gameKey": "quest/013/BanKob001_01320#TEXT_BANKOB001_01320_TODO_06", "hash": "4ED59401A689E0DE", "target": "Parlare con 789th Order Pickman Gi Gu" },
     { "gameKey": "quest/013/BanKob001_01320#TEXT_BANKOB001_01320_TRACHRAET_000_001", "hash": "F6B8AD8867402010", "target": "<if([gnum52>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<if([gnum53>0],<split(<string(gstr1)>, ,1)>,<split(<string(gstr1)>, ,1)>)>)>! Non so cosa ti porti oggi al Comando del Maelstrom, ma non potrei certo lamentarmi del tuo tempismo. Già, abbiamo una bella situazione per le mani." },

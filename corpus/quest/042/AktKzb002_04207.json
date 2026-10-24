@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/042/AktKzb002_04207#TEXT_AKTKZB002_04207_SEQ_00", "hash": "0E9EC7AA4A564F75", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Il giovane Arkasodara sembra cercare di attirare la tua attenzione." },
-    { "gameKey": "quest/042/AktKzb002_04207#TEXT_AKTKZB002_04207_TODO_00", "hash": "480C44B6A9F7C742", "target": "Parlare con il giovane Arkasodara all'Hamsa Hatchery" },
+    { "gameKey": "quest/042/AktKzb002_04207#TEXT_AKTKZB002_04207_TODO_00", "hash": "480C44B6A9F7C742", "target": "Parlare con il giovane Arkasodara all'Incubatoio degli Hamsa" },
     { "gameKey": "quest/042/AktKzb002_04207#TEXT_AKTKZB002_04207_TODO_01", "hash": "61C8A7DE4FDD3C4D", "target": "Spargere la pungent solution sui nidi di hamsa" },
     { "gameKey": "quest/042/AktKzb002_04207#TEXT_AKTKZB002_04207_TODO_02", "hash": "B58A685265106CD3", "target": "Consegnare l'uovo di hamsa al giovane Arkasodara" },
     { "gameKey": "quest/042/AktKzb002_04207#TEXT_AKTKZB002_04207_TODO_03", "hash": "9E0D94FD0E8EA067", "target": "Parlare con il giovane Arkasodara al Great Work" },
@@ -21,6 +21,6 @@
     { "gameKey": "quest/042/AktKzb002_04207#TEXT_AKTKZB002_04207_RESIDENTS04207_000_013", "hash": "3352F2583C70657B", "target": "Che la madre possa tornare a covarlo, però, è un'altra questione... So che abbiamo appena cominciato a ripulire qui, ma credo sia meglio portare questo uovo al sicuro al Great Work." },
     { "gameKey": "quest/042/AktKzb002_04207#TEXT_AKTKZB002_04207_RESIDENTS04207_000_015", "hash": "A31AABDE5746CD53", "target": "Scusa se ti faccio andare avanti e indietro, ma per me è molto importante. Sono grato agli alchimisti perché mi permettono di lavorare qui, ma la mia vera passione era allevare gli uccelli." },
     { "gameKey": "quest/042/AktKzb002_04207#TEXT_AKTKZB002_04207_RESIDENTS04207_000_016", "hash": "576C60A0163671F7", "target": "Dopo... l'«incidente», credevo di non poter fare molto oltre a riordinare il disastro. Ma appena mi hai consegnato quell'uovo ho ritrovato la speranza!" },
-    { "gameKey": "quest/042/AktKzb002_04207#TEXT_AKTKZB002_04207_RESIDENTS04207_000_017", "hash": "378DF4D4111D6BC0", "target": "Dove c'è nuova vita ci sono nuovi inizi, e l'Hamsa Hatchery merita di rinascere! Non è molto, ma accetta questo in cambio del dono che mi hai fatto!" }
+    { "gameKey": "quest/042/AktKzb002_04207#TEXT_AKTKZB002_04207_RESIDENTS04207_000_017", "hash": "378DF4D4111D6BC0", "target": "Dove c'è nuova vita ci sono nuovi inizi, e l'Incubatoio degli Hamsa merita di rinascere! Non è molto, ma accetta questo in cambio del dono che mi hai fatto!" }
   ]
 }

@@ -3,10 +3,10 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/029/BanKjn306_02984#TEXT_BANKJN306_02984_SEQ_00", "hash": "E5E1DFE010D63A85", "target": "Zukin conosce la strada per il cuore di un Confederato.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
-    { "gameKey": "quest/029/BanKjn306_02984#TEXT_BANKJN306_02984_TODO_00", "hash": "42A6057A85E06D23", "target": "Consegnare i sottaceti Kojin ai Confederati al Coral Banquet" },
+    { "gameKey": "quest/029/BanKjn306_02984#TEXT_BANKJN306_02984_TODO_00", "hash": "42A6057A85E06D23", "target": "Consegnare i sottaceti Kojin ai Confederati al Banchetto di Coralli" },
     { "gameKey": "quest/029/BanKjn306_02984#TEXT_BANKJN306_02984_TODO_01", "hash": "1D4FCF33F9248428", "target": "Riferire a Zukin" },
     { "gameKey": "quest/029/BanKjn306_02984#TEXT_BANKJN306_02984_ZUKIN_000_000", "hash": "0B99A3C6534752A0", "target": "La strada per il cuore di un uomo passa dallo stomaco, <split(<string(gstr1)>, ,1)>. Tenendo questo a mente, vorrei chiederti aiuto per mantenere un'alleanza importante." },
-    { "gameKey": "quest/029/BanKjn306_02984#TEXT_BANKJN306_02984_ZUKIN_000_001", "hash": "8AE73C733D4DF954", "target": "Ho qui due vasi dei nostri migliori sottaceti, che vorrei regalare alle sentinelle del Coral Banquet. Ti prego di consegnarli." },
+    { "gameKey": "quest/029/BanKjn306_02984#TEXT_BANKJN306_02984_ZUKIN_000_001", "hash": "8AE73C733D4DF954", "target": "Ho qui due vasi dei nostri migliori sottaceti, che vorrei regalare alle sentinelle del Banchetto di Coralli. Ti prego di consegnarli." },
     { "gameKey": "quest/029/BanKjn306_02984#TEXT_BANKJN306_02984_RIKUFU_000_010", "hash": "710004D9EAB98787", "target": "Sei lontan<if(gnum4,a,o)> da casa, <if(gnum4,avventuriera,avventuriero)>. Che cosa ti porta qui?" },
     { "gameKey": "quest/029/BanKjn306_02984#TEXT_BANKJN306_02984_RIKUFU_000_011", "hash": "3EEC5ABBFD646E56", "target": "Ah, ma sono sottaceti Kojin! Non vedevo l'ora! Grazie!" },
     { "gameKey": "quest/029/BanKjn306_02984#TEXT_BANKJN306_02984_RIKUFU_000_012", "hash": "A15AB8EC19D550A7", "target": "Zukin ci manda regolarmente dei sottaceti. Danno un po' di gradito sapore a giornate altrimenti insipide." },

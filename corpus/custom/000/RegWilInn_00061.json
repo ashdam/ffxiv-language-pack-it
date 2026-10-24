@@ -7,7 +7,7 @@
     { "gameKey": "custom/000/RegWilInn_00061#TEXT_REGWILINN_00061_Q1_000_1", "hash": "8B452A675EE00811", "target": "Cosa vuoi fare?" },
     { "gameKey": "custom/000/RegWilInn_00061#TEXT_REGWILINN_00061_A1_000_1", "hash": "4206D4E13CCE2874", "target": "Informarsi sulla Clessidra." },
     { "gameKey": "custom/000/RegWilInn_00061#TEXT_REGWILINN_00061_A1_000_2", "hash": "0ACE2989B0103EB6", "target": "Niente." },
-    { "gameKey": "custom/000/RegWilInn_00061#TEXT_REGWILINN_00061_OTOPAPOTTOPA_010", "hash": "130BDB4D9E1EB602", "target": "La Clessidra è semplicemente la locanda più famosa del Merchant Strip." },
+    { "gameKey": "custom/000/RegWilInn_00061#TEXT_REGWILINN_00061_OTOPAPOTTOPA_010", "hash": "130BDB4D9E1EB602", "target": "La Clessidra è semplicemente la locanda più famosa della Via dei Mercanti." },
     { "gameKey": "custom/000/RegWilInn_00061#TEXT_REGWILINN_00061_OTOPAPOTTOPA_011", "hash": "47F9E8C132AF7122", "target": "Abbiamo alloggi per soddisfare i gusti di ogni cliente, dalle suite sontuose alle camere semplici." },
     { "gameKey": "custom/000/RegWilInn_00061#TEXT_REGWILINN_00061_OTOPAPOTTOPA_012", "hash": "BD0D31105D26DD89", "target": "In altre circostanze, vi inviterei volentieri a servirvi delle nostre strutture. Tuttavia, dopo la Calamità e gli spiacevoli eventi che ne sono seguiti, abbiamo dovuto adottare alcune regole. Soltanto chi ha dimostrato di essere degno di fiducia può soggiornare qui." },
     { "gameKey": "custom/000/RegWilInn_00061#TEXT_REGWILINN_00061_OTOPAPOTTOPA_013", "hash": "DFA5969F157B96E8", "target": "Se dama Momodi vi riterrà una persona fidata, potrete godere della nostra ospitalità quando vorrete." },
@@ -28,7 +28,7 @@
     { "gameKey": "custom/000/RegWilInn_00061#TEXT_REGWILINN_00061_OTOPAPOTTOPA_050", "hash": "B942B1DF3E60C177", "target": "Temo che le nostre strutture siano destinate soltanto al riposo e al relax, perciò diverse attività sono espressamente vietate." },
     { "gameKey": "custom/000/RegWilInn_00061#TEXT_REGWILINN_00061_OTOPAPOTTOPA_051", "hash": "F96AEA0F6CA699D8", "target": "Anche se siete <if(gnum4,un'artigiana rinomata,un artigiano rinomato)>, dobbiamo insistere perché vi asteniate dal praticare il vostro mestiere. Il rumore potrebbe disturbare gli ospiti che desiderano riposare." },
     { "gameKey": "custom/000/RegWilInn_00061#TEXT_REGWILINN_00061_SYSTEM_000_18", "hash": "AD203C906602ECAA", "target": "La sintesi, le riparazioni e l'inserimento di materia non possono essere eseguiti nelle camere delle locande." },
-    { "gameKey": "custom/000/RegWilInn_00061#TEXT_REGWILINN_00061_OTOPAPOTTOPA_060", "hash": "BCF23BB9440BF564", "target": "La Clessidra è semplicemente la locanda più famosa del Merchant Strip." },
+    { "gameKey": "custom/000/RegWilInn_00061#TEXT_REGWILINN_00061_OTOPAPOTTOPA_060", "hash": "BCF23BB9440BF564", "target": "La Clessidra è semplicemente la locanda più famosa della Via dei Mercanti." },
     { "gameKey": "custom/000/RegWilInn_00061#TEXT_REGWILINN_00061_OTOPAPOTTOPA_061", "hash": "6B04C792068179B0", "target": "Abbiamo alloggi per soddisfare i gusti di ogni cliente, dalle suite sontuose alle camere semplici." },
     { "gameKey": "custom/000/RegWilInn_00061#TEXT_REGWILINN_00061_OTOPAPOTTOPA_062", "hash": "F03C875EF16DA599", "target": "Su richiesta di dama Momodi, siete <if(gnum4,libera,libero)> di godere della nostra ospitalità quando volete. Se desiderate riposare, sarà un piacere accompagnarvi in una camera." }
   ]

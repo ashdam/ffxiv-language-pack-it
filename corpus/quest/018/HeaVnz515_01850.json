@@ -2,7 +2,7 @@
   "conversation": "quest/018/HeaVnz515_01850",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz515_01850#TEXT_HEAVNZ515_01850_SEQ_00", "hash": "D6FC09E758F75030", "target": "Un moguri in armatura da cavaliere svolazza avanti e indietro nella Rookery." },
+    { "gameKey": "quest/018/HeaVnz515_01850#TEXT_HEAVNZ515_01850_SEQ_00", "hash": "D6FC09E758F75030", "target": "Un moguri in armatura da cavaliere svolazza avanti e indietro nella Colonia." },
     { "gameKey": "quest/018/HeaVnz515_01850#TEXT_HEAVNZ515_01850_SEQ_01", "hash": "D767110F524BBB11", "target": "Mogzun e la sua banda di intrepidi moguri si sono assunti il compito di difendere il loro popolo dall'imminente furia dei seguaci di Nidhogg, formando la «Mog Squad». Cerca Mogkon e Mogoot, impegnati in pattuglia, affinché il gruppo possa cominciare la prima esercitazione." },
     { "gameKey": "quest/018/HeaVnz515_01850#TEXT_HEAVNZ515_01850_SEQ_02", "hash": "73C9F83E6780C12A", "target": "Hai trovato i membri della Mog Squad in pattuglia. Fai subito rapporto a Mogzun." },
     { "gameKey": "quest/018/HeaVnz515_01850#TEXT_HEAVNZ515_01850_SEQ_03", "hash": "9BD55F282040B913", "target": "La Mog Squad si riunisce e ti informa della tua nomina a comandante. Addestra questi moguri affinché diventino lo scudo del loro popolo." },
@@ -11,7 +11,7 @@
     { "gameKey": "quest/018/HeaVnz515_01850#TEXT_HEAVNZ515_01850_MOGZUN_000_000", "hash": "5D1A99C697D246A4", "target": "Ah, finalmente eccovi, kupò!" },
     { "gameKey": "quest/018/HeaVnz515_01850#TEXT_HEAVNZ515_01850_MOGZUN_000_001", "hash": "6442397510C8DFB5", "target": "Il vostro esempio ha ispirato me e i miei valorosi alleati a difendere il popolo moguri! Quando i selvaggi signori del cielo busseranno alle nostre porte, la Mog Squad sarà lì per ricacciarli nei cieli, kupò!" },
     { "gameKey": "quest/018/HeaVnz515_01850#TEXT_HEAVNZ515_01850_MOGZUN_000_002", "hash": "97F34458BEF7AFFA", "target": "Le altre reclute si stanno esercitando in una delle tattiche più importanti: il pattugliamento. Trovate Mogkon e Mogoot, così la Mog Squad potrà iniziare la sua prima esercitazione!" },
-    { "gameKey": "quest/018/HeaVnz515_01850#TEXT_HEAVNZ515_01850_MOGZUN_000_010", "hash": "BE2BE8CC12688DC8", "target": "Non si è mai troppo vigili. Mogoot e Mogkon sono in pattuglia nella Rookery. Trovateli, così la Mog Squad potrà radunarsi!" },
+    { "gameKey": "quest/018/HeaVnz515_01850#TEXT_HEAVNZ515_01850_MOGZUN_000_010", "hash": "BE2BE8CC12688DC8", "target": "Non si è mai troppo vigili. Mogoot e Mogkon sono in pattuglia nella Colonia. Trovateli, così la Mog Squad potrà radunarsi!" },
     { "gameKey": "quest/018/HeaVnz515_01850#TEXT_HEAVNZ515_01850_MOGOOT_000_020", "hash": "A0A10ABDEE1223CC", "target": "Tutto tranquillo sul fronte occidentale... Oh, è già ora? Vado all'esercitazione, kupò!" },
     { "gameKey": "quest/018/HeaVnz515_01850#TEXT_HEAVNZ515_01850_MOGKON_000_021", "hash": "023136BE1577277B", "target": "Prendi questo, roccia: fuoco! Colpita in pieno, kupopò! Il popolo moguri non potrebbe desiderare un difensore più capace... Oh! Cosa dite? È ora dell'esercitazione? Parto subito." },
     { "gameKey": "quest/018/HeaVnz515_01850#TEXT_HEAVNZ515_01850_MOGOOT_000_030", "hash": "E5C428E2D5ADC5D7", "target": "Il dovere chiama, kupò!" },

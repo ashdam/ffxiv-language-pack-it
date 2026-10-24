@@ -2,7 +2,7 @@
   "conversation": "quest/007/GaiUsa611_00773",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa611_00773#TEXT_GAIUSA611_00773_SEQ_00", "hash": "F5685D9F679481DD", "target": "Erimmont delle Cantine Mun<-->Tuy vorrebbe farti lavorare come apprendista pestatore." },
+    { "gameKey": "quest/007/GaiUsa611_00773#TEXT_GAIUSA611_00773_SEQ_00", "hash": "F5685D9F679481DD", "target": "Erimmont delle Cantine di Mun<-->Tuy vorrebbe farti lavorare come apprendista pestatore." },
     { "gameKey": "quest/007/GaiUsa611_00773#TEXT_GAIUSA611_00773_SEQ_01", "hash": "BAACFD2EBAEE7A4A", "target": "Per ottenere senza indugio una bottiglia di salsa Mun<-->Tuy, hai accettato di aiutare Erimmont a dare gli ultimi ritocchi alla nuova partita. Per iniziare, devi ottenere tre spezie segrete dalle scorte della cantina: una foglia di perilla, un onze di pepe del Sudario e un peperoncino drago essiccato." },
     { "gameKey": "quest/007/GaiUsa611_00773#TEXT_GAIUSA611_00773_SEQ_02", "hash": "F23505943125B265", "target": "Hai ottenuto la foglia di perilla, il pepe del Sudario e il peperoncino drago essiccato, come richiesto. Aggiungili alla vasca di fermentazione per dare alla salsa Mun<-->Tuy di Erimmont il suo sapore caratteristico." },
     { "gameKey": "quest/007/GaiUsa611_00773#TEXT_GAIUSA611_00773_SEQ_03", "hash": "780B51E0FA89DF67", "target": "Le spezie segrete sono state aggiunte e la fermentazione è completa. Parla con Geoffrey e ottieni una bottiglia di salsa Mun<-->Tuy." },

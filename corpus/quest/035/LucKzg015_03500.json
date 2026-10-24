@@ -2,7 +2,7 @@
   "conversation": "quest/035/LucKzg015_03500",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzg015_03500#TEXT_LUCKZG015_03500_SEQ_00", "hash": "FF4B092ABBB2F2AA", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>I due fratelli di Twine sperano che resterai alle Miniere del Monte Biran per aiutarli." },
+    { "gameKey": "quest/035/LucKzg015_03500#TEXT_LUCKZG015_03500_SEQ_00", "hash": "FF4B092ABBB2F2AA", "target": "<colortype(508)><edgecolortype(509)> Quest Sync<edgecolortype(0)><colortype(0)><br>I due fratelli di Intreccio sperano che resterai alle Miniere del Monte Biran per aiutarli." },
     { "gameKey": "quest/035/LucKzg015_03500#TEXT_LUCKZG015_03500_TODO_00", "hash": "6CB91B9F805FA773", "target": "Procurarsi legname abbandonato" },
     { "gameKey": "quest/035/LucKzg015_03500#TEXT_LUCKZG015_03500_TODO_01", "hash": "2A0DF168882CC52A", "target": "Consegnare il legname abbandonato al minatore tarchiato" },
     { "gameKey": "quest/035/LucKzg015_03500#TEXT_LUCKZG015_03500_TODO_02", "hash": "7379DAC66B25A9AB", "target": "Fare rapporto ad Annine" },
@@ -13,7 +13,7 @@
     { "gameKey": "quest/035/LucKzg015_03500#TEXT_LUCKZG015_03500_BROTHERB03500_000_020", "hash": "56F72E6745CDB305", "target": "Ti saremmo grati per qualunque cosa ci portassi!" },
     { "gameKey": "quest/035/LucKzg015_03500#TEXT_LUCKZG015_03500_BROTHERA03500_000_030", "hash": "6702A31783B5948E", "target": "Che cosa hai trovato?" },
     { "gameKey": "quest/035/LucKzg015_03500#TEXT_LUCKZG015_03500_BROTHERA03500_000_031", "hash": "C4DDFD530E98CD17", "target": "Bello solido, senza marciume. Dovrebbe bastare per ora." },
-    { "gameKey": "quest/035/LucKzg015_03500#TEXT_LUCKZG015_03500_BROTHERA03500_000_032", "hash": "613A90591372C558", "target": "Lo riporteremo noi due a Twine. A quanto pare, Annine intendeva pagarti per averci salvati, quindi le dirò di aggiungere anche il compenso per averci aiutato con il legname." },
+    { "gameKey": "quest/035/LucKzg015_03500#TEXT_LUCKZG015_03500_BROTHERA03500_000_032", "hash": "613A90591372C558", "target": "Lo riporteremo noi due a Intreccio. A quanto pare, Annine intendeva pagarti per averci salvati, quindi le dirò di aggiungere anche il compenso per averci aiutato con il legname." },
     { "gameKey": "quest/035/LucKzg015_03500#TEXT_LUCKZG015_03500_ANNINE_000_040", "hash": "30BF8A487DBE2875", "target": "Eccoti! I ragazzi mi hanno raccontato ciò che hai fatto per loro." },
     { "gameKey": "quest/035/LucKzg015_03500#TEXT_LUCKZG015_03500_ANNINE_000_041", "hash": "DEB64E798362C2ED", "target": "Ora, forse li considererai idioti per essere andati alle Miniere del Monte Biran a raccogliere proprio legname. Voglio dire, restano idioti, non fraintendermi, ma l'idea non è del tutto priva di merito." },
     { "gameKey": "quest/035/LucKzg015_03500#TEXT_LUCKZG015_03500_ANNINE_000_042", "hash": "E1F6CC37E24BCDC3", "target": "Vedi, la chiusura delle Officine Daedalus ci ha costretti a dipendere dalle merci portate da altre terre, e i prezzi vanno da cari a ridicoli." },

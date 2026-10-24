@@ -3,8 +3,8 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/008/GaiUsb011_00818#TEXT_GAIUSB011_00818_SEQ_00", "hash": "997491F35B52AD01", "target": "Florent cerca un avventuriero capace di trovare le merci perdute." },
-    { "gameKey": "quest/008/GaiUsb011_00818#TEXT_GAIUSB011_00818_SEQ_01", "hash": "5215CFF2827FDD95", "target": "Giungendo a Camp Tranquil dal ponte di corde meridionale, Florent ha lasciato cadere parte del prezioso legname nel Lago delle Radici. Ti chiede di passare sotto il ponte sud e recuperarlo dalle acque melmose." },
-    { "gameKey": "quest/008/GaiUsb011_00818#TEXT_GAIUSB011_00818_SEQ_02", "hash": "84580DBB9905B604", "target": "Hai raccolto tutti i preziosi pezzi di legname. Portali a Florent a Camp Tranquil." },
+    { "gameKey": "quest/008/GaiUsb011_00818#TEXT_GAIUSB011_00818_SEQ_01", "hash": "5215CFF2827FDD95", "target": "Giungendo al Campo della Quiete dal ponte di corde meridionale, Florent ha lasciato cadere parte del prezioso legname nel Lago delle Radici. Ti chiede di passare sotto il ponte sud e recuperarlo dalle acque melmose." },
+    { "gameKey": "quest/008/GaiUsb011_00818#TEXT_GAIUSB011_00818_SEQ_02", "hash": "84580DBB9905B604", "target": "Hai raccolto tutti i preziosi pezzi di legname. Portali a Florent al Campo della Quiete." },
     { "gameKey": "quest/008/GaiUsb011_00818#TEXT_GAIUSB011_00818_SEQ_03", "hash": "CD69B8435E9831F7", "target": "Il legname per cui hai rischiato la vita è destinato al camino della Locanda di Buscarron. È bagnato, ma Florent assicura che si può rimediare in fretta." },
     { "gameKey": "quest/008/GaiUsb011_00818#TEXT_GAIUSB011_00818_TODO_00", "hash": "66F5C30E6C351756", "target": "Raccogliere i pezzi di legname caduti" },
     { "gameKey": "quest/008/GaiUsb011_00818#TEXT_GAIUSB011_00818_TODO_01", "hash": "B076EDE9D9C25DD5", "target": "Restituire il legname a Florent" },

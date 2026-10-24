@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/047/AktKmk103_04737#TEXT_AKTKMK103_04737_SEQ_00", "hash": "D08373230FBA29FC", "target": "È tempo di passare alla fase successiva del vostro piano." },
-    { "gameKey": "quest/047/AktKmk103_04737#TEXT_AKTKMK103_04737_TODO_00", "hash": "EF48FA12063B49B5", "target": "Parlare con Lucia a Camp Broken Glass" },
+    { "gameKey": "quest/047/AktKmk103_04737#TEXT_AKTKMK103_04737_TODO_00", "hash": "EF48FA12063B49B5", "target": "Parlare con Lucia al Campo del Vetro Infranto" },
     { "gameKey": "quest/047/AktKmk103_04737#TEXT_AKTKMK103_04737_TODO_01", "hash": "5C3F695A2EE663F8", "target": "Parlare con Alphinaud a Tertium" },
     { "gameKey": "quest/047/AktKmk103_04737#TEXT_AKTKMK103_04737_TODO_02", "hash": "5999E6B4887663A6", "target": "Interrogare gli abitanti di Tertium" },
     { "gameKey": "quest/047/AktKmk103_04737#TEXT_AKTKMK103_04737_TODO_03", "hash": "FA0C6D71BDEECA5D", "target": "Parlare con Zero a Forum Solius" },
@@ -12,7 +12,7 @@
     { "gameKey": "quest/047/AktKmk103_04737#TEXT_AKTKMK103_04737_URIANGER_000_010", "hash": "99E485CDC32A57AD", "target": "Organizzato il trasporto dei serbatoi, il nostro primo compito è concluso." },
     { "gameKey": "quest/047/AktKmk103_04737#TEXT_AKTKMK103_04737_URIANGER_000_011", "hash": "F0A106E067589007", "target": "Possiamo ora rivolgere l'attenzione al secondo." },
     { "gameKey": "quest/047/AktKmk103_04737#TEXT_AKTKMK103_04737_URIANGER_000_012", "hash": "969A6014033DA5A6", "target": "Ossia ottenere il consenso del contingente di Ilsabard a usare la Tower of Babil per convogliare energia sulla luna." },
-    { "gameKey": "quest/047/AktKmk103_04737#TEXT_AKTKMK103_04737_URIANGER_000_013", "hash": "78170BFF85F9F1C2", "target": "La nostra destinazione è Camp Broken Glass, dove potremo presentare la richiesta alla comandante Lucia." },
+    { "gameKey": "quest/047/AktKmk103_04737#TEXT_AKTKMK103_04737_URIANGER_000_013", "hash": "78170BFF85F9F1C2", "target": "La nostra destinazione è il Campo del Vetro Infranto, dove potremo presentare la richiesta alla comandante Lucia." },
     { "gameKey": "quest/047/AktKmk103_04737#TEXT_AKTKMK103_04737_VARSHAHNBIG_000_020", "hash": "EA9325AA7EBEB6F0", "target": "Seguendo il consiglio di Y'shtola, ho indossato abiti più adatti al luogo. Per dare meno nell'occhio. ...Spero che basti." },
     { "gameKey": "quest/047/AktKmk103_04737#TEXT_AKTKMK103_04737_MYSTERIOUSPERSON_000_030", "hash": "B84CBFFB2D65EBC2", "target": "Eccoci di nuovo qui..." },
     { "gameKey": "quest/047/AktKmk103_04737#TEXT_AKTKMK103_04737_URIANGER_000_035", "hash": "5A3A9004031B89F8", "target": "Mi rallegra sapere che la ricostruzione di Garlemald procede spedita e che alla popolazione non manca più il calore. Ciò non toglie che nulla possa sostituire abiti adeguati in un clima tanto rigido, come posso testimoniare di persona..." },

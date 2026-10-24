@@ -11,7 +11,7 @@
     { "gameKey": "quest/035/LucKzj103_03590#TEXT_LUCKZJ103_03590_TODO_00", "hash": "5F9BDA34D2D36477", "target": "Raccogliere una conchiglia immacolata al Ritorno dei Terricoli" },
     { "gameKey": "quest/035/LucKzj103_03590#TEXT_LUCKZJ103_03590_TODO_01", "hash": "958D0E7CD9ABFD1A", "target": "Consegnare la conchiglia a Naroshs Koal" },
     { "gameKey": "quest/035/LucKzj103_03590#TEXT_LUCKZJ103_03590_TODO_02", "hash": "7F0106EAFA8ACE0B", "target": "Accompagnare Naroshs Koal a Kholusia" },
-    { "gameKey": "quest/035/LucKzj103_03590#TEXT_LUCKZJ103_03590_TODO_03", "hash": "6E8E9F4964987A31", "target": "Parlare con Naroshs Koal nella Tempest" },
+    { "gameKey": "quest/035/LucKzj103_03590#TEXT_LUCKZJ103_03590_TODO_03", "hash": "6E8E9F4964987A31", "target": "Parlare con Naroshs Koal nella Tempesta" },
     { "gameKey": "quest/035/LucKzj103_03590#TEXT_LUCKZJ103_03590_XEROSHSOOAN_000_000", "hash": "979607D07016C83F", "target": "Non è un buon momento, <if(gnum4,onorata ospite,onorato ospite)>. La madre regina soffre..." },
     { "gameKey": "quest/035/LucKzj103_03590#TEXT_LUCKZJ103_03590_ONDOQQUEEN03590_000_005", "hash": "46E166B6B3DA1E8B", "target": "Ugh... Io... io... Assistetemi, figli miei..." },
     { "gameKey": "quest/035/LucKzj103_03590#TEXT_LUCKZJ103_03590_NAROSHSKOAL_000_010", "hash": "0F1B7D17B539D0F4", "target": "Lo senti, <string(gstr1)>? Quel grido... mi preoccupa..." },

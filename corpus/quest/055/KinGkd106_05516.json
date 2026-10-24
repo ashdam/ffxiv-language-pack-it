@@ -3,14 +3,14 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/055/KinGkd106_05516#TEXT_KINGKD106_05516_SEQ_00", "hash": "09ABAFD8DD3865C5", "target": "Sembra che Iris abbia altro da rivelare." },
-    { "gameKey": "quest/055/KinGkd106_05516#TEXT_KINGKD106_05516_TODO_00", "hash": "2391ACF4FEAAFA1A", "target": "Parlare con Iris nel phantom village" },
+    { "gameKey": "quest/055/KinGkd106_05516#TEXT_KINGKD106_05516_TODO_00", "hash": "2391ACF4FEAAFA1A", "target": "Parlare con Iris nel Villaggio Fantasma" },
     { "gameKey": "quest/055/KinGkd106_05516#TEXT_KINGKD106_05516_TODO_01", "hash": "55B5FD37C4CAAAC8", "target": "Parlare di nuovo con Iris" },
     { "gameKey": "quest/055/KinGkd106_05516#TEXT_KINGKD106_05516_TODO_02", "hash": "A9380C7C13B26F19", "target": "Parlare ancora con Iris" },
     { "gameKey": "quest/055/KinGkd106_05516#TEXT_KINGKD106_05516_TODO_03", "hash": "7A04D37521B3CF63", "target": "Parlare un'ultima volta con Iris" },
     { "gameKey": "quest/055/KinGkd106_05516#TEXT_KINGKD106_05516_KETENRAMM_000_001", "hash": "8A09233E4055DDBC", "target": "Significa che Archive è sempre stato l'artefice? Se è così, chi diavolo c'è nella torre?" },
     { "gameKey": "quest/055/KinGkd106_05516#TEXT_KINGKD106_05516_ARCHIVE_000_005", "hash": "C2770F726AF7991B", "target": "Sono perplesso quanto tutti voi. Speriamo che Iris si degni di fare più luce sulla questione..." },
     { "gameKey": "quest/055/KinGkd106_05516#TEXT_KINGKD106_05516_IRIS_000_010", "hash": "F1768B4C7C65F1CB", "target": "Dovete capire che non disobbedisco ai miei ordini alla leggera..." },
-    { "gameKey": "quest/055/KinGkd106_05516#TEXT_KINGKD106_05516_IRIS_000_011", "hash": "7C41699B33877594", "target": "Vorrei parlarne ancora, lontano dal clamore del campo. Vi prego, raggiungetemi presso la fontana nel vostro «phantom village»." },
+    { "gameKey": "quest/055/KinGkd106_05516#TEXT_KINGKD106_05516_IRIS_000_011", "hash": "7C41699B33877594", "target": "Vorrei parlarne ancora, lontano dal clamore del campo. Vi prego, raggiungetemi presso la fontana nel vostro «Villaggio Fantasma»." },
     { "gameKey": "quest/055/KinGkd106_05516#TEXT_KINGKD106_05516_KETENRAMM_000_015", "hash": "F041077ECC05E4AC", "target": "Sentiamo che cosa ha da dire la fata." },
     { "gameKey": "quest/055/KinGkd106_05516#TEXT_KINGKD106_05516_ARCHIVE_000_020", "hash": "FA4D6F623407848A", "target": "Che viaggio faticoso... Spero che la schiena dolorante non mi tormenti durante le conversazioni che ci attendono." },
     { "gameKey": "quest/055/KinGkd106_05516#TEXT_KINGKD106_05516_IRIS_000_100", "hash": "F7F2DE346CC66C4B", "target": "Grazie di essere qui. Forse vi interesserà sapere che questo luogo è stato modellato su una città portuale di Nym, patria del mio padrone." },
@@ -53,7 +53,7 @@
     { "gameKey": "quest/055/KinGkd106_05516#TEXT_KINGKD106_05516_ARCHIVE_100_352", "hash": "1ABC723B43480A13", "target": "L'idea che fossi fuggito da oltremare per isolarmi dev'essere nata dalla confusione, indotta dalla magia o meno." },
     { "gameKey": "quest/055/KinGkd106_05516#TEXT_KINGKD106_05516_ARCHIVE_000_353", "hash": "0358C0AA4225405F", "target": "Per tutto questo tempo, protetto da una beata ignoranza... È sconvolgente scoprire ciò che ho provocato." },
     { "gameKey": "quest/055/KinGkd106_05516#TEXT_KINGKD106_05516_IRIS_000_354", "hash": "8C24CB3D50ED47E3", "target": "Siamo quasi alla fine del mio racconto: mi restano soltanto pochi ricordi..." },
-    { "gameKey": "quest/055/KinGkd106_05516#TEXT_KINGKD106_05516_KETENRAMM_000_390", "hash": "B465814CA041E82E", "target": "Beh, finalmente sappiamo chi ci aspetta in cima alla Tower of Magic..." },
+    { "gameKey": "quest/055/KinGkd106_05516#TEXT_KINGKD106_05516_KETENRAMM_000_390", "hash": "B465814CA041E82E", "target": "Beh, finalmente sappiamo chi ci aspetta in cima alla Torre della Magia..." },
     { "gameKey": "quest/055/KinGkd106_05516#TEXT_KINGKD106_05516_ARCHIVE_000_395", "hash": "C15A27603CC5A1CF", "target": "La mia miserabile ombra si fa chiamare Index. Non è altro che la mia presunzione resa tangibile..." },
     { "gameKey": "quest/055/KinGkd106_05516#TEXT_KINGKD106_05516_IRIS_000_400", "hash": "5CFB113233E282A5", "target": "Mentre il mio padrone giaceva sofferente e addormentato, Index prese il controllo delle Forked Towers." },
     { "gameKey": "quest/055/KinGkd106_05516#TEXT_KINGKD106_05516_IRIS_000_401", "hash": "76DD52A69F4F9976", "target": "Senza nessuno che gli si opponesse, cominciò a esplorare i possibili futuri delle civiltà della Quinta Era Astrale." },
@@ -71,7 +71,7 @@
     { "gameKey": "quest/055/KinGkd106_05516#TEXT_KINGKD106_05516_ARCHIVE_000_411", "hash": "AA3968548B2B442D", "target": "Iris... Per gli ultimi millecinquecento anni hai vegliato in solitudine." },
     { "gameKey": "quest/055/KinGkd106_05516#TEXT_KINGKD106_05516_ARCHIVE_000_412", "hash": "17459F4E52F5E069", "target": "Perdonami! Se solo avessi saputo che ti avrei condannata a una sorte simile..." },
     { "gameKey": "quest/055/KinGkd106_05516#TEXT_KINGKD106_05516_IRIS_000_413", "hash": "41F0EF16D1840487", "target": "Almeno la mia veglia non è stata vana." },
-    { "gameKey": "quest/055/KinGkd106_05516#TEXT_KINGKD106_05516_ARCHIVE_000_414", "hash": "6D2B6932A60A31A0", "target": "Io e Iris contiamo su di te. Devi trovare un modo per raggiungere la Tower of Magic e abbattere Index una volta per tutte!" },
+    { "gameKey": "quest/055/KinGkd106_05516#TEXT_KINGKD106_05516_ARCHIVE_000_414", "hash": "6D2B6932A60A31A0", "target": "Io e Iris contiamo su di te. Devi trovare un modo per raggiungere la Torre della Magia e abbattere Index una volta per tutte!" },
     { "gameKey": "quest/055/KinGkd106_05516#TEXT_KINGKD106_05516_ARCHIVE_000_415", "hash": "18AA96A72BC716F8", "target": "Grazie. Grazie!" }
   ]
 }

@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_SEQ_00", "hash": "7E8388D7DD5D14B7", "target": "La preoccupazione di Geode gli si legge chiaramente in volto." },
-    { "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_TODO_00", "hash": "9D77F792123C3B6C", "target": "Parlare con Wawlika a Sheshenewezi Springs" },
+    { "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_TODO_00", "hash": "9D77F792123C3B6C", "target": "Parlare con Wawlika alle Sorgenti di Sheshenewezi" },
     { "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_TODO_01", "hash": "A8C6BF9A42E3C5D7", "target": "Parlare con Hhwato" },
     { "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_TODO_02", "hash": "BBE8385E59544791", "target": "Parlare con Shepetto" },
     { "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_TODO_03", "hash": "1F70CA9DC94171F6", "target": "Parlare con l'Hhetsarro loquace" },
@@ -24,7 +24,7 @@
     { "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_GEODE_000_035", "hash": "08B63FF2AE2B1541", "target": "Anche così, la ferrovia renderebbe le cose molto più semplici. Quanto manca alla riapertura?" },
     { "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_WUKLAMAT_000_036", "hash": "517D42EBD673970C", "target": "Non saprei dirlo. Quando sono partita per questa visita, Koana sembrava restio a fare promesse..." },
     { "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_WUKLAMAT_000_037", "hash": "7BA6F82878978AFA", "target": "...Ma mentre Shale lavora sui dati, potremmo andare a vedere di persona a che punto sono." },
-    { "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_WUKLAMAT_000_038", "hash": "3E66E5C35F150C99", "target": "Allora andiamo a Shaaloani Station! Avvertirò Koana." },
+    { "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_WUKLAMAT_000_038", "hash": "3E66E5C35F150C99", "target": "Allora andiamo alla Stazione di Shaaloani! Avvertirò Koana." },
     { "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_GULOOLJA_000_040", "hash": "37A58A9A53692491", "target": "Salutatemi Koana!" },
     { "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_KRILE_000_045", "hash": "16C29537ACA91F27", "target": "Io e Raha terremo d'occhio la situazione qui durante la vostra assenza." },
     { "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_GRAHATIA_000_050", "hash": "4D519D2FFEB25DE2", "target": "Mi stupirebbe se riuscissero a ripristinare il servizio ferroviario così in fretta. La locomotiva è stata quasi completamente distrutta nello scontro con la cupola..." },

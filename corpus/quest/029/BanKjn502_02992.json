@@ -2,10 +2,10 @@
   "conversation": "quest/029/BanKjn502_02992",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_SEQ_00", "hash": "4E041329A5B4C8D3", "target": "Strani forzieri vengono trasportati dalle onde sulla riva meridionale di Shoal Rock.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
-    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_TODO_00", "hash": "DE2A4E756E683F2C", "target": "Esaminare gli Eorzean coffer e raccogliere il tesoro" },
+    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_SEQ_00", "hash": "4E041329A5B4C8D3", "target": "Strani forzieri vengono trasportati dalle onde sulla riva meridionale della Roccia della Secca.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
+    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_TODO_00", "hash": "DE2A4E756E683F2C", "target": "Esaminare i forzieri di Eorzea e raccogliere il tesoro" },
     { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_TODO_01", "hash": "1336CED011862C00", "target": "Consegnare le monete a Zukin" },
-    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_000", "hash": "4CC28474927108F7", "target": "Uno dei nostri ha trovato tre forzieri arenati su Shoal Rock. Sembravano di fattura eorzeana, ma non ha potuto capire altro, perché erano ben sigillati da un meccanismo a noi sconosciuto." },
+    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_000", "hash": "4CC28474927108F7", "target": "Uno dei nostri ha trovato tre forzieri arenati sulla Roccia della Secca. Sembravano di fattura eorzeana, ma non ha potuto capire altro, perché erano ben sigillati da un meccanismo a noi sconosciuto." },
     { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_001", "hash": "7887CFC4480696A4", "target": "Abbiamo una certa esperienza nell'aprire scrigni chiusi a chiave, ma non quelli delle terre occidentali. Credo però che tu sapresti venirne a capo. Ti andrebbe di controllare?" },
     { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_020", "hash": "08B1EE901E56FAA0", "target": "Scoperto qualcosa con quei forzieri?" },
     { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_021", "hash": "5FDF60C855AA4AB3", "target": "Hai trovato queste? Fammi vedere... Antiche monete occidentali, e per di più coniate in metalli preziosi. Grazie di avermele portate!" },
