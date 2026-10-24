@@ -1,9 +1,9 @@
 {
   "gameVersion": "2026.10.16.0000.0000",
   "translated": 442518,
-  "total": 470874,
+  "total": 470878,
   "percent": 94,
-  "chars": 48804268,
+  "chars": 48804335,
   "unresolved": 5594,
   "groups": [
     {
@@ -359,6 +359,12 @@
       "content": "Duty Finder",
       "translated": 700,
       "total": 700
+    },
+    {
+      "expansion": null,
+      "content": "Deep Dungeon names",
+      "translated": 0,
+      "total": 4
     },
     {
       "expansion": null,
