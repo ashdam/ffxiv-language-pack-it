@@ -2,7 +2,7 @@
   "conversation": "custom/002/RegDra2AnyxTrine_00285",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_SEHNYTOH_000_000", "hash": "46BB3FBD5E019393", "target": "<if(gnum4,Una figlia,Un figlio)> dell'uomo entra ad Anyx Trine... Interessante..." },
+    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_SEHNYTOH_000_000", "hash": "46BB3FBD5E019393", "target": "<if(gnum4,Una figlia,Un figlio)> dell'uomo entra ad Anyx Trino... Interessante..." },
     { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_Q1_000_000", "hash": "108E157B79478116", "target": "Cosa vuoi chiedere?" },
     { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_A1_000_001", "hash": "854346B00DDC6E56", "target": "Chi sei?" },
     { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_A1_000_002", "hash": "69953E0DF9048C70", "target": "Che posto è questo?" },
@@ -10,8 +10,8 @@
     { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_SEHNYTOH_000_010", "hash": "1225630E95D97A19", "target": "Sono Sehn Y Toh. I miei fratelli e le mie sorelle sono uniti sotto Hraesvelgr. Ripuliamo questo luogo da chiunque nutra intenzioni ostili verso di noi." },
     { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_SEHNYTOH_000_011", "hash": "0B46EE6023B607C9", "target": "Cerchiamo quiete e pace. Chi ce le nega troverà zanne e artigli." },
     { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_SEHNYTOH_000_012", "hash": "94FFE6246807C6CE", "target": "Ascoltami, mortale. Se turberai la pace della nostra dimora, lo sapremo..." },
-    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_SEHNYTOH_000_020", "hash": "CDB2837BECFE2F32", "target": "Anyx Trine è opera dell'uomo di epoche passate." },
+    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_SEHNYTOH_000_020", "hash": "CDB2837BECFE2F32", "target": "Anyx Trino è opera dell'uomo di epoche passate." },
     { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_SEHNYTOH_000_021", "hash": "B151D0155DB5CDCB", "target": "Ma l'uomo ha da tempo dimenticato i frutti del proprio lavoro." },
-    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_SEHNYTOH_000_022", "hash": "C2CD01CE32B86A7F", "target": "Le origini di Anyx Trine non ci riguardano. Questi luoghi sono silenziosi. Si addicono alle nostre esigenze. Ora Anyx Trine è casa nostra." }
+    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_SEHNYTOH_000_022", "hash": "C2CD01CE32B86A7F", "target": "Le origini di Anyx Trino non ci riguardano. Questi luoghi sono silenziosi. Si addicono alle nostre esigenze. Ora Anyx Trino è casa nostra." }
   ]
 }

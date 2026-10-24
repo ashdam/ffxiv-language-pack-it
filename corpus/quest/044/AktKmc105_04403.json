@@ -13,10 +13,10 @@
     { "gameKey": "quest/044/AktKmc105_04403#TEXT_AKTKMC105_04403_THANCRED_000_000", "hash": "371C114E4258C1B1", "target": "Mi duole ammetterlo, ma...le carote mi sono piaciute parecchio." },
     { "gameKey": "quest/044/AktKmc105_04403#TEXT_AKTKMC105_04403_URIANGER_000_005", "hash": "556F7788B37EB74D", "target": "Hmm..." },
     { "gameKey": "quest/044/AktKmc105_04403#TEXT_AKTKMC105_04403_YSHTOLA_000_010", "hash": "50E2F512BF3EFE2F", "target": "Sono certa che i Loporrit salterebbero di gioia all'idea di spiegarci ogni minimo dettaglio sulle carote, ma forse è ora di proseguire?" },
-    { "gameKey": "quest/044/AktKmc105_04403#TEXT_AKTKMC105_04403_COOKINGWAY_000_015", "hash": "FA7897F7675EE919", "target": "Avete voglia di altre carote? Non temete, potrete mangiarne a sazietà dopo aver visto il resto di Bestways Burrow." },
+    { "gameKey": "quest/044/AktKmc105_04403#TEXT_AKTKMC105_04403_COOKINGWAY_000_015", "hash": "FA7897F7675EE919", "target": "Avete voglia di altre carote? Non temete, potrete mangiarne a sazietà dopo aver visto il resto della Tana di Bestway." },
     { "gameKey": "quest/044/AktKmc105_04403#TEXT_AKTKMC105_04403_LIVINGWAY_000_020", "hash": "F083B5B492248876", "target": "Credo che per ora abbiamo fatto il pieno di carote. Passiamo ad altre necessità, vi va?" },
     { "gameKey": "quest/044/AktKmc105_04403#TEXT_AKTKMC105_04403_LIVINGWAY_000_021", "hash": "D0454C784B8B0F2B", "target": "La nostra produzione di abiti vi stupirà di certo. Da questa parte!" },
-    { "gameKey": "quest/044/AktKmc105_04403#TEXT_AKTKMC105_04403_THANCRED_000_030", "hash": "3325B7D3C3AD4FD9", "target": "Non sarà Sunsilk Tapestries, ma forse ci riserva una piacevole sorpresa." },
+    { "gameKey": "quest/044/AktKmc105_04403#TEXT_AKTKMC105_04403_THANCRED_000_030", "hash": "3325B7D3C3AD4FD9", "target": "Non sarà la bottega Arazzi di Seta Solare, ma forse ci riserva una piacevole sorpresa." },
     { "gameKey": "quest/044/AktKmc105_04403#TEXT_AKTKMC105_04403_URIANGER_000_035", "hash": "CF91A32BFD21B4FA", "target": "Vesti nate nei cieli, foggiate con metodi antichi e dimenticati. Abiti degni di noi che camminiamo nell'ombra, custodi dell'arcano..." },
     { "gameKey": "quest/044/AktKmc105_04403#TEXT_AKTKMC105_04403_YSHTOLA_000_040", "hash": "38167D66875CB16F", "target": "Credi che gli abiti che hanno preparato saranno spropositatamente grandi quanto le carote?" },
     { "gameKey": "quest/044/AktKmc105_04403#TEXT_AKTKMC105_04403_LIVINGWAY_000_050", "hash": "286247B3C4FC53D3", "target": "Eccoci qui─la postazione di produzione degli abiti." },
@@ -99,7 +99,7 @@
     { "gameKey": "quest/044/AktKmc105_04403#TEXT_AKTKMC105_04403_LIVINGWAY_000_186", "hash": "CED18DB53A1469E2", "target": "Siamo nati dall'amore di Hydaelyn per Etheirys, e la salvezza della gente di quel mondo, e di quello soltanto, è sempre stata il nostro scopo." },
     { "gameKey": "quest/044/AktKmc105_04403#TEXT_AKTKMC105_04403_LIVINGWAY_000_187", "hash": "3EF6FCC3E8D29E8C", "target": "Non è forse meglio dedicarci a salvare un mondo, anziché dividere gli sforzi fra quattordici rischiando di fallire con tutti?" },
     { "gameKey": "quest/044/AktKmc105_04403#TEXT_AKTKMC105_04403_THANCRED_000_188", "hash": "62160B43797B90ED", "target": "...Suppongo che tu abbia ragione." },
-    { "gameKey": "quest/044/AktKmc105_04403#TEXT_AKTKMC105_04403_YSHTOLA_000_189", "hash": "6FDD23DB8D956C72", "target": "Livingway, possiamo esplorare Bestways Burrow da soli? Ci hai dato molto su cui riflettere." },
+    { "gameKey": "quest/044/AktKmc105_04403#TEXT_AKTKMC105_04403_YSHTOLA_000_189", "hash": "6FDD23DB8D956C72", "target": "Livingway, possiamo esplorare la Tana di Bestway da soli? Ci hai dato molto su cui riflettere." },
     { "gameKey": "quest/044/AktKmc105_04403#TEXT_AKTKMC105_04403_LIVINGWAY_000_190", "hash": "8CEB0C093E87A1D7", "target": "Ma certamente." },
     { "gameKey": "quest/044/AktKmc105_04403#TEXT_AKTKMC105_04403_YSHTOLA_000_191", "hash": "C5E4F544A7E26F28", "target": "A più tardi, allora." },
     { "gameKey": "quest/044/AktKmc105_04403#TEXT_AKTKMC105_04403_URIANGER_000_192", "hash": "2681308473DF5956", "target": "Se mi è concesso, vorrei accompagnarti ancora un poco." },
@@ -123,6 +123,6 @@
     { "gameKey": "quest/044/AktKmc105_04403#TEXT_AKTKMC105_04403_GROWINGWAY_000_220", "hash": "04865C204BE22EA7", "target": "Cielo, che imbarazzo. Prometto di fare più attenzione d'ora in poi." },
     { "gameKey": "quest/044/AktKmc105_04403#TEXT_AKTKMC105_04403_GROWINGWAY_000_221", "hash": "03C8A9F492CB2CA2", "target": "Dato che per ora gli alloggi sono chiusi, ho reindirizzato il teletrasporto per consentire gli spostamenti fra i piani. Spero che nel frattempo sia utile." },
     { "gameKey": "quest/044/AktKmc105_04403#TEXT_AKTKMC105_04403_GROWINGWAY_000_222", "hash": "EA60258524012BE4", "target": "\\<sospiro> Peccato che non abbiate potuto vederli, però. Vi sarebbero piaciuti davvero." },
-    { "gameKey": "quest/044/AktKmc105_04403#TEXT_AKTKMC105_04403_SYSTEM_000_223", "hash": "FAAA5B715CEA7C1D", "target": "Ora puoi spostarti fra il piano superiore e quello inferiore di Bestways Burrow tramite il teletrasporto." }
+    { "gameKey": "quest/044/AktKmc105_04403#TEXT_AKTKMC105_04403_SYSTEM_000_223", "hash": "FAAA5B715CEA7C1D", "target": "Ora puoi spostarti fra il piano superiore e quello inferiore della Tana di Bestway tramite il teletrasporto." }
   ]
 }

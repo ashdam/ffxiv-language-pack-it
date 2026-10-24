@@ -2,7 +2,7 @@
   "conversation": "custom/000/CmnDunEnterTamtara_00014",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/000/CmnDunEnterTamtara_00014#TEXT_CMNDUNENTERTAMTARA_00014_SCENE00000", "hash": "13BD9EEE2F8E0D45", "target": "Per ordine della Veggente Anziana, la Tam<-->Tara Deepcroft è stata posta sotto il controllo delle Sentinelle Cupe. L'accesso è riservato soltanto a chi soddisfa le rigide condizioni stabilite da Stillglade Fane." },
+    { "gameKey": "custom/000/CmnDunEnterTamtara_00014#TEXT_CMNDUNENTERTAMTARA_00014_SCENE00000", "hash": "13BD9EEE2F8E0D45", "target": "Per ordine della Veggente Anziana, la Tam<-->Tara Deepcroft è stata posta sotto il controllo delle Sentinelle Cupe. L'accesso è riservato soltanto a chi soddisfa le rigide condizioni stabilite dal Tempio della Radura Quieta." },
     { "gameKey": "custom/000/CmnDunEnterTamtara_00014#TEXT_CMNDUNENTERTAMTARA_00014_SCENE00001", "hash": "D30C28D31933F106", "target": "Ditemi cosa desiderate." },
     { "gameKey": "custom/000/CmnDunEnterTamtara_00014#TEXT_CMNDUNENTERTAMTARA_00014_SCENE00002", "hash": "D8ECD2E13661D930", "target": "Informarsi sull'accesso alla Tam<-->Tara Deepcroft." },
     { "gameKey": "custom/000/CmnDunEnterTamtara_00014#TEXT_CMNDUNENTERTAMTARA_00014_SCENE00003", "hash": "55F6F048BA693A14", "target": "Entrare nel Tam<-->Tara Deepcroft" },
@@ -21,7 +21,7 @@
     { "gameKey": "custom/000/CmnDunEnterTamtara_00014#TEXT_CMNDUNENTERTAMTARA_00014_SCENE00015", "hash": "6B08ABA89FCA33E0", "target": "Non sono tipo da mettere in dubbio il senso del dovere <if(gnum4,di una donna,di un uomo)>, ma credo che dovreste sbrigare gli incarichi in sospeso, prima di partire per la vostra spedizione nella Deepcroft." },
     { "gameKey": "custom/000/CmnDunEnterTamtara_00014#TEXT_CMNDUNENTERTAMTARA_00014_SCENE00016", "hash": "4019F0C7F83A8320", "target": "Sembra che uno dei vostri compagni non sia in condizioni di partecipare alla spedizione. Le sale della Deepcroft sono piene di pericoli, e chi è malato o debole sarebbe soltanto d'intralcio a voi e al vostro gruppo." },
     { "gameKey": "custom/000/CmnDunEnterTamtara_00014#TEXT_CMNDUNENTERTAMTARA_00014_SCENE00017", "hash": "706ABB629F861D40", "target": "Non è stato possibile accedere a <sheet(InstanceContent,lnum2,3)>. Verifica che tu e il tuo gruppo soddisfiate tutte le condizioni." },
-    { "gameKey": "custom/000/CmnDunEnterTamtara_00014#TEXT_CMNDUNENTERTAMTARA_00014_SCENE00020", "hash": "02B565E4BD8A3D37", "target": "Per ordine della Veggente Anziana, la Tam<-->Tara Deepcroft è stata posta sotto il controllo delle Sentinelle Cupe. L'accesso è riservato soltanto a chi soddisfa le rigide condizioni stabilite da Stillglade Fane." },
+    { "gameKey": "custom/000/CmnDunEnterTamtara_00014#TEXT_CMNDUNENTERTAMTARA_00014_SCENE00020", "hash": "02B565E4BD8A3D37", "target": "Per ordine della Veggente Anziana, la Tam<-->Tara Deepcroft è stata posta sotto il controllo delle Sentinelle Cupe. L'accesso è riservato soltanto a chi soddisfa le rigide condizioni stabilite dal Tempio della Radura Quieta." },
     { "gameKey": "custom/000/CmnDunEnterTamtara_00014#TEXT_CMNDUNENTERTAMTARA_00014_SYSTEM_20", "hash": "249B4A72502C4299", "target": "Per entrare nella Tam<-->Tara Deepcroft, devi essere a un punto sufficientemente avanzato della missione «Fuoco nell'oscurità»." }
   ]
 }

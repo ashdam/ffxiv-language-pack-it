@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_SEQ_00", "hash": "35BBFE4A7E99573D", "target": "Wuk Lamat vuole fare il possibile per la gente di Solution Nine." },
     { "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_TODO_00", "hash": "B5846C9D50993217", "target": "Confortare i civili" },
-    { "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_TODO_01", "hash": "47A3C3FF92FAED1C", "target": "Parlare con Wuk Lamat nel Backroom" },
+    { "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_TODO_01", "hash": "47A3C3FF92FAED1C", "target": "Parlare con Wuk Lamat nel Retrobottega" },
     { "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_TODO_02", "hash": "313F1A6A5D153A39", "target": "Parlare con Gulool Ja" },
     { "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_TODO_03", "hash": "0565887FB6B4EDC8", "target": "Parlare con Wuk Lamat" },
     { "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_TODO_04", "hash": "CD76B959B8592EA0", "target": "Parlare con Cahciua" },
@@ -19,8 +19,8 @@
     { "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_WUKLAMAT_000_025", "hash": "AF0FDBEC904BEDF2", "target": "In ogni caso, è troppo da gestire da sola..." },
     { "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_WUKLAMAT_000_026", "hash": "1FF5994264B14EE9", "target": "Innumerevoli persone saranno sconvolte, e dovremmo offrire loro tutto il conforto possibile." },
     { "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_WUKLAMAT_000_027", "hash": "30EBE0A9344FB327", "target": "Quindi, mentre Cahciua e i suoi si occupano di chi ha ferite fisiche, noi cerchiamo chi ha ferite nell'animo." },
-    { "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_ALISAIE_000_028", "hash": "D173BE927FBD1143", "target": "D'accordo. Se tu e <split(<string(gstr1)>, ,1)> volete concentrarvi su True Vue, noi ci occuperemo delle altre zone." },
-    { "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_WUKLAMAT_000_029", "hash": "1AFECF4088E98C3B", "target": "Mi sembra un buon piano. Bene, amici─ci ritroveremo poi al Backroom." },
+    { "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_ALISAIE_000_028", "hash": "D173BE927FBD1143", "target": "D'accordo. Se tu e <split(<string(gstr1)>, ,1)> volete concentrarvi a Vista Autentica, noi ci occuperemo delle altre zone." },
+    { "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_WUKLAMAT_000_029", "hash": "1AFECF4088E98C3B", "target": "Mi sembra un buon piano. Bene, amici─ci ritroveremo poi al Retrobottega." },
     { "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_STUNNEDRESIDENT4943_000_030", "hash": "D2149C86C11030E7", "target": "È... è finita? Sono ancora in vita...?" },
     { "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_STUNNEDRESIDENT4943_000_031", "hash": "5F8D45C24C7CAFD1", "target": "Ahhh, per fortuna... \\<sniff> \\<singhiozzo>" },
     { "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_STUNNEDRESIDENT4943_000_032", "hash": "C9EACE5F4E40B54D", "target": "Non ha senso... Con quale diritto il re ha distrutto le nostre vite così?" },
@@ -57,7 +57,7 @@
     { "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_CAHCIUA_000_120", "hash": "779F95EAA902416F", "target": "Le cose che direi a Zoraal Ja, da madre... Ma è meglio non cominciare." },
     { "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_CAHCIUA_000_121", "hash": "3601AE8E605794A8", "target": "Piuttosto, lascia che ti ringrazi. Non ce l'avremmo fatta senza di te e i tuoi compagni." },
     { "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_CAHCIUA_000_122", "hash": "F792C8C36E1D248E", "target": "Finché gli altri non tornano, dovresti riposare anche tu il più possibile. Dopotutto, non è ancora finita." },
-    { "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_CAHCIUA_000_123", "hash": "530983D6696DA0AB", "target": "Potresti andare...\\<buzzz>...prepararti per...\\<buzzz> Altrimenti puoi...\\<buzzz>...il Backroom." },
+    { "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_CAHCIUA_000_123", "hash": "530983D6696DA0AB", "target": "Potresti andare...\\<buzzz>...prepararti per...\\<buzzz> Altrimenti puoi...\\<buzzz>...il Retrobottega." },
     { "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_CAHCIUA_000_124", "hash": "DA6C061BFD2316B0", "target": "Dici che l'immagine è disturbata? Lo è ancora?" },
     { "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_CAHCIUA_000_125", "hash": "4730EDED32FDD113", "target": "Be', è un vecchio arnese malridotto. Qualche intoppo è inevitabile." },
     { "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_CAHCIUA_000_126", "hash": "BA01125FA89D783E", "target": "Ma non c'è nulla di cui preoccuparsi. Fra poco ci riuniremo per discutere la prossima mossa, quindi a dopo!" }

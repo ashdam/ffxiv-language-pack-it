@@ -14,7 +14,7 @@
     { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_HIRASE_000_011", "hash": "079A74F39B708393", "target": "Mi hai portato la carne? Fantastico! Davvero fantastico! Con questa, il mio stufato è completo!" },
     { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_HIRASE_000_020", "hash": "6E594FB5B05AE7C1", "target": "Senti il profumo, <if(gnum4,mia buona signora,mio buon signore)>? Questo sì che è il profumo di un pasto come si deve!" },
     { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_HIRASE_000_021", "hash": "7D2E4B0749AAF446", "target": "Quando metteremo le pietre roventi nella pentola e l'acqua di mare comincerà a cuocere il pesce e la carne, questo aroma già celestiale diventerà ancora più delizioso!" },
-    { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_HIRASE_000_022", "hash": "26590B3EC9AC654A", "target": "Dobbiamo ringraziare il Mare Rubino per tanta abbondanza. Ci benedice, e mangiando il suo cibo saremo protetti... a meno che tu non sia tanto <if(gnum4,sciocca,sciocco)> da ingoiare una delle pietre roventi! Ahahah!" },
+    { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_HIRASE_000_022", "hash": "26590B3EC9AC654A", "target": "Dobbiamo ringraziare il Mare di Rubino per tanta abbondanza. Ci benedice, e mangiando il suo cibo saremo protetti... a meno che tu non sia tanto <if(gnum4,sciocca,sciocco)> da ingoiare una delle pietre roventi! Ahahah!" },
     { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_HIRASE_000_023", "hash": "CD2D7E090EA6CE5E", "target": "Grazie per il tuo aiuto. Spero che questo basti a ripagare i tuoi servigi." }
   ]
 }

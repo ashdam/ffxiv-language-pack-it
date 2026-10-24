@@ -2,7 +2,7 @@
   "conversation": "custom/002/JobDefMch_00296",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/JobDefMch_00296#TEXT_JOBDEFMCH_00296_PELDERAIN_000_000", "hash": "F3C0C86F15EC44E3", "target": "Benvenut<if(gnum4,a,o)> alla Skysteel Manufactory, dove i miracoli nascono da etere, metallo e fantasia!" },
+    { "gameKey": "custom/002/JobDefMch_00296#TEXT_JOBDEFMCH_00296_PELDERAIN_000_000", "hash": "F3C0C86F15EC44E3", "target": "Benvenut<if(gnum4,a,o)> alla Manifattura dell'Acciaio Celeste, dove i miracoli nascono da etere, metallo e fantasia!" },
     { "gameKey": "custom/002/JobDefMch_00296#TEXT_JOBDEFMCH_00296_PELDERAIN_000_001", "hash": "309A4CD96EDBAEA1", "target": "<split(<string(gstr1)>, ,1)>, giusto? Se hai domande, sono qui per rispondere!" },
     { "gameKey": "custom/002/JobDefMch_00296#TEXT_JOBDEFMCH_00296_PELDERAIN_Q1_000_000", "hash": "B7DC12CC115F0531", "target": "Cosa vuoi chiedere?" },
     { "gameKey": "custom/002/JobDefMch_00296#TEXT_JOBDEFMCH_00296_PELDERAIN_A1_000_001", "hash": "41A7122166885CC1", "target": "Che cosa fai qui?" },

@@ -3,9 +3,9 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/053/BanYok128_05363#TEXT_BANYOK128_05363_SEQ_00", "hash": "87CEF0F6ED39F430", "target": "La preoccupazione è evidente sul volto di Vuyargur.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
-    { "gameKey": "quest/053/BanYok128_05363#TEXT_BANYOK128_05363_TODO_00", "hash": "DE0A9BFD1EFCE14F", "target": "Parlare con l'addetta alle provviste Yok Huy a Icuvlo's Inn" },
+    { "gameKey": "quest/053/BanYok128_05363#TEXT_BANYOK128_05363_TODO_00", "hash": "DE0A9BFD1EFCE14F", "target": "Parlare con l'addetta alle provviste Yok Huy alla Locanda di Icuvlo" },
     { "gameKey": "quest/053/BanYok128_05363#TEXT_BANYOK128_05363_TODO_01", "hash": "8BEF914FD5D27821", "target": "Parlare con Vuyargur" },
-    { "gameKey": "quest/053/BanYok128_05363#TEXT_BANYOK128_05363_UYARGUR_000_001", "hash": "CE200BDEC781DE68", "target": "<split(<string(gstr1)>, ,1)>, vorrei chiedervi un favore. Avevo mandato qualcuno a Icuvlo's Inn per rifornire la dispensa, ma sta tardando a tornare." },
+    { "gameKey": "quest/053/BanYok128_05363#TEXT_BANYOK128_05363_UYARGUR_000_001", "hash": "CE200BDEC781DE68", "target": "<split(<string(gstr1)>, ,1)>, vorrei chiedervi un favore. Avevo mandato qualcuno alla Locanda di Icuvlo per rifornire la dispensa, ma sta tardando a tornare." },
     { "gameKey": "quest/053/BanYok128_05363#TEXT_BANYOK128_05363_UYARGUR_000_002", "hash": "1F89BA8A8041AD5C", "target": "Temo che possa aver incontrato qualche problema per strada. Vi sarei grato se poteste cercarla." },
     { "gameKey": "quest/053/BanYok128_05363#TEXT_BANYOK128_05363_SHOPPINGYOK05363_000_005", "hash": "10D48FB5848E5201", "target": "Oh, Vuyargur ti ha chiesto di cercarmi? Mi dispiace tanto, non volevo farlo preoccupare." },
     { "gameKey": "quest/053/BanYok128_05363#TEXT_BANYOK128_05363_SHOPPINGYOK05363_000_006", "hash": "D43F5FEED9878BC9", "target": "Ho sentito che si terrà un banchetto per gli spiriti della neve, sai, e volevo servire qualcosa che potessero gustare insieme al kirkahryar." },

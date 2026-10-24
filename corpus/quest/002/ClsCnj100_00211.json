@@ -2,7 +2,7 @@
   "conversation": "quest/002/ClsCnj100_00211",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/002/ClsCnj100_00211#TEXT_CLSCNJ100_00211_SEQ_00", "hash": "A0F3CD58FFBADEF7", "target": "Fratello E<-->Sumi<-->Yan vuole assegnarti il tuo primo compito nell'arte invocativa della Stillglade Fane." },
+    { "gameKey": "quest/002/ClsCnj100_00211#TEXT_CLSCNJ100_00211_SEQ_00", "hash": "A0F3CD58FFBADEF7", "target": "Fratello E<-->Sumi<-->Yan vuole assegnarti il tuo primo compito nell'arte invocativa del Tempio della Radura Quieta." },
     { "gameKey": "quest/002/ClsCnj100_00211#TEXT_CLSCNJ100_00211_SEQ_01", "hash": "DE584871188A7807", "target": "Fratello E<-->Sumi<-->Yan ti chiede di aiutare il Bosco dei Dodici a riprendersi eliminando tre scoiattoli, tre coccinelle e tre funguar." },
     { "gameKey": "quest/002/ClsCnj100_00211#TEXT_CLSCNJ100_00211_SEQ_02", "hash": "087FC4289FE0AA43", "target": "Hai ucciso le creature indicate. Torna alla Gilda degli Invocatori e fai rapporto a fratello E<-->Sumi<-->Yan." },
     { "gameKey": "quest/002/ClsCnj100_00211#TEXT_CLSCNJ100_00211_SEQ_03", "hash": "BC70B800D88A9AC2", "target": "Fratello E<-->Sumi<-->Yan spiega che gli invocatori sfruttano il potere della natura per produrre un cambiamento. Con questo insegnamento, parti per abituarti a essere una cosa sola con le forze che ti circondano.<br><br>※La prossima missione da Conjurer sarà disponibile da E<-->Sumi<-->Yan al raggiungimento del livello 5." },
@@ -11,7 +11,7 @@
     { "gameKey": "quest/002/ClsCnj100_00211#TEXT_CLSCNJ100_00211_TODO_02", "hash": "6E2854AADB41E548", "target": "Uccidere forest funguar come Conjurer" },
     { "gameKey": "quest/002/ClsCnj100_00211#TEXT_CLSCNJ100_00211_TODO_03", "hash": "4DBA44C0A5690402", "target": "Fare rapporto a fratello E<-->Sumi<-->Yan alla Gilda degli Invocatori" },
     { "gameKey": "quest/002/ClsCnj100_00211#TEXT_CLSCNJ100_00211_ESUMIYAN_000_1", "hash": "C07CE05799380C49", "target": "Il ruolo <if(gnum4,di invocatrice,di invocatore)> vi si addice, <split(<string(gstr1)>, ,1)>." },
-    { "gameKey": "quest/002/ClsCnj100_00211#TEXT_CLSCNJ100_00211_ESUMIYAN_000_2", "hash": "75D4D47B6BB49B4C", "target": "Senza indugiare oltre, vi assegnerò il vostro primo compito nell'arte invocativa della Stillglade Fane." },
+    { "gameKey": "quest/002/ClsCnj100_00211#TEXT_CLSCNJ100_00211_ESUMIYAN_000_2", "hash": "75D4D47B6BB49B4C", "target": "Senza indugiare oltre, vi assegnerò il vostro primo compito nell'arte invocativa del Tempio della Radura Quieta." },
     { "gameKey": "quest/002/ClsCnj100_00211#TEXT_CLSCNJ100_00211_ESUMIYAN_000_3", "hash": "37C682C0234AACEF", "target": "Appena fuori dalle porte della città, troverete scoiattoli, coccinelle e funguar. Vorrei che ne uccideste tre di ogni tipo." },
     { "gameKey": "quest/002/ClsCnj100_00211#TEXT_CLSCNJ100_00211_ESUMIYAN_000_4", "hash": "6F9C9BE447183245", "target": "Se vi chiedete come possa ordinare con tanta freddezza di togliere una vita, sappiate che le cose non sono più come un tempo. A causa della Calamità─e, aggiungo, senza averne colpa─queste creature sono diventate un peso per il Bosco dei Dodici. Un peso che non può sopportare." },
     { "gameKey": "quest/002/ClsCnj100_00211#TEXT_CLSCNJ100_00211_ESUMIYAN_000_5", "hash": "C3A17FC2BECE23C0", "target": "Nell'arte invocativa, è vostro dovere eseguire la volontà della foresta. E impiegando a questo scopo i vostri poteri, imparerete qualcosa della vostra arte." },

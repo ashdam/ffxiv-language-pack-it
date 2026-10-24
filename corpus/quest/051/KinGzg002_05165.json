@@ -3,10 +3,10 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/051/KinGzg002_05165#TEXT_KINGZG002_05165_SEQ_00", "hash": "873FA54DDF953FF7", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>L'addetto alle pulizie affaticato sembra in difficoltà." },
-    { "gameKey": "quest/051/KinGzg002_05165#TEXT_KINGZG002_05165_TODO_00", "hash": "16A7F61A443BD073", "target": "Raccogliere i True Vue refuse sacks" },
+    { "gameKey": "quest/051/KinGzg002_05165#TEXT_KINGZG002_05165_TODO_00", "hash": "16A7F61A443BD073", "target": "Raccogliere i sacchi di rifiuti di Vista Autentica" },
     { "gameKey": "quest/051/KinGzg002_05165#TEXT_KINGZG002_05165_TODO_01", "hash": "02284A5EFF03EDDF", "target": "Parlare con l'addetto alle pulizie affaticato" },
     { "gameKey": "quest/051/KinGzg002_05165#TEXT_KINGZG002_05165_TODO_02", "hash": "BB82AF2345878312", "target": "Mostrare /doubt al delinquente dal sorriso beffardo" },
-    { "gameKey": "quest/051/KinGzg002_05165#TEXT_KINGZG002_05165_TODO_03", "hash": "039A7E490AC2EBDD", "target": "Consegnare i True Vue refuse sacks all'addetto alle pulizie affaticato" },
+    { "gameKey": "quest/051/KinGzg002_05165#TEXT_KINGZG002_05165_TODO_03", "hash": "039A7E490AC2EBDD", "target": "Consegnare i sacchi di rifiuti di Vista Autentica all'addetto alle pulizie affaticato" },
     { "gameKey": "quest/051/KinGzg002_05165#TEXT_KINGZG002_05165_CLEANER05165_000_000", "hash": "E5994C37BEF693F6", "target": "Oh, sei <if(gnum4,venuta,venuto)> a vedere come sto? Grazie per la premura. Come probabilmente noti, mi sento un po' indisposto." },
     { "gameKey": "quest/051/KinGzg002_05165#TEXT_KINGZG002_05165_Q1_000_000", "hash": "1587F2E02BB8058E", "target": "Che cosa dirai?" },
     { "gameKey": "quest/051/KinGzg002_05165#TEXT_KINGZG002_05165_A1_000_001", "hash": "7F59C91C5035FAA1", "target": "Vuoi che chiami un guaritore?" },
@@ -14,7 +14,7 @@
     { "gameKey": "quest/051/KinGzg002_05165#TEXT_KINGZG002_05165_A1_000_003", "hash": "486F373488B119B9", "target": "Forse potrei curarti?" },
     { "gameKey": "quest/051/KinGzg002_05165#TEXT_KINGZG002_05165_CLEANER05165_000_001", "hash": "331AD2978493ABF4", "target": "Oh no, non serve. Ho una malattia, sai: ogni tanto mi provoca intorpidimento e letargia. Nulla che un po' di riposo non sistemi, però." },
     { "gameKey": "quest/051/KinGzg002_05165#TEXT_KINGZG002_05165_CLEANER05165_000_002", "hash": "003EFA99F9BCA395", "target": "Il problema è che, quando sto così, non sono in condizioni di lavorare. Mi spiace approfittarne, ma vorresti darmi una mano?" },
-    { "gameKey": "quest/051/KinGzg002_05165#TEXT_KINGZG002_05165_CLEANER05165_000_003", "hash": "8CFB8ABC771F3528", "target": "Sono uno degli addetti alle pulizie di True Vue. Mi preparavo a raccogliere gli ultimi sacchi di rifiuti e finire la giornata quando la malattia si è riacutizzata... Ti sarei molto grato se potessi finire il giro per me." },
+    { "gameKey": "quest/051/KinGzg002_05165#TEXT_KINGZG002_05165_CLEANER05165_000_003", "hash": "8CFB8ABC771F3528", "target": "Sono uno degli addetti alle pulizie di Vista Autentica. Mi preparavo a raccogliere gli ultimi sacchi di rifiuti e finire la giornata quando la malattia si è riacutizzata... Ti sarei molto grato se potessi finire il giro per me." },
     { "gameKey": "quest/051/KinGzg002_05165#TEXT_KINGZG002_05165_CLEANER05165_000_005", "hash": "B8483582B3AD0944", "target": "Ti prego, sono solo pochi sacchi di rifiuti. Mi faresti davvero una gentilezza. Sento a malapena braccia e gambe..." },
     { "gameKey": "quest/051/KinGzg002_05165#TEXT_KINGZG002_05165_HYUNE05165_000_010", "hash": "32F01AF5E467E7A2", "target": "Ohoho! Sembri quasi morto! Che succede!?" },
     { "gameKey": "quest/051/KinGzg002_05165#TEXT_KINGZG002_05165_ELDITE05165_000_011", "hash": "E0EEFE23F1DB303C", "target": "Eh? Quel che ti affligge ha colpito anche la lingua!?" },
@@ -33,6 +33,6 @@
     { "gameKey": "quest/051/KinGzg002_05165#TEXT_KINGZG002_05165_CLEANER05165_000_042", "hash": "C30911BD1B1A27B1", "target": "Questo settore non è proprio il più sicuro della città... Purtroppo ricatti ed estorsioni sono piuttosto comuni." },
     { "gameKey": "quest/051/KinGzg002_05165#TEXT_KINGZG002_05165_CLEANER05165_000_043", "hash": "94C82DC186B28602", "target": "Di solito cerco di andarmene appena finisco il giro, ma oggi la fortuna è finita e ho avuto una crisi." },
     { "gameKey": "quest/051/KinGzg002_05165#TEXT_KINGZG002_05165_CLEANER05165_000_044", "hash": "5E4AB34C6FAF50C0", "target": "La malattia è causata dalla sensibilità all'energia del fulmine. Ho sentito che i più colpiti sono quasi costretti a letto dalla paralisi, quindi forse dovrei ritenermi fortunato che i miei sintomi siano abbastanza lievi." },
-    { "gameKey": "quest/051/KinGzg002_05165#TEXT_KINGZG002_05165_CLEANER05165_000_045", "hash": "6DB4AEE936EB8600", "target": "Ma basta parlarne. Grazie a te mi sento più o meno come al solito. Pensare di aver incontrato una persona virtuosa come te su True Vue." }
+    { "gameKey": "quest/051/KinGzg002_05165#TEXT_KINGZG002_05165_CLEANER05165_000_045", "hash": "6DB4AEE936EB8600", "target": "Ma basta parlarne. Grazie a te mi sento più o meno come al solito. Pensare di aver incontrato una persona virtuosa come te a Vista Autentica." }
   ]
 }

@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/004/SubSea066_00478#TEXT_SUBSEA066_00478_SEQ_00", "hash": "EE174D4493532568", "target": "Skarnmhar della Fattoria di Red Rooster cerca un avventuriero che sappia fare giustizia." },
-    { "gameKey": "quest/004/SubSea066_00478#TEXT_SUBSEA066_00478_SEQ_01", "hash": "34E05440DC2B19E4", "target": "Una diligenza è stata assalita sulla strada della fattoria. Il coraggioso cocchiere Wahoy Mahoy ha seguito i colpevoli fino alle Blind Iron Mines per recuperare il carico. Cercalo e offrigli aiuto." },
+    { "gameKey": "quest/004/SubSea066_00478#TEXT_SUBSEA066_00478_SEQ_01", "hash": "34E05440DC2B19E4", "target": "Una diligenza è stata assalita sulla strada della fattoria. Il coraggioso cocchiere Wahoy Mahoy ha seguito i colpevoli fino alle Miniere del Ferro Cieco per recuperare il carico. Cercalo e offrigli aiuto." },
     { "gameKey": "quest/004/SubSea066_00478#TEXT_SUBSEA066_00478_SEQ_02", "hash": "BB5B1F39CF15328D", "target": "I Kobold che hanno saccheggiato la diligenza di Wahoy si nascondono nelle miniere. Eliminali e riprenditi il carico." },
     { "gameKey": "quest/004/SubSea066_00478#TEXT_SUBSEA066_00478_SEQ_03", "hash": "5639F0DD0AAC8330", "target": "Hai sconfitto i Kobold e recuperato il carico di Wahoy Mahoy, dei fagotti di vestiario. Porta la buona notizia al cocchiere." },
     { "gameKey": "quest/004/SubSea066_00478#TEXT_SUBSEA066_00478_SEQ_04", "hash": "5A774AF567AA3F2F", "target": "Wahoy Mahoy, felicissimo, non vede l'ora di recapitare il vestiario a Skarnmhar. Ti chiede di completare la consegna al posto suo mentre ripara la diligenza." },
@@ -15,7 +15,7 @@
     { "gameKey": "quest/004/SubSea066_00478#TEXT_SUBSEA066_00478_TODO_03", "hash": "4E39A11706E600C7", "target": "Consegnare i fagotti di vestiario a Skarnmhar" },
     { "gameKey": "quest/004/SubSea066_00478#TEXT_SUBSEA066_00478_TODO_04", "hash": "CA168248E57BF923", "target": "Fare rapporto ad Anaoc" },
     { "gameKey": "quest/004/SubSea066_00478#TEXT_SUBSEA066_00478_SKARNMHAR_000_0", "hash": "55D041AFE0620067", "target": "Sorveglio i cancelli della fattoria, ma il mio controllo arriva solo fin qui." },
-    { "gameKey": "quest/004/SubSea066_00478#TEXT_SUBSEA066_00478_SKARNMHAR_000_1", "hash": "8AE785738507F7CB", "target": "La diligenza attesa oggi non ha superato le Blind Iron Mines. Poco fa ci è giunta notizia che l'ha assalita qualcuno... o <italic(1)>qualcosa<italic(0)>." },
+    { "gameKey": "quest/004/SubSea066_00478#TEXT_SUBSEA066_00478_SKARNMHAR_000_1", "hash": "8AE785738507F7CB", "target": "La diligenza attesa oggi non ha superato le Miniere del Ferro Cieco. Poco fa ci è giunta notizia che l'ha assalita qualcuno... o <italic(1)>qualcosa<italic(0)>." },
     { "gameKey": "quest/004/SubSea066_00478#TEXT_SUBSEA066_00478_SKARNMHAR_000_2", "hash": "6F1C8A93BCED5181", "target": "Il cocchiere è un tipo coraggioso. Se conosco Wahoy Mahoy, starà frugando nelle miniere per recuperare il carico. Ma è pur sempre un uomo solo. Mi tranquillizzerebbe sapere che vai ad aiutarlo." },
     { "gameKey": "quest/004/SubSea066_00478#TEXT_SUBSEA066_00478_WAHOYMAHOY_000_10", "hash": "2441B1BAD071A66E", "target": "Dovete essere voi l'aiuto mandato da Skarnmhar. Credevo che non vi avrei mai <if(gnum4,vista,visto)> arrivare!" },
     { "gameKey": "quest/004/SubSea066_00478#TEXT_SUBSEA066_00478_WAHOYMAHOY_000_11", "hash": "0E34FD690F4B6AA8", "target": "I Kobold mi hanno assalito e sono scappati con i vestiti, ma non preoccupatevi. Li riprenderò così da poterli riportare." },

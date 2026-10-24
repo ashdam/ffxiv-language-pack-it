@@ -2,7 +2,7 @@
   "conversation": "quest/044/AktKmf108_04446",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/044/AktKmf108_04446#TEXT_AKTKMF108_04446_SEQ_00", "hash": "511EBED9A2C3206F", "target": "La cappa d'ansia che gravava su Sharlayan Hamlet si è alleggerita fino a diventare più sopportabile." },
+    { "gameKey": "quest/044/AktKmf108_04446#TEXT_AKTKMF108_04446_SEQ_00", "hash": "511EBED9A2C3206F", "target": "La cappa d'ansia che gravava sul Borgo di Sharlayan si è alleggerita fino a diventare più sopportabile." },
     { "gameKey": "quest/044/AktKmf108_04446#TEXT_AKTKMF108_04446_TODO_00", "hash": "5060B0BEA02C86B4", "target": "Cercare Alisaie" },
     { "gameKey": "quest/044/AktKmf108_04446#TEXT_AKTKMF108_04446_TODO_01", "hash": "8C5B2370DCA2BFAE", "target": "Prendere la cassa di campioni" },
     { "gameKey": "quest/044/AktKmf108_04446#TEXT_AKTKMF108_04446_TODO_02", "hash": "8C68F10C20C688FC", "target": "Consegnare la cassa di campioni ad Alphinaud" },
@@ -53,7 +53,7 @@
     { "gameKey": "quest/044/AktKmf108_04446#TEXT_AKTKMF108_04446_ALPHINAUD_000_100", "hash": "8665BF673D91523F", "target": "Continuo a pensare di averlo già visto altrove, ma proprio non ricordo quando." },
     { "gameKey": "quest/044/AktKmf108_04446#TEXT_AKTKMF108_04446_ALISAIE_000_105", "hash": "3745E7C8B43F3DFE", "target": "Dev'essere Theopauldin." },
     { "gameKey": "quest/044/AktKmf108_04446#TEXT_AKTKMF108_04446_THEOPAULDIN_000_110", "hash": "83E9288B922C96DD", "target": "Per gli dèi, non finisce mai, vero? \\<sospiro> Cosa posso fare per voi?" },
-    { "gameKey": "quest/044/AktKmf108_04446#TEXT_AKTKMF108_04446_ALISAIE_000_111", "hash": "1712E3ED84AA4AE6", "target": "Abbiamo portato dei campioni da Sharlayan Hamlet─serie uno-uno-zero? Le casse sono all'ingresso." },
+    { "gameKey": "quest/044/AktKmf108_04446#TEXT_AKTKMF108_04446_ALISAIE_000_111", "hash": "1712E3ED84AA4AE6", "target": "Abbiamo portato dei campioni dal Borgo di Sharlayan─serie uno-uno-zero? Le casse sono all'ingresso." },
     { "gameKey": "quest/044/AktKmf108_04446#TEXT_AKTKMF108_04446_THEOPAULDIN_000_112", "hash": "442E99835C2C5A9A", "target": "Ah, grazie. Aspettavo un collega, ma siamo terribilmente a corto di personale..." },
     { "gameKey": "quest/044/AktKmf108_04446#TEXT_AKTKMF108_04446_THEOPAULDIN_000_113", "hash": "AFD6DF359E0FA2DB", "target": "Un momento─siete i figli di Fourchenault, vero?" },
     { "gameKey": "quest/044/AktKmf108_04446#TEXT_AKTKMF108_04446_ALPHINAUD_000_114", "hash": "23B03CDAA8FBC527", "target": "Alphinaud e Alisaie, al vostro servizio. Conoscete bene nostro padre, immagino?" },

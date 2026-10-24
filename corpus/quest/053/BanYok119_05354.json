@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/053/BanYok119_05354#TEXT_BANYOK119_05354_SEQ_00", "hash": "F0DFEE5B17088901", "target": "Vuyargur cerca qualcuno dal passo svelto.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
-    { "gameKey": "quest/053/BanYok119_05354#TEXT_BANYOK119_05354_TODO_00", "hash": "8B5F7AB84240DB4D", "target": "Parlare con chi raccoglie il ghiaccio per gli Yok Huy a Zirgorteh the Open-armed" },
+    { "gameKey": "quest/053/BanYok119_05354#TEXT_BANYOK119_05354_TODO_00", "hash": "8B5F7AB84240DB4D", "target": "Parlare con chi raccoglie il ghiaccio per gli Yok Huy a Zirgorteh dalle Braccia Aperte" },
     { "gameKey": "quest/053/BanYok119_05354#TEXT_BANYOK119_05354_TODO_01", "hash": "E2E4FD1F5B1B4FC1", "target": "Consegnare il ghiacciolo d'acqua di sorgente al venditore di alimenti freschi" },
     { "gameKey": "quest/053/BanYok119_05354#TEXT_BANYOK119_05354_TODO_02", "hash": "A10A020831B2B61D", "target": "Parlare con Vuyargur" },
     { "gameKey": "quest/053/BanYok119_05354#TEXT_BANYOK119_05354_VUYARGUR_000_000", "hash": "1DB5440F3C89214C", "target": "Ah, <split(<string(gstr1)>, ,1)>, forse siete proprio la persona che cercavo." },
@@ -12,7 +12,7 @@
     { "gameKey": "quest/053/BanYok119_05354#TEXT_BANYOK119_05354_VUYARGUR_000_003", "hash": "B9640E10508D98E3", "target": "Vi dispiacerebbe effettuare la consegna al posto nostro? Andate sul fondo della dispensa d'alta quota: chi raccoglie il ghiaccio ne staccherà il pezzo più grande che potete trasportare." },
     { "gameKey": "quest/053/BanYok119_05354#TEXT_BANYOK119_05354_STORAGEYOKHUY05354_000_010", "hash": "6D5E96F23DAB62D3", "target": "Un altro ghiacciolo per il mercato? Hmmm, forse te ne serve uno più leggero del solito..." },
     { "gameKey": "quest/053/BanYok119_05354#TEXT_BANYOK119_05354_STORAGEYOKHUY05354_000_011", "hash": "BDC9ACB3E7056C65", "target": "Ecco, un pezzo di ghiaccio appena raccolto, formato dall'acqua di sorgente montana." },
-    { "gameKey": "quest/053/BanYok119_05354#TEXT_BANYOK119_05354_STORAGEYOKHUY05354_000_012", "hash": "03A955595D4DD172", "target": "Portalo in fretta giù a Solace: dovresti trovare il nostro amico ambulante in attesa vicino alla strada per Kozama'uka." },
+    { "gameKey": "quest/053/BanYok119_05354#TEXT_BANYOK119_05354_STORAGEYOKHUY05354_000_012", "hash": "03A955595D4DD172", "target": "Portalo in fretta giù al Conforto: dovresti trovare il nostro amico ambulante in attesa vicino alla strada per Kozama'uka." },
     { "gameKey": "quest/053/BanYok119_05354#TEXT_BANYOK119_05354_STORAGEYOKHUY05354_000_014", "hash": "B3E0BAA7A6A66E58", "target": "Nella dispensa il ghiaccio si forma in grandi quantità, ma mi dicono che in città pagano bene persino il frammento più piccolo. Meglio consegnare quel ghiacciolo finché resta qualcosa da vendere!" },
     { "gameKey": "quest/053/BanYok119_05354#TEXT_BANYOK119_05354_ICEBLOCKPELUPELU05354_000_020", "hash": "F3CC3CE6CAB4F0B2", "target": "Ah, hai portato giù dalla montagna il ghiaccio degli Yok Huy, vero?" },
     { "gameKey": "quest/053/BanYok119_05354#TEXT_BANYOK119_05354_ICEBLOCKPELUPELU05354_000_021", "hash": "6103F465895D4C68", "target": "Sì, sì, è squisito! Così limpido, così bello..." },

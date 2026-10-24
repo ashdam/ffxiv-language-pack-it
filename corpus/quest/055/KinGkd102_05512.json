@@ -10,7 +10,7 @@
     { "gameKey": "quest/055/KinGkd102_05512#TEXT_KINGKD102_05512_ARCHIVE_000_015", "hash": "3FE7DF1690C800CD", "target": "Circondata da vette imponenti su ogni lato... Questa regione sembra isolata dal resto dell'isola." },
     { "gameKey": "quest/055/KinGkd102_05512#TEXT_KINGKD102_05512_IRIS_000_020", "hash": "0C2B03D2A91AA635", "target": "Che cosa vedrai in queste terre strane?" },
     { "gameKey": "quest/055/KinGkd102_05512#TEXT_KINGKD102_05512_KETENRAMM_000_030", "hash": "F46FD7FCB99AD26B", "target": "I nostri obiettivi qui sono due: scoprire la verità su Occult Crescent e riportare a casa l'equipaggio tutto intero." },
-    { "gameKey": "quest/055/KinGkd102_05512#TEXT_KINGKD102_05512_KETENRAMM_000_031", "hash": "CAB054F605F06776", "target": "Ora, credo che trovare l'artefice dell'isola sia la chiave per entrambi. Dato che probabilmente si è rintanato nella Tower of Magic, trovare il modo di entrarci dovrebbe essere la nostra prima priorità." },
+    { "gameKey": "quest/055/KinGkd102_05512#TEXT_KINGKD102_05512_KETENRAMM_000_031", "hash": "CAB054F605F06776", "target": "Ora, credo che trovare l'artefice dell'isola sia la chiave per entrambi. Dato che probabilmente si è rintanato nella Torre della Magia, trovare il modo di entrarci dovrebbe essere la nostra prima priorità." },
     { "gameKey": "quest/055/KinGkd102_05512#TEXT_KINGKD102_05512_KETENRAMM_000_032", "hash": "36CFB04E39BC72CF", "target": "Secondo i nostri esploratori, i mostri di questa parte dell'isola sono parecchio più forti delle bestiacce incontrate finora. Se fai fatica, ti conviene tornare al Corno Meridionale per allenarti un po'." },
     { "gameKey": "quest/055/KinGkd102_05512#TEXT_KINGKD102_05512_KETENRAMM_000_033", "hash": "A588EB924C9C2AEA", "target": "Devo anche dirti che i ricognitori hanno trovato nuovi oggetti interessanti. Parla con l'equipaggio se la cosa ti incuriosisce." },
     { "gameKey": "quest/055/KinGkd102_05512#TEXT_KINGKD102_05512_KETENRAMM_000_034", "hash": "A81990D3B40895D6", "target": "Oh, e già che sei qui, non dimenticare di sintonizzarti con l'eterite del campo." },
@@ -21,7 +21,7 @@
     { "gameKey": "quest/055/KinGkd102_05512#TEXT_KINGKD102_05512_ARCHIVE_000_101", "hash": "6E99C7996E589CC2", "target": "Come senza dubbio ricorderai, avevo ipotizzato che funzionassero soltanto sull'isola. La mia ipotesi era corretta?" },
     { "gameKey": "quest/055/KinGkd102_05512#TEXT_KINGKD102_05512_ARCHIVE_000_102", "hash": "8EE3F669E81FE832", "target": "Una parte di me si chiedeva se tu, in particolare, riuscissi a usare il potere dei frammenti oltre la barriera. A quanto pare no..." },
     { "gameKey": "quest/055/KinGkd102_05512#TEXT_KINGKD102_05512_ARCHIVE_000_103", "hash": "D3D2DAD21EF9C791", "target": "In verità, mi sono anche chiesto perché tu sia <if(gnum4,stata convocata,stato convocato)> qui fin dall'inizio." },
-    { "gameKey": "quest/055/KinGkd102_05512#TEXT_KINGKD102_05512_ARCHIVE_000_104", "hash": "8370609ECAC28024", "target": "Se la voce che hai sentito appartiene all'artefice dell'isola, cercarlo nella Tower of Magic dovrebbe darci risposte anche su questo." },
+    { "gameKey": "quest/055/KinGkd102_05512#TEXT_KINGKD102_05512_ARCHIVE_000_104", "hash": "8370609ECAC28024", "target": "Se la voce che hai sentito appartiene all'artefice dell'isola, cercarlo nella Torre della Magia dovrebbe darci risposte anche su questo." },
     { "gameKey": "quest/055/KinGkd102_05512#TEXT_KINGKD102_05512_ARCHIVE_000_106", "hash": "2BEA9AD3F4CAC3FF", "target": "In altre parole, è tempo di avventurarsi ancora una volta!" }
   ]
 }

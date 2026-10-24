@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_SEQ_00", "hash": "2F4AB9533EF56604", "target": "Rafold ha bisogno di qualcuno che monti la guardia." },
-    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_SEQ_01", "hash": "CFCD662762CE3E37", "target": "La guarnigione di Campo Bluefog ha bisogno di altri occhi per sorvegliare i garleani a nord. Monta la guardia nei tre punti in cui sventola lo stendardo delle Fiamme Immortali." },
+    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_SEQ_01", "hash": "CFCD662762CE3E37", "target": "La guarnigione di Campo di Nebbia Azzurra ha bisogno di altri occhi per sorvegliare i garleani a nord. Monta la guardia nei tre punti in cui sventola lo stendardo delle Fiamme Immortali." },
     { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_SEQ_02", "hash": "86DA2E82B9942F81", "target": "Hai vegliato sui tre luoghi. Torna da Rafold e riferisci ciò che hai visto." },
     { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_SEQ_03", "hash": "443A7F4964BA993E", "target": "Rafold è sollevato di sapere che non sono stati avvistati garleani, ma sa che il nemico è pronto a colpire non appena la sentinella sbatte le palpebre." },
     { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_TODO_00", "hash": "98DDC9C53DAF1A70", "target": "Montare la guardia presso <ennoun(EObj,2,2002253,2,1)> e sconfiggere i nemici" },

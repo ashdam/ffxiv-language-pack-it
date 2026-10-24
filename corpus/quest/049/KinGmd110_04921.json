@@ -6,7 +6,7 @@
     { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_TODO_00", "hash": "9D02A88A95B754B1", "target": "Esaminare il soldato abbattuto" },
     { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_TODO_01", "hash": "394C449709F98B5F", "target": "Parlare con Alisaie" },
     { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_TODO_02", "hash": "D65FB970EC840710", "target": "Parlare con Alisaie" },
-    { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_TODO_03", "hash": "B7E7AC50637BD313", "target": "Parlare con Wuk Lamat a Sunperch" },
+    { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_TODO_03", "hash": "B7E7AC50637BD313", "target": "Parlare con Wuk Lamat al Posatoio del Sole" },
     { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ALISAIE_000_001", "hash": "7817E8D4B0CB4259", "target": "È chiaro che non è una persona, ma non somiglia a nessun automa o arma magitek che abbia mai visto." },
     { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ALISAIE_000_002", "hash": "08FB00700ADA4A47", "target": "Tu però hai viaggiato in lungo e in largo, forse hai già incontrato qualcosa di simile." },
     { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ALISAIE_000_003", "hash": "4E7F7A939049D011", "target": "Ti dispiacerebbe esaminarlo più da vicino? Potrebbe offrirci qualche indizio sui nuovi poteri di Zoraal Ja." },
@@ -27,7 +27,7 @@
     { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ALISAIE_000_019", "hash": "A99BD6E5BECC81F8", "target": "Ehm, sì, certo. Ma non somiglia affatto a quella usata per costruire questa macchina." },
     { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ALISAIE_000_020", "hash": "7776FC6F96E169C5", "target": "La sua pietra è liscia ed emana un bagliore─come quella che abbiamo visto nella camera con il portale per la città d'oro." },
     { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ALISAIE_000_021", "hash": "7C8FD36328F1CF96", "target": "E anche se i soldati hanno un colore diverso, le navi da guerra sono nere come la pietra del portale stesso." },
-    { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ALISAIE_000_022", "hash": "FE4B08516ADB4A59", "target": "Dev'esserci un legame. Condividiamo le nostre osservazioni con gli altri quando ci riuniremo a Sunperch." },
+    { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ALISAIE_000_022", "hash": "FE4B08516ADB4A59", "target": "Dev'esserci un legame. Condividiamo le nostre osservazioni con gli altri quando ci riuniremo al Posatoio del Sole." },
     { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ALISAIE_000_023", "hash": "6177BEDD8A2B445D", "target": "Prima verremo a capo di questo mistero, meglio sarà." },
     { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ALISAIE_000_025", "hash": "D0FFF7DC4FE515B1", "target": "All'inizio credevo fossero soldati in armatura. Ma quando li ho abbattuti, è stato chiaro che non era così." },
     { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ALISAIE_000_030", "hash": "142D695FA7A35246", "target": "Sembra che siano già tutti qui." },
@@ -40,6 +40,6 @@
     { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ERENVILLE_000_070", "hash": "3B4F31B098CB5138", "target": "Spero che stiano bene..." },
     { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_WUKLAMAT_000_090", "hash": "759433F5BAC64129", "target": "Ora so cosa devo fare." },
     { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_SUNPERCHGATEKEEPER_000_100", "hash": "D0122BB961623488", "target": "Il Voto Wuk Lamat e gli altri vi aspettano. Da questa parte." },
-    { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_SYSTEM_000_101", "hash": "550C961598AE9F70", "target": "Entrare a Sunperch?" }
+    { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_SYSTEM_000_101", "hash": "550C961598AE9F70", "target": "Entrare al Posatoio del Sole?" }
   ]
 }

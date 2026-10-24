@@ -2,12 +2,12 @@
   "conversation": "quest/003/SubFst068_00384",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_SEQ_00", "hash": "ECB415BDBE01C3D0", "target": "Lothaire, una guardia alla Guglia di Galvanth, vuole che tu vada all'Albero di Confine." },
-    { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_SEQ_01", "hash": "D886F615276F3D16", "target": "Lothaire ti ha chiesto di ricordare all'Uditrice Leonnie che ha prenotato un posto su un'imbarcazione al Pontile dello Specchio. Dirigiti all'Albero di Confine a sudovest e parla con l'invocatrice." },
-    { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_SEQ_02", "hash": "312C7C367CA8CEBD", "target": "L'Uditrice Leonnie deve restare all'Albero di Confine per comunicare con gli elementali. Informa Armelle, al Pontile dello Specchio, del ritardo nei piani dell'invocatrice." },
+    { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_SEQ_00", "hash": "ECB415BDBE01C3D0", "target": "Lothaire, una guardia alla Torre di Galvanth, vuole che tu vada all'Albero di Confine." },
+    { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_SEQ_01", "hash": "D886F615276F3D16", "target": "Lothaire ti ha chiesto di ricordare all'Uditrice Leonnie che ha prenotato un posto su un'imbarcazione ai Pontili dello Specchio. Dirigiti all'Albero di Confine a sudovest e parla con l'invocatrice." },
+    { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_SEQ_02", "hash": "312C7C367CA8CEBD", "target": "L'Uditrice Leonnie deve restare all'Albero di Confine per comunicare con gli elementali. Informa Armelle, ai Pontili dello Specchio, del ritardo nei piani dell'invocatrice." },
     { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_SEQ_03", "hash": "CD44DD03C2C736E5", "target": "Riferisci il messaggio dell'Uditrice Leonnie ad Armelle, che si rassegna a prenotare per l'invocatrice un'imbarcazione più tardi. Resta solo da decidere <italic(1)>quanto<italic(0)> più tardi..." },
     { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_TODO_00", "hash": "0EE8B7BE953C4055", "target": "Parlare con Leonnie" },
-    { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_TODO_01", "hash": "556A58E1A13B128D", "target": "Parlare con Armelle al Pontile dello Specchio" },
+    { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_TODO_01", "hash": "556A58E1A13B128D", "target": "Parlare con Armelle ai Pontili dello Specchio" },
     { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_SYSTEM_100_000", "hash": "B1B05BA685D1FC2E", "target": "Per accettare questa missione devi abbandonare la missione dell'epopea in corso. Apri la voce corrispondente nel Journal o nella Duty List e seleziona «Abandon»." },
     { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_LOTHAIRE_000_1", "hash": "6851ABAB1F1924DE", "target": "Ho un altro compito per voi, <if(gnum4,avventuriera,avventuriero)>. Vorrei che andaste all'Albero di Confine, a sudovest di qui, e parlaste con l'Uditrice Leonnie." },
     { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_LOTHAIRE_000_2", "hash": "2E717C42397D9CD4", "target": "Dopo aver curato l'Albero di Confine, l'Uditrice doveva imbarcarsi al Pontile dello Specchio... Ebbene, l'ora della partenza è venuta e passata, e di lei nessuna traccia." },
@@ -17,6 +17,6 @@
     { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_LEONNIE_000_13", "hash": "4F0C47EFB3678F84", "target": "Devo restare ancora un poco, per meglio indovinare la fonte del turbamento degli elementali. Vi prego, informate Armelle che arriverò in ritardo." },
     { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_ARMELLE_000_31", "hash": "5E9DBF4BEC58C1B3", "target": "Portate un messaggio dell'Uditrice Leonnie? Una presenza maligna nel Deepcroft? Suona grave, davvero." },
     { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_ARMELLE_000_32", "hash": "3E9A164C062AB4EF", "target": "Organizzerò un'imbarcazione per più tardi, allora. Fra una campana, forse? Due? Meglio farne tre, per stare sicuri. Grazie del disturbo." },
-    { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_LEONNIE_000_21", "hash": "D59ABD83344ED5E8", "target": "Devo indugiare qui ancora un poco. Vi prego, andate al Pontile dello Specchio e portate le mie scuse ad Armelle." }
+    { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_LEONNIE_000_21", "hash": "D59ABD83344ED5E8", "target": "Devo indugiare qui ancora un poco. Vi prego, andate ai Pontili dello Specchio e portate le mie scuse ad Armelle." }
   ]
 }

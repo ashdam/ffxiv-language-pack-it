@@ -8,7 +8,7 @@
     { "gameKey": "quest/027/StmBdz621_02799#TEXT_STMBDZ621_02799_TODO_02", "hash": "EEACF5D7521ED6A9", "target": "Consegnare il sack of arrowheads al giovane Uyagir" },
     { "gameKey": "quest/027/StmBdz621_02799#TEXT_STMBDZ621_02799_TODO_03", "hash": "69374E4CB1DDB644", "target": "Parlare con il giovane Uyagir" },
     { "gameKey": "quest/027/StmBdz621_02799#TEXT_STMBDZ621_02799_UYAGIR02799_000_000", "hash": "6E6D9E56870F8C44", "target": "Puoi concedermi un momento? Ho bisogno del tuo aiuto." },
-    { "gameKey": "quest/027/StmBdz621_02799#TEXT_STMBDZ621_02799_UYAGIR02799_000_001", "hash": "3CF2C08E61002D10", "target": "Se accetti, ci vediamo vicino alle Uyagir Caves. Ti dirò esattamente che cosa vorrei farti fare." },
+    { "gameKey": "quest/027/StmBdz621_02799#TEXT_STMBDZ621_02799_UYAGIR02799_000_001", "hash": "3CF2C08E61002D10", "target": "Se accetti, ci vediamo vicino alle Grotte degli Uyagir. Ti dirò esattamente che cosa vorrei farti fare." },
     { "gameKey": "quest/027/StmBdz621_02799#TEXT_STMBDZ621_02799_UYAGIR02799_000_010", "hash": "67F11E172B2A8973", "target": "Grazie di essere qui." },
     { "gameKey": "quest/027/StmBdz621_02799#TEXT_STMBDZ621_02799_UYAGIR02799_000_011", "hash": "A5E097DF0B06567E", "target": "In queste caverne ci sono diverse punte di freccia che vorrei barattare con i Dotharl." },
     { "gameKey": "quest/027/StmBdz621_02799#TEXT_STMBDZ621_02799_UYAGIR02799_000_012", "hash": "323A0EE8C2101006", "target": "Normalmente le raccoglierei io stesso, ma le caverne sono infestate dai Matanga. Ho chiesto il tuo aiuto perché sembri <if(gnum4,una valida guerriera,un valido guerriero)>. Spero proprio di non essermi sbagliato. Buona fortuna!" },

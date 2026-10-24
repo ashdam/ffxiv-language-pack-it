@@ -41,7 +41,7 @@
     { "gameKey": "quest/005/ManFst309_00516#TEXT_MANFST309_00516_000310_MINFILIA", "hash": "2F075D60AC796E40", "target": "Thancred, Yda, andate dalle Grandi Compagnie. Spiegate la situazione e chiedete il loro sostegno." },
     { "gameKey": "quest/005/ManFst309_00516#TEXT_MANFST309_00516_000320_MINFILIA", "hash": "4BDFD3C64C8A83DA", "target": "Urianger, avvisate gli Studenti di Baldesion. E anche Alphinaud, se potete." },
     { "gameKey": "quest/005/ManFst309_00516#TEXT_MANFST309_00516_000330_MINFILIA", "hash": "833B3F7EBE96FA5B", "target": "Papalymo, raccogli tutte le informazioni su Titano che abbiamo, per poche che siano." },
-    { "gameKey": "quest/005/ManFst309_00516#TEXT_MANFST309_00516_000340_MINFILIA", "hash": "42D746A7E5DC17FC", "target": "Al Sailors Ward ti aggiorneranno sulla situazione tattica." },
+    { "gameKey": "quest/005/ManFst309_00516#TEXT_MANFST309_00516_000340_MINFILIA", "hash": "42D746A7E5DC17FC", "target": "Al Quartiere dei Marinai ti aggiorneranno sulla situazione tattica." },
     { "gameKey": "quest/005/ManFst309_00516#TEXT_MANFST309_00516_000350_MINFILIA", "hash": "28272A129255C414", "target": "Fa' scorta per il viaggio. Che tu possa camminare nella luce del Cristallo." },
     { "gameKey": "quest/005/ManFst309_00516#TEXT_MANFST309_00516_RASHAHT_000_000", "hash": "2E805E2B5569B97B", "target": "È un piacere vederti, <head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>." },
     { "gameKey": "quest/005/ManFst309_00516#TEXT_MANFST309_00516_RASHAHT_000_001", "hash": "44DD323B4953D895", "target": "Gli Eredi ci hanno avvisati del tuo arrivo." },

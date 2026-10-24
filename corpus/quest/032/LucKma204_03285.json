@@ -30,7 +30,7 @@
     { "gameKey": "quest/032/LucKma204_03285#TEXT_LUCKMA204_03285_ALPHINAUD_000_018", "hash": "C241DB07FDA1F47D", "target": "Il mio appuntamento con gli Ondo è fra qualche ora. Devo solo ritirare i prodotti e incontrarli sulla riva." },
     { "gameKey": "quest/032/LucKma204_03285#TEXT_LUCKMA204_03285_ALPHINAUD_000_019", "hash": "2D90500B77E6AB58", "target": "Potresti aiutarmi a concludere lo scambio?" },
     { "gameKey": "quest/032/LucKma204_03285#TEXT_LUCKMA204_03285_ALPHINAUD_000_020", "hash": "8FB8F450F193C1BF", "target": "Eccellente, sarò lieto della tua compagnia." },
-    { "gameKey": "quest/032/LucKma204_03285#TEXT_LUCKMA204_03285_ALPHINAUD_000_021", "hash": "000D7EA2307D7AAB", "target": "Prima di tutto, dunque─dobbiamo fare visita a Mosha-Moa, la mia fornitrice a Wright. Vieni, è poco più a nord-ovest." },
+    { "gameKey": "quest/032/LucKma204_03285#TEXT_LUCKMA204_03285_ALPHINAUD_000_021", "hash": "000D7EA2307D7AAB", "target": "Prima di tutto, dunque─dobbiamo fare visita a Mosha-Moa, la mia fornitrice a Carpentiere. Vieni, è poco più a nord-ovest." },
     { "gameKey": "quest/032/LucKma204_03285#TEXT_LUCKMA204_03285_ALPHINAUD_000_030", "hash": "DBBFA27B078FBD4B", "target": "Questa è Mosha-Moa, la contadina di cui ti parlavo." },
     { "gameKey": "quest/032/LucKma204_03285#TEXT_LUCKMA204_03285_MOSHAMOA_000_040", "hash": "8ADFC4CB5A2E45EE", "target": "...Posso fare qualcosa per voi, <if(gnum4,amica,amico)>?" },
     { "gameKey": "quest/032/LucKma204_03285#TEXT_LUCKMA204_03285_ALPHINAUD_000_041", "hash": "0B6BC1EDAA4D837A", "target": "Buongiorno, Mosha-Moa. Vi presento <if(gnum4,la mia socia,il mio socio)>, <split(<string(gstr1)>, ,1)>. Siamo qui per ritirare i prodotti che ho acquistato." },

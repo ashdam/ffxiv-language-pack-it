@@ -58,7 +58,7 @@
     { "gameKey": "cut_scene/070/VoiceMan_07002#TEXT_VOICEMAN_07002_000530_HUNMURRUK", "hash": "6DC616361B4E84E2", "target": "Avete a disposizione delle cucine. Se il piatto non sarà all'altezza, potrebbe esservi chiesto di riprovare." },
     { "gameKey": "cut_scene/070/VoiceMan_07002#TEXT_VOICEMAN_07002_000540_HUNMURRUK", "hash": "EF15CB1883839849", "target": "Che la Impresa del Banchetto abbia inizio." },
     { "gameKey": "cut_scene/070/VoiceMan_07002#TEXT_VOICEMAN_07002_000550_WUKLAMAT", "hash": "4D2B4DF298D4354C", "target": "In realtà non ho mai sentito parlare dello xibruq pibil. Chissà com'è..." },
-    { "gameKey": "cut_scene/070/VoiceMan_07002#TEXT_VOICEMAN_07002_000560_WUKEVU", "hash": "EE342CAA25226A1E", "target": "Qui si combatterono gran parte delle battaglie tra Xbr'aal e Mamool Ja─il Xobr'it Cinderfield." },
+    { "gameKey": "cut_scene/070/VoiceMan_07002#TEXT_VOICEMAN_07002_000560_WUKEVU", "hash": "EE342CAA25226A1E", "target": "Qui si combatterono gran parte delle battaglie tra Xbr'aal e Mamool Ja─il Campo di Cenere di Xobr'it." },
     { "gameKey": "cut_scene/070/VoiceMan_07002#TEXT_VOICEMAN_07002_000570_KOANA", "hash": "2AC89D65CB4252EA", "target": "Un campo di cenere, davvero... I loro scontri devono essere stati feroci." },
     { "gameKey": "cut_scene/070/VoiceMan_07002#TEXT_VOICEMAN_07002_000580_WUKEVU", "hash": "9C5DDF725968F65C", "target": "La guerra per queste terre iniziò dopo la partenza degli Yok Huy, circa cinquecento anni fa." },
     { "gameKey": "cut_scene/070/VoiceMan_07002#TEXT_VOICEMAN_07002_000590_WUKEVU", "hash": "EDAB6DDB6C2846B1", "target": "E nei quattro secoli successivi, i due nemici ripagarono violenza con violenza. Un flusso continuo di scaramucce interrotto da immensi massacri." },
@@ -396,7 +396,7 @@
     { "gameKey": "cut_scene/070/VoiceMan_07002#TEXT_VOICEMAN_07002_003780_KRILE", "hash": "90625F9FCE03F735", "target": "Credevo che questo luogo fosse degli Yok Huy... ma anche questa pietra luminosa è opera loro?" },
     { "gameKey": "cut_scene/070/VoiceMan_07002#TEXT_VOICEMAN_07002_003790_ERENVILLE", "hash": "9F17431D87FB3F6D", "target": "Non credo. Non ho mai visto nulla di simile." },
     { "gameKey": "cut_scene/070/VoiceMan_07002#TEXT_VOICEMAN_07002_003800_KRILE", "hash": "324FE78B5615504D", "target": "Allora risale a un'epoca ancora più antica?" },
-    { "gameKey": "cut_scene/070/VoiceMan_07002#TEXT_VOICEMAN_07002_003810_ALISAIE", "hash": "908D098F33F28524", "target": "Non ditemi che sono di nuovo gli Allagan..." },
+    { "gameKey": "cut_scene/070/VoiceMan_07002#TEXT_VOICEMAN_07002_003810_ALISAIE", "hash": "908D098F33F28524", "target": "Non ditemi che sono di nuovo gli allagani..." },
     { "gameKey": "cut_scene/070/VoiceMan_07002#TEXT_VOICEMAN_07002_003820_ALPHINAUD", "hash": "0424FB58B0365E0B", "target": "Servirebbe uno studio accurato, ma non sembra ricordare i loro progetti." },
     { "gameKey": "cut_scene/070/VoiceMan_07002#TEXT_VOICEMAN_07002_003830_KRILE", "hash": "0A540A6573A94966", "target": "Una luce dorata... Potrebbe essere...?" },
     { "gameKey": "cut_scene/070/VoiceMan_07002#TEXT_VOICEMAN_07002_003840_WUKLAMAT", "hash": "8D0E4969CC47AF14", "target": "C'è una piattaforma dall'altro lato. Ma come la raggiungiamo...?" },
@@ -523,7 +523,7 @@
     { "gameKey": "cut_scene/070/VoiceMan_07002#TEXT_VOICEMAN_07002_004980_ERENVILLE", "hash": "345AE706076C65EC", "target": "Se non hai una destinazione precisa, sarò lieto di guidarti lungo il cammino." },
     { "gameKey": "cut_scene/070/VoiceMan_07002#TEXT_VOICEMAN_07002_005000_WUKLAMAT", "hash": "48C88BD72A90B446", "target": "Allora, per ora addio." },
     { "gameKey": "cut_scene/070/VoiceMan_07002#TEXT_VOICEMAN_07002_005010_WUKLAMAT", "hash": "1BE60DD306A23C49", "target": "Abbiate cura di voi!" },
-    { "gameKey": "cut_scene/070/VoiceMan_07002#TEXT_VOICEMAN_07002_005020_ERENVILLE", "hash": "6F43A6CA56509FF5", "target": "Quando vorrai partire, raggiungimi allo Xak Tural Skygate." },
+    { "gameKey": "cut_scene/070/VoiceMan_07002#TEXT_VOICEMAN_07002_005020_ERENVILLE", "hash": "6F43A6CA56509FF5", "target": "Quando vorrai partire, raggiungimi alla Porta Celeste di Xak Tural." },
     { "gameKey": "cut_scene/070/VoiceMan_07002#TEXT_VOICEMAN_07002_005030_WUKLAMAT", "hash": "E170260EEDBA096B", "target": "Siamo amici fino alla fine, mi hai sentito!? Amici fino alla fine!" }
   ]
 }

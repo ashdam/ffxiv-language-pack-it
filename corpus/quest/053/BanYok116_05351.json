@@ -3,11 +3,11 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/053/BanYok116_05351#TEXT_BANYOK116_05351_SEQ_00", "hash": "46765866EDCF1748", "target": "Vuyargur ha un compito per te che non può delegare.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
-    { "gameKey": "quest/053/BanYok116_05351#TEXT_BANYOK116_05351_TODO_00", "hash": "F73AE0598B64841F", "target": "Consegnare il pagamento per i Chirwagur al charitable Chirwagur a Solace" },
+    { "gameKey": "quest/053/BanYok116_05351#TEXT_BANYOK116_05351_TODO_00", "hash": "F73AE0598B64841F", "target": "Consegnare il pagamento per i Chirwagur al charitable Chirwagur al Conforto" },
     { "gameKey": "quest/053/BanYok116_05351#TEXT_BANYOK116_05351_TODO_01", "hash": "1E1A98EEB6766234", "target": "Consegnare il sale dei Chirwagur a Vuyargur" },
     { "gameKey": "quest/053/BanYok116_05351#TEXT_BANYOK116_05351_VUYARGUR_000_000", "hash": "CF02C9E5C063D93C", "target": "Il sale è essenziale per i nostri lavori, sia per rendere meno scivolosi i sentieri ghiacciati sia per conservare il cibo, ed è proprio ora di rifornire le scorte. Purtroppo abbiamo incontrato un piccolo problema..." },
     { "gameKey": "quest/053/BanYok116_05351#TEXT_BANYOK116_05351_VUYARGUR_000_001", "hash": "21CC40D08CD55EAE", "target": "Il nostro fornitore chirwagur vi ha chiesto per nome. Vorreste concludere lo scambio al posto nostro?" },
-    { "gameKey": "quest/053/BanYok116_05351#TEXT_BANYOK116_05351_VUYARGUR_000_002", "hash": "AD80EB6704179C86", "target": "Grazie. Dovreste trovarlo a nordovest di Worlar's Echo. Basta che gli consegniate questo talismano in cambio del sale. E... state in guardia." },
+    { "gameKey": "quest/053/BanYok116_05351#TEXT_BANYOK116_05351_VUYARGUR_000_002", "hash": "AD80EB6704179C86", "target": "Grazie. Dovreste trovarlo a nordovest dell'Eco di Worlar. Basta che gli consegniate questo talismano in cambio del sale. E... state in guardia." },
     { "gameKey": "quest/053/BanYok116_05351#TEXT_BANYOK116_05351_YOKHUYENEMYA_000_010", "hash": "CD40710F893899C1", "target": "Sei tu, bene. Aspettavo. Scambiamo sale per talismano." },
     { "gameKey": "quest/053/BanYok116_05351#TEXT_BANYOK116_05351_YOKHUYENEMYA_000_011", "hash": "D6538E78500B5384", "target": "Talismano sarà sepolto in salina. Benedizione divina ancora più grande." },
     { "gameKey": "quest/053/BanYok116_05351#TEXT_BANYOK116_05351_YOKHUYENEMYA_000_012", "hash": "126DB12EEDF1FD8F", "target": "Tu... ricordi me? Ero con Vorporlor. Scambiato cristallo con Nopli. Ora ci incontriamo ancora." },

@@ -15,7 +15,7 @@
     { "gameKey": "quest/035/LucKyb002_03598#TEXT_LUCKYB002_03598_XYLLE_000_052", "hash": "B1723F9B975F7EFE", "target": "Ricorda che se muori mentre cacci un bersaglio non riceverai alcun compenso." },
     { "gameKey": "quest/035/LucKyb002_03598#TEXT_LUCKYB002_03598_XYLLE_000_053", "hash": "1A75C42FD4E1020C", "target": "Sarai anche <if(gnum4,morta,morto)>, il che sarebbe un inconveniente per me quanto per te. Ci aspettiamo molto da te, <if(gnum4,cacciatrice,cacciatore)>." },
     { "gameKey": "quest/035/LucKyb002_03598#TEXT_LUCKYB002_03598_SYSTEM_000_054", "hash": "E5AFAFABB2082DC0", "target": "Gli incarichi two-nut Clan mark sono ora disponibili." },
-    { "gameKey": "quest/035/LucKyb002_03598#TEXT_LUCKYB002_03598_SYSTEM_000_055", "hash": "F5F810340BEC040E", "target": "Ora puoi accettare gli incarichi two-nut mark dalla Clan Hunt board." },
+    { "gameKey": "quest/035/LucKyb002_03598#TEXT_LUCKYB002_03598_SYSTEM_000_055", "hash": "F5F810340BEC040E", "target": "Ora puoi accettare gli incarichi two-nut mark dalla bacheca di caccia del Clan." },
     { "gameKey": "quest/035/LucKyb002_03598#TEXT_LUCKYB002_03598_SYSTEM_000_056", "hash": "FDED942FD8355734", "target": "Al livello 76, Halldor nel Crystarium offrirà nuove missioni e incarichi three-nut Clan mark." },
     { "gameKey": "quest/035/LucKyb002_03598#TEXT_LUCKYB002_03598_HALLDOR_000_060", "hash": "8A4E4F64A3EEC399", "target": "Puoi affrontare i bersagli two-nut, me lo sento nelle ossa! Va' da Xylle e pretendi che ti dia il permesso di cacciarli!" }
   ]

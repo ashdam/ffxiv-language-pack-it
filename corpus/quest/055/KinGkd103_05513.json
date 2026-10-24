@@ -13,7 +13,7 @@
     { "gameKey": "quest/055/KinGkd103_05513#TEXT_KINGKD103_05513_ARCHIVE_000_015", "hash": "958513CBBD8069C3", "target": "L'isola è nascosta al mondo esterno e le torri sono nascoste al resto dell'isola... Per giustificare precauzioni tanto rigorose, le conoscenze che contengono devono essere incredibilmente pericolose." },
     { "gameKey": "quest/055/KinGkd103_05513#TEXT_KINGKD103_05513_IRIS_000_020", "hash": "7D4C1F9DED3D76C1", "target": "Tu e i tuoi compagni non potete vedere le torri in condizioni normali..." },
     { "gameKey": "quest/055/KinGkd103_05513#TEXT_KINGKD103_05513_SYSTEM_000_100", "hash": "FE9D3A7F314195A0", "target": "Questa sembra effettivamente una confluenza, ma il flusso di etere è appena percepibile." },
-    { "gameKey": "quest/055/KinGkd103_05513#TEXT_KINGKD103_05513_SYSTEM_000_101", "hash": "E0A17D3E0D3E89CD", "target": "Che questo luogo sia davvero collegato alla Tower of Magic o meno, Ketenramm vorrà conoscere le tue scoperte." },
+    { "gameKey": "quest/055/KinGkd103_05513#TEXT_KINGKD103_05513_SYSTEM_000_101", "hash": "E0A17D3E0D3E89CD", "target": "Che questo luogo sia davvero collegato alla Torre della Magia o meno, Ketenramm vorrà conoscere le tue scoperte." },
     { "gameKey": "quest/055/KinGkd103_05513#TEXT_KINGKD103_05513_KETENRAMM_000_102", "hash": "41C6D03922C4820F", "target": "Beh, è sicuramente una confluenza." },
     { "gameKey": "quest/055/KinGkd103_05513#TEXT_KINGKD103_05513_KETENRAMM_000_103", "hash": "73F1A6F7661019D6", "target": "E questa struttura è quasi identica a quella sul Corno Meridionale. Direi che è qui che dovrebbe trovarsi il nodo etereo." },
     { "gameKey": "quest/055/KinGkd103_05513#TEXT_KINGKD103_05513_KETENRAMM_000_104", "hash": "246B3FA5FFD83091", "target": "Ma qualcosa non torna..." },
@@ -22,7 +22,7 @@
     { "gameKey": "quest/055/KinGkd103_05513#TEXT_KINGKD103_05513_KETENRAMM_000_110", "hash": "F694E6847C12B560", "target": "Immagino che Archive dipenda ancora da ciò che hai visto e imparato per recuperare le sue conoscenze. Proviamoci, ti va?" },
     { "gameKey": "quest/055/KinGkd103_05513#TEXT_KINGKD103_05513_IRIS_000_115", "hash": "205177A81C63C2BB", "target": "Hai trovato il padiglione, dunque?" },
     { "gameKey": "quest/055/KinGkd103_05513#TEXT_KINGKD103_05513_ARCHIVE_000_200", "hash": "A3B87FBD28132CC5", "target": "Ketenramm mi dice che hai trovato una confluenza presso il padiglione. Ti prego, raccontami i dettagli." },
-    { "gameKey": "quest/055/KinGkd103_05513#TEXT_KINGKD103_05513_ARCHIVE_000_201", "hash": "B9F71598E3C382CD", "target": "Dal tuo racconto, credo che la confluenza sia davvero collegata alla Tower of Magic." },
+    { "gameKey": "quest/055/KinGkd103_05513#TEXT_KINGKD103_05513_ARCHIVE_000_201", "hash": "B9F71598E3C382CD", "target": "Dal tuo racconto, credo che la confluenza sia davvero collegata alla Torre della Magia." },
     { "gameKey": "quest/055/KinGkd103_05513#TEXT_KINGKD103_05513_ARCHIVE_100_201", "hash": "A1FE0ED13BD90F06", "target": "Ah... Ecco di nuovo quella sensazione familiare: il sigillo si sta sgretolando." },
     { "gameKey": "quest/055/KinGkd103_05513#TEXT_KINGKD103_05513_KETENRAMM_000_202", "hash": "FAFDA2436B83BDDF", "target": "Hai idea del perché non possiamo usare il nodo etereo?" },
     { "gameKey": "quest/055/KinGkd103_05513#TEXT_KINGKD103_05513_ARCHIVE_000_203", "hash": "557E172F0C045E56", "target": "Diverse. Ma prima lasciate che vi parli delle Forked Towers stesse." },
@@ -30,8 +30,8 @@
     { "gameKey": "quest/055/KinGkd103_05513#TEXT_KINGKD103_05513_ARCHIVE_000_205", "hash": "D39956B36D4D001E", "target": "Ma farlo significava custodire in un solo luogo le conoscenze stesse che avevano messo in pericolo il mondo. Era essenziale impedire che venissero usate impropriamente." },
     { "gameKey": "quest/055/KinGkd103_05513#TEXT_KINGKD103_05513_KETENRAMM_100_205", "hash": "DBA579B1355C5C40", "target": "Da qui la barriera e tutte quelle tempeste a Shades' Triangle?" },
     { "gameKey": "quest/055/KinGkd103_05513#TEXT_KINGKD103_05513_ARCHIVE_000_206", "hash": "17CC450909B9B376", "target": "Esattamente. E sono le Forked Towers a costituire il fulcro di queste misure..." },
-    { "gameKey": "quest/055/KinGkd103_05513#TEXT_KINGKD103_05513_ARCHIVE_000_207", "hash": "907F95883C162956", "target": "La Tower of Blood scatena quelle tempeste letali, mentre la Tower of Magic mantiene quella barriera impenetrabile." },
-    { "gameKey": "quest/055/KinGkd103_05513#TEXT_KINGKD103_05513_ARCHIVE_000_208", "hash": "144996A536004CA6", "target": "Entrambi i compiti richiedono tecniche molto avanzate e un controllo quasi costante. Per questo le torri sono presidiate. Come ho già detto, credo che nella Tower of Magic risieda l'artefice stesso." },
+    { "gameKey": "quest/055/KinGkd103_05513#TEXT_KINGKD103_05513_ARCHIVE_000_207", "hash": "907F95883C162956", "target": "La Torre del Sangue scatena quelle tempeste letali, mentre la Torre della Magia mantiene quella barriera impenetrabile." },
+    { "gameKey": "quest/055/KinGkd103_05513#TEXT_KINGKD103_05513_ARCHIVE_000_208", "hash": "144996A536004CA6", "target": "Entrambi i compiti richiedono tecniche molto avanzate e un controllo quasi costante. Per questo le torri sono presidiate. Come ho già detto, credo che nella Torre della Magia risieda l'artefice stesso." },
     { "gameKey": "quest/055/KinGkd103_05513#TEXT_KINGKD103_05513_KETENRAMM_000_209", "hash": "E480363553885BAB", "target": "Quindi le torri sono sia condotti per tutta quella magia... sia modeste dimore per i loro custodi." },
     { "gameKey": "quest/055/KinGkd103_05513#TEXT_KINGKD103_05513_KETENRAMM_000_210", "hash": "A5A1B89310835C9A", "target": "Sembra un gran fastidio soltanto per tenere una minuscola isola al riparo da occhi indiscreti..." },
     { "gameKey": "quest/055/KinGkd103_05513#TEXT_KINGKD103_05513_Q1_000_000", "hash": "DFAFB9EF6E18AC45", "target": "Che cosa dirai?" },
@@ -39,7 +39,7 @@
     { "gameKey": "quest/055/KinGkd103_05513#TEXT_KINGKD103_05513_A1_000_002", "hash": "BD2A661433674CF3", "target": "Nemmeno gli occhi indiscreti meritano di essere imprigionati contro la loro volontà!" },
     { "gameKey": "quest/055/KinGkd103_05513#TEXT_KINGKD103_05513_IRIS_000_212", "hash": "C876BE0C49F41647", "target": "Dunque la pensi allo stesso modo..." },
     { "gameKey": "quest/055/KinGkd103_05513#TEXT_KINGKD103_05513_IRIS_000_213", "hash": "235194374C0B92C7", "target": "Dunque è questo ciò che credi..." },
-    { "gameKey": "quest/055/KinGkd103_05513#TEXT_KINGKD103_05513_ARCHIVE_000_214", "hash": "6FA9AACAD4BEA827", "target": "In ogni caso, la Tower of Magic è il fulcro della barriera. Tutte le correnti eteree dell'isola convergono su di essa." },
+    { "gameKey": "quest/055/KinGkd103_05513#TEXT_KINGKD103_05513_ARCHIVE_000_214", "hash": "6FA9AACAD4BEA827", "target": "In ogni caso, la Torre della Magia è il fulcro della barriera. Tutte le correnti eteree dell'isola convergono su di essa." },
     { "gameKey": "quest/055/KinGkd103_05513#TEXT_KINGKD103_05513_ARCHIVE_000_215", "hash": "8B47DFC02596B251", "target": "Se la confluenza che hai scoperto è davvero tanto indebolita, dobbiamo supporre che l'etere dell'isola abbia qualche problema. Comincia così la nostra prossima indagine!" }
   ]
 }

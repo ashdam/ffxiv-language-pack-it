@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/037/LucKmi109_03779#TEXT_LUCKMI109_03779_SEQ_00", "hash": "DAFEC2DA8447AEA6", "target": "Gli occhi di Y'shtola sembrano scrutarti fin nell'anima." },
     { "gameKey": "quest/037/LucKmi109_03779#TEXT_LUCKMI109_03779_TODO_00", "hash": "79979264766919DB", "target": "Parlare con Alisaie" },
-    { "gameKey": "quest/037/LucKmi109_03779#TEXT_LUCKMI109_03779_TODO_01", "hash": "8FA33DEF0847B091", "target": "Parlare con Alisaie all'Inn at Journey's Head" },
+    { "gameKey": "quest/037/LucKmi109_03779#TEXT_LUCKMI109_03779_TODO_01", "hash": "8FA33DEF0847B091", "target": "Parlare con Alisaie alla Locanda all'Inizio del Viaggio" },
     { "gameKey": "quest/037/LucKmi109_03779#TEXT_LUCKMI109_03779_TODO_02", "hash": "5483D5AFF90E4E91", "target": "Cercare Halric" },
     { "gameKey": "quest/037/LucKmi109_03779#TEXT_LUCKMI109_03779_TODO_03", "hash": "06FF0F3398052339", "target": "Parlare con Alisaie" },
     { "gameKey": "quest/037/LucKmi109_03779#TEXT_LUCKMI109_03779_TODO_04", "hash": "F44347332C8E0CE0", "target": "Raggiungere Eulmore" },
@@ -70,7 +70,7 @@
     { "gameKey": "quest/037/LucKmi109_03779#TEXT_LUCKMI109_03779_ALPHINAUD_000_081", "hash": "56207A898F376BBD", "target": "Be', per me è ora di tornare a Eulmore. Tra le altre cose, devo delle scuse al sindaco per la sua aeronave." },
     { "gameKey": "quest/037/LucKmi109_03779#TEXT_LUCKMI109_03779_ALPHINAUD_000_082", "hash": "29E69BFCB34B8DB5", "target": "Presumo che anche tu abbia dei luoghi in cui recarti, Alisaie. Ci vediamo più tardi." },
     { "gameKey": "quest/037/LucKmi109_03779#TEXT_LUCKMI109_03779_BEQLUGG_000_090", "hash": "004D5D335B0AA427", "target": "Coglierò l'occasione per condurre un'ispezione finale dei ricettacoli dell'anima. Considerata la posta in gioco, non si è mai troppo scrupolosi." },
-    { "gameKey": "quest/037/LucKmi109_03779#TEXT_LUCKMI109_03779_ALISAIE_000_100", "hash": "1B895AE49D2CCEF8", "target": "Come avrai intuito, farò visita all'Inn at Journey's Head. Ma voglio che venga anche tu." },
+    { "gameKey": "quest/037/LucKmi109_03779#TEXT_LUCKMI109_03779_ALISAIE_000_100", "hash": "1B895AE49D2CCEF8", "target": "Come avrai intuito, farò visita alla Locanda all'Inizio del Viaggio. Ma voglio che venga anche tu." },
     { "gameKey": "quest/037/LucKmi109_03779#TEXT_LUCKMI109_03779_ALISAIE_000_101", "hash": "CB83A057AFF6F808", "target": "Capisco che tu non debba dire addio a nessuno." },
     { "gameKey": "quest/037/LucKmi109_03779#TEXT_LUCKMI109_03779_ALISAIE_000_102", "hash": "97175865E9F7D13C", "target": "Ma l'Esarca sì, anche se solo in spirito. Così ho pensato che potessi portarlo con te, per così dire." },
     { "gameKey": "quest/037/LucKmi109_03779#TEXT_LUCKMI109_03779_ALISAIE_000_103", "hash": "6FB225AB459F2CDB", "target": "Sono certa che gli piacerebbe l'idea di essere trasportato sulla schiena <if(gnum4,della sua eroina,del suo eroe)>." },

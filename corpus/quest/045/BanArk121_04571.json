@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_SEQ_00", "hash": "7B28632832FA51B9", "target": "Maru si tiene a distanza da una cassa lì vicino.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
-    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_TODO_00", "hash": "8B3CF15EE8615B5B", "target": "Usare i Demolitori di Daemir sul cumulo di argillite nello Shroud of the Samgha" },
+    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_TODO_00", "hash": "8B3CF15EE8615B5B", "target": "Usare i Demolitori di Daemir sul cumulo di argillite nel Sudario del Samgha" },
     { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_TODO_01", "hash": "5A5E7A1DFC779EDD", "target": "Procurarsi il pezzo di argillite dello Ksiroda" },
     { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_TODO_02", "hash": "E7E15A7C824C74AF", "target": "Consegnare il pezzo di argillite dello Ksiroda a Maru" },
     { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_MARU_000_000", "hash": "592DABCDD99FD216", "target": "Volevo chiedertelo da un po', <split(<string(gstr1)>, ,1)>, ma a dire il vero ero nervoso. Pensavo fosse troppo pericoloso..." },

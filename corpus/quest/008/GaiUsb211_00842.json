@@ -2,9 +2,9 @@
   "conversation": "quest/008/GaiUsb211_00842",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_SEQ_00", "hash": "0BDE8662FBAED33A", "target": "Byrglaent, maestro vinificatore di Wineport, fatica a procurarsi del buon sughero." },
+    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_SEQ_00", "hash": "0BDE8662FBAED33A", "target": "Byrglaent, maestro vinificatore di Porto del Vino, fatica a procurarsi del buon sughero." },
     { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_SEQ_01", "hash": "143300B7836B33BB", "target": "Byrglaent è quasi apoplettico per la qualità del sughero che gli hanno fornito. Non volendo accontentarsi di nulla che non sia eccellente, ti ha chiesto di uccidere cinque cork bulb." },
-    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_SEQ_02", "hash": "C5663A2AD7E116BC", "target": "Hai ucciso cinque cork bulb e strappato il sughero di qualità ai loro corpi esanimi. Consegna il bottino a Byrglaent a Wineport." },
+    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_SEQ_02", "hash": "C5663A2AD7E116BC", "target": "Hai ucciso cinque cork bulb e strappato il sughero di qualità ai loro corpi esanimi. Consegna il bottino a Byrglaent a Porto del Vino." },
     { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_SEQ_03", "hash": "B9395A0C45DBAFE3", "target": "Il maestro vinificatore esalta le virtù del sughero pregiato che hai procurato. Non può però fare a meno di lamentare l'incapacità dei suoi dipendenti di raccogliere il materiale da soli." },
     { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_TODO_00", "hash": "DCEFB2E9CA495B2F", "target": "Raccogliere sughero impeccabile dai cork bulb" },
     { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_TODO_01", "hash": "EA24EBEA3121F0E8", "target": "Consegnare il sughero a Byrglaent" },

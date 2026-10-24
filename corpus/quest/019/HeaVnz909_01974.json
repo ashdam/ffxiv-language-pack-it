@@ -3,10 +3,10 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/019/HeaVnz909_01974#TEXT_HEAVNZ909_01974_SEQ_00", "hash": "8C6621B030FCE22F", "target": "Kupli Kuki ha bisogno di qualcuno che cerchi i suoi amici smarriti." },
-    { "gameKey": "quest/019/HeaVnz909_01974#TEXT_HEAVNZ909_01974_SEQ_01", "hash": "38832793D1992CAE", "target": "Kupli Kuki ti chiede di trovare i suoi due compagni smarriti, che dovrebbero aggirarsi sulle isole vicine. Comincia cercando il moguri disperso nei pressi della Gauntlet." },
+    { "gameKey": "quest/019/HeaVnz909_01974#TEXT_HEAVNZ909_01974_SEQ_01", "hash": "38832793D1992CAE", "target": "Kupli Kuki ti chiede di trovare i suoi due compagni smarriti, che dovrebbero aggirarsi sulle isole vicine. Comincia cercando il moguri disperso nei pressi del Guanto d'Arme." },
     { "gameKey": "quest/019/HeaVnz909_01974#TEXT_HEAVNZ909_01974_SEQ_02", "hash": "AE29B0262746F6D3", "target": "Trovi il moguri scosso, ma illeso. Ti dice che tornerà da Kupli Kuki, al sicuro sotto il ponte. Ritorna anche tu e assisti al loro commovente ricongiungimento." },
     { "gameKey": "quest/019/HeaVnz909_01974#TEXT_HEAVNZ909_01974_SEQ_03", "hash": "9ABF3CF793F2766D", "target": "Kupli Kuki è felicissimo di aver ritrovato il suo compagno, ma manca ancora un moguri all'appello. Parla di nuovo con lui per iniziare a cercare il secondo moguri smarrito... e forse spaventato." },
-    { "gameKey": "quest/019/HeaVnz909_01974#TEXT_HEAVNZ909_01974_TODO_00", "hash": "6B2818F28232115D", "target": "Cercare il moguri vicino alla Gauntlet" },
+    { "gameKey": "quest/019/HeaVnz909_01974#TEXT_HEAVNZ909_01974_TODO_00", "hash": "6B2818F28232115D", "target": "Cercare il moguri vicino al Guanto d'Arme" },
     { "gameKey": "quest/019/HeaVnz909_01974#TEXT_HEAVNZ909_01974_TODO_01", "hash": "1520A3FEAE183B34", "target": "Fare rapporto a Kupli Kuki" },
     { "gameKey": "quest/019/HeaVnz909_01974#TEXT_HEAVNZ909_01974_KUPLIKUKI_000_000", "hash": "5A01816287B7C2E5", "target": "Be', sono felicissimo che finalmente potremo incontrare i moguri di Casamoguri, kupò! Ma non possiamo ancora festeggiare: dobbiamo trovare i due moguri che sono saliti qui con me!" },
     { "gameKey": "quest/019/HeaVnz909_01974#TEXT_HEAVNZ909_01974_KUPLIKUKI_000_001", "hash": "AB34E3CD9D44CE7F", "target": "Ci siamo separati per cercare Casamoguri, quindi potrebbero essere ovunque nei dintorni, kupò! Spero che non siano volati troppo lontano..." },

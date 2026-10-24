@@ -37,6 +37,6 @@
     { "gameKey": "quest/050/KinGyr204_05012#TEXT_KINGYR204_05012_BOLOGAW_000_036", "hash": "5BE538C8297B2078", "target": "...Capisco. È bello sapere che ha degli amici. Non sopportavo l'idea che fosse tutta sola lassù." },
     { "gameKey": "quest/050/KinGyr204_05012#TEXT_KINGYR204_05012_BOLOGAW_000_037", "hash": "60D5D9B5C597EAA8", "target": "«Un viper vive per cacciare, perché altri possano vivere e cacciare un altro giorno», così dice il proverbio. Sembra che abbia preso a cuore questo messaggio e si sia assunta il compito di addestrare una nuova generazione..." },
     { "gameKey": "quest/050/KinGyr204_05012#TEXT_KINGYR204_05012_BOLOGAW_000_038", "hash": "571E7F6A948939C1", "target": "E a quanto pare siete <if(gnum4,la sua ultima allieva,il suo ultimo allievo)>! Che la fortuna vi accompagni, <split(<string(gstr1)>, ,1)>, e ricordate: qualunque cosa facciate, non fatevi uccidere." },
-    { "gameKey": "quest/050/KinGyr204_05012#TEXT_KINGYR204_05012_SYSTEM_000_039", "hash": "07BB19D7D03811FA", "target": "Ora puoi accettare gli elite Dawn Hunt mark bills dalla Dawn Hunt board a Tuliyollal." }
+    { "gameKey": "quest/050/KinGyr204_05012#TEXT_KINGYR204_05012_SYSTEM_000_039", "hash": "07BB19D7D03811FA", "target": "Ora puoi accettare gli elite Dawn Hunt mark bills dalla bacheca di caccia dell'Alba a Tuliyollal." }
   ]
 }

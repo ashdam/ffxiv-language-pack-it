@@ -19,7 +19,7 @@
     { "gameKey": "quest/036/LucKmd114_03619#TEXT_LUCKMD114_03619_JERYK_000_020", "hash": "680E4457E1D1D2E1", "target": "Al solo pensiero del carrello che sfreccia sui binari, con gli ingranaggi che ronzano─dei, non riesco a smettere di sorridere!" },
     { "gameKey": "quest/036/LucKmd114_03619#TEXT_LUCKMD114_03619_MAGNUS_000_030", "hash": "46B4252C067A304D", "target": "Sono anni che non vedo un Talos in condizioni così eccellenti. Se solo Agna fosse qui a vederlo. O nostro figlio..." },
     { "gameKey": "quest/036/LucKmd114_03619#TEXT_LUCKMD114_03619_MAGNUS_000_031", "hash": "B8DA0427BBDD8590", "target": "Ero pronto a lasciare che i suoi sogni morissero laggiù, nelle miniere. Anche dopo che avevate trovato la leonina, mi rifiutavo di credere che potesse funzionare. Dei, che sciocco sono stato." },
-    { "gameKey": "quest/036/LucKmd114_03619#TEXT_LUCKMD114_03619_MAGNUS_000_032", "hash": "51F22793AEEA3CE1", "target": "Ma ora ve lo dico─mi prenderò cura di questo Talos. Per entrambi.<br>A nome della mia famiglia e di tutti i minatori di Twine, grazie." },
+    { "gameKey": "quest/036/LucKmd114_03619#TEXT_LUCKMD114_03619_MAGNUS_000_032", "hash": "51F22793AEEA3CE1", "target": "Ma ora ve lo dico─mi prenderò cura di questo Talos. Per entrambi.<br>A nome della mia famiglia e di tutti i minatori di Intreccio, grazie." },
     { "gameKey": "quest/036/LucKmd114_03619#TEXT_LUCKMD114_03619_MAGNUS_000_033", "hash": "8B4E1C7D1BD629B6", "target": "Be', basta chiacchiere. Portiamo voi tutti a Nabaath Areng, eh?" },
     { "gameKey": "quest/036/LucKmd114_03619#TEXT_LUCKMD114_03619_THANCRED_000_034", "hash": "3C2E866995C096F1", "target": "Sembra tutto in ordine. Immagino che la presenza del Talos risolva il problema del portale?" },
     { "gameKey": "quest/036/LucKmd114_03619#TEXT_LUCKMD114_03619_MAGNUS_000_035", "hash": "7FFD0BA19FD22C6B", "target": "Mh? Oh, quello. Sì." },
@@ -57,6 +57,6 @@
     { "gameKey": "quest/036/LucKmd114_03619#TEXT_LUCKMD114_03619_RYNE_000_110", "hash": "881EB09D8BBD1906", "target": "Questo è il luogo, <split(<string(gstr1)>, ,1)>. È qui che lei fermò il Diluvio." },
     { "gameKey": "quest/036/LucKmd114_03619#TEXT_LUCKMD114_03619_RYNE_000_111", "hash": "C9629F254DF3A859", "target": "L'ultima volta che sono stata qui, quando ho sentito la sua presenza sopraffarmi... ho cercato di fingere che non stesse accadendo─di... voltarmi dall'altra parte." },
     { "gameKey": "quest/036/LucKmd114_03619#TEXT_LUCKMD114_03619_RYNE_000_112", "hash": "0258F9806A988402", "target": "Ma ora non posso voltarmi dall'altra parte. Non stavolta. Per Thancred e gli altri, devo affrontarla." },
-    { "gameKey": "quest/036/LucKmd114_03619#TEXT_LUCKMD114_03619_SYSTEM_000_113", "hash": "046E5A3C319037CF", "target": "Se lasci l'area, parla con l'apprendista ingegnere a Twine, in Amh Araeng, per tornare a Nabaath Areng." }
+    { "gameKey": "quest/036/LucKmd114_03619#TEXT_LUCKMD114_03619_SYSTEM_000_113", "hash": "046E5A3C319037CF", "target": "Se lasci l'area, parla con l'apprendista ingegnere a Intreccio, in Amh Araeng, per tornare a Nabaath Areng." }
   ]
 }

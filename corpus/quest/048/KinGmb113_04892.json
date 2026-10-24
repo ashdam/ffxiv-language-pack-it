@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_SEQ_00", "hash": "44866D8AC4A86832", "target": "Alphinaud vorrebbe il tuo aiuto per controllare le condizioni degli Yok Huy feriti." },
-    { "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_TODO_00", "hash": "FBE45F116F0EF65C", "target": "Parlare con gli Yok Huy feriti a Worlar's Echo" },
+    { "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_TODO_00", "hash": "FBE45F116F0EF65C", "target": "Parlare con gli Yok Huy feriti all'Eco di Worlar" },
     { "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_TODO_01", "hash": "E462D886B67421F1", "target": "Attendere nel luogo indicato" },
     { "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_TODO_02", "hash": "33017F93ADF4B955", "target": "Parlare con il guardiano del tempio" },
     { "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_TODO_03", "hash": "4545F514A492B349", "target": "Parlare con Wuk Lamat" },
@@ -31,7 +31,7 @@
     { "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_WUKLAMAT_000_062", "hash": "AF6050A0E799488C", "target": "Abbiamo fatto il possibile per alleviare le sofferenze dei feriti." },
     { "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_KRILE_000_063", "hash": "40568A2FDD17662D", "target": "Molti avevano ustioni più o meno gravi. Un incendio ha attraversato il villaggio?" },
     { "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_ALPHINAUD_000_064", "hash": "32C48D9DBD149484", "target": "I dettagli non sono chiari..." },
-    { "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_ALPHINAUD_000_065", "hash": "4D8E941911D216D2", "target": "Dopo che avevo curato il gigante attaccato da quell'uccello di montagna, il capo del gruppo─Vorporlor, mi pare lo chiamassero─mi ha invitato ad andarmene. È stato allora che ho percepito un'intensa ondata di etere e, tornando, ho trovato Worlar's Echo in questo stato." },
+    { "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_ALPHINAUD_000_065", "hash": "4D8E941911D216D2", "target": "Dopo che avevo curato il gigante attaccato da quell'uccello di montagna, il capo del gruppo─Vorporlor, mi pare lo chiamassero─mi ha invitato ad andarmene. È stato allora che ho percepito un'intensa ondata di etere e, tornando, ho trovato l'Eco di Worlar in questo stato." },
     { "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_ALPHINAUD_000_067", "hash": "2696D0999180331F", "target": "Sono corso dal primo gigante che ho visto. Pur delirando per il dolore, ripeteva lo stesso avvertimento: Valigarmanda si era liberato. Per questo vi ho contattati immediatamente." },
     { "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_ALISAIE_000_068", "hash": "EC17475B446B2BB2", "target": "Beh, ci serviranno più informazioni prima di poter affrontare la situazione." },
     { "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_WUKLAMAT_000_069", "hash": "F5FF913148A06A67", "target": "Sì, dovremmo parlare con il guardiano del tempio e vedere che ne è stato della prigione del Flagello dei Cieli!" },

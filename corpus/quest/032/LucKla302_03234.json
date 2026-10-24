@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/032/LucKla302_03234#TEXT_LUCKLA302_03234_SEQ_00", "hash": "ECDF0E7BB73DA636", "target": "Bethric ha notizie da condividere con te." },
-    { "gameKey": "quest/032/LucKla302_03234#TEXT_LUCKLA302_03234_TODO_00", "hash": "751BE5543CB62388", "target": "Controllare come sta Skip alla Temenos Rookery" },
+    { "gameKey": "quest/032/LucKla302_03234#TEXT_LUCKLA302_03234_TODO_00", "hash": "751BE5543CB62388", "target": "Controllare come sta Skip all'Allevamento di Temenos" },
     { "gameKey": "quest/032/LucKla302_03234#TEXT_LUCKLA302_03234_TODO_01", "hash": "C971FEB6B4AE5A62", "target": "Con la chat in modalità <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, inserire una frase contenente “everything will be fine” per confortare Skip" },
     { "gameKey": "quest/032/LucKla302_03234#TEXT_LUCKLA302_03234_TODO_02", "hash": "FCFFA36F03F371C8", "target": "<if([lnum1<lnum2],Realizzare un offering of sweets <sheet(Addon,9,0)>,Consegnare l'offering of sweets <sheet(Addon,9,0)> a Bethric)>" },
     { "gameKey": "quest/032/LucKla302_03234#TEXT_LUCKLA302_03234_TODO_03", "hash": "6C44D5A8F3DDFCA2", "target": "Parlare con Bethric a Lydha Lran, a Il Mheg" },
@@ -11,7 +11,7 @@
     { "gameKey": "quest/032/LucKla302_03234#TEXT_LUCKLA302_03234_TODO_05", "hash": "22B72BCF40280DC2", "target": "Parlare con Bethric al Crystalline Mean, nel Crystarium" },
     { "gameKey": "quest/032/LucKla302_03234#TEXT_LUCKLA302_03234_SYSTEM_100_000", "hash": "4191114F9DE21207", "target": "Per intraprendere questa missione, devi prima completare la missione dello scenario principale “Acht-la Ormh Inn”." },
     { "gameKey": "quest/032/LucKla302_03234#TEXT_LUCKLA302_03234_BETHRIC_000_000", "hash": "274B9D37D8FC822A", "target": "Senza dubbio non vedete l'ora di sapere come sta Skip." },
-    { "gameKey": "quest/032/LucKla302_03234#TEXT_LUCKLA302_03234_BETHRIC_000_001", "hash": "6C478A56926A729C", "target": "Beh, sono felice di riferire che, grazie ai vostri sforzi e alle cure dei nostri stallieri alla Temenos Rookery, è quasi del tutto guarito." },
+    { "gameKey": "quest/032/LucKla302_03234#TEXT_LUCKLA302_03234_BETHRIC_000_001", "hash": "6C478A56926A729C", "target": "Beh, sono felice di riferire che, grazie ai vostri sforzi e alle cure dei nostri stallieri all'Allevamento di Temenos, è quasi del tutto guarito." },
     { "gameKey": "quest/032/LucKla302_03234#TEXT_LUCKLA302_03234_BETHRIC_000_002", "hash": "8B8C7257C3B4336B", "target": "Fisicamente, almeno. Le ferite del cuore restano. Se ne sta alla stalla a rimuginare, evitando i contatti con me, con Knem e perfino con gli altri amaro." },
     { "gameKey": "quest/032/LucKla302_03234#TEXT_LUCKLA302_03234_BETHRIC_000_003", "hash": "BDF0642E22206171", "target": "Prima di poter decidere se debba restare qui o essere rimesso in libertà, devo assicurarmi che stia bene sia nel corpo <italic(1)>sia<italic(0)> nella mente." },
     { "gameKey": "quest/032/LucKla302_03234#TEXT_LUCKLA302_03234_BETHRIC_000_004", "hash": "726754BEEFAE7B29", "target": "Per questo devo chiedere ancora una volta il vostro aiuto." },

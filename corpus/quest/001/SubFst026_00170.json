@@ -3,8 +3,8 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_SEQ_00", "hash": "7809EE84B731B8EF", "target": "Bodwine cerca un avventuriere che lo aiuti a risolvere un problema di parassiti." },
-    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_SEQ_01", "hash": "EF273D390E08C1C6", "target": "I miteling vicino alle Treespeak Stables agitano i giovani chocobo, interrompendone l'addestramento. Uccidi sei di quei parassiti e restituisci la tranquillità alle future cavalcature." },
-    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_SEQ_02", "hash": "933C1C0E633EAB23", "target": "Hai liberato il Bosco dei Dodici da sei miteling molesti. Torna alle Treespeak Stables e informa Bodwine del tuo successo." },
+    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_SEQ_01", "hash": "EF273D390E08C1C6", "target": "I miteling vicino alle Scuderie della Voce degli Alberi agitano i giovani chocobo, interrompendone l'addestramento. Uccidi sei di quei parassiti e restituisci la tranquillità alle future cavalcature." },
+    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_SEQ_02", "hash": "933C1C0E633EAB23", "target": "Hai liberato il Bosco dei Dodici da sei miteling molesti. Torna alle Scuderie della Voce degli Alberi e informa Bodwine del tuo successo." },
     { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_SEQ_03", "hash": "407B3F003C76DBDB", "target": "Grazie ai tuoi valorosi sforzi, gli addestratori possono riprendere il lavoro con i giovani chocobo. Forse un giorno uno di loro diventerà il fedele compagno di un famoso avventuriere..." },
     { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_TODO_00", "hash": "1C0FCE5F0AC92085", "target": "Uccidere i miteling" },
     { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_TODO_01", "hash": "5FC44552C35AF6D0", "target": "Fare rapporto a Bodwine" },

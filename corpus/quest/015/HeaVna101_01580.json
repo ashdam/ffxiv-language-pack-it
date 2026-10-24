@@ -30,9 +30,9 @@
     { "gameKey": "quest/015/HeaVna101_01580#TEXT_HEAVNA101_01580_BUTLER01580_000_042", "hash": "0D5E75D88C54429C", "target": "Se volete seguirmi..." },
     { "gameKey": "quest/015/HeaVna101_01580#TEXT_HEAVNA101_01580_ALPHINAUD_000_043", "hash": "518D252510760EE2", "target": "Ammirando lo splendore di queste alture, difficilmente si immaginerebbero le rovine lasciate dalle viverne più in basso..." },
     { "gameKey": "quest/015/HeaVna101_01580#TEXT_HEAVNA101_01580_TATARU_000_044", "hash": "11F1599284A2AE1D", "target": "È una mia impressione o quassù l'aria è diversa? Si può quasi <italic(1)>sentire l'odore<italic(0)> della ricchezza e del potere! Per gli dei, mi gira la testa..." },
-    { "gameKey": "quest/015/HeaVna101_01580#TEXT_HEAVNA101_01580_HOUSEFORTEMPSGUARD01580_000_045", "hash": "2577E62CE6C4707F", "target": "Salute, <if(gnum4,signorina,signore)>. Vi do il benvenuto a Fortemps Manor." },
+    { "gameKey": "quest/015/HeaVna101_01580#TEXT_HEAVNA101_01580_HOUSEFORTEMPSGUARD01580_000_045", "hash": "2577E62CE6C4707F", "target": "Salute, <if(gnum4,signorina,signore)>. Vi do il benvenuto al Maniero dei Fortemps." },
     { "gameKey": "quest/015/HeaVna101_01580#TEXT_HEAVNA101_01580_HAURCHEFANT_000_050", "hash": "BD93F998E47B03EA", "target": "<if(gnum4,La Guerriera,Il Guerriero)> della Luce e i suoi valorosi compagni, finalmente per le vie di Ishgard! Che magnifica vista!" },
-    { "gameKey": "quest/015/HeaVna101_01580#TEXT_HEAVNA101_01580_HAURCHEFANT_000_051", "hash": "C2E488C9066CB5EA", "target": "Non sapete da quanto aspetto questo giorno. Permettetemi di presentarvi la dimora della mia famiglia: Fortemps Manor!" },
+    { "gameKey": "quest/015/HeaVna101_01580#TEXT_HEAVNA101_01580_HAURCHEFANT_000_051", "hash": "C2E488C9066CB5EA", "target": "Non sapete da quanto aspetto questo giorno. Permettetemi di presentarvi la dimora della mia famiglia: il Maniero dei Fortemps!" },
     { "gameKey": "quest/015/HeaVna101_01580#TEXT_HEAVNA101_01580_HAURCHEFANT_000_052", "hash": "5555949EE104FE86", "target": "Non desidererei altro che mostrarvela, ma sono tutti riuniti per ricevervi." },
     { "gameKey": "quest/015/HeaVna101_01580#TEXT_HEAVNA101_01580_HAURCHEFANT_000_053", "hash": "5BE6BC0B207FDBA5", "target": "Venite, amici miei! È tempo di fare le presentazioni!" }
   ]

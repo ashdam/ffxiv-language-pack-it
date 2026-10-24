@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/008/GaiUsb307_00848#TEXT_GAIUSB307_00848_SEQ_00", "hash": "49FA46691CA7E668", "target": "Drest sembra avere un maggiore controllo di sé." },
     { "gameKey": "quest/008/GaiUsb307_00848#TEXT_GAIUSB307_00848_SEQ_01", "hash": "8A8A86DC508F5137", "target": "Per ringraziare Shamani Lohmani, Drest ti chiede di consegnargli tre noci di cocco piene di vino di palma, una bevanda dolce di linfa fermentata. Raccogli i tre frutti alle Cascate delle Mantidi Rosse." },
-    { "gameKey": "quest/008/GaiUsb307_00848#TEXT_GAIUSB307_00848_SEQ_02", "hash": "B0E5564FE4783C5B", "target": "Trovi senza difficoltà il vino di palma di Drest. Consegna i doni a Shamani Lohmani, a Wineport." },
+    { "gameKey": "quest/008/GaiUsb307_00848#TEXT_GAIUSB307_00848_SEQ_02", "hash": "B0E5564FE4783C5B", "target": "Trovi senza difficoltà il vino di palma di Drest. Consegna i doni a Shamani Lohmani, a Porto del Vino." },
     { "gameKey": "quest/008/GaiUsb307_00848#TEXT_GAIUSB307_00848_SEQ_03", "hash": "CC4597618B8E9E5B", "target": "Grazie al suo olfatto impeccabile, il vignaiolo cieco riconosce subito il vino di palma. Grato per il gesto, riflette sulle somiglianze tra sé e l'uomo tormentato. Shamani Lohmani ti ringrazia quindi <if(gnum4,per esserti occupata,per esserti occupato)> di Drest e decide di trascorrere più tempo con lui." },
     { "gameKey": "quest/008/GaiUsb307_00848#TEXT_GAIUSB307_00848_TODO_00", "hash": "023115E07AE92E8C", "target": "Raccogliere il vino di palma" },
     { "gameKey": "quest/008/GaiUsb307_00848#TEXT_GAIUSB307_00848_TODO_01", "hash": "77EE40501699E5C2", "target": "Consegnare il vino di palma a Shamani Lohmani" },
