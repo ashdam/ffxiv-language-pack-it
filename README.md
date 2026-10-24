@@ -1,10 +1,5 @@
 <blockquote>
-  <table>
-    <tr>
-      <td valign="middle"><img src="docs/images/gubal-library.png" alt="Un chocobo e un gufo leggono un libro" width="48"></td>
-      <td valign="middle">Native Italian reviewers on the team: <a href="https://github.com/IsamuBarbieri">@IsamuBarbieri</a>.</td>
-    </tr>
-  </table>
+  <p><img src="docs/images/gubal-library.png" alt="Un chocobo e un gufo leggono un libro" width="48" height="48" align="absmiddle"> Native Italian reviewers on the team: <a href="https://github.com/IsamuBarbieri">@IsamuBarbieri</a>.</p>
 </blockquote>
 
 # Language pack in italiano per FFXIV (non ufficiale)
