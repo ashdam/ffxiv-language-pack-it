@@ -1,6 +1,10 @@
-> We currently have no Italian language reviewer on the team. If you are a native Italian speaker and would like to help review the translation, contact me on Discord: **miniashdam**.
+> We have a native Italian reviewer on the team: [@IsamuBarbieri](https://github.com/IsamuBarbieri).
 
 # Language pack in italiano per FFXIV (non ufficiale)
+
+<p align="center">
+  <img src="docs/images/gubal-library.png" alt="Un chocobo e un gufo leggono un libro" width="320">
+</p>
 
 Traduzione italiana dei testi di Final Fantasy XIV per il plugin di Dalamud
 **Gubal Library**. Non modifica i file originali del gioco.
