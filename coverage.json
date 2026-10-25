@@ -1,10 +1,10 @@
 {
   "gameVersion": "2026.10.16.0000.0000",
   "translated": 442518,
-  "total": 525136,
-  "percent": 84.3,
-  "chars": 51752307,
-  "unresolved": 5766,
+  "total": 527859,
+  "percent": 83.8,
+  "chars": 51988464,
+  "unresolved": 5779,
   "groups": [
     {
       "expansion": "A Realm Reborn",
@@ -346,7 +346,7 @@
       "expansion": null,
       "content": "Battle and system messages",
       "translated": 8526,
-      "total": 8526
+      "total": 8527
     },
     {
       "expansion": null,
@@ -376,13 +376,13 @@
       "expansion": null,
       "content": "Service NPC menus",
       "translated": 29352,
-      "total": 29352
+      "total": 29354
     },
     {
       "expansion": null,
       "content": "Buttons, tabs, headers (`Addon`)",
       "translated": 0,
-      "total": 14849
+      "total": 14877
     },
     {
       "expansion": null,
@@ -412,13 +412,13 @@
       "expansion": null,
       "content": "Chat commands (`TextCommand`)",
       "translated": 0,
-      "total": 49
+      "total": 631
     },
     {
       "expansion": null,
       "content": "Ambient text: NPC chatter, shouts, balloons, duties and guides",
       "translated": 111629,
-      "total": 165887
+      "total": 167997
     }
   ],
   "excludedFromLocalization": [
@@ -432,7 +432,7 @@
       "expansion": null,
       "content": "No English to translate",
       "translated": 21,
-      "total": 1245
+      "total": 1250
     }
   ],
   "futureLocalization": [
