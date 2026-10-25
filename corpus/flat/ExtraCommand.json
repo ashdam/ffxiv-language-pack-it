@@ -2,13 +2,13 @@
   "sheet": "ExtraCommand",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "ExtraCommand#1.0", "hash": "6C597DEE82DC6E9E", "target": "" },
-    { "gameKey": "ExtraCommand#1.1", "hash": "79ED1453CFA72723", "target": "" },
-    { "gameKey": "ExtraCommand#2.0", "hash": "6231AC85F7D1BD8E", "target": "" },
-    { "gameKey": "ExtraCommand#2.1", "hash": "1647DE2E6E3A33F5", "target": "" },
-    { "gameKey": "ExtraCommand#3.0", "hash": "3E8E2413B98FB61B", "target": "" },
-    { "gameKey": "ExtraCommand#3.1", "hash": "FBD694193578025C", "target": "" },
-    { "gameKey": "ExtraCommand#4.0", "hash": "3F659B09B3A15378", "target": "" },
-    { "gameKey": "ExtraCommand#4.1", "hash": "35A5FF247252E05B", "target": "" }
+    { "gameKey": "ExtraCommand#1.0", "hash": "6C597DEE82DC6E9E", "target": "Posa di Gruppo" },
+    { "gameKey": "ExtraCommand#1.1", "hash": "79ED1453CFA72723", "target": "Esegui una posa di gruppo ripetendo continuamente l'ultima emote o azione eseguita. Nelle impostazioni del comando puoi regolare la posizione della telecamera, l'illuminazione e il filtro colore.<br><br><colortype(500)><edgecolortype(501)>Comando Testuale: <edgecolortype(0)><colortype(0)>/grouppose<br><colortype(500)><edgecolortype(501)>Mappatura Tasti: <edgecolortype(0)><colortype(0)>Disponibile" },
+    { "gameKey": "ExtraCommand#2.0", "hash": "6231AC85F7D1BD8E", "target": "Telecamera d'Attesa" },
+    { "gameKey": "ExtraCommand#2.1", "hash": "1647DE2E6E3A33F5", "target": "Attiva la telecamera d'attesa. Quando è attiva, inquadra a caso i personaggi giocanti e i PNG nelle vicinanze. Se esegui il comando con un personaggio giocante o un PNG selezionato, la telecamera si concentra su quel bersaglio. Nelle impostazioni del comando puoi regolare la posizione della telecamera, l'illuminazione e il filtro colore.<br><br><colortype(500)><edgecolortype(501)>Comando Testuale: <edgecolortype(0)><colortype(0)>/idlingcamera<br><colortype(500)><edgecolortype(501)>Mappatura Tasti: <edgecolortype(0)><colortype(0)>Disponibile" },
+    { "gameKey": "ExtraCommand#3.0", "hash": "3E8E2413B98FB61B", "target": "Sveglia" },
+    { "gameKey": "ExtraCommand#3.1", "hash": "FBD694193578025C", "target": "Attiva la sveglia. Puoi impostare le sveglie perché suonino mentre giochi; vengono eliminate quando esci dal gioco.<br><br><colortype(500)><edgecolortype(501)>Comando Testuale: <edgecolortype(0)><colortype(0)>/alarm<br><colortype(500)><edgecolortype(501)>Mappatura Tasti: <edgecolortype(0)><colortype(0)>Disponibile" },
+    { "gameKey": "ExtraCommand#4.0", "hash": "3F659B09B3A15378", "target": "Pannello Comandi" },
+    { "gameKey": "ExtraCommand#4.1", "hash": "35A5FF247252E05B", "target": "Visualizza il Pannello Comandi.<br>Puoi registrare liberamente azioni e comandi, tra cui cavalcature, minion, emote e completi, per accedervi ed eseguirli rapidamente.<br><br><colortype(500)><edgecolortype(501)>Comando Testuale: <edgecolortype(0)><colortype(0)>/commandpanel<br><colortype(500)><edgecolortype(501)>Mappatura Tasti: <edgecolortype(0)><colortype(0)>Disponibile" }
   ]
 }

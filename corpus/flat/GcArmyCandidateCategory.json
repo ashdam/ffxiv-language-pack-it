@@ -2,12 +2,12 @@
   "sheet": "GcArmyCandidateCategory",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "GcArmyCandidateCategory#1", "hash": "D9DA1093B8C97158", "target": "" },
-    { "gameKey": "GcArmyCandidateCategory#2", "hash": "51D467CF258A3B18", "target": "" },
-    { "gameKey": "GcArmyCandidateCategory#3", "hash": "C9215BA0CA0D40C0", "target": "" },
-    { "gameKey": "GcArmyCandidateCategory#4", "hash": "D82CBA22E7BBD219", "target": "" },
-    { "gameKey": "GcArmyCandidateCategory#5", "hash": "3A40CB2882525A2B", "target": "" },
-    { "gameKey": "GcArmyCandidateCategory#6", "hash": "96E1FB9C57B4589C", "target": "" },
-    { "gameKey": "GcArmyCandidateCategory#7", "hash": "96FDAF2AE7DD6D4F", "target": "" }
+    { "gameKey": "GcArmyCandidateCategory#1", "hash": "D9DA1093B8C97158", "target": "Motivo dell'arruolamento: Mi hanno ispirato le tue innumerevoli gesta eroiche." },
+    { "gameKey": "GcArmyCandidateCategory#2", "hash": "51D467CF258A3B18", "target": "Motivo dell'arruolamento: Voglio servire la mia Grande Compagnia e gli altri Eorzeani con lo stesso coraggio che dimostri." },
+    { "gameKey": "GcArmyCandidateCategory#3", "hash": "C9215BA0CA0D40C0", "target": "Motivo dell'arruolamento: Voglio mettere alla prova i limiti delle mie capacità, proprio come fai tu." },
+    { "gameKey": "GcArmyCandidateCategory#4", "hash": "D82CBA22E7BBD219", "target": "Motivo dell'arruolamento: Voglio emulare la tua calma e la tua capacità di trovare soluzioni anche nel caos." },
+    { "gameKey": "GcArmyCandidateCategory#5", "hash": "3A40CB2882525A2B", "target": "Motivo dell'arruolamento: Voglio servire agli ordini di un ufficiale le cui mani sappiano creare oltre che distruggere." },
+    { "gameKey": "GcArmyCandidateCategory#6", "hash": "96E1FB9C57B4589C", "target": "Motivo dell'arruolamento: Seguirei un comandante che apprezza i doni della natura." },
+    { "gameKey": "GcArmyCandidateCategory#7", "hash": "96FDAF2AE7DD6D4F", "target": "Motivo dell'arruolamento: Voglio servire agli ordini di un ufficiale che sappia conciliare lavoro e divertimento." }
   ]
 }

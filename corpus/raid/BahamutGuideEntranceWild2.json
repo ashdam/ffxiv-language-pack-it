@@ -6,8 +6,8 @@
     { "gameKey": "raid/BahamutGuideEntranceWild2#TEXT_BAHAMUTGUIDEENTRANCEWILD2_Q1_000_010", "hash": "D3621329155222AE", "target": "Che cosa vuoi fare?" },
     { "gameKey": "raid/BahamutGuideEntranceWild2#TEXT_BAHAMUTGUIDEENTRANCEWILD2_A1_000_011", "hash": "B7DCC05F2852A213", "target": "Informazioni su Final Coil of Bahamut." },
     { "gameKey": "raid/BahamutGuideEntranceWild2#TEXT_BAHAMUTGUIDEENTRANCEWILD2_A1_000_012", "hash": "6E33E51D03111974", "target": "Entrare in <lowerhead(<sheet(InstanceContent,lnum1,3)>)>." },
-    { "gameKey": "raid/BahamutGuideEntranceWild2#TEXT_BAHAMUTGUIDEENTRANCEWILD2_A1_100_012", "hash": "C7061072BC86E1B4", "target": "" },
-    { "gameKey": "raid/BahamutGuideEntranceWild2#TEXT_BAHAMUTGUIDEENTRANCEWILD2_A1_101_012", "hash": "65152E84A7A5610E", "target": "" },
+    { "gameKey": "raid/BahamutGuideEntranceWild2#TEXT_BAHAMUTGUIDEENTRANCEWILD2_A1_100_012", "hash": "C7061072BC86E1B4", "target": "Avvia «<sheet(InstanceContent,lnum1,3)>» con la regola «Solo Brama»." },
+    { "gameKey": "raid/BahamutGuideEntranceWild2#TEXT_BAHAMUTGUIDEENTRANCEWILD2_A1_101_012", "hash": "65152E84A7A5610E", "target": "Avvia «<sheet(InstanceContent,lnum1,3)>» con il bottino assegnato al capogruppo." },
     { "gameKey": "raid/BahamutGuideEntranceWild2#TEXT_BAHAMUTGUIDEENTRANCEWILD2_A1_000_013", "hash": "6C674564F1CDEDF4", "target": "Niente." },
     { "gameKey": "raid/BahamutGuideEntranceWild2#TEXT_BAHAMUTGUIDEENTRANCEWILD2_00105_Q3_000_015", "hash": "DB96BAEB39DB79CC", "target": "Su che cosa vuoi informazioni?" },
     { "gameKey": "raid/BahamutGuideEntranceWild2#TEXT_BAHAMUTGUIDEENTRANCEWILD2_00105_A3_000_016", "hash": "BEB8E074DBB91179", "target": "Requisiti di accesso a Final Coil of Bahamut." },
@@ -27,8 +27,8 @@
     { "gameKey": "raid/BahamutGuideEntranceWild2#TEXT_BAHAMUTGUIDEENTRANCEWILD2_SYSTEM_000_059", "hash": "2A71784FEA4DF54D", "target": "Tutti gli oggetti nell'elenco del bottino di un giocatore verranno trasferiti automaticamente al suo inventario quando tutti gli altri membri del gruppo avranno lasciato l'area." },
     { "gameKey": "raid/BahamutGuideEntranceWild2#TEXT_BAHAMUTGUIDEENTRANCEWILD2_SYSTEM_000_060", "hash": "669523EB07763B4D", "target": "Gli oggetti che non sarà possibile ottenere andranno perduti." },
     { "gameKey": "raid/BahamutGuideEntranceWild2#TEXT_BAHAMUTGUIDEENTRANCEWILD2_Q2_000_100", "hash": "CC5EF766058024A0", "target": "Entrare in <lowerhead(<sheet(InstanceContent,lnum1,3)>)>?" },
-    { "gameKey": "raid/BahamutGuideEntranceWild2#TEXT_BAHAMUTGUIDEENTRANCEWILD2_Q2_100_100", "hash": "31B5E9C35EA64143", "target": "" },
-    { "gameKey": "raid/BahamutGuideEntranceWild2#TEXT_BAHAMUTGUIDEENTRANCEWILD2_Q2_101_100", "hash": "634EF45B32695000", "target": "" },
+    { "gameKey": "raid/BahamutGuideEntranceWild2#TEXT_BAHAMUTGUIDEENTRANCEWILD2_Q2_100_100", "hash": "31B5E9C35EA64143", "target": "Vuoi avviare «<sheet(InstanceContent,lnum1,3)>»<br> con la regola «Solo Brama»?" },
+    { "gameKey": "raid/BahamutGuideEntranceWild2#TEXT_BAHAMUTGUIDEENTRANCEWILD2_Q2_101_100", "hash": "634EF45B32695000", "target": "Vuoi avviare «<sheet(InstanceContent,lnum1,3)>»<br> con il bottino assegnato al capogruppo?" },
     { "gameKey": "raid/BahamutGuideEntranceWild2#TEXT_BAHAMUTGUIDEENTRANCEWILD2_A2_000_101", "hash": "E5E6EB468307B984", "target": "Sì" },
     { "gameKey": "raid/BahamutGuideEntranceWild2#TEXT_BAHAMUTGUIDEENTRANCEWILD2_A2_000_102", "hash": "BF00D66A82C0AE24", "target": "No" },
     { "gameKey": "raid/BahamutGuideEntranceWild2#TEXT_BAHAMUTGUIDEENTRANCEWILD2_SYSTEM_000_110", "hash": "C78FADE8AEC6FAAF", "target": "Non è stato possibile accedere a <lowerhead(<sheet(InstanceContent,lnum2,3)>)>. Assicurati che tu e il tuo gruppo soddisfiate tutte le condizioni." },
@@ -37,9 +37,9 @@
     { "gameKey": "raid/BahamutGuideEntranceWild2#TEXT_BAHAMUTGUIDEENTRANCEWILD2_SYSTEM_000_211", "hash": "DC739F931FE0622A", "target": "I progressi vengono azzerati ogni <setresettime(17,2)><switch(t_wday,domenica,lunedì,martedì,mercoledì,giovedì,venerdì,sabato)> alle <if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)> <if([t_hour>=12],p.m.,a.m.)> (ora terrestre)." },
     { "gameKey": "raid/BahamutGuideEntranceWild2#TEXT_BAHAMUTGUIDEENTRANCEWILD2_Q3_000_300", "hash": "B0178513CDA46400", "target": "In attesa della conferma d'ingresso dei membri del gruppo." },
     { "gameKey": "raid/BahamutGuideEntranceWild2#TEXT_BAHAMUTGUIDEENTRANCEWILD2_A3_000_301", "hash": "FDFEBA4F0B292F80", "target": "Annulla" },
-    { "gameKey": "raid/BahamutGuideEntranceWild2#TEXT_BAHAMUTGUIDEENTRANCEWILD2_A3_000_340", "hash": "61C8148D87156D78", "target": "" },
+    { "gameKey": "raid/BahamutGuideEntranceWild2#TEXT_BAHAMUTGUIDEENTRANCEWILD2_A3_000_340", "hash": "61C8148D87156D78", "target": "Ci sono <num(lnum2)> membri che hanno già completato questo contenuto, perciò appariranno <num(lnum3)> forzieri del tesoro.<br>Vuoi iniziare «<sheet(InstanceContent,lnum1,3)>»?" },
     { "gameKey": "raid/BahamutGuideEntranceWild2#TEXT_BAHAMUTGUIDEENTRANCEWILD2_A3_000_350", "hash": "A520009BC0DF44DE", "target": "<if([lnum2==1],Un membro,<head(<if(lnum2,<if([lnum2<=10],<switch(lnum2,uno,due,tre,quattro,cinque,sei,sette,otto,nove,dieci)>,<num(lnum2)>)>,<num(lnum2)>)>)> membri)> del tuo gruppo <if([lnum2==1],ha,hanno)> già superato <lowerhead(<sheet(InstanceContent,lnum1,3)>)>. Di conseguenza, il completamento farà apparire <if([lnum3==1],<if(lnum3,<if([lnum3<=10],<switch(lnum3,un,due,tre,quattro,cinque,sei,sette,otto,nove,dieci)>,<num(lnum3)>)>,<num(lnum3)>)> forziere del tesoro,<if(lnum3,<if([lnum3<=10],<switch(lnum3,un,due,tre,quattro,cinque,sei,sette,otto,nove,dieci)>,<num(lnum3)>)>,<num(lnum3)>)> forzieri del tesoro)>. Vuoi procedere (regola del bottino: Lootmaster)?" },
-    { "gameKey": "raid/BahamutGuideEntranceWild2#TEXT_BAHAMUTGUIDEENTRANCEWILD2_A3_100_350", "hash": "BA73AB2A7E0977D3", "target": "" },
-    { "gameKey": "raid/BahamutGuideEntranceWild2#TEXT_BAHAMUTGUIDEENTRANCEWILD2_A3_101_350", "hash": "FEBDD1B915ACFA1F", "target": "" }
+    { "gameKey": "raid/BahamutGuideEntranceWild2#TEXT_BAHAMUTGUIDEENTRANCEWILD2_A3_100_350", "hash": "BA73AB2A7E0977D3", "target": "Ci sono <num(lnum2)> membri che hanno già completato questo contenuto, perciò appariranno <num(lnum3)> forzieri del tesoro.<br>Vuoi avviare «<sheet(InstanceContent,lnum1,3)>»<br> con la regola «Solo Brama»?" },
+    { "gameKey": "raid/BahamutGuideEntranceWild2#TEXT_BAHAMUTGUIDEENTRANCEWILD2_A3_101_350", "hash": "FEBDD1B915ACFA1F", "target": "Ci sono <num(lnum2)> membri che hanno già completato questo contenuto, perciò appariranno <num(lnum3)> forzieri del tesoro.<br>Vuoi avviare «<sheet(InstanceContent,lnum1,3)>»<br> con il bottino assegnato al capogruppo?" }
   ]
 }

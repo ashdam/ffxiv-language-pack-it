@@ -2,10 +2,10 @@
   "sheet": "AirshipExplorationParamType",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "AirshipExplorationParamType#0", "hash": "46C78470CBB798DC", "target": "" },
-    { "gameKey": "AirshipExplorationParamType#1", "hash": "23381401842BCC87", "target": "" },
-    { "gameKey": "AirshipExplorationParamType#2", "hash": "C85DBE534C715BF7", "target": "" },
-    { "gameKey": "AirshipExplorationParamType#3", "hash": "0B1C29066A2621F0", "target": "" },
-    { "gameKey": "AirshipExplorationParamType#4", "hash": "4DE98F0C8040F079", "target": "" }
+    { "gameKey": "AirshipExplorationParamType#0", "hash": "46C78470CBB798DC", "target": "livello di sorveglianza" },
+    { "gameKey": "AirshipExplorationParamType#1", "hash": "23381401842BCC87", "target": "livello di recupero" },
+    { "gameKey": "AirshipExplorationParamType#2", "hash": "C85DBE534C715BF7", "target": "velocità" },
+    { "gameKey": "AirshipExplorationParamType#3", "hash": "0B1C29066A2621F0", "target": "portata" },
+    { "gameKey": "AirshipExplorationParamType#4", "hash": "4DE98F0C8040F079", "target": "favore del guardiano" }
   ]
 }

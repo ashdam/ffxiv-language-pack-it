@@ -2,7 +2,7 @@
   "sheet": "ActionCategory",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "ActionCategory#1", "hash": "D1712D9369F9D607", "target": "Attacco automatico" },
+    { "gameKey": "ActionCategory#1", "hash": "D1712D9369F9D607", "target": "Attacco Automatico" },
     { "gameKey": "ActionCategory#2", "hash": "ED08415B801D32D8", "target": "Incantesimo" },
     { "gameKey": "ActionCategory#3", "hash": "B8F4858E12C75F02", "target": "Tecnica d'arma" },
     { "gameKey": "ActionCategory#4", "hash": "53FE1664FD8B6074", "target": "Abilità" },

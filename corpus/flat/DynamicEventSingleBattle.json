@@ -2,11 +2,11 @@
   "sheet": "DynamicEventSingleBattle",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "DynamicEventSingleBattle#1", "hash": "3115E9EF4A60AAD4", "target": "" },
-    { "gameKey": "DynamicEventSingleBattle#2", "hash": "A8560F7BB901FE27", "target": "" },
-    { "gameKey": "DynamicEventSingleBattle#3", "hash": "9602694697A1A5A8", "target": "" },
-    { "gameKey": "DynamicEventSingleBattle#4", "hash": "0F6D437AC6EE9DAB", "target": "" },
-    { "gameKey": "DynamicEventSingleBattle#5", "hash": "584A55C5C1BAF424", "target": "" },
-    { "gameKey": "DynamicEventSingleBattle#6", "hash": "A427EF86CF1728E6", "target": "" }
+    { "gameKey": "DynamicEventSingleBattle#1", "hash": "3115E9EF4A60AAD4", "target": "Analisi dell'area alla ricerca di potenziali bersagli..." },
+    { "gameKey": "DynamicEventSingleBattle#2", "hash": "A8560F7BB901FE27", "target": "C'è qualcuno abbastanza coraggioso da affrontarmi?" },
+    { "gameKey": "DynamicEventSingleBattle#3", "hash": "9602694697A1A5A8", "target": "Osi sfidare l'inferno?" },
+    { "gameKey": "DynamicEventSingleBattle#4", "hash": "0F6D437AC6EE9DAB", "target": "Analisi alla ricerca di bersagli prioritari..." },
+    { "gameKey": "DynamicEventSingleBattle#5", "hash": "584A55C5C1BAF424", "target": "Se vuoi la mia testa, vieni a prendertela!" },
+    { "gameKey": "DynamicEventSingleBattle#6", "hash": "A427EF86CF1728E6", "target": "Vieni a minacciarmi con un po' di sano divertimento? Bene, cominciamo!" }
   ]
 }

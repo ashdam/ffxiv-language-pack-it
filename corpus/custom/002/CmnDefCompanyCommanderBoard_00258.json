@@ -37,6 +37,6 @@
     { "gameKey": "custom/002/CmnDefCompanyCommanderBoard_00258#TEXT_CMNDEFCOMPANYCOMMANDERBOARD_00258_NO_EXPLOG_3", "hash": "7EC3CE749675B3DD", "target": "Viene conservato solo il diario del viaggio precedente." },
     { "gameKey": "custom/002/CmnDefCompanyCommanderBoard_00258#TEXT_CMNDEFCOMPANYCOMMANDERBOARD_00258_NO_REPAIR_ITEM", "hash": "F2D4F0F8B80AB095", "target": "Non puoi riparare i componenti dell’aeronave senza i materiali necessari." },
     { "gameKey": "custom/002/CmnDefCompanyCommanderBoard_00258#TEXT_CMNDEFCOMPANYCOMMANDERBOARD_00258_CONTENT_GUIDE", "hash": "7A59706AD98FD7F5", "target": "Hai tracciato una nuova rotta attraverso il Sea of Clouds! Ora puoi affrontare The Diadem (Hard)." },
-    { "gameKey": "custom/002/CmnDefCompanyCommanderBoard_00258#TEXT_CMNDEFCOMPANYCOMMANDERBOARD_00258_NOT_IMPLEMENTED_SORA2", "hash": "C186357856161A65", "target": "" }
+    { "gameKey": "custom/002/CmnDefCompanyCommanderBoard_00258#TEXT_CMNDEFCOMPANYCOMMANDERBOARD_00258_NOT_IMPLEMENTED_SORA2", "hash": "C186357856161A65", "target": "Poiché le correnti eteriche lungo la rotta aerea verso le isole della Diadema sono perturbate,<br>al momento non è possibile effettuare esplorazioni.<br>Attendi che le correnti si stabilizzino." }
   ]
 }
