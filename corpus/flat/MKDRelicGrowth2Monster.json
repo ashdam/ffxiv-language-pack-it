@@ -2,9 +2,9 @@
   "sheet": "MKDRelicGrowth2Monster",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "MKDRelicGrowth2Monster#0", "hash": "655ED7CF47C78717", "target": "" },
-    { "gameKey": "MKDRelicGrowth2Monster#1", "hash": "0425EE69AF589FB8", "target": "" },
-    { "gameKey": "MKDRelicGrowth2Monster#2", "hash": "BFDD28A50D9AE087", "target": "" },
-    { "gameKey": "MKDRelicGrowth2Monster#3", "hash": "F0EE92D21B3A52B4", "target": "" }
+    { "gameKey": "MKDRelicGrowth2Monster#0", "hash": "655ED7CF47C78717", "target": "Non riesco ad attingere al mio potere...\nMi servono mani... Mi servono piedi." },
+    { "gameKey": "MKDRelicGrowth2Monster#1", "hash": "0425EE69AF589FB8", "target": "La mia vera forma è... più intelligente, più maestosa. Costruisci il mio corpo così!" },
+    { "gameKey": "MKDRelicGrowth2Monster#2", "hash": "BFDD28A50D9AE087", "target": "Fa' attenzione quando costruisci il mio corpo. Non voglio presentarmi ai miei sottoposti con un aspetto indecoroso!" },
+    { "gameKey": "MKDRelicGrowth2Monster#3", "hash": "F0EE92D21B3A52B4", "target": "Un tempo incanalavo l'etere dei nemici sconfitti in una sfera scintillante. Per sprigionare il mio potere, dovrai usare una sfera simile per costruire il mio corpo!" }
   ]
 }

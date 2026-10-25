@@ -1,0 +1,7 @@
+{
+  "gamePath": "ui/uld/goldsaucer.uld",
+  "sourceSha256": "75B082BE305F662CC0257A5F0102B319B2CB910136CD7BD1745C25C589F97C84",
+  "nodes": [
+    { "nodeId": 21, "textId": 0, "expectedPosition": { "x": 68 }, "position": { "x": 85 } }
+  ]
+}

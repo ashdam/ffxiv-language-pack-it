@@ -2,14 +2,14 @@
   "sheet": "SpearfishingComboTarget",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "SpearfishingComboTarget#900.0", "hash": "9243C9E544785837", "target": "" },
-    { "gameKey": "SpearfishingComboTarget#900.1", "hash": "B40DDDE27BD600D3", "target": "" },
-    { "gameKey": "SpearfishingComboTarget#900.2", "hash": "F71B392DA9FB6F80", "target": "" },
-    { "gameKey": "SpearfishingComboTarget#917.0", "hash": "F512A07B6220BFCF", "target": "" },
-    { "gameKey": "SpearfishingComboTarget#917.1", "hash": "915EEE08DD583C1E", "target": "" },
-    { "gameKey": "SpearfishingComboTarget#917.2", "hash": "8F9AC328692E01AD", "target": "" },
-    { "gameKey": "SpearfishingComboTarget#1013.0", "hash": "8633C9F5FADD8DC9", "target": "" },
-    { "gameKey": "SpearfishingComboTarget#1013.1", "hash": "A8095B9B83A72FE4", "target": "" },
-    { "gameKey": "SpearfishingComboTarget#1013.2", "hash": "40B9A07F1608B69D", "target": "" }
+    { "gameKey": "SpearfishingComboTarget#900.0", "hash": "9243C9E544785837", "target": "Scorgi un bagliore color zaffiro nelle acque circostanti." },
+    { "gameKey": "SpearfishingComboTarget#900.1", "hash": "B40DDDE27BD600D3", "target": "Il bagliore color zaffiro tremola e svanisce..." },
+    { "gameKey": "SpearfishingComboTarget#900.2", "hash": "F71B392DA9FB6F80", "target": "Scorgi di nuovo il bagliore color zaffiro!" },
+    { "gameKey": "SpearfishingComboTarget#917.0", "hash": "F512A07B6220BFCF", "target": "Avverti i movimenti di un predatore inatteso!" },
+    { "gameKey": "SpearfishingComboTarget#917.1", "hash": "915EEE08DD583C1E", "target": "Il predatore sembra essersi allontanato..." },
+    { "gameKey": "SpearfishingComboTarget#917.2", "hash": "8F9AC328692E01AD", "target": "Il predatore ha invertito la rotta!" },
+    { "gameKey": "SpearfishingComboTarget#1013.0", "hash": "8633C9F5FADD8DC9", "target": "Una scia scarlatta emerge dagli abissi!" },
+    { "gameKey": "SpearfishingComboTarget#1013.1", "hash": "A8095B9B83A72FE4", "target": "La scia scarlatta sembra dissolversi..." },
+    { "gameKey": "SpearfishingComboTarget#1013.2", "hash": "40B9A07F1608B69D", "target": "La scia scarlatta emerge ancora una volta!" }
   ]
 }

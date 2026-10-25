@@ -2,9 +2,9 @@
   "sheet": "PlayerSearchSubLocation",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "PlayerSearchSubLocation#0.3", "hash": "62BA86EB5AC9A6C7", "target": "" },
-    { "gameKey": "PlayerSearchSubLocation#0.4", "hash": "18367B13D31D7B8D", "target": "" },
-    { "gameKey": "PlayerSearchSubLocation#0.5", "hash": "9B6CBF466037128B", "target": "" },
+    { "gameKey": "PlayerSearchSubLocation#0.3", "hash": "62BA86EB5AC9A6C7", "target": "Non valido" },
+    { "gameKey": "PlayerSearchSubLocation#0.4", "hash": "18367B13D31D7B8D", "target": "Non valido" },
+    { "gameKey": "PlayerSearchSubLocation#0.5", "hash": "9B6CBF466037128B", "target": "Non valido" },
     { "gameKey": "PlayerSearchSubLocation#1.3", "hash": "6EC79E7EAF0DA989", "target": "mondo" },
     { "gameKey": "PlayerSearchSubLocation#1.4", "hash": "8E5CE1E8A43585D7", "target": "world" },
     { "gameKey": "PlayerSearchSubLocation#1.5", "hash": "B87ACF7DC115F997", "target": "mondo" },
