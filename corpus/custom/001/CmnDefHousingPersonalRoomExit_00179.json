@@ -5,6 +5,7 @@
     { "gameKey": "custom/001/CmnDefHousingPersonalRoomExit_00179#TEXT_CMNDEFHOUSINGPERSONALROOMEXIT_00179_MENU_GO_MY_ROOM", "hash": "B8B0C48C3DFB34A6", "target": "Vai nelle tue stanze private." },
     { "gameKey": "custom/001/CmnDefHousingPersonalRoomExit_00179#TEXT_CMNDEFHOUSINGPERSONALROOMEXIT_00179_MENU_GO_OTHER_ROOM", "hash": "F1AF65E3976D3A42", "target": "Vai nelle stanze private specificate." },
     { "gameKey": "custom/001/CmnDefHousingPersonalRoomExit_00179#TEXT_CMNDEFHOUSINGPERSONALROOMEXIT_00179_MENU_GO_FC_HOUSE", "hash": "DFD52B03603CADE6", "target": "Lascia le stanze private." },
-    { "gameKey": "custom/001/CmnDefHousingPersonalRoomExit_00179#TEXT_CMNDEFHOUSINGPERSONALROOMEXIT_00179_MENU_EXIT", "hash": "9BDC1BD819F9BEEA", "target": "Niente." }
+    { "gameKey": "custom/001/CmnDefHousingPersonalRoomExit_00179#TEXT_CMNDEFHOUSINGPERSONALROOMEXIT_00179_MENU_EXIT", "hash": "9BDC1BD819F9BEEA", "target": "Niente." },
+    { "gameKey": "custom/001/CmnDefHousingPersonalRoomExit_00179#TEXT_CMNDEFHOUSINGPERSONALROOMEXIT_00179_TALK_ACTOR", "hash": "724955F0AF9ABC43", "target": "" }
   ]
 }
