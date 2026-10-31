@@ -1,9 +1,9 @@
 {
   "gameVersion": "2026.10.16.0000.0000",
   "translated": 858236,
-  "total": 866263,
+  "total": 866306,
   "percent": 99.1,
-  "chars": 62963123,
+  "chars": 62963252,
   "unresolved": 5779,
   "groups": [
     {
@@ -112,7 +112,7 @@
       "expansion": null,
       "content": "Character",
       "translated": 59581,
-      "total": 59581
+      "total": 59624
     },
     {
       "expansion": null,
@@ -26016,14 +26016,14 @@
       "value": null,
       "sheets": [],
       "counts": {
-        "total": 59581,
+        "total": 59624,
         "translated": 59581,
-        "pending": 0,
+        "pending": 43,
         "stale": 0,
         "excluded": 1168,
         "excludedTranslated": 1168,
-        "chars": 2833551,
-        "percent": 100
+        "chars": 2833680,
+        "percent": 99.9
       },
       "children": [
         {
@@ -26036,14 +26036,14 @@
             "classjobcategory"
           ],
           "counts": {
-            "total": 275,
+            "total": 318,
             "translated": 275,
-            "pending": 0,
+            "pending": 43,
             "stale": 0,
             "excluded": 0,
             "excludedTranslated": 0,
-            "chars": 5737,
-            "percent": 100
+            "chars": 5866,
+            "percent": 86.5
           },
           "children": [
             {
@@ -26053,14 +26053,14 @@
               "value": "ClassJob",
               "sheets": [],
               "counts": {
-                "total": 87,
+                "total": 130,
                 "translated": 87,
-                "pending": 0,
+                "pending": 43,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
-                "chars": 686,
-                "percent": 100
+                "chars": 815,
+                "percent": 66.9
               },
               "children": []
             },
