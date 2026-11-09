@@ -5,7 +5,7 @@
     { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_SEQ_00", "hash": "7B28D93F56E3A66C", "target": "Charakha ti fissa con ammirazione." },
     { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_TODO_00", "hash": "651606E613E916E6", "target": "Usare l'Oroniri kumis nei punti indicati" },
     { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_TODO_01", "hash": "FA00F2AE0F8026A1", "target": "Fare rapporto a Charakha" },
-    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_000", "hash": "CE873C53DD82644D", "target": "Aha! Ti riconosco: sei <if(gnum4,la donna,l'uomo)> che ha superato Bardam's Mettle. Devi avere una forza sovrumana." },
+    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_000", "hash": "CE873C53DD82644D", "target": "Aha! Ti riconosco: sei <if(gnum4,la donna,l'uomo)> che ha superato Le Prove di Bardam. Devi avere una forza sovrumana." },
     { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_001", "hash": "9A832E74E527147B", "target": "Sono rari gli stranieri che conquistano il rispetto dei figli e delle figlie di Azim." },
     { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_002", "hash": "A5B17FA2281F3595", "target": "Dobbiamo celebrare il tuo trionfo in questa prova durissima alla maniera degli Oronir: dovrai compiere un rito sacro." },
     { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_003", "hash": "453FFC4F9355545A", "target": "Non è complicato. Devi soltanto visitare cinque pietre della zona e versarvi un po' di kumis." },

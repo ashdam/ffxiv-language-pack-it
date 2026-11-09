@@ -2,15 +2,15 @@
   "conversation": "quest/046/AktKua102_04644",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_SEQ_01", "hash": "A1C6B61B03E5D093", "target": "" },
-    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_BARDIN_000_001", "hash": "A7AEC979657CC349", "target": "" },
-    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_BARDIN_000_002", "hash": "CEF0969322B20C5F", "target": "" },
-    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_BARDIN_000_003", "hash": "FB2A6F65337B7FAA", "target": "" },
-    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_BARDIN_000_004", "hash": "3535BBA200B27079", "target": "" },
-    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_BARDIN_000_005", "hash": "51CEF60916862181", "target": "" },
-    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_SYSTEM_100_010", "hash": "B4FDC7D935857F09", "target": "" },
-    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_SYSTEM_100_011", "hash": "D0469D9D47F6C7BE", "target": "" },
-    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_SYSTEM_100_012", "hash": "CD30F950C78DAA35", "target": "" },
-    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_SYSTEM_000_010", "hash": "320E5EDE9D8D82B6", "target": "" }
+    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_SEQ_01", "hash": "A1C6B61B03E5D093", "target": "Dopo averti spiegato, con scarso entusiasmo, come funziona il Rifugio Insulare, Baldin si è offerto di accompagnarti. Parlagli ogni volta che vuoi visitare l'isola di un alleato." },
+    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_BARDIN_000_001", "hash": "A7AEC979657CC349", "target": "Ohé, tu! Ti interessa visitare un rifugio insulare, immagino?" },
+    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_BARDIN_000_002", "hash": "CEF0969322B20C5F", "target": "Per tutte le balene, non sai del gran trambusto che ha suscitato questa faccenda?" },
+    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_BARDIN_000_003", "hash": "FB2A6F65337B7FAA", "target": "\\<sigh> Se da qui vai verso sud-est, fino a Vylbrand, raggiungerai le Cieldalaes. Ad avventurieri come te è stato concesso di coltivare alcune delle isole deserte della zona." },
+    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_BARDIN_000_004", "hash": "3535BBA200B27079", "target": "Non farti troppe illusioni, però. Non è che chiunque possa ottenere il permesso per uno di quei rifugi. Per quanto ne so, il progetto è ancora agli inizi e l'Ammiraglio è molto scrupolosa nella scelta dei candidati." },
+    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_BARDIN_000_005", "hash": "51CEF60916862181", "target": "Facciamo così: visto che mi stai simpatico, ti accompagnerò sano e salvo sull'isola di un tuo amico. Basta che tu me lo chieda." },
+    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_SYSTEM_100_010", "hash": "B4FDC7D935857F09", "target": "Ora puoi visitare, parlando con Baldin al Carenaggio di Moraby, il Rifugio Insulare di un membro del gruppo, di una Compagnia Libera o di un amico che ha sbloccato la funzione." },
+    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_SYSTEM_100_011", "hash": "D0469D9D47F6C7BE", "target": "Non potrai visitare un rifugio insulare se il proprietario ne ha vietato l'accesso, se non c'è nessuno sull'isola o se ha già raggiunto la capienza massima." },
+    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_SYSTEM_100_012", "hash": "CD30F950C78DAA35", "target": "Inoltre, per visitare l'isola di un conoscente, devi trovarti sul suo Mondo d'Origine." },
+    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_SYSTEM_000_010", "hash": "320E5EDE9D8D82B6", "target": "Per sbloccare il tuo Rifugio Insulare, devi prima completare la missione dello scenario principale «Endwalker» e poi la missione «In cerca di un rifugio»." }
   ]
 }

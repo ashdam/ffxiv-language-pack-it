@@ -2,7 +2,7 @@
   "conversation": "quest/033/LucKza017_03359",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/033/LucKza017_03359#TEXT_LUCKZA017_03359_SEQ_00", "hash": "F6A88677FAB46AB4", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Il servitore vincolato si agita nell'incertezza." },
+    { "gameKey": "quest/033/LucKza017_03359#TEXT_LUCKZA017_03359_SEQ_00", "hash": "F6A88677FAB46AB4", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Il servitore vincolato si agita nell'incertezza." },
     { "gameKey": "quest/033/LucKza017_03359#TEXT_LUCKZA017_03359_TODO_00", "hash": "34F0C8F6FF6559B0", "target": "Parlare con l'anziana abitante del villaggio" },
     { "gameKey": "quest/033/LucKza017_03359#TEXT_LUCKZA017_03359_TODO_01", "hash": "9B1595580F1D8BF2", "target": "Raccogliere stalks of golden barley" },
     { "gameKey": "quest/033/LucKza017_03359#TEXT_LUCKZA017_03359_TODO_02", "hash": "70A1A0FDFB47B3F1", "target": "Consegnare le stalks of golden barley all'anziana abitante del villaggio" },
@@ -20,7 +20,7 @@
     { "gameKey": "quest/033/LucKza017_03359#TEXT_LUCKZA017_03359_OLDWOMAN03359_000_013", "hash": "E056AA680E21A494", "target": "Ma se metti al lavoro quella tua giovane schiena per portare a casa il raccolto, potrei convincermi a separarmi da una bottiglia della mia scorta privata..." },
     { "gameKey": "quest/033/LucKza017_03359#TEXT_LUCKZA017_03359_OLDWOMAN03359_000_014", "hash": "681EFDD9EBBE2CA8", "target": "Aiutami a raccogliere quel campo, e vedrò quanta birra mi resta nascosta in dispensa." },
     { "gameKey": "quest/033/LucKza017_03359#TEXT_LUCKZA017_03359_OLDWOMAN03359_000_020", "hash": "61E0E51E8CE4348D", "target": "Mi hai portato l'orzo, allora?" },
-    { "gameKey": "quest/033/LucKza017_03359#TEXT_LUCKZA017_03359_OLDWOMAN03359_000_021", "hash": "75BBCC03A2E19FCE", "target": "Grazie, <if(gnum4,ragazza,ragazzo)>. Ci sono meno mani per aiutare da quando... \\<tossisce>" },
+    { "gameKey": "quest/033/LucKza017_03359#TEXT_LUCKZA017_03359_OLDWOMAN03359_000_021", "hash": "75BBCC03A2E19FCE", "target": "Grazie, <if(gnum4,ragazza,ragazzo)>. Ci sono meno mani per aiutare da quando... \\<coff>" },
     { "gameKey": "quest/033/LucKza017_03359#TEXT_LUCKZA017_03359_OLDWOMAN03359_000_022", "hash": "30E4D44FA48BDBE6", "target": "È buona, la nostra birra di Carpentiere. Dicono che scenda in gola come luce del sole al miele, e prima che tu te ne accorga hai mandato giù l'intera dannata bottiglia." },
     { "gameKey": "quest/033/LucKza017_03359#TEXT_LUCKZA017_03359_OLDWOMAN03359_000_023", "hash": "7832E869CA40C6DB", "target": "Bevila piano, <if(gnum4,ragazza,ragazzo)>, o domattina ti sveglierai con un gran mal di testa!" },
     { "gameKey": "quest/033/LucKza017_03359#TEXT_LUCKZA017_03359_SERVANT03359_000_030", "hash": "5A56F91C5F04C813", "target": "La tua trattativa è andata a buon fine?" },

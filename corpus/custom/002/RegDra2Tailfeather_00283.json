@@ -2,7 +2,7 @@
   "conversation": "custom/002/RegDra2Tailfeather_00283",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/RegDra2Tailfeather_00283#TEXT_REGDRA2TAILFEATHER_00283_COLINA_000_000", "hash": "6EDFDF904B27C3B4", "target": "Oh, sei <if(gnum4,una viaggiatrice,un viaggiatore)>? Lascia che sia fra i primi a darti il benvenuto a Tailfeather!" },
+    { "gameKey": "custom/002/RegDra2Tailfeather_00283#TEXT_REGDRA2TAILFEATHER_00283_COLINA_000_000", "hash": "6EDFDF904B27C3B4", "target": "Oh, sei <if(gnum4,una viaggiatrice,un viaggiatore)>? Lascia che sia fra i primi a darti il benvenuto a Codapiuma!" },
     { "gameKey": "custom/002/RegDra2Tailfeather_00283#TEXT_REGDRA2TAILFEATHER_00283_Q1_000_000", "hash": "2124DD5880DCEB8F", "target": "Cosa vuoi chiedere?" },
     { "gameKey": "custom/002/RegDra2Tailfeather_00283#TEXT_REGDRA2TAILFEATHER_00283_A1_000_001", "hash": "CEE0A33E6466E208", "target": "Informarsi sul lavoro svolto qui." },
     { "gameKey": "custom/002/RegDra2Tailfeather_00283#TEXT_REGDRA2TAILFEATHER_00283_A1_000_002", "hash": "3A0980AD4A3011F1", "target": "Che posto è questo?" },

@@ -2,7 +2,7 @@
   "conversation": "quest/034/LucKzg006_03491",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_SEQ_00", "hash": "07E843DC0CBE4C0D", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Bhol Bol digrigna i denti, un chiaro segno del suo cattivo umore." },
+    { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_SEQ_00", "hash": "07E843DC0CBE4C0D", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Bhol Bol digrigna i denti, un chiaro segno del suo cattivo umore." },
     { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_TODO_00", "hash": "A89BB7ECF33FCC77", "target": "Versare l'olio viscoso sulla lucertola inselvatichita, poi ucciderla" },
     { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_TODO_01", "hash": "22A34B8DC70B0E6A", "target": "Consegnare la carne della lucertola inselvatichita a Bhol Bol" },
     { "gameKey": "quest/034/LucKzg006_03491#TEXT_LUCKZG006_03491_BHOLBOL_000_000", "hash": "92124257C67C4FB8", "target": "Ti ho <if(gnum4,vista,visto)> in giro, <if(gnum4,viaggiatrice,viaggiatore)>. Ti piace renderti utile, sì? C'è del lavoro per te, se vuoi." },

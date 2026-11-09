@@ -2,7 +2,7 @@
   "conversation": "quest/043/AktKzj008_04344",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/043/AktKzj008_04344#TEXT_AKTKZJ008_04344_SEQ_00", "hash": "54ABED5E33C0F676", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Jaw-jaadg emette un suono attutito che somiglia a un colpo di tosse." },
+    { "gameKey": "quest/043/AktKzj008_04344#TEXT_AKTKZJ008_04344_SEQ_00", "hash": "54ABED5E33C0F676", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Jaw-jaadg emette un suono attutito che somiglia a un colpo di tosse." },
     { "gameKey": "quest/043/AktKzj008_04344#TEXT_AKTKZJ008_04344_TODO_00", "hash": "7FD8FE944EAED314", "target": "Con la chat in modalità <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, inserire una frase contenente il suono «coo» per chiamare l'Ea" },
     { "gameKey": "quest/043/AktKzj008_04344#TEXT_AKTKZJ008_04344_TODO_01", "hash": "F362157532DB70F2", "target": "Parlare con l'Ea che indugia" },
     { "gameKey": "quest/043/AktKzj008_04344#TEXT_AKTKZJ008_04344_TODO_02", "hash": "5471C6E04F682467", "target": "Parlare con Jaw-jaadg" },
@@ -17,7 +17,7 @@
     { "gameKey": "quest/043/AktKzj008_04344#TEXT_AKTKZJ008_04344_JAWJAADG_000_005", "hash": "33E3F9DFD29BB7C7", "target": "Il mio compagno Ea indugia ancora alla porta dell'oltre? Ti prego di richiamarlo alla nostra dimora." },
     { "gameKey": "quest/043/AktKzj008_04344#TEXT_AKTKZJ008_04344_SYSTEM_000_010", "hash": "15FC26DD7D3D53B9", "target": "coo" },
     { "gameKey": "quest/043/AktKzj008_04344#TEXT_AKTKZJ008_04344_SYSTEM_000_011", "hash": "FB1C6A653AE7AC66", "target": "Con la chat in modalità <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, usa la tastiera o la tastiera virtuale per inserire una frase contenente la parola «coo» e chiamare l'Ea." },
-    { "gameKey": "quest/043/AktKzj008_04344#TEXT_AKTKZJ008_04344_WAITING04344_000_012", "hash": "E5DFA87C5ECA2049", "target": "È un richiamo quello che sento? Il timbro del tuo verso suonava piuttosto... sordo. Comunque, se cerchi me, mi troverai a nord della tua posizione." },
+    { "gameKey": "quest/043/AktKzj008_04344#TEXT_AKTKZJ008_04344_WAITING04344_000_012", "hash": "E346C9B63D56002E", "target": "È un richiamo quello che sento? Il timbro del tuo verso suonava piuttosto... sordo. Comunque, se cerchi me, mi troverai a nord della tua posizione." },
     { "gameKey": "quest/043/AktKzj008_04344#TEXT_AKTKZJ008_04344_JAWJAADG_000_013", "hash": "B4637E04D4F4BEBE", "target": "Hai già richiamato il mio amico dalla porta? Se no, ti prego di farlo in fretta. Le nostre discussioni filosofiche sono così noiose senza di lui. Le sue ipotesi sono irritantemente divertenti, sai." },
     { "gameKey": "quest/043/AktKzj008_04344#TEXT_AKTKZJ008_04344_WAITING04344_000_020", "hash": "743936A0595CFB4E", "target": "Sei tu la persona che mi ha chiamato? Non stupisce che la tua voce suonasse così strana, con quel tuo corpo di carne. Non ho mai visto la tua specie: vieni forse da lontano?" },
     { "gameKey": "quest/043/AktKzj008_04344#TEXT_AKTKZJ008_04344_WAITING04344_000_021", "hash": "CF71C8CA71D8A154", "target": "...Capisco. Allora dovresti sentirti molto <if(gnum4,privilegiata,privilegiato)> nell'esserti <if(gnum4,imbattuta,imbattuto)> in noi. Questa porta è l'ingresso al nostro bastione d'illuminazione. Tutti quelli che arrivano da lontano per cercare tali conoscenze devono passarvi." },

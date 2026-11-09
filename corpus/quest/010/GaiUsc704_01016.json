@@ -2,18 +2,18 @@
   "conversation": "quest/010/GaiUsc704_01016",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/010/GaiUsc704_01016#TEXT_GAIUSC704_01016_SEQ_00", "hash": "F439547E804F43C0", "target": "" },
-    { "gameKey": "quest/010/GaiUsc704_01016#TEXT_GAIUSC704_01016_SEQ_01", "hash": "66A2BFA343FA917F", "target": "" },
-    { "gameKey": "quest/010/GaiUsc704_01016#TEXT_GAIUSC704_01016_SEQ_02", "hash": "B3C57EFF237A55C5", "target": "" },
-    { "gameKey": "quest/010/GaiUsc704_01016#TEXT_GAIUSC704_01016_TODO_00", "hash": "55CE204C7A2D5872", "target": "" },
-    { "gameKey": "quest/010/GaiUsc704_01016#TEXT_GAIUSC704_01016_ARENVALD_000_000", "hash": "ED6706A85319C9B6", "target": "" },
-    { "gameKey": "quest/010/GaiUsc704_01016#TEXT_GAIUSC704_01016_ARENVALD_000_001", "hash": "A1F48343A02B4E5A", "target": "" },
-    { "gameKey": "quest/010/GaiUsc704_01016#TEXT_GAIUSC704_01016_ARENVALD_000_002", "hash": "AAB1487E1B1EBFFB", "target": "" },
-    { "gameKey": "quest/010/GaiUsc704_01016#TEXT_GAIUSC704_01016_ARENVALD_000_003", "hash": "ED556406D2B545A8", "target": "" },
-    { "gameKey": "quest/010/GaiUsc704_01016#TEXT_GAIUSC704_01016_ARENVALD_000_004", "hash": "F85D3E3FB42A5109", "target": "" },
-    { "gameKey": "quest/010/GaiUsc704_01016#TEXT_GAIUSC704_01016_ARENVALD_000_005", "hash": "F737ABC92C91B2C2", "target": "" },
-    { "gameKey": "quest/010/GaiUsc704_01016#TEXT_GAIUSC704_01016_UODHNUN_000_020", "hash": "5897F7D482612DB3", "target": "" },
-    { "gameKey": "quest/010/GaiUsc704_01016#TEXT_GAIUSC704_01016_UODHNUN_000_021", "hash": "6AB3A46C64D228F0", "target": "" },
-    { "gameKey": "quest/010/GaiUsc704_01016#TEXT_GAIUSC704_01016_UODHNUN_000_022", "hash": "824C785F7C7F63C3", "target": "" }
+    { "gameKey": "quest/010/GaiUsc704_01016#TEXT_GAIUSC704_01016_SEQ_00", "hash": "F439547E804F43C0", "target": "Arenvald desidera il tuo aiuto per mettere in atto un suo piano." },
+    { "gameKey": "quest/010/GaiUsc704_01016#TEXT_GAIUSC704_01016_SEQ_01", "hash": "66A2BFA343FA917F", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Questa missione è stata modificata. Abbandonala e ricomincia parlando con Wigstan alle Sabbie del Risveglio.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/010/GaiUsc704_01016#TEXT_GAIUSC704_01016_SEQ_02", "hash": "B3C57EFF237A55C5", "target": "U'odh Nunh ha ascoltato la tua richiesta. Anche se il nunh non è contrario al piano, dubita che gli altri membri della tribù siano altrettanto desiderosi di collaborare." },
+    { "gameKey": "quest/010/GaiUsc704_01016#TEXT_GAIUSC704_01016_TODO_00", "hash": "55CE204C7A2D5872", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Questa missione è stata modificata. Abbandonala e ricomincia parlando con Wigstan alle Sabbie del Risveglio.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/010/GaiUsc704_01016#TEXT_GAIUSC704_01016_ARENVALD_000_000", "hash": "ED6706A85319C9B6", "target": "I miei cari amici A'aba e Aulie si unirono agli Eredi con una passione ardente per liberare questo regno dalle tenebre, una passione che io non sono mai riuscito a trovare. Combatterono con coraggio e onore... Finché non poterono più combattere." },
+    { "gameKey": "quest/010/GaiUsc704_01016#TEXT_GAIUSC704_01016_ARENVALD_000_001", "hash": "A1F48343A02B4E5A", "target": "Io non sono mai valso molto sul campo di battaglia. Non volevo altro che onorare i miei compagni caduti e portare avanti la loro lotta, ma come?" },
+    { "gameKey": "quest/010/GaiUsc704_01016#TEXT_GAIUSC704_01016_ARENVALD_000_002", "hash": "AAB1487E1B1EBFFB", "target": "Un giorno ho capito. Potrò anche essere penosamente carente sul campo di battaglia, ma ho la mente abbastanza acuta. Ho deciso di elaborare un piano d'azione e reclutare alleati capaci per la nostra causa." },
+    { "gameKey": "quest/010/GaiUsc704_01016#TEXT_GAIUSC704_01016_ARENVALD_000_003", "hash": "ED556406D2B545A8", "target": "Una cosa mi è chiara: non possiamo permetterci che le tribù bestiali ci distraggano, mentre all'orizzonte si addensano nubi di tempesta ancora più sinistre. Perciò dobbiamo trovare alleati forti e leali per arginare la minaccia degli uomini-bestia." },
+    { "gameKey": "quest/010/GaiUsc704_01016#TEXT_GAIUSC704_01016_ARENVALD_000_004", "hash": "F85D3E3FB42A5109", "target": "Forse conoscete gli U? Sono una tribù di temibili cacciatori e cacciatrici, e sono convinto che sarebbero alleati preziosi nella battaglia contro gli Amalj'aa, se solo riuscissimo a conquistarli." },
+    { "gameKey": "quest/010/GaiUsc704_01016#TEXT_GAIUSC704_01016_ARENVALD_000_005", "hash": "F737ABC92C91B2C2", "target": "Gli U rispettano la forza più di ogni altra cosa: temo che preferirebbero sventrarmi anziché ascoltare il mio racconto. Ma voi... Se parlaste <italic(1)>voi<italic(0)>, vi ascolterebbero, ne sono certo. Perciò vi chiedo, <if(gnum4,amica mia,amico mio)>: raggiungete le Sorgenti Dimenticate e parlate con U'odh Nunh al mio posto." },
+    { "gameKey": "quest/010/GaiUsc704_01016#TEXT_GAIUSC704_01016_UODHNUN_000_020", "hash": "5897F7D482612DB3", "target": "Chi ha ucciso Titano è di ritorno. Vuoi qualcosa dagli U, sì? Che cosa cerchi?" },
+    { "gameKey": "quest/010/GaiUsc704_01016#TEXT_GAIUSC704_01016_UODHNUN_000_021", "hash": "6AB3A46C64D228F0", "target": "Quindi vuoi che ci uniamo alla vostra lotta contro gli Amalj'aa. Hmph. Agli U non piacciono gli uomini-lucertola, è vero. Ma gli U combattono soltanto le proprie battaglie." },
+    { "gameKey": "quest/010/GaiUsc704_01016#TEXT_GAIUSC704_01016_UODHNUN_000_022", "hash": "824C785F7C7F63C3", "target": "... Questo è ciò che diranno quelli della mia tribù. Io non sono contrario ad aiutarti, ma ti conosco meglio di loro." }
   ]
 }

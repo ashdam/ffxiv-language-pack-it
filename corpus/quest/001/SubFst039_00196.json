@@ -2,17 +2,17 @@
   "conversation": "quest/001/SubFst039_00196",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_SEQ_00", "hash": "9450A8744759E85A", "target": "" },
-    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_SEQ_01", "hash": "C16C4F572E80068A", "target": "" },
-    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_SEQ_02", "hash": "0D55F9C0E5A554A6", "target": "" },
-    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_SEQ_03", "hash": "EC3C2829A84E8368", "target": "" },
-    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_TODO_00", "hash": "8487593BE0FD51B5", "target": "" },
-    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_TODO_01", "hash": "84A606D7C1ED8F5E", "target": "" },
-    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_GALFRID_000_1", "hash": "9F51B9FD486ED388", "target": "" },
-    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_GALFRID_000_2", "hash": "0F60695603F6D0E3", "target": "" },
-    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_GALFRID_000_3", "hash": "213D2DB477BD6A18", "target": "" },
-    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_GALFRID_000_10", "hash": "2C7A27C064ABA1A8", "target": "" },
-    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_GALFRID_000_11", "hash": "A21BD69FDCB5C5AE", "target": "" },
-    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_GALFRID_000_12", "hash": "CEBF4A58A646A4AA", "target": "" }
+    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_SEQ_00", "hash": "9450A8744759E85A", "target": "Galfrid, istruttore capo al Presidio del Bannock, desidera il tuo aiuto per addestrare le nuove reclute." },
+    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_SEQ_01", "hash": "C16C4F572E80068A", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Questa missione è stata aggiornata. Abbandonala e ricomincia parlando con Galfrid al Presidio del Bannock.<edgecolortype(0)><colortype(0)><br><br>※La Guida dello Scenario mostra la prossima missione disponibile. Puoi attivarla o disattivarla dalle Impostazioni personaggio, nella sezione Impostazioni IU." },
+    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_SEQ_02", "hash": "0D55F9C0E5A554A6", "target": "Hai sconfitto i tritoni neri. Vai a riferire a Galfrid al Presidio del Bannock." },
+    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_SEQ_03", "hash": "EC3C2829A84E8368", "target": "Dopo aver assistito alla tua dimostrazione di abilità, le reclute riprendono l'addestramento con rinnovato entusiasmo. Continua ad affinare le tue capacità, o un giorno le imprese dei soldati del Presidio del Bannock supereranno le tue." },
+    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_TODO_00", "hash": "8487593BE0FD51B5", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Questa missione è stata aggiornata. Abbandonala e ricomincia parlando con Galfrid al Presidio del Bannock.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_TODO_01", "hash": "84A606D7C1ED8F5E", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Questa missione è stata aggiornata. Abbandonala e ricomincia parlando con Galfrid al Presidio del Bannock.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_GALFRID_000_1", "hash": "9F51B9FD486ED388", "target": "Posso parlarti un momento? C'è una questione spinosa in cui avrei bisogno del tuo aiuto." },
+    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_GALFRID_000_2", "hash": "0F60695603F6D0E3", "target": "Il fiume qui vicino è abitato da una colonia di tritoni neri. Avevo mandato un gruppo di reclute a eliminarli, ma poco dopo sono tornati tutti a mani vuote, in preda al panico, lamentandosi ad alta voce di essere stati mandati ad affrontare simili «orrori nati dall'inferno»." },
+    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_GALFRID_000_3", "hash": "213D2DB477BD6A18", "target": "Patetico. La mia bisnonna sarebbe riuscita a eliminare un tritone nero con il suo bastone da passeggio e una parola severa. Non posso credere che un intero gruppo di uomini e donne in salute si sia lasciato intimorire da una simile prova. Mostra a questi fifoni come si fa: vai al fiume e sconfiggi quattro di quelle creature." },
+    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_GALFRID_000_10", "hash": "2C7A27C064ABA1A8", "target": "Eccoti di ritorno, <split(<string(gstr1)>, ,1)>. Hai svolto il compito egregiamente." },
+    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_GALFRID_000_11", "hash": "A21BD69FDCB5C5AE", "target": "Ho fatto assistere le mie reclute dalle rive mentre sconfiggevi i tritoni neri. A quanto pare, la tua abilità in battaglia le ha ispirate." },
+    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_GALFRID_000_12", "hash": "CEBF4A58A646A4AA", "target": "Oppure non volevano sfigurare davanti a un avventuriero. Poco importa. Ciò che <italic(1)>conta<italic(0)> è che abbiano ripreso l'addestramento con rinnovato zelo e che io debba ringraziare te. Ti sono debitore." }
   ]
 }

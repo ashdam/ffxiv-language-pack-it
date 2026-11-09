@@ -2,17 +2,17 @@
   "conversation": "quest/004/SubSea052_00464",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_SEQ_00", "hash": "8A353F10BBE1BBBA", "target": "" },
-    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_SEQ_01", "hash": "611E6C5A60784530", "target": "" },
-    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_SEQ_02", "hash": "DF311976CAE1D108", "target": "" },
-    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_SEQ_03", "hash": "E5422CC0C4768246", "target": "" },
-    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_TODO_00", "hash": "1E1EFCEEB37FFB3F", "target": "" },
-    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_TODO_01", "hash": "BFC1F0F619889E54", "target": "" },
-    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_GURCANT_000_1", "hash": "E3CF0C1D6D46F058", "target": "" },
-    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_GURCANT_000_2", "hash": "232F4C1C3EB48664", "target": "" },
-    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_GURCANT_000_3", "hash": "FDF08427645A6981", "target": "" },
-    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_GURCANT_000_4", "hash": "33A49BEB6D36CD75", "target": "" },
-    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_GURCANT_000_11", "hash": "AFA6E88788BE62A3", "target": "" },
-    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_GURCANT_000_12", "hash": "F7042CFF2EC9AB33", "target": "" }
+    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_SEQ_00", "hash": "8A353F10BBE1BBBA", "target": "Gurcant ha messo gli occhi su nuovi terreni fertili per le Fattorie di Guado d'Estate, ma i parassiti ostacolano il suo lavoro nei campi." },
+    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_SEQ_01", "hash": "611E6C5A60784530", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Questa missione è stata aggiornata. Abbandonala e ricomincia parlando con Staelwyrn o Gurcant alle Fattorie di Guado d'Estate, a seconda dei tuoi progressi.<edgecolortype(0)><colortype(0)><br><br>※La Guida dello Scenario mostra la prossima missione disponibile. Puoi attivarla o disattivarla dalle Impostazioni personaggio, nella sezione Impostazioni IU." },
+    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_SEQ_02", "hash": "DF311976CAE1D108", "target": "I campi sono pronti per l'aratura. Porta la buona notizia a Gurcant." },
+    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_SEQ_03", "hash": "E5422CC0C4768246", "target": "Gurcant si rammarica di dover chiedere aiuto a degli estranei, soprattutto con tutti quegli ex bucanieri che bighellonano da queste parti. Nonostante tutto, ti è grato per l'aiuto." },
+    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_TODO_00", "hash": "1E1EFCEEB37FFB3F", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Questa missione è stata aggiornata. Abbandonala e accettala di nuovo per ricominciare.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_TODO_01", "hash": "BFC1F0F619889E54", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Questa missione è stata aggiornata. Abbandonala e accettala di nuovo per ricominciare.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_GURCANT_000_1", "hash": "E3CF0C1D6D46F058", "target": "Maledizione! Come può un botanico lavorare sul campo se non ha nemmeno un campo su cui lavorare?" },
+    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_GURCANT_000_2", "hash": "232F4C1C3EB48664", "target": "I vecchi pirati vanno anche bene quando c'è da saccheggiare e depredare un campo, ma non quando bisogna ararlo." },
+    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_GURCANT_000_3", "hash": "FDF08427645A6981", "target": "Un orticoltore solitario come me difficilmente incute timore ai mostri, ma dal tuo passo direi che <italic(1)>tu<italic(0)> potresti riuscirci." },
+    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_GURCANT_000_4", "hash": "33A49BEB6D36CD75", "target": "Ti sarei molto grato se liberassi il campo da qualche mandragora. Con cinque di quelle bestiole germogliate in meno a vagare qui intorno, sono certo che potrei tornare al lavoro." },
+    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_GURCANT_000_11", "hash": "AFA6E88788BE62A3", "target": "Ma guarda un po'! Hai già fatto più di tutta quella banda di lumache di mare pigre messa insieme." },
+    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_GURCANT_000_12", "hash": "F7042CFF2EC9AB33", "target": "Se solo passassero a dimostrare quanto valgono almeno la metà del tempo che passano a dirlo!" }
   ]
 }

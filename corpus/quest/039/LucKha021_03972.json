@@ -2,10 +2,10 @@
   "conversation": "quest/039/LucKha021_03972",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/039/LucKha021_03972#TEXT_LUCKHA021_03972_AUGEBERT_000_000", "hash": "C6E4DAC165410331", "target": "" },
-    { "gameKey": "quest/039/LucKha021_03972#TEXT_LUCKHA021_03972_AUGEBERT_000_001", "hash": "4597DC2B287D221E", "target": "" },
-    { "gameKey": "quest/039/LucKha021_03972#TEXT_LUCKHA021_03972_AUGEBERT_000_002", "hash": "D1B9132CEE64887A", "target": "" },
-    { "gameKey": "quest/039/LucKha021_03972#TEXT_LUCKHA021_03972_AUGEBERT_000_003", "hash": "B20BD11E990DB9BE", "target": "" },
-    { "gameKey": "quest/039/LucKha021_03972#TEXT_LUCKHA021_03972_AUGEBERT_000_004", "hash": "C69C236424FC35C4", "target": "" }
+    { "gameKey": "quest/039/LucKha021_03972#TEXT_LUCKHA021_03972_AUGEBERT_000_000", "hash": "C6E4DAC165410331", "target": "Ma guarda chi si vede, <split(<string(gstr1)>, ,1)>! Guardati intorno e ammira Piumacaduta, il nuovo quartiere del Firmamento, ora aperto al pubblico! E non c'è bisogno di dirlo: senza di te non ce l'avremmo mai fatta." },
+    { "gameKey": "quest/039/LucKha021_03972#TEXT_LUCKHA021_03972_AUGEBERT_000_001", "hash": "4597DC2B287D221E", "target": "Come probabilmente già sai, Piumacaduta diventerà il quartiere commerciale del Firmamento. Qui troverai una succursale della Manifattura dell'Acciaio Celeste, un'imponente residenza che chiamiamo Salone della Brina e un vivace mercato dove mercanti e bottegai vendono prodotti provenienti da ogni angolo del regno." },
+    { "gameKey": "quest/039/LucKha021_03972#TEXT_LUCKHA021_03972_AUGEBERT_000_002", "hash": "D1B9132CEE64887A", "target": "Già, mercanti, artigiani e manovali non fanno che bussare alla nostra porta, sperando di stabilirsi qui. E non li biasimo: quasi quasi mi trasferisco qui anch'io!" },
+    { "gameKey": "quest/039/LucKha021_03972#TEXT_LUCKHA021_03972_AUGEBERT_000_003", "hash": "B20BD11E990DB9BE", "target": "Lord Francel è convinto che sia solo questione di tempo prima che Piumacaduta diventi il cuore pulsante del Firmamento. E, a giudicare da come vanno le cose, direi che ci siamo già quasi!" },
+    { "gameKey": "quest/039/LucKha021_03972#TEXT_LUCKHA021_03972_AUGEBERT_000_004", "hash": "C69C236424FC35C4", "target": "Certo, i lavori sono ancora in corso e c'è molto da costruire e restaurare. Se ci aiuterai a mantenere un flusso costante di rifornimenti, te ne saremo grati come sempre." }
   ]
 }

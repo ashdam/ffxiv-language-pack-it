@@ -2,17 +2,17 @@
   "conversation": "quest/001/SubFst042_00198",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_SEQ_00", "hash": "C9F7060D782F6E28", "target": "" },
-    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_SEQ_01", "hash": "AE9E1EB4FA3248F6", "target": "" },
-    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_SEQ_02", "hash": "F88ECC0CCA3F3FB4", "target": "" },
-    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_SEQ_03", "hash": "9E7FF7810ED0723C", "target": "" },
-    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_TODO_00", "hash": "D7721CA84826849A", "target": "" },
-    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_TODO_01", "hash": "87B1C638F5332C49", "target": "" },
-    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_PAULINE_000_1", "hash": "6FC81518F3597B56", "target": "" },
-    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_PAULINE_000_2", "hash": "86F0DFE7F81400AA", "target": "" },
-    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_PAULINE_000_3", "hash": "E889CC1A8C6EB31D", "target": "" },
-    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_PAULINE_000_10", "hash": "45ED3FF5291B887A", "target": "" },
-    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_PAULINE_000_11", "hash": "FFBF92109B7461D5", "target": "" },
-    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_PAULINE_000_12", "hash": "FECE1DC258F21BCD", "target": "" }
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_SEQ_00", "hash": "C9F7060D782F6E28", "target": "Pauline, incantatrice al Pergolato di Gabineaux, cerca una persona capace di ridurre il numero dei cinghialetti della zona." },
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_SEQ_01", "hash": "AE9E1EB4FA3248F6", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Questa missione è stata aggiornata. Abbandonala e ricomincia parlando con Pauline al Pergolato di Gabineaux.<edgecolortype(0)><colortype(0)><br><br>※La Guida dello Scenario mostra la prossima missione disponibile. Puoi attivarla o disattivarla dalle Impostazioni personaggio, nella sezione Impostazioni IU." },
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_SEQ_02", "hash": "F88ECC0CCA3F3FB4", "target": "Hai eliminato sei cinghialetti. Riferiscilo a Pauline al Pergolato di Gabineaux." },
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_SEQ_03", "hash": "9E7FF7810ED0723C", "target": "Pauline percepisce la gioia degli elementali per il tuo impegno nel ripristinare l'equilibrio naturale. Ogni piccola vittoria restituisce stabilità al ciclo vitale del Bosco." },
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_TODO_00", "hash": "D7721CA84826849A", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Questa missione è stata aggiornata. Abbandonala e ricomincia parlando con Pauline al Pergolato di Gabineaux.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_TODO_01", "hash": "87B1C638F5332C49", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Questa missione è stata aggiornata. Abbandonala e ricomincia parlando con Pauline al Pergolato di Gabineaux.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_PAULINE_000_1", "hash": "6FC81518F3597B56", "target": "Se hai un po' di tempo, <split(<string(gstr1)>, ,1)>, vorrei che riducessi il numero di cinghialetti a Lacrimaverde." },
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_PAULINE_000_2", "hash": "86F0DFE7F81400AA", "target": "Queste bestie hanno sempre abitato il Bosco dei Dodici, ma ultimamente hanno un appetito così insaziabile che temo possano divorare tutte le ghiande sul suolo della foresta. Il ciclo della vita non può sostenere un simile eccesso." },
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_PAULINE_000_3", "hash": "E889CC1A8C6EB31D", "target": "Ti chiedo di ucciderne almeno sei. Ti assicuro che il loro sacrificio servirà al bene superiore del Bosco dei Dodici." },
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_PAULINE_000_10", "hash": "45ED3FF5291B887A", "target": "Sì... gli elementali gioiscono per il tuo operato." },
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_PAULINE_000_11", "hash": "FFBF92109B7461D5", "target": "La vita della foresta dipende da un delicato equilibrio e la proliferazione incontrollata delle bestie porterebbe alla morte lenta ma certa del Bosco dei Dodici. È nostro dovere ristabilire l'equilibrio, e farlo in fretta, anche se significa spargere sangue..." },
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_PAULINE_000_12", "hash": "FECE1DC258F21BCD", "target": "Può sembrare cosa da poco, ma oggi hai reso un servizio fondamentale. Che gli elementali benedicano le tue future imprese." }
   ]
 }

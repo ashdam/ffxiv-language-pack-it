@@ -2,7 +2,7 @@
   "conversation": "quest/034/LucKzd019_03426",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKzd019_03426#TEXT_LUCKZD019_03426_SEQ_00", "hash": "DA01D1EDA28B829C", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Il pixie in attesa è stufo marcio di aspettare." },
+    { "gameKey": "quest/034/LucKzd019_03426#TEXT_LUCKZD019_03426_SEQ_00", "hash": "DA01D1EDA28B829C", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Il pixie in attesa è stufo marcio di aspettare." },
     { "gameKey": "quest/034/LucKzd019_03426#TEXT_LUCKZD019_03426_TODO_00", "hash": "936D9C9AF454FBD9", "target": "Parlare con il pixie che cerca" },
     { "gameKey": "quest/034/LucKzd019_03426#TEXT_LUCKZD019_03426_TODO_01", "hash": "08584B7F30B0C043", "target": "Con la chat in modalità <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, inserire «Beaver» per avvisare il pixie nascosto che il gioco è finito" },
     { "gameKey": "quest/034/LucKzd019_03426#TEXT_LUCKZD019_03426_TODO_02", "hash": "AA51314242FAA81C", "target": "Fare rapporto al pixie che cerca" },

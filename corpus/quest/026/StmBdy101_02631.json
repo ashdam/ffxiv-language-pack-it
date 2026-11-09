@@ -35,6 +35,6 @@
     { "gameKey": "quest/026/StmBdy101_02631#TEXT_STMBDY101_02631_TSURUBAMI_000_040", "hash": "F96BA6F2E96E274C", "target": "Ah, eccovi, <if(gnum4,signorina,signor)> Ijin! Allora, cosa avete scoperto su Shirogane?" },
     { "gameKey": "quest/026/StmBdy101_02631#TEXT_STMBDY101_02631_TSURUBAMI_000_041", "hash": "E17EBFA9973C6967", "target": "Oh, sembra un posto davvero incantevole! Sì, credo proprio che mi piacerebbe vivere là. La vostra vivida descrizione mi ha del tutto convinta." },
     { "gameKey": "quest/026/StmBdy101_02631#TEXT_STMBDY101_02631_TSURUBAMI_000_042", "hash": "D9D2321B2197ACFF", "target": "Il divieto per la gente del posto di acquistare terreni non è un problema─mi basta trovare un marito straniero. Se conoscete qualcuno, me lo presenterete, vero?" },
-    { "gameKey": "quest/026/StmBdy101_02631#TEXT_STMBDY101_02631_SYSTEM_000_050", "hash": "F7DCFD86F1914CC6", "target": "Puoi accedere all'Aethernet del quartiere residenziale di Shirogane tramite l'eterite di Kugane." }
+    { "gameKey": "quest/026/StmBdy101_02631#TEXT_STMBDY101_02631_SYSTEM_000_050", "hash": "F7DCFD86F1914CC6", "target": "Puoi accedere all'Eternet del quartiere residenziale di Shirogane tramite l'eterite di Kugane." }
   ]
 }

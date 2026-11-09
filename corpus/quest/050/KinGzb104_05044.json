@@ -2,7 +2,7 @@
   "conversation": "quest/050/KinGzb104_05044",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_SEQ_00", "hash": "C1F8FD5CA088445D", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Lo Yok Huy ferito sembra languire dal dolore." },
+    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_SEQ_00", "hash": "C1F8FD5CA088445D", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Lo Yok Huy ferito sembra languire dal dolore." },
     { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_TODO_00", "hash": "DF44E3721721B9A5", "target": "Cercare il jar of pigment" },
     { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_TODO_01", "hash": "4987E4EF43E91CBC", "target": "Consegnare il jar of pigment allo Yok Huy ferito" },
     { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_INJUREDYOKFUY05044_000_000", "hash": "C3921D877D556E6D", "target": "Urrrgh... Un momento, se puoi, <if(gnum4,visitatrice,visitatore)>. Stavo andando dall'Eco di Worlar a consegnare pigmento a Sentinella, qui davanti." },

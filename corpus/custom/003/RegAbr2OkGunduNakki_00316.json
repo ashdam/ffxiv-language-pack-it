@@ -45,7 +45,7 @@
     { "gameKey": "custom/003/RegAbr2OkGunduNakki_00316#TEXT_REGABR2OKGUNDUNAKKI_00316_A4_000_001", "hash": "00A133E4A9309B91", "target": "Come stanno i Gundu?" },
     { "gameKey": "custom/003/RegAbr2OkGunduNakki_00316#TEXT_REGABR2OKGUNDUNAKKI_00316_A4_000_002", "hash": "89C083924D38BDDF", "target": "Che genere di posto è questo?" },
     { "gameKey": "custom/003/RegAbr2OkGunduNakki_00316#TEXT_REGABR2OKGUNDUNAKKI_00316_A4_000_003", "hash": "5F0BC6064C61A4C6", "target": "Niente." },
-    { "gameKey": "custom/003/RegAbr2OkGunduNakki_00316#TEXT_REGABR2OKGUNDUNAKKI_00316_LINUVALI_000_100", "hash": "6E990B4A418A80D5", "target": "I Gundu danzano notte e giorno, giorno e notte, unendo i nostri cuori e portando una prosperità mai vista. Non avremmo potuto farcela senza di te, <if(gnum4,amica,amico)>, e la nostra gratitudine è sconfinata quanto la vastità di Sea of Clouds." },
+    { "gameKey": "custom/003/RegAbr2OkGunduNakki_00316#TEXT_REGABR2OKGUNDUNAKKI_00316_LINUVALI_000_100", "hash": "6E990B4A418A80D5", "target": "I Gundu danzano notte e giorno, giorno e notte, unendo i nostri cuori e portando una prosperità mai vista. Non avremmo potuto farcela senza di te, <if(gnum4,amica,amico)>, e la nostra gratitudine è sconfinata quanto la vastità del Mar di Nuvole." },
     { "gameKey": "custom/003/RegAbr2OkGunduNakki_00316#TEXT_REGABR2OKGUNDUNAKKI_00316_LINUVALI_000_101", "hash": "06AB22F3EF2D3AD3", "target": "Inoltre, grazie a <split(<string(gstr1)>, ,1)>, abbiamo trovato nuovi amici che condividono i nostri ideali e i nostri sogni, per non parlare dell'amore per la danza. Linu Vali e Linu Vanu promettono di lavorare con i nuovi alleati per guidare i Gundu verso un futuro più luminoso del sole più splendente." }
   ]
 }

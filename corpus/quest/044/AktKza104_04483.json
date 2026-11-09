@@ -2,7 +2,7 @@
   "conversation": "quest/044/AktKza104_04483",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/044/AktKza104_04483#TEXT_AKTKZA104_04483_SEQ_00", "hash": "B7EA83D0430432F8", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Shaggles cerca una soluzione." },
+    { "gameKey": "quest/044/AktKza104_04483#TEXT_AKTKZA104_04483_SEQ_00", "hash": "B7EA83D0430432F8", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Shaggles cerca una soluzione." },
     { "gameKey": "quest/044/AktKza104_04483#TEXT_AKTKZA104_04483_SEQ_01", "hash": "7C25C70E7F5F6D7F", "target": "Shaggles è sconsolato perché non riesce a trovare un piano adatto per liberare l'Archeion dall'infestazione di tarli. N'welhi Tia suggerisce di usare /pet sul giovane troll per provare a risollevargli il morale.<br><br>※La difficoltà di questa missione è stata sincronizzata con il tuo livello attuale." },
     { "gameKey": "quest/044/AktKza104_04483#TEXT_AKTKZA104_04483_SEQ_02", "hash": "352E5B9E667C5555", "target": "Accarezzi teneramente Shaggles, ma non sembra particolarmente felice. Forse apprezzerà le tue intenzioni se userai di nuovo /pet." },
     { "gameKey": "quest/044/AktKza104_04483#TEXT_AKTKZA104_04483_SEQ_03", "hash": "A2303B1B226E5AEB", "target": "Dopo un po' di carezze, Shaggles comincia a sentirsi più simile a se stesso. Discutendone ancora, decide che tentare di soffocare i tarli sia la strada migliore." },
@@ -35,7 +35,7 @@
     { "gameKey": "quest/044/AktKza104_04483#TEXT_AKTKZA104_04483_A1_000_002", "hash": "3043F77FF3F74C4F", "target": "Mi concentro sulle loro debolezze." },
     { "gameKey": "quest/044/AktKza104_04483#TEXT_AKTKZA104_04483_A1_000_003", "hash": "9167F01CCAE4E0A7", "target": "Semplicemente... li finisco." },
     { "gameKey": "quest/044/AktKza104_04483#TEXT_AKTKZA104_04483_LITTLETROLL_000_026", "hash": "6EC8FA162F76233B", "target": "Ma non possiamo usare il nostro potente pesticida. I fumi provocherebbero un grrrande disastro..." },
-    { "gameKey": "quest/044/AktKza104_04483#TEXT_AKTKZA104_04483_LITTLETROLL_100_026", "hash": "3953A1ABC9A97B57", "target": "Aspetta, i fumi... Ecco, dobbiamo soffocare gli insetti!" },
+    { "gameKey": "quest/044/AktKza104_04483#TEXT_AKTKZA104_04483_LITTLETROLL_100_026", "hash": "3953A1ABC9A97B57", "target": "Aspetta, i fumi... Ecco, dobbiamo soffocare i vilomorfi!" },
     { "gameKey": "quest/044/AktKza104_04483#TEXT_AKTKZA104_04483_LITTLETROLL_000_027", "hash": "D741EE04BAB1032E", "target": "I tarli provengono da climi tropicali, quindi la loro debolezza sarà probabilmente il gelo. Ma se raffreddiamo troppo l'Archeion rischiamo di danneggiare i libri quando tutta l'umidità nell'aria si congela, grrr..." },
     { "gameKey": "quest/044/AktKza104_04483#TEXT_AKTKZA104_04483_LITTLETROLL_000_028", "hash": "13201EEEB035422F", "target": "Aspetta, l'aria... Privarli dell'aria necessaria a sopravvivere!" },
     { "gameKey": "quest/044/AktKza104_04483#TEXT_AKTKZA104_04483_LITTLETROLL_000_029", "hash": "5ECBFE43D07AFB99", "target": "Grrr! È molto macabro, grazie." },

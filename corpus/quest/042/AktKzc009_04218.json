@@ -2,7 +2,7 @@
   "conversation": "quest/042/AktKzc009_04218",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/042/AktKzc009_04218#TEXT_AKTKZC009_04218_SEQ_00", "hash": "CEB077EC49D12DAF", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>L'ufficiale degli approvvigionamenti vorrebbe conoscere le opinioni dei rifugiati." },
+    { "gameKey": "quest/042/AktKzc009_04218#TEXT_AKTKZC009_04218_SEQ_00", "hash": "CEB077EC49D12DAF", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>L'ufficiale degli approvvigionamenti vorrebbe conoscere le opinioni dei rifugiati." },
     { "gameKey": "quest/042/AktKzc009_04218#TEXT_AKTKZC009_04218_TODO_00", "hash": "5CFE27A149A52B85", "target": "Parlare con il rifugiato presso il treno deragliato" },
     { "gameKey": "quest/042/AktKzc009_04218#TEXT_AKTKZC009_04218_TODO_01", "hash": "5CDB2F382F83EAD8", "target": "Usare /pray presso il tumulo" },
     { "gameKey": "quest/042/AktKzc009_04218#TEXT_AKTKZC009_04218_TODO_02", "hash": "7D5B5289915CC284", "target": "Parlare con l'ufficiale degli approvvigionamenti" },
@@ -14,7 +14,7 @@
     { "gameKey": "quest/042/AktKzc009_04218#TEXT_AKTKZC009_04218_BLONDESUPPLYMEMBER04216_000_002", "hash": "D9CDD8B7957B4CF5", "target": "Mi hanno detto che si è diretto verso il relitto del treno imperiale. Potremmo aspettare il suo ritorno, ma sono già in ritardo. Se poteste farlo, aiutereste non solo me, ma tutti coloro che sono rimasti senza casa." },
     { "gameKey": "quest/042/AktKzc009_04218#TEXT_AKTKZC009_04218_BLONDESUPPLYMEMBER04216_100_002", "hash": "4C0792BF911B65D9", "target": "Scusatemi, ma se aveste un momento, sono del contingente e vorrei porvi qualche domanda..." },
     { "gameKey": "quest/042/AktKzc009_04218#TEXT_AKTKZC009_04218_JARECK_200_002", "hash": "F91AB25B493D4E07", "target": "Per quanto mi riguarda, saremo lieti di rispondere a qualsiasi domanda tu e la ragazza possiate avere. Avete già dimostrato di avere a cuore soltanto il nostro bene." },
-    { "gameKey": "quest/042/AktKzc009_04218#TEXT_AKTKZC009_04218_BLONDEPROVINCIAPEOPLE04218_000_010", "hash": "3FF5E857A5053EF3", "target": "Oh, non capita spesso di incontrare qualcun altro qui fuori. Se cerchi ceruleum, temo che questa zona sia già stata ripulita." },
+    { "gameKey": "quest/042/AktKzc009_04218#TEXT_AKTKZC009_04218_BLONDEPROVINCIAPEOPLE04218_000_010", "hash": "3FF5E857A5053EF3", "target": "Oh, non capita spesso di incontrare qualcun altro qui fuori. Se cerchi ceruleo, temo che questa zona sia già stata ripulita." },
     { "gameKey": "quest/042/AktKzc009_04218#TEXT_AKTKZC009_04218_Q1_000_000", "hash": "1D09211C0E914F28", "target": "Che cosa dirai?" },
     { "gameKey": "quest/042/AktKzc009_04218#TEXT_AKTKZC009_04218_A1_000_001", "hash": "920B7E36463C9846", "target": "Sono qui per chiederti se vuoi tornare nella tua terra natale." },
     { "gameKey": "quest/042/AktKzc009_04218#TEXT_AKTKZC009_04218_A1_000_002", "hash": "1444CDF82F31EDC8", "target": "Sono qui per chiederti se desideri lasciare Garlemald." },

@@ -2,15 +2,15 @@
   "conversation": "quest/055/JobXbm192_05501",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/055/JobXbm192_05501#TEXT_JOBXBM192_05501_SYSTEM_100_000", "hash": "F3DFF80FD77B6ABE", "target": "" },
-    { "gameKey": "quest/055/JobXbm192_05501#TEXT_JOBXBM192_05501_SYSTEM_110_000", "hash": "1D96B61AB41654B5", "target": "" },
-    { "gameKey": "quest/055/JobXbm192_05501#TEXT_JOBXBM192_05501_SYSTEM_120_000", "hash": "C6EB5E25D3C95C6A", "target": "" },
-    { "gameKey": "quest/055/JobXbm192_05501#TEXT_JOBXBM192_05501_SYLMOND_000_000", "hash": "572D07588E186808", "target": "" },
-    { "gameKey": "quest/055/JobXbm192_05501#TEXT_JOBXBM192_05501_SYLMOND_000_001", "hash": "A30FE9A399325E0A", "target": "" },
-    { "gameKey": "quest/055/JobXbm192_05501#TEXT_JOBXBM192_05501_SYLMOND_000_002", "hash": "BAE15CB5D5181048", "target": "" },
-    { "gameKey": "quest/055/JobXbm192_05501#TEXT_JOBXBM192_05501_SYLMOND_000_003", "hash": "A3F9AAE9D8A2C336", "target": "" },
-    { "gameKey": "quest/055/JobXbm192_05501#TEXT_JOBXBM192_05501_SYLMOND_000_004", "hash": "9F24DEC1FEE1E8E2", "target": "" },
-    { "gameKey": "quest/055/JobXbm192_05501#TEXT_JOBXBM192_05501_SYLMOND_000_005", "hash": "8FA728A3FC79A882", "target": "" },
-    { "gameKey": "quest/055/JobXbm192_05501#TEXT_JOBXBM192_05501_SYSTEM_000_020", "hash": "C2A7B9E6EC6B03E7", "target": "" }
+    { "gameKey": "quest/055/JobXbm192_05501#TEXT_JOBXBM192_05501_SYSTEM_100_000", "hash": "F3DFF80FD77B6ABE", "target": "Per intraprendere questa missione, devi prima soddisfare i seguenti requisiti:" },
+    { "gameKey": "quest/055/JobXbm192_05501#TEXT_JOBXBM192_05501_SYSTEM_110_000", "hash": "1D96B61AB41654B5", "target": "1. FINAL FANTASY XIV: Dawntrail deve essere registrato sul tuo account di servizio.<br>2. Devi essere un Domatore." },
+    { "gameKey": "quest/055/JobXbm192_05501#TEXT_JOBXBM192_05501_SYSTEM_120_000", "hash": "C6EB5E25D3C95C6A", "target": "3. Devi aver completato il Tabellone del Primo Maestro.<br>4. Devi aver stretto amicizia con almeno trenta bestie." },
+    { "gameKey": "quest/055/JobXbm192_05501#TEXT_JOBXBM192_05501_SYLMOND_000_000", "hash": "572D07588E186808", "target": "La tua prestazione nel Crogiolo è stata straordinaria. Siamo tutti in gran fermento!" },
+    { "gameKey": "quest/055/JobXbm192_05501#TEXT_JOBXBM192_05501_SYLMOND_000_001", "hash": "A30FE9A399325E0A", "target": "Dama Lauda più di tutti. Ultimamente è stata irrequieta e molto riservata... Ho scoperto che ha aggiunto un altro tabellone solo grazie ai miei sensi acutissimi!" },
+    { "gameKey": "quest/055/JobXbm192_05501#TEXT_JOBXBM192_05501_SYLMOND_000_002", "hash": "BAE15CB5D5181048", "target": "A quanto ho capito, su quel tabellone ti affronteranno la stessa Dama Lauda e Messere Guttler!" },
+    { "gameKey": "quest/055/JobXbm192_05501#TEXT_JOBXBM192_05501_SYLMOND_000_003", "hash": "A3F9AAE9D8A2C336", "target": "Ci puoi credere!? Sarà una rivincita senza precedenti!" },
+    { "gameKey": "quest/055/JobXbm192_05501#TEXT_JOBXBM192_05501_SYLMOND_000_004", "hash": "9F24DEC1FEE1E8E2", "target": "Di sicuro il duello ti sembrerà una questione personale, ma non abbassare la guardia. Insieme, quei due sono quasi imbattibili." },
+    { "gameKey": "quest/055/JobXbm192_05501#TEXT_JOBXBM192_05501_SYLMOND_000_005", "hash": "8FA728A3FC79A882", "target": "Tuttavia, ho piena fiducia che <italic(1)>tu<italic(0)> trionferai. Avanti, <if(gnum4,Dama,Messere)> <split(<string(gstr1)>, ,1)>, verso la vittoria!" },
+    { "gameKey": "quest/055/JobXbm192_05501#TEXT_JOBXBM192_05501_SYSTEM_000_020", "hash": "C2A7B9E6EC6B03E7", "target": "È stato sbloccato il Tabellone del Secondo Maestro. Per affrontarlo, parla con Lauda ai Prati di Ramostorto." }
   ]
 }

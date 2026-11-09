@@ -2,7 +2,7 @@
   "conversation": "quest/034/LucKzf004_03463",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKzf004_03463#TEXT_LUCKZF004_03463_SEQ_00", "hash": "A70C40B500CFF5AF", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Taina ti guarda come se avessi due teste." },
+    { "gameKey": "quest/034/LucKzf004_03463#TEXT_LUCKZF004_03463_SEQ_00", "hash": "A70C40B500CFF5AF", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Taina ti guarda come se avessi due teste." },
     { "gameKey": "quest/034/LucKzf004_03463#TEXT_LUCKZF004_03463_TODO_00", "hash": "D28E67EEC83B0968", "target": "Consegnare il bundle of arrows alle abitanti del villaggio" },
     { "gameKey": "quest/034/LucKzf004_03463#TEXT_LUCKZF004_03463_TODO_01", "hash": "3DF0DF4C3F7748F3", "target": "Parlare con Taina" },
     { "gameKey": "quest/034/LucKzf004_03463#TEXT_LUCKZF004_03463_TAINA_000_000", "hash": "E25EA991B58C01DE", "target": "Oh, perdona la mia scortesia. Immagino di averti <if(gnum4,fissata,fissato)> troppo. Non pensavo che avrei vissuto abbastanza da vedere <if(gnum4,un'alleata,un alleato)> di Ronka." },

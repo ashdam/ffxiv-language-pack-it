@@ -38,7 +38,7 @@
     { "gameKey": "quest/020/JobMnk580_02030#TEXT_JOBMNK580_02030_HRAHATIA_000_106", "hash": "4A540DA7AB38F291", "target": "Tchakha, ucciderai Widargelt e aprirai il settimo chakra." },
     { "gameKey": "quest/020/JobMnk580_02030#TEXT_JOBMNK580_02030_HRAHATIA_000_107", "hash": "42F799EB3392BEC7", "target": "Quando l'avrai fatto, torna da me e Zentsa non subirà alcun male." },
     { "gameKey": "quest/020/JobMnk580_02030#TEXT_JOBMNK580_02030_HRAHATIA_000_108", "hash": "35E922636D84489F", "target": "Quanto a voi, <if(gnum4,avventuriera,avventuriero)>, se giurerete di servirmi, libererò sia Zentsa sia Tchakha. Uno scambio equo, non trovate?" },
-    { "gameKey": "quest/020/JobMnk580_02030#TEXT_JOBMNK580_02030_HRAHATIA_000_109", "hash": "1983286B56A52B0D", "target": "Non dovete rispondere subito. Se accettate queste condizioni, venite alle rovine a sud di Little Ala Mhigo. Vi aspetterò lì." },
+    { "gameKey": "quest/020/JobMnk580_02030#TEXT_JOBMNK580_02030_HRAHATIA_000_109", "hash": "1983286B56A52B0D", "target": "Non dovete rispondere subito. Se accettate queste condizioni, venite alle rovine a sud di Piccola Ala Mhigo. Vi aspetterò lì." },
     { "gameKey": "quest/020/JobMnk580_02030#TEXT_JOBMNK580_02030_HRAHATIA_000_110", "hash": "933FC356A7901E4F", "target": "Pensateci, ma non troppo a lungo, o non posso garantire che resti molto di Zentsa da recuperare." },
     { "gameKey": "quest/020/JobMnk580_02030#TEXT_JOBMNK580_02030_WIDARGELT_000_120", "hash": "EDA079E98F4A2318", "target": "Maledetto!" },
     { "gameKey": "quest/020/JobMnk580_02030#TEXT_JOBMNK580_02030_WIDARGELT_000_200", "hash": "89B28433202D9B76", "target": "Ho provato a combatterlo. Ma era troppo forte. Molto più forte di quanto immaginassi." },

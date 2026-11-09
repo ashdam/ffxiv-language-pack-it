@@ -2,13 +2,13 @@
   "conversation": "quest/023/SubCts711_02387",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_WOODWAILERCAPTAIN01556_000_000", "hash": "6B7CDCAA501E0E18", "target": "" },
-    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_WOODWAILERCAPTAIN01556_000_001", "hash": "9E767A4ECE7B347E", "target": "" },
-    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_WOODWAILERCAPTAIN01556_000_002", "hash": "75CB6CF91304F65A", "target": "" },
-    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_WOODWAILERCAPTAIN01556_000_003", "hash": "11D68133E360CDF1", "target": "" },
-    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_WOODWAILERCAPTAIN01556_000_004", "hash": "4138D2277B1E26F6", "target": "" },
-    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_SYSTEM_000_010", "hash": "4B5D4004A2B88141", "target": "" },
-    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_WOODWAILERCAPTAIN01556_000_100", "hash": "5D3E472FB4232D1D", "target": "" },
-    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_SYSTEM_000_110", "hash": "4F5E0DEDF68A9BB5", "target": "" }
+    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_WOODWAILERCAPTAIN01556_000_000", "hash": "6B7CDCAA501E0E18", "target": "Ben trovato, avventuriero. Grazie alla tua diligenza, abbiamo ampliato il raggio delle nostre missioni di ricognizione nelle rovine. Purtroppo non abbiamo ancora trovato indizi su chi, o cosa, sia all'origine dei nostri problemi." },
+    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_WOODWAILERCAPTAIN01556_000_001", "hash": "9E767A4ECE7B347E", "target": "Hai detto che i non morti parlavano di una figura ammantata, giusto? Potrebbe essere lo spregevole stregone che ha dato vita al palazzo e ai suoi abitanti." },
+    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_WOODWAILERCAPTAIN01556_000_002", "hash": "75CB6CF91304F65A", "target": "Creare un simile labirinto e riempirlo con le anime di tanti innocenti... Ci troviamo di fronte a un nemico dotato di un potere oscuro e terribile." },
+    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_WOODWAILERCAPTAIN01556_000_003", "hash": "11D68133E360CDF1", "target": "Mi rincresce d'imporre a te questo incarico, ma, a nome delle Sentinelle del Bosco, ti chiedo di trovare il responsabile di tutto questo e porre fine alle sue macchinazioni. Non riesco a pensare a nessuno più capace di te." },
+    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_WOODWAILERCAPTAIN01556_000_004", "hash": "4138D2277B1E26F6", "target": "I miei uomini non sono abbastanza forti da affrontare le rovine al tuo fianco, ma faremo tutto il possibile per sostenerti qui a Cavamulino. Ora vai: scaccia il male del Palazzo dei Morti prima che i defunti riescano a raggiungere il Bosco dei Dodici." },
+    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_SYSTEM_000_010", "hash": "4B5D4004A2B88141", "target": "Ora puoi esplorare i piani oltre il 50 nel Palazzo dei Morti." },
+    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_WOODWAILERCAPTAIN01556_000_100", "hash": "5D3E472FB4232D1D", "target": "Hai condotto un'indagine approfondita sulle rovine: ottimo lavoro. Ma la strada che ci attende è sempre più pericolosa. Prima di lasciarti proseguire, vorrei accertarmi che tu abbia tutto il necessario per affrontare le sfide future." },
+    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_SYSTEM_000_110", "hash": "4F5E0DEDF68A9BB5", "target": "Per proseguire con la missione, devi prima soddisfare i seguenti requisiti:" }
   ]
 }

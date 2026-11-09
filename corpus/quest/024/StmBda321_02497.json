@@ -10,9 +10,9 @@
     { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_TODO_04", "hash": "A70EA76F115F4017", "target": "Trovare un posto adatto per il soldato imperiale" },
     { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_TODO_05", "hash": "3D2BA964B8B05DC1", "target": "Usare la medicina di Yugiri sul soldato imperiale" },
     { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_TODO_06", "hash": "034334E5A82FDF9A", "target": "Cercare Yugiri" },
-    { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_TODO_07", "hash": "E3A5117690BC08CA", "target": "Tornare alla House of the Fierce con Yugiri" },
+    { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_TODO_07", "hash": "E3A5117690BC08CA", "target": "Tornare alla Casa dei Fieri con Yugiri" },
     { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_SOLDIERC02495_000_000", "hash": "6C81DE0CDFAD7B95", "target": "..." },
-    { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_SOLDIERD02496_000_005", "hash": "8CB3B21355879502", "target": "Solo... solo qualche altro anno... \\<russare>" },
+    { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_SOLDIERD02496_000_005", "hash": "8CB3B21355879502", "target": "Solo... solo qualche altro anno... \\<zzz>" },
     { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_YUGIRI_000_010", "hash": "0585C23C598F1190", "target": "..." },
     { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_YUGIRI_000_011", "hash": "C1D9C565CCC02AAC", "target": "Perdonatemi, <split(<string(gstr1)>, ,1)>. Ero... persa nei miei pensieri." },
     { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_YUGIRI_000_012", "hash": "04DAAEC69A5B5A05", "target": "Forse hanno ragione loro. Forse siamo <if(gnum4,stolte,stolti)> a esortarli a sollevarsi ancora. Eppure credo─<italic(1)>devo<italic(0)> credere─che nel profondo del cuore loro... loro ancora..." },
@@ -20,8 +20,8 @@
     { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_YUGIRI_000_014", "hash": "82061C235F0ECEF4", "target": "Ho con me una potente medicina che confonde la mente e i ricordi. Dobbiamo somministrarla ai soldati prima che si sveglino." },
     { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_YUGIRI_000_015", "hash": "4F6110F5F1C6335D", "target": "La medicina lascerà i soldati confusi e incapaci di ricordare chiaramente gli ultimi eventi. Penseranno di essersi addormentati durante il turno di guardia e saranno restii a parlarne con gli altri." },
     { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_YUGIRI_000_016", "hash": "9D067FE2611F8112", "target": "È soltanto una misura temporanea, ma per il bene degli abitanti non osiamo ucciderli. Occupatevi degli ultimi due che ho addormentato─io penserò agli altri." },
-    { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_SOLDIERC02495_000_020", "hash": "C897CC5AF618E348", "target": "\\<russare> ...<if(gnum4,Mamma,Papà)>, sei tu...?" },
-    { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_SOLDIERD02496_000_030", "hash": "3B6D251E40178DBB", "target": "Io... voglio tornare a casa... \\<russare>" },
+    { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_SOLDIERC02495_000_020", "hash": "C897CC5AF618E348", "target": "\\<zzz> ...<if(gnum4,Mamma,Papà)>, sei tu...?" },
+    { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_SOLDIERD02496_000_030", "hash": "3B6D251E40178DBB", "target": "Io... voglio tornare a casa... \\<zzz>" },
     { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_YUGIRI_000_040", "hash": "7A03CA8D509B2DF5", "target": "Presto, presto! Dobbiamo raccontare agli altri di questa aeronave, o sentire cosa ne sanno!" }
   ]
 }

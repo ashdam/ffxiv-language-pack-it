@@ -2,7 +2,7 @@
   "conversation": "quest/051/KinGzf002_05150",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/051/KinGzf002_05150#TEXT_KINGZF002_05150_SEQ_00", "hash": "79C31A21020C4CFA", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Pawkwena ha un problema di scelta delle verdure." },
+    { "gameKey": "quest/051/KinGzf002_05150#TEXT_KINGZF002_05150_SEQ_00", "hash": "79C31A21020C4CFA", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Pawkwena ha un problema di scelta delle verdure." },
     { "gameKey": "quest/051/KinGzf002_05150#TEXT_KINGZF002_05150_TODO_00", "hash": "2851D51916EF1D3C", "target": "Parlare con Shepimenye" },
     { "gameKey": "quest/051/KinGzf002_05150#TEXT_KINGZF002_05150_TODO_01", "hash": "2E42540CEF9CD730", "target": "Scegliere una verdura" },
     { "gameKey": "quest/051/KinGzf002_05150#TEXT_KINGZF002_05150_TODO_02", "hash": "EF70F6A865F2637A", "target": "Consegnare il sacco di verdure a Pawkwena" },
@@ -29,7 +29,7 @@
     { "gameKey": "quest/051/KinGzf002_05150#TEXT_KINGZF002_05150_PAWKWENA_000_014", "hash": "F241D39B549C8EFF", "target": "Perfetto! Dovrei avere tutti gli ingredienti per una zuppa di zucca leggera e dolce." },
     { "gameKey": "quest/051/KinGzf002_05150#TEXT_KINGZF002_05150_PAWKWENA_000_015", "hash": "B9E8B24455765DD4", "target": "Eccellente! Sembra che il menù preveda popoto dolci al forno." },
     { "gameKey": "quest/051/KinGzf002_05150#TEXT_KINGZF002_05150_PAWKWENA_000_016", "hash": "7743B936B9212F18", "target": "È un piatto tradizionale di Yyasulani tramandato da generazioni. Ancora oggi è piuttosto popolare." },
-    { "gameKey": "quest/051/KinGzf002_05150#TEXT_KINGZF002_05150_PAWKWENA_000_017", "hash": "1FCA8C52312920A4", "target": "Preparato con le nostre verdure appena raccolte, mi fa sentire più vicina alla natura a ogni boccone, qualcosa che non proverai con il cibo prodotto a Everkeep." },
+    { "gameKey": "quest/051/KinGzf002_05150#TEXT_KINGZF002_05150_PAWKWENA_000_017", "hash": "1FCA8C52312920A4", "target": "Preparato con le nostre verdure appena raccolte, mi fa sentire più vicina alla natura a ogni boccone, qualcosa che non proverai con il cibo prodotto a Roccaeterna." },
     { "gameKey": "quest/051/KinGzf002_05150#TEXT_KINGZF002_05150_PAWKWENA_000_018", "hash": "8D409CFE92DE03AB", "target": "Comunque, grazie per avermi assecondata. Ecco, prendi questo, il cibo già pronto non ti dispiace, vero?" }
   ]
 }

@@ -12,7 +12,7 @@
     { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_001", "hash": "11753E503DE3314C", "target": "Gli orobon che nuotano intorno al sito disturbano il lavoro dei taumaturghi, quindi dobbiamo sterminarli." },
     { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_002", "hash": "63C1FBD7B4BB4B22", "target": "Puoi aiutarci uccidendo sei di quelle bestie. Avvertimi quando hai finito." },
     { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_010", "hash": "59004FA393A5E56F", "target": "Ti ringrazio, <if(gnum4,avventuriera,avventuriero)>. Sei orobon in meno a infastidire i nostri ospiti." },
-    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_011", "hash": "08642CA6E2690649", "target": "A dire il vero, i taumaturghi potevano portarsi una scorta dalla città. Ma visto che volevano curiosare in rovine così vicine a Horizon, gli ufficiali hanno deciso che saremmo stati responsabili di ogni incidente. Ed eccoci qui." },
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_011", "hash": "08642CA6E2690649", "target": "A dire il vero, i taumaturghi potevano portarsi una scorta dalla città. Ma visto che volevano curiosare in rovine così vicine a Orizzonte, gli ufficiali hanno deciso che saremmo stati responsabili di ogni incidente. Ed eccoci qui." },
     { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_012", "hash": "3CBF94D5227C98B2", "target": "Non è un lavoro così pesante, ma dobbiamo restare in guardia. Se un orobon mordicchia anche solo un dito dei loro piedi, rischiamo di perdere tutti i nostri." }
   ]
 }

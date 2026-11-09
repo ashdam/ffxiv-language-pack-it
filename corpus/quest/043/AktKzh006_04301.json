@@ -2,7 +2,7 @@
   "conversation": "quest/043/AktKzh006_04301",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/043/AktKzh006_04301#TEXT_AKTKZH006_04301_SEQ_00", "hash": "C6B537FB54501669", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Meleagros ha una richiesta per te." },
+    { "gameKey": "quest/043/AktKzh006_04301#TEXT_AKTKZH006_04301_SEQ_00", "hash": "C6B537FB54501669", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Meleagros ha una richiesta per te." },
     { "gameKey": "quest/043/AktKzh006_04301#TEXT_AKTKZH006_04301_TODO_00", "hash": "A50836562247D713", "target": "Parlare con i ricercatori dell'Akadaemia e ottenere gli approved concept" },
     { "gameKey": "quest/043/AktKzh006_04301#TEXT_AKTKZH006_04301_TODO_01", "hash": "836AE99A23FB43AD", "target": "Consegnare gli approved concept a Meleagros" },
     { "gameKey": "quest/043/AktKzh006_04301#TEXT_AKTKZH006_04301_MELEAGROS_000_000", "hash": "50F7E4FA04E17A83", "target": "Sei un famiglio, vero? Tempismo perfetto! Oggi devono arrivare due ricercatori da Amaurot e mi serve che tu ritiri i loro concetti." },

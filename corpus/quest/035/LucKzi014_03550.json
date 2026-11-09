@@ -2,7 +2,7 @@
   "conversation": "quest/035/LucKzi014_03550",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzi014_03550#TEXT_LUCKZI014_03550_SEQ_00", "hash": "98050261511DEEBC", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>L'inventore Tholl cerca l'aiuto di una persona esterna." },
+    { "gameKey": "quest/035/LucKzi014_03550#TEXT_LUCKZI014_03550_SEQ_00", "hash": "98050261511DEEBC", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>L'inventore Tholl cerca l'aiuto di una persona esterna." },
     { "gameKey": "quest/035/LucKzi014_03550#TEXT_LUCKZI014_03550_TODO_00", "hash": "3B3D9762F87F0354", "target": "Parlare con l'inventore Tholl" },
     { "gameKey": "quest/035/LucKzi014_03550#TEXT_LUCKZI014_03550_TODO_01", "hash": "34F51F50DD75D7BB", "target": "Con la chat in modalità <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, inserire una frase contenente «Lali-ho» per distrarre le sentinelle Gogg" },
     { "gameKey": "quest/035/LucKzi014_03550#TEXT_LUCKZI014_03550_TODO_02", "hash": "9541A819A87DA545", "target": "Parlare con l'inventore Tholl" },

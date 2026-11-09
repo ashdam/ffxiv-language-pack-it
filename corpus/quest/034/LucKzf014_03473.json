@@ -2,7 +2,7 @@
   "conversation": "quest/034/LucKzf014_03473",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKzf014_03473#TEXT_LUCKZF014_03473_SEQ_00", "hash": "AD3DC6DAD3BA2280", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Qualcosa attira l'attenzione della cacciatrice vigile verso i boschi." },
+    { "gameKey": "quest/034/LucKzf014_03473#TEXT_LUCKZF014_03473_SEQ_00", "hash": "AD3DC6DAD3BA2280", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Qualcosa attira l'attenzione della cacciatrice vigile verso i boschi." },
     { "gameKey": "quest/034/LucKzf014_03473#TEXT_LUCKZF014_03473_TODO_00", "hash": "79E8D323EC85077A", "target": "Parlare con la cavallerizza di jaculus preoccupata" },
     { "gameKey": "quest/034/LucKzf014_03473#TEXT_LUCKZF014_03473_TODO_01", "hash": "32821B1961EF5EC9", "target": "Usare le healing herbs sul jaculus" },
     { "gameKey": "quest/034/LucKzf014_03473#TEXT_LUCKZF014_03473_TODO_02", "hash": "EB35D1F8B93E9379", "target": "Parlare con la cacciatrice vigile" },
@@ -20,7 +20,7 @@
     { "gameKey": "quest/034/LucKzf014_03473#TEXT_LUCKZF014_03473_GRIFFIN03473_000_020", "hash": "0E35A9F1C219B7EC", "target": "Crawww..." },
     { "gameKey": "quest/034/LucKzf014_03473#TEXT_LUCKZF014_03473_TRAINERVIIS03473_000_021", "hash": "1642DA339E89C547", "target": "Starai bene." },
     { "gameKey": "quest/034/LucKzf014_03473#TEXT_LUCKZF014_03473_TRAINERVIIS03473_000_022", "hash": "B0181D2289189DEC", "target": "Una raffica di frecce l'ha abbattuto. All'inizio non capivo: la mia gente non farebbe mai una cosa simile." },
-    { "gameKey": "quest/034/LucKzf014_03473#TEXT_LUCKZF014_03473_TRAINERVIIS03473_000_023", "hash": "4519DECC44BCAB9F", "target": "Ma, guardando meglio, ho notato che le punte delle frecce erano d'oro. Solo i Figli dell'Oscurità Eterna userebbero armi tanto vistose. Sono diventati audaci dall'attacco degli eulmorani. Forse troppo..." },
+    { "gameKey": "quest/034/LucKzf014_03473#TEXT_LUCKZF014_03473_TRAINERVIIS03473_000_023", "hash": "4519DECC44BCAB9F", "target": "Ma, guardando meglio, ho notato che le punte delle frecce erano d'oro. Solo i Figli del Buio Eterno userebbero armi tanto vistose. Sono diventati audaci dall'attacco degli eulmorani. Forse troppo..." },
     { "gameKey": "quest/034/LucKzf014_03473#TEXT_LUCKZF014_03473_TRAINERVIIS03473_000_024", "hash": "6EF7D32BEBCA059E", "target": "Un motivo in più per restare vigili. Grazie dell'aiuto. Ti prego di dire agli altri che il jaculus è al sicuro. Vorrei restare qui ancora un po'." },
     { "gameKey": "quest/034/LucKzf014_03473#TEXT_LUCKZF014_03473_GRIFFIN03473_000_025", "hash": "6479C18244943D15", "target": "Crawww..." },
     { "gameKey": "quest/034/LucKzf014_03473#TEXT_LUCKZF014_03473_TRAINERVIIS03473_000_026", "hash": "C9AF53B5627B19D8", "target": "Non devi preoccuparti per noi. Va' a dire agli altri che qui va tutto bene." },

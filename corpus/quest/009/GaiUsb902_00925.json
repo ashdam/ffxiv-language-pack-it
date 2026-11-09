@@ -2,17 +2,17 @@
   "conversation": "quest/009/GaiUsb902_00925",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_SEQ_00", "hash": "BF7324774D54EAB0", "target": "" },
-    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_SEQ_01", "hash": "34AAE9D1129CEF22", "target": "" },
-    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_SEQ_02", "hash": "663D48000D20DA1A", "target": "" },
-    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_SEQ_03", "hash": "7C039ECEA7B9CD0E", "target": "" },
-    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_TODO_00", "hash": "B7AB3C1B8C06CCA3", "target": "" },
-    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_TODO_01", "hash": "23030F0E73CD1E2F", "target": "" },
-    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_BENEDICT_000_000", "hash": "9D906E8D77AD4A9C", "target": "" },
-    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_BENEDICT_000_001", "hash": "1331569AE9736D06", "target": "" },
-    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_BENEDICT_000_002", "hash": "9D151CF431E23EC8", "target": "" },
-    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_CLOTAIRION_000_020", "hash": "9F4520BD6D6E4D0A", "target": "" },
-    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_CLOTAIRION_000_021", "hash": "991233CFA62D74F3", "target": "" },
-    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_CLOTAIRION_000_022", "hash": "78D345E31301CD24", "target": "" }
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_SEQ_00", "hash": "BF7324774D54EAB0", "target": "Ser Benedict sembra trattenere una risata." },
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_SEQ_01", "hash": "34AAE9D1129CEF22", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Questa missione è stata modificata. Abbandonala e ricomincia parlando con Haustefort o Cid all'Avamposto di Orlobianco, in base ai tuoi progressi.<edgecolortype(0)><colortype(0)><br><br>※ La Guida dello Scenario Principale mostra la prossima missione disponibile. Puoi attivarla o disattivarla in Configurazione personaggio, nelle Impostazioni IU." },
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_SEQ_02", "hash": "663D48000D20DA1A", "target": "Verrebbe da dire che quei coccodrilli hanno venduto cara la pelle: ti hanno dato filo da torcere e potrai vantartene con i compagni davanti a un boccale di birra. Ma Eorzea non è una terra di fiabe, e la vita non è tutta rose e fiori. A volte abbatti un primale, altre no. Forse però Ser Clotairion saprà apprezzare di più ciò che hai fatto." },
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_SEQ_03", "hash": "7C039ECEA7B9CD0E", "target": "Ser Clotairion ti è grato per il tuo aiuto, pur sapendo benissimo che volevi solo conquistarti il suo favore. Ti promette comunque che Lord Drillemont saprà delle tue imprese." },
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_TODO_00", "hash": "B7AB3C1B8C06CCA3", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Questa missione è stata modificata. Abbandonala e accettala di nuovo per ricominciare.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_TODO_01", "hash": "23030F0E73CD1E2F", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Questa missione è stata modificata. Abbandonala e accettala di nuovo per ricominciare.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_BENEDICT_000_000", "hash": "9D906E8D77AD4A9C", "target": "Su, non crederai che conquistare la fiducia di Lord Drillemont sia <italic(1)>così<italic(0)> facile, vero? Anche se sei davvero chi dici di essere, sarebbe imprudente credere alla tua storia senza fare domande." },
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_BENEDICT_000_001", "hash": "1331569AE9736D06", "target": "Per prima cosa, dimostra il tuo sostegno alla Casata Durendaire dando la caccia ai coccodrilli selvatici al posto nostro." },
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_BENEDICT_000_002", "hash": "9D151CF431E23EC8", "target": "Un gesto così semplice dovrebbe bastare a conquistarti il rispetto di Ser Clotairion, che è sempre alla ricerca di qualcuno disposto a occuparsene. Perché non provare?" },
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_CLOTAIRION_000_020", "hash": "9F4520BD6D6E4D0A", "target": "Mi è giunta voce che hai abbattuto alcuni coccodrilli per ottenere il mio favore. Temo però che ti abbiano preso in giro, <if(gnum4,signorina,signore)>: quel giovanotto voleva soltanto sottrarsi ai suoi doveri." },
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_CLOTAIRION_000_021", "hash": "991233CFA62D74F3", "target": "Detto questo, avevi buone intenzioni e non si può negare che la gente di Coerthas stia meglio senza quelle bestie. Va bene, farò sapere a Lord Drillemont ciò che hai fatto." },
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_CLOTAIRION_000_022", "hash": "78D345E31301CD24", "target": "Cerca però di comprendere la posizione del mio signore. È sua responsabilità assicurarsi che l'Avamposto di Orlobianco sia pronto a ogni evenienza, che si tratti di una bufera senza fine o di un assalto dravaniano. Non rischierà le nostre operazioni per riprendere la Guardia di Pietra senza un buon motivo, e tu finora non gliene hai dato uno." }
   ]
 }

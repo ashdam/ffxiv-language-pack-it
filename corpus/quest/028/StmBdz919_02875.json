@@ -19,7 +19,7 @@
     { "gameKey": "quest/028/StmBdz919_02875#TEXT_STMBDZ919_02875_BALLOON_000_013", "hash": "69B4EE9F000A2DCB", "target": "Oh, no no no..." },
     { "gameKey": "quest/028/StmBdz919_02875#TEXT_STMBDZ919_02875_SYSTEM_000_014", "hash": "F6D5DFE72845F793", "target": "Non hai scortato con successo il Qiqirn gentile fino a Specula Imperatoris. Torna all'Ultima Foresta e parla con il Qiqirn gentile per ricominciare." },
     { "gameKey": "quest/028/StmBdz919_02875#TEXT_STMBDZ919_02875_SYSTEM_100_014", "hash": "F4E841F71C7E1BCE", "target": "Hai perso di vista il Qiqirn gentile. Torna sui tuoi passi per ritrovarlo, poi scortalo al sicuro fino a Specula Imperatoris." },
-    { "gameKey": "quest/028/StmBdz919_02875#TEXT_STMBDZ919_02875_KIKIRUN02875_000_019", "hash": "57B610B9FFB76170", "target": "Me cerca dentro. Può chiedere favore a <if(gnum4,avventuriera gentile,avventuriero gentile)> intanto?" },
+    { "gameKey": "quest/028/StmBdz919_02875#TEXT_STMBDZ919_02875_KIKIRUN02875_000_019", "hash": "86A11050C98D5572", "target": "Me cerca dentro. Può chiedere favore a <if(gnum4,avventuriera gentile,avventuriero gentile)> intanto?" },
     { "gameKey": "quest/028/StmBdz919_02875#TEXT_STMBDZ919_02875_KIKIRUN02875_000_020", "hash": "5F9E7DE95AA19407", "target": "Qiqirn cattivi fa paura. Me ha piano per tenere lontani." },
     { "gameKey": "quest/028/StmBdz919_02875#TEXT_STMBDZ919_02875_KIKIRUN02875_000_021", "hash": "DD77DCD5D89B4907", "target": "Versa questo in giro. Tutti Qiqirn odia puzza. Tanto puzzolente, tanto fetente. Ci vede qui quando finito!" },
     { "gameKey": "quest/028/StmBdz919_02875#TEXT_STMBDZ919_02875_KIKIRUN02875_000_030", "hash": "6833B40DF26B5890", "target": "Trovato cosa serve a me. Ora torna casa!" },

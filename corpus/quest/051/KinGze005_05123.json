@@ -2,7 +2,7 @@
   "conversation": "quest/051/KinGze005_05123",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/051/KinGze005_05123#TEXT_KINGZE005_05123_SEQ_00", "hash": "69E1F4AA41DC2007", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Pyaaho ha notato come osservi i rroneek." },
+    { "gameKey": "quest/051/KinGze005_05123#TEXT_KINGZE005_05123_SEQ_00", "hash": "69E1F4AA41DC2007", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Pyaaho ha notato come osservi i rroneek." },
     { "gameKey": "quest/051/KinGze005_05123#TEXT_KINGZE005_05123_TODO_00", "hash": "212914DDA7E090F9", "target": "Usare /pet sul recuperating rroneek" },
     { "gameKey": "quest/051/KinGze005_05123#TEXT_KINGZE005_05123_TODO_01", "hash": "31218B20F49E7B43", "target": "Offrire un bundle of hay al recuperating rroneek" },
     { "gameKey": "quest/051/KinGze005_05123#TEXT_KINGZE005_05123_TODO_02", "hash": "60048AB4B048FBDA", "target": "Parlare con Pyaaho" },

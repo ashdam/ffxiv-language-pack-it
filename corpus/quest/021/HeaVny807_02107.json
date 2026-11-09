@@ -2,18 +2,18 @@
   "conversation": "quest/021/HeaVny807_02107",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_000", "hash": "520965EFBBFC76FE", "target": "" },
-    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_001", "hash": "7CB9D95929F6A38C", "target": "" },
-    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_002", "hash": "2DCB0EE3B214FEBA", "target": "" },
-    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_003", "hash": "CD61A35902A09D9B", "target": "" },
-    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_004", "hash": "33096AB7E14A151E", "target": "" },
-    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_005", "hash": "29AA27DBFC065196", "target": "" },
-    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_007", "hash": "8D15708521893E8B", "target": "" },
-    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_SYSTEM_000_008", "hash": "330E22183DABDCD5", "target": "" },
-    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_SYSTEM_000_009", "hash": "9CAF91FF27503EFD", "target": "" },
-    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_SYSTEM_100_009", "hash": "AEBABCC836F8FE9F", "target": "" },
-    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_SYSTEM_000_010", "hash": "01DCAF57FFA41E2A", "target": "" },
-    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_020", "hash": "6043B469EEB4B4E0", "target": "" },
-    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_SYSTEM_000_021", "hash": "FB88BF105C29E83F", "target": "" }
+    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_000", "hash": "520965EFBBFC76FE", "target": "Per tutti i chocobo! Quello è il diario di esplorazione di Millith!" },
+    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_001", "hash": "7CB9D95929F6A38C", "target": "Ehm, mi perdoni: mi sono lasciato trasportare per un momento. Sono Kester Cuordiferro, cugino di Millith e, come gran parte della mia famiglia, un discreto esploratore." },
+    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_002", "hash": "2DCB0EE3B214FEBA", "target": "Quando ho parlato con Millith l'ultima volta, mi ha raccontato di una persona con una gran voglia di esplorare... e ora so che sei tu. Che ne dici di prestarmi il diario per un momento? Non preoccuparti, non lo mangerò mica." },
+    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_003", "hash": "CD61A35902A09D9B", "target": "Ecco, qui... e sì, anche qui! Direi che basta." },
+    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_004", "hash": "33096AB7E14A151E", "target": "Non è un segreto che Ishgard ospiti alcuni dei panorami più straordinari del reame. Non li ho visti tutti di persona, ma so bene dove si trovano. E adesso lo sai anche tu, grazie agli appunti e alle voci che ho annotato nel tuo diario di esplorazione." },
+    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_005", "hash": "29AA27DBFC065196", "target": "Molti panorami mozzafiato attendono solo di essere scoperti. Ma le tue gambe non ti porteranno ovunque. Se un luogo è irraggiungibile, potresti prendere il volo in groppa a un uccello dalle piume nere." },
+    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_007", "hash": "8D15708521893E8B", "target": "...Oho, ma se dicessi altro ti toglierei il piacere di scoprire da te questi panorami spettacolari. Buon viaggio, collega esploratore: che questo momento segni l'inizio di un tour meraviglioso!" },
+    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_SYSTEM_000_008", "hash": "330E22183DABDCD5", "target": "Le voci di Heavensward sono state aggiunte al tuo Diario Esplorazione!" },
+    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_SYSTEM_000_009", "hash": "9CAF91FF27503EFD", "target": "Devi essere almeno al livello 50 per registrare i panorami di Heavensward. Raggiungi il luogo indicato e soddisfa i requisiti necessari per completare la voce corrispondente e ottenere punti esperienza." },
+    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_SYSTEM_100_009", "hash": "AEBABCC836F8FE9F", "target": "Le nuove località aggiunte al tuo diario di esplorazione saranno indicate da una sfera luminosa. Se ne noti una durante le tue avventure, fermati un momento e registra la voce corrispondente." },
+    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_SYSTEM_000_010", "hash": "01DCAF57FFA41E2A", "target": "Usa la tua astuzia e gli appunti di Kester per individuare questi panorami mozzafiato e il modo giusto di ammirarli. Scopri Ishgard come solo i più grandi esploratori hanno fatto!" },
+    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_020", "hash": "6043B469EEB4B4E0", "target": "Quante meraviglie da ammirare in queste terre... ma il viaggio è davvero pericoloso. Ah, se solo fossi più abile con le armi, potrei vedere tutto ciò che c'è da vedere..." },
+    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_SYSTEM_000_021", "hash": "FB88BF105C29E83F", "target": "Per affrontare questa missione, devi avere almeno una classe o un job di livello 52." }
   ]
 }

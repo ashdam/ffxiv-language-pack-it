@@ -2,7 +2,7 @@
   "conversation": "quest/035/LucKzi011_03547",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzi011_03547#TEXT_LUCKZI011_03547_SEQ_00", "hash": "9449026303EA7EC1", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Il buongustaio Tholl si lecca le labbra, perso in un pensiero ozioso." },
+    { "gameKey": "quest/035/LucKzi011_03547#TEXT_LUCKZI011_03547_SEQ_00", "hash": "9449026303EA7EC1", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Il buongustaio Tholl si lecca le labbra, perso in un pensiero ozioso." },
     { "gameKey": "quest/035/LucKzi011_03547#TEXT_LUCKZI011_03547_TODO_00", "hash": "5691686B6C10EBA5", "target": "Cercare il juvenile cliffmole" },
     { "gameKey": "quest/035/LucKzi011_03547#TEXT_LUCKZI011_03547_TODO_01", "hash": "F347F86750C29E48", "target": "Attirare il juvenile cliffmole nell'empty larder sack usando un wriggling grub" },
     { "gameKey": "quest/035/LucKzi011_03547#TEXT_LUCKZI011_03547_TODO_02", "hash": "C66765A646AF0BB9", "target": "Consegnare il full larder sack al buongustaio Tholl" },
@@ -15,7 +15,7 @@
     { "gameKey": "quest/035/LucKzi011_03547#TEXT_LUCKZI011_03547_GOURMET03547_000_006", "hash": "160D5E7E04898AC9", "target": "Bene. Ecco la larva ed ecco il sacco. Torna qui e faremo sfrigolare la padella!" },
     { "gameKey": "quest/035/LucKzi011_03547#TEXT_LUCKZI011_03547_MOLE03547_000_010", "hash": "B3A3155B0876A6B1", "target": "!!!" },
     { "gameKey": "quest/035/LucKzi011_03547#TEXT_LUCKZI011_03547_SYSTEM_000_011", "hash": "87C1B6C43790F468", "target": "Il giovane cliffmole ti osserva con sospetto. È ora di mostrargli la larva che si dimena, poi attirarlo nel sacco..." },
-    { "gameKey": "quest/035/LucKzi011_03547#TEXT_LUCKZI011_03547_MOLE03547_100_012", "hash": "127BEF48178AD33D", "target": "\\<annusa> \\<annusa>" },
+    { "gameKey": "quest/035/LucKzi011_03547#TEXT_LUCKZI011_03547_MOLE03547_100_012", "hash": "127BEF48178AD33D", "target": "\\<sniff> \\<sniff>" },
     { "gameKey": "quest/035/LucKzi011_03547#TEXT_LUCKZI011_03547_MOLE03547_000_012", "hash": "1AA46DF769681928", "target": "!!!" },
     { "gameKey": "quest/035/LucKzi011_03547#TEXT_LUCKZI011_03547_SYSTEM_000_013", "hash": "6AD2565B32BF901F", "target": "Il cliffmole entra allegramente nel sacco e comincia a divorare la larva..." },
     { "gameKey": "quest/035/LucKzi011_03547#TEXT_LUCKZI011_03547_GOURMET03547_000_020", "hash": "61295F997CC6A848", "target": "Non sono riuscito a trovare nessuno dei piccoli. E tu?" },

@@ -2,11 +2,11 @@
   "conversation": "quest/035/LucKzj002_03565",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzj002_03565#TEXT_LUCKZJ002_03565_SEQ_00", "hash": "830D1C8C878CDBBE", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Bethden si preoccupa abitualmente della salute di chi visita il Cabinet of Curiosity, e tu non fai eccezione." },
-    { "gameKey": "quest/035/LucKzj002_03565#TEXT_LUCKZJ002_03565_TODO_00", "hash": "FA0CC1EE15C3794C", "target": "Parlare con Fae-Hann a Spagyrics" },
+    { "gameKey": "quest/035/LucKzj002_03565#TEXT_LUCKZJ002_03565_SEQ_00", "hash": "830D1C8C878CDBBE", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Bethden si preoccupa abitualmente della salute di chi visita il Gabinetto delle Curiosità, e tu non fai eccezione." },
+    { "gameKey": "quest/035/LucKzj002_03565#TEXT_LUCKZJ002_03565_TODO_00", "hash": "FA0CC1EE15C3794C", "target": "Parlare con Fae-Hann alla Spagirica" },
     { "gameKey": "quest/035/LucKzj002_03565#TEXT_LUCKZJ002_03565_TODO_01", "hash": "611F93E661697EA9", "target": "Bere lo stygian syrup davanti a Fae-Hann" },
-    { "gameKey": "quest/035/LucKzj002_03565#TEXT_LUCKZJ002_03565_TODO_02", "hash": "E770C81A0E5F5677", "target": "Parlare con Bethden al Cabinet of Curiosity" },
-    { "gameKey": "quest/035/LucKzj002_03565#TEXT_LUCKZJ002_03565_BETHDEN_000_000", "hash": "40614AEAFFC5BF81", "target": "Oh, cielo. Hai un pallore terribile, e conosco studiosi che non escono da settimane, quindi non lo dico alla leggera. Ti prego, vai subito a Spagyrics." },
+    { "gameKey": "quest/035/LucKzj002_03565#TEXT_LUCKZJ002_03565_TODO_02", "hash": "E770C81A0E5F5677", "target": "Parlare con Bethden al Gabinetto delle Curiosità" },
+    { "gameKey": "quest/035/LucKzj002_03565#TEXT_LUCKZJ002_03565_BETHDEN_000_000", "hash": "40614AEAFFC5BF81", "target": "Oh, cielo. Hai un pallore terribile, e conosco studiosi che non escono da settimane, quindi non lo dico alla leggera. Ti prego, vai subito alla Spagirica." },
     { "gameKey": "quest/035/LucKzj002_03565#TEXT_LUCKZJ002_03565_BETHDEN_000_001", "hash": "8643F85C657B7F11", "target": "Prima che tu protesti, sappi che l'ho detto molte volte anche all'Esarca di Cristallo e... basti dire che ha imparato ad ascoltare." },
     { "gameKey": "quest/035/LucKzj002_03565#TEXT_LUCKZJ002_03565_BETHDEN_000_002", "hash": "E9CB7FBCAB5FCC13", "target": "Non puoi pretendere di essere d'aiuto agli altri se non sai nemmeno prenderti cura di te. Ora vai da Fae-Hann prima che mi arrabbi con te." },
     { "gameKey": "quest/035/LucKzj002_03565#TEXT_LUCKZJ002_03565_FAEHANN_000_010", "hash": "1D81450D26BE0150", "target": "Ti manda Bethden? Mh..." },
@@ -26,7 +26,7 @@
     { "gameKey": "quest/035/LucKzj002_03565#TEXT_LUCKZJ002_03565_Q1_000_000", "hash": "1222BC283530D0A9", "target": "Che cosa dirai?" },
     { "gameKey": "quest/035/LucKzj002_03565#TEXT_LUCKZJ002_03565_A1_000_001", "hash": "9FE2D4DD356797C9", "target": "Non te la caverai con le parole." },
     { "gameKey": "quest/035/LucKzj002_03565#TEXT_LUCKZJ002_03565_A1_000_002", "hash": "1AA721D06A99A1CC", "target": "Per fortuna oggi mi sento di manica larga." },
-    { "gameKey": "quest/035/LucKzj002_03565#TEXT_LUCKZJ002_03565_BETHDEN_000_042", "hash": "E97408D22FEED5BA", "target": "\\<sospiro> Molto bene. Ma non farmelo bere qui, ti prego. Se vedono la mia faccia, gli altri non mi lasceranno mai dimenticarlo." },
+    { "gameKey": "quest/035/LucKzj002_03565#TEXT_LUCKZJ002_03565_BETHDEN_000_042", "hash": "E97408D22FEED5BA", "target": "\\<sigh> Molto bene. Ma non farmelo bere qui, ti prego. Se vedono la mia faccia, gli altri non mi lasceranno mai dimenticarlo." },
     { "gameKey": "quest/035/LucKzj002_03565#TEXT_LUCKZJ002_03565_BETHDEN_000_043", "hash": "13810C3C9EA94250", "target": "Sei davvero un esempio per tutti noi! Però... mi dispiacerebbe sprecarlo. E ultimamente Moren <italic(1)>ha<italic(0)> un'aria un po' malaticcia..." },
     { "gameKey": "quest/035/LucKzj002_03565#TEXT_LUCKZJ002_03565_BETHDEN_000_044", "hash": "6253742D995579F7", "target": "In ogni caso, sono sollevato che tu non sembri più sul punto di crollare sopra una pila di libri. Prenditi cura di te... o te ne pentirai." }
   ]

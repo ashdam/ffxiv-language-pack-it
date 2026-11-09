@@ -2,11 +2,11 @@
   "conversation": "quest/029/StmBdy103_02921",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/StmBdy103_02921#TEXT_STMBDY103_02921_KELTRAENG_000_000", "hash": "4DD6FB61B9C9A6AB", "target": "" },
-    { "gameKey": "quest/029/StmBdy103_02921#TEXT_STMBDY103_02921_KELTRAENG_000_001", "hash": "462DE69E69324176", "target": "" },
-    { "gameKey": "quest/029/StmBdy103_02921#TEXT_STMBDY103_02921_KELTRAENG_000_002", "hash": "AF005720B9800532", "target": "" },
-    { "gameKey": "quest/029/StmBdy103_02921#TEXT_STMBDY103_02921_SYSTEM_000_003", "hash": "2E1EFFDFD84C7568", "target": "" },
-    { "gameKey": "quest/029/StmBdy103_02921#TEXT_STMBDY103_02921_KELTRAENG_000_010", "hash": "F741612435F7A4FE", "target": "" },
-    { "gameKey": "quest/029/StmBdy103_02921#TEXT_STMBDY103_02921_SYSTEM_000_011", "hash": "EC31C59990EBF473", "target": "" }
+    { "gameKey": "quest/029/StmBdy103_02921#TEXT_STMBDY103_02921_KELTRAENG_000_000", "hash": "4DD6FB61B9C9A6AB", "target": "Ma tu vieni da Eorzea, vero? E, a quanto vedo, ti dedichi anche all'avventura." },
+    { "gameKey": "quest/029/StmBdy103_02921#TEXT_STMBDY103_02921_KELTRAENG_000_001", "hash": "462DE69E69324176", "target": "Straordinario! La Gilda degli Avventurieri mi ha mandato qui per far conoscere la nostra sede e aiutarci a consolidare la nostra presenza nell'Estremo Oriente." },
+    { "gameKey": "quest/029/StmBdy103_02921#TEXT_STMBDY103_02921_KELTRAENG_000_002", "hash": "AF005720B9800532", "target": "E quale modo migliore per conquistare la gente del posto se non offrendo il nostro aiuto? Con i mandati di gilda, naturalmente. Abbiamo già molti incarichi per chi ha le capacità necessarie e spero di poter contare anche sulle tue." },
+    { "gameKey": "quest/029/StmBdy103_02921#TEXT_STMBDY103_02921_SYSTEM_000_003", "hash": "2E1EFFDFD84C7568", "target": "Ora puoi accettare mandati di gilda a Kugane. Parla con Keltraeng per svolgere incarichi destinati alle classi dei Discepoli della Mano e della Terra." },
+    { "gameKey": "quest/029/StmBdy103_02921#TEXT_STMBDY103_02921_KELTRAENG_000_010", "hash": "F741612435F7A4FE", "target": "Spero di trovare qui avventurieri abili, e in numero sufficiente a far fronte alla domanda..." },
+    { "gameKey": "quest/029/StmBdy103_02921#TEXT_STMBDY103_02921_SYSTEM_000_011", "hash": "EC31C59990EBF473", "target": "Per intraprendere questa missione, devi essere un Discepolo della Mano o della Terra di livello 60 o superiore." }
   ]
 }

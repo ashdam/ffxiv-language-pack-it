@@ -2,7 +2,7 @@
   "conversation": "quest/050/KinGza005_05021",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGza005_05021#TEXT_KINGZA005_05021_SEQ_00", "hash": "1D6315A24C3D978D", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>La Mamool Ja precoce cerca un adulto di cui potersi fidare." },
+    { "gameKey": "quest/050/KinGza005_05021#TEXT_KINGZA005_05021_SEQ_00", "hash": "1D6315A24C3D978D", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>La Mamool Ja precoce cerca un adulto di cui potersi fidare." },
     { "gameKey": "quest/050/KinGza005_05021#TEXT_KINGZA005_05021_TODO_00", "hash": "730F06464318EF80", "target": "Parlare con la Mamool Ja precoce e farsi accompagnare" },
     { "gameKey": "quest/050/KinGza005_05021#TEXT_KINGZA005_05021_TODO_01", "hash": "A2B5692E64876CBC", "target": "Parlare con il pittore Shetona mentre la Mamool Ja precoce ti accompagna" },
     { "gameKey": "quest/050/KinGza005_05021#TEXT_KINGZA005_05021_MAMOOLJAGIRL05021_000_001", "hash": "3A1D6482EBD424A3", "target": "Ehm... ehi, <if(gnum4,signora,signore)>? Mi aiuti?" },

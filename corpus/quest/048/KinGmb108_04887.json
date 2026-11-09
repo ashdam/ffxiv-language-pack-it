@@ -16,7 +16,7 @@
     { "gameKey": "quest/048/KinGmb108_04887#TEXT_KINGMB108_04887_ERENVILLE_000_006", "hash": "2F2B2408056EAAAF", "target": "Con la giusta miscela di mangime, è possibile. Tuttavia, vorrei una mano in più per spargerlo." },
     { "gameKey": "quest/048/KinGmb108_04887#TEXT_KINGMB108_04887_KOANA_000_007", "hash": "0B8465FE1301E0C6", "target": "Potreste accompagnarlo, <split(<string(gstr1)>, ,1)>?" },
     { "gameKey": "quest/048/KinGmb108_04887#TEXT_KINGMB108_04887_KOANA_000_008", "hash": "D6EB21991E6C3EB8", "target": "Nel frattempo, noi altri dovremmo occuparci di riparare i finimenti. Sembra che si siano danneggiati quando la punutiy è stata liberata..." },
-    { "gameKey": "quest/048/KinGmb108_04887#TEXT_KINGMB108_04887_ALPHINAUD_000_009", "hash": "7DA020FC7C937CF3", "target": "Con tutti i venditori presenti nell'accampamento, non dovremmo avere difficoltà ad acquistare i materiali sostitutivi. Quanto alle parti metalliche necessarie, gli artigiani di Earthenshire sono a pochi passi da qui." },
+    { "gameKey": "quest/048/KinGmb108_04887#TEXT_KINGMB108_04887_ALPHINAUD_000_009", "hash": "7DA020FC7C937CF3", "target": "Con tutti i venditori presenti nell'accampamento, non dovremmo avere difficoltà ad acquistare i materiali sostitutivi. Quanto alle parti metalliche necessarie, gli artigiani di Borgoargilla sono a pochi passi da qui." },
     { "gameKey": "quest/048/KinGmb108_04887#TEXT_KINGMB108_04887_KOANA_000_010", "hash": "61AE12B74137E85F", "target": "Allora dividiamoci i compiti e mettiamoci al lavoro." },
     { "gameKey": "quest/048/KinGmb108_04887#TEXT_KINGMB108_04887_ERENVILLE_000_011", "hash": "9F469A8983797945", "target": "C'era un branco insolitamente aggressivo di punutiy selvatiche a valle, quindi la nostra piccola sarà fuggita nella direzione opposta. Vieni, cercheremo nelle acque a monte." },
     { "gameKey": "quest/048/KinGmb108_04887#TEXT_KINGMB108_04887_ERENVILLE_000_020", "hash": "6EAD68767D0BF812", "target": "Se la nostra punutiy è venuta da questa parte, si nasconderà nelle profondità della Palude di Ligaka. Dovremo attirarla nelle acque basse con la promessa di cibo." },
@@ -35,7 +35,7 @@
     { "gameKey": "quest/048/KinGmb108_04887#TEXT_KINGMB108_04887_PUNUTEE04885_000_051", "hash": "0E65F91A22B691DF", "target": "Miao..." },
     { "gameKey": "quest/048/KinGmb108_04887#TEXT_KINGMB108_04887_SYSTEM_000_052", "hash": "0A6FBAB4804ABC0A", "target": "L'odore di Erenville sembra confortare la punutiy." },
     { "gameKey": "quest/048/KinGmb108_04887#TEXT_KINGMB108_04887_KOANA_000_053", "hash": "A1997213A2C16C50", "target": "Dunque Erenville ha ripreso la punutiy? Bene. Non mi aspettavo nulla di meno da un raccoglitore certificato." },
-    { "gameKey": "quest/048/KinGmb108_04887#TEXT_KINGMB108_04887_KOANA_000_054", "hash": "5A0FCEF0D16F19D6", "target": "Quanto ai finimenti, siamo riusciti ad acquistare tutti i pezzi necessari. I gemelli Leveilleur sono a Earthenshire proprio ora per farli riparare dai giurativasi." },
+    { "gameKey": "quest/048/KinGmb108_04887#TEXT_KINGMB108_04887_KOANA_000_054", "hash": "5A0FCEF0D16F19D6", "target": "Quanto ai finimenti, siamo riusciti ad acquistare tutti i pezzi necessari. I gemelli Leveilleur sono a Borgoargilla proprio ora per farli riparare dai giurativasi." },
     { "gameKey": "quest/048/KinGmb108_04887#TEXT_KINGMB108_04887_KOANA_000_055", "hash": "6FAA52BFD61E3CF7", "target": "Mi hanno detto che non ci vorrà molto. Saremo pronti a partire per la missione di salvataggio non appena avremo notizie da Thancred." }
   ]
 }

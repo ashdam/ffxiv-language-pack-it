@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "RideShootingTextData#1", "hash": "57EE70B8946369CD", "target": "Spara" },
-    { "gameKey": "RideShootingTextData#100", "hash": "4EFFCEEB31721402", "target": "Prepara il dito sul grilletto. È ora di guadagnare punti bonus!<br>Evita le Ruby Bomb e colpisci più bersagli che puoi." },
-    { "gameKey": "RideShootingTextData#101", "hash": "C4D5E683E516C3B6", "target": "La fase bonus è finita. Manca poco all'arrivo, continua così!" }
+    { "gameKey": "RideShootingTextData#100", "hash": "4EFFCEEB31721402", "target": "Preparati a premere il grilletto: è ora di guadagnare punti bonus!<br>Fai attenzione alle bombe rubino e colpisci più bersagli che puoi." },
+    { "gameKey": "RideShootingTextData#101", "hash": "C4D5E683E516C3B6", "target": "La fase bonus è terminata. Manca poco alla fine, continua così!" }
   ]
 }

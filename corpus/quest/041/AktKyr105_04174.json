@@ -2,18 +2,18 @@
   "conversation": "quest/041/AktKyr105_04174",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_BABETHIRONHEART_000_000", "hash": "6E1D45F75BDF002F", "target": "" },
-    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_BABETHIRONHEART_000_001", "hash": "A0C8D7541767ED66", "target": "" },
-    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_BABETHIRONHEART_000_002", "hash": "1D10B39E333A25A1", "target": "" },
-    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_BABETHIRONHEART_000_003", "hash": "5E56B3C864C0F11E", "target": "" },
-    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_BABETHIRONHEART_000_004", "hash": "4D1C8643077D3885", "target": "" },
-    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_BABETHIRONHEART_000_005", "hash": "8F574A9F59B46C24", "target": "" },
-    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_BABETHIRONHEART_000_006", "hash": "E57B724F87173EE8", "target": "" },
-    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_SYSTEM_000_007", "hash": "661994F596F8B2C6", "target": "" },
-    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_SYSTEM_000_008", "hash": "91D693EBFBDC0A73", "target": "" },
-    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_SYSTEM_100_008", "hash": "FF284E756223C66C", "target": "" },
-    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_SYSTEM_000_009", "hash": "51734F436D51C2C6", "target": "" },
-    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_BABETHIRONHEART_100_020", "hash": "49BE5862EED03655", "target": "" },
-    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_SYSTEM_100_021", "hash": "B0BA24A0B6E4358F", "target": "" }
+    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_BABETHIRONHEART_000_000", "hash": "6E1D45F75BDF002F", "target": "Mi scusi. Non ho potuto fare a meno di notare il diario di esplorazione che porta con sé. Non sarà mica la persona di cui mi ha parlato mia nipote...?" },
+    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_BABETHIRONHEART_000_001", "hash": "A0C8D7541767ED66", "target": "...Ah! Quindi sei proprio tu. Piacere di conoscerti. Sono Babeth Cuordiferro, zia di Millith ed esperta esploratrice." },
+    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_BABETHIRONHEART_000_002", "hash": "1D10B39E333A25A1", "target": "Sii gentile e passami quel diario. Millith mi ha raccontato di averti aiutato a intraprendere le tue esplorazioni, quindi è giusto che condivida anch'io un po' della mia esperienza." },
+    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_BABETHIRONHEART_000_003", "hash": "5E56B3C864C0F11E", "target": "Vediamo... Ah, non devo dimenticare di aggiungere che... Ecco fatto!" },
+    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_BABETHIRONHEART_000_004", "hash": "4D1C8643077D3885", "target": "Dovresti avere tutto ciò che ti serve. Ho annotato tutto quello che ho sentito sui panorami più straordinari del regno." },
+    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_BABETHIRONHEART_000_005", "hash": "8F574A9F59B46C24", "target": "Naturalmente, alcune delle note che ti ho dato sono solo voci, e descrivono luoghi talmente fantastici che a stento riesco a credere che esistano. Ma, come dico sempre, la vera gioia dell'esplorazione non sta nella meta, bensì nel viaggio." },
+    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_BABETHIRONHEART_000_006", "hash": "E57B724F87173EE8", "target": "Allora vai e scopri che viaggio ti faranno intraprendere questi indizi. Il tuo diario di esplorazione non si compilerà da solo, sai!" },
+    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_SYSTEM_000_007", "hash": "661994F596F8B2C6", "target": "Le voci di Endwalker sono state aggiunte al tuo Diario Esplorazione!" },
+    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_SYSTEM_000_008", "hash": "91D693EBFBDC0A73", "target": "Per registrare i panorami di Endwalker devi essere almeno di livello 80. Raggiungi il luogo indicato e soddisfa i requisiti previsti per completare la voce e ottenere punti esperienza." },
+    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_SYSTEM_100_008", "hash": "FF284E756223C66C", "target": "I nuovi luoghi sono segnalati nel Diario Esplorazione da sfere luminose. Se ne avvisti una durante le tue avventure, fermati e registra la voce." },
+    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_SYSTEM_000_009", "hash": "51734F436D51C2C6", "target": "Usa il tuo ingegno e gli appunti di Babeth per riconoscere questi panorami mozzafiato e capire come ammirarli. Potrai così vedere Thavnair, Sharlayan e oltre come solo i più grandi esploratori hanno fatto!" },
+    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_BABETHIRONHEART_100_020", "hash": "49BE5862EED03655", "target": "Mi scusi. Lei si dà all'avventura, vero? Uhm... Anche se forse non fa al caso dell'esplorazione che ho in mente." },
+    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_SYSTEM_100_021", "hash": "B0BA24A0B6E4358F", "target": "Per intraprendere questa missione, devi avere almeno una classe o job di livello 80." }
   ]
 }

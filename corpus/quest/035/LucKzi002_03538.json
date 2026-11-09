@@ -2,7 +2,7 @@
   "conversation": "quest/035/LucKzi002_03538",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzi002_03538#TEXT_LUCKZI002_03538_SEQ_00", "hash": "461C9075C1E816E2", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Grawley sembra sul punto di esplodere." },
+    { "gameKey": "quest/035/LucKzi002_03538#TEXT_LUCKZI002_03538_SEQ_00", "hash": "461C9075C1E816E2", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Grawley sembra sul punto di esplodere." },
     { "gameKey": "quest/035/LucKzi002_03538#TEXT_LUCKZI002_03538_TODO_00", "hash": "AEAD962B04423CC5", "target": "Posizionare il bulging sack of foodstuffs nel luogo indicato" },
     { "gameKey": "quest/035/LucKzi002_03538#TEXT_LUCKZI002_03538_TODO_01", "hash": "8F34957BBCEDA060", "target": "Attendere e sconfiggere gli hobgoblin thieves" },
     { "gameKey": "quest/035/LucKzi002_03538#TEXT_LUCKZI002_03538_TODO_02", "hash": "8B91B13D2C21C9A4", "target": "Riferire a Grawley" },

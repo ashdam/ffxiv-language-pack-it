@@ -2,7 +2,7 @@
   "conversation": "quest/051/KinGzf004_05152",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/051/KinGzf004_05152#TEXT_KINGZF004_05152_SEQ_00", "hash": "E056278E05B59062", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Il cacciatore veterano è stufo di aspettare." },
+    { "gameKey": "quest/051/KinGzf004_05152#TEXT_KINGZF004_05152_SEQ_00", "hash": "E056278E05B59062", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Il cacciatore veterano è stufo di aspettare." },
     { "gameKey": "quest/051/KinGzf004_05152#TEXT_KINGZF004_05152_TODO_00", "hash": "AFA6ED9D1F675AC2", "target": "Cercare l'apprendista cacciatrice" },
     { "gameKey": "quest/051/KinGzf004_05152#TEXT_KINGZF004_05152_TODO_01", "hash": "E04FEBFA6C013C42", "target": "Usare /cheer con l'apprendista cacciatrice" },
     { "gameKey": "quest/051/KinGzf004_05152#TEXT_KINGZF004_05152_TODO_02", "hash": "3ADFC631D9BC365C", "target": "Usare ancora /cheer con l'apprendista cacciatrice" },
@@ -24,7 +24,7 @@
     { "gameKey": "quest/051/KinGzf004_05152#TEXT_KINGZF004_05152_HUNTERSB05152_000_013", "hash": "51DAD57F1D19FFF8", "target": "Ugh... Grazie. Senti, posso chiederti una cosa? Come fai a non essere <if(gnum4,terrorizzata,terrorizzato)> dai piloni?" },
     { "gameKey": "quest/051/KinGzf004_05152#TEXT_KINGZF004_05152_HUNTERSB05152_000_014", "hash": "9BF5CD6F02004B6A", "target": "So che fungono da punti di ritrasmissione dell'energia raccolta qui fuori, ma letteralmente <italic(1)>attirano<italic(0)> i fulmini! Ogni scarica è come un'esplosione che mi fa tremare fino alle ossa, li odio!" },
     { "gameKey": "quest/051/KinGzf004_05152#TEXT_KINGZF004_05152_HUNTERSB05152_000_015", "hash": "0DC658E7E1927DF5", "target": "Eppure non è molto più sicuro restare qui, quindi tanto vale proseguire... Se mi fermo ancora, devi proprio usare <colortype(500)><edgecolortype(501)>psych<edgecolortype(0)><colortype(0)> per caricarmi, va bene!?" },
-    { "gameKey": "quest/051/KinGzf004_05152#TEXT_KINGZF004_05152_HUNTERSB05152_000_016", "hash": "8521AAA0346D55D5", "target": "\\<singhiozzo> Non ne posso più! Voglio andare a casa!" },
+    { "gameKey": "quest/051/KinGzf004_05152#TEXT_KINGZF004_05152_HUNTERSB05152_000_016", "hash": "8521AAA0346D55D5", "target": "\\<sob> Non ne posso più! Voglio andare a casa!" },
     { "gameKey": "quest/051/KinGzf004_05152#TEXT_KINGZF004_05152_SYSTEM_000_017", "hash": "26D10E0700ABB1CF", "target": "L'apprendista cacciatrice è paralizzata dalla paura. C'è qualcosa che puoi fare usando <colortype(500)><edgecolortype(501)>psych<edgecolortype(0)><colortype(0)> per caricarla?" },
     { "gameKey": "quest/051/KinGzf004_05152#TEXT_KINGZF004_05152_HUNTERSB05152_000_018", "hash": "9AC94E76C4D33184", "target": "Nnngh... So che forse non sembra, ma il tuo sostegno morale è un aiuto enorme in questo momento, <if(gnum4,signorina,signore)>." },
     { "gameKey": "quest/051/KinGzf004_05152#TEXT_KINGZF004_05152_HUNTERSB05152_000_019", "hash": "6100F0A44E1495E9", "target": "Sono così vicina al punto d'incontro, ma il rombo dei fulmini non aiuta affatto i miei nervi... Forse fingerò che sia un'asterodia! Sì, solo una grossa asterodia assetata di sangue..." },

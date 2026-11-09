@@ -2,7 +2,7 @@
   "conversation": "quest/034/LucKze014_03448",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKze014_03448#TEXT_LUCKZE014_03448_SEQ_00", "hash": "9204EC81BFEB0A13", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Il lanciere solitario sembra aspettare qualcuno." },
+    { "gameKey": "quest/034/LucKze014_03448#TEXT_LUCKZE014_03448_SEQ_00", "hash": "9204EC81BFEB0A13", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Il lanciere solitario sembra aspettare qualcuno." },
     { "gameKey": "quest/034/LucKze014_03448#TEXT_LUCKZE014_03448_TODO_00", "hash": "FC576B34DC160DDA", "target": "Cercare il mentore benintenzionato" },
     { "gameKey": "quest/034/LucKze014_03448#TEXT_LUCKZE014_03448_TODO_01", "hash": "E0A1DD756DE0F6C2", "target": "Esprimere dubbi al mediatore bellicoso con /doubt" },
     { "gameKey": "quest/034/LucKze014_03448#TEXT_LUCKZE014_03448_TODO_02", "hash": "8056B73B4275565C", "target": "Parlare con il mentore benintenzionato" },
@@ -28,7 +28,7 @@
     { "gameKey": "quest/034/LucKze014_03448#TEXT_LUCKZE014_03448_ROGUE03448_000_072", "hash": "9B556478962999B6", "target": "Ovunque si combatte, ma le armi non bastano mai. La gente paga bene un buon veleno." },
     { "gameKey": "quest/034/LucKze014_03448#TEXT_LUCKZE014_03448_ROGUE03448_000_073", "hash": "EB313D531735A18A", "target": "Ma grazie a voi l'anemone e tutti i profitti sono spariti. Direi che sia ora di sparire anche noi!" },
     { "gameKey": "quest/034/LucKze014_03448#TEXT_LUCKZE014_03448_MENTOR03448_000_074", "hash": "4E8313BF1DF63A5D", "target": "Aspettate!" },
-    { "gameKey": "quest/034/LucKze014_03448#TEXT_LUCKZE014_03448_MENTOR03448_000_075", "hash": "EB95D475D95D04B6", "target": "\\<sospiro> ...Credo vada bene, anche se resta l'anemone. Prima devo tornare al Ramo Serpeggiante. Senz'altro il mio allievo sarà fuori di sé dalla preoccupazione." },
+    { "gameKey": "quest/034/LucKze014_03448#TEXT_LUCKZE014_03448_MENTOR03448_000_075", "hash": "EB95D475D95D04B6", "target": "\\<sigh> ...Credo vada bene, anche se resta l'anemone. Prima devo tornare a Fendiscoglio. Senz'altro il mio allievo sarà fuori di sé dalla preoccupazione." },
     { "gameKey": "quest/034/LucKze014_03448#TEXT_LUCKZE014_03448_MENTOR03448_000_080", "hash": "9E0F5EDABD4E2252", "target": "Non preoccuparti per il mio allievo. È tornato e sollevato di sapere che sto bene." },
     { "gameKey": "quest/034/LucKze014_03448#TEXT_LUCKZE014_03448_MENTOR03448_000_081", "hash": "9427E459AB2AA78D", "target": "Per l'anemone, ho parlato con i superiori e mi hanno incaricato di catturarlo." },
     { "gameKey": "quest/034/LucKze014_03448#TEXT_LUCKZE014_03448_MENTOR03448_000_082", "hash": "07CC759168AEF231", "target": "Vorrei il tuo aiuto, ma credo che una persona che accompagna la maestra Matoya abbia questioni più urgenti. Se ti trovi senza impegni, cercami. Mi servirebbe <if(gnum4,una donna,un uomo)> con le tue capacità." }

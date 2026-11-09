@@ -2,16 +2,16 @@
   "conversation": "quest/040/LucKta515_04048",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_DWARFMASTER03671_000_001", "hash": "5D858C5874BE4661", "target": "" },
-    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_VILLAGERD03954_000_002", "hash": "368DDB570931DD63", "target": "" },
-    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_DWARFMASTER03671_000_003", "hash": "4B3F858C8B500199", "target": "" },
-    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_VILLAGERD03954_000_004", "hash": "F003BD020CE299F3", "target": "" },
-    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_VILLAGERD03954_000_005", "hash": "B3290EC26F41F3A5", "target": "" },
-    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_DWARFMASTER03671_000_006", "hash": "7E7D602933CE5638", "target": "" },
-    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_DWARFMASTER03671_000_007", "hash": "A22F15A6151313F9", "target": "" },
-    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_DWARFMASTER03671_000_008", "hash": "C85CB4977773BFB9", "target": "" },
-    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_DWARFMASTER03671_000_009", "hash": "7DD97790CA483C47", "target": "" },
-    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_SYSTEM_000_010", "hash": "543AD7038320EEE4", "target": "" },
-    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_SYSTEM_000_011", "hash": "74FD0693FB8F6324", "target": "" }
+    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_DWARFMASTER03671_000_001", "hash": "5D858C5874BE4661", "target": "Lali-ho, è arrivato un altro dispositivo di registrazione. Qualunque cosa stia combinando Konogg, finché continua a inviarli possiamo stare tranquilli: è sano e salvo. Comunque, eccolo qua." },
+    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_VILLAGERD03954_000_002", "hash": "368DDB570931DD63", "target": "Ehm, capo? Posso parlarti un momento?" },
+    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_DWARFMASTER03671_000_003", "hash": "4B3F858C8B500199", "target": "Certo, di che si tratta?" },
+    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_VILLAGERD03954_000_004", "hash": "F003BD020CE299F3", "target": "È Glagg. L'ho incontrato poco fa e si comportava in modo strano..." },
+    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_VILLAGERD03954_000_005", "hash": "B3290EC26F41F3A5", "target": "Quando sembra arrabbiato, all'improvviso scoppia a piangere. E subito dopo ti parla come se fossi un vecchio amico." },
+    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_DWARFMASTER03671_000_006", "hash": "7E7D602933CE5638", "target": "Ah, capisco... È così da quando c'è stata la riunione." },
+    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_DWARFMASTER03671_000_007", "hash": "A22F15A6151313F9", "target": "Me ne occuperò io, non preoccuparti. Grazie per avermelo riferito; se noti altro, fammelo sapere." },
+    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_DWARFMASTER03671_000_008", "hash": "C85CB4977773BFB9", "target": "Sembra che per ora non in molti sappiano delle condizioni di Glagg. Ma, se continua a peggiorare come sembra, sarà solo questione di tempo." },
+    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_DWARFMASTER03671_000_009", "hash": "7DD97790CA483C47", "target": "Scusa se sto parlando ad alta voce, ma non è un problema che devi risolvere tu. Concentrati solo sulla ricostruzione: è il modo migliore per aiutarci." },
+    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_SYSTEM_000_010", "hash": "543AD7038320EEE4", "target": "Hai ricevuto un messaggio da Konogg." },
+    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_SYSTEM_000_011", "hash": "74FD0693FB8F6324", "target": "Puoi leggere il messaggio nel tuo <colortype(500)><edgecolortype(501)>Portable Archive<edgecolortype(0)><colortype(0)>, disponibile alla voce Collezione nella sezione Incarichi del menu principale." }
   ]
 }

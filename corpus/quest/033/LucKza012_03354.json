@@ -2,7 +2,7 @@
   "conversation": "quest/033/LucKza012_03354",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/033/LucKza012_03354#TEXT_LUCKZA012_03354_SEQ_00", "hash": "A03A86104401C32E", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>La piccola preoccupata si guarda intorno disperata." },
+    { "gameKey": "quest/033/LucKza012_03354#TEXT_LUCKZA012_03354_SEQ_00", "hash": "A03A86104401C32E", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>La piccola preoccupata si guarda intorno disperata." },
     { "gameKey": "quest/033/LucKza012_03354#TEXT_LUCKZA012_03354_TODO_00", "hash": "28A2314DC21C5BE4", "target": "Parlare con l'esperto preparatore di pozioni" },
     { "gameKey": "quest/033/LucKza012_03354#TEXT_LUCKZA012_03354_TODO_01", "hash": "FF78F923D6F4208E", "target": "Usare il copper knife sugli alberi a nord-ovest del Borgo della Porta per raccogliere strisce di corteccia essiccata" },
     { "gameKey": "quest/033/LucKza012_03354#TEXT_LUCKZA012_03354_TODO_02", "hash": "BB617F7A1A22077D", "target": "Consegnare le strisce di corteccia essiccata all'esperto preparatore di pozioni" },
@@ -20,7 +20,7 @@
     { "gameKey": "quest/033/LucKza012_03354#TEXT_LUCKZA012_03354_PHARMACIST03354_000_020", "hash": "88E8FEF749E73839", "target": "Ah, vedo che hai finalmente ritrovato il senno. Ridammi quel coltello, allora..." },
     { "gameKey": "quest/033/LucKza012_03354#TEXT_LUCKZA012_03354_PHARMACIST03354_000_021", "hash": "4C3F87C2A489B987", "target": "...Che cos'è questo?" },
     { "gameKey": "quest/033/LucKza012_03354#TEXT_LUCKZA012_03354_PHARMACIST03354_000_022", "hash": "656EA1DDF4E0C1A4", "target": "Sei <if(gnum4,andata,andato)> davvero a raccogliere la corteccia!? Ma... che cosa speri mai di guadagnarci? La gentilezza non ti porterà da nessuna parte in questa città marcia!" },
-    { "gameKey": "quest/033/LucKza012_03354#TEXT_LUCKZA012_03354_PHARMACIST03354_000_023", "hash": "75F8B40A44A4C73A", "target": "\\<sospiro> Devi essere un'anima davvero rara...<br>Suppongo di non avere altra scelta che preparare la cura promessa." },
+    { "gameKey": "quest/033/LucKza012_03354#TEXT_LUCKZA012_03354_PHARMACIST03354_000_023", "hash": "75F8B40A44A4C73A", "target": "\\<sigh> Devi essere un'anima davvero rara...<br>Suppongo di non avere altra scelta che preparare la cura promessa." },
     { "gameKey": "quest/033/LucKza012_03354#TEXT_LUCKZA012_03354_PHARMACIST03354_000_024", "hash": "4A52545741D2BA71", "target": "Ho mescolato alcune erbe e polveri con la corteccia che hai portato: qualche pillola al giorno dovrebbe presto calmare i dolori di pancia del bambino." },
     { "gameKey": "quest/033/LucKza012_03354#TEXT_LUCKZA012_03354_PHARMACIST03354_000_025", "hash": "748CA202CFB14749", "target": "Non preoccuparti del pagamento. Dopotutto, il grosso del lavoro l'hai fatto tu." },
     { "gameKey": "quest/033/LucKza012_03354#TEXT_LUCKZA012_03354_PHARMACIST03354_000_026", "hash": "75CD042798D6AFF4", "target": "Sai, speravo di scambiare le mie abilità curative con una vita a Eulmore, ma... forse il mio posto è qui, fra i poveri e i disperati. Aiutare per il piacere di aiutare, sentirsi necessari. Sì, non è una brutta sensazione..." },

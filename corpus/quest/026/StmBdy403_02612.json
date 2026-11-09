@@ -2,11 +2,11 @@
   "conversation": "quest/026/StmBdy403_02612",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdy403_02612#TEXT_STMBDY403_02612_RODNEY_000_000", "hash": "C92F441CB6DB7619", "target": "" },
-    { "gameKey": "quest/026/StmBdy403_02612#TEXT_STMBDY403_02612_RODNEY_100_000", "hash": "540E9D96D85B4BFF", "target": "" },
-    { "gameKey": "quest/026/StmBdy403_02612#TEXT_STMBDY403_02612_RODNEY_000_001", "hash": "375F17F02566E4D4", "target": "" },
-    { "gameKey": "quest/026/StmBdy403_02612#TEXT_STMBDY403_02612_SYSTEM_000_010", "hash": "50E4416043D0CD81", "target": "" },
-    { "gameKey": "quest/026/StmBdy403_02612#TEXT_STMBDY403_02612_SYSTEM_000_011", "hash": "683CD350350DB9A7", "target": "" },
-    { "gameKey": "quest/026/StmBdy403_02612#TEXT_STMBDY403_02612_SYSTEM_000_012", "hash": "7F85ADBBE188ACB6", "target": "" }
+    { "gameKey": "quest/026/StmBdy403_02612#TEXT_STMBDY403_02612_RODNEY_000_000", "hash": "C92F441CB6DB7619", "target": "<if([gnum11<12],<if([gnum11<4],Buonasera,Buongiorno)>,<if([gnum11<17],Buon pomeriggio,Buonasera)>)>, avventuriero! Se il mio tono allegro non te l'avesse già fatto capire, la signorina Krile e gli altri hanno compiuto grandi progressi nel ripristino dell'Eternet: ora possiamo accedere a un'altra regione dell'isola!" },
+    { "gameKey": "quest/026/StmBdy403_02612#TEXT_STMBDY403_02612_RODNEY_100_000", "hash": "540E9D96D85B4BFF", "target": "Hanno deciso di chiamarla Pyros, per via dell'etere affine al fuoco che la pervade. Hanno già allestito un nuovo campo base, quindi quella faccenda è ormai risolta. Naturalmente, la spedizione avrà bisogno di tutto l'aiuto possibile. Del tuo, s'intende." },
+    { "gameKey": "quest/026/StmBdy403_02612#TEXT_STMBDY403_02612_RODNEY_000_001", "hash": "375F17F02566E4D4", "target": "Comunque, quando sarai pronto a partire, fammelo sapere e ti accompagnerò. La signorina Krile non vede l'ora di aggiornarti su tutte le sue scoperte!" },
+    { "gameKey": "quest/026/StmBdy403_02612#TEXT_STMBDY403_02612_SYSTEM_000_010", "hash": "50E4416043D0CD81", "target": "Ora puoi accedere alla Terra Proibita, Eureka Pyros. Come Anemos e Pagos, Pyros si può esplorare in gruppi fino a otto giocatori oppure individualmente." },
+    { "gameKey": "quest/026/StmBdy403_02612#TEXT_STMBDY403_02612_SYSTEM_000_011", "hash": "683CD350350DB9A7", "target": "Per partire alla volta di Pyros, parla con Rodney al Molo n. 1 di Kugane." },
+    { "gameKey": "quest/026/StmBdy403_02612#TEXT_STMBDY403_02612_SYSTEM_000_012", "hash": "7F85ADBBE188ACB6", "target": "Tieni presente che il livello degli oggetti è sincronizzato in tutte le spedizioni a <sheet(ContentFinderCondition,lnum2,43)>. L'equipaggiamento con un livello oggetti superiore a <sheet(ContentFinderCondition,lnum1,20)> verrà adeguato." }
   ]
 }

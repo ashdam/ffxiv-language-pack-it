@@ -2,7 +2,7 @@
   "conversation": "quest/034/LucKze008_03442",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKze008_03442#TEXT_LUCKZE008_03442_SEQ_00", "hash": "BF40983CCC8DD5B7", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Alla falegname premurosa servirebbero un occhio acuto e una mano ferma." },
+    { "gameKey": "quest/034/LucKze008_03442#TEXT_LUCKZE008_03442_SEQ_00", "hash": "BF40983CCC8DD5B7", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Alla falegname premurosa servirebbero un occhio acuto e una mano ferma." },
     { "gameKey": "quest/034/LucKze008_03442#TEXT_LUCKZE008_03442_TODO_00", "hash": "9A1F0E480283AAE4", "target": "Mirare e usare la cerbottana per rendere inoffensivo un razor-tusked swine" },
     { "gameKey": "quest/034/LucKze008_03442#TEXT_LUCKZE008_03442_TODO_01", "hash": "EEE7B7D6E9071607", "target": "Parlare con la falegname premurosa" },
     { "gameKey": "quest/034/LucKze008_03442#TEXT_LUCKZE008_03442_TODO_02", "hash": "D8419C2C7205E075", "target": "Raccogliere una zanna dal razor-tusked swine" },
@@ -14,7 +14,7 @@
     { "gameKey": "quest/034/LucKze008_03442#TEXT_LUCKZE008_03442_GENTLECRAFTSMAN03442_000_010", "hash": "CAB23ADDEBA0608C", "target": "Se sali su quell'albero, dovresti vedere bene la zona." },
     { "gameKey": "quest/034/LucKze008_03442#TEXT_LUCKZE008_03442_GENTLECRAFTSMAN03442_000_011", "hash": "1E8B6BA781356591", "target": "Prima o poi un cinghiale verrà a bere dal lago. È qui che entri in gioco tu. Usa i dardi per paralizzarlo, poi potremo prendere una zanna in sicurezza." },
     { "gameKey": "quest/034/LucKze008_03442#TEXT_LUCKZE008_03442_GENTLECRAFTSMAN03442_100_010", "hash": "3D840F3EC026173C", "target": "Da molto non vedevo tanta precisione. Ben fatto." },
-    { "gameKey": "quest/034/LucKze008_03442#TEXT_LUCKZE008_03442_GENTLECRAFTSMAN03442_100_011", "hash": "66C20033186639F3", "target": "Prendi una zanna dal cinghiale, mentre io raccolgo le altre scorte necessarie. Quando hai finito, incontriamoci al Ramo Serpeggiante." },
+    { "gameKey": "quest/034/LucKze008_03442#TEXT_LUCKZE008_03442_GENTLECRAFTSMAN03442_100_011", "hash": "66C20033186639F3", "target": "Prendi una zanna dal cinghiale, mentre io raccolgo le altre scorte necessarie. Quando hai finito, incontriamoci a Fendiscoglio." },
     { "gameKey": "quest/034/LucKze008_03442#TEXT_LUCKZE008_03442_GENTLECRAFTSMAN03442_100_020", "hash": "A9E81853B85A7D77", "target": "Non hai avuto difficoltà a prendere la zanna, vero?" },
     { "gameKey": "quest/034/LucKze008_03442#TEXT_LUCKZE008_03442_GENTLECRAFTSMAN03442_000_020", "hash": "7431B158F46B3ED5", "target": "Che bella scoperta. Farà una lancia eccellente." },
     { "gameKey": "quest/034/LucKze008_03442#TEXT_LUCKZE008_03442_GENTLECRAFTSMAN03442_000_021", "hash": "D7BF8E9FE0E8EF9D", "target": "Peccato che i cinghiali siano diventati tanto rari dopo il Diluvio." },

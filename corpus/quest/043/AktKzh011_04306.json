@@ -2,11 +2,11 @@
   "conversation": "quest/043/AktKzh011_04306",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/043/AktKzh011_04306#TEXT_AKTKZH011_04306_SEQ_00", "hash": "BE4A3CB9196E5152", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>La creatrice di Mitron sembra turbata." },
+    { "gameKey": "quest/043/AktKzh011_04306#TEXT_AKTKZH011_04306_SEQ_00", "hash": "BE4A3CB9196E5152", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>La creatrice di Mitron sembra turbata." },
     { "gameKey": "quest/043/AktKzh011_04306#TEXT_AKTKZH011_04306_TODO_00", "hash": "DBBF20827B66C2B9", "target": "Mostrare la speude bradeos figurine alle persone a Poieten Oikos e scoprire chi ha dato il nome allo squalo" },
     { "gameKey": "quest/043/AktKzh011_04306#TEXT_AKTKZH011_04306_TODO_01", "hash": "B43A32D43444C0FB", "target": "Restituire la speude bradeos figurine alla creatrice di Mitron" },
     { "gameKey": "quest/043/AktKzh011_04306#TEXT_AKTKZH011_04306_CREATOR04306_000_000", "hash": "39394279BFCEF777", "target": "Salve, sono una ricercatrice delle Parole di Mitron. Ho dedicato la vita allo studio e alla creazione di esseri acquatici, ma mi concentro soprattutto su nuove specie di squali." },
-    { "gameKey": "quest/043/AktKzh011_04306#TEXT_AKTKZH011_04306_CREATOR04306_000_001", "hash": "51E5761F14049F40", "target": "La mia ultima creazione ha finito il periodo d'osservazione ad Anagnorisis e sarà rilasciata dopo un'ultima prova." },
+    { "gameKey": "quest/043/AktKzh011_04306#TEXT_AKTKZH011_04306_CREATOR04306_000_001", "hash": "51E5761F14049F40", "target": "La mia ultima creazione ha finito il periodo d'osservazione ad Anagnorisi e sarà rilasciata dopo un'ultima prova." },
     { "gameKey": "quest/043/AktKzh011_04306#TEXT_AKTKZH011_04306_CREATOR04306_000_002", "hash": "F31C81F229A21ED2", "target": "Il fatto è che spero di consultare un tassonomista prima che l'Ufficio dell'Architetto ne approvi la registrazione ufficiale." },
     { "gameKey": "quest/043/AktKzh011_04306#TEXT_AKTKZH011_04306_CREATOR04306_000_003", "hash": "1F7DE2EC72152F7D", "target": "...Lo stesso che ha nominato l'ultimo squalo, se possibile. “Speude bradeos” era un nome meraviglioso." },
     { "gameKey": "quest/043/AktKzh011_04306#TEXT_AKTKZH011_04306_CREATOR04306_000_004", "hash": "22CB6F57958327F2", "target": "È piuttosto difficile trovare una persona specifica in un posto così. Potresti aiutarmi?" },
@@ -21,13 +21,13 @@
     { "gameKey": "quest/043/AktKzh011_04306#TEXT_AKTKZH011_04306_TELAMON_000_016", "hash": "149A5C8677A5F54A", "target": "La sua creatrice lo chiamava “cladoselache”, ma io ho scelto qualcosa di più legato al suo modo particolare di muoversi." },
     { "gameKey": "quest/043/AktKzh011_04306#TEXT_AKTKZH011_04306_TELAMON_000_017", "hash": "FAF3113F20CCA415", "target": "Volevo cogliere l'immagine di come si lancia avanti a piccoli passi, in qualche modo rapido e lento insieme." },
     { "gameKey": "quest/043/AktKzh011_04306#TEXT_AKTKZH011_04306_TELAMON_000_018", "hash": "31859169B38BB45D", "target": "Se ti incuriosisce, il nome viene da un proverbio che significa “più fretta, meno velocità”." },
-    { "gameKey": "quest/043/AktKzh011_04306#TEXT_AKTKZH011_04306_TELAMON_000_019", "hash": "DA5C5EABAB0C58AD", "target": "E se la creatrice vuole che nomini la sua nuova creazione, sarò naturalmente onorato. È ad Anagnorisis, dici? Non vedo l'ora di vederla!" },
+    { "gameKey": "quest/043/AktKzh011_04306#TEXT_AKTKZH011_04306_TELAMON_000_019", "hash": "DA5C5EABAB0C58AD", "target": "E se la creatrice vuole che nomini la sua nuova creazione, sarò naturalmente onorato. È ad Anagnorisi, dici? Non vedo l'ora di vederla!" },
     { "gameKey": "quest/043/AktKzh011_04306#TEXT_AKTKZH011_04306_RHODOPIS_000_020", "hash": "C9138C7AAF43762A", "target": "Non ho davvero idea di chi abbia dato il nome allo squalo." },
     { "gameKey": "quest/043/AktKzh011_04306#TEXT_AKTKZH011_04306_EUAION_000_021", "hash": "8286D1FE95C02C3B", "target": "Questa creazione ha un nome perfetto. Se solo riuscissi a trovare qualcosa di così ingegnoso." },
     { "gameKey": "quest/043/AktKzh011_04306#TEXT_AKTKZH011_04306_TELAMON_000_022", "hash": "3CC744927B4BC807", "target": "Oh, non vedo l'ora di dare il nome a questo nuovo squalo!" },
     { "gameKey": "quest/043/AktKzh011_04306#TEXT_AKTKZH011_04306_CREATOR04306_100_025", "hash": "19003292A3C8D8A4", "target": "Hai trovato il mio tassonomista?" },
     { "gameKey": "quest/043/AktKzh011_04306#TEXT_AKTKZH011_04306_CREATOR04306_000_030", "hash": "3D1DE51888540117", "target": "L'hai trovato? E vuole dare il nome anche a quello nuovo? Che notizia meravigliosa!" },
     { "gameKey": "quest/043/AktKzh011_04306#TEXT_AKTKZH011_04306_CREATOR04306_000_031", "hash": "F6A4DE32BA52B4F7", "target": "Quest'ultima creazione migliora direttamente la precedente. Le ho dato più zampe, per un totale di otto, così si muove <italic(1)>ancora<italic(0)> più velocemente sulla terra." },
-    { "gameKey": "quest/043/AktKzh011_04306#TEXT_AKTKZH011_04306_CREATOR04306_000_032", "hash": "BF99DB28BB53501B", "target": "Ora che è sistemato, devo tornare in fretta ad Anagnorisis. Ma prima... Tieni, un segno di gratitudine." }
+    { "gameKey": "quest/043/AktKzh011_04306#TEXT_AKTKZH011_04306_CREATOR04306_000_032", "hash": "BF99DB28BB53501B", "target": "Ora che è sistemato, devo tornare in fretta ad Anagnorisi. Ma prima... Tieni, un segno di gratitudine." }
   ]
 }

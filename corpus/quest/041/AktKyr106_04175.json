@@ -2,13 +2,13 @@
   "conversation": "quest/041/AktKyr106_04175",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_OFPILONA_000_000", "hash": "F0816CDD29DAF315", "target": "" },
-    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_OFPILONA_000_001", "hash": "BC2E99FA345B883E", "target": "" },
-    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_OFPILONA_000_002", "hash": "41188FA72C85152A", "target": "" },
-    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_OFPILONA_000_003", "hash": "54CB6610470A3BD6", "target": "" },
-    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_OFPILONA_000_004", "hash": "956A64A493C8C368", "target": "" },
-    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_OFPILONA_000_005", "hash": "4E0C0364AF02BE3C", "target": "" },
-    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_OFPILONA_000_010", "hash": "8F1064892A820B54", "target": "" },
-    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_SYSTEM_000_011", "hash": "AC060166C4559D23", "target": "" }
+    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_OFPILONA_000_000", "hash": "F0816CDD29DAF315", "target": "Oh! Tu devi essere <split(<string(gstr1)>, ,1)>. Madama Rowena mi ha parlato molto di te. Dice che tutti parlano delle tue imprese da <sheet(ClassJob,gnum68,0)>!" },
+    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_OFPILONA_000_001", "hash": "BC2E99FA345B883E", "target": "A proposito, mi chiamo Ofpilona. Madama mi ha incaricato di gestire la sua sede a Radz-at-Han. Spero faremo buoni affari!" },
+    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_OFPILONA_000_002", "hash": "41188FA72C85152A", "target": "Questo non vuol dire che abbia qualcosa di speciale da chiederti. Intendo solo dire che qui i tuoi affari sono i benvenuti tanto quanto in qualsiasi altra Bottega delle Meraviglie." },
+    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_OFPILONA_000_003", "hash": "54CB6610470A3BD6", "target": "Certo, preferirei che facessi più affari qui che altrove. Clienti illustri come te attireranno anche più persone, capisci?" },
+    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_OFPILONA_000_004", "hash": "956A64A493C8C368", "target": "E se continuiamo ad attirare clienti a questo ritmo, presto dovremo cambiare nome in Bottega delle Meraviglie di Ofpilona... Quella vecchia megera non saprà da che parte girarsi..." },
+    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_OFPILONA_000_005", "hash": "4E0C0364AF02BE3C", "target": "Ehm, non preoccuparti per l'ultima cosa che ho detto. Dai un'occhiata alla merce e compra qualcosa, se ti va!" },
+    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_OFPILONA_000_010", "hash": "8F1064892A820B54", "target": "\\<sigh> Quanto vorrei trovare un artigiano esperto..." },
+    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_SYSTEM_000_011", "hash": "AC060166C4559D23", "target": "Per intraprendere questa missione, devi essere un Discepolo della Mano o della Terra di livello 80 o superiore." }
   ]
 }

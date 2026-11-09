@@ -2,11 +2,11 @@
   "conversation": "quest/029/StmBdy110_02941",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/StmBdy110_02941#TEXT_STMBDY110_02941_GALIENA_000_000", "hash": "61225796BE869C32", "target": "" },
-    { "gameKey": "quest/029/StmBdy110_02941#TEXT_STMBDY110_02941_GALIENA_000_001", "hash": "43323A8971842238", "target": "" },
-    { "gameKey": "quest/029/StmBdy110_02941#TEXT_STMBDY110_02941_GALIENA_000_002", "hash": "2116BA51AF6E0CF2", "target": "" },
-    { "gameKey": "quest/029/StmBdy110_02941#TEXT_STMBDY110_02941_GALIENA_000_003", "hash": "A3D55FEC3CBF64C7", "target": "" },
-    { "gameKey": "quest/029/StmBdy110_02941#TEXT_STMBDY110_02941_GALIENA_000_010", "hash": "E604053EC2D8D345", "target": "" },
-    { "gameKey": "quest/029/StmBdy110_02941#TEXT_STMBDY110_02941_SYSTEM_000_011", "hash": "A7597B43C265672B", "target": "" }
+    { "gameKey": "quest/029/StmBdy110_02941#TEXT_STMBDY110_02941_GALIENA_000_000", "hash": "61225796BE869C32", "target": "Salve, avventuriero. Mi chiamo Galiena e lavoro per mia zia Rowena alla Casa degli Splendori." },
+    { "gameKey": "quest/029/StmBdy110_02941#TEXT_STMBDY110_02941_GALIENA_000_001", "hash": "43323A8971842238", "target": "Dopo aver ampliato con successo le sue attività a Borgopace e nelle tre città-stato, ha deciso di portarle anche qui, alla Presa di Rhalgr." },
+    { "gameKey": "quest/029/StmBdy110_02941#TEXT_STMBDY110_02941_GALIENA_000_002", "hash": "2116BA51AF6E0CF2", "target": "La nostra presenza qui contribuirà agli sforzi di ricostruzione, creando posti di lavoro per i profughi e dando impulso all'economia locale. Le tue capacità potrebbero esserci molto utili." },
+    { "gameKey": "quest/029/StmBdy110_02941#TEXT_STMBDY110_02941_GALIENA_000_003", "hash": "A3D55FEC3CBF64C7", "target": "Se hai dei collezionabili, sarò lieta di scambiarli con gettone. Ora che abbiamo sedi in tutto il reame, fare affari con la Casa degli Splendori è più facile che mai!" },
+    { "gameKey": "quest/029/StmBdy110_02941#TEXT_STMBDY110_02941_GALIENA_000_010", "hash": "E604053EC2D8D345", "target": "Salve! Se conosci artigiani o raccoglitori esperti, ti sarei grata se me li presentassi." },
+    { "gameKey": "quest/029/StmBdy110_02941#TEXT_STMBDY110_02941_SYSTEM_000_011", "hash": "A7597B43C265672B", "target": "Per intraprendere questa missione, devi essere un Discepolo della Mano o della Terra di livello 60 o superiore." }
   ]
 }

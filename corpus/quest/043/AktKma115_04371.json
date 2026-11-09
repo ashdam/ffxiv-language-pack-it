@@ -20,7 +20,7 @@
     { "gameKey": "quest/043/AktKma115_04371#TEXT_AKTKMA115_04371_ESTINIEN_000_015", "hash": "138752B1DCC2A585", "target": "È deciso. Tieni gli occhi aperti mentre andiamo al villaggio." },
     { "gameKey": "quest/043/AktKma115_04371#TEXT_AKTKMA115_04371_SYSTEM_000_020", "hash": "BDCD8D232C8B1728", "target": "Non vedi Matsya nei paraggi, ma il terreno rialzato più avanti potrebbe offrire un punto d'osservazione migliore..." },
     { "gameKey": "quest/043/AktKma115_04371#TEXT_AKTKMA115_04371_SYSTEM_000_030", "hash": "3074860B03920530", "target": "Neppure da qui riesci a vedere Matsya..." },
-    { "gameKey": "quest/043/AktKma115_04371#TEXT_AKTKMA115_04371_MATSYA_000_031", "hash": "BFFFC6CDD295D70C", "target": "N-No! Lasciatemi stare! Aiuto! Qualcuno mi aiuti!" },
+    { "gameKey": "quest/043/AktKma115_04371#TEXT_AKTKMA115_04371_MATSYA_000_031", "hash": "87C7D8B5A788F920", "target": "N-No! Lasciatemi stare! Aiuto! Qualcuno mi aiuti!" },
     { "gameKey": "quest/043/AktKma115_04371#TEXT_AKTKMA115_04371_SYSTEM_000_032", "hash": "63FDBB2FE1CB5199", "target": "La voce di Matsya─proveniva da nord!" },
     { "gameKey": "quest/043/AktKma115_04371#TEXT_AKTKMA115_04371_BALLON_000_040", "hash": "231A005D586BE20A", "target": "Carburante... Raccogliere carburante..." },
     { "gameKey": "quest/043/AktKma115_04371#TEXT_AKTKMA115_04371_BALLON_000_041", "hash": "D8D695D2E3C729DE", "target": "Intrusi... Eliminare..." },
@@ -96,6 +96,6 @@
     { "gameKey": "quest/043/AktKma115_04371#TEXT_AKTKMA115_04371_MATSYA_000_161", "hash": "682C1937AC83A41F", "target": "È molto gentile da parte vostra. Grazie! Pregherò per il vostro successo." },
     { "gameKey": "quest/043/AktKma115_04371#TEXT_AKTKMA115_04371_THANCRED_000_162", "hash": "B865A84858BA6E1A", "target": "Bene, credo sia ora di cercare la conoscente di Krile." },
     { "gameKey": "quest/043/AktKma115_04371#TEXT_AKTKMA115_04371_THANCRED_000_163", "hash": "CF6FF4118F5B62E0", "target": "Un'alchimista di nome Nidhana." },
-    { "gameKey": "quest/043/AktKma115_04371#TEXT_AKTKMA115_04371_THANCRED_000_164", "hash": "FF0EB45E422C5C26", "target": "Secondo gli appunti di Krile, dobbiamo trovarla in un luogo chiamato Great Work, più a nord lungo la costa." }
+    { "gameKey": "quest/043/AktKma115_04371#TEXT_AKTKMA115_04371_THANCRED_000_164", "hash": "FF0EB45E422C5C26", "target": "Secondo gli appunti di Krile, dobbiamo trovarla in un luogo chiamato Grande Opera, più a nord lungo la costa." }
   ]
 }

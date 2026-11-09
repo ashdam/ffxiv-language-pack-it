@@ -2,7 +2,7 @@
   "conversation": "quest/035/LucKzg021_03506",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzg021_03506#TEXT_LUCKZG021_03506_SEQ_00", "hash": "2A61845BBAC9482C", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Dalric ha bisogno della tua esperienza in fatto d'uova." },
+    { "gameKey": "quest/035/LucKzg021_03506#TEXT_LUCKZG021_03506_SEQ_00", "hash": "2A61845BBAC9482C", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Dalric ha bisogno della tua esperienza in fatto d'uova." },
     { "gameKey": "quest/035/LucKzg021_03506#TEXT_LUCKZG021_03506_TODO_00", "hash": "AE98D144B4AE0BE4", "target": "Trovare un uovo di phorusrhacos in perfette condizioni" },
     { "gameKey": "quest/035/LucKzg021_03506#TEXT_LUCKZG021_03506_TODO_01", "hash": "3500F686F5C633E6", "target": "Consegnare l'uovo di phorusrhacos al custode del magazzino" },
     { "gameKey": "quest/035/LucKzg021_03506#TEXT_LUCKZG021_03506_TODO_02", "hash": "D2FDC0488256100E", "target": "Fare rapporto a Dalric" },

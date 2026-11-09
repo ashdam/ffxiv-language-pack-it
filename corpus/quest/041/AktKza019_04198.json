@@ -2,7 +2,7 @@
   "conversation": "quest/041/AktKza019_04198",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/041/AktKza019_04198#TEXT_AKTKZA019_04198_SEQ_00", "hash": "7F95DC3EBD51C191", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>La bambina si guarda attorno, cercando di attirare l'attenzione dei passanti." },
+    { "gameKey": "quest/041/AktKza019_04198#TEXT_AKTKZA019_04198_SEQ_00", "hash": "7F95DC3EBD51C191", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>La bambina si guarda attorno, cercando di attirare l'attenzione dei passanti." },
     { "gameKey": "quest/041/AktKza019_04198#TEXT_AKTKZA019_04198_TODO_00", "hash": "5B056695CC093042", "target": "Parlare con l'Au Ra dai capelli ramati" },
     { "gameKey": "quest/041/AktKza019_04198#TEXT_AKTKZA019_04198_TODO_01", "hash": "861DDF14BEAC960E", "target": "Attendere e uccidere il sotormurg quando appare" },
     { "gameKey": "quest/041/AktKza019_04198#TEXT_AKTKZA019_04198_TODO_02", "hash": "CDF7BE43BE0731E5", "target": "Consegnare la sotormurg meat all'Au Ra dai capelli ramati" },
@@ -30,7 +30,7 @@
     { "gameKey": "quest/041/AktKza019_04198#TEXT_AKTKZA019_04198_A1_000_002", "hash": "D51DF9CC5EA84D6A", "target": "Dopotutto, è il tuo giorno del nome." },
     { "gameKey": "quest/041/AktKza019_04198#TEXT_AKTKZA019_04198_CHILDA04198_000_022", "hash": "409D523682DA2550", "target": "Grazie!" },
     { "gameKey": "quest/041/AktKza019_04198#TEXT_AKTKZA019_04198_CHILDB04198_000_023", "hash": "C704B7E5F6AF9B65", "target": "Tra i miei ricordi più cari ci sono quelli di noi riuniti a tavola in famiglia, davanti a un banchetto fatto in casa." },
-    { "gameKey": "quest/041/AktKza019_04198#TEXT_AKTKZA019_04198_CHILDB04198_000_024", "hash": "C24636950153ADB5", "target": "I nostri genitori sono andati a Radz<-->at<-->Han per cercare lavoro, dato che da quando è comparsa quella torre qui non se ne trova. Hanno mandato a dire che torneranno per il giorno del nome di questa piccola." },
+    { "gameKey": "quest/041/AktKza019_04198#TEXT_AKTKZA019_04198_CHILDB04198_000_024", "hash": "C24636950153ADB5", "target": "I nostri genitori sono andati a Radz-at-Han per cercare lavoro, dato che da quando è comparsa quella torre qui non se ne trova. Hanno mandato a dire che torneranno per il giorno del nome di questa piccola." },
     { "gameKey": "quest/041/AktKza019_04198#TEXT_AKTKZA019_04198_CHILDB04198_000_025", "hash": "E6BBCB997DC7A012", "target": "Voglio che arrivino a un banchetto all'altezza di quelli di un tempo. E grazie a te sarà così. Accetta questo per tutto quello che hai fatto per regalare alla nostra famiglia un ricordo prezioso." }
   ]
 }

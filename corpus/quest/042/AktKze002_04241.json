@@ -2,9 +2,9 @@
   "conversation": "quest/042/AktKze002_04241",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/042/AktKze002_04241#TEXT_AKTKZE002_04241_SEQ_00", "hash": "1724FCD75B0DB40F", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Yawningway ha bisogno di aiuto per radunare i Loporrit del Carotorio all'ora di mangiare." },
+    { "gameKey": "quest/042/AktKze002_04241#TEXT_AKTKZE002_04241_SEQ_00", "hash": "1724FCD75B0DB40F", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Sbadígliolo ha bisogno di aiuto per radunare i Loporrit del Carotorio all'ora di mangiare." },
     { "gameKey": "quest/042/AktKze002_04241#TEXT_AKTKZE002_04241_TODO_00", "hash": "70F482C90F6E8C6C", "target": "Con la chat in modalità <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, scrivere «carrot of happiness» per chiamare i Loporrit" },
-    { "gameKey": "quest/042/AktKze002_04241#TEXT_AKTKZE002_04241_TODO_01", "hash": "6CBEF8B96E976679", "target": "Parlare con Yawningway" },
+    { "gameKey": "quest/042/AktKze002_04241#TEXT_AKTKZE002_04241_TODO_01", "hash": "6CBEF8B96E976679", "target": "Parlare con Sbadígliolo" },
     { "gameKey": "quest/042/AktKze002_04241#TEXT_AKTKZE002_04241_YAWNINGWAY_000_000", "hash": "DC1E49D98D638EE4", "target": "Oh, accidenti... \\<sbadiglio> Non si vede nessuno, ed è quasi ora di mangiare." },
     { "gameKey": "quest/042/AktKze002_04241#TEXT_AKTKZE002_04241_YAWNINGWAY_000_001", "hash": "3979B545E793CAD4", "target": "Mmm, voi laggiù... Se passate dal Carotorio, potreste dire ai miei compagni che è ora di mangiare? Se non mangiamo, non posso fare il pisolino..." },
     { "gameKey": "quest/042/AktKze002_04241#TEXT_AKTKZE002_04241_YAWNINGWAY_000_002", "hash": "1CC2C8C6CB5DF7F5", "target": "Molte grazie... \\<sbadiglio> Dovrebbero accorrere appena sentono parlare delle carrot of happiness. Basta dire quelle tre parole magiche e si metteranno in cammino." },

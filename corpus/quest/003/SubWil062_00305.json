@@ -2,19 +2,19 @@
   "conversation": "quest/003/SubWil062_00305",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_SEQ_00", "hash": "34880F6D042C480B", "target": "" },
-    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_SEQ_01", "hash": "C5E7C7E4065851D0", "target": "" },
-    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_SEQ_02", "hash": "D1AFCB9F2B5EBD3E", "target": "" },
-    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_SEQ_03", "hash": "7A2F74287EA99D32", "target": "" },
-    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_TODO_00", "hash": "7FF120E9D0060CF8", "target": "" },
-    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_TODO_01", "hash": "155012339A2F1792", "target": "" },
-    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_ROGER_000_1", "hash": "5BC65AFB0C960395", "target": "" },
-    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_ROGER_000_2", "hash": "E412E581CDE5B07B", "target": "" },
-    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_ROGER_000_3", "hash": "95906558D4DF8D40", "target": "" },
-    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_ROGER_000_4", "hash": "DDED2136E45A0964", "target": "" },
-    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_WARIN_000_10", "hash": "A89660F9E4CD4540", "target": "" },
-    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_WARIN_000_11", "hash": "FC211D79B90E558D", "target": "" },
-    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_WARIN_000_12", "hash": "31BACAB2297ECC17", "target": "" },
-    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_WARIN_000_13", "hash": "DFB0339941AD95B1", "target": "" }
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_SEQ_00", "hash": "34880F6D042C480B", "target": "Roger ha una proposta interessante per gli avventurieri in cerca di lavoro." },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_SEQ_01", "hash": "C5E7C7E4065851D0", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Questa missione è stata aggiornata. Abbandonala e ricomincia parlando con Roger al Forziere e la Bara.<edgecolortype(0)><colortype(0)><br><br>※La Guida dello Scenario mostra la prossima missione disponibile. Puoi attivarla o disattivarla dalle Impostazioni personaggio, nella sezione Impostazioni IU." },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_SEQ_02", "hash": "D1AFCB9F2B5EBD3E", "target": "Dopo una serie di scontri vittoriosi, hai raccolto cinque mandibole di formica. Porta la prova del tuo valore a Warin alla Stazione Sterpenero." },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_SEQ_03", "hash": "7A2F74287EA99D32", "target": "Inizialmente sorpreso, Warin riconosce il tuo potenziale e ti accoglie con calore. Si offre di affidarti altri incarichi, se sei disposto e in grado di svolgerli." },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_TODO_00", "hash": "7FF120E9D0060CF8", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Questa missione è stata aggiornata. Abbandonala e ricomincia parlando con Roger al Forziere e la Bara.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_TODO_01", "hash": "155012339A2F1792", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Questa missione è stata aggiornata. Abbandonala e ricomincia parlando con Roger al Forziere e la Bara.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_ROGER_000_1", "hash": "5BC65AFB0C960395", "target": "Pare che alla Stazione Sterpenero manchino parecchi soldati. Le Torce di Pietra non hanno un attimo di tregua." },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_ROGER_000_2", "hash": "E412E581CDE5B07B", "target": "Come se non bastasse, le formiche si moltiplicano a vista d'occhio. Per ogni bestiaccia che Warin e i suoi eliminano, ne saltano fuori altre due." },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_ROGER_000_3", "hash": "95906558D4DF8D40", "target": "Pensavo che potresti renderti utile alla stazione dando la caccia a qualche formica. Sono certo che Warin apprezzerebbe una mano." },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_ROGER_000_4", "hash": "DDED2136E45A0964", "target": "Se poi ti guadagni la sua fiducia, potrebbe affidarti altro lavoro. Ma dovrai dimostrargli quel che hai fatto: cinque mandibole di formica dovrebbero parlare per te." },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_WARIN_000_10", "hash": "A89660F9E4CD4540", "target": "Come? Dici di aver eliminato alcune formiche? Non sei certo il primo che viene qui a raccontarmelo, sperando di guadagnare qualche gil in fretta. Se non mi porti una prova, da me non vedrai neanche un gil." },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_WARIN_000_11", "hash": "FC211D79B90E558D", "target": "Per le palle di Thal... sono mandibole di formica!? Allora è vero: hai davvero fatto strage di quelle bestie! Ti chiedo scusa per aver dubitato delle tue parole." },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_WARIN_000_12", "hash": "31BACAB2297ECC17", "target": "Con Ul'dah così vicina, verrebbe da pensare di essere al sicuro. In realtà, le formiche sono più attive che mai. Non abbiamo mai abbastanza avventurieri in gamba che ci aiutino a mantenere la pace in zona." },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_WARIN_000_13", "hash": "DFB0339941AD95B1", "target": "Se sei disposto a darci una mano, ti affiderò volentieri un incarico. Gli dèi sanno che qui non mancano." }
   ]
 }

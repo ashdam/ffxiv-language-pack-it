@@ -2,7 +2,7 @@
   "conversation": "quest/041/AktKza016_04195",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/041/AktKza016_04195#TEXT_AKTKZA016_04195_SEQ_00", "hash": "97984F05EEED5952", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Parbeloix cerca qualcuno abile con un'arma." },
+    { "gameKey": "quest/041/AktKza016_04195#TEXT_AKTKZA016_04195_SEQ_00", "hash": "97984F05EEED5952", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Parbeloix cerca qualcuno abile con un'arma." },
     { "gameKey": "quest/041/AktKza016_04195#TEXT_AKTKZA016_04195_TODO_00", "hash": "7C72287D54532CD0", "target": "Consultare l'illustrazione per trovare e recuperare il sample 316" },
     { "gameKey": "quest/041/AktKza016_04195#TEXT_AKTKZA016_04195_TODO_01", "hash": "54226385FDBD3D54", "target": "Consegnare il sample 316 a Parbeloix" },
     { "gameKey": "quest/041/AktKza016_04195#TEXT_AKTKZA016_04195_PARBELOIX_000_000", "hash": "5E6EB4C3D7C5690C", "target": "<if(gnum4,Signora,Signore)>, ehi, <if(gnum4,signora,signore)>. Sono un po' nei guai e mi chiedevo se potessi aiutare uno studente in difficoltà." },
@@ -19,7 +19,7 @@
     { "gameKey": "quest/041/AktKza016_04195#TEXT_AKTKZA016_04195_SYSTEM_000_012", "hash": "80C64F55D9EA297A", "target": "Questi funghi corrispondono all'illustrazione che hai in mano. La lunga ricerca è finita!" },
     { "gameKey": "quest/041/AktKza016_04195#TEXT_AKTKZA016_04195_PARBELOIX_000_020", "hash": "433CDEE9806DAF7C", "target": "Be', dalla terra sugli stivali vedo che hai scavato da qualche parte. Sei <if(gnum4,riuscita,riuscito)> a trovare il mio campione?" },
     { "gameKey": "quest/041/AktKza016_04195#TEXT_AKTKZA016_04195_PARBELOIX_000_021", "hash": "194C2C79587813FD", "target": "Ah, sì, corrispondono esattamente alla mia illustrazione! Grazie ai Dodici, in questo mondo ci sono ancora persone coraggiose." },
-    { "gameKey": "quest/041/AktKza016_04195#TEXT_AKTKZA016_04195_PARBELOIX_000_022", "hash": "3F2622A3514664AB", "target": "Ti interessano i funghi? Questi sono stati sviluppati dalle spore dell'elfstool, che si trova solo nell'Aurum Vale. È un fungo raro, ma questi gli sono superiori sotto ogni aspetto." },
+    { "gameKey": "quest/041/AktKza016_04195#TEXT_AKTKZA016_04195_PARBELOIX_000_022", "hash": "3F2622A3514664AB", "target": "Ti interessano i funghi? Questi sono stati sviluppati dalle spore dell'elfstool, che si trova solo nell'Valdorata. È un fungo raro, ma questi gli sono superiori sotto ogni aspetto." },
     { "gameKey": "quest/041/AktKza016_04195#TEXT_AKTKZA016_04195_PARBELOIX_000_023", "hash": "115464DE3634357E", "target": "Tanto per cominciare, sono molto meno propensi a ucciderti. Un enorme miglioramento sotto ogni punto di vista." },
     { "gameKey": "quest/041/AktKza016_04195#TEXT_AKTKZA016_04195_PARBELOIX_000_024", "hash": "87C742800ACFC8C6", "target": "Naturalmente ho avuto anche dei fallimenti, ma meno ne parliamo, meglio è. Ciò che conta è il presente e la rivoluzione che il campione tre-uno-sei sicuramente annuncerà!" },
     { "gameKey": "quest/041/AktKza016_04195#TEXT_AKTKZA016_04195_SYSTEM_000_025", "hash": "722998733A5F328C", "target": "Un'immagine del sample 316." }

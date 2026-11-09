@@ -2,13 +2,13 @@
   "conversation": "quest/020/HeaVny805_02099",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_TOBANA_000_000", "hash": "B15EE8C04EEE227D", "target": "" },
-    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_TOBANA_000_002", "hash": "FF9C3492125A27AF", "target": "" },
-    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_TOBANA_000_006", "hash": "F3DB8DB3CB3C13DB", "target": "" },
-    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_SYSTEM_000_008", "hash": "0807D5291542BF3A", "target": "" },
-    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_SYSTEM_000_009", "hash": "F134E311BD126E01", "target": "" },
-    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_SYSTEM_000_010", "hash": "F47087DDEEB30FC2", "target": "" },
-    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_TOBANA_000_020", "hash": "0ABC88118B21CFC6", "target": "" },
-    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_SYSTEM_000_021", "hash": "7371D0936EEB85FA", "target": "" }
+    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_TOBANA_000_000", "hash": "B15EE8C04EEE227D", "target": "Per conto della Casa delle Meraviglie, desidero informarti delle ultime novità tra i nostri articoli in vendita." },
+    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_TOBANA_000_002", "hash": "FF9C3492125A27AF", "target": "La Casa sa che, di tanto in tanto, anche al più esperto Discepolo della Terra può servire una mano. Per questo siamo lieti di offrire una selezione esclusiva di favori, intrisi delle benedizioni dei Dodici." },
+    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_TOBANA_000_006", "hash": "F3DB8DB3CB3C13DB", "target": "Rendono sicuramente più produttive le tue attività di raccolta. Non si accettano resi." },
+    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_SYSTEM_000_008", "hash": "0807D5291542BF3A", "target": "Ora puoi acquistare i favori dalla mercante della Casa delle Meraviglie." },
+    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_SYSTEM_000_009", "hash": "F134E311BD126E01", "target": "I favori conferiscono status speciali e temporanei che consentono di trovare punti di raccolta altrimenti nascosti." },
+    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_SYSTEM_000_010", "hash": "F47087DDEEB30FC2", "target": "I favori sono legati a una specifica area e rivelano soltanto i punti di raccolta della zona indicata nella relativa descrizione. I punti nascosti permettono di ottenere oggetti rari, introvabili nei luoghi di raccolta comuni." },
+    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_TOBANA_000_020", "hash": "0ABC88118B21CFC6", "target": "Salve! Sarò lieta di informarti delle ultime novità tra i nostri articoli in vendita... non appena avrò verificato che tu abbia i requisiti necessari." },
+    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_SYSTEM_000_021", "hash": "7371D0936EEB85FA", "target": "Per affrontare questa missione, devi avere una classe dei Discepoli della Terra di livello 60." }
   ]
 }

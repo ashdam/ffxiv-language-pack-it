@@ -3,8 +3,8 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_SEQ_00", "hash": "92FB2AE10BB0BEE2", "target": "Papin vuole sorprendere la sua famiglia con qualcosa di bello." },
-    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_TODO_00", "hash": "36245E23EB9FB3E7", "target": "Uccidere i True Griffin per ottenerne la carne" },
-    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_TODO_01", "hash": "BFEF7B85BCA5835A", "target": "Consegnare i Griffin Meat a Papin" },
+    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_TODO_00", "hash": "36245E23EB9FB3E7", "target": "Uccidere i veri grifoni per ottenerne la carne" },
+    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_TODO_01", "hash": "BFEF7B85BCA5835A", "target": "Consegnare la carne di grifone a Papin" },
     { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_PAPIN_000_000", "hash": "E65BA6D0D964A95B", "target": "Scusa, <if(gnum4,signorina,signore)>? Ho sentito che voi avventurieri siete davvero coraggiosi e forti. Puoi aiutarmi? Voglio procurare qualcosa di davvero speciale per la mamma, ma non posso farlo da solo." },
     { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_PAPIN_000_001", "hash": "95469047910B3E9B", "target": "A nord del villaggio ci sono questi enormi uccelli chiamati grifoni, e dicono che la loro carne sia fra le migliori." },
     { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_PAPIN_000_002", "hash": "E0E13BFD96AB474A", "target": "Se ne portassi anche solo un po', sono sicuro che la mamma sarebbe felicissima." },

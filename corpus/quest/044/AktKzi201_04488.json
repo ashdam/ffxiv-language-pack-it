@@ -2,7 +2,7 @@
   "conversation": "quest/044/AktKzi201_04488",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/044/AktKzi201_04488#TEXT_AKTKZI201_04488_SEQ_00", "hash": "FB46FEEEF04F5E1C", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Verpaulaine ha ancora qualcosa da chiederti." },
+    { "gameKey": "quest/044/AktKzi201_04488#TEXT_AKTKZI201_04488_SEQ_00", "hash": "FB46FEEEF04F5E1C", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Verpaulaine ha ancora qualcosa da chiederti." },
     { "gameKey": "quest/044/AktKzi201_04488#TEXT_AKTKZI201_04488_SEQ_01", "hash": "FEA4A7F0A0772E09", "target": "Verpaulaine ti informa di aver fatto amicizia di recente con un giovane troll, che presto riconosci come Shaggles. Spiega di avere difficoltà a comunicare con la creatura, così ti unisci a lui per andare a trovare la vostra comune conoscenza.<br><br>※La difficoltà di questa missione è stata sincronizzata con il tuo livello attuale." },
     { "gameKey": "quest/044/AktKzi201_04488#TEXT_AKTKZI201_04488_SEQ_02", "hash": "0B2C95A7A3FDA9B6", "target": "Shaggles ti spiega di aver ideato un incantesimo che gli permetterebbe di conversare correttamente, ma non riesce ad attivarlo da solo. Verpaulaine dice allora di poter usare il reattore elementale per creare una corrente artificiale di etere di vento, che potrebbe dare a Shaggles l'aiuto necessario. Il troll accetta di provare il piano del ragazzo, e tutti e tre vi dirigete al reattore." },
     { "gameKey": "quest/044/AktKzi201_04488#TEXT_AKTKZI201_04488_SEQ_03", "hash": "E8EED8D053DB85B6", "target": "Dopo aver creato una corrente artificiale a una certa distanza dal reattore, Verpaulaine ti invita ad accompagnare ancora lui e il troll, per proteggerli dalle minacce che si nutrirebbero del suo etere." },
@@ -105,6 +105,6 @@
     { "gameKey": "quest/044/AktKzi201_04488#TEXT_AKTKZI201_04488_LITTLETROLL_000_087", "hash": "093A129C1D64FE30", "target": "Non sarebbe successo nulla di tutto questo se non ci fossimo incontrati, vero?" },
     { "gameKey": "quest/044/AktKzi201_04488#TEXT_AKTKZI201_04488_VERPAULAINE_000_088", "hash": "279B53C83517AA95", "target": "Non avrei mai avuto questa opportunità, né un nuovo amico tanto meraviglioso, senza di voi." },
     { "gameKey": "quest/044/AktKzi201_04488#TEXT_AKTKZI201_04488_VERPAULAINE_000_089", "hash": "3AF6BB405C0FEF1F", "target": "Grazie. Lo dico davvero." },
-    { "gameKey": "quest/044/AktKzi201_04488#TEXT_AKTKZI201_04488_VERPAULAINE_000_090", "hash": "5E6F618709E3BE6C", "target": "Arrivederci!" }
+    { "gameKey": "quest/044/AktKzi201_04488#TEXT_AKTKZI201_04488_VERPAULAINE_000_090", "hash": "BAFEEEE48084CB19", "target": "Arrivederci!" }
   ]
 }

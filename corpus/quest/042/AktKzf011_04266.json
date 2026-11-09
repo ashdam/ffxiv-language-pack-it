@@ -2,7 +2,7 @@
   "conversation": "quest/042/AktKzf011_04266",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/042/AktKzf011_04266#TEXT_AKTKZF011_04266_SEQ_00", "hash": "557CBD79327A8DC6", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Mihsaja vuole leggere il destino di <if(gnum4,una coraggiosa avventuriera,un coraggioso avventuriero)>." },
+    { "gameKey": "quest/042/AktKzf011_04266#TEXT_AKTKZF011_04266_SEQ_00", "hash": "557CBD79327A8DC6", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Mihsaja vuole leggere il destino di <if(gnum4,una coraggiosa avventuriera,un coraggioso avventuriero)>." },
     { "gameKey": "quest/042/AktKzf011_04266#TEXT_AKTKZF011_04266_TODO_00", "hash": "96A164DD7F587D35", "target": "Raccogliere spezie per preparare il tè chai" },
     { "gameKey": "quest/042/AktKzf011_04266#TEXT_AKTKZF011_04266_TODO_01", "hash": "58EE18D49289C7D8", "target": "Parlare con Mihsaja" },
     { "gameKey": "quest/042/AktKzf011_04266#TEXT_AKTKZF011_04266_MIHSAJA_000_000", "hash": "469EED51AFE8575C", "target": "Conosco bene quello sguardo. Vuoi vedere i fili del destino che ti guidano, vero? E se ti dicessi che si possono illuminare con la raffinata arte della lettura del tè chai?" },

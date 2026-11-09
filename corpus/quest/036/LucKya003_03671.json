@@ -2,7 +2,7 @@
   "conversation": "quest/036/LucKya003_03671",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/036/LucKya003_03671#TEXT_LUCKYA003_03671_SEQ_00", "hash": "9BF8215AF2FC90CD", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Una nuova voce ha messo in subbuglio i nani di Komra." },
+    { "gameKey": "quest/036/LucKya003_03671#TEXT_LUCKYA003_03671_SEQ_00", "hash": "9BF8215AF2FC90CD", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Una nuova voce ha messo in subbuglio i nani di Komra." },
     { "gameKey": "quest/036/LucKya003_03671#TEXT_LUCKYA003_03671_TODO_00", "hash": "635BCD24FBD1AA2A", "target": "Parlare con la guardia degli scavi" },
     { "gameKey": "quest/036/LucKya003_03671#TEXT_LUCKYA003_03671_TODO_01", "hash": "D9FE6EBA19506B30", "target": "Parlare con il caposquadra degli scavi" },
     { "gameKey": "quest/036/LucKya003_03671#TEXT_LUCKYA003_03671_TODO_02", "hash": "CF5E3B9627E8047C", "target": "Parlare con Anogg" },
@@ -27,7 +27,7 @@
     { "gameKey": "quest/036/LucKya003_03671#TEXT_LUCKYA003_03671_TUNNELGUARD03671_000_060", "hash": "3809E5B4FF211827", "target": "N-n-no, signor capo! Signore!" },
     { "gameKey": "quest/036/LucKya003_03671#TEXT_LUCKYA003_03671_DWARFMASTER03671_000_061", "hash": "1162A01A67515037", "target": "Niente razioni per te, stasera!" },
     { "gameKey": "quest/036/LucKya003_03671#TEXT_LUCKYA003_03671_TUNNELGUARD03671_000_062", "hash": "089EFA4BF3A3C2B3", "target": "Capo, no! Pietà! Pietaaaaà!" },
-    { "gameKey": "quest/036/LucKya003_03671#TEXT_LUCKYA003_03671_TUNNELGUARD03671_000_063", "hash": "88CEA899EC8C4624", "target": "Non... \\<singhiozzo>... non è giusto, te lo dico io... Un nano sgobba giorno e notte per una miseria, prova a guadagnare qualcosa in più e che cosa ci ricava... \\<pianto>" },
+    { "gameKey": "quest/036/LucKya003_03671#TEXT_LUCKYA003_03671_TUNNELGUARD03671_000_063", "hash": "88CEA899EC8C4624", "target": "Non... \\<sniff>... non è giusto, te lo dico io... Un nano sgobba giorno e notte per una miseria, prova a guadagnare qualcosa in più e che cosa ci ricava... \\<sob>" },
     { "gameKey": "quest/036/LucKya003_03671#TEXT_LUCKYA003_03671_TUNNELGUARD03671_000_064", "hash": "28025A71CC264EEC", "target": "Bene, comunque... smamma. Nessuno passa senza il permesso del capo, e so che tu non ce l'hai." },
     { "gameKey": "quest/036/LucKya003_03671#TEXT_LUCKYA003_03671_TUNNELGUARD03671_000_065", "hash": "46DAB52A00319FC2", "target": "Oh, guarda chi c'è: <if(gnum4,la peccatrice,il peccatore)> che mi ha fatto saltare la cena. Vai a seccare il capo se vuoi entrare, perché io non ti lascio passare di certo." },
     { "gameKey": "quest/036/LucKya003_03671#TEXT_LUCKYA003_03671_DWARFMASTER03671_000_070", "hash": "CE54473BE2894068", "target": "Non ho tempo, <if(gnum4,amica,amico)>. Abbiamo già le mani piene con quest'ultima scoperta..." },
@@ -72,7 +72,7 @@
     { "gameKey": "quest/036/LucKya003_03671#TEXT_LUCKYA003_03671_ANOGG_000_254", "hash": "7AB0EE43F5FDAAC7", "target": "(Oh, giusto! C'è mancato poco, fratello!)" },
     { "gameKey": "quest/036/LucKya003_03671#TEXT_LUCKYA003_03671_KONOGG_000_255", "hash": "4F4628EF859DE826", "target": "Bene, per la prossima richiesta..." },
     { "gameKey": "quest/036/LucKya003_03671#TEXT_LUCKYA003_03671_DWARFMASTER03671_000_256", "hash": "34EB3B6B62336EF2", "target": "Lali-ma che diavolo state combinando voi due-ho!? Se pensate anche solo di approfittare di questa brava persona, vi concio per le feste e vi butto giù dalle Cascate dell'Olio Bianco! Ora sparite!" },
-    { "gameKey": "quest/036/LucKya003_03671#TEXT_LUCKYA003_03671_ANOGG_000_257", "hash": "E7997BEA51D7B8B6", "target": "Signorsì, signore!" },
+    { "gameKey": "quest/036/LucKya003_03671#TEXT_LUCKYA003_03671_ANOGG_000_257", "hash": "4665530408922BB1", "target": "Signorsì, signore!" },
     { "gameKey": "quest/036/LucKya003_03671#TEXT_LUCKYA003_03671_DWARFMASTER03671_000_258", "hash": "F2FCA62476A40ACA", "target": "Scusa per questo. Non sanno comportarsi meglio, visto che sono completamente soli. Senza genitori." },
     { "gameKey": "quest/036/LucKya003_03671#TEXT_LUCKYA003_03671_DWARFMASTER03671_000_259", "hash": "41EB87DC9461EB91", "target": "Hanno perso più di tanti altri, diciamo. Più di quanto chiunque dovrebbe perdere." },
     { "gameKey": "quest/036/LucKya003_03671#TEXT_LUCKYA003_03671_DWARFMASTER03671_000_260", "hash": "DE40B880EE14855A", "target": "Comunque volevo chiederti una cosa. Tutti dicono che sei la generosità in persona: <if(gnum4,una peccatrice,un peccatore)> che non può fare a meno di aiutare chi ne ha bisogno. Non per fama, fortuna o ricompense, ma per il solo piacere di farlo. Sbaglio?" },
@@ -100,6 +100,6 @@
     { "gameKey": "quest/036/LucKya003_03671#TEXT_LUCKYA003_03671_RUMORSDWARF03671_000_400", "hash": "D384CEB4B0D05D5C", "target": "Hai curiosato a Komra, eh? Hai scoperto qualcosa sul grande ritrovamento?" },
     { "gameKey": "quest/036/LucKya003_03671#TEXT_LUCKYA003_03671_RUMORSDWARF03671_000_401", "hash": "5BFA362D4C2E94E8", "target": "Un cimitero di macchine, eh? Interessante, interessante... Potrebbe essere l'inizio di una grande, grandiosa avventura. O di una del tutto insensata, anche se ogni tanto pure quelle hanno il loro fascino, lo ammetto." },
     { "gameKey": "quest/036/LucKya003_03671#TEXT_LUCKYA003_03671_DWARFMASTER03671_000_410", "hash": "D04410E7E677DB29", "target": "Bisogna tenersi occupati, è il mio motto. Le mani oziose sono i giocattoli delle fate." },
-    { "gameKey": "quest/036/LucKya003_03671#TEXT_LUCKYA003_03671_TUNNELGUARD03671_000_411", "hash": "D76E753324BD4C47", "target": "Maledetta Luce, se anche tu cominci a tormentarmi per entrare come quei gemelli... \\<sospiro> Che senso ha fare la guardia se non ci guadagni niente? Perché mai qualcuno dovrebbe accettare questo lavoro?" }
+    { "gameKey": "quest/036/LucKya003_03671#TEXT_LUCKYA003_03671_TUNNELGUARD03671_000_411", "hash": "D76E753324BD4C47", "target": "Maledetta Luce, se anche tu cominci a tormentarmi per entrare come quei gemelli... \\<sigh> Che senso ha fare la guardia se non ci guadagni niente? Perché mai qualcuno dovrebbe accettare questo lavoro?" }
   ]
 }

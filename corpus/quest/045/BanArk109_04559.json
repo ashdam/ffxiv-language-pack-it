@@ -6,7 +6,7 @@
     { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_TODO_00", "hash": "FFDB812F7F6BBA57", "target": "Cercare il taciturn Rider" },
     { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_TODO_01", "hash": "EEEBFB2E4D4C496B", "target": "Parlare con il taciturn Rider" },
     { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_TODO_02", "hash": "FE15F9FAD81E2393", "target": "Fare rapporto a Maru" },
-    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_MARU_000_000", "hash": "0741C4E66A96AEC0", "target": "<split(<string(gstr1)>, ,1)>, non hai visto un Cavalcaippopotami taciturno che portava un paio di brocche d'olio di valras, vero?" },
+    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_MARU_000_000", "hash": "0741C4E66A96AEC0", "target": "<split(<string(gstr1)>, ,1)>, non hai visto un Cavalcatore di Ippopotami taciturno che portava un paio di brocche d'olio di valras, vero?" },
     { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_MARU_000_001", "hash": "D48B5E769749FB08", "target": "È un tipo tosto, quindi non ci ho pensato due volte a mandarlo a pestare valras, ma ora temo gli sia successo qualcosa." },
     { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_MARU_000_002", "hash": "9C0917433F2C6A1C", "target": "Penso che tu sia ancora più <if(gnum4,tosta,tosto)> di lui, quindi ti dispiacerebbe cercarlo? Dovrebbe essere da qualche parte sul Colle Profumato, e spero non a pezzi." },
     { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_ROUGHDELIVERER04559_000_010", "hash": "9B5D8FD6A6943533", "target": "... Ti devo i miei ringraziamenti. Le circostanze mi impedivano di ritirarmi." },

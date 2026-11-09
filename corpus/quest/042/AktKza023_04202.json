@@ -2,7 +2,7 @@
   "conversation": "quest/042/AktKza023_04202",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/042/AktKza023_04202#TEXT_AKTKZA023_04202_SEQ_00", "hash": "D6591D6E861BA398", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>L'alchimista muscoloso ha bisogno d'aiuto per trovare ingredienti per le sue vernici." },
+    { "gameKey": "quest/042/AktKza023_04202#TEXT_AKTKZA023_04202_SEQ_00", "hash": "D6591D6E861BA398", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>L'alchimista muscoloso ha bisogno d'aiuto per trovare ingredienti per le sue vernici." },
     { "gameKey": "quest/042/AktKza023_04202#TEXT_AKTKZA023_04202_TODO_00", "hash": "8568F97D08F8EEEF", "target": "Parlare con l'alchimista muscoloso" },
     { "gameKey": "quest/042/AktKza023_04202#TEXT_AKTKZA023_04202_TODO_01", "hash": "B1F9419291863CA2", "target": "Cospargere l'alchimista muscoloso di fragrant oil" },
     { "gameKey": "quest/042/AktKza023_04202#TEXT_AKTKZA023_04202_TODO_02", "hash": "95A94C64739F444C", "target": "Attendere nel luogo indicato e sconfiggere il vajralangula" },
@@ -24,7 +24,7 @@
     { "gameKey": "quest/042/AktKza023_04202#TEXT_AKTKZA023_04202_MACHOALCHEMIST_100_010", "hash": "1F123A561DA78660", "target": "Attirerò qui un vajralangula. Aspettate qui e preparatevi a colpire!" },
     { "gameKey": "quest/042/AktKza023_04202#TEXT_AKTKZA023_04202_MACHOALCHEMIST_000_011", "hash": "7AA63B10BB01824F", "target": "Che valore! A stento riuscivo a distogliere lo sguardo mentre abbattevate eroicamente la bestia! ...Ora il frutto, per favore." },
     { "gameKey": "quest/042/AktKza023_04202#TEXT_AKTKZA023_04202_MACHOALCHEMIST_000_012", "hash": "18B56A15B535AF36", "target": "Mmm, sì. Perfettamente maturo e succoso. Ne verrà una splendida vernice." },
-    { "gameKey": "quest/042/AktKza023_04202#TEXT_AKTKZA023_04202_MACHOALCHEMIST_000_013", "hash": "8E850F62CC6A1DE4", "target": "Qui abbiamo finito. Torniamo al Great Work prima che un altro vajralangula metta gli occhi su di me." },
+    { "gameKey": "quest/042/AktKza023_04202#TEXT_AKTKZA023_04202_MACHOALCHEMIST_000_013", "hash": "8E850F62CC6A1DE4", "target": "Qui abbiamo finito. Torniamo alla Grande Opera prima che un altro vajralangula metta gli occhi su di me." },
     { "gameKey": "quest/042/AktKza023_04202#TEXT_AKTKZA023_04202_MACHOALCHEMIST_000_014", "hash": "745138D4EDD8102B", "target": "Grazie mille per il vostro aiuto, <if(gnum4,avventuriera,avventuriero)>. Non immaginavo di poter procurare un ingrediente tanto pregiato per la mia vernice." },
     { "gameKey": "quest/042/AktKza023_04202#TEXT_AKTKZA023_04202_MACHOALCHEMIST_000_015", "hash": "AED2E3389244A237", "target": "Ditemi, sapete perché i vajralangula portano questo frutto? Lo offrono alle compagne che desiderano. Da qui gli oli profumati. Feromoni, capite?" },
     { "gameKey": "quest/042/AktKza023_04202#TEXT_AKTKZA023_04202_MACHOALCHEMIST_000_016", "hash": "FA1BF7D879F4A236", "target": "L'amra è anche il frutto ufficiale di Thavnair. Potete mangiarlo o usarlo per dipingere, come farò io, naturalmente, ma si dice anche che tenga lontano il male e garantisca una forte discendenza familiare." },

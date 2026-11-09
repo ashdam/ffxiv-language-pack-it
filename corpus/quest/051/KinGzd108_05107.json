@@ -2,11 +2,11 @@
   "conversation": "quest/051/KinGzd108_05107",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/051/KinGzd108_05107#TEXT_KINGZD108_05107_SEQ_00", "hash": "3292CC137AE86B06", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Zeseel Ja riflette intensamente sul futuro del Boschetto di Golmajiik." },
+    { "gameKey": "quest/051/KinGzd108_05107#TEXT_KINGZD108_05107_SEQ_00", "hash": "3292CC137AE86B06", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Zeseel Ja riflette intensamente sul futuro del Boschetto di Golmajiik." },
     { "gameKey": "quest/051/KinGzd108_05107#TEXT_KINGZD108_05107_TODO_00", "hash": "B18806ABF1214D22", "target": "Chiedere agli abitanti di Mamook informazioni sul Boschetto di Golmajiik" },
     { "gameKey": "quest/051/KinGzd108_05107#TEXT_KINGZD108_05107_TODO_01", "hash": "23288BC36AF9CB5D", "target": "Parlare con Zeseel Ja" },
     { "gameKey": "quest/051/KinGzd108_05107#TEXT_KINGZD108_05107_ZESEELJA_000_000", "hash": "31EFA00D6CE7372A", "target": "Scusa il disturbo, ma potrei chiedere il tuo aiuto?" },
-    { "gameKey": "quest/051/KinGzd108_05107#TEXT_KINGZD108_05107_ZESEELJA_000_001", "hash": "47DE06AC6B453364", "target": "Mamook comincia a percorrere una strada diversa, e anche il Boschetto di Golmajiik dovrebbe farlo. O almeno credo. Probabilmente. \\<sospiro> Il punto è che non ne sono sicuro." },
+    { "gameKey": "quest/051/KinGzd108_05107#TEXT_KINGZD108_05107_ZESEELJA_000_001", "hash": "47DE06AC6B453364", "target": "Mamook comincia a percorrere una strada diversa, e anche il Boschetto di Golmajiik dovrebbe farlo. O almeno credo. Probabilmente. \\<sigh> Il punto è che non ne sono sicuro." },
     { "gameKey": "quest/051/KinGzd108_05107#TEXT_KINGZD108_05107_ZESEELJA_000_002", "hash": "317E04465E7A894F", "target": "Vorrei sapere che cosa spera la gente per il futuro del boschetto, ma temo che non sarebbe sincera se lo chiedessi io. Dopotutto, nessuno vuole turbare chi cura i najool. Potresti chiedere in giro per me?" },
     { "gameKey": "quest/051/KinGzd108_05107#TEXT_KINGZD108_05107_ZESEELJA_000_003", "hash": "0226B3D48FF3D31B", "target": "Voglio sapere che cosa desidera la nostra gente dal Boschetto di Golmajiik per il futuro. Con piena sincerità." },
     { "gameKey": "quest/051/KinGzd108_05107#TEXT_KINGZD108_05107_SONEELJA_000_004", "hash": "A53DB63E4E311314", "target": "Il futuro del boschetto? Be'... i najool che coltivano sono essenziali per la nostra società." },

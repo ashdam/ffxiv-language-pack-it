@@ -2,7 +2,7 @@
   "conversation": "quest/042/AktKzb004_04209",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_SEQ_00", "hash": "87E3A92E1ED5DC1A", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Kusuma sembra esitare a rivolgerti la parola." },
+    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_SEQ_00", "hash": "87E3A92E1ED5DC1A", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Kusuma sembra esitare a rivolgerti la parola." },
     { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_TODO_00", "hash": "0A45B267E723E245", "target": "Usare il coltello di fiele di gigante per ottenere trucioli di corteccia dall'albero sul pendio" },
     { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_TODO_01", "hash": "B0B978A2201E45B5", "target": "Consegnare i trucioli di corteccia e il coltello di fiele di gigante a Kusuma" },
     { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_KUSUMA_100_000", "hash": "55F891408D071611", "target": "Scusate, <if(gnum4,esploratrice,esploratore)>... <if(gnum4,mercenaria,mercenario)>... persona avventurosa! Di solito non oserei disturbarvi, ma questo non sembra il momento di gravare ulteriormente sui valorosi soldati della Guardia Radiosa." },

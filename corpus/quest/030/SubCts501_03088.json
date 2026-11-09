@@ -2,15 +2,15 @@
   "conversation": "quest/030/SubCts501_03088",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/030/SubCts501_03088#TEXT_SUBCTS501_03088_WANDERINGMINSTREL_000_000", "hash": "0ECFC2380D632B99", "target": "" },
-    { "gameKey": "quest/030/SubCts501_03088#TEXT_SUBCTS501_03088_WANDERINGMINSTREL_000_001", "hash": "58F18776F367AB06", "target": "" },
-    { "gameKey": "quest/030/SubCts501_03088#TEXT_SUBCTS501_03088_WANDERINGMINSTREL_000_002", "hash": "24D09ACE65A5DEB6", "target": "" },
-    { "gameKey": "quest/030/SubCts501_03088#TEXT_SUBCTS501_03088_WANDERINGMINSTREL_000_003", "hash": "35A3542645992EB6", "target": "" },
-    { "gameKey": "quest/030/SubCts501_03088#TEXT_SUBCTS501_03088_WANDERINGMINSTREL_000_004", "hash": "3B36009D9CE0F026", "target": "" },
-    { "gameKey": "quest/030/SubCts501_03088#TEXT_SUBCTS501_03088_WANDERINGMINSTREL_000_005", "hash": "B682DFDD6ED69B98", "target": "" },
-    { "gameKey": "quest/030/SubCts501_03088#TEXT_SUBCTS501_03088_WANDERINGMINSTREL_000_006", "hash": "566754DAB3970D2E", "target": "" },
-    { "gameKey": "quest/030/SubCts501_03088#TEXT_SUBCTS501_03088_WANDERINGMINSTREL_000_007", "hash": "C185749E9DD53D11", "target": "" },
-    { "gameKey": "quest/030/SubCts501_03088#TEXT_SUBCTS501_03088_WANDERINGMINSTREL_000_010", "hash": "40C97AD825644BB0", "target": "" },
-    { "gameKey": "quest/030/SubCts501_03088#TEXT_SUBCTS501_03088_WANDERINGMINSTREL_000_011", "hash": "CDE7BE36BEA2A391", "target": "" }
+    { "gameKey": "quest/030/SubCts501_03088#TEXT_SUBCTS501_03088_WANDERINGMINSTREL_000_000", "hash": "0ECFC2380D632B99", "target": "Sei venuto ad ascoltare la mia arpa? Quale elogio più grande potrebbe desiderare un menestrello, se non avere tra il pubblico proprio l'eroe che ispira i suoi canti!" },
+    { "gameKey": "quest/030/SubCts501_03088#TEXT_SUBCTS501_03088_WANDERINGMINSTREL_000_001", "hash": "58F18776F367AB06", "target": "Eppure non ho nuove composizioni degne delle orecchie di un campione. Ah, se avessi qualcosa di meglio con cui intrattenerti..." },
+    { "gameKey": "quest/030/SubCts501_03088#TEXT_SUBCTS501_03088_WANDERINGMINSTREL_000_002", "hash": "24D09ACE65A5DEB6", "target": "Ah! Mi è venuta un'idea meravigliosa! <italic(1)>Tu<italic(0)> sarai l'autore e il protagonista delle tue stesse opere!" },
+    { "gameKey": "quest/030/SubCts501_03088#TEXT_SUBCTS501_03088_WANDERINGMINSTREL_000_003", "hash": "35A3542645992EB6", "target": "Sì! Intrecciando un'epopea con le tue imprese, potrai guardare con occhio critico alle tue gesta passate. Pensa a queste opere come a muse per la tua crescita futura!" },
+    { "gameKey": "quest/030/SubCts501_03088#TEXT_SUBCTS501_03088_WANDERINGMINSTREL_000_004", "hash": "3B36009D9CE0F026", "target": "Scrivere una poesia non è difficile, te lo assicuro: le parole verranno da sé. Immagina la scena e racconta i tuoi ricordi con precisione." },
+    { "gameKey": "quest/030/SubCts501_03088#TEXT_SUBCTS501_03088_WANDERINGMINSTREL_000_005", "hash": "B682DFDD6ED69B98", "target": "Non omettere né aggiungere nulla e la verità resterà intatta. Recitare il componimento finito dovrebbe poi riportare vividamente il passato davanti agli occhi della mente." },
+    { "gameKey": "quest/030/SubCts501_03088#TEXT_SUBCTS501_03088_WANDERINGMINSTREL_000_006", "hash": "566754DAB3970D2E", "target": "E quando ripenserai agli eventi con lucidità, ciò che nel caos era nascosto ti apparirà lampante. Soprattutto se i fatti non saranno alterati dagli <italic(1)>abbellimenti<italic(0)> che potrei aggiungere al racconto... \\<coff>" },
+    { "gameKey": "quest/030/SubCts501_03088#TEXT_SUBCTS501_03088_WANDERINGMINSTREL_000_007", "hash": "C185749E9DD53D11", "target": "Che il ricordo delle tue saghe ti porti ispirazione e nuove intuizioni. Ah, e torna a raccontarmi ciò che avrai composto!" },
+    { "gameKey": "quest/030/SubCts501_03088#TEXT_SUBCTS501_03088_WANDERINGMINSTREL_000_010", "hash": "40C97AD825644BB0", "target": "Hai sbloccato il <colortype(500)><edgecolortype(501)>Registratore Incarichi<edgecolortype(0)><colortype(0)>, che ti permette di registrare gli incarichi e rivederli in una stanza della locanda." },
+    { "gameKey": "quest/030/SubCts501_03088#TEXT_SUBCTS501_03088_WANDERINGMINSTREL_000_011", "hash": "CDE7BE36BEA2A391", "target": "Apri l'interfaccia <colortype(500)><edgecolortype(501)>Registratore Incarichi<edgecolortype(0)><colortype(0)> nella sezione <colortype(500)><edgecolortype(501)>Incarichi<edgecolortype(0)><colortype(0)> del menu principale e consulta il testo d'aiuto per scoprire come usare questa funzione." }
   ]
 }

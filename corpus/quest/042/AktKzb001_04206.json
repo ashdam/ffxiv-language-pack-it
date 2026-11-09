@@ -2,7 +2,7 @@
   "conversation": "quest/042/AktKzb001_04206",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/042/AktKzb001_04206#TEXT_AKTKZB001_04206_SEQ_00", "hash": "353FF434CA029443", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Reensarudh sembra completamente sconvolto." },
+    { "gameKey": "quest/042/AktKzb001_04206#TEXT_AKTKZB001_04206_SEQ_00", "hash": "353FF434CA029443", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Reensarudh sembra completamente sconvolto." },
     { "gameKey": "quest/042/AktKzb001_04206#TEXT_AKTKZB001_04206_TODO_00", "hash": "389DDD3D961B9F91", "target": "Cercare la hamsa smarrita e uccidere i predatori che compaiono" },
     { "gameKey": "quest/042/AktKzb001_04206#TEXT_AKTKZB001_04206_TODO_01", "hash": "CC472F0C1D829ADE", "target": "Salvare la hamsa smarrita" },
     { "gameKey": "quest/042/AktKzb001_04206#TEXT_AKTKZB001_04206_TODO_02", "hash": "4EAE9578C45C891E", "target": "Parlare con Reensarudh" },

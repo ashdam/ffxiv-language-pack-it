@@ -2,11 +2,11 @@
   "conversation": "quest/006/SubWil115_00624",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/006/SubWil115_00624#TEXT_SUBWIL115_00624_SEQ_00", "hash": "576EADF4629AC291", "target": "Tutusi di Campo Drybone cerca qualcuno che procuri delle lombate di myotragus." },
+    { "gameKey": "quest/006/SubWil115_00624#TEXT_SUBWIL115_00624_SEQ_00", "hash": "576EADF4629AC291", "target": "Tutusi di Campo Ossasecca cerca qualcuno che procuri delle lombate di myotragus." },
     { "gameKey": "quest/006/SubWil115_00624#TEXT_SUBWIL115_00624_SEQ_01", "hash": "A9E2BB3AB50D4B51", "target": "Tutusi e Zozoru vogliono offrire a un uomo gravemente ferito un banchetto di bistecche di myotragus, forse il suo ultimo pasto. Uccidi dei myotragus nanny e ottieni i lombi necessari a esaudire il loro desiderio." },
-    { "gameKey": "quest/006/SubWil115_00624#TEXT_SUBWIL115_00624_SEQ_02", "hash": "77D2FEA24C8197FD", "target": "Hai ottenuto cinque lombate di myotragus. Consegnale a sorella Zozoru alla locanda di Campo Drybone." },
+    { "gameKey": "quest/006/SubWil115_00624#TEXT_SUBWIL115_00624_SEQ_02", "hash": "77D2FEA24C8197FD", "target": "Hai ottenuto cinque lombate di myotragus. Consegnale a sorella Zozoru alla locanda di Campo Ossasecca." },
     { "gameKey": "quest/006/SubWil115_00624#TEXT_SUBWIL115_00624_SEQ_03", "hash": "0DF2D6375DD0467D", "target": "Purtroppo l'uomo che desiderava il banchetto di bistecche è morto per le ferite. Torna da Tutusi con la cattiva notizia." },
-    { "gameKey": "quest/006/SubWil115_00624#TEXT_SUBWIL115_00624_SEQ_04", "hash": "F0F9679106FBBF70", "target": "Tutusi ti invita a non tormentarti per il desiderio inesaudito del moribondo. Nel commercio della morte c'è sempre lavoro, e i mercanti di Campo Drybone non si concedono il lusso del dolore." },
+    { "gameKey": "quest/006/SubWil115_00624#TEXT_SUBWIL115_00624_SEQ_04", "hash": "F0F9679106FBBF70", "target": "Tutusi ti invita a non tormentarti per il desiderio inesaudito del moribondo. Nel commercio della morte c'è sempre lavoro, e i mercanti di Campo Ossasecca non si concedono il lusso del dolore." },
     { "gameKey": "quest/006/SubWil115_00624#TEXT_SUBWIL115_00624_TODO_00", "hash": "4ED175750AF39387", "target": "Ottenere le lombate dai myotragus nanny" },
     { "gameKey": "quest/006/SubWil115_00624#TEXT_SUBWIL115_00624_TODO_01", "hash": "A1DEB5AC6E3A2F5F", "target": "Consegnare le lombate di myotragus a sorella Zozoru" },
     { "gameKey": "quest/006/SubWil115_00624#TEXT_SUBWIL115_00624_TODO_02", "hash": "03685651B40A863F", "target": "Fare rapporto a Tutusi" },
@@ -18,8 +18,8 @@
     { "gameKey": "quest/006/SubWil115_00624#TEXT_SUBWIL115_00624_ZOZORU_000_11", "hash": "C32B0DFD533D4F30", "target": "Lombate di myotragus? Immagino vi abbia mandato Tutusi. Vi ringrazio per il vostro impegno..." },
     { "gameKey": "quest/006/SubWil115_00624#TEXT_SUBWIL115_00624_ZOZORU_000_12", "hash": "83CEE3A8891F2546", "target": "...Ma temo sia troppo tardi. L'uomo a cui erano destinate queste bistecche è morto per le ferite pochi istanti fa." },
     { "gameKey": "quest/006/SubWil115_00624#TEXT_SUBWIL115_00624_ZOZORU_000_13", "hash": "88E981DA46ADD993", "target": "Vi prego, non disperate. Ora banchetta con Thal. E Thal ha visto il bene che avete fatto oggi." },
-    { "gameKey": "quest/006/SubWil115_00624#TEXT_SUBWIL115_00624_TUTUSI_000_20", "hash": "E5E8FDE60D4EF9E0", "target": "È morto? \\<sospiro> Avete fatto una buona azione. È inutile preoccuparsi dell'ordine in cui le cose accadono. Conta che accadano, e agli dèi non sfugge nulla." },
-    { "gameKey": "quest/006/SubWil115_00624#TEXT_SUBWIL115_00624_TUTUSI_000_21", "hash": "C0C9C5E0B4843278", "target": "C'è un cimitero vicino a Drybone. Molti portano qui i morti e i moribondi. Tanti li abbandonano per risparmiarsi il disturbo e il costo della sepoltura." },
+    { "gameKey": "quest/006/SubWil115_00624#TEXT_SUBWIL115_00624_TUTUSI_000_20", "hash": "E5E8FDE60D4EF9E0", "target": "È morto? \\<sigh> Avete fatto una buona azione. È inutile preoccuparsi dell'ordine in cui le cose accadono. Conta che accadano, e agli dèi non sfugge nulla." },
+    { "gameKey": "quest/006/SubWil115_00624#TEXT_SUBWIL115_00624_TUTUSI_000_21", "hash": "C0C9C5E0B4843278", "target": "C'è un cimitero vicino a Ossasecca. Molti portano qui i morti e i moribondi. Tanti li abbandonano per risparmiarsi il disturbo e il costo della sepoltura." },
     { "gameKey": "quest/006/SubWil115_00624#TEXT_SUBWIL115_00624_TUTUSI_000_22", "hash": "5D6CCC31BD72A8B8", "target": "Questa povera anima, almeno, aveva familiari accorsi al suo fianco. Consideratelo fortunato. Era solo il suo momento di rispondere a Thal. Meglio lasciar andare e proseguire. C'è lavoro da fare: lotti, tombe, imbalsamazioni, lapidi. Nella vita niente è gratis, nemmeno la morte." }
   ]
 }

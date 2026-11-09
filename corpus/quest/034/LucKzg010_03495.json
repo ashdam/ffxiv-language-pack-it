@@ -2,7 +2,7 @@
   "conversation": "quest/034/LucKzg010_03495",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKzg010_03495#TEXT_LUCKZG010_03495_SEQ_00", "hash": "ACD4186222D77067", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>L'anziano minatore ti scruta con grande intensità." },
+    { "gameKey": "quest/034/LucKzg010_03495#TEXT_LUCKZG010_03495_SEQ_00", "hash": "ACD4186222D77067", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>L'anziano minatore ti scruta con grande intensità." },
     { "gameKey": "quest/034/LucKzg010_03495#TEXT_LUCKZG010_03495_TODO_00", "hash": "1A6C3103B15A2798", "target": "Cercare i minatori" },
     { "gameKey": "quest/034/LucKzg010_03495#TEXT_LUCKZG010_03495_TODO_01", "hash": "469AABA6C827D630", "target": "Fare rapporto all'anziano minatore" },
     { "gameKey": "quest/034/LucKzg010_03495#TEXT_LUCKZG010_03495_MINEROLD03495_000_000", "hash": "2E85C99BD96556F4", "target": "Ehi, tu! <if(gnum4,Ragazza nuova,Ragazzo nuovo)>! Dove sono gli altri?" },
@@ -13,7 +13,7 @@
     { "gameKey": "quest/034/LucKzg010_03495#TEXT_LUCKZG010_03495_SYSTEM_000_021", "hash": "0B49D9D175ED3C4D", "target": "Sembra che l'uomo soffra dei postumi di una sbornia. Se usassi <colortype(500)><edgecolortype(501)>psych<edgecolortype(0)><colortype(0)> per spronarlo, forse sarebbe più incline a riprendere i propri doveri." },
     { "gameKey": "quest/034/LucKzg010_03495#TEXT_LUCKZG010_03495_MINERA03495_000_030", "hash": "985B2348D7E7C04C", "target": "Va bene, va bene! Basta con le tue pose!" },
     { "gameKey": "quest/034/LucKzg010_03495#TEXT_LUCKZG010_03495_MINERA03495_000_031", "hash": "221866B4A492298D", "target": "Se tornare al lavoro serve a farmi lasciare in pace, così sia!" },
-    { "gameKey": "quest/034/LucKzg010_03495#TEXT_LUCKZG010_03495_MINERB03495_000_040", "hash": "44B4D4FB350FB32C", "target": "\\<sospiro> Non me ne va bene una... Non estraggo un bottino decente da un'eternità. Tanto vale appendere il piccone al chiodo per sempre." },
+    { "gameKey": "quest/034/LucKzg010_03495#TEXT_LUCKZG010_03495_MINERB03495_000_040", "hash": "44B4D4FB350FB32C", "target": "\\<sigh> Non me ne va bene una... Non estraggo un bottino decente da un'eternità. Tanto vale appendere il piccone al chiodo per sempre." },
     { "gameKey": "quest/034/LucKzg010_03495#TEXT_LUCKZG010_03495_SYSTEM_000_041", "hash": "DB843B2F1F6A5FCB", "target": "L'uomo sembra privo di motivazione. Forse usando <colortype(500)><edgecolortype(501)>rally<edgecolortype(0)><colortype(0)> per risollevarne il morale, riusciresti a convincerlo a tornare al lavoro." },
     { "gameKey": "quest/034/LucKzg010_03495#TEXT_LUCKZG010_03495_MINERB03495_000_050", "hash": "3181F5A74C0931F9", "target": "Non so chi sei o che cosa fai, ma il tuo entusiasmo è in qualche modo... contagioso!" },
     { "gameKey": "quest/034/LucKzg010_03495#TEXT_LUCKZG010_03495_MINERB03495_000_051", "hash": "6D2D697B0C5763DF", "target": "Sì, dovrei essere grato per ciò che ho! Ho un lavoro stabile, una casa quasi bella: che altro potrei chiedere? Ehi ho, ehi ho, al lavoro tornerò!" },

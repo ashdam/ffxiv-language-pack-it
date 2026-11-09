@@ -2,7 +2,7 @@
   "conversation": "quest/034/LucKzf005_03464",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKzf005_03464#TEXT_LUCKZF005_03464_SEQ_00", "hash": "C11389ACE14E64DE", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Questa cacciatrice impavida vuole vedere di che pasta sia <if(gnum4,fatta un'alleata,fatto un alleato)> di Ronka." },
+    { "gameKey": "quest/034/LucKzf005_03464#TEXT_LUCKZF005_03464_SEQ_00", "hash": "C11389ACE14E64DE", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Questa cacciatrice impavida vuole vedere di che pasta sia <if(gnum4,fatta un'alleata,fatto un alleato)> di Ronka." },
     { "gameKey": "quest/034/LucKzf005_03464#TEXT_LUCKZF005_03464_TODO_00", "hash": "0666F902CF7DAC2E", "target": "Parlare con la cacciatrice impavida" },
     { "gameKey": "quest/034/LucKzf005_03464#TEXT_LUCKZF005_03464_TODO_01", "hash": "247A318689DE37A2", "target": "Abbattere le foraging does" },
     { "gameKey": "quest/034/LucKzf005_03464#TEXT_LUCKZF005_03464_TODO_02", "hash": "230C3AA571C29BBF", "target": "Parlare con la cacciatrice impavida" },
@@ -22,7 +22,7 @@
     { "gameKey": "quest/034/LucKzf005_03464#TEXT_LUCKZF005_03464_SYSTEM03464_000_040", "hash": "75741C4BD13360F0", "target": "Una freccia trafigge la pelle del caracal. Sembra essere caduto con un solo colpo." },
     { "gameKey": "quest/034/LucKzf005_03464#TEXT_LUCKZF005_03464_VIISHUNTER03464_000_050", "hash": "EC46E87DBE49B1D8", "target": "<if(gnum4,Sei già tornata,Sei già tornato)>. Immagino che la tua pattuglia sia stata tranquilla quanto la mia." },
     { "gameKey": "quest/034/LucKzf005_03464#TEXT_LUCKZF005_03464_VIISHUNTER03464_000_051", "hash": "A246875D3BEC3932", "target": "Come? Una sola freccia? Impossibile... può essere?" },
-    { "gameKey": "quest/034/LucKzf005_03464#TEXT_LUCKZF005_03464_VIISHUNTER03464_000_052", "hash": "CCFA7D79706DC569", "target": "Gaaaaaahhh!" },
+    { "gameKey": "quest/034/LucKzf005_03464#TEXT_LUCKZF005_03464_VIISHUNTER03464_000_052", "hash": "1FAAD4B610849578", "target": "Gaaaaaahhh!" },
     { "gameKey": "quest/034/LucKzf005_03464#TEXT_LUCKZF005_03464_VIISHUNTER03464_000_053", "hash": "72286B2A541D6A09", "target": "Hai sentito? Dal profondo del bosco... qualcuno che grida aiuto. Potrebbe essere in pericolo: dobbiamo aiutarla!" },
     { "gameKey": "quest/034/LucKzf005_03464#TEXT_LUCKZF005_03464_VIISHUNTER03464_000_060", "hash": "1BAE57D35DA51FBC", "target": "Come temevamo, è stata attaccata. Per fortuna un Guardiano ha abbattuto il suo aggressore prima che subisse gravi danni. È raro, ma a volte capita di vederne uno mentre caccia." },
     { "gameKey": "quest/034/LucKzf005_03464#TEXT_LUCKZF005_03464_VIISHUNTER03464_000_061", "hash": "87FB8B8771EDD800", "target": "Senza dubbio anche il caracal che hai visto era opera sua. Deve essere fuggito nel bosco quando sei <if(gnum4,arrivata,arrivato)>." },

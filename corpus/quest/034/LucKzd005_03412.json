@@ -2,7 +2,7 @@
   "conversation": "quest/034/LucKzd005_03412",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKzd005_03412#TEXT_LUCKZD005_03412_SEQ_00", "hash": "D1795FA4513363D5", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Il Nu Mou innamorato fatica a decidere." },
+    { "gameKey": "quest/034/LucKzd005_03412#TEXT_LUCKZD005_03412_SEQ_00", "hash": "D1795FA4513363D5", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Il Nu Mou innamorato fatica a decidere." },
     { "gameKey": "quest/034/LucKzd005_03412#TEXT_LUCKZD005_03412_TODO_00", "hash": "B936D7CBAC91BE31", "target": "Raccogliere informazioni dai Nu Mou" },
     { "gameKey": "quest/034/LucKzd005_03412#TEXT_LUCKZD005_03412_TODO_01", "hash": "BCB48781A7E7EF65", "target": "Riferire al Nu Mou innamorato" },
     { "gameKey": "quest/034/LucKzd005_03412#TEXT_LUCKZD005_03412_WORRYNUMOU03412_000_000", "hash": "97AABB38464FB6A6", "target": "Dovrei regalare questo... oppure quello? Accidenti, non so decidere!" },
@@ -18,6 +18,6 @@
     { "gameKey": "quest/034/LucKzd005_03412#TEXT_LUCKZD005_03412_WORRYNUMOU03412_000_020", "hash": "55A1A611FC62FA80", "target": "Hai parlato con gli altri? Ti prego, dimmi cosa hai appreso!" },
     { "gameKey": "quest/034/LucKzd005_03412#TEXT_LUCKZD005_03412_WORRYNUMOU03412_000_021", "hash": "EDAF1D99D9EE5CF2", "target": "Capisco, capisco... Sì, credo di poter finalmente decidere! Grazie infinite!" },
     { "gameKey": "quest/034/LucKzd005_03412#TEXT_LUCKZD005_03412_WORRYNUMOU03412_000_022", "hash": "B77F88806FC74149", "target": "Durante la mia infanzia, un mortale mi disse che un regalo non è qualcosa che si deve dare, ma qualcosa che si <italic(1)>vuole<italic(0)> dare. Per molto tempo non capii quelle parole. Ma cambiò tutto quando incontrai... <italic(1)>quella persona<italic(0)>." },
-    { "gameKey": "quest/034/LucKzd005_03412#TEXT_LUCKZD005_03412_WORRYNUMOU03412_000_023", "hash": "C9779E166B0F6457", "target": "Basta pensarci per desiderare di fare un regalo. E grazie a te, potrò senz’altro scegliere qualcosa che faccia nascere un sorriso su quel volto. Accetta questo come compenso adeguato per il tuo gentile aiuto." }
+    { "gameKey": "quest/034/LucKzd005_03412#TEXT_LUCKZD005_03412_WORRYNUMOU03412_000_023", "hash": "C9779E166B0F6457", "target": "Basta pensarci per desiderare di fare un regalo. E grazie a te, potrò senz'altro scegliere qualcosa che faccia nascere un sorriso su quel volto. Accetta questo come compenso adeguato per il tuo gentile aiuto." }
   ]
 }

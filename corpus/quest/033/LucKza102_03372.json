@@ -2,7 +2,7 @@
   "conversation": "quest/033/LucKza102_03372",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/033/LucKza102_03372#TEXT_LUCKZA102_03372_SEQ_00", "hash": "EB96BFA09C87A37B", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Eueliss sembra pronta ad accettare il prossimo incarico di Sai-Lewq." },
+    { "gameKey": "quest/033/LucKza102_03372#TEXT_LUCKZA102_03372_SEQ_00", "hash": "EB96BFA09C87A37B", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Eueliss sembra pronta ad accettare il prossimo incarico di Sai-Lewq." },
     { "gameKey": "quest/033/LucKza102_03372#TEXT_LUCKZA102_03372_SEQ_01", "hash": "61BAA453998582EB", "target": "Eueliss chiede a Sai-Lewq il secondo incarico, che a quanto pare riguarda un Talos lento. Seguila e aiuta a liberare il Talos in questione dai predatori che lo infastidiscono.<br><br>※La difficoltà di questa missione è stata sincronizzata con il tuo livello attuale." },
     { "gameKey": "quest/033/LucKza102_03372#TEXT_LUCKZA102_03372_SEQ_02", "hash": "E21044603C50CB7A", "target": "Hai ispezionato il Talos abbandonato ed eliminato le bestie che ne infestavano l'interno. Eueliss attende lì vicino con aria rassegnata..." },
     { "gameKey": "quest/033/LucKza102_03372#TEXT_LUCKZA102_03372_SEQ_03", "hash": "4EBF8819BFCAD62F", "target": "Eueliss spiega brevemente il declino dei Talos nella regione e racconta che l'esemplare arrugginito appena ispezionato, il preferito di Sai-Lewq, è stato danneggiato tanto da non potersi più muovere. Non essendoci altro da fare, torni verso Scrutapietra." },
@@ -17,7 +17,7 @@
     { "gameKey": "quest/033/LucKza102_03372#TEXT_LUCKZA102_03372_EUELISS_000_004", "hash": "453D2F8302FD46D3", "target": "Ma tutti i... Ah, intendi <italic(1)>quel<italic(0)> Talos..." },
     { "gameKey": "quest/033/LucKza102_03372#TEXT_LUCKZA102_03372_EUELISS_000_005", "hash": "D04D7DB202D4B880", "target": "Seguitemi, <split(<string(gstr1)>, ,1)>." },
     { "gameKey": "quest/033/LucKza102_03372#TEXT_LUCKZA102_03372_EUELISS_000_006", "hash": "496CEC32FDB38C7F", "target": "Troveremo il Talos in questione a sud-ovest di qui. E non dubito che avrete parecchi «predatori ottusi» di cui occuparvi." },
-    { "gameKey": "quest/033/LucKza102_03372#TEXT_LUCKZA102_03372_SAILEWQ_000_007", "hash": "86617B81DEEAE02F", "target": "\\<sospiro>" },
+    { "gameKey": "quest/033/LucKza102_03372#TEXT_LUCKZA102_03372_SAILEWQ_000_007", "hash": "86617B81DEEAE02F", "target": "\\<sigh>" },
     { "gameKey": "quest/033/LucKza102_03372#TEXT_LUCKZA102_03372_SYSTEM_110_010", "hash": "AF5499C8FED6201C", "target": "Una creatura ostile emerge dal Talos!" },
     { "gameKey": "quest/033/LucKza102_03372#TEXT_LUCKZA102_03372_EUELISS_100_010", "hash": "DAF715F27D5C854D", "target": "Ecco il Talos di cui parlava Sai-Lewq. Credo che qualcosa ci abbia fatto il nido..." },
     { "gameKey": "quest/033/LucKza102_03372#TEXT_LUCKZA102_03372_EUELISS_000_010", "hash": "D7AF6A579F580696", "target": "Fiuu, meno male che c'eravate voi! Devono essersi infilati sotto le piastre." },

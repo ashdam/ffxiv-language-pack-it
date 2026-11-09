@@ -3,8 +3,8 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/013/BanKob209_01343#TEXT_BANKOB209_01343_SEQ_00", "hash": "ACBD8DD416BA52D8", "target": "789th Order Craftsman Bo Gu non è la mente più affilata dello scavo, una situazione che spera di correggere." },
-    { "gameKey": "quest/013/BanKob209_01343#TEXT_BANKOB209_01343_SEQ_01", "hash": "494A27B0CE1CF4C5", "target": "Intimidito dai geni alchemici che lavorano per Zo Ga nell'officina del 13º Ordine, Bo Gu vuole pareggiare i conti intellettuali nell'unico modo concepibile per le sue limitate facoltà: mandando te a infiltrarti nell'officina e spaccare loro il cervello. Chiedi di entrare al sempre comprensivo Ga Zi e scaglia insulti vari contro i Kobold eruditi perché attacchino, giustificando così il successivo massacro." },
-    { "gameKey": "quest/013/BanKob209_01343#TEXT_BANKOB209_01343_SEQ_02", "hash": "EA4851CD31F46A19", "target": "Alcuni dei più grandi geni della storia kobold non ci sono più. Consolati pensando che probabilmente stavano comunque tramando qualcosa e torna allo Scavo del 789° Ordine a portare la notizia del trionfo a Bo Gu." },
+    { "gameKey": "quest/013/BanKob209_01343#TEXT_BANKOB209_01343_SEQ_01", "hash": "494A27B0CE1CF4C5", "target": "Intimidito dai geni alchemici che lavorano per Zo Ga nell'officina del 13º Ordine, Bo Gu vuole pareggiare i conti intellettuali nell'unico modo concepibile per le sue limitate facoltà: mandando te a infiltrarti nell'officina e spaccare loro il cervello. Chiedi di entrare al sempre comprensivo Ga Zi e scaglia insulti vari contro i koboldi eruditi perché attacchino, giustificando così il successivo massacro." },
+    { "gameKey": "quest/013/BanKob209_01343#TEXT_BANKOB209_01343_SEQ_02", "hash": "EA4851CD31F46A19", "target": "Alcuni dei più grandi geni della storia kobolda non ci sono più. Consolati pensando che probabilmente stavano comunque tramando qualcosa e torna allo Scavo del 789° Ordine a portare la notizia del trionfo a Bo Gu." },
     { "gameKey": "quest/013/BanKob209_01343#TEXT_BANKOB209_01343_SEQ_03", "hash": "D1ACB039092EA5FB", "target": "Sentendosi assai più intelligente di poco fa, Bo Gu elogia i tuoi sforzi per istupidire il 13º Ordine. Dal sorriso compiaciuto non hai molti dubbi che ti chiamerà ancora per realizzare la prossima idea geniale..." },
     { "gameKey": "quest/013/BanKob209_01343#TEXT_BANKOB209_01343_TODO_00", "hash": "9611A0AC9E42378A", "target": "Parlare con 13th Order alchemists e 13th Order scholars nell'officina del 13º Ordine e poi ucciderli" },
     { "gameKey": "quest/013/BanKob209_01343#TEXT_BANKOB209_01343_TODO_01", "hash": "1B7FF2D0A2492797", "target": "Fare rapporto a 789th Order Craftsman Bo Gu" },
@@ -23,7 +23,7 @@
     { "gameKey": "quest/013/BanKob209_01343#TEXT_BANKOB209_01343_SCENE00009_EVENTAREA_WARP_YESNO_TITLE", "hash": "C0ABCDA9218FED94", "target": "Entrare nell'officina del 13º Ordine?" },
     { "gameKey": "quest/013/BanKob209_01343#TEXT_BANKOB209_01343_SCENE00009_EVENTAREA_WARP_YESNO_YES", "hash": "53F0F7774F4CAB00", "target": "Sì" },
     { "gameKey": "quest/013/BanKob209_01343#TEXT_BANKOB209_01343_SCENE00009_EVENTAREA_WARP_YESNO_NO", "hash": "D98A2A55605F3BAB", "target": "No" },
-    { "gameKey": "quest/013/BanKob209_01343#TEXT_BANKOB209_01343_POPMESSAGE_000_000", "hash": "D66BABC5D31BFB5F", "target": "Il Kobold si avventa su di te!" },
+    { "gameKey": "quest/013/BanKob209_01343#TEXT_BANKOB209_01343_POPMESSAGE_000_000", "hash": "D66BABC5D31BFB5F", "target": "Il koboldo si avventa su di te!" },
     { "gameKey": "quest/013/BanKob209_01343#TEXT_BANKOB209_01343_GAJI_000_030", "hash": "D65638369B23BA16", "target": "I cervelloni nell'officina prendono in giro Ga Zi, dicono che parla buffo: strano, bizzarro, buffo, cose così. Se vuoi prenderli a schiaffi per farli ragionare, Ga Zi non ti ostacolerà, no-no, no-no." }
   ]
 }

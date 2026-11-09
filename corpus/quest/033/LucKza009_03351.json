@@ -2,7 +2,7 @@
   "conversation": "quest/033/LucKza009_03351",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/033/LucKza009_03351#TEXT_LUCKZA009_03351_SEQ_00", "hash": "7721A1AD8BC4B885", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>La moglie risoluta batte il piede con impazienza." },
+    { "gameKey": "quest/033/LucKza009_03351#TEXT_LUCKZA009_03351_SEQ_00", "hash": "7721A1AD8BC4B885", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>La moglie risoluta batte il piede con impazienza." },
     { "gameKey": "quest/033/LucKza009_03351#TEXT_LUCKZA009_03351_TODO_00", "hash": "3D075463A98E1CAD", "target": "Trovare il marito esitante" },
     { "gameKey": "quest/033/LucKza009_03351#TEXT_LUCKZA009_03351_TODO_01", "hash": "0222508A41C68F37", "target": "Scavare per ottenere un oversized tideclam" },
     { "gameKey": "quest/033/LucKza009_03351#TEXT_LUCKZA009_03351_TODO_02", "hash": "DC4EC6216DA7AA8F", "target": "Consegnare l'oversized tideclam al marito esitante" },
@@ -14,7 +14,7 @@
     { "gameKey": "quest/033/LucKza009_03351#TEXT_LUCKZA009_03351_VILLAGERWOMAN03351_000_004", "hash": "D91C4A3DABC2487C", "target": "Se per qualunque ragione vai sulla spiaggia, tieni gli occhi aperti per mio marito scomparso. Cerca il tipo che trema davanti alla propria ombra." },
     { "gameKey": "quest/033/LucKza009_03351#TEXT_LUCKZA009_03351_VILLAGERMAN03351_000_010", "hash": "0B0484A7E3CAA363", "target": "Ch-Chi sei? Ch-Che cosa vuoi da me?" },
     { "gameKey": "quest/033/LucKza009_03351#TEXT_LUCKZA009_03351_VILLAGERMAN03351_000_011", "hash": "EE6C68A18D0AFD08", "target": "Mia moglie si chiede dove sia? È-È passato così tanto tempo...?" },
-    { "gameKey": "quest/033/LucKza009_03351#TEXT_LUCKZA009_03351_VILLAGERMAN03351_000_012", "hash": "00611B6F86EAAED1", "target": "\\<sospiro> Ho provato a scavare per prendere una di quelle tideclam che le piacciono, una bella grossa per giunta, ma una chela è sbucata da sotto la sabbia e quasi mi ha tranciato il braccio..." },
+    { "gameKey": "quest/033/LucKza009_03351#TEXT_LUCKZA009_03351_VILLAGERMAN03351_000_012", "hash": "00611B6F86EAAED1", "target": "\\<sigh> Ho provato a scavare per prendere una di quelle tideclam che le piacciono, una bella grossa per giunta, ma una chela è sbucata da sotto la sabbia e quasi mi ha tranciato il braccio..." },
     { "gameKey": "quest/033/LucKza009_03351#TEXT_LUCKZA009_03351_VILLAGERMAN03351_000_013", "hash": "84BA589B3D1F4788", "target": "Senti, sembri una persona capace. P... pensi di potermi dare una mano?" },
     { "gameKey": "quest/033/LucKza009_03351#TEXT_LUCKZA009_03351_VILLAGERMAN03351_000_014", "hash": "04B359C8DFB7E3EB", "target": "Oh, grazie! Dovresti riuscire a trovare il punto dove scavavo non lontano dall'acqua. Fai solo attenzione a quelle chele!" },
     { "gameKey": "quest/033/LucKza009_03351#TEXT_LUCKZA009_03351_VILLAGERMAN03351_000_015", "hash": "AAF7112C2DF271A0", "target": "La vongola che cercavo di prendere era laggiù, più vicina all'acqua. Faremo un bel banchetto stasera se riuscirai a strapparla a quelle terribili chele!" },

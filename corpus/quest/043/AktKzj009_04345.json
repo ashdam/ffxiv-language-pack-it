@@ -2,7 +2,7 @@
   "conversation": "quest/043/AktKzj009_04345",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/043/AktKzj009_04345#TEXT_AKTKZJ009_04345_SEQ_00", "hash": "ABC18486922D7417", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Ceh-ceeth desidera esprimerti la propria gratitudine." },
+    { "gameKey": "quest/043/AktKzj009_04345#TEXT_AKTKZJ009_04345_SEQ_00", "hash": "ABC18486922D7417", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Ceh-ceeth desidera esprimerti la propria gratitudine." },
     { "gameKey": "quest/043/AktKzj009_04345#TEXT_AKTKZJ009_04345_TODO_00", "hash": "FF04978CF662B12F", "target": "Parlare con l'Ea stanco" },
     { "gameKey": "quest/043/AktKzj009_04345#TEXT_AKTKZJ009_04345_TODO_01", "hash": "5624A813CB422A36", "target": "Parlare con Ceh-ceeth" },
     { "gameKey": "quest/043/AktKzj009_04345#TEXT_AKTKZJ009_04345_CEHCEETH_000_000", "hash": "030E55F7F3EFA8B6", "target": "Le parole non possono esprimere la mia gratitudine, <if(gnum4,viaggiatrice,viaggiatore)>, perché grazie a te ricordo ora i meravigliosamente spiacevoli morsi della fame. È davvero una benedizione." },

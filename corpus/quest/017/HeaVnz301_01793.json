@@ -13,6 +13,6 @@
     { "gameKey": "quest/017/HeaVnz301_01793#TEXT_HEAVNZ301_01793_NANKAEATER_000_010", "hash": "53EEC17916762BA7", "target": "I sassolini gialli dovrebbero trovarsi nei crateri. I crateri sono a sud di Anyx Trino." },
     { "gameKey": "quest/017/HeaVnz301_01793#TEXT_HEAVNZ301_01793_NANKAEATER_000_020", "hash": "4F62B3ADD9E8D88F", "target": "Avete le pietre, <if(gnum4,cacciatrice,cacciatore)>?" },
     { "gameKey": "quest/017/HeaVnz301_01793#TEXT_HEAVNZ301_01793_NANKAEATER_000_021", "hash": "CC4EBCB9CAC1E771", "target": "Grazie, <if(gnum4,generosa cacciatrice,generoso cacciatore)>. Non perdete tempo." },
-    { "gameKey": "quest/017/HeaVnz301_01793#TEXT_HEAVNZ301_01793_NANKAEATER_000_022", "hash": "6E69763768CE3D52", "target": "Queste pietre servono a preparare la polvere esplosiva gnath. Le maciniamo e le mescoliamo con il nostro... ehm... \\<click> \\<click> \\<click> \\<click> A dire il vero, preferiremmo non entrare nei dettagli. " }
+    { "gameKey": "quest/017/HeaVnz301_01793#TEXT_HEAVNZ301_01793_NANKAEATER_000_022", "hash": "6E69763768CE3D52", "target": "Queste pietre servono a preparare la polvere esplosiva gnath. Le maciniamo e le mescoliamo con il nostro... ehm... \\<clic> \\<clic> \\<clic> \\<clic> A dire il vero, preferiremmo non entrare nei dettagli. " }
   ]
 }

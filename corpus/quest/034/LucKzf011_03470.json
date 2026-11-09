@@ -2,7 +2,7 @@
   "conversation": "quest/034/LucKzf011_03470",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKzf011_03470#TEXT_LUCKZF011_03470_SEQ_00", "hash": "223AD30EF9C1CC06", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Questa sentinella riservata sembra impaziente di mettersi in cammino." },
+    { "gameKey": "quest/034/LucKzf011_03470#TEXT_LUCKZF011_03470_SEQ_00", "hash": "223AD30EF9C1CC06", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Questa sentinella riservata sembra impaziente di mettersi in cammino." },
     { "gameKey": "quest/034/LucKzf011_03470#TEXT_LUCKZF011_03470_TODO_00", "hash": "CA7EA72CA08692B5", "target": "Parlare con la panettiera dai capelli biondo miele" },
     { "gameKey": "quest/034/LucKzf011_03470#TEXT_LUCKZF011_03470_TODO_01", "hash": "4F2CA0E5248D9370", "target": "Consegnare le provisions al Rimpianto di Mjrl" },
     { "gameKey": "quest/034/LucKzf011_03470#TEXT_LUCKZF011_03470_TODO_02", "hash": "C0152005B35CFA1F", "target": "Consegnare la heartfelt letter alla panettiera dai capelli biondo miele" },
@@ -12,7 +12,7 @@
     { "gameKey": "quest/034/LucKzf011_03470#TEXT_LUCKZF011_03470_QUIETVIIS03470_000_011", "hash": "4E34738BDCF6463E", "target": "Mi scuso. Non c'è motivo di chiedere proprio a voi una consegna tanto semplice." },
     { "gameKey": "quest/034/LucKzf011_03470#TEXT_LUCKZF011_03470_QUIETVIIS03470_000_015", "hash": "2FC8EBF4C55CAC0D", "target": "So che è un peso inutile, ma non è lontano." },
     { "gameKey": "quest/034/LucKzf011_03470#TEXT_LUCKZF011_03470_QUIETVIIS03470_000_020", "hash": "FAAB6DB7F0367A6A", "target": "Siete <if(gnum4,venuta,venuto)>... Grazie. Avete portato le provviste, allora?" },
-    { "gameKey": "quest/034/LucKzf011_03470#TEXT_LUCKZF011_03470_QUIETVIIS03470_000_021", "hash": "1C3601143F99703B", "target": "Ah, non mi stanco mai di questo pane. \\<annusa> \\<annusa> Ha il profumo di casa." },
+    { "gameKey": "quest/034/LucKzf011_03470#TEXT_LUCKZF011_03470_QUIETVIIS03470_000_021", "hash": "1C3601143F99703B", "target": "Ah, non mi stanco mai di questo pane. \\<sniff> \\<sniff> Ha il profumo di casa." },
     { "gameKey": "quest/034/LucKzf011_03470#TEXT_LUCKZF011_03470_QUIETVIIS03470_000_022", "hash": "91D101AAA5322497", "target": "No, non dovrei pensare a casa. Non posso tornare. Non ora..." },
     { "gameKey": "quest/034/LucKzf011_03470#TEXT_LUCKZF011_03470_QUIETVIIS03470_000_023", "hash": "CEE8E8CE1A6E9EDF", "target": "Portereste questa lettera a Fanow per me? Un ringraziamento per le provviste." },
     { "gameKey": "quest/034/LucKzf011_03470#TEXT_LUCKZF011_03470_QUIETVIIS03470_000_024", "hash": "418D6B32324F4E2E", "target": "Addio. Che le benedizioni del bosco siano con voi." },

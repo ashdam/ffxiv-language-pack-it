@@ -16,7 +16,7 @@
     { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_TODO_02", "hash": "DCA3E3960FF07AAD", "target": "Parlare con gli abitanti Yok Huy insieme a Pameka" },
     { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_TODO_03", "hash": "CCF61C9FBDD52750", "target": "Cercare lo scalpellino Yok Huy insieme a Pameka" },
     { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_TODO_04", "hash": "EA1FCFF38C4F9A8B", "target": "Parlare con Pameka" },
-    { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_TODO_05", "hash": "A2562AF2E45E6AD2", "target": "<if([lnum1<lnum2],Sintetizzare una Yok Huy cover <sheet(Addon,9,0)>,Consegnare la Yok Huy cover <sheet(Addon,9,0)> a Pameka)>" },
+    { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_TODO_05", "hash": "A2562AF2E45E6AD2", "target": "<if([lnum1<lnum2],Sintetizzare una copertina di pietra degli Yok Huy <sheet(Addon,9,0)>,Consegnare la copertina di pietra degli Yok Huy <sheet(Addon,9,0)> a Pameka)>" },
     { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_TODO_06", "hash": "57885F9D6E8AF56D", "target": "Parlare con Pameka" },
     { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_SYSTEM_000_000", "hash": "B82CF7284FF6279D", "target": "Per intraprendere questa missione, devi prima completare la missione dello scenario principale “La promessa di pace”." },
     { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_PAMEKA_000_001", "hash": "C483CD5287A718F9", "target": "Dopo aver ascoltato Zemoweni parlare dei racconti degli antenati, non posso fare a meno di chiedermi che cosa la mia famiglia possa aver conservato delle generazioni passate." },

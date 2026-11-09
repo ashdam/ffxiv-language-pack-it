@@ -15,7 +15,7 @@
     { "gameKey": "quest/020/ClsTan580_02078#TEXT_CLSTAN580_02078_TODO_02", "hash": "B4A82007D0E2885B", "target": "Parlare con Elde" },
     { "gameKey": "quest/020/ClsTan580_02078#TEXT_CLSTAN580_02078_TODO_03", "hash": "7A87E2A4D433EB76", "target": "Consegnare la coin-stuffed pouch ad Aubrenard nella Foschia" },
     { "gameKey": "quest/020/ClsTan580_02078#TEXT_CLSTAN580_02078_TODO_04", "hash": "137EDF9AEE8C9413", "target": "Consegnare la copia di <italic(1)>The Merchant of Ishgard<italic(0)> a Elde" },
-    { "gameKey": "quest/020/ClsTan580_02078#TEXT_CLSTAN580_02078_TODO_05", "hash": "F7421365E43D89E1", "target": "<if([lnum1<lnum2],Realizzare un dragonskin choker <sheet(Addon,9,0)>,Consegnare il dragonskin choker <sheet(Addon,9,0)> a Elde)>" },
+    { "gameKey": "quest/020/ClsTan580_02078#TEXT_CLSTAN580_02078_TODO_05", "hash": "F7421365E43D89E1", "target": "<if([lnum1<lnum2],Realizzare un girocollo in pelle di drago <sheet(Addon,9,0)>,Consegnare il girocollo in pelle di drago <sheet(Addon,9,0)> a Elde)>" },
     { "gameKey": "quest/020/ClsTan580_02078#TEXT_CLSTAN580_02078_ELDE_000_000", "hash": "796F4B166D279BFF", "target": "<split(<string(gstr1)>, ,1)>, non vi ringrazierò mai abbastanza! Tutta Ishgard vuole vestirsi al meglio e i miei articoli vanno a ruba!" },
     { "gameKey": "quest/020/ClsTan580_02078#TEXT_CLSTAN580_02078_ELDE_000_001", "hash": "382DAD0B98EAECCC", "target": "Ma è ora di donare parte dei profitti alla Gilda Mercantile. Potreste portare questa borsa alla signora Elaisse?" },
     { "gameKey": "quest/020/ClsTan580_02078#TEXT_CLSTAN580_02078_ELDE_000_002", "hash": "E223C2E998E2BD3B", "target": "Mi dispiace approfittarne ancora. Il negozio è affollato e non posso assentarmi nemmeno un minuto." },

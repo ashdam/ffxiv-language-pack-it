@@ -2,7 +2,7 @@
   "conversation": "quest/035/LucKzj003_03566",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzj003_03566#TEXT_LUCKZJ003_03566_SEQ_00", "hash": "B7E3CF57AFCEDF5C", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>L'uomo Elven davanti a te sembra molto agitato." },
+    { "gameKey": "quest/035/LucKzj003_03566#TEXT_LUCKZJ003_03566_SEQ_00", "hash": "B7E3CF57AFCEDF5C", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>L'uomo Elven davanti a te sembra molto agitato." },
     { "gameKey": "quest/035/LucKzj003_03566#TEXT_LUCKZJ003_03566_TODO_00", "hash": "A05F1C0C947F532F", "target": "Parlare con il padre agitato" },
     { "gameKey": "quest/035/LucKzj003_03566#TEXT_LUCKZJ003_03566_TODO_01", "hash": "0D982782F9EB416A", "target": "Dare il benvenuto alla bambina con /welcome" },
     { "gameKey": "quest/035/LucKzj003_03566#TEXT_LUCKZJ003_03566_TODO_02", "hash": "00634ED820B25452", "target": "Parlare con il padre agitato" },
@@ -12,7 +12,7 @@
     { "gameKey": "quest/035/LucKzj003_03566#TEXT_LUCKZJ003_03566_ELFYOUTH03566_000_002", "hash": "83F813780BBAE614", "target": "Sono uscito a prendere aria... Per qualche motivo faccio una gran fatica a respirare... Ma non posso solo <italic(1)>aspettare<italic(0)>! Devi dire loro di farmi rientrare! Presto!" },
     { "gameKey": "quest/035/LucKzj003_03566#TEXT_LUCKZJ003_03566_ELFYOUTH03566_000_010", "hash": "E40434FC84FA2E28", "target": "Maledetta Luce! È un bambino!" },
     { "gameKey": "quest/035/LucKzj003_03566#TEXT_LUCKZJ003_03566_MIDWIVES03566_000_011", "hash": "F3D7CAC9E9813BEB", "target": "Sì, una splendida bambina. Lei e tua moglie stanno benissimo, quindi ti prego... calmati." },
-    { "gameKey": "quest/035/LucKzj003_03566#TEXT_LUCKZJ003_03566_ELFYOUTH03566_000_012", "hash": "D3276EAC05D28F39", "target": "È una bambina... Nostra figlia... \\<tira su col naso>" },
+    { "gameKey": "quest/035/LucKzj003_03566#TEXT_LUCKZJ003_03566_ELFYOUTH03566_000_012", "hash": "D3276EAC05D28F39", "target": "È una bambina... Nostra figlia... \\<sniff>" },
     { "gameKey": "quest/035/LucKzj003_03566#TEXT_LUCKZJ003_03566_MIDWIVES03566_000_013", "hash": "50B9C50A997BB2D4", "target": "Santo cielo, hai portato con te l'ospite dell'Esarca!" },
     { "gameKey": "quest/035/LucKzj003_03566#TEXT_LUCKZJ003_03566_MIDWIVES03566_000_014", "hash": "0EB6462832F95F15", "target": "Beh, visto che sei qui, vorresti dare il <colortype(500)><edgecolortype(501)>benvenuto<edgecolortype(0)><colortype(0)> a questa piccola?" },
     { "gameKey": "quest/035/LucKzj003_03566#TEXT_LUCKZJ003_03566_MIDWIVES03566_000_015", "hash": "079C3A07B39E0A40", "target": "È una bambina adorabile. E sorprendentemente tranquilla, considerando... ehm." },

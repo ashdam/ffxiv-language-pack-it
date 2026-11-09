@@ -2,7 +2,7 @@
   "conversation": "quest/035/LucKzi010_03546",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzi010_03546#TEXT_LUCKZI010_03546_SEQ_00", "hash": "B47006EB9A91F234", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Il ragazzino dall'aria selvatica si guarda intorno furtivamente." },
+    { "gameKey": "quest/035/LucKzi010_03546#TEXT_LUCKZI010_03546_SEQ_00", "hash": "B47006EB9A91F234", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Il ragazzino dall'aria selvatica si guarda intorno furtivamente." },
     { "gameKey": "quest/035/LucKzi010_03546#TEXT_LUCKZI010_03546_TODO_00", "hash": "D4F02A6216A3D163", "target": "Parlare con il ragazzino dall'aria selvatica" },
     { "gameKey": "quest/035/LucKzi010_03546#TEXT_LUCKZI010_03546_TODO_01", "hash": "8CB58EB8CE3D6281", "target": "Procurarsi bite-sized stones dagli huldu" },
     { "gameKey": "quest/035/LucKzi010_03546#TEXT_LUCKZI010_03546_TODO_02", "hash": "1FFA61612F8062DA", "target": "Dare le bite-sized stones a Rocky" },
@@ -18,11 +18,11 @@
     { "gameKey": "quest/035/LucKzi010_03546#TEXT_LUCKZI010_03546_BOY03546_000_013", "hash": "54093008CC8A4364", "target": "Meglio sbrigarti: Rocky deve morire di fame! Oh, ed ehm, non dire a nessuno che sono qui!" },
     { "gameKey": "quest/035/LucKzi010_03546#TEXT_LUCKZI010_03546_BOY03546_000_020", "hash": "CE17E551C4B497F6", "target": "Hai portato quei pezzi di huldu? Presto, dalli a Rocky!" },
     { "gameKey": "quest/035/LucKzi010_03546#TEXT_LUCKZI010_03546_SYSTEM_000_021", "hash": "8DEEA78CE7CC35A3", "target": "Rocky alza lo sguardo con aria speranzosa..." },
-    { "gameKey": "quest/035/LucKzi010_03546#TEXT_LUCKZI010_03546_ROCKY03546_000_022", "hash": "2D779DDC95D79A89", "target": "\\<sgranocchia> \\<sgranocchia> \\<deglutisce>" },
+    { "gameKey": "quest/035/LucKzi010_03546#TEXT_LUCKZI010_03546_ROCKY03546_000_022", "hash": "2D779DDC95D79A89", "target": "\\<sgranocchia> \\<sgranocchia> \\<glup>" },
     { "gameKey": "quest/035/LucKzi010_03546#TEXT_LUCKZI010_03546_BOY03546_000_023", "hash": "FF13F88C7089B248", "target": "Ecco, amico! Mandali giù!" },
     { "gameKey": "quest/035/LucKzi010_03546#TEXT_LUCKZI010_03546_BOY03546_000_024", "hash": "41C83AB76E1C00AF", "target": "Poco fa è passata tutta una folla, e temevo che facessero qualcosa a Rocky." },
     { "gameKey": "quest/035/LucKzi010_03546#TEXT_LUCKZI010_03546_BOY03546_000_025", "hash": "E1822082AB7103B5", "target": "Ma credo che qui sia abbastanza al sicuro. Vieni, dovremmo andarcene prima che qualcuno ci veda." },
-    { "gameKey": "quest/035/LucKzi010_03546#TEXT_LUCKZI010_03546_ROCKY03546_000_028", "hash": "195A15A7524195E0", "target": "\\<annusa> \\<sbuffa>" },
+    { "gameKey": "quest/035/LucKzi010_03546#TEXT_LUCKZI010_03546_ROCKY03546_000_028", "hash": "195A15A7524195E0", "target": "\\<sniff> \\<sbuffa>" },
     { "gameKey": "quest/035/LucKzi010_03546#TEXT_LUCKZI010_03546_BOY03546_000_030", "hash": "2615D26C14BB21AE", "target": "Non ci sono altri giovani a Concordia, quindi Rocky è il mio unico amico." },
     { "gameKey": "quest/035/LucKzi010_03546#TEXT_LUCKZI010_03546_BOY03546_000_031", "hash": "9D5D9F12A2884639", "target": "...E credo che anche tu non sia male. Per essere <if(gnum4,un'adulta,un adulto)>. E dato che sei <if(gnum4,stata gentile,stato gentile)> con Rocky, ti darò il mio tesoro!" },
     { "gameKey": "quest/035/LucKzi010_03546#TEXT_LUCKZI010_03546_BOY03546_000_032", "hash": "61EFA4CAE0FF4E80", "target": "Era lì per terra. Guarda! Una cosa tanto luccicante deve valere una fortuna!" }

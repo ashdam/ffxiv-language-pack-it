@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKyb001_03597#TEXT_LUCKYB001_03597_SEQ_00", "hash": "1D72991EE167C631", "target": "Il rozzo Hume pensa che tu sia la persona giusta per un incarico discutibile." },
-    { "gameKey": "quest/035/LucKyb001_03597#TEXT_LUCKYB001_03597_TODO_00", "hash": "079B70A755A8A51C", "target": "Parlare con Halldor all'Allevamento di Temenos" },
+    { "gameKey": "quest/035/LucKyb001_03597#TEXT_LUCKYB001_03597_TODO_00", "hash": "079B70A755A8A51C", "target": "Parlare con Halldor alla Colombaia di Temenos" },
     { "gameKey": "quest/035/LucKyb001_03597#TEXT_LUCKYB001_03597_TODO_01", "hash": "787824B9F6FA44E1", "target": "Parlare con Xylle" },
     { "gameKey": "quest/035/LucKyb001_03597#TEXT_LUCKYB001_03597_STRONGHUME03597_100_001", "hash": "292B74738216F12F", "target": "Oh! Tu sei, ehm... sei... Sei <if(gnum4,lei,lui)>, vero!?" },
     { "gameKey": "quest/035/LucKyb001_03597#TEXT_LUCKYB001_03597_STRONGHUME03597_200_001", "hash": "F92AD90CD77C00FE", "target": "Halldor ti cercava. Lo conosci, no? Quello del Clan Nutsy? Se vuoi cacciare i bersagli più letali per le taglie più alte, forse dovresti andare da lui." },

@@ -2,7 +2,7 @@
   "conversation": "quest/050/KinGzc006_05065",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzc006_05065#TEXT_KINGZC006_05065_SEQ_00", "hash": "F7891D9F7DEFBC82", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Radoll Ja cerca qualcuno benvoluto dagli abitanti." },
+    { "gameKey": "quest/050/KinGzc006_05065#TEXT_KINGZC006_05065_SEQ_00", "hash": "F7891D9F7DEFBC82", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Radoll Ja cerca qualcuno benvoluto dagli abitanti." },
     { "gameKey": "quest/050/KinGzc006_05065#TEXT_KINGZC006_05065_TODO_00", "hash": "720BC0C2E17E8622", "target": "Interrogare gli abitanti di Ok'hanu" },
     { "gameKey": "quest/050/KinGzc006_05065#TEXT_KINGZC006_05065_TODO_01", "hash": "60877F9B9872225E", "target": "Parlare con Radoll Ja" },
     { "gameKey": "quest/050/KinGzc006_05065#TEXT_KINGZC006_05065_RADOLLJA_000_000", "hash": "34C64A006ECFC1F6", "target": "Viaggiate con la Terza Erede, vero? Ho sentito i racconti, ma è un onore conoscervi di persona, <split(<string(gstr1)>, ,1)>. So che siete <if(gnum4,una donna molto impegnata,un uomo molto impegnato)>, ma potreste dedicarmi un momento?" },

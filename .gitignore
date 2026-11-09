@@ -1,0 +1,4 @@
+# Local evidence and .NET validation artifacts.
+scratch/
+**/bin/
+**/obj/

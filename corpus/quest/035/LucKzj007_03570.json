@@ -2,7 +2,7 @@
   "conversation": "quest/035/LucKzj007_03570",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzj007_03570#TEXT_LUCKZJ007_03570_SEQ_00", "hash": "A0FD5F8849E9C760", "target": "<colortype(508)><edgecolortype(509)> Quest Sync<edgecolortype(0)><colortype(0)><br>Thafe di Erbaccia sembra inquieto." },
+    { "gameKey": "quest/035/LucKzj007_03570#TEXT_LUCKZJ007_03570_SEQ_00", "hash": "A0FD5F8849E9C760", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Thafe di Erbaccia sembra inquieto." },
     { "gameKey": "quest/035/LucKzj007_03570#TEXT_LUCKZJ007_03570_TODO_00", "hash": "DA955ADA5919F0A9", "target": "Cercare il fratello di Thafe" },
     { "gameKey": "quest/035/LucKzj007_03570#TEXT_LUCKZJ007_03570_TODO_01", "hash": "C618795942C16D95", "target": "Cercare le reliquie fra le rovine" },
     { "gameKey": "quest/035/LucKzj007_03570#TEXT_LUCKZJ007_03570_TODO_02", "hash": "39641DC809F46DC0", "target": "Consegnare le reliquie al fratello di Thafe" },
@@ -10,7 +10,7 @@
     { "gameKey": "quest/035/LucKzj007_03570#TEXT_LUCKZJ007_03570_THAFE_000_000", "hash": "24E3AB1C5FEBFB5E", "target": "<if(gnum4,Viaggiatrice,Viaggiatore)>! Oh, <if(gnum4,viaggiatrice,viaggiatore)>! Non voglio disturbarti, ma mi aiuteresti a trovare mio fratello maggiore?" },
     { "gameKey": "quest/035/LucKzj007_03570#TEXT_LUCKZJ007_03570_THAFE_000_001", "hash": "5931B386E67F651C", "target": "All'improvviso ha cominciato a dire che doveva dimostrare il suo coraggio. Poi è salito su un amaro ed è volato verso le rovine sopra il villaggio, tutto solo! Là ci sono i fantasmi! E se non tornasse? Non voglio rimanere solo..." },
     { "gameKey": "quest/035/LucKzj007_03570#TEXT_LUCKZJ007_03570_THAFE_000_002", "hash": "2975F1858881AFD6", "target": "Sai cavalcare un amaro anche tu? Sembra proprio di sì! Forse... forse potresti volare lassù e trovare mio fratello? Ti prego, ti prego!" },
-    { "gameKey": "quest/035/LucKzj007_03570#TEXT_LUCKZJ007_03570_THAFE_000_003", "hash": "D1E32322864F6005", "target": "Se sapessi cavalcare un amaro anch'io... Ma mio fratello non vuole insegnarmi. Dice che sono un fifone e un piagnucolone. \\<singhiozzo> Io... spero solo che stia bene." },
+    { "gameKey": "quest/035/LucKzj007_03570#TEXT_LUCKZJ007_03570_THAFE_000_003", "hash": "D1E32322864F6005", "target": "Se sapessi cavalcare un amaro anch'io... Ma mio fratello non vuole insegnarmi. Dice che sono un fifone e un piagnucolone. \\<sniff> Io... spero solo che stia bene." },
     { "gameKey": "quest/035/LucKzj007_03570#TEXT_LUCKZJ007_03570_BROTHER03570_000_010", "hash": "5989ACCE8F74E503", "target": "Ch-chi va là!? Non mi arrenderò senza combattere!" },
     { "gameKey": "quest/035/LucKzj007_03570#TEXT_LUCKZJ007_03570_BROTHER03570_000_011", "hash": "C283DD7634797169", "target": "...Oh. Ti manda Thafe? Che piagnucolone. Giuro, basta che mi perda di vista e comincia a tirare su col naso e a piangere. Gli ho <italic(1)>detto<italic(0)> che venivo qui solo per compiere l'antico rito di passaggio del nostro villaggio." },
     { "gameKey": "quest/035/LucKzj007_03570#TEXT_LUCKZJ007_03570_BROTHER03570_000_012", "hash": "05582470A3EBCAC8", "target": "Secondo la tradizione, tutti i ragazzi di una certa età devono volare qui in groppa a un amaro, recuperare tre tesori fra le rovine e riportarli al villaggio. Ehi, ho un'idea! Visto che sei <if(gnum4,venuta,venuto)> fin quassù, perché non cerchi qualcosa anche per te?" },

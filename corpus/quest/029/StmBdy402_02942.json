@@ -2,12 +2,12 @@
   "conversation": "quest/029/StmBdy402_02942",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/StmBdy402_02942#TEXT_STMBDY402_02942_RODNEY_000_000", "hash": "B8DB02E70A8061AD", "target": "" },
-    { "gameKey": "quest/029/StmBdy402_02942#TEXT_STMBDY402_02942_RODNEY_100_000", "hash": "65833EC89784F347", "target": "" },
-    { "gameKey": "quest/029/StmBdy402_02942#TEXT_STMBDY402_02942_RODNEY_000_001", "hash": "677346D245057AE8", "target": "" },
-    { "gameKey": "quest/029/StmBdy402_02942#TEXT_STMBDY402_02942_RODNEY_000_002", "hash": "AA8BA70BA4CD6360", "target": "" },
-    { "gameKey": "quest/029/StmBdy402_02942#TEXT_STMBDY402_02942_SYSTEM_000_010", "hash": "8DFB5F5955F4D6DD", "target": "" },
-    { "gameKey": "quest/029/StmBdy402_02942#TEXT_STMBDY402_02942_SYSTEM_000_011", "hash": "3145A58026CA24DF", "target": "" },
-    { "gameKey": "quest/029/StmBdy402_02942#TEXT_STMBDY402_02942_SYSTEM_000_012", "hash": "249F6B97F54B7A22", "target": "" }
+    { "gameKey": "quest/029/StmBdy402_02942#TEXT_STMBDY402_02942_RODNEY_000_000", "hash": "B8DB02E70A8061AD", "target": "Buone notizie, avventuriero! Mentre eri via, la signora Krile ha completato i lavori sul ripetitore dell'Eternet, permettendoci di raggiungere un'altra zona dell'isola!" },
+    { "gameKey": "quest/029/StmBdy402_02942#TEXT_STMBDY402_02942_RODNEY_100_000", "hash": "65833EC89784F347", "target": "Mi dicono che sia molto diversa da Anemos: molto, molto più fredda, per via dell'abbondanza di etere di affinità glaciale. Per questo la squadra l'ha chiamata «Pagos»." },
+    { "gameKey": "quest/029/StmBdy402_02942#TEXT_STMBDY402_02942_RODNEY_000_001", "hash": "677346D245057AE8", "target": "È già stato allestito un nuovo campo base e, se vuoi dare una mano alla spedizione, il tuo aiuto sarà più che gradito." },
+    { "gameKey": "quest/029/StmBdy402_02942#TEXT_STMBDY402_02942_RODNEY_000_002", "hash": "AA8BA70BA4CD6360", "target": "Basta che tu lo dica e mi occuperò di organizzare tutto. Sono certo che la signora Krile sarà felicissima di rivederti!" },
+    { "gameKey": "quest/029/StmBdy402_02942#TEXT_STMBDY402_02942_SYSTEM_000_010", "hash": "8DFB5F5955F4D6DD", "target": "Ora puoi accedere alla Terra Proibita, Eureka Pagos. Come Anemos, anche Pagos può essere esplorata in gruppi fino a otto giocatori, oppure in solitaria." },
+    { "gameKey": "quest/029/StmBdy402_02942#TEXT_STMBDY402_02942_SYSTEM_000_011", "hash": "3145A58026CA24DF", "target": "Per partire alla volta di Pagos, parla con Rodney al Molo 1 di Kugane." },
+    { "gameKey": "quest/029/StmBdy402_02942#TEXT_STMBDY402_02942_SYSTEM_000_012", "hash": "249F6B97F54B7A22", "target": "Nota: tutte le spedizioni nella Terra Proibita, Eureka Pagos, sono soggette alla sincronizzazione del livello oggetti. L'equipaggiamento con livello oggetti superiore a <sheet(ContentFinderCondition,lnum1,20)> verrà adeguato." }
   ]
 }

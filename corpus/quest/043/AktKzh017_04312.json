@@ -2,7 +2,7 @@
   "conversation": "quest/043/AktKzh017_04312",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/043/AktKzh017_04312#TEXT_AKTKZH017_04312_SEQ_00", "hash": "03461FA91DC39E45", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Il tassonomista saccente spera disperatamente in un lampo d'ispirazione." },
+    { "gameKey": "quest/043/AktKzh017_04312#TEXT_AKTKZH017_04312_SEQ_00", "hash": "03461FA91DC39E45", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Il tassonomista saccente spera disperatamente in un lampo d'ispirazione." },
     { "gameKey": "quest/043/AktKzh017_04312#TEXT_AKTKZH017_04312_TODO_00", "hash": "97674ABF3CB9DE58", "target": "Parlare con il tassonomista saccente ai piedi del grande albero a sud" },
     { "gameKey": "quest/043/AktKzh017_04312#TEXT_AKTKZH017_04312_TODO_01", "hash": "1414AF4BC389C7D0", "target": "Usare /think ai piedi del grande albero" },
     { "gameKey": "quest/043/AktKzh017_04312#TEXT_AKTKZH017_04312_TODO_02", "hash": "F377558FA53888E3", "target": "Parlare con il tassonomista saccente presso una cascata a ovest" },
@@ -51,7 +51,7 @@
     { "gameKey": "quest/043/AktKzh017_04312#TEXT_AKTKZH017_04312_A3_000_001", "hash": "69CABEE960C5908E", "target": "La sua liscia pelle verde." },
     { "gameKey": "quest/043/AktKzh017_04312#TEXT_AKTKZH017_04312_A3_000_002", "hash": "4662C90ED447A2E1", "target": "I suoi occhietti." },
     { "gameKey": "quest/043/AktKzh017_04312#TEXT_AKTKZH017_04312_A3_000_003", "hash": "89D83E7432ABFFEA", "target": "La sua testa spinosa." },
-    { "gameKey": "quest/043/AktKzh017_04312#TEXT_AKTKZH017_04312_DENOMINATOR04312_000_054", "hash": "CBCC1368A9A6B9D2", "target": "\\<sussulto> Oh, ha funzionato. Il tuo acuto spirito d'osservazione ha stimolato la mia immaginazione: ho trovato un nome davvero degno!" },
+    { "gameKey": "quest/043/AktKzh017_04312#TEXT_AKTKZH017_04312_DENOMINATOR04312_000_054", "hash": "CBCC1368A9A6B9D2", "target": "\\<gasp> Oh, ha funzionato. Il tuo acuto spirito d'osservazione ha stimolato la mia immaginazione: ho trovato un nome davvero degno!" },
     { "gameKey": "quest/043/AktKzh017_04312#TEXT_AKTKZH017_04312_DENOMINATOR04312_000_055", "hash": "60ADBC061DA0B005", "target": "Devo tornare subito a Poieten Oikos e accertarmi che nessun'altra creazione abbia questo nome. Mi raggiungerai presto, vero? Dopo tutto, ti spetta un dono adeguato per l'aiuto che mi hai dato." },
     { "gameKey": "quest/043/AktKzh017_04312#TEXT_AKTKZH017_04312_EUROS310_000_059", "hash": "0381D55C5913F82B", "target": "...!!!" },
     { "gameKey": "quest/043/AktKzh017_04312#TEXT_AKTKZH017_04312_DENOMINATOR04312_000_060", "hash": "47A90A53528EE0C1", "target": "Devo dire che ho apprezzato molto il tempo trascorso insieme. Credo che nulla alimenti la creatività quanto lo scambio di idee. Sono così spesso costretto a lavorare da solo e, per quanto mi dolga ammetterlo, non è molto divertente riflettere in silenzio con la sola propria compagnia. " },

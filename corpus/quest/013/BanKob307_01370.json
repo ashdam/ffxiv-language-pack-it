@@ -25,9 +25,9 @@
     { "gameKey": "quest/013/BanKob307_01370#TEXT_BANKOB307_01370_BOBU_000_031", "hash": "767281AE2F00A93A", "target": "È solo questione di tempo, lune, giorni, tempo, prima che Bo Bu occupi la posizione di potere che gli spetta. Sì, sì, presto mi chiamerai 1st Order Exemplar Bo Bu!" },
     { "gameKey": "quest/013/BanKob307_01370#TEXT_BANKOB307_01370_POPMESSAGE_000_000", "hash": "488F242A51F4D0D9", "target": "Avverti una presenza ostile!" },
     { "gameKey": "quest/013/BanKob307_01370#TEXT_BANKOB307_01370_POPMESSAGE_000_002", "hash": "72393F3ABEFB19EC", "target": "Il nemico è ancora nei paraggi!" },
-    { "gameKey": "quest/013/BanKob307_01370#TEXT_BANKOB307_01370_KOBOLD01370_000_040", "hash": "E0C6D167C305FD09", "target": "Questo è di Zo Ga! Giù quelle luride zampe!" },
-    { "gameKey": "quest/013/BanKob307_01370#TEXT_BANKOB307_01370_KOBOLD01370_000_041", "hash": "144AB990838ADF65", "target": "Giù le mani! Non toccare! Stai alla larga!" },
-    { "gameKey": "quest/013/BanKob307_01370#TEXT_BANKOB307_01370_KOBOLD01370_000_042", "hash": "0D123D30A225FA37", "target": "<if(gnum4,Sopraterrana,Sopraterrano)>! Porterò a Zo Ga la tua testa su un vassoio: un piatto, un piattino, un vassoio!" },
+    { "gameKey": "quest/013/BanKob307_01370#TEXT_BANKOB307_01370_KOBOLD01370_000_040", "hash": "57A6ADCC80186410", "target": "Questo è di Zo Ga! Giù quelle luride zampe!" },
+    { "gameKey": "quest/013/BanKob307_01370#TEXT_BANKOB307_01370_KOBOLD01370_000_041", "hash": "8CA6FBC6B876D70F", "target": "Giù le mani! Non toccare! Stai alla larga!" },
+    { "gameKey": "quest/013/BanKob307_01370#TEXT_BANKOB307_01370_KOBOLD01370_000_042", "hash": "EF03CB1222DBCE44", "target": "<if(gnum4,Sopraterrana,Sopraterrano)>! Porterò a Zo Ga la tua testa su un vassoio: un piatto, un piattino, un vassoio!" },
     { "gameKey": "quest/013/BanKob307_01370#TEXT_BANKOB307_01370_BALLOON_000_050", "hash": "5C83AACF93D6F5CE", "target": "Non ne uscirai <if(gnum4,viva,vivo)>!<br>No, no, non ne uscirai!" }
   ]
 }

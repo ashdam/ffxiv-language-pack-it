@@ -2,19 +2,19 @@
   "conversation": "quest/008/GaiUsb009_00816",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_SEQ_00", "hash": "C63CA4CCDE21B0C5", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_SEQ_01", "hash": "D778FA8699E43C97", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_SEQ_02", "hash": "A7AFAF538584A40E", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_SEQ_03", "hash": "6DCAEFB32946D23F", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_TODO_00", "hash": "262FC3445E738736", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_TODO_01", "hash": "01C5CCE424981C12", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_LANDENEL_000_000", "hash": "EC00EE4661C633BF", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_LANDENEL_000_001", "hash": "B0522F84C7BB9F08", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_LANDENEL_000_002", "hash": "795E636388E4CBBE", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_KIKOKUTAIA_000_010", "hash": "A2BEBE2808D7D013", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_KIKOKUTAIB_000_020", "hash": "5CE77914D6070545", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_KIKOKUTAIC_000_030", "hash": "6816FE04AA3390E3", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_LANDENEL_000_040", "hash": "79455EA366E9258C", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_LANDENEL_000_041", "hash": "88DA43BA3EE665B7", "target": "" }
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_SEQ_00", "hash": "C63CA4CCDE21B0C5", "target": "Landenel ha una richiesta urgente per una persona gentile e avventurosa." },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_SEQ_01", "hash": "D778FA8699E43C97", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Questa missione è stata aggiornata. Abbandonala e riprendila parlando con Landenel al Campo Tranquillo.<edgecolortype(0)><colortype(0)><br><br>※La Guida alle missioni principali indica la prossima missione disponibile. Puoi attivarla o disattivarla in Configurazione Personaggio, sotto Impostazioni Interfaccia." },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_SEQ_02", "hash": "A7AFAF538584A40E", "target": "Le tre sentinelle sono partite per i Sentieri Inferiori. Torna al Campo Tranquillo e parla con Landenel." },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_SEQ_03", "hash": "6DCAEFB32946D23F", "target": "Il terreno di riproduzione degli adamantoise non resterà sguarnito a lungo. Landenel ti esorta ad agire in fretta, se vuoi mettere le mani su una delle preziose uova giganti." },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_TODO_00", "hash": "262FC3445E738736", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Questa missione è stata aggiornata. Abbandonala e riprendila parlando con Landenel al Campo Tranquillo.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_TODO_01", "hash": "01C5CCE424981C12", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Questa missione è stata aggiornata. Abbandonala e riprendila parlando con Landenel al Campo Tranquillo.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_LANDENEL_000_000", "hash": "EC00EE4661C633BF", "target": "Questa infestazione di mosche fungine richiede tutta la nostra attenzione. Vi ringrazio per avermela segnalata." },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_LANDENEL_000_001", "hash": "B0522F84C7BB9F08", "target": "Se posso approfittare ancora della vostra gentilezza, vi chiedo di informare i miei sottoposti di questa grave situazione." },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_LANDENEL_000_002", "hash": "795E636388E4CBBE", "target": "Ho tre Sentinelle del Bosco di guardia al Lago delle Radici. Avvertite ciascuna di recarsi ai Sentieri Inferiori e cercare sciami di mosche fungine fino a nuovo ordine." },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_KIKOKUTAIA_000_010", "hash": "A2BEBE2808D7D013", "target": "Mosche fungine? Nei Sentieri Inferiori? Non posso perdere tempo! Grazie per avermi riferito gli ordini del Capitano Landenel!" },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_KIKOKUTAIB_000_020", "hash": "5CE77914D6070545", "target": "Un messaggio del capitano?<br>Accidenti, quei maledetti vilomorfi sono un pericolo per chi viaggia sulla strada. Partirò immediatamente." },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_KIKOKUTAIC_000_030", "hash": "6816FE04AA3390E3", "target": "Come? Tutti devono cercare mosche fungine nei Sentieri Inferiori? Mmm... è vero che ultimamente non abbiamo avuto a che fare con bracconieri, ma non posso fare a meno di temere che colpiscano mentre siamo via. \\<sigh> Ma un ordine è un ordine." },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_LANDENEL_000_040", "hash": "79455EA366E9258C", "target": "...Avete avvisato i miei uomini, quindi? Ottimo lavoro, <split(<string(gstr1)>, ,1)>." },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_LANDENEL_000_041", "hash": "88DA43BA3EE665B7", "target": "Tuttavia, non posso tenere i galli distratti ancora a lungo. Se volete razziare il pollaio, dovete farlo subito." }
   ]
 }

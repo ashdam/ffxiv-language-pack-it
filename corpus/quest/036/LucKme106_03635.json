@@ -8,7 +8,7 @@
     { "gameKey": "quest/036/LucKme106_03635#TEXT_LUCKME106_03635_TODO_02", "hash": "1D8988F69779B24A", "target": "Esaminare la zona" },
     { "gameKey": "quest/036/LucKme106_03635#TEXT_LUCKME106_03635_TODO_03", "hash": "0F7DED0FFAA4D7E6", "target": "Parlare con Alisaie" },
     { "gameKey": "quest/036/LucKme106_03635#TEXT_LUCKME106_03635_TODO_04", "hash": "33B60DA0F3499B59", "target": "Parlare con Alisaie" },
-    { "gameKey": "quest/036/LucKme106_03635#TEXT_LUCKME106_03635_ALPHINAUD_000_000", "hash": "45FBA1A08F4B4F7C", "target": "Sono lieto di vedere che gli abitanti non diffidano più di noi. Coglierò l'occasione per chiedere informazioni sul Mt. Gulg." },
+    { "gameKey": "quest/036/LucKme106_03635#TEXT_LUCKME106_03635_ALPHINAUD_000_000", "hash": "45FBA1A08F4B4F7C", "target": "Sono lieto di vedere che gli abitanti non diffidano più di noi. Coglierò l'occasione per chiedere informazioni sul Monte Gulg." },
     { "gameKey": "quest/036/LucKme106_03635#TEXT_LUCKME106_03635_ALISAIE_000_020", "hash": "2F25F9443A040217", "target": "Un'altra anima sfortunata che Alphinaud ha salvato da un pericolo mortale, vedo. Certe cose non cambiano mai." },
     { "gameKey": "quest/036/LucKme106_03635#TEXT_LUCKME106_03635_ALISAIE_000_021", "hash": "814A917F3A0A79B8", "target": "In ogni caso, pare che mio fratello intenda trattenersi. Nel frattempo, io vorrei che noi andassimo in esplorazione." },
     { "gameKey": "quest/036/LucKme106_03635#TEXT_LUCKME106_03635_ALISAIE_000_022", "hash": "77757E67E1341DB5", "target": "<split(<string(gstr1)>, ,1)> e io andiamo a perlustrare la zona. Torneremo tra un po'." },
@@ -27,7 +27,7 @@
     { "gameKey": "quest/036/LucKme106_03635#TEXT_LUCKME106_03635_CHAINUZZ_000_090", "hash": "873BDE07498E94D0", "target": "Oh, non badare a noi. Ci limitiamo ad ammirare il panorama." },
     { "gameKey": "quest/036/LucKme106_03635#TEXT_LUCKME106_03635_DULIACHAI_000_095", "hash": "8BB63BC2E7DFF748", "target": "Ahhh, che viaggio esaltante! E che panorama magnifico! Nulla a Eulmore è paragonabile a questo!" },
     { "gameKey": "quest/036/LucKme106_03635#TEXT_LUCKME106_03635_ALISAIE_000_100", "hash": "28BD118CE570A08C", "target": "Hm... Non mi aspettavo di vedere qui i Chai. Anche se suppongo che ne abbiano tutto il diritto." },
-    { "gameKey": "quest/036/LucKme106_03635#TEXT_LUCKME106_03635_ALISAIE_000_101", "hash": "F8A9453866DCFEAC", "target": "In ogni caso, è ora di affrontare il prossimo piccolo ostacolo: trovare un modo per raggiungere il Mt. Gulg." },
+    { "gameKey": "quest/036/LucKme106_03635#TEXT_LUCKME106_03635_ALISAIE_000_101", "hash": "F8A9453866DCFEAC", "target": "In ogni caso, è ora di affrontare il prossimo piccolo ostacolo: trovare un modo per raggiungere il Monte Gulg." },
     { "gameKey": "quest/036/LucKme106_03635#TEXT_LUCKME106_03635_ALISAIE_000_102", "hash": "7CCCE215DAB04F9B", "target": "Per questo dovremo ragionare tutti insieme..." }
   ]
 }

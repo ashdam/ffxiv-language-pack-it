@@ -2,7 +2,7 @@
   "conversation": "quest/033/LucKzc013_03396",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/033/LucKzc013_03396#TEXT_LUCKZC013_03396_SEQ_00", "hash": "A0CD3777F881E0F0", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Lad Kenn ha mille pensieri in testa." },
+    { "gameKey": "quest/033/LucKzc013_03396#TEXT_LUCKZC013_03396_SEQ_00", "hash": "A0CD3777F881E0F0", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Lad Kenn ha mille pensieri in testa." },
     { "gameKey": "quest/033/LucKzc013_03396#TEXT_LUCKZC013_03396_TODO_00", "hash": "33280CC32FAA3593", "target": "Parlare con Uin Hagan" },
     { "gameKey": "quest/033/LucKzc013_03396#TEXT_LUCKZC013_03396_TODO_01", "hash": "49D20BC2B750FB6E", "target": "Consegnare lo sheep's milk al castoro gigante" },
     { "gameKey": "quest/033/LucKzc013_03396#TEXT_LUCKZC013_03396_TODO_02", "hash": "BBF7854BCADC9A54", "target": "Parlare con Uin Hagan" },
@@ -31,6 +31,6 @@
     { "gameKey": "quest/033/LucKzc013_03396#TEXT_LUCKZC013_03396_SYSTEM_000_032", "hash": "E3DF790F7F836377", "target": "Uin Hagan vola via felice." },
     { "gameKey": "quest/033/LucKzc013_03396#TEXT_LUCKZC013_03396_LADKENN_000_040", "hash": "3B6673CD5EABEAE5", "target": "Ah, <if(gnum4,bentornata,bentornato)>! Allora... com'è andata?" },
     { "gameKey": "quest/033/LucKzc013_03396#TEXT_LUCKZC013_03396_LADKENN_000_041", "hash": "634AC0B24810D8D6", "target": "Come!? Nooo! Non... non può succedere!" },
-    { "gameKey": "quest/033/LucKzc013_03396#TEXT_LUCKZC013_03396_LADKENN_000_042", "hash": "2DF5655DDCD63A0A", "target": "M-mi spiace, non è colpa tua. Hai fatto ciò che ti avevo chiesto e te ne sono grato. È solo... solo... \\<singhiozzo>" }
+    { "gameKey": "quest/033/LucKzc013_03396#TEXT_LUCKZC013_03396_LADKENN_000_042", "hash": "2DF5655DDCD63A0A", "target": "M-mi spiace, non è colpa tua. Hai fatto ciò che ti avevo chiesto e te ne sono grato. È solo... solo... \\<sob>" }
   ]
 }

@@ -2,7 +2,7 @@
   "conversation": "quest/051/KinGzd106_05105",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/051/KinGzd106_05105#TEXT_KINGZD106_05105_SEQ_00", "hash": "1D7BB8295CF956B6", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Questa timida donna ti guarda implorante." },
+    { "gameKey": "quest/051/KinGzd106_05105#TEXT_KINGZD106_05105_SEQ_00", "hash": "1D7BB8295CF956B6", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Questa timida donna ti guarda implorante." },
     { "gameKey": "quest/051/KinGzd106_05105#TEXT_KINGZD106_05105_TODO_00", "hash": "B11325B1A7D07CE1", "target": "Cercare l'uomo sconsolato" },
     { "gameKey": "quest/051/KinGzd106_05105#TEXT_KINGZD106_05105_TODO_01", "hash": "6AAB3EF0ED06828A", "target": "Con la chat in modalità <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, inserire «seek the sun» rivolgendosi all'uomo sconsolato" },
     { "gameKey": "quest/051/KinGzd106_05105#TEXT_KINGZD106_05105_TODO_02", "hash": "B90934C5F1BB52BF", "target": "Parlare con la donna timida" },
@@ -13,7 +13,7 @@
     { "gameKey": "quest/051/KinGzd106_05105#TEXT_KINGZD106_05105_QUIETBOONEWA05105_000_004", "hash": "D8AD5087ECA72DFD", "target": "Non posso perdere mio marito, non dopo... Ti prego, <if(gnum4,sconosciuta,sconosciuto)>. Trovalo e digli «seek the sun». L'hanno visto andare verso il Cenote Jayunja." },
     { "gameKey": "quest/051/KinGzd106_05105#TEXT_KINGZD106_05105_HOOBIGOHASBAND05105_000_005", "hash": "FF02AAFF35E3085E", "target": "Tu! T-tu fai parte del seguito della Terza Erede..." },
     { "gameKey": "quest/051/KinGzd106_05105#TEXT_KINGZD106_05105_HOOBIGOHASBAND05105_000_006", "hash": "2E7A8D524E41D6E6", "target": "Lasciami stare. Vado a incontrarli. Mi stanno chiamando..." },
-    { "gameKey": "quest/051/KinGzd106_05105#TEXT_KINGZD106_05105_HOOBIGOHASBAND05105_000_007", "hash": "4F8A265A6A7F7545", "target": "Da quando abbiamo deciso di abbandonare gli insegnamenti, riesco a <italic(1)>sentirli<italic(0)>. Le loro voci giovani e luminose... Mi chiamano allo Skydeep Cenote..." },
+    { "gameKey": "quest/051/KinGzd106_05105#TEXT_KINGZD106_05105_HOOBIGOHASBAND05105_000_007", "hash": "4F8A265A6A7F7545", "target": "Da quando abbiamo deciso di abbandonare gli insegnamenti, riesco a <italic(1)>sentirli<italic(0)>. Le loro voci giovani e luminose... Mi chiamano al Cenote Abissale..." },
     { "gameKey": "quest/051/KinGzd106_05105#TEXT_KINGZD106_05105_SYSTEM_000_008", "hash": "0294C9EEAB846031", "target": "Con la chat in modalità <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, usa la tastiera fisica o virtuale per inserire una frase contenente le parole «seek the sun» e fermare l'uomo sconsolato prima che prosegua." },
     { "gameKey": "quest/051/KinGzd106_05105#TEXT_KINGZD106_05105_HOOBIGOHASBAND05105_000_009", "hash": "88CAA9141CE9BE7D", "target": "Aspettatemi, piccoli. Papà sta arrivando..." },
     { "gameKey": "quest/051/KinGzd106_05105#TEXT_KINGZD106_05105_SYSTEM_000_010", "hash": "CFC518A8EF4F7668", "target": "L'uomo sconsolato non ti ascolta. Con la chat in modalità <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, usa la tastiera fisica o virtuale per inserire una frase contenente le parole «seek the sun» e impedirgli di proseguire." },
