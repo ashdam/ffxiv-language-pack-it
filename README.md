@@ -16,6 +16,5 @@ Come collaborare alla traduzione, passo per passo:
 Una riga tradotta male: https://github.com/ashdam/ffxiv-language-pack-it/issues
 
 
-Istruzioni per il lavoro editoriale in questo repository: [AGENTS.md](AGENTS.md),
 [Traduzione](docs/TRANSLATION.md), [Revisione](docs/REVISION.md),
 [Glossario italiano](glossary/README.md).
