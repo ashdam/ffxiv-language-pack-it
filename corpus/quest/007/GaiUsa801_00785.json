@@ -2,17 +2,17 @@
   "conversation": "quest/007/GaiUsa801_00785",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_SEQ_00", "hash": "FC2E98C870916C22", "target": "" },
-    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_SEQ_01", "hash": "E85A73BEC8D288E1", "target": "" },
-    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_SEQ_02", "hash": "2B51D0E994036A52", "target": "" },
-    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_SEQ_03", "hash": "515664060C9462A3", "target": "" },
-    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_TODO_00", "hash": "60FE57651EE691FC", "target": "" },
-    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_TODO_01", "hash": "4716630C18D0A9E0", "target": "" },
-    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_AIDEEN_000_000", "hash": "7AA23B663B07FF68", "target": "" },
-    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_AIDEEN_000_001", "hash": "815030EC45F6D86B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_AIDEEN_000_002", "hash": "FC0473AA3B55D448", "target": "" },
-    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_DUMMY_000_010", "hash": "3AFB4E53F611E13C", "target": "" },
-    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_AIDEEN_000_020", "hash": "2C9BEBF07E77682F", "target": "" },
-    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_AIDEEN_000_021", "hash": "7B59C3DA3D2C711B", "target": "" }
+    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_SEQ_00", "hash": "FC2E98C870916C22", "target": "Aideen ha un'idea da proporti per proseguire le indagini." },
+    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_SEQ_01", "hash": "E85A73BEC8D288E1", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Questa missione è stata aggiornata. Abbandonala e riprendila parlando con Aideen a Zuccacaduta.<edgecolortype(0)><colortype(0)><br><br>※La Guida alle missioni principali mostra la prossima missione disponibile. Puoi attivarla o disattivarla nelle Impostazioni interfaccia della Configurazione personaggio." },
+    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_SEQ_02", "hash": "2B51D0E994036A52", "target": "Hai abbattuto i sei ziz suggeriti, ma l'unica cosa che hai ottenuto è una bella collezione di morsi e graffi. Torna a Zuccacaduta e riferisci ad Aideen." },
+    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_SEQ_03", "hash": "515664060C9462A3", "target": "Aideen esclude gli ziz dalla lista dei sospettati e torna a concentrarsi sull'uomo mascherato e sul suo occhio alato." },
+    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_TODO_00", "hash": "60FE57651EE691FC", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Questa missione è stata aggiornata. Abbandonala e riprendila parlando con Aideen a Zuccacaduta.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_TODO_01", "hash": "4716630C18D0A9E0", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Questa missione è stata aggiornata. Abbandonala e riprendila parlando con Aideen a Zuccacaduta.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_AIDEEN_000_000", "hash": "7AA23B663B07FF68", "target": "Ecco cosa so sulle morti: tutte le vittime sono state trovate con il volto ridotto a brandelli." },
+    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_AIDEEN_000_001", "hash": "815030EC45F6D86B", "target": "Tra la fauna locale, solo gli squamorfi detti ziz potrebbero infliggere ferite simili. Per questo alcuni sospettano di loro." },
+    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_AIDEEN_000_002", "hash": "FC0473AA3B55D448", "target": "Non credo che la risposta sia così semplice, ma per scrupolo dovremmo indagare. Perché non ne abbatti sei, per esempio, e vedi se riesci a trovare prove che li colleghino alle morti?" },
+    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_DUMMY_000_010", "hash": "3AFB4E53F611E13C", "target": "(Sconfiggi sei ziz.)" },
+    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_AIDEEN_000_020", "hash": "2C9BEBF07E77682F", "target": "Hai già sistemato i ziz? Ottimo lavoro, <if(gnum4,avventuriera,avventuriero)>! Hai trovato qualche indizio che faccia pensare che siano i colpevoli?" },
+    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_AIDEEN_000_021", "hash": "7B59C3DA3D2C711B", "target": "...Niente? A dire il vero, anche se avessi trovato delle prove, non saprei nemmeno riconoscerle. Comunque, direi che possiamo escludere gli ziz dai sospettati. Il che lascia... l'uomo mascherato e il suo occhio alato!" }
   ]
 }

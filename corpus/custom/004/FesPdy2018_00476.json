@@ -2,7 +2,7 @@
   "conversation": "custom/004/FesPdy2018_00476",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/004/FesPdy2018_00476#TEXT_FESPDY2018_00476_HANDMAID00476_000_000", "hash": "27F1BF11A31F62A6", "target": "Parteciperete alla Festa delle Fanciulle di quest'anno? L'evento principale è un'esibizione speciale degli Uccelli Canori e la vostra presenza la renderà ancora più divertente." },
+    { "gameKey": "custom/004/FesPdy2018_00476#TEXT_FESPDY2018_00476_HANDMAID00476_000_000", "hash": "27F1BF11A31F62A6", "target": "Parteciperete alla Giornata delle Piccole Dame di quest'anno? L'evento principale è un'esibizione speciale degli Uccelli Canori e la vostra presenza la renderà ancora più divertente." },
     { "gameKey": "custom/004/FesPdy2018_00476#TEXT_FESPDY2018_00476_SYSTEM_000_001", "hash": "94088B1130DF79C4", "target": "Per partecipare al FATE «Color My World», devi prima progredire nella missione «Un tripudio di colori»." },
     { "gameKey": "custom/004/FesPdy2018_00476#TEXT_FESPDY2018_00476_HANDMAID00476_000_010", "hash": "21331CB864508CC6", "target": "Desiderate unirvi allo stormo di ammiratori degli Uccelli Canori? O forse volete sapere qualcosa prima di assistere allo spettacolo?" },
     { "gameKey": "custom/004/FesPdy2018_00476#TEXT_FESPDY2018_00476_Q1_000_000", "hash": "7FFFEF314BE01989", "target": "Cosa vuoi fare?" },
@@ -20,8 +20,8 @@
     { "gameKey": "custom/004/FesPdy2018_00476#TEXT_FESPDY2018_00476_CONFIRM_000_002", "hash": "D852B3C18FA03A77", "target": "Vedo che siete fan di Ulala. Preparo dunque il completo rosso?" },
     { "gameKey": "custom/004/FesPdy2018_00476#TEXT_FESPDY2018_00476_CONFIRM_000_003", "hash": "FFF52645B0BA380F", "target": "Vedo che siete fan di Masha Mhakaracca. Preparo dunque il completo blu?" },
     { "gameKey": "custom/004/FesPdy2018_00476#TEXT_FESPDY2018_00476_HANDMAID00476_000_021", "hash": "49A493B01D15698B", "target": "Ecco abiti e luci. Spero vi godiate l'esibizione." },
-    { "gameKey": "custom/004/FesPdy2018_00476#TEXT_FESPDY2018_00476_SYSTEM_100_021", "hash": "DCFD4644B642FC41", "target": "Puoi rimuovere in qualsiasi momento l'effetto di stato conferito dalla royal handmaiden usando l'azione speciale Curtain Call." },
-    { "gameKey": "custom/004/FesPdy2018_00476#TEXT_FESPDY2018_00476_SYSTEM_200_021", "hash": "96F41372695C4480", "target": "Se rimuovi l'effetto per errore, parla di nuovo con la royal handmaiden per riunirti ai fan degli Uccelli Canori." },
+    { "gameKey": "custom/004/FesPdy2018_00476#TEXT_FESPDY2018_00476_SYSTEM_100_021", "hash": "DCFD4644B642FC41", "target": "Puoi rimuovere in qualsiasi momento l'effetto di stato conferito dalla damigella reale usando l'azione speciale Cala il Sipario." },
+    { "gameKey": "custom/004/FesPdy2018_00476#TEXT_FESPDY2018_00476_SYSTEM_200_021", "hash": "96F41372695C4480", "target": "Se rimuovi l'effetto per errore, parla di nuovo con la damigella reale per riunirti ai fan degli Uccelli Canori." },
     { "gameKey": "custom/004/FesPdy2018_00476#TEXT_FESPDY2018_00476_Q3_000_000", "hash": "974962575ED0C33A", "target": "Cosa vuoi chiedere?" },
     { "gameKey": "custom/004/FesPdy2018_00476#TEXT_FESPDY2018_00476_A3_000_001", "hash": "27971FBF5A57EB9F", "target": "Come posso sostenere gli Uccelli Canori?" },
     { "gameKey": "custom/004/FesPdy2018_00476#TEXT_FESPDY2018_00476_A3_000_002", "hash": "D953C8BF547A275A", "target": "Cosa sono i certificates of collaboration?" },
@@ -30,7 +30,7 @@
     { "gameKey": "custom/004/FesPdy2018_00476#TEXT_FESPDY2018_00476_HANDMAID00476_000_030", "hash": "9BBD0C486C393125", "target": "Quando gli Uccelli Canori sono pronti a salire sul palco, parlatemi e preparerò i vostri abiti." },
     { "gameKey": "custom/004/FesPdy2018_00476#TEXT_FESPDY2018_00476_HANDMAID00476_000_031", "hash": "C53E9E761CDABCA8", "target": "Tenete pronte le luci. Le ragazze sono sempre felicissime di vedere i fan fare il tifo coi loro colori distintivi." },
     { "gameKey": "custom/004/FesPdy2018_00476#TEXT_FESPDY2018_00476_HANDMAID00476_000_032", "hash": "57085A85052963A3", "target": "Col vostro aiuto, questa sarà un'esibizione che nessuno dimenticherà presto." },
-    { "gameKey": "custom/004/FesPdy2018_00476#TEXT_FESPDY2018_00476_SYSTEM_000_033", "hash": "32EEF22F9A4CFE78", "target": "Per partecipare al FATE «Color My World», devi prima parlare con la royal handmaiden sul Viale degli Smeraldi e prepararti a unirti alla folla di fan degli Uccelli Canori." },
+    { "gameKey": "custom/004/FesPdy2018_00476#TEXT_FESPDY2018_00476_SYSTEM_000_033", "hash": "32EEF22F9A4CFE78", "target": "Per partecipare al FATE «Color My World», devi prima parlare con la damigella reale sul Viale degli Smeraldi e prepararti a unirti alla folla di fan degli Uccelli Canori." },
     { "gameKey": "custom/004/FesPdy2018_00476#TEXT_FESPDY2018_00476_SYSTEM_000_034", "hash": "349788274DE385FB", "target": "Entrando nel FATE, otterrai tre azioni speciali: Cheer On, Cheer Wave e Cheer Jump. Ognuna usa bacchette luminose di un colore diverso per sostenere gli Uccelli Canori." },
     { "gameKey": "custom/004/FesPdy2018_00476#TEXT_FESPDY2018_00476_SYSTEM_000_035", "hash": "82C6207DE7FC3FF6", "target": "Ricorda che ogni cantante apprezza soprattutto i fan che fanno il tifo col suo colore distintivo." },
     { "gameKey": "custom/004/FesPdy2018_00476#TEXT_FESPDY2018_00476_HANDMAID00476_000_040", "hash": "0DD8F9572C670AF0", "target": "Per ringraziare chi si unisce ai festeggiamenti, distribuiamo certificates of collaboration." },
@@ -41,9 +41,9 @@
     { "gameKey": "custom/004/FesPdy2018_00476#TEXT_FESPDY2018_00476_HANDMAID00476_000_052", "hash": "8FA26B02DC668C56", "target": "Avendo tre completi tra cui scegliere, però, dovrò sapere quale volete indossare all'esibizione." },
     { "gameKey": "custom/004/FesPdy2018_00476#TEXT_FESPDY2018_00476_HANDMAID00476_000_053", "hash": "786B9025FE11FAE0", "target": "Tenete pronte le luci. Le ragazze sono sempre felicissime di vedere i fan fare il tifo coi loro colori distintivi." },
     { "gameKey": "custom/004/FesPdy2018_00476#TEXT_FESPDY2018_00476_SYSTEM_000_054", "hash": "CA962D36E3DF1264", "target": "Durante questo evento, il FATE «Color My World» apparirà sul Viale degli Smeraldi, agli Steps of Nald." },
-    { "gameKey": "custom/004/FesPdy2018_00476#TEXT_FESPDY2018_00476_SYSTEM_000_055", "hash": "4AD6B035026E1F6E", "target": "Per partecipare al FATE, devi prima parlare con la royal handmaiden sul Viale degli Smeraldi e prepararti a unirti alla folla di fan degli Uccelli Canori." },
+    { "gameKey": "custom/004/FesPdy2018_00476#TEXT_FESPDY2018_00476_SYSTEM_000_055", "hash": "4AD6B035026E1F6E", "target": "Per partecipare al FATE, devi prima parlare con la damigella reale sul Viale degli Smeraldi e prepararti a unirti alla folla di fan degli Uccelli Canori." },
     { "gameKey": "custom/004/FesPdy2018_00476#TEXT_FESPDY2018_00476_SYSTEM_000_056", "hash": "20A5F58D41AACE6A", "target": "Quando ti unisci al FATE, ricevi tre azioni speciali: Cheer On, Cheer Wave e Cheer Jump. Ciascuna azione usa bacchette luminose di un colore diverso per sostenere gli Uccelli Canori. Ricorda che ogni cantante apprezza particolarmente gli ammiratori che la incoraggiano usando il suo colore distintivo." },
-    { "gameKey": "custom/004/FesPdy2018_00476#TEXT_FESPDY2018_00476_SYSTEM_000_057", "hash": "7FD8EC10FFED0A52", "target": "Puoi rimuovere in qualsiasi momento l'effetto di stato conferito dall'ancella reale lasciando la zona o usando l'azione speciale Curtain Call." },
-    { "gameKey": "custom/004/FesPdy2018_00476#TEXT_FESPDY2018_00476_SYSTEM_000_058", "hash": "0CEEDB655DB084BC", "target": "Se rimuovi l'effetto per errore, parla di nuovo con la royal handmaiden per riunirti ai fan degli Uccelli Canori." }
+    { "gameKey": "custom/004/FesPdy2018_00476#TEXT_FESPDY2018_00476_SYSTEM_000_057", "hash": "7FD8EC10FFED0A52", "target": "Puoi rimuovere in qualsiasi momento l'effetto di stato conferito dall'ancella reale lasciando la zona o usando l'azione speciale Cala il Sipario." },
+    { "gameKey": "custom/004/FesPdy2018_00476#TEXT_FESPDY2018_00476_SYSTEM_000_058", "hash": "0CEEDB655DB084BC", "target": "Se rimuovi l'effetto per errore, parla di nuovo con la damigella reale per riunirti ai fan degli Uccelli Canori." }
   ]
 }

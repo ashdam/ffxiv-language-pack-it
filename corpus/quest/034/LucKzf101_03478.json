@@ -2,7 +2,7 @@
   "conversation": "quest/034/LucKzf101_03478",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKzf101_03478#TEXT_LUCKZF101_03478_SEQ_00", "hash": "C963D8C27B5B5C59", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Lanille vorrebbe concederti una benedizione." },
+    { "gameKey": "quest/034/LucKzf101_03478#TEXT_LUCKZF101_03478_SEQ_00", "hash": "C963D8C27B5B5C59", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Lanille vorrebbe concederti una benedizione." },
     { "gameKey": "quest/034/LucKzf101_03478#TEXT_LUCKZF101_03478_SEQ_01", "hash": "2E99C0EA7278AC37", "target": "Le Viis terranno una cerimonia per invocare la protezione degli dei della foresta e Lanille, maestra dei riti, ti nomina testimone della supplica. Accetti umilmente e lei ti chiede di recarti alle Stelle del Mattino per parlare con una delle sue discepole, Phyna." },
     { "gameKey": "quest/034/LucKzf101_03478#TEXT_LUCKZF101_03478_SEQ_02", "hash": "8C3701B678B1CC59", "target": "Phyna è felicissima di sapere che sarai testimone della cerimonia. Sua sorella Ciuna lo è molto meno. Nonostante le riserve della sorella, Phyna ti spiega il rito: termina con una prova di forza contro la manifestazione di uno spirito della foresta che, una volta sconfitto, porta le loro preghiere in cielo. Le due iniziano a pregare per evocare uno spirito, ma il rito va storto. Appena terminano l'invocazione, compaiono non uno, ma due spiriti instabili di elementi opposti." },
     { "gameKey": "quest/034/LucKzf101_03478#TEXT_LUCKZF101_03478_SEQ_03", "hash": "ADC7568D7EF6AE42", "target": "Ricacci gli spiriti nella foresta con relativa facilità, ma Ciuna sembra turbata da ciò che ha visto." },
@@ -39,7 +39,7 @@
     { "gameKey": "quest/034/LucKzf101_03478#TEXT_LUCKZF101_03478_CIUNA_000_032", "hash": "16D81E68B9760DB0", "target": "Cominciamo, allora? Chiudi gli occhi: cercheremo di richiamare uno spirito con le nostre preghiere." },
     { "gameKey": "quest/034/LucKzf101_03478#TEXT_LUCKZF101_03478_PHYNA_000_033", "hash": "42DFEAC762476813", "target": "O dei della Greatwood, dispensatori di abbondanza e saggezza, vi invochiamo per rinnovare i nostri voti!" },
     { "gameKey": "quest/034/LucKzf101_03478#TEXT_LUCKZF101_03478_CIUNA_000_034", "hash": "1AC42591542610CB", "target": "Per avere la forza di proteggere queste terre, di essere lo scudo contro la Luce maledetta. Chiediamo di affrontare i vostri figli, gli spiriti del bosco, per dimostrarvi il nostro valore." },
-    { "gameKey": "quest/034/LucKzf101_03478#TEXT_LUCKZF101_03478_PHYNA_000_035", "hash": "5CA5DBDC7295850F", "target": "\\<sussulto> Per gli dei!" },
+    { "gameKey": "quest/034/LucKzf101_03478#TEXT_LUCKZF101_03478_PHYNA_000_035", "hash": "5CA5DBDC7295850F", "target": "\\<gasp> Per gli dei!" },
     { "gameKey": "quest/034/LucKzf101_03478#TEXT_LUCKZF101_03478_CIUNA_000_036", "hash": "0FA67777B4E3AAC5", "target": "Gli spiriti sono di forze opposte, fuoco e ghiaccio... Un terribile presagio." },
     { "gameKey": "quest/034/LucKzf101_03478#TEXT_LUCKZF101_03478_PHYNA_000_037", "hash": "AC1CA34EF850D0B2", "target": "Le nostre preghiere bastano a limitarne la forza, ma non possiamo scacciarli da sole. Ti prego, devi abbatterli prima che si disperdano nel bosco." },
     { "gameKey": "quest/034/LucKzf101_03478#TEXT_LUCKZF101_03478_CIUNA_000_040", "hash": "31A5D704039941EF", "target": "In nome del bosco, vi bandiamo..." },

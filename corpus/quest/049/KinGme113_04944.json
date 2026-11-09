@@ -4,14 +4,14 @@
   "entries": [
     { "gameKey": "quest/049/KinGme113_04944#TEXT_KINGME113_04944_SEQ_00", "hash": "7D3042C76B95A1CE", "target": "Cahciua vuole tenere una riunione strategica." },
     { "gameKey": "quest/049/KinGme113_04944#TEXT_KINGME113_04944_TODO_00", "hash": "118D0E90FE1B71B1", "target": "Parlare con Erenville" },
-    { "gameKey": "quest/049/KinGme113_04944#TEXT_KINGME113_04944_TODO_01", "hash": "455014A6210F5007", "target": "Parlare con Cahciua davanti a Everkeep" },
+    { "gameKey": "quest/049/KinGme113_04944#TEXT_KINGME113_04944_TODO_01", "hash": "455014A6210F5007", "target": "Parlare con Cahciua davanti a Roccaeterna" },
     { "gameKey": "quest/049/KinGme113_04944#TEXT_KINGME113_04944_CAHCIUA_000_005", "hash": "62D759C89217DE88", "target": "Hai riposato abbastanza? Allora raduniamo tutti!" },
     { "gameKey": "quest/049/KinGme113_04944#TEXT_KINGME113_04944_CAHCIUA_000_010", "hash": "06A316B17F0D4DE5", "target": "Durante il vostro scontro, Zoraal Ja ha invitato Wuk Lamat a raggiungerlo in cima alla torre." },
     { "gameKey": "quest/049/KinGme113_04944#TEXT_KINGME113_04944_CAHCIUA_000_011", "hash": "C21A4001E3DB3A44", "target": "Il problema è che gli ascensori sono stati bloccati a causa dello stato d'emergenza." },
     { "gameKey": "quest/049/KinGme113_04944#TEXT_KINGME113_04944_SHALE_000_012", "hash": "880EC1763AF00A4C", "target": "Stiamo cercando di rimuovere le restrizioni d'accesso, ma francamente le prospettive non sono buone." },
     { "gameKey": "quest/049/KinGme113_04944#TEXT_KINGME113_04944_WUKLAMAT_000_013", "hash": "68F9C307A95E6FE3", "target": "Ci sono altri modi per raggiungere Zoraal Ja?" },
     { "gameKey": "quest/049/KinGme113_04944#TEXT_KINGME113_04944_CAHCIUA_000_014", "hash": "BFFBBE7FA97C1BB0", "target": "Crediamo di sì." },
-    { "gameKey": "quest/049/KinGme113_04944#TEXT_KINGME113_04944_CAHCIUA_000_015", "hash": "EE0B39E8A3F4960D", "target": "Come sapete, Solution Nine occupa il nono livello di Everkeep." },
+    { "gameKey": "quest/049/KinGme113_04944#TEXT_KINGME113_04944_CAHCIUA_000_015", "hash": "EE0B39E8A3F4960D", "target": "Come sapete, Soluzione Nove occupa il nono livello di Roccaeterna." },
     { "gameKey": "quest/049/KinGme113_04944#TEXT_KINGME113_04944_CAHCIUA_000_016", "hash": "60F2A38F840EFBBD", "target": "La cima, invece, è al dodicesimo." },
     { "gameKey": "quest/049/KinGme113_04944#TEXT_KINGME113_04944_ALISAIE_000_017", "hash": "DFF482A8D7DE67BC", "target": "La mappa sembra interrompersi." },
     { "gameKey": "quest/049/KinGme113_04944#TEXT_KINGME113_04944_SHALE_000_018", "hash": "8DED5F419936E416", "target": "Si ritiene che lì si trovi la residenza del re e della regina, ma i dettagli sono altamente riservati. Ecco perché mancano i dati della mappa." },
@@ -47,7 +47,7 @@
     { "gameKey": "quest/049/KinGme113_04944#TEXT_KINGME113_04944_WUKLAMAT_000_060", "hash": "33795CA355571EFE", "target": "Zoraal Ja non è un re. Non più. Per il bene di Tuliyollal─del mondo─dobbiamo porre fine alla sua follia." },
     { "gameKey": "quest/049/KinGme113_04944#TEXT_KINGME113_04944_ALISAIE_000_065", "hash": "E90EDCCFF66F573E", "target": "Ho parlato con Alphinaud. A quanto pare, i draghi sono venuti in aiuto di Tuliyollal!" },
     { "gameKey": "quest/049/KinGme113_04944#TEXT_KINGME113_04944_KRILE_000_070", "hash": "5202E9C03F1FEB26", "target": "Vengo anch'io, naturalmente. È per poter partecipare a imprese come questa che mi sono impegnata tanto." },
-    { "gameKey": "quest/049/KinGme113_04944#TEXT_KINGME113_04944_GRAHATIA_000_075", "hash": "A9C78C32DA6C95A7", "target": "La cima di Everkeep... Finalmente vedremo cosa nascondono le nuvole." },
+    { "gameKey": "quest/049/KinGme113_04944#TEXT_KINGME113_04944_GRAHATIA_000_075", "hash": "A9C78C32DA6C95A7", "target": "La cima di Roccaeterna... Finalmente vedremo cosa nascondono le nuvole." },
     { "gameKey": "quest/049/KinGme113_04944#TEXT_KINGME113_04944_CAHCIUA_000_080", "hash": "1FBE07E7686B6196", "target": "Ci siamo tutti? Ottimo." },
     { "gameKey": "quest/049/KinGme113_04944#TEXT_KINGME113_04944_CAHCIUA_000_081", "hash": "2BC133DB32970ACD", "target": "Raggiungeremo la cima senza soste. Sarà una salita estenuante, quindi preparatevi con la massima cura." }
   ]

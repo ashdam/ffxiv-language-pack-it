@@ -2,7 +2,7 @@
   "conversation": "quest/041/AktKza013_04192",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_SEQ_00", "hash": "E7474861B03DD8EB", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Jonquinet ha bisogno di una schiena robusta che lo aiuti." },
+    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_SEQ_00", "hash": "E7474861B03DD8EB", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Jonquinet ha bisogno di una schiena robusta che lo aiuti." },
     { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_TODO_00", "hash": "B055CD30C7D8D69C", "target": "Piantare gli experimental seeds nei luoghi indicati" },
     { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_TODO_01", "hash": "723725AB8FDFBDA9", "target": "Fare rapporto a Jonquinet" },
     { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_000", "hash": "03CFCF5AC03A960C", "target": "Hai un po' di tempo per un vecchio ricercatore, <if(gnum4,ragazza,ragazzo)>? Il lavoro fisico non mi viene più facile come una volta, e cerco qualcuno un po' più agile che mi aiuti." },

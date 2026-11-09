@@ -2,18 +2,18 @@
   "conversation": "quest/029/StmBdy102_02920",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_000", "hash": "BBF73346DCCEEB78", "target": "" },
-    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_001", "hash": "B3AC92DD06C5F2A7", "target": "" },
-    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_002", "hash": "BF76FEEB88261644", "target": "" },
-    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_003", "hash": "FED41C215C4D3219", "target": "" },
-    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_004", "hash": "B6B1458489FAAE3C", "target": "" },
-    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_005", "hash": "07D4B89E28444AA6", "target": "" },
-    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_006", "hash": "58F8F945A73D3BE7", "target": "" },
-    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_SYSTEM_000_007", "hash": "62F98FEEB187F029", "target": "" },
-    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_SYSTEM_000_008", "hash": "F536444BE9BBE288", "target": "" },
-    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_SYSTEM_100_008", "hash": "9869D52CD26FBB73", "target": "" },
-    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_SYSTEM_000_009", "hash": "B7891C22F6685A76", "target": "" },
-    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_020", "hash": "D09B2691063FEE63", "target": "" },
-    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_SYSTEM_000_021", "hash": "AAFAFEBAEF7D7DBF", "target": "" }
+    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_000", "hash": "BBF73346DCCEEB78", "target": "Mh? Quello è il Diario Esplorazione, se non sbaglio. Conosci per caso una donna di nome Millith?" },
+    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_001", "hash": "B3AC92DD06C5F2A7", "target": "Ahah, che coincidenza! Millith è mia nipote, nel caso te lo stessi chiedendo, e nelle sue lettere mi ha parlato molto di te." },
+    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_002", "hash": "BF76FEEB88261644", "target": "Ah, ma dove sono finite le mie buone maniere? Ulger Cuordiferro, al tuo servizio. Sono un esploratore come quasi tutti i membri del clan, e mia nipote mi ha chiesto di condividere con te le conoscenze che ho raccolto. Ecco, dammi il tuo diario." },
+    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_003", "hash": "FED41C215C4D3219", "target": "Vediamo... Decisamente qui... e qui... e qui... e <italic(1)>qui<italic(0)>! Direi che basta così." },
+    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_004", "hash": "B6B1458489FAAE3C", "target": "Le mie esplorazioni mi hanno portato in lungo e in largo, ma nessun luogo mi è caro quanto le regioni di Ala Mhigo, belle nella loro asprezza, e le terre dell'Estremo Oriente, gloriose nella loro varietà." },
+    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_005", "hash": "07D4B89E28444AA6", "target": "In questi luoghi si celano meraviglie a ogni passo, e ne ho annotato l'ubicazione. Alcune saranno più difficili da raggiungere, ma se sei abile anche solo la metà di quanto dice Millith, sono certo che riuscirai a trovarle tutte." },
+    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_006", "hash": "58F8F945A73D3BE7", "target": "Con questo, ti lascio riprendere le tue avventure. Parti e ammira panorami mozzafiato che neppure mio padre, il grande Roddard Cuordiferro, riuscì a vedere in vita sua!" },
+    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_SYSTEM_000_007", "hash": "62F98FEEB187F029", "target": "Hai aggiunto al Diario Esplorazione le voci di Stormblood!" },
+    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_SYSTEM_000_008", "hash": "F536444BE9BBE288", "target": "Per registrare i panorami di Stormblood, devi essere almeno al livello 60. Raggiungi il luogo indicato e soddisfa le condizioni richieste per completare la voce corrispondente e ottenere punti esperienza." },
+    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_SYSTEM_100_008", "hash": "9869D52CD26FBB73", "target": "I nuovi luoghi aggiunti al Diario Esplorazione sono contrassegnati da una sfera luminosa. Se ne avvisti una durante le tue avventure, fermati un momento per registrare la voce corrispondente." },
+    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_SYSTEM_000_009", "hash": "B7891C22F6685A76", "target": "Usa l'ingegno e gli appunti di Ulger per individuare questi luoghi straordinari e capire come ammirarli al meglio. Scopri Ala Mhigo e l'Estremo Oriente come solo i più grandi esploratori hanno saputo fare!" },
+    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_020", "hash": "D09B2691063FEE63", "target": "Da esploratore, devo avvertirti: le terre che ti attendono sono irte di pericoli. Se intendi avventurarti oltre, assicurati di poterti difendere." },
+    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_SYSTEM_000_021", "hash": "AAFAFEBAEF7D7DBF", "target": "Per intraprendere questa missione, devi avere almeno una classe o un job al livello 60." }
   ]
 }

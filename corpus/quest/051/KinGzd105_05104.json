@@ -2,7 +2,7 @@
   "conversation": "quest/051/KinGzd105_05104",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/051/KinGzd105_05104#TEXT_KINGZD105_05104_SEQ_00", "hash": "99555E7EE1923512", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Meerel Ja sembra scossa." },
+    { "gameKey": "quest/051/KinGzd105_05104#TEXT_KINGZD105_05104_SEQ_00", "hash": "99555E7EE1923512", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Meerel Ja sembra scossa." },
     { "gameKey": "quest/051/KinGzd105_05104#TEXT_KINGZD105_05104_TODO_00", "hash": "2BECF5C1D8E6F32C", "target": "Cercare lo spirito misterioso" },
     { "gameKey": "quest/051/KinGzd105_05104#TEXT_KINGZD105_05104_TODO_01", "hash": "3DC7608D0ADDC024", "target": "Seguire lo spirito misterioso" },
     { "gameKey": "quest/051/KinGzd105_05104#TEXT_KINGZD105_05104_TODO_02", "hash": "45E20AF7A9710153", "target": "Parlare con lo spirito misterioso" },

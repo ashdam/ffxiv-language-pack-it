@@ -2,7 +2,7 @@
   "conversation": "quest/043/AktKzh013_04308",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/043/AktKzh013_04308#TEXT_AKTKZH013_04308_SEQ_00", "hash": "1A09757A09A78380", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Perikles ha bisogno di un assistente di ricerca temporaneo." },
+    { "gameKey": "quest/043/AktKzh013_04308#TEXT_AKTKZH013_04308_SEQ_00", "hash": "1A09757A09A78380", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Perikles ha bisogno di un assistente di ricerca temporaneo." },
     { "gameKey": "quest/043/AktKzh013_04308#TEXT_AKTKZH013_04308_TODO_00", "hash": "908B05CD8F29E6BD", "target": "Parlare con lo specialista degli uccelli" },
     { "gameKey": "quest/043/AktKzh013_04308#TEXT_AKTKZH013_04308_TODO_01", "hash": "E63F6DC38EC2D606", "target": "Accarezzare l'abyssus con /pet" },
     { "gameKey": "quest/043/AktKzh013_04308#TEXT_AKTKZH013_04308_TODO_02", "hash": "D7B13C5DF276303C", "target": "Pungolare l'abyssus con /poke" },

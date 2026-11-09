@@ -2,7 +2,7 @@
   "conversation": "quest/034/LucKzd013_03420",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKzd013_03420#TEXT_LUCKZD013_03420_SEQ_00", "hash": "198C7865C24D8885", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Nimbus ha bisogno di una mano agile per cogliere un fiore." },
+    { "gameKey": "quest/034/LucKzd013_03420#TEXT_LUCKZD013_03420_SEQ_00", "hash": "198C7865C24D8885", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Nimbus ha bisogno di una mano agile per cogliere un fiore." },
     { "gameKey": "quest/034/LucKzd013_03420#TEXT_LUCKZD013_03420_TODO_00", "hash": "F6EC5A8A073F056D", "target": "Cogliere un fiore" },
     { "gameKey": "quest/034/LucKzd013_03420#TEXT_LUCKZD013_03420_TODO_01", "hash": "1D9517A261635290", "target": "Consegnare il fiore a Nimbus" },
     { "gameKey": "quest/034/LucKzd013_03420#TEXT_LUCKZD013_03420_NIMBUS_000_000", "hash": "56AE718148C57FAA", "target": "Ghrrr... Se hai un momento, avrei un favore da chiederti." },
@@ -13,7 +13,7 @@
     { "gameKey": "quest/034/LucKzd013_03420#TEXT_LUCKZD013_03420_SYSTEM_100_010", "hash": "3BD61C51B704374B", "target": "Vuoi cogliere il fiore blu?" },
     { "gameKey": "quest/034/LucKzd013_03420#TEXT_LUCKZD013_03420_SYSTEM_110_010", "hash": "ECE0939582155113", "target": "Vuoi cogliere il fiore giallo?" },
     { "gameKey": "quest/034/LucKzd013_03420#TEXT_LUCKZD013_03420_SYSTEM_120_010", "hash": "A72281FF188099C0", "target": "Vuoi cogliere il fiore rosa?" },
-    { "gameKey": "quest/034/LucKzd013_03420#TEXT_LUCKZD013_03420_NIMBUS_000_010", "hash": "879EB21E24FDB87C", "target": "Ah, un bel fiore blu! Lo offrirò alla mia cara padrona. Mi ricorda quando andammo a Lakeland e vedemmo il Lago dell'Origine per la prima volta." },
+    { "gameKey": "quest/034/LucKzd013_03420#TEXT_LUCKZD013_03420_NIMBUS_000_010", "hash": "879EB21E24FDB87C", "target": "Ah, un bel fiore blu! Lo offrirò alla mia cara padrona. Mi ricorda quando andammo a Terralago e vedemmo il Lago dell'Origine per la prima volta." },
     { "gameKey": "quest/034/LucKzd013_03420#TEXT_LUCKZD013_03420_NIMBUS_000_011", "hash": "4A4743245BA446A7", "target": "Ah, un bel fiore giallo! Lo offrirò alla mia cara padrona. Mi ricorda quando andammo ad Amh Araeng e vedemmo il muro di Luce per la prima volta." },
     { "gameKey": "quest/034/LucKzd013_03420#TEXT_LUCKZD013_03420_NIMBUS_000_012", "hash": "EE5838F6546CEDE1", "target": "Ah, un bel fiore rosa! Lo offrirò alla mia cara padrona. Mi ricorda quando andammo ad Amh Araeng e vedemmo il suo paesaggio solenne ma bellissimo per la prima volta." },
     { "gameKey": "quest/034/LucKzd013_03420#TEXT_LUCKZD013_03420_NIMBUS_000_013", "hash": "A9E7ABE64C503A34", "target": "A differenza di altri, la mia padrona non guardava con diffidenza gli amaro capaci di parlare. Non mi trattava solo come la sua bestia da soma, ma come un amico, e insieme vivemmo tante grandi avventure." },

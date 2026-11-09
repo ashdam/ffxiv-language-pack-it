@@ -2,16 +2,16 @@
   "conversation": "quest/040/LucKta511_04044",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/040/LucKta511_04044#TEXT_LUCKTA511_04044_DWARFMASTER03671_000_001", "hash": "FFEC8BCC95214594", "target": "" },
-    { "gameKey": "quest/040/LucKta511_04044#TEXT_LUCKTA511_04044_DWARFMASTER03671_000_002", "hash": "E4766094036FB3A1", "target": "" },
-    { "gameKey": "quest/040/LucKta511_04044#TEXT_LUCKTA511_04044_Q1_000_000", "hash": "147E21279441A62F", "target": "" },
-    { "gameKey": "quest/040/LucKta511_04044#TEXT_LUCKTA511_04044_A1_000_001", "hash": "51511654DE032356", "target": "" },
-    { "gameKey": "quest/040/LucKta511_04044#TEXT_LUCKTA511_04044_A1_000_002", "hash": "DE86FBFA156A408E", "target": "" },
-    { "gameKey": "quest/040/LucKta511_04044#TEXT_LUCKTA511_04044_DWARFMASTER03671_000_004", "hash": "7C72896E7DE222F9", "target": "" },
-    { "gameKey": "quest/040/LucKta511_04044#TEXT_LUCKTA511_04044_DWARFMASTER03671_000_005", "hash": "C9EFE92831A9F6AB", "target": "" },
-    { "gameKey": "quest/040/LucKta511_04044#TEXT_LUCKTA511_04044_DWARFMASTER03671_000_006", "hash": "80049B21879E760A", "target": "" },
-    { "gameKey": "quest/040/LucKta511_04044#TEXT_LUCKTA511_04044_DWARFMASTER03671_000_007", "hash": "37ACD96D79A5AEB9", "target": "" },
-    { "gameKey": "quest/040/LucKta511_04044#TEXT_LUCKTA511_04044_SYSTEM_000_008", "hash": "C3B3635490B1F60C", "target": "" },
-    { "gameKey": "quest/040/LucKta511_04044#TEXT_LUCKTA511_04044_SYSTEM_000_009", "hash": "24E4B8327DA90E02", "target": "" }
+    { "gameKey": "quest/040/LucKta511_04044#TEXT_LUCKTA511_04044_DWARFMASTER03671_000_001", "hash": "FFEC8BCC95214594", "target": "Lali-ho, non ci crederai mai, <split(<string(gstr1)>, ,1)>! È arrivato qualcosa al villaggio per te, da parte di <italic(1)>Konogg<italic(0)>." },
+    { "gameKey": "quest/040/LucKta511_04044#TEXT_LUCKTA511_04044_DWARFMASTER03671_000_002", "hash": "E4766094036FB3A1", "target": "Sembra una specie di aggeggio tecnologico... Vedi questo motivo dorato? Non ho la minima idea di come si legga, però." },
+    { "gameKey": "quest/040/LucKta511_04044#TEXT_LUCKTA511_04044_Q1_000_000", "hash": "147E21279441A62F", "target": "Cosa rispondi?" },
+    { "gameKey": "quest/040/LucKta511_04044#TEXT_LUCKTA511_04044_A1_000_001", "hash": "51511654DE032356", "target": "L'archivio portatile costruito dai fratelli dovrebbe fare al caso nostro." },
+    { "gameKey": "quest/040/LucKta511_04044#TEXT_LUCKTA511_04044_A1_000_002", "hash": "DE86FBFA156A408E", "target": "Ho giusto un coso che fa al caso nostro." },
+    { "gameKey": "quest/040/LucKta511_04044#TEXT_LUCKTA511_04044_DWARFMASTER03671_000_004", "hash": "7C72896E7DE222F9", "target": "Eh? Quindi ti basta puntargli contro quest'«archivio»? Beh, eccolo qua. Dagli pure un'occhiata quando vuoi." },
+    { "gameKey": "quest/040/LucKta511_04044#TEXT_LUCKTA511_04044_DWARFMASTER03671_000_005", "hash": "C9EFE92831A9F6AB", "target": "Sai, Konogg se n'è andato dal villaggio, ma il fatto che mantenga ancora i contatti... Mi fa sperare che non abbia ancora rinunciato a noi." },
+    { "gameKey": "quest/040/LucKta511_04044#TEXT_LUCKTA511_04044_DWARFMASTER03671_000_006", "hash": "80049B21879E760A", "target": "Allora continuerò a fare del mio meglio. Lavorerò per trasformare questo villaggio in un posto in cui Konogg vorrebbe tornare." },
+    { "gameKey": "quest/040/LucKta511_04044#TEXT_LUCKTA511_04044_DWARFMASTER03671_000_007", "hash": "37ACD96D79A5AEB9", "target": "Ci aspettano ancora tante difficoltà e ci vorrà molto tempo. Ma un passo alla volta e con il tuo aiuto, ce la faremo di sicuro." },
+    { "gameKey": "quest/040/LucKta511_04044#TEXT_LUCKTA511_04044_SYSTEM_000_008", "hash": "C3B3635490B1F60C", "target": "Hai ricevuto un messaggio da Konogg." },
+    { "gameKey": "quest/040/LucKta511_04044#TEXT_LUCKTA511_04044_SYSTEM_000_009", "hash": "24E4B8327DA90E02", "target": "Puoi leggere il messaggio nel tuo <colortype(500)><edgecolortype(501)>Portable Archive<edgecolortype(0)><colortype(0)>, disponibile alla voce Collezione nella sezione Incarichi del menu principale." }
   ]
 }

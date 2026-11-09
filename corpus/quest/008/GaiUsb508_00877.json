@@ -2,19 +2,19 @@
   "conversation": "quest/008/GaiUsb508_00877",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_SEQ_00", "hash": "6A4090ADEBECFE00", "target": "" },
-    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_SEQ_01", "hash": "C0881A97D98709DD", "target": "" },
-    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_SEQ_02", "hash": "9D448C65D13304F8", "target": "" },
-    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_SEQ_03", "hash": "16BE234046B87B5A", "target": "" },
-    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_TODO_00", "hash": "03433267A5B6DC06", "target": "" },
-    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_TODO_01", "hash": "6D0187D250A030C0", "target": "" },
-    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_ELUNED_000_000", "hash": "1205AE430EE9508C", "target": "" },
-    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_ELUNED_000_001", "hash": "56D25497D79F5A90", "target": "" },
-    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_ELUNED_000_002", "hash": "D5A98C6A71C9228B", "target": "" },
-    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_ELUNED_000_003", "hash": "0F1A95169731B5FF", "target": "" },
-    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_ELUNED_000_004", "hash": "9A05D07ACB24932A", "target": "" },
-    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_SYSTEM_000_010", "hash": "B786E9D48911C343", "target": "" },
-    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_ELUNED_000_020", "hash": "24ADAA8E7BB535FC", "target": "" },
-    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_ELUNED_000_021", "hash": "308A5D5F68BC6600", "target": "" }
+    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_SEQ_00", "hash": "6A4090ADEBECFE00", "target": "Sorella Eluned ha una notizia dolorosa da darti." },
+    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_SEQ_01", "hash": "C0881A97D98709DD", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Questa missione è stata modificata. Abbandonala e ricomincia parlando con Eluned alla Chiesa di Sant'Adama Landama.<edgecolortype(0)><colortype(0)><br><br>※ La Guida dello Scenario Principale mostra la prossima missione disponibile. Puoi attivarla o disattivarla in Configurazione personaggio, nelle Impostazioni IU." },
+    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_SEQ_02", "hash": "9D448C65D13304F8", "target": "Per onorare i compagni caduti, ti inginocchi davanti al segno del Guardiano. Torna da Sorella Eluned alla Chiesa di Sant'Adama Landama." },
+    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_SEQ_03", "hash": "16BE234046B87B5A", "target": "Non si può sapere con certezza cosa porterà il tuo pellegrinaggio. Tuttavia, Sorella Eluned ritiene che le anime degli Eredi della Settima Alba caduti troveranno conforto nelle tue azioni." },
+    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_TODO_00", "hash": "03433267A5B6DC06", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Questa missione è stata modificata. Abbandonala e ricomincia parlando con Eluned alla Chiesa di Sant'Adama Landama.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_TODO_01", "hash": "6D0187D250A030C0", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Questa missione è stata modificata. Abbandonala e ricomincia parlando con Eluned alla Chiesa di Sant'Adama Landama.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_ELUNED_000_000", "hash": "1205AE430EE9508C", "target": "C'è una cosa dolorosa che devo riferirvi: volevamo seppellire i vostri compagni nel terreno della chiesa, ma il numero degli Eredi della Settima Alba caduti ha superato di gran lunga le nostre previsioni." },
+    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_ELUNED_000_001", "hash": "56D25497D79F5A90", "target": "Dopo averne parlato con Padre Iliud, abbiamo concluso che non ci resta altra scelta: dovremo seppellire i defunti nelle stesse tombe di chi è morto durante la Calamità." },
+    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_ELUNED_000_002", "hash": "D5A98C6A71C9228B", "target": "Vi prego di perdonarci. Non vogliamo disonorare la memoria dei caduti. Ma, come custodi del camposanto, dobbiamo fare i conti con la realtà." },
+    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_ELUNED_000_003", "hash": "0F1A95169731B5FF", "target": "<split(<string(gstr1)>, ,1)>... Quello che è accaduto al vostro ordine è stato un crimine imperdonabile. Se volete che i colpevoli siano puniti, potreste compiere un pellegrinaggio al segno del Guardiano." },
+    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_ELUNED_000_004", "hash": "9A05D07ACB24932A", "target": "Anche se non seguo gli insegnamenti di Azeyma, si dice che pregare davanti al Suo segno invochi il Suo giudizio divino. Qualunque sia la vostra fede, forse il viaggio varrà la pena." },
+    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_SYSTEM_000_010", "hash": "B786E9D48911C343", "target": "Ti inginocchi davanti al segno del Guardiano, solo e in silenzio. Inspiri a fondo l'aria secca del deserto. Il fragore delle acque impetuose è interrotto dal flebile cinguettio dei vilomorfi e dalle strida acute di un falco. Ma gli dèi restano in silenzio..." },
+    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_ELUNED_000_020", "hash": "24ADAA8E7BB535FC", "target": "Avete reso onore ai defunti con il vostro pellegrinaggio, <split(<string(gstr1)>, ,1)>. Anche se Azeyma non ha ascoltato le vostre preghiere, credo che abbiano dato conforto ai vostri compagni caduti." },
+    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_ELUNED_000_021", "hash": "308A5D5F68BC6600", "target": "Ricordate che, anche se il corpo è solo un involucro destinato un giorno a tornare al Flusso Vitale, le nostre anime sopravvivranno e i giusti troveranno conforto nel reame di Thal." }
   ]
 }

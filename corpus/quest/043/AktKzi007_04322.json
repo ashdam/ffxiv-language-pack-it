@@ -2,7 +2,7 @@
   "conversation": "quest/043/AktKzi007_04322",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/043/AktKzi007_04322#TEXT_AKTKZI007_04322_SEQ_00", "hash": "DD4DC48575E987B7", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Cweilsaem ha un favore da chiederti." },
+    { "gameKey": "quest/043/AktKzi007_04322#TEXT_AKTKZI007_04322_SEQ_00", "hash": "DD4DC48575E987B7", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Cweilsaem ha un favore da chiederti." },
     { "gameKey": "quest/043/AktKzi007_04322#TEXT_AKTKZI007_04322_TODO_00", "hash": "28FF8BAD6DEED9C9", "target": "Consegnare il small package a W'sondidi" },
     { "gameKey": "quest/043/AktKzi007_04322#TEXT_AKTKZI007_04322_TODO_01", "hash": "C5323FACCCCAC7C4", "target": "Bere il golden syrup vicino a W'sondidi" },
     { "gameKey": "quest/043/AktKzi007_04322#TEXT_AKTKZI007_04322_TODO_02", "hash": "FAAB4404F2E7A729", "target": "Parlare con Cweilsaem" },

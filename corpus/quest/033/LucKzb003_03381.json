@@ -2,13 +2,13 @@
   "conversation": "quest/033/LucKzb003_03381",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/033/LucKzb003_03381#TEXT_LUCKZB003_03381_SEQ_00", "hash": "193F2387ACDD0208", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>L'intendente della guardia sembra un po' sopraffatto." },
+    { "gameKey": "quest/033/LucKzb003_03381#TEXT_LUCKZB003_03381_SEQ_00", "hash": "193F2387ACDD0208", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>L'intendente della guardia sembra un po' sopraffatto." },
     { "gameKey": "quest/033/LucKzb003_03381#TEXT_LUCKZB003_03381_TODO_00", "hash": "183FF73097E555F5", "target": "Parlare con l'intendente della guardia" },
     { "gameKey": "quest/033/LucKzb003_03381#TEXT_LUCKZB003_03381_TODO_01", "hash": "C36C76001506AF92", "target": "Cercare provviste utilizzabili al Punto di Raccolta Settentrionale" },
     { "gameKey": "quest/033/LucKzb003_03381#TEXT_LUCKZB003_03381_TODO_02", "hash": "675AB48643E8AA06", "target": "Consegnare il knobbly cane all'intendente della guardia" },
     { "gameKey": "quest/033/LucKzb003_03381#TEXT_LUCKZB003_03381_TODO_03", "hash": "4877CE9F50AEEBCC", "target": "Parlare con l'intendente della guardia" },
     { "gameKey": "quest/033/LucKzb003_03381#TEXT_LUCKZB003_03381_SUPPLYOFFICER03881_000_000", "hash": "FD6DA77305F3372F", "target": "Mi dispiace chiedertelo così all'improvviso, ma... puoi aiutarmi?" },
-    { "gameKey": "quest/033/LucKzb003_03381#TEXT_LUCKZB003_03381_SUPPLYOFFICER03881_000_001", "hash": "E8746C10C6F22F66", "target": "Gra... Oh cielo, sei tu! Chi ha ribaltato le sorti a Holminster Switch! Beh, ora mi sento doppiamente in colpa, ma non ho molta scelta. Mi serve tutto l'aiuto possibile." },
+    { "gameKey": "quest/033/LucKzb003_03381#TEXT_LUCKZB003_03381_SUPPLYOFFICER03881_000_001", "hash": "E8746C10C6F22F66", "target": "Gra... Oh cielo, sei tu! Chi ha ribaltato le sorti a Bivio di Holminster! Beh, ora mi sento doppiamente in colpa, ma non ho molta scelta. Mi serve tutto l'aiuto possibile." },
     { "gameKey": "quest/033/LucKzb003_03381#TEXT_LUCKZB003_03381_SUPPLYOFFICER03881_100_001", "hash": "CC486503D1B242DB", "target": "A causa dei divorapeccati, tutto ciò che non è in rovina è in disordine, e cerco di capire quale materiale abbiamo, ma occorre passarlo tutto al setaccio! E se non so di cosa abbiamo <italic(1)>bisogno<italic(0)> sarà inutile, perché non potrò fare gli ordini, e..." },
     { "gameKey": "quest/033/LucKzb003_03381#TEXT_LUCKZB003_03381_SUPPLYOFFICER03881_000_002", "hash": "AB6DA107D0FE58D1", "target": "Ehm. In breve, devi raggiungermi al Punto di Raccolta Settentrionale. Ti prego." },
     { "gameKey": "quest/033/LucKzb003_03381#TEXT_LUCKZB003_03381_SUPPLYOFFICER03881_000_010", "hash": "BB99F0BB28CA0E1D", "target": "Valuteremo la situazione qui fuori. Ma forse risparmieremmo tempo se prima mi dicessi quali distruzioni hai visto di persona?" },
@@ -24,6 +24,6 @@
     { "gameKey": "quest/033/LucKzb003_03381#TEXT_LUCKZB003_03381_SUPPLYOFFICER03881_000_033", "hash": "8F4A16C9768BB177", "target": "Mi fa piacere sapere che non dovrò procurare altre tende. Le armi sono meno utili nell'immediato, anche se naturalmente le farò raccogliere. Sembra che dovrò ordinare soprattutto attrezzi, dato che non ne ho trovati nemmeno nelle zone che ho controllato." },
     { "gameKey": "quest/033/LucKzb003_03381#TEXT_LUCKZB003_03381_SUPPLYOFFICER03881_000_034", "hash": "408CFC6091D3DEA0", "target": "Apprezzo moltissimo il tuo aiuto: con te tutto è stato molto più rapido. Accetteresti una piccola ricompensa? Al forte tengo da parte qualche moneta proprio per occasioni come questa." },
     { "gameKey": "quest/033/LucKzb003_03381#TEXT_LUCKZB003_03381_SUPPLYOFFICER03881_000_040", "hash": "8E086BE8EDD973DD", "target": "E ora comincia il vero lavoro. Respingere i divorapeccati non è stata un'impresa da poco, ma ricostruire sembra quasi ancora più arduo." },
-    { "gameKey": "quest/033/LucKzb003_03381#TEXT_LUCKZB003_03381_SUPPLYOFFICER03881_000_041", "hash": "A583E524078A8B61", "target": "Non possiamo però fare altro che stringere i denti e metterci al lavoro. Per il bene di tutti a Lakeland." }
+    { "gameKey": "quest/033/LucKzb003_03381#TEXT_LUCKZB003_03381_SUPPLYOFFICER03881_000_041", "hash": "A583E524078A8B61", "target": "Non possiamo però fare altro che stringere i denti e metterci al lavoro. Per il bene di tutti a Terralago." }
   ]
 }

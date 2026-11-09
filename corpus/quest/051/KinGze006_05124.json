@@ -2,7 +2,7 @@
   "conversation": "quest/051/KinGze006_05124",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/051/KinGze006_05124#TEXT_KINGZE006_05124_SEQ_00", "hash": "1D20364AD6FBC7F9", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Dopo aver fatto aspettare i mercanti in attesa di passare, ora Hhopu si ritrova ad aspettare." },
+    { "gameKey": "quest/051/KinGze006_05124#TEXT_KINGZE006_05124_SEQ_00", "hash": "1D20364AD6FBC7F9", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Dopo aver fatto aspettare i mercanti in attesa di passare, ora Hhopu si ritrova ad aspettare." },
     { "gameKey": "quest/051/KinGze006_05124#TEXT_KINGZE006_05124_TODO_00", "hash": "47793DC9B4BAAE98", "target": "Parlare con Nikawtenhe" },
     { "gameKey": "quest/051/KinGze006_05124#TEXT_KINGZE006_05124_TODO_01", "hash": "EA021577589B2A08", "target": "Parlare con i mercanti" },
     { "gameKey": "quest/051/KinGze006_05124#TEXT_KINGZE006_05124_TODO_02", "hash": "AC5D08243F8A13AD", "target": "Parlare con Hhopu" },

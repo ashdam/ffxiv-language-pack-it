@@ -7,9 +7,9 @@
     { "gameKey": "MinionSkillType#3", "hash": "AD609D7E8B6B2A8F", "target": "Potenziamento" },
     { "gameKey": "MinionSkillType#4", "hash": "389330CBDE90EA38", "target": "Indebolimento" },
     { "gameKey": "MinionSkillType#5", "hash": "600FAD077E031AD3", "target": "Ostruzione" },
-    { "gameKey": "MinionSkillType#6", "hash": "A118DF18C0B221F6", "target": "Disinnesco" },
-    { "gameKey": "MinionSkillType#7", "hash": "BC42BEE6A2AB4BAC", "target": "Recupero" },
-    { "gameKey": "MinionSkillType#8", "hash": "43710FA41602BCB3", "target": "Demolizione" },
+    { "gameKey": "MinionSkillType#6", "hash": "A118DF18C0B221F6", "target": "Disarmo" },
+    { "gameKey": "MinionSkillType#7", "hash": "BC42BEE6A2AB4BAC", "target": "Ripristino" },
+    { "gameKey": "MinionSkillType#8", "hash": "43710FA41602BCB3", "target": "Smantellamento" },
     { "gameKey": "MinionSkillType#9", "hash": "9B929E19365261C8", "target": "Speciale" }
   ]
 }

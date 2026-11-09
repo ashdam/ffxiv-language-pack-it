@@ -2,13 +2,13 @@
   "conversation": "quest/036/LucKyr004_03605",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/036/LucKyr004_03605#TEXT_LUCKYR004_03605_LORFEO_000_001", "hash": "CCF69C69C43F2B39", "target": "" },
-    { "gameKey": "quest/036/LucKyr004_03605#TEXT_LUCKYR004_03605_LORFEO_000_002", "hash": "8ECEB4FCCC0241FC", "target": "" },
-    { "gameKey": "quest/036/LucKyr004_03605#TEXT_LUCKYR004_03605_LORFEO_000_003", "hash": "04C9F336240DDCD9", "target": "" },
-    { "gameKey": "quest/036/LucKyr004_03605#TEXT_LUCKYR004_03605_LORFEO_000_004", "hash": "B44C069DC428731A", "target": "" },
-    { "gameKey": "quest/036/LucKyr004_03605#TEXT_LUCKYR004_03605_LORFEO_000_005", "hash": "9021858AF11656ED", "target": "" },
-    { "gameKey": "quest/036/LucKyr004_03605#TEXT_LUCKYR004_03605_LORFEO_000_006", "hash": "70601EB9C7928B10", "target": "" },
-    { "gameKey": "quest/036/LucKyr004_03605#TEXT_LUCKYR004_03605_LORFEO_000_007", "hash": "04A4FF21AFD9EA20", "target": "" },
-    { "gameKey": "quest/036/LucKyr004_03605#TEXT_LUCKYR004_03605_SYSTEM_000_008", "hash": "D704A0CE1311DDEA", "target": "" }
+    { "gameKey": "quest/036/LucKyr004_03605#TEXT_LUCKYR004_03605_LORFEO_000_001", "hash": "CCF69C69C43F2B39", "target": "Scommetto che saprei farlo anch'io..." },
+    { "gameKey": "quest/036/LucKyr004_03605#TEXT_LUCKYR004_03605_LORFEO_000_002", "hash": "8ECEB4FCCC0241FC", "target": "Ma... da quanto tempo sei lì senza dire una parola!? Non sai che è maleducato... e... e... Aspetta, sei tu la persona mortale che ha stretto un legame con Feo Ul?" },
+    { "gameKey": "quest/036/LucKyr004_03605#TEXT_LUCKYR004_03605_LORFEO_000_003", "hash": "04C9F336240DDCD9", "target": "Ma guarda, che bella sorpresa! Volevo proprio farti una proposta. Ti interessa?" },
+    { "gameKey": "quest/036/LucKyr004_03605#TEXT_LUCKYR004_03605_LORFEO_000_004", "hash": "B44C069DC428731A", "target": "Questi meteorologi che trovi in giro sono bravi nel loro lavoro, ma non possono dirti se, per esempio, sulla Sorgente sta piovendo, vero?" },
+    { "gameKey": "quest/036/LucKyr004_03605#TEXT_LUCKYR004_03605_LORFEO_000_005", "hash": "9021858AF11656ED", "target": "Con il mio aiuto, invece, potrebbero! Sì, sì! Potrei varcare la fenditura, controllare di persona che tempo fa, tornare indietro e raccontare ai mortali quello che ho scoperto, sussurrandoglielo nei sogni!" },
+    { "gameKey": "quest/036/LucKyr004_03605#TEXT_LUCKYR004_03605_LORFEO_000_006", "hash": "70601EB9C7928B10", "target": "Potrei fare lo stesso anche con i meteorologi dall'altra parte! Tutti avrebbero tutte le risposte, senza nemmeno sapere come le hanno ottenute! Muahahaha! Non sarebbe fantastico?" },
+    { "gameKey": "quest/036/LucKyr004_03605#TEXT_LUCKYR004_03605_LORFEO_000_007", "hash": "04A4FF21AFD9EA20", "target": "Il tuo silenzio mi basta come approvazione. Si parte! Ehehehe!" },
+    { "gameKey": "quest/036/LucKyr004_03605#TEXT_LUCKYR004_03605_SYSTEM_000_008", "hash": "D704A0CE1311DDEA", "target": "Da quando Lor Feo interferisce con i sogni dei meteorologi della Sorgente e del Primo, questi possono fornire previsioni per ogni regione, ovunque si trovino." }
   ]
 }

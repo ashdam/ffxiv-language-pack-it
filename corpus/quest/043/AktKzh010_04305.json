@@ -2,7 +2,7 @@
   "conversation": "quest/043/AktKzh010_04305",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/043/AktKzh010_04305#TEXT_AKTKZH010_04305_SEQ_00", "hash": "9E1802FFCB9E37D4", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Una rilevatrice delle isole cerca un assistente." },
+    { "gameKey": "quest/043/AktKzh010_04305#TEXT_AKTKZH010_04305_SEQ_00", "hash": "9E1802FFCB9E37D4", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Una rilevatrice delle isole cerca un assistente." },
     { "gameKey": "quest/043/AktKzh010_04305#TEXT_AKTKZH010_04305_TODO_00", "hash": "2C8AA0C105E9A025", "target": "Parlare con la rilevatrice delle isole" },
     { "gameKey": "quest/043/AktKzh010_04305#TEXT_AKTKZH010_04305_TODO_01", "hash": "19F27FF898324358", "target": "Usare il destructive magick concept sull'affioramento roccioso" },
     { "gameKey": "quest/043/AktKzh010_04305#TEXT_AKTKZH010_04305_TODO_02", "hash": "8E1E1605FD1719AA", "target": "Raccogliere gli ore fragment" },

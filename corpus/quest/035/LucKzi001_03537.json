@@ -2,7 +2,7 @@
   "conversation": "quest/035/LucKzi001_03537",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzi001_03537#TEXT_LUCKZI001_03537_SEQ_00", "hash": "7601A41AA601CB41", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Zumie-Shai lancia occhiate ansiose alla porta." },
+    { "gameKey": "quest/035/LucKzi001_03537#TEXT_LUCKZI001_03537_SEQ_00", "hash": "7601A41AA601CB41", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Zumie-Shai lancia occhiate ansiose alla porta." },
     {"gameKey": "quest/035/LucKzi001_03537#TEXT_LUCKZI001_03537_TODO_00", "hash": "929E9CDDF677D735", "target": "Parlare con la fuggitiva impaurita"},
     {"gameKey": "quest/035/LucKzi001_03537#TEXT_LUCKZI001_03537_TODO_01", "hash": "AC0EA3B246F5894A", "target": "Parlare con la fuggitiva impaurita"},
     { "gameKey": "quest/035/LucKzi001_03537#TEXT_LUCKZI001_03537_TODO_02", "hash": "65774010A6E3470F", "target": "Usare /soothe su fearful fugitive" },
@@ -13,7 +13,7 @@
     { "gameKey": "quest/035/LucKzi001_03537#TEXT_LUCKZI001_03537_ZUMIESHAI_000_003", "hash": "78D4B2355F7EC1E0", "target": "Non mi stupirebbe se fosse scappata a nascondersi vedendoti salire la rupe. Non sarebbe la prima volta..." },
     { "gameKey": "quest/035/LucKzi001_03537#TEXT_LUCKZI001_03537_ZUMIESHAI_000_004", "hash": "59C3E1FE0C8DAE2B", "target": "So che ti chiedo molto, ma potresti trovarla e calmarla? Una parola <colortype(500)><edgecolortype(501)>calmante<edgecolortype(0)><colortype(0)> da parte di qualcuno che non conosce potrebbe aiutarla molto a ritrovare fiducia." },
     { "gameKey": "quest/035/LucKzi001_03537#TEXT_LUCKZI001_03537_ZUMIESHAI_000_005", "hash": "CE4F5474EAF486F2", "target": "Puoi tornare al Piolo Superiore e cercare la mia amica? Sapere che non tutti vogliono farle del male potrebbe aiutarla..." },
-    { "gameKey": "quest/035/LucKzi001_03537#TEXT_LUCKZI001_03537_FRIGHTENEDGIRL03537_000_010", "hash": "3EC36C41036336FC", "target": "\\<sussulto> No! Ti prego! Lasciami andare!" },
+    { "gameKey": "quest/035/LucKzi001_03537#TEXT_LUCKZI001_03537_FRIGHTENEDGIRL03537_000_010", "hash": "3EC36C41036336FC", "target": "\\<gasp> No! Ti prego! Lasciami andare!" },
     { "gameKey": "quest/035/LucKzi001_03537#TEXT_LUCKZI001_03537_SYSTEM_000_011", "hash": "94DA710397286093", "target": "La ragazza terrorizzata sembra convinta che tu sia qui per catturarla. Segui il consiglio di Zumie-Shai e prova a rivolgerle qualche parola <colortype(500)><edgecolortype(501)>calmante<edgecolortype(0)><colortype(0)>." },
     { "gameKey": "quest/035/LucKzi001_03537#TEXT_LUCKZI001_03537_FRIGHTENEDGIRL03537_000_020", "hash": "5A3720552F6D197F", "target": "T-Ti ho <if(gnum4,vista,visto)> salire sulla Scala! Sei <if(gnum4,una c-cacciatrice,un c-cacciatore)> di taglie di Eulmore, vero!?" },
     { "gameKey": "quest/035/LucKzi001_03537#TEXT_LUCKZI001_03537_Q1_000_000", "hash": "109C797D4504FD0E", "target": "Che cosa dirai?" },

@@ -2,7 +2,7 @@
   "conversation": "quest/050/KinGzb001_05030",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzb001_05030#TEXT_KINGZB001_05030_SEQ_00", "hash": "9A3EFC654BBF87C6", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Tsivlu conta i giorni che mancano alla ripresa dei commerci abituali." },
+    { "gameKey": "quest/050/KinGzb001_05030#TEXT_KINGZB001_05030_SEQ_00", "hash": "9A3EFC654BBF87C6", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Tsivlu conta i giorni che mancano alla ripresa dei commerci abituali." },
     { "gameKey": "quest/050/KinGzb001_05030#TEXT_KINGZB001_05030_TODO_00", "hash": "AE8A2D8C7727F3F9", "target": "Esaminare le carovane danneggiate" },
     { "gameKey": "quest/050/KinGzb001_05030#TEXT_KINGZB001_05030_TODO_01", "hash": "72CF5F8AB8704BE3", "target": "Parlare con Tsivlu" },
     { "gameKey": "quest/050/KinGzb001_05030#TEXT_KINGZB001_05030_TSIVLU_000_000", "hash": "6B3A08FEE9A042F2", "target": "Ah, dovete essere <if(gnum4,l'artigiana,l'artigiano)> di Tuliyollal! Siete <if(gnum4,arrivata,arrivato)> proprio in tempo. Dobbiamo valutare al più presto i danni subiti dalle carovane durante la tempesta, quindi vi chiedo di cominciare subito l'ispezione." },

@@ -2,7 +2,7 @@
   "conversation": "quest/034/LucKze003_03437",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKze003_03437#TEXT_LUCKZE003_03437_SEQ_00", "hash": "FEEFACE6A7118C13", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Joanric non sa più che cosa fare." },
+    { "gameKey": "quest/034/LucKze003_03437#TEXT_LUCKZE003_03437_SEQ_00", "hash": "FEEFACE6A7118C13", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Joanric non sa più che cosa fare." },
     { "gameKey": "quest/034/LucKze003_03437#TEXT_LUCKZE003_03437_TODO_00", "hash": "0647EA090B233028", "target": "Esaminare i luoghi indicati e sconfiggere i gremlin che compaiono" },
     { "gameKey": "quest/034/LucKze003_03437#TEXT_LUCKZE003_03437_TODO_01", "hash": "B55C71D44CF875C1", "target": "Parlare con Joanric" },
     { "gameKey": "quest/034/LucKze003_03437#TEXT_LUCKZE003_03437_JOANRIC_000_000", "hash": "53885E4AD30663DC", "target": "Oh, <if(gnum4,buona viaggiatrice,buon viaggiatore)>, grazie agli dèi siete qui! Dovete assolutamente liberarci da questo incubo senza fine. Parlo, naturalmente, di quei maledetti gremlin che continuano a intrufolarsi per profanare le tombe dietro il nostro forte." },

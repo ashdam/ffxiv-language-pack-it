@@ -2,19 +2,19 @@
   "conversation": "quest/055/KinGkw399_05507",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_SYSTEM_000_000", "hash": "340D16014A3CF03C", "target": "" },
-    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_BRIGID_000_001", "hash": "C438632B364BA457", "target": "" },
-    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_Q1_000_100", "hash": "ADFBE956C1DB93CE", "target": "" },
-    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_A1_000_100", "hash": "1762CF3284297051", "target": "" },
-    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_A2_000_100", "hash": "6A69D25507AD8CC9", "target": "" },
-    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_A3_000_100", "hash": "F2EB2FD290A58DD2", "target": "" },
-    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_SYSTEM_000_010", "hash": "105FC1A0288349D5", "target": "" },
-    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_SYSTEM_000_011", "hash": "D57C7DB64851B5E0", "target": "" },
-    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_SYSTEM_000_012", "hash": "B260683951585D4B", "target": "" },
-    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_BRIGID_000_020", "hash": "E58D74ACEBC16D06", "target": "" },
-    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_SYSTEM_000_021", "hash": "8C10B3B3DF8DA77B", "target": "" },
-    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_BRIGID_000_030", "hash": "AD9EF2482B7B2584", "target": "" },
-    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_BRIGID_000_040", "hash": "31FE44535718A6BE", "target": "" },
-    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_SYSTEM_000_106", "hash": "6E4AC061EE75DCCE", "target": "" }
+    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_SYSTEM_000_000", "hash": "340D16014A3CF03C", "target": "Brigid può ricalibrare i parametri della tua arma fantasma." },
+    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_BRIGID_000_001", "hash": "C438632B364BA457", "target": "Desideri modificare i parametri della tua arma fantasma? È un'operazione semplice, se disponi delle risorse necessarie." },
+    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_Q1_000_100", "hash": "ADFBE956C1DB93CE", "target": "Cosa vuoi fare?" },
+    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_A1_000_100", "hash": "1762CF3284297051", "target": "Ricalibrare i parametri della mia arma fantasma." },
+    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_A2_000_100", "hash": "6A69D25507AD8CC9", "target": "Informazioni sulla ricalibrazione dei parametri dell'arma fantasma." },
+    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_A3_000_100", "hash": "F2EB2FD290A58DD2", "target": "Niente." },
+    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_SYSTEM_000_010", "hash": "105FC1A0288349D5", "target": "I tre parametri aggiunti alla tua arma fantasma possono essere riselezionati o riequilibrati. Come per il potenziamento iniziale, uno di essi avrà un valore inferiore agli altri due." },
+    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_SYSTEM_000_011", "hash": "D57C7DB64851B5E0", "target": "Una volta ricalibrati i parametri come preferisci, seleziona «Conferma» per finalizzare la scelta." },
+    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_SYSTEM_000_012", "hash": "B260683951585D4B", "target": "Per ripristinare i parametri della tua arma fantasma, servirà un altro pezzo di arcanite eclittica. Valuta attentamente le tue scelte." },
+    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_BRIGID_000_020", "hash": "E58D74ACEBC16D06", "target": "Per procedere con la ricalibrazione, mi occorre un solo pezzo di arcanite eclittica. Lascio a te il compito di procurartelo." },
+    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_SYSTEM_000_021", "hash": "8C10B3B3DF8DA77B", "target": "Puoi ottenere pezzi di arcanite eclittica da Ermina nel Villaggio Fantasma." },
+    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_BRIGID_000_030", "hash": "AD9EF2482B7B2584", "target": "Temo che la procedura sia riservata alle armi fantasma. Potresti equipaggiarne una prima di cominciare?" },
+    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_BRIGID_000_040", "hash": "31FE44535718A6BE", "target": "Ricalibrazione riuscita alla perfezione! Naturalmente, se in futuro vorrai provare una configurazione appena diversa, ti basterà chiedere." },
+    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_SYSTEM_000_106", "hash": "6E4AC061EE75DCCE", "target": "La tua arma fantasma (<if([gnum68<8],<sheet(ClassJob,gnum68,0)>,<if([gnum68>18],<sheet(ClassJob,gnum68,0)>,)>)>) è stata ricalibrata." }
   ]
 }

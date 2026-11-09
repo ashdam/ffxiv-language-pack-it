@@ -2,13 +2,13 @@
   "conversation": "quest/050/KinGyr106_05008",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_RHODINA_000_000", "hash": "CB3EAA5DDDCE338F", "target": "" },
-    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_RHODINA_000_001", "hash": "EC44C5BD03064C51", "target": "" },
-    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_RHODINA_000_002", "hash": "6F8E9F8CA0EFF913", "target": "" },
-    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_RHODINA_000_003", "hash": "228A18FD905190AB", "target": "" },
-    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_RHODINA_000_004", "hash": "41E4AA0168CFBA9C", "target": "" },
-    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_RHODINA_000_006", "hash": "70F0A72BF3144F73", "target": "" },
-    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_RHODINA_000_007", "hash": "2B3277573BCA72F9", "target": "" },
-    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_SYSTEM_000_008", "hash": "62A15AB3BED7C7BE", "target": "" }
+    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_RHODINA_000_000", "hash": "CB3EAA5DDDCE338F", "target": "Ma guarda un po' chi si vede! Pensavo di conoscere <if(gnum4,tutte le artigiane,tutti gli artigiani)> più in vista che passano da Solution Nine. Sei qui per firmare un contratto, immagino?" },
+    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_RHODINA_000_001", "hash": "EC44C5BD03064C51", "target": "Non preoccuparti dei dettagli: l'accordo è semplicissimo. Tu mi consegni la merce e io ti pago in valute. Con la tua esperienza, saprai riconoscere un'offerta così vantaggiosa appena la senti." },
+    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_RHODINA_000_002", "hash": "6F8E9F8CA0EFF913", "target": "In realtà furono i Turali a farmi scoprire i tanti vantaggi del commercio basato sulle valute. Un sistema introdotto da un'artigiana di nome Rowena. Ma non divaghiamo." },
+    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_RHODINA_000_003", "hash": "228A18FD905190AB", "target": "Riceverai un lauto compenso per il tuo contributo, naturalmente in valute, che potrai poi usare per acquistare tutte le merci che ti interessano. Allora, che ne dici?" },
+    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_RHODINA_000_004", "hash": "41E4AA0168CFBA9C", "target": "Splendido! Semplicemente splendido. E non preoccuparti: non ci saranno quote minime. Ti basterà fare consegne quando ti verrà l'ispirazione!" },
+    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_RHODINA_000_006", "hash": "70F0A72BF3144F73", "target": "Alla nostra splendida e proficua collaborazione! Non vedo l'ora di fare affari con te." },
+    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_RHODINA_000_007", "hash": "2B3277573BCA72F9", "target": "Ah, se solo avessi qualcuno esperto di artigianato! E adesso come faccio a spostare tutta questa merce?" },
+    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_SYSTEM_000_008", "hash": "62A15AB3BED7C7BE", "target": "Per intraprendere questa missione, devi essere un Discepolo della Mano o della Terra di livello 90 o superiore." }
   ]
 }

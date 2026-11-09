@@ -2,7 +2,7 @@
   "conversation": "quest/050/KinGza001_05017",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGza001_05017#TEXT_KINGZA001_05017_SEQ_00", "hash": "21537F70CDF8CA3C", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Il soldato impaziente della Guardia Territoriale si aspetta che il suo compagno arrivi da un momento all'altro." },
+    { "gameKey": "quest/050/KinGza001_05017#TEXT_KINGZA001_05017_SEQ_00", "hash": "21537F70CDF8CA3C", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Il soldato impaziente della Guardia Territoriale si aspetta che il suo compagno arrivi da un momento all'altro." },
     { "gameKey": "quest/050/KinGza001_05017#TEXT_KINGZA001_05017_TODO_00", "hash": "7A471B79C4C7D36E", "target": "Cercare il soldato Boonewa della Guardia Territoriale all'Avamposto di Brightploom" },
     { "gameKey": "quest/050/KinGza001_05017#TEXT_KINGZA001_05017_TODO_01", "hash": "A451D6D2C05E0DEB", "target": "Parlare con il soldato impaziente della Guardia Territoriale" },
     { "gameKey": "quest/050/KinGza001_05017#TEXT_KINGZA001_05017_TURALWARRIOR05017_000_001", "hash": "D1C985D31AA859C7", "target": "Ah, <if(gnum4,una compagna,un compagno)> di Wuk Lamat! Senti, potrei chiederti di andare a cercare qualcuno per me?" },

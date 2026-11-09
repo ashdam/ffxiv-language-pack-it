@@ -16,7 +16,7 @@
     { "gameKey": "quest/041/AktKla505_04164#TEXT_AKTKLA505_04164_TODO_02", "hash": "C0A942445DC0ABEE", "target": "Parlare con T'laqa Tia a Yedlihmad" },
     { "gameKey": "quest/041/AktKla505_04164#TEXT_AKTKLA505_04164_TODO_03", "hash": "C38E120C2852AA91", "target": "Raccogliere informazioni sulle creature marine smarrite" },
     { "gameKey": "quest/041/AktKla505_04164#TEXT_AKTKLA505_04164_TODO_04", "hash": "FC6EA7CD08A00FD8", "target": "Parlare con T'laqa Tia" },
-    { "gameKey": "quest/041/AktKla505_04164#TEXT_AKTKLA505_04164_TODO_05", "hash": "B52D52D2808ABE68", "target": "<if([lnum1<lnum2],Pescare un Alnairan salmon nello Ksiroda,Consegnare l'Alnairan salmon a T'laqa Tia)>" },
+    { "gameKey": "quest/041/AktKla505_04164#TEXT_AKTKLA505_04164_TODO_05", "hash": "B52D52D2808ABE68", "target": "<if([lnum1<lnum2],Pescare un salmone di Alnair nello Ksiroda,Consegnare il salmone di Alnair a T'laqa Tia)>" },
     { "gameKey": "quest/041/AktKla505_04164#TEXT_AKTKLA505_04164_TODO_06", "hash": "ABD1A087D199F348", "target": "Parlare con T'laqa Tia al Ritrovo dei Cercatori" },
     { "gameKey": "quest/041/AktKla505_04164#TEXT_AKTKLA505_04164_SYSTEM_000_001", "hash": "28ECDE95E852D1C7", "target": "Per proseguire nella missione, devi prima completare la missione dello scenario principale “At World's End.”" },
     { "gameKey": "quest/041/AktKla505_04164#TEXT_AKTKLA505_04164_TLAQATIA_000_010", "hash": "1CA4237234B42ED6", "target": "Grazie al tuo contributo tanto generoso, mi avvicino sempre di più a dimostrare la mia ipotesi. Anche altri raccoglitori mi stanno aiutando, continuando a cercare esemplari per me in acque più tranquille." },

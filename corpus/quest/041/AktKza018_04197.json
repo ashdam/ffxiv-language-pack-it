@@ -2,7 +2,7 @@
   "conversation": "quest/041/AktKza018_04197",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_SEQ_00", "hash": "1B5A14EB7CF3C3EC", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Mehrunnah guarda lontano, come se cercasse una nave all'orizzonte." },
+    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_SEQ_00", "hash": "1B5A14EB7CF3C3EC", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Mehrunnah guarda lontano, come se cercasse una nave all'orizzonte." },
     { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_TODO_00", "hash": "956910E547A85DBF", "target": "Uccidere dei kacchapa e raccogliere i loro gusci" },
     { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_TODO_01", "hash": "A3E1B87F81D15111", "target": "Consegnare i gusci a Mehrunnah" },
     { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_MEHRUNNAH_000_000", "hash": "4F5AF040453E7712", "target": "Da lontano ti avevo <if(gnum4,presa,preso)> per <if(gnum4,una pescivendola,un pescivendolo)>, ma ora che ti vedo da vicino è chiaro che non sei di queste parti. Per quanto strani siano i tuoi abiti, persino io capisco che sono fatti per lavorare sodo. Per tua fortuna, ho il compito giusto." },

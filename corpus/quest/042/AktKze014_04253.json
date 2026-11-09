@@ -2,7 +2,7 @@
   "conversation": "quest/042/AktKze014_04253",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/042/AktKze014_04253#TEXT_AKTKZE014_04253_SEQ_00", "hash": "10B87C0DB6790A22", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Il Loporrit brusco vuole fare qualcosa di pericoloso e ha chiaramente sentito parlare della tua propensione all'imprudenza..." },
+    { "gameKey": "quest/042/AktKze014_04253#TEXT_AKTKZE014_04253_SEQ_00", "hash": "10B87C0DB6790A22", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Il Loporrit brusco vuole fare qualcosa di pericoloso e ha chiaramente sentito parlare della tua propensione all'imprudenza..." },
     { "gameKey": "quest/042/AktKze014_04253#TEXT_AKTKZE014_04253_TODO_00", "hash": "739AB5DD65920506", "target": "Parlare con il brusque Loporrit" },
     { "gameKey": "quest/042/AktKze014_04253#TEXT_AKTKZE014_04253_TODO_01", "hash": "9E5402E4AC75BBEE", "target": "Esaminare il reperto allagano" },
     { "gameKey": "quest/042/AktKze014_04253#TEXT_AKTKZE014_04253_TODO_02", "hash": "F3E9ABF9A34F22F2", "target": "Tornare dal brusque Loporrit e sconfiggere gli eventuali nemici che attaccano" },
@@ -28,7 +28,7 @@
     { "gameKey": "quest/042/AktKze014_04253#TEXT_AKTKZE014_04253_LOPORRIT04253_000_033", "hash": "7F294A324E58564E", "target": "No, avete ragione. Dovrà aspettare il nostro ritorno." },
     { "gameKey": "quest/042/AktKze014_04253#TEXT_AKTKZE014_04253_LOPORRIT04253_000_040", "hash": "F668AC1EBC4D3265", "target": "Finalmente al sicuro. Ora mostratemi cosa avete trovato." },
     { "gameKey": "quest/042/AktKze014_04253#TEXT_AKTKZE014_04253_LOPORRIT04253_000_041", "hash": "2F9576E2EDEB53EB", "target": "Questa... Questa è un'unità di decifrazione allagana." },
-    { "gameKey": "quest/042/AktKze014_04253#TEXT_AKTKZE014_04253_LOPORRIT04253_000_042", "hash": "1AA2DA9EBD79E32D", "target": "Con questa potremmo leggere tomestone allagane di storia, scienza, poesia... Se ne avessimo, ma non ne abbiamo. Sarà un'avventura per un altro giorno, suppongo." },
+    { "gameKey": "quest/042/AktKze014_04253#TEXT_AKTKZE014_04253_LOPORRIT04253_000_042", "hash": "1AA2DA9EBD79E32D", "target": "Con questa potremmo leggere tavolette allagane di storia, scienza, poesia... Se ne avessimo, ma non ne abbiamo. Sarà un'avventura per un altro giorno, suppongo." },
     { "gameKey": "quest/042/AktKze014_04253#TEXT_AKTKZE014_04253_LOPORRIT04253_000_043", "hash": "041D107048387BA7", "target": "Comunque, la prospettiva mi entusiasma profondamente, come avrete senz'altro notato. Vi ringrazio di cuore." }
   ]
 }

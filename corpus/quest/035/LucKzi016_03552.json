@@ -2,12 +2,12 @@
   "conversation": "quest/035/LucKzi016_03552",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzi016_03552#TEXT_LUCKZI016_03552_SEQ_00", "hash": "62F1FA57718038A6", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Il nano innamorato guarda malinconicamente in lontananza." },
+    { "gameKey": "quest/035/LucKzi016_03552#TEXT_LUCKZI016_03552_SEQ_00", "hash": "62F1FA57718038A6", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Il nano innamorato guarda malinconicamente in lontananza." },
     { "gameKey": "quest/035/LucKzi016_03552#TEXT_LUCKZI016_03552_TODO_00", "hash": "375D6FB599161F5C", "target": "Parlare con il nano innamorato" },
     { "gameKey": "quest/035/LucKzi016_03552#TEXT_LUCKZI016_03552_TODO_01", "hash": "3FF509F0D7DED5B7", "target": "Parlare con la signora Hume" },
     { "gameKey": "quest/035/LucKzi016_03552#TEXT_LUCKZI016_03552_TODO_02", "hash": "36CCB0E6F1E81B87", "target": "Parlare con il nano innamorato" },
     { "gameKey": "quest/035/LucKzi016_03552#TEXT_LUCKZI016_03552_TODO_03", "hash": "7E1FCA339FC3E477", "target": "Parlare con il nano innamorato" },
-    { "gameKey": "quest/035/LucKzi016_03552#TEXT_LUCKZI016_03552_DWARF03552_000_000", "hash": "2B2340B0322FD85F", "target": "\\<sospiro><br>Hai mai provato la fitta pungente dell'amore?" },
+    { "gameKey": "quest/035/LucKzi016_03552#TEXT_LUCKZI016_03552_DWARF03552_000_000", "hash": "2B2340B0322FD85F", "target": "\\<sigh><br>Hai mai provato la fitta pungente dell'amore?" },
     { "gameKey": "quest/035/LucKzi016_03552#TEXT_LUCKZI016_03552_DWARF03552_000_001", "hash": "AA5756C2595BEDB7", "target": "C'è questa ragazza Hume, no, questa <italic(1)>signora<italic(0)> Hume, che mi ha trafitto il cuore. L'ho vista tornando dalle miniere, e da allora la sogno..." },
     { "gameKey": "quest/035/LucKzi016_03552#TEXT_LUCKZI016_03552_DWARF03552_000_002", "hash": "CBC9906AFFF069D0", "target": "Dicono che l'amore sia una danza, vero? Beh, ho guardato dai bordi abbastanza a lungo: credo sia ora di scendere in pista!" },
     { "gameKey": "quest/035/LucKzi016_03552#TEXT_LUCKZI016_03552_DWARF03552_000_003", "hash": "5A59E37B747B2E41", "target": "Dovrebbe andare presto a prendere l'acqua al fiume, ma...<br>Gah, sono troppo nervoso per avvicinarmi da solo. Verresti con me? Ti prego, devi venire con me!" },
@@ -31,7 +31,7 @@
     { "gameKey": "quest/035/LucKzi016_03552#TEXT_LUCKZI016_03552_DWARF03552_000_032", "hash": "D51ECEEE5CB3D326", "target": "Mmm? È qualcosa in base a cui gli altri giudicano i propri compagni?" },
     { "gameKey": "quest/035/LucKzi016_03552#TEXT_LUCKZI016_03552_DWARF03552_000_033", "hash": "F025229AA498C2F1", "target": "Nel mio villaggio non è educato mostrare il volto se non <italic(1)>dopo<italic(0)> le nozze. Fuori dalla casa di famiglia si tiene l'elmo! Comunque, probabilmente aiuta che non le interessi il mio aspetto..." },
     { "gameKey": "quest/035/LucKzi016_03552#TEXT_LUCKZI016_03552_DWARF03552_000_034", "hash": "E3D34F448815F62B", "target": "...D-Davvero!? E io pensavo di aver portato <if(gnum4,un'alleata,un alleato)>, non <if(gnum4,una rivale,un rivale)>!" },
-    { "gameKey": "quest/035/LucKzi016_03552#TEXT_LUCKZI016_03552_DWARF03552_000_035", "hash": "202FE57BC6FB6D4A", "target": "\\<tossisce> Beh, dovremmo tornare, allora. Non è giusto chiederti aiuto e poi non pagarti per i consigli!" },
+    { "gameKey": "quest/035/LucKzi016_03552#TEXT_LUCKZI016_03552_DWARF03552_000_035", "hash": "202FE57BC6FB6D4A", "target": "\\<coff> Beh, dovremmo tornare, allora. Non è giusto chiederti aiuto e poi non pagarti per i consigli!" },
     { "gameKey": "quest/035/LucKzi016_03552#TEXT_LUCKZI016_03552_DWARF03552_000_040", "hash": "5292E2A5EA24D909", "target": "Tornando a casa ci ho riflettuto, e sono giunto a una conclusione: per conquistare il cuore della mia signora, devo essere più simile a te!" },
     { "gameKey": "quest/035/LucKzi016_03552#TEXT_LUCKZI016_03552_DWARF03552_000_041", "hash": "8EFB05F14528BFCA", "target": "Viaggerò per il mondo e diventerò un uomo degno di essere sposato. Sì, credo che dovrò parlare con il capo...<br>Grazie ancora per essere <if(gnum4,venuta,venuto)> con me!" }
   ]

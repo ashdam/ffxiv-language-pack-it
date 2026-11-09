@@ -2,11 +2,11 @@
   "conversation": "quest/051/KinGze002_05120",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/051/KinGze002_05120#TEXT_KINGZE002_05120_SEQ_00", "hash": "7BAFCD8D9DBE0F36", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>I clienti indisciplinati hanno portato Yamehwi all'esasperazione." },
+    { "gameKey": "quest/051/KinGze002_05120#TEXT_KINGZE002_05120_SEQ_00", "hash": "7BAFCD8D9DBE0F36", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>I clienti indisciplinati hanno portato Yamehwi all'esasperazione." },
     { "gameKey": "quest/051/KinGze002_05120#TEXT_KINGZE002_05120_TODO_00", "hash": "676EE21D29583688", "target": "Raccogliere well water" },
     { "gameKey": "quest/051/KinGze002_05120#TEXT_KINGZE002_05120_TODO_01", "hash": "8761DE57E3B09E01", "target": "Usare la well water per far passare la sbornia ai clienti indisciplinati" },
     { "gameKey": "quest/051/KinGze002_05120#TEXT_KINGZE002_05120_TODO_02", "hash": "F37B941E2E773234", "target": "Parlare con Yamehwi" },
-    { "gameKey": "quest/051/KinGze002_05120#TEXT_KINGZE002_05120_YANEHWI_000_001", "hash": "5A70927A38FB6F52", "target": "\\<sospiro> E adesso cosa dovrei fare?" },
+    { "gameKey": "quest/051/KinGze002_05120#TEXT_KINGZE002_05120_YANEHWI_000_001", "hash": "5A70927A38FB6F52", "target": "\\<sigh> E adesso cosa dovrei fare?" },
     { "gameKey": "quest/051/KinGze002_05120#TEXT_KINGZE002_05120_YANEHWI_000_002", "hash": "794DABA9B10817F5", "target": "Senti, hai un aspetto piuttosto imponente. Posso chiederti un favore?" },
     { "gameKey": "quest/051/KinGze002_05120#TEXT_KINGZE002_05120_YANEHWI_000_003", "hash": "5780382C9D3C3A23", "target": "Alcuni clienti abituali hanno alzato un po' troppo il gomito, e il loro chiasso comincia a scacciare gli altri. Si rifiutano di andarsene, e non posso fare molto altro senza creare guai." },
     { "gameKey": "quest/051/KinGze002_05120#TEXT_KINGZE002_05120_YANEHWI_000_004", "hash": "C7AC969D7DD4FB9A", "target": "Una persona intimidatoria come te, invece, potrebbe permettersi parecchio. Anzi, scommetto che potresti bagnarli d'acqua e preferirebbero tornare a casa che alzare un dito contro di te. C'è un pozzo non lontano, se vuoi provare a far passare loro la sbornia." },

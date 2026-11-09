@@ -2,18 +2,18 @@
   "conversation": "quest/054/KinGva199_05459",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_100_000", "hash": "FA4C847EDD53344B", "target": "" },
-    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_110_000", "hash": "BD2D633A4A6A9028", "target": "" },
-    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_120_000", "hash": "DE1EDE536721A878", "target": "" },
-    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SHORTHANDDOLL_000_000", "hash": "494424690BDC8697", "target": "" },
-    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SHORTHANDDOLL_000_001", "hash": "D1098A32EBDF1564", "target": "" },
-    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SHORTHANDDOLL_000_002", "hash": "32DEC8AED8EFE73D", "target": "" },
-    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SHORTHANDDOLL_000_003", "hash": "415B5A795AF85016", "target": "" },
-    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_000_004", "hash": "D584715D4DA11114", "target": "" },
-    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SHORTHANDDOLL_000_005", "hash": "F4BA16E5236FB564", "target": "" },
-    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_100_005", "hash": "59681164681D8645", "target": "" },
-    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_110_005", "hash": "67B958F86CB6336B", "target": "" },
-    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_120_005", "hash": "4AE0237951869E5B", "target": "" },
-    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_130_005", "hash": "342CF846AEB79478", "target": "" }
+    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_100_000", "hash": "FA4C847EDD53344B", "target": "Per intraprendere questa missione, devi prima soddisfare i seguenti requisiti:" },
+    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_110_000", "hash": "BD2D633A4A6A9028", "target": "1. FINAL FANTASY XIV: Dawntrail deve essere registrato sul tuo account di servizio.<br>2. Devi aver completato la missione «Una lettura che incanta»." },
+    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_120_000", "hash": "DE1EDE536721A878", "target": "3. Devi essere un Discepolo della Guerra o della Magia di livello 100 o superiore. I job limitati non sono ammessi." },
+    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SHORTHANDDOLL_000_000", "hash": "494424690BDC8697", "target": "SaLvE, <if(gnum4,aVvEnTuRiErA,aVvEnTuRiErO)>! tI rInGrAzIo PeR l'AiUtO cOn GlI iNcArIcHi InSoLiTi. SoNo MeMoLiViA, e Il MiO cOmPiTo È rEgIsTrArE lE tUe SpEdIzIoNi." },
+    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SHORTHANDDOLL_000_001", "hash": "D1098A32EBDF1564", "target": "HaI uNa StOrIa Da RaCcOnTaRmI?" },
+    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SHORTHANDDOLL_000_002", "hash": "32DEC8AED8EFE73D", "target": "AnNoTo oGnI tUa PaRoLa... eLiMiNaNdO i DeTtAgLi SuPeRfLuI." },
+    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SHORTHANDDOLL_000_003", "hash": "415B5A795AF85016", "target": "Il tUo ViAgGiO tRa Le PaGiNe dEl <italic(1)>Racconto del Mercante<italic(0)> è sTaTo rEgIsTrAtO! PuOi LeGgErLo: tI aSsIcUrO cHe NoN tRoVeRaI nEaNcHe uN eRrOrE!" },
+    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_000_004", "hash": "D584715D4DA11114", "target": "La versione molto concisa del tuo resoconto preparata da Memolivia riporta soltanto i resoconti delle battaglie più feroci che hai affrontato." },
+    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SHORTHANDDOLL_000_005", "hash": "F4BA16E5236FB564", "target": "Se vOrRaI rEgIsTrArE aLtRe SpEdIzIoNi, lA mIa PeNnA È pRoNtA!" },
+    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_100_005", "hash": "59681164681D8645", "target": "Ora puoi entrare nel <italic(1)>Racconto del Mercante<italic(0)> (Avanzato)!" },
+    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_110_005", "hash": "67B958F86CB6336B", "target": "Le spedizioni varianti avanzate non prevedono esplorazione: consistono soltanto in una serie di boss della spedizione variante corrispondente." },
+    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_120_005", "hash": "4AE0237951869E5B", "target": "I giocatori decidono l'ordine dei boss e possono affrontare ciascuno più volte, finché non lo sconfiggono." },
+    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_130_005", "hash": "342CF846AEB79478", "target": "Trovi altre informazioni in basso a sinistra nella Ricerca Spedizioni V&C." }
   ]
 }

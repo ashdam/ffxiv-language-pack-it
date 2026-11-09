@@ -2,7 +2,7 @@
   "conversation": "quest/050/KinGzb010_05039",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzb010_05039#TEXT_KINGZB010_05039_SEQ_00", "hash": "E29687A20A67F225", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>La mercante agitata sembra avere un disperato bisogno d'aiuto." },
+    { "gameKey": "quest/050/KinGzb010_05039#TEXT_KINGZB010_05039_SEQ_00", "hash": "E29687A20A67F225", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>La mercante agitata sembra avere un disperato bisogno d'aiuto." },
     { "gameKey": "quest/050/KinGzb010_05039#TEXT_KINGZB010_05039_TODO_00", "hash": "6F56AB69155EA5CC", "target": "Cercare il young mercenary" },
     { "gameKey": "quest/050/KinGzb010_05039#TEXT_KINGZB010_05039_TODO_01", "hash": "0FE7618CA241CC2C", "target": "Soccorrere il young mercenary" },
     { "gameKey": "quest/050/KinGzb010_05039#TEXT_KINGZB010_05039_TODO_02", "hash": "A5FC4E9FECCC36EF", "target": "Parlare con la flustered merchant" },

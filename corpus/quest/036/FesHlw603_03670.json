@@ -19,8 +19,8 @@
     { "gameKey": "quest/036/FesHlw603_03670#TEXT_FESHLW603_03670_WITCH03670_000_023", "hash": "1257401EB0E7C086", "target": "Naturalmente, prima di farlo potreste voler chiedere un piccolissimo suggerimento su come sopravvivere... Altrimenti la vostra mente non rimarrà intatta a lungo!" },
     { "gameKey": "quest/036/FesHlw603_03670#TEXT_FESHLW603_03670_WITCH03670_000_024", "hash": "9A3663AD04B73410", "target": "La nostra dimora non è come gli spazi grigi e prevedibili del vostro mondo mortale, sapete. Oh, ha le sue regole, certo, ma sono meno numerose, e per questo le conseguenze per chi le infrange sono ancora più gravi..." },
     { "gameKey": "quest/036/FesHlw603_03670#TEXT_FESHLW603_03670_WITCH03670_000_025", "hash": "A5F62ACEAF714666", "target": "Buona fortuna, <if(gnum4,cara,caro)>!" },
-    { "gameKey": "quest/036/FesHlw603_03670#TEXT_FESHLW603_03670_SYSTEM_000_026", "hash": "9F73D746FB5705AD", "target": "Ora puoi accedere all'istanza stagionale Haunted Manor. Per entrare nel maniero, parla con la guida arlecchina all'Anfiteatro di Mih Khetto o al Frutteto delle Ghiande." },
-    { "gameKey": "quest/036/FesHlw603_03670#TEXT_FESHLW603_03670_SYSTEM_000_027", "hash": "1D110E064CE01E04", "target": "Haunted Manor è un'istanza per un gruppo di quattro giocatori. Non ci sono requisiti di classe, job o livello per partecipare." },
+    { "gameKey": "quest/036/FesHlw603_03670#TEXT_FESHLW603_03670_SYSTEM_000_026", "hash": "9F73D746FB5705AD", "target": "Ora puoi accedere all'istanza stagionale del Maniero Infestato. Per entrare nel maniero, parla con la guida arlecchina all'Anfiteatro di Mih Khetto o al Frutteto delle Ghiande." },
+    { "gameKey": "quest/036/FesHlw603_03670#TEXT_FESHLW603_03670_SYSTEM_000_027", "hash": "1D110E064CE01E04", "target": "Il Maniero Infestato è un'istanza per un gruppo di quattro giocatori. Non ci sono requisiti di classe, job o livello per partecipare." },
     { "gameKey": "quest/036/FesHlw603_03670#TEXT_FESHLW603_03670_SYSTEM_000_028", "hash": "826258B454FCCA21", "target": "I gruppi che si iscrivono all'istanza con meno di quattro membri vengono completati automaticamente dal sistema di abbinamento." }
   ]
 }

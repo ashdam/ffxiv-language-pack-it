@@ -15,7 +15,7 @@
     { "gameKey": "quest/028/StmBdz625_02803#TEXT_STMBDZ625_02803_CHAGUR_000_011", "hash": "87EA8B5A7FFFA3EA", "target": "Sì, il figlio di Maqali era qui poco fa. L'ultima volta che l'ho visto, si dirigeva a ovest con alcuni cacciatori." },
     { "gameKey": "quest/028/StmBdz625_02803#TEXT_STMBDZ625_02803_CHAGUR_000_012", "hash": "8C0EF39DF728708A", "target": "Non credo che ci sia nulla di cui preoccuparsi, ma se hai dei timori va' pure a controllare come sta." },
     { "gameKey": "quest/028/StmBdz625_02803#TEXT_STMBDZ625_02803_CHAGUR_000_015", "hash": "EC603294C32E0F30", "target": "Non credo che ci sia nulla di cui preoccuparsi, ma se hai dei timori va' pure a controllare come sta. L'ultima volta che l'ho visto, si dirigeva a ovest." },
-    { "gameKey": "quest/028/StmBdz625_02803#TEXT_STMBDZ625_02803_SON02803_000_020", "hash": "AAD8C19B7FC83E6F", "target": "\\<ansima> \\<ansima> Non posso continuare. Ho le mani piene di vesciche. Aspetta, sei tu <if(gnum4,la khagan,il khagan)>, vero? Che cosa ti porta qui?" },
+    { "gameKey": "quest/028/StmBdz625_02803#TEXT_STMBDZ625_02803_SON02803_000_020", "hash": "AAD8C19B7FC83E6F", "target": "\\<anf> \\<anf> Non posso continuare. Ho le mani piene di vesciche. Aspetta, sei tu <if(gnum4,la khagan,il khagan)>, vero? Che cosa ti porta qui?" },
     { "gameKey": "quest/028/StmBdz625_02803#TEXT_STMBDZ625_02803_SON02803_000_021", "hash": "3ACDAFBB7C5A7118", "target": "Papà era davvero così preoccupato? Dopo aver finito la commissione, ho cominciato a parlare con questi cacciatori e mi hanno invitato ad allenarmi con loro." },
     { "gameKey": "quest/028/StmBdz625_02803#TEXT_STMBDZ625_02803_BUDUGA02803_000_022", "hash": "9058B43EFFB95CEC", "target": "Ho sempre guardato i Mol dall'alto in basso, ma siamo stati noi a perdere. Deve esserci un segreto dietro la loro forza. Su, facciamo un altro giro!" },
     { "gameKey": "quest/028/StmBdz625_02803#TEXT_STMBDZ625_02803_SON02803_000_023", "hash": "BCC9654C92AA2E0B", "target": "Mi dispiace, ma mio padre attende il mio ritorno. Forse posso unirmi di nuovo a voi quando le mani non mi faranno tanto male. Grazie per l'invito." },
@@ -24,6 +24,6 @@
     { "gameKey": "quest/028/StmBdz625_02803#TEXT_STMBDZ625_02803_BUDUGA02803_000_032", "hash": "3942EE91910894E0", "target": "Sono ancora troppo debole!" },
     { "gameKey": "quest/028/StmBdz625_02803#TEXT_STMBDZ625_02803_MAQALI_000_040", "hash": "B7E2300F4F6DB96A", "target": "Ho appena parlato con mio figlio. Non ho potuto chiedergli molto perché aveva fretta di andare a farsi fasciare le mani. Che cosa è successo esattamente?" },
     { "gameKey": "quest/028/StmBdz625_02803#TEXT_STMBDZ625_02803_MAQALI_000_041", "hash": "4510C92C33DA99B2", "target": "Ha ha, davvero? Senza dubbio l'esperienza gli farà bene." },
-    { "gameKey": "quest/028/StmBdz625_02803#TEXT_STMBDZ625_02803_MAQALI_000_042", "hash": "DB06610B56E677F6", "target": "Forse quell’allenamento è proprio ciò che gli serve per diventare forte come te in battaglia. Potrebbe non piacergli, ma dovrà soffrire se vuole diventare più forte." }
+    { "gameKey": "quest/028/StmBdz625_02803#TEXT_STMBDZ625_02803_MAQALI_000_042", "hash": "DB06610B56E677F6", "target": "Forse quell'allenamento è proprio ciò che gli serve per diventare forte come te in battaglia. Potrebbe non piacergli, ma dovrà soffrire se vuole diventare più forte." }
   ]
 }

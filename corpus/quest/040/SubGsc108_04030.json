@@ -2,14 +2,14 @@
   "conversation": "quest/040/SubGsc108_04030",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/040/SubGsc108_04030#TEXT_SUBGSC108_04030_CARDTOURNAMENT_000_000", "hash": "19A989BD91A6C4EC", "target": "" },
-    { "gameKey": "quest/040/SubGsc108_04030#TEXT_SUBGSC108_04030_CARDTOURNAMENT_000_001", "hash": "08EB9E673D409249", "target": "" },
-    { "gameKey": "quest/040/SubGsc108_04030#TEXT_SUBGSC108_04030_CARDTOURNAMENT_000_002", "hash": "A2F4A84E0A8743CF", "target": "" },
-    { "gameKey": "quest/040/SubGsc108_04030#TEXT_SUBGSC108_04030_SYSTEM_000_003", "hash": "25FCC7BA2E62C74A", "target": "" },
-    { "gameKey": "quest/040/SubGsc108_04030#TEXT_SUBGSC108_04030_SYSTEM_000_004", "hash": "C76B6D9E7EB12FFB", "target": "" },
-    { "gameKey": "quest/040/SubGsc108_04030#TEXT_SUBGSC108_04030_CARDTOURNAMENT_000_005", "hash": "4EDA04FCEF9E26D6", "target": "" },
-    { "gameKey": "quest/040/SubGsc108_04030#TEXT_SUBGSC108_04030_CARDTOURNAMENT_000_006", "hash": "ED1FDD33ED68ECE0", "target": "" },
-    { "gameKey": "quest/040/SubGsc108_04030#TEXT_SUBGSC108_04030_SYSTEM_000_007", "hash": "EB8A45BB1AAF0F1E", "target": "" },
-    { "gameKey": "quest/040/SubGsc108_04030#TEXT_SUBGSC108_04030_CARDTOURNAMENT_000_008", "hash": "69662178778FB76B", "target": "" }
+    { "gameKey": "quest/040/SubGsc108_04030#TEXT_SUBGSC108_04030_CARDTOURNAMENT_000_000", "hash": "19A989BD91A6C4EC", "target": "Ti stai divertendo con le tue incursioni nel mondo competitivo di Triple Triad? Se hai ancora sete di scontri a colpi di carte, ti presento i nostri nuovissimi tornei brevi!" },
+    { "gameKey": "quest/040/SubGsc108_04030#TEXT_SUBGSC108_04030_CARDTOURNAMENT_000_001", "hash": "08EB9E673D409249", "target": "Il primo di questi tornei è l'Open. Questa competizione a cadenza regolare mette alla prova otto giocatori in condizioni eque ed equilibrate. Non serve nemmeno possedere carte proprie per partecipare!" },
+    { "gameKey": "quest/040/SubGsc108_04030#TEXT_SUBGSC108_04030_CARDTOURNAMENT_000_002", "hash": "A2F4A84E0A8743CF", "target": "Ogni partecipante crea un mazzo da cinque carte scegliendole da una selezione casuale e disputa tre incontri. Vincitori e ricompense dipendono dai risultati complessivi." },
+    { "gameKey": "quest/040/SubGsc108_04030#TEXT_SUBGSC108_04030_SYSTEM_000_003", "hash": "25FCC7BA2E62C74A", "target": "Per partecipare a un torneo Open, parla con l'addetto ai tornei da solo durante il periodo di registrazione." },
+    { "gameKey": "quest/040/SubGsc108_04030#TEXT_SUBGSC108_04030_SYSTEM_000_004", "hash": "C76B6D9E7EB12FFB", "target": "L'addetto fornisce anche informazioni utili, come gli orari e una spiegazione delle regole." },
+    { "gameKey": "quest/040/SubGsc108_04030#TEXT_SUBGSC108_04030_CARDTOURNAMENT_000_005", "hash": "4EDA04FCEF9E26D6", "target": "Il secondo formato breve è l'Invitational. Puoi invitare fino a sette amici, o rivali giurati, e organizzare il tuo torneo privato. Sei tu a decidere le regole!" },
+    { "gameKey": "quest/040/SubGsc108_04030#TEXT_SUBGSC108_04030_CARDTOURNAMENT_000_006", "hash": "ED1FDD33ED68ECE0", "target": "Per il numero di incontri e la classifica dei vincitori, la struttura è la stessa di un torneo Open. E non preoccuparti se ti mancano dei partecipanti per completare il gruppo: interverranno i campioni della casa!" },
+    { "gameKey": "quest/040/SubGsc108_04030#TEXT_SUBGSC108_04030_SYSTEM_000_007", "hash": "EB8A45BB1AAF0F1E", "target": "Per creare un torneo Invitational, forma un gruppo con i partecipanti che hai scelto, poi chiedi al capogruppo di registrarlo tramite la Ricerca Incarichi." },
+    { "gameKey": "quest/040/SubGsc108_04030#TEXT_SUBGSC108_04030_CARDTOURNAMENT_000_008", "hash": "69662178778FB76B", "target": "Che tu preferisca una competizione aperta o a inviti, questi tornei brevi offrono un ricco campo di battaglia in cui affinare la tua abilità a Triple Triad!" }
   ]
 }

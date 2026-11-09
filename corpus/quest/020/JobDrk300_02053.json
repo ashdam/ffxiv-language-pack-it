@@ -20,13 +20,13 @@
     { "gameKey": "quest/020/JobDrk300_02053#TEXT_JOBDRK300_02053_FRAY_000_033", "hash": "690E3392CE5345EF", "target": "No... Basta. È sufficiente..." },
     { "gameKey": "quest/020/JobDrk300_02053#TEXT_JOBDRK300_02053_FRAY_000_034", "hash": "AC77D37C0145AA55", "target": "Apri gli occhi. Guarda. Ora vedi? <italic(1)>Vedi<italic(0)>?" },
     { "gameKey": "quest/020/JobDrk300_02053#TEXT_JOBDRK300_02053_FRAY_000_035", "hash": "BF74D5933520AD68", "target": "<split(<string(gstr1)>, ,1)>... <split(<string(gstr1)>, ,1)>!" },
-    { "gameKey": "quest/020/JobDrk300_02053#TEXT_JOBDRK300_02053_FRAY_000_036", "hash": "592F06B163466D9F", "target": "...Aspettavo che aprissi gli occhi." },
-    { "gameKey": "quest/020/JobDrk300_02053#TEXT_JOBDRK300_02053_FRAY_000_037", "hash": "4B226C34F75CCF08", "target": "Stai bene? Gemevi nel sonno e sudavi a dirotto." },
+    { "gameKey": "quest/020/JobDrk300_02053#TEXT_JOBDRK300_02053_FRAY_000_036", "hash": "6D4F15AE96E9769F", "target": "(-???-)...Aspettavo che aprissi gli occhi." },
+    { "gameKey": "quest/020/JobDrk300_02053#TEXT_JOBDRK300_02053_FRAY_000_037", "hash": "A197454C513EB15B", "target": "(-???-)Stai bene? Gemevi nel sonno e sudavi a dirotto." },
     { "gameKey": "quest/020/JobDrk300_02053#TEXT_JOBDRK300_02053_FRAY_000_038", "hash": "14B8B23261B97853", "target": "Comunque, mi chiamo Fray. E no, non sono un eretico." },
     { "gameKey": "quest/020/JobDrk300_02053#TEXT_JOBDRK300_02053_FRAY_000_039", "hash": "CBE0B1B8CD40B7D5", "target": "Prova a convincere un cavaliere del Tempio ubriaco di autorità, eh? Peccato che quel pomposo stronzo abbia avuto la meglio su di me." },
     { "gameKey": "quest/020/JobDrk300_02053#TEXT_JOBDRK300_02053_FRAY_000_040", "hash": "77BC690A86B08F69", "target": "Ma <italic(1)>tu<italic(0)>? L'hai toccato, vero? Non dev'essere stato piacevole." },
     { "gameKey": "quest/020/JobDrk300_02053#TEXT_JOBDRK300_02053_FRAY_000_041", "hash": "DF71899DD7792EA0", "target": "Una voce, eh? E piuttosto angosciata, per giunta..." },
-    { "gameKey": "quest/020/JobDrk300_02053#TEXT_JOBDRK300_02053_SCREAM_000_042", "hash": "46D49E2CCA88CF60", "target": "Vi prego, qualcuno... <italic(1)>chiunque<italic(0)>!" },
+    { "gameKey": "quest/020/JobDrk300_02053#TEXT_JOBDRK300_02053_SCREAM_000_042", "hash": "BE9FB7798955F789", "target": "(-???-)Vi prego, qualcuno... <italic(1)>chiunque<italic(0)>!" },
     { "gameKey": "quest/020/JobDrk300_02053#TEXT_JOBDRK300_02053_FRAY_000_043", "hash": "4857B9F7D120C72C", "target": "Non così in fretta. Dobbiamo parlare di ciò che ti sta accadendo, di ciò che cresce dentro di te, prima che ti travolga." },
     { "gameKey": "quest/020/JobDrk300_02053#TEXT_JOBDRK300_02053_FRAY_000_044", "hash": "D14215A9404F4879", "target": "Dentro tutti noi c'è un'oscurità, ma non è pericolosa, bada. Anzi, è del tutto sana. Il cristallo però ti cambia, ti dà il potere di incanalarla." },
     { "gameKey": "quest/020/JobDrk300_02053#TEXT_JOBDRK300_02053_FRAY_000_045", "hash": "55F9CED06C90CCA8", "target": "Farlo senza un addestramento adeguato, tuttavia... be'... potrebbe fare male." },
@@ -36,7 +36,7 @@
     { "gameKey": "quest/020/JobDrk300_02053#TEXT_JOBDRK300_02053_FRAY_000_062", "hash": "40AAA5B4DC948DC7", "target": "Le leggi del paese? L'autorità di un nome? Sono strumenti con cui i codardi evitano di farsi male. Non abbiamo bisogno di scudi, né figurati né reali." },
     { "gameKey": "quest/020/JobDrk300_02053#TEXT_JOBDRK300_02053_FRAY_000_063", "hash": "78FD3BA9F66652AC", "target": "Ecco: la mia lama è la tua lama, il mio cristallo dell'anima è il tuo cristallo. Avanti, prendili. Ti serviranno presto." },
     { "gameKey": "quest/020/JobDrk300_02053#TEXT_JOBDRK300_02053_SYSTEM_000_070", "hash": "670E723E95D48F1D", "target": "Hai sbloccato un nuovo job! Puoi passare a questo job in qualsiasi momento equipaggiando l'arma ricevuta con questa missione." },
-    { "gameKey": "quest/020/JobDrk300_02053#TEXT_JOBDRK300_02053_SYSTEM_000_071", "hash": "1963251732919EFC", "target": "Quando cambi job, i <colortype(500)><edgecolortype(501)>gear sets<edgecolortype(0)><colortype(0)> ti permettono di registrare e salvare il tuo equipaggiamento. Puoi poi usarli per passare istantaneamente da un job all'altro senza dover equipaggiare manualmente armi o altri oggetti." },
-    { "gameKey": "quest/020/JobDrk300_02053#TEXT_JOBDRK300_02053_SYSTEM_000_072", "hash": "FC179202CEBD386E", "target": "Un pulsante per l'interfaccia Gear Set si trova nella parte superiore della finestra <colortype(500)><edgecolortype(501)>Character<edgecolortype(0)><colortype(0)>." }
+    { "gameKey": "quest/020/JobDrk300_02053#TEXT_JOBDRK300_02053_SYSTEM_000_071", "hash": "1963251732919EFC", "target": "Quando cambi job, i <colortype(500)><edgecolortype(501)>set di equipaggiamento<edgecolortype(0)><colortype(0)> ti permettono di registrare e salvare diverse configurazioni. Puoi così passare istantaneamente da un job all'altro senza dover equipaggiare manualmente armi o altri oggetti." },
+    { "gameKey": "quest/020/JobDrk300_02053#TEXT_JOBDRK300_02053_SYSTEM_000_072", "hash": "FC179202CEBD386E", "target": "Un pulsante per l'interfaccia dei set di equipaggiamento si trova nella parte superiore della finestra <colortype(500)><edgecolortype(501)>Personaggio<edgecolortype(0)><colortype(0)>." }
   ]
 }

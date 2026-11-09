@@ -2,7 +2,7 @@
   "conversation": "quest/042/AktKzd001_04225",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/042/AktKzd001_04225#TEXT_AKTKZD001_04225_SEQ_00", "hash": "4F7EECCB1AB8E520", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>La situazione in questo angolo di mondo ha lasciato molti malati e affamati, fra cui Amanieu e sua figlia." },
+    { "gameKey": "quest/042/AktKzd001_04225#TEXT_AKTKZD001_04225_SEQ_00", "hash": "4F7EECCB1AB8E520", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>La situazione in questo angolo di mondo ha lasciato molti malati e affamati, fra cui Amanieu e sua figlia." },
     { "gameKey": "quest/042/AktKzd001_04225#TEXT_AKTKZD001_04225_TODO_00", "hash": "A04868E861A26E2C", "target": "Recuperare i buckwheat seeds da un contenitore al mercato" },
     { "gameKey": "quest/042/AktKzd001_04225#TEXT_AKTKZD001_04225_TODO_01", "hash": "0E4E8C84B7E44850", "target": "Consegnare i buckwheat seeds ad Amanieu" },
     { "gameKey": "quest/042/AktKzd001_04225#TEXT_AKTKZD001_04225_AMANIEU_000_000", "hash": "905468FCCDF1582A", "target": "Un momento, <if(gnum4,gentile signora,gentile signore)>, se puoi dedicarcelo. Mia figlia è malata di un terribile raffreddore. Riesce a malapena a trattenere un boccone, ma so che una semplice ciotola di kasha sarebbe leggera per lo stomaco e basterebbe a sostenerla." },
@@ -12,7 +12,7 @@
     { "gameKey": "quest/042/AktKzd001_04225#TEXT_AKTKZD001_04225_AMANIEU_000_004", "hash": "DBA8F8091715022D", "target": "Il mercato non è l'unico posto dove trovare i semi per la kasha, ma ti consiglio di controllare prima i contenitori là, prima di allargare la ricerca." },
     { "gameKey": "quest/042/AktKzd001_04225#TEXT_AKTKZD001_04225_SYSTEM_000_010", "hash": "0844B55320A9326D", "target": "Ti trovi davanti a un miscuglio di semi. Alcuni sono troppo morbidi, altri troppo duri, ma questi sembrano <italic(1)>proprio<italic(0)> giusti." },
     { "gameKey": "quest/042/AktKzd001_04225#TEXT_AKTKZD001_04225_SYSTEM_000_020", "hash": "D3A15E5CC4650CCF", "target": "Ahimè, non trovi traccia dei semi, ma ti imbatti in una scatola di medicinali." },
-    { "gameKey": "quest/042/AktKzd001_04225#TEXT_AKTKZD001_04225_Q1_000_000", "hash": "CE029E1D122CEC9C", "target": "Vuoi portare questi medicinali all’uomo e a sua figlia malata?" },
+    { "gameKey": "quest/042/AktKzd001_04225#TEXT_AKTKZD001_04225_Q1_000_000", "hash": "CE029E1D122CEC9C", "target": "Vuoi portare questi medicinali all'uomo e a sua figlia malata?" },
     { "gameKey": "quest/042/AktKzd001_04225#TEXT_AKTKZD001_04225_SYSTEM_000_030", "hash": "EC96318456442D1D", "target": "Nella zona non trovi traccia di semi. Durante la ricerca, però, ti imbatti in un orsacchiotto di peluche." },
     { "gameKey": "quest/042/AktKzd001_04225#TEXT_AKTKZD001_04225_Q2_000_000", "hash": "52E4EB815EBB7268", "target": "Vuoi portare il giocattolo ad Amanieu e a sua figlia malata?" },
     { "gameKey": "quest/042/AktKzd001_04225#TEXT_AKTKZD001_04225_AMANIEU_000_040", "hash": "9BC6504BBFCCF25B", "target": "Eccoti! E senza un graffio. Oh, quell'espressione... Devo dedurne che hai trovato i semi?" },

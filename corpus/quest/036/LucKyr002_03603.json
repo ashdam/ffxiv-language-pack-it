@@ -2,14 +2,14 @@
   "conversation": "quest/036/LucKyr002_03603",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_001", "hash": "7885EAE9D6228CBD", "target": "" },
-    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_002", "hash": "1123AAB1D64B429B", "target": "" },
-    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_003", "hash": "47068406C067BCBC", "target": "" },
-    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_004", "hash": "2E82E1BD8900DE53", "target": "" },
-    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_005", "hash": "62A2A0FD59211E8B", "target": "" },
-    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_006", "hash": "78F03FFFE49C1509", "target": "" },
-    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_007", "hash": "C019E44901144970", "target": "" },
-    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_008", "hash": "1661F55ECF4994E6", "target": "" },
-    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_SYSTEM_000_009", "hash": "3FC4627683610D0C", "target": "" }
+    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_001", "hash": "7885EAE9D6228CBD", "target": "Sei proprio l'illustre <string(gstr1)>, vero? Permettimi di presentarmi: sono Mowen, fondatrice e presidente della Boutique degli Splendori." },
+    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_002", "hash": "1123AAB1D64B429B", "target": "Il maestro Alphinaud mi ha parlato molto bene di te e del tuo talento artistico senza pari. Molto, molto bene..." },
+    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_003", "hash": "47068406C067BCBC", "target": "Perdonami l'audacia, ma sarebbe per me un grande onore se ti iscrivessi presso la nostra Bottega come fornitore di oggetti collezionabili. In cambio, possiamo offrirti un'ampia scelta di merci che sono certa incontreranno il tuo favore." },
+    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_004", "hash": "2E82E1BD8900DE53", "target": "Non si tratta di un compenso diretto, per essere chiari. Abbiamo adottato un sistema molto simile a uno che probabilmente conosci bene, e di cui ho saputo solo di recente dal maestro Alphinaud." },
+    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_005", "hash": "62A2A0FD59211E8B", "target": "Per ogni consegna riceverai il pagamento in gettone. Questa valuta esclusiva è spendibile solo presso la Boutique degli Splendori. Forse è una limitazione, ma l'equipaggiamento e i materiali che offriamo compensano ampiamente qualsiasi inconveniente." },
+    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_006", "hash": "78F03FFFE49C1509", "target": "La donna che per prima ha ideato questo sistema era brillante, non trovi? Una vera visionaria, capace di riunire persone di ogni estrazione e di cambiare il mondo con la sua sconfinata compassione e generosità..." },
+    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_007", "hash": "C019E44901144970", "target": "Ah, un'altra cosa: tratterremo una quota irrisoria del valore degli oggetti da collezione che valuteremo, per coprire i costi di gestione e le varie spese operative. Non serve certo che ti spieghi il perché." },
+    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_008", "hash": "1661F55ECF4994E6", "target": "La Boutique degli Splendori è sempre alla ricerca di nuovi artigiani desiderosi di condividere il proprio talento con il mondo! Se conosci qualcuno così, ti prego di indirizzarlo da noi!" },
+    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_SYSTEM_000_009", "hash": "3FC4627683610D0C", "target": "Per affrontare questa missione devi aver raggiunto almeno il livello 70 con un Discepolo della Mano o della Terra." }
   ]
 }

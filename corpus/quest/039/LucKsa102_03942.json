@@ -2,16 +2,16 @@
   "conversation": "quest/039/LucKsa102_03942",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/039/LucKsa102_03942#TEXT_LUCKSA102_03942_RESISTANCERECORDER_000_000", "hash": "DD8A13DC733A5586", "target": "" },
-    { "gameKey": "quest/039/LucKsa102_03942#TEXT_LUCKSA102_03942_RESISTANCERECORDER_000_002", "hash": "D633FA496201E07A", "target": "" },
-    { "gameKey": "quest/039/LucKsa102_03942#TEXT_LUCKSA102_03942_RESISTANCERECORDER_000_003", "hash": "A3EADD6219B43B4E", "target": "" },
-    { "gameKey": "quest/039/LucKsa102_03942#TEXT_LUCKSA102_03942_RESISTANCERECORDER_000_004", "hash": "0E68E9F73C9C9AA8", "target": "" },
-    { "gameKey": "quest/039/LucKsa102_03942#TEXT_LUCKSA102_03942_RESISTANCERECORDER_000_005", "hash": "A469320A286FD9ED", "target": "" },
-    { "gameKey": "quest/039/LucKsa102_03942#TEXT_LUCKSA102_03942_RESISTANCERECORDER_000_006", "hash": "7CAF0DDF1FCBCDDA", "target": "" },
-    { "gameKey": "quest/039/LucKsa102_03942#TEXT_LUCKSA102_03942_SYSTEM_100_030", "hash": "69756E1BD44F20A9", "target": "" },
-    { "gameKey": "quest/039/LucKsa102_03942#TEXT_LUCKSA102_03942_SYSTEM_000_030", "hash": "F8C5F3A07C16F812", "target": "" },
-    { "gameKey": "quest/039/LucKsa102_03942#TEXT_LUCKSA102_03942_SYSTEM_000_031", "hash": "DEEF77CA3094BC3C", "target": "" },
-    { "gameKey": "quest/039/LucKsa102_03942#TEXT_LUCKSA102_03942_SYSTEM_000_032", "hash": "42118449B58401E3", "target": "" },
-    { "gameKey": "quest/039/LucKsa102_03942#TEXT_LUCKSA102_03942_RESISTANCERECORDER_000_050", "hash": "800BEEAE0207124A", "target": "" }
+    { "gameKey": "quest/039/LucKsa102_03942#TEXT_LUCKSA102_03942_RESISTANCERECORDER_000_000", "hash": "DD8A13DC733A5586", "target": "Lama <split(<string(gstr1)>, ,2)>. Un momento, se non ti dispiace. Sono la storica militare della Resistenza di Bozja e Marsak mi ha detto che potresti aiutarmi nel mio lavoro." },
+    { "gameKey": "quest/039/LucKsa102_03942#TEXT_LUCKSA102_03942_RESISTANCERECORDER_000_002", "hash": "D633FA496201E07A", "target": "Non occorre che ti spieghi quanto le atrocità della guerra mettano a dura prova un soldato. Per questo, è sempre più difficile trovare qualcuno nel pieno delle proprie facoltà fisiche e mentali, in grado di raccontare con precisione ciò che ha vissuto sul campo di battaglia." },
+    { "gameKey": "quest/039/LucKsa102_03942#TEXT_LUCKSA102_03942_RESISTANCERECORDER_000_003", "hash": "A3EADD6219B43B4E", "target": "Per una persona temprata dalla battaglia come te, annotare i nemici affrontati dovrebbe essere un compito da poco." },
+    { "gameKey": "quest/039/LucKsa102_03942#TEXT_LUCKSA102_03942_RESISTANCERECORDER_000_004", "hash": "0E68E9F73C9C9AA8", "target": "Non mi aspetto certo un resoconto dettagliato di <italic(1)>ogni<italic(0)> incontro, sia chiaro. Ma se ti scontri con figure di rilievo, voglio esserne informata." },
+    { "gameKey": "quest/039/LucKsa102_03942#TEXT_LUCKSA102_03942_RESISTANCERECORDER_000_005", "hash": "A469320A286FD9ED", "target": "Tutte le informazioni raccolte durante la battaglia per Bozja finiranno nei miei resoconti di guerra. Tieni, puoi usare questo per annotare gli incontri più memorabili sul campo." },
+    { "gameKey": "quest/039/LucKsa102_03942#TEXT_LUCKSA102_03942_RESISTANCERECORDER_000_006", "hash": "7CAF0DDF1FCBCDDA", "target": "So che ti sto affidando un compito impegnativo, perciò provvederò personalmente a ricompensarti come si deve per i tuoi sforzi." },
+    { "gameKey": "quest/039/LucKsa102_03942#TEXT_LUCKSA102_03942_SYSTEM_100_030", "hash": "69756E1BD44F20A9", "target": "Il <colortype(500)><edgecolortype(501)>Rapporti sul Campo<edgecolortype(0)><colortype(0)> è ora disponibile sotto Collezione, nella sezione Incarichi del menu principale." },
+    { "gameKey": "quest/039/LucKsa102_03942#TEXT_LUCKSA102_03942_SYSTEM_000_030", "hash": "F8C5F3A07C16F812", "target": "Completando determinate missioni, schermaglie e scontri critici nel Fronte meridionale di Bozja, otterrai un fascicolo di appunti." },
+    { "gameKey": "quest/039/LucKsa102_03942#TEXT_LUCKSA102_03942_SYSTEM_000_031", "hash": "DEEF77CA3094BC3C", "target": "Potrai usare questi appunti per aggiungere voci al Rapporti sul Campo." },
+    { "gameKey": "quest/039/LucKsa102_03942#TEXT_LUCKSA102_03942_SYSTEM_000_032", "hash": "42118449B58401E3", "target": "Gli appunti che non ti servono possono essere scambiati con varie ricompense parlando con la storica della Resistenza." },
+    { "gameKey": "quest/039/LucKsa102_03942#TEXT_LUCKSA102_03942_RESISTANCERECORDER_000_050", "hash": "800BEEAE0207124A", "target": "Un ultimo consiglio, se posso. Non si sa mai cosa ti aspetta al Fronte meridionale, ma Dmitar, laggiù, potrebbe aiutarti a trovare battaglie degne di essere ricordate nel Rapporti sul Campo." }
   ]
 }

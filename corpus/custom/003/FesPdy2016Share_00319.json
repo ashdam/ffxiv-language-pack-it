@@ -2,7 +2,7 @@
   "conversation": "custom/003/FesPdy2016Share_00319",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/003/FesPdy2016Share_00319#TEXT_FESPDY2016SHARE_00319_BUTLER_000_000", "hash": "64533D29BDBFED7D", "target": "È il giorno tanto atteso, <if(gnum4,amica mia,amico mio)>: la Festa delle Fanciulle è finalmente arrivata! Avete già potuto godervi tutto ciò che offre?" },
+    { "gameKey": "custom/003/FesPdy2016Share_00319#TEXT_FESPDY2016SHARE_00319_BUTLER_000_000", "hash": "64533D29BDBFED7D", "target": "È il giorno tanto atteso, <if(gnum4,amica mia,amico mio)>: la Giornata delle Piccole Dame è finalmente arrivata! Avete già potuto godervi tutto ciò che offre?" },
     { "gameKey": "custom/003/FesPdy2016Share_00319#TEXT_FESPDY2016SHARE_00319_BUTLER_000_001", "hash": "F4D6444EB152EECC", "target": "Le cose migliori richiedono sempre un po' d'aiuto in più! Se desiderate ancora contribuire, parlate con un membro del mio personale per scoprire cosa potete fare." },
     { "gameKey": "custom/003/FesPdy2016Share_00319#TEXT_FESPDY2016SHARE_00319_BUTLER_000_002", "hash": "38457D798F93E8A2", "target": "Gli Uccelli Canori hanno aggiunto tanta allegria alla festa, vero? Va tutto tanto bene che mi chiedo di cosa avessi mai paura. Potete essere <if(gnum4,fiera,fiero)>, <if(gnum4,amica mia,amico mio)>." },
     { "gameKey": "custom/003/FesPdy2016Share_00319#TEXT_FESPDY2016SHARE_00319_ULALA_100_010", "hash": "FC470CE8F3D06CC2", "target": "Vieni a vedermi danzare? Allora preparati a un'esperienza indimenticabile!" },

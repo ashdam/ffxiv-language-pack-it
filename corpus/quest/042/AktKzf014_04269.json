@@ -2,7 +2,7 @@
   "conversation": "quest/042/AktKzf014_04269",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/042/AktKzf014_04269#TEXT_AKTKZF014_04269_SEQ_00", "hash": "C4051F5B11A32F02", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Mehryde guarda con tristezza un brillante nastro intrecciato sul banco." },
+    { "gameKey": "quest/042/AktKzf014_04269#TEXT_AKTKZF014_04269_SEQ_00", "hash": "C4051F5B11A32F02", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Mehryde guarda con tristezza un brillante nastro intrecciato sul banco." },
     { "gameKey": "quest/042/AktKzf014_04269#TEXT_AKTKZF014_04269_TODO_00", "hash": "FC6B80FB28BAEC23", "target": "Cercare l'alchimista all'High Crucible" },
     { "gameKey": "quest/042/AktKzf014_04269#TEXT_AKTKZF014_04269_TODO_01", "hash": "9C40860B610E965E", "target": "Parlare con Mehryde" },
     { "gameKey": "quest/042/AktKzf014_04269#TEXT_AKTKZF014_04269_MEHRYDE_000_001", "hash": "DE2192808791CA1A", "target": "Un oggetto così prezioso, eppure chi lo possiede non viene a riprenderlo. Spero che non significhi..." },
@@ -25,7 +25,7 @@
     { "gameKey": "quest/042/AktKzf014_04269#TEXT_AKTKZF014_04269_MEHRYDE_000_018", "hash": "CD653FA2E72C5068", "target": "Eccoti di ritorno. Hai trovato la coppia? Spero stiano bene..." },
     { "gameKey": "quest/042/AktKzf014_04269#TEXT_AKTKZF014_04269_MEHRYDE_000_019", "hash": "3832B521E1DD3327", "target": "Oh, cielo... Mi dispiace terribilmente. Almeno abbiamo restituito il braccialetto come ricordo alla donna, per quanto sia poca consolazione..." },
     { "gameKey": "quest/042/AktKzf014_04269#TEXT_AKTKZF014_04269_MEHRYDE_000_020", "hash": "A79863822631BC32", "target": "Quel braccialetto intrecciato è una sorta di talismano che crea un legame fra dei e mortali. Più stretto è l'intreccio, più protegge da un destino terribile." },
-    { "gameKey": "quest/042/AktKzf014_04269#TEXT_AKTKZF014_04269_MEHRYDE_000_021", "hash": "597BA75C22A3E1EA", "target": "A Radz<-->at<-->Han è tradizione regalarlo alla persona amata, per chiedere agli dei protezione per chi ci è caro. Sembra che la preghiera del marito sia stata ascoltata, tragicamente al prezzo della sua vita..." },
+    { "gameKey": "quest/042/AktKzf014_04269#TEXT_AKTKZF014_04269_MEHRYDE_000_021", "hash": "597BA75C22A3E1EA", "target": "A Radz-at-Han è tradizione regalarlo alla persona amata, per chiedere agli dei protezione per chi ci è caro. Sembra che la preghiera del marito sia stata ascoltata, tragicamente al prezzo della sua vita..." },
     { "gameKey": "quest/042/AktKzf014_04269#TEXT_AKTKZF014_04269_MEHRYDE_000_022", "hash": "A8CFEF52D488D847", "target": "Immagino che le serva tempo per guarire, ma spero che torni, così potrò offrirle il conforto e la gentilezza che posso. Comunque, grazie per aver svolto il compito al posto mio." }
   ]
 }

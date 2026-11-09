@@ -2,7 +2,7 @@
   "conversation": "quest/041/AktKza009_04188",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_SEQ_00", "hash": "2DAD6C499E693A8B", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>N'nagali ti guarda con una preoccupazione materna." },
+    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_SEQ_00", "hash": "2DAD6C499E693A8B", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>N'nagali ti guarda con una preoccupazione materna." },
     { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_TODO_00", "hash": "475E9B66E489271B", "target": "Recuperare i rotting logs" },
     { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_TODO_01", "hash": "6CBC4CA98CF806A9", "target": "Consegnare i rotting logs a N'nagali" },
     { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_NNAGALI_000_000", "hash": "FDC8557C5A414527", "target": "<if(gnum4,Signora,Signore)>, puoi tendere la mano? Ho qualcosa che devi assolutamente mangiare. Ti prego, insisto!" },

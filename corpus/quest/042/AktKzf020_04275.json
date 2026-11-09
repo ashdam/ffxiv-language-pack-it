@@ -2,7 +2,7 @@
   "conversation": "quest/042/AktKzf020_04275",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/042/AktKzf020_04275#TEXT_AKTKZF020_04275_SEQ_00", "hash": "5544EDF3C96DABF7", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>La capitana della Guardia Radiosa spera che prevalga il buon senso." },
+    { "gameKey": "quest/042/AktKzf020_04275#TEXT_AKTKZF020_04275_SEQ_00", "hash": "5544EDF3C96DABF7", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>La capitana della Guardia Radiosa spera che prevalga il buon senso." },
     { "gameKey": "quest/042/AktKzf020_04275#TEXT_AKTKZF020_04275_TODO_00", "hash": "68F3218D794E0B14", "target": "Parlare con la capitana della Guardia Radiosa" },
     { "gameKey": "quest/042/AktKzf020_04275#TEXT_AKTKZF020_04275_TODO_01", "hash": "4A183D4FCFB1EC1A", "target": "Parlare con la capitana della Guardia Radiosa e seguire l'Au Ra ostile" },
     { "gameKey": "quest/042/AktKzf020_04275#TEXT_AKTKZF020_04275_TODO_02", "hash": "11FC39E122216E05", "target": "Parlare con la guardia della Guardia Radiosa" },
@@ -25,7 +25,7 @@
     { "gameKey": "quest/042/AktKzf020_04275#TEXT_AKTKZF020_04275_TOWNGARDLEADER04275_000_017", "hash": "055E2A8037289603", "target": "Il piano è questo: fingerò di mostrarti la città, visto che sei <if(gnum4,una semplice viaggiatrice,un semplice viaggiatore)>. Poi lo seguiremo. Senza avvicinarci <italic(1)>troppo<italic(0)>, naturalmente: l'ultima cosa che vogliamo è farci scoprire." },
     { "gameKey": "quest/042/AktKzf020_04275#TEXT_AKTKZF020_04275_Q1_000_001", "hash": "80BE9583D907017D", "target": "Provare a seguire l'Au Ra ostile?" },
     { "gameKey": "quest/042/AktKzf020_04275#TEXT_AKTKZF020_04275_TOWNGARDLEADER04275_000_019", "hash": "BF9305CBBFCA1020", "target": "Tutto bene laggiù? Non preoccuparti, il nostro uomo è ancora in vista. Riprendi fiato per un momento, poi torniamo a seguirlo." },
-    { "gameKey": "quest/042/AktKzf020_04275#TEXT_AKTKZF020_04275_MOUNTAINEER04275_000_020", "hash": "38BE122F52E6C337", "target": "Oh! È da un po' che non vedo un anello di questo tipo. E intarsiato di giadeite esotica, per giunta! Sì, dovrebbe fruttare una bella somma..." },
+    { "gameKey": "quest/042/AktKzf020_04275#TEXT_AKTKZF020_04275_MOUNTAINEER04275_000_020", "hash": "1BE4DF000C010F3D", "target": "(-Mirthful Miner-)Oh! È da un po' che non vedo un anello di questo tipo. E intarsiato di giadeite esotica, per giunta! Sì, dovrebbe fruttare una bella somma..." },
     { "gameKey": "quest/042/AktKzf020_04275#TEXT_AKTKZF020_04275_TOWNGARDLEADER04275_000_021", "hash": "DC62311CAAD8C5F7", "target": "Proprio come sospettavo: aveva l'anello fin dall'inizio. Be', direi che è ora di interrompere questa piccola transazione. Potresti chiamare il mio subordinato, per sicurezza? Resterò qui a controllare che né l'uomo né il suo complice fuggano." },
     { "gameKey": "quest/042/AktKzf020_04275#TEXT_AKTKZF020_04275_TOWNGARDLEADER04275_000_022", "hash": "F0B6B7361D67C32A", "target": "Va' a Dharma e chiama il mio subordinato più in fretta che puoi. Non preoccuparti: farò in modo che il nostro uomo non scappi." },
     { "gameKey": "quest/042/AktKzf020_04275#TEXT_AKTKZF020_04275_TOWNGARD04275_000_023", "hash": "06319A61952C7B3A", "target": "Come procede l'indagine, <if(gnum4,amica mia,amico mio)>?" },

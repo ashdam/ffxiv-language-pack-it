@@ -14,7 +14,7 @@
     { "gameKey": "quest/024/StmBda322_02498#TEXT_STMBDA322_02498_TODO_03", "hash": "A02112A1781146B5", "target": "Parlare con Alisaie" },
     { "gameKey": "quest/024/StmBda322_02498#TEXT_STMBDA322_02498_GOSETSU_100_000", "hash": "2B9F0A2033F40CF3", "target": "Zenos cadrà, ma non per un disperato fendente nell'oscurità. Dovremo pianificare e prepararci, e lei non ha fatto né l'una né l'altra cosa." },
     { "gameKey": "quest/024/StmBda322_02498#TEXT_STMBDA322_02498_YUGIRI_000_000", "hash": "C0DA7BB85A13CED3", "target": "L'itinerario di Zenos è il seguente..." },
-    { "gameKey": "quest/024/StmBda322_02498#TEXT_STMBDA322_02498_YUGIRI_000_001", "hash": "194D5F50D4F421B0", "target": "Partirà da Doma Castle in nave e si avvicinerà alle Porte della Luna. Il campo magitek verrà disattivato per breve tempo, permettendo il passaggio dell'imbarcazione. Questa proseguirà fino a questi moli, dove lui e il suo seguito sbarcheranno." },
+    { "gameKey": "quest/024/StmBda322_02498#TEXT_STMBDA322_02498_YUGIRI_000_001", "hash": "194D5F50D4F421B0", "target": "Partirà dal Castello di Doma in nave e si avvicinerà alle Porte della Luna. Il campo magitec verrà disattivato per breve tempo, permettendo il passaggio dell'imbarcazione. Questa proseguirà fino a questi moli, dove lui e il suo seguito sbarcheranno." },
     { "gameKey": "quest/024/StmBda322_02498#TEXT_STMBDA322_02498_YUGIRI_000_002", "hash": "138482965CEB6AB8", "target": "Come potete vedere, questa zona non è ideale per un'imboscata. È completamente aperta, con molteplici vie di fuga. La tenuta è più adatta alle nostre necessità." },
     { "gameKey": "quest/024/StmBda322_02498#TEXT_STMBDA322_02498_YUGIRI_000_003", "hash": "7327096F14DCDF52", "target": "Separiamoci e cerchiamo dei nascondigli adatti." },
     { "gameKey": "quest/024/StmBda322_02498#TEXT_STMBDA322_02498_SYSTEM_000_010", "hash": "A0924C7401377477", "target": "Circondato da mura e deserto, questo luogo sembra ideale per nascondersi..." },
@@ -28,7 +28,7 @@
     { "gameKey": "quest/024/StmBda322_02498#TEXT_STMBDA322_02498_ISSE_000_035", "hash": "0C165586D8330684", "target": "Va tutto bene. Ecco, bevi un po' d'acqua..." },
     { "gameKey": "quest/024/StmBda322_02498#TEXT_STMBDA322_02498_GOSETSU_000_040", "hash": "555A43454231D75F", "target": "Non è nulla che il tempo non possa guarire." },
     { "gameKey": "quest/024/StmBda322_02498#TEXT_STMBDA322_02498_ALISAIE_000_050", "hash": "33BEF01C0046058B", "target": "Non credo che ci abbiano seguiti...<br>Dei... Non ho idea di cosa passasse per la testa di quell'uomo, ma sono davvero felice che abbia deciso di andarsene." },
-    { "gameKey": "quest/024/StmBda322_02498#TEXT_STMBDA322_02498_ALISAIE_000_051", "hash": "EE1B199359B25AE9", "target": "Oh, e non ringraziare noi. Ringrazia Alphinaud. È alla House of the Fierce, in paziente attesa della tua gratitudine." },
+    { "gameKey": "quest/024/StmBda322_02498#TEXT_STMBDA322_02498_ALISAIE_000_051", "hash": "EE1B199359B25AE9", "target": "Oh, e non ringraziare noi. Ringrazia Alphinaud. È alla Casa dei Fieri, in paziente attesa della tua gratitudine." },
     { "gameKey": "quest/024/StmBda322_02498#TEXT_STMBDA322_02498_ALISAIE_000_052", "hash": "547814A6F5340586", "target": "Avresti dovuto vedere come è impallidito quando ha saputo del piano di Yugiri─e che proprio <italic(1)>tu<italic(0)>, tra tutti, avevi deciso di aiutarla. Era nel panico, abbaiava ordini e chiedeva che si radunasse uno squadrone─" },
     { "gameKey": "quest/024/StmBda322_02498#TEXT_STMBDA322_02498_GOSETSU_000_053", "hash": "F063B3EA5EB3C530", "target": "Come voi." },
     { "gameKey": "quest/024/StmBda322_02498#TEXT_STMBDA322_02498_ALISAIE_000_054", "hash": "BF51AFD042C34AEF", "target": "Per quanto ricordo, ero piuttosto composta. Ma questo non c'entra nulla..." },
@@ -42,7 +42,7 @@
     { "gameKey": "quest/024/StmBda322_02498#TEXT_STMBDA322_02498_YUGIRI_BATTLETALK_003_002", "hash": "B0D3D11F73947904", "target": "Non è un gioco, bastardo arrogante e perverso!" },
     { "gameKey": "quest/024/StmBda322_02498#TEXT_STMBDA322_02498_YUGIRI_BATTLETALK_003_003", "hash": "8C91F43215D952B5", "target": "Graaagh!" },
     { "gameKey": "quest/024/StmBda322_02498#TEXT_STMBDA322_02498_YUGIRI_BATTLETALK_003_004", "hash": "04AE8717875E407E", "target": "No! Posso ancora combattere, posso ancora... ancora..." },
-    { "gameKey": "quest/024/StmBda322_02498#TEXT_STMBDA322_02498_ZENOS_BATTLETALK_004_001", "hash": "A3E9FDF9B7EB690B", "target": "Ben fatto, bestia. <if(gnum4,Ti sei guadagnata,Ti sei guadagnato)> il diritto di posare lo sguardo sull'Ame<-->no<-->Habakiri." },
+    { "gameKey": "quest/024/StmBda322_02498#TEXT_STMBDA322_02498_ZENOS_BATTLETALK_004_001", "hash": "A3E9FDF9B7EB690B", "target": "Ben fatto, bestia. <if(gnum4,Ti sei guadagnata,Ti sei guadagnato)> il diritto di posare lo sguardo sull'Ame-no-Habakiri." },
     { "gameKey": "quest/024/StmBda322_02498#TEXT_STMBDA322_02498_YOTSUYU_BATTLETALK_004_002", "hash": "0B05AA6F96322A0B", "target": "Che... che cos'è...? Che i kami ci proteggano..." },
     { "gameKey": "quest/024/StmBda322_02498#TEXT_STMBDA322_02498_ZENOS_BATTLETALK_005_001", "hash": "5485F2CA627BDB1F", "target": "Sei migliore di molti altri, te lo concedo. Ma non abbastanza. Finisce qui." }
   ]

@@ -2,7 +2,7 @@
   "conversation": "quest/034/LucKze017_03451",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKze017_03451#TEXT_LUCKZE017_03451_SEQ_00", "hash": "1E4F778DA753F37A", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>A Ovelin serve un paio di mani forti." },
+    { "gameKey": "quest/034/LucKze017_03451#TEXT_LUCKZE017_03451_SEQ_00", "hash": "1E4F778DA753F37A", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>A Ovelin serve un paio di mani forti." },
     { "gameKey": "quest/034/LucKze017_03451#TEXT_LUCKZE017_03451_TODO_00", "hash": "6E11A7C7CCB95173", "target": "Esaminare Chierico" },
     { "gameKey": "quest/034/LucKze017_03451#TEXT_LUCKZE017_03451_TODO_01", "hash": "5829EE4D4CD6D084", "target": "Parlare con Ovelin" },
     { "gameKey": "quest/034/LucKze017_03451#TEXT_LUCKZE017_03451_OVELIN_000_001", "hash": "DB4292B8036064F5", "target": "Mh... Non sei di questo bosco, vero?" },

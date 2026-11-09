@@ -38,6 +38,6 @@
     { "gameKey": "quest/049/KinGla103_04970#TEXT_KINGLA103_04970_RRALSOJ_000_072", "hash": "046E120CE725319A", "target": "Ammiro il fatto che tu cerchi di creare il miglior prodotto possibile, ma a volte un cliente vuole soltanto un attrezzo che funzioni, e lo vuole in fretta. Cerca di tenerlo a mente la prossima volta." },
     { "gameKey": "quest/049/KinGla103_04970#TEXT_KINGLA103_04970_RRALSOJ_000_073", "hash": "3B073E3AC33D3286", "target": "<split(<string(gstr1)>, ,1)>, pare che tu non ti sia ancora <if(gnum4,liberata,liberato)> di me. Non posso contare sul tuo aiuto per sempre, ma per ora, ti prego, continua a metterci a disposizione la tua esperienza." },
     { "gameKey": "quest/049/KinGla103_04970#TEXT_KINGLA103_04970_SYSTEM_000_080", "hash": "80BBBF619A8B105B", "target": "Rral Soj è entusiasta dei tuoi sforzi. Ora ti considera <colortype(500)><edgecolortype(501)>Marvelous Metalworker<edgecolortype(0)><colortype(0)>!" },
-    { "gameKey": "quest/049/KinGla103_04970#TEXT_KINGLA103_04970_SYSTEM_000_090", "hash": "EF2CA6B2DB2BF2E5", "target": "La prossima richiesta sarà disponibile presso Rral Soj al raggiungimento del livello 95 come Blacksmith, Armorer o Goldsmith." }
+    { "gameKey": "quest/049/KinGla103_04970#TEXT_KINGLA103_04970_SYSTEM_000_090", "hash": "EF2CA6B2DB2BF2E5", "target": "La prossima richiesta sarà disponibile presso Rral Soj al raggiungimento del livello 95 come Blacksmith, Corazziere o Goldsmith." }
   ]
 }

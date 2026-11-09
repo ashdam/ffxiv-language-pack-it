@@ -2,7 +2,7 @@
   "conversation": "quest/044/AktKzi103_04486",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/044/AktKzi103_04486#TEXT_AKTKZI103_04486_SEQ_00", "hash": "EFC80A5F77B54487", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Verpaulaine è assorto nei suoi pensieri." },
+    { "gameKey": "quest/044/AktKzi103_04486#TEXT_AKTKZI103_04486_SEQ_00", "hash": "EFC80A5F77B54487", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Verpaulaine è assorto nei suoi pensieri." },
     { "gameKey": "quest/044/AktKzi103_04486#TEXT_AKTKZI103_04486_SEQ_01", "hash": "5C0E0159A471FA04", "target": "Verpaulaine ti dice di voler misurare il flusso dell'etere che viaggia dal reattore a Phoibos per controllare eventuali anomalie. È piuttosto certo che possiate ottenere un eterometro al Centro agronomico Meryall.<br><br>※La difficoltà di questa missione è stata sincronizzata con il tuo livello attuale." },
     { "gameKey": "quest/044/AktKzi103_04486#TEXT_AKTKZI103_04486_SEQ_02", "hash": "DA2706033A59A067", "target": "Verpaulaine accerta che l'etere è più debole a sud del Centro agronomico Meryall. Accetti di andare lì per approfondire l'indagine." },
     { "gameKey": "quest/044/AktKzi103_04486#TEXT_AKTKZI103_04486_SEQ_03", "hash": "4FA08E51ED605C0A", "target": "Verpaulaine scopre che un anala, normalmente presente soltanto vicino al reattore elementale, si nutre della fornitura di etere. Ti incarica di ucciderlo e recuperarne il nucleo per dimostrare che qualcosa non va nel sole artificiale." },

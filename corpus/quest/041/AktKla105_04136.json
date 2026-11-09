@@ -5,7 +5,7 @@
     { "gameKey": "quest/041/AktKla105_04136#TEXT_AKTKLA105_04136_SEQ_00", "hash": "97D755ACF9290E05", "target": "Rurusha ha qualcosa da chiederti." },
     { "gameKey": "quest/041/AktKla105_04136#TEXT_AKTKLA105_04136_TODO_00", "hash": "B2CD4D51FA402964", "target": "Parlare con la mercante" },
     { "gameKey": "quest/041/AktKla105_04136#TEXT_AKTKLA105_04136_TODO_01", "hash": "0C42F3ADB57714D4", "target": "Parlare con Rurusha" },
-    { "gameKey": "quest/041/AktKla105_04136#TEXT_AKTKLA105_04136_TODO_02", "hash": "2C96B40A3619655D", "target": "<if([lnum1<lnum2],Fabbricare un gold core <sheet(Addon,9,0)>,Consegnare il gold core <sheet(Addon,9,0)> a Rurusha)>" },
+    { "gameKey": "quest/041/AktKla105_04136#TEXT_AKTKLA105_04136_TODO_02", "hash": "2C96B40A3619655D", "target": "<if([lnum1<lnum2],Fabbricare un nucleo d'oro <sheet(Addon,9,0)>,Consegnare il nucleo d'oro <sheet(Addon,9,0)> a Rurusha)>" },
     { "gameKey": "quest/041/AktKla105_04136#TEXT_AKTKLA105_04136_RURUSHA_000_001", "hash": "D66B76C6E383627B", "target": "<split(<string(gstr1)>, ,1)>, eccoti di nuovo. Che bello rivederti." },
     { "gameKey": "quest/041/AktKla105_04136#TEXT_AKTKLA105_04136_RURUSHA_000_002", "hash": "55F59B8A256D92DE", "target": "Ci hanno appena informato che il carico di materiali per il nucleo è arrivato al porto." },
     { "gameKey": "quest/041/AktKla105_04136#TEXT_AKTKLA105_04136_RURUSHA_000_003", "hash": "EAAE78433F732BB7", "target": "Boric stava giusto per andare a ritirarli, ma ora che sei qui, potrei chiederti di accompagnarlo? Vorrei essere certa della qualità della merce, e mi fido del tuo occhio esperto." },
@@ -67,7 +67,7 @@
     { "gameKey": "quest/041/AktKla105_04136#TEXT_AKTKLA105_04136_RURUSHA_000_066", "hash": "57334E397469C588", "target": "Pensa solo allo stato in cui l'abbiamo trovato, e ora è persino in grado di volare! Abbiamo fatto progressi incredibili." },
     { "gameKey": "quest/041/AktKla105_04136#TEXT_AKTKLA105_04136_RURUSHA_000_067", "hash": "F5DD0FC52C007232", "target": "Detto questo, il rumore di poco fa mi preoccupa. Forse ho commesso un errore da qualche parte montando i componenti nuovi. Dovremo smontarlo ancora una volta e cercare di capire cosa sia andato storto." },
     { "gameKey": "quest/041/AktKla105_04136#TEXT_AKTKLA105_04136_RURUSHA_000_068", "hash": "9D3C4058B2597957", "target": "Nel frattempo, ti invito a riposarti. Ti avvertirò non appena avremo finito." },
-    { "gameKey": "quest/041/AktKla105_04136#TEXT_AKTKLA105_04136_SYSTEM_000_069", "hash": "02E91914E5A35A9A", "target": "La prossima missione sarà disponibile presso Rurusha al raggiungimento del livello 88 come Blacksmith, Armorer o Goldsmith." },
+    { "gameKey": "quest/041/AktKla105_04136#TEXT_AKTKLA105_04136_SYSTEM_000_069", "hash": "02E91914E5A35A9A", "target": "La prossima missione sarà disponibile presso Rurusha al raggiungimento del livello 88 come Blacksmith, Corazziere o Goldsmith." },
     { "gameKey": "quest/041/AktKla105_04136#TEXT_AKTKLA105_04136_SYSTEM_100_070", "hash": "E8F2C3F00A810378", "target": "Gli oggetti di qualità normale fabbricati durante questa missione non hanno alcuna utilità e non possono essere venduti. Si consiglia di scartarli." }
   ]
 }

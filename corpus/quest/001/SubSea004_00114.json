@@ -2,7 +2,7 @@
   "conversation": "quest/001/SubSea004_00114",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/SubSea004_00114#TEXT_SUBSEA004_00114_SEQ_00", "hash": "B9406460CE782CA9", "target": "Swozblaet, il maestro mercante di Hawkers' Alley, vuole che tu indaghi sui prezzi attuali del mercato." },
+    { "gameKey": "quest/001/SubSea004_00114#TEXT_SUBSEA004_00114_SEQ_00", "hash": "B9406460CE782CA9", "target": "Swozblaet, il maestro mercante del Vicolo dei Mercanti, vuole che tu indaghi sui prezzi attuali del mercato." },
     { "gameKey": "quest/001/SubSea004_00114#TEXT_SUBSEA004_00114_SEQ_01", "hash": "F97801078C604482", "target": "Swozblaet ti ha chiesto di fingerti un cliente e osservare le merci vendute da Iron Thunder, Kyokyoroon e Syneyhil. Parla con i tre mercanti e annota di nascosto i prezzi delle loro merci." },
     { "gameKey": "quest/001/SubSea004_00114#TEXT_SUBSEA004_00114_SEQ_02", "hash": "71E3EBA64F7F9E70", "target": "Hai completato l'indagine sui prezzi del mercato. Consegna il listino prezzi a Baensyng nel Vicolo Occidentale degli Ambulanti." },
     { "gameKey": "quest/001/SubSea004_00114#TEXT_SUBSEA004_00114_SEQ_03", "hash": "7D615A507D664460", "target": "Hai consegnato il rapporto a Baensyng. Stando ai prezzi annotati, il mercato sembra libero da affari loschi anche oggi." },
@@ -19,6 +19,6 @@
     { "gameKey": "quest/001/SubSea004_00114#TEXT_SUBSEA004_00114_SYNEYHIL_000_30", "hash": "A0FEA02F76EC9E18", "target": "<if([gnum11<12],<if([gnum11<4],Buonasera,Buongiorno)>,<if([gnum11<17],Buongiorno,Buonasera)>)>, <if(gnum4,signorina,signore)>. Con cosa posso tentarvi... Ma vi interessa quasi tutto, vero? È un'altra di quelle indagini!? Be', non ho nulla da nascondere!" },
     { "gameKey": "quest/001/SubSea004_00114#TEXT_SUBSEA004_00114_BAENSYNG_000_40", "hash": "0F93E127ACA3F7D2", "target": "Sei tu che hai fatto una lista per Swozblaet? Fammela vedere, allora." },
     { "gameKey": "quest/001/SubSea004_00114#TEXT_SUBSEA004_00114_BAENSYNG_000_41", "hash": "A224384CC60EB45D", "target": "Mmm, non vedo nulla che non vada nel mercato." },
-    { "gameKey": "quest/001/SubSea004_00114#TEXT_SUBSEA004_00114_BAENSYNG_000_42", "hash": "C14A05331CFDCACF", "target": "Spesso i pirati vendono merce rubata a prezzi stracciati e fanno calare i prezzi in tutta Hawkers' Alley. Grazie a questi rapporti, però, vediamo subito quando ci sono affari loschi. Bel lavoro, <if(gnum4,ragazza,ragazzo)>." }
+    { "gameKey": "quest/001/SubSea004_00114#TEXT_SUBSEA004_00114_BAENSYNG_000_42", "hash": "C14A05331CFDCACF", "target": "Spesso i pirati vendono merce rubata a prezzi stracciati e fanno calare i prezzi in tutto il Vicolo dei Mercanti. Grazie a questi rapporti, però, vediamo subito quando ci sono affari loschi. Bel lavoro, <if(gnum4,ragazza,ragazzo)>." }
   ]
 }

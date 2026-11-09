@@ -2,19 +2,19 @@
   "conversation": "quest/040/LucKha031_04042",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/040/LucKha031_04042#TEXT_LUCKHA031_04042_AUGEBERT_000_000", "hash": "5B84F8880CE1DC98", "target": "" },
-    { "gameKey": "quest/040/LucKha031_04042#TEXT_LUCKHA031_04042_AUGEBERT_000_001", "hash": "C19CA5049F0D3BF1", "target": "" },
-    { "gameKey": "quest/040/LucKha031_04042#TEXT_LUCKHA031_04042_AUGEBERT_000_002", "hash": "23906A1DFD05A994", "target": "" },
-    { "gameKey": "quest/040/LucKha031_04042#TEXT_LUCKHA031_04042_AUGEBERT_000_003", "hash": "BAA096BD03939607", "target": "" },
-    { "gameKey": "quest/040/LucKha031_04042#TEXT_LUCKHA031_04042_AUGEBERT_000_004", "hash": "024AD13F0E7639DC", "target": "" },
-    { "gameKey": "quest/040/LucKha031_04042#TEXT_LUCKHA031_04042_AUGEBERT_000_005", "hash": "EBF68515A8BE2713", "target": "" },
-    { "gameKey": "quest/040/LucKha031_04042#TEXT_LUCKHA031_04042_AUGEBERT_000_006", "hash": "A115609D2D406BE5", "target": "" },
-    { "gameKey": "quest/040/LucKha031_04042#TEXT_LUCKHA031_04042_ENIE_000_007", "hash": "7204141C09471F04", "target": "" },
-    { "gameKey": "quest/040/LucKha031_04042#TEXT_LUCKHA031_04042_POTKIN_000_009", "hash": "DD617C8DD595F966", "target": "" },
-    { "gameKey": "quest/040/LucKha031_04042#TEXT_LUCKHA031_04042_LIZBETH_000_010", "hash": "6AE96DFE2FC6CC2C", "target": "" },
-    { "gameKey": "quest/040/LucKha031_04042#TEXT_LUCKHA031_04042_LUDOVRAINT_000_011", "hash": "BB66E4D6B0943A4A", "target": "" },
-    { "gameKey": "quest/040/LucKha031_04042#TEXT_LUCKHA031_04042_FLOTPASSANT_100_011", "hash": "3C30957EF862B8DC", "target": "" },
-    { "gameKey": "quest/040/LucKha031_04042#TEXT_LUCKHA031_04042_AUGEBERT_000_012", "hash": "B05F045809558E41", "target": "" },
-    { "gameKey": "quest/040/LucKha031_04042#TEXT_LUCKHA031_04042_AUGEBERT_000_013", "hash": "0DD137489944B7B5", "target": "" }
+    { "gameKey": "quest/040/LucKha031_04042#TEXT_LUCKHA031_04042_AUGEBERT_000_000", "hash": "5B84F8880CE1DC98", "target": "Oh, <split(<string(gstr1)>, ,1)>! Sei qui ad ammirare il frutto del tuo lavoro?" },
+    { "gameKey": "quest/040/LucKha031_04042#TEXT_LUCKHA031_04042_AUGEBERT_000_001", "hash": "C19CA5049F0D3BF1", "target": "Scommetto che ti si riempirà il cuore di gioia quando vedrai cosa è diventato questo posto, grazie a te e agli altri Costruttori Celesti. Forza, guardati intorno." },
+    { "gameKey": "quest/040/LucKha031_04042#TEXT_LUCKHA031_04042_AUGEBERT_000_002", "hash": "23906A1DFD05A994", "target": "Come Francel ti avrà già detto, il Rione Cantorisorto diventerà il nuovo centro culturale e artistico del Firmamento." },
+    { "gameKey": "quest/040/LucKha031_04042#TEXT_LUCKHA031_04042_AUGEBERT_000_003", "hash": "BAA096BD03939607", "target": "È un posto in cui nobili e gente comune possono finalmente concedersi qualche piccolo lusso, come un bagno rilassante alle Sorgenti Innevate. Abbiamo anche un'infermeria tutta nuova, dove chiunque abbia ferite o malanni di qualsiasi genere può ricevere le cure necessarie." },
+    { "gameKey": "quest/040/LucKha031_04042#TEXT_LUCKHA031_04042_AUGEBERT_000_004", "hash": "024AD13F0E7639DC", "target": "Di solito a questo punto ti direi di non allontanarti, visto che il prossimo progetto edilizio è già in programma. Ma, e quasi non ci credo nemmeno io, i lavori qui sono finalmente terminati." },
+    { "gameKey": "quest/040/LucKha031_04042#TEXT_LUCKHA031_04042_AUGEBERT_000_005", "hash": "EBF68515A8BE2713", "target": "Sì, hai capito bene. Con la rinascita del Rione Cantorisorto si completa l'intero progetto di ricostruzione. Sono certo che concorderai: abbiamo realizzato qualcosa di meraviglioso. Non potrò mai ringraziarti abbastanza per aver contribuito con le tue capacità e il tuo lavoro." },
+    { "gameKey": "quest/040/LucKha031_04042#TEXT_LUCKHA031_04042_AUGEBERT_000_006", "hash": "A115609D2D406BE5", "target": "Mh? Che fate ancora tutti qui impalati? Non c'è da lavorare da qualche parte?" },
+    { "gameKey": "quest/040/LucKha031_04042#TEXT_LUCKHA031_04042_ENIE_000_007", "hash": "7204141C09471F04", "target": "Ma dai, Augebert! Mica sei l'unico che può stare in compagnia del nostro Costruttore Celeste preferito. Volevamo solo ringraziarti anche noi!" },
+    { "gameKey": "quest/040/LucKha031_04042#TEXT_LUCKHA031_04042_POTKIN_000_009", "hash": "DD617C8DD595F966", "target": "Anche se i lavori di ricostruzione sono terminati, speriamo che tornerai a trovarci ogni tanto. Avremo comunque bisogno di materiali di ogni genere per la manutenzione e le riparazioni. Non sparire!" },
+    { "gameKey": "quest/040/LucKha031_04042#TEXT_LUCKHA031_04042_LIZBETH_000_010", "hash": "6AE96DFE2FC6CC2C", "target": "Esatto. Se ti va di tentare la fortuna al Kupo della Fortuna, sarò sempre qui per accoglierti con un sorriso, amico mio." },
+    { "gameKey": "quest/040/LucKha031_04042#TEXT_LUCKHA031_04042_LUDOVRAINT_000_011", "hash": "BB66E4D6B0943A4A", "target": "E se vorrai ancora farci visita ogni tanto, sarà per me un piacere e un onore continuare a registrare le tue numerose imprese, affinché restino nella memoria di chi verrà dopo di te." },
+    { "gameKey": "quest/040/LucKha031_04042#TEXT_LUCKHA031_04042_FLOTPASSANT_100_011", "hash": "3C30957EF862B8DC", "target": "A dire il vero, non possiamo che ringraziare te e gli altri artigiani. Avete reso possibile ciò che gli abitanti di questa nazione non avrebbero mai osato sognare!" },
+    { "gameKey": "quest/040/LucKha031_04042#TEXT_LUCKHA031_04042_AUGEBERT_000_012", "hash": "B05F045809558E41", "target": "Ma che ci facciamo ancora qui impalati? Non so voi, ma io ho proprio voglia di festeggiare! A giudicare dalle facce che vedo, non sono certo l'unico!" },
+    { "gameKey": "quest/040/LucKha031_04042#TEXT_LUCKHA031_04042_AUGEBERT_000_013", "hash": "0DD137489944B7B5", "target": "Intanto mi sa che Francel non vede l'ora di parlarti, <split(<string(gstr1)>, ,1)>. Se hai un momento libero, perché non vai a trovarlo? Alla prossima!" }
   ]
 }

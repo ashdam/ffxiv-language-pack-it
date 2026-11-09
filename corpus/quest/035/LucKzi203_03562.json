@@ -2,7 +2,7 @@
   "conversation": "quest/035/LucKzi203_03562",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzi203_03562#TEXT_LUCKZI203_03562_SEQ_00", "hash": "BAA5D104C3881C5E", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Xorutt è pronto a proseguire l'insegnamento delle usanze legate alla birra." },
+    { "gameKey": "quest/035/LucKzi203_03562#TEXT_LUCKZI203_03562_SEQ_00", "hash": "BAA5D104C3881C5E", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Xorutt è pronto a proseguire l'insegnamento delle usanze legate alla birra." },
     { "gameKey": "quest/035/LucKzi203_03562#TEXT_LUCKZI203_03562_TODO_00", "hash": "86C8546F37C2DF9F", "target": "Procurarsi iguana tails dalle upland iguana" },
     { "gameKey": "quest/035/LucKzi203_03562#TEXT_LUCKZI203_03562_TODO_01", "hash": "84EB06B2BB8FF3A6", "target": "Consegnare le iguana tails a Xorutt" },
     { "gameKey": "quest/035/LucKzi203_03562#TEXT_LUCKZI203_03562_TODO_02", "hash": "B5CE01A4167119EF", "target": "Consegnare il barrel of fermenting ale alla birraia Tholl" },
@@ -11,7 +11,7 @@
     { "gameKey": "quest/035/LucKzi203_03562#TEXT_LUCKZI203_03562_XORUTT_000_001", "hash": "ED6EB20C5CD489D0", "target": "...Perché quello sguardo? Un nano non può vivere soltanto di alcolici, anche se qualcuno ci ha provato abbastanza." },
     { "gameKey": "quest/035/LucKzi203_03562#TEXT_LUCKZI203_03562_XORUTT_000_002", "hash": "F8CEBE16EB9069E8", "target": "Comunque, l'accompagnamento tradizionale di una pinta di birra nanica è un bel piattone di code d'iguana essiccate!" },
     { "gameKey": "quest/035/LucKzi203_03562#TEXT_LUCKZI203_03562_XORUTT_000_003", "hash": "B27A6EAD8D8AD2EF", "target": "Naturalmente le lucertole non consegnano spontaneamente le parti del proprio corpo, quindi dovrai tagliarle tu. È un'usanza mostrare i trofei migliori e condividerli con gli altri al momento di bere, un'esperienza che unisce davvero!" },
-    { "gameKey": "quest/035/LucKzi203_03562#TEXT_LUCKZI203_03562_XORUTT_000_004", "hash": "31EE564520C53C0D", "target": "Troverai le iguane, e le loro gustose code, a sud-est del paese. Due dovrebbero bastare, visto che quelle bestie squamose sono dannatamente enormi. ...Oh, non l'avevo detto? Beh, buona caccia!" },
+    { "gameKey": "quest/035/LucKzi203_03562#TEXT_LUCKZI203_03562_XORUTT_000_004", "hash": "31EE564520C53C0D", "target": "Troverai le iguane, e le loro gustose code, a sud-est del paese. Due dovrebbero bastare, visto che quegli squamorfi sono dannatamente enormi. ...Oh, non l'avevo detto? Beh, buona caccia!" },
     { "gameKey": "quest/035/LucKzi203_03562#TEXT_LUCKZI203_03562_XORUTT_000_005", "hash": "E8D7B116D3E5705C", "target": "Vai a sud-est: è lì che vagano le iguane. Potresti provare a tagliare una coda e scappare, ma faresti meglio ad aspettarti uno scontro." },
     { "gameKey": "quest/035/LucKzi203_03562#TEXT_LUCKZI203_03562_XORUTT_000_010", "hash": "3B619F584257BB08", "target": "Ah, ritorna <if(gnum4,la potente cacciatrice,il potente cacciatore)> di lucertole! Che cosa hai per me?" },
     { "gameKey": "quest/035/LucKzi203_03562#TEXT_LUCKZI203_03562_XORUTT_000_011", "hash": "BFF66EF23B853F42", "target": "Oh! Guarda quanto sono grandi quelle bellezze che si dimenano! Una volta messe a essiccare, il loro restringimento concentrerà il sapore, così potrai gustare tutta la bontà lucertolesca a ogni boccone!" },

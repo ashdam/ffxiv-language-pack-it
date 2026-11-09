@@ -2,14 +2,14 @@
   "conversation": "quest/041/AktKyr101_04170",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_GRIGGE_000_000", "hash": "D23C57E03F02056A", "target": "" },
-    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_GRIGGE_000_001", "hash": "F91ED0503112BFDC", "target": "" },
-    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_GRIGGE_000_002", "hash": "A3978A5B3250C66B", "target": "" },
-    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_GRIGGE_000_003", "hash": "D2332D0670A0EA2F", "target": "" },
-    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_GRIGGE_000_004", "hash": "A6C439C9CD6C042E", "target": "" },
-    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_GRIGGE_000_005", "hash": "360218E1923A4457", "target": "" },
-    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_SYSTEM_000_006", "hash": "C43788B2BEFD3D16", "target": "" },
-    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_GRIGGE_000_010", "hash": "05A0E71DBAF5A2B8", "target": "" },
-    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_SYSTEM_000_011", "hash": "8BB2445A9E88D799", "target": "" }
+    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_GRIGGE_000_000", "hash": "D23C57E03F02056A", "target": "Mh... Mi sembri una persona che non teme di sporcarsi le mani, e non è un modo di dire. Ti andrebbe di rimboccarti le maniche e lavorare sodo?" },
+    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_GRIGGE_000_001", "hash": "F91ED0503112BFDC", "target": "...Ma forse sto correndo troppo. Sono Grigge, uno dei raccoglitori di Sharlayan. Il nostro compito è procurarci materiali, campioni, conoscenze, tutto ciò che puoi immaginare e anche di più." },
+    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_GRIGGE_000_002", "hash": "A3978A5B3250C66B", "target": "È ovvio che sarebbe arduo per una sola persona esplorare il mondo ogni volta che i nostri compatrioti ci chiedono qualcosa. Per questo abbiamo fondato una gilda, così da condividere le informazioni e affidare ogni richiesta a chi è più adatto a soddisfarla." },
+    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_GRIGGE_000_003", "hash": "D2332D0670A0EA2F", "target": "Alcune richieste, per esempio, vanno affidate a chi dimostra una certa destrezza e perseveranza... e i calli sulle tue mani mi dicono che sei una persona adatta." },
+    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_GRIGGE_000_004", "hash": "A6C439C9CD6C042E", "target": "Capisco che la procedura di selezione... ehm, piuttosto permissiva, possa suscitare qualche perplessità. Come probabilmente sospetti, il Forum non riconoscerebbe mai ufficialmente come raccoglitore un viaggiatore di un'altra nazione." },
+    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_GRIGGE_000_005", "hash": "360218E1923A4457", "target": "In via ufficiosa, però, siamo sommersi dalle richieste, che ultimamente arrivano a ritmo sempre più serrato. Accoglieremo chiunque abbia talento e pagheremo bene: dimmi che ti interessa!" },
+    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_SYSTEM_000_006", "hash": "C43788B2BEFD3D16", "target": "Ora puoi intraprendere i mandati dei raccoglitori parlando con Grigge." },
+    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_GRIGGE_000_010", "hash": "05A0E71DBAF5A2B8", "target": "Che tu venga da Sharlayan o meno, al momento abbiamo un disperato bisogno di aiuto qualificato..." },
+    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_SYSTEM_000_011", "hash": "8BB2445A9E88D799", "target": "Per intraprendere questo incarico, devi essere un Discepolo della Mano o della Terra di livello 80 o superiore." }
   ]
 }

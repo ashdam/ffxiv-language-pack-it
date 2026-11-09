@@ -23,6 +23,6 @@
     { "gameKey": "quest/024/StmBda105_02450#TEXT_STMBDA105_02450_MEFFRID_000_065", "hash": "59C826238AD2112A", "target": "Pizzicami se sto sognando, perché giurerei che sta finalmente accadendo. Tutta Eorzea impegnata nella liberazione di Ala Mhigo!" },
     { "gameKey": "quest/024/StmBda105_02450#TEXT_STMBDA105_02450_ALISAIE_000_070", "hash": "7BA9737694EA9F16", "target": "Bene. M'naago e Meffrid saranno le nostre guide." },
     { "gameKey": "quest/024/StmBda105_02450#TEXT_STMBDA105_02450_ALISAIE_000_071", "hash": "65D9B442D588FF7C", "target": "Non sapendo cosa richiedano, un compito vale l'altro. Scegli tu, <split(<string(gstr1)>, ,1)>." },
-    { "gameKey": "quest/024/StmBda105_02450#TEXT_STMBDA105_02450_SYSTEM_000_080", "hash": "36C2E90EA4B7F9D7", "target": "Ora puoi usare la <colortype(500)><edgecolortype(501)>aether compass<edgecolortype(0)><colortype(0)> per individuare le correnti eteree nelle nuove regioni! L'aether compass si trova sotto Collection nella sezione Duty del menu principale." }
+    { "gameKey": "quest/024/StmBda105_02450#TEXT_STMBDA105_02450_SYSTEM_000_080", "hash": "36C2E90EA4B7F9D7", "target": "Ora puoi usare la <colortype(500)><edgecolortype(501)>aether compass<edgecolortype(0)><colortype(0)> per individuare le correnti eteree nelle nuove regioni! L'aether compass si trova sotto Collezione nella sezione Incarichi del menu principale." }
   ]
 }

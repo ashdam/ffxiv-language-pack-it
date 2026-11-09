@@ -2,7 +2,7 @@
   "conversation": "quest/043/AktKzh016_04311",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/043/AktKzh016_04311#TEXT_AKTKZH016_04311_SEQ_00", "hash": "AB2D1519A856638C", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Il ricercatore agitato cerca aiuto per rintracciare una creatura scomparsa." },
+    { "gameKey": "quest/043/AktKzh016_04311#TEXT_AKTKZH016_04311_SEQ_00", "hash": "AB2D1519A856638C", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Il ricercatore agitato cerca aiuto per rintracciare una creatura scomparsa." },
     { "gameKey": "quest/043/AktKzh016_04311#TEXT_AKTKZH016_04311_TODO_00", "hash": "EE19E46FD2D8A5F2", "target": "Catturare il charybdis a Peripeteia Krystalline" },
     { "gameKey": "quest/043/AktKzh016_04311#TEXT_AKTKZH016_04311_TODO_01", "hash": "C95E0FD84B52CD81", "target": "Consegnare il charybdis catturato al ricercatore agitato" },
     { "gameKey": "quest/043/AktKzh016_04311#TEXT_AKTKZH016_04311_HURRYOBSERVER04311_000_001", "hash": "29F7E6A9F31C6FCA", "target": "Ehi, tu! Ti prego, è urgentissimo. Un mio collega a Philomythes Notos mi ha appena mandato notizie molto preoccupanti." },
@@ -18,6 +18,6 @@
     { "gameKey": "quest/043/AktKzh016_04311#TEXT_AKTKZH016_04311_HURRYOBSERVER04311_000_021", "hash": "EA8F760DE28A32BE", "target": "Oh, che grande sollievo! È piuttosto sorprendente che non abbia riportato ferite davvero gravi... e ancora più sorprendente che sia riuscito a volare fino a Peripeteia Krystalline." },
     { "gameKey": "quest/043/AktKzh016_04311#TEXT_AKTKZH016_04311_HURRYOBSERVER04311_000_022", "hash": "8E8F193A93D56B1E", "target": "A quanto ho capito, aveva iniziato da poco a esercitarsi nel volo. Chi avrebbe pensato che potesse coprire una distanza simile con ali ancora tanto inesperte? Senza dubbio il merito va a Emet-Selch e ai suoi utili insegnamenti." },
     { "gameKey": "quest/043/AktKzh016_04311#TEXT_AKTKZH016_04311_HURRYOBSERVER04311_000_023", "hash": "E47592D6AF15C736", "target": "Be', io non vedo l'ora di vedere il charybdis prendere il volo dal suo posatoio. " },
-    { "gameKey": "quest/043/AktKzh016_04311#TEXT_AKTKZH016_04311_HURRYOBSERVER04311_000_024", "hash": "DE6DA4D8505575B4", "target": "Comunque, provvederò subito a riportare questa creatura ad Anagnorisis. Anche se non è molto, considerati i tuoi servigi, spero che non sia un premio troppo misero per te." }
+    { "gameKey": "quest/043/AktKzh016_04311#TEXT_AKTKZH016_04311_HURRYOBSERVER04311_000_024", "hash": "DE6DA4D8505575B4", "target": "Comunque, provvederò subito a riportare questa creatura ad Anagnorisi. Anche se non è molto, considerati i tuoi servigi, spero che non sia un premio troppo misero per te." }
   ]
 }

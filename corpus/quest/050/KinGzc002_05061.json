@@ -2,7 +2,7 @@
   "conversation": "quest/050/KinGzc002_05061",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_SEQ_00", "hash": "9C836BB759542217", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Zanuhanu giocherella nervosamente con gli artigli." },
+    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_SEQ_00", "hash": "9C836BB759542217", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Zanuhanu giocherella nervosamente con gli artigli." },
     { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_TODO_00", "hash": "95F50BE2BAE533F0", "target": "Esaminare il punto indicato e uccidere un marbled beetle per il suo guscio" },
     { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_TODO_01", "hash": "56E499B9B26D4AE0", "target": "Consegnare il marbled shell a Zanuhanu" },
     { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_000", "hash": "8257E1FBDF3DA039", "target": "Oh, non ne ho proprio abbastanza. Di questo passo non finirò mai..." },

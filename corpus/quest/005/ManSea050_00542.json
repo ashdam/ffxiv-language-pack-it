@@ -2,15 +2,15 @@
   "conversation": "quest/005/ManSea050_00542",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/005/ManSea050_00542#TEXT_MANSEA050_00542_200010_NARRATION", "hash": "4EF906361B36C965", "target": "" },
-    { "gameKey": "quest/005/ManSea050_00542#TEXT_MANSEA050_00542_200020_NARRATION", "hash": "66F38655A7513164", "target": "" },
-    { "gameKey": "quest/005/ManSea050_00542#TEXT_MANSEA050_00542_200030_NARRATION", "hash": "964CAEFD93683684", "target": "" },
-    { "gameKey": "quest/005/ManSea050_00542#TEXT_MANSEA050_00542_200040_NARRATION", "hash": "274CBA54633081F5", "target": "" },
-    { "gameKey": "quest/005/ManSea050_00542#TEXT_MANSEA050_00542_200050_NARRATION", "hash": "9D2C4C67E1808A80", "target": "" },
-    { "gameKey": "quest/005/ManSea050_00542#TEXT_MANSEA050_00542_200060_NARRATION", "hash": "AE36F5DFE255AEE7", "target": "" },
-    { "gameKey": "quest/005/ManSea050_00542#TEXT_MANSEA050_00542_200070_NARRATION", "hash": "4D2467F07A80CE23", "target": "" },
-    { "gameKey": "quest/005/ManSea050_00542#TEXT_MANSEA050_00542_200080_NARRATION", "hash": "18738A5BE13D486F", "target": "" },
-    { "gameKey": "quest/005/ManSea050_00542#TEXT_MANSEA050_00542_200090_NARRATION", "hash": "D6D64033288A819D", "target": "" },
-    { "gameKey": "quest/005/ManSea050_00542#TEXT_MANSEA050_00542_200100_NARRATION", "hash": "8FEC12A96A26EBCE", "target": "" }
+    { "gameKey": "quest/005/ManSea050_00542#TEXT_MANSEA050_00542_200010_NARRATION", "hash": "4EF906361B36C965", "target": "Durante la battaglia di Carteneau, mentre dal cielo piovevano fiamme..." },
+    { "gameKey": "quest/005/ManSea050_00542#TEXT_MANSEA050_00542_200020_NARRATION", "hash": "66F38655A7513164", "target": "L'arconte Louisoix invocò il potere del Custode e mandò gli altri eroi in una fenditura eterea, al riparo dalla devastazione." },
+    { "gameKey": "quest/005/ManSea050_00542#TEXT_MANSEA050_00542_200030_NARRATION", "hash": "964CAEFD93683684", "target": "Sono passati cinque anni da quel giorno fatale, da quando la Settima Era Umbrale ha cambiato per sempre il mondo. È giunto il momento che gli eroi tornino." },
+    { "gameKey": "quest/005/ManSea050_00542#TEXT_MANSEA050_00542_200040_NARRATION", "hash": "274CBA54633081F5", "target": "Su un'isola battuta dal vento, nell'angolo sud-occidentale del regno," },
+    { "gameKey": "quest/005/ManSea050_00542#TEXT_MANSEA050_00542_200050_NARRATION", "hash": "9D2C4C67E1808A80", "target": "tra le onde impetuose del Mare di Rhotano, sorge la città-stato marittima di Limsa Lominsa." },
+    { "gameKey": "quest/005/ManSea050_00542#TEXT_MANSEA050_00542_200060_NARRATION", "hash": "AE36F5DFE255AEE7", "target": "In questo rifugio di banditi e briganti, tagliagole e canaglie, meta di chi cerca libertà e fortuna, giunge <if(gnum4,un'avventuriera solitaria,un avventuriero solitario)>." },
+    { "gameKey": "quest/005/ManSea050_00542#TEXT_MANSEA050_00542_200070_NARRATION", "hash": "4D2467F07A80CE23", "target": "Arriva in solitudine, ma non è <if(gnum4,sola,solo)>: il suo arrivo ha attirato lo sguardo di Llymlaen, la dea patrona della nazione." },
+    { "gameKey": "quest/005/ManSea050_00542#TEXT_MANSEA050_00542_200080_NARRATION", "hash": "18738A5BE13D486F", "target": "Quale destino capace di sconvolgere il mondo avrà scorto nelle acque tumultuose del futuro di quest'anima mortale?" },
+    { "gameKey": "quest/005/ManSea050_00542#TEXT_MANSEA050_00542_200090_NARRATION", "hash": "D6D64033288A819D", "target": "Tra pericoli e avversità, scoperte e trionfi, che la Navigatrice guidi questa valorosa anima lungo il viaggio della vita..." },
+    { "gameKey": "quest/005/ManSea050_00542#TEXT_MANSEA050_00542_200100_NARRATION", "hash": "8FEC12A96A26EBCE", "target": "Finché il mare non ci inghiottirà tutti." }
   ]
 }

@@ -2,7 +2,7 @@
   "conversation": "quest/042/AktKza024_04203",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/042/AktKza024_04203#TEXT_AKTKZA024_04203_SEQ_00", "hash": "A8BB4B662E0ED00B", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Jalamuc è preoccupato per una collega." },
+    { "gameKey": "quest/042/AktKza024_04203#TEXT_AKTKZA024_04203_SEQ_00", "hash": "A8BB4B662E0ED00B", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Jalamuc è preoccupato per una collega." },
     { "gameKey": "quest/042/AktKza024_04203#TEXT_AKTKZA024_04203_TODO_00", "hash": "C14AA64FF70E9FE6", "target": "Parlare con black-haired Hyur" },
     { "gameKey": "quest/042/AktKza024_04203#TEXT_AKTKZA024_04203_TODO_01", "hash": "6AE438F4AC9A05BA", "target": "Esaminare i luoghi indicati" },
     { "gameKey": "quest/042/AktKza024_04203#TEXT_AKTKZA024_04203_TODO_02", "hash": "DBA94C48C0176BA7", "target": "Parlare con black-haired Hyur" },
@@ -24,7 +24,7 @@
     { "gameKey": "quest/042/AktKza024_04203#TEXT_AKTKZA024_04203_BLACKHAIRHYURAN_000_015", "hash": "76FEEFEFAAF422CC", "target": "Siete proprio voi!? E io vi facevo fare lavori da nulla! Se l'avessi saputo, io..." },
     { "gameKey": "quest/042/AktKza024_04203#TEXT_AKTKZA024_04203_BLACKHAIRHYURAN_000_016", "hash": "F67646A8937060DF", "target": "Ho sempre ammirato chi viaggia come voi. Dovete sapere che un tempo studiavo danza sotto la guida della maestra Nashmeira. Volevo conoscere il mondo viaggiando per esibirmi." },
     { "gameKey": "quest/042/AktKza024_04203#TEXT_AKTKZA024_04203_BLACKHAIRHYURAN_000_017", "hash": "1E74F65D04FA3319", "target": "E forse posso ancora farlo. Come alchimista, naturalmente, e non come danzatrice!" },
-    { "gameKey": "quest/042/AktKza024_04203#TEXT_AKTKZA024_04203_BLACKHAIRHYURAN_000_018", "hash": "7AF01CBE2ED425B6", "target": "Oh, ma dobbiamo tornare in fretta alla Great Work. Non voglio causare altri problemi oltre a quelli che ho già creato." },
+    { "gameKey": "quest/042/AktKza024_04203#TEXT_AKTKZA024_04203_BLACKHAIRHYURAN_000_018", "hash": "7AF01CBE2ED425B6", "target": "Oh, ma dobbiamo tornare in fretta alla Grande Opera. Non voglio causare altri problemi oltre a quelli che ho già creato." },
     { "gameKey": "quest/042/AktKza024_04203#TEXT_AKTKZA024_04203_JALAMUC_000_019", "hash": "BDEDD52A512A74DC", "target": "Ah, eccovi! Ho saputo che avete aiutato la mia collega a controllare il palco, mentre eravate fuori. Ve ne siamo davvero grati." },
     { "gameKey": "quest/042/AktKza024_04203#TEXT_AKTKZA024_04203_JALAMUC_000_020", "hash": "E30298E493C50EAE", "target": "Ammira molto le persone come voi, sapete. Una brutta ferita le ha tolto la possibilità di diventare danzatrice, e ora lavora come alchimista per curare i malati e i feriti." },
     { "gameKey": "quest/042/AktKza024_04203#TEXT_AKTKZA024_04203_JALAMUC_000_021", "hash": "4B3DEB0B2C536F8E", "target": "Era così felice di conoscervi, e lo sono anch'io. Tenete. Un segno della nostra gratitudine." }

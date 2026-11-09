@@ -2,19 +2,19 @@
   "conversation": "quest/010/GaiUsc911_01046",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_SEQ_00", "hash": "A9EB5E32CA68F14A", "target": "" },
-    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_SEQ_01", "hash": "50DFA86C7B9F2B19", "target": "" },
-    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_SEQ_02", "hash": "48F69C5E32CB13B4", "target": "" },
-    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_SEQ_03", "hash": "37487C77548B78F1", "target": "" },
-    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_TODO_00", "hash": "2773D036D32AB473", "target": "" },
-    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_TODO_01", "hash": "85F5CFE6549BCB6A", "target": "" },
-    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_TODO_02", "hash": "D21E1F85022EF028", "target": "" },
-    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_EDELSTEIN_000_000", "hash": "23C5AED8C5F7A09C", "target": "" },
-    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_EDELSTEIN_000_001", "hash": "A0303C3934A97401", "target": "" },
-    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_EDELSTEIN_000_002", "hash": "3FC09AC47B3DE93D", "target": "" },
-    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_EDELSTEIN_000_003", "hash": "379FD7BC7681C48C", "target": "" },
-    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_TODO_000_000", "hash": "A296F8EBD7414CA9", "target": "" },
-    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_RAUBAHN_000_010", "hash": "D0EC4A6023F3AEC1", "target": "" },
-    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_RAUBAHN_000_011", "hash": "E4DC8972DB512A79", "target": "" }
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_SEQ_00", "hash": "A9EB5E32CA68F14A", "target": "Il tenente Edelstein ha una richiesta urgente prima della prossima fase dell'operazione." },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_SEQ_01", "hash": "50DFA86C7B9F2B19", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Questa missione è stata modificata. Abbandonala e ricomincia parlando con il tenente Edelstein all'Impianto di Raffinazione del Ceruleo.<edgecolortype(0)><colortype(0)><br><br>※La Guida dello Scenario Principale mostra la prossima missione disponibile. Puoi attivarla o disattivarla in Configurazione Personaggio, alla voce Impostazioni Interfaccia." },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_SEQ_02", "hash": "48F69C5E32CB13B4", "target": "Hai ridotto a sufficienza la presenza imperiale all'Avanzata di Raubahn. Raggiungi il punto di raccolta dell'operazione e presentati a Raubahn." },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_SEQ_03", "hash": "37487C77548B78F1", "target": "Trovi il Generale della Fiamma in piedi all'ombra di Castrum Meridianum. La battaglia finale per il futuro di Eorzea sta per iniziare." },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_TODO_00", "hash": "2773D036D32AB473", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Questa missione è stata modificata. Abbandonala e ricomincia parlando con il tenente Edelstein all'Impianto di Raffinazione del Ceruleo.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_TODO_01", "hash": "85F5CFE6549BCB6A", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Questa missione è stata modificata. Abbandonala e ricomincia parlando con il tenente Edelstein all'Impianto di Raffinazione del Ceruleo.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_TODO_02", "hash": "D21E1F85022EF028", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Questa missione è stata modificata. Abbandonala e ricomincia parlando con il tenente Edelstein all'Impianto di Raffinazione del Ceruleo.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_EDELSTEIN_000_000", "hash": "23C5AED8C5F7A09C", "target": "Poco fa il Generale della Fiamma si è diretto verso Castrum Meridianum. Purtroppo, non appena il suo contingente ha raggiunto la linea di resistenza, una pattuglia imperiale li ha assaliti." },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_EDELSTEIN_000_001", "hash": "A0303C3934A97401", "target": "Ci hanno riferito che sono riusciti a passare, ma le pattuglie nemiche indugiano ancora nella zona. Il nostro esercito principale potrebbe facilmente schiacciarle, senza dubbio, ma non osiamo schierarlo in questo frangente per non destare troppo presto il vespaio." },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_EDELSTEIN_000_002", "hash": "3FC09AC47B3DE93D", "target": "Affinché l'operazione possa procedere senza ostacoli, vorrei che riducessi la presenza imperiale all'Avanzata di Raubahn. Dovrebbe bastare sconfiggere tre Vanguard e tre soldati imperiali." },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_EDELSTEIN_000_003", "hash": "379FD7BC7681C48C", "target": "Una volta compiuto ciò, raggiungi il Generale della Fiamma al punto di raccolta dell'operazione. Che Rhalgr ti dia la forza!" },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_TODO_000_000", "hash": "A296F8EBD7414CA9", "target": "Sconfiggi tre Vanguard magitec e tre soldati imperiali." },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_RAUBAHN_000_010", "hash": "D0EC4A6023F3AEC1", "target": "Vedo che hai liberato la strada per l'esercito principale. Grazie. Avrei potuto affidare il compito a qualcun altro invece di rischiare la tua vita prima della missione, ma ormai è fatto. Del resto, probabilmente ti è servito a sgranchirti le ossa." },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_RAUBAHN_000_011", "hash": "E4DC8972DB512A79", "target": "Ci siamo, <split(<string(gstr1)>, ,1)>: il momento della resa dei conti. Il futuro di Eorzea dipende da ciò che faremo oggi." }
   ]
 }

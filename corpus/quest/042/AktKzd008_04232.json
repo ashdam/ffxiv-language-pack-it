@@ -2,7 +2,7 @@
   "conversation": "quest/042/AktKzd008_04232",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/042/AktKzd008_04232#TEXT_AKTKZD008_04232_SEQ_00", "hash": "100C7843F0374901", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Una donna dai vistosi capelli blu cerca il figlio, scomparso senza lasciare traccia." },
+    { "gameKey": "quest/042/AktKzd008_04232#TEXT_AKTKZD008_04232_SEQ_00", "hash": "100C7843F0374901", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Una donna dai vistosi capelli blu cerca il figlio, scomparso senza lasciare traccia." },
     { "gameKey": "quest/042/AktKzd008_04232#TEXT_AKTKZD008_04232_TODO_00", "hash": "168F4D53DF1E7CFB", "target": "Cercare l'azure-haired boy" },
     { "gameKey": "quest/042/AktKzd008_04232#TEXT_AKTKZD008_04232_TODO_01", "hash": "C1E77C895A0D8737", "target": "Cercare nel luogo indicato e seguire l'azure-haired boy" },
     { "gameKey": "quest/042/AktKzd008_04232#TEXT_AKTKZD008_04232_TODO_02", "hash": "FF14D9B346AC1727", "target": "Seguire l'azure-haired boy e sconfiggere i nemici che lo minacciano" },
@@ -32,7 +32,7 @@
     { "gameKey": "quest/042/AktKzd008_04232#TEXT_AKTKZD008_04232_BLUEHAIRBOY04232_000_023", "hash": "EF8EE3B08B1A2CF8", "target": "Ma la mamma è preoccupata. Dovrei tornare. Alla stazione." },
     { "gameKey": "quest/042/AktKzd008_04232#TEXT_AKTKZD008_04232_BLUEHAIRMOTHER04232_000_025", "hash": "D659BB6D113B597F", "target": "Mi chiedevo quando avrei avuto occasione di rivedervi. Sono lieta di dirvi che mio figlio è tornato. Povero piccolo... Dovevate vederlo: le lacrime gli rigavano le guance mentre mi chiedeva scusa piangendo. So che l'avete trovato voi, anche se non me ne ha detto una parola." },
     { "gameKey": "quest/042/AktKzd008_04232#TEXT_AKTKZD008_04232_BLUEHAIRMOTHER04232_000_026", "hash": "72449A9DB5BA6CDB", "target": "Quasi non credevo alle mie orecchie quando ha detto che non gli dispiacerebbe trasferirsi al vostro campo. Solo poche ore fa non ne voleva sapere. Chissà cos'è successo?" },
-    { "gameKey": "quest/042/AktKzd008_04232#TEXT_AKTKZD008_04232_BLUEHAIRMOTHER04232_000_027", "hash": "BBAFBC80D212EF7D", "target": "Come? È stato aggredito? Da quell'orribile magitek, dite? Cielo, dev'essere stato uno spavento tremendo per il mio ometto. Grazie di averlo salvato." },
+    { "gameKey": "quest/042/AktKzd008_04232#TEXT_AKTKZD008_04232_BLUEHAIRMOTHER04232_000_027", "hash": "BBAFBC80D212EF7D", "target": "Come? È stato aggredito? Da quell'orribile magitec, dite? Cielo, dev'essere stato uno spavento tremendo per il mio ometto. Grazie di averlo salvato." },
     { "gameKey": "quest/042/AktKzd008_04232#TEXT_AKTKZD008_04232_BLUEHAIRMOTHER04232_000_028", "hash": "BED7501D764DE27A", "target": "Da tutto questo, però, può ricavare una buona lezione, e spero che se la ricordi. Quando si ha bisogno, non si respinge una mano tesa, che sia amica o nemica. Comunque, grazie di averlo trovato. Non è molto, ma vi prego, insisto." }
   ]
 }

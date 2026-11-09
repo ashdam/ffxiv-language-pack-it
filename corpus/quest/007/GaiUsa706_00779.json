@@ -3,8 +3,8 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_SEQ_00", "hash": "1B20FF37E1F05268", "target": "Hremfing ha bisogno del tuo aiuto per eliminare dei briganti." },
-    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_SEQ_01", "hash": "EC14BA62E07F0040", "target": "Una banda di fuorilegge particolarmente odiosa, nota come Brigata dei Cadaveri, si è insediata vicino a Little Ala Mhigo. Vai a nord-est dell'insediamento e abbatti tutti i ladri che incontri." },
-    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_SEQ_02", "hash": "24A44B003FDCF2D2", "target": "Hai sfoltito i ranghi della Brigata dei Cadaveri e dimostrato che gli abitanti di Little Ala Mhigo non tollereranno la sua malvagità. Riferisci il successo a Hremfing." },
+    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_SEQ_01", "hash": "EC14BA62E07F0040", "target": "Una banda di fuorilegge particolarmente odiosa, nota come Brigata dei Cadaveri, si è insediata vicino a Piccola Ala Mhigo. Vai a nord-est dell'insediamento e abbatti tutti i ladri che incontri." },
+    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_SEQ_02", "hash": "24A44B003FDCF2D2", "target": "Hai sfoltito i ranghi della Brigata dei Cadaveri e dimostrato che gli abitanti di Piccola Ala Mhigo non tollereranno la sua malvagità. Riferisci il successo a Hremfing." },
     { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_SEQ_03", "hash": "01429D6106D1A88C", "target": "Gli uomini e le donne della Brigata dei Cadaveri erano alamighesi onorevoli, prima di degenerare in una banda di piccoli ladri. Pur non senza pietà per i compatrioti, Hremfing farà tutto il necessario perché non infanghino il nome della patria." },
     { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_TODO_00", "hash": "C8EBF905A3B8CAAD", "target": "Uccidere i banditi della Brigata dei Cadaveri" },
     { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_TODO_01", "hash": "CBF4DE6587FAC61A", "target": "Fare rapporto a Hremfing" },

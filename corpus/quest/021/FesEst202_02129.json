@@ -23,7 +23,7 @@
     { "gameKey": "quest/021/FesEst202_02129#TEXT_FESEST202_02129_EGGHUNTINGSTAFFB02129_100_013", "hash": "3B07EDCA124EE983", "target": "Vi ringrazio di essere <if(gnum4,venuta,venuto)> fin qui, ma sembra che siate a mani vuote! Tornate dalla mia mentore a prendere una decorazione festiva." },
     { "gameKey": "quest/021/FesEst202_02129#TEXT_FESEST202_02129_EGGHUNTINGSTAFFB02129_000_013", "hash": "3DF4B2F458BE44C7", "target": "Mi avete trovato! Gli spriggan non vi hanno dato troppi problemi, vero? Potete fare rapporto alla ragazza uov... ehm, uov... entusiasta all'anfiteatro." },
     { "gameKey": "quest/021/FesEst202_02129#TEXT_FESEST202_02129_EGGHUNTINGSTAFFB02129_000_014", "hash": "42F902C5C1C0F3EB", "target": "Ehm, un lavoro uovemplare, <if(gnum4,signora,signore)>! ...Uff, non è facile come sembra." },
-    { "gameKey": "quest/021/FesEst202_02129#TEXT_FESEST202_02129_EGGHUNTINGSTAFFA02129_000_020", "hash": "4EDD142A4DD71942", "target": "Il mio collega Sognatore mi ha detto via linkpearl che gli avete consegnato la decorazione. Ben fatto! Ecco a voi il premio!" },
+    { "gameKey": "quest/021/FesEst202_02129#TEXT_FESEST202_02129_EGGHUNTINGSTAFFA02129_000_020", "hash": "4EDD142A4DD71942", "target": "Il mio collega Sognatore mi ha detto via fonoperla che gli avete consegnato la decorazione. Ben fatto! Ecco a voi il premio!" },
     { "gameKey": "quest/021/FesEst202_02129#TEXT_FESEST202_02129_EGGHUNTINGSTAFFA02129_000_021", "hash": "6F38C2CDB60073D1", "target": "Fatemi sapere se volete imbarcarvi in una nuova uoventura di consegne!" }
   ]
 }

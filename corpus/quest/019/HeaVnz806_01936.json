@@ -6,7 +6,7 @@
     { "gameKey": "quest/019/HeaVnz806_01936#TEXT_HEAVNZ806_01936_SEQ_01", "hash": "7F8478E9C1E2E091", "target": "Tapklix ti accusa di essere al servizio degli Illuminati per compiere furti. Non vuole ascoltare le tue parole e insiste perché siano le azioni a dimostrare la tua innocenza: trova ed elimina una pattuglia degli Illuminati." },
     { "gameKey": "quest/019/HeaVnz806_01936#TEXT_HEAVNZ806_01936_SEQ_02", "hash": "660BF5DCC4854DE3", "target": "Fermi la pattuglia e non lasci superstiti. Tuttavia, percepisci altri Illuminati nascosti nei paraggi. Trovali ed eliminali." },
     { "gameKey": "quest/019/HeaVnz806_01936#TEXT_HEAVNZ806_01936_SEQ_03", "hash": "71B6694DCCF90F4E", "target": "Hai eliminato gli ultimi Illuminati. Ora che è chiaro da che parte stai, torna da Tapklix." },
-    { "gameKey": "quest/019/HeaVnz806_01936#TEXT_HEAVNZ806_01936_SEQ_04", "hash": "266EA7644E7D4577", "target": "Tapklix è felice di averti visto combattere gli Illuminati. Seguendo l'antica logica secondo cui il nemico del suo nemico è suo amico, conclude che i goblin di Idyllshire possono contare sulla tua sincera amicizia." },
+    { "gameKey": "quest/019/HeaVnz806_01936#TEXT_HEAVNZ806_01936_SEQ_04", "hash": "266EA7644E7D4577", "target": "Tapklix è felice di averti visto combattere gli Illuminati. Seguendo l'antica logica secondo cui il nemico del suo nemico è suo amico, conclude che i goblin di Borgopace possono contare sulla tua sincera amicizia." },
     { "gameKey": "quest/019/HeaVnz806_01936#TEXT_HEAVNZ806_01936_TODO_00", "hash": "A027D9829CE34570", "target": "Uccidere le pattuglie degli Illuminati nell'area indicata" },
     { "gameKey": "quest/019/HeaVnz806_01936#TEXT_HEAVNZ806_01936_TODO_01", "hash": "E6A7B6C17B0A1ECA", "target": "Uccidere gli Illuminati nell'altra area indicata" },
     { "gameKey": "quest/019/HeaVnz806_01936#TEXT_HEAVNZ806_01936_TODO_02", "hash": "7A4AF077837FAE52", "target": "Fare rapporto a Tapklix" },
@@ -22,7 +22,7 @@
     { "gameKey": "quest/019/HeaVnz806_01936#TEXT_HEAVNZ806_01936_BALLOON_000_120", "hash": "BA38A3B13BE5EEF3", "target": "Pshhh... Shkohhh...<br>Ti taglio a pezzi!" },
     { "gameKey": "quest/019/HeaVnz806_01936#TEXT_HEAVNZ806_01936_BALLOON_000_125", "hash": "E652D0984C4053BB", "target": "Pshhh... Shkohhh...<br>Ti taglio a strisce!" },
     { "gameKey": "quest/019/HeaVnz806_01936#TEXT_HEAVNZ806_01936_TAPKLIX_000_030", "hash": "CED7A713768D5E85", "target": "Pshhh... Shkohhh...<br>Hai ucciso forzalotta degli Illuminati! Tu sei <if(gnum4,vera amicagoblin,vero amicogoblin)>." },
-    { "gameKey": "quest/019/HeaVnz806_01936#TEXT_HEAVNZ806_01936_TAPKLIX_000_031", "hash": "C2C404B6333D1AED", "target": "Le cose qui sono per tutta la gente di Idyllshire. Ma Illuminati provano a rubarle!" },
+    { "gameKey": "quest/019/HeaVnz806_01936#TEXT_HEAVNZ806_01936_TAPKLIX_000_031", "hash": "C2C404B6333D1AED", "target": "Le cose qui sono per tutta la gente di Borgopace. Ma Illuminati provano a rubarle!" },
     { "gameKey": "quest/019/HeaVnz806_01936#TEXT_HEAVNZ806_01936_TAPKLIX_000_032", "hash": "370FE94D5E74224C", "target": "Illuminati sono nostro nemico. Illuminati sono tuo nemico. Vuol dire che tu sei <if(gnum4,nostra amica,nostro amico)>!" }
   ]
 }

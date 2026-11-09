@@ -2,7 +2,7 @@
   "conversation": "quest/034/LucKzf012_03471",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKzf012_03471#TEXT_LUCKZF012_03471_SEQ_00", "hash": "488551B2A6487624", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>La cacciatrice spensierata non vede l'ora di vedere di che cosa sei capace." },
+    { "gameKey": "quest/034/LucKzf012_03471#TEXT_LUCKZF012_03471_SEQ_00", "hash": "488551B2A6487624", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>La cacciatrice spensierata non vede l'ora di vedere di che cosa sei capace." },
     { "gameKey": "quest/034/LucKzf012_03471#TEXT_LUCKZF012_03471_TODO_00", "hash": "533A6BB1012B61A4", "target": "Parlare con la cacciatrice spensierata" },
     { "gameKey": "quest/034/LucKzf012_03471#TEXT_LUCKZF012_03471_TODO_01", "hash": "4AEF2C09403FDBD0", "target": "Usare il leather sack su un Greatwood rail indebolito" },
     { "gameKey": "quest/034/LucKzf012_03471#TEXT_LUCKZF012_03471_TODO_02", "hash": "9517AE8E59A1AE8A", "target": "Consegnare il bulging leather sack alla cacciatrice spensierata" },
@@ -17,7 +17,7 @@
     { "gameKey": "quest/034/LucKzf012_03471#TEXT_LUCKZF012_03471_VIISHUNTER03471_000_032", "hash": "6F909BF9FE42DDE2", "target": "Sì, una preda simile merita una ricompensa. Incontrami a Fanow e farò in modo di ripagare i tuoi sforzi." },
     { "gameKey": "quest/034/LucKzf012_03471#TEXT_LUCKZF012_03471_VIISHUNTER03471_000_040", "hash": "01F84FA53EE6EB5A", "target": "Per te, grande <if(gnum4,cacciatrice,cacciatore)> e <if(gnum4,alleata,alleato)> di Ronka." },
     { "gameKey": "quest/034/LucKzf012_03471#TEXT_LUCKZF012_03471_VIISHUNTER03471_000_041", "hash": "0D968B98C889B87D", "target": "Porterò questo ad Almet e..." },
-    { "gameKey": "quest/034/LucKzf012_03471#TEXT_LUCKZF012_03471_VIISHUNTER03471_000_042", "hash": "DC673B19BDA533D4", "target": "\\<sussulto> Chiederà dov'è la <italic(1)>mia<italic(0)> preda!" },
+    { "gameKey": "quest/034/LucKzf012_03471#TEXT_LUCKZF012_03471_VIISHUNTER03471_000_042", "hash": "DC673B19BDA533D4", "target": "\\<gasp> Chiederà dov'è la <italic(1)>mia<italic(0)> preda!" },
     { "gameKey": "quest/034/LucKzf012_03471#TEXT_LUCKZF012_03471_VIISHUNTER03471_000_043", "hash": "33EF1366D943033F", "target": "Che sciocca sono. Avrei dovuto cacciare con te. Forse, se ne caccio quattro e li offro insieme al tuo..." }
   ]
 }

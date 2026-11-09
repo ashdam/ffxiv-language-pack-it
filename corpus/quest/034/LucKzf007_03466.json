@@ -2,7 +2,7 @@
   "conversation": "quest/034/LucKzf007_03466",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKzf007_03466#TEXT_LUCKZF007_03466_SEQ_00", "hash": "8F497B6E0E9389A3", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Questa discreta abitante Viis sembra averti già <if(gnum4,vista,visto)> da qualche parte." },
+    { "gameKey": "quest/034/LucKzf007_03466#TEXT_LUCKZF007_03466_SEQ_00", "hash": "8F497B6E0E9389A3", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Questa discreta abitante Viis sembra averti già <if(gnum4,vista,visto)> da qualche parte." },
     { "gameKey": "quest/034/LucKzf007_03466#TEXT_LUCKZF007_03466_TODO_00", "hash": "FA6FC77006484DFE", "target": "Parlare con l'abitante Viis discreta" },
     { "gameKey": "quest/034/LucKzf007_03466#TEXT_LUCKZF007_03466_TODO_01", "hash": "B80479A0A35B59A2", "target": "Seguire l'abitante Viis discreta" },
     { "gameKey": "quest/034/LucKzf007_03466#TEXT_LUCKZF007_03466_FRIENDLYVIIS03466_000_000", "hash": "D748F06DE2021027", "target": "Tu... non può essere... Sei...!?" },
@@ -10,7 +10,7 @@
     { "gameKey": "quest/034/LucKzf007_03466#TEXT_LUCKZF007_03466_FRIENDLYVIIS03466_000_002", "hash": "FF7B56D9D3D58B80", "target": "Forse anche tu viaggi? Chiunque intraprenda quella strada ha un modo di fare particolare. Devi conoscere bene il mondo fuori dal bosco. Ti prego, potresti rallegrarmi con una storia o due?" },
     { "gameKey": "quest/034/LucKzf007_03466#TEXT_LUCKZF007_03466_FRIENDLYVIIS03466_100_002", "hash": "5AD1B5A99E4BD671", "target": "Ahah, una scelta saggia. Sapevi che non mi sarei fermata a due. Be', se ti trovi senza nulla da fare e hai voglia di raccontare, sarò qui." },
     { "gameKey": "quest/034/LucKzf007_03466#TEXT_LUCKZF007_03466_FRIENDLYVIIS03466_110_002", "hash": "73DFAB4CA58625F3", "target": "Accetti!? Oh, grazie mille. In questi giorni ho tanta fame di divertimento." },
-    { "gameKey": "quest/034/LucKzf007_03466#TEXT_LUCKZF007_03466_FRIENDLYVIIS03466_000_003", "hash": "F583E3C3AE2674F6", "target": "Ho sentito dire che Lakeland è stata abbandonata. Una volta ho sentito il nome della nuova dimora degli elfi, ma proprio non riesco a ricordarlo." },
+    { "gameKey": "quest/034/LucKzf007_03466#TEXT_LUCKZF007_03466_FRIENDLYVIIS03466_000_003", "hash": "F583E3C3AE2674F6", "target": "Ho sentito dire che Terralago è stata abbandonata. Una volta ho sentito il nome della nuova dimora degli elfi, ma proprio non riesco a ricordarlo." },
     { "gameKey": "quest/034/LucKzf007_03466#TEXT_LUCKZF007_03466_Q1_000_000", "hash": "422D30B7359375B2", "target": "Che cosa dirai?" },
     { "gameKey": "quest/034/LucKzf007_03466#TEXT_LUCKZF007_03466_A1_000_001", "hash": "9B60D78918676718", "target": "Parli del Crystarium." },
     { "gameKey": "quest/034/LucKzf007_03466#TEXT_LUCKZF007_03466_A1_000_002", "hash": "956492B04EF23776", "target": "Stai pensando a Eulmore?" },

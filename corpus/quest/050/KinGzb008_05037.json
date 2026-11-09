@@ -2,7 +2,7 @@
   "conversation": "quest/050/KinGzb008_05037",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzb008_05037#TEXT_KINGZB008_05037_SEQ_00", "hash": "25F5E7B46833B3C8", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Tsabli è perplesso da un enigma sul caffè." },
+    { "gameKey": "quest/050/KinGzb008_05037#TEXT_KINGZB008_05037_SEQ_00", "hash": "25F5E7B46833B3C8", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Tsabli è perplesso da un enigma sul caffè." },
     { "gameKey": "quest/050/KinGzb008_05037#TEXT_KINGZB008_05037_TODO_00", "hash": "B5E7486D1B420CCF", "target": "Lanciare lo smoke bomb repellent contro il cautious mountain bear" },
     { "gameKey": "quest/050/KinGzb008_05037#TEXT_KINGZB008_05037_TODO_01", "hash": "42BE279D8F1074A9", "target": "Ispezionare i cumuli di terra marrone" },
     { "gameKey": "quest/050/KinGzb008_05037#TEXT_KINGZB008_05037_TODO_02", "hash": "169ADF0123BBBA76", "target": "Consegnare i soiled coffee beans a Tsabli" },
@@ -19,7 +19,7 @@
     { "gameKey": "quest/050/KinGzb008_05037#TEXT_KINGZB008_05037_SYSTEM_000_017", "hash": "C9417E49B27A51B0", "target": "Il fetore che emana da questo cumulo di terra è un vero assalto alle narici. Ma perseveri in nome del caffè delizioso e vi infili le mani per recuperare un ultimo ammasso di chicchi." },
     { "gameKey": "quest/050/KinGzb008_05037#TEXT_KINGZB008_05037_TSABLI_000_020", "hash": "010EF8BE8E05E90E", "target": "Magnifico, <if(gnum4,sei tornata,sei tornato)>! Sono felice che tu abbia ancora tutti gli arti! Ah, ma dimmi, sei <if(gnum4,riuscita,riuscito)> a trovare altri di quei meravigliosi chicchi di caffè?" },
     { "gameKey": "quest/050/KinGzb008_05037#TEXT_KINGZB008_05037_TSABLI_000_021", "hash": "4864B251529F0D83", "target": "Meraviglioso, grazie! Ah, ma sembrano ricoperti di... è terra?" },
-    { "gameKey": "quest/050/KinGzb008_05037#TEXT_KINGZB008_05037_TSABLI_000_022", "hash": "1C59D6DB4BEACD6F", "target": "Mmm. Be', questo sembra sterco. Questo spiegherebbe... \\<sussulto> Aha!" },
+    { "gameKey": "quest/050/KinGzb008_05037#TEXT_KINGZB008_05037_TSABLI_000_022", "hash": "1C59D6DB4BEACD6F", "target": "Mmm. Be', questo sembra sterco. Questo spiegherebbe... \\<gasp> Aha!" },
     { "gameKey": "quest/050/KinGzb008_05037#TEXT_KINGZB008_05037_TSABLI_000_023", "hash": "B7BCEDB99941100F", "target": "Essendo onnivori, gli orsi di montagna si nutrono sia di piante che di animali. Senza che lo sapessimo, però, sembra che abbiano preso gusto alle nostre piante di caffè e le mangiucchino di nascosto." },
     { "gameKey": "quest/050/KinGzb008_05037#TEXT_KINGZB008_05037_TSABLI_000_024", "hash": "ECBC03255C875F11", "target": "Ma poiché i chicchi sono difficili da digerire, restano interi negli escrementi degli orsi." },
     { "gameKey": "quest/050/KinGzb008_05037#TEXT_KINGZB008_05037_TSABLI_000_025", "hash": "569B6883DD101954", "target": "Sospetto che, dentro i loro stomaci, i sapori e i profumi delle piante e dei frutti che gli orsi mangiano di solito penetrino nei chicchi, attenuandone l'amarezza e dando loro un gusto dolce e fruttato." },

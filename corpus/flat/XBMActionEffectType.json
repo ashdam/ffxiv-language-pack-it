@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "XBMActionEffectType#0", "hash": "DD78C00FA37E8BB8", "target": "???" },
-    { "gameKey": "XBMActionEffectType#1", "hash": "97FD05EBE77834E9", "target": "Bersaglio singolo" },
+    { "gameKey": "XBMActionEffectType#1", "hash": "97FD05EBE77834E9", "target": "Bersaglio Singolo" },
     { "gameKey": "XBMActionEffectType#2", "hash": "29EF2B3B285ED33A", "target": "Frontale" },
     { "gameKey": "XBMActionEffectType#3", "hash": "9A34F5F51F9AA4ED", "target": "Posteriore" },
     { "gameKey": "XBMActionEffectType#4", "hash": "C730E46A999DF143", "target": "Frontale/Posteriore" },

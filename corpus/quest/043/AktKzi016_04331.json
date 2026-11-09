@@ -2,7 +2,7 @@
   "conversation": "quest/043/AktKzi016_04331",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/043/AktKzi016_04331#TEXT_AKTKZI016_04331_SEQ_00", "hash": "5364FF0A3531422A", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>A'naidjaa non vede l'ora di celebrare le meraviglie degli skatene." },
+    { "gameKey": "quest/043/AktKzi016_04331#TEXT_AKTKZI016_04331_SEQ_00", "hash": "5364FF0A3531422A", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>A'naidjaa non vede l'ora di celebrare le meraviglie degli skatene." },
     { "gameKey": "quest/043/AktKzi016_04331#TEXT_AKTKZI016_04331_TODO_00", "hash": "0812CFED3CA2FBBE", "target": "Parlare con l'esperta di famigli" },
     { "gameKey": "quest/043/AktKzi016_04331#TEXT_AKTKZI016_04331_TODO_01", "hash": "BB6985667985A574", "target": "Usare /pet sullo skatene di guardia" },
     { "gameKey": "quest/043/AktKzi016_04331#TEXT_AKTKZI016_04331_TODO_02", "hash": "56F536961E50391F", "target": "Usare gli skatene eye drops sullo skatene vigile" },
@@ -15,7 +15,7 @@
     { "gameKey": "quest/043/AktKzi016_04331#TEXT_AKTKZI016_04331_ANAIDJAA_000_005", "hash": "09C27BF400A02108", "target": "Vicino all'ingresso più a nord troverai la custode degli skatene. Sarà più che felice di presentarti i nostri fedeli gufi di guardia." },
     { "gameKey": "quest/043/AktKzi016_04331#TEXT_AKTKZI016_04331_ANAIDJAA_000_006", "hash": "93C58C897170358F", "target": "Gli skatene hanno vista e mente acute, e si affezioneranno a te quando sapranno di potersi fidare. Se però ti scambiano per un comune criminale, le conseguenze saranno davvero terribili. Con un po' di fortuna, si limiteranno a cavarti gli occhi." },
     { "gameKey": "quest/043/AktKzi016_04331#TEXT_AKTKZI016_04331_SUPERVISOR04331_000_007", "hash": "C7F1651FE4C9776A", "target": "..." },
-    { "gameKey": "quest/043/AktKzi016_04331#TEXT_AKTKZI016_04331_MAGUS04331_000_010", "hash": "8C2FC8BF2FB902A4", "target": "Sei qui per il collirio, dunque? Ho saputo tutto del piccolo esercizio di oggi da A'naidjaa: mi ha chiamata via linkpearl, vedi." },
+    { "gameKey": "quest/043/AktKzi016_04331#TEXT_AKTKZI016_04331_MAGUS04331_000_010", "hash": "8C2FC8BF2FB902A4", "target": "Sei qui per il collirio, dunque? Ho saputo tutto del piccolo esercizio di oggi da A'naidjaa: mi ha chiamata via fonoperla, vedi." },
     { "gameKey": "quest/043/AktKzi016_04331#TEXT_AKTKZI016_04331_MAGUS04331_000_011", "hash": "8977EA7BFF867C10", "target": "Ho detto a questa vecchia pennuta cosa sta per succedere, ma sembra ancora un po' in guardia. Forse è meglio che la calmi tu. Usa delicatamente <colortype(500)><edgecolortype(501)>pet<edgecolortype(0)><colortype(0)> su di lei: dovrebbe distenderle le piume, in senso figurato e letterale." },
     { "gameKey": "quest/043/AktKzi016_04331#TEXT_AKTKZI016_04331_ANAIDJAA_000_012", "hash": "9071252429782785", "target": "Come sta andando? Bene, spero?" },
     { "gameKey": "quest/043/AktKzi016_04331#TEXT_AKTKZI016_04331_SUPERVISOR04331_000_012", "hash": "13A0102682110B4F", "target": "..." },

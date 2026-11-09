@@ -2,7 +2,7 @@
   "conversation": "quest/033/LucKza025_03367",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_SEQ_00", "hash": "AD59054968635FFA", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Lamon ha un lavoro da fare e spera che lo farai tu al posto suo." },
+    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_SEQ_00", "hash": "AD59054968635FFA", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Lamon ha un lavoro da fare e spera che lo farai tu al posto suo." },
     { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_TODO_00", "hash": "A8E4C03FDE6FBCB9", "target": "Usare il brass siphon sulla pianta succulenta gigante" },
     { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_TODO_01", "hash": "43A55AAE87830934", "target": "Consegnare le sweet-smelling succulent secretions a Lamon" },
     { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_LAMON_000_000", "hash": "EC157521191BF2ED", "target": "Cerchi lavoro, per caso?" },

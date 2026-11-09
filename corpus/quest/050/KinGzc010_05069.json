@@ -2,7 +2,7 @@
   "conversation": "quest/050/KinGzc010_05069",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzc010_05069#TEXT_KINGZC010_05069_SEQ_00", "hash": "CA5DF68357F9ED92", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>A Lonuhali servono gambe veloci per una consegna urgente." },
+    { "gameKey": "quest/050/KinGzc010_05069#TEXT_KINGZC010_05069_SEQ_00", "hash": "CA5DF68357F9ED92", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>A Lonuhali servono gambe veloci per una consegna urgente." },
     {"gameKey": "quest/050/KinGzc010_05069#TEXT_KINGZC010_05069_TODO_00", "hash": "36B52C3335559A39", "target": "Distribuire i piping hot reed dumplings"},
     { "gameKey": "quest/050/KinGzc010_05069#TEXT_KINGZC010_05069_TODO_01", "hash": "20EA9CCBE90C727C", "target": "Parlare con Lonuhali" },
     { "gameKey": "quest/050/KinGzc010_05069#TEXT_KINGZC010_05069_LONUHALI_000_000", "hash": "A723BE972FA3780F", "target": "Ben <if(gnum4,venuta,venuto)>, <if(gnum4,ospite onorata,ospite onorato)>! Grazie ai tuoi sforzi, le canne crescono robuste e finalmente posso di nuovo fare gnocchi di canne. Oh, sono deliziosi proprio come li ricordavo!" },

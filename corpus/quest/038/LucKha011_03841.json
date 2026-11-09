@@ -2,10 +2,10 @@
   "conversation": "quest/038/LucKha011_03841",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/038/LucKha011_03841#TEXT_LUCKHA011_03841_AUGEBERT_000_000", "hash": "16014969AB8FF4C1", "target": "" },
-    { "gameKey": "quest/038/LucKha011_03841#TEXT_LUCKHA011_03841_AUGEBERT_000_001", "hash": "EC1EFF5D0F0FB16A", "target": "" },
-    { "gameKey": "quest/038/LucKha011_03841#TEXT_LUCKHA011_03841_AUGEBERT_000_002", "hash": "CF67E497136625E7", "target": "" },
-    { "gameKey": "quest/038/LucKha011_03841#TEXT_LUCKHA011_03841_AUGEBERT_000_003", "hash": "57671BEFE1932FA2", "target": "" },
-    { "gameKey": "quest/038/LucKha011_03841#TEXT_LUCKHA011_03841_AUGEBERT_000_004", "hash": "266E553C7418E085", "target": "" }
+    { "gameKey": "quest/038/LucKha011_03841#TEXT_LUCKHA011_03841_AUGEBERT_000_000", "hash": "16014969AB8FF4C1", "target": "È finito, <split(<string(gstr1)>, ,1)>! Il Nuovo Nido! Non è uno spettacolo?" },
+    { "gameKey": "quest/038/LucKha011_03841#TEXT_LUCKHA011_03841_AUGEBERT_000_001", "hash": "EC1EFF5D0F0FB16A", "target": "Proprio come previsto, il Firmamento si è trasformato in un quartiere adatto a tutti. Sono davvero orgoglioso di ciò che abbiamo realizzato qui." },
+    { "gameKey": "quest/038/LucKha011_03841#TEXT_LUCKHA011_03841_AUGEBERT_000_002", "hash": "CF67E497136625E7", "target": "Come sai, questa zona diventerà un quartiere residenziale per gli abitanti di Ishgard; avranno la precedenza coloro che hanno perso la casa durante la guerra." },
+    { "gameKey": "quest/038/LucKha011_03841#TEXT_LUCKHA011_03841_AUGEBERT_000_003", "hash": "57671BEFE1932FA2", "target": "È sempre stato questo l'obiettivo principale di Francel: fare in modo che nessun cittadino debba più patire il freddo o la fame." },
+    { "gameKey": "quest/038/LucKha011_03841#TEXT_LUCKHA011_03841_AUGEBERT_000_004", "hash": "266E553C7418E085", "target": "Ovviamente avremo ancora bisogno di scorte. Continuate a portarle, eh?" }
   ]
 }

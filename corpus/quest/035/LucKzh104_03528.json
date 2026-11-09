@@ -2,7 +2,7 @@
   "conversation": "quest/035/LucKzh104_03528",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzh104_03528#TEXT_LUCKZH104_03528_SEQ_00", "hash": "246B0906E5D5DBAA", "target": "<colortype(508)><edgecolortype(509)> Quest Sync<edgecolortype(0)><colortype(0)><br>Kee-Satt è pronto ad avventurarsi nelle profondità più oscure della Coda Trascinata." },
+    { "gameKey": "quest/035/LucKzh104_03528#TEXT_LUCKZH104_03528_SEQ_00", "hash": "246B0906E5D5DBAA", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Kee-Satt è pronto ad avventurarsi nelle profondità più oscure della Coda Trascinata." },
     { "gameKey": "quest/035/LucKzh104_03528#TEXT_LUCKZH104_03528_SEQ_01", "hash": "014B8432F79EC1B2", "target": "Dopo aver appreso da Horthur dove potrebbe trovarsi una vena di rutabite, Kee-Satt è partito per la Coda Trascinata. Si dice che le profondità della miniera brulichino di feroci creature delle caverne, e il giovane minatore avrà probabilmente bisogno della tua protezione.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale." },
     { "gameKey": "quest/035/LucKzh104_03528#TEXT_LUCKZH104_03528_SEQ_02", "hash": "B29C4E9C0787E769", "target": "Kee-Satt si prepara a scavare vicino a quello che era l'ingresso di un'altra sezione della miniera, chiusa da un crollo avvenuto un secolo fa. Riaprire la galleria richiederebbe un'intera squadra di minatori, quindi decide invece di spaccare le macerie vicine in cerca di pezzi di rutabite che indichino la presenza di una vena più in profondità. Mentre lavora, dovrai tenere lontane le creature aggressive, anche se il rumore del piccone potrebbe attirare attenzioni indesiderate." },
     { "gameKey": "quest/035/LucKzh104_03528#TEXT_LUCKZH104_03528_SEQ_03", "hash": "3286BEE7E9A24D4C", "target": "Per fortuna il primo turno di guardia passa senza incidenti. Il lavoro di Kee-Satt, però, è ben lontano dall'essere finito." },
@@ -46,6 +46,6 @@
     { "gameKey": "quest/035/LucKzh104_03528#TEXT_LUCKZH104_03528_KEESATT_000_085", "hash": "4817BEA291C81305", "target": "Non posso credere che stia succedendo!" },
     { "gameKey": "quest/035/LucKzh104_03528#TEXT_LUCKZH104_03528_KEESATT_000_086", "hash": "4E9C486D244FD191", "target": "<split(<string(gstr1)>, ,1)>, vorrei fare di più per ringraziarti. Farò di questa città qualcosa di importante, vedrai!" },
     { "gameKey": "quest/035/LucKzh104_03528#TEXT_LUCKZH104_03528_KEESATT_000_087", "hash": "3F04600B0C0FD2C0", "target": "Forza, voi! Alla Coda Trascinata!" },
-    { "gameKey": "quest/035/LucKzh104_03528#TEXT_LUCKZH104_03528_RONSOMINER03530_000_088", "hash": "CF2BBC7BC5B50179", "target": "L'avete sentito, ragazzi!" }
+    { "gameKey": "quest/035/LucKzh104_03528#TEXT_LUCKZH104_03528_RONSOMINER03530_000_088", "hash": "513377FBCEE04B65", "target": "(-Ronso Miner-)L'avete sentito, ragazzi!" }
   ]
 }

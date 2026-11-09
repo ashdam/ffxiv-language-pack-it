@@ -2,7 +2,7 @@
   "conversation": "quest/050/KinGzd004_05093",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzd004_05093#TEXT_KINGZD004_05093_SEQ_00", "hash": "B400487B8CC7B5B2", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Xax Ogaw cerca qualcuno che rimedi all'errore di un apprendista smemorato." },
+    { "gameKey": "quest/050/KinGzd004_05093#TEXT_KINGZD004_05093_SEQ_00", "hash": "B400487B8CC7B5B2", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Xax Ogaw cerca qualcuno che rimedi all'errore di un apprendista smemorato." },
     { "gameKey": "quest/050/KinGzd004_05093#TEXT_KINGZD004_05093_TODO_00", "hash": "685DFA5D369E0A09", "target": "Cercare il tecnico distratto" },
     { "gameKey": "quest/050/KinGzd004_05093#TEXT_KINGZD004_05093_TODO_01", "hash": "4A4B4A24C6996FDA", "target": "Consegnare il bag of watchtower repair supplies al tecnico distratto" },
     { "gameKey": "quest/050/KinGzd004_05093#TEXT_KINGZD004_05093_TODO_02", "hash": "455BC1617239392C", "target": "Fare rapporto a Xax Ogaw" },

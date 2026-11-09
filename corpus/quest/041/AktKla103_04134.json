@@ -36,6 +36,6 @@
     { "gameKey": "quest/041/AktKla103_04134#TEXT_AKTKLA103_04134_RURUSHA_000_032", "hash": "B757668F4E622D91", "target": "Dopotutto, chi crederà in me se non credo in me stessa? Il che non significa che mi ritenga infallibile, sia chiaro." },
     { "gameKey": "quest/041/AktKla103_04134#TEXT_AKTKLA103_04134_RURUSHA_000_033", "hash": "A235D12B3815A6E6", "target": "Ma per il momento mettiamo da parte queste cose. Esaminerò il nostro amico per cercare di capire quali problemi rimangano. La prossima volta che avrai un po' di tempo libero, <split(<string(gstr1)>, ,1)>, vieni pure a trovarci e proseguiremo con le riparazioni." },
     { "gameKey": "quest/041/AktKla103_04134#TEXT_AKTKLA103_04134_SYSTEM_000_034", "hash": "72105318A4F830F4", "target": "Rurusha è entusiasta dei tuoi sforzi. Ora ti considera <colortype(500)><edgecolortype(501)>Reasonable Relic Restorer<edgecolortype(0)><colortype(0)>!" },
-    { "gameKey": "quest/041/AktKla103_04134#TEXT_AKTKLA103_04134_SYSTEM_000_040", "hash": "D3127E2A65A93111", "target": "La prossima missione sarà disponibile presso Rurusha al raggiungimento del livello 85 come Blacksmith, Armorer o Goldsmith." }
+    { "gameKey": "quest/041/AktKla103_04134#TEXT_AKTKLA103_04134_SYSTEM_000_040", "hash": "D3127E2A65A93111", "target": "La prossima missione sarà disponibile presso Rurusha al raggiungimento del livello 85 come Blacksmith, Corazziere o Goldsmith." }
   ]
 }

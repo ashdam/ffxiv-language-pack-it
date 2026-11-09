@@ -3,9 +3,9 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/018/HeaVnz624_01892#TEXT_HEAVNZ624_01892_SEQ_00", "hash": "674850A4D268CE54", "target": "Margyt vuole sapere dove sia Ayleth." },
-    {"gameKey": "quest/018/HeaVnz624_01892#TEXT_HEAVNZ624_01892_SEQ_01", "hash": "AED2C1B6E3EAD665", "target": "Ayleth non è mai tornata al Presidio dei Giustizieri dopo che le hai dato la dragon fang, e Margyt comincia a preoccuparsi. Torna al Bordo Rosso, dove l'hai vista l'ultima volta, e verifica se sia ancora nei dintorni."},
+    {"gameKey": "quest/018/HeaVnz624_01892#TEXT_HEAVNZ624_01892_SEQ_01", "hash": "AED2C1B6E3EAD665", "target": "Ayleth non è mai tornata al Rifugio dei Redenti dopo che le hai dato la dragon fang, e Margyt comincia a preoccuparsi. Torna al Bordo Rosso, dove l'hai vista l'ultima volta, e verifica se sia ancora nei dintorni."},
     { "gameKey": "quest/018/HeaVnz624_01892#TEXT_HEAVNZ624_01892_SEQ_02", "hash": "6CF281E0595287CA", "target": "Non vedi Ayleth, ma trovi molti draghi, di cui ti sbarazzi rapidamente. Continua a cercare la ragazza scomparsa." },
-    { "gameKey": "quest/018/HeaVnz624_01892#TEXT_HEAVNZ624_01892_SEQ_03", "hash": "DB4624D0E6057FD2", "target": "Non c'è ancora traccia di Ayleth al Bordo Rosso. Torna al Presidio dei Giustizieri e informa Margyt." },
+    { "gameKey": "quest/018/HeaVnz624_01892#TEXT_HEAVNZ624_01892_SEQ_03", "hash": "DB4624D0E6057FD2", "target": "Non c'è ancora traccia di Ayleth al Bordo Rosso. Torna al Rifugio dei Redenti e informa Margyt." },
     {"gameKey": "quest/018/HeaVnz624_01892#TEXT_HEAVNZ624_01892_SEQ_04", "hash": "A03574CEA97B19FF", "target": "La notizia preoccupa Margyt. Dov'è Ayleth e cosa intende fare con la dragon fang?"},
     { "gameKey": "quest/018/HeaVnz624_01892#TEXT_HEAVNZ624_01892_TODO_00", "hash": "9AC58F611CF1E580", "target": "Cercare Ayleth." },
     { "gameKey": "quest/018/HeaVnz624_01892#TEXT_HEAVNZ624_01892_TODO_01", "hash": "56891F3D57E20A2C", "target": "Esaminare il cadavere della viverna." },

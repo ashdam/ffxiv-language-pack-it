@@ -2,7 +2,7 @@
   "conversation": "quest/042/AktKzd004_04228",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/042/AktKzd004_04228#TEXT_AKTKZD004_04228_SEQ_00", "hash": "CD231DD2F180A354", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Per qualche ragione, un membro del Maelstrom sta cercando di fare il moguri postino, senza troppo successo." },
+    { "gameKey": "quest/042/AktKzd004_04228#TEXT_AKTKZD004_04228_SEQ_00", "hash": "CD231DD2F180A354", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Per qualche ragione, un membro della Tempesta sta cercando di fare il moguri postino, senza troppo successo." },
     { "gameKey": "quest/042/AktKzd004_04228#TEXT_AKTKZD004_04228_TODO_00", "hash": "8198246C9FE903AE", "target": "Mostrare la lettera alle persone vicino alla stazione" },
     { "gameKey": "quest/042/AktKzd004_04228#TEXT_AKTKZD004_04228_TODO_01", "hash": "2D85FC954C4FEA9E", "target": "Fare rapporto ad A'telihgo" },
     { "gameKey": "quest/042/AktKzd004_04228#TEXT_AKTKZD004_04228_DISPATCHEDLABOR04228_000_000", "hash": "59DAE642F5B7A537", "target": "Ma guarda, <if(gnum4,la Guerriera,il Guerriero)> della Luce in persona! La Navigatrice è stata buona a portarti qui, perché abbiamo un piccolo enigma fra le mani. Forse tu potresti risolverlo." },

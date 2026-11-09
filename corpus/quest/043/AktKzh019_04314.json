@@ -2,7 +2,7 @@
   "conversation": "quest/043/AktKzh019_04314",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/043/AktKzh019_04314#TEXT_AKTKZH019_04314_SEQ_00", "hash": "03228F755149977F", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Il visitatore paziente sembra studiarti con lo sguardo." },
+    { "gameKey": "quest/043/AktKzh019_04314#TEXT_AKTKZH019_04314_SEQ_00", "hash": "03228F755149977F", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Il visitatore paziente sembra studiarti con lo sguardo." },
     { "gameKey": "quest/043/AktKzh019_04314#TEXT_AKTKZH019_04314_TODO_00", "hash": "221B6C95C8876D3E", "target": "Parlare con lo scrivano" },
     { "gameKey": "quest/043/AktKzh019_04314#TEXT_AKTKZH019_04314_TODO_01", "hash": "23BABC63C16D65CF", "target": "Consegnare i forum minutes al visitatore paziente" },
     { "gameKey": "quest/043/AktKzh019_04314#TEXT_AKTKZH019_04314_TODO_02", "hash": "480E630D9E147BCD", "target": "Parlare con il visitatore paziente" },
@@ -16,7 +16,7 @@
     { "gameKey": "quest/043/AktKzh019_04314#TEXT_AKTKZH019_04314_REGISTRAR04314_000_050", "hash": "1035FF4F76AA85B9", "target": "Non dirmelo... Hai fatto cadere i documenti. Per fortuna di entrambi, il mio famiglio ha già raccolto i fogli che hai perso. Ora riproviamoci, vuoi? Solo, questa volta fai più attenzione." },
     { "gameKey": "quest/043/AktKzh019_04314#TEXT_AKTKZH019_04314_FOREIGNER04314_000_055", "hash": "C1367FF91AC91009", "target": "Ah, sei di ritorno... e senza i documenti che ti ho chiesto. Ti prego, ne ho davvero bisogno. Lo scrivano di cui ti ho parlato dovrebbe aspettarti con i documenti davanti a Peripeteia Krystalline. Allora, ti dispiacerebbe?" },
     { "gameKey": "quest/043/AktKzh019_04314#TEXT_AKTKZH019_04314_FOREIGNER04314_000_070", "hash": "48C3A1EDF1CB69ED", "target": "Sono questi i documenti che ho richiesto? Accidenti, devono essere stati terribilmente pesanti..." },
-    { "gameKey": "quest/043/AktKzh019_04314#TEXT_AKTKZH019_04314_FOREIGNER04314_000_071", "hash": "78358357E8B2BF07", "target": "L'amico di cui ti ho parlato partecipa alla gestione di Anamnesis Anyder, una struttura che custodisce una miriade di concetti, riflessioni e idee." },
+    { "gameKey": "quest/043/AktKzh019_04314#TEXT_AKTKZH019_04314_FOREIGNER04314_000_071", "hash": "78358357E8B2BF07", "target": "L'amico di cui ti ho parlato partecipa alla gestione di Anamnesi Anyder, una struttura che custodisce una miriade di concetti, riflessioni e idee." },
     { "gameKey": "quest/043/AktKzh019_04314#TEXT_AKTKZH019_04314_FOREIGNER04314_000_072", "hash": "4D872FD81024922E", "target": "Riteneva che certe procedure, soprattutto quelle riguardanti le creazioni viventi, mancassero di informazioni. Cercava dunque registrazioni dettagliate per colmare, per così dire, le lacune." },
     { "gameKey": "quest/043/AktKzh019_04314#TEXT_AKTKZH019_04314_FOREIGNER04314_000_073", "hash": "934D4897964DC288", "target": "Mmm, credo che ti spetti una piccola ricompensa per il tuo aiuto. Penserò a cosa offrirti mentre preparo le mie cose per il viaggio che mi attende. Vieni a trovarmi all'ingresso di Poieten Oikos: sono certo che per allora avrò deciso." },
     { "gameKey": "quest/043/AktKzh019_04314#TEXT_AKTKZH019_04314_FOREIGNER04314_000_090", "hash": "9F5F6F556FDF77EC", "target": "Eccoti. Ho finito di preparare i bagagli e, guarda caso, ho pensato a un dono davvero adeguato." },

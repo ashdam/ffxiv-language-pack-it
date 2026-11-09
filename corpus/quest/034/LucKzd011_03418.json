@@ -2,7 +2,7 @@
   "conversation": "quest/034/LucKzd011_03418",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKzd011_03418#TEXT_LUCKZD011_03418_SEQ_00", "hash": "1A8452AA8DCDD884", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Wyd Lad ha un'altra richiesta per te." },
+    { "gameKey": "quest/034/LucKzd011_03418#TEXT_LUCKZD011_03418_SEQ_00", "hash": "1A8452AA8DCDD884", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Wyd Lad ha un'altra richiesta per te." },
     { "gameKey": "quest/034/LucKzd011_03418#TEXT_LUCKZD011_03418_TODO_00", "hash": "C56820503D8AC6F0", "target": "Consegnare il pack of mushrooms al Fuath alto" },
     { "gameKey": "quest/034/LucKzd011_03418#TEXT_LUCKZD011_03418_TODO_01", "hash": "56D991A1DA915934", "target": "Consegnare l'alchemical concoction a Wyd Lad" },
     { "gameKey": "quest/034/LucKzd011_03418#TEXT_LUCKZD011_03418_WYDLAD_000_000", "hash": "87E21339741F0886", "target": "<split(<string(gstr1)>, ,1)>, so che mi hai già dato un incarico, ma vorresti considerare di darmene un altro?" },
@@ -20,7 +20,7 @@
     { "gameKey": "quest/034/LucKzd011_03418#TEXT_LUCKZD011_03418_TALLFUATH03418_000_014", "hash": "3F03FA0F984BC497", "target": "Sì, proprio io! Wyd Lad e io commerciamo molto, a reciproco vantaggio!" },
     { "gameKey": "quest/034/LucKzd011_03418#TEXT_LUCKZD011_03418_TALLFUATH03418_000_015", "hash": "281983ADF3AD8C53", "target": "Ma dimmi, cosa porta qui un buon mortale come te? Che affari hai con questo umile Fuath?" },
     { "gameKey": "quest/034/LucKzd011_03418#TEXT_LUCKZD011_03418_TALLFUATH03418_000_016", "hash": "94999C3F1245805A", "target": "Ah, i funghi che aspettavo! Me li godrò, oh sì!" },
-    { "gameKey": "quest/034/LucKzd011_03418#TEXT_LUCKZD011_03418_TALLFUATH03418_000_017", "hash": "3626A1DA1F4585E4", "target": "Eppure... non posso evitare la delusione. Anziché venire di persona, Wyd Lad ha mandato te. \\<sospiro> Era inevitabile, suppongo. Sapevo che un giorno anche lui sarebbe passato dall'altra parte. E tu sei solo un altro mattone nel muro. Un altro ingranaggio nella macchina che continua a macinare..." },
+    { "gameKey": "quest/034/LucKzd011_03418#TEXT_LUCKZD011_03418_TALLFUATH03418_000_017", "hash": "3626A1DA1F4585E4", "target": "Eppure... non posso evitare la delusione. Anziché venire di persona, Wyd Lad ha mandato te. \\<sigh> Era inevitabile, suppongo. Sapevo che un giorno anche lui sarebbe passato dall'altra parte. E tu sei solo un altro mattone nel muro. Un altro ingranaggio nella macchina che continua a macinare..." },
     { "gameKey": "quest/034/LucKzd011_03418#TEXT_LUCKZD011_03418_TALLFUATH03418_000_018", "hash": "DAC451DE2B355CD0", "target": "È questo che volevi, sì? Allora prendilo e lasciami stare. Vorrei riflettere sullo stato del nuovo mondo." },
     { "gameKey": "quest/034/LucKzd011_03418#TEXT_LUCKZD011_03418_TALLFUATH03418_000_019", "hash": "B036CDD8566D4644", "target": "Hai ciò che volevi, quindi lasciami stare. Vorrei riflettere sullo stato del nuovo mondo." },
     { "gameKey": "quest/034/LucKzd011_03418#TEXT_LUCKZD011_03418_WYDLAD_000_030", "hash": "AA570EEA798F5B46", "target": "Ah, eccoti. Hai ricevuto il composto?" },

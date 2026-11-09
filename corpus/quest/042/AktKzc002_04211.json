@@ -2,7 +2,7 @@
   "conversation": "quest/042/AktKzc002_04211",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/042/AktKzc002_04211#TEXT_AKTKZC002_04211_SEQ_00", "hash": "EA65CC874A784A43", "target": "<colortype(508)><edgecolortype(509)> Quest Sync<edgecolortype(0)><colortype(0)><br>Scorgi una busta annerita sul pavimento del Disegno degli Arconti." },
+    { "gameKey": "quest/042/AktKzc002_04211#TEXT_AKTKZC002_04211_SEQ_00", "hash": "EA65CC874A784A43", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Scorgi una busta annerita sul pavimento del Disegno degli Arconti." },
     { "gameKey": "quest/042/AktKzc002_04211#TEXT_AKTKZC002_04211_TODO_00", "hash": "509D54D401081947", "target": "Consegnare la busta coperta di cenere al Miqo'te studioso alla Confluenza" },
     { "gameKey": "quest/042/AktKzc002_04211#TEXT_AKTKZC002_04211_TODO_01", "hash": "8F7D6B631AAAB68E", "target": "Parlare con Toffwyb all'Agorà" },
     { "gameKey": "quest/042/AktKzc002_04211#TEXT_AKTKZC002_04211_TODO_02", "hash": "9ADE3220D956AA60", "target": "Consegnare la thick candle al Miqo'te studioso" },
@@ -15,7 +15,7 @@
     { "gameKey": "quest/042/AktKzc002_04211#TEXT_AKTKZC002_04211_CORNERSTUDENT_000_007", "hash": "48C955953163F755", "target": "Lo studente è una mia conoscenza, anche se forse è una definizione troppo generosa. Diversi giorni fa è stato rinchiuso lì per aver preparato un composto alchemico esplosivo e averlo usato per «sorprendere» i suoi insegnanti. La sua trovata ha ridotto in cenere metà dei giardini dei Teachers' Quarters." },
     { "gameKey": "quest/042/AktKzc002_04211#TEXT_AKTKZC002_04211_CORNERSTUDENT_000_008", "hash": "87C37B3E7EE1B50C", "target": "E sembra che si sia impegnato più a scrivere un messaggio per il possibile corriere che al destinatario della lettera...<br><italic(1)>Portami cibo e una candela.<italic(0)><br>Capisco..." },
     { "gameKey": "quest/042/AktKzc002_04211#TEXT_AKTKZC002_04211_CORNERSTUDENT_000_009", "hash": "9F0AA8E2EF81A254", "target": "Quell'ignorante villano! Gli sta bene essere chiuso in quella stanza!" },
-    { "gameKey": "quest/042/AktKzc002_04211#TEXT_AKTKZC002_04211_CORNERSTUDENT_000_010", "hash": "02C613B7F68C09E6", "target": "\\<sospiro> Come avrai capito, il nostro rapporto è piuttosto teso, e mi scuso per averti <if(gnum4,coinvolta,coinvolto)>. Ma ormai è fatta, e ora vorrei chiederti un favore anch'io." },
+    { "gameKey": "quest/042/AktKzc002_04211#TEXT_AKTKZC002_04211_CORNERSTUDENT_000_010", "hash": "02C613B7F68C09E6", "target": "\\<sigh> Come avrai capito, il nostro rapporto è piuttosto teso, e mi scuso per averti <if(gnum4,coinvolta,coinvolto)>. Ma ormai è fatta, e ora vorrei chiederti un favore anch'io." },
     { "gameKey": "quest/042/AktKzc002_04211#TEXT_AKTKZC002_04211_CORNERSTUDENT_000_011", "hash": "CDF92343585E164C", "target": "Potresti procurare una candela da Toffwyb all'Agorà? Preparerò il cibo che quello sciocco ha chiesto, anche se preferirei non farlo. Quando hai finito, raggiungimi dove hai trovato la lettera." },
     { "gameKey": "quest/042/AktKzc002_04211#TEXT_AKTKZC002_04211_TOFFWYB_000_012", "hash": "046BA1D024DEC96C", "target": "Una candela, dici? Ma certo, ecco, prendi questa. Di' allo studente che l'ha richiesta che può pagare quando vuole." },
     { "gameKey": "quest/042/AktKzc002_04211#TEXT_AKTKZC002_04211_TOFFWYB_000_013", "hash": "08B1698BB675049B", "target": "Lo studente può pagare quando vuole. So che è affidabile." },

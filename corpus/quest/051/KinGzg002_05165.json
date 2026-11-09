@@ -2,7 +2,7 @@
   "conversation": "quest/051/KinGzg002_05165",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/051/KinGzg002_05165#TEXT_KINGZG002_05165_SEQ_00", "hash": "873FA54DDF953FF7", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>L'addetto alle pulizie affaticato sembra in difficoltà." },
+    { "gameKey": "quest/051/KinGzg002_05165#TEXT_KINGZG002_05165_SEQ_00", "hash": "873FA54DDF953FF7", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>L'addetto alle pulizie affaticato sembra in difficoltà." },
     { "gameKey": "quest/051/KinGzg002_05165#TEXT_KINGZG002_05165_TODO_00", "hash": "16A7F61A443BD073", "target": "Raccogliere i sacchi di rifiuti di Vista Autentica" },
     { "gameKey": "quest/051/KinGzg002_05165#TEXT_KINGZG002_05165_TODO_01", "hash": "02284A5EFF03EDDF", "target": "Parlare con l'addetto alle pulizie affaticato" },
     { "gameKey": "quest/051/KinGzg002_05165#TEXT_KINGZG002_05165_TODO_02", "hash": "BB82AF2345878312", "target": "Mostrare /doubt al delinquente dal sorriso beffardo" },

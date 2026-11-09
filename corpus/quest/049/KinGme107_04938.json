@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/049/KinGme107_04938#TEXT_KINGME107_04938_SEQ_00", "hash": "923177BA8A4AE24B", "target": "Wuk Lamat riesce a stento a trattenersi dal correre dietro a Gulool Ja." },
-    { "gameKey": "quest/049/KinGme107_04938#TEXT_KINGME107_04938_TODO_00", "hash": "60FC1DC885909DC9", "target": "Parlare con Wuk Lamat davanti a Everkeep" },
+    { "gameKey": "quest/049/KinGme107_04938#TEXT_KINGME107_04938_TODO_00", "hash": "60FC1DC885909DC9", "target": "Parlare con Wuk Lamat davanti a Roccaeterna" },
     { "gameKey": "quest/049/KinGme107_04938#TEXT_KINGME107_04938_TODO_01", "hash": "55449AB5355A8FA3", "target": "Esaminare il luogo indicato" },
     { "gameKey": "quest/049/KinGme107_04938#TEXT_KINGME107_04938_TODO_02", "hash": "8D6F59D354DB0B47", "target": "Parlare con Wuk Lamat" },
     { "gameKey": "quest/049/KinGme107_04938#TEXT_KINGME107_04938_TODO_03", "hash": "B0B73FA22067913A", "target": "Parlare di nuovo con Wuk Lamat" },
@@ -42,7 +42,7 @@
     { "gameKey": "quest/049/KinGme107_04938#TEXT_KINGME107_04938_TAAPU_000_068", "hash": "F4AD147C8390F7FD", "target": "Se a sua volta vi aprirà il suo, accettate e rispettate i suoi desideri. Come la regina Sphene ha rispettato i nostri quando ci ha concesso un posto nel suo regno." },
     { "gameKey": "quest/049/KinGme107_04938#TEXT_KINGME107_04938_WUKLAMAT_100_068", "hash": "1EDB710F1ED14D82", "target": "Lo farò, non preoccuparti." },
     { "gameKey": "quest/049/KinGme107_04938#TEXT_KINGME107_04938_WUKLAMAT_110_068", "hash": "1E234C2BF476CB59", "target": "Ma, ehm... cosa intendi quando dici che Sphene ha rispettato i vostri desideri?" },
-    { "gameKey": "quest/049/KinGme107_04938#TEXT_KINGME107_04938_TAAPU_120_068", "hash": "ABF1C69D5F071B15", "target": "Preoccupata per il nostro benessere, Sua Maestà ci aveva esortato a vivere all'interno di Everkeep." },
+    { "gameKey": "quest/049/KinGme107_04938#TEXT_KINGME107_04938_TAAPU_120_068", "hash": "ABF1C69D5F071B15", "target": "Preoccupata per il nostro benessere, Sua Maestà ci aveva esortato a vivere all'interno di Roccaeterna." },
     { "gameKey": "quest/049/KinGme107_04938#TEXT_KINGME107_04938_TAAPU_130_068", "hash": "FE292C73E5FB9A15", "target": "Quando abbiamo rifiutato, non solo ha accettato di buon grado la nostra decisione─ci ha anche fornito il necessario per stabilirci qui." },
     { "gameKey": "quest/049/KinGme107_04938#TEXT_KINGME107_04938_TAAPU_140_068", "hash": "E8F086BF2B41DFC4", "target": "Da allora viene regolarmente a farci visita per sapere come stiamo." },
     { "gameKey": "quest/049/KinGme107_04938#TEXT_KINGME107_04938_WUKLAMAT_150_068", "hash": "CF804703EF097465", "target": "Eh, questo sì che è da Sphene..." },

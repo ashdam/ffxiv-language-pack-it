@@ -2,7 +2,7 @@
   "conversation": "quest/050/KinGzb106_05046",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_SEQ_00", "hash": "87706610C0C7D3A1", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Zarwarkur spera che tu abbia fame di sapere." },
+    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_SEQ_00", "hash": "87706610C0C7D3A1", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Zarwarkur spera che tu abbia fame di sapere." },
     { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_TODO_00", "hash": "3ABFD67A88C04438", "target": "Ottenere pezzi di tulidile meat" },
     { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_TODO_01", "hash": "248FE6AA0641CE9F", "target": "Consegnare la tulidile meat a Zarwarkur" },
     { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_ZARWARKUR_000_000", "hash": "21AAEE6125CE794B", "target": "Salve, <if(gnum4,viaggiatrice,viaggiatore)>! Dal tuo aspetto, immagino che tu sappia cacciare, vero? Ti interesserebbe imparare come prepariamo la nostra carne secca tradizionale?" },

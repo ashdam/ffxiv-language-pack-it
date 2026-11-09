@@ -24,7 +24,7 @@
     { "gameKey": "quest/027/StmBdz601_02779#TEXT_STMBDZ601_02779_KHAIDAI_000_023", "hash": "E774E1A6F53A6A11", "target": "Dunque, se vuoi il tuo compenso, torna da mia moglie. Farà in modo che tu sia <if(gnum4,ricompensata,ricompensato)> equamente per i tuoi servizi." },
     { "gameKey": "quest/027/StmBdz601_02779#TEXT_STMBDZ601_02779_SOROCAN_000_030", "hash": "F0BA515D1F6C100D", "target": "Oh! Sei <if(gnum4,tornata,tornato)>! Mio marito non si è ferito, vero?" },
     { "gameKey": "quest/027/StmBdz601_02779#TEXT_STMBDZ601_02779_SOROCAN_100_031", "hash": "039737DFD953A9D6", "target": "Ahahah! Forse ora ha finalmente imparato la lezione!" },
-    { "gameKey": "quest/027/StmBdz601_02779#TEXT_STMBDZ601_02779_SOROCAN_000_031", "hash": "91BE7D10E78C96D7", "target": "\\<sospiro> D'altra parte, suppongo di non potermi lamentare. Khaidai non avrà il mio occhio per i dettagli, ma è un uomo incredibilmente gentile e fa il possibile per prendersi cura di me e delle nostre pecore." },
+    { "gameKey": "quest/027/StmBdz601_02779#TEXT_STMBDZ601_02779_SOROCAN_000_031", "hash": "91BE7D10E78C96D7", "target": "\\<sigh> D'altra parte, suppongo di non potermi lamentare. Khaidai non avrà il mio occhio per i dettagli, ma è un uomo incredibilmente gentile e fa il possibile per prendersi cura di me e delle nostre pecore." },
     { "gameKey": "quest/027/StmBdz601_02779#TEXT_STMBDZ601_02779_SOROCAN_000_032", "hash": "8AD096CE9445B646", "target": "Ah, ma perdonami. Non sei <if(gnum4,venuta,venuto)> fin qui per sentirmi parlare di mio marito! Prendi questo e continua pure il tuo cammino!" }
   ]
 }

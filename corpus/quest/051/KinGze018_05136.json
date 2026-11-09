@@ -2,7 +2,7 @@
   "conversation": "quest/051/KinGze018_05136",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/051/KinGze018_05136#TEXT_KINGZE018_05136_SEQ_00", "hash": "D1872C13E2CD24A7", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Forse non bisognerebbe portare anelli insostituibili a pesca." },
+    { "gameKey": "quest/051/KinGze018_05136#TEXT_KINGZE018_05136_SEQ_00", "hash": "D1872C13E2CD24A7", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Forse non bisognerebbe portare anelli insostituibili a pesca." },
     { "gameKey": "quest/051/KinGze018_05136#TEXT_KINGZE018_05136_TODO_00", "hash": "60CEE9181577106C", "target": "Cercare l'anello del crepuscolo usando il dawn ring" },
     { "gameKey": "quest/051/KinGze018_05136#TEXT_KINGZE018_05136_TODO_01", "hash": "55C4C32BE30AC5C3", "target": "Ottenere l'anello del crepuscolo" },
     { "gameKey": "quest/051/KinGze018_05136#TEXT_KINGZE018_05136_TODO_02", "hash": "4F09EFB7F77B1086", "target": "Consegnare il dawn ring e l'anello del crepuscolo al giovane impulsivo" },

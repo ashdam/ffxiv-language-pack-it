@@ -3,15 +3,15 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/005/ManFst050_00540#TEXT_MANFST050_00540_SEQ_02", "hash": "CD968AFB1DBA961F", "target": "" },
-    { "gameKey": "quest/005/ManFst050_00540#TEXT_MANFST050_00540_200010_NARRATION", "hash": "794FF8CBE3962EDC", "target": "" },
-    { "gameKey": "quest/005/ManFst050_00540#TEXT_MANFST050_00540_200020_NARRATION", "hash": "994CFD00F3811E61", "target": "" },
-    { "gameKey": "quest/005/ManFst050_00540#TEXT_MANFST050_00540_200030_NARRATION", "hash": "695951594F4456CC", "target": "" },
-    { "gameKey": "quest/005/ManFst050_00540#TEXT_MANFST050_00540_200040_NARRATION", "hash": "61ECFBAC0D1C530E", "target": "" },
-    { "gameKey": "quest/005/ManFst050_00540#TEXT_MANFST050_00540_200050_NARRATION", "hash": "E8DF399969FFB82F", "target": "" },
-    { "gameKey": "quest/005/ManFst050_00540#TEXT_MANFST050_00540_200060_NARRATION", "hash": "74D4BDFA1DC5F8B7", "target": "" },
-    { "gameKey": "quest/005/ManFst050_00540#TEXT_MANFST050_00540_200070_NARRATION", "hash": "12A3971031B292BA", "target": "" },
-    { "gameKey": "quest/005/ManFst050_00540#TEXT_MANFST050_00540_200080_NARRATION", "hash": "1BABAC7A7594ED6C", "target": "" },
-    { "gameKey": "quest/005/ManFst050_00540#TEXT_MANFST050_00540_200090_NARRATION", "hash": "C976AFE8D8B9F6A9", "target": "" },
-    { "gameKey": "quest/005/ManFst050_00540#TEXT_MANFST050_00540_200100_NARRATION", "hash": "EBC4BA46F9F15EBF", "target": "" }
+    { "gameKey": "quest/005/ManFst050_00540#TEXT_MANFST050_00540_200010_NARRATION", "hash": "794FF8CBE3962EDC", "target": "Durante la Battaglia di Carteneau, mentre dal cielo pioveva fuoco..." },
+    { "gameKey": "quest/005/ManFst050_00540#TEXT_MANFST050_00540_200020_NARRATION", "hash": "994CFD00F3811E61", "target": "L'Arconte Louisoix invocò il potere del Custode e inviò i suoi compagni eroi in una frattura eterea, lontano dalla portata della devastazione." },
+    { "gameKey": "quest/005/ManFst050_00540#TEXT_MANFST050_00540_200030_NARRATION", "hash": "695951594F4456CC", "target": "Sono passati cinque anni da quel giorno fatale, da quando la Settima Era Umbrale ha cambiato per sempre il mondo. È giunto il momento che gli eroi tornino." },
+    { "gameKey": "quest/005/ManFst050_00540#TEXT_MANFST050_00540_200040_NARRATION", "hash": "61ECFBAC0D1C530E", "target": "Il Velo Nero, l'antica foresta nel cuore di Eorzea." },
+    { "gameKey": "quest/005/ManFst050_00540#TEXT_MANFST050_00540_200050_NARRATION", "hash": "E8DF399969FFB82F", "target": "Sotto i rami dei suoi alberi maestosi sorge la città-stato di Gridania." },
+    { "gameKey": "quest/005/ManFst050_00540#TEXT_MANFST050_00540_200060_NARRATION", "hash": "74D4BDFA1DC5F8B7", "target": "Un tempo rifugio dal mondo oltre la Siepe, nemmeno i potenti elementali, eterni<br>guardiani della foresta, riuscirono a impedire l'avvento della Settima Era Umbrale." },
+    { "gameKey": "quest/005/ManFst050_00540#TEXT_MANFST050_00540_200070_NARRATION", "hash": "12A3971031B292BA", "target": "Eppure la dea Nophica non ha mai abbandonato i Suoi figli,<br>e oggi accoglie un'altra anima coraggiosa..." },
+    { "gameKey": "quest/005/ManFst050_00540#TEXT_MANFST050_00540_200080_NARRATION", "hash": "1BABAC7A7594ED6C", "target": "...Un'anima pronta a combattere ancora per proteggere il futuro del regno." },
+    { "gameKey": "quest/005/ManFst050_00540#TEXT_MANFST050_00540_200090_NARRATION", "hash": "C976AFE8D8B9F6A9", "target": "Che la Matrona ti accolga nel Suo grembo,<br>e non ti faccia mai mancare nulla." },
+    { "gameKey": "quest/005/ManFst050_00540#TEXT_MANFST050_00540_200100_NARRATION", "hash": "EBC4BA46F9F15EBF", "target": "E nel tuo cuore semini serenità, purezza e santità." }
   ]
 }

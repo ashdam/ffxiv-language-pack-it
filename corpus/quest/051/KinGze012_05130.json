@@ -2,7 +2,7 @@
   "conversation": "quest/051/KinGze012_05130",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/051/KinGze012_05130#TEXT_KINGZE012_05130_SEQ_00", "hash": "1A84A7EBA45AE38D", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Se hai intenzione di esplorare i dintorni, tanto vale renderti utile mentre lo fai." },
+    { "gameKey": "quest/051/KinGze012_05130#TEXT_KINGZE012_05130_SEQ_00", "hash": "1A84A7EBA45AE38D", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Se hai intenzione di esplorare i dintorni, tanto vale renderti utile mentre lo fai." },
     { "gameKey": "quest/051/KinGze012_05130#TEXT_KINGZE012_05130_TODO_00", "hash": "EEC212376C39885C", "target": "Consegnare la candela all'olio di pesce alla contemplative woman che prega nel Canyon di Yowekwa" },
     { "gameKey": "quest/051/KinGze012_05130#TEXT_KINGZE012_05130_TODO_01", "hash": "E2609BFDB1176D11", "target": "Parlare con Pawmepya" },
     { "gameKey": "quest/051/KinGze012_05130#TEXT_KINGZE012_05130_PAWMEPYA_000_000", "hash": "75F6A1B2E3F3C4B7", "target": "<if(gnum4,Benvenuta,Benvenuto)>, <if(gnum4,viaggiatrice,viaggiatore)>. Mi chiedevo se potessi farmi un piccolo favore mentre esplori i dintorni." },

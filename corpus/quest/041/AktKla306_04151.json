@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/041/AktKla306_04151#TEXT_AKTKLA306_04151_SEQ_00", "hash": "AB3D119C4DCEE7D1", "target": "Debroye è disperata." },
     { "gameKey": "quest/041/AktKla306_04151#TEXT_AKTKLA306_04151_SEQ_01", "hash": "7F13ABA7A4B80A69", "target": "Debroye ti ha incaricato di preparare pinches of ascorbic additive.<br><br>※Il valore minimo di collezionabilità per questa consegna è 160. Consegnare oggetti con un valore pari o superiore a 340 darà diritto a ricompense maggiori." },
-    { "gameKey": "quest/041/AktKla306_04151#TEXT_AKTKLA306_04151_SEQ_02", "hash": "F0D59B64746E6587", "target": "Consegni l'ascorbic additive a una Debroye estasiata. L'attuale versione del Mervynbread è un delizioso successo, e lei insiste perché tu sia presente quando il Foro sarà pronto a valutarla." },
+    { "gameKey": "quest/041/AktKla306_04151#TEXT_AKTKLA306_04151_SEQ_02", "hash": "F0D59B64746E6587", "target": "Consegni l'ascorbic additive a una Debroye estasiata. L'attuale versione del Mervynbread è un delizioso successo, e lei insiste perché tu sia presente quando il Forum sarà pronto a valutarla." },
     { "gameKey": "quest/041/AktKla306_04151#TEXT_AKTKLA306_04151_TODO_00", "hash": "8C20F486BDD8F765", "target": "Consegnare pinches of ascorbic additive a Debroye" },
     { "gameKey": "quest/041/AktKla306_04151#TEXT_AKTKLA306_04151_DEBROYE_000_000", "hash": "86688987F83BBC34", "target": "Oh, <split(<string(gstr1)>, ,1)>..." },
     { "gameKey": "quest/041/AktKla306_04151#TEXT_AKTKLA306_04151_DEBROYE_100_000", "hash": "2A88CF9281CC2E6B", "target": "Ho provato e riprovato a produrre quell'acido ascorbico." },
@@ -36,7 +36,7 @@
     { "gameKey": "quest/041/AktKla306_04151#TEXT_AKTKLA306_04151_DEBROYE_000_034", "hash": "217A0AD25781B5FE", "target": "Esattamente quello che pensavo! Tutti i diversi elementi si sono amalgamati così bene..." },
     { "gameKey": "quest/041/AktKla306_04151#TEXT_AKTKLA306_04151_DEBROYE_100_034", "hash": "2367D5B2A3CFC0E5", "target": "Sapore, consistenza, aroma, per non parlare di un equilibrio perfetto di nutrienti." },
     { "gameKey": "quest/041/AktKla306_04151#TEXT_AKTKLA306_04151_DEBROYE_000_035", "hash": "DA8BFE1A5DB6B5F2", "target": "E siete voi che devo ringraziare per questo delizioso traguardo!" },
-    { "gameKey": "quest/041/AktKla306_04151#TEXT_AKTKLA306_04151_DEBROYE_000_036", "hash": "F3E0C812E60DFC98", "target": "Sì, credo che l'attuale versione del Mervynbread abbia buone possibilità di convincere il Foro a nostro favore. <italic(1)>Assisterete<italic(0)> alla valutazione, vero? Anzi, devo proprio insistere!" },
+    { "gameKey": "quest/041/AktKla306_04151#TEXT_AKTKLA306_04151_DEBROYE_000_036", "hash": "F3E0C812E60DFC98", "target": "Sì, credo che l'attuale versione del Mervynbread abbia buone possibilità di convincere il Forum a nostro favore. <italic(1)>Assisterete<italic(0)> alla valutazione, vero? Anzi, devo proprio insistere!" },
     { "gameKey": "quest/041/AktKla306_04151#TEXT_AKTKLA306_04151_SYSTEM_000_037", "hash": "90256E6CCD5A00B0", "target": "Debroye è elettrizzata dai tuoi sforzi. Ora ti considera <colortype(500)><edgecolortype(501)>Consummate Baker<edgecolortype(0)><colortype(0)>!" },
     { "gameKey": "quest/041/AktKla306_04151#TEXT_AKTKLA306_04151_SYSTEM_000_040", "hash": "D41F427ECFEF7EB0", "target": "La prossima richiesta sarà disponibile presso Debroye al raggiungimento del livello 90 come Alchemist o Culinarian." }
   ]

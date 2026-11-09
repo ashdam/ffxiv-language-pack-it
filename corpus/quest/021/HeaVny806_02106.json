@@ -2,13 +2,13 @@
   "conversation": "quest/021/HeaVny806_02106",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_ELOIN_000_000", "hash": "C29BACD455B155D3", "target": "" },
-    { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_ELOIN_000_001", "hash": "1B445DB3326B0171", "target": "" },
-    { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_ELOIN_000_002", "hash": "F41732EDB1A60BD3", "target": "" },
-    { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_ELOIN_000_003", "hash": "CDEF71C4FF701858", "target": "" },
-    { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_ELOIN_000_004", "hash": "EE88B5E6EBD65B8E", "target": "" },
-    { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_SYSTEM_000_005", "hash": "47346BA5D42EC0EC", "target": "" },
-    { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_SYSTEM_100_005", "hash": "1DF1460D6EDD637F", "target": "" },
-    { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_SYSTEM_100_006", "hash": "8E126407EC2BC303", "target": "" }
+    { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_ELOIN_000_000", "hash": "C29BACD455B155D3", "target": "Mi perdoni, ma lei è <split(<string(gstr1)>, ,2)>, dico bene?" },
+    { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_ELOIN_000_001", "hash": "1B445DB3326B0171", "target": "Proprio la persona che speravo di incontrare! A dire il vero, ho una proposta per lei." },
+    { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_ELOIN_000_002", "hash": "F41732EDB1A60BD3", "target": "Per ordine del Lord Comandante, abbiamo istituito un nuovo sistema, simile a quello adottato dalle Gilde degli Avventurieri di Eorzea." },
+    { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_ELOIN_000_003", "hash": "CDEF71C4FF701858", "target": "Registreremo le richieste dei cittadini e le affideremo a persone volenterose come lei." },
+    { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_ELOIN_000_004", "hash": "EE88B5E6EBD65B8E", "target": "Saremmo davvero grati se ci aiutasse con questi mandati e la ricompenseremmo come si deve!" },
+    { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_SYSTEM_000_005", "hash": "47346BA5D42EC0EC", "target": "È ora possibile intraprendere i mandati del Tempio parlando con Eloin." },
+    { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_SYSTEM_100_005", "hash": "1DF1460D6EDD637F", "target": "Oltre ai mandati normali, che richiedono un'autorizzazione per essere accettati, esistono anche i <colortype(500)><edgecolortype(501)>mandati su larga scala<edgecolortype(0)><colortype(0)>, che ne richiedono dieci." },
+    { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_SYSTEM_100_006", "hash": "8E126407EC2BC303", "target": "Questi mandati richiedono più impegno, ma offrono ricompense maggiori." }
   ]
 }

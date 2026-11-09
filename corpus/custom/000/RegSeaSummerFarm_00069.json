@@ -2,7 +2,7 @@
   "conversation": "custom/000/RegSeaSummerFarm_00069",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "custom/000/RegSeaSummerFarm_00069#TEXT_REGSEASUMMERFARM_00069_STAELWYRN_000_1", "hash": "CEEF147F57517873", "target": "Salve, <if(gnum4,avventuriera,avventuriero)>. Ogni stagione ha il suo momento, ma Summerford prende il nome da quella che le si addice di più." },
+    { "gameKey": "custom/000/RegSeaSummerFarm_00069#TEXT_REGSEASUMMERFARM_00069_STAELWYRN_000_1", "hash": "CEEF147F57517873", "target": "Salve, <if(gnum4,avventuriera,avventuriero)>. Ogni stagione ha il suo momento, ma Guado d'Estate prende il nome da quella che le si addice di più." },
     { "gameKey": "custom/000/RegSeaSummerFarm_00069#TEXT_REGSEASUMMERFARM_00069_Q1_000_1", "hash": "420EDD0D2345453A", "target": "Cosa vuoi chiedere?" },
     { "gameKey": "custom/000/RegSeaSummerFarm_00069#TEXT_REGSEASUMMERFARM_00069_A1_000_1", "hash": "39FF44172A72369B", "target": "Di cosa vi occupate qui?" },
     { "gameKey": "custom/000/RegSeaSummerFarm_00069#TEXT_REGSEASUMMERFARM_00069_A1_000_2", "hash": "DE948BD5D8612205", "target": "Che posto è questo?" },

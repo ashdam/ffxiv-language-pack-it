@@ -2,11 +2,11 @@
   "conversation": "cut_scene/075/VoiceMan_07515",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "cut_scene/075/VoiceMan_07515#TEXT_VOICEMAN_07515_000000_CEFCA", "hash": "377891174C43B1FD", "target": "Possiedo il più grande potere che esista!" },
-    { "gameKey": "cut_scene/075/VoiceMan_07515#TEXT_VOICEMAN_07515_000010_CEFCA", "hash": "BF2502B8581153E4", "target": "Per me siete solo sporcizia sotto gli stivali! Anzi, sporcizia attaccata sotto quella sporcizia!" },
-    { "gameKey": "cut_scene/075/VoiceMan_07515#TEXT_VOICEMAN_07515_000020_CEFCA", "hash": "1A2F42DCF0006790", "target": "Distruggerò ogni cosa! Erigerò un monumento al nulla!" },
-    { "gameKey": "cut_scene/075/VoiceMan_07515#TEXT_VOICEMAN_07515_000030_CEFCA", "hash": "EC92D9D29B2126A2", "target": "Ho... ho perso!? Com'è possibile!?" },
-    { "gameKey": "cut_scene/075/VoiceMan_07515#TEXT_VOICEMAN_07515_000040_CEFCA", "hash": "FE466BA4277EBB77", "target": "Inconcepibile!" },
-    { "gameKey": "cut_scene/075/VoiceMan_07515#TEXT_VOICEMAN_07515_000050_CEFCA", "hash": "8DBAB746D6055486", "target": "<icon(54)>Grazie del divertimento!<icon(55)>" }
+    { "gameKey": "cut_scene/075/VoiceMan_07515#TEXT_VOICEMAN_07515_000000_CEFCA", "hash": "BA0DD441671B3D1D", "target": "(-Kefka-)Possiedo il più grande potere che esista!" },
+    { "gameKey": "cut_scene/075/VoiceMan_07515#TEXT_VOICEMAN_07515_000010_CEFCA", "hash": "7CBB8C69A19D8071", "target": "(-Kefka-)Per me siete solo sporcizia sotto gli stivali! Anzi, sporcizia attaccata sotto quella sporcizia!" },
+    { "gameKey": "cut_scene/075/VoiceMan_07515#TEXT_VOICEMAN_07515_000020_CEFCA", "hash": "816D7CD98D52D80F", "target": "(-Kefka-)Distruggerò ogni cosa! Erigerò un monumento al nulla!" },
+    { "gameKey": "cut_scene/075/VoiceMan_07515#TEXT_VOICEMAN_07515_000030_CEFCA", "hash": "6AB2876631C0E083", "target": "(-Kefka-)Ho... perso?! Com'è possibile?!" },
+    { "gameKey": "cut_scene/075/VoiceMan_07515#TEXT_VOICEMAN_07515_000040_CEFCA", "hash": "896646D86475871B", "target": "(-Kefka-)Inconcepibile!" },
+    { "gameKey": "cut_scene/075/VoiceMan_07515#TEXT_VOICEMAN_07515_000050_CEFCA", "hash": "03979D95E0834E96", "target": "(-Kefka-)<icon(54)>Grazie del divertimento!<icon(55)>" }
   ]
 }

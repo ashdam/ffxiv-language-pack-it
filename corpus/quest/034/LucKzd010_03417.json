@@ -2,7 +2,7 @@
   "conversation": "quest/034/LucKzd010_03417",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKzd010_03417#TEXT_LUCKZD010_03417_SEQ_00", "hash": "81CC38524BC9F83E", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Il Nu Mou troppo zelante arde dal desiderio di servirti." },
+    { "gameKey": "quest/034/LucKzd010_03417#TEXT_LUCKZD010_03417_SEQ_00", "hash": "81CC38524BC9F83E", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Il Nu Mou troppo zelante arde dal desiderio di servirti." },
     { "gameKey": "quest/034/LucKzd010_03417#TEXT_LUCKZD010_03417_TODO_00", "hash": "CB753FA35ED8BAAD", "target": "Interrogare gli abitanti di Pla Enni" },
     { "gameKey": "quest/034/LucKzd010_03417#TEXT_LUCKZD010_03417_TODO_01", "hash": "A4EA8D0B4234B0B2", "target": "Parlare con l'Nu Mou troppo zelante" },
     { "gameKey": "quest/034/LucKzd010_03417#TEXT_LUCKZD010_03417_TODO_02", "hash": "281D71E47ECA409C", "target": "Usare l'hempen sack per catturare un echevore indebolito" },
@@ -25,6 +25,6 @@
     { "gameKey": "quest/034/LucKzd010_03417#TEXT_LUCKZD010_03417_ENTHUSIATICNUMOU03417_000_024", "hash": "0EB639143D64B879", "target": "Ti prego, cattura un echevore per me! Ricorda, devi prima indebolirlo e poi infilarlo nel sacco!" },
     { "gameKey": "quest/034/LucKzd010_03417#TEXT_LUCKZD010_03417_ENTHUSIATICNUMOU03417_000_030", "hash": "0DBFA4B65252652C", "target": "Ah, il mortale torna... e con l'echevore, spero!?" },
     { "gameKey": "quest/034/LucKzd010_03417#TEXT_LUCKZD010_03417_ENTHUSIATICNUMOU03417_000_031", "hash": "44CD13921DDE9830", "target": "Oh, che esemplare vigoroso! Mi divertirò a succhiargli la coda per quel dolce, dolcissimo sapore di nettare! Non c'è modo migliore di rilassarsi, te lo dico io!" },
-    { "gameKey": "quest/034/LucKzd010_03417#TEXT_LUCKZD010_03417_ENTHUSIATICNUMOU03417_000_032", "hash": "C8D9FD68FDF908BC", "target": "Ma aspetta... Portandomelo, mi hai reso un servizio. E dandoti un compenso adeguato, diventa... \\<sussulto>... un compito onorevole! Non avrò <italic(1)>svolto<italic(0)> il compito, ma vi ho <italic(1)>preso parte<italic(0)>! E quasi basta! Ahahaha!" }
+    { "gameKey": "quest/034/LucKzd010_03417#TEXT_LUCKZD010_03417_ENTHUSIATICNUMOU03417_000_032", "hash": "C8D9FD68FDF908BC", "target": "Ma aspetta... Portandomelo, mi hai reso un servizio. E dandoti un compenso adeguato, diventa... \\<gasp>... un compito onorevole! Non avrò <italic(1)>svolto<italic(0)> il compito, ma vi ho <italic(1)>preso parte<italic(0)>! E quasi basta! Ahahaha!" }
   ]
 }

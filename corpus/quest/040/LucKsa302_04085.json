@@ -8,18 +8,18 @@
     { "gameKey": "quest/040/LucKsa302_04085#TEXT_LUCKSA302_04085_TODO_02", "hash": "39DE57278B4142BE", "target": "Parlare con Lilja" },
     { "gameKey": "quest/040/LucKsa302_04085#TEXT_LUCKSA302_04085_TODO_03", "hash": "E2F3972FDFA1813B", "target": "Parlare con Bajsaljen" },
     { "gameKey": "quest/040/LucKsa302_04085#TEXT_LUCKSA302_04085_TODO_04", "hash": "DE6ED9E9AAE4A1F3", "target": "Parlare con Lilja" },
-    { "gameKey": "quest/040/LucKsa302_04085#TEXT_LUCKSA302_04085_SYSTEM_100_000", "hash": "CFA73ECF1EC4E517", "target": "Per proseguire questa missione è richiesto un Resistance rank di <num(lnum1)>." },
+    { "gameKey": "quest/040/LucKsa302_04085#TEXT_LUCKSA302_04085_SYSTEM_100_000", "hash": "CFA73ECF1EC4E517", "target": "Per proseguire questa missione è richiesto un grado della Resistenza di <num(lnum1)>." },
     { "gameKey": "quest/040/LucKsa302_04085#TEXT_LUCKSA302_04085_SYSTEM_105_000", "hash": "B34F07A3A167EEAB", "target": "Alcune decisioni prese durante questa missione influenzeranno la storia nelle missioni successive. Non potrai modificarle dopo aver completato questa missione." },
     { "gameKey": "quest/040/LucKsa302_04085#TEXT_LUCKSA302_04085_SYSTEM_105_001", "hash": "3A361AD38049AE12", "target": "Tieni presente, però, che queste decisioni non influenzeranno le ricompense ricevute al completamento della missione." },
     { "gameKey": "quest/040/LucKsa302_04085#TEXT_LUCKSA302_04085_MIKOTO_000_000", "hash": "889346933757C236", "target": "Perdonate l'attesa, <split(<string(gstr1)>, ,1)>. Abbiamo finalmente trovato un luogo adatto per il dispositivo delle Officine Garlond." },
     { "gameKey": "quest/040/LucKsa302_04085#TEXT_LUCKSA302_04085_LILJA_000_001", "hash": "3A1523322BD509EA", "target": "E ti farà piacere sapere che i D.I.G.A. sono pronti. Fra i nostri lavori migliori, se posso dirlo." },
     { "gameKey": "quest/040/LucKsa302_04085#TEXT_LUCKSA302_04085_MIKOTO_000_002", "hash": "BD59F7AB98E30DFD", "target": "Una volta installato, Bajsaljen ci ha chiesto di deviare le correnti eteree verso l'avamposto appena conquistato." },
     { "gameKey": "quest/040/LucKsa302_04085#TEXT_LUCKSA302_04085_MIKOTO_000_003", "hash": "FE81E7646D946FBA", "target": "Segnerò sulla vostra mappa il punto in cui collocare il dispositivo." },
-    { "gameKey": "quest/040/LucKsa302_04085#TEXT_LUCKSA302_04085_MIKOTO_000_004", "hash": "663E9E7B8A7BD3DC", "target": "Quando avrete finito, contattateci con questa linkpearl e penseremo noi al resto." },
+    { "gameKey": "quest/040/LucKsa302_04085#TEXT_LUCKSA302_04085_MIKOTO_000_004", "hash": "663E9E7B8A7BD3DC", "target": "Quando avrete finito, contattateci con questa fonoperla e penseremo noi al resto." },
     { "gameKey": "quest/040/LucKsa302_04085#TEXT_LUCKSA302_04085_MIKOTO_000_005", "hash": "AAA13020458E07A4", "target": "Pregherò per il vostro ritorno incolume, <split(<string(gstr1)>, ,1)>." },
-    { "gameKey": "quest/040/LucKsa302_04085#TEXT_LUCKSA302_04085_MIKOTO_000_020", "hash": "813BFEECD4B673DA", "target": "Il D.I.G.A. è pronto, <split(<string(gstr1)>, ,1)>. Preparo i protocolli di trasmissione." },
-    { "gameKey": "quest/040/LucKsa302_04085#TEXT_LUCKSA302_04085_MIKOTO_000_021", "hash": "51F902F0E9B1F0C0", "target": "Tutti i sistemi sembrano funzionare normalmente. Potete confermare che il D.I.G.A. si è interrato?" },
-    { "gameKey": "quest/040/LucKsa302_04085#TEXT_LUCKSA302_04085_MIKOTO_000_022", "hash": "EF545B2276E799D6", "target": "Allora è tutto come dovrebbe essere. Potete tornare all'accampamento." },
+    { "gameKey": "quest/040/LucKsa302_04085#TEXT_LUCKSA302_04085_MIKOTO_000_020", "hash": "58EEF815CB3C6643", "target": "(-Mikoto-)Il D.I.G.A. è pronto, <split(<string(gstr1)>, ,1)>. Preparo i protocolli di trasmissione." },
+    { "gameKey": "quest/040/LucKsa302_04085#TEXT_LUCKSA302_04085_MIKOTO_000_021", "hash": "AC74B11106863519", "target": "(-Mikoto-)Tutti i sistemi sembrano funzionare normalmente. Potete confermare che il D.I.G.A. si è interrato?" },
+    { "gameKey": "quest/040/LucKsa302_04085#TEXT_LUCKSA302_04085_MIKOTO_000_022", "hash": "FEEEB250979769CA", "target": "(-Mikoto-)Allora è tutto come dovrebbe essere. Potete tornare all'accampamento." },
     { "gameKey": "quest/040/LucKsa302_04085#TEXT_LUCKSA302_04085_MIKOTO_000_100", "hash": "9CC3DD7BA81FAD1D", "target": "Che piacere rivedervi. I D.I.G.A. sembrano funzionare come previsto, anche se occorrerà del tempo prima che la deviazione della corrente eterea sia completa." },
     { "gameKey": "quest/040/LucKsa302_04085#TEXT_LUCKSA302_04085_MIKOTO_000_101", "hash": "B8B903B11392B523", "target": "Continueremo a monitorare la situazione da qui. Se però i D.I.G.A. richiedessero degli aggiustamenti, potremmo dovervi chiamare di nuovo." },
     { "gameKey": "quest/040/LucKsa302_04085#TEXT_LUCKSA302_04085_LILJA_000_102", "hash": "3FDC7EA4E54A19FA", "target": "I sensori indicano deboli tracce di etere dirette al punto designato e il segnale energetico si fa più forte. Fra poco avremo creato una corrente nuova di zecca che porta dritta all'avamposto!" },
@@ -50,6 +50,6 @@
     { "gameKey": "quest/040/LucKsa302_04085#TEXT_LUCKSA302_04085_BAISHAEN_000_180", "hash": "24DEAFFD4F1C000F", "target": "Quando verrà il momento, terrò a mente le vostre parole. Grazie, Lama <split(<string(gstr1)>, ,2)>." },
     { "gameKey": "quest/040/LucKsa302_04085#TEXT_LUCKSA302_04085_LILJA_000_200", "hash": "D9EF10EA575D7B36", "target": "Perché quella fronte aggrottata? È qualcosa che ha detto Bajsaljen?" },
     { "gameKey": "quest/040/LucKsa302_04085#TEXT_LUCKSA302_04085_LILJA_000_201", "hash": "EDA67FF62862CB29", "target": "...Scusa, non dovrei ficcare il naso. Torno al lavoro." },
-    { "gameKey": "quest/040/LucKsa302_04085#TEXT_LUCKSA302_04085_SYSTEM_000_205", "hash": "B248D57E44541258", "target": "Puoi accettare la missione successiva parlando con Dmitar dopo aver raggiunto il Resistance rank <num(lnum1)> o superiore." }
+    { "gameKey": "quest/040/LucKsa302_04085#TEXT_LUCKSA302_04085_SYSTEM_000_205", "hash": "B248D57E44541258", "target": "Puoi accettare la missione successiva parlando con Dmitar dopo aver raggiunto il grado della Resistenza <num(lnum1)> o superiore." }
   ]
 }

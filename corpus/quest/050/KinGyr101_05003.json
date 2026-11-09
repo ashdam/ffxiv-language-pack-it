@@ -2,17 +2,17 @@
   "conversation": "quest/050/KinGyr101_05003",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_000", "hash": "714B887A61B84D9E", "target": "" },
-    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_001", "hash": "20E9D0D42CEA1364", "target": "" },
-    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_002", "hash": "5F2A701B09EF1A94", "target": "" },
-    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_003", "hash": "CE4E88C416F0750A", "target": "" },
-    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_004", "hash": "9BA2C98A7B858116", "target": "" },
-    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_005", "hash": "2F5424D2DC60279A", "target": "" },
-    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_006", "hash": "9EF23993252C476D", "target": "" },
-    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_007", "hash": "C11DE1F6BC25BD79", "target": "" },
-    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_008", "hash": "C00B378407BD2695", "target": "" },
-    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_SYSTEM_000_009", "hash": "282C54AF9C319B1C", "target": "" },
-    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_010", "hash": "8CCE8E25D71D9D74", "target": "" },
-    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_SYSTEM_000_011", "hash": "FA1ADB85F5E60727", "target": "" }
+    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_000", "hash": "714B887A61B84D9E", "target": "Mi scusi, si occupa di artigianato o di raccolta, per caso? Dalle sue mani si direbbe che ha alle spalle una lunga carriera: mani che chiederei in prestito per il bene del popolo di Tural." },
+    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_001", "hash": "20E9D0D42CEA1364", "target": "Qui accogliamo le richieste d'aiuto per conto dell'Ala della Riflessione. Che provengano da cittadini comuni o da altri lavoratori, mettiamo a disposizione ogni mezzo del mestiere per soddisfare le necessità di Tural." },
+    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_002", "hash": "5F2A701B09EF1A94", "target": "Dalla sua fondazione, numerose tribù si sono riunite a Tuliyollal e, con il passare degli anni, il commercio è fiorito. Tuttavia, com'è naturale fra popoli così diversi, le pratiche commerciali variavano molto da una tribù all'altra." },
+    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_003", "hash": "CE4E88C416F0750A", "target": "Sebbene restino difficoltà negli scambi commerciali da superare, molti problemi sono stati risolti con l'introduzione del sistema dei mandati alari da parte del Custode dell'Alba." },
+    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_004", "hash": "9BA2C98A7B858116", "target": "Facciamo da tramite fra chi ha bisogno di aiuto e gli artigiani e i raccoglitori con le competenze necessarie a soddisfare le richieste tramite i mandati." },
+    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_005", "hash": "2F5424D2DC60279A", "target": "Conosce già i mandati? Visto che viene da oltremare, immagino di sì." },
+    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_006", "hash": "9EF23993252C476D", "target": "Il Voto della Ragione ha ripreso questo sistema dai mandati di gilda usati a Eorzea." },
+    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_007", "hash": "C11DE1F6BC25BD79", "target": "Le tavole dei mandati raffigurano il viaggio compiuto dal Custode dell'Alba per fondare questa nazione e gli insegnamenti ricevuti dai suoi compagni. Ci ricordano che solo collaborando possiamo far prosperare Tuliyollal." },
+    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_008", "hash": "C00B378407BD2695", "target": "Naturalmente, questo spirito di solidarietà vale anche per gli alleati arrivati da oltremare, come lei. Per noi sarebbe un onore poter contare sul suo aiuto." },
+    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_SYSTEM_000_009", "hash": "282C54AF9C319B1C", "target": "Ora puoi intraprendere i mandati alari parlando con Malihali." },
+    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_010", "hash": "8CCE8E25D71D9D74", "target": "Come faremo a soddisfare tutte queste richieste? \\<sigh> Ci serve qualcuno con esperienza nel lavoro artigianale e di raccolta." },
+    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_SYSTEM_000_011", "hash": "FA1ADB85F5E60727", "target": "Per intraprendere questa missione, devi essere un Discepolo della Mano o della Terra di livello 90 o superiore." }
   ]
 }

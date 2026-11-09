@@ -2,13 +2,13 @@
   "conversation": "quest/042/AktKze007_04246",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_SEQ_00", "hash": "4BF4BDF23EBBCB48", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Il Loporrit indeciso ha bisogno di aiuto." },
+    { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_SEQ_00", "hash": "4BF4BDF23EBBCB48", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Il Loporrit indeciso ha bisogno di aiuto." },
     { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_TODO_00", "hash": "D764697BAE89BD5F", "target": "Parlare con il sarto Loporrit" },
     { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_TODO_01", "hash": "81971CEDC6FCDA6A", "target": "Mettersi in posa per il sarto Loporrit con /pose" },
     { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_TODO_02", "hash": "2158A5FF273D30A3", "target": "Assumere la posizione di battaglia per il sarto Loporrit con /battlestance" },
     { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_TODO_03", "hash": "FBF97668C4FBD259", "target": "Parlare con il Loporrit indeciso" },
     { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_LOPORRITSA04246_000_000", "hash": "FF6F8F243849B745", "target": "Oh! Sei tu! Ehm... Se non ti disturba troppo, mi servirebbe davvero il tuo aiuto!" },
-    { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_LOPORRITSA04246_000_001", "hash": "65F693DD72A0B142", "target": "Stiamo facendo vestiti per la tua gente, ma parlando con Livingway ho capito che abbiamo commesso un grave errore!" },
+    { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_LOPORRITSA04246_000_001", "hash": "65F693DD72A0B142", "target": "Stiamo facendo vestiti per la tua gente, ma parlando con Vívolo ho capito che abbiamo commesso un grave errore!" },
     { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_LOPORRITSA04246_000_002", "hash": "0542823BE377E59F", "target": "Dobbiamo modificare molto i nostri piani e speravo che mi accompagnassi a parlare con il Loporrit che si occupa degli adattamenti degli abiti." },
     { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_LOPORRITSA04246_000_003", "hash": "3B915572C7969541", "target": "Grazie! La notizia non piacerà..." },
     { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_LOPORRITSA04246_000_004", "hash": "B1CE1901817D0108", "target": "Te lo dico, stiamo sbagliando tutto! Dobbiamo sistemare questi vestiti prima che sia troppo tardi!" },
@@ -16,7 +16,7 @@
     { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_LOPORRITSB04246_000_011", "hash": "876E2B57C8C3192A", "target": "Oh! Devi essere <if(gnum4,la modella,il modello)>, allora. Capisco... Sei davvero come una carota novella." },
     { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_LOPORRITSA04246_000_012", "hash": "6E68A39F92074291", "target": "Forse è meglio spiegare... Vorremmo che ci aiutassi a ridefinire lo stile degli abiti che creiamo." },
     { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_LOPORRITSA04246_000_013", "hash": "C6D6F4B3D525B901", "target": "Crediamo che comodità e familiarità siano essenziali per accogliere la gente di Etheirys... per questo pensavamo che bastassero maschere e tuniche per ogni uso." },
-    { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_LOPORRITSA04246_100_013", "hash": "6E1CC1BEE8A816DF", "target": "Quando Livingway ha detto che le mode di Etheirys erano molto diverse da quello che ci aspettavamo, non ci credevo. Ma incontrarti ha reso tutto dolorosamente chiaro!" },
+    { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_LOPORRITSA04246_100_013", "hash": "6E1CC1BEE8A816DF", "target": "Quando Vívolo ha detto che le mode di Etheirys erano molto diverse da quello che ci aspettavamo, non ci credevo. Ma incontrarti ha reso tutto dolorosamente chiaro!" },
     { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_LOPORRITSB04246_000_014", "hash": "6D661C97443F138E", "target": "Già. Ora vedo che i nostri piani non funzionano. I tuoi abiti sono così vivaci e... unici." },
     { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_LOPORRITSB04246_000_015", "hash": "2EE2885B1213A138", "target": "Dobbiamo ancora decidere le modifiche da fare. Potresti rimanere un po'?" },
     { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_LOPORRITSB04246_000_016", "hash": "89A64B57F8F470EC", "target": "Grazie. Ora, per cortesia, mettiti in <colortype(500)><edgecolortype(501)>posa<edgecolortype(0)><colortype(0)> per me. Voglio farmi un'idea di come il tessuto si muove con te." },
@@ -42,7 +42,7 @@
     { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_LOPORRITSB04246_000_036", "hash": "EC914E20B4E0DD67", "target": "Mi hai dato così tante idee che non vedo l'ora di cominciare! Anzi, non posso proprio aspettare!" },
     { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_LOPORRITSA04246_000_037", "hash": "46FBB92902B953BC", "target": "Ehm... Bene, allora. Vuoi seguirmi alla mia postazione?" },
     { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_LOPORRITSA04246_000_040", "hash": "F6DB55E5059A90EF", "target": "Credo che ora abbiamo un'idea molto migliore di cosa produrre e le modifiche necessarie non dovrebbero creare problemi." },
-    { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_LOPORRITSA04246_000_041", "hash": "564DF12ECDDB3B8A", "target": "Aspetta e vedrai: presto la gente di Etheirys farà a gara per avere l'ultima moda della Tana di Bestway!" },
+    { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_LOPORRITSA04246_000_041", "hash": "564DF12ECDDB3B8A", "target": "Aspetta e vedrai: presto la gente di Etheirys farà a gara per avere l'ultima moda della Tana dei Modi Migliori!" },
     { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_LOPORRITSA04246_000_042", "hash": "67AD6D7FD5E67327", "target": "...Se torno al lavoro, naturalmente. Grazie per l'aiuto!" }
   ]
 }

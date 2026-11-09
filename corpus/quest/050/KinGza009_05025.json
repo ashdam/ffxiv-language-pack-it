@@ -2,7 +2,7 @@
   "conversation": "quest/050/KinGza009_05025",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGza009_05025#TEXT_KINGZA009_05025_SEQ_00", "hash": "640790491659FCEE", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Il naturalista determinato ha un piccolo problema peloso da affidarti." },
+    { "gameKey": "quest/050/KinGza009_05025#TEXT_KINGZA009_05025_SEQ_00", "hash": "640790491659FCEE", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Il naturalista determinato ha un piccolo problema peloso da affidarti." },
     { "gameKey": "quest/050/KinGza009_05025#TEXT_KINGZA009_05025_TODO_00", "hash": "BF66CF7D5F9036E0", "target": "Parlare con il roditore rumoroso e farsi accompagnare dalla coppia" },
     { "gameKey": "quest/050/KinGza009_05025#TEXT_KINGZA009_05025_TODO_01", "hash": "C17CEED6C5BA7625", "target": "Parlare con il naturalista determinato mentre il roditore rumoroso e il suo compagno ti accompagnano" },
     { "gameKey": "quest/050/KinGza009_05025#TEXT_KINGZA009_05025_SCHOLAR05025_000_001", "hash": "BBB4B2BFDCE25C64", "target": "Be', questa poi... Pensare di incontrarti proprio a Tuliyollal! Vengo dalla facoltà di biologia dello Studium. Ti ho già <if(gnum4,vista,visto)> a Vecchia Sharlayan!" },

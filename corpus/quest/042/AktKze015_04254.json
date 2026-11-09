@@ -2,7 +2,7 @@
   "conversation": "quest/042/AktKze015_04254",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/042/AktKze015_04254#TEXT_AKTKZE015_04254_SEQ_00", "hash": "6008953DA0499515", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Qualcosa ha arruffato la pelliccia di questo Loporrit." },
+    { "gameKey": "quest/042/AktKze015_04254#TEXT_AKTKZE015_04254_SEQ_00", "hash": "6008953DA0499515", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Qualcosa ha arruffato la pelliccia di questo Loporrit." },
     { "gameKey": "quest/042/AktKze015_04254#TEXT_AKTKZE015_04254_TODO_00", "hash": "5EB4B3E863C0C0C5", "target": "Parlare con il Loporrit agitato" },
     { "gameKey": "quest/042/AktKze015_04254#TEXT_AKTKZE015_04254_TODO_01", "hash": "72374486288BAAD1", "target": "Sconfiggere un lunatender e ottenere un crystal flower" },
     { "gameKey": "quest/042/AktKze015_04254#TEXT_AKTKZE015_04254_TODO_02", "hash": "D325C70E8F45353E", "target": "Consegnare il crystal flower al Loporrit agitato" },
@@ -14,7 +14,7 @@
     { "gameKey": "quest/042/AktKze015_04254#TEXT_AKTKZE015_04254_LOPORRIT04254_000_004", "hash": "8FEA3C0A033D0B96", "target": "Incontriamoci nel sud di Mare Lamentorum e vediamo se troviamo qualcosa di bello." },
     { "gameKey": "quest/042/AktKze015_04254#TEXT_AKTKZE015_04254_LOPORRIT04254_000_010", "hash": "944B3BB5484BABA4", "target": "Una volta, durante una pattuglia, abbiamo visto dei fiori qui. Splendidi fiori cristallini che crescono sulla testa dei lunatender..." },
     { "gameKey": "quest/042/AktKze015_04254#TEXT_AKTKZE015_04254_LOPORRIT04254_000_011", "hash": "96152A2BEC18C54B", "target": "Se gliene regalassi uno al risveglio, sarebbe sopra la stella! Ehm... da voi si dice “sopra la luna”." },
-    { "gameKey": "quest/042/AktKze015_04254#TEXT_AKTKZE015_04254_LOPORRIT04254_000_012", "hash": "00E3E73DFB8F958C", "target": "Devo portare i nostri registri di pattuglia della Vela Lunare al Watcher's Palace, ma nel frattempo posso fidarmi che prenderai un fiore da un lunatender?" },
+    { "gameKey": "quest/042/AktKze015_04254#TEXT_AKTKZE015_04254_LOPORRIT04254_000_012", "hash": "00E3E73DFB8F958C", "target": "Devo portare i nostri registri di pattuglia della Vela Lunare al Palazzo del Vegliante, ma nel frattempo posso fidarmi che prenderai un fiore da un lunatender?" },
     { "gameKey": "quest/042/AktKze015_04254#TEXT_AKTKZE015_04254_LOPORRIT04254_000_013", "hash": "2976E6465380E2B9", "target": "Perfetto! Raggiungimi alla Lama Folgorante quando l'avrai." },
     { "gameKey": "quest/042/AktKze015_04254#TEXT_AKTKZE015_04254_LOPORRIT04254_000_020", "hash": "79DBD10A570739B8", "target": "Hai trovato un fiore?" },
     { "gameKey": "quest/042/AktKze015_04254#TEXT_AKTKZE015_04254_LOPORRIT04254_000_021", "hash": "B808A5AD6FD3FBEB", "target": "Oh, è bellissimo! Ne desidera uno da quando ha saputo quanto siano speciali i fiori nella vostra cultura." },

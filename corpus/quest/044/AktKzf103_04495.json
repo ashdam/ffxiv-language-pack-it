@@ -2,7 +2,7 @@
   "conversation": "quest/044/AktKzf103_04495",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/044/AktKzf103_04495#TEXT_AKTKZF103_04495_SEQ_00", "hash": "7F126D80F114DA5F", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Sula sembra impaziente di lasciare Palaka's Stand, ma non è chiaro per andare dove." },
+    { "gameKey": "quest/044/AktKzf103_04495#TEXT_AKTKZF103_04495_SEQ_00", "hash": "7F126D80F114DA5F", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Sula sembra impaziente di lasciare la Piazzola di Palaka, ma non è chiaro per andare dove." },
     { "gameKey": "quest/044/AktKzf103_04495#TEXT_AKTKZF103_04495_SEQ_01", "hash": "5935244478BC33CB", "target": "L'umore di Sula è un po' migliorato, ma sembra che abbia ancora bisogno di tempo per rafforzare la propria risolutezza. Ti chiede di accompagnarla a perlustrare i templi sparsi nella regione, un compito che spera la aiuti a calmarsi. Con un piccolo incoraggiamento di Yezahn, accetti di accompagnare la custode a Purusa.<br><br>※La difficoltà di questa missione è stata sincronizzata con il tuo livello attuale." },
     { "gameKey": "quest/044/AktKzf103_04495#TEXT_AKTKZF103_04495_SEQ_02", "hash": "FC9DC6929D60D6A1", "target": "Compi il lungo tragitto fino a Purusa, dove Sula ti illustra brevemente la storia del luogo prima di tornare subito con la mente al proprio dovere. Benché questa zona sembri in buone condizioni, Sula non sarà soddisfatta senza una ricerca accurata." },
     { "gameKey": "quest/044/AktKzf103_04495#TEXT_AKTKZF103_04495_SEQ_03", "hash": "29E27AE8819794AD", "target": "Sula sembra preoccupata per i graffi e gli altri danni in questa parte del tempio. Propone di dividersi per cercare altri segni di deterioramento." },
@@ -13,7 +13,7 @@
     { "gameKey": "quest/044/AktKzf103_04495#TEXT_AKTKZF103_04495_TODO_01", "hash": "30B5109C155EDC73", "target": "Parlare di nuovo con Sula" },
     { "gameKey": "quest/044/AktKzf103_04495#TEXT_AKTKZF103_04495_TODO_02", "hash": "919E52A84C5DB6FA", "target": "Esaminare le pietre danneggiate" },
     { "gameKey": "quest/044/AktKzf103_04495#TEXT_AKTKZF103_04495_TODO_03", "hash": "9DDB6289F048E4B4", "target": "Fare rapporto a Sula" },
-    { "gameKey": "quest/044/AktKzf103_04495#TEXT_AKTKZF103_04495_TODO_04", "hash": "C719C4004D65CD4A", "target": "Parlare con Pasareen a Palaka's Stand" },
+    { "gameKey": "quest/044/AktKzf103_04495#TEXT_AKTKZF103_04495_TODO_04", "hash": "C719C4004D65CD4A", "target": "Parlare con Pasareen alla Piazzola di Palaka" },
     { "gameKey": "quest/044/AktKzf103_04495#TEXT_AKTKZF103_04495_YEZAHN_000_000", "hash": "160C850F0665885A", "target": "Quando abbiamo parlato, Pasareen ha detto di non essere degna di occuparsi della bambina. Ora capisco perché lo pensi. Il dolore che ha sofferto non guarisce facilmente." },
     { "gameKey": "quest/044/AktKzf103_04495#TEXT_AKTKZF103_04495_SULA_000_001", "hash": "8CEDCD6782CABCE3", "target": "Grazie per aver ascoltato i miei problemi, <split(<string(gstr1)>, ,1)>. Se siete <if(gnum4,disposta,disposto)>, c'è un posto dove vorrei andare, e vorrei che mi accompagnaste." },
     { "gameKey": "quest/044/AktKzf103_04495#TEXT_AKTKZF103_04495_SULA_000_002", "hash": "D7073DD1023206F5", "target": "Occuparmi dei miei doveri potrebbe aiutarmi a calmare i nervi. Per questo intendo controllare se i templi hanno bisogno di riparazioni. Quando avremo finito, spero di trovare il coraggio di guardare di nuovo Pasareen negli occhi." },

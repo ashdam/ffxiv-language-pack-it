@@ -2,7 +2,7 @@
   "conversation": "quest/033/LucKza204_03378",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/033/LucKza204_03378#TEXT_LUCKZA204_03378_SEQ_00", "hash": "E649E061B2636F4E", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Ghun Gun riesce a stento a contenere l'entusiasmo all'idea di scavare ancora." },
+    { "gameKey": "quest/033/LucKza204_03378#TEXT_LUCKZA204_03378_SEQ_00", "hash": "E649E061B2636F4E", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Ghun Gun riesce a stento a contenere l'entusiasmo all'idea di scavare ancora." },
     { "gameKey": "quest/033/LucKza204_03378#TEXT_LUCKZA204_03378_SEQ_01", "hash": "BCC212C22B782FA7", "target": "Ghun Gun freme al solo pensiero di dissotterrare altri manufatti abbandonati dai Nabaath. Seguendo il loro probabile percorso nel deserto, Jamial vi guida a ovest verso la Frattura di Nabaath, dove si trova l'ultimo punto di scavo.<br><br>※La difficoltà di questa missione è stata sincronizzata con il tuo livello attuale." },
     { "gameKey": "quest/033/LucKza204_03378#TEXT_LUCKZA204_03378_SEQ_02", "hash": "75ED84E00923D07B", "target": "Gli scavi frenetici di Ghun Gun rivelano un contenitore cilindrico sotto la sabbia. Si volta per offrire la reliquia a Jamial, solo per scoprire che il vostro anziano compagno è misteriosamente scomparso." },
     { "gameKey": "quest/033/LucKza204_03378#TEXT_LUCKZA204_03378_SEQ_03", "hash": "C6693F7427FB2A9F", "target": "Malgrado vi troviate in un deserto vasto e aperto, Jamial non si vede da nessuna parte. Ghun Gun suggerisce di cercarlo da un punto più elevato, mentre lui resta a sorvegliare il tesoro." },
@@ -49,7 +49,7 @@
     { "gameKey": "quest/033/LucKza204_03378#TEXT_LUCKZA204_03378_GHUNGUN_100_090", "hash": "C7BD81ADC1A43723", "target": "Non so che cosa penserà papà di questi eventi, ma devo dirgli ciò che abbiamo visto! O meglio, ciò che <italic(1)>non abbiamo<italic(0)> visto..." },
     { "gameKey": "quest/033/LucKza204_03378#TEXT_LUCKZA204_03378_GHENGEN_000_100", "hash": "5B7CCCF52FDEB761", "target": "<split(<string(gstr1)>, ,1)>! Hai aiutato mio figlio con il suo lavoro, sì?" },
     { "gameKey": "quest/033/LucKza204_03378#TEXT_LUCKZA204_03378_GHUNGUN_000_101", "hash": "EFF899D714D4BF87", "target": "È vero, papà, ma portiamo notizie terribili!" },
-    { "gameKey": "quest/033/LucKza204_03378#TEXT_LUCKZA204_03378_JAMIAL_000_102", "hash": "B3A48E731B022A62", "target": "Mastro Ghen Gen, potrei avere un... Ah, eccoli." },
+    { "gameKey": "quest/033/LucKza204_03378#TEXT_LUCKZA204_03378_JAMIAL_000_102", "hash": "323B680D1DBEC3F5", "target": "(-Familiar Voice-)Mastro Ghen Gen, potrei avere un... Ah, eccoli." },
     { "gameKey": "quest/033/LucKza204_03378#TEXT_LUCKZA204_03378_JAMIAL_000_103", "hash": "11E9FC939092A8F6", "target": "Che cosa succede?" },
     { "gameKey": "quest/033/LucKza204_03378#TEXT_LUCKZA204_03378_GHUNGUN_000_104", "hash": "C3E6A154D81D9FFB", "target": "Non avvicinarti..." },
     { "gameKey": "quest/033/LucKza204_03378#TEXT_LUCKZA204_03378_JAMIAL_000_105", "hash": "9B049A0818DB69DD", "target": "Come, prego?" },

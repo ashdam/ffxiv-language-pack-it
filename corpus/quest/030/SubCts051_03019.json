@@ -2,17 +2,17 @@
   "conversation": "quest/030/SubCts051_03019",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SIMPKIN_000_000", "hash": "5806C9BEA10088F6", "target": "" },
-    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SIMPKIN_000_001", "hash": "BBA327EDC950D797", "target": "" },
-    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SIMPKIN_000_002", "hash": "FF4B0A64C3A8FB6A", "target": "" },
-    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SIMPKIN_000_003", "hash": "F36FFAEE232CB4A2", "target": "" },
-    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SIMPKIN_000_004", "hash": "2DB73D5279C15265", "target": "" },
-    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SIMPKIN_000_005", "hash": "1EBBDA002341B260", "target": "" },
-    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SIMPKIN_000_006", "hash": "13A011B2E50C0B0B", "target": "" },
-    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SIMPKIN_000_007", "hash": "D04C7ACC6F7E1F46", "target": "" },
-    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SYSTEM_000_010", "hash": "2CF61EFAA33DC6FF", "target": "" },
-    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SIMPKIN_000_020", "hash": "0873E30CDA51234A", "target": "" },
-    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SIMPKIN_000_100", "hash": "2CD9C4D10AEDF2CF", "target": "" },
-    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SYSTEM_000_101", "hash": "AB39095B28CD980F", "target": "" }
+    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SIMPKIN_000_000", "hash": "5806C9BEA10088F6", "target": "Sei qui per ascoltare le soavi note della cetra di Simpkin, trovatore errante e maestro menestrello? No? Ma certo." },
+    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SIMPKIN_000_001", "hash": "BBA327EDC950D797", "target": "Hai però l'aria di chi vive viaggiando; e, a proposito di peregrinazioni meravigliose e del modo di tradurle in musica, forse ho qualche piccolo consiglio da darti." },
+    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SIMPKIN_000_002", "hash": "FF4B0A64C3A8FB6A", "target": "Quando uno spettacolo della natura o un gesto di coraggio mi smuove all'improvviso il cuore, lascio che l'emozione del momento scorra dalle dita fino all'arpa. Non ho mai sentito suono più struggentemente bello di quello nato dalla gioia sincera o dalla malinconia sognante di quell'istante." },
+    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SIMPKIN_000_003", "hash": "F36FFAEE232CB4A2", "target": "Per dare voce alla musica del cuore non servono addestramento o conoscenze particolari: basta voler suonare la melodia che si compone da sé nella tua anima." },
+    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SIMPKIN_000_004", "hash": "2DB73D5279C15265", "target": "Se riesci ad abbandonarti così, darai vita a un brano inconfondibile, che apparterrà soltanto a te. E quale melodia potrebbe avere più valore?" },
+    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SIMPKIN_000_005", "hash": "1EBBDA002341B260", "target": "Sì, l'avevo capito non appena ti ho visto: in te c'è uno spirito che chiede di esprimersi attraverso la musica. Lascia andare ogni inibizione e fai dono al mondo della tua esibizione!" },
+    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SIMPKIN_000_006", "hash": "13A011B2E50C0B0B", "target": "Per cominciare, suona le note che ti ispirano, senza pensarci troppo. Lascia che la fantasia ti conduca su e giù per le scale, tra acuti vertiginosi e bassi profondi, finché non trovi una melodia che risuoni dentro di te." },
+    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SIMPKIN_000_007", "hash": "D04C7ACC6F7E1F46", "target": "La tua avventura darà colore alla melodia e al timbro: saranno soltanto tuoi. Ah, chissà quale musica riempirà l'aria... Che il vento raccolga la tua composizione e la porti alle mie orecchie sempre desiderose di ascoltarla!" },
+    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SYSTEM_000_010", "hash": "2CF61EFAA33DC6FF", "target": "Hai imparato «Perform»! Quando sei un Bardo, trovi le <colortype(500)><edgecolortype(501)>azioni di Performance<edgecolortype(0)><colortype(0)> nella finestra <colortype(500)><edgecolortype(501)>Azioni e Tratti<edgecolortype(0)><colortype(0)>, accessibile dalla voce <colortype(500)><edgecolortype(501)>Personaggio<edgecolortype(0)><colortype(0)> del menu principale." },
+    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SIMPKIN_000_020", "hash": "0873E30CDA51234A", "target": "Capisco: per abbandonarsi così serve coraggio. Io e la mia arpa ci fermeremo in città ancora per un po'; torna pure a trovarmi se vorrai seguire i miei insegnamenti musicali." },
+    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SIMPKIN_000_100", "hash": "2CD9C4D10AEDF2CF", "target": "Hai un'aria particolare. Un'aria... musicale. Hai mai pensato di cimentarti con uno strumento?" },
+    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SYSTEM_000_101", "hash": "AB39095B28CD980F", "target": "Per accettare questa missione devi cambiare job e passare a Bardo." }
   ]
 }

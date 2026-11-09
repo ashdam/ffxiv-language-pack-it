@@ -2,7 +2,7 @@
   "conversation": "quest/050/KinGzb109_05049",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzb109_05049#TEXT_KINGZB109_05049_SEQ_00", "hash": "DBBE852D113303ED", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Dabargar vorrebbe che vendicassi un amico caduto." },
+    { "gameKey": "quest/050/KinGzb109_05049#TEXT_KINGZB109_05049_SEQ_00", "hash": "DBBE852D113303ED", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Dabargar vorrebbe che vendicassi un amico caduto." },
     { "gameKey": "quest/050/KinGzb109_05049#TEXT_KINGZB109_05049_TODO_00", "hash": "86E24E25BE6A0EF8", "target": "Parlare con la guida Yok Huy" },
     { "gameKey": "quest/050/KinGzb109_05049#TEXT_KINGZB109_05049_TODO_01", "hash": "3E5BC879E2919A27", "target": "Uccidere le bestie alle Ombre del Dolore" },
     { "gameKey": "quest/050/KinGzb109_05049#TEXT_KINGZB109_05049_TODO_02", "hash": "9F35FBFA99A33C97", "target": "Parlare con la guida Yok Huy" },
@@ -22,7 +22,7 @@
     { "gameKey": "quest/050/KinGzb109_05049#TEXT_KINGZB109_05049_POPMESSAGE_000_025", "hash": "7ED4880CB1F79AAF", "target": "Il nemico si rivela!" },
     { "gameKey": "quest/050/KinGzb109_05049#TEXT_KINGZB109_05049_DABARGAR_000_030", "hash": "A58C47162CEF11CC", "target": "Il succhiasangue era travestito da mio compagno fin dall'inizio!? Non è possibile!" },
     { "gameKey": "quest/050/KinGzb109_05049#TEXT_KINGZB109_05049_DABARGAR_000_031", "hash": "A48E3F1B43EF80AB", "target": "P-perdonami, non so che cosa dire. Se quel demonio possedeva un'abilità tanto inquietante, qualcuno avrebbe dovuto parlarne prima!" },
-    { "gameKey": "quest/050/KinGzb109_05049#TEXT_KINGZB109_05049_DABARGAR_000_032", "hash": "F18D0F63559181B4", "target": "Anni fa, la Testa della Ragione ipotizzò che le bestie che chiamiamo succhiasangue fossero in realtà esseri noti come «creature del Vuoto», giunti da un altro mondo." },
+    { "gameKey": "quest/050/KinGzb109_05049#TEXT_KINGZB109_05049_DABARGAR_000_032", "hash": "F18D0F63559181B4", "target": "Anni fa, la Testa della Ragione ipotizzò che le bestie che chiamiamo succhiasangue fossero in realtà esseri noti come «vuotofagi», giunti da un altro mondo." },
     { "gameKey": "quest/050/KinGzb109_05049#TEXT_KINGZB109_05049_DABARGAR_000_033", "hash": "8463B680880B3655", "target": "Altri hanno persino suggerito che siano invasori di stelle lontane! Ho sentito tante teorie negli anni, ma forse sono stato sciocco a ignorarle." },
     { "gameKey": "quest/050/KinGzb109_05049#TEXT_KINGZB109_05049_DABARGAR_000_034", "hash": "E6F96388A3B8054D", "target": "In ogni caso, la minaccia non c'è più e il nostro villaggio ti è debitore. Ora, se vuoi scusarmi, devo trovare il mio compagno scomparso!" }
   ]

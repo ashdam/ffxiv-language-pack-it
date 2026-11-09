@@ -3,14 +3,14 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/025/StmBda621_02547#TEXT_STMBDA621_02547_SEQ_00", "hash": "E7AA02E39BCEAC08", "target": "Lyse ha una proposta." },
-    { "gameKey": "quest/025/StmBda621_02547#TEXT_STMBDA621_02547_TODO_00", "hash": "CE7168C7C287758C", "target": "Parlare con Orella a Rhalgr's Reach" },
+    { "gameKey": "quest/025/StmBda621_02547#TEXT_STMBDA621_02547_TODO_00", "hash": "CE7168C7C287758C", "target": "Parlare con Orella alla Presa di Rhalgr" },
     { "gameKey": "quest/025/StmBda621_02547#TEXT_STMBDA621_02547_TODO_01", "hash": "9606271D644105F5", "target": "Attendere Lyse" },
     { "gameKey": "quest/025/StmBda621_02547#TEXT_STMBDA621_02547_TODO_02", "hash": "48D1AF60D8E41E2E", "target": "Parlare con Lyse" },
     { "gameKey": "quest/025/StmBda621_02547#TEXT_STMBDA621_02547_ALPHINAUD_000_001", "hash": "D9E23093039A0B22", "target": "Alisaie si riprenderà completamente, ma dubito che starà abbastanza bene da tornare sul campo prima che tutto sia finito." },
     { "gameKey": "quest/025/StmBda621_02547#TEXT_STMBDA621_02547_STARKWOAD_000_005", "hash": "8A9A33D547E924E0", "target": "Posso immaginare come vi sentiate, ma voglio che sappiate che molti di noi qui sono grati per ciò che avete fatto a Castrum Abania." },
     { "gameKey": "quest/025/StmBda621_02547#TEXT_STMBDA621_02547_MNAAGO_000_010", "hash": "996962E46B4B94D5", "target": "Non mi abituerò mai a uccidere i miei compatrioti. Nel vivo della battaglia, o tu o loro, ma dopo... quando hai avuto il tempo di pensare a ciò che hai fatto..." },
     { "gameKey": "quest/025/StmBda621_02547#TEXT_STMBDA621_02547_SERPENTOFFICER_100_010", "hash": "6E5AFE0AC1BE3F6D", "target": "Mi è stato detto che una delle vostre compagne è rimasta ferita durante l'operazione. Se possiamo fare qualcosa per aiutarvi, vi prego di non esitare a chiedere." },
-    { "gameKey": "quest/025/StmBda621_02547#TEXT_STMBDA621_02547_LYSE_000_020", "hash": "5CC671D4493487E9", "target": "Stavo pensando. Se Alisaie ha bisogno di più tempo per guarire, forse dovremmo trasferirla a Rhalgr's Reach." },
+    { "gameKey": "quest/025/StmBda621_02547#TEXT_STMBDA621_02547_LYSE_000_020", "hash": "5CC671D4493487E9", "target": "Stavo pensando. Se Alisaie ha bisogno di più tempo per guarire, forse dovremmo trasferirla alla Presa di Rhalgr." },
     { "gameKey": "quest/025/StmBda621_02547#TEXT_STMBDA621_02547_LYSE_000_021", "hash": "0103E9438083F77F", "target": "Dopotutto, lì potrà ricevere cure molto migliori. A meno di mandarla a Gridania, la nostra infermeria è probabilmente il posto migliore." },
     { "gameKey": "quest/025/StmBda621_02547#TEXT_STMBDA621_02547_ALPHINAUD_000_022", "hash": "FA569AE25FDC8FB0", "target": "Infatti. E dopo ciò che ci ha raccontato la signora Woad, preferirei che non restasse qui." },
     { "gameKey": "quest/025/StmBda621_02547#TEXT_STMBDA621_02547_LYSE_000_023", "hash": "3C5AA76AC660C78C", "target": "Allora è deciso. Naago, procura un carro e una scorta. Alphinaud, prepara tua sorella per il viaggio." },
@@ -30,7 +30,7 @@
     { "gameKey": "quest/025/StmBda621_02547#TEXT_STMBDA621_02547_LYSE_000_050", "hash": "CAEB85C5CCB547A1", "target": "<split(<string(gstr1)>, ,1)>─devo chiederti un favore. Ti dispiace aspettarmi fuori? Ci metto un attimo." },
     { "gameKey": "quest/025/StmBda621_02547#TEXT_STMBDA621_02547_ALPHINAUD_000_055", "hash": "6342772B31302D98", "target": "Troveremo Krile e la riporteremo a casa. Dopotutto, ho bisogno che ti dica di restare a letto." },
     { "gameKey": "quest/025/StmBda621_02547#TEXT_STMBDA621_02547_ALISAIE_000_060", "hash": "FE9A72DC5E91E33A", "target": "Avrei dovuto essere con voi fino alla fine. Se solo non fossi stata così avventata..." },
-    { "gameKey": "quest/025/StmBda621_02547#TEXT_STMBDA621_02547_LYSE_000_080", "hash": "5FB0330B6BF88B83", "target": "\\<ansimo> \\<ansimo> Forse ci siamo <if(gnum4,lasciate,lasciati)> prendere un po' la mano... Ma devi ammettere che è stato divertente." },
+    { "gameKey": "quest/025/StmBda621_02547#TEXT_STMBDA621_02547_LYSE_000_080", "hash": "5FB0330B6BF88B83", "target": "\\<anf> \\<anf> Forse ci siamo <if(gnum4,lasciate,lasciati)> prendere un po' la mano... Ma devi ammettere che è stato divertente." },
     { "gameKey": "quest/025/StmBda621_02547#TEXT_STMBDA621_02547_LYSE_000_081", "hash": "04E1EAA6F28BE997", "target": "Grazie, <split(<string(gstr1)>, ,1)>. Sei <if(gnum4,la migliore amica,il migliore amico)> che si possa avere─una persona che non ha paura di farti rinsavire a suon di pugni." }
   ]
 }

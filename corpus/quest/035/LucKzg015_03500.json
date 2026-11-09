@@ -2,7 +2,7 @@
   "conversation": "quest/035/LucKzg015_03500",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzg015_03500#TEXT_LUCKZG015_03500_SEQ_00", "hash": "FF4B092ABBB2F2AA", "target": "<colortype(508)><edgecolortype(509)> Quest Sync<edgecolortype(0)><colortype(0)><br>I due fratelli di Intreccio sperano che resterai alle Miniere del Monte Biran per aiutarli." },
+    { "gameKey": "quest/035/LucKzg015_03500#TEXT_LUCKZG015_03500_SEQ_00", "hash": "FF4B092ABBB2F2AA", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>I due fratelli di Intreccio sperano che resterai alle Miniere del Monte Biran per aiutarli." },
     { "gameKey": "quest/035/LucKzg015_03500#TEXT_LUCKZG015_03500_TODO_00", "hash": "6CB91B9F805FA773", "target": "Procurarsi legname abbandonato" },
     { "gameKey": "quest/035/LucKzg015_03500#TEXT_LUCKZG015_03500_TODO_01", "hash": "2A0DF168882CC52A", "target": "Consegnare il legname abbandonato al minatore tarchiato" },
     { "gameKey": "quest/035/LucKzg015_03500#TEXT_LUCKZG015_03500_TODO_02", "hash": "7379DAC66B25A9AB", "target": "Fare rapporto ad Annine" },

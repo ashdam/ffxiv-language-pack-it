@@ -2,16 +2,16 @@
   "conversation": "quest/040/LucKsa321_04094",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_000", "hash": "50AE50959E527C83", "target": "" },
-    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_001", "hash": "0C1716FC130FBB95", "target": "" },
-    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_002", "hash": "E3BAE0598C8BD0D7", "target": "" },
-    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_003", "hash": "2ABA2CA4968EEF4E", "target": "" },
-    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_005", "hash": "D615E727512ED474", "target": "" },
-    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_006", "hash": "6B31621349599F26", "target": "" },
-    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_Q1_000_100", "hash": "33BE2BBFC2703C0C", "target": "" },
-    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_100_010", "hash": "45E31612B39722D8", "target": "" },
-    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_100_011", "hash": "8F8170B3560E468C", "target": "" },
-    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_010", "hash": "08C9D92ABE9FB97E", "target": "" },
-    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_011", "hash": "2225DD679501C2AF", "target": "" }
+    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_000", "hash": "50AE50959E527C83", "target": "Lama <split(<string(gstr1)>, ,2)>. Posso parlarvi un momento?" },
+    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_001", "hash": "0C1716FC130FBB95", "target": "Le vostre valorose imprese sul campo di battaglia continuano a essere un esempio a cui tutti i nostri soldati aspirano. Dopo aver consultato i miei superiori, mi hanno chiesto di rendervi partecipi delle più alte onorificenze della Resistenza." },
+    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_002", "hash": "E3BAE0598C8BD0D7", "target": "Sono decorazioni conferite solo ai nostri soldati più valorosi, benedette affinché proteggano chi le indossa da coloro che vorrebbero portare rovina a Bozja." },
+    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_003", "hash": "2ABA2CA4968EEF4E", "target": "Solo pochi possiedono il valore necessario per sottoporsi alla valutazione, ma crediamo che voi, Lama <split(<string(gstr1)>, ,2)>, possiate meritare questa prestigiosissima onorificenza." },
+    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_005", "hash": "D615E727512ED474", "target": "Chi riceve onorificenze della Resistenza ottiene un aumento degli attributi durante le missioni di Save the Queen." },
+    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_006", "hash": "6B31621349599F26", "target": "Per ricevere onorificenze della Resistenza occorre accumulare molto mettle. Si noti inoltre che non si ottengono altre ricompense oltre all'aumento degli attributi." },
+    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_Q1_000_100", "hash": "33BE2BBFC2703C0C", "target": "Sottoporsi alla valutazione per le onorificenze della Resistenza?" },
+    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_100_010", "hash": "45E31612B39722D8", "target": "Benissimo. Seguiremo con grande interesse le vostre imprese sul campo, Lama <split(<string(gstr1)>, ,2)>." },
+    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_100_011", "hash": "8F8170B3560E468C", "target": "Quando vi riterrete pronti a ricevere le nostre onorificenze, venite a parlarmi e valuterò di conseguenza il vostro operato." },
+    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_010", "hash": "08C9D92ABE9FB97E", "target": "Avete sbloccato le onorificenze della Resistenza. Ne esistono tre tipi, ognuno dei quali aumenta diversi attributi del personaggio." },
+    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_011", "hash": "2225DD679501C2AF", "target": "Per ricevere onorificenze della Resistenza dovete prima accumulare mettle a sufficienza e parlare con il consigliere della Resistenza per ottenere Proofs of Mettle. Potrete poi scambiarli con le onorificenze che preferite. Potete rivolgervi al consigliere della Resistenza in qualsiasi momento per saperne di più." }
   ]
 }
