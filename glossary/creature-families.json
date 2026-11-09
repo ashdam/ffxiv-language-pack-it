@@ -1,4 +1,4 @@
-﻿{
+{
   "entries": [
     {"en":"sunbeard","it":"barbasole","protect":false,"forms":["il barbasole","i barbasole","del barbasole","dei barbasole","barbasole folto","barbasole folti"],"note":"Decisione dell'utente in glossary/Glossary.md#1067: nome della creatura, maschile invariabile; usare Barbasole quando la sorgente inizia con maiuscola. Per bushy sunbeard usare barbasole folto/folti. Non confondere la creatura con i favoriti/la peluria (sideburns); l'idioma Sweet baby sunbeard resta «barba del sole».","sources":["glossary/Glossary.md#1067","data/translations/world/fateevent.json#743:translation_name","data/translations/world/fate.json#1865:translation_description"]},
     {"en":"pudding","ja":"プリン","it":"budino","protect":false,"forms":["budini"],"note":"Use budino for Pudding names. Do not collapse the separate FFXIV source term flan into pudding.","sources":["https://www.piggyback.com/it/wp-content/uploads/sites/5/2020/04/FFXIII-2_I_SamplePages.pdf#page=13","https://www.piggyback.com/en/ffxiii-2_e_samplepages/#page=13","dev/data/translations/minigames/tripletriadcard.json#5:translation_name"]},
