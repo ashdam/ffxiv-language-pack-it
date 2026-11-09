@@ -472,6 +472,7 @@
     { "gameKey": "ActionTransient#3378", "hash": "DF6FF54C616922C0", "target": "Spara un proiettile di elemento fulmine nell'area designata.<br><colortype(504)><edgecolortype(505)>Effetto Aggiuntivo:<edgecolortype(0)><colortype(0)> <colortype(506)><edgecolortype(507)>Stordimento<edgecolortype(0)><colortype(0)><br><colortype(504)><edgecolortype(505)>Durata:<edgecolortype(0)><colortype(0)> 1s" },
     { "gameKey": "ActionTransient#3379", "hash": "41850E0FD577EF95", "target": "Ricopre il terreno di una linfa vischiosa, riducendo la velocità di movimento di chiunque vi entri." },
     { "gameKey": "ActionTransient#3487", "hash": "ADF5714242B3EF49", "target": "Rimuove un'autotorretta dal campo di battaglia." },
+    { "gameKey": "ActionTransient#3497", "hash": "5E2AAF798DE7A80D", "target": "" },
     { "gameKey": "ActionTransient#3504", "hash": "4EA47D822845F517", "target": "Sferra un attacco a distanza." },
     { "gameKey": "ActionTransient#3506", "hash": "78734D7CAF596C7D", "target": "Emette una carica luminosa e innocua." },
     { "gameKey": "ActionTransient#3538", "hash": "BB0456FF71EC2ADC", "target": "Sferra un attacco con una potenza di 700.<br>Può essere eseguito solo sotto l'effetto di <colortype(506)><edgecolortype(507)>Lama Impalante Pronta<edgecolortype(0)><colortype(0)>." },

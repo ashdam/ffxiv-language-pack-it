@@ -16,6 +16,7 @@
     { "gameKey": "quest/002/JobNin500_00234#TEXT_JOBNIN500_00234_TODO_03", "hash": "6172FB2B0568A327", "target": "Parlare con Zahrmerl al Molo di Candlekeep" },
     { "gameKey": "quest/002/JobNin500_00234#TEXT_JOBNIN500_00234_TODO_04", "hash": "805A0435B199C495", "target": "Sorvegliare dal punto d'osservazione" },
     { "gameKey": "quest/002/JobNin500_00234#TEXT_JOBNIN500_00234_TODO_05", "hash": "D314594A3D6EAF78", "target": "Parlare con Oboro al Magazzino del Molo" },
+    { "gameKey": "quest/002/JobNin500_00234#TEXT_JOBNIN500_00234_TODO_15", "hash": "FFE45BA4B5C3046A", "target": "" },
     { "gameKey": "quest/002/JobNin500_00234#TEXT_JOBNIN500_00234_OBORO_000_000", "hash": "4950A459BA497C87", "target": "Ah, <split(<string(gstr1)>, ,1)>. Mi fa piacere il tuo ritorno. Temevo di perdere l'occasione di salutarti come si deve." },
     { "gameKey": "quest/002/JobNin500_00234#TEXT_JOBNIN500_00234_OBORO_000_001", "hash": "AC101623FE5AF201", "target": "Sì, lasceremo il tuo regno. La mia missione è compiuta e le ferite di Tsubame sono quasi guarite. La tradizione ci impone di tornare dai nostri anziani per annunciare il successo." },
     { "gameKey": "quest/002/JobNin500_00234#TEXT_JOBNIN500_00234_OBORO_000_002", "hash": "33F2A7FE4644B5AA", "target": "Le ultime parole di Redbeak? Non mentirò: all'inizio mi pesavano molto. Ma, in fondo, sono uno shinobi. Sono venuto in questa terra per svolgere un ruolo, non per curiosità o rancore." },
