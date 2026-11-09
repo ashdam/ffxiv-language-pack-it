@@ -14,6 +14,10 @@
     { "gameKey": "quest/007/GaiUsa606_00768#TEXT_GAIUSA606_00768_DEIDRA_000_001", "hash": "F455D01D72D8EAD7", "target": "Il vecchio Fawkes, nei frutteti a nord, quest'anno ha un raccolto notevole, e conoscendolo sarebbe molto grato di ricevere aiuto." },
     { "gameKey": "quest/007/GaiUsa606_00768#TEXT_GAIUSA606_00768_FAWKES_000_010", "hash": "82C38195AB153536", "target": "Cosa porta un avventuriero nei miei umili frutteti? Oggi puntate alle mele del Sudario invece che alle bestie? Beh, io ve ne sono molto grato!" },
     { "gameKey": "quest/007/GaiUsa606_00768#TEXT_GAIUSA606_00768_FAWKES_000_01", "hash": "25E70EF8D217046E", "target": "Queste ossa non sono più adatte a salire sugli alberi come una volta. Vi sarei molto grato se raccoglieste qualche mela per me. Oh, e controllate che non si nasconda qualche insetto all'interno. Ah ah!" },
+    { "gameKey": "quest/007/GaiUsa606_00768#TEXT_GAIUSA606_00768_SYSTEM_000_003", "hash": "4737380AFAFFF105", "target": "" },
+    { "gameKey": "quest/007/GaiUsa606_00768#TEXT_GAIUSA606_00768_SYSTEM_000_004", "hash": "F00AEE7D68E3EFC0", "target": "" },
+    { "gameKey": "quest/007/GaiUsa606_00768#TEXT_GAIUSA606_00768_SYSTEM_000_005", "hash": "766CD0E4EEC12050", "target": "" },
+    { "gameKey": "quest/007/GaiUsa606_00768#TEXT_GAIUSA606_00768_SYSTEM_000_006", "hash": "325800689C252C70", "target": "" },
     { "gameKey": "quest/007/GaiUsa606_00768#TEXT_GAIUSA606_00768_FAWKES_000_020", "hash": "2E22784018BAE0AB", "target": "Di nuovo qui, così presto? Vediamo cosa avete in quel vostro cesto." },
     { "gameKey": "quest/007/GaiUsa606_00768#TEXT_GAIUSA606_00768_FAWKES_000_030", "hash": "A776EEA4CBDC1BDC", "target": "Ma guarda─solo vedere il raccolto mi fa venire l'acquolina. Avete occhio per le mele. Ho <if(gnum4,un figlio,una figlia)> più o meno della vostra età. Che ne dite di stabilirvi qui quando ne avrete abbastanza di cercare la gloria?" },
     { "gameKey": "quest/007/GaiUsa606_00768#TEXT_GAIUSA606_00768_POP_MESSAGE_000", "hash": "EE8A17A7C8D5B7D1", "target": "Una massa contorta sbuca fuori!" }
