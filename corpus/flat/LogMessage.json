@@ -579,7 +579,7 @@
     { "gameKey": "LogMessage#591", "hash": "31AE92AF666AE009", "target": "<head(<if([gstr1==gstr2],tu,<if(gnum7,<ennoun(ObjStr,3,gnum7,1,1)>,gstr2)>)>)> <if([gstr1==gstr2],raggiungi,raggiunge)> il livello <num(lnum2)> di <sheet(ClassJob,lnum1,0)>!" },
     { "gameKey": "LogMessage#592", "hash": "66CF2E87941C13F8", "target": "Non puoi usarlo durante un'interazione." },
     { "gameKey": "LogMessage#593", "hash": "F373498CF7607753", "target": "Non puoi usarlo qui." },
-    { "gameKey": "LogMessage#594", "hash": "F651B5ADECD26EE4", "target": "   <head(<if([gstr1==gstr3],<if(gnum8,<ennoun(ObjStr,3,gnum8,1,1)>,tu)>,<if(gnum8,<ennoun(ObjStr,3,gnum8,1,1)>,gstr3)>)>)> <if([gstr1==gstr3],sei,è)> invulnerabile e <if([gstr1==gstr3],non subisci,non subisce)> danni." },
+    { "gameKey": "LogMessage#594", "hash": "F651B5ADECD26EE4", "target": "   <head(<if([gstr1==gstr3],<if(gnum8,<ennoun(ObjStr,3,gnum8,1,1)>,tu)>,<if(gnum8,<ennoun(ObjStr,3,gnum8,1,1)>,gstr3)>)>)> <if([gstr1==gstr3],sei,è)> invulnerabile e <if([gstr1==gstr3],non subisci,non subisce)> danni." },
     { "gameKey": "LogMessage#595", "hash": "B217E2782225CA98", "target": "   Invulnerabilità! <head(<if([gstr1==gstr3],<if(gnum8,<ennoun(ObjStr,3,gnum8,1,1)>,tu)>,<if(gnum8,<ennoun(ObjStr,3,gnum8,1,1)>,gstr3)>)>)> <if([gstr1==gstr3],non subisci,non subisce)> alcun danno." },
     { "gameKey": "LogMessage#596", "hash": "213E17282E77D554", "target": "   <head(<if([gstr1==gstr3],<if(gnum8,<ennoun(ObjStr,3,gnum8,1,1)>,tu)>,<if(gnum8,<ennoun(ObjStr,3,gnum8,1,1)>,gstr3)>)>)> <if([gstr1==gstr3],resisti,resiste)> completamente a <sheet(Status,lnum2,0)>." },
     { "gameKey": "LogMessage#597", "hash": "694DEEF9B9D1740B", "target": "Bersaglio fuori portata." },

@@ -17,6 +17,7 @@ Scelte successive confermate: Highlander = Altomonte; Midlander = Mezzocolle; Wa
 | Leap of Faith | Salto della Fede | Titolo del GATE del Gold Saucer |
 | Duskwight | Crepuscolare / Crepuscolari | Nome del clan/tribu dei Duskwight |
 | Seeker of the Sun | Cercasole | Clan dei Cercasole in prosa e label Tribe |
+| Sylphs | Silfi | Nome del popolo; non applicare al nome proprio Sylphie o automaticamente a nemici e oggetti |
 | Game QA | QA del Gioco | Etichetta status OnlineStatus#1 |
 | Battle Mentor | Mentore di Battaglia | Etichetta status OnlineStatus#11 |
 | Viewing Cutscene | In una Scena | Etichetta status OnlineStatus#15 |

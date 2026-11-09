@@ -579,7 +579,7 @@
     { "gameKey": "cut_scene/060/VoiceMan_06006#TEXT_VOICEMAN_06006_005510_ALISAIE", "hash": "80040F603BE9E222", "target": "Allora perché proporre una cosa del genere!?" },
     { "gameKey": "cut_scene/060/VoiceMan_06006#TEXT_VOICEMAN_06006_005520_ALISAIE", "hash": "3C29222E51BAFE19", "target": "È troppo da chiedere a chiunque, persino a te!" },
     { "gameKey": "cut_scene/060/VoiceMan_06006#TEXT_VOICEMAN_06006_005530_ALISAIE", "hash": "0B38940B82BC0712", "target": "Perché deve toccare a te? Perché devi lottare senza nessuno al tuo fianco?" },
-    { "gameKey": "cut_scene/060/VoiceMan_06006#TEXT_VOICEMAN_06006_005540_ALISAIE", "hash": "A88FA391F9D523B3", "target": "<if(gnum4,Più che un'eroina, è una cara amica,Più che un eroe, è un caro amico)>." },
+    { "gameKey": "cut_scene/060/VoiceMan_06006#TEXT_VOICEMAN_06006_005540_ALISAIE", "hash": "A88FA391F9D523B3", "target": "<if(gnum4,Più che un'eroina\\, è una cara amica,Più che un eroe\\, è un caro amico)>." },
     { "gameKey": "cut_scene/060/VoiceMan_06006#TEXT_VOICEMAN_06006_005550_ALISAIE", "hash": "94FD222AD4BADEF5", "target": "Non solo per noi, ma per tanti altri. Ci sono così tante persone al mondo che ti vogliono bene, eppure..." },
     { "gameKey": "cut_scene/060/VoiceMan_06006#TEXT_VOICEMAN_06006_005560_ALISAIE", "hash": "E5CCC96376617EB1", "target": "Eppure..." },
     { "gameKey": "cut_scene/060/VoiceMan_06006#TEXT_VOICEMAN_06006_005570_ALISAIE", "hash": "88EE0877B5373147", "target": "" },
