@@ -100,7 +100,7 @@
     { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_STORMA_000_95", "hash": "A3D91C8EBBB65288", "target": "Parlate con Zanthael nella Sala del Baluardo. Sarà lieto di condurvi alla Sala Comando dell'Ammiraglio, al Ponte dell'Ammiragliato." },
     { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_ZANTHAEL_000_100", "hash": "8D61F81AEAFCF286", "target": "Salve, <if(gnum4,signora,signore)>, e vi do il benvenuto nella nostra bella città. Se mi permettete di esaminare il sigillo sulla missiva che portate..." },
     { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_ZANTHAEL_000_101", "hash": "E91DEBA7962B429B", "target": "Sì, sembra tutto in ordine. Le mie scuse. Non possiamo permetterci di abbassare la guardia, capirete. Prego, da questa parte." },
-    { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_800010_MERLWYB", "hash": "CEC66F313D536D21", "target": "Entra." },
+    { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_800010_MERLWYB", "hash": "CEC66F313D536D21", "target": "(-???-)Entra." },
     { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_700020_MERLWYB", "hash": "C9C773572BA7D9CD", "target": "I mercanti dalla lingua d'argento mandano <if(gnum4,un'avventuriera,un avventuriero)> a parlare in loro nome. A quanto pare, gli ul'dahni ripongono grande fiducia in te." },
     { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_700030_MERLWYB", "hash": "73FE59B320771899", "target": "Da questa parte." },
     { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_700040_MERLWYB", "hash": "9803D22EB71E4366", "target": "Ti do il benvenuto." },

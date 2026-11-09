@@ -6,8 +6,8 @@
     { "gameKey": "dungeon/000/DungeonWeapons_00000#TEXT_DUNGEONWEAPONS_00000_SHADOWHUNTER_100_010", "hash": "D17F9FAC4150A65E", "target": "Eccola. L'Arma Smeraldo..." },
     { "gameKey": "dungeon/000/DungeonWeapons_00000#TEXT_DUNGEONWEAPONS_00000_REX_200_010", "hash": "E4452B530A4FBB62", "target": "Ti aspettavo, <if(gnum4,eroina,eroe)> di Eorzea!" },
     { "gameKey": "dungeon/000/DungeonWeapons_00000#TEXT_DUNGEONWEAPONS_00000_REX_000_010", "hash": "BF0DB42D04B22625", "target": "Guardate, Padre! Questo è il potere che possediamo!" },
-    { "gameKey": "dungeon/000/DungeonWeapons_00000#TEXT_DUNGEONWEAPONS_00000_CID_000_020", "hash": "AA5067C3DCB67C0B", "target": "Bersaglio in vista. Immobilizzalo con una salva di missili!" },
-    { "gameKey": "dungeon/000/DungeonWeapons_00000#TEXT_DUNGEONWEAPONS_00000_ALFONSE_000_020", "hash": "CA0E647091C961D0", "target": "Minaccia rilevata, risposta al fuoco!" },
-    { "gameKey": "dungeon/000/DungeonWeapons_00000#TEXT_DUNGEONWEAPONS_00000_CID_000_021", "hash": "10D1697BCEF7E94A", "target": "Il campo di contenimento non reggerà!" }
+    { "gameKey": "dungeon/000/DungeonWeapons_00000#TEXT_DUNGEONWEAPONS_00000_CID_000_020", "hash": "AA5067C3DCB67C0B", "target": "(-Gaius-)Bersaglio in vista. Immobilizzalo con una salva di missili!" },
+    { "gameKey": "dungeon/000/DungeonWeapons_00000#TEXT_DUNGEONWEAPONS_00000_ALFONSE_000_020", "hash": "CA0E647091C961D0", "target": "(-Familiar Male Voice-)Minaccia rilevata, risposta al fuoco!" },
+    { "gameKey": "dungeon/000/DungeonWeapons_00000#TEXT_DUNGEONWEAPONS_00000_CID_000_021", "hash": "10D1697BCEF7E94A", "target": "(-Cid-)Il campo di contenimento non reggerà!" }
   ]
 }

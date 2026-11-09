@@ -23,7 +23,7 @@
     { "gameKey": "quest/054/KinGra305_05439#TEXT_KINGRA305_05439_YAANA_000_110", "hash": "1272D6DB525B6D82", "target": "Come tua seconda, non mi resta che fare il tifo per la tua vittoria... che sono certa festeggeremo molto presto!" },
     { "gameKey": "quest/054/KinGra305_05439#TEXT_KINGRA305_05439_METEM_000_200", "hash": "CFA6E151A481201F", "target": "<split(<string(gstr1)>, ,1)> ha spodestato Tyrant e conquistato il titolo di <if(gnum4,campionessa assoluta,campione assoluto)>..." },
     { "gameKey": "quest/054/KinGra305_05439#TEXT_KINGRA305_05439_METEM_000_201", "hash": "151B259623C869CE", "target": "Oh? Come mai l'arbitro torna fuori proprio adesso?" },
-    { "gameKey": "quest/054/KinGra305_05439#TEXT_KINGRA305_05439_ARCADIAOWNER_000_202", "hash": "6974CE0C7684B60B", "target": "Mi rallegra vedere che non mi sbagliavo sul tuo conto." },
+    { "gameKey": "quest/054/KinGra305_05439#TEXT_KINGRA305_05439_ARCADIAOWNER_000_202", "hash": "6974CE0C7684B60B", "target": "(-Familiar Voice-)Mi rallegra vedere che non mi sbagliavo sul tuo conto." },
     { "gameKey": "quest/054/KinGra305_05439#TEXT_KINGRA305_05439_METEM_000_203", "hash": "167DD0CFD56B232F", "target": "Q-quella voce... È il presidente!" },
     { "gameKey": "quest/054/KinGra305_05439#TEXT_KINGRA305_05439_ARCADIAOWNER_000_204", "hash": "480A6A8CB9906D1C", "target": "Proprio io, anche se questa ovviamente non è la mia vera forma. Mi trovo nei miei alloggi all'ultimo piano." },
     { "gameKey": "quest/054/KinGra305_05439#TEXT_KINGRA305_05439_YAANA_000_205", "hash": "2D7FDCE2C03FEE0A", "target": "Un patto è un patto! Dicci dov'è la Goccia di Vita!" },
@@ -56,7 +56,7 @@
     { "gameKey": "quest/054/KinGra305_05439#TEXT_KINGRA305_05439_ARCADIONFANA_000_232", "hash": "CB92A6B110CF395B", "target": "L'Arcadion era il mio rifugio. Ma se avessi saputo quale fosse il prezzo..." },
     { "gameKey": "quest/054/KinGra305_05439#TEXT_KINGRA305_05439_EXCITABLEMAN_100_233", "hash": "6F40B7576C1F7819", "target": "Se le cose stanno così, la nostra unica speranza è che vinca l'inarrestabile rivelazione!" },
     { "gameKey": "quest/054/KinGra305_05439#TEXT_KINGRA305_05439_UNENHANCEDWARRIORFANA_100_234", "hash": "7D848BF9681D0316", "target": "Esatto! Facciamo tutti il tifo per <if(gnum4,lei,lui)> contro quel malvagio presidente!" },
-    { "gameKey": "quest/054/KinGra305_05439#TEXT_KINGRA305_05439_THEHOWLINGBLADE_000_234", "hash": "0A51B56CCF1C0501", "target": "Eutrope..." },
+    { "gameKey": "quest/054/KinGra305_05439#TEXT_KINGRA305_05439_THEHOWLINGBLADE_000_234", "hash": "0A51B56CCF1C0501", "target": "(-Retsarra-)Eutrope..." },
     { "gameKey": "quest/054/KinGra305_05439#TEXT_KINGRA305_05439_YAANA_000_250", "hash": "63EFA9BD9C2EE229", "target": "\\<sob> Non anche tu, Eutrope... Non anche tu..." }
   ]
 }

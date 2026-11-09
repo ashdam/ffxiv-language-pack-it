@@ -20,7 +20,7 @@
     { "gameKey": "quest/020/ClsBsm550_02009#TEXT_CLSBSM550_02009_WOUNDEDHUNTER02009_000_020", "hash": "DBC8C146574F6800", "target": "Sto bene... È solo una ferita superficiale..." },
     { "gameKey": "quest/020/ClsBsm550_02009#TEXT_CLSBSM550_02009_LAURISSE_000_030", "hash": "D504128ACAFE8532", "target": "...Per Halone, quell'uomo vi ha mandato a cercarmi <italic(1)>di nuovo<italic(0)>?" },
     { "gameKey": "quest/020/ClsBsm550_02009#TEXT_CLSBSM550_02009_WOUNDEDHUNTER02009_000_031", "hash": "5C3F39386A727D18", "target": "Ungh... Siete al suo servizio, eh? Non preoccupatevi, <if(gnum4,signora,signore)>: la vostra padrona combatte come un behemoth dieci volte più grande! Mi ha salvato da un chocobo selvatico. Ma cosa... chi ci sta urlando contro?" },
-    { "gameKey": "quest/020/ClsBsm550_02009#TEXT_CLSBSM550_02009_FREMONDAIN_000_032", "hash": "A581C7DB17ABA903", "target": "Baronessa! Baronessa Laurisse!" },
+    { "gameKey": "quest/020/ClsBsm550_02009#TEXT_CLSBSM550_02009_FREMONDAIN_000_032", "hash": "A581C7DB17ABA903", "target": "(-Fremondain-)Baronessa! Baronessa Laurisse!" },
     { "gameKey": "quest/020/ClsBsm550_02009#TEXT_CLSBSM550_02009_FREMONDAIN_000_033", "hash": "0971F486479278C8", "target": "\\<anf> Mia signora! Mia signora, siete... siete ferita!? \\<anf> Ditemi dove... e io..." },
     { "gameKey": "quest/020/ClsBsm550_02009#TEXT_CLSBSM550_02009_LAURISSE_000_034", "hash": "8710A0FA0CE0DA94", "target": "Fremondain! Hai corso fin qui? Su, risparmia il fiato! Sto benissimo." },
     { "gameKey": "quest/020/ClsBsm550_02009#TEXT_CLSBSM550_02009_WOUNDEDHUNTER02009_000_035", "hash": "DFDBE9373194E911", "target": "Ehm... <italic(1)>voi<italic(0)> forse state bene, mia signora, ma la spada? Perdonatemi, ma non si è spezzata nel chocobo?" },

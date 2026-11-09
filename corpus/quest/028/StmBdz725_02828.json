@@ -32,7 +32,7 @@
     { "gameKey": "quest/028/StmBdz725_02828#TEXT_STMBDZ725_02828_TAHLAMOLKOH_000_033", "hash": "3B3C630A8379B379", "target": "Avete trovato qualcosa?" },
     { "gameKey": "quest/028/StmBdz725_02828#TEXT_STMBDZ725_02828_TAHLAMOLKOH_000_034", "hash": "F1B9A97FEB1991C6", "target": "\\<gasp> Riconosco questi simboli. È un contenitore di Rosa Nera! I Dodici ci aiutino, se ne restano altri campioni." },
     { "gameKey": "quest/028/StmBdz725_02828#TEXT_STMBDZ725_02828_TAHLAMOLKOH_000_035", "hash": "F71CD9BA9E4ABBA9", "target": "Non penserete che l'abbiano nascosto qui i Qalyana? Che cosa potrebbero volerne fare?" },
-    { "gameKey": "quest/028/StmBdz725_02828#TEXT_STMBDZ725_02828_MZHETTIA_000_036", "hash": "453B4866F9979360", "target": "<split(<string(gstr1)>, ,1)>! State bene?" },
+    { "gameKey": "quest/028/StmBdz725_02828#TEXT_STMBDZ725_02828_MZHETTIA_000_036", "hash": "453B4866F9979360", "target": "(-Familiar Voice-)<split(<string(gstr1)>, ,1)>! State bene?" },
     { "gameKey": "quest/028/StmBdz725_02828#TEXT_STMBDZ725_02828_MZHETTIA_000_037", "hash": "EAE126837A9202CD", "target": "Non fate quella faccia sorpresa. Tirare qualche freccia non è <italic(1)>così<italic(0)> difficile, neppure per me." },
     { "gameKey": "quest/028/StmBdz725_02828#TEXT_STMBDZ725_02828_MZHETTIA_000_038", "hash": "CB9C8E5361C35411", "target": "Ma non è questo che conta. Porto notizie da M'rahz Nunh." },
     { "gameKey": "quest/028/StmBdz725_02828#TEXT_STMBDZ725_02828_MZHETTIA_000_039", "hash": "6CCFE0C490DB3466", "target": "È andato dai Vira per ringraziarli di avermi accolto dopo la scomparsa di mio padre. Lì ha scoperto una terribile verità sull'incidente che gli costò la vita." },

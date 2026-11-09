@@ -177,7 +177,7 @@
     { "gameKey": "cut_scene/042/VoiceMan_04200#TEXT_VOICEMAN_04200_001650_HIEN", "hash": "FA422067FD19B9C8", "target": "Sarete nostri ospiti d'onore." },
     { "gameKey": "cut_scene/042/VoiceMan_04200#TEXT_VOICEMAN_04200_001660_HIEN", "hash": "DEE2B7D8B5394FBE", "target": "Yugiri, affido a te l'ambasciatore e il suo seguito. Assicurati che siano trattati bene." },
     { "gameKey": "cut_scene/042/VoiceMan_04200#TEXT_VOICEMAN_04200_001670_ASAHI", "hash": "EEAC10FE4C1B4669", "target": "Avete la nostra gratitudine, Lord Hien. Attenderemo con ansia la vostra risposta." },
-    { "gameKey": "cut_scene/042/VoiceMan_04200#TEXT_VOICEMAN_04200_001680_ISSE", "hash": "84EC9878FCB07DB5", "target": "Indietro! Vi avverto!" },
+    { "gameKey": "cut_scene/042/VoiceMan_04200#TEXT_VOICEMAN_04200_001680_ISSE", "hash": "84EC9878FCB07DB5", "target": "(-???-)Indietro! Vi avverto!" },
     { "gameKey": "cut_scene/042/VoiceMan_04200#TEXT_VOICEMAN_04200_001690_ASAHI", "hash": "DA21ACF481DBA7B4", "target": "Qualcuno è nei guai!" },
     { "gameKey": "cut_scene/042/VoiceMan_04200#TEXT_VOICEMAN_04200_001700_ASAHI", "hash": "8C69B9A627A88A36", "target": "State bene?" },
     { "gameKey": "cut_scene/042/VoiceMan_04200#TEXT_VOICEMAN_04200_001710_ISSE", "hash": "1AAE6525E5EBEA40", "target": "Sì..." },
@@ -291,6 +291,6 @@
     { "gameKey": "cut_scene/042/VoiceMan_04200#TEXT_VOICEMAN_04200_002721_YOTSUYU", "hash": "567510B60EAE49FC", "target": "Chi sei...? Chi sei...?" },
     { "gameKey": "cut_scene/042/VoiceMan_04200#TEXT_VOICEMAN_04200_002725_SYSTEM", "hash": "87A7F849BC6F5814", "target": "Nel frattempo, nella capitale imperiale..." },
     { "gameKey": "cut_scene/042/VoiceMan_04200#TEXT_VOICEMAN_04200_002730_IMPERIALDOCTOR", "hash": "BE253131A30FD67F", "target": "Come vi sentite, mio signore?" },
-    { "gameKey": "cut_scene/042/VoiceMan_04200#TEXT_VOICEMAN_04200_002740_ROBEMAN", "hash": "B095A5525F1B25FE", "target": "Bene. Ora lasciami." }
+    { "gameKey": "cut_scene/042/VoiceMan_04200#TEXT_VOICEMAN_04200_002740_ROBEMAN", "hash": "B095A5525F1B25FE", "target": "(-???-)Bene. Ora lasciami." }
   ]
 }

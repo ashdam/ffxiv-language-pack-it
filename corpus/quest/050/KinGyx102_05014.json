@@ -19,7 +19,7 @@
     { "gameKey": "quest/050/KinGyx102_05014#TEXT_KINGYX102_05014_NOSTALGIA_000_002", "hash": "0222B15E3834B68A", "target": "Magnifico! Oblivion è fortunata ad avervi tra i suoi alleati." },
     { "gameKey": "quest/050/KinGyx102_05014#TEXT_KINGYX102_05014_NOSTALGIA_000_003", "hash": "AE04297025357FC2", "target": "Ritroviamoci alla Porta del Ricordo, allora. Lì potrò spiegarvi meglio." },
     { "gameKey": "quest/050/KinGyx102_05014#TEXT_KINGYX102_05014_NOSTALGIA_000_004", "hash": "303758394ED22F3B", "target": "Oh, ma vi avverto: a prima vista potreste non riconoscermi!" },
-    { "gameKey": "quest/050/KinGyx102_05014#TEXT_KINGYX102_05014_NOSTALGIA_000_010", "hash": "3CEDB53F2D27A360", "target": "Ah! Eccovi, <split(<string(gstr1)>, ,1)>." },
+    { "gameKey": "quest/050/KinGyx102_05014#TEXT_KINGYX102_05014_NOSTALGIA_000_010", "hash": "3CEDB53F2D27A360", "target": "(-???-)Ah! Eccovi, <split(<string(gstr1)>, ,1)>." },
     { "gameKey": "quest/050/KinGyx102_05014#TEXT_KINGYX102_05014_NOSTALGIA_000_011", "hash": "0DB8FBF6D989FFD8", "target": "Ehehe, sono io, Nostalgia! <if(gnum4,Sorpresa,Sorpreso)>?" },
     { "gameKey": "quest/050/KinGyx102_05014#TEXT_KINGYX102_05014_NOSTALGIA_100_011", "hash": "787F06366CEA0218", "target": "Ora che Zoraal Ja non c'è più, Oblivion sta destinando le proprie risorse a un'indagine su Memoria Vivente." },
     { "gameKey": "quest/050/KinGyx102_05014#TEXT_KINGYX102_05014_NOSTALGIA_000_012", "hash": "3EB87120F99F56F6", "target": "Utilizzando la tecnologia di Cahciua, abbiamo sviluppato sentinelle telecomandate dal Retrobottega, così le nostre ricognizioni sono sicure ed efficienti!" },

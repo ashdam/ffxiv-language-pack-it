@@ -18,7 +18,7 @@
     { "gameKey": "quest/048/KinGba251_04829#TEXT_KINGBA251_04829_TODO_05", "hash": "79F03FDFAB2437B5", "target": "Parlare con Nyipine a Tuliyollal" },
     { "gameKey": "quest/048/KinGba251_04829#TEXT_KINGBA251_04829_LOASHKANA_000_001", "hash": "7B03BA51523CD7F4", "target": "Ciao, <split(<string(gstr1)>, ,1)>. Sono rimasta ad aspettare qualcuno da Costa del Sol, ma... ancora niente." },
     { "gameKey": "quest/048/KinGba251_04829#TEXT_KINGBA251_04829_LOASHKANA_000_002", "hash": "B4F3B9EC32909543", "target": "Forse dovremmo andarci di persona, per sicurezza..." },
-    { "gameKey": "quest/048/KinGba251_04829#TEXT_KINGBA251_04829_SERVANT04829_000_003", "hash": "4DB3B65CFB76DC4E", "target": "<if(gnum4,Madama,Mastro)> <split(<string(gstr1)>, ,1)>! Madama Loashkana!" },
+    { "gameKey": "quest/048/KinGba251_04829#TEXT_KINGBA251_04829_SERVANT04829_000_003", "hash": "4DB3B65CFB76DC4E", "target": "(-???-)<if(gnum4,Madama,Mastro)> <split(<string(gstr1)>, ,1)>! Madama Loashkana!" },
     { "gameKey": "quest/048/KinGba251_04829#TEXT_KINGBA251_04829_SERVANT04829_000_004", "hash": "90A8F7F82BEA0D92", "target": "Perdonate l'arrivo improvviso, ma porto un messaggio di mastro Gegeruju. La vostra preda è stata avvistata nella La Noscea orientale." },
     { "gameKey": "quest/048/KinGba251_04829#TEXT_KINGBA251_04829_LOASHKANA_000_005", "hash": "5F73F0F4367F6076", "target": "Oh! Beh, meno male che non sono partita prima..." },
     { "gameKey": "quest/048/KinGba251_04829#TEXT_KINGBA251_04829_LOASHKANA_000_006", "hash": "DDA9CECC5BB7E3E4", "target": "Grazie per averci portato notizie! Dove sono stati visti l'ultima volta nella La Noscea orientale?" },

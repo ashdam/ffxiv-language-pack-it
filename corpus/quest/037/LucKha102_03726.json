@@ -42,8 +42,8 @@
     { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_AUGEBERT_000_031", "hash": "9FE6CD46817CDCA3", "target": "Comunque non c'è fretta. Quando Francel torna, ne parlo con lui e risolviamo." },
     { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_SYSTEM_000_032", "hash": "C5581BB3B69C5C46", "target": "Sembra che il tuo consiglio non sia stato utile." },
     { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_ARTISANA03726_000_033", "hash": "18CD07723C88D172", "target": "Come, lord Francel non c'è neppure? Bah, che perdita di tempo." },
-    { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_ARTISANB03726_000_034", "hash": "642FA69BC433273D", "target": "S-Suvvia, signore, non dovreste dire così. Sapete che il sovrintendente è un uomo impegnato." },
-    { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_ARTISANB03726_000_035", "hash": "4C56D7C6369AEF60", "target": "Siamo artigiani di Limsa Lominsa, incaricati di insegnare le nostre tecniche alla gente del posto." },
+    { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_ARTISANB03726_000_034", "hash": "642FA69BC433273D", "target": "(-Apprehensive Artisan-)S-Suvvia, signore, non dovreste dire così. Sapete che il sovrintendente è un uomo impegnato." },
+    { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_ARTISANB03726_000_035", "hash": "4C56D7C6369AEF60", "target": "(-Apprehensive Artisan-)Siamo artigiani di Limsa Lominsa, incaricati di insegnare le nostre tecniche alla gente del posto." },
     { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_ARTISANA03726_000_036", "hash": "4B0AB4893E1A4148", "target": "I nostri apprendisti fanno buoni progressi e vorremmo assegnare loro compiti più avanzati. Ma ci servono macchinari specializzati che qui a Ishgard non hanno." },
     { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_ARTISANA03726_000_037", "hash": "1770ECF912580547", "target": "Vogliamo chiedere al sovrintendente di farli arrivare, ma pare che dovremo aspettare..." },
     { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_Q3_000_000", "hash": "F326B568FAE91A24", "target": "Che cosa dirai?" },
@@ -95,7 +95,7 @@
     { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_FRANCEL_000_081", "hash": "6CD10E584E419416", "target": "<split(<string(gstr1)>, ,1)>, mi risulta che tu conosca lord Tarresson, il conte emerito. Con la sua abilità e passione, sarà senz'altro un grande alleato della nostra causa." },
     { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_FONCRINEAU_000_082", "hash": "5C0AE6E6883E49E2", "target": "Ebbene, promesse di collaborazione da <italic(1)>tutte<italic(0)> le Alte Casate... Fino a poco tempo fa sarebbe stato impensabile." },
     { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_FONCRINEAU_100_082", "hash": "C26E15699801B902", "target": "È merito della pace di cui godiamo grazie a voi, <if(gnum4,signora,signor)> <split(<string(gstr1)>, ,1)>." },
-    { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_NOALLE_000_083", "hash": "62E7D6059FB326F2", "target": "\\<sob> Aiuto! Vi prego, aiuto!" },
+    { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_NOALLE_000_083", "hash": "62E7D6059FB326F2", "target": "(-???-)\\<sob> Aiuto! Vi prego, aiuto!" },
     { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_NOALLE_000_084", "hash": "50D77729A1C05CA6", "target": "L-La mamma─è nei guai! Vi prego, dovete aiutarla!" },
     { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_FRANCEL_000_085", "hash": "C245EB8BB45E083C", "target": "Noalle! Fa' un bel respiro, piccola, e dicci cosa è successo ad Audaine." }
   ]

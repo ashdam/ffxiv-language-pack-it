@@ -25,7 +25,7 @@
     { "gameKey": "quest/024/StmBda318_02494#TEXT_STMBDA318_02494_AZAMI_000_053", "hash": "DF14BDD5BD782A80", "target": "Li abbiamo sepolti su una rupe a ovest del villaggio. C'è un sentiero che attraversa le terrazze. Ve lo mostro!" },
     { "gameKey": "quest/024/StmBda318_02494#TEXT_STMBDA318_02494_AZAMI_000_060", "hash": "68B4B5F2045D831B", "target": "Siamo <if(gnum4,arrivate,arrivati)>! Datemi solo un momento per posare i fiori, poi vi presenterò..." },
     { "gameKey": "quest/024/StmBda318_02494#TEXT_STMBDA318_02494_AZAMI_000_061", "hash": "FF429BBE6061C9C2", "target": "Adoravano incontrare viaggiatori e ascoltare storie di luoghi lontani. Forse potreste raccontarne loro una sulla vostra patria?" },
-    { "gameKey": "quest/024/StmBda318_02494#TEXT_STMBDA318_02494_ISSE_000_062", "hash": "A950EAB3A772C979", "target": "Azami! Azami! Sei lì? Azami!" },
+    { "gameKey": "quest/024/StmBda318_02494#TEXT_STMBDA318_02494_ISSE_000_062", "hash": "A950EAB3A772C979", "target": "(-???-)Azami! Azami! Sei lì? Azami!" },
     { "gameKey": "quest/024/StmBda318_02494#TEXT_STMBDA318_02494_ISSE_000_063", "hash": "E3DDB5BCD3DD3284", "target": "Ma che─ Non dovresti essere qui! Sta' <if(gnum4,lontana,lontano)> da mia sorella!" },
     { "gameKey": "quest/024/StmBda318_02494#TEXT_STMBDA318_02494_AZAMI_000_064", "hash": "A5971E38AB73FF1F", "target": "Non essere maleducato! <if(gnum4,Lei,Lui)> mi ha salvata dai mostri, fratello─<if(gnum4,lei,lui)> mi ha persino aiutata a raccogliere i fiori per mamma e papà!" },
     { "gameKey": "quest/024/StmBda318_02494#TEXT_STMBDA318_02494_ISSE_000_065", "hash": "D753B776B1FB506E", "target": "Torna al villaggio. Subito." },

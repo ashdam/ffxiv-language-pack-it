@@ -36,7 +36,7 @@
     { "gameKey": "quest/005/ManFst206_00509#TEXT_MANFST206_00509_TATARU_000_41", "hash": "D36C4773310940CA", "target": "L'Antecedente vi attende al piano inferiore, nel suo studio. Potete entrare quando volete." },
     { "gameKey": "quest/005/ManFst206_00509#TEXT_MANFST206_00509_GUIDE_000_45", "hash": "3C30D49D2419A68B", "target": "Immagino che siate <string(gstr1)>. Tataru mi ha avvisato del vostro arrivo." },
     { "gameKey": "quest/005/ManFst206_00509#TEXT_MANFST206_00509_GUIDE_000_46", "hash": "97904A3E10B61193", "target": "Lady Minfilia vi attende con impazienza. Da questa parte, prego." },
-    { "gameKey": "quest/005/ManFst206_00509#TEXT_MANFST206_00509_100010_MINFILIA", "hash": "B2DB2EFC15785C23", "target": "Dunque sei tu <if(gnum4,l'avventuriera,l'avventuriero)> di cui ho tanto sentito parlare." },
+    { "gameKey": "quest/005/ManFst206_00509#TEXT_MANFST206_00509_100010_MINFILIA", "hash": "B2DB2EFC15785C23", "target": "(-???-)Dunque sei tu <if(gnum4,l'avventuriera,l'avventuriero)> di cui ho tanto sentito parlare." },
     { "gameKey": "quest/005/ManFst206_00509#TEXT_MANFST206_00509_100020_MINFILIA", "hash": "5AD89690C12CDCD2", "target": "Piacere di conoscerti, <if(gnum4,amica mia,amico mio)>. Mi chiamo Minfilia e guido gli Eredi della Settima Alba." },
     { "gameKey": "quest/005/ManFst206_00509#TEXT_MANFST206_00509_100030_MINFILIA", "hash": "25B51B481EAF5D9D", "target": "Aspettavo il tuo arrivo." },
     { "gameKey": "quest/005/ManFst206_00509#TEXT_MANFST206_00509_100040_MINFILIA", "hash": "76CA7A48A588EB93", "target": "Dopo cinque lunghi anni...<if(gnum4,sei tornata,sei tornato)> da noi, proprio come aveva detto Louisoix..." },

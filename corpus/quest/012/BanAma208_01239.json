@@ -18,10 +18,10 @@
     { "gameKey": "quest/012/BanAma208_01239#TEXT_BANAMA208_01239_NARUJIBOH_000_010", "hash": "CC5AE9926EFF0675", "target": "Prendi le chiavi ai Flamefang ravager e libera i prigionieri dalle gabbie!" },
     { "gameKey": "quest/012/BanAma208_01239#TEXT_BANAMA208_01239_POP_MESSAGE", "hash": "F0B7E22623D97C08", "target": "Avverti una presenza ostile!" },
     { "gameKey": "quest/012/BanAma208_01239#TEXT_BANAMA208_01239_POP_MESSAGE_000_000", "hash": "41A36D39E7CD05E7", "target": "Il nemico è ancora nei paraggi!" },
-    { "gameKey": "quest/012/BanAma208_01239#TEXT_BANAMA208_01239_PRISONER_001_001", "hash": "213E69B9CB377087", "target": "Non osavo sperare che arrivassero aiuti. Ti prego... Potrebbero esserci altri..." },
-    { "gameKey": "quest/012/BanAma208_01239#TEXT_BANAMA208_01239_PRISONER_001_002", "hash": "5D4E802E36EFA33A", "target": "Grazie! Oh, grazie! Mi ero quasi rassegnato a diventare schiavo degli uomini-bestia!" },
-    { "gameKey": "quest/012/BanAma208_01239#TEXT_BANAMA208_01239_PRISONER_001_003", "hash": "239FA64330F2E250", "target": "Be', che piacere vederti, <if(gnum4,signorina,ragazzo)>. Mai avuto tanta voglia di vedere <if(gnum4,un'avventuriera,un avventuriero)>!" },
-    { "gameKey": "quest/012/BanAma208_01239#TEXT_BANAMA208_01239_PRISONER_001_004", "hash": "74CF43A57C5234E0", "target": "\\<sob> Grazie agli dèi! E a te, naturalmente! Ma soprattutto agli dèi!" },
+    { "gameKey": "quest/012/BanAma208_01239#TEXT_BANAMA208_01239_PRISONER_001_001", "hash": "213E69B9CB377087", "target": "(-Freed Prisoner-)Non osavo sperare che arrivassero aiuti. Ti prego... Potrebbero esserci altri..." },
+    { "gameKey": "quest/012/BanAma208_01239#TEXT_BANAMA208_01239_PRISONER_001_002", "hash": "5D4E802E36EFA33A", "target": "(-Freed Prisoner-)Grazie! Oh, grazie! Mi ero quasi rassegnato a diventare schiavo degli uomini-bestia!" },
+    { "gameKey": "quest/012/BanAma208_01239#TEXT_BANAMA208_01239_PRISONER_001_003", "hash": "239FA64330F2E250", "target": "(-Freed Prisoner-)Be', che piacere vederti, <if(gnum4,signorina,ragazzo)>. Mai avuto tanta voglia di vedere <if(gnum4,un'avventuriera,un avventuriero)>!" },
+    { "gameKey": "quest/012/BanAma208_01239#TEXT_BANAMA208_01239_PRISONER_001_004", "hash": "74CF43A57C5234E0", "target": "(-Freed Prisoner-)\\<sob> Grazie agli dèi! E a te, naturalmente! Ma soprattutto agli dèi!" },
     { "gameKey": "quest/012/BanAma208_01239#TEXT_BANAMA208_01239_NARUJIBOH_000_020", "hash": "483D595D12839C59", "target": "Strappare quelle prede alle fauci delle Zanne di Fuoco non era affatto semplice. Non mi sorprende che il condottiero abbia scelto di fidarsi di te." },
     { "gameKey": "quest/012/BanAma208_01239#TEXT_BANAMA208_01239_NARUJIBOH_000_021", "hash": "ECF97C6876FCE189", "target": "Le tue gesta si fanno più straordinarie ogni giorno, <if(gnum4,onorata alleata,onorato alleato)>. Mi spronano a impegnarmi di più nel mio perfezionamento marziale." }
   ]

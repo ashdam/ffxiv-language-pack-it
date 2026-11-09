@@ -61,7 +61,7 @@
     { "gameKey": "quest/005/ManFst600_00525#TEXT_MANFST600_00525_600570_IGEYORLM", "hash": "933733203C4E1297", "target": "<colortype(547)>Presto si desteranno anche gli altri.<colortype(0)>" },
     { "gameKey": "quest/005/ManFst600_00525#TEXT_MANFST600_00525_600580_NABRIALES", "hash": "A56CA193BE9E6E0E", "target": "<colortype(547)>Non si tratta di capire se il campione di Eorzea cederà, ma quando.<colortype(0)>" },
     { "gameKey": "quest/005/ManFst600_00525#TEXT_MANFST600_00525_600590_LAHABREAANCIENT", "hash": "DD793A0160DA01CB", "target": "<colortype(547)>A ogni istante che passa ci avviciniamo al Giudizio.<colortype(0)>" },
-    { "gameKey": "quest/005/ManFst600_00525#TEXT_MANFST600_00525_600600_FOURTEENASCIANS", "hash": "52C0AF9412B448E7", "target": "<colortype(547)>All'unico vero dio!<colortype(0)>" },
-    { "gameKey": "quest/005/ManFst600_00525#TEXT_MANFST600_00525_600610_FOURTEENASCIANS", "hash": "2158CB62634A022D", "target": "<colortype(547)>Per Zodiark!<colortype(0)>" }
+    { "gameKey": "quest/005/ManFst600_00525#TEXT_MANFST600_00525_600600_FOURTEENASCIANS", "hash": "52C0AF9412B448E7", "target": "(-Ascians-)<colortype(547)>All'unico vero dio!<colortype(0)>" },
+    { "gameKey": "quest/005/ManFst600_00525#TEXT_MANFST600_00525_600610_FOURTEENASCIANS", "hash": "2158CB62634A022D", "target": "(-Ascians-)<colortype(547)>Per Zodiark!<colortype(0)>" }
   ]
 }

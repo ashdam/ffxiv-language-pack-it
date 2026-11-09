@@ -16,7 +16,7 @@
     { "gameKey": "quest/046/AktKua101_04643#TEXT_AKTKUA101_04643_GRANDENDEAVORSCLEARK04643_000_002", "hash": "9D2E7198B4B92098", "target": "...Come dici? Conosci la proprietaria?" },
     { "gameKey": "quest/046/AktKua101_04643#TEXT_AKTKUA101_04643_GRANDENDEAVORSCLEARK04643_000_003", "hash": "F97340151A225378", "target": "Cielo, sei <italic(1)>proprio<italic(0)> <split(<string(gstr1)>, ,1)>? La signora Tataru mi ha parlato tanto di te! Ora che ci penso, dovevo avvisarla subito se passavi da queste parti..." },
     { "gameKey": "quest/046/AktKua101_04643#TEXT_AKTKUA101_04643_GRANDENDEAVORSCLEARK04643_000_004", "hash": "201D14FEF1D09F4F", "target": "Ti prego, aspetta un momento. Vado subito a chiamarla!" },
-    { "gameKey": "quest/046/AktKua101_04643#TEXT_AKTKUA101_04643_TATARU_000_005", "hash": "E3E66BFDFE41D56C", "target": "Eccovi, <split(<string(gstr1)>, ,1)>!" },
+    { "gameKey": "quest/046/AktKua101_04643#TEXT_AKTKUA101_04643_TATARU_000_005", "hash": "E3E66BFDFE41D56C", "target": "(-???-)Eccovi, <split(<string(gstr1)>, ,1)>!" },
     { "gameKey": "quest/046/AktKua101_04643#TEXT_AKTKUA101_04643_TATARU_000_006", "hash": "4C27E3BA519F289D", "target": "Scusate se vi ho fatto aspettare! Gli affari vanno a gonfie vele e riesco a malapena a starci dietro." },
     { "gameKey": "quest/046/AktKua101_04643#TEXT_AKTKUA101_04643_TATARU_000_007", "hash": "F6AB38E9C742D1D9", "target": "Non che mi lamenti! I nostri contatti in tutto il mondo stanno già dando i loro frutti." },
     { "gameKey": "quest/046/AktKua101_04643#TEXT_AKTKUA101_04643_TATARU_000_008", "hash": "6E810933C37D7113", "target": "Non che mi lamenti! Mi sembra ieri quando vi ho <if(gnum4,accolta,accolto)> come <if(gnum4,prima cliente,primo cliente)>, e guardate dove siamo arrivati." },

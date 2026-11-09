@@ -17,7 +17,7 @@
     { "gameKey": "quest/016/JobMch301_01697#TEXT_JOBMCH301_01697_STEPHANIVIEN_000_009", "hash": "BE5A5CA98848D843", "target": "Devi convincere Rostnsthal a tornare da noi!" },
     { "gameKey": "quest/016/JobMch301_01697#TEXT_JOBMCH301_01697_JOYE_000_009", "hash": "1C0EE472EFFF3025", "target": "Sua Signoria ripone tante speranze nel futuro della manifattura. Mi dispiacerebbe vederlo deluso..." },
     { "gameKey": "quest/016/JobMch301_01697#TEXT_JOBMCH301_01697_ROSTNSTHAL_000_010", "hash": "8346F756B2E8E129", "target": "Ah! Vuoi affrontare la mia prova, eh? Le regole sono semplici: vai verso la Catapecchia dell'Eremita e spara a ciò che ti dico di colpire." },
-    { "gameKey": "quest/016/JobMch301_01697#TEXT_JOBMCH301_01697_STEPHANIVIEN_000_011", "hash": "B0A14AAE77480F97", "target": "Ti aspetterò alla fine della prova, <split(<string(gstr1)>, ,1)>. Sono certo che il tuo entusiasmo e il tuo potenziale impressioneranno il nostro istruttore!" },
+    { "gameKey": "quest/016/JobMch301_01697#TEXT_JOBMCH301_01697_STEPHANIVIEN_000_011", "hash": "B0A14AAE77480F97", "target": "(-Stephanivien-)Ti aspetterò alla fine della prova, <split(<string(gstr1)>, ,1)>. Sono certo che il tuo entusiasmo e il tuo potenziale impressioneranno il nostro istruttore!" },
     { "gameKey": "quest/016/JobMch301_01697#TEXT_JOBMCH301_01697_QIB_001_TODO001", "hash": "4B8FE75B68AB1E4A", "target": "Sconfiggere i basalt golems!" },
     { "gameKey": "quest/016/JobMch301_01697#TEXT_JOBMCH301_01697_QIB_001_TODO002", "hash": "3DA9517727E5EAD8", "target": "Sconfiggere i training incendiaries!" },
     { "gameKey": "quest/016/JobMch301_01697#TEXT_JOBMCH301_01697_QIB_001_TODO003", "hash": "0BDAFAE37A3EFBC3", "target": "Sconfiggere i docile miacids e i docile tigers!" },

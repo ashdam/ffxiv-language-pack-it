@@ -40,8 +40,8 @@
     { "gameKey": "quest/043/AktKmb117_04396#TEXT_AKTKMB117_04396_SHADOWZERO04396_000_082", "hash": "DDD36E24C6D62D3D", "target": "<colortype(547)>Perché... Perché... Perché!?<colortype(0)>" },
     { "gameKey": "quest/043/AktKmb117_04396#TEXT_AKTKMB117_04396_POPMESSAGE_000_085", "hash": "C3A2FC0748D2B83F", "target": "Il dolore dell'apparizione prende forma e attacca!" },
     { "gameKey": "quest/043/AktKmb117_04396#TEXT_AKTKMB117_04396_SHADOWZERO04396_000_090", "hash": "279DD4F60CC84190", "target": "<colortype(547)>A casa... Voglio... Devo...<colortype(0)>" },
-    { "gameKey": "quest/043/AktKmb117_04396#TEXT_AKTKMB117_04396_WATCHEROFMOON_000_091", "hash": "18B1883C226A15CA", "target": "<colortype(547)>Non devi... toccarlo...<colortype(0)>" },
-    { "gameKey": "quest/043/AktKmb117_04396#TEXT_AKTKMB117_04396_WATCHEROFMOON_000_092", "hash": "7788E271034E140E", "target": "<colortype(547)>Nelle sale cerulee... cercami...<colortype(0)>" },
+    { "gameKey": "quest/043/AktKmb117_04396#TEXT_AKTKMB117_04396_WATCHEROFMOON_000_091", "hash": "18B1883C226A15CA", "target": "(-Distant Echo-)<colortype(547)>Non devi... toccarlo...<colortype(0)>" },
+    { "gameKey": "quest/043/AktKmb117_04396#TEXT_AKTKMB117_04396_WATCHEROFMOON_000_092", "hash": "7788E271034E140E", "target": "(-Distant Echo-)<colortype(547)>Nelle sale cerulee... cercami...<colortype(0)>" },
     { "gameKey": "quest/043/AktKmb117_04396#TEXT_AKTKMB117_04396_SYSTEM_000_100", "hash": "F0FB800B47A5B114", "target": "In questa guglia imponente non riecheggiano passi se non i tuoi, eppure percepisci una presenza più in alto..." }
   ]
 }

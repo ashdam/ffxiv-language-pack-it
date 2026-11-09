@@ -15,10 +15,10 @@
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_000070_ERENVILLE", "hash": "D14C898EFE32B22F", "target": "Già, viene da lì. Vi presento..." },
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_000080_GRAHATIA", "hash": "5074FCFB93B55A3E", "target": "...A quanto pare ti è sfuggita." },
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_000090_KRILE", "hash": "03721AAE0B25E9A9", "target": "Si sarà allontanata?" },
-    { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_000110_WUKLAMAT", "hash": "205DF8C27FF2193B", "target": "Scusate, scusate! Qui è tutto così diverso, non riesco a trattenermi dall'esplorare!" },
+    { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_000110_WUKLAMAT", "hash": "205DF8C27FF2193B", "target": "(-Exuberant Newcomer-)Scusate, scusate! Qui è tutto così diverso, non riesco a trattenermi dall'esplorare!" },
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_000120_ERENVILLE", "hash": "111CCC45DEDBBB35", "target": "E mentre tu esploravi, la persona che cercavi è venuta da noi." },
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_000130_ERENVILLE", "hash": "A7BFA50D01E4D35A", "target": "Questa è <if(gnum4,lei,lui)>: <if(gnum4,L'avventuriera,L'avventuriero)> che hai attraversato i mari per incontrare." },
-    { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_000140_WUKLAMAT", "hash": "22E4A16A275F1F14", "target": "Oh... Non esageravi. Si vede che <if(gnum4,non è una donna come le altre,non è un uomo come gli altri)>." },
+    { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_000140_WUKLAMAT", "hash": "22E4A16A275F1F14", "target": "(-Exuberant Newcomer-)Oh... Non esageravi. Si vede che <if(gnum4,non è una donna come le altre,non è un uomo come gli altri)>." },
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_000150_WUKLAMAT", "hash": "2CC5C386C9F38087", "target": "Sono Wuk Lamat, pretendente al trono di Tuliyollal." },
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_000160_KRILE", "hash": "B9D4CFAF594AEAF7", "target": "Tuliyollal..." },
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_000170_ERENVILLE", "hash": "5C38DE4AE139AC8C", "target": "È la nazione che governa Tural. La capitale porta lo stesso nome." },
@@ -269,8 +269,8 @@
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_002500_URIANGER", "hash": "72C56C5B4D204677", "target": "Non indugiamo oltre, dunque, e assicuriamoci un passaggio su una nave." },
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_002510_THANCRED", "hash": "93CF926E031FBA27", "target": "Già, sarà una missione da ricordare." },
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_002520_THANCRED", "hash": "0FADA44FDD26CC55", "target": "Andiamo, amico mio! Si parte per Tural!" },
-    { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_002530_EMETSELCH", "hash": "7E8C745BB391629A", "target": "Dimmi, hai mai visitato le rovine sotto le acque del Bounty?" },
-    { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_002540_EMETSELCH", "hash": "41FCFA35F4E18080", "target": "O le isole del tesoro oltre le acque ghiacciate di Blindfrost, nel nord di Othard?" },
-    { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_002550_EMETSELCH", "hash": "80BAA19709DA089E", "target": "Le leggendarie città d'oro del Nuovo Mondo?" }
+    { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_002530_EMETSELCH", "hash": "7E8C745BB391629A", "target": "(-Emet-Selch-)Dimmi, hai mai visitato le rovine sotto le acque del Bounty?" },
+    { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_002540_EMETSELCH", "hash": "41FCFA35F4E18080", "target": "(-Emet-Selch-)O le isole del tesoro oltre le acque ghiacciate di Blindfrost, nel nord di Othard?" },
+    { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_002550_EMETSELCH", "hash": "80BAA19709DA089E", "target": "(-Emet-Selch-)Le leggendarie città d'oro del Nuovo Mondo?" }
   ]
 }

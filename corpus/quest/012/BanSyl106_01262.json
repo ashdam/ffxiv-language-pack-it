@@ -21,8 +21,8 @@
     { "gameKey": "quest/012/BanSyl106_01262#TEXT_BANSYL106_01262_ZEXIA_000_030", "hash": "20F073320A79F4E4", "target": "I fiori dal dolce profumo rendono la magia più forte. Il camminante dovrebbe ricordarlo!" },
     { "gameKey": "quest/012/BanSyl106_01262#TEXT_BANSYL106_01262_RECOVER_000_001", "hash": "B8F1B91975B551C8", "target": "Una nebbia profumata ti avvolge!" },
     { "gameKey": "quest/012/BanSyl106_01262#TEXT_BANSYL106_01262_NOTRECOVER_000_001", "hash": "F320220A196776CE", "target": "Non è sicuro eseguire questa azione mentre sei visibile. Torna dalla Silfa misteriosa per rinnovare l'incantesimo." },
-    { "gameKey": "quest/012/BanSyl106_01262#TEXT_BANSYL106_01262_GUARD_000_001", "hash": "9F6FEF6D058E66E3", "target": "Ci sono tanti di quelli furtivi, ma nessuno supererà questo qui!" },
-    { "gameKey": "quest/012/BanSyl106_01262#TEXT_BANSYL106_01262_GUARD_000_002", "hash": "7D6F42A660FDB4F4", "target": "Le polveri profumate e le perle scintillanti sono... sparite!? Oh-oh, questo qui è nei guai..." },
+    { "gameKey": "quest/012/BanSyl106_01262#TEXT_BANSYL106_01262_GUARD_000_001", "hash": "9F6FEF6D058E66E3", "target": "(-Wary Sylph-)Ci sono tanti di quelli furtivi, ma nessuno supererà questo qui!" },
+    { "gameKey": "quest/012/BanSyl106_01262#TEXT_BANSYL106_01262_GUARD_000_002", "hash": "7D6F42A660FDB4F4", "target": "(-Wary Sylph-)Le polveri profumate e le perle scintillanti sono... sparite!? Oh-oh, questo qui è nei guai..." },
     { "gameKey": "quest/012/BanSyl106_01262#TEXT_BANSYL106_01262_TONAXIA_000_040", "hash": "750EAB9B7DEBE3C9", "target": "Il camminante ritorna! Il camminante ha rubato polveri profumate e perle scintillanti a quelli asserviti?" },
     { "gameKey": "quest/012/BanSyl106_01262#TEXT_BANSYL106_01262_TONAXIA_000_041", "hash": "6DEF1DB3DFC58910", "target": "Niente più magia per quelli asserviti, ih ih! Questa qui vorrebbe vedere l'espressione di quelli asserviti. Il camminante è di nuovo <if(gnum4,amica,amico)> di questi qui." }
   ]

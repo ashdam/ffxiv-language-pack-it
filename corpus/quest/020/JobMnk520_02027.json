@@ -28,7 +28,7 @@
     { "gameKey": "quest/020/JobMnk520_02027#TEXT_JOBMNK520_02027_WIDARGELT_000_003", "hash": "E55E9A2EFBC5A47C", "target": "D'zentsa e O'tchakha sono rimaste impressionate da voi. Hanno parlato della vostra bravura agli altri. Ora tutti vogliono che insegniate loro." },
     { "gameKey": "quest/020/JobMnk520_02027#TEXT_JOBMNK520_02027_WIDARGELT_000_004", "hash": "39A4D313F3B1AB73", "target": "I miei allievi si allenano a ovest. Andiamo da loro." },
     { "gameKey": "quest/020/JobMnk520_02027#TEXT_JOBMNK520_02027_WIDARGELT_000_050", "hash": "61AA65031436716B", "target": "È uno dei miei. È stato picchiato duramente. Chi è stato?" },
-    { "gameKey": "quest/020/JobMnk520_02027#TEXT_JOBMNK520_02027_DESHI02027_000_051", "hash": "910A62FC0B8C1C17", "target": "Ungh... Erano monaci... come noi..." },
+    { "gameKey": "quest/020/JobMnk520_02027#TEXT_JOBMNK520_02027_DESHI02027_000_051", "hash": "910A62FC0B8C1C17", "target": "(-Injured Pupil-)Ungh... Erano monaci... come noi..." },
     { "gameKey": "quest/020/JobMnk520_02027#TEXT_JOBMNK520_02027_WIDARGELT_000_052", "hash": "32AB53C6A32BE9A5", "target": "Gli stessi malvagi che mi hanno attaccato? È un oltraggio! Devono pagare! Con me, <if(gnum4,sorella,fratello)>! Non possono essere lontani!" },
     { "gameKey": "quest/020/JobMnk520_02027#TEXT_JOBMNK520_02027_WIDARGELT_000_080", "hash": "3D61EF32F6882A20", "target": "Sono loro, <if(gnum4,sorella,fratello)>!" },
     { "gameKey": "quest/020/JobMnk520_02027#TEXT_JOBMNK520_02027_WIDARGELT_000_081", "hash": "57B4BCA1C3F4B4C1", "target": "Ma altri sono in fuga. Li ho visti scappare. Occupatevi di questi. Io continuerò a inseguirli." },

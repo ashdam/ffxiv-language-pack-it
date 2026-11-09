@@ -63,7 +63,7 @@
     { "gameKey": "quest/025/JobRdm680_02586#TEXT_JOBRDM680_02586_ARYA_000_240", "hash": "B9CB6AAF82822115", "target": "Mh? Ve l'ho detto, sto bene. Qui non ci sono fantasmi... almeno che io veda. Perfettamente, completamente bene." },
     { "gameKey": "quest/025/JobRdm680_02586#TEXT_JOBRDM680_02586_SYSTEM_000_250", "hash": "80218D8DFE93FE8D", "target": "Scavi nella neve, ma non trovi nulla..." },
     { "gameKey": "quest/025/JobRdm680_02586#TEXT_JOBRDM680_02586_SYSTEM_000_255", "hash": "09B09BF532FB7C01", "target": "Una bara sinistra giace sepolta sotto la neve!" },
-    { "gameKey": "quest/025/JobRdm680_02586#TEXT_JOBRDM680_02586_LILITH_000_260", "hash": "CF3BBBEB7B3D1462", "target": "Solo chi porta il mio dono del sangue può spezzare il sigillo. Uccidete <if(gnum4,questa impostora,questo impostore)>!" },
+    { "gameKey": "quest/025/JobRdm680_02586#TEXT_JOBRDM680_02586_LILITH_000_260", "hash": "CF3BBBEB7B3D1462", "target": "(-???-)Solo chi porta il mio dono del sangue può spezzare il sigillo. Uccidete <if(gnum4,questa impostora,questo impostore)>!" },
     { "gameKey": "quest/025/JobRdm680_02586#TEXT_JOBRDM680_02586_ARYA_000_270", "hash": "2570E87E5358AFA1", "target": "...L'avete già trovata!? Dovete dirlo a X'rhun!" },
     { "gameKey": "quest/025/JobRdm680_02586#TEXT_JOBRDM680_02586_XRHUNTIA_000_280", "hash": "72ADCEE1EECEE4A8", "target": "Sotto un basso cumulo di neve, dici!? Straordinario!" },
     { "gameKey": "quest/025/JobRdm680_02586#TEXT_JOBRDM680_02586_XRHUNTIA_000_281", "hash": "AC625C26BAA44D7C", "target": "“Solo chi porta il mio dono del sangue...” Questa voce misteriosa potrebbe appartenere a Lilith stessa?" },

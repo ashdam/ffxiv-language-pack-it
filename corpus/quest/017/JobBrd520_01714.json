@@ -51,7 +51,7 @@
     { "gameKey": "quest/017/JobBrd520_01714#TEXT_JOBBRD520_01714_GUYDELOT_000_055", "hash": "8B938F73A3F0AE75", "target": "E tu, <if(gnum4,amica mia,amico mio)>? Questi eventi ti hanno acceso un verso nel cuore?" },
     { "gameKey": "quest/017/JobBrd520_01714#TEXT_JOBBRD520_01714_GUYDELOT_000_056", "hash": "12246FA3885CF5F1", "target": "Vedi? Anche <split(<string(gstr1)>, ,1)> ha sentito il bisogno di comporre una bella canzoncina!" },
     { "gameKey": "quest/017/JobBrd520_01714#TEXT_JOBBRD520_01714_SANSON_000_057", "hash": "F1B15273F7D6AEDC", "target": "Sì, sì, molto bella... ma io parlavo di cosa significa essere una compagnia! Abbiamo molto lavoro, e mi aspetto che tu faccia la tua parte, a cominciare dalle indagini!" },
-    { "gameKey": "quest/017/JobBrd520_01714#TEXT_JOBBRD520_01714_SANSON_000_058", "hash": "E98035F220DE2F1E", "target": "Sto indagando, no? Come ho già dimostrato, dalla gente comune si può imparare parecchio. A te lascio quelli della tua specie, i nobili impettiti." },
+    { "gameKey": "quest/017/JobBrd520_01714#TEXT_JOBBRD520_01714_SANSON_000_058", "hash": "E98035F220DE2F1E", "target": "(-Guydelot-)Sto indagando, no? Come ho già dimostrato, dalla gente comune si può imparare parecchio. A te lascio quelli della tua specie, i nobili impettiti." },
     { "gameKey": "quest/017/JobBrd520_01714#TEXT_JOBBRD520_01714_SANSON_000_060", "hash": "EB751B58ECF77F44", "target": "Non abbiamo ancora notizie di Ser Alamenain. Nel frattempo continuerò a raccogliere informazioni. Come prima, vi prego di mantenervi in forze per il viaggio che ci attende." }
   ]
 }

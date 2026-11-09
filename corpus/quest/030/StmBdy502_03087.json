@@ -59,7 +59,7 @@
     { "gameKey": "quest/030/StmBdy502_03087#TEXT_STMBDY502_03087_FLHAMINN_000_085", "hash": "2E9FC333E48D45BD", "target": "Quando i lavoratori dell'avamposto avevano bisogno di una mano, voi c'eravate. Quando non c'era nessuno a badare ai bambini più piccoli, voi c'eravate." },
     { "gameKey": "quest/030/StmBdy502_03087#TEXT_STMBDY502_03087_FLHAMINN_000_086", "hash": "D96FB51B08A0D8AB", "target": "E ciascuno di voi ha sempre svolto i propri compiti con un sorriso. Per questo siete più che coraggiosi avventurieri: siete eroi per la gente del Pedaggio!" },
     { "gameKey": "quest/030/StmBdy502_03087#TEXT_STMBDY502_03087_FLHAMINN_000_087", "hash": "8CE06C75A8F08972", "target": "Eroi che meritano un premio davvero speciale, che per caso si trova proprio...là...in fondo!" },
-    { "gameKey": "quest/030/StmBdy502_03087#TEXT_STMBDY502_03087_YOUZAN_000_088", "hash": "3A40053F1F1A7A3E", "target": "Un tesoro!" },
+    { "gameKey": "quest/030/StmBdy502_03087#TEXT_STMBDY502_03087_YOUZAN_000_088", "hash": "3A40053F1F1A7A3E", "target": "(-Doman Adventurers' Guild-)Un tesoro!" },
     { "gameKey": "quest/030/StmBdy502_03087#TEXT_STMBDY502_03087_YOUZAN_000_089", "hash": "013659273A867E9F", "target": "Wow, guardate qui!" },
     { "gameKey": "quest/030/StmBdy502_03087#TEXT_STMBDY502_03087_KOHARU_000_090", "hash": "30B80903BB216E31", "target": "Guarda, <if(gnum4,signorina,signor)> <split(<string(gstr1)>, ,1)>! Ci ha regalato cappelli tutti uguali!" },
     { "gameKey": "quest/030/StmBdy502_03087#TEXT_STMBDY502_03087_YOUZAN_000_091", "hash": "ED1DA9232A00D808", "target": "Saranno l'uniforme ufficiale del Gremio degli Avventurieri Domani!" },

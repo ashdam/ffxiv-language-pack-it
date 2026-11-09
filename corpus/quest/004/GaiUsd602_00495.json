@@ -27,7 +27,7 @@
     { "gameKey": "quest/004/GaiUsd602_00495#TEXT_GAIUSD602_00495_INVESTIGATORB_000_030", "hash": "245F66BD4D03A648", "target": "Che cosa aveva in mente G'raha Tia quando ci ha ordinato di lasciare la torre?" },
     { "gameKey": "quest/004/GaiUsd602_00495#TEXT_GAIUSD602_00495_INVESTIGATORB_000_031", "hash": "83774AF46AD64467", "target": "Senza dubbio vuoi sapere perché. Magari lo sapessi anch'io!" },
     { "gameKey": "quest/004/GaiUsd602_00495#TEXT_GAIUSD602_00495_INVESTIGATORB_000_032", "hash": "315551C1A6B5393F", "target": "Naturalmente non mi ha detto nulla. Ma con te sarà sincero, <if(gnum4,signorina,signore)>, ne sono certo!" },
-    { "gameKey": "quest/004/GaiUsd602_00495#TEXT_GAIUSD602_00495_GRAHATIA_000_040", "hash": "F45AADDB811A808C", "target": "Non avanzate oltre, amici! Le porte si chiuderanno fra poco." },
+    { "gameKey": "quest/004/GaiUsd602_00495#TEXT_GAIUSD602_00495_GRAHATIA_000_040", "hash": "F45AADDB811A808C", "target": "(-???-)Non avanzate oltre, amici! Le porte si chiuderanno fra poco." },
     { "gameKey": "quest/004/GaiUsd602_00495#TEXT_GAIUSD602_00495_RAMMBROES_000_041", "hash": "CA41D120EFEEF415", "target": "Dunque <italic(1)>vuoi<italic(0)> davvero sigillare la torre, G'raha." },
     { "gameKey": "quest/004/GaiUsd602_00495#TEXT_GAIUSD602_00495_RAMMBROES_000_042", "hash": "E51DC4EBFFC497A1", "target": "So che il tempo stringe, ma chiedo soltanto un accenno al tuo piano. Ti prego, vieni qui, così ne discuteremo." },
     { "gameKey": "quest/004/GaiUsd602_00495#TEXT_GAIUSD602_00495_GRAHATIA_000_043", "hash": "2D53F86051F65F76", "target": "...No. Scusatemi, ma non posso." },

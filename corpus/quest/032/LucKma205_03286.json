@@ -45,7 +45,7 @@
     { "gameKey": "quest/032/LucKma205_03286#TEXT_LUCKMA205_03286_ALPHINAUD_000_042", "hash": "9067A886CC42FB24", "target": "Ma è <if(gnum4,la mia assistente,il mio assistente)>. È grazie al suo sostegno incrollabile che la mia arte può prosperare. Andrò con <if(gnum4,lei,lui)> o non andrò affatto!" },
     { "gameKey": "quest/032/LucKma205_03286#TEXT_LUCKMA205_03286_CLOWNOFBLUE_000_043", "hash": "AB1448385D26C333", "target": "<if(gnum4,Una parassita,Un parassita)>, allora. Lasceremo il suo destino nelle mani del tuo nuovo datore di lavoro─a noi non importa affatto." },
     { "gameKey": "quest/032/LucKma205_03286#TEXT_LUCKMA205_03286_CLOWNOFRED_000_044", "hash": "E69BC4AEB16008AB", "target": "Ora che l'ultimo posto vacante è occupato, ci ritiriamo nel dolce abbraccio di Eulmore!" },
-    { "gameKey": "quest/032/LucKma205_03286#TEXT_LUCKMA205_03286_GATETOWNPEOPLE03286_000_045", "hash": "8A7DAD85AD421A47", "target": "..." },
+    { "gameKey": "quest/032/LucKma205_03286#TEXT_LUCKMA205_03286_GATETOWNPEOPLE03286_000_045", "hash": "8A7DAD85AD421A47", "target": "(-Gatetown Residents-)..." },
     { "gameKey": "quest/032/LucKma205_03286#TEXT_LUCKMA205_03286_CLOWNOFBLUE_000_046", "hash": "BBAB16B9C329F3DA", "target": "Oh, bontà mia! Il meol! Stavamo quasi per andarcene senza lasciare un pegno d'amore!" },
     { "gameKey": "quest/032/LucKma205_03286#TEXT_LUCKMA205_03286_CLOWNOFRED_000_047", "hash": "43E2AB8157CB1854", "target": "Dobbiamo svuotare i sacchi prima di tornare sui nostri passi!" },
     { "gameKey": "quest/032/LucKma205_03286#TEXT_LUCKMA205_03286_Q0_000_048", "hash": "B09E7D6D1FCE128A", "target": "Continuare la missione dello scenario principale?" },

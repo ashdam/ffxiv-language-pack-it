@@ -106,7 +106,7 @@
     { "gameKey": "cut_scene/024/VoiceMan_02401#TEXT_VOICEMAN_02401_600170_ALPHINAUD", "hash": "2684F5CF094D5752", "target": "Era da tanto che aspettavo di sentirti dire queste parole! Finalmente hai trovato la tua determinazione!" },
     { "gameKey": "cut_scene/024/VoiceMan_02401#TEXT_VOICEMAN_02401_600180_ALPHINAUD", "hash": "680E9B85D2A97FAF", "target": "Lascia che unisca la mia forza alla tua." },
     { "gameKey": "cut_scene/024/VoiceMan_02401#TEXT_VOICEMAN_02401_600190_ALPHINAUD", "hash": "E23C0261D0896F94", "target": "In questo luogo e in questo momento, il nostro scopo è diventato uno solo!" },
-    { "gameKey": "cut_scene/024/VoiceMan_02401#TEXT_VOICEMAN_02401_600191_ALPHINAUDANDALISAIE", "hash": "4233CA4D48C3BC5B", "target": "Per il futuro di Eorzea!" },
+    { "gameKey": "cut_scene/024/VoiceMan_02401#TEXT_VOICEMAN_02401_600191_ALPHINAUDANDALISAIE", "hash": "4233CA4D48C3BC5B", "target": "(-Alphinaud and Alisaie-)Per il futuro di Eorzea!" },
     { "gameKey": "cut_scene/024/VoiceMan_02401#TEXT_VOICEMAN_02401_600200_ALISAIE", "hash": "EBA151F5A59C024A", "target": "Quest'ultimo compito spetta a te, <if(gnum4,Guerriera,Guerriero)> della Luce! Devi distruggere il nucleo cristallino di Bahamut!" },
     { "gameKey": "cut_scene/024/VoiceMan_02401#TEXT_VOICEMAN_02401_700010_ALISAIE", "hash": "755661062752B8EC", "target": "Ce l'hai fatta!" },
     { "gameKey": "cut_scene/024/VoiceMan_02401#TEXT_VOICEMAN_02401_700020_ALISAIE", "hash": "29E06F1FC2DCA2AE", "target": "Resta soltanto un compito..." },

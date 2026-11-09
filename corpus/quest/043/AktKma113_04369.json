@@ -41,7 +41,7 @@
     { "gameKey": "quest/043/AktKma113_04369#TEXT_AKTKMA113_04369_KHALZAHL_000_062", "hash": "6B571CEA5DD806C9", "target": "Aspetta, sei <if(gnum4,straniera,straniero)>, vero? <if(gnum4,Una mercante,Un mercante)>!? Ti prego, dimmi che sei <if(gnum4,una mercante,un mercante)>!" },
     { "gameKey": "quest/043/AktKma113_04369#TEXT_AKTKMA113_04369_KHALZAHL_000_063", "hash": "7C8AD26932801972", "target": "Capisco... Che peccato..." },
     { "gameKey": "quest/043/AktKma113_04369#TEXT_AKTKMA113_04369_KHALZAHL_000_064", "hash": "39DF4D6DFE343080", "target": "Mi dispiace, ma stiamo discutendo di questioni importanti. Se ti serve qualcosa, parla con uno degli altri." },
-    { "gameKey": "quest/043/AktKma113_04369#TEXT_AKTKMA113_04369_MATSYA_000_065", "hash": "73E10AAE9AE0D95A", "target": "Ehm, scusate..." },
+    { "gameKey": "quest/043/AktKma113_04369#TEXT_AKTKMA113_04369_MATSYA_000_065", "hash": "73E10AAE9AE0D95A", "target": "(-???-)Ehm, scusate..." },
     { "gameKey": "quest/043/AktKma113_04369#TEXT_AKTKMA113_04369_MATSYA_000_066", "hash": "A5AC9FFD02CD562B", "target": "M-Mi chiamo Matsya e sono qui per vedere Khalzahl..." },
     { "gameKey": "quest/043/AktKma113_04369#TEXT_AKTKMA113_04369_MATSYA_000_067", "hash": "1AEE34A2CD2CD1DB", "target": "Oh, sembra che sia occupato. Tornerò più tardi, allora..." },
     { "gameKey": "quest/043/AktKma113_04369#TEXT_AKTKMA113_04369_KHALZAHL_000_070", "hash": "C9F0BD306ED4BF5B", "target": "Se le navi straniere non verranno da noi, perché non usare le nostre per consegnare loro le merci!?" },
