@@ -1,6 +1,6 @@
 {
   "conversation": "custom/009/CtsWksMechaEntryTicketCounter_00932",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/009/CtsWksMechaEntryTicketCounter_00932#TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_EXCHANGE_CONFIRM", "hash": "E71BAE2BA75C5BA1", "target": "Per una candidatura pilota servono <kilo(lnum2,\\,)> <ennoun(Item,3,lnum1,2,1)>. Che ne dici?" },
     { "gameKey": "custom/009/CtsWksMechaEntryTicketCounter_00932#TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_NOT_ENOUGH_POINT", "hash": "842E912C6516CA47", "target": "Mi spiace, ma prima di darti una candidatura pilota mi servono <kilo(lnum2,\\,)> <ennoun(Item,3,lnum1,2,1)>. Buona fortuna là fuori!" },

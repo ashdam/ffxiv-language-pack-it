@@ -1,6 +1,6 @@
 {
   "conversation": "quest/000/ClsHrv008_00010",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/000/ClsHrv008_00010#TEXT_CLSHRV008_00010_SEQ_00", "hash": "C73DA379EAD64A63", "target": "Fufucha ha bisogno dell'aiuto di <if(gnum4,un'avventuriera,un avventuriero)>." },
     { "gameKey": "quest/000/ClsHrv008_00010#TEXT_CLSHRV008_00010_SEQ_01", "hash": "5D129AEEF6782F6B", "target": "La cuoca Yannie, una cara amica di Fufucha, sta preparando un banchetto per festeggiare la vittoria dei valorosi soldati della Faretra degli Dei, ma le manca un ingrediente fondamentale. Raccogli venti foglie di alloro nella vegetazione rigogliosa a nord-est di Piccola Ala Mhigo, nel Thanalan meridionale, e portale a Fufucha perché le esamini." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/014/BanAll040_01470",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/014/BanAll040_01470#TEXT_BANALL040_01470_SEQ_00", "hash": "E6DFE08EFCA6C822", "target": "Novv vorrebbe chiederti un favore, da padre della covata a <if(gnum4,figlia,figlio)>." },
     { "gameKey": "quest/014/BanAll040_01470#TEXT_BANALL040_01470_SEQ_01", "hash": "E4C68A1EA3F6C19C", "target": "Considerandoti parte della sua prole, il ferito padre della covata Novv ti affida il salvataggio di Bouu. Racconta che, dopo essere stato sconfitto dal Miqo'te mascherato, è riuscito a bucare il fondo della sua barca con la lancia. Convinto che l'imbarcazione sia stata portata a Portobirra per le riparazioni, ti invita a inseguirla." },

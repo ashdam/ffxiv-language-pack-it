@@ -1,6 +1,6 @@
 {
   "conversation": "custom/002/RegFstIxalSupply_00205",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/002/RegFstIxalSupply_00205#TEXT_REGFSTIXALSUPPLY_00205_PROCUREMENTIXAL_000_000", "hash": "B28563E76C0EC7D9", "target": "Ferm<if(gnum4,a,o)>, stronz<if(gnum4,a,o)> senza piume! Profanato, il suolo sotto di te è, dai tuoi piedi senza artigli! Sparisci, o sarai la cena! Squark!" },
     { "gameKey": "custom/002/RegFstIxalSupply_00205#TEXT_REGFSTIXALSUPPLY_00205_PROCUREMENTIXAL_000_010", "hash": "95DAB91DD92E0F00", "target": "Squark! Qui per lavorare, questo qui è! Di' cosa vuoi o sparisci!" },

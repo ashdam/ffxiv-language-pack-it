@@ -1,6 +1,6 @@
 {
   "conversation": "custom/003/RegSeaBeginnerTankGuide_00337",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/003/RegSeaBeginnerTankGuide_00337#TEXT_REGSEABEGINNERTANKGUIDE_00337_TANKCOACH00337_000_000", "hash": "C3A4563405318B0B", "target": "Sei alla Sala dei Novizi, <if(gnum4,ragazza,ragazzo)>! Sono il maestro degli scudi e ti insegnerò a combattere in gruppo! ...O almeno lo farei, se pensassi che sai quale estremità della spada va infilata nel Sahagin." },
     { "gameKey": "custom/003/RegSeaBeginnerTankGuide_00337#TEXT_REGSEABEGINNERTANKGUIDE_00337_SYSTEM_000_001", "hash": "284106640B7FAE3C", "target": "Per affrontare l'addestramento della Sala dei Novizi, devi essere un discepolo della Guerra o della Magia di livello 15 o superiore." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/050/KinGyr106_05008",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_RHODINA_000_000", "hash": "CB3EAA5DDDCE338F", "target": "Ma guarda un po' chi si vede! Pensavo di conoscere <if(gnum4,tutte le artigiane,tutti gli artigiani)> più in vista che passano da Solution Nine. Sei qui per firmare un contratto, immagino?" },
     { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_RHODINA_000_001", "hash": "EC44C5BD03064C51", "target": "Non preoccuparti dei dettagli: l'accordo è semplicissimo. Tu mi consegni la merce e io ti pago in valute. Con la tua esperienza, saprai riconoscere un'offerta così vantaggiosa appena la senti." },

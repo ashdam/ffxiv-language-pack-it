@@ -1,6 +1,6 @@
 {
   "sheet": "ActionComboRouteTransient",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "ActionComboRouteTransient#1", "hash": "FE2B7CCBF2BDE064", "target": "Esegue le seguenti tecniche in successione:<br>1. <colortype(500)><edgecolortype(501)>Lama Rapida<edgecolortype(0)><colortype(0)><br>2. <colortype(500)><edgecolortype(501)>Lama Selvaggia<edgecolortype(0)><colortype(0)><br>3. <colortype(500)><edgecolortype(501)>Ira di Halone<edgecolortype(0)><colortype(0)><br><br>Se una delle tecniche non è pronta, la combo ricomincia." },
     { "gameKey": "ActionComboRouteTransient#2", "hash": "4C03BA49D9C60436", "target": "Esegue le seguenti tecniche in successione:<br>1. <colortype(500)><edgecolortype(501)>Lama Rapida<edgecolortype(0)><colortype(0)><br>2. <colortype(500)><edgecolortype(501)>Lama Tumultuosa<edgecolortype(0)><colortype(0)><br>3. <colortype(500)><edgecolortype(501)>Autorità Regale<edgecolortype(0)><colortype(0)><br><br>Se una delle tecniche non è pronta, la combo ricomincia.<br><br>※L'azione diventa <colortype(500)><edgecolortype(501)>Espiazione<edgecolortype(0)><colortype(0)> sotto l'effetto di <colortype(506)><edgecolortype(507)>Giuramento della Spada<edgecolortype(0)><colortype(0)>." },

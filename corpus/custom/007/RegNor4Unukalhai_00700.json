@@ -1,6 +1,6 @@
 {
   "conversation": "custom/007/RegNor4Unukalhai_00700",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/007/RegNor4Unukalhai_00700#TEXT_REGNOR4UNUKALHAI_00700_UNUKALHAI_000_010", "hash": "FF3F7BA4ED1CD1C6", "target": "C'è senz'altro molto che posso imparare lavorando come cacciatore di taglie, soprattutto con Taynor come guida." },
     { "gameKey": "custom/007/RegNor4Unukalhai_00700#TEXT_REGNOR4UNUKALHAI_00700_UNUKALHAI_000_020", "hash": "2E2A39F449890794", "target": "Cosa? Con i nostri metodi riusciamo a malapena a mantenere un tenue legame con il Tredicesimo... e voi dite di esserci <if(gnum4,stata,stato)>!? Incredibile..." },

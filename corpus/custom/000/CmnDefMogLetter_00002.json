@@ -1,6 +1,6 @@
 {
   "conversation": "custom/000/CmnDefMogLetter_00002",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/000/CmnDefMogLetter_00002#TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_1", "hash": "1721036392C2CAC0", "target": "Niente lettere nuove per te oggi, kupò!" },
     { "gameKey": "custom/000/CmnDefMogLetter_00002#TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_001", "hash": "B752C5A75942C69A", "target": "Ma guarda, <if(gnum4,la nostra postina,il nostro postino)> <switch(gnum71,Hyur,Elezen,Lalafell,Miqo'te,Roegadyn,Au Ra,Hrothgar,Viera)> <if(gnum4,preferita,preferito)>! Niente lettere nuove per te oggi, kupò!" },

@@ -1,6 +1,6 @@
 {
   "conversation": "custom/003/FesGsc2017_00383",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/003/FesGsc2017_00383#TEXT_FESGSC2017_00383_ADVENTURE00383_000_000", "hash": "A31130D85CFD2AFD", "target": "Non credere che non abbia visto come ammiravi il mio abito! Scommetto che vorresti sapere dove l'ho trovato, vero? Fa' un salto a Ul'dah, chiedi in giro e forse avrai la fortuna di scoprirlo!" },
     { "gameKey": "custom/003/FesGsc2017_00383#TEXT_FESGSC2017_00383_ADVENTURE00383_000_100", "hash": "70FB92316122ECDE", "target": "Vedo che anche tu trovi il mio abito piuttosto attraente. Dove l'ho preso, chiedi? Be', non ci sarebbe gusto a dirtelo subito, no? Vai a Ul'dah e scoprilo <if(gnum4,da sola,da solo)>!" },

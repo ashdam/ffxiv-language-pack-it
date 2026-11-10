@@ -1,6 +1,6 @@
 {
   "conversation": "custom/007/CtsMjiWorkShopManagement_00780",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/007/CtsMjiWorkShopManagement_00780#TEXT_CTSMJIWORKSHOPMANAGEMENT_00780_SALE_SUCCESS", "hash": "1BCED8FAAC22F892", "target": "Ah, ecco <if(gnum4,la proprietaria,il proprietario)>. Ti farà piacere sapere che la squadra ha finito di produrre gli oggetti richiesti. Ci siamo anche presi la libertà di spedirli. Ecco il ricavato." },
     { "gameKey": "custom/007/CtsMjiWorkShopManagement_00780#TEXT_CTSMJIWORKSHOPMANAGEMENT_00780_OWNER_OTHER", "hash": "2DC043821B772D82", "target": "Scusa, ma le informazioni sul laboratorio sono riservate a chi deve conoscerle, e soltanto <if(gnum4,la proprietaria,il proprietario)> deve conoscerle." },

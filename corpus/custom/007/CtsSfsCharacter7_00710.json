@@ -1,6 +1,6 @@
 {
   "conversation": "custom/007/CtsSfsCharacter7_00710",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/007/CtsSfsCharacter7_00710#TEXT_CTSSFSCHARACTER7_00710_GREETING_CHARLEMEND_000_000", "hash": "234AE29D30FAE54B", "target": "Per non dimenticarlo, <split(<string(gstr1)>, ,1)>, il nostro compito è rifornire l'infermeria di beni di prima necessità: stoviglie, biancheria da letto e simili. Vi ringraziamo per il vostro cortese aiuto." },
     { "gameKey": "custom/007/CtsSfsCharacter7_00710#TEXT_CTSSFSCHARACTER7_00710_GREETING_CHARLEMEND_000_001", "hash": "CB88260B76A6C1C5", "target": "Salve, <split(<string(gstr1)>, ,1)>. Se avete le forniture mediche di cui abbiamo bisogno, sarò lieto di riceverle." },

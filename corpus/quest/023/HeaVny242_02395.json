@@ -1,6 +1,6 @@
 {
   "conversation": "quest/023/HeaVny242_02395",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/023/HeaVny242_02395#TEXT_HEAVNY242_02395_SEQ_00", "hash": "0C7CECC0F2E2AD6E", "target": "Unukalhai ha qualcosa che potrebbe interessarti." },
     { "gameKey": "quest/023/HeaVny242_02395#TEXT_HEAVNY242_02395_SEQ_01", "hash": "A3671B50EB87A407", "target": "Unukalhai ti consegna una tavoletta allagana contenente informazioni dettagliate per generare un simulacro potenziato dell'eone Zurvan. Spiega che solo i guerrieri più straordinari di Allag avrebbero dovuto trionfare su quell'entità artificiale, e ritiene che chi porta il titolo di <if(gnum4,Guerriera,Guerriero)> della Luce possa trarre beneficio dall'esperienza. Porta la tavoletta sull'Ammiraglia e consegna il dispositivo al nodo di verifica." },
