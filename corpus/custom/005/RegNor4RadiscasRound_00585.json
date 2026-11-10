@@ -1,6 +1,6 @@
 {
   "conversation": "custom/005/RegNor4RadiscasRound_00585",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/005/RegNor4RadiscasRound_00585#TEXT_REGNOR4RADISCASROUND_00585_MENTHER_000_000", "hash": "A715225F03A638C5", "target": "Mh? Non sei dei nostri e non sembri neanche <if(gnum4,una cacciatrice,un cacciatore)> di taglie. Cosa ti porta a Torre di Radisca?" },
     { "gameKey": "custom/005/RegNor4RadiscasRound_00585#TEXT_REGNOR4RADISCASROUND_00585_MENTHER_000_020", "hash": "CBA2EB8F25D1D2EB", "target": "Le forze eulmorane sono arrivate fin sulla nostra soglia. Ti consiglio di ridurre al minimo le attività non necessarie fuori dalle mura. Se hai domande, non esitare." },

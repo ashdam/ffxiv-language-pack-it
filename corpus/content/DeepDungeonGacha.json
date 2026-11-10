@@ -1,6 +1,6 @@
 {
   "conversation": "content/DeepDungeonGacha",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_WOODWAILERAPPRAISERS_000_000", "hash": "C5A69EF0431A7648", "target": "La presenza di mostri nelle rovine è una questione grave, ma lascio a voi avventurieri il compito di occuparvene. A me interessano soprattutto i manufatti ancora da scoprire, sepolti al loro interno." },
     { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_WOODWAILERAPPRAISERS_000_010", "hash": "6C13B5DD9513B9CF", "target": "Ti sei <if(gnum4,avventurata,avventurato)> nelle rovine, vero? Hai trovato delle strane sacche, chiuse ermeticamente dalla magia del palazzo? Se vuoi conoscere il valore di questi tesori, portameli e spezzerò il sigillo che li tiene chiusi." },

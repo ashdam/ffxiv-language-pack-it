@@ -1,6 +1,6 @@
 {
   "conversation": "custom/006/CtsHwdSkyIsland_00636",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/006/CtsHwdSkyIsland_00636#TEXT_CTSHWDSKYISLAND_00636_AURVAEL_000_000", "hash": "5B5404BC22A8DB63", "target": "Ma guarda, <split(<string(gstr1)>, ,1)>! Il nostro incontro qui può essere opera soltanto del destino!" },
     { "gameKey": "custom/006/CtsHwdSkyIsland_00636#TEXT_CTSHWDSKYISLAND_00636_AURVAEL_000_010", "hash": "0DDDA40275E21A3F", "target": "Ascoltami, <if(gnum4,mia cara,mio caro)>. Le nostre spedizioni al Diadema erano state purtroppo sospese, ma prendendo parte alla ricostruzione della nazione abbiamo trovato un modo per proseguire la nostra grande impresa!" },

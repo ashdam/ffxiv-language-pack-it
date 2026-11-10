@@ -1,6 +1,6 @@
 {
   "conversation": "quest/005/ManSea000_00541",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/005/ManSea000_00541#TEXT_MANSEA000_00541_BRENNAN_000_1", "hash": "91DA7977018CE8B6", "target": "(-???-)Ehi! Va tutto bene, <if(gnum4,ragazza,ragazzo)>?" },
     { "gameKey": "quest/005/ManSea000_00541#TEXT_MANSEA000_00541_BRENNAN_000_2", "hash": "AFEE3D391D6EC337", "target": "(-Grizzled Passenger-)Nel sonno ti lamentavi e sudavi come una fontana. È il rollio della nave a farti venire il voltastomaco?" },

@@ -1,6 +1,6 @@
 {
   "sheet": "ActionTransient",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "ActionTransient#3", "hash": "72E6C3096E02E0A1", "target": "Aumenta la velocità di movimento.<br><colortype(504)><edgecolortype(505)>Durata:<edgecolortype(0)><colortype(0)> 10s (20s quando non si è in combattimento)<br><colortype(504)><edgecolortype(505)>Effetto Aggiuntivo:<edgecolortype(0)><colortype(0)> Conferisce <colortype(506)><edgecolortype(507)>Corsa Leggera<edgecolortype(0)><colortype(0)> alla scadenza dell'effetto<br><colortype(504)><edgecolortype(505)>Effetto Corsa Leggera:<edgecolortype(0)><colortype(0)> La velocità di movimento è aumentata<br>L'effetto termina quando viene generata ostilità. Non ha alcun effetto in battaglia.<br>※Non disponibile in PvP." },
     { "gameKey": "ActionTransient#6", "hash": "0B798261B809548A", "target": "Ritorna all'istante al tuo attuale punto di ritorno." },

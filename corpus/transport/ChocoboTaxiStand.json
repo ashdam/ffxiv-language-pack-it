@@ -1,6 +1,6 @@
 {
   "conversation": "transport/ChocoboTaxiStand",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "transport/ChocoboTaxiStand#TEXT_CHOCOBOTAXISTAND_00000_LOW_LEVEL", "hash": "F4002BFA13024509", "target": "Se siete qui per noleggiare un chocobo da trasporto, temo di dovervi deludere. I nostri animali sono molto capricciosi e tendono ad agitarsi accanto a chi non mostra il giusto contegno. Tornate quando avrete dimostrato di sapervela cavare, e mi assicurerò personalmente che vi sia assegnato il migliore." },
     { "gameKey": "transport/ChocoboTaxiStand#TEXT_CHOCOBOTAXISTAND_00100_LOW_LEVEL", "hash": "D2D5D163A0702381", "target": "Vi chiedo mille volte perdono, ma le regole mi vietano di noleggiarvi un falco da trasporto. Un cavaliere inesperto rischia di agitare i nostri animali, e credetemi: non vorreste trovarvi su un falco agitato a mille yalmi da terra." },

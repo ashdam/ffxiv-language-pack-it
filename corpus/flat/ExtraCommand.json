@@ -1,6 +1,6 @@
 {
   "sheet": "ExtraCommand",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "ExtraCommand#1.0", "hash": "6C597DEE82DC6E9E", "target": "Posa di Gruppo" },
     { "gameKey": "ExtraCommand#1.1", "hash": "79ED1453CFA72723", "target": "Esegui una posa di gruppo ripetendo continuamente l'ultima emote o azione eseguita. Nelle impostazioni del comando puoi regolare la posizione della telecamera, l'illuminazione e il filtro colore.<br><br><colortype(500)><edgecolortype(501)>Comando Testuale: <edgecolortype(0)><colortype(0)>/grouppose<br><colortype(500)><edgecolortype(501)>Mappatura Tasti: <edgecolortype(0)><colortype(0)>Disponibile" },

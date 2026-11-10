@@ -1,6 +1,6 @@
 {
   "conversation": "custom/007/FesNyr2023Omikuji_00776",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/007/FesNyr2023Omikuji_00776#TEXT_FESNYR2023OMIKUJI_00776_OMIKUJISHI_000_000", "hash": "D692F6FC4D910281", "target": "È bello rivederti, <if(gnum4,amica mia,amico mio)>. Dimmi, come posso esserti utile?" },
     { "gameKey": "custom/007/FesNyr2023Omikuji_00776#TEXT_FESNYR2023OMIKUJI_00776_OMIKUJISHI_100_000", "hash": "1EC032E9B3B3C349", "target": "Salve, <if(gnum4,amica mia,amico mio)>. Mi occupo di omikuji, i tradizionali responsi della fortuna dell'Estremo Oriente. Ti andrebbe di estrarne uno?" },
@@ -23,6 +23,7 @@
     { "gameKey": "custom/007/FesNyr2023Omikuji_00776#TEXT_FESNYR2023OMIKUJI_00776_OMIKUJISHI_000_023", "hash": "5D627B838DF3CED3", "target": "Ah, non ti ho mai detto il mio nome, vero? Al momento è “Morisoba”. Noi Viera che abbiamo scelto di lasciare la patria tendiamo a cambiare nome per capriccio, ma io sono un caso piuttosto insolito. Alterno dodici nomi diversi a seconda di ciò che mi riserva la sorte!" },
     { "gameKey": "custom/007/FesNyr2023Omikuji_00776#TEXT_FESNYR2023OMIKUJI_00776_OMIKUJISHI_100_023", "hash": "824647991F4FE4EB", "target": "Ah, ma perdonami: non ti ho ancora detto il mio nome! Al momento è “Taiyaki”. Noi Viera che abbiamo scelto di lasciare la patria tendiamo a cambiare nome per capriccio, ma io sono un caso piuttosto insolito. Alterno dodici nomi diversi a seconda di ciò che mi riserva la sorte!" },
     { "gameKey": "custom/007/FesNyr2023Omikuji_00776#TEXT_FESNYR2023OMIKUJI_00776_OMIKUJISHI_200_023", "hash": "FE40C373BF4D1269", "target": "Ah, ho dimenticato di dirti il mio nome! Al momento è “Kinpira”. Noi Viera che abbiamo scelto di lasciare la patria tendiamo a cambiare nome per capriccio, ma io sono un caso piuttosto insolito. Alterno dodici nomi diversi a seconda di ciò che mi riserva la sorte!" },
-    { "gameKey": "custom/007/FesNyr2023Omikuji_00776#TEXT_FESNYR2023OMIKUJI_00776_OMIKUJISHI_300_023", "hash": "18BB1830F5A81CC2", "target": "Ah, ma devo ancora dirti il mio nome. Al momento è “Namero”. Noi Viera che abbiamo scelto di lasciare la patria tendiamo a cambiare nome per capriccio, ma io sono un caso piuttosto insolito. Alterno dodici nomi diversi a seconda di ciò che mi riserva la sorte!" }
+    { "gameKey": "custom/007/FesNyr2023Omikuji_00776#TEXT_FESNYR2023OMIKUJI_00776_OMIKUJISHI_300_023", "hash": "18BB1830F5A81CC2", "target": "Ah, ma devo ancora dirti il mio nome. Al momento è “Namero”. Noi Viera che abbiamo scelto di lasciare la patria tendiamo a cambiare nome per capriccio, ma io sono un caso piuttosto insolito. Alterno dodici nomi diversi a seconda di ciò che mi riserva la sorte!" },
+    { "gameKey": "custom/007/FesNyr2023Omikuji_00776#TEXT_FESNYR2023OMIKUJI_00776_OMIKUJISHI_400_023", "hash": "7DBC27FA615C4B94", "target": "" }
   ]
 }

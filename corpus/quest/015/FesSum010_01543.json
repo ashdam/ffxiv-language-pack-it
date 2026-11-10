@@ -1,6 +1,6 @@
 {
   "conversation": "quest/015/FesSum010_01543",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/015/FesSum010_01543#TEXT_FESSUM010_01543_SEQ_00", "hash": "CF2893E93D1A551B", "target": "Haermaga ha ricompense speciali per chi ha completato tutte e tre le attività della Festa del Fuoco Lunare.<br>※Questa missione è disponibile solo per un periodo limitato." },
     { "gameKey": "quest/015/FesSum010_01543#TEXT_FESSUM010_01543_SEQ_01", "hash": "567E7F3079C12208", "target": "Hai completato tutte e tre le attività della Festa del Fuoco Lunare e Haermaga ha delle ricompense speciali per te, come promesso. La prima è un ricco assortimento di fuochi d'artificio, al momento affidato a un'altra organizzatrice. La seconda è di tutt'altro genere: una lezione di danza della tradizione orientale. Indossa il tuo <if(gnum4,yukata rosso della dama,yukata blu del signore)> e chiedi dei fuochi d'artificio all'organizzatrice della festa al Cassero.<br><br>※Non sarà possibile completare questa missione dopo la fine dell'evento stagionale. Per ulteriori informazioni, consulta il Lodestone." },

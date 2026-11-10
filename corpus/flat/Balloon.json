@@ -1,6 +1,6 @@
 {
   "sheet": "Balloon",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "Balloon#2", "hash": "5B1D8F3A665DBC75", "target": "Avvicinatevi, tutti quanti!" },
     { "gameKey": "Balloon#3", "hash": "3583B1F008DFD353", "target": "Abbiamo i prezzi migliori<br>del reame!" },
@@ -6831,6 +6831,7 @@
     { "gameKey": "Balloon#8015", "hash": "755AC686761E8044", "target": "...Meglio che mi sbrighi." },
     { "gameKey": "Balloon#8016", "hash": "4E10DA2E30487BBA", "target": "Sento degli occhi puntati sulla mia schiena..." },
     { "gameKey": "Balloon#8017", "hash": "8A9450D0B4C8C1B2", "target": "È solo la mia immaginazione." },
+    { "gameKey": "Balloon#8018", "hash": "748A906D8F222F87", "target": "Ci siamo quasi. Chiudiamola qui!" },
     { "gameKey": "Balloon#8019", "hash": "3AB2F41FB6F3F57C", "target": "Qui dovrei essere al sicuro." },
     { "gameKey": "Balloon#8020", "hash": "AA263534347B4726", "target": "La merce è al suo posto. Ora non mi resta che riscuotere..." },
     { "gameKey": "Balloon#8021", "hash": "8C775889C064B452", "target": "Non so perché mi seguiate, ma non ho nulla a che fare con voi." },
@@ -7916,6 +7917,10 @@
     { "gameKey": "Balloon#9128", "hash": "60EEA26E57D09FDF", "target": "È così buono che potrei piangere...!" },
     { "gameKey": "Balloon#9129", "hash": "76DC8F3E82BCE03D", "target": "Beh, questo sì che è proprio bene!" },
     { "gameKey": "Balloon#9130", "hash": "667B831CD390F73F", "target": "Quindi questo è il massimo della raffinatezza gridaniana...!" },
+    { "gameKey": "Balloon#9131", "hash": "3993B121E99821CC", "target": "" },
+    { "gameKey": "Balloon#9132", "hash": "2AE9507BB5969469", "target": "" },
+    { "gameKey": "Balloon#9133", "hash": "DFBE7CC31A784343", "target": "" },
+    { "gameKey": "Balloon#9134", "hash": "22460B0BB06E9CDD", "target": "" },
     { "gameKey": "Balloon#9135", "hash": "B0B45E54856A582C", "target": "Uff... \\<affanno>" },
     { "gameKey": "Balloon#9136", "hash": "CBEF6294DFEC236D", "target": "Ho quasi finito con questa pila." },
     { "gameKey": "Balloon#9137", "hash": "2BAAC75ADBF80CD6", "target": "La neve continua ad accumularsi..." },
@@ -9321,7 +9326,6 @@
     { "gameKey": "Balloon#10560", "hash": "8436D1FB48969FD3", "target": "Chissà quale pesce si conserverà abbastanza a lungo da portarlo a Nidhana..." },
     { "gameKey": "Balloon#10561", "hash": "E1B8C08B94952E36", "target": "Questa macchina sarà di grande aiuto ai nostri lavori su questo astro..." },
     { "gameKey": "Balloon#10562", "hash": "717E329EC0211081", "target": "So che abbiamo <italic(1)>detto<italic(0)> vacanza, ma queste condizioni sono ideali per misurare la resistenza al calore... Solo <italic(1)>qualche<italic(0)> prova!" },
-    { "gameKey": "Balloon#10563", "hash": "DACF50814CC8DC89", "target": "Che bel brano. Scegliamo questo, kweh..." },
-    { "gameKey": "Balloon#8018", "hash": "748A906D8F222F87", "target": "Ci siamo quasi. Chiudiamola qui!" }
+    { "gameKey": "Balloon#10563", "hash": "DACF50814CC8DC89", "target": "Che bel brano. Scegliamo questo, kweh..." }
   ]
 }

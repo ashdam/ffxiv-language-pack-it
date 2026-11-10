@@ -1,6 +1,6 @@
 {
   "conversation": "quest/031/FesSum402_03136",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/031/FesSum402_03136#TEXT_FESSUM402_03136_SEQ_00", "hash": "2F75D5C9290D3073", "target": "Beaudefoin ti guiderà sulla strada per diventare <if(gnum4,una Guerriera Agile di Eorzea,un Guerriero Agile di Eorzea)>.<br>※Questa missione è disponibile solo per un periodo limitato." },
     { "gameKey": "quest/031/FesSum402_03136#TEXT_FESSUM402_03136_SEQ_01", "hash": "411BA2FF215F4011", "target": "Beaudefoin spiega le semplici regole del percorso del Guerriero Agile Eorzeano. Ognuna delle tre sezioni è presidiata da un organizzatore della Festa del Fuoco Lunare, con cui devi parlare prima di proseguire. La prima è J'nangho, raggiungibile solo con una serie di salti ben misurati.<br><br>※Non potrai completare questa missione una volta terminato l'evento stagionale. Per ulteriori dettagli, consulta il Lodestone." },

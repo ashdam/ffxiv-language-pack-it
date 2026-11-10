@@ -1,6 +1,6 @@
 {
   "conversation": "custom/000/RegWikAdvGuild_00059",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_PAPASU_000", "hash": "338F31759E6620F8", "target": "Salve, <if(gnum4,viaggiatrice,viaggiatore)>. Hai già assaggiato qualche piatto alle Sabbie Mobili? Niente ti prepara a una giornata d'avventure come un pasto abbondante, sai!" },
     { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_Q1_000_1", "hash": "8CFA902AE0E02297", "target": "Che cosa vuoi sapere?" },

@@ -1,6 +1,6 @@
 {
   "sheet": "Quest",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "Quest#65537", "hash": "EE1136DCBE04E7CE", "target": "Un buon avventuriero è merce rara" },
     { "gameKey": "Quest#65539", "hash": "70AE3429C568B68C", "target": "La via del botanico" },
@@ -5267,6 +5267,7 @@
     { "gameKey": "Quest#70910", "hash": "E45BC74269066308", "target": "Il viandante bianco" },
     { "gameKey": "Quest#70911", "hash": "843E2FCF339089A0", "target": "Fantasie da brividi" },
     { "gameKey": "Quest#70912", "hash": "C53763D474D33615", "target": "Abiti da impresario" },
+    { "gameKey": "Quest#70913", "hash": "0E4705B80A1802B4", "target": "" },
     { "gameKey": "Quest#70914", "hash": "6647DC022F7F30EA", "target": "Un vandalo in terre selvagge" },
     { "gameKey": "Quest#70915", "hash": "A3C559A5920A3B2F", "target": "Sulle tracce della distruzione" },
     { "gameKey": "Quest#70916", "hash": "0892A6978AD49527", "target": "Mantenere vive le antiche arti" },

@@ -1,6 +1,6 @@
 {
   "conversation": "custom/001/RegSeaCampSkullValley_00119",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_AHTMHAS_000_000", "hash": "E5695C00C01B3C99", "target": "<if(gnum4,Avventuriera,Avventuriero)>! <if(gnum4,Signora,Signore)>! Come posso esservi utile?" },
     { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_AHTMHAS_000_010", "hash": "F390EBDF11ABA027", "target": "Io, <if(gnum4,signora,signore)>? Sono responsabile della sicurezza di questa base, <if(gnum4,signora,signore)>!" },

@@ -1,6 +1,6 @@
 {
   "conversation": "custom/003/FesPdy2016Recollection_00323",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/003/FesPdy2016Recollection_00323#TEXT_FESPDY2016RECOLLECTION_00323_ADORINGFAN_000_000", "hash": "8A35A0E73CDEDA8F", "target": "Riconosco un altro fan quando ne vedo uno! Non adori, adori, <italic(1)>adori<italic(0)> gli Uccelli Canori?" },
     { "gameKey": "custom/003/FesPdy2016Recollection_00323#TEXT_FESPDY2016RECOLLECTION_00323_ADORINGFAN_000_001", "hash": "19A96721F75CE568", "target": "Dato che siamo della stessa pasta, ti svelerò un segreto. Sono così devoto a loro che ho imparato a memoria ogni parola e ogni gesto. So persino imitarne le voci! Eheh! Credi che non ne abbia il talento!? Mi sottovaluti, <if(gnum4,signora,signore)>!" },

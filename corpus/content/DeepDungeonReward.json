@@ -1,6 +1,6 @@
 {
   "conversation": "content/DeepDungeonReward",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "content/DeepDungeonReward#TEXT_DEEPDUNGEONREWARD_EUNAKOTOR_000_001", "hash": "6CE3B20ACD959120", "target": "Salve, <if(gnum4,amica,amico)>. Sono E-Una-Kotor, un Padjal di Gridania, come avrete forse intuito dalle corna che ho sul capo. Una presenza innaturale si è manifestata qui nel Bosco dei Dodici e mi è stato chiesto di indagare. Procedete con cautela e che gli elementali veglino su di voi." },
     { "gameKey": "content/DeepDungeonReward#TEXT_DEEPDUNGEONREWARD_EUNAKOTOR_000_010", "hash": "6009A4957AC7CA81", "target": "Salve. Sono E-Una-Kotor, un Padjal di Gridania. Come avrete notato, le Sentinelle del Bosco hanno iniziato a esplorare lo strano labirinto scoperto di recente nelle rovine di Gelmorra. Qui agiscono forze misteriose e sono venuto per assicurarmi che le Sentinelle del Bosco non corrano pericoli." },

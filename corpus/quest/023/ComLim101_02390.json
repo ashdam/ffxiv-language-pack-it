@@ -1,6 +1,6 @@
 {
   "conversation": "quest/023/ComLim101_02390",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/023/ComLim101_02390#TEXT_COMLIM101_02390_STORMPERSONNEL_000_000", "hash": "3E227F97886F7DAB", "target": "<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>! So che gli impegni presso <if([gnum52>0],la Tempesta,)><if([gnum53>0],l'Ordine della Vipera Gemella,)><if([gnum54>0],le Fiamme Immortali,)> ti portano via molto tempo, ma avrei bisogno di parlarti, se possibile." },
     { "gameKey": "quest/023/ComLim101_02390#TEXT_COMLIM101_02390_STORMPERSONNEL_000_001", "hash": "1D75E594C3DA80C3", "target": "Vengo subito al dunque, <head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)>. I superiori hanno autorizzato la creazione di uno squadrone speciale e siamo alla ricerca di una persona affidabile che lo guidi. Il tuo nome era in cima alla lista." },

@@ -1,6 +1,6 @@
 {
   "conversation": "custom/008/RegSak6Hhusatahwi_00880",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/008/RegSak6Hhusatahwi_00880#TEXT_REGSAK6HHUSATAHWI_00880_HHUTEPI_000_000", "hash": "5E2C985A49774832", "target": "Ti do il benvenuto, <if(gnum4,viaggiatrice,viaggiatore)>. Se posso aiutarti in qualcosa, non esitare a chiedere." },
     { "gameKey": "custom/008/RegSak6Hhusatahwi_00880#TEXT_REGSAK6HHUSATAHWI_00880_HHUTEPI_000_001", "hash": "1302D52B7D7C3E36", "target": "Hai sentito qualcosa su quegli strani aggeggi volanti in cielo? Se ne stanno lì. Minacciosi... Finché non hanno intenzione di muoversi, cerco di non pensarci. Comunque, posso aiutarti in qualcosa, <if(gnum4,signorina,signore)>?" },

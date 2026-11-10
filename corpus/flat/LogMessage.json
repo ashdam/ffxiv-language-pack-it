@@ -1,6 +1,6 @@
 {
   "sheet": "LogMessage",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "LogMessage#1", "hash": "E5A6D527F6A03EB6", "target": "<if([gstr1==gstr2],Ti inviti,Inviti <if(gnum7,<ennoun(ObjStr,3,gnum7,1,1)>,gstr2)>)> a un gruppo." },
     { "gameKey": "LogMessage#2", "hash": "B316C2A07A9209B9", "target": "L'invito al gruppo inviato da <if([gstr1==gstr2],te,<if(gnum7,<ennoun(ObjStr,3,gnum7,1,1)>,gstr2)>)> è stato annullato." },
@@ -290,6 +290,7 @@
     { "gameKey": "LogMessage#296", "hash": "77F9C27EA9E3DDFF", "target": "<head(<if([gstr1==gstr2],tu,<if(gnum7,<ennoun(ObjStr,3,gnum7,1,1)>,gstr2)>)>)> <if([gstr1==gstr2],esegui,esegue)> un'esotica danza del Vicino Oriente." },
     { "gameKey": "LogMessage#297", "hash": "694A37B5AFC7CFDF", "target": "<head(<if([gstr1==gstr2],tu,<if(gnum7,<ennoun(ObjStr,3,gnum7,1,1)>,gstr2)>)>)> <if([gstr1==gstr2],esegui,esegue)> la Gold dance." },
     { "gameKey": "LogMessage#298", "hash": "72636B3854448F7B", "target": "<head(<if([gstr1==gstr2],tu,<if(gnum7,<ennoun(ObjStr,3,gnum7,1,1)>,gstr2)>)>)> <if([gstr1==gstr2],esegui,esegue)> la Danza della Goccia Solare." },
+    { "gameKey": "LogMessage#299", "hash": "193B173883C48590", "target": "" },
     { "gameKey": "LogMessage#300", "hash": "48DC39C8ABC16257", "target": "Impossibile elaborare il comando della lista nera." },
     { "gameKey": "LogMessage#301", "hash": "A70BEED6389A2A78", "target": "Impossibile aggiungere alla lista nera." },
     { "gameKey": "LogMessage#302", "hash": "BA19EFA143B400BD", "target": "Impossibile rimuovere dalla lista nera." },
@@ -5117,6 +5118,8 @@
     { "gameKey": "LogMessage#5785", "hash": "4B7FE0B54AAE0F17", "target": "Impostazioni del titolo salvate." },
     { "gameKey": "LogMessage#5786", "hash": "9086018C53F7CB3E", "target": "Modifiche annullate." },
     { "gameKey": "LogMessage#5787", "hash": "125B43AC60449BD6", "target": "Provi <ennoun(Glasses,3,lnum1,1,1)>." },
+    { "gameKey": "LogMessage#5788", "hash": "D3EC92F529FC0CE5", "target": "" },
+    { "gameKey": "LogMessage#5789", "hash": "F2D5327B40F82A97", "target": "" },
     { "gameKey": "LogMessage#5790", "hash": "8DBBBFA60E032D82", "target": "Impostazioni salvate." },
     { "gameKey": "LogMessage#5791", "hash": "4B7EB2CFD9BED59F", "target": "Modifiche annullate." },
     { "gameKey": "LogMessage#5792", "hash": "50F8A1C5F5F28093", "target": "I ritratti dei membri del gruppo non sono disponibili per questo incarico." },
@@ -5326,6 +5329,9 @@
     { "gameKey": "LogMessage#6115", "hash": "BE9BFB0FDB5951D0", "target": "SSAO <switch(lnum1,applicato agli,rimosso dagli)> arredi." },
     { "gameKey": "LogMessage#6116", "hash": "4FDCEB8703454EE9", "target": "Poiché non entri nella tua proprietà da diverso tempo, potrebbe essere programmata per la demolizione.<br>Controlla la scheda Proprietà sotto Timer nel menu Incarichi." },
     { "gameKey": "LogMessage#6117", "hash": "2F930C8C534B1714", "target": "Modifiche agli interni della proprietà salvate." },
+    { "gameKey": "LogMessage#6118", "hash": "4AE0B2BA28598D5C", "target": "" },
+    { "gameKey": "LogMessage#6119", "hash": "F61B71A7440064A9", "target": "" },
+    { "gameKey": "LogMessage#6120", "hash": "F4E108D433A84B04", "target": "" },
     { "gameKey": "LogMessage#6121", "hash": "F1AB4E13C6D335FE", "target": "Gli oggetti non vendibili sul mercato non possono essere aggiunti ai preferiti. " },
     { "gameKey": "LogMessage#6965", "hash": "C68196CB902E80EA", "target": "La serratura non cambia..." },
     { "gameKey": "LogMessage#6966", "hash": "18575BE7D0FD4686", "target": "<if(lnum1,<if([lnum1<=10],La <switch(lnum1,prima,seconda,terza,quarta,quinta,sesta,settima,ottava,nona,decima)> serratura,La serratura <num(lnum1)>)>,La serratura <num(lnum1)>)> ti chiama!" },
@@ -6480,6 +6486,8 @@
     { "gameKey": "LogMessage#9123", "hash": "1ED003E18F574A3E", "target": "La condivisione della configurazione può essere usata solo nel tuo mondo di origine." },
     { "gameKey": "LogMessage#9124", "hash": "451836A6C40C3BC0", "target": "Puoi usare la condivisione della configurazione solo in un santuario." },
     { "gameKey": "LogMessage#9125", "hash": "7EFE0370D8530534", "target": "Impossibile caricare i dati condivisi a causa di contenuti inappropriati. Modifica il commento inserito e riprova." },
+    { "gameKey": "LogMessage#9150", "hash": "BB8057636624F0F6", "target": "" },
+    { "gameKey": "LogMessage#9151", "hash": "00BE194C600A53EC", "target": "" },
     { "gameKey": "LogMessage#9199", "hash": "E1177235CABAA77A", "target": "Nessun membro può assumere la carica di maestro.<br>Devi sciogliere questa fonorete intermondo o invitare un nuovo membro prima di lasciarla." },
     { "gameKey": "LogMessage#9200", "hash": "47ED31710F61A12C", "target": "Non puoi conferire i privilegi di maestro della fonorete intermondo a membri che si trovano in un altro data center." },
     { "gameKey": "LogMessage#9201", "hash": "C097C9F975236149", "target": "40 secondi prima che Alphinaud lanci Starstorm..." },
@@ -7055,6 +7063,7 @@
     { "gameKey": "LogMessage#9842", "hash": "FA19EF0F0A872AA2", "target": "L'acqua si è ritirata." },
     { "gameKey": "LogMessage#9843", "hash": "7AB505E8ADC413E9", "target": "Cura i profughi thavnairiani feriti!" },
     { "gameKey": "LogMessage#9844", "hash": "6F5113DFEC9395B0", "target": "Distruggere il Cristallo della Luce infligge <num(lnum1)> danni agli echi di Hydaelyn!" },
+    { "gameKey": "LogMessage#9846", "hash": "7199C9650F6E6044", "target": "La bestia chiama rinforzi!" },
     { "gameKey": "LogMessage#9847", "hash": "80F80ACF057BF91D", "target": "La bestia scatena una pioggia di meteore!" },
     { "gameKey": "LogMessage#9848", "hash": "E35097A765B5F81B", "target": "La barra della Trascendenza è piena!" },
     { "gameKey": "LogMessage#9849", "hash": "4047F8100B341921", "target": "Il phoinix e i suoi sparkfledged bruciano intensamente..." },
@@ -8599,7 +8608,6 @@
     { "gameKey": "LogMessage#11665", "hash": "935506D9D0E77B16", "target": "La tua partecipazione all'incarico è stata interrotta per inattività prolungata." },
     { "gameKey": "LogMessage#11676", "hash": "1413E2119DBC64C7", "target": "«<sheet(DescriptionString,1700,0,28)>» è stato aggiunto alla guida di Crogiolo degli Infrangibili." },
     { "gameKey": "LogMessage#11677", "hash": "F5231246457ACB45", "target": "La voce “<sheet(DescriptionString,1762,0,28)>” è stata aggiunta alla guida di Crogiolo degli Infrangibili." },
-    { "gameKey": "LogMessage#11779", "hash": "89FF8B039F424DE4", "target": "L'incarico è terminato. Il tempo limite per questa istanza è stato modificato." },
-    { "gameKey": "LogMessage#9846", "hash": "7199C9650F6E6044", "target": "La bestia chiama rinforzi!" }
+    { "gameKey": "LogMessage#11779", "hash": "89FF8B039F424DE4", "target": "L'incarico è terminato. Il tempo limite per questa istanza è stato modificato." }
   ]
 }

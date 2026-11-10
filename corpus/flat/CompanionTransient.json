@@ -1,6 +1,6 @@
 {
   "sheet": "CompanionTransient",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "CompanionTransient#1.0", "hash": "E8501C3E189F1C32", "target": "Evoca il tuo minion bomba ciliegia, una miniatura di bomba vuotofaga creata elaborando taumaturgicamente etere carico di energia umbrale. Non esploderà mai da sola, oppure ti verranno restituiti i gil." },
     { "gameKey": "CompanionTransient#1.1", "hash": "C653E5ACFFBB722C", "target": "Per mantenere incandescente il nucleo, le bombe si nutrono di quasi qualsiasi materiale combustibile, tra cui legno, carbone, ceruleo, cristalli di fuoco e perfino peperoncini dei draghi." },
@@ -2775,6 +2775,11 @@
     { "gameKey": "CompanionTransient#559.2", "hash": "8402E4E820D6DAE1", "target": "Non hai idea dei<br>guai che riescono a combinare.<br>   — Uaauashe" },
     { "gameKey": "CompanionTransient#559.3", "hash": "EDFFF40DCF967BC7", "target": "L'Odiato" },
     { "gameKey": "CompanionTransient#559.4", "hash": "80EDA821B0A981EE", "target": "Aumenta l'ATT del minion che esegue l'azione di 10 e la DIF di 5 per ogni 5% di PV persi.<br><colortype(504)><edgecolortype(505)>Durata:<edgecolortype(0)><colortype(0)> 6s" },
+    { "gameKey": "CompanionTransient#560.0", "hash": "C4F3321793102AB1", "target": "" },
+    { "gameKey": "CompanionTransient#560.1", "hash": "21CC38DF7E1DD0D2", "target": "" },
+    { "gameKey": "CompanionTransient#560.2", "hash": "A858F3D783CA41B8", "target": "" },
+    { "gameKey": "CompanionTransient#560.3", "hash": "BC515B797F544206", "target": "" },
+    { "gameKey": "CompanionTransient#560.4", "hash": "A6B5532295CD2F20", "target": "" },
     { "gameKey": "CompanionTransient#561.0", "hash": "7DF05D0F9B81CBCA", "target": "Evoca il tuo minion corvo minuscolo. Intelligente e leale: cos'altro si può desiderare?" },
     { "gameKey": "CompanionTransient#561.1", "hash": "C09355EA1D4D901E", "target": "Questo corvo, trovato in un laboratorio situato nel Terminale Meso, era una cavia da esperimento. Quando i ricercatori scomparvero dalla struttura, riuscì a sopravvivere grazie all'alimentazione d'emergenza della gabbia e al distributore automatico di cibo. Molto intelligente e mosso da un forte senso del dovere, ha deciso di seguire il suo liberatore." },
     { "gameKey": "CompanionTransient#561.2", "hash": "F751E3111048F94B", "target": "Con un solo colpo risolveremmo<br>tutti i nostri problemi!<br>   — Benathaire" },
