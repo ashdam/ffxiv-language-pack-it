@@ -1,6 +1,6 @@
 {
   "sheet": "Addon",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "Addon#1", "hash": "FCD57C566CA402DB", "target": "OK" },
     { "gameKey": "Addon#2", "hash": "E79EAD3A26602904", "target": "Annulla" },
@@ -14585,6 +14585,8 @@
     { "gameKey": "Addon#17530", "hash": "D7098B87E45B125D", "target": "Sconosciuto" },
     { "gameKey": "Addon#17531", "hash": "9BB02E5C0D7BF246", "target": "Ci sono registrazioni a incarichi in sospeso. Vuoi davvero annullare la registrazione e disconnetterti?" },
     { "gameKey": "Addon#17532", "hash": "D79409DF3B5FCCB3", "target": "Ci sono registrazioni a incarichi in sospeso. Vuoi davvero annullare la registrazione e chiudere il client di gioco?" },
+    { "gameKey": "Addon#17538", "hash": "7026B44C2815FECD", "target": "" },
+    { "gameKey": "Addon#17539", "hash": "B30F240FD334EA2F", "target": "" },
     { "gameKey": "Addon#17540", "hash": "E0174BEEA2EAA18F", "target": "Punto di partenza." },
     { "gameKey": "Addon#17541", "hash": "DE95347ADB0D257B", "target": "Nemico n. <num(lnum1)>: Combatti <num(lnum2)> <if([lnum2<=1],tipo,tipi)> di bestia." },
     { "gameKey": "Addon#17542", "hash": "D8EFD36123A7A996", "target": "Nemico d'élite n. <num(lnum1)>: Combattimento <num(lnum2)> <if([lnum2<=1],tipo,tipi)> della bestia." },

@@ -1,6 +1,6 @@
 {
   "conversation": "custom/001/RegWilRowena_00106",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/001/RegWilRowena_00106#TEXT_REGWILROWENA_00106_TALK_ACTOR", "hash": "8670EEDBDA42096E", "target": "Mi chiamo Rowena. Ero una mercante d'armi ambulante, finché un nobile di Ishgard non ha visto la mia collezione. Ha detto che avevo occhio per la qualità e mi ha chiesto di lavorare per lui, aiutandolo a scambiare la sua raccolta con ogni genere di manufatto raro." },
     { "gameKey": "custom/001/RegWilRowena_00106#TEXT_REGWILROWENA_00106_ROWENA_000_010", "hash": "64A5AFC1864B805E", "target": "Sei <if(gnum4,riuscita,riuscito)> a far riforgiare a Gerolt una delle armi antiche? A <italic(1)>Gerolt<italic(0)>?<br>...Sono colpita. Se ti stanchi della vita d'avventura, mi farebbe sempre comodo un'altra persona che sa come <italic(1)>smuovere<italic(0)> la gente." },

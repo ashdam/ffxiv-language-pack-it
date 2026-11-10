@@ -1,6 +1,6 @@
 {
   "conversation": "custom/003/RegSeaPvpSeasonRewardSecond_00358",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/003/RegSeaPvpSeasonRewardSecond_00358#TEXT_REGSEAPVPSEASONREWARDSECOND_00358_SEASONREWARD_000_000", "hash": "5D811F5B3939F3B7", "target": "Ah, vedo che uno dei lupi più feroci del <if([lnum1>=1],Conflitto Cristallino,Banchetto)> è tornato alla tana, con la pancia piena e gli occhi scintillanti. Sei qui per riscuotere il tuo premio, eh?" },
     { "gameKey": "custom/003/RegSeaPvpSeasonRewardSecond_00358#TEXT_REGSEAPVPSEASONREWARDSECOND_00358_SEASONREWARD_000_001", "hash": "9A85D4D835C179ED", "target": "<if([lnum1>=1],La stagione <head(<if(lnum1,<if([lnum1<=10],<switch(lnum1,uno,due,tre,quattro,cinque,sei,sette,otto,nove,dieci)>,<num(lnum1)>)>,<num(lnum1)>)>)> del Conflitto Cristallino è iniziata!,Il Conflitto Cristallino è attualmente in precampionato.)><br>In qualità di quartiermastro ho il dovere e il privilegio di consegnare i premi spettanti ai campioni della stagione precedente.<if([lnum2>=1],, Naturalmente non si assegnano riconoscimenti simili per le vittorie nel precampionato.)> Se hai domande sull'assegnazione delle ricompense, sarò lieto di chiarire ogni dubbio." },

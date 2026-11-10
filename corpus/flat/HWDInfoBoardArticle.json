@@ -1,6 +1,6 @@
 {
   "sheet": "HWDInfoBoardArticle",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "HWDInfoBoardArticle#12", "hash": "CB7DD813D0632DD3", "target": "<switch(lnum1,Piazza del Mendicante\\, 1ª Fase,N. 1 - Piazza del Mendicante\\, 1ª Fase)>" },
     { "gameKey": "HWDInfoBoardArticle#13", "hash": "2F91AAD02B21194E", "target": "<switch(lnum1,Lavori Collettivi della 1ª Fase,N. 2 - Lavori Collettivi della 1ª Fase)>" },

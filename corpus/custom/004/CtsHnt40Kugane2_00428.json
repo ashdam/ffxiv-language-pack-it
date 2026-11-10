@@ -1,6 +1,6 @@
 {
   "conversation": "custom/004/CtsHnt40Kugane2_00428",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/004/CtsHnt40Kugane2_00428#TEXT_CTSHNT40KUGANE2_004286_HERSANDE_000_000", "hash": "BAA7AE74DF462FD1", "target": "Che piacere incontrare qualcuno di Eorzea così lontano da casa! Conosco le meraviglie e i pericoli dell'Estremo Oriente, perciò permettimi un consiglio: tieni sempre l'arma a portata di mano." },
     { "gameKey": "custom/004/CtsHnt40Kugane2_00428#TEXT_CTSHNT40KUGANE2_004286_HERSANDE_000_001", "hash": "AA5FAFE2E09AC6BA", "target": "Che piacere incontrare qualcuno di Eorzea così lontano da casa! Ti sei già avventurat<if(gnum4,a,o)> a Yanxia? Immagino che ti sarà utile il parere di una veterana sulle prede che vi dimorano. Chiedi pure, <if(gnum4,sorella,fratello)>." },

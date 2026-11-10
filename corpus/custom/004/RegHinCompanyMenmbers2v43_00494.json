@@ -1,6 +1,6 @@
 {
   "conversation": "custom/004/RegHinCompanyMenmbers2v43_00494",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/004/RegHinCompanyMenmbers2v43_00494#TEXT_REGHINCOMPANYMENMBERS2V43_00494_GOODLOOKINGMEMBER_000_070", "hash": "9D7E49D4A0BFB415", "target": "Già di ritorno dai mari agitati? E dov'è il resto della tua allegra compagnia?" },
     { "gameKey": "custom/004/RegHinCompanyMenmbers2v43_00494#TEXT_REGHINCOMPANYMENMBERS2V43_00494_GOODLOOKINGMEMBER_000_080", "hash": "2F6CD694E36E483B", "target": "Ba'Gamnan si è trasformato, dici? Sei <if(gnum4,certa,certo)> che non fosse un qualche trucco di scena? Con un po' di trucco teatrale e qualche lanterna collocata con cura, persino i più mansueti della Compagnia Teatrale Majestica sono diventati mostri, sai." },

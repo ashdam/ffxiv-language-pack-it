@@ -1,6 +1,6 @@
 {
   "conversation": "quest/037/FesVlt604_03755",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/037/FesVlt604_03755#TEXT_FESVLT604_03755_SEQ_00", "hash": "7A2BB89CD44DE73B", "target": "Rodrigault ti guarda con un'espressione di assoluta sicurezza.<br>※Questa missione è disponibile solo per un periodo limitato." },
     { "gameKey": "quest/037/FesVlt604_03755#TEXT_FESVLT604_03755_SEQ_01", "hash": "CE92C77785D4DED7", "target": "Parli con Rodrigault e gli comunichi che la sua analisi logica della situazione ti ha <if(gnum4,convinta,convinto)>. Considerandolo il naturale corso degli eventi, si allontana con noncuranza per riferire a Lisette, quasi senza degnarti di uno sguardo. Per quanto preferiresti essere in innumerevoli altri posti, decidi di seguirlo e onorare la promessa fatta a Lisette.<br><br>※Non potrai completare questa missione una volta concluso l'evento stagionale. Per ulteriori informazioni, consulta Lodestone." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/054/FesHlx201_05467",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/054/FesHlx201_05467#TEXT_FESHLX201_05467_SEQ_00", "hash": "ECDF03DD9FB14671", "target": "L'apparizione dalla testa di zucca è impaziente di presentarti i suoi conoscenti ultraterreni.<br>※Questa missione è disponibile solo per un periodo limitato." },
     { "gameKey": "quest/054/FesHlx201_05467#TEXT_FESHLX201_05467_SEQ_01", "hash": "D7A49A01E25CD87E", "target": "L'apparizione dalla testa di zucca accoglie il tuo arrivo tempestivo e sostiene che <if(gnum4,un'avventuriera robusta,un avventuriero robusto)> come te sia la compagnia perfetta per i suoi ospiti: un gruppetto di piccoli vuotofagi desiderosi di frequentare gli esseri umani. Offri il tuo aiuto alla zucca luminosa, che ti invita nei pressi del Mugnaio Fischiettante per incontrare i bambini in questione.<br><br>※Non sarà possibile completare questa missione dopo la fine dell'evento stagionale. Per ulteriori informazioni, consulta il Lodestone." },

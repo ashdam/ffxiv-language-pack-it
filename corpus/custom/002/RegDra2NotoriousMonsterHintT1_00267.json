@@ -1,6 +1,6 @@
 {
   "conversation": "custom/002/RegDra2NotoriousMonsterHintT1_00267",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/002/RegDra2NotoriousMonsterHintT1_00267#TEXT_REGDRA2NOTORIOUSMONSTERHINTT1_00267_YLOISE_000_000", "hash": "049A3945DB426509", "target": "Non mettermi nello stesso sacco di quei cosiddetti cacciatori di tesori: per me non sono altro che una banda di ladri e vagabondi. Io faccio qualcosa di ben più rispettabile. Sono una cacciatrice di taglie." },
     { "gameKey": "custom/002/RegDra2NotoriousMonsterHintT1_00267#TEXT_REGDRA2NOTORIOUSMONSTERHINTT1_00267_YLOISE_000_001", "hash": "CE6697825FC51732", "target": "Bene, bene, bene... È bello vedere una faccia amica da queste parti, per una volta. Come posso aiutare <if(gnum4,una compagna,un compagno)> del Clan?" },

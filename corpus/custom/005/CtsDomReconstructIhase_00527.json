@@ -1,6 +1,6 @@
 {
   "conversation": "custom/005/CtsDomReconstructIhase_00527",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/005/CtsDomReconstructIhase_00527#TEXT_CTSDOMRECONSTRUCTIHASE_00527_IHASE_000_000", "hash": "86082713F96F3F35", "target": "Ci sono voluti sangue, sudore e lacrime, ma alla fine abbiamo sgomberato tutte quelle macerie. Chissà se lo Shazenkai ci permetterebbe di usare il terreno per coltivarlo?" },
     { "gameKey": "custom/005/CtsDomReconstructIhase_00527#TEXT_CTSDOMRECONSTRUCTIHASE_00527_IHASE_000_010", "hash": "80664338303E41F2", "target": "Non avrei mai pensato che un giorno <if(gnum4,la Guerriera,il Guerriero)> della Luce sarebbe venut<if(gnum4,a,o)> a vedere le mie risaie, e invece eccoti qui." },

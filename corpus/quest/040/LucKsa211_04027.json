@@ -1,6 +1,6 @@
 {
   "conversation": "quest/040/LucKsa211_04027",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/040/LucKsa211_04027#TEXT_LUCKSA211_04027_SYSTEM_100_000", "hash": "A87B2D8AF19105CE", "target": "Per proseguire questa missione devi raggiungere almeno il rango <num(lnum1)> nella Resistenza e accumulare <kilo(lnum2,\\,)> mettle." },
     { "gameKey": "quest/040/LucKsa211_04027#TEXT_LUCKSA211_04027_SYSTEM_100_001", "hash": "25C9843BC51D3514", "target": "Il tuo rango nella Resistenza è <num(lnum1)> e hai accumulato <kilo(lnum2,\\,)> mettle." },

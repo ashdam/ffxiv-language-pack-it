@@ -1,6 +1,6 @@
 {
   "conversation": "custom/004/CtsHnt40RhalgrsReach_00430",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/004/CtsHnt40RhalgrsReach_00430#TEXT_CTSHNT40RHALGRSREACH_00430_HRUODLAND_000_000", "hash": "A5AF29F000CD2E3D", "target": "Non mi intendo di politica, ma possiedo doti particolari che pensavo potessero essere utili alla Resistenza, doti acquisite nel corso di una carriera molto lunga." },
     { "gameKey": "custom/004/CtsHnt40RhalgrsReach_00430#TEXT_CTSHNT40RHALGRSREACH_00430_HRUODLAND_000_001", "hash": "8FC5A67F023D193A", "target": "La morte di certe prede contribuirebbe enormemente alla stabilità della regione, non trovi, <if(gnum4,sorella,fratello)>? Le cercheremo. Le troveremo. E le uccideremo." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/015/BanIxa305_01518",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/015/BanIxa305_01518#TEXT_BANIXA305_01518_SEQ_00", "hash": "E7752124265E309C", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Rozol Cattlan the Prudent chiede l'aiuto di <if(gnum4,una Discepola,un Discepolo)> della Mano con abbastanza olio di gomito da superare senza intoppi un compito difficile.<br>※Per la parte artigianale di questa missione si consiglia una classe dei Discepoli della Mano di livello 6 o superiore." },
     { "gameKey": "quest/015/BanIxa305_01518#TEXT_BANIXA305_01518_SEQ_01", "hash": "1C80054E19BD2AD8", "target": "Rozol Cattlan ti ha chiesto di sintetizzare un componente per l'aerodinamo della <italic(1)>Dezul Qualan<italic(0)>, un delicato strumento che aiuterà l'aeronave a restare in aria dopo il decollo. Il contanodi degli Ehcatl Nine ha parlato personalmente con Templeton e non pensa che dovrai corrompere il rappresentante delle Aerolinee Highwind per accedere al laboratorio dell'Osservatorio. Il contanodi, però, non crede neppure a una parola di ciò che dice Templeton, quindi ti avverte di prepararti a svolgere un qualche compito per quell'ingrato ubriacone.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale." },

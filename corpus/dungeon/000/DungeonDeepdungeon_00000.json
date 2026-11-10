@@ -1,6 +1,6 @@
 {
   "conversation": "dungeon/000/DungeonDeepdungeon_00000",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "dungeon/000/DungeonDeepdungeon_00000#TEXT_DUNGEONDEEPDUNGEON_00000_EDDA_000_000", "hash": "E7E20EDF39064980", "target": "Ah... <if(gnum4,Un'altra visitatrice,Un altro visitatore)>..." },
     { "gameKey": "dungeon/000/DungeonDeepdungeon_00000#TEXT_DUNGEONDEEPDUNGEON_00000_EDDA_000_100", "hash": "11C7D242AF8C6043", "target": "Pare che <if(gnum4,la nostra ospite,il nostro ospite)> si sia <if(gnum4,trattenuta,trattenuto)> un po' troppo...<br>Vieni, amore mio. <if(gnum4,Mostriamole,Mostriamogli)> l'uscita!" },

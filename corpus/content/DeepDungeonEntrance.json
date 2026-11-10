@@ -1,6 +1,6 @@
 {
   "conversation": "content/DeepDungeonEntrance",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "content/DeepDungeonEntrance#TEXT_DEEPDUNGEONENTRANCE_WOODWAILERCAPTAIN01556_000_000", "hash": "D014ACE05AE92DA2", "target": "Una grave minaccia alla pace nel Velo Nero si è manifestata e mi hanno mandato ad aiutare a scacciarla. Che tu sia <if(gnum4,un'avventuriera,un avventuriero)> o meno, non permetterò a nessuno di intralciare il mio lavoro. Ora, per favore, prosegui." },
     { "gameKey": "content/DeepDungeonEntrance#TEXT_DEEPDUNGEONENTRANCE_WOODWAILERCAPTAIN01556_000_020", "hash": "94081C319CE22A63", "target": "Per fortuna il curatore di quel luogo maledetto è stato tanto sbadato da lasciare i suoi appunti dove potevamo trovarli. Forse ora scopriremo le sue vere intenzioni." },

@@ -1,6 +1,6 @@
 {
   "conversation": "custom/003/RegRoc2SkyIslandShop_00312",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/003/RegRoc2SkyIslandShop_00312#TEXT_REGROC2SKYISLANDSHOP_00312_JAQUOINIE_000_000", "hash": "3B451FB0BB6886BB", "target": "Vi registrerete per la prossima missione? In tal caso, dovrete presentare un buono d'acquisto per un tank of ceruleo." },
     { "gameKey": "custom/003/RegRoc2SkyIslandShop_00312#TEXT_REGROC2SKYISLANDSHOP_00312_JAQUOINIE_000_010", "hash": "E170CB1713ADBDD7", "target": "...Ah, mille scuse, <if(gnum4,signorina,signore)>. Visti i pericoli spesso affrontati dai nostri gruppi, possiamo accettare soltanto persone di grande esperienza." },

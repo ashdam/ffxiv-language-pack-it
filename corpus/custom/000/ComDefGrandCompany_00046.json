@@ -1,6 +1,6 @@
 {
   "conversation": "custom/000/ComDefGrandCompany_00046",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/000/ComDefGrandCompany_00046#TEXT_COMDEFGRANDCOMPANY_00046_FULKE_000_01", "hash": "068285B08C4E152A", "target": "Salve. L'Ordine della Vipera Gemella accoglie chiunque sia disposto a combattere per difendere Gridania." },
     { "gameKey": "custom/000/ComDefGrandCompany_00046#TEXT_COMDEFGRANDCOMPANY_00046_FULKE_000_05", "hash": "1E182807837B9F17", "target": "<if(gnum4,Soldatessa,Soldato)> <split(<string(gstr1)>, ,2)>, dico bene? In base al vostro grado e al vostro incarico, potete portare con voi al massimo 1.000 Sigilli della Vipera." },

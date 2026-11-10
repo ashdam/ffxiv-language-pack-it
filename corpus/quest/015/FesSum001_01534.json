@@ -1,6 +1,6 @@
 {
   "conversation": "quest/015/FesSum001_01534",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/015/FesSum001_01534#TEXT_FESSUM001_01534_SEQ_00", "hash": "F9A8C3DFC22BDD7D", "target": "Organizzare eventi è un compito spietato, e un'organizzatrice della Festa del Fuoco Lunare è decisa a fartene assaggiare la frusta senza pietà.<br>※Questa missione è disponibile solo per un periodo limitato." },
     { "gameKey": "quest/015/FesSum001_01534#TEXT_FESSUM001_01534_SEQ_01", "hash": "B37B6805DE46EC3D", "target": "Secondo un'organizzatrice itinerante della Festa del Fuoco Lunare, la Gilda degli Avventurieri cerca membri disposti a contribuire ai festeggiamenti. Da <if(gnum4,fiera iscritta,fiero iscritto)> alla gilda con un certo spirito avventuroso anche nel vestire, faresti bene a indossare un <if(gnum4,yukata rosso della dama,yukata blu del signore)> e raggiungere il Cassero. Se il capo degli organizzatori, Haermaga, è davvero come lo descrivono, lo scambio promette di essere vantaggioso.<br><br>※Non potrai completare questa missione una volta terminato l'evento stagionale. Per maggiori dettagli, consulta il Lodestone." },

@@ -1,6 +1,6 @@
 {
   "conversation": "custom/001/FesXmsShop2013_00142",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/001/FesXmsShop2013_00142#TEXT_FESXMSSHOP2013_00142_SEIBOH_000_000", "hash": "E769A7A0E7F2B685", "target": "Buongiorno, <if(gnum4,signorina,signore)>. Spero non abbiate avuto dispiaceri durante la Celebrazione delle Stelle di quest'anno." },
     { "gameKey": "custom/001/FesXmsShop2013_00142#TEXT_FESXMSSHOP2013_00142_SEIBOH_000_001", "hash": "629932BC40501342", "target": "La Gilda degli Avventurieri mi ha affidato il compito di sorvegliare i festeggiamenti di quest'anno. Doveva esserci una sorpresa speciale per i bambini, ma temo che i nostri piani possano fallire." },
