@@ -1,7 +1,9 @@
 {
   "gamePath": "ui/uld/xbmmonsterbookdetail.uld",
-  "sourceSha256": "E3E1698ADD31F32486A26E1DABC25ED4AA963F2C417F283B07BF167B85FAFC3B",
+  "sourceSha256": "9272C7F42173FE039A5131213F648E8AE95CF743FD2764C38A8D77AE04BCFB97",
   "nodes": [
-    { "nodeId": 40, "textId": 0, "expectedPosition": { "x": 68 }, "position": { "x": 82 } }
+    { "nodeId": 40, "textId": 17538, "expectedPosition": { "x": 66 }, "position": { "x": 80 } },
+    { "nodeId": 42, "textId": 0, "expectedPosition": { "x": 0 }, "position": { "x": 14 } },
+    { "nodeId": 44, "textId": 0, "expectedPosition": { "x": 0 }, "position": { "x": 14 } }
   ]
 }
