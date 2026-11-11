@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/028/StmBdz710_02813#TEXT_STMBDZ710_02813_SEQ_00", "hash": "4B52576191C88129", "target": "Keisetsu di Kugane ha un compito adatto a chi viene dall'estero e vive d'avventure." },
-    { "gameKey": "quest/028/StmBdz710_02813#TEXT_STMBDZ710_02813_TODO_00", "hash": "A31478D3C892CBF2", "target": "Cercare a Kugane mercanti stranieri e consegnare loro la draper sale missive" },
-    { "gameKey": "quest/028/StmBdz710_02813#TEXT_STMBDZ710_02813_TODO_01", "hash": "C7CF83902D840993", "target": "Fare rapporto a Keisetsu" },
+    { "gameKey": "quest/028/StmBdz710_02813#TEXT_STMBDZ710_02813_TODO_00", "hash": "A31478D3C892CBF2", "target": "Cerca a Kugane mercanti stranieri e consegna loro la draper sale missive" },
+    { "gameKey": "quest/028/StmBdz710_02813#TEXT_STMBDZ710_02813_TODO_01", "hash": "C7CF83902D840993", "target": "Fai rapporto a Keisetsu" },
     { "gameKey": "quest/028/StmBdz710_02813#TEXT_STMBDZ710_02813_KEISETSU_000_000", "hash": "74F492D184791F94", "target": "Scusatemi, sembrate provenire da una terra straniera. Se è così, credo possiate aiutarmi." },
     { "gameKey": "quest/028/StmBdz710_02813#TEXT_STMBDZ710_02813_KEISETSU_000_001", "hash": "85410E264078E4DC", "target": "Sono Keisetsu, servitore di una casa mercantile. Devo distribuire questi volantini ai passanti. Annunciano una grande svendita di sete pregiate del mio padrone. Ma non riesco a farli accettare." },
     { "gameKey": "quest/028/StmBdz710_02813#TEXT_STMBDZ710_02813_KEISETSU_000_002", "hash": "05C3F0A39DA7160F", "target": "Io e il mio padrone vorremmo soltanto vendere le sete a chi visita Kugane da oltremare. Ma temo che mi trovino sospetto. Se fosse un'altra persona straniera come voi a distribuire i volantini, forse sarebbero più propensi ad accettarli." },

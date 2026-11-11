@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/026/StmBdz110_02660#TEXT_STMBDZ110_02660_SEQ_00", "hash": "5588C81A2A3948E6", "target": "Lucinne ha bisogno di un paio di mani in più." },
-    { "gameKey": "quest/026/StmBdz110_02660#TEXT_STMBDZ110_02660_TODO_00", "hash": "6A147D693C427C02", "target": "Ottenere campioni di terreno dalla Coda della Cometa" },
-    { "gameKey": "quest/026/StmBdz110_02660#TEXT_STMBDZ110_02660_TODO_01", "hash": "D49BEB1BEF0AE9CF", "target": "Ottenere un campione d'acqua dalla Coda della Cometa" },
-    { "gameKey": "quest/026/StmBdz110_02660#TEXT_STMBDZ110_02660_TODO_02", "hash": "D7945B93280968AC", "target": "Consegnare i campioni a Lucinne" },
+    { "gameKey": "quest/026/StmBdz110_02660#TEXT_STMBDZ110_02660_TODO_00", "hash": "6A147D693C427C02", "target": "Ottieni campioni di terreno dalla Coda della Cometa" },
+    { "gameKey": "quest/026/StmBdz110_02660#TEXT_STMBDZ110_02660_TODO_01", "hash": "D49BEB1BEF0AE9CF", "target": "Ottieni un campione d'acqua dalla Coda della Cometa" },
+    { "gameKey": "quest/026/StmBdz110_02660#TEXT_STMBDZ110_02660_TODO_02", "hash": "D7945B93280968AC", "target": "Consegna i campioni a Lucinne" },
     { "gameKey": "quest/026/StmBdz110_02660#TEXT_STMBDZ110_02660_LUCINNE_000_000", "hash": "C43B9CC4DE46AF6F", "target": "Oh, sei <if(gnum4,l'avventuriera,l'avventuriero)> di prima. Cerchi altro lavoro? Perché un paio di mani in più mi farebbero proprio comodo." },
     { "gameKey": "quest/026/StmBdz110_02660#TEXT_STMBDZ110_02660_LUCINNE_000_001", "hash": "81E6FA259AD77489", "target": "L'analisi dei campioni che mi hai portato procede piuttosto bene, ma c'è un'altra zona che vorrei farti esaminare." },
     { "gameKey": "quest/026/StmBdz110_02660#TEXT_STMBDZ110_02660_LUCINNE_000_002", "hash": "D14123D9E4D51556", "target": "A sud-est di qui c'è una caverna, la Coda della Cometa. Si chiama così per il minerale luminoso che ne ricopre le pareti e il soffitto, come se gli dèi stessi avessero catturato la luce delle stelle e l'avessero messa lì." },

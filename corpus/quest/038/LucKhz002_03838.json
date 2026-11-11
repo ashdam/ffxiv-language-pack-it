@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/038/LucKhz002_03838#TEXT_LUCKHZ002_03838_SEQ_00", "hash": "EC5D50124D99A686", "target": "L'avventuriera zelante ti fissa con gli occhi spalancati." },
-    { "gameKey": "quest/038/LucKhz002_03838#TEXT_LUCKHZ002_03838_TODO_00", "hash": "5FD7325224C12C28", "target": "Cercare l'avventuriera esperta nei pressi della Cattedrale di San Reymanaud" },
-    { "gameKey": "quest/038/LucKhz002_03838#TEXT_LUCKHZ002_03838_TODO_01", "hash": "AC84CADDD65A7F47", "target": "Parlare con l'avventuriera zelante nel Firmamento" },
-    { "gameKey": "quest/038/LucKhz002_03838#TEXT_LUCKHZ002_03838_TODO_02", "hash": "CAABF7876841DC8D", "target": "Parlare con l'affascinante residente" },
+    { "gameKey": "quest/038/LucKhz002_03838#TEXT_LUCKHZ002_03838_TODO_00", "hash": "5FD7325224C12C28", "target": "Cerca l'avventuriera esperta nei pressi della Cattedrale di San Reymanaud" },
+    { "gameKey": "quest/038/LucKhz002_03838#TEXT_LUCKHZ002_03838_TODO_01", "hash": "AC84CADDD65A7F47", "target": "Parla con l'avventuriera zelante nel Firmamento" },
+    { "gameKey": "quest/038/LucKhz002_03838#TEXT_LUCKHZ002_03838_TODO_02", "hash": "CAABF7876841DC8D", "target": "Parla con l'affascinante residente" },
     { "gameKey": "quest/038/LucKhz002_03838#TEXT_LUCKHZ002_03838_HWDADVENTURERA03838_000_000", "hash": "A988A7950AF0E516", "target": "P-Per i Dodici, siete <string(gstr1)>! Incontrarvi proprio qui, fra tutti i posti possibili!" },
     { "gameKey": "quest/038/LucKhz002_03838#TEXT_LUCKHZ002_03838_HWDADVENTURERA03838_000_001", "hash": "1C822A8482E39DC5", "target": "Ah, scusate se mi sono lasciata prendere dall'entusiasmo. È solo che... desideravamo incontrarvi da moltissimo tempo." },
     { "gameKey": "quest/038/LucKhz002_03838#TEXT_LUCKHZ002_03838_HWDADVENTURERA03838_000_002", "hash": "11CA570B47B01CA3", "target": "Anche noi siamo avventurieri, sapete. Da quando abbiamo assistito al vostro scontro con Hoary Boulder, siamo vostri ammiratori. Abbiamo persino svolto qualche missione per gli Eredi." },

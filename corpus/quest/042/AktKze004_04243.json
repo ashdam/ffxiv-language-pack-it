@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/042/AktKze004_04243#TEXT_AKTKZE004_04243_SEQ_00", "hash": "3FE031A6C4694700", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Il Loporrit curioso non vede l'ora di conoscere le persone." },
-    { "gameKey": "quest/042/AktKze004_04243#TEXT_AKTKZE004_04243_TODO_00", "hash": "1ABD27C5AEC1CD34", "target": "Attendere nel luogo indicato" },
-    { "gameKey": "quest/042/AktKze004_04243#TEXT_AKTKZE004_04243_TODO_01", "hash": "FDB68CD506CE991E", "target": "Parlare con il Loporrit curioso" },
+    { "gameKey": "quest/042/AktKze004_04243#TEXT_AKTKZE004_04243_TODO_00", "hash": "1ABD27C5AEC1CD34", "target": "Attendi nel luogo indicato" },
+    { "gameKey": "quest/042/AktKze004_04243#TEXT_AKTKZE004_04243_TODO_01", "hash": "FDB68CD506CE991E", "target": "Parla con il Loporrit curioso" },
     { "gameKey": "quest/042/AktKze004_04243#TEXT_AKTKZE004_04243_LOPORRITSA04243_000_000", "hash": "F090FA26BF092ECA", "target": "Aha! Sapevo che prima o poi avrei trovato uno di voi. Sai parlare? Ho tante cose da chiederti!" },
     { "gameKey": "quest/042/AktKze004_04243#TEXT_AKTKZE004_04243_LOPORRITSA04243_000_001", "hash": "2ADA98BF003B4A07", "target": "Grazie ai nostri collaboratori su Etheirys abbiamo imparato molto su di voi, ma è chiaro che hanno omesso moltissimi dettagli. La vostra crescita stentata, per esempio." },
     { "gameKey": "quest/042/AktKze004_04243#TEXT_AKTKZE004_04243_LOPORRITSA04243_000_002", "hash": "90B93E94029C93CD", "target": "Anziché fare supposizioni su altri dettagli cruciali che potremmo aver trascurato, speriamo che tu possa chiarirci alcune cose. Ti va?" },

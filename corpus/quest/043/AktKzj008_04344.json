@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/043/AktKzj008_04344#TEXT_AKTKZJ008_04344_SEQ_00", "hash": "54ABED5E33C0F676", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Jaw-jaadg emette un suono attutito che somiglia a un colpo di tosse." },
-    { "gameKey": "quest/043/AktKzj008_04344#TEXT_AKTKZJ008_04344_TODO_00", "hash": "7FD8FE944EAED314", "target": "Con la chat in modalità <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, inserire una frase contenente il suono «coo» per chiamare l'Ea" },
-    { "gameKey": "quest/043/AktKzj008_04344#TEXT_AKTKZJ008_04344_TODO_01", "hash": "F362157532DB70F2", "target": "Parlare con l'Ea che indugia" },
-    { "gameKey": "quest/043/AktKzj008_04344#TEXT_AKTKZJ008_04344_TODO_02", "hash": "5471C6E04F682467", "target": "Parlare con Jaw-jaadg" },
+    { "gameKey": "quest/043/AktKzj008_04344#TEXT_AKTKZJ008_04344_TODO_00", "hash": "7FD8FE944EAED314", "target": "Con la chat in modalità <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, inserisci una frase contenente il suono «coo» per chiamare l'Ea" },
+    { "gameKey": "quest/043/AktKzj008_04344#TEXT_AKTKZJ008_04344_TODO_01", "hash": "F362157532DB70F2", "target": "Parla con l'Ea che indugia" },
+    { "gameKey": "quest/043/AktKzj008_04344#TEXT_AKTKZJ008_04344_TODO_02", "hash": "5471C6E04F682467", "target": "Parla con Jaw-jaadg" },
     { "gameKey": "quest/043/AktKzj008_04344#TEXT_AKTKZJ008_04344_JAWJAADG_000_000", "hash": "353B5F68BDAA1A4F", "target": "Essere di carne, avvicinati. Ho un incarico di una certa importanza da affidarti. Non temere, dovrebbe essere alla tua portata. Voglio richiamare uno dei miei compagni Ea che indugia alla porta dell'oltre." },
     { "gameKey": "quest/043/AktKzj008_04344#TEXT_AKTKZJ008_04344_JAWJAADG_000_001", "hash": "BCD05DFA9B9F6A0E", "target": "Non so perché aspetti là. Ciò che <italic(1)>so<italic(0)> è che, se non tornerà da noi, il suo spirito finirà per disfarsi e non resterà altro che un'entità errante come quelle all'esterno." },
     { "gameKey": "quest/043/AktKzj008_04344#TEXT_AKTKZJ008_04344_JAWJAADG_000_002", "hash": "A726DD39C45F3768", "target": "Ti chiederei dunque di richiamarlo alla nostra dimora prima che subisca quella sorte. Puoi farlo per me?" },

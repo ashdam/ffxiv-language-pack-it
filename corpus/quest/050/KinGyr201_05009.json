@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/050/KinGyr201_05009#TEXT_KINGYR201_05009_SEQ_00", "hash": "1560DB290D4F6DA3", "target": "Un esploratore dell'Ala della Protezione è alla ricerca di <if(gnum4,un'avventuriera promettente,un avventuriero promettente)>." },
-    { "gameKey": "quest/050/KinGyr201_05009#TEXT_KINGYR201_05009_TODO_00", "hash": "84F7050789C63BA7", "target": "Parlare con Bol Ogaw" },
+    { "gameKey": "quest/050/KinGyr201_05009#TEXT_KINGYR201_05009_TODO_00", "hash": "84F7050789C63BA7", "target": "Parla con Bol Ogaw" },
     { "gameKey": "quest/050/KinGyr201_05009#TEXT_KINGYR201_05009_MAMOOLJA05009_000_001", "hash": "85F75EDE9B152238", "target": "Voi, laggiù. Siete <string(gstr1)>, non è vero? <if(gnum4,L'avventuriera giunta da oltre il mare che presta la propria forza alla Terza Erede,L'avventuriero giunto da oltre il mare che presta la propria forza alla Terza Erede)>?" },
     { "gameKey": "quest/050/KinGyr201_05009#TEXT_KINGYR201_05009_MAMOOLJA05009_000_002", "hash": "3852B9C9E21F6014", "target": "Voi, laggiù. Siete <string(gstr1)>, non è vero? <if(gnum4,L'avventuriera giunta da oltre il mare che presta la propria forza alla Servitrice dell'Alba,L'avventuriero giunto da oltre il mare che presta la propria forza alla Servitrice dell'Alba)>?" },
     { "gameKey": "quest/050/KinGyr201_05009#TEXT_KINGYR201_05009_MAMOOLJA05009_000_003", "hash": "D8CD62EE7C7942D9", "target": "Allora è un piacere incontrarvi! A dire il vero, da tempo desideravo fare la vostra conoscenza. Ho una proposta per voi." },

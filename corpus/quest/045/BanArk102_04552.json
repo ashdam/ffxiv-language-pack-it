@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/045/BanArk102_04552#TEXT_BANARK102_04552_SEQ_00", "hash": "CBAF54E16F916DF5", "target": "Maru ti squadra con uno sguardo inquietante.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
-    { "gameKey": "quest/045/BanArk102_04552#TEXT_BANARK102_04552_TODO_00", "hash": "9A87747B7DE1E32B", "target": "Consegnare l'elegante borsellino a Khanga" },
-    { "gameKey": "quest/045/BanArk102_04552#TEXT_BANARK102_04552_TODO_01", "hash": "B48B2F54D6CBE064", "target": "Consegnare il sacchetto di misteriosi prodotti essiccati al visitatore lominsano" },
-    { "gameKey": "quest/045/BanArk102_04552#TEXT_BANARK102_04552_TODO_02", "hash": "CC253ED226052DAF", "target": "Consegnare la familiare cassa di legno a Maru" },
+    { "gameKey": "quest/045/BanArk102_04552#TEXT_BANARK102_04552_TODO_00", "hash": "9A87747B7DE1E32B", "target": "Consegna l'elegante borsellino a Khanga" },
+    { "gameKey": "quest/045/BanArk102_04552#TEXT_BANARK102_04552_TODO_01", "hash": "B48B2F54D6CBE064", "target": "Consegna il sacchetto di misteriosi prodotti essiccati al visitatore lominsano" },
+    { "gameKey": "quest/045/BanArk102_04552#TEXT_BANARK102_04552_TODO_02", "hash": "CC253ED226052DAF", "target": "Consegna la familiare cassa di legno a Maru" },
     { "gameKey": "quest/045/BanArk102_04552#TEXT_BANARK102_04552_MARU_000_001", "hash": "70E36EF0630EDD06", "target": "Dimmi, <split(<string(gstr1)>, ,1)>, vieni da Eorzea, no?" },
     { "gameKey": "quest/045/BanArk102_04552#TEXT_BANARK102_04552_MARU_000_002", "hash": "5469A2A3987ACBED", "target": "Capita che abbiamo un affare in programma con un mercante di Eorzea, ma... Non vogliamo guai, tutto qui. Ti dispiace farmi da tramite?" },
     { "gameKey": "quest/045/BanArk102_04552#TEXT_BANARK102_04552_MARU_000_003", "hash": "4F6B9B25E0FCA271", "target": "Bene, devi ritirare la nostra parte dello scambio da un pescatore di nome Khanga, ad Akyaali. Dagli questo, saprà cosa fare." },

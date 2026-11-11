@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKzh001_03511#TEXT_LUCKZH001_03511_SEQ_00", "hash": "0E4843557CC08FB1", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Sveinn ha trovato qualcosa di insolito nel carico arrivato dalla miniera." },
-    { "gameKey": "quest/035/LucKzh001_03511#TEXT_LUCKZH001_03511_TODO_00", "hash": "5330DA308DA5DD04", "target": "Mostrare l'amuleto di occhio di gatto a graveyard keeper" },
-    { "gameKey": "quest/035/LucKzh001_03511#TEXT_LUCKZH001_03511_TODO_01", "hash": "1EACE221941923AE", "target": "Dare l'amuleto di occhio di gatto a one-eyed miner" },
+    { "gameKey": "quest/035/LucKzh001_03511#TEXT_LUCKZH001_03511_TODO_00", "hash": "5330DA308DA5DD04", "target": "Mostra l'amuleto di occhio di gatto a graveyard keeper" },
+    { "gameKey": "quest/035/LucKzh001_03511#TEXT_LUCKZH001_03511_TODO_01", "hash": "1EACE221941923AE", "target": "Dai l'amuleto di occhio di gatto a one-eyed miner" },
     { "gameKey": "quest/035/LucKzh001_03511#TEXT_LUCKZH001_03511_SVEINN_000_000", "hash": "31E315E7E6C2B873", "target": "Hai mai visto un amuleto come questo? L'ho trovato tra le pietre arrivate dalla miniera. Molti lavoratori li portano come portafortuna e immagino che chi l'ha perso si stia chiedendo dove sia finito." },
     { "gameKey": "quest/035/LucKzh001_03511#TEXT_LUCKZH001_03511_SVEINN_000_001", "hash": "1EA29B69449D7C26", "target": "È la prima volta che ne vedo uno fatto di occhio di gatto, quindi non dovrebbe essere difficile rintracciare il proprietario. Lo cercherei io, ma qui ho troppo da fare." },
     { "gameKey": "quest/035/LucKzh001_03511#TEXT_LUCKZH001_03511_SVEINN_000_002", "hash": "191BCA54445E78A9", "target": "Potresti andare al mio posto? Il custode del cimitero se ne intende di amuleti e cose simili, quindi forse vale la pena chiedere a lui." },

@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/039/LucKsa108_03948#TEXT_LUCKSA108_03948_SEQ_00", "hash": "9487C3447F331012", "target": "Dmitar ha altre buone notizie dal fronte meridionale." },
-    { "gameKey": "quest/039/LucKsa108_03948#TEXT_LUCKSA108_03948_TODO_00", "hash": "43C70BA6D3E183C9", "target": "Parlare con Dmitar" },
+    { "gameKey": "quest/039/LucKsa108_03948#TEXT_LUCKSA108_03948_TODO_00", "hash": "43C70BA6D3E183C9", "target": "Parla con Dmitar" },
     { "gameKey": "quest/039/LucKsa108_03948#TEXT_LUCKSA108_03948_SYSTEM_100_000", "hash": "76BFE1DF181BAA3F", "target": "Per proseguire questa missione è richiesto un grado della Resistenza di <num(lnum1)>." },
     { "gameKey": "quest/039/LucKsa108_03948#TEXT_LUCKSA108_03948_DMITAR_000_000", "hash": "D572BD9AD5DA08C1", "target": "Sono lieto di annunciare che i nostri soldati hanno inferto un altro duro colpo alle forze imperiali." },
     { "gameKey": "quest/039/LucKsa108_03948#TEXT_LUCKSA108_03948_DMITAR_000_001", "hash": "0C7DDB579430BFB9", "target": "La prima linea è avanzata ancora e abbiamo conquistato un altro avamposto a Vecchia Bozja. Il mio comandante mi ha chiesto di accompagnarvi laggiù. Seguitemi, prego." },

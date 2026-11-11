@@ -5,7 +5,7 @@
     { "gameKey": "warp/WarpInnOldSharlayan#TEXT_WARPINNOLDSHARLAYAN_OJIKATSUNJIKA_000_000", "hash": "B144E97DF78B3542", "target": "<if(gnum4,Bentornata,Bentornato)>, <split(<string(gstr1)>, ,1)>! Ti va un pisolino?" },
     { "gameKey": "warp/WarpInnOldSharlayan#TEXT_WARPINNOLDSHARLAYAN_Q1_000_100", "hash": "25B6B3E1A17CF33D", "target": "Cosa vuoi fare?" },
     { "gameKey": "warp/WarpInnOldSharlayan#TEXT_WARPINNOLDSHARLAYAN_A1_000_101", "hash": "E0356AC45A827DCD", "target": "Ritirarsi nella propria camera." },
-    { "gameKey": "warp/WarpInnOldSharlayan#TEXT_WARPINNOLDSHARLAYAN_A1_000_102", "hash": "51BF118EE7E06829", "target": "Informati sull'andron." },
+    { "gameKey": "warp/WarpInnOldSharlayan#TEXT_WARPINNOLDSHARLAYAN_A1_000_102", "hash": "51BF118EE7E06829", "target": "Informarsi sull'andron." },
     { "gameKey": "warp/WarpInnOldSharlayan#TEXT_WARPINNOLDSHARLAYAN_A1_000_103", "hash": "AC9B303F2F634687", "target": "Niente." },
     { "gameKey": "warp/WarpInnOldSharlayan#TEXT_WARPINNOLDSHARLAYAN_OJIKATSUNJIKA_000_150", "hash": "7AC0226A9F7A5D13", "target": "Ti aspettano lenzuola pulite e coperte calde. Riposa quanto vuoi!" },
     { "gameKey": "warp/WarpInnOldSharlayan#TEXT_WARPINNOLDSHARLAYAN_OJIKATSUNJIKA_000_200", "hash": "19BEDD7F9E694C04", "target": "Come ha spiegato G'raha, le stanze dell'andron sono state arredate per chi ha bisogno di una pausa dopo una notte di ricerche o è appena tornato da una spedizione." },

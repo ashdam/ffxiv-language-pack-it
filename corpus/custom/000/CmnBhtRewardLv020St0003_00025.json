@@ -4,9 +4,9 @@
   "entries": [
     { "gameKey": "custom/000/CmnBhtRewardLv020St0003_00025#TEXT_CMNBHTREWARDLV020ST0003_00025_TALK_00", "hash": "820E2E27F400D2A7", "target": "Il tempo stringe. Se hai qualcosa da chiedere, fa' in fretta." },
     { "gameKey": "custom/000/CmnBhtRewardLv020St0003_00025#TEXT_CMNBHTREWARDLV020ST0003_00025_MENU_TITLE", "hash": "B2256ADF613D51D7", "target": "Cosa vuoi fare?" },
-    { "gameKey": "custom/000/CmnBhtRewardLv020St0003_00025#TEXT_CMNBHTREWARDLV020ST0003_00025_MENU_00", "hash": "9F129EAA1347A53C", "target": "Ritirati dall'operazione." },
-    { "gameKey": "custom/000/CmnBhtRewardLv020St0003_00025#TEXT_CMNBHTREWARDLV020ST0003_00025_MENU_01", "hash": "6DD5BA21E0363196", "target": "Ritira il gruppo dall'operazione." },
-    { "gameKey": "custom/000/CmnBhtRewardLv020St0003_00025#TEXT_CMNBHTREWARDLV020ST0003_00025_MENU_02", "hash": "ABDBCFB62788B880", "target": "Torna all'incarico." },
+    { "gameKey": "custom/000/CmnBhtRewardLv020St0003_00025#TEXT_CMNBHTREWARDLV020ST0003_00025_MENU_00", "hash": "9F129EAA1347A53C", "target": "Ritirarsi dall'operazione." },
+    { "gameKey": "custom/000/CmnBhtRewardLv020St0003_00025#TEXT_CMNBHTREWARDLV020ST0003_00025_MENU_01", "hash": "6DD5BA21E0363196", "target": "Ritirare il gruppo dall'operazione." },
+    { "gameKey": "custom/000/CmnBhtRewardLv020St0003_00025#TEXT_CMNBHTREWARDLV020ST0003_00025_MENU_02", "hash": "ABDBCFB62788B880", "target": "Tornare all'incarico." },
     { "gameKey": "custom/000/CmnBhtRewardLv020St0003_00025#TEXT_CMNBHTREWARDLV020ST0003_00025_RETURN_ME_MENU_TITLE", "hash": "C35CD59059C0D04D", "target": "Uscirai dal gruppo. Vuoi procedere?" },
     { "gameKey": "custom/000/CmnBhtRewardLv020St0003_00025#TEXT_CMNBHTREWARDLV020ST0003_00025_RETURN_ME_MENU_YES", "hash": "128F4BC87C71CE61", "target": "Sì" },
     { "gameKey": "custom/000/CmnBhtRewardLv020St0003_00025#TEXT_CMNBHTREWARDLV020ST0003_00025_RETURN_ME_MENU_NO", "hash": "21699034689B7CB9", "target": "No" },

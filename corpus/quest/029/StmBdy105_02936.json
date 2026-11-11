@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/029/StmBdy105_02936#TEXT_STMBDY105_02936_SEQ_00", "hash": "035C6D557D1EBEC4", "target": "Estrild, alla Locanda Shiokaze, scruta i passanti alla ricerca di reclute." },
-    { "gameKey": "quest/029/StmBdy105_02936#TEXT_STMBDY105_02936_TODO_00", "hash": "20695CAB32D7EAC6", "target": "Parlare con Wlveva" },
+    { "gameKey": "quest/029/StmBdy105_02936#TEXT_STMBDY105_02936_TODO_00", "hash": "20695CAB32D7EAC6", "target": "Parla con Wlveva" },
     { "gameKey": "quest/029/StmBdy105_02936#TEXT_STMBDY105_02936_ESTRILD_000_001", "hash": "BDAC70A7A0EDDC3C", "target": "Ehi, tu. Sì, proprio tu. Sembri avere una bella forza. Sono Estrild, del Clan Centurio. Dimmi, ti interessa partecipare alla Caccia?" },
     { "gameKey": "quest/029/StmBdy105_02936#TEXT_STMBDY105_02936_ESTRILD_000_002", "hash": "6415C0741ABC2930", "target": "Un momento... Sei da poco nel Clan Centurio, vero? <split(<string(gstr1)>, ,1)>, giusto?" },
     { "gameKey": "quest/029/StmBdy105_02936#TEXT_STMBDY105_02936_ESTRILD_000_003", "hash": "607BB12607B40D39", "target": "Sì, lo sapevo! Il buon Ardolain mi ha parlato di te. A sentir lui, a caccia te la cavi proprio bene." },

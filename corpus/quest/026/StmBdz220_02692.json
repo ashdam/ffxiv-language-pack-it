@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_SEQ_00", "hash": "2CED4BB4D626E2F0", "target": "Kaioke sembra in preda all'agitazione." },
-    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_TODO_00", "hash": "9D0A5CF8251F6B14", "target": "Collocare il Rotting Fish nei luoghi indicati e uccidere gli Hungry Giant Coralshell che compaiono per ottenerne le zampe" },
-    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_TODO_01", "hash": "ECE00FB4C723A3D5", "target": "Consegnare le Giant Coralshell Leg a Kaioke" },
+    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_TODO_00", "hash": "9D0A5CF8251F6B14", "target": "Colloca il Rotting Fish nei luoghi indicati e sconfiggi gli Hungry Giant Coralshell che compaiono per ottenerne le zampe" },
+    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_TODO_01", "hash": "ECE00FB4C723A3D5", "target": "Consegna le Giant Coralshell Leg a Kaioke" },
     { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_000", "hash": "65FF0AC37959ECF0", "target": "<if(gnum4,Signora,Signore)>! Posso supporre che tu venga dalla superficie? Mi dispiace chiedere un favore, soprattutto a chi ci fa visita come te, ma temo di non avere nessun altro a cui rivolgermi." },
     { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_001", "hash": "12DE6BABDBE37735", "target": "Vedi, un paio di volte all'anno organizziamo un banchetto per tutto il villaggio, al quale ognuno porta la propria specialità. Dato che mi è stata affidata l'organizzazione, i preparativi principali mi hanno lasciato poco tempo per raccogliere gli ingredienti necessari per il mio piatto!" },
     { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_002", "hash": "8098192A3DA1CA25", "target": "Quasi tutti hanno finito di preparare il proprio, ma io devo ancora cominciare! Il brodo richiede più tempo, quindi devo mettermi subito al lavoro. Per completarlo, però, mi servono le zampe di due Giant Coralshell." },

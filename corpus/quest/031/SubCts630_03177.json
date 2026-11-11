@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/031/SubCts630_03177#TEXT_SUBCTS630_03177_SEQ_00", "hash": "0807B3CDE2478E22", "target": "Geimlona ha un altro favore da chiedere a <if(gnum4,un'avventuriera fidata,un avventuriero fidato)>." },
-    { "gameKey": "quest/031/SubCts630_03177#TEXT_SUBCTS630_03177_TODO_00", "hash": "8362D396CF5E6816", "target": "Parlare con Adkiragh all'Incudine" },
+    { "gameKey": "quest/031/SubCts630_03177#TEXT_SUBCTS630_03177_TODO_00", "hash": "8362D396CF5E6816", "target": "Parla con Adkiragh all'Incudine" },
     { "gameKey": "quest/031/SubCts630_03177#TEXT_SUBCTS630_03177_GEIMLONA_000_000", "hash": "A3F3CEE380BD0968", "target": "Ma guarda chi c'è, <if(gnum4,un'avventuriera,un avventuriero)> su cui si può sempre contare." },
     { "gameKey": "quest/031/SubCts630_03177#TEXT_SUBCTS630_03177_GEIMLONA_000_001", "hash": "491DBB7CF90F0522", "target": "Ho saputo di quello che avete fatto per Zhloe e volevo ringraziarvi. L'ultima volta che abbiamo parlato, la ragazza non finiva più di lodarvi. Avete proprio un cuore d'oro... ed è per questo che speravo di chiedervi un altro favore." },
     { "gameKey": "quest/031/SubCts630_03177#TEXT_SUBCTS630_03177_GEIMLONA_000_002", "hash": "B01112A2ABF05CA6", "target": "Conoscete un certo Adkiragh? Il proprietario dell'Incudine? Anche se non gli avete mai parlato, di sicuro l'avrete visto, se non altro per via del suo... abbigliamento particolare." },

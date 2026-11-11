@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/053/BanYok119_05354#TEXT_BANYOK119_05354_SEQ_00", "hash": "F0DFEE5B17088901", "target": "Vuyargur cerca qualcuno dal passo svelto.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
-    { "gameKey": "quest/053/BanYok119_05354#TEXT_BANYOK119_05354_TODO_00", "hash": "8B5F7AB84240DB4D", "target": "Parlare con chi raccoglie il ghiaccio per gli Yok Huy a Zirgorteh dalle Braccia Aperte" },
-    { "gameKey": "quest/053/BanYok119_05354#TEXT_BANYOK119_05354_TODO_01", "hash": "E2E4FD1F5B1B4FC1", "target": "Consegnare il ghiacciolo d'acqua di sorgente al venditore di alimenti freschi" },
-    { "gameKey": "quest/053/BanYok119_05354#TEXT_BANYOK119_05354_TODO_02", "hash": "A10A020831B2B61D", "target": "Parlare con Vuyargur" },
+    { "gameKey": "quest/053/BanYok119_05354#TEXT_BANYOK119_05354_TODO_00", "hash": "8B5F7AB84240DB4D", "target": "Parla con chi raccoglie il ghiaccio per gli Yok Huy a Zirgorteh dalle Braccia Aperte" },
+    { "gameKey": "quest/053/BanYok119_05354#TEXT_BANYOK119_05354_TODO_01", "hash": "E2E4FD1F5B1B4FC1", "target": "Consegna il ghiacciolo d'acqua di sorgente al venditore di alimenti freschi" },
+    { "gameKey": "quest/053/BanYok119_05354#TEXT_BANYOK119_05354_TODO_02", "hash": "A10A020831B2B61D", "target": "Parla con Vuyargur" },
     { "gameKey": "quest/053/BanYok119_05354#TEXT_BANYOK119_05354_VUYARGUR_000_000", "hash": "1DB5440F3C89214C", "target": "Ah, <split(<string(gstr1)>, ,1)>, forse siete proprio la persona che cercavo." },
     { "gameKey": "quest/053/BanYok119_05354#TEXT_BANYOK119_05354_VUYARGUR_000_001", "hash": "3618FA298AE53C5A", "target": "La ricostruzione richiede una discreta somma, sapete. Dopo aver valutato la nostra situazione, un amico mercante era certo di poter trovare un mercato per il ghiaccio formato dall'acqua delle sorgenti montane." },
     { "gameKey": "quest/053/BanYok119_05354#TEXT_BANYOK119_05354_VUYARGUR_000_002", "hash": "00C1D26C846EB304", "target": "L'accordo prevede che portiamo il ghiaccio a valle al nostro conoscente ambulante, che poi lo vende in città. Ogni tappa deve però essere rapida, altrimenti il prezioso carico comincia a sciogliersi... E il nostro passo pesante è troppo lento." },

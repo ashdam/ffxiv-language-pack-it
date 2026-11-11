@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/037/BanPix119_03707#TEXT_BANPIX119_03707_SEQ_00", "hash": "8B6947B02328EFC3", "target": "Uin Nee attende con impazienza una consegna di fiori e con un po' meno impazienza il ritorno di un amico che potrebbe aver fatto una fine terribile.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
-    { "gameKey": "quest/037/BanPix119_03707#TEXT_BANPIX119_03707_TODO_00", "hash": "E69E412A52E5D927", "target": "Parlare con il flower-picking pixie a est di Phisor Lran e lanciare porxie per scacciare eventuali minacce" },
-    { "gameKey": "quest/037/BanPix119_03707#TEXT_BANPIX119_03707_TODO_01", "hash": "82DE4B8E2DC1DB80", "target": "Parlare con Uin Nee" },
+    { "gameKey": "quest/037/BanPix119_03707#TEXT_BANPIX119_03707_TODO_00", "hash": "E69E412A52E5D927", "target": "Parla con il flower-picking pixie a est di Phisor Lran e lancia porxie per scacciare eventuali minacce" },
+    { "gameKey": "quest/037/BanPix119_03707#TEXT_BANPIX119_03707_TODO_01", "hash": "82DE4B8E2DC1DB80", "target": "Parla con Uin Nee" },
     { "gameKey": "quest/037/BanPix119_03707#TEXT_BANPIX119_03707_UINNEE_000_001", "hash": "B6222307F49ADCBB", "target": "<split(<string(gstr1)>, ,1)>, mi serve aiuto! Il mio amico è andato a raccogliere fiori un po' fa e da allora non se n'è vista né ala né ombra!" },
     { "gameKey": "quest/037/BanPix119_03707#TEXT_BANPIX119_03707_UINNEE_000_002", "hash": "1DF9FB45E752552C", "target": "Sospetto che sia opera dei... No, è troppo presto per esserne certi." },
     { "gameKey": "quest/037/BanPix119_03707#TEXT_BANPIX119_03707_UINNEE_000_003", "hash": "1E809B1BA225F5AB", "target": "La cosa migliore è mandare una squadra di ricerca composta da... be', da te, naturalmente!" },

@@ -5,7 +5,7 @@
     { "gameKey": "custom/003/RegGyr3RhalgrsReach_00393#TEXT_REGGYR3RHALGRSREACH_00393_HOUDIN_000_000", "hash": "DA5A3CBCEE94B722", "target": "Vi do il benvenuto alla Presa di Rhalgr. Risponderò a ogni vostra domanda al meglio delle mie capacità." },
     { "gameKey": "custom/003/RegGyr3RhalgrsReach_00393#TEXT_REGGYR3RHALGRSREACH_00393_HOUDIN_000_001", "hash": "9208253035523876", "target": "Ma siete voi, <split(<string(gstr1)>, ,1)>, <if(gnum4,eroina,eroe)> della rivoluzione! Risponderò a ogni vostra domanda al meglio delle mie capacità." },
     { "gameKey": "custom/003/RegGyr3RhalgrsReach_00393#TEXT_REGGYR3RHALGRSREACH_00393_Q1_000_000", "hash": "69227A6CECE6FA55", "target": "Cosa vuoi chiedere?" },
-    { "gameKey": "custom/003/RegGyr3RhalgrsReach_00393#TEXT_REGGYR3RHALGRSREACH_00393_A1_000_001", "hash": "B02316E6CB3C2C33", "target": "Informarsi sul lavoro svolto qui." },
+    { "gameKey": "custom/003/RegGyr3RhalgrsReach_00393#TEXT_REGGYR3RHALGRSREACH_00393_A1_000_001", "hash": "B02316E6CB3C2C33", "target": "Che cosa fate qui?" },
     { "gameKey": "custom/003/RegGyr3RhalgrsReach_00393#TEXT_REGGYR3RHALGRSREACH_00393_A1_000_002", "hash": "ABD66D527855EC46", "target": "Che posto è questo?" },
     { "gameKey": "custom/003/RegGyr3RhalgrsReach_00393#TEXT_REGGYR3RHALGRSREACH_00393_A1_000_003", "hash": "7F7838B10F7C41F1", "target": "Niente." },
     { "gameKey": "custom/003/RegGyr3RhalgrsReach_00393#TEXT_REGGYR3RHALGRSREACH_00393_HOUDIN_000_010", "hash": "CC9D069BACEFAEB5", "target": "Sono Houdin, un fedele membro della Resistenza che combatte contro l'Impero." },

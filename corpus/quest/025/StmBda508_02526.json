@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/025/StmBda508_02526#TEXT_STMBDA508_02526_SEQ_00", "hash": "2384F03EACE52FF2", "target": "Alphinaud desidera tornare subito al Bazar di Rubino." },
-    { "gameKey": "quest/025/StmBda508_02526#TEXT_STMBDA508_02526_TODO_00", "hash": "1A8776DA53DCBE0F", "target": "Tornare al Bazar di Rubino" },
-    { "gameKey": "quest/025/StmBda508_02526#TEXT_STMBDA508_02526_TODO_01", "hash": "03EE25FDBE42826E", "target": "Parlare con Tataru" },
-    { "gameKey": "quest/025/StmBda508_02526#TEXT_STMBDA508_02526_TODO_02", "hash": "90E4145B0E013DB6", "target": "Parlare con Lyse" },
+    { "gameKey": "quest/025/StmBda508_02526#TEXT_STMBDA508_02526_TODO_00", "hash": "1A8776DA53DCBE0F", "target": "Torna al Bazar di Rubino" },
+    { "gameKey": "quest/025/StmBda508_02526#TEXT_STMBDA508_02526_TODO_01", "hash": "03EE25FDBE42826E", "target": "Parla con Tataru" },
+    { "gameKey": "quest/025/StmBda508_02526#TEXT_STMBDA508_02526_TODO_02", "hash": "90E4145B0E013DB6", "target": "Parla con Lyse" },
     { "gameKey": "quest/025/StmBda508_02526#TEXT_STMBDA508_02526_LYSE_000_000", "hash": "0B208EFC682D12AD", "target": "È colorata proprio come la ricordavo..." },
     { "gameKey": "quest/025/StmBda508_02526#TEXT_STMBDA508_02526_ALISAIE_000_005", "hash": "D180EE99AD859F9C", "target": "Sento ancora la sua voce... Mi fischiano le orecchie da quando irruppe nelle Pietre Risorte come una vera forza della natura." },
     { "gameKey": "quest/025/StmBda508_02526#TEXT_STMBDA508_02526_RASHO_000_010", "hash": "CC8A8D1332CB4741", "target": "Non preoccuparti. Saremo lontani e al sicuro prima che arrivi il Sekiseigumi." },

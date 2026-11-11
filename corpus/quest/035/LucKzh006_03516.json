@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKzh006_03516#TEXT_LUCKZH006_03516_SEQ_00", "hash": "8470CA806513061F", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>La Regina dell'Alveare ha bisogno dell'aiuto di qualcuno disposto ad avventurarsi nelle zone meno gradevoli della città, dove «gradevoli» significa «ricche»." },
-    { "gameKey": "quest/035/LucKzh006_03516#TEXT_LUCKZH006_03516_TODO_00", "hash": "B2DBCB20E85B9236", "target": "Parlare con Solina nei Relitti" },
-    { "gameKey": "quest/035/LucKzh006_03516#TEXT_LUCKZH006_03516_TODO_01", "hash": "B8216A19D81B3BF8", "target": "Parlare con la Regina dell'Alveare all'Alveare" },
-    { "gameKey": "quest/035/LucKzh006_03516#TEXT_LUCKZH006_03516_TODO_02", "hash": "01A9BF11681C269B", "target": "Parlare con la Regina dell'Alveare" },
+    { "gameKey": "quest/035/LucKzh006_03516#TEXT_LUCKZH006_03516_TODO_00", "hash": "B2DBCB20E85B9236", "target": "Parla con Solina nei Relitti" },
+    { "gameKey": "quest/035/LucKzh006_03516#TEXT_LUCKZH006_03516_TODO_01", "hash": "B8216A19D81B3BF8", "target": "Parla con la Regina dell'Alveare all'Alveare" },
+    { "gameKey": "quest/035/LucKzh006_03516#TEXT_LUCKZH006_03516_TODO_02", "hash": "01A9BF11681C269B", "target": "Parla con la Regina dell'Alveare" },
     { "gameKey": "quest/035/LucKzh006_03516#TEXT_LUCKZH006_03516_MANAGER03516_000_000", "hash": "920FE3C018909C1B", "target": "Perdonatemi se lo dico, <if(gnum4,signora,signore)>, ma avete un'aria un po' diversa dalla nostra clientela abituale. Siete forse una persona audace e coraggiosa?" },
     { "gameKey": "quest/035/LucKzh006_03516#TEXT_LUCKZH006_03516_MANAGER03516_000_001", "hash": "3BC17779855A07EF", "target": "Meraviglioso! Mi serve qualcuno disposto a intraprendere una missione pericolosa, capite. Ad avventurarsi nei... \\<rabbrividisce>... <italic(1)>Relitti<italic(0)>. Mi è giunta voce che la nostra apetta più popolare, Solina, sia stata vista lì di recente." },
     { "gameKey": "quest/035/LucKzh006_03516#TEXT_LUCKZH006_03516_MANAGER03516_000_002", "hash": "AB38FA88073F21E8", "target": "Sia i clienti sia il personale faticano ad affrontare le recenti... rivelazioni, ma Solina deve averne risentito più degli altri. Da allora non è tornata all'Alveare. Se avete il fegato per questo compito, vi imploro: riportatela qui." },

@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/026/StmBdz121_02671#TEXT_STMBDZ121_02671_SEQ_00", "hash": "844E9B3C99CD1F3D", "target": "Yamabiko di Kugane ha un lavoro semplice per <if(gnum4,una semplice avventuriera,un semplice avventuriero)>." },
-    { "gameKey": "quest/026/StmBdz121_02671#TEXT_STMBDZ121_02671_TODO_00", "hash": "163D89D290274CC0", "target": "Riferire il messaggio di Yamabiko" },
-    { "gameKey": "quest/026/StmBdz121_02671#TEXT_STMBDZ121_02671_TODO_01", "hash": "34C29FCAD366E590", "target": "Parlare con Yamabiko" },
+    { "gameKey": "quest/026/StmBdz121_02671#TEXT_STMBDZ121_02671_TODO_00", "hash": "163D89D290274CC0", "target": "Riferisci il messaggio di Yamabiko" },
+    { "gameKey": "quest/026/StmBdz121_02671#TEXT_STMBDZ121_02671_TODO_01", "hash": "34C29FCAD366E590", "target": "Parla con Yamabiko" },
     { "gameKey": "quest/026/StmBdz121_02671#TEXT_STMBDZ121_02671_YAMABIKO_000_000", "hash": "FD02D991A56C692F", "target": "Buone notizie per te, <if(gnum4,sorella,fratello)>! Ho una semplice commissione da sbrigare, se te la senti." },
     { "gameKey": "quest/026/StmBdz121_02671#TEXT_STMBDZ121_02671_YAMABIKO_000_001", "hash": "FD57F408CDD63F41", "target": "Il mio facchino è stato colpito da una malattia incurabile, proprio adesso. È appena arrivata una nave piena di carichi da trasportare e non c'è nessuno che li trasporti. Lo farei io, ma ho i miei doveri qui." },
     { "gameKey": "quest/026/StmBdz121_02671#TEXT_STMBDZ121_02671_YAMABIKO_000_002", "hash": "3CF976DE6A06FA63", "target": "I miei clienti sono abituati a ricevere le merci a domicilio, ma temo che dovrò chiedere loro di ritirare questa consegna da soli. Devo mandare questo messaggio a quattro persone." },

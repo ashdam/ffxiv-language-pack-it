@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_SEQ_00", "hash": "6E2A3DA5777FF94B", "target": "Questa ragazza solitaria ha bisogno di un avventuriero coraggioso." },
-    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_TODO_00", "hash": "78D0F62C12AFEBBA", "target": "Esaminare il luogo indicato e abbattere la stray gazelle per ottenerne il corno" },
-    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_TODO_01", "hash": "22FEF698719B45FA", "target": "Consegnare il gazelle horn alla lonesome lass" },
+    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_TODO_00", "hash": "78D0F62C12AFEBBA", "target": "Esamina il luogo indicato e sconfiggi la stray gazelle per ottenerne il corno" },
+    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_TODO_01", "hash": "22FEF698719B45FA", "target": "Consegna il gazelle horn alla lonesome lass" },
     { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_000", "hash": "B88146CA686353B2", "target": "A giudicare da quegli strani abiti, immagino che tu sia <if(gnum4,un'avventuriera,un avventuriero)>? Se hai un po' di tempo, mi farebbe davvero comodo il tuo aiuto." },
     { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_001", "hash": "52D35A10E7D81272", "target": "Speravo di creare un amuleto per una mia amica e ho un disperato bisogno del corno di una gazzella. Qui ad Ala Ghiri non è facile procurarselo e non potrei mai cacciarne una da sola. Scommetto che per una persona come te sarebbe una passeggiata." },
     { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_002", "hash": "2E1D54518A9A12C6", "target": "Normalmente dovresti andare molto lontano anche solo per trovare una gazzella, ma ho sentito dire che ne è stata avvistata una randagia vicino alla Fortuna di Miriam." },

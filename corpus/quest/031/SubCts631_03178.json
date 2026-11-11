@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/031/SubCts631_03178#TEXT_SUBCTS631_03178_SEQ_00", "hash": "91DD5F06E6E45D0F", "target": "Melodie ha informazioni sul misterioso visitatore di Borgopace." },
-    { "gameKey": "quest/031/SubCts631_03178#TEXT_SUBCTS631_03178_TODO_00", "hash": "2F97B6806E482432", "target": "Parlare con Bulugan" },
-    { "gameKey": "quest/031/SubCts631_03178#TEXT_SUBCTS631_03178_TODO_01", "hash": "9322E7558B0C4D1B", "target": "Parlare con Bulugan" },
+    { "gameKey": "quest/031/SubCts631_03178#TEXT_SUBCTS631_03178_TODO_00", "hash": "2F97B6806E482432", "target": "Parla con Bulugan" },
+    { "gameKey": "quest/031/SubCts631_03178#TEXT_SUBCTS631_03178_TODO_01", "hash": "9322E7558B0C4D1B", "target": "Parla con Bulugan" },
     { "gameKey": "quest/031/SubCts631_03178#TEXT_SUBCTS631_03178_MELODIE_000_000", "hash": "73423D2E2093860B", "target": "Salve, <split(<string(gstr1)>, ,1)>. Vi occorre qualcosa? ...Mm? Volete sapere dello Xaela che ho visto? Certamente." },
     { "gameKey": "quest/031/SubCts631_03178#TEXT_SUBCTS631_03178_MELODIE_000_001", "hash": "ACD26FF30889094C", "target": "Indossava abiti insoliti, simili a quelli di Alghu e Teleboge, e sembrava in cerca di qualcosa. O di qualcuno." },
     { "gameKey": "quest/031/SubCts631_03178#TEXT_SUBCTS631_03178_MELODIE_000_002", "hash": "B9D7033CE607F2D6", "target": "Non pensate che possa avere qualche legame con il signor Adkiragh?" },

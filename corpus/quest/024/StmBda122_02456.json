@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/024/StmBda122_02456#TEXT_STMBDA122_02456_SEQ_00", "hash": "78F3E23BFB2EA4B0", "target": "Meffrid vuole presentarti l'anziano del villaggio." },
-    { "gameKey": "quest/024/StmBda122_02456#TEXT_STMBDA122_02456_TODO_00", "hash": "AEF887E3F0A65E94", "target": "Parlare con Raganfrid" },
-    { "gameKey": "quest/024/StmBda122_02456#TEXT_STMBDA122_02456_TODO_01", "hash": "5FD8D93587BFD6F9", "target": "Parlare con Meffrid" },
+    { "gameKey": "quest/024/StmBda122_02456#TEXT_STMBDA122_02456_TODO_00", "hash": "AEF887E3F0A65E94", "target": "Parla con Raganfrid" },
+    { "gameKey": "quest/024/StmBda122_02456#TEXT_STMBDA122_02456_TODO_01", "hash": "5FD8D93587BFD6F9", "target": "Parla con Meffrid" },
     { "gameKey": "quest/024/StmBda122_02456#TEXT_STMBDA122_02456_LYSE_000_001", "hash": "76A994B2A84C2CBA", "target": "Non avevo più di cinque anni quando partimmo. I ricordi sono...confusi." },
     { "gameKey": "quest/024/StmBda122_02456#TEXT_STMBDA122_02456_MEFFRID_000_010", "hash": "6A16AE7EFA63E805", "target": "Raganfrid, l'anziano del villaggio, è laggiù sulla riva. Non c'è momento migliore di questo─andiamo a parlargli." },
     { "gameKey": "quest/024/StmBda122_02456#TEXT_STMBDA122_02456_RAGANFRID_000_011", "hash": "C23B29B168641B27", "target": "...Non ti conosco, <if(gnum4,viaggiatrice,viaggiatore)>. Sei qui per commerciare? Non troverai molti clienti." },

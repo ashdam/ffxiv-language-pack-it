@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_SEQ_00", "hash": "048F8559E9152C8B", "target": "Uin Nee ha bisogno di nettare.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
-    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_TODO_00", "hash": "53000E3ACDFC2BC4", "target": "Parlare con Lugg Aenc" },
-    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_TODO_01", "hash": "6FACF1645DA7872F", "target": "Raggiungere il Lago dello Specchietto sul porxie e aspirare del nettare" },
-    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_TODO_02", "hash": "E563FBB11825EFC4", "target": "Fare rapporto a Uin Nee" },
+    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_TODO_00", "hash": "53000E3ACDFC2BC4", "target": "Parla con Lugg Aenc" },
+    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_TODO_01", "hash": "6FACF1645DA7872F", "target": "Raggiungi il Lago dello Specchietto sul porxie e aspira del nettare" },
+    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_TODO_02", "hash": "E563FBB11825EFC4", "target": "Fai rapporto a Uin Nee" },
     { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_UINNEE_000_000", "hash": "9BDD943E2B6C3824", "target": "Facciamo un indovinello, <split(<string(gstr1)>, ,1)>? Indovina cosa amo più di <italic(1)>qualunque altra cosa<italic(0)> al mondo! No, non te, <if(gnum4,sciocchina,sciocchino)>. È il nettare! Nettare dolce, succoso e delizioso!" },
     { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_UINNEE_000_001", "hash": "5A576BCA2F09A2AC", "target": "E indovina cosa amo <italic(1)>quasi<italic(0)> quanto il nettare? Ma i porxie semplicemente <italic(1)>perfetti<italic(0)> che i Nu Mou hanno creato per farci raccogliere tutto il nettare che possiamo bere!" },
     { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_UINNEE_000_002", "hash": "BFE4661974841A64", "target": "Ora lascia indovinare <italic(1)>me<italic(0)>: anche tu hai sempre voluto cavalcare un porxie? Be', oggi è il tuo giorno fortunato! Basta parlare con il mio amico Lugg Aenc e in un attimo sarai in groppa a uno dei nostri graziosi famigli! Non sembra divertente?" },

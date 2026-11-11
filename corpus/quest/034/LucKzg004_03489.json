@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/034/LucKzg004_03489#TEXT_LUCKZG004_03489_SEQ_00", "hash": "F83BD2FF5E79B37F", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Rhil Ril si è imbattuto in qualcosa di piuttosto intrigante." },
-    { "gameKey": "quest/034/LucKzg004_03489#TEXT_LUCKZG004_03489_TODO_00", "hash": "A82A8A228C745B2B", "target": "Usare la vanga arrugginita per scavare nel luogo indicato" },
-    { "gameKey": "quest/034/LucKzg004_03489#TEXT_LUCKZG004_03489_TODO_01", "hash": "9602457A937A27E3", "target": "Consegnare lo scrigno marcio a Rhil Ril e restituirgli la vanga arrugginita" },
+    { "gameKey": "quest/034/LucKzg004_03489#TEXT_LUCKZG004_03489_TODO_00", "hash": "A82A8A228C745B2B", "target": "Usa la vanga arrugginita per scavare nel luogo indicato" },
+    { "gameKey": "quest/034/LucKzg004_03489#TEXT_LUCKZG004_03489_TODO_01", "hash": "9602457A937A27E3", "target": "Consegna lo scrigno marcio a Rhil Ril e restituiscigli la vanga arrugginita" },
     { "gameKey": "quest/034/LucKzg004_03489#TEXT_LUCKZG004_03489_RHILRIL_000_000", "hash": "CD3C06D8237840ED", "target": "Devi essere <if(gnum4,una viaggiatrice,un viaggiatore)>, sì? Allora forse puoi aiutarmi." },
     { "gameKey": "quest/034/LucKzg004_03489#TEXT_LUCKZG004_03489_RHILRIL_000_001", "hash": "1681CF56DF545B30", "target": "Frugavo in una casa abbandonata e ho trovato una mappa di Amh Araeng con una grossa croce. Può significare una sola cosa: tesoro!" },
     { "gameKey": "quest/034/LucKzg004_03489#TEXT_LUCKZG004_03489_RHILRIL_000_002", "hash": "85227089EE3B8D1A", "target": "Voglio andare a cercarlo, ma devo restare qui a sorvegliare il villaggio. Potresti andare al mio posto?" },

@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/037/SubCts641_03730#TEXT_SUBCTS641_03730_SEQ_00", "hash": "6B35F26E2263DA65", "target": "Bosta-Zia non vede l'ora di mostrarti i frutti dei tuoi recenti sforzi." },
-    { "gameKey": "quest/037/SubCts641_03730#TEXT_SUBCTS641_03730_TODO_00", "hash": "BF97FE9EF99B76B9", "target": "Parlare con Kai-Shirr" },
-    { "gameKey": "quest/037/SubCts641_03730#TEXT_SUBCTS641_03730_TODO_01", "hash": "164D57E320970804", "target": "Parlare con Colden" },
-    { "gameKey": "quest/037/SubCts641_03730#TEXT_SUBCTS641_03730_TODO_02", "hash": "367FBE0AB7A7BA37", "target": "Parlare con Kai-Shirr" },
+    { "gameKey": "quest/037/SubCts641_03730#TEXT_SUBCTS641_03730_TODO_00", "hash": "BF97FE9EF99B76B9", "target": "Parla con Kai-Shirr" },
+    { "gameKey": "quest/037/SubCts641_03730#TEXT_SUBCTS641_03730_TODO_01", "hash": "164D57E320970804", "target": "Parla con Colden" },
+    { "gameKey": "quest/037/SubCts641_03730#TEXT_SUBCTS641_03730_TODO_02", "hash": "367FBE0AB7A7BA37", "target": "Parla con Kai-Shirr" },
     { "gameKey": "quest/037/SubCts641_03730#TEXT_SUBCTS641_03730_ZIABOSTA_000_000", "hash": "1E99EB1D15AB4FF6", "target": "Ah! Arrivate proprio al momento giusto!" },
     { "gameKey": "quest/037/SubCts641_03730#TEXT_SUBCTS641_03730_KAISHIRR_000_001", "hash": "FA5AC45A95B6F4EB", "target": "Allora, il costume della nuova cantante è pronto?" },
     { "gameKey": "quest/037/SubCts641_03730#TEXT_SUBCTS641_03730_ZIABOSTA_000_002", "hash": "7A08BC791C5BFE11", "target": "Certamente!" },

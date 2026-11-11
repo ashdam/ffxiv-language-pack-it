@@ -14,7 +14,3 @@ Come collaborare alla traduzione, passo per passo:
 **[eorzealocalized.com/localize/it.html](https://eorzealocalized.com/localize/it.html)**
 
 Una riga tradotta male: https://github.com/ashdam/ffxiv-language-pack-it/issues
-
-
-[Traduzione](docs/TRANSLATION.md), [Revisione](docs/REVISION.md),
-[Glossario italiano](glossary/README.md).

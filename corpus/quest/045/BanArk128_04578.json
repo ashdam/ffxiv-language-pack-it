@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_SEQ_00", "hash": "B42CDFEE9C859870", "target": "Maru ha bisogno di rifornimenti per un'attività frenetica.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
-    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_TODO_00", "hash": "8EE09C3224D20E0D", "target": "Posizionare il pesce odoroso nei luoghi indicati e uccidere gli Akyaali crabs che compaiono" },
-    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_TODO_01", "hash": "78B0D2D780497079", "target": "Consegnare le zampe di granchio di Akyaali a Maru" },
+    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_TODO_00", "hash": "8EE09C3224D20E0D", "target": "Posiziona il pesce odoroso nei luoghi indicati e sconfiggi gli Akyaali crabs che compaiono" },
+    { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_TODO_01", "hash": "78B0D2D780497079", "target": "Consegna le zampe di granchio di Akyaali a Maru" },
     { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_MARU_000_000", "hash": "3977ED9716C27E57", "target": "Il meyhane ha attirato persone di ogni tipo nel nostro angolino del reame, e ne sono grato. Detto questo, la pressione sulle scorte cresce con ogni nuovo volto e ho bisogno del tuo aiuto per evitare una carenza imminente." },
     { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_MARU_000_001", "hash": "FCA5ACDFC6C0D2D2", "target": "Parlo delle zampe di granchio di Akyaali, tanto richieste quanto appuntite! La creatura che le porta dovrebbe comunque essere una facile preda per te. Penso che lo sappiano anche loro, quindi non lesinare sulle esche se vuoi che arrivino zampettando." },
     { "gameKey": "quest/045/BanArk128_04578#TEXT_BANARK128_04578_MARU_000_002", "hash": "DD54A3F90C09F635", "target": "Per sicurezza, faresti meglio a posare tre di questi pesci, eh? Distanziali anche, così aumenti le probabilità. Buona caccia, <if(gnum4,amica,amico)>." },

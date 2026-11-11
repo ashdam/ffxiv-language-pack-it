@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/041/AktKla105_04136#TEXT_AKTKLA105_04136_SEQ_00", "hash": "97D755ACF9290E05", "target": "Rurusha ha qualcosa da chiederti." },
-    { "gameKey": "quest/041/AktKla105_04136#TEXT_AKTKLA105_04136_TODO_00", "hash": "B2CD4D51FA402964", "target": "Parlare con la mercante" },
-    { "gameKey": "quest/041/AktKla105_04136#TEXT_AKTKLA105_04136_TODO_01", "hash": "0C42F3ADB57714D4", "target": "Parlare con Rurusha" },
-    { "gameKey": "quest/041/AktKla105_04136#TEXT_AKTKLA105_04136_TODO_02", "hash": "2C96B40A3619655D", "target": "<if([lnum1<lnum2],Fabbricare un nucleo d'oro <sheet(Addon,9,0)>,Consegnare il nucleo d'oro <sheet(Addon,9,0)> a Rurusha)>" },
+    { "gameKey": "quest/041/AktKla105_04136#TEXT_AKTKLA105_04136_TODO_00", "hash": "B2CD4D51FA402964", "target": "Parla con la mercante" },
+    { "gameKey": "quest/041/AktKla105_04136#TEXT_AKTKLA105_04136_TODO_01", "hash": "0C42F3ADB57714D4", "target": "Parla con Rurusha" },
+    { "gameKey": "quest/041/AktKla105_04136#TEXT_AKTKLA105_04136_TODO_02", "hash": "2C96B40A3619655D", "target": "<if([lnum1<lnum2],Fabbrica un nucleo d'oro <sheet(Addon,9,0)>,Consegna il nucleo d'oro <sheet(Addon,9,0)> a Rurusha)>" },
     { "gameKey": "quest/041/AktKla105_04136#TEXT_AKTKLA105_04136_RURUSHA_000_001", "hash": "D66B76C6E383627B", "target": "<split(<string(gstr1)>, ,1)>, eccoti di nuovo. Che bello rivederti." },
     { "gameKey": "quest/041/AktKla105_04136#TEXT_AKTKLA105_04136_RURUSHA_000_002", "hash": "55F59B8A256D92DE", "target": "Ci hanno appena informato che il carico di materiali per il nucleo è arrivato al porto." },
     { "gameKey": "quest/041/AktKla105_04136#TEXT_AKTKLA105_04136_RURUSHA_000_003", "hash": "EAAE78433F732BB7", "target": "Boric stava giusto per andare a ritirarli, ma ora che sei qui, potrei chiederti di accompagnarlo? Vorrei essere certa della qualità della merce, e mi fido del tuo occhio esperto." },

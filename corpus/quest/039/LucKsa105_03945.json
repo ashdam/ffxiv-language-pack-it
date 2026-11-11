@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_SEQ_00", "hash": "A16262DAF6E00E0A", "target": "Dmitar ha grandi novità dal fronte meridionale." },
-    { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_TODO_00", "hash": "9D6700202B208677", "target": "Parlare con Dmitar" },
+    { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_TODO_00", "hash": "9D6700202B208677", "target": "Parla con Dmitar" },
     { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_SYSTEM_100_000", "hash": "4674C234DD8AEDC1", "target": "Per proseguire questa missione è richiesto un grado della Resistenza di <num(lnum1)>." },
     { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_DMITAR_000_000", "hash": "DDAA2E0275E175CA", "target": "Lama <split(<string(gstr1)>, ,2)>! È giunta notizia dal fronte: le forze imperiali si sono ritirate!" },
     { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_DMITAR_000_001", "hash": "E54084CA95E41E7E", "target": "Le nostre truppe sono avanzate abbastanza da occupare un accampamento nemico vicino alla trincea meridionale." },

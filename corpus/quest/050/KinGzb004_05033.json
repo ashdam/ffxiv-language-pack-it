@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_SEQ_00", "hash": "6594219407F64400", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>L'artigiano preoccupato ha bisogno di una mano." },
-    { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_TODO_00", "hash": "5A91CDF6575A5479", "target": "Cercare la missing pouch al Ritiro di Panaqpelu" },
-    { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_TODO_01", "hash": "0C24AC4732F616DD", "target": "Consegnare la missing pouch all'artigiano preoccupato" },
+    { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_TODO_00", "hash": "5A91CDF6575A5479", "target": "Cerca la missing pouch al Ritiro di Panaqpelu" },
+    { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_TODO_01", "hash": "0C24AC4732F616DD", "target": "Consegna la missing pouch all'artigiano preoccupato" },
     { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_CRAFTERPELUPELU05033_000_000", "hash": "FD60C9D5E60CAE94", "target": "Scusa, <if(gnum4,signorina,signore)>, hai un momento? Ti prego, ho bisogno del tuo aiuto! Sono un artigiano e sono venuto a discutere un nuovo progetto con un cliente, ma temo di aver perso il mio portafortuna lungo la strada: la mia cara bambola." },
     { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_CRAFTERPELUPELU05033_000_001", "hash": "B3FD6454D13D9E75", "target": "Temo come andrà l'incontro senza di lei... L'ultima volta che l'ho vista ero al Ritiro di Panaqpelu. Forse è caduta mentre raccoglievo le mie cose." },
     { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_CRAFTERPELUPELU05033_000_002", "hash": "46CA3F438DF0AF6F", "target": "Devo incontrare il cliente fra poco e non posso arrivare in ritardo. So che è una richiesta improvvisa, ma potresti ritrovare la mia bambola? Rimanderò l'incontro il più possibile." },

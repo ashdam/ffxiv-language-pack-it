@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/025/StmBda402_02501#TEXT_STMBDA402_02501_SEQ_00", "hash": "90DD2998F3844688", "target": "Cirina di solito non fa affidamento sulla gentilezza degli estranei, ma oggi farà volentieri un'eccezione." },
-    { "gameKey": "quest/025/StmBda402_02501#TEXT_STMBDA402_02501_TODO_00", "hash": "B58CFC123A40D19C", "target": "Abbattere i dhole e ottenere radici sussurranti" },
-    { "gameKey": "quest/025/StmBda402_02501#TEXT_STMBDA402_02501_TODO_01", "hash": "26FD30F5CC08DA0E", "target": "Consegnare le radici sussurranti a Cirina" },
+    { "gameKey": "quest/025/StmBda402_02501#TEXT_STMBDA402_02501_TODO_00", "hash": "B58CFC123A40D19C", "target": "Sconfiggi i dhole e ottieni radici sussurranti" },
+    { "gameKey": "quest/025/StmBda402_02501#TEXT_STMBDA402_02501_TODO_01", "hash": "26FD30F5CC08DA0E", "target": "Consegna le radici sussurranti a Cirina" },
     { "gameKey": "quest/025/StmBda402_02501#TEXT_STMBDA402_02501_CIRINA_000_010", "hash": "B9DB6FB06838CC60", "target": "Voi... volete aiutarmi, è così?" },
     { "gameKey": "quest/025/StmBda402_02501#TEXT_STMBDA402_02501_CIRINA_000_011", "hash": "9C1B28205C18DAF7", "target": "Non so cosa dire... Grazie, <split(<string(gstr1)>, ,1)>, grazie!" },
     { "gameKey": "quest/025/StmBda402_02501#TEXT_STMBDA402_02501_CIRINA_000_012", "hash": "C3E0A8B46751D632", "target": "I bestioni che dobbiamo abbattere vagano nelle pianure a ovest del Ritrovo. Se raccogliamo due radici a testa, dovremmo avere abbastanza radici sussurranti." },

@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/042/AktKzg002_04277#TEXT_AKTKZG002_04277_SEQ_00", "hash": "0A1A84AC266D01BD", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>L'osservatore impaziente sembra attendere qualcuno." },
-    { "gameKey": "quest/042/AktKzg002_04277#TEXT_AKTKZG002_04277_TODO_00", "hash": "8E17C522E200801A", "target": "Parlare con l'osservatore dai capelli blu" },
-    { "gameKey": "quest/042/AktKzg002_04277#TEXT_AKTKZG002_04277_TODO_01", "hash": "409EE20887A8D250", "target": "Parlare con l'osservatore degli uccelli" },
-    { "gameKey": "quest/042/AktKzg002_04277#TEXT_AKTKZG002_04277_TODO_02", "hash": "B6DB5838ABE584D5", "target": "Consegnare le bird of Elpis feathers all'osservatore dai capelli blu" },
+    { "gameKey": "quest/042/AktKzg002_04277#TEXT_AKTKZG002_04277_TODO_00", "hash": "8E17C522E200801A", "target": "Parla con l'osservatore dai capelli blu" },
+    { "gameKey": "quest/042/AktKzg002_04277#TEXT_AKTKZG002_04277_TODO_01", "hash": "409EE20887A8D250", "target": "Parla con l'osservatore degli uccelli" },
+    { "gameKey": "quest/042/AktKzg002_04277#TEXT_AKTKZG002_04277_TODO_02", "hash": "B6DB5838ABE584D5", "target": "Consegna le bird of Elpis feathers all'osservatore dai capelli blu" },
     { "gameKey": "quest/042/AktKzg002_04277#TEXT_AKTKZG002_04277_WORKINGOBSERVER04277_000_000", "hash": "D735A8584B841651", "target": "Ah, tu! Sì, tu, il famiglio. Devi farmi un favore." },
     { "gameKey": "quest/042/AktKzg002_04277#TEXT_AKTKZG002_04277_WORKINGOBSERVER04277_000_001", "hash": "1845B175CC79176F", "target": "Io e un collega dobbiamo condurre alcune prove alle Thalassai, ma quel collega tarda ad arrivare." },
     { "gameKey": "quest/042/AktKzg002_04277#TEXT_AKTKZG002_04277_WORKINGOBSERVER04277_000_002", "hash": "413339FA74C11CEF", "target": "Andrei a cercarlo di persona, ma devo finire i preparativi. Potresti andare a Prima Fioritura e dirgli di sbrigarsi? È un osservatore dai capelli blu." },

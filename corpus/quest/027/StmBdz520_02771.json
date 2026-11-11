@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/027/StmBdz520_02771#TEXT_STMBDZ520_02771_SEQ_00", "hash": "AD27B5FA55FB922F", "target": "La pecora preferita di Sukegei lo ha abbandonato." },
-    { "gameKey": "quest/027/StmBdz520_02771#TEXT_STMBDZ520_02771_TODO_00", "hash": "8CAA986B3FC1A549", "target": "Usare la cerbottana per colpire l'agnello smarrito dal luogo indicato" },
-    { "gameKey": "quest/027/StmBdz520_02771#TEXT_STMBDZ520_02771_TODO_01", "hash": "DB75428DCD45C59C", "target": "Catturare l'agnello smarrito" },
-    { "gameKey": "quest/027/StmBdz520_02771#TEXT_STMBDZ520_02771_TODO_02", "hash": "095044C0B45D3E97", "target": "Consegnare l'agnello smarrito a Sukegei" },
+    { "gameKey": "quest/027/StmBdz520_02771#TEXT_STMBDZ520_02771_TODO_00", "hash": "8CAA986B3FC1A549", "target": "Usa la cerbottana per colpire l'agnello smarrito dal luogo indicato" },
+    { "gameKey": "quest/027/StmBdz520_02771#TEXT_STMBDZ520_02771_TODO_01", "hash": "DB75428DCD45C59C", "target": "Cattura l'agnello smarrito" },
+    { "gameKey": "quest/027/StmBdz520_02771#TEXT_STMBDZ520_02771_TODO_02", "hash": "095044C0B45D3E97", "target": "Consegna l'agnello smarrito a Sukegei" },
     { "gameKey": "quest/027/StmBdz520_02771#TEXT_STMBDZ520_02771_SUKEGEI_000_000", "hash": "8D2A976750B5DE55", "target": "Non è che avresti tempo di inseguire una pecora? La più paurosa del mio gregge è appena scappata sentendo il ruggito di una bestia qui vicino." },
     { "gameKey": "quest/027/StmBdz520_02771#TEXT_STMBDZ520_02771_SUKEGEI_000_001", "hash": "7054D71866D83AA0", "target": "È così timida che probabilmente scapperà se cerchi di avvicinarti normalmente." },
     { "gameKey": "quest/027/StmBdz520_02771#TEXT_STMBDZ520_02771_SUKEGEI_000_002", "hash": "7397E3D94E72B43C", "target": "Prendi questa cerbottana e questi dardi che ho imbevuto di sedativo. Un colpo e si addormenterà subito. È scappata da qualche parte a ovest. Buona fortuna!" },

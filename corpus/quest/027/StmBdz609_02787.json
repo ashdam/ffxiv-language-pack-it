@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_SEQ_00", "hash": "977187613EDBAB98", "target": "Dagasi teme per il bestiame locale." },
-    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_TODO_00", "hash": "C85FFB861FD92142", "target": "Abbattere gulo gulo" },
-    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_TODO_01", "hash": "D32CE4C4B87827FC", "target": "Fare rapporto a Dagasi" },
+    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_TODO_00", "hash": "C85FFB861FD92142", "target": "Sconfiggi gulo gulo" },
+    { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_TODO_01", "hash": "D32CE4C4B87827FC", "target": "Fai rapporto a Dagasi" },
     { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_000", "hash": "AB1F72453903A286", "target": "Mi sembri <if(gnum4,un'ottima guerriera,un ottimo guerriero)> e raramente mi sbaglio." },
     { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_001", "hash": "66829C4641DD222B", "target": "Forse non sei <if(gnum4,una Dotharl,un Dotharl)>, ma se hai esperienza nell'abbattere bestie c'è qualcosa che vorrei chiederti." },
     { "gameKey": "quest/027/StmBdz609_02787#TEXT_STMBDZ609_02787_DAGASI_000_002", "hash": "87FD54E907A742FA", "target": "Ultimamente è comparso un gruppo di creature vicino al villaggio. Minacciano le nostre pecore. Finora erano state avvistate solo molto più a nord." },

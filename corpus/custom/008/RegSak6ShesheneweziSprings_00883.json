@@ -2,7 +2,7 @@
   "conversation": "custom/008/RegSak6ShesheneweziSprings_00883",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/RegSak6ShesheneweziSprings_00883#TEXT_REGSAK6SHESHENEWEZISPRINGS_00883_LOASAKWE_000_000", "hash": "24637D83488621F9", "target": "Uff, lasciatemi sdraiare e morire... <if(gnum4,Viaggiatrice,Viaggiatore)>, fermati a parlare un po', vuoi? Dimmi qualcosa che mi tolga dalla testa tutte quelle maledette urla." },
+    { "gameKey": "custom/008/RegSak6ShesheneweziSprings_00883#TEXT_REGSAK6SHESHENEWEZISPRINGS_00883_LOASAKWE_000_000", "hash": "24637D83488621F9", "target": "Uff, lasciami sdraiare e morire... <if(gnum4,Viaggiatrice,Viaggiatore)>, fermati a parlare un po', vuoi? Dimmi qualcosa che mi tolga dalla testa tutte quelle maledette urla." },
     { "gameKey": "custom/008/RegSak6ShesheneweziSprings_00883#TEXT_REGSAK6SHESHENEWEZISPRINGS_00883_LOASAKWE_000_001", "hash": "D53EB74FB92A3CB1", "target": "Sai qualcosa di quel livido sospeso all'orizzonte? La gente dice guerra, fine del mondo o entrambe. Tu che dici?" },
     { "gameKey": "custom/008/RegSak6ShesheneweziSprings_00883#TEXT_REGSAK6SHESHENEWEZISPRINGS_00883_LOASAKWE_000_002", "hash": "B3CE4147BE8314C5", "target": "Addio a quella cupola tre volte maledetta. Non ci mancherai. Già è brutto quando la gente perde arti: è peggio quando perde la testa per la paura. Ma insomma, <italic(1)>tu<italic(0)> che hai per la testa?" },
     { "gameKey": "custom/008/RegSak6ShesheneweziSprings_00883#TEXT_REGSAK6SHESHENEWEZISPRINGS_00883_LOASAKWE_000_003", "hash": "F1FFDE2FA94C57CF", "target": "Che cosa ti affligge? Ti prego, dimmi che non è grave. Mi servirebbe una pausa da sangue e bende..." },

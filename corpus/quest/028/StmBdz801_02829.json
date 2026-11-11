@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/028/StmBdz801_02829#TEXT_STMBDZ801_02829_SEQ_00", "hash": "8CBC0F40FB201668", "target": "Gerbod desidera tornare al proprio mestiere." },
-    { "gameKey": "quest/028/StmBdz801_02829#TEXT_STMBDZ801_02829_TODO_00", "hash": "3AE56C858F3F6B1F", "target": "Cercare worn artisan's tools" },
-    { "gameKey": "quest/028/StmBdz801_02829#TEXT_STMBDZ801_02829_TODO_01", "hash": "5FF379D75B7D133C", "target": "Consegnare i worn artisan's tools a Gerbod" },
+    { "gameKey": "quest/028/StmBdz801_02829#TEXT_STMBDZ801_02829_TODO_00", "hash": "3AE56C858F3F6B1F", "target": "Cerca worn artisan's tools" },
+    { "gameKey": "quest/028/StmBdz801_02829#TEXT_STMBDZ801_02829_TODO_01", "hash": "5FF379D75B7D133C", "target": "Consegna i worn artisan's tools a Gerbod" },
     { "gameKey": "quest/028/StmBdz801_02829#TEXT_STMBDZ801_02829_GERBOD_000_000", "hash": "DA8206276CC37EA1", "target": "Beh, sembri <if(gnum4,una ragazza,un ragazzo)> capace, che non batte ciglio davanti al pericolo. Ti andrebbe di aiutare un uomo sfortunato?" },
     { "gameKey": "quest/028/StmBdz801_02829#TEXT_STMBDZ801_02829_GERBOD_000_001", "hash": "30E427BE68623E62", "target": "Un tempo ero un falegname, sai, e mi guadagnavo da vivere riparando i carri di tutte le carovane che passavano per Ala Ghiri. Quando i garleani hanno preso il potere, i mercanti sono fuggiti, e con loro tutto il mio lavoro." },
     { "gameKey": "quest/028/StmBdz801_02829#TEXT_STMBDZ801_02829_GERBOD_000_002", "hash": "080E9B004588C6B1", "target": "Da allora ho fatto quel che potevo per tirare avanti, ma ora che siamo liberi da quei cani imperiali vorrei rispolverare gli attrezzi e fare il possibile per aiutare la Resistenza." },

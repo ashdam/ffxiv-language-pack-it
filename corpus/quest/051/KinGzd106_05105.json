@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/051/KinGzd106_05105#TEXT_KINGZD106_05105_SEQ_00", "hash": "1D7BB8295CF956B6", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Questa timida donna ti guarda implorante." },
-    { "gameKey": "quest/051/KinGzd106_05105#TEXT_KINGZD106_05105_TODO_00", "hash": "B11325B1A7D07CE1", "target": "Cercare l'uomo sconsolato" },
-    { "gameKey": "quest/051/KinGzd106_05105#TEXT_KINGZD106_05105_TODO_01", "hash": "6AAB3EF0ED06828A", "target": "Con la chat in modalità <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, inserire «seek the sun» rivolgendosi all'uomo sconsolato" },
-    { "gameKey": "quest/051/KinGzd106_05105#TEXT_KINGZD106_05105_TODO_02", "hash": "B90934C5F1BB52BF", "target": "Parlare con la donna timida" },
+    { "gameKey": "quest/051/KinGzd106_05105#TEXT_KINGZD106_05105_TODO_00", "hash": "B11325B1A7D07CE1", "target": "Cerca l'uomo sconsolato" },
+    { "gameKey": "quest/051/KinGzd106_05105#TEXT_KINGZD106_05105_TODO_01", "hash": "6AAB3EF0ED06828A", "target": "Con la chat in modalità <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, inserisci «seek the sun» rivolgendosi all'uomo sconsolato" },
+    { "gameKey": "quest/051/KinGzd106_05105#TEXT_KINGZD106_05105_TODO_02", "hash": "B90934C5F1BB52BF", "target": "Parla con la donna timida" },
     { "gameKey": "quest/051/KinGzd106_05105#TEXT_KINGZD106_05105_QUIETBOONEWA05105_000_000", "hash": "1E6A6DB0EFB953AD", "target": "Ti prego, <if(gnum4,signorina,signore)>... Devi fermare mio marito." },
     { "gameKey": "quest/051/KinGzd106_05105#TEXT_KINGZD106_05105_QUIETBOONEWA05105_000_001", "hash": "30551265F3D1D544", "target": "Da quando l'Autarca ha dichiarato la fine dei fratelli benedetti, mio marito è sopraffatto dal dolore. Quando mi sono svegliata stamattina, non c'era più." },
     { "gameKey": "quest/051/KinGzd106_05105#TEXT_KINGZD106_05105_QUIETBOONEWA05105_000_002", "hash": "83AE8D8C044F34E6", "target": "Un vicino l'ha visto andare verso il Cenote Jayunja, ma io sono troppo debole per seguirlo." },

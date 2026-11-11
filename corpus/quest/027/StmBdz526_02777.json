@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/027/StmBdz526_02777#TEXT_STMBDZ526_02777_SEQ_00", "hash": "847BD55BFDB5802D", "target": "Il guerriero Buduga ti scruta socchiudendo gli occhi." },
-    { "gameKey": "quest/027/StmBdz526_02777#TEXT_STMBDZ526_02777_TODO_00", "hash": "0C8C124DED6E9207", "target": "Parlare con il guerriero Buduga" },
-    { "gameKey": "quest/027/StmBdz526_02777#TEXT_STMBDZ526_02777_TODO_01", "hash": "FA2ED2F38907EA15", "target": "Parlare con il guerriero Buduga" },
-    { "gameKey": "quest/027/StmBdz526_02777#TEXT_STMBDZ526_02777_TODO_02", "hash": "DE6EBAA7A9748671", "target": "Parlare con il guerriero Buduga" },
+    { "gameKey": "quest/027/StmBdz526_02777#TEXT_STMBDZ526_02777_TODO_00", "hash": "0C8C124DED6E9207", "target": "Parla con il guerriero Buduga" },
+    { "gameKey": "quest/027/StmBdz526_02777#TEXT_STMBDZ526_02777_TODO_01", "hash": "FA2ED2F38907EA15", "target": "Parla con il guerriero Buduga" },
+    { "gameKey": "quest/027/StmBdz526_02777#TEXT_STMBDZ526_02777_TODO_02", "hash": "DE6EBAA7A9748671", "target": "Parla con il guerriero Buduga" },
     { "gameKey": "quest/027/StmBdz526_02777#TEXT_STMBDZ526_02777_YOUNGFIGHTER02777_000_000", "hash": "4DB3872627726646", "target": "...Aspetta un momento. Ti conosco. Ormai tutti parlano solo delle tue imprese. Se non hai troppo da fare, mi accompagneresti nella zona sottostante? C'è qualcosa che voglio mostrarti." },
     { "gameKey": "quest/027/StmBdz526_02777#TEXT_STMBDZ526_02777_YOUNGFIGHTER02777_000_001", "hash": "B977E5DA4885A5C1", "target": "Ahahah! Non guardarmi con tanto sospetto. Non è nulla di troppo sinistro, te lo assicuro." },
     { "gameKey": "quest/027/StmBdz526_02777#TEXT_STMBDZ526_02777_YOUNGFIGHTER02777_000_002", "hash": "B8961558306878FF", "target": "E anche se lo fosse, sei <if(gnum4,una guerriera temprata,un guerriero temprato)>, vero? Ora vieni, andiamo prima che passi la giornata." },

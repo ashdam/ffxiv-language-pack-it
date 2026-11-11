@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/025/StmBda603_02529#TEXT_STMBDA603_02529_SEQ_00", "hash": "B49BFB1FDC912F5A", "target": "Come sa Conrad, il tuo lavoro è tutt'altro che finito." },
-    { "gameKey": "quest/025/StmBda603_02529#TEXT_STMBDA603_02529_TODO_00", "hash": "87AAE8BE63A35D70", "target": "Cercare nei Margini i resti dell'esercito imperiale" },
-    { "gameKey": "quest/025/StmBda603_02529#TEXT_STMBDA603_02529_TODO_01", "hash": "979E381C9F21C0D4", "target": "Parlare con Raubahn" },
-    { "gameKey": "quest/025/StmBda603_02529#TEXT_STMBDA603_02529_TODO_02", "hash": "BD03C00B4CF22EB1", "target": "Parlare con Conrad" },
+    { "gameKey": "quest/025/StmBda603_02529#TEXT_STMBDA603_02529_TODO_00", "hash": "87AAE8BE63A35D70", "target": "Cerca nei Margini i resti dell'esercito imperiale" },
+    { "gameKey": "quest/025/StmBda603_02529#TEXT_STMBDA603_02529_TODO_01", "hash": "979E381C9F21C0D4", "target": "Parla con Raubahn" },
+    { "gameKey": "quest/025/StmBda603_02529#TEXT_STMBDA603_02529_TODO_02", "hash": "BD03C00B4CF22EB1", "target": "Parla con Conrad" },
     { "gameKey": "quest/025/StmBda603_02529#TEXT_STMBDA603_02529_ARENVALD_000_001", "hash": "A86B3F1CCB24AF4C", "target": "Avete visto, A'aba, Aulie? Ce l'abbiamo fatta!" },
     { "gameKey": "quest/025/StmBda603_02529#TEXT_STMBDA603_02529_MNAAGO_000_005", "hash": "C1C2725945A47599", "target": "\\<anf> \\<anf> Per un attimo ho pensato di non farcela... e invece sì!" },
     { "gameKey": "quest/025/StmBda603_02529#TEXT_STMBDA603_02529_LYSE_000_010", "hash": "4C238D382D535921", "target": "Un passo alla volta, un passo alla volta. Finché saremo alla porta di Zenos!" },

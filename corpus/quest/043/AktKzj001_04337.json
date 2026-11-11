@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/043/AktKzj001_04337#TEXT_AKTKZJ001_04337_SEQ_00", "hash": "27FBA2333CAA9197", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Kohm Noskh ti guarda con occhi tristi." },
-    { "gameKey": "quest/043/AktKzj001_04337#TEXT_AKTKZJ001_04337_TODO_00", "hash": "683A8822B5CEFD26", "target": "Abbattere la bellicose broodmother" },
-    { "gameKey": "quest/043/AktKzj001_04337#TEXT_AKTKZJ001_04337_TODO_01", "hash": "274F22DC60950B41", "target": "Fare rapporto a Kohm Noskh" },
+    { "gameKey": "quest/043/AktKzj001_04337#TEXT_AKTKZJ001_04337_TODO_00", "hash": "683A8822B5CEFD26", "target": "Sconfiggi la bellicose broodmother" },
+    { "gameKey": "quest/043/AktKzj001_04337#TEXT_AKTKZJ001_04337_TODO_01", "hash": "274F22DC60950B41", "target": "Fai rapporto a Kohm Noskh" },
     { "gameKey": "quest/043/AktKzj001_04337#TEXT_AKTKZJ001_04337_KOHMNOSKH_100_000", "hash": "BAD0B8972EFACB29", "target": "<if(gnum4,Minuscola viaggiatrice,Minuscolo viaggiatore)>... Hai attraversato la grande distesa per giungere al mio cospetto. Ti domando: nel tuo cammino hai trovato la forza?" },
     { "gameKey": "quest/043/AktKzj001_04337#TEXT_AKTKZJ001_04337_KOHMNOSKH_100_001", "hash": "CC2BAECF0FE3B010", "target": "A nessuno qui è stato risparmiato il tormento della perdita... eppure anche la tragedia non colpisce tutti in egual misura." },
     { "gameKey": "quest/043/AktKzj001_04337#TEXT_AKTKZJ001_04337_KOHMNOSKH_100_002", "hash": "EDFA32E8359C7C00", "target": "No, fra tutti i miei simili, i genitori la sentono più profondamente. Uova schiacciate davanti ai loro occhi, piccoli deformati fino a divenire irriconoscibili... non si può biasimarli se cedono alla follia." },

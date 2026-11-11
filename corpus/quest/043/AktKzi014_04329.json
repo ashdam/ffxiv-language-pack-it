@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/043/AktKzi014_04329#TEXT_AKTKZI014_04329_SEQ_00", "hash": "30E6B6EE326A03C8", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Al Borgo di Sharlayan, una veterinaria è alle prese con un problema bestiale." },
-    { "gameKey": "quest/043/AktKzi014_04329#TEXT_AKTKZI014_04329_TODO_00", "hash": "CE9290FD1516D451", "target": "Trovare il wayward troll e uccidere gli anala che attaccano" },
-    { "gameKey": "quest/043/AktKzi014_04329#TEXT_AKTKZI014_04329_TODO_01", "hash": "E4C2EE8F50083711", "target": "Dare la frutta matura al wayward troll" },
-    { "gameKey": "quest/043/AktKzi014_04329#TEXT_AKTKZI014_04329_TODO_02", "hash": "D644E2222C34B80F", "target": "Parlare con la veterinarian" },
+    { "gameKey": "quest/043/AktKzi014_04329#TEXT_AKTKZI014_04329_TODO_00", "hash": "CE9290FD1516D451", "target": "Trova il wayward troll e sconfiggi gli anala che attaccano" },
+    { "gameKey": "quest/043/AktKzi014_04329#TEXT_AKTKZI014_04329_TODO_01", "hash": "E4C2EE8F50083711", "target": "Dai la frutta matura al wayward troll" },
+    { "gameKey": "quest/043/AktKzi014_04329#TEXT_AKTKZI014_04329_TODO_02", "hash": "D644E2222C34B80F", "target": "Parla con la veterinarian" },
     { "gameKey": "quest/043/AktKzi014_04329#TEXT_AKTKZI014_04329_RESEARCHER04329_000_000", "hash": "3B30A4C1524125CB", "target": "Scusatemi, <if(gnum4,signora,signore)>. Non ho potuto fare a meno di notare che avete un'aria che sembra gridare: «Ho un'affinità con le creature selvatiche». E siccome non mi sbaglio mai su queste cose, potrei chiedervi un favore?" },
     { "gameKey": "quest/043/AktKzi014_04329#TEXT_AKTKZI014_04329_RESEARCHER04329_000_001", "hash": "EC4BC8AF81F9F8FF", "target": "Vedete, tra i gruppi di troll che vivono nel Circuito Esterno ne ho trovato uno gravemente malato." },
     { "gameKey": "quest/043/AktKzi014_04329#TEXT_AKTKZI014_04329_RESEARCHER04329_000_002", "hash": "C5FB64AEC36BA772", "target": "Naturalmente ho accolto subito la povera creatura e l'ho curata, ma quando ho tentato di riportarla a casa sua, il troll è stato preso dal panico, come se non sopportasse l'idea di tornare." },

@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/039/LucKhz004_03961#TEXT_LUCKHZ004_03961_SEQ_00", "hash": "B661C178E50AFE15", "target": "Il soldato imbronciato si guarda intorno con ansia." },
-    { "gameKey": "quest/039/LucKhz004_03961#TEXT_LUCKHZ004_03961_TODO_00", "hash": "DEAAE78C9AD20AA0", "target": "Posizionare lo spuntino per gatti in strada per attirare un gaelicat" },
-    { "gameKey": "quest/039/LucKhz004_03961#TEXT_LUCKHZ004_03961_TODO_01", "hash": "18A73BC9C3C58A5D", "target": "Attendere l'arrivo della preda" },
-    { "gameKey": "quest/039/LucKhz004_03961#TEXT_LUCKHZ004_03961_TODO_02", "hash": "5C6E93E8F0FBB483", "target": "Rintracciare il gaelicat" },
+    { "gameKey": "quest/039/LucKhz004_03961#TEXT_LUCKHZ004_03961_TODO_00", "hash": "DEAAE78C9AD20AA0", "target": "Posiziona lo spuntino per gatti in strada per attirare un gaelicat" },
+    { "gameKey": "quest/039/LucKhz004_03961#TEXT_LUCKHZ004_03961_TODO_01", "hash": "18A73BC9C3C58A5D", "target": "Attendi l'arrivo della preda" },
+    { "gameKey": "quest/039/LucKhz004_03961#TEXT_LUCKHZ004_03961_TODO_02", "hash": "5C6E93E8F0FBB483", "target": "Rintraccia il gaelicat" },
     { "gameKey": "quest/039/LucKhz004_03961#TEXT_LUCKHZ004_03961_FIRMAMENT03961_000_000", "hash": "9DC27F1129D4DF24", "target": "Ma guarda, <if(gnum4,la salvatrice,il salvatore)> di Ishgard... <if(gnum4,l'eroina,l'eroe)> che ci ha aiutati a sistemare quel gaelikitten randagio l'altro giorno!" },
     { "gameKey": "quest/039/LucKhz004_03961#TEXT_LUCKHZ004_03961_FIRMAMENT03961_000_001", "hash": "49AB9AFFF828D955", "target": "Non potevate arrivare in un momento migliore. Per motivi che non riesco nemmeno a immaginare, uno di quei maledetti gatti è tornato... e per di più sembra aver portato degli amici." },
     { "gameKey": "quest/039/LucKhz004_03961#TEXT_LUCKHZ004_03961_FIRMAMENT03961_000_002", "hash": "E7641FE79D2745E6", "target": "...O almeno così mi hanno detto. Come potete immaginare, non sappiamo bene come affrontare la situazione." },

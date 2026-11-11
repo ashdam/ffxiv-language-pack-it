@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/025/StmBda614_02540#TEXT_STMBDA614_02540_SEQ_00", "hash": "D7E7F4556EF08323", "target": "Lyse ha preso la sua decisione." },
-    { "gameKey": "quest/025/StmBda614_02540#TEXT_STMBDA614_02540_TODO_00", "hash": "5CD4B7EFCF70548E", "target": "Attendere Lyse alla <italic(1)>Speranza di Nyunkrepf<italic(0)>" },
-    { "gameKey": "quest/025/StmBda614_02540#TEXT_STMBDA614_02540_TODO_01", "hash": "512A95189AEA2DD6", "target": "Attendere Lyse alla <italic(1)>Speranza di Nyunkrepf<italic(0)>" },
-    { "gameKey": "quest/025/StmBda614_02540#TEXT_STMBDA614_02540_TODO_02", "hash": "4B2D994A585CEA20", "target": "Parlare con Lyse" },
+    { "gameKey": "quest/025/StmBda614_02540#TEXT_STMBDA614_02540_TODO_00", "hash": "5CD4B7EFCF70548E", "target": "Attendi Lyse alla <italic(1)>Speranza di Nyunkrepf<italic(0)>" },
+    { "gameKey": "quest/025/StmBda614_02540#TEXT_STMBDA614_02540_TODO_01", "hash": "512A95189AEA2DD6", "target": "Attendi Lyse alla <italic(1)>Speranza di Nyunkrepf<italic(0)>" },
+    { "gameKey": "quest/025/StmBda614_02540#TEXT_STMBDA614_02540_TODO_02", "hash": "4B2D994A585CEA20", "target": "Parla con Lyse" },
     { "gameKey": "quest/025/StmBda614_02540#TEXT_STMBDA614_02540_MNAAGO_000_001", "hash": "593334A578AA9054", "target": "Conrad mi aveva confidato che pensava di nominarla sua erede, quindi non è stata proprio una sorpresa. Voglio dire, sono rimasta comunque sorpresa, ma non ho mai dubitato del suo giudizio. Nessuno di noi l'ha mai fatto. Se lui riteneva Lyse la scelta migliore, allora lo è." },
     { "gameKey": "quest/025/StmBda614_02540#TEXT_STMBDA614_02540_ALISAIE_000_005", "hash": "DBB7A462E6176B65", "target": "(Da quando <italic(1)>Lyse<italic(0)> è a capo della Resistenza? Questa... questa è... Hm. Immagino che anche di questo dobbiamo ringraziare Hien.)" },
     { "gameKey": "quest/025/StmBda614_02540#TEXT_STMBDA614_02540_ALPHINAUD_000_010", "hash": "E5EBE3FC71DB8902", "target": "Capisco la preoccupazione di M'naago. Se perdessero un altro capo così presto dopo Conrad, la Resistenza potrebbe non riprendersi mai." },

@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/042/AktKzg010_04285#TEXT_AKTKZG010_04285_SEQ_00", "hash": "494D678BFD513CF7", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Questo creatore ti riconosce... o forse no?" },
-    { "gameKey": "quest/042/AktKzg010_04285#TEXT_AKTKZG010_04285_TODO_00", "hash": "B0E75C9C1C3272B6", "target": "Consegnare il frutto rosso senza nome agli osservatori" },
-    { "gameKey": "quest/042/AktKzg010_04285#TEXT_AKTKZG010_04285_TODO_01", "hash": "7D33F5D4F5DD6EB0", "target": "Parlare con il creatore pomposo" },
+    { "gameKey": "quest/042/AktKzg010_04285#TEXT_AKTKZG010_04285_TODO_00", "hash": "B0E75C9C1C3272B6", "target": "Consegna il frutto rosso senza nome agli osservatori" },
+    { "gameKey": "quest/042/AktKzg010_04285#TEXT_AKTKZG010_04285_TODO_01", "hash": "7D33F5D4F5DD6EB0", "target": "Parla con il creatore pomposo" },
     { "gameKey": "quest/042/AktKzg010_04285#TEXT_AKTKZG010_04285_ELEGANCECREATOR04285_000_000", "hash": "191CF41DE1BC9D13", "target": "Azem? Che diavolo ci fai qui?<br>Aspetta... Mi sembri... in qualche modo più tenue." },
     { "gameKey": "quest/042/AktKzg010_04285#TEXT_AKTKZG010_04285_ELEGANCECREATOR04285_000_001", "hash": "AF1A0EE5E608F28A", "target": "Mh... Hai molto in comune con <if(gnum4,lei,lui)>, ma è chiaro che non sei uno di noi. Un famiglio, forse?" },
     { "gameKey": "quest/042/AktKzg010_04285#TEXT_AKTKZG010_04285_ELEGANCECREATOR04285_000_002", "hash": "CB3B737244C7BA80", "target": "Suppongo sia proprio da <if(gnum4,lei,lui)> mandare uno dei <if(gnum4,suoi,suoi)> servitori a ficcare il naso nei nostri affari. Ma dato che sei qui, anziché startene a ciondolare come un cattivo odore, perché non ti rendi utile?" },

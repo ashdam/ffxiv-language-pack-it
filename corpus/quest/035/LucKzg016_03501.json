@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKzg016_03501#TEXT_LUCKZG016_03501_SEQ_00", "hash": "54C962515F04B3D1", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Il minatore taciturno sta pianificando un viaggio di grande importanza personale." },
-    { "gameKey": "quest/035/LucKzg016_03501#TEXT_LUCKZG016_03501_TODO_00", "hash": "5467AAB791F3AC5E", "target": "Parlare con il minatore taciturno" },
-    { "gameKey": "quest/035/LucKzg016_03501#TEXT_LUCKZG016_03501_TODO_01", "hash": "A3B62D964210D5BC", "target": "Gettare un commemorative flower nel burrone" },
-    { "gameKey": "quest/035/LucKzg016_03501#TEXT_LUCKZG016_03501_TODO_02", "hash": "75AE55D3DA58BF4C", "target": "Parlare con il minatore taciturno" },
+    { "gameKey": "quest/035/LucKzg016_03501#TEXT_LUCKZG016_03501_TODO_00", "hash": "5467AAB791F3AC5E", "target": "Parla con il minatore taciturno" },
+    { "gameKey": "quest/035/LucKzg016_03501#TEXT_LUCKZG016_03501_TODO_01", "hash": "A3B62D964210D5BC", "target": "Getta un commemorative flower nel burrone" },
+    { "gameKey": "quest/035/LucKzg016_03501#TEXT_LUCKZG016_03501_TODO_02", "hash": "75AE55D3DA58BF4C", "target": "Parla con il minatore taciturno" },
     { "gameKey": "quest/035/LucKzg016_03501#TEXT_LUCKZG016_03501_RONSO03501_000_000", "hash": "83BDD85F56DA12C4", "target": "Scusami, <if(gnum4,peccatrice,peccatore)>. Sto preparando un viaggio in una zona pericolosa e mi serve una guardia del corpo. Puoi aiutarmi?" },
     { "gameKey": "quest/035/LucKzg016_03501#TEXT_LUCKZG016_03501_RONSO03501_000_001", "hash": "1F1770218AD54655", "target": "La mia meta è il ponte che attraversa la voragine settentrionale. Dovrei riuscire a raggiungerlo, ma avrò bisogno che tu mi copra le spalle quando sarò arrivato. C'è qualcosa che devo fare..." },
     { "gameKey": "quest/035/LucKzg016_03501#TEXT_LUCKZG016_03501_RONSO03501_000_010", "hash": "7070C7E71DCCEA31", "target": "Qui ha perso la vita un mio caro amico. Era un minatore, uno dei migliori. Fino al giorno in cui un divorapeccati lo attaccò." },

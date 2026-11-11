@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/050/KinGzd003_05092#TEXT_KINGZD003_05092_SEQ_00", "hash": "60DDFCE16A7683B7", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>L'abitante preoccupata attende con ansia il ritorno del suo amico." },
-    { "gameKey": "quest/050/KinGzd003_05092#TEXT_KINGZD003_05092_TODO_00", "hash": "CBE575F439397C75", "target": "Trovare il pescatore inesperto e uccidere eventuali mostri che lo attaccano" },
-    { "gameKey": "quest/050/KinGzd003_05092#TEXT_KINGZD003_05092_TODO_01", "hash": "1E0519922777DDFA", "target": "Aiutare il pescatore inesperto" },
-    { "gameKey": "quest/050/KinGzd003_05092#TEXT_KINGZD003_05092_TODO_02", "hash": "DEF8D35D41C0E5B0", "target": "Parlare con l'abitante preoccupata" },
+    { "gameKey": "quest/050/KinGzd003_05092#TEXT_KINGZD003_05092_TODO_00", "hash": "CBE575F439397C75", "target": "Trova il pescatore inesperto e sconfiggi eventuali mostri che lo attaccano" },
+    { "gameKey": "quest/050/KinGzd003_05092#TEXT_KINGZD003_05092_TODO_01", "hash": "1E0519922777DDFA", "target": "Aiuta il pescatore inesperto" },
+    { "gameKey": "quest/050/KinGzd003_05092#TEXT_KINGZD003_05092_TODO_02", "hash": "DEF8D35D41C0E5B0", "target": "Parla con l'abitante preoccupata" },
     { "gameKey": "quest/050/KinGzd003_05092#TEXT_KINGZD003_05092_XBRAALGIRL05092_000_000", "hash": "8A23CAF1B316BAAA", "target": "...Oh! Ciao. Sembra che tu sappia cavartela... Ti prego, se puoi dedicarmi un momento, ho un disperato bisogno del tuo aiuto!" },
     { "gameKey": "quest/050/KinGzd003_05092#TEXT_KINGZD003_05092_XBRAALGIRL05092_000_001", "hash": "4CE50E45950E3E2D", "target": "Un mio amico ha detto che sarebbe andato a pescare in un cenote, ma non torna da un po'. Alcuni cenote sono molto pescosi, ma attirano naturalmente ogni sorta di bestia affamata. Temo gli sia successo qualcosa di terribile..." },
     { "gameKey": "quest/050/KinGzd003_05092#TEXT_KINGZD003_05092_XBRAALGIRL05092_000_002", "hash": "92647D8EAA3EA4A1", "target": "Non so a quale sia andato, ma ti chiedo di cercare a Iq Rrax Tsoly, a est dell'approdo dei dirigibili. Io ne ho in mente un altro. Speriamo che sia in uno dei due!" },

@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/042/AktKzd006_04230#TEXT_AKTKZD006_04230_SEQ_00", "hash": "E53D42B171B4ABA5", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Uno dei delegati Mol cerca l'aiuto di qualcuno abbastanza coraggioso da affrontare gli orrori della città." },
-    { "gameKey": "quest/042/AktKzd006_04230#TEXT_AKTKZD006_04230_TODO_00", "hash": "401E87FFA03705B8", "target": "Cercare il soldato ferito e immobilizzare gli imperiali ostili con la numbing powder" },
-    { "gameKey": "quest/042/AktKzd006_04230#TEXT_AKTKZD006_04230_TODO_01", "hash": "43A2D9596BEF31A9", "target": "Soccorrere il soldato ferito" },
-    { "gameKey": "quest/042/AktKzd006_04230#TEXT_AKTKZD006_04230_TODO_02", "hash": "2AEEEE72A6B81F64", "target": "Fare rapporto al delegato Mol" },
+    { "gameKey": "quest/042/AktKzd006_04230#TEXT_AKTKZD006_04230_TODO_00", "hash": "401E87FFA03705B8", "target": "Cerca il soldato ferito e immobilizza gli imperiali ostili con la numbing powder" },
+    { "gameKey": "quest/042/AktKzd006_04230#TEXT_AKTKZD006_04230_TODO_01", "hash": "43A2D9596BEF31A9", "target": "Soccorri il soldato ferito" },
+    { "gameKey": "quest/042/AktKzd006_04230#TEXT_AKTKZD006_04230_TODO_02", "hash": "2AEEEE72A6B81F64", "target": "Fai rapporto al delegato Mol" },
     { "gameKey": "quest/042/AktKzd006_04230#TEXT_AKTKZD006_04230_MOLSOLDIER04230_000_000", "hash": "46BA09BFB38B46E4", "target": "Per fortuna sei qui! Abbiamo appena ricevuto una richiesta urgente d'aiuto da uno dei nostri tramite fonoperla." },
     { "gameKey": "quest/042/AktKzd006_04230#TEXT_AKTKZD006_04230_MOLSOLDIER04230_000_001", "hash": "97E3EF6BF7B79E39", "target": "Purtroppo non siamo riusciti a capire dove si trovasse, ma sembrava impegnato in una lotta terribile. Abbiamo mandato degli esploratori a cercarlo, ma sono pochi. Potresti aiutarli?" },
     { "gameKey": "quest/042/AktKzd006_04230#TEXT_AKTKZD006_04230_MOLSOLDIER04230_000_002", "hash": "5E43BFAC31121CF1", "target": "Apprezziamo molto la tua collaborazione. Ti chiedo di iniziare la ricerca vicino al Senaculum Imperialis. I nostri compagni non l'hanno ancora esplorato." },

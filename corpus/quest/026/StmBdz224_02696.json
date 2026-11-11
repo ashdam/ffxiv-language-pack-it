@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_SEQ_00", "hash": "73FF4614AA8E404F", "target": "Urokuzu cerca ovunque qualcuno che abbia esperienza di combattimento." },
-    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_TODO_00", "hash": "C09C99D08410B01F", "target": "Esaminare la zona e uccidere le bestie che compaiono" },
-    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_TODO_01", "hash": "DA51035DB4B3DDA1", "target": "Fare rapporto a Urokuzu" },
+    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_TODO_00", "hash": "C09C99D08410B01F", "target": "Esamina la zona e sconfiggi le bestie che compaiono" },
+    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_TODO_01", "hash": "DA51035DB4B3DDA1", "target": "Fai rapporto a Urokuzu" },
     { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_000", "hash": "22B3F880E6547868", "target": "Ah, vieni dal mondo di sopra e sembri proprio <if(gnum4,una guerriera temprata,un guerriero temprato)> dalla battaglia! Che tu abbia scelto proprio questo momento per farci visita non può essere una coincidenza!" },
     { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_001", "hash": "F50D088F10BD37CB", "target": "L'altro giorno uno dei nostri giovani Kojin era a pesca quando è stato attaccato e ferito gravemente. Non è riuscito a identificare l'aggressore, ma molti sospettano che sia stato un granchio. In questo periodo cominciano a deporre le uova e possono essere molto aggressivi." },
     { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_002", "hash": "896EBC460122348C", "target": "Io, però, credo che dietro ci sia qualcosa di ben più sinistro. Il giovane di cui parlo è il combattente più dotato di Tamamizu. Un semplice granchio non potrebbe coglierlo alla sprovvista." },

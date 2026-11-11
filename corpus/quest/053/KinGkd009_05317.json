@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/053/KinGkd009_05317#TEXT_KINGKD009_05317_SEQ_00", "hash": "11FA34A993651D8E", "target": "L'Archivio vuole sapere se la tua ricerca di rovine continua a dare frutti." },
-    { "gameKey": "quest/053/KinGkd009_05317#TEXT_KINGKD009_05317_TODO_00", "hash": "BE4721351244AB1E", "target": "Completare il critical encounter «Calamity Bound» e procurarsi un contratto con un vuotofago da consegnare all'Archivio" },
+    { "gameKey": "quest/053/KinGkd009_05317#TEXT_KINGKD009_05317_TODO_00", "hash": "BE4721351244AB1E", "target": "Completa il critical encounter «Calamity Bound» e procurati un contratto con un vuotofago da consegnare all'Archivio" },
     { "gameKey": "quest/053/KinGkd009_05317#TEXT_KINGKD009_05317_KETENRAMM_000_001", "hash": "10F87319ACBEF9AB", "target": "In tutto abbiamo visto rovine di Amdapor, Nym, Mhach e Skalla. Vediamo se riusciamo a trovarne di completamente diverse." },
     { "gameKey": "quest/053/KinGkd009_05317#TEXT_KINGKD009_05317_ARCHIVE_000_002", "hash": "E4A2927BFDB07ED3", "target": "<split(<string(gstr1)>, ,1)>, temo di aver bisogno ancora una volta dei tuoi occhi... e della tua sete di esplorazione, che sembra inesauribile. Spingiti sempre più lontano e cerca rovine ancora inesplorate. Insieme faremo tornare la mia fonte di sapere a sgorgare in tutta la sua gloria!" },
     { "gameKey": "quest/053/KinGkd009_05317#TEXT_KINGKD009_05317_SYSTEM_000_005", "hash": "A42D2A60ECB8B6A6", "target": "Per proseguire questa missione, devi sbloccare le voci pertinenti nell'Occult Record." },

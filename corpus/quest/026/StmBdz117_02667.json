@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/026/StmBdz117_02667#TEXT_STMBDZ117_02667_SEQ_00", "hash": "0599302327517846", "target": "Una fanciulla timida a Kugane cerca qualcuno che conosca bene l'avventura." },
-    { "gameKey": "quest/026/StmBdz117_02667#TEXT_STMBDZ117_02667_TODO_00", "hash": "0310128619EFEAA3", "target": "Mostrare a Ibara la propria rabbia con /angry" },
-    { "gameKey": "quest/026/StmBdz117_02667#TEXT_STMBDZ117_02667_TODO_01", "hash": "F82E7DD7DB56BEFD", "target": "Mostrare di nuovo a Ibara la propria rabbia con /angry" },
-    { "gameKey": "quest/026/StmBdz117_02667#TEXT_STMBDZ117_02667_TODO_02", "hash": "F55B32EF905C7F99", "target": "Parlare con la fanciulla timida" },
+    { "gameKey": "quest/026/StmBdz117_02667#TEXT_STMBDZ117_02667_TODO_00", "hash": "0310128619EFEAA3", "target": "Mostra a Ibara la propria rabbia con /angry" },
+    { "gameKey": "quest/026/StmBdz117_02667#TEXT_STMBDZ117_02667_TODO_01", "hash": "F82E7DD7DB56BEFD", "target": "Mostra di nuovo a Ibara la propria rabbia con /angry" },
+    { "gameKey": "quest/026/StmBdz117_02667#TEXT_STMBDZ117_02667_TODO_02", "hash": "F55B32EF905C7F99", "target": "Parla con la fanciulla timida" },
     { "gameKey": "quest/026/StmBdz117_02667#TEXT_STMBDZ117_02667_TIMIDWOMAN02667_000_000", "hash": "EAA86AC4E4775AE6", "target": "S-Scusami. Sei <if(gnum4,un'avventuriera,un avventuriero)>? Lo sei, vero? Mi chiedevo se potessi ascoltarmi un momento. Ho un disperato bisogno d'aiuto." },
     { "gameKey": "quest/026/StmBdz117_02667#TEXT_STMBDZ117_02667_TIMIDWOMAN02667_000_001", "hash": "0CEE49043EE4D162", "target": "Sono qui per una commissione del padrone della tenuta dove lavoro. Mi ha mandato all'Exchange per acquistare un articolo, e l'ho fatto. Ma ho appena scoperto che il prezzo che mi hanno chiesto e che ho pagato era molto superiore al valore di mercato. Sono tornata a chiedere il rimborso della differenza, ma la negoziante non ha nemmeno voluto parlarmi." },
     { "gameKey": "quest/026/StmBdz117_02667#TEXT_STMBDZ117_02667_TIMIDWOMAN02667_000_002", "hash": "E269C6800D25F129", "target": "Il mio padrone è un uomo severo, e temo che sottrarrà dalla mia paga la somma che gli ho fatto perdere. Ti prego, ti supplico. Andresti a parlare con questa negoziante? Deve rimediare a questo torto." },

@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/039/BanDwa118_03919#TEXT_BANDWA118_03919_SEQ_00", "hash": "56BB2D741771B7C1", "target": "Regitt vuole il tuo aiuto per far uscire l'Incudine di Watts dall'oscurità.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
-    { "gameKey": "quest/039/BanDwa118_03919#TEXT_BANDWA118_03919_TODO_00", "hash": "7F916C488913C206", "target": "Parlare con il promotore nano al Forte Jobb" },
-    { "gameKey": "quest/039/BanDwa118_03919#TEXT_BANDWA118_03919_TODO_01", "hash": "BC7C77E3D05BCD4D", "target": "Usare /psych per incoraggiare il promotore nano" },
-    { "gameKey": "quest/039/BanDwa118_03919#TEXT_BANDWA118_03919_TODO_02", "hash": "F360362A29B9F9F1", "target": "Fare rapporto a Regitt" },
+    { "gameKey": "quest/039/BanDwa118_03919#TEXT_BANDWA118_03919_TODO_00", "hash": "7F916C488913C206", "target": "Parla con il promotore nano al Forte Jobb" },
+    { "gameKey": "quest/039/BanDwa118_03919#TEXT_BANDWA118_03919_TODO_01", "hash": "BC7C77E3D05BCD4D", "target": "Usa /psych per incoraggiare il promotore nano" },
+    { "gameKey": "quest/039/BanDwa118_03919#TEXT_BANDWA118_03919_TODO_02", "hash": "F360362A29B9F9F1", "target": "Fai rapporto a Regitt" },
     { "gameKey": "quest/039/BanDwa118_03919#TEXT_BANDWA118_03919_REGITT_000_000", "hash": "92A592B6723B6307", "target": "Costruire i carri è una cosa... convincere la gente a <italic(1)>usarli<italic(0)> è un'altra." },
     { "gameKey": "quest/039/BanDwa118_03919#TEXT_BANDWA118_03919_REGITT_000_001", "hash": "251A7CC0E9CEAD8C", "target": "Un mercante degno del nome diffida di artigiani sconosciuti e non provati. Perciò abbiamo avviato una campagna per far conoscere l'Incudine di Watts ovunque!" },
     { "gameKey": "quest/039/BanDwa118_03919#TEXT_BANDWA118_03919_REGITT_000_002", "hash": "7F947D22B1DBE208", "target": "Il problema è che temo il nostro promotore non sia pronto al mondo oltre Tomra. Ora dovrebbe essere al Forte Jobb e mi farebbe piacere se gli dessi sostegno!" },

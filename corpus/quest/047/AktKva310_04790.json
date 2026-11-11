@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/047/AktKva310_04790#TEXT_AKTKVA310_04790_SEQ_00", "hash": "8645A7474F577C99", "target": "Kalika non vede l'ora di condividere le ultime novità." },
-    { "gameKey": "quest/047/AktKva310_04790#TEXT_AKTKVA310_04790_TODO_00", "hash": "2FED023DC13C5D17", "target": "Attendere nel luogo indicato" },
-    { "gameKey": "quest/047/AktKva310_04790#TEXT_AKTKVA310_04790_TODO_01", "hash": "5172FA552260A98E", "target": "Parlare con Kalika" },
+    { "gameKey": "quest/047/AktKva310_04790#TEXT_AKTKVA310_04790_TODO_00", "hash": "2FED023DC13C5D17", "target": "Attendi nel luogo indicato" },
+    { "gameKey": "quest/047/AktKva310_04790#TEXT_AKTKVA310_04790_TODO_01", "hash": "5172FA552260A98E", "target": "Parla con Kalika" },
     { "gameKey": "quest/047/AktKva310_04790#TEXT_AKTKVA310_04790_KALIKA_000_000", "hash": "9987E60864216876", "target": "<split(<string(gstr1)>, ,1)>, buone notizie! Abbiamo scoperto la vera natura del pesce che il signor Matsya ha riportato dal santuario di Aloalo!" },
     { "gameKey": "quest/047/AktKva310_04790#TEXT_AKTKVA310_04790_KALIKA_000_001", "hash": "35CB01CC916B0324", "target": "Anche se ho detto «abbiamo», devo ammettere che gran parte del merito va a Pasasun. Ma <italic(1)>mai<italic(0)> avrebbe potuto farlo se io non avessi rischiato vita e ali per avviare questi eventi!" },
     { "gameKey": "quest/047/AktKva310_04790#TEXT_AKTKVA310_04790_KALIKA_000_002", "hash": "138AC99BCF9B0DAC", "target": "Comunque, ha trovato un documento antico che menziona il pesce, e grazie a questa impresa ora ne sappiamo di più." },

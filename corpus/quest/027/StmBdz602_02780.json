@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_SEQ_00", "hash": "AC4CA35F77F42F57", "target": "Yabuqa guarda le fiamme del fuoco con un'espressione malinconica." },
-    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_TODO_00", "hash": "0DA8A0BF48F4F56C", "target": "Usare /pray nel punto indicato" },
-    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_TODO_01", "hash": "DAA00B389EE4704F", "target": "Fare rapporto a Yabuqa" },
+    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_TODO_00", "hash": "0DA8A0BF48F4F56C", "target": "Usa /pray nel punto indicato" },
+    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_TODO_01", "hash": "DAA00B389EE4704F", "target": "Fai rapporto a Yabuqa" },
     { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_000", "hash": "E96267B276B67F5E", "target": "Dimmi, <if(gnum4,amica,amico)>, potresti farmi un favore?" },
     { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_001", "hash": "5BD7AD92E2FD7700", "target": "Non molto lontano a sud-est di qui si trovano le rovine devastate di Kahkol Iloh. Ti chiedo di andare lì e usare <colortype(500)><edgecolortype(501)>/pray<edgecolortype(0)><colortype(0)> per pregare per le anime dei miei genitori e di mia sorella defunti." },
     { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_002", "hash": "FAB127B4DFA0EA6C", "target": "\\<sigh> Non è un sentimento che gli altri Buduga capirebbero, perciò ho bisogno che tu vada al posto mio." },

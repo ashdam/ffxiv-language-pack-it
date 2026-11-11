@@ -45,7 +45,7 @@
     { "gameKey": "quest/014/GaiUse303_01444#TEXT_GAIUSE303_01444_BALLOON_000_020", "hash": "3A1F81440CEE6393", "target": "P-possiamo farcela contro <if(gnum4,di lei,di lui)>!" },
     { "gameKey": "quest/014/GaiUse303_01444#TEXT_GAIUSE303_01444_BALLOON_000_030", "hash": "3329AF679919166B", "target": "Non... non posso farcela senza aiuto!" },
     { "gameKey": "quest/014/GaiUse303_01444#TEXT_GAIUSE303_01444_BALLOON_000_040", "hash": "0B3B09117D03F8D1", "target": "Fate pure del vostro peggio!" },
-    { "gameKey": "quest/014/GaiUse303_01444#TEXT_GAIUSE303_01444_BALLOON_000_050", "hash": "EAD7816BADDE70BF", "target": "\\<ansima> \\<sbuffa>" },
+    { "gameKey": "quest/014/GaiUse303_01444#TEXT_GAIUSE303_01444_BALLOON_000_050", "hash": "EAD7816BADDE70BF", "target": "\\<anf> \\<anf>" },
     { "gameKey": "quest/014/GaiUse303_01444#TEXT_GAIUSE303_01444_BALLOON_000_060", "hash": "ABB0FCD558598B0F", "target": "Non ci fermerai!<br><italic(1)>Non puoi<italic(0)> fermarci!" },
     { "gameKey": "quest/014/GaiUse303_01444#TEXT_GAIUSE303_01444_BALLOON_000_070", "hash": "EE4CFA885E4DC398", "target": "Oh, una sfida!" },
     { "gameKey": "quest/014/GaiUse303_01444#TEXT_GAIUSE303_01444_BALLOON_000_080", "hash": "7C882D546371F578", "target": "È passato troppo tempo!" },

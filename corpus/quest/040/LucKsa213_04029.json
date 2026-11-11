@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/040/LucKsa213_04029#TEXT_LUCKSA213_04029_SEQ_00", "hash": "5910645A4523A088", "target": "Kriv crede di sapere come ampliare il tuo arsenale di lost actions." },
-    { "gameKey": "quest/040/LucKsa213_04029#TEXT_LUCKSA213_04029_TODO_00", "hash": "CF79F3E5A352B36A", "target": "<if([lnum1<lnum2],Ottenere scampoli di tessuto sintetico garleano,Consegnare gli scampoli di tessuto sintetico garleano a Kriv)>" },
+    { "gameKey": "quest/040/LucKsa213_04029#TEXT_LUCKSA213_04029_TODO_00", "hash": "CF79F3E5A352B36A", "target": "<if([lnum1<lnum2],Ottieni scampoli di tessuto sintetico garleano,Consegna gli scampoli di tessuto sintetico garleano a Kriv)>" },
     { "gameKey": "quest/040/LucKsa213_04029#TEXT_LUCKSA213_04029_KRIV_000_000", "hash": "ECD2B8DCAF04A7BE", "target": "Lama <split(<string(gstr1)>, ,2)>, giusto? Non credo che ci siamo mai incontrati. Mi chiamo Kriv. Mi risulta che conosciate i frutti delle mie ricerche sulla memoria." },
     { "gameKey": "quest/040/LucKsa213_04029#TEXT_LUCKSA213_04029_KRIV_000_001", "hash": "25C53A0F86A70192", "target": "In effetti, i nostri furieri mi hanno raccontato molto delle vostre scoperte in prima linea." },
     { "gameKey": "quest/040/LucKsa213_04029#TEXT_LUCKSA213_04029_KRIV_000_002", "hash": "628FCDD9AB48B5C0", "target": "E grazie a queste scoperte, riteniamo possibile ampliare la lost finds holster ancora più di quanto pensassimo." },

@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_SEQ_00", "hash": "41E0B8F546CF59F7", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>L'entusiasta osservatore ha bisogno d'aiuto per recuperare piante perdute." },
-    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_TODO_00", "hash": "EB8B653D6CB4CEA0", "target": "Recuperare ciuffi di cloud mallow" },
-    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_TODO_01", "hash": "F83FB54F18D9534C", "target": "Consegnare i ciuffi di cloud mallow all'entusiasta osservatore" },
+    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_TODO_00", "hash": "EB8B653D6CB4CEA0", "target": "Recupera ciuffi di cloud mallow" },
+    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_TODO_01", "hash": "F83FB54F18D9534C", "target": "Consegna i ciuffi di cloud mallow all'entusiasta osservatore" },
     { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_OBSERVER04299_000_000", "hash": "048FB41A589861DD", "target": "Che spettacolo! Un ampelos ha starnutito e fatto volare ciuffi di cloud mallow in ogni direzione." },
     { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_OBSERVER04299_000_001", "hash": "BD95A482445ABB42", "target": "Per quanto sia divertente, non riuscirò mai a raccoglierli tutti senza aiuto... a meno che tu non voglia darmi una mano?" },
     { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_OBSERVER04299_000_002", "hash": "D1C307FFB9DE9464", "target": "Grazie mille! Dividiamoci e cominciamo a cercarli." },

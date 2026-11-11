@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/039/BanDwa128_03929#TEXT_BANDWA128_03929_SEQ_00", "hash": "1C168688661AF951", "target": "Regitt cerca chi comandi un carro per una prova prolungata.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
-    { "gameKey": "quest/039/BanDwa128_03929#TEXT_BANDWA128_03929_TODO_00", "hash": "CF10756BF5713EE5", "target": "Parlare con Wamutt" },
-    { "gameKey": "quest/039/BanDwa128_03929#TEXT_BANDWA128_03929_TODO_01", "hash": "D112FBDB978248C8", "target": "Pilotare il Rolling Tankard fino al Baluardo e sparare con il cannone ai manichini bersaglio" },
-    { "gameKey": "quest/039/BanDwa128_03929#TEXT_BANDWA128_03929_TODO_02", "hash": "130F4307CE3F2D3E", "target": "Fare rapporto a Regitt" },
+    { "gameKey": "quest/039/BanDwa128_03929#TEXT_BANDWA128_03929_TODO_00", "hash": "CF10756BF5713EE5", "target": "Parla con Wamutt" },
+    { "gameKey": "quest/039/BanDwa128_03929#TEXT_BANDWA128_03929_TODO_01", "hash": "D112FBDB978248C8", "target": "Pilota il Rolling Tankard fino al Baluardo e spara con il cannone ai manichini bersaglio" },
+    { "gameKey": "quest/039/BanDwa128_03929#TEXT_BANDWA128_03929_TODO_02", "hash": "130F4307CE3F2D3E", "target": "Fai rapporto a Regitt" },
     { "gameKey": "quest/039/BanDwa128_03929#TEXT_BANDWA128_03929_REGITT_000_000", "hash": "CBF15AD78001495A", "target": "Io, ehm, so che il preavviso è breve, ma... hai tempo di aiutarci con una prova prolungata?" },
     { "gameKey": "quest/039/BanDwa128_03929#TEXT_BANDWA128_03929_REGITT_000_001", "hash": "B941B8C0D509D5C3", "target": "Il tizio addestrato a comandare il carro è, ehm, «indisposto» e nessun altro vuole o può prendere il volante. Per così dire." },
     { "gameKey": "quest/039/BanDwa128_03929#TEXT_BANDWA128_03929_REGITT_000_002", "hash": "96CEC4DD70CCD348", "target": "Parla con Wamutt, ti darà i dettagli. Ci resti solo tu, <split(<string(gstr1)>, ,1)>!" },

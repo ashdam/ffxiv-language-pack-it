@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/045/BanArk110_04560#TEXT_BANARK110_04560_SEQ_00", "hash": "A89982A08A96D729", "target": "Maru spera che tu sia d'accordo a procurare anemoni.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
-    { "gameKey": "quest/045/BanArk110_04560#TEXT_BANARK110_04560_TODO_00", "hash": "DB88366937D5A009", "target": "Procurarsi gli anemoni scarlatti" },
-    { "gameKey": "quest/045/BanArk110_04560#TEXT_BANARK110_04560_TODO_01", "hash": "CAECB6DEB1824B10", "target": "Consegnare gli anemoni scarlatti a Maru" },
+    { "gameKey": "quest/045/BanArk110_04560#TEXT_BANARK110_04560_TODO_00", "hash": "DB88366937D5A009", "target": "Procurati gli anemoni scarlatti" },
+    { "gameKey": "quest/045/BanArk110_04560#TEXT_BANARK110_04560_TODO_01", "hash": "CAECB6DEB1824B10", "target": "Consegna gli anemoni scarlatti a Maru" },
     { "gameKey": "quest/045/BanArk110_04560#TEXT_BANARK110_04560_MARU_000_000", "hash": "FBCCA5ED875EDFCA", "target": "<split(<string(gstr1)>, ,1)>, ti andrebbe di andare a staccarmi qualche anemone scarlatto? C'è una ricetta che voglio provare..." },
     { "gameKey": "quest/045/BanArk110_04560#TEXT_BANARK110_04560_MARU_000_001", "hash": "A8184334FD5730AE", "target": "Cerca poco al largo della costa dell'Accoglienza del Vento Salino. Se potessi prenderne un paio che crescono vicino alla superficie dell'acqua, ti sarei molto grato." },
     { "gameKey": "quest/045/BanArk110_04560#TEXT_BANARK110_04560_MARU_000_010", "hash": "EF347DA21B9BEADA", "target": "Hai trovato quegli anemoni scarlatti?" },

@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/027/StmBdz307_02703#TEXT_STMBDZ307_02703_SEQ_00", "hash": "CE47B8BBDD9FE2F9", "target": "Sayo ti guarda con grandi occhi colmi di speranza." },
-    { "gameKey": "quest/027/StmBdz307_02703#TEXT_STMBDZ307_02703_TODO_00", "hash": "FE7FB49C507FBC19", "target": "Parlare con Tosetsu" },
-    { "gameKey": "quest/027/StmBdz307_02703#TEXT_STMBDZ307_02703_TODO_01", "hash": "520A3A02DEBB0E38", "target": "Raccogliere tre red coral nei dintorni di Shisui Acquaviola" },
-    { "gameKey": "quest/027/StmBdz307_02703#TEXT_STMBDZ307_02703_TODO_02", "hash": "A61AA79EB754B128", "target": "Consegnare i tre red coral a Sayo" },
+    { "gameKey": "quest/027/StmBdz307_02703#TEXT_STMBDZ307_02703_TODO_00", "hash": "FE7FB49C507FBC19", "target": "Parla con Tosetsu" },
+    { "gameKey": "quest/027/StmBdz307_02703#TEXT_STMBDZ307_02703_TODO_01", "hash": "520A3A02DEBB0E38", "target": "Raccogli tre red coral nei dintorni di Shisui Acquaviola" },
+    { "gameKey": "quest/027/StmBdz307_02703#TEXT_STMBDZ307_02703_TODO_02", "hash": "A61AA79EB754B128", "target": "Consegna i tre red coral a Sayo" },
     { "gameKey": "quest/027/StmBdz307_02703#TEXT_STMBDZ307_02703_SAYO_000_000", "hash": "F10E15E8019EA73A", "target": "Ehm, <if(gnum4,signorina,signore)>? <if(gnum4,Signorina,Signore)>? Sei <if(gnum4,adulta,adulto)>, vero? La mamma dice che sono ancora troppo piccola per andare lontano da casa, ma c'è una cosa di cui ho davvero, <italic(1)>davvero<italic(0)> bisogno." },
     { "gameKey": "quest/027/StmBdz307_02703#TEXT_STMBDZ307_02703_SAYO_000_001", "hash": "5842E5CB55000704", "target": "Ultimamente la mamma non sta bene. Ho pensato che farle una forcina potesse tirarla su, ma non ho corallo." },
     { "gameKey": "quest/027/StmBdz307_02703#TEXT_STMBDZ307_02703_SAYO_000_002", "hash": "EC385A15EC8320D2", "target": "Per favore, per favore, <italic(1)>per favore<italic(0)>, mi porteresti i tre coralli più belli e più rossi che riesci a trovare?" },

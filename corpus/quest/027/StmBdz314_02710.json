@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/027/StmBdz314_02710#TEXT_STMBDZ314_02710_SEQ_00", "hash": "4831DE3DBF46513A", "target": "Takotsubo ti fa cenno di avvicinarti con noncuranza." },
-    { "gameKey": "quest/027/StmBdz314_02710#TEXT_STMBDZ314_02710_TODO_00", "hash": "844508EBE55A05B8", "target": "Cavalcare la razza striata e usare la sua abilità Double Bubble sulle withered plants" },
-    { "gameKey": "quest/027/StmBdz314_02710#TEXT_STMBDZ314_02710_TODO_01", "hash": "17D104B9969DE924", "target": "Fare rapporto a Takotsubo" },
+    { "gameKey": "quest/027/StmBdz314_02710#TEXT_STMBDZ314_02710_TODO_00", "hash": "844508EBE55A05B8", "target": "Cavalca la razza striata e usa la sua abilità Double Bubble sulle withered plants" },
+    { "gameKey": "quest/027/StmBdz314_02710#TEXT_STMBDZ314_02710_TODO_01", "hash": "17D104B9969DE924", "target": "Fai rapporto a Takotsubo" },
     { "gameKey": "quest/027/StmBdz314_02710#TEXT_STMBDZ314_02710_TAKOTSUBO_000_000", "hash": "C704C0ACFF07494A", "target": "<split(<string(gstr1)>, ,1)>, che bello che tu sia <if(gnum4,passata,passato)>. La mia razza striata sarà felicissima di rivederti. Da quando sei <if(gnum4,partita,partito)>, è molto triste." },
     { "gameKey": "quest/027/StmBdz314_02710#TEXT_STMBDZ314_02710_TAKOTSUBO_000_001", "hash": "11D5BBB947DC90D7", "target": "La porteresti a fare un'altra nuotata?" },
     { "gameKey": "quest/027/StmBdz314_02710#TEXT_STMBDZ314_02710_TAKOTSUBO_000_002", "hash": "3D11FAB15E0E04B3", "target": "Ultimamente le ho insegnato a produrre bolle con le pinne. Forse, mentre siete fuori, puoi usare questo suo nuovo trucco per aiutare a pulire la zona." },

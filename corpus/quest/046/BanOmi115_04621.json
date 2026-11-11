@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/046/BanOmi115_04621#TEXT_BANOMI115_04621_SEQ_00", "hash": "C8CBBEA10B9C0CC3", "target": "Stigma-4 ha una richiesta elettrizzante.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
-    { "gameKey": "quest/046/BanOmi115_04621#TEXT_BANOMI115_04621_TODO_00", "hash": "B9D93DDC2DF4B735", "target": "Parlare con il guardian Ea e salire sul Miw Miisv" },
-    { "gameKey": "quest/046/BanOmi115_04621#TEXT_BANOMI115_04621_TODO_01", "hash": "33243390A4D5A0F2", "target": "Usare Electric Flux per elettrizzare gli intellettuali" },
-    { "gameKey": "quest/046/BanOmi115_04621#TEXT_BANOMI115_04621_TODO_02", "hash": "069CABF4F9297162", "target": "Fare rapporto a Stigma-4" },
+    { "gameKey": "quest/046/BanOmi115_04621#TEXT_BANOMI115_04621_TODO_00", "hash": "B9D93DDC2DF4B735", "target": "Parla con il guardian Ea e sali sul Miw Miisv" },
+    { "gameKey": "quest/046/BanOmi115_04621#TEXT_BANOMI115_04621_TODO_01", "hash": "33243390A4D5A0F2", "target": "Usa Electric Flux per elettrizzare gli intellettuali" },
+    { "gameKey": "quest/046/BanOmi115_04621#TEXT_BANOMI115_04621_TODO_02", "hash": "069CABF4F9297162", "target": "Fai rapporto a Stigma-4" },
     { "gameKey": "quest/046/BanOmi115_04621#TEXT_BANOMI115_04621_STIGMA4_000_001", "hash": "34A974029E189479", "target": "Avvio del rapporto sulla situazione. L'analisi dei piccoli Miw Miisv di Elysion indica una notevole abilità nel generare stimoli elettrici." },
     { "gameKey": "quest/046/BanOmi115_04621#TEXT_BANOMI115_04621_STIGMA4_000_002", "hash": "416F263CF73A872A", "target": "La testimonianza verbale del guardian Ea indica che il contatto con tale emissione bimodale produce \"sensazioni\" distintive nel soggetto incorporeo. Si prevede che queste esperienze soggettive influiscano positivamente sulla dynamis ambientale." },
     { "gameKey": "quest/046/BanOmi115_04621#TEXT_BANOMI115_04621_STIGMA4_000_003", "hash": "2C78344FE1733658", "target": "Richiesta di assistenza alla forma di vita organica più vicina. <split(<string(gstr1)>, ,1)>, recati nella Dimora degli Ea per ricevere istruzioni sull'elettrocuzione di esseri incorporei consenzienti." },

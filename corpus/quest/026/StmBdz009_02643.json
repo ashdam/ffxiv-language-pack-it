@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/026/StmBdz009_02643#TEXT_STMBDZ009_02643_SEQ_00", "hash": "E034635079E6E6C3", "target": "La sergente della Vipera Lucinne sembra avere molto da fare." },
-    { "gameKey": "quest/026/StmBdz009_02643#TEXT_STMBDZ009_02643_TODO_00", "hash": "64392BFA2D39D11C", "target": "Ottenere campioni di terreno" },
-    { "gameKey": "quest/026/StmBdz009_02643#TEXT_STMBDZ009_02643_TODO_01", "hash": "965A4615131F4FF9", "target": "Ottenere un campione d'acqua del fiume" },
-    { "gameKey": "quest/026/StmBdz009_02643#TEXT_STMBDZ009_02643_TODO_02", "hash": "49952A2D63BBC88F", "target": "Parlare con Lucinne" },
+    { "gameKey": "quest/026/StmBdz009_02643#TEXT_STMBDZ009_02643_TODO_00", "hash": "64392BFA2D39D11C", "target": "Ottieni campioni di terreno" },
+    { "gameKey": "quest/026/StmBdz009_02643#TEXT_STMBDZ009_02643_TODO_01", "hash": "965A4615131F4FF9", "target": "Ottieni un campione d'acqua del fiume" },
+    { "gameKey": "quest/026/StmBdz009_02643#TEXT_STMBDZ009_02643_TODO_02", "hash": "49952A2D63BBC88F", "target": "Parla con Lucinne" },
     { "gameKey": "quest/026/StmBdz009_02643#TEXT_STMBDZ009_02643_LUCINNE_000_000", "hash": "D2242E0302CA9A3D", "target": "Sergente della Vipera Lucinne, al tuo servizio... O lo sarei, se non fossi tanto occupata. Mi hanno incaricata di valutare l'impatto ambientale dell'occupazione garleana di Gyr Abania." },
     { "gameKey": "quest/026/StmBdz009_02643#TEXT_STMBDZ009_02643_LUCINNE_000_001", "hash": "99427141F3EC2A1D", "target": "C'è tanto da fare, eppure ai miei superiori non è venuto in mente di assegnarmi un assistente. Ci credi?" },
     { "gameKey": "quest/026/StmBdz009_02643#TEXT_STMBDZ009_02643_LUCINNE_000_002", "hash": "13A835A9ED3FEC04", "target": "\\<sigh> Temo che non finirò mai, di questo passo. A meno che... Pensi di avere tempo per raccogliere qualche campione per me?" },

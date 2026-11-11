@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/034/LucKzf006_03465#TEXT_LUCKZF006_03465_SEQ_00", "hash": "3B7F8DCA51171BEF", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Nymet sembra preoccupata per qualcosa." },
-    { "gameKey": "quest/034/LucKzf006_03465#TEXT_LUCKZF006_03465_TODO_00", "hash": "0E7AA76AB78F4736", "target": "Recuperare un mughetto ronkano" },
-    { "gameKey": "quest/034/LucKzf006_03465#TEXT_LUCKZF006_03465_TODO_01", "hash": "99D4005D45EAA83D", "target": "Consegnare i carved wood earrings e il mughetto ronkano alla ragazza con le trecce" },
-    { "gameKey": "quest/034/LucKzf006_03465#TEXT_LUCKZF006_03465_TODO_02", "hash": "F2E73104F3424456", "target": "Consegnare l'engraven ring a Nymet" },
+    { "gameKey": "quest/034/LucKzf006_03465#TEXT_LUCKZF006_03465_TODO_00", "hash": "0E7AA76AB78F4736", "target": "Recupera un mughetto ronkano" },
+    { "gameKey": "quest/034/LucKzf006_03465#TEXT_LUCKZF006_03465_TODO_01", "hash": "99D4005D45EAA83D", "target": "Consegna i carved wood earrings e il mughetto ronkano alla ragazza con le trecce" },
+    { "gameKey": "quest/034/LucKzf006_03465#TEXT_LUCKZF006_03465_TODO_02", "hash": "F2E73104F3424456", "target": "Consegna l'engraven ring a Nymet" },
     { "gameKey": "quest/034/LucKzf006_03465#TEXT_LUCKZF006_03465_NYMET_000_000", "hash": "5D9645218C87A7F4", "target": "Salve, <if(gnum4,alleata,alleato)> di Ronka. Arrivi al momento giusto. Ho un problema che potrei risolvere con l'aiuto di una persona esterna." },
     { "gameKey": "quest/034/LucKzf006_03465#TEXT_LUCKZF006_03465_NYMET_000_001", "hash": "32050E3309EF5193", "target": "Diversi giorni fa abbiamo visto una ragazza vagare per il bosco. Abbiamo scoccato frecce d'avvertimento ed è fuggita da dove era venuta. Nella fretta, però, ha perso questi orecchini." },
     { "gameKey": "quest/034/LucKzf006_03465#TEXT_LUCKZF006_03465_NYMET_000_002", "hash": "D2AEB3B66BA7737F", "target": "Non ho cattive intenzioni verso di lei, quindi vorrei restituirglieli, ma non posso andare via. Se non è troppo disturbo, potresti portarli alla proprietaria?" },

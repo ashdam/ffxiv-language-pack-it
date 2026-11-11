@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/030/BanAna403_03052#TEXT_BANANA403_03052_SEQ_00", "hash": "4993B7E74082F004", "target": "Eshana ha bisogno di aiuto con due grifoni problematici.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
-    { "gameKey": "quest/030/BanAna403_03052#TEXT_BANANA403_03052_TODO_00", "hash": "A20DE39600ED192F", "target": "Usare /soothe sul giovane grifone grande" },
-    { "gameKey": "quest/030/BanAna403_03052#TEXT_BANANA403_03052_TODO_01", "hash": "1DE1C7773AC33193", "target": "Usare /rally sul giovane grifone piccolo" },
-    { "gameKey": "quest/030/BanAna403_03052#TEXT_BANANA403_03052_TODO_02", "hash": "445039A869EFB410", "target": "Fare rapporto a Eshana" },
+    { "gameKey": "quest/030/BanAna403_03052#TEXT_BANANA403_03052_TODO_00", "hash": "A20DE39600ED192F", "target": "Usa /soothe sul giovane grifone grande" },
+    { "gameKey": "quest/030/BanAna403_03052#TEXT_BANANA403_03052_TODO_01", "hash": "1DE1C7773AC33193", "target": "Usa /rally sul giovane grifone piccolo" },
+    { "gameKey": "quest/030/BanAna403_03052#TEXT_BANANA403_03052_TODO_02", "hash": "445039A869EFB410", "target": "Fai rapporto a Eshana" },
     { "gameKey": "quest/030/BanAna403_03052#TEXT_BANANA403_03052_ESHANA_000_000", "hash": "163B7341853090ED", "target": "Abbiamo una richiessta dagli addestratori di grifoni, sss. Giff mi dice che due giovani fratelli hanno litigato durante l'addestramento e sono volati via tra un turbinio di artigli e piume." },
     { "gameKey": "quest/030/BanAna403_03052#TEXT_BANANA403_03052_ESHANA_000_001", "hash": "004106BE4B548376", "target": "Queste creature alate sono orgogliose, facili da irritare e difficili da addomesssticare. Ma voi sembrate saperci fare." },
     { "gameKey": "quest/030/BanAna403_03052#TEXT_BANANA403_03052_ESHANA_000_002", "hash": "8DB2A5D0552DDD41", "target": "Se volete aiutarci, sono stati visti l'ultima volta diretti a nord. Il grifone più piccolo ha deviato un po' a ovest dopo un ultimo colpo del fratello maggiore, che ha virato a essst." },

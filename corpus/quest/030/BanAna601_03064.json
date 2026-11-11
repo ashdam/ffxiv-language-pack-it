@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/030/BanAna601_03064#TEXT_BANANA601_03064_SEQ_00", "hash": "6883A795749704A4", "target": "Un problema grava sulla mente di Eshana.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
-    { "gameKey": "quest/030/BanAna601_03064#TEXT_BANANA601_03064_TODO_00", "hash": "AD1A849BFCE3B6C0", "target": "Procurarsi la menta di pesce ai Confini Orientali" },
-    { "gameKey": "quest/030/BanAna601_03064#TEXT_BANANA601_03064_TODO_01", "hash": "3CB4571A5178920F", "target": "Consegnare la menta di pesce a Jagranti" },
-    { "gameKey": "quest/030/BanAna601_03064#TEXT_BANANA601_03064_TODO_02", "hash": "45BA504E836549A7", "target": "Consegnare il vasetto di unguento alla menta di pesce a Eshana" },
+    { "gameKey": "quest/030/BanAna601_03064#TEXT_BANANA601_03064_TODO_00", "hash": "AD1A849BFCE3B6C0", "target": "Procurati la menta di pesce ai Confini Orientali" },
+    { "gameKey": "quest/030/BanAna601_03064#TEXT_BANANA601_03064_TODO_01", "hash": "3CB4571A5178920F", "target": "Consegna la menta di pesce a Jagranti" },
+    { "gameKey": "quest/030/BanAna601_03064#TEXT_BANANA601_03064_TODO_02", "hash": "45BA504E836549A7", "target": "Consegna il vasetto di unguento alla menta di pesce a Eshana" },
     { "gameKey": "quest/030/BanAna601_03064#TEXT_BANANA601_03064_ESHANA_000_000", "hash": "CEC9DD4C9DCEFC52", "target": "<split(<string(gstr1)>, ,1)>. Ho bisogno del vostro aiuto per preparare ssscorte vitali per me e le mie sorelle." },
     { "gameKey": "quest/030/BanAna601_03064#TEXT_BANANA601_03064_ESHANA_000_001", "hash": "DF433DDA66351F70", "target": "Come sapete, noi Ananta siamo molto fiere dell'aspetto della nostra pelle e dello sssplendore delle nostre squame. Ci serve un unguento speciale per le code, soggette a cicatrici per le incesssanti pattuglie della zona." },
     { "gameKey": "quest/030/BanAna601_03064#TEXT_BANANA601_03064_ESHANA_000_002", "hash": "4BBD07ED36A283AC", "target": "Prima di distribuirlo alle mie sssorelle, però, dobbiamo preparare gli ingredienti per farne altro. Ci vuole molto tempo a produrlo, e non vorrei trovare vuote le nostre scorte quando servirà di nuovo una cura." },

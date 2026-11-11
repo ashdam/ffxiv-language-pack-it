@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/052/BanMam110_05270#TEXT_BANMAM110_05270_SEQ_00", "hash": "1DB0E7E342A2C74F", "target": "Kageel Ja vorrebbe farti distribuire qualcosa agli abitanti di Mamook.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
-    { "gameKey": "quest/052/BanMam110_05270#TEXT_BANMAM110_05270_TODO_00", "hash": "454EE55CCB4B67E4", "target": "Distribuire impacchi alle erbe a Mamook" },
-    { "gameKey": "quest/052/BanMam110_05270#TEXT_BANMAM110_05270_TODO_01", "hash": "62F59249DBEDB463", "target": "Parlare con Kageel Ja" },
+    { "gameKey": "quest/052/BanMam110_05270#TEXT_BANMAM110_05270_TODO_00", "hash": "454EE55CCB4B67E4", "target": "Distribuisci impacchi alle erbe a Mamook" },
+    { "gameKey": "quest/052/BanMam110_05270#TEXT_BANMAM110_05270_TODO_01", "hash": "62F59249DBEDB463", "target": "Parla con Kageel Ja" },
     { "gameKey": "quest/052/BanMam110_05270#TEXT_BANMAM110_05270_KAGEELJA_000_001", "hash": "358CE2B5E85F6EDA", "target": "Ti interesserebbe un impacco alle erbe per lenire i dolori?" },
     { "gameKey": "quest/052/BanMam110_05270#TEXT_BANMAM110_05270_KAGEELJA_000_002", "hash": "977942638BF65B80", "target": "Credo che una simile offerta farebbe piacere ai nostri contadini, impegnati ogni giorno nella fattoria. Ho chiesto ad Anggir di prepararli apposta." },
     { "gameKey": "quest/052/BanMam110_05270#TEXT_BANMAM110_05270_KAGEELJA_000_003", "hash": "1DC49EFACD5685D6", "target": "E così ha fatto, anzi, ne ha preparati più che abbastanza per tutti a Gok Golma!" },

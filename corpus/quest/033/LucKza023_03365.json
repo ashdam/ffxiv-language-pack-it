@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/033/LucKza023_03365#TEXT_LUCKZA023_03365_SEQ_00", "hash": "ECC2A89BEA062A0B", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Un Mord piuttosto timoroso non sa più cosa fare e potrebbe gradire una mano." },
-    { "gameKey": "quest/033/LucKza023_03365#TEXT_LUCKZA023_03365_TODO_00", "hash": "E46071FCA43FE386", "target": "Sconfiggere le bestie selvatiche alla Spina Dorsale di Samiel" },
-    { "gameKey": "quest/033/LucKza023_03365#TEXT_LUCKZA023_03365_TODO_01", "hash": "BDA9BE357C64E3D3", "target": "Aiutare il Mord" },
-    { "gameKey": "quest/033/LucKza023_03365#TEXT_LUCKZA023_03365_TODO_02", "hash": "6140EB8B23D99E96", "target": "Fare rapporto al Mord timoroso" },
+    { "gameKey": "quest/033/LucKza023_03365#TEXT_LUCKZA023_03365_TODO_00", "hash": "E46071FCA43FE386", "target": "Sconfiggi le bestie selvatiche alla Spina Dorsale di Samiel" },
+    { "gameKey": "quest/033/LucKza023_03365#TEXT_LUCKZA023_03365_TODO_01", "hash": "BDA9BE357C64E3D3", "target": "Aiuta il Mord" },
+    { "gameKey": "quest/033/LucKza023_03365#TEXT_LUCKZA023_03365_TODO_02", "hash": "6140EB8B23D99E96", "target": "Fai rapporto al Mord timoroso" },
     { "gameKey": "quest/033/LucKza023_03365#TEXT_LUCKZA023_03365_MORDPANIC03365_000_000", "hash": "4B27C92D183244D2", "target": "Tu, laggiù! <if(gnum4,Viaggiatrice gentile e forte,Viaggiatore gentile e forte)>! I piccoli sono in pericolo!" },
     { "gameKey": "quest/033/LucKza023_03365#TEXT_LUCKZA023_03365_MORDPANIC03365_000_001", "hash": "EAB6946A43408AF2", "target": "Creature grosse e spaventose! E sembravano anche affamate!" },
     { "gameKey": "quest/033/LucKza023_03365#TEXT_LUCKZA023_03365_MORDPANIC03365_000_002", "hash": "58F0ADE143F3D043", "target": "Ti prego, corri alla Spina Dorsale di Samiel, a est di qui! Presto, non c'è tempo!" },

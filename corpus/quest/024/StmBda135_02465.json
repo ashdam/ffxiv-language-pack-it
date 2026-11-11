@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/024/StmBda135_02465#TEXT_STMBDA135_02465_SEQ_00", "hash": "51C6D7AA99ED4F8C", "target": "La Presa di Rhalgr non è più al sicuro, come Pipin ben sa." },
-    { "gameKey": "quest/024/StmBda135_02465#TEXT_STMBDA135_02465_TODO_00", "hash": "D39D9D207E321CF7", "target": "Parlare con Orella" },
-    { "gameKey": "quest/024/StmBda135_02465#TEXT_STMBDA135_02465_TODO_01", "hash": "EEA659DDAC634BB3", "target": "Cercare scorte mediche nell'infermeria" },
-    { "gameKey": "quest/024/StmBda135_02465#TEXT_STMBDA135_02465_TODO_02", "hash": "39C790B5FCA1B4DB", "target": "Consegnare le scorte mediche al corriere delle Fiamme" },
+    { "gameKey": "quest/024/StmBda135_02465#TEXT_STMBDA135_02465_TODO_00", "hash": "D39D9D207E321CF7", "target": "Parla con Orella" },
+    { "gameKey": "quest/024/StmBda135_02465#TEXT_STMBDA135_02465_TODO_01", "hash": "EEA659DDAC634BB3", "target": "Cerca scorte mediche nell'infermeria" },
+    { "gameKey": "quest/024/StmBda135_02465#TEXT_STMBDA135_02465_TODO_02", "hash": "39C790B5FCA1B4DB", "target": "Consegna le scorte mediche al corriere delle Fiamme" },
     { "gameKey": "quest/024/StmBda135_02465#TEXT_STMBDA135_02465_CONRAD_000_010", "hash": "FB849CA2414E3F73", "target": "Mi riprenderò. Le mie ferite non sono gravi─ma è chiaro che è stata una scelta, non un caso. Volevano prendermi vivo." },
     { "gameKey": "quest/024/StmBda135_02465#TEXT_STMBDA135_02465_KRILE_000_015", "hash": "F1082CE3882D1BE9", "target": "Sei in pensiero per Y'shtola, vero? \\<sigh> È troppo presto per fare una prognosi, ma... è viva. Per ora." },
     { "gameKey": "quest/024/StmBda135_02465#TEXT_STMBDA135_02465_LYSE_000_020", "hash": "997D9A54C3160400", "target": "Se non fosse stato per lei, ora sarei io distesa lì...<br><italic(1)>...Vorrei che fosse così.<italic(0)>" },

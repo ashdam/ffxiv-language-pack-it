@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/042/AktKzc010_04219#TEXT_AKTKZC010_04219_SEQ_00", "hash": "75C1AFDFC5BA0582", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Tenere sotto controllo le proprie provviste non sembra essere il punto forte del contingente di Ilsabard." },
-    { "gameKey": "quest/042/AktKzc010_04219#TEXT_AKTKZC010_04219_TODO_00", "hash": "566670973ADED6DF", "target": "Parlare con i soldati" },
-    { "gameKey": "quest/042/AktKzc010_04219#TEXT_AKTKZC010_04219_TODO_01", "hash": "4F4BC2A131E95F75", "target": "Fare rapporto all'intendente del contingente" },
+    { "gameKey": "quest/042/AktKzc010_04219#TEXT_AKTKZC010_04219_TODO_00", "hash": "566670973ADED6DF", "target": "Parla con i soldati" },
+    { "gameKey": "quest/042/AktKzc010_04219#TEXT_AKTKZC010_04219_TODO_01", "hash": "4F4BC2A131E95F75", "target": "Fai rapporto all'intendente del contingente" },
     { "gameKey": "quest/042/AktKzc010_04219#TEXT_AKTKZC010_04219_OFFICER04219_000_000", "hash": "9774F16431E7CA93", "target": "Ho un compito importante da svolgere, e con ciò intendo «far svolgere a qualcun altro»." },
     { "gameKey": "quest/042/AktKzc010_04219#TEXT_AKTKZC010_04219_OFFICER04219_000_001", "hash": "FC681D4E6F6B4CFF", "target": "Mi hanno affibbiato l'ingrato incarico di tenere l'inventario delle provviste portate da ogni delegazione. Benché armi e scorte di base siano state registrate, non posso dire lo stesso di ciò che si potrebbe considerare... piccole comodità." },
     { "gameKey": "quest/042/AktKzc010_04219#TEXT_AKTKZC010_04219_OFFICER04219_000_002", "hash": "95D76C03F2167ED5", "target": "Vedi, persino le cose più frivole possono fare un'enorme differenza qui nelle distese gelate, quindi sto cercando di compilare un elenco dei beni di lusso a nostra disposizione. Dato che sei in buoni rapporti con quasi tutti qui, migliori dei miei, almeno, forse potresti aiutarmi?" },

@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/050/KinGza002_05018#TEXT_KINGZA002_05018_SEQ_00", "hash": "FE103EC7DA313042", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Huvool Ja ha bisogno che tu rintracci il suo apprendista svagato." },
-    { "gameKey": "quest/050/KinGza002_05018#TEXT_KINGZA002_05018_TODO_00", "hash": "B65F4683F975FF66", "target": "Parlare con il rigattiere" },
-    { "gameKey": "quest/050/KinGza002_05018#TEXT_KINGZA002_05018_TODO_01", "hash": "C7750710DECCC854", "target": "Consegnare i componenti metallici del dirigibile all'apprendista meccanico" },
-    { "gameKey": "quest/050/KinGza002_05018#TEXT_KINGZA002_05018_TODO_02", "hash": "037FD4BCA197B731", "target": "Parlare con Huvool Ja" },
+    { "gameKey": "quest/050/KinGza002_05018#TEXT_KINGZA002_05018_TODO_00", "hash": "B65F4683F975FF66", "target": "Parla con il rigattiere" },
+    { "gameKey": "quest/050/KinGza002_05018#TEXT_KINGZA002_05018_TODO_01", "hash": "C7750710DECCC854", "target": "Consegna i componenti metallici del dirigibile all'apprendista meccanico" },
+    { "gameKey": "quest/050/KinGza002_05018#TEXT_KINGZA002_05018_TODO_02", "hash": "037FD4BCA197B731", "target": "Parla con Huvool Ja" },
     { "gameKey": "quest/050/KinGza002_05018#TEXT_KINGZA002_05018_HUVOOLJA_000_001", "hash": "69CD1910F75CBA7B", "target": "Ehi, tu! Non hai da fare, vero? Prima ci hanno avvisati dell'arrivo di una spedizione di componenti, così ho mandato il mio apprendista a prenderli, ma non è ancora tornato." },
     { "gameKey": "quest/050/KinGza002_05018#TEXT_KINGZA002_05018_HUVOOLJA_000_002", "hash": "3701CA09B46B33AB", "target": "Potrei chiederti di andare dal rigattiere al Borgo della Baia e domandare se è passato un giovane Hhetsarro? Qui sono nel bel mezzo di un lavoro." },
     { "gameKey": "quest/050/KinGza002_05018#TEXT_KINGZA002_05018_HUVOOLJA_000_003", "hash": "395C2A0CEC26648F", "target": "Andrei io stesso a parlare con il rigattiere, ma ho le mani occupate. Ti darò anche qualcosa per ripagarti del tempo." },

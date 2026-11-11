@@ -16,8 +16,8 @@
     { "gameKey": "custom/003/HouFurPlantPot_00331#TEXT_HOUFURPLANTPOT_00331_ASK_DISPOSE", "hash": "3C483309579D4186", "target": "Vuoi davvero rimuovere questa coltura?" },
     { "gameKey": "custom/003/HouFurPlantPot_00331#TEXT_HOUFURPLANTPOT_00331_ASK_DISPOSE_YES", "hash": "868CB0B9B078B4E0", "target": "Sì" },
     { "gameKey": "custom/003/HouFurPlantPot_00331#TEXT_HOUFURPLANTPOT_00331_ASK_DISPOSE_NO", "hash": "E8FBADBEDFE6CF31", "target": "No" },
-    { "gameKey": "custom/003/HouFurPlantPot_00331#TEXT_HOUFURPLANTPOT_00331_TALK_FLOWER_VIGOROUS", "hash": "D3FC91CF2072B613", "target": "Hanno attecchito <lower(<sheet(Item,lnum1,9)>)> e la coltura cresce bene." },
-    { "gameKey": "custom/003/HouFurPlantPot_00331#TEXT_HOUFURPLANTPOT_00331_TALK_FLOWER_DEPRESSED", "hash": "3C393151C2B541D5", "target": "Hanno attecchito <lower(<sheet(Item,lnum1,9)>)>, ma la coltura ha visto giorni migliori..." },
+    { "gameKey": "custom/003/HouFurPlantPot_00331#TEXT_HOUFURPLANTPOT_00331_TALK_FLOWER_VIGOROUS", "hash": "D3FC91CF2072B613", "target": "La coltivazione di <lower(<sheet(Item,lnum1,9)>)> ha attecchito e cresce bene." },
+    { "gameKey": "custom/003/HouFurPlantPot_00331#TEXT_HOUFURPLANTPOT_00331_TALK_FLOWER_DEPRESSED", "hash": "3C393151C2B541D5", "target": "La coltivazione di <lower(<sheet(Item,lnum1,9)>)> ha attecchito, ma ha visto giorni migliori..." },
     { "gameKey": "custom/003/HouFurPlantPot_00331#TEXT_HOUFURPLANTPOT_00331_FLOWER_PREDICT", "hash": "4908E77CD52EE83F", "target": "Forse produrrà <switch(lnum1,fiori rossi,fiori blu,fiori gialli,fiori verdi,fiori arancioni,fiori viola,fiori\\, ma chissà di quale colore)>..." },
     { "gameKey": "custom/003/HouFurPlantPot_00331#TEXT_HOUFURPLANTPOT_00331_FLOWER_PREDICT_UNKNOWN", "hash": "2C4BDAB55F802982", "target": "Forse produrrà fiori <switch(lnum1,rossi,blu,gialli,verdi,arancioni,viola)>, o magari fiori di una tonalità più insolita..." },
     { "gameKey": "custom/003/HouFurPlantPot_00331#TEXT_HOUFURPLANTPOT_00331_FLOWERED", "hash": "FF37AEC8A445BAAD", "target": "<sheet(Item,lnum1,9)><br>Questi fiori sono sbocciati." }

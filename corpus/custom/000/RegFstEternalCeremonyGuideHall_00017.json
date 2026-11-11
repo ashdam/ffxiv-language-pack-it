@@ -2,7 +2,7 @@
   "conversation": "custom/000/RegFstEternalCeremonyGuideHall_00017",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/000/RegFstEternalCeremonyGuideHall_00017#TEXT_REGFSTETERNALCEREMONYGUIDEHALL_00017_HALL00017_000_000", "hash": "71898665224B7DEE", "target": "Salve, <if(gnum4,signora,signore)>, e benvenuti alla Cerimonia del Legame Eterno di oggi. Ho l'onore di assistere i nostri ospiti. Desiderate sapere qualcosa?" },
+    { "gameKey": "custom/000/RegFstEternalCeremonyGuideHall_00017#TEXT_REGFSTETERNALCEREMONYGUIDEHALL_00017_HALL00017_000_000", "hash": "71898665224B7DEE", "target": "Salve, <if(gnum4,signora,signore)>, e <if(gnum4,benvenuta,benvenuto)> alla Cerimonia del Legame Eterno di oggi. Ho l'onore di assistere i nostri ospiti. Desiderate sapere qualcosa?" },
     { "gameKey": "custom/000/RegFstEternalCeremonyGuideHall_00017#TEXT_REGFSTETERNALCEREMONYGUIDEHALL_00017_Q1_000_020", "hash": "99CD58FFB69A94CD", "target": "Su cosa desideri informarti?" },
     { "gameKey": "custom/000/RegFstEternalCeremonyGuideHall_00017#TEXT_REGFSTETERNALCEREMONYGUIDEHALL_00017_A1_000_020", "hash": "FB7B85BD28F70BA5", "target": "Il programma della cerimonia." },
     { "gameKey": "custom/000/RegFstEternalCeremonyGuideHall_00017#TEXT_REGFSTETERNALCEREMONYGUIDEHALL_00017_A1_000_021", "hash": "AD5F8712C6D7F3DD", "target": "Uscire dalla sede e rientrarvi." },

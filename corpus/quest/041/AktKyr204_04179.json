@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/041/AktKyr204_04179#TEXT_AKTKYR204_04179_SEQ_00", "hash": "2B770DDEB44FCEDE", "target": "Northota è profondamente colpita dalla tua capacità di essere sempre all'altezza della situazione." },
-    { "gameKey": "quest/041/AktKyr204_04179#TEXT_AKTKYR204_04179_TODO_00", "hash": "ED5C09A2BFE2A4DF", "target": "Parlare con J'lakshai" },
+    { "gameKey": "quest/041/AktKyr204_04179#TEXT_AKTKYR204_04179_TODO_00", "hash": "ED5C09A2BFE2A4DF", "target": "Parla con J'lakshai" },
     { "gameKey": "quest/041/AktKyr204_04179#TEXT_AKTKYR204_04179_NORTHOTA_000_001", "hash": "94602AF797E91C1D", "target": "Pensare che voi, <split(<string(gstr1)>, ,1)>, avete viaggiato fino ai confini della creazione, per affrontare Thaliak sa cosa, eppure cercate ancora le stranezze dei nostri avvisi di caccia. <italic(1)>Siete<italic(0)> davvero <if(gnum4,unica,unico)> nel vostro genere!" },
     { "gameKey": "quest/041/AktKyr204_04179#TEXT_AKTKYR204_04179_NORTHOTA_000_002", "hash": "AE9807E6A965E4E2", "target": "Alcuni vi definirebbero <if(gnum4,«coraggiosa»,«coraggioso»)>, altri <if(gnum4,«avventata»,«avventato»)>... ma <italic(1)>io<italic(0)> credo che facciate semplicemente ciò che va fatto." },
     { "gameKey": "quest/041/AktKyr204_04179#TEXT_AKTKYR204_04179_NORTHOTA_000_003", "hash": "0752BCFC9FF328CB", "target": "Comunque sia, abbiamo senz'altro qualche caccia che richiede un eroismo sprezzante del pericolo, e potete accettarla quando volete. Francamente, non so come mai non abbia pensato di proporvela prima." },

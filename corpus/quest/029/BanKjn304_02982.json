@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/029/BanKjn304_02982#TEXT_BANKJN304_02982_SEQ_00", "hash": "EF8A0DDC6AA21D66", "target": "Una razza felice è una razza produttiva, come Zukin sa bene.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
-    { "gameKey": "quest/029/BanKjn304_02982#TEXT_BANKJN304_02982_TODO_00", "hash": "62FBA199001FA7D3", "target": "Parlare con Makura" },
-    { "gameKey": "quest/029/BanKjn304_02982#TEXT_BANKJN304_02982_TODO_01", "hash": "FF53A3488DC97092", "target": "Nutrire la striped ray presso gli sciami di krill usando l'abilità Inhale" },
-    { "gameKey": "quest/029/BanKjn304_02982#TEXT_BANKJN304_02982_TODO_02", "hash": "E756BA31310487E4", "target": "Riferire a Zukin" },
+    { "gameKey": "quest/029/BanKjn304_02982#TEXT_BANKJN304_02982_TODO_00", "hash": "62FBA199001FA7D3", "target": "Parla con Makura" },
+    { "gameKey": "quest/029/BanKjn304_02982#TEXT_BANKJN304_02982_TODO_01", "hash": "FF53A3488DC97092", "target": "Nutri la striped ray presso gli sciami di krill usando l'abilità Inhale" },
+    { "gameKey": "quest/029/BanKjn304_02982#TEXT_BANKJN304_02982_TODO_02", "hash": "E756BA31310487E4", "target": "Riferisci a Zukin" },
     { "gameKey": "quest/029/BanKjn304_02982#TEXT_BANKJN304_02982_ZUKIN_000_000", "hash": "80A454D7F7DF947F", "target": "Ti va una nuotatina, <split(<string(gstr1)>, ,1)>? Se hai un momento, Makura avrebbe bisogno d'aiuto con le razze. Loro si prendono cura di noi, quindi noi dobbiamo prenderci cura di loro." },
     { "gameKey": "quest/029/BanKjn304_02982#TEXT_BANKJN304_02982_MAKURA_000_010", "hash": "A0D78FC70D2FA2CA", "target": "Ah, <split(<string(gstr1)>, ,1)>, ti aspettavo. Dovresti portare una delle nostre razze a fare una bella scorpacciata, come ricompensa per tutte le sue fatiche." },
     { "gameKey": "quest/029/BanKjn304_02982#TEXT_BANKJN304_02982_MAKURA_000_011", "hash": "4122C5A8056CB3DA", "target": "Ora, poche cose le piacciono più del krill, e ne troverai degli sciami qui vicino. Ti prego di lasciarla mangiare finché sarà sazia." },

@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/034/LucKze007_03441#TEXT_LUCKZE007_03441_SEQ_00", "hash": "31C21814DDFBFCC5", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Maril sembra aspettare qualcuno." },
-    { "gameKey": "quest/034/LucKze007_03441#TEXT_LUCKZE007_03441_TODO_00", "hash": "7A4578DF288E14C2", "target": "Con la chat in modalità <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, scrivere “tuktu” per rassicurare il cacciatore temprato che non hai intenzioni ostili" },
-    { "gameKey": "quest/034/LucKze007_03441#TEXT_LUCKZE007_03441_TODO_01", "hash": "3CBDE26E34D98B5E", "target": "Con la chat in modalità <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, scrivere “tuktu” per rassicurare il cacciatore sventurato che non hai intenzioni ostili" },
-    { "gameKey": "quest/034/LucKze007_03441#TEXT_LUCKZE007_03441_TODO_02", "hash": "9E69FC3EE7F0606C", "target": "Fare rapporto a Maril" },
+    { "gameKey": "quest/034/LucKze007_03441#TEXT_LUCKZE007_03441_TODO_00", "hash": "7A4578DF288E14C2", "target": "Con la chat in modalità <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, scrivi “tuktu” per rassicurare il cacciatore temprato che non hai intenzioni ostili" },
+    { "gameKey": "quest/034/LucKze007_03441#TEXT_LUCKZE007_03441_TODO_01", "hash": "3CBDE26E34D98B5E", "target": "Con la chat in modalità <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, scrivi “tuktu” per rassicurare il cacciatore sventurato che non hai intenzioni ostili" },
+    { "gameKey": "quest/034/LucKze007_03441#TEXT_LUCKZE007_03441_TODO_02", "hash": "9E69FC3EE7F0606C", "target": "Fai rapporto a Maril" },
     { "gameKey": "quest/034/LucKze007_03441#TEXT_LUCKZE007_03441_MARIL_000_001", "hash": "C1852D0AD1135105", "target": "Un momento, per favore. Sono appena tornato dalla pattuglia, ma temo sia successo qualcosa ai miei compagni. Avrebbero dovuto arrivare con me, se non prima." },
     { "gameKey": "quest/034/LucKze007_03441#TEXT_LUCKZE007_03441_MARIL_000_002", "hash": "24E411A61009EC9F", "target": "Doveva essere un semplice giro del perimetro, eliminando i raptor incontrati lungo la strada." },
     { "gameKey": "quest/034/LucKze007_03441#TEXT_LUCKZE007_03441_MARIL_000_003", "hash": "799EC1673235AC4B", "target": "Vorresti cercarli? Se tornano prima di te, io sarò qui ad accoglierli." },

@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/054/KinGmj107_05432#TEXT_KINGMJ107_05432_SEQ_00", "hash": "BE0EFB0535A59D79", "target": "Krile si interroga sul motivo del ritardo dei vostri alleati." },
-    { "gameKey": "quest/054/KinGmj107_05432#TEXT_KINGMJ107_05432_TODO_00", "hash": "4EBE6D2EB278C6E5", "target": "Attendere al punto d'incontro" },
-    { "gameKey": "quest/054/KinGmj107_05432#TEXT_KINGMJ107_05432_TODO_01", "hash": "FE223019E1D54231", "target": "Parlare con Krile" },
-    { "gameKey": "quest/054/KinGmj107_05432#TEXT_KINGMJ107_05432_TODO_02", "hash": "35CA8E1537B9D294", "target": "Parlare con Lumull" },
+    { "gameKey": "quest/054/KinGmj107_05432#TEXT_KINGMJ107_05432_TODO_00", "hash": "4EBE6D2EB278C6E5", "target": "Attendi al punto d'incontro" },
+    { "gameKey": "quest/054/KinGmj107_05432#TEXT_KINGMJ107_05432_TODO_01", "hash": "FE223019E1D54231", "target": "Parla con Krile" },
+    { "gameKey": "quest/054/KinGmj107_05432#TEXT_KINGMJ107_05432_TODO_02", "hash": "35CA8E1537B9D294", "target": "Parla con Lumull" },
     { "gameKey": "quest/054/KinGmj107_05432#TEXT_KINGMJ107_05432_EYANEY_000_001", "hash": "6F38DAD4D9F53CE2", "target": "La nonna ci raccontava sempre storie sulla patria dei Milalla, ma la parte che mi affascinava di più era quella in cui l'oceano gelava. Il mare aperto, così vasto, trasformato in ghiaccio? Incredibile!" },
     { "gameKey": "quest/054/KinGmj107_05432#TEXT_KINGMJ107_05432_KRILE_000_011", "hash": "73DD36FA1C42C8C7", "target": "Prima hai detto che tuo fratello non poteva cacciarsi in guai <italic(1)>troppo<italic(0)> grossi con Raha, ma quanto grossi, esattamente? Dovrebbero essere già tornati..." },
     { "gameKey": "quest/054/KinGmj107_05432#TEXT_KINGMJ107_05432_KRILE_000_012", "hash": "9B7DFF9975038B7A", "target": "...In compenso, non mi aspettavo di rivedervi così presto! Immagino che la curiosità di Miayli sia stata soddisfatta?" },

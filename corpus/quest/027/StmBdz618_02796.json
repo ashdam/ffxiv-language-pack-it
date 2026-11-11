@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_SEQ_00", "hash": "8EB1915E0DA195DE", "target": "Bujir sapeva che saresti <if(gnum4,arrivata,arrivato)>." },
-    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_TODO_00", "hash": "C82BC19887878783", "target": "Esaminare le Grotte degli Uyagir e abbattere tutti i nemici che compaiono" },
-    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_TODO_01", "hash": "66058EADA539F95E", "target": "Fare rapporto a Bujir" },
+    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_TODO_00", "hash": "C82BC19887878783", "target": "Esamina le Grotte degli Uyagir e sconfiggi tutti i nemici che compaiono" },
+    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_TODO_01", "hash": "66058EADA539F95E", "target": "Fai rapporto a Bujir" },
     { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_000", "hash": "055C7CAAF2E04933", "target": "<if(gnum4,Benvenuta,Benvenuto)>, <if(gnum4,avventuriera,avventuriero)>. Ibakha mi ha detto che sareste <if(gnum4,venuta,venuto)>." },
     { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_001", "hash": "426321B705AB3BBC", "target": "Vede gli eventi molto prima che accadano." },
     { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_002", "hash": "EEA18608613FBA4F", "target": "Tuttavia, non ha visto soltanto voi. No, ha previsto anche una grande minaccia." },

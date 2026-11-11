@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/050/KinGzc008_05067#TEXT_KINGZC008_05067_SEQ_00", "hash": "20A59B98C3909160", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Gonuhanu si agita nervosamente." },
-    { "gameKey": "quest/050/KinGzc008_05067#TEXT_KINGZC008_05067_TODO_00", "hash": "C3337813A0E34BB5", "target": "Parlare con l'Hanu distratto e uccidere le bestie che compaiono" },
-    { "gameKey": "quest/050/KinGzc008_05067#TEXT_KINGZC008_05067_TODO_01", "hash": "E5F3D26A8ACE6E61", "target": "Parlare di nuovo con l'Hanu distratto" },
-    { "gameKey": "quest/050/KinGzc008_05067#TEXT_KINGZC008_05067_TODO_02", "hash": "2D104A4B487D190B", "target": "Fare rapporto a Gonuhanu" },
+    { "gameKey": "quest/050/KinGzc008_05067#TEXT_KINGZC008_05067_TODO_00", "hash": "C3337813A0E34BB5", "target": "Parla con l'Hanu distratto e sconfiggi le bestie che compaiono" },
+    { "gameKey": "quest/050/KinGzc008_05067#TEXT_KINGZC008_05067_TODO_01", "hash": "E5F3D26A8ACE6E61", "target": "Parla di nuovo con l'Hanu distratto" },
+    { "gameKey": "quest/050/KinGzc008_05067#TEXT_KINGZC008_05067_TODO_02", "hash": "2D104A4B487D190B", "target": "Fai rapporto a Gonuhanu" },
     { "gameKey": "quest/050/KinGzc008_05067#TEXT_KINGZC008_05067_GONUHANU_000_000", "hash": "9E35FD89F5795E1C", "target": "Oh... Dove sarà?" },
     { "gameKey": "quest/050/KinGzc008_05067#TEXT_KINGZC008_05067_GONUHANU_000_001", "hash": "E7E246EA98CCFFD0", "target": "T-tu! Sembri abbastanza <if(gnum4,agguerrita,agguerrito)> da affrontare le terre selvagge. Ti prego, ho disperato bisogno d'aiuto..." },
     { "gameKey": "quest/050/KinGzc008_05067#TEXT_KINGZC008_05067_GONUHANU_000_002", "hash": "D9BB3FA109F63BA5", "target": "Un mio amico è andato tempo fa a sud-ovest, alla Grotta di Kikitola, e non è ancora tornato. Comincio a temere che sia successo il peggio..." },

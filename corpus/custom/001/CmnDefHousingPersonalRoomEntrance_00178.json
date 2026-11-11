@@ -11,8 +11,8 @@
     { "gameKey": "custom/001/CmnDefHousingPersonalRoomEntrance_00178#TEXT_CMNDEFHOUSINGPERSONALROOMENTRANCE_00178_BUY_CONFIRM_TITLE", "hash": "11B59B8E2773B32D", "target": "Vuoi acquistare una camera privata per <kilo(lnum1,\\,)> gil?<br>La somma pagata non sarà rimborsata in nessun caso." },
     { "gameKey": "custom/001/CmnDefHousingPersonalRoomEntrance_00178#TEXT_CMNDEFHOUSINGPERSONALROOMENTRANCE_00178_BUY_CONFIRM_YES", "hash": "16347D7D977092AE", "target": "Sì" },
     { "gameKey": "custom/001/CmnDefHousingPersonalRoomEntrance_00178#TEXT_CMNDEFHOUSINGPERSONALROOMENTRANCE_00178_BUY_CONFIRM_NO", "hash": "4557B8A48DB54D1B", "target": "No" },
-    { "gameKey": "custom/001/CmnDefHousingPersonalRoomEntrance_00178#TEXT_CMNDEFHOUSINGPERSONALROOMENTRANCE_00178_BUY_WORKSHOP_MENU", "hash": "6FFD1AD2A5FB34BB", "target": "Acquistare un laboratorio della Compagnia Libera (<kilo(lnum1,\\,)> gil)" },
-    { "gameKey": "custom/001/CmnDefHousingPersonalRoomEntrance_00178#TEXT_CMNDEFHOUSINGPERSONALROOMENTRANCE_00178_BUY_WORKSHOP_CONF", "hash": "F64CAF502FD211E6", "target": "Vuoi acquistare un laboratorio della Compagnia Libera per <kilo(lnum1,\\,)> gil?<br>La somma pagata non sarà rimborsata in nessun caso." },
-    { "gameKey": "custom/001/CmnDefHousingPersonalRoomEntrance_00178#TEXT_CMNDEFHOUSINGPERSONALROOMENTRANCE_00178_GOTO_WORKSHOP", "hash": "960231AD370F0DC3", "target": "Andare al laboratorio della Compagnia Libera" }
+    { "gameKey": "custom/001/CmnDefHousingPersonalRoomEntrance_00178#TEXT_CMNDEFHOUSINGPERSONALROOMENTRANCE_00178_BUY_WORKSHOP_MENU", "hash": "6FFD1AD2A5FB34BB", "target": "Acquistare un'officina della compagnia (<kilo(lnum1,\\,)> gil)" },
+    { "gameKey": "custom/001/CmnDefHousingPersonalRoomEntrance_00178#TEXT_CMNDEFHOUSINGPERSONALROOMENTRANCE_00178_BUY_WORKSHOP_CONF", "hash": "F64CAF502FD211E6", "target": "Vuoi acquistare un'officina della compagnia per <kilo(lnum1,\\,)> gil?<br>La somma pagata non sarà rimborsata in nessun caso." },
+    { "gameKey": "custom/001/CmnDefHousingPersonalRoomEntrance_00178#TEXT_CMNDEFHOUSINGPERSONALROOMENTRANCE_00178_GOTO_WORKSHOP", "hash": "960231AD370F0DC3", "target": "Andare all'officina della compagnia" }
   ]
 }

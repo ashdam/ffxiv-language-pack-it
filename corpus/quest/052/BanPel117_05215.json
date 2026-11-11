@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/052/BanPel117_05215#TEXT_BANPEL117_05215_SEQ_00", "hash": "6A55C0DECDB48C8D", "target": "Yubli vorrebbe che lavorassi con un punutiy.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
-    { "gameKey": "quest/052/BanPel117_05215#TEXT_BANPEL117_05215_TODO_00", "hash": "A1DE355F8B317478", "target": "Parlare con Miisul Ja" },
-    { "gameKey": "quest/052/BanPel117_05215#TEXT_BANPEL117_05215_TODO_01", "hash": "82CEB4092EB58A96", "target": "Salire su un punutiy ed eseguire Bosom Brook per i turisti in attesa al Respiro Sospeso" },
-    { "gameKey": "quest/052/BanPel117_05215#TEXT_BANPEL117_05215_TODO_02", "hash": "C23D35C66946E981", "target": "Parlare con Yubli" },
+    { "gameKey": "quest/052/BanPel117_05215#TEXT_BANPEL117_05215_TODO_00", "hash": "A1DE355F8B317478", "target": "Parla con Miisul Ja" },
+    { "gameKey": "quest/052/BanPel117_05215#TEXT_BANPEL117_05215_TODO_01", "hash": "82CEB4092EB58A96", "target": "Sali su un punutiy ed eseguire Bosom Brook per i turisti in attesa al Respiro Sospeso" },
+    { "gameKey": "quest/052/BanPel117_05215#TEXT_BANPEL117_05215_TODO_02", "hash": "C23D35C66946E981", "target": "Parla con Yubli" },
     { "gameKey": "quest/052/BanPel117_05215#TEXT_BANPEL117_05215_YUBLI_000_000", "hash": "D137D56B7CBC5580", "target": "Vi piacciono i punutiy, <split(<string(gstr1)>, ,1)>? A molte persone sì, a quanto pare. Da quando abbiamo avviato le nuove escursioni al Respiro Sospeso, i clienti chiedono di trascorrere del tempo con queste bestie." },
     { "gameKey": "quest/052/BanPel117_05215#TEXT_BANPEL117_05215_YUBLI_000_001", "hash": "6DC7D5601CCB3433", "target": "Se potessi richiedere ancora i vostri servizi di consulenza speciale, vorrei che ci aiutaste a soddisfare queste richieste e valutare la reazione dei visitatori." },
     { "gameKey": "quest/052/BanPel117_05215#TEXT_BANPEL117_05215_YUBLI_000_002", "hash": "87E3B0E8F632E861", "target": "Che ne dite, <split(<string(gstr1)>, ,1)>? Vi va di cavalcare ancora un punutiy? È diventato un compito popolare fra il personale, tutti vogliono fare un turno, ma voi sembrate avere un'affinità naturale con queste creature." },

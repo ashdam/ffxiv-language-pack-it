@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/048/SubCts605_04815#TEXT_SUBCTS605_04815_SEQ_00", "hash": "F29E569B6B7C70AD", "target": "Theopauldin chiacchiera animatamente con un raccoglitore." },
-    { "gameKey": "quest/048/SubCts605_04815#TEXT_SUBCTS605_04815_TODO_00", "hash": "10C9D5385F13B5B5", "target": "Parlare con il relaxing researcher al Borgo di Sharlayan" },
-    { "gameKey": "quest/048/SubCts605_04815#TEXT_SUBCTS605_04815_TODO_01", "hash": "C24162E3F795A152", "target": "Parlare con Theopauldin" },
+    { "gameKey": "quest/048/SubCts605_04815#TEXT_SUBCTS605_04815_TODO_00", "hash": "10C9D5385F13B5B5", "target": "Parla con il relaxing researcher al Borgo di Sharlayan" },
+    { "gameKey": "quest/048/SubCts605_04815#TEXT_SUBCTS605_04815_TODO_01", "hash": "C24162E3F795A152", "target": "Parla con Theopauldin" },
     { "gameKey": "quest/048/SubCts605_04815#TEXT_SUBCTS605_04815_THEOPAULDIN_000_000", "hash": "D70F616920B44865", "target": "Fa' in modo che venga fatto. Grazie per il tuo servizio instancabile." },
     { "gameKey": "quest/048/SubCts605_04815#TEXT_SUBCTS605_04815_THEOPAULDIN_000_001", "hash": "20A8E10875CDAF6D", "target": "...Oh! Che Thaliak mi assista, non ti avevo <if(gnum4,vista,visto)>." },
     { "gameKey": "quest/048/SubCts605_04815#TEXT_SUBCTS605_04815_THEOPAULDIN_000_002", "hash": "F48D3B86EC102265", "target": "Tutto bene, spero? E i gemelli?" },

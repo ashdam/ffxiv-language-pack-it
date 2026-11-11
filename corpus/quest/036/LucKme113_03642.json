@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/036/LucKme113_03642#TEXT_LUCKME113_03642_SEQ_00", "hash": "911BD37B71EF8D42", "target": "Chai-Nuzz sembra alquanto ansioso." },
-    { "gameKey": "quest/036/LucKme113_03642#TEXT_LUCKME113_03642_TODO_00", "hash": "DDF7C8E176142D21", "target": "Parlare con Dulia-Chai" },
-    { "gameKey": "quest/036/LucKme113_03642#TEXT_LUCKME113_03642_TODO_01", "hash": "7ADE1AF1895B6301", "target": "Cercare l'Esarca di Cristallo" },
-    { "gameKey": "quest/036/LucKme113_03642#TEXT_LUCKME113_03642_TODO_02", "hash": "673B4342FEA7FA1D", "target": "Parlare con l'Esarca di Cristallo" },
+    { "gameKey": "quest/036/LucKme113_03642#TEXT_LUCKME113_03642_TODO_00", "hash": "DDF7C8E176142D21", "target": "Parla con Dulia-Chai" },
+    { "gameKey": "quest/036/LucKme113_03642#TEXT_LUCKME113_03642_TODO_01", "hash": "7ADE1AF1895B6301", "target": "Cerca l'Esarca di Cristallo" },
+    { "gameKey": "quest/036/LucKme113_03642#TEXT_LUCKME113_03642_TODO_02", "hash": "673B4342FEA7FA1D", "target": "Parla con l'Esarca di Cristallo" },
     { "gameKey": "quest/036/LucKme113_03642#TEXT_LUCKME113_03642_DULIACHAI_000_000", "hash": "74301B7D2167EA80", "target": "Oh, <split(<string(gstr1)>, ,1)>, tesoro mio. Mi rincresce dire che tutto questo movimento comincia a farsi sentire. Eppure il mio caro marito continua a lottare, da anima indomita qual è." },
     { "gameKey": "quest/036/LucKme113_03642#TEXT_LUCKME113_03642_DULIACHAI_000_005", "hash": "F1F4D0636D94C391", "target": "Naturalmente non ho alcuna competenza per aiutarlo con il Talos, ma faccio ciò che posso per metterlo a suo agio. Un bicchiere d'acqua qui, un massaggio là..." },
     { "gameKey": "quest/036/LucKme113_03642#TEXT_LUCKME113_03642_CHAINUZZ_000_010", "hash": "6433C4CE15820F73", "target": "Gah, ormai non serve preoccuparsi di simili cose. Tornerò ai miei calcoli. Tu, invece, dovresti andare a riposarti, come ti hanno suggerito i tuoi amici." },

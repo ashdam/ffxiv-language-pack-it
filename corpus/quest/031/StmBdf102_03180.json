@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/031/StmBdf102_03180#TEXT_STMBDF102_03180_SEQ_00", "hash": "6FCF6FA7FCC51223", "target": "Le notizie da Ala Mhigo hanno lasciato Alisaie in uno stato di nervosa agitazione." },
-    { "gameKey": "quest/031/StmBdf102_03180#TEXT_STMBDF102_03180_TODO_00", "hash": "5E7067AFA8264EEC", "target": "Parlare con la guardia della Resistenza nel Rione di Ala Mhigo" },
-    { "gameKey": "quest/031/StmBdf102_03180#TEXT_STMBDF102_03180_TODO_01", "hash": "191792A32B1A91E5", "target": "Parlare con Alisaie" },
-    { "gameKey": "quest/031/StmBdf102_03180#TEXT_STMBDF102_03180_TODO_02", "hash": "E7B275ABEA175C2E", "target": "Parlare con Hien" },
+    { "gameKey": "quest/031/StmBdf102_03180#TEXT_STMBDF102_03180_TODO_00", "hash": "5E7067AFA8264EEC", "target": "Parla con la guardia della Resistenza nel Rione di Ala Mhigo" },
+    { "gameKey": "quest/031/StmBdf102_03180#TEXT_STMBDF102_03180_TODO_01", "hash": "191792A32B1A91E5", "target": "Parla con Alisaie" },
+    { "gameKey": "quest/031/StmBdf102_03180#TEXT_STMBDF102_03180_TODO_02", "hash": "E7B275ABEA175C2E", "target": "Parla con Hien" },
     { "gameKey": "quest/031/StmBdf102_03180#TEXT_STMBDF102_03180_KRILE_000_000", "hash": "5EC7479A9CBA5204", "target": "Mi dispiace di non aver potuto fare di più. Non avevo mai visto il filo di un'anima interrompersi così bruscamente..." },
     { "gameKey": "quest/031/StmBdf102_03180#TEXT_STMBDF102_03180_ALISAIE_000_010", "hash": "49E280779A805CFC", "target": "Non so se riesco a sopportare ciò che Maxima sta per dirci..." },
     { "gameKey": "quest/031/StmBdf102_03180#TEXT_STMBDF102_03180_ALISAIE_000_011", "hash": "28CB7946E7794471", "target": "Ma non possono essere cattive notizie, vero? Lyse lo avrebbe detto. A meno che... Ah, inutile fare congetture. Lyse ha detto che aveva avvertito le guardie del nostro arrivo, quindi dovremmo dirigerci al cancello del Palazzo Reale nel Rione di Ala Mhigo." },

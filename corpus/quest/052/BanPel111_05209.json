@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/052/BanPel111_05209#TEXT_BANPEL111_05209_SEQ_00", "hash": "413D680F7E67E9F2", "target": "Yubli ha bisogno che tu curi alcune canne.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
-    { "gameKey": "quest/052/BanPel111_05209#TEXT_BANPEL111_05209_TODO_00", "hash": "1228E87B7EB46326", "target": "Parlare con la paddy tour guide nei Campi Dorati" },
-    { "gameKey": "quest/052/BanPel111_05209#TEXT_BANPEL111_05209_TODO_01", "hash": "6CDA2C9CE4841FA7", "target": "Rimuovere le canne in eccesso dai cespi troppo fitti" },
-    { "gameKey": "quest/052/BanPel111_05209#TEXT_BANPEL111_05209_TODO_02", "hash": "9F2945695828A94D", "target": "Parlare con Yubli" },
+    { "gameKey": "quest/052/BanPel111_05209#TEXT_BANPEL111_05209_TODO_00", "hash": "1228E87B7EB46326", "target": "Parla con la paddy tour guide nei Campi Dorati" },
+    { "gameKey": "quest/052/BanPel111_05209#TEXT_BANPEL111_05209_TODO_01", "hash": "6CDA2C9CE4841FA7", "target": "Rimuovi le canne in eccesso dai cespi troppo fitti" },
+    { "gameKey": "quest/052/BanPel111_05209#TEXT_BANPEL111_05209_TODO_02", "hash": "9F2945695828A94D", "target": "Parla con Yubli" },
     { "gameKey": "quest/052/BanPel111_05209#TEXT_BANPEL111_05209_YUBLI_000_001", "hash": "9A93F00CCB1699D8", "target": "Durante una recente escursione nei Campi Dorati, diversi ospiti hanno chiesto di poter aiutare nei campi allagati. Questo mi ha fatto pensare che potremmo offrire un'esperienza simile come parte di un nuovo itinerario su misura!" },
     { "gameKey": "quest/052/BanPel111_05209#TEXT_BANPEL111_05209_YUBLI_000_002", "hash": "8C7F6FBA00662355", "target": "Mi sembrava giusto che <if(gnum4,la nostra consulente speciale,il nostro consulente speciale)> fosse fra le prime persone a partecipare! Mi piacerebbe sentire la vostra opinione sincera." },
     { "gameKey": "quest/052/BanPel111_05209#TEXT_BANPEL111_05209_YUBLI_000_003", "hash": "3E0A9D7E1C1DCC25", "target": "L'\"Assaggio d'agricoltura nei Campi Dorati\" sta avendo un successo incredibile. Sembra che i visitatori apprezzino il senso di legame con l'ambiente e con la vita hanu che l'esperienza offre. Non avrei potuto sperare in un inizio più agevole." },

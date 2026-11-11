@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/052/BanPel120_05218#TEXT_BANPEL120_05218_SEQ_00", "hash": "3564FFB6D3B698BC", "target": "Yubli ha in mente una nuova attività turistica.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
-    { "gameKey": "quest/052/BanPel120_05218#TEXT_BANPEL120_05218_TODO_00", "hash": "8C799FC9EA69ECEC", "target": "Parlare con il punutiy keeper" },
-    { "gameKey": "quest/052/BanPel120_05218#TEXT_BANPEL120_05218_TODO_01", "hash": "2A428702624C0D43", "target": "Dare il dolcetto di farina di mais alla peckish punutiy" },
-    { "gameKey": "quest/052/BanPel120_05218#TEXT_BANPEL120_05218_TODO_02", "hash": "E23F1E0EAF2FD9C6", "target": "Parlare con Yubli" },
+    { "gameKey": "quest/052/BanPel120_05218#TEXT_BANPEL120_05218_TODO_00", "hash": "8C799FC9EA69ECEC", "target": "Parla con il punutiy keeper" },
+    { "gameKey": "quest/052/BanPel120_05218#TEXT_BANPEL120_05218_TODO_01", "hash": "2A428702624C0D43", "target": "Dai il dolcetto di farina di mais alla peckish punutiy" },
+    { "gameKey": "quest/052/BanPel120_05218#TEXT_BANPEL120_05218_TODO_02", "hash": "E23F1E0EAF2FD9C6", "target": "Parla con Yubli" },
     { "gameKey": "quest/052/BanPel120_05218#TEXT_BANPEL120_05218_YUBLI_000_000", "hash": "3DB0B807235C5CFB", "target": "<split(<string(gstr1)>, ,1)>. Nel vostro ruolo di consulente speciale, vorrei che provaste a nutrire i punutiy." },
     { "gameKey": "quest/052/BanPel120_05218#TEXT_BANPEL120_05218_YUBLI_000_001", "hash": "4AEEDC08A844F525", "target": "Oltre a Miisul Ja, la responsabile principale degli animali, solo pochi altri lavoratori svolgono questo compito essenziale..." },
     { "gameKey": "quest/052/BanPel120_05218#TEXT_BANPEL120_05218_YUBLI_100_001", "hash": "110EFA7075BD7C42", "target": "Ma se riusciamo ad abituare le creature a mangiare tranquillamente dalla mano di chiunque, credo che questa attività arricchirebbe bene la nostra offerta turistica." },

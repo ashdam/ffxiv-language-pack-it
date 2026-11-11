@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/050/KinGyr204_05012#TEXT_KINGYR204_05012_SEQ_00", "hash": "2DA65F6349C2588A", "target": "Bol Ogaw ha qualcosa da dirti." },
-    { "gameKey": "quest/050/KinGyr204_05012#TEXT_KINGYR204_05012_TODO_00", "hash": "B609F4AF208B96E3", "target": "Parlare con Napikwe a Soluzione Nove" },
-    { "gameKey": "quest/050/KinGyr204_05012#TEXT_KINGYR204_05012_TODO_01", "hash": "00962237A0AC5D3B", "target": "Riferire a Bol Ogaw a Tuliyollal" },
+    { "gameKey": "quest/050/KinGyr204_05012#TEXT_KINGYR204_05012_TODO_00", "hash": "B609F4AF208B96E3", "target": "Parla con Napikwe a Soluzione Nove" },
+    { "gameKey": "quest/050/KinGyr204_05012#TEXT_KINGYR204_05012_TODO_01", "hash": "00962237A0AC5D3B", "target": "Riferisci a Bol Ogaw a Tuliyollal" },
     { "gameKey": "quest/050/KinGyr204_05012#TEXT_KINGYR204_05012_SYSTEM_000_001", "hash": "596CFA15EBD548BC", "target": "Gli elite Dawn Hunt mark bills saranno disponibili quando avrai soddisfatto determinate condizioni nelle missioni della storia principale di Dawntrail." },
     { "gameKey": "quest/050/KinGyr204_05012#TEXT_KINGYR204_05012_BOLOGAW_000_002", "hash": "D67C02E3444C23B9", "target": "Ah, <split(<string(gstr1)>, ,1)>. Mi onorate della vostra presenza. Ho sentito parlare di tutte le imprese che avete compiuto per Wuk Lamat." },
     { "gameKey": "quest/050/KinGyr204_05012#TEXT_KINGYR204_05012_BOLOGAW_000_003", "hash": "6E51AEE07530DD5A", "target": "Come se porre fine alla furia di Valigarmanda non fosse già abbastanza impressionante, avete anche salvato la città da quei maledetti automi. Se mai c'erano dubbi sulle vostre capacità, ora sono stati dissipati del tutto." },

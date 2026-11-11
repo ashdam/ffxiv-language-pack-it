@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/034/LucKzd002_03409#TEXT_LUCKZD002_03409_SEQ_00", "hash": "FA1D3ECA036A9D32", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Gyuf Daen non ha voglia degli scherzi dei pixie." },
-    { "gameKey": "quest/034/LucKzd002_03409#TEXT_LUCKZD002_03409_TODO_00", "hash": "978FCCD2FD44A034", "target": "Consegnare le numbcap spores a Jul Feo" },
-    { "gameKey": "quest/034/LucKzd002_03409#TEXT_LUCKZD002_03409_TODO_01", "hash": "041B87E0BC019A4B", "target": "Raccogliere i flower seeds" },
-    { "gameKey": "quest/034/LucKzd002_03409#TEXT_LUCKZD002_03409_TODO_02", "hash": "D20C90106123950D", "target": "Consegnare i flower seeds a Gyuf Daen" },
+    { "gameKey": "quest/034/LucKzd002_03409#TEXT_LUCKZD002_03409_TODO_00", "hash": "978FCCD2FD44A034", "target": "Consegna le numbcap spores a Jul Feo" },
+    { "gameKey": "quest/034/LucKzd002_03409#TEXT_LUCKZD002_03409_TODO_01", "hash": "041B87E0BC019A4B", "target": "Raccogli i flower seeds" },
+    { "gameKey": "quest/034/LucKzd002_03409#TEXT_LUCKZD002_03409_TODO_02", "hash": "D20C90106123950D", "target": "Consegna i flower seeds a Gyuf Daen" },
     { "gameKey": "quest/034/LucKzd002_03409#TEXT_LUCKZD002_03409_GYUFDAEN_000_000", "hash": "7952164DA4C8B121", "target": "Accidenti, che dilemma... Il solo pensiero di andarci mi fa rabbrividire..." },
     { "gameKey": "quest/034/LucKzd002_03409#TEXT_LUCKZD002_03409_GYUFDAEN_000_001", "hash": "B4FBF967B680590E", "target": "Cosa mi affligge? Dovrei andare a Lydha Lran per commerciare, ma provo una forte avversione per i pixie e le loro buffonate. So che è improvviso, ma potresti andarci al mio posto?" },
     { "gameKey": "quest/034/LucKzd002_03409#TEXT_LUCKZD002_03409_GYUFDAEN_000_002", "hash": "441D40E94487910D", "target": "Se ti va, porta questo sacco di numbcap spores a un pixie chiamato Jul Feo. In cambio dovrebbe darti dei flower seeds." },

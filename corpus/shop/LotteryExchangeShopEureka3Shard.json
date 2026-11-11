@@ -8,7 +8,7 @@
     { "gameKey": "shop/LotteryExchangeShopEureka3Shard#TEXT_LOTTERYEXCHANGESHOPEUREKA3SHARD_RESULT_UI_TITLE", "hash": "506AEE29C142F8DF", "target": "Risultati" },
     { "gameKey": "shop/LotteryExchangeShopEureka3Shard#TEXT_LOTTERYEXCHANGESHOPEUREKA3SHARD_RESULT_UI_SUBTITLE", "hash": "D9EAAA960D6AB1E4", "target": "" },
     { "gameKey": "shop/LotteryExchangeShopEureka3Shard#TEXT_LOTTERYEXCHANGESHOPEUREKA3SHARD_RESULT_UI_NEXT", "hash": "63BC9982DFCCC126", "target": "Avanti" },
-    { "gameKey": "shop/LotteryExchangeShopEureka3Shard#TEXT_LOTTERYEXCHANGESHOPEUREKA3SHARD_CONFIRM_SINGLE", "hash": "57C3B58E4E727BF2", "target": "Valutare l'oggetto <ennoun(Item,3,lnum1,1,1)>?<br><br><head(<ennoun(Item,3,lnum1,2,1)>)> rimanenti: <num(lnum3)><br>Tentativi rimanenti: <num(lnum2)>" },
+    { "gameKey": "shop/LotteryExchangeShopEureka3Shard#TEXT_LOTTERYEXCHANGESHOPEUREKA3SHARD_CONFIRM_SINGLE", "hash": "57C3B58E4E727BF2", "target": "Valutare <ennoun(Item,3,lnum1,1,1)>?<br><br><head(<ennoun(Item,3,lnum1,2,1)>)> rimanenti: <num(lnum3)><br>Tentativi rimanenti: <num(lnum2)>" },
     { "gameKey": "shop/LotteryExchangeShopEureka3Shard#TEXT_LOTTERYEXCHANGESHOPEUREKA3SHARD_CONFIRM_MULTI", "hash": "723856DD504C07C3", "target": "Valutare <num(lnum4)> <ennoun(Item,3,lnum1,2,1)>?<br><br><head(<ennoun(Item,3,lnum1,2,1)>)> rimanenti: <num(lnum3)><br>Tentativi rimanenti: <num(lnum2)>" }
   ]
 }

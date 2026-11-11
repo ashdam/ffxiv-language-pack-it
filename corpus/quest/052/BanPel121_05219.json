@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/052/BanPel121_05219#TEXT_BANPEL121_05219_SEQ_00", "hash": "2458214D6C2DD32B", "target": "Yubli ha bisogno d'aiuto con i piccoli alpaca esperti di fughe.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
-    { "gameKey": "quest/052/BanPel121_05219#TEXT_BANPEL121_05219_TODO_00", "hash": "796C7FD44200702B", "target": "Catturare i piccoli fuggitivi" },
-    { "gameKey": "quest/052/BanPel121_05219#TEXT_BANPEL121_05219_TODO_01", "hash": "733932A9C5BEF63A", "target": "Consegnare i piccoli alpaca esperti di fughe al frantic alpaca handler" },
-    { "gameKey": "quest/052/BanPel121_05219#TEXT_BANPEL121_05219_TODO_02", "hash": "C02F0FCBD1AC4349", "target": "Parlare con Yubli" },
+    { "gameKey": "quest/052/BanPel121_05219#TEXT_BANPEL121_05219_TODO_00", "hash": "796C7FD44200702B", "target": "Cattura i piccoli fuggitivi" },
+    { "gameKey": "quest/052/BanPel121_05219#TEXT_BANPEL121_05219_TODO_01", "hash": "733932A9C5BEF63A", "target": "Consegna i piccoli alpaca esperti di fughe al frantic alpaca handler" },
+    { "gameKey": "quest/052/BanPel121_05219#TEXT_BANPEL121_05219_TODO_02", "hash": "C02F0FCBD1AC4349", "target": "Parla con Yubli" },
     { "gameKey": "quest/052/BanPel121_05219#TEXT_BANPEL121_05219_YUBLI_000_000", "hash": "5BB293A9BC111871", "target": "È confortante vedere i piccoli alpaca così pieni di vita. Di recente, però, i vivaci tesorini sono scappati dal recinto e hanno cominciato a correre liberi attorno all'agenzia." },
     { "gameKey": "quest/052/BanPel121_05219#TEXT_BANPEL121_05219_YUBLI_000_001", "hash": "3C7A61AC05C69E0A", "target": "Rabbrividisco all'idea che si avventurino nelle terre selvagge là fuori... Li sorvegliamo il più possibile, ma un certo trio di combinaguai ha padroneggiato l'arte della fuga e dell'evasione." },
     { "gameKey": "quest/052/BanPel121_05219#TEXT_BANPEL121_05219_YUBLI_000_002", "hash": "20257AF7F27E17D4", "target": "Mi hanno detto che oggi non fa eccezione, e vorrei il vostro aiuto per radunare questi piccoli fuggitivi. Dopotutto, chi può rintracciare meglio un esperto nel nascondersi <if(gnum4,di un'esperta nel trovare come voi,di un esperto nel trovare come voi)>?" },

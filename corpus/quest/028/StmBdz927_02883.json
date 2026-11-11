@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_SEQ_00", "hash": "6D6FD3B6B7D325D3", "target": "J'zula Tia ha un compito difficile da affidare a un avventuriero." },
-    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_TODO_00", "hash": "DD07C6D3D042D681", "target": "Usare sacchi di canapa robusti per catturare gli yabby indeboliti" },
-    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_TODO_01", "hash": "08B6D1033BD66F62", "target": "Consegnare i sacchi di canapa brulicanti a J'zula Tia" },
+    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_TODO_00", "hash": "DD07C6D3D042D681", "target": "Usa sacchi di canapa robusti per catturare gli yabby indeboliti" },
+    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_TODO_01", "hash": "08B6D1033BD66F62", "target": "Consegna i sacchi di canapa brulicanti a J'zula Tia" },
     { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_000", "hash": "170B7B377ADF8AA2", "target": "Tu sei <split(<string(gstr1)>, ,1)>, vero? Le tue imprese nell'esercito e nelle avventure sono famose. Forse chiedo troppo, ma mi servirebbe una mano con un piccolo problema." },
     { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_001", "hash": "56D9958B1A53D154", "target": "Mi hanno incaricato di catturare un paio di creature acquatiche piuttosto feroci, e devo ammettere che non riesco a gestirle. Per chi ha compiuto imprese come le tue, però, credo sarebbero solo un po' di esercizio prima <if([gnum11<12],<if([gnum11<4],di cena,di colazione)>,<if([gnum11<17],di pranzo,di cena)>)>." },
     { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_002", "hash": "4CB250F383112953", "target": "Hai visto i mostruosi yabby che si aggirano a sud della Navata Bianca? Ho dei grandi sacchi di canapa per trascinarli qui. Prima però falli stancare un po'─se avranno ancora voglia di lottare, sfonderanno i sacchi con quelle loro code appuntite." },

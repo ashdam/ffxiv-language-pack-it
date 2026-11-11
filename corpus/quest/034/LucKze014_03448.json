@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/034/LucKze014_03448#TEXT_LUCKZE014_03448_SEQ_00", "hash": "9204EC81BFEB0A13", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Il lanciere solitario sembra aspettare qualcuno." },
-    { "gameKey": "quest/034/LucKze014_03448#TEXT_LUCKZE014_03448_TODO_00", "hash": "FC576B34DC160DDA", "target": "Cercare il mentore benintenzionato" },
-    { "gameKey": "quest/034/LucKze014_03448#TEXT_LUCKZE014_03448_TODO_01", "hash": "E0A1DD756DE0F6C2", "target": "Esprimere dubbi al mediatore bellicoso con /doubt" },
-    { "gameKey": "quest/034/LucKze014_03448#TEXT_LUCKZE014_03448_TODO_02", "hash": "8056B73B4275565C", "target": "Parlare con il mentore benintenzionato" },
+    { "gameKey": "quest/034/LucKze014_03448#TEXT_LUCKZE014_03448_TODO_00", "hash": "FC576B34DC160DDA", "target": "Cerca il mentore benintenzionato" },
+    { "gameKey": "quest/034/LucKze014_03448#TEXT_LUCKZE014_03448_TODO_01", "hash": "E0A1DD756DE0F6C2", "target": "Esprimi dubbi al mediatore bellicoso con /doubt" },
+    { "gameKey": "quest/034/LucKze014_03448#TEXT_LUCKZE014_03448_TODO_02", "hash": "8056B73B4275565C", "target": "Parla con il mentore benintenzionato" },
     { "gameKey": "quest/034/LucKze014_03448#TEXT_LUCKZE014_03448_GUARD03448_000_000", "hash": "6F3EDA910CB370FF", "target": "Perdonami, non mi ero accorto della tua presenza. L'assenza del mio maestro mi pesa sulla mente." },
     { "gameKey": "quest/034/LucKze014_03448#TEXT_LUCKZE014_03448_GUARD03448_000_001", "hash": "75147AC83207C606", "target": "È un mago potente, capace di proteggersi, ma non posso fare a meno di chiedermi cosa lo trattenga." },
     { "gameKey": "quest/034/LucKze014_03448#TEXT_LUCKZE014_03448_GUARD03448_000_002", "hash": "C9D3D350B97D4949", "target": "Voglio cercarlo e apprezzerei il tuo aiuto. Se incontri maghi dei Benedetti nel bosco, potresti controllare che stiano bene?" },

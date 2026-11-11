@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/052/BanPel125_05223#TEXT_BANPEL125_05223_SEQ_00", "hash": "385B98C34CCE707B", "target": "Yubli vorrebbe che ascoltassi la richiesta di Wawkesa.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
-    { "gameKey": "quest/052/BanPel125_05223#TEXT_BANPEL125_05223_TODO_00", "hash": "02CFE4CA2CD34FC0", "target": "Parlare con Wawkesa" },
-    { "gameKey": "quest/052/BanPel125_05223#TEXT_BANPEL125_05223_TODO_01", "hash": "9DA1E8A414AEB0C6", "target": "Consegnare l'abbondante pranzo al sacco alla forgetful guide alla Palude di Ligaka" },
-    { "gameKey": "quest/052/BanPel125_05223#TEXT_BANPEL125_05223_TODO_02", "hash": "A077E4FE022C8523", "target": "Parlare con Yubli" },
+    { "gameKey": "quest/052/BanPel125_05223#TEXT_BANPEL125_05223_TODO_00", "hash": "02CFE4CA2CD34FC0", "target": "Parla con Wawkesa" },
+    { "gameKey": "quest/052/BanPel125_05223#TEXT_BANPEL125_05223_TODO_01", "hash": "9DA1E8A414AEB0C6", "target": "Consegna l'abbondante pranzo al sacco alla forgetful guide alla Palude di Ligaka" },
+    { "gameKey": "quest/052/BanPel125_05223#TEXT_BANPEL125_05223_TODO_02", "hash": "A077E4FE022C8523", "target": "Parla con Yubli" },
     { "gameKey": "quest/052/BanPel125_05223#TEXT_BANPEL125_05223_YUBLI_000_001", "hash": "B1C0E943006AAE2D", "target": "Ho una richiesta di Wawkesa. Qualcosa a proposito di una consegna urgente a una guida nel mezzo di un'escursione turistica." },
     { "gameKey": "quest/052/BanPel125_05223#TEXT_BANPEL125_05223_YUBLI_000_002", "hash": "D947FACD170A7B8E", "target": "Potreste parlargli e vedere come aiutarlo?" },
     { "gameKey": "quest/052/BanPel125_05223#TEXT_BANPEL125_05223_WAWKESA_000_010", "hash": "29B8D268277E87DD", "target": "Ti ha mandato Yubli? Bene, perché ho proprio bisogno di qualcuno che consegni del cibo." },

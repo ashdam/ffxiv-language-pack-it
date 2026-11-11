@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/049/KinGmd106_04917#TEXT_KINGMD106_04917_SEQ_00", "hash": "0FE056FEB179129C", "target": "Erenville è sollevato nel vedere che tutto è tornato a posto." },
-    { "gameKey": "quest/049/KinGmd106_04917#TEXT_KINGMD106_04917_TODO_00", "hash": "FD0A01A658DBDADF", "target": "Parlare con Namikka" },
-    { "gameKey": "quest/049/KinGmd106_04917#TEXT_KINGMD106_04917_TODO_01", "hash": "62D61C8EA507AC89", "target": "Parlare con Erenville" },
-    { "gameKey": "quest/049/KinGmd106_04917#TEXT_KINGMD106_04917_TODO_02", "hash": "2A0D5D08AD258B05", "target": "Parlare di nuovo con Erenville" },
+    { "gameKey": "quest/049/KinGmd106_04917#TEXT_KINGMD106_04917_TODO_00", "hash": "FD0A01A658DBDADF", "target": "Parla con Namikka" },
+    { "gameKey": "quest/049/KinGmd106_04917#TEXT_KINGMD106_04917_TODO_01", "hash": "62D61C8EA507AC89", "target": "Parla con Erenville" },
+    { "gameKey": "quest/049/KinGmd106_04917#TEXT_KINGMD106_04917_TODO_02", "hash": "2A0D5D08AD258B05", "target": "Parla di nuovo con Erenville" },
     { "gameKey": "quest/049/KinGmd106_04917#TEXT_KINGMD106_04917_ZEKOWA_000_001", "hash": "1E57F65048B679A7", "target": "Ahahah! Niente male come colpo, eh?" },
     { "gameKey": "quest/049/KinGmd106_04917#TEXT_KINGMD106_04917_ERENVILLE_000_010", "hash": "04E6805E2E926DB4", "target": "Ora che abbiamo il braccialetto, torniamo alle Sorgenti di Sheshenewezi." },
     { "gameKey": "quest/049/KinGmd106_04917#TEXT_KINGMD106_04917_ZEKOWA_000_011", "hash": "B4EC240F7F30EE11", "target": "Vi fermerete a lungo? Vorrei ringraziarvi come si deve dopo aver ritrovato i miei amici." },

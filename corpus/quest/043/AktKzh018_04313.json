@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/043/AktKzh018_04313#TEXT_AKTKZH018_04313_SEQ_00", "hash": "76B3B78796E781F6", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>La studentessa dell'Akadaemia scruta l'orizzonte con aria preoccupata." },
-    { "gameKey": "quest/043/AktKzh018_04313#TEXT_AKTKZH018_04313_TODO_00", "hash": "F3E313586F10A32C", "target": "Parlare con la blue-haired student e farsi accompagnare" },
-    { "gameKey": "quest/043/AktKzh018_04313#TEXT_AKTKZH018_04313_TODO_01", "hash": "C8A51C96B8929A4F", "target": "Accompagnare la blue-haired student al luogo indicato e parlarle" },
-    { "gameKey": "quest/043/AktKzh018_04313#TEXT_AKTKZH018_04313_TODO_02", "hash": "4A23945C60D9C6A8", "target": "Parlare con l'Akadaemia student" },
+    { "gameKey": "quest/043/AktKzh018_04313#TEXT_AKTKZH018_04313_TODO_00", "hash": "F3E313586F10A32C", "target": "Parla con la blue-haired student e fatti accompagnare" },
+    { "gameKey": "quest/043/AktKzh018_04313#TEXT_AKTKZH018_04313_TODO_01", "hash": "C8A51C96B8929A4F", "target": "Accompagna la blue-haired student al luogo indicato e parlale" },
+    { "gameKey": "quest/043/AktKzh018_04313#TEXT_AKTKZH018_04313_TODO_02", "hash": "4A23945C60D9C6A8", "target": "Parla con l'Akadaemia student" },
     { "gameKey": "quest/043/AktKzh018_04313#TEXT_AKTKZH018_04313_GRADUATESTUDENT04313_000_000", "hash": "49D9D2E2853308B1", "target": "Anche voi siete qui in visita, vero? Forse potreste aiutarmi, allora. Avete visto una donna dai capelli blu nei paraggi? Non dovrebbe avere una maschera." },
     { "gameKey": "quest/043/AktKzh018_04313#TEXT_AKTKZH018_04313_GRADUATESTUDENT04313_000_001", "hash": "DE3ED680B186E18D", "target": "Capisco. Siamo entrambe studentesse dell'Akadaemia Anyder e volevamo approfittare di un po' di tempo libero per visitare Elpis insieme." },
     { "gameKey": "quest/043/AktKzh018_04313#TEXT_AKTKZH018_04313_GRADUATESTUDENT04313_000_002", "hash": "2F27BE6BC008A3DE", "target": "Eravamo appena partite quando si è ricordata di aver dimenticato qualcosa ad Anagnorisi ed è tornata indietro di corsa... Da allora non l'ho più vista. A volte è un po'...come dire?...svampita. Forse si è semplicemente persa sulla via del ritorno." },

@@ -3,18 +3,18 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/033/LucKmc118_03339#TEXT_LUCKMC118_03339_SEQ_00", "hash": "015436E217A5780B", "target": "Urianger veglia su Runar, pronto a iniziare le cure." },
-    { "gameKey": "quest/033/LucKmc118_03339#TEXT_LUCKMC118_03339_TODO_00", "hash": "9E2BB85E5B4BAB87", "target": "Parlare con Emet-Selch" },
-    { "gameKey": "quest/033/LucKmc118_03339#TEXT_LUCKMC118_03339_TODO_01", "hash": "76C2C8503BD61451", "target": "Usare la lampada eterea per trovare un luogo in risonanza con il Flusso Vitale" },
-    { "gameKey": "quest/033/LucKmc118_03339#TEXT_LUCKMC118_03339_TODO_02", "hash": "65982AF584CF1652", "target": "Chiamare Emet-Selch" },
-    { "gameKey": "quest/033/LucKmc118_03339#TEXT_LUCKMC118_03339_TODO_03", "hash": "CA8253DA151149EE", "target": "Parlare con Emet-Selch" },
-    { "gameKey": "quest/033/LucKmc118_03339#TEXT_LUCKMC118_03339_TODO_04", "hash": "62BCA551CC1B3B98", "target": "Parlare con Y'shtola" },
+    { "gameKey": "quest/033/LucKmc118_03339#TEXT_LUCKMC118_03339_TODO_00", "hash": "9E2BB85E5B4BAB87", "target": "Parla con Emet-Selch" },
+    { "gameKey": "quest/033/LucKmc118_03339#TEXT_LUCKMC118_03339_TODO_01", "hash": "76C2C8503BD61451", "target": "Usa la lampada eterea per trovare un luogo in risonanza con il Flusso Vitale" },
+    { "gameKey": "quest/033/LucKmc118_03339#TEXT_LUCKMC118_03339_TODO_02", "hash": "65982AF584CF1652", "target": "Chiama Emet-Selch" },
+    { "gameKey": "quest/033/LucKmc118_03339#TEXT_LUCKMC118_03339_TODO_03", "hash": "CA8253DA151149EE", "target": "Parla con Emet-Selch" },
+    { "gameKey": "quest/033/LucKmc118_03339#TEXT_LUCKMC118_03339_TODO_04", "hash": "62BCA551CC1B3B98", "target": "Parla con Y'shtola" },
     { "gameKey": "quest/033/LucKmc118_03339#TEXT_LUCKMC118_03339_RUNAR_000_000", "hash": "034D588B9DEEB38E", "target": "Maestra... Matoya..." },
     { "gameKey": "quest/033/LucKmc118_03339#TEXT_LUCKMC118_03339_URIANGER_000_010", "hash": "55D9A2EBDF23E757", "target": "Riposa, <split(<string(gstr1)>, ,1)>, te ne prego. Provvederò io alle cure di Runar." },
     { "gameKey": "quest/033/LucKmc118_03339#TEXT_LUCKMC118_03339_THANCRED_000_020", "hash": "022E34C09C2A3277", "target": "Per quanto mi ripugni fidarmi di lui, suppongo che non abbiamo scelta. Almeno per ora." },
     { "gameKey": "quest/033/LucKmc118_03339#TEXT_LUCKMC118_03339_RYNE_000_025", "hash": "6B95A8D72EF3E38F", "target": "Pensi davvero che possa riportarla indietro?" },
     { "gameKey": "quest/033/LucKmc118_03339#TEXT_LUCKMC118_03339_URIANGER_000_030", "hash": "F6370D829D90EB7F", "target": "Può davvero essere in suo potere sottrarre Y'shtola al Flusso Vitale, come afferma? È un'impresa che supera persino i più grandi cultori delle arti arcane. Eppure, se vuole tentare, non possiamo certo ostacolarlo." },
     { "gameKey": "quest/033/LucKmc118_03339#TEXT_LUCKMC118_03339_RUNAR_000_035", "hash": "508B4014F16A0C31", "target": "Per la benedetta Oscurità, c'è ancora speranza!" },
-    { "gameKey": "quest/033/LucKmc118_03339#TEXT_LUCKMC118_03339_ALMET_000_040", "hash": "6558D5AF21BAEAAF", "target": "Confesso di non comprendere appieno cosa stia accadendo─ma deduco che abbiamo fatto bene a portarvi quest'uomo." },
+    { "gameKey": "quest/033/LucKmc118_03339#TEXT_LUCKMC118_03339_ALMET_000_040", "hash": "6558D5AF21BAEAAF", "target": "Confesso di non comprendere appieno cosa stia accadendo, ma deduco che abbiamo fatto bene a portarvi quest'uomo." },
     { "gameKey": "quest/033/LucKmc118_03339#TEXT_LUCKMC118_03339_UIMET_000_045", "hash": "E017ABD0B9145501", "target": "Lo abbiamo trovato addormentato all'ombra di un albero vicino alle rovine. Un bel modo di comportarsi mentre i propri compagni sono in grave pericolo." },
     { "gameKey": "quest/033/LucKmc118_03339#TEXT_LUCKMC118_03339_CYMET_000_050", "hash": "0988B150815C8EDF", "target": "Sono sollevata di sapere che è una vostra conoscenza. Anche se vedo che non siete intimi. Se dovesse contrariarvi, saremmo liete di occuparci di lui..." },
     { "gameKey": "quest/033/LucKmc118_03339#TEXT_LUCKMC118_03339_EMETSELCH_000_060", "hash": "180371253DD854AD", "target": "Ebbene, se devo andare a recuperarla per voi, mi servirà un luogo adatto in cui lavorare. Dobbiamo trovare un posto in forte risonanza con il Flusso Vitale." },
@@ -51,7 +51,7 @@
     { "gameKey": "quest/033/LucKmc118_03339#TEXT_LUCKMC118_03339_EMETSELCH_000_136", "hash": "E520CF5D17997343", "target": "Ma queste discussioni mi hanno stancato. Se vorrai gentilmente astenerti dal replicare e tornare al tuo consueto silenzio meditabondo, lo prenderò come un ringraziamento per aver salvato la tua compagna e la chiuderò qui." },
     { "gameKey": "quest/033/LucKmc118_03339#TEXT_LUCKMC118_03339_EMETSELCH_000_137", "hash": "9FA00AD9FD759871", "target": "Ora, non facciamo aspettare i tuoi amici." },
     { "gameKey": "quest/033/LucKmc118_03339#TEXT_LUCKMC118_03339_EMETSELCH_000_140", "hash": "55FE5BBC13DCF54B", "target": "Te l'ho detto, sono stanco di queste discussioni insulse. Non dovresti prepararti a uccidere il prossimo Guardiano della Luce o qualcosa del genere?" },
-    { "gameKey": "quest/033/LucKmc118_03339#TEXT_LUCKMC118_03339_YSHTOLA_000_150", "hash": "5504FB23BC9FC77F", "target": "Vi porgo le mie scuse per avervi sottoposti a una simile prova. Non vedevo altro modo per salvare i Benedetti della Notte. Fortunatamente, sia loro sia io siamo ancora vivi─grazie a voi." },
-    { "gameKey": "quest/033/LucKmc118_03339#TEXT_LUCKMC118_03339_YSHTOLA_000_151", "hash": "532765E96949F39D", "target": "Ma il nostro lavoro qui non è ancora terminato. Dobbiamo prepararci a entrare nella Qitana Ravel e passare a fil di spada il Guardiano della Luce." }
+    { "gameKey": "quest/033/LucKmc118_03339#TEXT_LUCKMC118_03339_YSHTOLA_000_150", "hash": "5504FB23BC9FC77F", "target": "Vi porgo le mie scuse per avervi sottoposti a una simile prova. Non vedevo altro modo per salvare i Benedetti della Notte. Fortunatamente, sia loro sia io siamo ancora vivi, grazie a voi." },
+    { "gameKey": "quest/033/LucKmc118_03339#TEXT_LUCKMC118_03339_YSHTOLA_000_151", "hash": "532765E96949F39D", "target": "Ma il nostro lavoro qui non è ancora terminato. Dobbiamo prepararci a entrare nel Dedalo di Qitana e passare a fil di spada il Guardiano della Luce." }
   ]
 }

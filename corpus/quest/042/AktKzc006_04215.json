@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/042/AktKzc006_04215#TEXT_AKTKZC006_04215_SEQ_00", "hash": "00262A54D11CC49F", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Isilswys è china su un libro, ma la sua mente sembra altrove." },
-    { "gameKey": "quest/042/AktKzc006_04215#TEXT_AKTKZC006_04215_TODO_00", "hash": "D6018E1F204E2C12", "target": "Usare la sleeping powder sui vicious volumes" },
-    { "gameKey": "quest/042/AktKzc006_04215#TEXT_AKTKZC006_04215_TODO_01", "hash": "9C49AA6169097634", "target": "Riportare i volumi a Isilswys" },
+    { "gameKey": "quest/042/AktKzc006_04215#TEXT_AKTKZC006_04215_TODO_00", "hash": "D6018E1F204E2C12", "target": "Usa la sleeping powder sui vicious volumes" },
+    { "gameKey": "quest/042/AktKzc006_04215#TEXT_AKTKZC006_04215_TODO_01", "hash": "9C49AA6169097634", "target": "Riporta i volumi a Isilswys" },
     { "gameKey": "quest/042/AktKzc006_04215#TEXT_AKTKZC006_04215_ISILSWYS_000_000", "hash": "C7BFE898BCC51FDA", "target": "Ah, ultimamente ti ho notato in giro per Noumenon. Sei <if(gnum4,l'avventuriera,l'avventuriero)>, vero? Avevo intenzione di cercarti: credo di avere un compito piuttosto adatto alle tue capacità." },
     { "gameKey": "quest/042/AktKzc006_04215#TEXT_AKTKZC006_04215_ISILSWYS_000_001", "hash": "55806A42B28B50ED", "target": "Di recente abbiamo aggiunto alla nostra collezione alcuni volumi procurati dalla Grande Biblioteca di Gubal, ma non appena li abbiamo messi sugli scaffali, uno studente li ha toccati senza prendere le dovute precauzioni." },
     { "gameKey": "quest/042/AktKzc006_04215#TEXT_AKTKZC006_04215_ISILSWYS_000_002", "hash": "A1EEC614C288251C", "target": "Si è attivato un incantesimo che pare servisse a impedire il furto, e tutti e cinque sono corsi via, sì, proprio corsi, verso chissà dove." },

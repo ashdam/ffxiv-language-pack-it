@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/030/BanAna407_03056#TEXT_BANANA407_03056_SEQ_00", "hash": "7867B8DB57DCF22D", "target": "Eshana vuole che tu affronti un mostro al Velo della Chiarezza.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
-    { "gameKey": "quest/030/BanAna407_03056#TEXT_BANANA407_03056_TODO_00", "hash": "C3EFF8BDC99FEA3E", "target": "Usare il collirio rosso sangue sul formidable foper, poi eliminarlo" },
-    { "gameKey": "quest/030/BanAna407_03056#TEXT_BANANA407_03056_TODO_01", "hash": "E54A4429FB9CCDF5", "target": "Fare rapporto a Eshana" },
+    { "gameKey": "quest/030/BanAna407_03056#TEXT_BANANA407_03056_TODO_00", "hash": "C3EFF8BDC99FEA3E", "target": "Usa il collirio rosso sangue sul formidable foper, poi sconfiggilo" },
+    { "gameKey": "quest/030/BanAna407_03056#TEXT_BANANA407_03056_TODO_01", "hash": "E54A4429FB9CCDF5", "target": "Fai rapporto a Eshana" },
     { "gameKey": "quest/030/BanAna407_03056#TEXT_BANANA407_03056_ESHANA_000_000", "hash": "6200C21EE988B665", "target": "<split(<string(gstr1)>, ,1)>, un foper di dimensssioni straordinarie si aggira vicino al Velo della Chiarezza." },
     { "gameKey": "quest/030/BanAna407_03056#TEXT_BANANA407_03056_ESHANA_000_001", "hash": "1700080481D4FEB2", "target": "Quel ponte serve a trasportare merci dalla sponda occidentale del fiume Velodyna alla Presa di Rhalgr e non possiamo lasciare che una bestia mostruosa reclami la zona come suo territorio. Vi prego, andate a <italic(1)>persssuaderla<italic(0)> ad andarsene." },
     { "gameKey": "quest/030/BanAna407_03056#TEXT_BANANA407_03056_ESHANA_000_002", "hash": "7623C36B366B1B68", "target": "I foper normali sono già abbastanza pericolosi, sss, quindi ho procurato un preparato alchemico da gettare nell'occhio di quel bestione. Dovrebbe indebolirlo notevolmente e facilitarvi il compito." },

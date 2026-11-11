@@ -2,7 +2,7 @@
   "conversation": "custom/001/RegFstBentbranchMeadows_00129",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/RegFstBentbranchMeadows_00129#TEXT_REGFSTBENTBRANCHMEADOWS_00129_KEITHA_000_000", "hash": "DD9CF4290FCB9803", "target": "Salve, <if(gnum4,avventuriera,avventuriero)>, e benvenut<if(gnum4,a,o)> ai Prati di Ramostorto. Cosa posso fare per voi?" },
+    { "gameKey": "custom/001/RegFstBentbranchMeadows_00129#TEXT_REGFSTBENTBRANCHMEADOWS_00129_KEITHA_000_000", "hash": "DD9CF4290FCB9803", "target": "Salve, <if(gnum4,avventuriera,avventuriero)>, e <if(gnum4,benvenuta,benvenuto)> ai Prati di Ramostorto. Cosa posso fare per voi?" },
     { "gameKey": "custom/001/RegFstBentbranchMeadows_00129#TEXT_REGFSTBENTBRANCHMEADOWS_00129_Q1_000_000", "hash": "630C2C18C7169DEF", "target": "Cosa vuoi chiedere?" },
     { "gameKey": "custom/001/RegFstBentbranchMeadows_00129#TEXT_REGFSTBENTBRANCHMEADOWS_00129_A1_000_001", "hash": "1D8B30A5E023928E", "target": "Di cosa vi occupate qui?" },
     { "gameKey": "custom/001/RegFstBentbranchMeadows_00129#TEXT_REGFSTBENTBRANCHMEADOWS_00129_A1_000_002", "hash": "39045C9B59A55B47", "target": "Che posto è questo?" },
@@ -16,7 +16,7 @@
     { "gameKey": "custom/001/RegFstBentbranchMeadows_00129#TEXT_REGFSTBENTBRANCHMEADOWS_00129_KEITHA_000_030", "hash": "53642A2040A8297B", "target": "Ah, salve di nuovo. Volevo ringraziarvi, <if(gnum4,amica,amico)>. Allevare chocobo è sempre stato un lavoro gratificante, ma sapere che quei moguri vegliano su di noi e sui nostri animali lo rende ancora più bello." },
     { "gameKey": "custom/001/RegFstBentbranchMeadows_00129#TEXT_REGFSTBENTBRANCHMEADOWS_00129_KEITHA_000_100", "hash": "0B3F6B4DD596B4D4", "target": "Vi farà piacere sapere che l'uovo di Leia si è schiuso senza il minimo problema. La piccola è vivace: si pavoneggia per i prati come se fosse sugli altopiani di Coerthas. Renderà fiera sua madre, ne sono certa." },
     { "gameKey": "custom/001/RegFstBentbranchMeadows_00129#TEXT_REGFSTBENTBRANCHMEADOWS_00129_KEITHA_000_101", "hash": "F7A0E806B410A1C5", "target": "...E direi che non è la sola. Già, con tutti gli splendidi chocobo che stiamo allevando, la gente ha finalmente imparato ad accettare e apprezzare quelli nati a Gridania." },
-    { "gameKey": "custom/001/RegFstBentbranchMeadows_00129#TEXT_REGFSTBENTBRANCHMEADOWS_00129_KEITHA_000_102", "hash": "5627C7B523BB76D7", "target": "Non è un lavoro facile, ma ogni allegro \"kweh\" mi ricorda che non vorrei essere altrove. È la mia vocazione, e la seguirò finché non alleveremo i chocobo più felici e robusti che il regno abbia mai visto." },
+    { "gameKey": "custom/001/RegFstBentbranchMeadows_00129#TEXT_REGFSTBENTBRANCHMEADOWS_00129_KEITHA_000_102", "hash": "5627C7B523BB76D7", "target": "Non è un lavoro facile, ma ogni allegro «kweh» mi ricorda che non vorrei essere altrove. È la mia vocazione, e la seguirò finché non alleveremo i chocobo più felici e robusti che il regno abbia mai visto." },
     { "gameKey": "custom/001/RegFstBentbranchMeadows_00129#TEXT_REGFSTBENTBRANCHMEADOWS_00129_KEITHA_000_040", "hash": "E99673264D7007D3", "target": "Ah, salve di nuovo! Come vanno le vostre lezioni di allevamento dei chocobo? State imparando in fretta e senza rimetterci qualche arto, spero?" }
   ]
 }

@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKzj009_03572#TEXT_LUCKZJ009_03572_SEQ_00", "hash": "7DEA52C9F56477D9", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Yalric sembra impegnato in un'accesa discussione con i suoi amici." },
-    { "gameKey": "quest/035/LucKzj009_03572#TEXT_LUCKZJ009_03572_TODO_00", "hash": "B247BDA12477FBC2", "target": "Cercare il tesoro nascosto nella Foresta del Pastore Perduto" },
-    { "gameKey": "quest/035/LucKzj009_03572#TEXT_LUCKZJ009_03572_TODO_01", "hash": "C9749FE68E66C9B3", "target": "Consegnare il treasure chest a Yalric" },
+    { "gameKey": "quest/035/LucKzj009_03572#TEXT_LUCKZJ009_03572_TODO_00", "hash": "B247BDA12477FBC2", "target": "Cerca il tesoro nascosto nella Foresta del Pastore Perduto" },
+    { "gameKey": "quest/035/LucKzj009_03572#TEXT_LUCKZJ009_03572_TODO_01", "hash": "C9749FE68E66C9B3", "target": "Consegna il treasure chest a Yalric" },
     { "gameKey": "quest/035/LucKzj009_03572#TEXT_LUCKZJ009_03572_YALRIC_000_000", "hash": "C20842600F0D7EEA", "target": "Vi dico che andrà tutto bene! Andiamo a cercare il tesoro!" },
     { "gameKey": "quest/035/LucKzj009_03572#TEXT_LUCKZJ009_03572_VONNDEN_000_001", "hash": "0F3DD761852A136A", "target": "Sei impazzito, Yalric? Se la mamma scopre che siamo andati nel bosco, non voglio nemmeno pensare a cosa... Mh?" },
     { "gameKey": "quest/035/LucKzj009_03572#TEXT_LUCKZJ009_03572_VAYNE_000_002", "hash": "CE4AFEE7BF0829DE", "target": "Oh, salve, <if(gnum4,signora viaggiatrice,signor viaggiatore)>. Che possiamo fare per te? Aspetta, ci hai sentito parlare del tesoro!?" },

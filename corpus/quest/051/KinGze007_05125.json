@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_SEQ_00", "hash": "A3D9850E33E9D04A", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>A quanto pare, fonti di combustibile altamente infiammabili e mostri esplosivi sono una pessima combinazione." },
-    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_TODO_00", "hash": "CBA3BB6727FC7D01", "target": "Esaminare il luogo indicato e sconfiggere i nemici che compaiono" },
-    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_TODO_01", "hash": "FB282488AF592AC6", "target": "Parlare con Maatso" },
+    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_TODO_00", "hash": "CBA3BB6727FC7D01", "target": "Esamina il luogo indicato e sconfiggi i nemici che compaiono" },
+    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_TODO_01", "hash": "FB282488AF592AC6", "target": "Parla con Maatso" },
     { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_MAATSO_000_000", "hash": "5B957904D61CF54C", "target": "Dov'è un cacciatore quando serve?" },
     { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_MAATSO_000_001", "hash": "CFA9DC5E0E678369", "target": "Oh, ciao. Senti, sembri il tipo capace di domare bestie selvatiche. Che ne dici di un po' di lavoro onesto?" },
     { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_MAATSO_000_002", "hash": "3B42107158A30E70", "target": "Vedi, giù alle fosse di ceruleo abbiamo una specie d'infestazione. Di piros al ceruleo, per la precisione." },

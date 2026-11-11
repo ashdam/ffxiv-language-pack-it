@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/049/KinGmd117_04928#TEXT_KINGMD117_04928_SEQ_00", "hash": "093297F9F204709C", "target": "Alisaie è intenzionata a tenere d'occhio la regina." },
-    { "gameKey": "quest/049/KinGmd117_04928#TEXT_KINGMD117_04928_TODO_00", "hash": "8F3A4624A0B5A07F", "target": "Parlare con Sphene" },
-    { "gameKey": "quest/049/KinGmd117_04928#TEXT_KINGMD117_04928_TODO_01", "hash": "D216E676A7ECB865", "target": "Parlare di nuovo con Sphene" },
-    { "gameKey": "quest/049/KinGmd117_04928#TEXT_KINGMD117_04928_TODO_02", "hash": "57AF129A5F64E3E9", "target": "Parlare ancora una volta con Sphene" },
+    { "gameKey": "quest/049/KinGmd117_04928#TEXT_KINGMD117_04928_TODO_00", "hash": "8F3A4624A0B5A07F", "target": "Parla con Sphene" },
+    { "gameKey": "quest/049/KinGmd117_04928#TEXT_KINGMD117_04928_TODO_01", "hash": "D216E676A7ECB865", "target": "Parla di nuovo con Sphene" },
+    { "gameKey": "quest/049/KinGmd117_04928#TEXT_KINGMD117_04928_TODO_02", "hash": "57AF129A5F64E3E9", "target": "Parla ancora una volta con Sphene" },
     { "gameKey": "quest/049/KinGmd117_04928#TEXT_KINGMD117_04928_ALISAIE_000_001", "hash": "3D7156DEB6223409", "target": "Be', stabilito che dobbiamo essere prudenti, ci servirebbero altre informazioni." },
     { "gameKey": "quest/049/KinGmd117_04928#TEXT_KINGMD117_04928_ALISAIE_000_002", "hash": "C87B66DDC7E338E3", "target": "Andiamo dunque in questo posto, gli Outskirts, e vediamo cosa possiamo scoprire. Magari anche su Sphene." },
     { "gameKey": "quest/049/KinGmd117_04928#TEXT_KINGMD117_04928_SPHENE_000_010", "hash": "4E03CDE824A461F4", "target": "Immagino che a Tural abbiate strutture agricole simili?" },

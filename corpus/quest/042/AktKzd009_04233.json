@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/042/AktKzd009_04233#TEXT_AKTKZD009_04233_SEQ_00", "hash": "AE518123C2BFB18F", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Il sergente della Tempesta Makago Nokago ti guarda supplichevole, mentre si contrae al pianto stridulo di una bambina." },
-    { "gameKey": "quest/042/AktKzd009_04233#TEXT_AKTKZD009_04233_TODO_00", "hash": "C4DEB39318CD74D1", "target": "Consolare la bambina con /soothe" },
-    { "gameKey": "quest/042/AktKzd009_04233#TEXT_AKTKZD009_04233_TODO_01", "hash": "134BE32ECC573A56", "target": "Parlare con la bambina, seguirla e salvare la donna intrappolata" },
-    { "gameKey": "quest/042/AktKzd009_04233#TEXT_AKTKZD009_04233_TODO_02", "hash": "86320F9C648621AB", "target": "Parlare con Makago Nokago" },
+    { "gameKey": "quest/042/AktKzd009_04233#TEXT_AKTKZD009_04233_TODO_00", "hash": "C4DEB39318CD74D1", "target": "Consola la bambina con /soothe" },
+    { "gameKey": "quest/042/AktKzd009_04233#TEXT_AKTKZD009_04233_TODO_01", "hash": "134BE32ECC573A56", "target": "Parla con la bambina, seguirla e salva la donna intrappolata" },
+    { "gameKey": "quest/042/AktKzd009_04233#TEXT_AKTKZD009_04233_TODO_02", "hash": "86320F9C648621AB", "target": "Parla con Makago Nokago" },
     { "gameKey": "quest/042/AktKzd009_04233#TEXT_AKTKZD009_04233_MAKAGONAKAGO_000_000", "hash": "EB04FA9A22440148", "target": "Ti prego, un momento del tuo tempo!" },
     { "gameKey": "quest/042/AktKzd009_04233#TEXT_AKTKZD009_04233_MAKAGONAKAGO_000_001", "hash": "ED69C8F0D5D84AA6", "target": "Questa povera bambina è arrivata fin qui dalla capitale dell'Impero. Da sola, a quanto pare. Volevo chiederle cosa la turbasse, ma piange tanto che non riesce nemmeno a riprendere fiato, figurarsi parlare." },
     { "gameKey": "quest/042/AktKzd009_04233#TEXT_AKTKZD009_04233_MAKAGONAKAGO_000_002", "hash": "E5EB8AF76536E97D", "target": "Non sono abituato ai bambini e non so come trattarli: non dico mai la cosa giusta. Ma forse tu riuscirai a calmarla meglio di me. Potresti provare a <colortype(500)><edgecolortype(501)>consolarla<edgecolortype(0)><colortype(0)> per qualunque dolore la affligga?" },

@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKzj011_03574#TEXT_LUCKZJ011_03574_SEQ_00", "hash": "BB7413D27F9C8E9F", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Ambarth del Nodo ti osserva con curiosità." },
-    { "gameKey": "quest/035/LucKzj011_03574#TEXT_LUCKZJ011_03574_TODO_00", "hash": "E2756D3500162A4F", "target": "Consegnare il salted fish al mercante Mord" },
-    { "gameKey": "quest/035/LucKzj011_03574#TEXT_LUCKZJ011_03574_TODO_01", "hash": "0DE41B4FC8C45FE8", "target": "Consegnare i wriggly worms ad Ambarth" },
+    { "gameKey": "quest/035/LucKzj011_03574#TEXT_LUCKZJ011_03574_TODO_00", "hash": "E2756D3500162A4F", "target": "Consegna il salted fish al mercante Mord" },
+    { "gameKey": "quest/035/LucKzj011_03574#TEXT_LUCKZJ011_03574_TODO_01", "hash": "0DE41B4FC8C45FE8", "target": "Consegna i wriggly worms ad Ambarth" },
     { "gameKey": "quest/035/LucKzj011_03574#TEXT_LUCKZJ011_03574_AMBARTH_000_000", "hash": "060E2AF7AE9CA313", "target": "Ehilà! Sei <if(gnum4,la viaggiatrice,il viaggiatore)> di cui parla tutto il villaggio, vero? Magnifico! Speravo di chiederti un piccolo favore. Nei tuoi viaggi per il mondo hai per caso incontrato quelle curiose creaturine note come Mord?" },
     { "gameKey": "quest/035/LucKzj011_03574#TEXT_LUCKZJ011_03574_AMBARTH_000_001", "hash": "621FA3191F767266", "target": "Splendido! Era proprio la risposta che speravo di sentire. Ti sarei molto grato se potessi incontrare un mercante Mord venuto in paese e trattare un semplice scambio per conto mio." },
     { "gameKey": "quest/035/LucKzj011_03574#TEXT_LUCKZJ011_03574_AMBARTH_000_002", "hash": "C63F9B723D3F7BB7", "target": "Normalmente andrei io stesso, naturalmente, ma temo di avere una questione urgentissima di cui occuparmi." },

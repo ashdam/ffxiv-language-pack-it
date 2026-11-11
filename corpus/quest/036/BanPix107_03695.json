@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_SEQ_00", "hash": "B429CE3DEB473E94", "target": "Uin Nee non può aspettare un altro istante che i suoi ordini vengano eseguiti.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
-    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_TODO_00", "hash": "31A8DCB357AB9D08", "target": "Sorvegliare Grazia della Buona Jenanna e uccidere una witchweed per i petali" },
-    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_TODO_01", "hash": "0E11CB601589AFA3", "target": "Consegnare i petali di erba strega a Uin Nee" },
+    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_TODO_00", "hash": "31A8DCB357AB9D08", "target": "Sorveglia Grazia della Buona Jenanna e sconfiggi una witchweed per i petali" },
+    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_TODO_01", "hash": "0E11CB601589AFA3", "target": "Consegna i petali di erba strega a Uin Nee" },
     { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_000", "hash": "6D77D860A98ED6CC", "target": "Oh, no! L'ho fatto di nuovo, ho dimenticato qualcosa di terribilmente importante! Dimenticato cosa, dici? <if(gnum4,Sciocca,Sciocco)> mortale, è proprio quello che cerco di ricordare!" },
     { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_001", "hash": "BD3628A8887E804F", "target": "Oh, ma certo, petali di erba strega! In qualche modo sono riuscito a esaurire completamente la scorta! Non va proprio bene. No, per niente!" },
     { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_002", "hash": "9A7BDF80E0C44475", "target": "Per fortuna sei qui al momento giusto per aiutarmi a sistemare le cose! È davvero impressionante come sembri sempre sapere quando ho bisogno di te. Ora vai a Grazia della Buona Jenanna, dove si aggirano le erbe streghe più frastagliate e fiorite! Non preoccuparti, qui bado io alle cose." },

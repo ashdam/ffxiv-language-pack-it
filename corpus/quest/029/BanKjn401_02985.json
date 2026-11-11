@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/029/BanKjn401_02985#TEXT_BANKJN401_02985_SEQ_00", "hash": "F18E5AFE6CDC15EE", "target": "Zukin ha bisogno che tu ritrovi una giovane scomparsa.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
-    { "gameKey": "quest/029/BanKjn401_02985#TEXT_BANKJN401_02985_TODO_00", "hash": "A5CE7D92D60AFFBF", "target": "Con la chat in modalità <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, inserire una frase contenente «Itomaki» nel luogo indicato per cercare la Kojin smarrita" },
-    { "gameKey": "quest/029/BanKjn401_02985#TEXT_BANKJN401_02985_TODO_01", "hash": "D99552DCA2896CB1", "target": "Cercare Itomaki" },
-    { "gameKey": "quest/029/BanKjn401_02985#TEXT_BANKJN401_02985_TODO_02", "hash": "CBC6D0D7AA6D6045", "target": "Riferire a Zukin" },
+    { "gameKey": "quest/029/BanKjn401_02985#TEXT_BANKJN401_02985_TODO_00", "hash": "A5CE7D92D60AFFBF", "target": "Con la chat in modalità <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, inserisci una frase contenente «Itomaki» nel luogo indicato per cercare la Kojin smarrita" },
+    { "gameKey": "quest/029/BanKjn401_02985#TEXT_BANKJN401_02985_TODO_01", "hash": "D99552DCA2896CB1", "target": "Cerca Itomaki" },
+    { "gameKey": "quest/029/BanKjn401_02985#TEXT_BANKJN401_02985_TODO_02", "hash": "CBC6D0D7AA6D6045", "target": "Riferisci a Zukin" },
     { "gameKey": "quest/029/BanKjn401_02985#TEXT_BANKJN401_02985_ZUKIN_000_000", "hash": "1707B129269B7A99", "target": "<split(<string(gstr1)>, ,1)>, posso chiederti un favore? Itomaki, una delle nostre giovani, è partita in cerca di tesori vicino al relitto della <italic(1)>Kobayashi Maru<italic(0)> e non è ancora tornata." },
     { "gameKey": "quest/029/BanKjn401_02985#TEXT_BANKJN401_02985_ZUKIN_000_001", "hash": "C3FE796C3F8D2582", "target": "Potresti dirle di tornare prima che si cacci in guai seri?" },
     { "gameKey": "quest/029/BanKjn401_02985#TEXT_BANKJN401_02985_SAYTODO_000_015", "hash": "1C2739C50201DC42", "target": "Itomaki" },

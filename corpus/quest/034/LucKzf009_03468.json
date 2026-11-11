@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/034/LucKzf009_03468#TEXT_LUCKZF009_03468_SEQ_00", "hash": "B5956F07EC3D5C27", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>La sentinella agitata ti guarda con aspettativa." },
-    { "gameKey": "quest/034/LucKzf009_03468#TEXT_LUCKZF009_03468_TODO_00", "hash": "EC534F6F67AAC170", "target": "Parlare con Olmet" },
-    { "gameKey": "quest/034/LucKzf009_03468#TEXT_LUCKZF009_03468_TODO_01", "hash": "F992F922B0A88DE8", "target": "Parlare con Ciuille" },
-    { "gameKey": "quest/034/LucKzf009_03468#TEXT_LUCKZF009_03468_TODO_02", "hash": "DF4C61ACB04A350B", "target": "Consegnare la fur blanket e la purified water alla sentinella agitata" },
+    { "gameKey": "quest/034/LucKzf009_03468#TEXT_LUCKZF009_03468_TODO_00", "hash": "EC534F6F67AAC170", "target": "Parla con Olmet" },
+    { "gameKey": "quest/034/LucKzf009_03468#TEXT_LUCKZF009_03468_TODO_01", "hash": "F992F922B0A88DE8", "target": "Parla con Ciuille" },
+    { "gameKey": "quest/034/LucKzf009_03468#TEXT_LUCKZF009_03468_TODO_02", "hash": "DF4C61ACB04A350B", "target": "Consegna la fur blanket e la purified water alla sentinella agitata" },
     { "gameKey": "quest/034/LucKzf009_03468#TEXT_LUCKZF009_03468_KINDVIIS03468_000_000", "hash": "CD01CE996F32D337", "target": "Normalmente non chiederei nulla agli alleati di Ronka, ma questa è un'emergenza." },
     { "gameKey": "quest/034/LucKzf009_03468#TEXT_LUCKZF009_03468_KINDVIIS03468_000_001", "hash": "0B846B92D620322E", "target": "Una delle nostre sorelle sta partorendo. Ci aiuteresti a preparare tutto per il parto?" },
     { "gameKey": "quest/034/LucKzf009_03468#TEXT_LUCKZF009_03468_KINDVIIS03468_000_002", "hash": "F4C7BBB949935270", "target": "Ho chiesto a Olmet una coperta per il bebè e a Ciuille dell'acqua fresca." },

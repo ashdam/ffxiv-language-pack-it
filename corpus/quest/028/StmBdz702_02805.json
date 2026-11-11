@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/028/StmBdz702_02805#TEXT_STMBDZ702_02805_SEQ_00", "hash": "841C7B0242ECDAC0", "target": "Yagoro ha bisogno di provviste rare da luoghi difficili da raggiungere." },
-    { "gameKey": "quest/028/StmBdz702_02805#TEXT_STMBDZ702_02805_TODO_00", "hash": "3DEE64923ED2F071", "target": "Ottenere un cristallo dallo stagno arancione" },
-    { "gameKey": "quest/028/StmBdz702_02805#TEXT_STMBDZ702_02805_TODO_01", "hash": "5F2609517BBDF4B9", "target": "Ottenere acqua dallo stagno verde" },
-    { "gameKey": "quest/028/StmBdz702_02805#TEXT_STMBDZ702_02805_TODO_02", "hash": "C559E1D4F8B88D5B", "target": "Consegnare il cristallo e l'acqua a Yagoro" },
+    { "gameKey": "quest/028/StmBdz702_02805#TEXT_STMBDZ702_02805_TODO_00", "hash": "3DEE64923ED2F071", "target": "Ottieni un cristallo dallo stagno arancione" },
+    { "gameKey": "quest/028/StmBdz702_02805#TEXT_STMBDZ702_02805_TODO_01", "hash": "5F2609517BBDF4B9", "target": "Ottieni acqua dallo stagno verde" },
+    { "gameKey": "quest/028/StmBdz702_02805#TEXT_STMBDZ702_02805_TODO_02", "hash": "C559E1D4F8B88D5B", "target": "Consegna il cristallo e l'acqua a Yagoro" },
     { "gameKey": "quest/028/StmBdz702_02805#TEXT_STMBDZ702_02805_YAGORO_000_000", "hash": "44967B8A398E3C3E", "target": "Se non sbaglio, sei <split(<string(gstr1)>, ,1)>? Ho bisogno del tuo aiuto. Ti prego, ascoltami." },
     { "gameKey": "quest/028/StmBdz702_02805#TEXT_STMBDZ702_02805_YAGORO_000_001", "hash": "DB9C82C899691FCC", "target": "Non si direbbe, ma di mestiere sono un artigiano. Il Fronte, però, è sempre a corto di personale, e così sono diventato una specie di tuttofare. Ultimamente mi hanno incaricato di procurare alcune provviste rare, ma è un compito che va ben oltre le mie modeste capacità. Lascia che ti spieghi." },
     { "gameKey": "quest/028/StmBdz702_02805#TEXT_STMBDZ702_02805_YAGORO_000_002", "hash": "796B348D9103B2B7", "target": "A nord di qui si trova un luogo singolare, chiamato Lago Prisma. Lì ci sono affioramenti di cristalli di grande purezza che, per qualche capriccio degli elementi, hanno tinto le acque dei colori dell'arcobaleno." },

@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/033/LucKza007_03349#TEXT_LUCKZA007_03349_SEQ_00", "hash": "99E62D8DD5532947", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Il pescatore sconsolato sembra smarrito e distrutto." },
-    { "gameKey": "quest/033/LucKza007_03349#TEXT_LUCKZA007_03349_TODO_00", "hash": "EDA455F47D323EB3", "target": "Cercare gli oggetti sparsi sulla Spiaggia delle Conchiglie Spezzate" },
-    { "gameKey": "quest/033/LucKza007_03349#TEXT_LUCKZA007_03349_TODO_01", "hash": "6B132D57DE20E502", "target": "Consegnare gli oggetti al pescatore sconsolato" },
+    { "gameKey": "quest/033/LucKza007_03349#TEXT_LUCKZA007_03349_TODO_00", "hash": "EDA455F47D323EB3", "target": "Cerca gli oggetti sparsi sulla Spiaggia delle Conchiglie Spezzate" },
+    { "gameKey": "quest/033/LucKza007_03349#TEXT_LUCKZA007_03349_TODO_01", "hash": "6B132D57DE20E502", "target": "Consegna gli oggetti al pescatore sconsolato" },
     { "gameKey": "quest/033/LucKza007_03349#TEXT_LUCKZA007_03349_FISHERMAN03349_100_000", "hash": "6C2DBB4FEEDD4C66", "target": "\\<sigh>" },
     { "gameKey": "quest/033/LucKza007_03349#TEXT_LUCKZA007_03349_FISHERMAN03349_000_000", "hash": "C26076A8A3CC59C1", "target": "Oh, quel sospiro non era per te, stavo solo... pensando a un amico." },
     { "gameKey": "quest/033/LucKza007_03349#TEXT_LUCKZA007_03349_FISHERMAN03349_000_001", "hash": "C42A7FD76852597F", "target": "Quel dannato sciocco si era stancato della vita dura, vedi, e ha cercato di raggiungere la terraferma con la nostra piccola barca da pesca. Diceva che sarebbe tornato a prendermi dopo aver fatto fortuna." },

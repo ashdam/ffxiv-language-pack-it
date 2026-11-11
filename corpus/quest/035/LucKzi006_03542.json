@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKzi006_03542#TEXT_LUCKZI006_03542_SEQ_00", "hash": "2B6B1EE0DB2EE9C8", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Bie-Zumm ti osserva con sguardo valutatore." },
-    { "gameKey": "quest/035/LucKzi006_03542#TEXT_LUCKZI006_03542_TODO_00", "hash": "2343C3A6CC1EF813", "target": "Ottenere cliffkite wings dai cliffkite" },
-    { "gameKey": "quest/035/LucKzi006_03542#TEXT_LUCKZI006_03542_TODO_01", "hash": "BB065ECC49BBAE34", "target": "Consegnare le cliffkite wings a Bie-Zumm" },
+    { "gameKey": "quest/035/LucKzi006_03542#TEXT_LUCKZI006_03542_TODO_00", "hash": "2343C3A6CC1EF813", "target": "Ottieni cliffkite wings dai cliffkite" },
+    { "gameKey": "quest/035/LucKzi006_03542#TEXT_LUCKZI006_03542_TODO_01", "hash": "BB065ECC49BBAE34", "target": "Consegna le cliffkite wings a Bie-Zumm" },
     { "gameKey": "quest/035/LucKzi006_03542#TEXT_LUCKZI006_03542_BIEZUMM_000_000", "hash": "E57B59FC5C7ADE61", "target": "...Dicono che la Scala si muova di nuovo grazie a te, che tu sia <if(gnum4,una donna,un uomo)> capace di portare a termine le cose." },
     { "gameKey": "quest/035/LucKzi006_03542#TEXT_LUCKZI006_03542_BIEZUMM_000_001", "hash": "9B81313A37B9322E", "target": "Be', ho un lavoro che nessun altro qui sembra capace di fare. Voglio solo alcune punte di cristallo dalle ali di quei cliffkite, non quelle vecchie e rotte che qualcuno ha raccolto da terra!" },
     { "gameKey": "quest/035/LucKzi006_03542#TEXT_LUCKZI006_03542_BIEZUMM_000_002", "hash": "108732307384AE32", "target": "Se riesci a portarmi delle ali con le punte intatte, ti pagherò sicuramente quanto valgono." },

@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/029/StmBdb102_02963#TEXT_STMBDB102_02963_SEQ_00", "hash": "599A42A8B14CC584", "target": "Riesci quasi a vedere gli ingranaggi nella testa di Alphinaud mettersi in moto." },
-    { "gameKey": "quest/029/StmBdb102_02963#TEXT_STMBDB102_02963_TODO_00", "hash": "B68CDC72A7A344F2", "target": "Parlare con gli abitanti del Rione di Ala Mhigo" },
-    { "gameKey": "quest/029/StmBdb102_02963#TEXT_STMBDB102_02963_TODO_01", "hash": "06940C52601FF2E9", "target": "Parlare con Ernold" },
-    { "gameKey": "quest/029/StmBdb102_02963#TEXT_STMBDB102_02963_TODO_02", "hash": "128F96404FEA9F46", "target": "Fare rapporto ad Arenvald" },
+    { "gameKey": "quest/029/StmBdb102_02963#TEXT_STMBDB102_02963_TODO_00", "hash": "B68CDC72A7A344F2", "target": "Parla con gli abitanti del Rione di Ala Mhigo" },
+    { "gameKey": "quest/029/StmBdb102_02963#TEXT_STMBDB102_02963_TODO_01", "hash": "06940C52601FF2E9", "target": "Parla con Ernold" },
+    { "gameKey": "quest/029/StmBdb102_02963#TEXT_STMBDB102_02963_TODO_02", "hash": "128F96404FEA9F46", "target": "Fai rapporto ad Arenvald" },
     { "gameKey": "quest/029/StmBdb102_02963#TEXT_STMBDB102_02963_ARENVALD_000_001", "hash": "2F5A9BBE00BB746F", "target": "Se qualcuno può trovare quel tesoro, siamo noi─ma anche se non ci riuscissimo, credo che l'avventura sarebbe già una ricompensa sufficiente." },
     { "gameKey": "quest/029/StmBdb102_02963#TEXT_STMBDB102_02963_ALPHINAUD_000_002", "hash": "38398A747B35AD8D", "target": "La notizia della liberazione di Doma e Ala Mhigo ha alimentato le fiamme della rivoluzione in ogni angolo dell'Impero. Ho sentito che la provincia imperiale di Dalmasca si è già ribellata..." },
     { "gameKey": "quest/029/StmBdb102_02963#TEXT_STMBDB102_02963_ALPHINAUD_000_010", "hash": "7AF4450058DA9DAD", "target": "...Il che significa che i garleani avranno certamente il loro bel daffare. Quale momento migliore per concederci una simile distrazione? Dicci, Arenvald─abbiamo qualche indizio da cui cominciare le ricerche?" },

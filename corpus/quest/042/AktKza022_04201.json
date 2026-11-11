@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/042/AktKza022_04201#TEXT_AKTKZA022_04201_SEQ_00", "hash": "0D71640C42311E12", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Nashrifhal vuole aiutare i colleghi alla Grande Opera, ma non può farlo da solo." },
-    { "gameKey": "quest/042/AktKza022_04201#TEXT_AKTKZA022_04201_TODO_00", "hash": "1B1C6FECDEC60154", "target": "Usare /greet sugli alchimisti e chiedere loro di che cosa hanno bisogno" },
-    { "gameKey": "quest/042/AktKza022_04201#TEXT_AKTKZA022_04201_TODO_01", "hash": "10C1A9201B8DFA69", "target": "Parlare con Nashrifhal" },
+    { "gameKey": "quest/042/AktKza022_04201#TEXT_AKTKZA022_04201_TODO_00", "hash": "1B1C6FECDEC60154", "target": "Usa /greet sugli alchimisti e chiedi loro di che cosa hanno bisogno" },
+    { "gameKey": "quest/042/AktKza022_04201#TEXT_AKTKZA022_04201_TODO_01", "hash": "10C1A9201B8DFA69", "target": "Parla con Nashrifhal" },
     { "gameKey": "quest/042/AktKza022_04201#TEXT_AKTKZA022_04201_NASHRIFHAL_000_001", "hash": "1CB989DC43A69EFA", "target": "Salve, <if(gnum4,avventuriera,avventuriero)>! Puoi aiutarmi? Mi serve qualcuno che faccia un giro per vedere se a qualcuno mancano delle provviste." },
     { "gameKey": "quest/042/AktKza022_04201#TEXT_AKTKZA022_04201_NASHRIFHAL_000_002", "hash": "1A0795CFD15FF802", "target": "Lo farei io, ma noi alchimisti siamo tutti così impegnati che nessuno vuole disturbare gli altri con richieste egoistiche. Se però a chiedere è qualcuno di esterno come te, forse si apriranno un po'." },
     { "gameKey": "quest/042/AktKza022_04201#TEXT_AKTKZA022_04201_NASHRIFHAL_000_003", "hash": "B848CCB9432C3965", "target": "Ti prego. Devo cominciare a rifornirci, ma di questo passo non saprò mai che cosa manchi. Ti sarei davvero grato per l'aiuto." },

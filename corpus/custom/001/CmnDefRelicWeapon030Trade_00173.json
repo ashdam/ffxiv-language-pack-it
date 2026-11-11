@@ -2,7 +2,7 @@
   "conversation": "custom/001/CmnDefRelicWeapon030Trade_00173",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/CmnDefRelicWeapon030Trade_00173#TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_000", "hash": "D9A31C0704BAFF46", "target": "Con le mie arti, trasferirò l'energia luminosa della pergamena sferica alla tua reliquia. Affidami l'oggetto che desideri potenziare e procederò." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon030Trade_00173#TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_000", "hash": "D9A31C0704BAFF46", "target": "Con le mie arti, trasferirò l'energia luminosa della pergamena sferica alla tua reliquia. Affidami l'oggetto che desideri potenziare e compirò l'opera." },
     { "gameKey": "custom/001/CmnDefRelicWeapon030Trade_00173#TEXT_CMNDEFRELICWEAPON030TRADE_00173_Q1_000_000", "hash": "B52FF8EC45839E7F", "target": "Cosa vuoi potenziare?" },
     { "gameKey": "custom/001/CmnDefRelicWeapon030Trade_00173#TEXT_CMNDEFRELICWEAPON030TRADE_00173_A1_000_010", "hash": "AA7C24332F7598B8", "target": "<sheet(Item,lnum1,9)>." },
     { "gameKey": "custom/001/CmnDefRelicWeapon030Trade_00173#TEXT_CMNDEFRELICWEAPON030TRADE_00173_A1_000_020", "hash": "E345DB4FB0067F5E", "target": "Niente." },
@@ -16,7 +16,7 @@
     { "gameKey": "custom/001/CmnDefRelicWeapon030Trade_00173#TEXT_CMNDEFRELICWEAPON030TRADE_00173_SYSTEM_000_085", "hash": "021BE4D9BCBD4AB7", "target": "Prima di parlare con Jalzahn, assicurati che la reliquia da potenziare si trovi nell'Armeria o nell'inventario." },
     { "gameKey": "custom/001/CmnDefRelicWeapon030Trade_00173#TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_100", "hash": "8FC128AD9A32817C", "target": "Non posso lavorare sulla tua reliquia mentre la stai equipaggiando." },
     { "gameKey": "custom/001/CmnDefRelicWeapon030Trade_00173#TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_130", "hash": "BC300147A9F202D4", "target": "Dov'è la pergamena sferica per potenziare questa reliquia? L'hai forse dimenticata?" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon030Trade_00173#TEXT_CMNDEFRELICWEAPON030TRADE_00173_SYSTEM_000_135", "hash": "5A21A3597A0E51FC", "target": "Non possiedi <ennoun(Item,3,lnum1,1,1)>. Puoi ottenere le pergamene sferiche da Hubairtin in cambio di bottiglie di superior enchanted ink." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon030Trade_00173#TEXT_CMNDEFRELICWEAPON030TRADE_00173_SYSTEM_000_135", "hash": "5A21A3597A0E51FC", "target": "Non possiedi <ennoun(Item,3,lnum1,1,1)>. Puoi ottenere le pergamene sferiche da Hubairtin in cambio di bottiglie d'inchiostro incantato pregiato." },
     { "gameKey": "custom/001/CmnDefRelicWeapon030Trade_00173#TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_140", "hash": "DB22CB572BD38996", "target": "Abbiamo già potenziato questa particolare reliquia, no? Non te ne serve un'altra." },
     { "gameKey": "custom/001/CmnDefRelicWeapon030Trade_00173#TEXT_CMNDEFRELICWEAPON030TRADE_00173_SYSTEM_000_145", "hash": "D2CE0830F2C6EE83", "target": "Possiedi già <ennoun(Item,3,lnum1,1,1)>." },
     { "gameKey": "custom/001/CmnDefRelicWeapon030Trade_00173#TEXT_CMNDEFRELICWEAPON030TRADE_00173_JALZAHN_000_145", "hash": "3B490E9F87944827", "target": "Non posso procedere finché non fai spazio tra il caos dei tuoi averi." },

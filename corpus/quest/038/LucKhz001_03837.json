@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/038/LucKhz001_03837#TEXT_LUCKHZ001_03837_SEQ_00", "hash": "3875453DEDE3D312", "target": "Ehll Tou è ansiosa di imparare." },
-    { "gameKey": "quest/038/LucKhz001_03837#TEXT_LUCKHZ001_03837_TODO_00", "hash": "5A8BFA5000E98972", "target": "Parlare con Ehll Tou vicino al Sacrario" },
-    { "gameKey": "quest/038/LucKhz001_03837#TEXT_LUCKHZ001_03837_TODO_01", "hash": "004BBC4BD64D9840", "target": "Parlare con Ehll Tou al Nido del Falco" },
-    { "gameKey": "quest/038/LucKhz001_03837#TEXT_LUCKHZ001_03837_TODO_02", "hash": "938DC32882F729B5", "target": "Parlare con Ehll Tou nel Firmamento" },
+    { "gameKey": "quest/038/LucKhz001_03837#TEXT_LUCKHZ001_03837_TODO_00", "hash": "5A8BFA5000E98972", "target": "Parla con Ehll Tou vicino al Sacrario" },
+    { "gameKey": "quest/038/LucKhz001_03837#TEXT_LUCKHZ001_03837_TODO_01", "hash": "004BBC4BD64D9840", "target": "Parla con Ehll Tou al Nido del Falco" },
+    { "gameKey": "quest/038/LucKhz001_03837#TEXT_LUCKHZ001_03837_TODO_02", "hash": "938DC32882F729B5", "target": "Parla con Ehll Tou nel Firmamento" },
     { "gameKey": "quest/038/LucKhz001_03837#TEXT_LUCKHZ001_03837_EHLLTOU_000_000", "hash": "93C253CEFBC9BEDB", "target": "Ah, <if(gnum4,eroina,eroe)>, arrivi al momento giusto. Ho una domanda per te." },
     { "gameKey": "quest/038/LucKhz001_03837#TEXT_LUCKHZ001_03837_EHLLTOU_000_001", "hash": "1E6833D22E202867", "target": "Come sai, discendo da Ratatoskr e, come lei, voglio riempire i cieli di canti meravigliosi." },
     { "gameKey": "quest/038/LucKhz001_03837#TEXT_LUCKHZ001_03837_EHLLTOU_000_002", "hash": "DEAB8FDA659D137D", "target": "Per riuscirci, devo conoscere gli eventi storici come se li avessi vissuti. Vorrei quindi incontrare la grande persona che ha posto fine alla Guerra del Canto dei Draghi. Sai dove trovarla?" },

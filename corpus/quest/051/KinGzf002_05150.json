@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/051/KinGzf002_05150#TEXT_KINGZF002_05150_SEQ_00", "hash": "79C31A21020C4CFA", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Pawkwena ha un problema di scelta delle verdure." },
-    { "gameKey": "quest/051/KinGzf002_05150#TEXT_KINGZF002_05150_TODO_00", "hash": "2851D51916EF1D3C", "target": "Parlare con Shepimenye" },
-    { "gameKey": "quest/051/KinGzf002_05150#TEXT_KINGZF002_05150_TODO_01", "hash": "2E42540CEF9CD730", "target": "Scegliere una verdura" },
-    { "gameKey": "quest/051/KinGzf002_05150#TEXT_KINGZF002_05150_TODO_02", "hash": "EF70F6A865F2637A", "target": "Consegnare il sacco di verdure a Pawkwena" },
+    { "gameKey": "quest/051/KinGzf002_05150#TEXT_KINGZF002_05150_TODO_00", "hash": "2851D51916EF1D3C", "target": "Parla con Shepimenye" },
+    { "gameKey": "quest/051/KinGzf002_05150#TEXT_KINGZF002_05150_TODO_01", "hash": "2E42540CEF9CD730", "target": "Scegli una verdura" },
+    { "gameKey": "quest/051/KinGzf002_05150#TEXT_KINGZF002_05150_TODO_02", "hash": "EF70F6A865F2637A", "target": "Consegna il sacco di verdure a Pawkwena" },
     { "gameKey": "quest/051/KinGzf002_05150#TEXT_KINGZF002_05150_PAWKWENA_000_000", "hash": "780419A1B7ADA74E", "target": "Non so che cosa tu faccia qui, ma di certo non guarderò in bocca a un rroneek donato. Potresti andare a prendermi una verdura?" },
     { "gameKey": "quest/051/KinGzf002_05150#TEXT_KINGZF002_05150_PAWKWENA_000_001", "hash": "7B1EFE6C99B64686", "target": "Ehm... forse dovrei spiegarmi. Sto cercando di organizzare la cena di stasera, ma proprio non riesco a decidere che cosa preparare!" },
     { "gameKey": "quest/051/KinGzf002_05150#TEXT_KINGZF002_05150_PAWKWENA_000_002", "hash": "B49434909BDB1FC0", "target": "Non sarà un gran disturbo, prometto. Vai all'Aureola di Yyupye e parla con Shepimenye: avrà senz'altro qualche prodotto di stagione." },

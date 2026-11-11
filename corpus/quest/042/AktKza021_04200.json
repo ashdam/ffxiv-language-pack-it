@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/042/AktKza021_04200#TEXT_AKTKZA021_04200_SEQ_00", "hash": "9A54575F0490DB29", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Yedjina ha bisogno d'aiuto alla Grande Opera." },
-    { "gameKey": "quest/042/AktKza021_04200#TEXT_AKTKZA021_04200_TODO_00", "hash": "B632809ECE0B7AA0", "target": "Consegnare il coin-stuffed pouch al mercante a Yedlihmad" },
-    { "gameKey": "quest/042/AktKza021_04200#TEXT_AKTKZA021_04200_TODO_01", "hash": "8B4E24E225D7AC20", "target": "Consegnare il crystal-stuffed pouch a Yedjina" },
+    { "gameKey": "quest/042/AktKza021_04200#TEXT_AKTKZA021_04200_TODO_00", "hash": "B632809ECE0B7AA0", "target": "Consegna il coin-stuffed pouch al mercante a Yedlihmad" },
+    { "gameKey": "quest/042/AktKza021_04200#TEXT_AKTKZA021_04200_TODO_01", "hash": "8B4E24E225D7AC20", "target": "Consegna il crystal-stuffed pouch a Yedjina" },
     { "gameKey": "quest/042/AktKza021_04200#TEXT_AKTKZA021_04200_YEDJINA_000_001", "hash": "5D1203BDA8C9E235", "target": "Non sei <if(gnum4,l'avventuriera,l'avventuriero)> che ha salvato Matsya? Ottimo tempismo! Se hai un po' di tempo, vorrei chiederti un favore." },
     { "gameKey": "quest/042/AktKza021_04200#TEXT_AKTKZA021_04200_YEDJINA_000_002", "hash": "BB46288FE1470049", "target": "Vedi, i danzatori di Radz-at-Han stanno preparando uno spettacolo per risollevare il morale della gente. Noi alchimisti vorremmo sostenerli con alcuni dei migliori accessori che sappiamo creare." },
     { "gameKey": "quest/042/AktKza021_04200#TEXT_AKTKZA021_04200_YEDJINA_000_003", "hash": "92DBB4D8B3BB9A5C", "target": "Purtroppo, nessuno di noi ha tempo di procurare i cristalli necessari per finirli. Ci saresti di grande aiuto se li prendessi dal mercante al porto di Yedlihmad. Naturalmente, ti daremo i fondi necessari." },

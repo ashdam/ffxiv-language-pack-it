@@ -2,7 +2,7 @@
   "conversation": "custom/009/FesNyx2026Guide_00916",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/009/FesNyx2026Guide_00916#TEXT_FESNYX2026GUIDE_00916_HORSESERVER_000_000", "hash": "611BF4EC53565092", "target": "Buongiorno, <if(gnum4,mia signora,mio signore)>. Sono il uma doshin, membro di una delegazione dell'Estremo Oriente venuta a condividere le tradizioni del Capodanno Celeste con la buona gente di Eorzea. Se desiderate sapere qualcosa sui festeggiamenti di quest'anno, basta chiedere." },
+    { "gameKey": "custom/009/FesNyx2026Guide_00916#TEXT_FESNYX2026GUIDE_00916_HORSESERVER_000_000", "hash": "611BF4EC53565092", "target": "Buongiorno, <if(gnum4,mia signora,mio signore)>. Sono l'uma doshin, membro di una delegazione dell'Estremo Oriente venuta a condividere le tradizioni del Capodanno Celeste con la buona gente di Eorzea. Se desiderate sapere qualcosa sui festeggiamenti di quest'anno, basta chiedere." },
     { "gameKey": "custom/009/FesNyx2026Guide_00916#TEXT_FESNYX2026GUIDE_00916_Q1_000_1", "hash": "9A32AB23F7DD1714", "target": "Cosa vuoi chiedere?" },
     { "gameKey": "custom/009/FesNyx2026Guide_00916#TEXT_FESNYX2026GUIDE_00916_A1_000_1", "hash": "478FC7DC119EBF82", "target": "Di cosa vi occupate qui?" },
     { "gameKey": "custom/009/FesNyx2026Guide_00916#TEXT_FESNYX2026GUIDE_00916_A1_000_2", "hash": "2858CD19DFC0A660", "target": "Che cos'è il Capodanno Celeste?" },

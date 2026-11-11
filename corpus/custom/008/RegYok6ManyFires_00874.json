@@ -3,10 +3,10 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/008/RegYok6ManyFires_00874#TEXT_REGYOK6MANYFIRES_00874_FLONICHIQ_000_000", "hash": "979BCD00C244B392", "target": "Pfff... Pfffkohhh... Salutoparole, bassaterra. Bassaterra vuole pensasapere di più su Molti Fuochi?" },
-    { "gameKey": "custom/008/RegYok6ManyFires_00874#TEXT_REGYOK6MANYFIRES_00874_FLONICHIQ_000_001", "hash": "19FB1D9AEB3E5842", "target": "Flonichiq cuorspera che nuovo Servitore dell'Alba continui a investire in Kozama'uka. Più commerciovie significa più commerci, e quindi più tintinnaluccichio!" },
+    { "gameKey": "custom/008/RegYok6ManyFires_00874#TEXT_REGYOK6MANYFIRES_00874_FLONICHIQ_000_001", "hash": "19FB1D9AEB3E5842", "target": "Flonichiq cuorspera che nuovo Custode dell'Alba continui a investire in Kozama'uka. Più commerciovie significa più commerci, e quindi più tintinnaluccichio!" },
     { "gameKey": "custom/008/RegYok6ManyFires_00874#TEXT_REGYOK6MANYFIRES_00874_FLONICHIQ_000_002", "hash": "61614D9DE3B128AC", "target": "Pfff... Pfffkohhh... Quando mercanti e viandanti si aiutamano a vicenda, Tural diventa sempre più forte! Bassaterra <if(gnum4,viaggiatrice o mercante,viaggiatore o mercante)>? Cosa porta bassaterra a Molti Fuochi?" },
     { "gameKey": "custom/008/RegYok6ManyFires_00874#TEXT_REGYOK6MANYFIRES_00874_Q1_000_000", "hash": "C817FAE6CCB6F279", "target": "Cosa vuoi chiedere?" },
-    { "gameKey": "custom/008/RegYok6ManyFires_00874#TEXT_REGYOK6MANYFIRES_00874_A1_000_001", "hash": "A123B5040FA16181", "target": "Di cosa vi occupate qui?" },
+    { "gameKey": "custom/008/RegYok6ManyFires_00874#TEXT_REGYOK6MANYFIRES_00874_A1_000_001", "hash": "A123B5040FA16181", "target": "Di cosa ti occupi qui?" },
     { "gameKey": "custom/008/RegYok6ManyFires_00874#TEXT_REGYOK6MANYFIRES_00874_A1_000_002", "hash": "B09D1DDD4DB14AFD", "target": "Che posto è questo?" },
     { "gameKey": "custom/008/RegYok6ManyFires_00874#TEXT_REGYOK6MANYFIRES_00874_A1_000_003", "hash": "27758699161A5491", "target": "Niente." },
     { "gameKey": "custom/008/RegYok6ManyFires_00874#TEXT_REGYOK6MANYFIRES_00874_FLONICHIQ_000_010", "hash": "8204BD8AB01E0844", "target": "Flonichiq è lietosaluto di Molti Fuochi. Accoglie viaggiomercanti con lietosaluto e offre loro grigliata che fa panciarallegria." },

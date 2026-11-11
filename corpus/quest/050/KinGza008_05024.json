@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/050/KinGza008_05024#TEXT_KINGZA008_05024_SEQ_00", "hash": "E0E502EBFF4FAC8B", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Tapipya contempla amorevolmente le sue preziose colture." },
-    { "gameKey": "quest/050/KinGza008_05024#TEXT_KINGZA008_05024_TODO_00", "hash": "5701DF7FE127C7A2", "target": "Raccogliere vegetable scraps dall'aiuto di cucina dello Xbalyav Ty'e" },
-    { "gameKey": "quest/050/KinGza008_05024#TEXT_KINGZA008_05024_TODO_01", "hash": "E69A8E06F8FB24C6", "target": "Raccogliere vegetable scraps dall'assistente cuoco del ristorante Tacos di Zia Tii" },
-    { "gameKey": "quest/050/KinGza008_05024#TEXT_KINGZA008_05024_TODO_02", "hash": "CA59EC41E8CE7D1A", "target": "Consegnare i vegetable scraps a Tapipya" },
+    { "gameKey": "quest/050/KinGza008_05024#TEXT_KINGZA008_05024_TODO_00", "hash": "5701DF7FE127C7A2", "target": "Raccogli vegetable scraps dall'aiuto di cucina dello Xbalyav Ty'e" },
+    { "gameKey": "quest/050/KinGza008_05024#TEXT_KINGZA008_05024_TODO_01", "hash": "E69A8E06F8FB24C6", "target": "Raccogli vegetable scraps dall'assistente cuoco del ristorante Tacos di Zia Tii" },
+    { "gameKey": "quest/050/KinGza008_05024#TEXT_KINGZA008_05024_TODO_02", "hash": "CA59EC41E8CE7D1A", "target": "Consegna i vegetable scraps a Tapipya" },
     { "gameKey": "quest/050/KinGza008_05024#TEXT_KINGZA008_05024_TAPIPYA_000_001", "hash": "9C0F353D97C598D3", "target": "Salve, <if(gnum4,viaggiatrice,viaggiatore)>. Ho notato che fissavi le mie colture. Ti diletti anche tu un po' a seminare e coltivare?" },
     { "gameKey": "quest/050/KinGza008_05024#TEXT_KINGZA008_05024_TAPIPYA_000_002", "hash": "6F14B256307229FD", "target": "Che ne dici di sbrigare una piccola commissione per me? Per ringraziarti, condividerò qualche conoscenza che noi agricoltori locali abbiamo coltivato negli anni." },
     { "gameKey": "quest/050/KinGza008_05024#TEXT_KINGZA008_05024_TAPIPYA_000_003", "hash": "FBD0AD295996B4ED", "target": "Bene, tutto comincia dal compost! Ed è qui che entri in gioco tu. Mi serve il tuo aiuto per procurarmi gli ingredienti da mescolare, e con il letame d'alpaca non si sbaglia mai!" },

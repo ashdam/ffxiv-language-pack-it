@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_000", "hash": "0C123A03752A1C7C", "target": "<if(gnum4,Una visitatrice,Un visitatore)>? Non ne vediamo molti da queste parti. Se c'è qualcosa che vuoi sapere, chiedi pure." },
     { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_Q1_000_000", "hash": "5DD77BF05427BBBD", "target": "Cosa vuoi chiedere?" },
-    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_A1_000_001", "hash": "A7973FC623E63A58", "target": "Parlatemi di voi." },
+    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_A1_000_001", "hash": "A7973FC623E63A58", "target": "Parlami di te." },
     { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_A1_000_002", "hash": "0A8C285CD3A75E28", "target": "Che posto è questo?" },
     { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_A1_000_003", "hash": "050BAEE8C4243F37", "target": "Niente." },
     { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_010", "hash": "5060BE1032EE984B", "target": "Vuoi sapere di <italic(1)>me<italic(0)>? Mi occupo dell'addestramento dei nostri lottatori di Azim Bökh. È uno stile di lotta tradizionale della Steppa, tramandato di generazione in generazione." },

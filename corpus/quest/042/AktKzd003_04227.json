@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/042/AktKzd003_04227#TEXT_AKTKZD003_04227_SEQ_00", "hash": "221AD3EFDD6E7EF8", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Spurius vorrebbe ravvivare questo posto tetro, ma non ha i materiali necessari." },
-    { "gameKey": "quest/042/AktKzd003_04227#TEXT_AKTKZD003_04227_TODO_00", "hash": "2EE99749CCCFE9F8", "target": "Recuperare i recipienti di vetro" },
-    { "gameKey": "quest/042/AktKzd003_04227#TEXT_AKTKZD003_04227_TODO_01", "hash": "82A76FFF6E1E7772", "target": "Consegnare i recipienti di vetro a Spurius" },
+    { "gameKey": "quest/042/AktKzd003_04227#TEXT_AKTKZD003_04227_TODO_00", "hash": "2EE99749CCCFE9F8", "target": "Recupera i recipienti di vetro" },
+    { "gameKey": "quest/042/AktKzd003_04227#TEXT_AKTKZD003_04227_TODO_01", "hash": "82A76FFF6E1E7772", "target": "Consegna i recipienti di vetro a Spurius" },
     { "gameKey": "quest/042/AktKzd003_04227#TEXT_AKTKZD003_04227_SPURIUS_000_000", "hash": "733F103ACEDC2E99", "target": "C'è qualcosa nell'oscurità che abbatte lo spirito, non trovi? Abbiamo molte luci, sì, ma usano lo stesso combustibile dei riscaldatori. E «non morire congelati» ha una priorità un po' più alta di «rendere bello il posto»." },
     { "gameKey": "quest/042/AktKzd003_04227#TEXT_AKTKZD003_04227_SPURIUS_000_001", "hash": "0242C82C70DD5F86", "target": "Perciò ho deciso di costruire lanterne che usino altri combustibili! Un tempo ero un tecnico dell'esercito imperiale, quindi, se ho i recipienti di vetro, sono più che capace di farlo." },
     { "gameKey": "quest/042/AktKzd003_04227#TEXT_AKTKZD003_04227_SPURIUS_000_002", "hash": "4A5473153E874E84", "target": "Ma è proprio questo il problema. Quegli oggetti scarseggiano, e sebbene sappia dove recuperarne in città, non oserei inoltrarmi in quel mare di armi magitec. Potresti andarci al posto mio?" },

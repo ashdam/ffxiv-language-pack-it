@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/040/LucKsa312_04093#TEXT_LUCKSA312_04093_SEQ_00", "hash": "6D3E521A0E69CF0B", "target": "La Resistenza si è assicurata un altro avamposto e Dmitar vuole accompagnarti." },
-    { "gameKey": "quest/040/LucKsa312_04093#TEXT_LUCKSA312_04093_TODO_00", "hash": "E398FD2BC7A36A2D", "target": "Parlare con Dmitar sull'altopiano occidentale" },
+    { "gameKey": "quest/040/LucKsa312_04093#TEXT_LUCKSA312_04093_TODO_00", "hash": "E398FD2BC7A36A2D", "target": "Parla con Dmitar sull'altopiano occidentale" },
     { "gameKey": "quest/040/LucKsa312_04093#TEXT_LUCKSA312_04093_SYSTEM_100_000", "hash": "5D086B04800040AB", "target": "Per proseguire questa missione è richiesto un grado della Resistenza di <num(lnum1)>." },
     { "gameKey": "quest/040/LucKsa312_04093#TEXT_LUCKSA312_04093_DMITAR_000_000", "hash": "6EC2016D862BD3AA", "target": "Che piacere, Lama <split(<string(gstr1)>, ,2)>. Vedo che dal nostro ultimo incontro non avete riposato sugli allori." },
     { "gameKey": "quest/040/LucKsa312_04093#TEXT_LUCKSA312_04093_DMITAR_000_001", "hash": "F57ED53BD6A5D5C3", "target": "Ci siamo assicurati un nuovo avamposto e poco fa vi è stata eretta una barriera." },

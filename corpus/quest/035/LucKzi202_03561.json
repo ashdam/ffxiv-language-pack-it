@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_SEQ_00", "hash": "7B680955E8DAC713", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Xorutt è basso, barbuto e pronto a preparare la birra." },
-    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_TODO_00", "hash": "1180F745D4EA8910", "target": "Trovare ciuffi di magma grass e raccogliere magma blooms" },
-    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_TODO_01", "hash": "E393770282DE7061", "target": "Consegnare i magma blooms a Xorutt" },
+    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_TODO_00", "hash": "1180F745D4EA8910", "target": "Trova ciuffi di magma grass e raccogli magma blooms" },
+    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_TODO_01", "hash": "E393770282DE7061", "target": "Consegna i magma blooms a Xorutt" },
     { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_000", "hash": "7E995F85BB909A1C", "target": "Lali-ho! Senti, non sei <switch(gnum71,la persona in viaggio,la persona in viaggio,<if(gnum4,la nana straniera,il nano straniero)>,la persona in viaggio,la persona in viaggio,la persona in viaggio,la persona in viaggio,la persona in viaggio)> di cui parlano tutti?" },
     { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_001", "hash": "AC842AF74C815670", "target": "Beh, ancora lali-ho e benvenuti a Tomra! Ti offrirò un po' di ospitalità Tholl e non accetterò un no!" },
     { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_002", "hash": "E148AAFFC3E80DEB", "target": "Prima di tutto prepariamo insieme della birra nanica! Sì, ci divertiremo!" },

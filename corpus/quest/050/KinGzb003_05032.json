@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/050/KinGzb003_05032#TEXT_KINGZB003_05032_SEQ_00", "hash": "FFFAB04C8A421392", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Vugeel Ja guarda la propria bancarella con disinteresse." },
-    { "gameKey": "quest/050/KinGzb003_05032#TEXT_KINGZB003_05032_TODO_00", "hash": "04A648E2FEE56F3A", "target": "Parlare con il danzatore distinto" },
-    { "gameKey": "quest/050/KinGzb003_05032#TEXT_KINGZB003_05032_TODO_01", "hash": "9EFBF7786B9A339E", "target": "Parlare con Vugeel Ja" },
+    { "gameKey": "quest/050/KinGzb003_05032#TEXT_KINGZB003_05032_TODO_00", "hash": "04A648E2FEE56F3A", "target": "Parla con il danzatore distinto" },
+    { "gameKey": "quest/050/KinGzb003_05032#TEXT_KINGZB003_05032_TODO_01", "hash": "9EFBF7786B9A339E", "target": "Parla con Vugeel Ja" },
     { "gameKey": "quest/050/KinGzb003_05032#TEXT_KINGZB003_05032_VUGEELJA_000_000", "hash": "23984CFECE288DFD", "target": "Ah, un volto nuovo. Sei forse <if(gnum4,una viaggiatrice,un viaggiatore)>? Se è così, non potevi scegliere momento migliore per la visita! Dimmi, conosci le terme gestite dai Pelupelu?" },
     { "gameKey": "quest/050/KinGzb003_05032#TEXT_KINGZB003_05032_VUGEELJA_000_001", "hash": "6240806EFF0506C4", "target": "Il mio maestro vi eseguirà presto una danza tradizionale dei Mamool Ja. Intendo raggiungerlo dopo aver chiuso la bancarella per oggi." },
     { "gameKey": "quest/050/KinGzb003_05032#TEXT_KINGZB003_05032_VUGEELJA_000_003", "hash": "A542AEF4454D7021", "target": "Se ti interessa vederla, basta andare al Ritiro di Panaqpelu, a sud di qui, e cercare un danzatore dal portamento composto e aggraziato." },

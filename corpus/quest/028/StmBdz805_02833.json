@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/028/StmBdz805_02833#TEXT_STMBDZ805_02833_SEQ_00", "hash": "CA53BED4914260FE", "target": "J'nairoh è preoccupata per sua sorella." },
-    { "gameKey": "quest/028/StmBdz805_02833#TEXT_STMBDZ805_02833_TODO_00", "hash": "BD5EA7F7B293477C", "target": "Cercare la giovane della tribù J" },
-    { "gameKey": "quest/028/StmBdz805_02833#TEXT_STMBDZ805_02833_TODO_01", "hash": "1A8982A36FCD6753", "target": "Aiutare la giovane della tribù J" },
-    { "gameKey": "quest/028/StmBdz805_02833#TEXT_STMBDZ805_02833_TODO_02", "hash": "27EEC5696A1956D7", "target": "Parlare con J'nairoh" },
+    { "gameKey": "quest/028/StmBdz805_02833#TEXT_STMBDZ805_02833_TODO_00", "hash": "BD5EA7F7B293477C", "target": "Cerca la giovane della tribù J" },
+    { "gameKey": "quest/028/StmBdz805_02833#TEXT_STMBDZ805_02833_TODO_01", "hash": "1A8982A36FCD6753", "target": "Aiuta la giovane della tribù J" },
+    { "gameKey": "quest/028/StmBdz805_02833#TEXT_STMBDZ805_02833_TODO_02", "hash": "27EEC5696A1956D7", "target": "Parla con J'nairoh" },
     { "gameKey": "quest/028/StmBdz805_02833#TEXT_STMBDZ805_02833_JNAIROH_000_000", "hash": "D4356F8E787E4F97", "target": "Ehi, siete <if(gnum4,una di quelle avventuriere,uno di quegli avventurieri)> di cui parlano tutti, vero? Vorrei chiedervi un piccolo favore, se non vi dispiace." },
     { "gameKey": "quest/028/StmBdz805_02833#TEXT_STMBDZ805_02833_JNAIROH_000_001", "hash": "30804AA1D545056B", "target": "Da quando è arrivata la Resistenza, mia sorella scappa ad allenarsi con le lance e parla di diventare una lanciera. Speravo che fosse solo una fase, ma torna a casa sempre più tardi." },
     { "gameKey": "quest/028/StmBdz805_02833#TEXT_STMBDZ805_02833_JNAIROH_000_002", "hash": "8290E717E83B3592", "target": "Anzi, è quasi ora di andare a lavorare alla taverna e lei non è ancora tornata. Non è mai arrivata in ritardo prima e comincio a preoccuparmi. Credete di poterla trovare e assicurarvi che stia bene?" },

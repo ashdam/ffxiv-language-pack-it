@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/034/LucKzf007_03466#TEXT_LUCKZF007_03466_SEQ_00", "hash": "8F497B6E0E9389A3", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Questa discreta abitante Viis sembra averti già <if(gnum4,vista,visto)> da qualche parte." },
-    { "gameKey": "quest/034/LucKzf007_03466#TEXT_LUCKZF007_03466_TODO_00", "hash": "FA6FC77006484DFE", "target": "Parlare con l'abitante Viis discreta" },
-    { "gameKey": "quest/034/LucKzf007_03466#TEXT_LUCKZF007_03466_TODO_01", "hash": "B80479A0A35B59A2", "target": "Seguire l'abitante Viis discreta" },
+    { "gameKey": "quest/034/LucKzf007_03466#TEXT_LUCKZF007_03466_TODO_00", "hash": "FA6FC77006484DFE", "target": "Parla con l'abitante Viis discreta" },
+    { "gameKey": "quest/034/LucKzf007_03466#TEXT_LUCKZF007_03466_TODO_01", "hash": "B80479A0A35B59A2", "target": "Segui l'abitante Viis discreta" },
     { "gameKey": "quest/034/LucKzf007_03466#TEXT_LUCKZF007_03466_FRIENDLYVIIS03466_000_000", "hash": "D748F06DE2021027", "target": "Tu... non può essere... Sei...!?" },
     { "gameKey": "quest/034/LucKzf007_03466#TEXT_LUCKZF007_03466_FRIENDLYVIIS03466_000_001", "hash": "E63B9D6ABD6F34B0", "target": "Ah... oh, no. Scusa lo sfogo. Ti ho <if(gnum4,confusa,confuso)> con qualcuno che conoscevo. C'è qualcosa in te... di così familiare." },
     { "gameKey": "quest/034/LucKzf007_03466#TEXT_LUCKZF007_03466_FRIENDLYVIIS03466_000_002", "hash": "FF7B56D9D3D58B80", "target": "Forse anche tu viaggi? Chiunque intraprenda quella strada ha un modo di fare particolare. Devi conoscere bene il mondo fuori dal bosco. Ti prego, potresti rallegrarmi con una storia o due?" },

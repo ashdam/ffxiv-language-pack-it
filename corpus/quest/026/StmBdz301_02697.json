@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEQ_00", "hash": "129D676ED78E2E04", "target": "Seizau ha bisogno di <if(gnum4,una donna,un uomo)> con occhi attenti e riflessi pronti." },
-    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_TODO_00", "hash": "1FD38A89F5D2E2AF", "target": "Ottenere i Ruby Hornbill Breast Meat dai Ruby Hornbill" },
-    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_TODO_01", "hash": "5D48552101A110D1", "target": "Consegnare i Ruby Hornbill Breast Meat a Seizau" },
+    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_TODO_00", "hash": "1FD38A89F5D2E2AF", "target": "Ottieni i Ruby Hornbill Breast Meat dai Ruby Hornbill" },
+    { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_TODO_01", "hash": "5D48552101A110D1", "target": "Consegna i Ruby Hornbill Breast Meat a Seizau" },
     { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEIZAU_000_000", "hash": "1669F37F0085D19B", "target": "A giudicare dalla tua pelle baciata dal sole, vieni dal mondo di sopra. Purtroppo per te, siamo una comunità molto unita e autosufficiente e non abbiamo lavoro per gli estranei." },
     { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEIZAU_000_001", "hash": "433CE0648B5D76B8", "target": "Ah, aspetta, forse non è del tutto vero. Mi è appena venuto in mente un compito che solo qualcuno della tua gente può svolgere. Dimmi, te la cavi a cacciare gli uccelli?" },
     { "gameKey": "quest/026/StmBdz301_02697#TEXT_STMBDZ301_02697_SEIZAU_000_002", "hash": "336822D84CF1457E", "target": "Ottimo! In tal caso, vorrei che mi portassi la carne del petto di tre Ruby Hornbill." },

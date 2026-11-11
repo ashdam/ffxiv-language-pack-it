@@ -7,7 +7,7 @@
     { "gameKey": "warp/WarpInnTuliyollal#TEXT_WARPINNTULIYOLLAL_PESHEKWA_000_020", "hash": "D4D81959D640E28A", "target": "È un piacere rivedervi, <if(gnum4,signora,signore)>. Come sempre, il personale e io siamo a vostra disposizione. Desiderate utilizzare la vostra cabina?" },
     { "gameKey": "warp/WarpInnTuliyollal#TEXT_WARPINNTULIYOLLAL_Q1_000_100", "hash": "A09B89D277598555", "target": "Cosa vuoi fare?" },
     { "gameKey": "warp/WarpInnTuliyollal#TEXT_WARPINNTULIYOLLAL_A1_000_101", "hash": "730EE51E6FD49795", "target": "Ritirarsi nella propria camera." },
-    { "gameKey": "warp/WarpInnTuliyollal#TEXT_WARPINNTULIYOLLAL_A1_000_102", "hash": "6B04ACCF1C0858E0", "target": "Informati sulle Cabine di Prua." },
+    { "gameKey": "warp/WarpInnTuliyollal#TEXT_WARPINNTULIYOLLAL_A1_000_102", "hash": "6B04ACCF1C0858E0", "target": "Informarsi sulle Cabine di Prua." },
     { "gameKey": "warp/WarpInnTuliyollal#TEXT_WARPINNTULIYOLLAL_A1_000_103", "hash": "C911200F96305D6D", "target": "Niente." },
     { "gameKey": "warp/WarpInnTuliyollal#TEXT_WARPINNTULIYOLLAL_PESHEKWA_000_150", "hash": "31869587B2881C1C", "target": "Certamente, <if(gnum4,signora,signore)>. Rimanete quanto desiderate." },
     { "gameKey": "warp/WarpInnTuliyollal#TEXT_WARPINNTULIYOLLAL_PESHEKWA_000_200", "hash": "3CD534800D430B67", "target": "Le Cabine di Prua sono state costruite alcuni anni fa per accogliere meglio i nostri visitatori d'oltremare." },

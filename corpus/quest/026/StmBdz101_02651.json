@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/026/StmBdz101_02651#TEXT_STMBDZ101_02651_SEQ_00", "hash": "287265CBBCFBCC26", "target": "Questo vivandiere onesto fatica a convincere i combattenti della Resistenza." },
-    { "gameKey": "quest/026/StmBdz101_02651#TEXT_STMBDZ101_02651_TODO_00", "hash": "275269D62021B7B6", "target": "Parlare con il vivandiere onesto" },
-    { "gameKey": "quest/026/StmBdz101_02651#TEXT_STMBDZ101_02651_TODO_01", "hash": "C80134F958C34279", "target": "Usare la cerbottana per colpire i bersagli nel luogo indicato" },
-    { "gameKey": "quest/026/StmBdz101_02651#TEXT_STMBDZ101_02651_TODO_02", "hash": "DEDFEF85FD6AA810", "target": "Parlare con il vivandiere onesto" },
+    { "gameKey": "quest/026/StmBdz101_02651#TEXT_STMBDZ101_02651_TODO_00", "hash": "275269D62021B7B6", "target": "Parla con il vivandiere onesto" },
+    { "gameKey": "quest/026/StmBdz101_02651#TEXT_STMBDZ101_02651_TODO_01", "hash": "C80134F958C34279", "target": "Usa la cerbottana per colpire i bersagli nel luogo indicato" },
+    { "gameKey": "quest/026/StmBdz101_02651#TEXT_STMBDZ101_02651_TODO_02", "hash": "DEDFEF85FD6AA810", "target": "Parla con il vivandiere onesto" },
     { "gameKey": "quest/026/StmBdz101_02651#TEXT_STMBDZ101_02651_SUTLER02651_000_000", "hash": "939782352F744C36", "target": "Potresti darmi una mano?" },
     { "gameKey": "quest/026/StmBdz101_02651#TEXT_STMBDZ101_02651_SUTLER02651_000_001", "hash": "78EEAAD6544EB6DD", "target": "Sono corso qui dopo aver saputo che l'Impero aveva attaccato la Presa di Rhalgr, portando tutta la merce che potevo trasportare." },
     { "gameKey": "quest/026/StmBdz101_02651#TEXT_STMBDZ101_02651_SUTLER02651_000_002", "hash": "2428D81A99EC6C72", "target": "Una delle armi che ho portato è una cerbottana. La trovo uno strumento piuttosto utile, ma nessuno dei combattenti della Resistenza sembra d'accordo. Potresti aiutarmi a mostrare quanto possa servire?" },

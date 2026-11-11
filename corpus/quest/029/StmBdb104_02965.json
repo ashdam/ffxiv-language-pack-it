@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/029/StmBdb104_02965#TEXT_STMBDB104_02965_SEQ_00", "hash": "2FBC38B1A846E1BB", "target": "Arenvald continua a sorridere per l'imbarazzo di Alphinaud." },
-    { "gameKey": "quest/029/StmBdb104_02965#TEXT_STMBDB104_02965_TODO_00", "hash": "2CE94F975A6C925F", "target": "Parlare con Lyse" },
-    { "gameKey": "quest/029/StmBdb104_02965#TEXT_STMBDB104_02965_TODO_01", "hash": "03E03BFACA197882", "target": "Parlare con Lyse" },
-    { "gameKey": "quest/029/StmBdb104_02965#TEXT_STMBDB104_02965_TODO_02", "hash": "5F84033FEB86E731", "target": "Parlare con la guardia carceraria" },
+    { "gameKey": "quest/029/StmBdb104_02965#TEXT_STMBDB104_02965_TODO_00", "hash": "2CE94F975A6C925F", "target": "Parla con Lyse" },
+    { "gameKey": "quest/029/StmBdb104_02965#TEXT_STMBDB104_02965_TODO_01", "hash": "03E03BFACA197882", "target": "Parla con Lyse" },
+    { "gameKey": "quest/029/StmBdb104_02965#TEXT_STMBDB104_02965_TODO_02", "hash": "5F84033FEB86E731", "target": "Parla con la guardia carceraria" },
     { "gameKey": "quest/029/StmBdb104_02965#TEXT_STMBDB104_02965_ALPHINAUD_000_001", "hash": "25F0B8CC011CA3AC", "target": "Prima Estinien e ora Arenvald... A quanto pare divertirsi a mie spese è molto piacevole. Davvero, tanto varrebbe andare all'avventura con <italic(1)>Alisaie<italic(0)>..." },
     { "gameKey": "quest/029/StmBdb104_02965#TEXT_STMBDB104_02965_ARENVALD_000_010", "hash": "9C5096420951A4D5", "target": "Scherzi a parte, dobbiamo dare a tutti la buona notizia. E penso che Lyse dovrebbe essere la prima." },
     { "gameKey": "quest/029/StmBdb104_02965#TEXT_STMBDB104_02965_ALPHINAUD_000_011", "hash": "EDB1E074E51C9B8D", "target": "Concordo. Ne sarà certamente felicissima." },

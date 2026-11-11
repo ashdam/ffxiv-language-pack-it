@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/028/StmBdz926_02882#TEXT_STMBDZ926_02882_SEQ_00", "hash": "3237ABCF11DD2700", "target": "Pamisolaux cerca aiuto per rifornire le sue scorte mediche." },
-    { "gameKey": "quest/028/StmBdz926_02882#TEXT_STMBDZ926_02882_TODO_00", "hash": "E236E7CAA1805BBC", "target": "Ottenere tendini dagli abaddon" },
-    { "gameKey": "quest/028/StmBdz926_02882#TEXT_STMBDZ926_02882_TODO_01", "hash": "EAED40E71B6D7699", "target": "Consegnare gli abaddon tendons a Pamisolaux" },
+    { "gameKey": "quest/028/StmBdz926_02882#TEXT_STMBDZ926_02882_TODO_00", "hash": "E236E7CAA1805BBC", "target": "Ottieni tendini dagli abaddon" },
+    { "gameKey": "quest/028/StmBdz926_02882#TEXT_STMBDZ926_02882_TODO_01", "hash": "EAED40E71B6D7699", "target": "Consegna gli abaddon tendons a Pamisolaux" },
     { "gameKey": "quest/028/StmBdz926_02882#TEXT_STMBDZ926_02882_PAMISOLAUX_000_000", "hash": "17AD5FFFD6A473C9", "target": "Tu... Sei la persona che si è guadagnata la stima di lord Drillemont. Potresti avere la gentilezza di aiutarmi?" },
     {"gameKey": "quest/028/StmBdz926_02882#TEXT_STMBDZ926_02882_PAMISOLAUX_000_001", "hash": "FFAB90EF8C955926", "target": "Sono Pamisolaux, un chirurgo inviato dall'Avamposto di Orlobianco. Per quanto bene la si combatta, questa guerra continua a portare un flusso infinito di feriti alla mia postazione. Quindi, per quante provviste arrivino, consumo le scorte a un ritmo allarmante."},
     { "gameKey": "quest/028/StmBdz926_02882#TEXT_STMBDZ926_02882_PAMISOLAUX_000_002", "hash": "C1F2DD0D195C121C", "target": "Pensavo di rifornirmi sfruttando le risorse naturali della regione, e una persona tanto rinomata sui campi di battaglia potrebbe sicuramente accelerare il processo." },

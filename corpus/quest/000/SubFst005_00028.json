@@ -2,10 +2,10 @@
   "conversation": "quest/000/SubFst005_00028",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/000/SubFst005_00028#TEXT_SUBFST005_00028_SEQ_00", "hash": "4815BEF4746DD263", "target": "Miounne desidera inviare un avventuriero dall'istruttore al Presidio del Bannock." },
-    { "gameKey": "quest/000/SubFst005_00028#TEXT_SUBFST005_00028_SEQ_01", "hash": "CEF0CBAB6DDDDA80", "target": "L'istruttore al Presidio del Bannock ha bisogno d'aiuto. Lascia la città passando per la Porta del Tasso Blu e parla con Galfrid una volta a destinazione." },
+    { "gameKey": "quest/000/SubFst005_00028#TEXT_SUBFST005_00028_SEQ_00", "hash": "4815BEF4746DD263", "target": "Miounne vorrebbe presentarti all'istruttore del Presidio del Bannock." },
+    { "gameKey": "quest/000/SubFst005_00028#TEXT_SUBFST005_00028_SEQ_01", "hash": "CEF0CBAB6DDDDA80", "target": "L'istruttore del Presidio del Bannock ha bisogno d'aiuto. Esci dalla città dalla Porta del Tasso Blu e parla con Galfrid quando arrivi al Presidio." },
     { "gameKey": "quest/000/SubFst005_00028#TEXT_SUBFST005_00028_SEQ_02", "hash": "9AC3702DD389B7B1", "target": "Galfrid ti spiega che la Calamità di cinque anni fa ha lasciato profonde cicatrici nel Bosco dei Dodici e che la sua influenza corruttrice ha segnato sia la fauna sia la flora. Offri il tuo aiuto alla gente di Gridania impegnata a riportare la foresta al suo antico splendore." },
-    { "gameKey": "quest/000/SubFst005_00028#TEXT_SUBFST005_00028_TODO_00", "hash": "DF47FC6DAB30830D", "target": "Parlare con Galfrid al Presidio del Bannock" },
+    { "gameKey": "quest/000/SubFst005_00028#TEXT_SUBFST005_00028_TODO_00", "hash": "DF47FC6DAB30830D", "target": "Parla con Galfrid al Presidio del Bannock" },
     { "gameKey": "quest/000/SubFst005_00028#TEXT_SUBFST005_00028_MIOUNNE_000_1", "hash": "EDA761D095B36FDB", "target": "<split(<string(gstr1)>, ,1)>, durante i tuoi vagabondaggi hai già visitato il Presidio del Bannock?" },
     { "gameKey": "quest/000/SubFst005_00028#TEXT_SUBFST005_00028_MIOUNNE_000_2", "hash": "237FF74E0FF0D5AF", "target": "È un campo d'addestramento appena fuori città, dove i soldati dell'Ordine della Vipera Gemella si esercitano con la spada e nelle altre arti marziali." },
     { "gameKey": "quest/000/SubFst005_00028#TEXT_SUBFST005_00028_MIOUNNE_000_3", "hash": "439E068C85B06C5D", "target": "Te lo chiedo perché un mio conoscente─un gentiluomo di nome Galfrid─lavora lì come istruttore e credo che tu possa essergli d'aiuto. Va' a presentarti e scopri se puoi fare qualcosa per lui." },
@@ -14,7 +14,7 @@
     { "gameKey": "quest/000/SubFst005_00028#TEXT_SUBFST005_00028_GALFRID_000_11", "hash": "B2080CE81C828FB5", "target": "Mi chiamo Galfrid e sono responsabile dell'addestramento delle nostre reclute delle Due Vipere." },
     { "gameKey": "quest/000/SubFst005_00028#TEXT_SUBFST005_00028_GALFRID_000_12", "hash": "049382862A5F3711", "target": "Ti ringrazio per esserti <if(gnum4,offerta,offerto)> di aiutarci. Il Bosco dei Dodici è molto cambiato con il disastroso avvento della Settima Era Umbrale, cinque anni fa." },
     { "gameKey": "quest/000/SubFst005_00028#TEXT_SUBFST005_00028_GALFRID_000_13", "hash": "4C0C64FD51B8F8EE", "target": "Il potere degli elementali si affievolisce e l'armonia della foresta cede al caos. Molte vite sono andate perdute, mentre i più forti imperversano e soffocano i deboli e le nuove generazioni." },
-    { "gameKey": "quest/000/SubFst005_00028#TEXT_SUBFST005_00028_GALFRID_000_14", "hash": "802FF6F9AD35068F", "target": "Anche se un estraneo potrebbe non accorgersene, il Bosco dei Dodici soffre─la sua antica varietà di vita è ormai un ricordo sbiadito." },
+    { "gameKey": "quest/000/SubFst005_00028#TEXT_SUBFST005_00028_GALFRID_000_14", "hash": "802FF6F9AD35068F", "target": "Anche se un estraneo potrebbe non accorgersene, il Bosco dei Dodici soffre: la sua antica ricchezza di specie è ormai un ricordo sbiadito." },
     { "gameKey": "quest/000/SubFst005_00028#TEXT_SUBFST005_00028_GALFRID_000_15", "hash": "FEFBA41C9D957331", "target": "Per i cittadini di Gridania, risanare la foresta è un dovere sacro. Spero che avventurieri come te offrano loro aiuto in questa impresa." },
     { "gameKey": "quest/000/SubFst005_00028#TEXT_SUBFST005_00028_GALFRID_000_16", "hash": "0957051C330CF3A8", "target": "Ascolta le loro richieste e fa' tutto il possibile. Che gli elementali benedicano i tuoi sforzi, <string(gstr1)>." }
   ]

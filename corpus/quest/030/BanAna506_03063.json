@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/030/BanAna506_03063#TEXT_BANANA506_03063_SEQ_00", "hash": "08CF05A0DA558C3F", "target": "La notte è buia e piena di terrori, ed Eshana vuole luce.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
-    { "gameKey": "quest/030/BanAna506_03063#TEXT_BANANA506_03063_TODO_00", "hash": "6F011C07CB29F335", "target": "Usare carne di gazzella per attirare i fattened sarcosuchus al Fiume Velodyna e ucciderli per il loro grasso" },
-    { "gameKey": "quest/030/BanAna506_03063#TEXT_BANANA506_03063_TODO_01", "hash": "97A8EB988F66289C", "target": "Consegnare il grasso di sarcosuco a Eshana" },
+    { "gameKey": "quest/030/BanAna506_03063#TEXT_BANANA506_03063_TODO_00", "hash": "6F011C07CB29F335", "target": "Usa carne di gazzella per attirare i fattened sarcosuchus al Fiume Velodyna e sconfiggili per il loro grasso" },
+    { "gameKey": "quest/030/BanAna506_03063#TEXT_BANANA506_03063_TODO_01", "hash": "97A8EB988F66289C", "target": "Consegna il grasso di sarcosuco a Eshana" },
     { "gameKey": "quest/030/BanAna506_03063#TEXT_BANANA506_03063_ESHANA_000_000", "hash": "67F30839ED8C7A15", "target": "Siete la luce che ci guida, <if(gnum4,compagna,compagno)>. Perciò vorrei che preparassste le lampade per la pattuglia notturna.<br>... Era divertente? Ho provato a scherzare come voi viandanti." },
     { "gameKey": "quest/030/BanAna506_03063#TEXT_BANANA506_03063_ESHANA_000_001", "hash": "D7CFF51CC5E2E6F3", "target": "Ma ssscherzi a parte, dovete cacciare sarcosuchi e raccoglierne il grasso. Due secchi dovrebbero bastare." },
     { "gameKey": "quest/030/BanAna506_03063#TEXT_BANANA506_03063_ESHANA_000_002", "hash": "F9AFD2B6976F9538", "target": "Ecco, prendete questi tagli di carne di gazzella e deponeteli lungo il Fiume Velodyna. L'odore dovrebbe attirare le creature più grassse e golose." },

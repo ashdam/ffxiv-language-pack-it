@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SEQ_00", "hash": "0233F117C6028195", "target": "Sentei ha bisogno d'aiuto per catturare un predatore." },
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_TODO_00", "hash": "84BCB4EA7B2F698C", "target": "Collocare le tagliole di ferro nei luoghi indicati" },
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_TODO_01", "hash": "8EC965858BC005B8", "target": "Fare rapporto a Sentei" },
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_TODO_00", "hash": "84BCB4EA7B2F698C", "target": "Colloca le tagliole di ferro nei luoghi indicati" },
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_TODO_01", "hash": "8EC965858BC005B8", "target": "Fai rapporto a Sentei" },
     { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_000", "hash": "DC21CB44757C1A1B", "target": "Tu, <if(gnum4,viaggiatrice,viaggiatore)>! Se hai tempo, ti sarei grato del tuo aiuto." },
     { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_001", "hash": "F4478136A2C37644", "target": "L'altro giorno frugavo in giro e ho trovato queste tagliole di ferro." },
     { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_002", "hash": "53A016537A8A663D", "target": "Mi piacerebbe usarle per andare a caccia, ma so che aggraverei solo una mia vecchia ferita. Ti dispiacerebbe sistemarle al posto mio?" },

@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/043/AktKzi001_04316#TEXT_AKTKZI001_04316_SEQ_00", "hash": "CDEAD76EB1E25606", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>L'addetto dell'Ultimo Baluardo ha problemi di budino." },
-    { "gameKey": "quest/043/AktKzi001_04316#TEXT_AKTKZI001_04316_TODO_00", "hash": "D92AA073335AD8D4", "target": "Parlare con Budínolo e farsi accompagnare da lui" },
-    { "gameKey": "quest/043/AktKzi001_04316#TEXT_AKTKZI001_04316_TODO_01", "hash": "E5A8C1E2F7F8B77E", "target": "Ottenere gli oggetti in compagnia di Budínolo" },
-    { "gameKey": "quest/043/AktKzi001_04316#TEXT_AKTKZI001_04316_TODO_02", "hash": "E318C6AB30FAA964", "target": "Consegnare gli oggetti all'addetto dell'Ultimo Baluardo in compagnia di Budínolo" },
+    { "gameKey": "quest/043/AktKzi001_04316#TEXT_AKTKZI001_04316_TODO_00", "hash": "D92AA073335AD8D4", "target": "Parla con Budínolo e fatti accompagnare da lui" },
+    { "gameKey": "quest/043/AktKzi001_04316#TEXT_AKTKZI001_04316_TODO_01", "hash": "E5A8C1E2F7F8B77E", "target": "Ottieni gli oggetti in compagnia di Budínolo" },
+    { "gameKey": "quest/043/AktKzi001_04316#TEXT_AKTKZI001_04316_TODO_02", "hash": "E318C6AB30FAA964", "target": "Consegna gli oggetti all'addetto dell'Ultimo Baluardo in compagnia di Budínolo" },
     { "gameKey": "quest/043/AktKzi001_04316#TEXT_AKTKZI001_04316_CAFESTAFF04316_000_000", "hash": "6E6D7ABFAC2A85E2", "target": "Ah! Sei con gli Studenti di Baldesion, vero? Ti prego, ho bisogno del tuo aiuto!" },
     { "gameKey": "quest/043/AktKzi001_04316#TEXT_AKTKZI001_04316_CAFESTAFF04316_000_001", "hash": "87F7BEF991B8A4F6", "target": "Come forse ricordi, l'altro giorno erano qui con i tuoi compagni dei coniglietti graziosi e chiacchieroni." },
     { "gameKey": "quest/043/AktKzi001_04316#TEXT_AKTKZI001_04316_CAFESTAFF04316_000_002", "hash": "8B1CBD702EF4D4F1", "target": "Be', uno di loro, un certo Budínolo, è tornato a chiedere, ehm, del budino. Purtroppo non aveva i soldi." },

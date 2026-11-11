@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/037/SubCts640_03729#TEXT_SUBCTS640_03729_SEQ_00", "hash": "B20469868C9DC48A", "target": "Kai-Shirr trabocca di entusiasmo e cerca solo un modo per metterlo a frutto." },
-    { "gameKey": "quest/037/SubCts640_03729#TEXT_SUBCTS640_03729_TODO_00", "hash": "B42069872F7983AE", "target": "Aspettare fuori dall'Alveare" },
-    { "gameKey": "quest/037/SubCts640_03729#TEXT_SUBCTS640_03729_TODO_01", "hash": "7AAD78093047BAA1", "target": "Parlare con Kai-Shirr" },
+    { "gameKey": "quest/037/SubCts640_03729#TEXT_SUBCTS640_03729_TODO_00", "hash": "B42069872F7983AE", "target": "Aspetta fuori dall'Alveare" },
+    { "gameKey": "quest/037/SubCts640_03729#TEXT_SUBCTS640_03729_TODO_01", "hash": "7AAD78093047BAA1", "target": "Parla con Kai-Shirr" },
     { "gameKey": "quest/037/SubCts640_03729#TEXT_SUBCTS640_03729_KAISHIRR_000_000", "hash": "E5296DE7F677D079", "target": "<split(<string(gstr1)>, ,1)>, hai un momento?" },
     { "gameKey": "quest/037/SubCts640_03729#TEXT_SUBCTS640_03729_KAISHIRR_000_001", "hash": "124164A4EFDBCA75", "target": "Volevo parlarti. È vero che sei <if(gnum4,un'esperta,un esperto)> <sheet(ClassJob,gnum68,0)>?" },
     { "gameKey": "quest/037/SubCts640_03729#TEXT_SUBCTS640_03729_Q1_000_000", "hash": "06591ECDE243DA92", "target": "Che cosa dirai?" },

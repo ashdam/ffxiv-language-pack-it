@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/024/StmBda134_02464#TEXT_STMBDA134_02464_SEQ_00", "hash": "7977FD80F3DB2838", "target": "Lo sguardo tormentato di Raubahn dice più di mille parole..." },
-    { "gameKey": "quest/024/StmBda134_02464#TEXT_STMBDA134_02464_TODO_00", "hash": "9D0867E8A5FCCED5", "target": "Soccorrere i feriti" },
-    { "gameKey": "quest/024/StmBda134_02464#TEXT_STMBDA134_02464_TODO_01", "hash": "60BA9369535F0C3B", "target": "Portare l'amuleto di Meffrid a Conrad" },
+    { "gameKey": "quest/024/StmBda134_02464#TEXT_STMBDA134_02464_TODO_00", "hash": "9D0867E8A5FCCED5", "target": "Soccorri i feriti" },
+    { "gameKey": "quest/024/StmBda134_02464#TEXT_STMBDA134_02464_TODO_01", "hash": "60BA9369535F0C3B", "target": "Porta l'amuleto di Meffrid a Conrad" },
     { "gameKey": "quest/024/StmBda134_02464#TEXT_STMBDA134_02464_YSHTOLA_000_015", "hash": "9A220F4D047CF4CC", "target": "..." },
     { "gameKey": "quest/024/StmBda134_02464#TEXT_STMBDA134_02464_MEFFRID_000_035", "hash": "5BCBFC69DC67AEC9", "target": "..." },
     { "gameKey": "quest/024/StmBda134_02464#TEXT_STMBDA134_02464_RAUBAHN_000_040", "hash": "92B548E7D3F2A8C8", "target": "Occupati dei feriti, <split(<string(gstr1)>, ,1)>. Se sono vivi, aiutali. Altrimenti, passa oltre." },

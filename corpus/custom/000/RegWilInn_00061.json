@@ -2,7 +2,7 @@
   "conversation": "custom/000/RegWilInn_00061",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/000/RegWilInn_00061#TEXT_REGWILINN_00061_OTOPAPOTTOPA_000", "hash": "97FC1D77D84CFD62", "target": "<if([gnum11<12],<if([gnum11<4],Buonasera,Buongiorno)>,<if([gnum11<17],Buongiorno,Buonasera)>)>, avventurier<if(gnum4,a,o)>. Cercate alloggio alla Clessidra?" },
+    { "gameKey": "custom/000/RegWilInn_00061#TEXT_REGWILINN_00061_OTOPAPOTTOPA_000", "hash": "97FC1D77D84CFD62", "target": "<if([gnum11<12],<if([gnum11<4],Buonasera,Buongiorno)>,<if([gnum11<17],Buongiorno,Buonasera)>)>, <if(gnum4,avventuriera,avventuriero)>. Cercate alloggio alla Clessidra?" },
     { "gameKey": "custom/000/RegWilInn_00061#TEXT_REGWILINN_00061_OTOPAPOTTOPA_001", "hash": "5510E61F99657F1F", "target": "Perdonatemi, come avete detto di chiamarvi? <string(gstr1)>? Uhm... Dama Momodi non mi ha detto nulla al riguardo. Purtroppo, senza il suo esplicito permesso non posso farvi soggiornare qui." },
     { "gameKey": "custom/000/RegWilInn_00061#TEXT_REGWILINN_00061_Q1_000_1", "hash": "8B452A675EE00811", "target": "Cosa vuoi fare?" },
     { "gameKey": "custom/000/RegWilInn_00061#TEXT_REGWILINN_00061_A1_000_1", "hash": "4206D4E13CCE2874", "target": "Informarsi sulla Clessidra." },
@@ -11,7 +11,7 @@
     { "gameKey": "custom/000/RegWilInn_00061#TEXT_REGWILINN_00061_OTOPAPOTTOPA_011", "hash": "47F9E8C132AF7122", "target": "Abbiamo alloggi per soddisfare i gusti di ogni cliente, dalle suite sontuose alle camere semplici." },
     { "gameKey": "custom/000/RegWilInn_00061#TEXT_REGWILINN_00061_OTOPAPOTTOPA_012", "hash": "BD0D31105D26DD89", "target": "In altre circostanze, vi inviterei volentieri a servirvi delle nostre strutture. Tuttavia, dopo la Calamità e gli spiacevoli eventi che ne sono seguiti, abbiamo dovuto adottare alcune regole. Soltanto chi ha dimostrato di essere degno di fiducia può soggiornare qui." },
     { "gameKey": "custom/000/RegWilInn_00061#TEXT_REGWILINN_00061_OTOPAPOTTOPA_013", "hash": "DFA5969F157B96E8", "target": "Se dama Momodi vi riterrà una persona fidata, potrete godere della nostra ospitalità quando vorrete." },
-    { "gameKey": "custom/000/RegWilInn_00061#TEXT_REGWILINN_00061_OTOPAPOTTOPA_020", "hash": "90A21566ABB99882", "target": "<if([gnum11<12],<if([gnum11<4],Buonasera,Buongiorno)>,<if([gnum11<17],Buongiorno,Buonasera)>)>, avventurier<if(gnum4,a,o)>. Come posso servirvi?" },
+    { "gameKey": "custom/000/RegWilInn_00061#TEXT_REGWILINN_00061_OTOPAPOTTOPA_020", "hash": "90A21566ABB99882", "target": "<if([gnum11<12],<if([gnum11<4],Buonasera,Buongiorno)>,<if([gnum11<17],Buongiorno,Buonasera)>)>, <if(gnum4,avventuriera,avventuriero)>. Come posso servirvi?" },
     { "gameKey": "custom/000/RegWilInn_00061#TEXT_REGWILINN_00061_Q2_000_1", "hash": "5038BD547D688EC2", "target": "Cosa vuoi fare?" },
     { "gameKey": "custom/000/RegWilInn_00061#TEXT_REGWILINN_00061_A2_000_1", "hash": "75B4C2AA0D09A4E6", "target": "Ritirarsi in una camera della locanda." },
     { "gameKey": "custom/000/RegWilInn_00061#TEXT_REGWILINN_00061_A2_000_2", "hash": "912A39D9BD900186", "target": "Informarsi sul <colortype(500)><edgecolortype(501)>riposo<edgecolortype(0)><colortype(0)>." },

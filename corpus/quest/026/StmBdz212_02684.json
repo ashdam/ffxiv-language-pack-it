@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_SEQ_00", "hash": "83BD447CC42B35D2", "target": "Hirase si chiede cosa preparare ai membri della Confederazione per <if([gnum11<12],<if([gnum11<4],cena,colazione)>,<if([gnum11<17],pranzo,cena)>)>." },
-    { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_TODO_00", "hash": "45ADB1102927B1A9", "target": "Ottenere gli Hearty Gyuki Meat dai Gyuki" },
-    { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_TODO_01", "hash": "4448CAA307718B0C", "target": "Consegnare gli Hearty Gyuki Meat a Hirase" },
+    { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_TODO_00", "hash": "45ADB1102927B1A9", "target": "Ottieni gli Hearty Gyuki Meat dai Gyuki" },
+    { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_TODO_01", "hash": "4448CAA307718B0C", "target": "Consegna gli Hearty Gyuki Meat a Hirase" },
     { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_HIRASE_000_000", "hash": "71BD660F7BF814E9", "target": "Bah! Mi hai fatto paura! Stavo pensando a cosa preparare agli uomini e alle donne affamati di Onokoro per <if([gnum11<12],<if([gnum11<4],cena,colazione)>,<if([gnum11<17],pranzo,cena)>)>. Come cuoco del posto, è mia responsabilità assicurarmi che ricevano pasti buoni e nutrienti." },
     { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_HIRASE_000_001", "hash": "E7887BCD36EA6B02", "target": "Penso che oggi mangeremo uno stufato del pirata. Fa venire l'acquolina in bocca, vero?" },
     { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_HIRASE_000_002", "hash": "F97542B7863259C3", "target": "Il problema è che mi manca un ingrediente essenziale. \\<sigh> Le entrate della Decima di Rubino sono diminuite lentamente e il tesoriere ha ridotto il mio bilancio. Ora non posso permettermi la carne succosa che rende questo stufato un vero stufato del pirata." },

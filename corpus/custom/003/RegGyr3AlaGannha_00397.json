@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_BERGARD_000_000", "hash": "C9BEEEA5642FA4AC", "target": "Non riceviamo spesso visite, ma sei più che <if(gnum4,benvenuta,benvenuto)>, <if(gnum4,ragazza,ragazzo)>! Per caso vuoi comprare della pietra?" },
     { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_Q1_000_000", "hash": "B731966E2EBFF8F6", "target": "Cosa vuoi chiedere?" },
-    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_A1_000_001", "hash": "E49AC50FBD0E99DA", "target": "Che cosa fate qui?" },
+    { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_A1_000_001", "hash": "E49AC50FBD0E99DA", "target": "Che cosa fai qui?" },
     { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_A1_000_002", "hash": "45E7D14A9962198E", "target": "Che posto è questo?" },
     { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_A1_000_003", "hash": "68EE915EFFB2637E", "target": "Niente." },
     { "gameKey": "custom/003/RegGyr3AlaGannha_00397#TEXT_REGGYR3ALAGANNHA_00397_BERGARD_000_010", "hash": "2BDAC96DADCC364E", "target": "Io? Non c'è molto da dire, sinceramente. Sono una normale donna di Ala Mhigo, nata e cresciuta ad Ala Gannha." },

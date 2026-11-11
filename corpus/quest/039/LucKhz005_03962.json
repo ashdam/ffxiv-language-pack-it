@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/039/LucKhz005_03962#TEXT_LUCKHZ005_03962_SEQ_00", "hash": "D00C7BBBD08450E0", "target": "Philestiaux esamina attentamente la struttura davanti a sé." },
-    {"gameKey": "quest/039/LucKhz005_03962#TEXT_LUCKHZ005_03962_TODO_00", "hash": "0458B0BE215D24DC", "target": "Parlare con gli avventurieri"},
-    { "gameKey": "quest/039/LucKhz005_03962#TEXT_LUCKHZ005_03962_TODO_01", "hash": "16DC58A6FB8D9B79", "target": "Parlare con Philestiaux." },
+    {"gameKey": "quest/039/LucKhz005_03962#TEXT_LUCKHZ005_03962_TODO_00", "hash": "0458B0BE215D24DC", "target": "Parla con gli avventurieri"},
+    { "gameKey": "quest/039/LucKhz005_03962#TEXT_LUCKHZ005_03962_TODO_01", "hash": "16DC58A6FB8D9B79", "target": "Parla con Philestiaux." },
     { "gameKey": "quest/039/LucKhz005_03962#TEXT_LUCKHZ005_03962_PHILESTIAUX_000_000", "hash": "E3EE3E2CD3D56AB1", "target": "Ma guarda, <if(gnum4,la salvatrice,il salvatore)> di Ishgard! La vostra presenza è un vero onore e un piacere. C'era proprio una questione sulla quale speravo di consultare una persona stimata ed esperta di avventure come voi." },
     { "gameKey": "quest/039/LucKhz005_03962#TEXT_LUCKHZ005_03962_PHILESTIAUX_000_001", "hash": "9A9B942CA7F31F76", "target": "...Ah, ma dimentico le buone maniere. Mi chiamo Philestiaux e Lord Francel mi ha incaricato di occuparmi delle pratiche per i nuovi residenti qui nel Firmamento." },
     { "gameKey": "quest/039/LucKhz005_03962#TEXT_LUCKHZ005_03962_PHILESTIAUX_000_002", "hash": "4A371A218F94B44F", "target": "Grazie soprattutto ai vostri generosi sforzi per noi, innumerevoli avventurieri, commercianti e lavoratori di tutta Eorzea hanno scelto di stabilirsi qui. E ora che la Residenza della Brina è completa, abbiamo finalmente un posto per ospitarli tutti." },

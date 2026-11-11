@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/043/AktKzh019_04314#TEXT_AKTKZH019_04314_SEQ_00", "hash": "03228F755149977F", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Il visitatore paziente sembra studiarti con lo sguardo." },
-    { "gameKey": "quest/043/AktKzh019_04314#TEXT_AKTKZH019_04314_TODO_00", "hash": "221B6C95C8876D3E", "target": "Parlare con lo scrivano" },
-    { "gameKey": "quest/043/AktKzh019_04314#TEXT_AKTKZH019_04314_TODO_01", "hash": "23BABC63C16D65CF", "target": "Consegnare i forum minutes al visitatore paziente" },
-    { "gameKey": "quest/043/AktKzh019_04314#TEXT_AKTKZH019_04314_TODO_02", "hash": "480E630D9E147BCD", "target": "Parlare con il visitatore paziente" },
+    { "gameKey": "quest/043/AktKzh019_04314#TEXT_AKTKZH019_04314_TODO_00", "hash": "221B6C95C8876D3E", "target": "Parla con lo scrivano" },
+    { "gameKey": "quest/043/AktKzh019_04314#TEXT_AKTKZH019_04314_TODO_01", "hash": "23BABC63C16D65CF", "target": "Consegna i forum minutes al visitatore paziente" },
+    { "gameKey": "quest/043/AktKzh019_04314#TEXT_AKTKZH019_04314_TODO_02", "hash": "480E630D9E147BCD", "target": "Parla con il visitatore paziente" },
     { "gameKey": "quest/043/AktKzh019_04314#TEXT_AKTKZH019_04314_FOREIGNER04314_000_000", "hash": "CA3F67384247A647", "target": "Che famiglio dall'aspetto grazioso. Dimmi: a chi appartieni?" },
     { "gameKey": "quest/043/AktKzh019_04314#TEXT_AKTKZH019_04314_FOREIGNER04314_000_001", "hash": "0CB7D96C3962A757", "target": "Oh, sei di Azem? È <if(gnum4,una donna perbene,un uomo perbene)>, non trovi? Compare sempre nei momenti difficili per tendere una mano a chi ne ha bisogno... e dato che io sono fra questi, sono certo che <if(gnum4,lei,lui)> non avrà nulla in contrario se ti prendo in prestito per un po'." },
     { "gameKey": "quest/043/AktKzh019_04314#TEXT_AKTKZH019_04314_FOREIGNER04314_000_002", "hash": "70C07CE382F462E0", "target": "A Ktisis Hyperboreia si è tenuto un lungo dibattito sulla valutazione delle creazioni. Durante quell'incontro sono stati redatti verbali meticolosi, che vorrei mi portassi." },

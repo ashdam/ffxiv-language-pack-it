@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/034/LucKzf008_03467#TEXT_LUCKZF008_03467_SEQ_00", "hash": "329E9A8AD56D8A34", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Haimet è felice di aver trovato qualcuno che possa aiutarla." },
-    { "gameKey": "quest/034/LucKzf008_03467#TEXT_LUCKZF008_03467_TODO_00", "hash": "9DAE840910F96126", "target": "Consegnare le vesti da arciera alle arciere del Riposo dell'Arco" },
-    { "gameKey": "quest/034/LucKzf008_03467#TEXT_LUCKZF008_03467_TODO_01", "hash": "8A04D6EF78B9AD30", "target": "Parlare con Haimet" },
+    { "gameKey": "quest/034/LucKzf008_03467#TEXT_LUCKZF008_03467_TODO_00", "hash": "9DAE840910F96126", "target": "Consegna le vesti da arciera alle arciere del Riposo dell'Arco" },
+    { "gameKey": "quest/034/LucKzf008_03467#TEXT_LUCKZF008_03467_TODO_01", "hash": "8A04D6EF78B9AD30", "target": "Parla con Haimet" },
     { "gameKey": "quest/034/LucKzf008_03467#TEXT_LUCKZF008_03467_HAIMET_000_000", "hash": "F520B1DA6A89A7D7", "target": "Non credo ai miei occhi, <if(gnum4,un'alleata,un alleato)> di Ronka. Ho proprio un compito importante che non affiderei a nessun altro. Le nostre Viis di pattuglia hanno bisogno di vesti nuove, e vorrei che tu le portassi loro al Riposo dell'Arco." },
     { "gameKey": "quest/034/LucKzf008_03467#TEXT_LUCKZF008_03467_HAIMET_000_001", "hash": "96D84D9986BCDDE6", "target": "Dovrebbero aspettarti. Spero non si ripeta l'incidente con la capotribù Almet." },
     { "gameKey": "quest/034/LucKzf008_03467#TEXT_LUCKZF008_03467_HAIMET_000_010", "hash": "716A9092C0118099", "target": "Va' al Riposo dell'Arco e porta le nuove vesti da arciera alle nostre sorelle. Sono quasi certa che non ti prenderanno a frecciate appena ti vedranno." },

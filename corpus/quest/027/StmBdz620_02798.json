@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/027/StmBdz620_02798#TEXT_STMBDZ620_02798_SEQ_00", "hash": "4B4FBA1659F2B325", "target": "Ibakha è impegnata a preparare un banchetto adatto a una tribù libera dall'avidità." },
-    { "gameKey": "quest/027/StmBdz620_02798#TEXT_STMBDZ620_02798_TODO_00", "hash": "7659A96493A86D6F", "target": "Parlare con Kishiligh" },
-    { "gameKey": "quest/027/StmBdz620_02798#TEXT_STMBDZ620_02798_TODO_01", "hash": "C3F9DC84D9A040AF", "target": "Ottenere il sack of meat" },
-    { "gameKey": "quest/027/StmBdz620_02798#TEXT_STMBDZ620_02798_TODO_02", "hash": "8D393C461586EA18", "target": "Consegnare il sack of meat a Ibakha" },
+    { "gameKey": "quest/027/StmBdz620_02798#TEXT_STMBDZ620_02798_TODO_00", "hash": "7659A96493A86D6F", "target": "Parla con Kishiligh" },
+    { "gameKey": "quest/027/StmBdz620_02798#TEXT_STMBDZ620_02798_TODO_01", "hash": "C3F9DC84D9A040AF", "target": "Ottieni il sack of meat" },
+    { "gameKey": "quest/027/StmBdz620_02798#TEXT_STMBDZ620_02798_TODO_02", "hash": "8D393C461586EA18", "target": "Consegna il sack of meat a Ibakha" },
     { "gameKey": "quest/027/StmBdz620_02798#TEXT_STMBDZ620_02798_IBAKHA_000_000", "hash": "8E08FE443D71C276", "target": "Ah, <if(gnum4,avventuriera,avventuriero)>. Posso chiederti di ritirare qualcosa per me?" },
     { "gameKey": "quest/027/StmBdz620_02798#TEXT_STMBDZ620_02798_IBAKHA_000_001", "hash": "9E4B3B83151DD33B", "target": "Di recente ho chiesto a un Dotharl di fornirci della carne. Ma ultimamente siamo tutti così impegnati che nessuno ha avuto il tempo di andare a ritirarla." },
     { "gameKey": "quest/027/StmBdz620_02798#TEXT_STMBDZ620_02798_IBAKHA_000_002", "hash": "2D6E93BE776B17AC", "target": "Si chiama Kishiligh. Gli ho già dato dei minerali in cambio del cibo. Devi soltanto ritirare la carne." },

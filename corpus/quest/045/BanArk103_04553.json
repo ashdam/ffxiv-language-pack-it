@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_SEQ_00", "hash": "3969D744CA96B497", "target": "Maru fissa tristemente una cassa vuota.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
-    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_TODO_00", "hash": "57C8E9D5771B2E5E", "target": "Perlustrare la zona dal luogo indicato e sconfiggere gli eventuali manjusaka" },
-    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_TODO_01", "hash": "23B2A44383EEF07A", "target": "Consegnare il fascio di spessi tralci di manjusaka a Maru" },
+    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_TODO_00", "hash": "57C8E9D5771B2E5E", "target": "Perlustra la zona dal luogo indicato e sconfiggi gli eventuali manjusaka" },
+    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_TODO_01", "hash": "23B2A44383EEF07A", "target": "Consegna il fascio di spessi tralci di manjusaka a Maru" },
     { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_MARU_000_001", "hash": "7602E6F4811024C6", "target": "Ascolta, <split(<string(gstr1)>, ,1)>, una parte importante del guidare è essere sempre pronti a farlo. E questo significa fare regolarmente manutenzione al carretto." },
     { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_MARU_000_002", "hash": "D6B48ED6A19A5637", "target": "Capita che siamo a corto di certi ricambi, e procurarne altri... Be', diciamo che è un compito adatto a chi sa combattere, eh? Come te!" },
     { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_MARU_000_003", "hash": "37BDD7840EE38DEC", "target": "Se potessi passare dal vecchio Incubatoio degli Hamsa e portarmi dei tralci di manjusaka, ti sarei molto grato." },

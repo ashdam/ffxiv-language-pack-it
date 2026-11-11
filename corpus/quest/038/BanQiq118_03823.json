@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/038/BanQiq118_03823#TEXT_BANQIQ118_03823_SEQ_00", "hash": "9F454C0FDE008D50", "target": "Qhoterl Pasol invoca un intervento divino.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
-    { "gameKey": "quest/038/BanQiq118_03823#TEXT_BANQIQ118_03823_TODO_00", "hash": "F99E44B98C005438", "target": "Parlare con Uterl Matl" },
-    { "gameKey": "quest/038/BanQiq118_03823#TEXT_BANQIQ118_03823_TODO_01", "hash": "D755483E22AFD750", "target": "Salire sul Great Vessel of Ronka e usare Peculiar Light sui Custodi esausti" },
-    { "gameKey": "quest/038/BanQiq118_03823#TEXT_BANQIQ118_03823_TODO_02", "hash": "8664A1481B2C2C89", "target": "Fare rapporto a Qhoterl Pasol" },
+    { "gameKey": "quest/038/BanQiq118_03823#TEXT_BANQIQ118_03823_TODO_00", "hash": "F99E44B98C005438", "target": "Parla con Uterl Matl" },
+    { "gameKey": "quest/038/BanQiq118_03823#TEXT_BANQIQ118_03823_TODO_01", "hash": "D755483E22AFD750", "target": "Sali sul Great Vessel of Ronka e usa Peculiar Light sui Custodi esausti" },
+    { "gameKey": "quest/038/BanQiq118_03823#TEXT_BANQIQ118_03823_TODO_02", "hash": "8664A1481B2C2C89", "target": "Fai rapporto a Qhoterl Pasol" },
     { "gameKey": "quest/038/BanQiq118_03823#TEXT_BANQIQ118_03823_QHOTERLPASOL_000_000", "hash": "B75BD0C3CB016FA2", "target": "I lavoratori stanno facendo un lavoro straordinario nel riportare alla luce tutte quelle reliquie, ma non posso fare a meno di notare che alcuni cominciano a perdere le forze, chi più e chi meno." },
     { "gameKey": "quest/038/BanQiq118_03823#TEXT_BANQIQ118_03823_QHOTERLPASOL_000_001", "hash": "D54C5DA83F2C4D74", "target": "Serve motivazione! Per fortuna ho un piano ingegnoso... Uterl Matl ha già accettato di aiutarmi: parlate con lui per saperne di più." },
     { "gameKey": "quest/038/BanQiq118_03823#TEXT_BANQIQ118_03823_UTERLMATL_000_010", "hash": "AD6F52D145B9CA95", "target": "Salve, gentile <if(gnum4,signora,signore)>! Venite su richiesta di Qhoterl Pasol, vero? Ebbene, nei livelli più profondi abbiamo trovato un reperto piuttosto bizzarro. Un'urna, ma diversa da qualsiasi altra." },

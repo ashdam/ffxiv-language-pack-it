@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/052/KinGsf101_05239#TEXT_KINGSF101_05239_SEQ_00", "hash": "7AA799E665A67E31", "target": "Questa impiegata ferroviaria è venuta a Tuliyollal in cerca di te." },
-    { "gameKey": "quest/052/KinGsf101_05239#TEXT_KINGSF101_05239_TODO_00", "hash": "DB255CB16051A672", "target": "Parlare con Shenza alla Stazione di Shaaloani." },
-    { "gameKey": "quest/052/KinGsf101_05239#TEXT_KINGSF101_05239_TODO_01", "hash": "D3EC94181CC353D6", "target": "Parlare con Wawlika." },
-    { "gameKey": "quest/052/KinGsf101_05239#TEXT_KINGSF101_05239_TODO_02", "hash": "B7CDB1E896877B20", "target": "Parlare con Nitowikwe." },
+    { "gameKey": "quest/052/KinGsf101_05239#TEXT_KINGSF101_05239_TODO_00", "hash": "DB255CB16051A672", "target": "Parla con Shenza alla Stazione di Shaaloani." },
+    { "gameKey": "quest/052/KinGsf101_05239#TEXT_KINGSF101_05239_TODO_01", "hash": "D3EC94181CC353D6", "target": "Parla con Wawlika." },
+    { "gameKey": "quest/052/KinGsf101_05239#TEXT_KINGSF101_05239_TODO_02", "hash": "B7CDB1E896877B20", "target": "Parla con Nitowikwe." },
     { "gameKey": "quest/052/KinGsf101_05239#TEXT_KINGSF101_05239_XTRREMPLOYEE05239_000_000", "hash": "428018CC027D7C95", "target": "Eccovi! Che piacere avervi <if(gnum4,trovata,trovato)>." },
     { "gameKey": "quest/052/KinGsf101_05239#TEXT_KINGSF101_05239_XTRREMPLOYEE05239_000_001", "hash": "F33787D5B08C6661", "target": "Lavoro per le Ferrovia di Xak Tural. Shenza mi ha chiesto di mandarvi da lui se vi avessi <if(gnum4,vista,visto)>." },
     { "gameKey": "quest/052/KinGsf101_05239#TEXT_KINGSF101_05239_XTRREMPLOYEE05239_000_002", "hash": "C99BDA4CE6915F3F", "target": "Non voglio allarmarvi, ma... la compagnia ha di nuovo dei problemi." },

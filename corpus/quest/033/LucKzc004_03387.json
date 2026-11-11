@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/033/LucKzc004_03387#TEXT_LUCKZC004_03387_SEQ_00", "hash": "C6D96631199F0952", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Mynes ti sarebbe molto grato se effettuassi una consegna per suo conto." },
-    { "gameKey": "quest/033/LucKzc004_03387#TEXT_LUCKZC004_03387_TODO_00", "hash": "6AEEC5ED0DA67987", "target": "Parlare con Roi-Tatch" },
-    { "gameKey": "quest/033/LucKzc004_03387#TEXT_LUCKZC004_03387_TODO_01", "hash": "913AE835646533ED", "target": "Consegnare la supply box a Teanna" },
+    { "gameKey": "quest/033/LucKzc004_03387#TEXT_LUCKZC004_03387_TODO_00", "hash": "6AEEC5ED0DA67987", "target": "Parla con Roi-Tatch" },
+    { "gameKey": "quest/033/LucKzc004_03387#TEXT_LUCKZC004_03387_TODO_01", "hash": "913AE835646533ED", "target": "Consegna la supply box a Teanna" },
     { "gameKey": "quest/033/LucKzc004_03387#TEXT_LUCKZC004_03387_MYNES_000_000", "hash": "1201B8B39FF97608", "target": "Immagino tu sia <if(gnum4,pronta,pronto)> a partire? Il mio uomo Roi-Tatch ha preparato le provviste da consegnare all'Imperative, quindi parlaci prima di metterti in cammino. Ti ringrazio ancora." },
     { "gameKey": "quest/033/LucKzc004_03387#TEXT_LUCKZC004_03387_MYNES_000_010", "hash": "6F2C4368A253F83F", "target": "Hai deciso di fermarti ancora un po' con noi? Sono certo che i miei uomini apprezzino la compagnia. In ogni caso, quando vorrai tornare all'Imperative, Roi-Tatch potrà darti le provviste da consegnare." },
     { "gameKey": "quest/033/LucKzc004_03387#TEXT_LUCKZC004_03387_ROITATCH_000_020", "hash": "05EB7104D60FB5BA", "target": "Oh, salve. Immagino tu sia <if(gnum4,l'ingenua,l'ingenuo)> dal cuore d'oro... ehm, <italic(1)>la persona gentile<italic(0)> che ha accettato di trascinare questa pesante cassa di provviste fino a quel maledetto Imperativo di Ostall. Ecco la merce!" },

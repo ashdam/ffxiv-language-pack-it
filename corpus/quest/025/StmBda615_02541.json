@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/025/StmBda615_02541#TEXT_STMBDA615_02541_SEQ_00", "hash": "8FA11BF0E964FD85", "target": "Lyse non intende lasciarsi sfuggire questa opportunità." },
-    { "gameKey": "quest/025/StmBda615_02541#TEXT_STMBDA615_02541_TODO_00", "hash": "FCB9A54E474A1BC1", "target": "Fare rapporto a Raubahn" },
-    { "gameKey": "quest/025/StmBda615_02541#TEXT_STMBDA615_02541_TODO_01", "hash": "FB5AE7AA6849E0D4", "target": "Parlare con Alphinaud" },
+    { "gameKey": "quest/025/StmBda615_02541#TEXT_STMBDA615_02541_TODO_00", "hash": "FCB9A54E474A1BC1", "target": "Fai rapporto a Raubahn" },
+    { "gameKey": "quest/025/StmBda615_02541#TEXT_STMBDA615_02541_TODO_01", "hash": "FB5AE7AA6849E0D4", "target": "Parla con Alphinaud" },
     { "gameKey": "quest/025/StmBda615_02541#TEXT_STMBDA615_02541_MNAAGO_000_001", "hash": "2B4C94E9DEB108D6", "target": "Conrad mi aveva confidato che pensava di nominarla sua erede, quindi non è stata proprio una sorpresa. Voglio dire, sono rimasta comunque sorpresa, ma non ho mai dubitato del suo giudizio. Nessuno di noi l'ha mai fatto. Se lui riteneva Lyse la scelta migliore, allora lo è." },
     { "gameKey": "quest/025/StmBda615_02541#TEXT_STMBDA615_02541_ALISAIE_000_005", "hash": "7BB55FB96D79C51D", "target": "(Da quando <italic(1)>Lyse<italic(0)> è a capo della Resistenza? Questa... questa è... Hm. Immagino che anche di questo dobbiamo ringraziare Hien.)" },
     { "gameKey": "quest/025/StmBda615_02541#TEXT_STMBDA615_02541_ALPHINAUD_000_010", "hash": "A2580038051EEDC1", "target": "Capisco la preoccupazione di M'naago. Se perdessero un altro capo così presto dopo Conrad, sarebbe devastante." },

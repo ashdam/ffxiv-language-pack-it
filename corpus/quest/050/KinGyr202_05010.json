@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/050/KinGyr202_05010#TEXT_KINGYR202_05010_SEQ_00", "hash": "6A99C88560DAA3CB", "target": "Bol Ogaw, maestro della Dawn Hunt, vuole presentarti qualcuno." },
-    { "gameKey": "quest/050/KinGyr202_05010#TEXT_KINGYR202_05010_TODO_00", "hash": "BD7074F3BB91D5E1", "target": "Parlare con Ty'at Qat" },
-    { "gameKey": "quest/050/KinGyr202_05010#TEXT_KINGYR202_05010_TODO_01", "hash": "EC5230985F375C87", "target": "Parlare con Bol Ogaw" },
+    { "gameKey": "quest/050/KinGyr202_05010#TEXT_KINGYR202_05010_TODO_00", "hash": "BD7074F3BB91D5E1", "target": "Parla con Ty'at Qat" },
+    { "gameKey": "quest/050/KinGyr202_05010#TEXT_KINGYR202_05010_TODO_01", "hash": "EC5230985F375C87", "target": "Parla con Bol Ogaw" },
     { "gameKey": "quest/050/KinGyr202_05010#TEXT_KINGYR202_05010_SYSTEM_000_001", "hash": "191076607BFC922A", "target": "Gli intermediate Dawn Hunt mark bills saranno disponibili quando avrai soddisfatto determinate condizioni nelle missioni della storia principale di Dawntrail." },
     { "gameKey": "quest/050/KinGyr202_05010#TEXT_KINGYR202_05010_BOLOGAW_000_002", "hash": "B1796F0D61844381", "target": "Ah, <split(<string(gstr1)>, ,1)>. L'Ala della Protezione vi tiene d'occhio. Dice che vi state rendendo utile e che le vostre avventure vi hanno portato in quasi ogni angolo di Tural." },
     { "gameKey": "quest/050/KinGyr202_05010#TEXT_KINGYR202_05010_BOLOGAW_000_003", "hash": "C5C523AAE7404CA5", "target": "Anche a Yak T'el, a quanto sento. La terra del mio popolo. So quanto possano essere pericolose quelle foreste, dai racconti dei miei antenati ma anche dai mandati affissi sulla bacheca. Pensate di essere <if(gnum4,pronta,pronto)> per una sfida più impegnativa?" },

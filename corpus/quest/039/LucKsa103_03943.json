@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/039/LucKsa103_03943#TEXT_LUCKSA103_03943_SEQ_00", "hash": "01301C2079C00019", "target": "Dmitar ha un piano per sfoltire le file nemiche." },
-    { "gameKey": "quest/039/LucKsa103_03943#TEXT_LUCKSA103_03943_TODO_00", "hash": "F59BCFDB921F96D4", "target": "Sconfiggere i 4th Legion slasher" },
-    { "gameKey": "quest/039/LucKsa103_03943#TEXT_LUCKSA103_03943_TODO_01", "hash": "F01D7358B79A1539", "target": "Sconfiggere i 4th Legion nimrod" },
-    { "gameKey": "quest/039/LucKsa103_03943#TEXT_LUCKSA103_03943_TODO_02", "hash": "E4B209DCD19C5FE9", "target": "Parlare con Dmitar" },
+    { "gameKey": "quest/039/LucKsa103_03943#TEXT_LUCKSA103_03943_TODO_00", "hash": "F59BCFDB921F96D4", "target": "Sconfiggi i 4th Legion slasher" },
+    { "gameKey": "quest/039/LucKsa103_03943#TEXT_LUCKSA103_03943_TODO_01", "hash": "F01D7358B79A1539", "target": "Sconfiggi i 4th Legion nimrod" },
+    { "gameKey": "quest/039/LucKsa103_03943#TEXT_LUCKSA103_03943_TODO_02", "hash": "E4B209DCD19C5FE9", "target": "Parla con Dmitar" },
     { "gameKey": "quest/039/LucKsa103_03943#TEXT_LUCKSA103_03943_DMITAR_000_000", "hash": "3774104A5450A076", "target": "Salve, Lama <split(<string(gstr1)>, ,2)>. Immagino che presto vi unirete agli altri sul fronte meridionale, vero?" },
     { "gameKey": "quest/039/LucKsa103_03943#TEXT_LUCKSA103_03943_DMITAR_000_001", "hash": "B80C8315D4ED8DEA", "target": "I miei doveri mi hanno trattenuto quasi sempre qui, ma ho sentito delle stragi compiute in battaglia dai soldati nemici e dalle loro macchine da guerra." },
     { "gameKey": "quest/039/LucKsa103_03943#TEXT_LUCKSA103_03943_DMITAR_000_002", "hash": "26AB815AB89B2B99", "target": "Gli imperiali preferiscono spesso aspettare che il bersaglio si indebolisca prima di inviare altre truppe a sferrare il colpo di grazia. Ma, per quanto astuti, sono estremamente prevedibili." },

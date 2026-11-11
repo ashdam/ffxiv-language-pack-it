@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_SEQ_00", "hash": "E7474861B03DD8EB", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Jonquinet ha bisogno di una schiena robusta che lo aiuti." },
-    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_TODO_00", "hash": "B055CD30C7D8D69C", "target": "Piantare gli experimental seeds nei luoghi indicati" },
-    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_TODO_01", "hash": "723725AB8FDFBDA9", "target": "Fare rapporto a Jonquinet" },
+    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_TODO_00", "hash": "B055CD30C7D8D69C", "target": "Pianta gli experimental seeds nei luoghi indicati" },
+    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_TODO_01", "hash": "723725AB8FDFBDA9", "target": "Fai rapporto a Jonquinet" },
     { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_000", "hash": "03CFCF5AC03A960C", "target": "Hai un po' di tempo per un vecchio ricercatore, <if(gnum4,ragazza,ragazzo)>? Il lavoro fisico non mi viene più facile come una volta, e cerco qualcuno un po' più agile che mi aiuti." },
     { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_001", "hash": "C86CCAE6A65EE1B9", "target": "Il compito è semplice, stai <if(gnum4,tranquilla,tranquillo)>. Devi solo piantare questi experimental seeds nei campi vicini. Naturalmente riceverai un compenso per il disturbo." },
     { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_002", "hash": "6D80A5261C5B9F5F", "target": "Non servono abilità particolari. Se hai piantato un seme, sai piantarli quasi tutti. Bene, non vedo l'ora di scoprire che cosa sai fare." },

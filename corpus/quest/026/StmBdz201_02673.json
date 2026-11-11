@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/026/StmBdz201_02673#TEXT_STMBDZ201_02673_SEQ_00", "hash": "1F82FDBC2A0327D0", "target": "Yusui cerca qualcuno che possa entrare liberamente al Prezzo del Rubino." },
-    { "gameKey": "quest/026/StmBdz201_02673#TEXT_STMBDZ201_02673_TODO_00", "hash": "EE3F6C28440C7626", "target": "Parlare con Ikaruga al Prezzo del Rubino" },
-    { "gameKey": "quest/026/StmBdz201_02673#TEXT_STMBDZ201_02673_TODO_01", "hash": "E2B547B4EA22C98A", "target": "Affrontare il traditore del bakufu" },
-    { "gameKey": "quest/026/StmBdz201_02673#TEXT_STMBDZ201_02673_TODO_02", "hash": "521857559BC6E0DE", "target": "Fare rapporto a Ikaruga" },
+    { "gameKey": "quest/026/StmBdz201_02673#TEXT_STMBDZ201_02673_TODO_00", "hash": "EE3F6C28440C7626", "target": "Parla con Ikaruga al Prezzo del Rubino" },
+    { "gameKey": "quest/026/StmBdz201_02673#TEXT_STMBDZ201_02673_TODO_01", "hash": "E2B547B4EA22C98A", "target": "Affronta il traditore del bakufu" },
+    { "gameKey": "quest/026/StmBdz201_02673#TEXT_STMBDZ201_02673_TODO_02", "hash": "521857559BC6E0DE", "target": "Fai rapporto a Ikaruga" },
     { "gameKey": "quest/026/StmBdz201_02673#TEXT_STMBDZ201_02673_YUSUI_000_000", "hash": "A1790ADA46B56E90", "target": "Tu! Sì, <italic(1)>tu<italic(0)>. Conosci il Prezzo del Rubino─la fortezza in mezzo al Mare di Rubino da cui i soldati del bakufu sorvegliano le acque circostanti?" },
     { "gameKey": "quest/026/StmBdz201_02673#TEXT_STMBDZ201_02673_YUSUI_000_001", "hash": "D73F779CBDA2D02A", "target": "L'altro giorno abbiamo trovato uno dei loro uomini nascosto su una nave che avevamo confiscato. Dopo qualche incoraggiamento, ha confessato di commerciare sottobanco con i Kojin Rossi per conto del suo superiore." },
     { "gameKey": "quest/026/StmBdz201_02673#TEXT_STMBDZ201_02673_YUSUI_000_002", "hash": "CFE68DF52CFD54C7", "target": "Pare credesse di evitare la Decima di Rubino nascondendosi sulla nave altrui, ma nessuno attraversa le nostre acque gratis. Perciò cerco il suo superiore, così ci risarcirà." },
@@ -20,6 +20,6 @@
     {"gameKey": "quest/026/StmBdz201_02673#TEXT_STMBDZ201_02673_POPMESSAGE_000_000", "hash": "4F8A8794AB7EDD5B", "target": "Sei sotto attacco!"},
     { "gameKey": "quest/026/StmBdz201_02673#TEXT_STMBDZ201_02673_YUSUI_000_030", "hash": "2257266DFB0B2A31", "target": "Ti prego, devi aiutarmi a scoprire chi comanda l'uomo che teniamo prigioniero." },
     { "gameKey": "quest/026/StmBdz201_02673#TEXT_STMBDZ201_02673_IKARUGA_000_040", "hash": "D804CBF6C1FC4845", "target": "Ah, dunque sembra che non ti abbia lasciato scelta. Forse la sua morte è stata un bene." },
-    { "gameKey": "quest/026/StmBdz201_02673#TEXT_STMBDZ201_02673_IKARUGA_000_041", "hash": "1FF245326CEB8E37", "target": "Informerò Yusui di quanto è accaduto, anche se non so se ne sarà felice... Ah, vuoi sapere come lo informerò? Questo è un segreto. \\<occhiolino>" }
+    { "gameKey": "quest/026/StmBdz201_02673#TEXT_STMBDZ201_02673_IKARUGA_000_041", "hash": "1FF245326CEB8E37", "target": "Informerò Yusui di quanto è accaduto, anche se non so se ne sarà felice... Ah, vuoi sapere come lo informerò? Questo è un segreto. \\<wink>" }
   ]
 }

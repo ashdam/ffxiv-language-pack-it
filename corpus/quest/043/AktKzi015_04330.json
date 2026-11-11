@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/043/AktKzi015_04330#TEXT_AKTKZI015_04330_SEQ_00", "hash": "B7C34D647D92C7FE", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Una cuoca turbata si dispera per la sua situazione." },
-    { "gameKey": "quest/043/AktKzi015_04330#TEXT_AKTKZI015_04330_TODO_00", "hash": "8F76D0532F4DF952", "target": "Usare i pouch of sulphur powder sulle verdure insolite" },
-    { "gameKey": "quest/043/AktKzi015_04330#TEXT_AKTKZI015_04330_TODO_01", "hash": "74E965C9C572806B", "target": "Raccogliere le oversized apples" },
-    { "gameKey": "quest/043/AktKzi015_04330#TEXT_AKTKZI015_04330_TODO_02", "hash": "4263139B506A70BF", "target": "Consegnare le oversized apples alla cuoca angosciata" },
+    { "gameKey": "quest/043/AktKzi015_04330#TEXT_AKTKZI015_04330_TODO_00", "hash": "8F76D0532F4DF952", "target": "Usa i pouch of sulphur powder sulle verdure insolite" },
+    { "gameKey": "quest/043/AktKzi015_04330#TEXT_AKTKZI015_04330_TODO_01", "hash": "74E965C9C572806B", "target": "Raccogli le oversized apples" },
+    { "gameKey": "quest/043/AktKzi015_04330#TEXT_AKTKZI015_04330_TODO_02", "hash": "4263139B506A70BF", "target": "Consegna le oversized apples alla cuoca angosciata" },
     { "gameKey": "quest/043/AktKzi015_04330#TEXT_AKTKZI015_04330_CULINARIAN04330_000_000", "hash": "19D1E7D75EAD7366", "target": "Che il cielo ce ne scampi! Pensare che accada nella <italic(1)>mia<italic(0)> cucina. Che faccia tosta! ...Oh, ehi tu. Sì, <italic(1)>tu<italic(0)>. Hai l'aria di <if(gnum4,una donna,un uomo)> che sa quel che <if(gnum4,lei,lui)> fa e io ne ho un disperato bisogno!" },
     { "gameKey": "quest/043/AktKzi015_04330#TEXT_AKTKZI015_04330_CULINARIAN04330_000_001", "hash": "54767350494374AC", "target": "Avevo raccolto un cesto di mele dal Centro agronomico Meryall, ma qualche brutta mandragora ha rubato quelle bellezze rosse sotto il mio naso! Non so nemmeno come siano entrate qui, ma non è questo il punto." },
     { "gameKey": "quest/043/AktKzi015_04330#TEXT_AKTKZI015_04330_CULINARIAN04330_000_002", "hash": "D1B9EDE25F3668DA", "target": "Potrei provare a riprenderle da sola, ma chissà quante ore passerebbero prima di trovare quel maledetto bandito. Sono solo una donna, non posso setacciare tutto da sola! Quindi sii gentile e aiutami a recuperare le mele, vuoi?" },

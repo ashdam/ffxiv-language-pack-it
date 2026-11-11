@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/045/SubCts670_04523#TEXT_SUBCTS670_04523_SEQ_00", "hash": "897737EAA92E672D", "target": "Da quando sei <if(gnum4,entrata,entrato)> nell'Agorà, l'inserviente ben vestita continua a lanciarti occhiate furtive." },
-    { "gameKey": "quest/045/SubCts670_04523#TEXT_SUBCTS670_04523_TODO_00", "hash": "C1F3BD7EEA4903DD", "target": "Attendere vicino al tavolo riservato dalla casata Leveilleur" },
-    { "gameKey": "quest/045/SubCts670_04523#TEXT_SUBCTS670_04523_TODO_01", "hash": "9A0AC4BE20D390C3", "target": "Parlare con Ameliance" },
-    { "gameKey": "quest/045/SubCts670_04523#TEXT_SUBCTS670_04523_TODO_02", "hash": "64C890974711F0DD", "target": "Parlare di nuovo con Ameliance" },
+    { "gameKey": "quest/045/SubCts670_04523#TEXT_SUBCTS670_04523_TODO_00", "hash": "C1F3BD7EEA4903DD", "target": "Attendi vicino al tavolo riservato dalla casata Leveilleur" },
+    { "gameKey": "quest/045/SubCts670_04523#TEXT_SUBCTS670_04523_TODO_01", "hash": "9A0AC4BE20D390C3", "target": "Parla con Ameliance" },
+    { "gameKey": "quest/045/SubCts670_04523#TEXT_SUBCTS670_04523_TODO_02", "hash": "64C890974711F0DD", "target": "Parla di nuovo con Ameliance" },
     { "gameKey": "quest/045/SubCts670_04523#TEXT_SUBCTS670_04523_MERYLD_000_001", "hash": "B4C499DD04E8E58F", "target": "Voi siete... Perdonate la mia franchezza, ma siete proprio <if(gnum4,la signora,il signor)> <split(<string(gstr1)>, ,2)>, vero?" },
     { "gameKey": "quest/045/SubCts670_04523#TEXT_SUBCTS670_04523_MERYLD_000_002", "hash": "49F0112A403C286F", "target": "(-Meryld-)È un piacere fare finalmente la vostra conoscenza. Sono Meryld, un'umile domestica della casata Leveilleur." },
     { "gameKey": "quest/045/SubCts670_04523#TEXT_SUBCTS670_04523_MERYLD_000_003", "hash": "ADEC914E7F99D6B5", "target": "(-Meryld-)Ho sentito dire che siete <if(gnum4,un'artigiana esemplare,un artigiano esemplare)>. È vero? In tal caso, spero che una proposta della mia padrona susciti il vostro interesse." },

@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_SEQ_00", "hash": "C12433104D3AA532", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Lo Yok Huy allergico ha bisogno di una consegna asciutta." },
-    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_TODO_00", "hash": "C829D6061E2C4BFB", "target": "Raccogliere le viole di Larh Tortoh e sconfiggere le minacce che compaiono" },
-    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_TODO_01", "hash": "074F25D00518B458", "target": "Consegnare le viole di Larh Tortoh allo Yok Huy allergico" },
+    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_TODO_00", "hash": "C829D6061E2C4BFB", "target": "Raccogli le viole di Larh Tortoh e sconfiggi le minacce che compaiono" },
+    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_TODO_01", "hash": "074F25D00518B458", "target": "Consegna le viole di Larh Tortoh allo Yok Huy allergico" },
     { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_SLOWLYYOKFUY05041_000_000", "hash": "F7E13FDA67DC8E33", "target": "Ah, ti conosco! Se ricordo bene fai parte del seguito della Terza Erede e, per le tue dimensioni, hai anche una bella forza." },
     { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_SLOWLYYOKFUY05041_000_001", "hash": "2EFB8A15165A6E08", "target": "Vorrei dunque chiederti un favore. Potresti raccogliere tre viole di Larh Tortoh e portarmele?" },
     { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_SLOWLYYOKFUY05041_000_002", "hash": "029CD74AE1F91C48", "target": "Le piante mostruose del campo e il loro polline sono troppo per il mio naso, e nessuno vuole fiori gocciolanti. Almeno, <italic(1)>io<italic(0)> no." },

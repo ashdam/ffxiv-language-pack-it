@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/027/StmBdz424_02747#TEXT_STMBDZ424_02747_SEQ_00", "hash": "E70D47C6B41B6A18", "target": "Gyoshu del Maniero Yuzuka ha un messaggio per chi cammina nel mondo degli uomini." },
-    { "gameKey": "quest/027/StmBdz424_02747#TEXT_STMBDZ424_02747_TODO_00", "hash": "B995A1B82E544E4B", "target": "Parlare con Yamakage" },
-    { "gameKey": "quest/027/StmBdz424_02747#TEXT_STMBDZ424_02747_TODO_01", "hash": "506B522E45C9AD92", "target": "Parlare con Gyoshu" },
-    { "gameKey": "quest/027/StmBdz424_02747#TEXT_STMBDZ424_02747_TODO_02", "hash": "00CA37B3D8521CD5", "target": "Parlare con Yamakage" },
+    { "gameKey": "quest/027/StmBdz424_02747#TEXT_STMBDZ424_02747_TODO_00", "hash": "B995A1B82E544E4B", "target": "Parla con Yamakage" },
+    { "gameKey": "quest/027/StmBdz424_02747#TEXT_STMBDZ424_02747_TODO_01", "hash": "506B522E45C9AD92", "target": "Parla con Gyoshu" },
+    { "gameKey": "quest/027/StmBdz424_02747#TEXT_STMBDZ424_02747_TODO_02", "hash": "00CA37B3D8521CD5", "target": "Parla con Yamakage" },
     { "gameKey": "quest/027/StmBdz424_02747#TEXT_STMBDZ424_02747_GYOSHU_000_000", "hash": "7EEFEEF263FC5B52", "target": "Siete <if(gnum4,un'avventuriera,un avventuriero)> in cerca di lavoro? Se è così, ne ho uno piccolo per voi. Sì, sì." },
     { "gameKey": "quest/027/StmBdz424_02747#TEXT_STMBDZ424_02747_GYOSHU_000_001", "hash": "8605B51C1120A21D", "target": "A Namai vive un uomo di nome Yamakage. Vorrei che lo trovaste e gli portaste questo messaggio: «Ho tua figlia»." },
     { "gameKey": "quest/027/StmBdz424_02747#TEXT_STMBDZ424_02747_GYOSHU_000_002", "hash": "1600E5394A102868", "target": "Trovate Yamakage a Namai e portategli questo messaggio: «Ho tua figlia»." },

@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/036/LucKyb004_03600#TEXT_LUCKYB004_03600_SEQ_00", "hash": "FC3887D77C0FD058", "target": "Halldor crede che sia il momento di farti compiere un passo importante." },
-    { "gameKey": "quest/036/LucKyb004_03600#TEXT_LUCKYB004_03600_TODO_00", "hash": "A6F2034B34E822D7", "target": "Parlare con Xylle" },
-    { "gameKey": "quest/036/LucKyb004_03600#TEXT_LUCKYB004_03600_HALLDOR_000_001", "hash": "CE8E89AE366526A0", "target": "Ecco<if(gnum4,la,lo)>! <if(gnum4,La cacciatrice di punta del Clan Nutsy in persona,Il cacciatore di punta del Clan Nutsy in persona)>! Hai abbattuto un bel po' di bersagli three-nut, eh?" },
+    { "gameKey": "quest/036/LucKyb004_03600#TEXT_LUCKYB004_03600_TODO_00", "hash": "A6F2034B34E822D7", "target": "Parla con Xylle" },
+    { "gameKey": "quest/036/LucKyb004_03600#TEXT_LUCKYB004_03600_HALLDOR_000_001", "hash": "CE8E89AE366526A0", "target": "Ecco<if(gnum4,la,lo)>! <if(gnum4,La cacciatrice di punta del Clan Nutsy in persona,Il cacciatore di punta del Clan Nutsy in persona)>! Hai abbattuto un bel po' di bersagli di caccia a tre noci del Clan Nutsy, eh?" },
     { "gameKey": "quest/036/LucKyb004_03600#TEXT_LUCKYB004_03600_HALLDOR_000_002", "hash": "9007751BCAE2480A", "target": "Ma non basta, vero? Non negarlo. No, devi provare tutto: gli abissi terrificanti, le vette vertiginose, le morbide vie di mezzo! E anche loro, forse più di te: perché altrimenti quei bastardi eulmorani offrirebbero taglie sempre più alte?" },
     { "gameKey": "quest/036/LucKyb004_03600#TEXT_LUCKYB004_03600_HALLDOR_000_003", "hash": "B6C6842662C8C464", "target": "Aspettano un tuo passo falso, uno solo. Che tu regali loro una morte spettacolare. Ma non te ne andrai in silenzio, oh no: li spremerai fino all'ultimo Gil, e oltre!" },
     { "gameKey": "quest/036/LucKyb004_03600#TEXT_LUCKYB004_03600_HALLDOR_000_004", "hash": "60F43A2166E22AC9", "target": "E presto potrai farlo su tutt'altra scala. Come, chiedi? Abbattendo i ricercati d'élite, ecco come!" },
@@ -12,7 +12,7 @@
     { "gameKey": "quest/036/LucKyb004_03600#TEXT_LUCKYB004_03600_HALLDOR_000_006", "hash": "EB63257D5C31B3A3", "target": "Ma i loro fallimenti non faranno che insaporire il piatto della tua vittoria! Più alto il rischio, maggiore la ricompensa, esteriore e interiore, no? Perciò devi parlare con Xylle senza indugio!" },
     { "gameKey": "quest/036/LucKyb004_03600#TEXT_LUCKYB004_03600_XYLLE_000_050", "hash": "95B63ADC9B235872", "target": "Oh, sei tu. Vuoi supplicarmi di lasciarti cacciare i ricercati d'élite?" },
     { "gameKey": "quest/036/LucKyb004_03600#TEXT_LUCKYB004_03600_XYLLE_000_051", "hash": "99444DFC717B3062", "target": "Non posso. Proprio l'altro giorno il nostro capo è caduto combattendo una di quelle bestie. Fatto a brandelli e divorato, non ne è rimasto nulla da seppellire." },
-    { "gameKey": "quest/036/LucKyb004_03600#TEXT_LUCKYB004_03600_XYLLE_000_052", "hash": "DE03A8699F254FEB", "target": "Non posso in coscienza permettere a una delle nostre migliori promesse di buttare via la vita come ha fatto lui. Per ora devo insistere che ti accontenti dei bersagli three-nut..." },
+    { "gameKey": "quest/036/LucKyb004_03600#TEXT_LUCKYB004_03600_XYLLE_000_052", "hash": "DE03A8699F254FEB", "target": "Non posso in coscienza permettere a una delle nostre migliori promesse di buttare via la vita come ha fatto lui. Per ora devo insistere che ti accontenti dei bersagli di caccia a tre noci del Clan Nutsy..." },
     { "gameKey": "quest/036/LucKyb004_03600#TEXT_LUCKYB004_03600_NUTS_000_053", "hash": "6E2F699DD83B9F28", "target": "(-???-)Aspetta un dannatissimo momento!" },
     { "gameKey": "quest/036/LucKyb004_03600#TEXT_LUCKYB004_03600_XYLLE_000_054", "hash": "A75AED8092A324AA", "target": "Bianco maledetto! Ma tu sei..." },
     { "gameKey": "quest/036/LucKyb004_03600#TEXT_LUCKYB004_03600_NUTS_000_055", "hash": "898218F54FD6F43B", "target": "Nutsy, il vostro impavido capo! Ancora in vita a fare kupò, sappiatelo!" },
@@ -30,7 +30,7 @@
     { "gameKey": "quest/036/LucKyb004_03600#TEXT_LUCKYB004_03600_NUTS_000_067", "hash": "271F06D4820200AE", "target": "Ehm! Volevo solo dire che forse sei la nuova promessa della caccia più brillante che abbia visto da molto tempo! Un lavoro splendido, davvero magnifico. Benissimo! E con questo... Addio!" },
     { "gameKey": "quest/036/LucKyb004_03600#TEXT_LUCKYB004_03600_XYLLE_000_068", "hash": "A423005761D4174C", "target": "Un giorno ti strapperò quel pompon dalla testa e te lo ficcherò in quella dannata gola, piccola merda pelosa..." },
     { "gameKey": "quest/036/LucKyb004_03600#TEXT_LUCKYB004_03600_XYLLE_000_069", "hash": "D04489B770F63C91", "target": "Comunque, ora puoi cacciare i ricercati d'élite. Cerca di non morire. E se incontri sul campo il nostro impavido capo, uccidila." },
-    { "gameKey": "quest/036/LucKyb004_03600#TEXT_LUCKYB004_03600_SYSTEM_000_070", "hash": "5BC3EA6526187C59", "target": "Ora puoi accettare gli incarichi elite Clan Nutsy mark dalla bacheca di caccia del Clan." },
+    { "gameKey": "quest/036/LucKyb004_03600#TEXT_LUCKYB004_03600_SYSTEM_000_070", "hash": "5BC3EA6526187C59", "target": "Ora puoi accettare gli incarichi di caccia d'élite del Clan Nutsy dalla bacheca di caccia del Clan." },
     { "gameKey": "quest/036/LucKyb004_03600#TEXT_LUCKYB004_03600_HALLDOR_000_075", "hash": "9ACB0DC792AD6606", "target": "Eh eh eh! Non ti trattengo, <if(gnum4,assassina,assassino)>! C'è un mondo intero di ricercati d'élite che aspetta di farsi uccidere da te! Muoviti!" }
   ]
 }

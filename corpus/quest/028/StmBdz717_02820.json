@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_SEQ_00", "hash": "F4CE658907597F1E", "target": "M'linhbo si trova tra l'incudine e il martello." },
-    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_TODO_00", "hash": "14CB9ADBDBF3BBD7", "target": "Abbattere highland dhara, poi sconfiggere il gold dust dhara quando compare" },
-    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_TODO_01", "hash": "C65470A4C15150B1", "target": "Fare rapporto a M'linhbo" },
+    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_TODO_00", "hash": "14CB9ADBDBF3BBD7", "target": "Sconfiggi highland dhara, poi sconfiggi il gold dust dhara quando compare" },
+    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_TODO_01", "hash": "C65470A4C15150B1", "target": "Fai rapporto a M'linhbo" },
     { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_001", "hash": "DE7A9FD56C62DEB5", "target": "Ma guarda! Sei <if(gnum4,l'avventuriera,l'avventuriero)> di Castellum Velodyna, vero? Hai dato proprio spettacolo, laggiù. Sono certa che te lo dicano sempre, ma una persona con le tue doti ci farebbe davvero comodo, in questo momento." },
     { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_002", "hash": "0AC7B6DB4A831282", "target": "A sud di qui sono comparsi dei dhara e ci stanno dando un bel po' di problemi." },
     { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_003", "hash": "1A35A80B93B82DA9", "target": "Facciamo quel che possiamo per tenerli a bada, ma ogni tanto incontriamo un'enorme montagna di roccia ricoperta di polvere d'oro che ci fa scappare con la coda tra le gambe. Immagino che per te affrontare qualche dhara sia come schiacciare mosche." },

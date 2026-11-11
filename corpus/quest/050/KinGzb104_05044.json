@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_SEQ_00", "hash": "C1F8FD5CA088445D", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Lo Yok Huy ferito sembra languire dal dolore." },
-    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_TODO_00", "hash": "DF44E3721721B9A5", "target": "Cercare il jar of pigment" },
-    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_TODO_01", "hash": "4987E4EF43E91CBC", "target": "Consegnare il jar of pigment allo Yok Huy ferito" },
+    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_TODO_00", "hash": "DF44E3721721B9A5", "target": "Cerca il jar of pigment" },
+    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_TODO_01", "hash": "4987E4EF43E91CBC", "target": "Consegna il jar of pigment allo Yok Huy ferito" },
     { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_INJUREDYOKFUY05044_000_000", "hash": "C3921D877D556E6D", "target": "Urrrgh... Un momento, se puoi, <if(gnum4,visitatrice,visitatore)>. Stavo andando dall'Eco di Worlar a consegnare pigmento a Sentinella, qui davanti." },
     { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_INJUREDYOKFUY05044_000_001", "hash": "3F0339A8DFC207C6", "target": "Ma, sciocco com'ero, ho abbassato la guardia e... <italic(1)>ugh<italic(0)>... quando i mostri mi hanno attaccato, non ho potuto far altro che fuggire per salvarmi, abbandonando le razioni e perfino il mio prezioso carico." },
     { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_INJUREDYOKFUY05044_000_002", "hash": "5F6DD1FAC271D19C", "target": "Per me le bestie possono tenersi il cibo, ma quel pigmento è essenziale per restaurare le nostre pitture rupestri." },

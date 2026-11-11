@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/043/AktKzj010_04346#TEXT_AKTKZJ010_04346_SEQ_00", "hash": "6B78B29ADEFC163A", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Noh-nookh sembra guardare attraverso di te." },
-    { "gameKey": "quest/043/AktKzj010_04346#TEXT_AKTKZJ010_04346_TODO_00", "hash": "C41510856D9E342D", "target": "Parlare con i wandering Ea" },
-    { "gameKey": "quest/043/AktKzj010_04346#TEXT_AKTKZJ010_04346_TODO_01", "hash": "4E93FCFD788A6C46", "target": "Parlare con Noh-nookh" },
+    { "gameKey": "quest/043/AktKzj010_04346#TEXT_AKTKZJ010_04346_TODO_00", "hash": "C41510856D9E342D", "target": "Parla con i wandering Ea" },
+    { "gameKey": "quest/043/AktKzj010_04346#TEXT_AKTKZJ010_04346_TODO_01", "hash": "4E93FCFD788A6C46", "target": "Parla con Noh-nookh" },
     { "gameKey": "quest/043/AktKzj010_04346#TEXT_AKTKZJ010_04346_NOHNOOKH_000_000", "hash": "05169041EB3C8526", "target": "Perdonatemi, <if(gnum4,viaggiatrice,viaggiatore)>. Non percepisco il «tempo» come chi ha una vita limitata, ma avreste un momento per parlare con alcuni dei miei compagni Ea?" },
     { "gameKey": "quest/043/AktKzj010_04346#TEXT_AKTKZJ010_04346_NOHNOOKH_000_001", "hash": "A6421F83EC119E95", "target": "È raro incontrare qualcuno su cui la saggezza più profonda non abbia lasciato cicatrici. Il vostro aspetto e il vostro modo di vedere le cose, venendo da fuori, sono tanto diversi dai nostri che mi chiedo se interagire un poco possa essere... <italic(1)>stimolante<italic(0)> per entrambe le parti." },
     { "gameKey": "quest/043/AktKzj010_04346#TEXT_AKTKZJ010_04346_NOHNOOKH_000_002", "hash": "510AC270029C756E", "target": "...Vi sono grato. Segnerò la loro posizione sulla vostra mappa. Di solito trascorrono parecchio tempo nei luoghi che frequentano abitualmente." },

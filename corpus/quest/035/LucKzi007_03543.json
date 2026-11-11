@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKzi007_03543#TEXT_LUCKZI007_03543_SEQ_00", "hash": "CF5179DDC9B04C8F", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Grawley ha bisogno di stime, e subito." },
-    { "gameKey": "quest/035/LucKzi007_03543#TEXT_LUCKZI007_03543_TODO_00", "hash": "76720402F80FC413", "target": "Chiedere agli abitanti una stima delle provviste" },
-    { "gameKey": "quest/035/LucKzi007_03543#TEXT_LUCKZI007_03543_TODO_01", "hash": "1C3CAB2038682BA5", "target": "Riferire a Grawley" },
+    { "gameKey": "quest/035/LucKzi007_03543#TEXT_LUCKZI007_03543_TODO_00", "hash": "76720402F80FC413", "target": "Chiedi agli abitanti una stima delle provviste" },
+    { "gameKey": "quest/035/LucKzi007_03543#TEXT_LUCKZI007_03543_TODO_01", "hash": "1C3CAB2038682BA5", "target": "Riferisci a Grawley" },
     { "gameKey": "quest/035/LucKzi007_03543#TEXT_LUCKZI007_03543_GRAWLEY_000_000", "hash": "439EA33A7B3DFCED", "target": "Senti, qui non ho un attimo di tregua. Mi serve qualcuno che faccia il punto sulle scorte di cibo rimaste, e tu hai appena dato la tua disponibilità." },
     { "gameKey": "quest/035/LucKzi007_03543#TEXT_LUCKZI007_03543_GRAWLEY_000_002", "hash": "02340C859E29DD2B", "target": "Quasi tutto ciò che serve al villaggio per sopravvivere viene portato dalle terre basse e, se le cose non si calmano presto... Be', non mi stupirò quando Carpentiere e Marea Quieta cominceranno a tenere per sé le merci invece di venderle. Se non a prezzi scandalosi." },
     { "gameKey": "quest/035/LucKzi007_03543#TEXT_LUCKZI007_03543_GRAWLEY_000_003", "hash": "89A51C17B9CB0661", "target": "Comunque, basta supposizioni. Mi servono stime, precise, bada bene, da chi si occupa del nostro cibo. Cereali, alcolici e carne. Vai." },

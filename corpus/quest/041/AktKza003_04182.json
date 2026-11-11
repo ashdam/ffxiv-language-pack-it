@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/041/AktKza003_04182#TEXT_AKTKZA003_04182_SEQ_00", "hash": "CFBFB61F2FB91433", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Toffwyb sembra emozionata all'idea di incontrare chi vive davvero all'avventura." },
-    { "gameKey": "quest/041/AktKza003_04182#TEXT_AKTKZA003_04182_TODO_00", "hash": "596FC678C47FC9C6", "target": "Consegnare i libri" },
-    { "gameKey": "quest/041/AktKza003_04182#TEXT_AKTKZA003_04182_TODO_01", "hash": "ACA0F59F15C33F9E", "target": "Parlare con Toffwyb" },
+    { "gameKey": "quest/041/AktKza003_04182#TEXT_AKTKZA003_04182_TODO_00", "hash": "596FC678C47FC9C6", "target": "Consegna i libri" },
+    { "gameKey": "quest/041/AktKza003_04182#TEXT_AKTKZA003_04182_TODO_01", "hash": "ACA0F59F15C33F9E", "target": "Parla con Toffwyb" },
     { "gameKey": "quest/041/AktKza003_04182#TEXT_AKTKZA003_04182_TOFFWYB_000_001", "hash": "47F9332DC44D80CA", "target": "Sei... Sei <if(gnum4,una di quelle avventuriere,uno di quegli avventurieri)> di cui ho sentito tanto parlare!? Oh, ma è perfetto! Ho proprio una commissione del genere che gli avventurieri adorano! Così mi dicono, almeno." },
     { "gameKey": "quest/041/AktKza003_04182#TEXT_AKTKZA003_04182_TOFFWYB_000_002", "hash": "5D1679840088FE2A", "target": "Ho qui alcuni volumi ordinati dai miei clienti, ma, anziché venire a ritirarli, hanno deciso tutti di farseli consegnare. Mi serve dunque uno sgobb... ehm, qualcuno che faccia le consegne. Potresti essere tu!?" },
     { "gameKey": "quest/041/AktKza003_04182#TEXT_AKTKZA003_04182_TOFFWYB_000_003", "hash": "467834976EAB4B30", "target": "Evviva! Lascia che ti spieghi i dettagli, allora. In tutto, ci sono tre libri da consegnare." },

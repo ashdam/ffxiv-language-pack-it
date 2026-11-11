@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/042/AktKzb001_04206#TEXT_AKTKZB001_04206_SEQ_00", "hash": "353FF434CA029443", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Reensarudh sembra completamente sconvolto." },
-    { "gameKey": "quest/042/AktKzb001_04206#TEXT_AKTKZB001_04206_TODO_00", "hash": "389DDD3D961B9F91", "target": "Cercare la hamsa smarrita e uccidere i predatori che compaiono" },
-    { "gameKey": "quest/042/AktKzb001_04206#TEXT_AKTKZB001_04206_TODO_01", "hash": "CC472F0C1D829ADE", "target": "Salvare la hamsa smarrita" },
-    { "gameKey": "quest/042/AktKzb001_04206#TEXT_AKTKZB001_04206_TODO_02", "hash": "4EAE9578C45C891E", "target": "Parlare con Reensarudh" },
+    { "gameKey": "quest/042/AktKzb001_04206#TEXT_AKTKZB001_04206_TODO_00", "hash": "389DDD3D961B9F91", "target": "Cerca la hamsa smarrita e sconfiggi i predatori che compaiono" },
+    { "gameKey": "quest/042/AktKzb001_04206#TEXT_AKTKZB001_04206_TODO_01", "hash": "CC472F0C1D829ADE", "target": "Salva la hamsa smarrita" },
+    { "gameKey": "quest/042/AktKzb001_04206#TEXT_AKTKZB001_04206_TODO_02", "hash": "4EAE9578C45C891E", "target": "Parla con Reensarudh" },
     { "gameKey": "quest/042/AktKzb001_04206#TEXT_AKTKZB001_04206_REENSARUDH_000_001", "hash": "F7B45DC9CCCAF713", "target": "Oh, Ham-Ham! Dove sarà!?" },
     { "gameKey": "quest/042/AktKzb001_04206#TEXT_AKTKZB001_04206_REENSARUDH_000_002", "hash": "CB8038FB799E91EF", "target": "Ti prego, devi aiutarmi! È sparita! La mia adorata Ham-Ham si è allontanata!" },
     { "gameKey": "quest/042/AktKzb001_04206#TEXT_AKTKZB001_04206_REENSARUDH_000_003", "hash": "563B4562F7FC3CD8", "target": "Ah, «Ham-Ham» è il nome della mia hamsa. ...Non conosci la parola? È una specie di uccello strettamente imparentata con il dodo di Eorzea." },

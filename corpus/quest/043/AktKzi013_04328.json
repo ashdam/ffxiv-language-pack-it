@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/043/AktKzi013_04328#TEXT_AKTKZI013_04328_SEQ_00", "hash": "AC38B6D3CC4A6B9B", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Charmont ha lo sguardo lontano, come se stesse pensando a grandi cose." },
-    { "gameKey": "quest/043/AktKzi013_04328#TEXT_AKTKZI013_04328_TODO_00", "hash": "F89F9246C5061329", "target": "Aspettare nel luogo indicato, usare la herbicidal tincture sul massive berkanan e ucciderlo" },
-    { "gameKey": "quest/043/AktKzi013_04328#TEXT_AKTKZI013_04328_TODO_01", "hash": "0673FDA32C1133BA", "target": "Parlare con Charmont" },
+    { "gameKey": "quest/043/AktKzi013_04328#TEXT_AKTKZI013_04328_TODO_00", "hash": "F89F9246C5061329", "target": "Aspetta nel luogo indicato, usa la herbicidal tincture sul massive berkanan e sconfiggilo" },
+    { "gameKey": "quest/043/AktKzi013_04328#TEXT_AKTKZI013_04328_TODO_01", "hash": "0673FDA32C1133BA", "target": "Parla con Charmont" },
     { "gameKey": "quest/043/AktKzi013_04328#TEXT_AKTKZI013_04328_CHARMONT_000_000", "hash": "67CDC743E7626B6B", "target": "Che fortuna! Sei proprio la persona valorosa che cercavo." },
     { "gameKey": "quest/043/AktKzi013_04328#TEXT_AKTKZI013_04328_CHARMONT_000_001", "hash": "4D13DB1A39441C35", "target": "Ho preparato una nuova tintura sperimentale che abbatte un certo tipo di mostro. Speravo che qualcuno di coraggioso ne provasse l'efficacia sul campo per me." },
     { "gameKey": "quest/043/AktKzi013_04328#TEXT_AKTKZI013_04328_CHARMONT_000_002", "hash": "64FA6A30BAD8AA75", "target": "E visto che sei qui, forse potresti farlo <italic(1)>tu<italic(0)>? Bene. Ora, la mia soluzione! Con l'aiuto di alcuni raccoglitori, ho creato un preparato capace di ammorbidire perfino gli involucri più duri dei fitomorfi, permettendo di abbatterle rapidamente." },

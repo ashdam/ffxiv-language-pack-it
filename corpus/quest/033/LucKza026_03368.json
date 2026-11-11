@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/033/LucKza026_03368#TEXT_LUCKZA026_03368_SEQ_00", "hash": "1C4B73105A9C46F6", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>La guardia dagli occhi assonnati sembra soffrire di mancanza di sonno." },
-    { "gameKey": "quest/033/LucKza026_03368#TEXT_LUCKZA026_03368_TODO_00", "hash": "C9260E782BF86C2F", "target": "Parlare con la guardia dagli occhi assonnati" },
-    { "gameKey": "quest/033/LucKza026_03368#TEXT_LUCKZA026_03368_TODO_01", "hash": "69A231E1D78B3C6D", "target": "Usare la cerbottana per colpire i ghilman dal luogo indicato" },
-    { "gameKey": "quest/033/LucKza026_03368#TEXT_LUCKZA026_03368_TODO_02", "hash": "5976F5D378B4508C", "target": "Parlare con la guardia dagli occhi assonnati" },
+    { "gameKey": "quest/033/LucKza026_03368#TEXT_LUCKZA026_03368_TODO_00", "hash": "C9260E782BF86C2F", "target": "Parla con la guardia dagli occhi assonnati" },
+    { "gameKey": "quest/033/LucKza026_03368#TEXT_LUCKZA026_03368_TODO_01", "hash": "69A231E1D78B3C6D", "target": "Usa la cerbottana per colpire i ghilman dal luogo indicato" },
+    { "gameKey": "quest/033/LucKza026_03368#TEXT_LUCKZA026_03368_TODO_02", "hash": "5976F5D378B4508C", "target": "Parla con la guardia dagli occhi assonnati" },
     { "gameKey": "quest/033/LucKza026_03368#TEXT_LUCKZA026_03368_GUARD03368_000_000", "hash": "3815D2BFB1C4FBC2", "target": "Sei <if(gnum4,un'amica,un amico)> di Alisaie, vero? Sento che voi sapete come abbattere le bestie problematiche." },
     { "gameKey": "quest/033/LucKza026_03368#TEXT_LUCKZA026_03368_GUARD03368_000_001", "hash": "7EA26EA4BFFE49AC", "target": "Non so se valga anche per il soprannaturale, ma i cadaveri ambulanti detti ghilman imperversano fuori dall'ingresso sud. Afferrano chiunque si avvicini troppo e lo trascinano sotto la sabbia." },
     { "gameKey": "quest/033/LucKza026_03368#TEXT_LUCKZA026_03368_GUARD03368_000_002", "hash": "E773EBFDBAD5A27B", "target": "Per poco non ne sono rimasto vittima anch'io, e ho avuto fortuna a scappare. Il problema è che nella fuga ho perso il ciondolo di mia madre, e farei qualsiasi cosa per riaverlo. Era una paziente qui, sai, ed è l'unico ricordo che ho di lei." },

@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/042/AktKzd005_04229#TEXT_AKTKZD005_04229_SEQ_00", "hash": "6649FE3E65A8E4C2", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Dossennus appare malconcio e contuso dopo uno scontro con un avversario automatizzato." },
-    { "gameKey": "quest/042/AktKzd005_04229#TEXT_AKTKZD005_04229_TODO_00", "hash": "10AA43E448EDF77B", "target": "Ispezionare le macchine da guerra inattive e cercare serbatoi di ceruleo" },
-    { "gameKey": "quest/042/AktKzd005_04229#TEXT_AKTKZD005_04229_TODO_01", "hash": "2AA9D5D062ACA990", "target": "Consegnare il serbatoio di ceruleo a Dossennus" },
+    { "gameKey": "quest/042/AktKzd005_04229#TEXT_AKTKZD005_04229_TODO_00", "hash": "10AA43E448EDF77B", "target": "Ispeziona le macchine da guerra inattive e cerca serbatoi di ceruleo" },
+    { "gameKey": "quest/042/AktKzd005_04229#TEXT_AKTKZD005_04229_TODO_01", "hash": "2AA9D5D062ACA990", "target": "Consegna il serbatoio di ceruleo a Dossennus" },
     { "gameKey": "quest/042/AktKzd005_04229#TEXT_AKTKZD005_04229_DOSSENNUS_000_000", "hash": "911ACADF7FA857D4", "target": "Che cosa vuoi? Mmm, aspetta... Sembri una persona piuttosto abile. Forse posso convincerti ad accettare un incarico per me?" },
     { "gameKey": "quest/042/AktKzd005_04229#TEXT_AKTKZD005_04229_DOSSENNUS_000_001", "hash": "5457DA6A19D95832", "target": "Saprai che si possono recuperare serbatoi di ceruleo dalle armi magitec abbattute, vero? Eccellente. Guarda caso, ho appena finito di esplorare i dintorni della stazione in cerca di macchine non ancora del tutto distrutte." },
     { "gameKey": "quest/042/AktKzd005_04229#TEXT_AKTKZD005_04229_DOSSENNUS_000_002", "hash": "4BC4E87F57158374", "target": "Credevo di aver finito, ma mi è giunta voce che alcune macchine da guerra si sono fermate di recente qui vicino. Vorrei indagare, ma temo che non siano del tutto fuori uso e abbiano ancora abbastanza energia da sferrare un colpo mortale." },

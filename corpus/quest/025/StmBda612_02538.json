@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/025/StmBda612_02538#TEXT_STMBDA612_02538_SEQ_00", "hash": "7E2223BE558A60DB", "target": "Lentamente ma inesorabilmente, Alphinaud sta ritrovando la calma." },
-    { "gameKey": "quest/025/StmBda612_02538#TEXT_STMBDA612_02538_TODO_00", "hash": "9D940482B49C35F5", "target": "Parlare con Alisaie" },
-    { "gameKey": "quest/025/StmBda612_02538#TEXT_STMBDA612_02538_TODO_01", "hash": "1A382A7FB9F838A0", "target": "Cercare soldati feriti bisognosi d'aiuto" },
-    { "gameKey": "quest/025/StmBda612_02538#TEXT_STMBDA612_02538_TODO_02", "hash": "82FC657162697653", "target": "Parlare con Alphinaud" },
+    { "gameKey": "quest/025/StmBda612_02538#TEXT_STMBDA612_02538_TODO_00", "hash": "9D940482B49C35F5", "target": "Parla con Alisaie" },
+    { "gameKey": "quest/025/StmBda612_02538#TEXT_STMBDA612_02538_TODO_01", "hash": "1A382A7FB9F838A0", "target": "Cerca soldati feriti bisognosi d'aiuto" },
+    { "gameKey": "quest/025/StmBda612_02538#TEXT_STMBDA612_02538_TODO_02", "hash": "82FC657162697653", "target": "Parla con Alphinaud" },
     { "gameKey": "quest/025/StmBda612_02538#TEXT_STMBDA612_02538_LYSE_000_001", "hash": "9B51E1500B94BA81", "target": "Lo prometto..." },
     { "gameKey": "quest/025/StmBda612_02538#TEXT_STMBDA612_02538_MNAAGO_000_005", "hash": "7C55C1BADFDF71CC", "target": "No, no, no! Non puoi! Non ora... \\<sniff> \\<sob>" },
     { "gameKey": "quest/025/StmBda612_02538#TEXT_STMBDA612_02538_ALPHINAUD_000_020", "hash": "07BC61A57D151176", "target": "...Perdonami. Non è il momento di giurare vendetta. Dobbiamo restare calmi, lucidi e padroni di noi stessi." },
