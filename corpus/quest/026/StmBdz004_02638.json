@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/026/StmBdz004_02638#TEXT_STMBDZ004_02638_SEQ_00", "hash": "286F19FD172399CB", "target": "Il combattente bruno della Resistenza non sa più che pesci prendere." },
-    { "gameKey": "quest/026/StmBdz004_02638#TEXT_STMBDZ004_02638_TODO_00", "hash": "297C755DA25F4DD7", "target": "Cercare il talismano del combattente bruno della Resistenza" },
-    { "gameKey": "quest/026/StmBdz004_02638#TEXT_STMBDZ004_02638_TODO_01", "hash": "96A8B1856A8F3BF8", "target": "Consegnare il talismano al combattente bruno della Resistenza" },
+    { "gameKey": "quest/026/StmBdz004_02638#TEXT_STMBDZ004_02638_TODO_00", "hash": "297C755DA25F4DD7", "target": "Cerca il talismano del combattente bruno della Resistenza" },
+    { "gameKey": "quest/026/StmBdz004_02638#TEXT_STMBDZ004_02638_TODO_01", "hash": "96A8B1856A8F3BF8", "target": "Consegna il talismano al combattente bruno della Resistenza" },
     { "gameKey": "quest/026/StmBdz004_02638#TEXT_STMBDZ004_02638_BURLYPRIVATE02638_000_000", "hash": "16A011113258EAF0", "target": "Maledizione! Dove può essere finito!?" },
     { "gameKey": "quest/026/StmBdz004_02638#TEXT_STMBDZ004_02638_BURLYPRIVATE02638_000_001", "hash": "980C71D884FCA43D", "target": "Oh! Ehm, perdonami, <if(gnum4,compagna,compagno)> amante della libertà e della giustizia. Non avrai visto da qualche parte un talismano del Distruttore? Magari a terra, come se un certo dannato idiota l'avesse perso?" },
     { "gameKey": "quest/026/StmBdz004_02638#TEXT_STMBDZ004_02638_BURLYPRIVATE02638_000_002", "hash": "E3430AB8AD7E96C5", "target": "Sì, sarei io. Stamattina ce l'avevo, di questo sono certo, e da allora non ho lasciato il Reach, quindi dev'essere qui nei paraggi." },

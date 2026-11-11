@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/030/BanAna306_03047#TEXT_BANANA306_03047_SEQ_00", "hash": "9C8EB78CBF193C32", "target": "Un carico in ritardo per Castellum Velodyna ha gettato Eshana nel panico.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
-    { "gameKey": "quest/030/BanAna306_03047#TEXT_BANANA306_03047_TODO_00", "hash": "FC7B0F6E9E3C4CC3", "target": "Soccorrere il trasportatore impaurito" },
-    { "gameKey": "quest/030/BanAna306_03047#TEXT_BANANA306_03047_TODO_01", "hash": "2F1C387343B8CA3B", "target": "Fare rapporto a Eshana" },
+    { "gameKey": "quest/030/BanAna306_03047#TEXT_BANANA306_03047_TODO_00", "hash": "FC7B0F6E9E3C4CC3", "target": "Soccorri il trasportatore impaurito" },
+    { "gameKey": "quest/030/BanAna306_03047#TEXT_BANANA306_03047_TODO_01", "hash": "2F1C387343B8CA3B", "target": "Fai rapporto a Eshana" },
     { "gameKey": "quest/030/BanAna306_03047#TEXT_BANANA306_03047_ESHANA_000_000", "hash": "004BFA5A73731FB9", "target": "<split(<string(gstr1)>, ,1)>! Abbiamo appena ricevuto notizia di un trasportatore asssalito dalle bestie vicino ai Confini Orientali." },
     { "gameKey": "quest/030/BanAna306_03047#TEXT_BANANA306_03047_ESHANA_000_001", "hash": "9E899B849EC7D919", "target": "Se lavora per noi, la situazione è ancora più grave. Non si tratterebbe di un soldato, ma di un abitante assunto da un villaggio vicino, sss." },
     { "gameKey": "quest/030/BanAna306_03047#TEXT_BANANA306_03047_ESHANA_000_002", "hash": "E1A5F63FE581B0CC", "target": "Vi prego, dovete andare ad aiutarlo prima che sia troppo tardi, sss." },

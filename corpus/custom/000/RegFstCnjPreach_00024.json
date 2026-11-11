@@ -2,8 +2,8 @@
   "conversation": "custom/000/RegFstCnjPreach_00024",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_1", "hash": "5B61515BA18151BD", "target": "Salve, <if(gnum4,avventuriera,avventuriero)>, ti do il benvenuto a Gridania, la nazione dei boschi." },
-    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_2", "hash": "4FC625A5560221EA", "target": "Desideri una maggiore comunione con gli elementali? In tal caso, sarò lieto di aiutarti." },
+    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_1", "hash": "5B61515BA18151BD", "target": "Salve, <if(gnum4,avventuriera,avventuriero)>, vi do il benvenuto a Gridania, la nazione dei boschi." },
+    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_2", "hash": "4FC625A5560221EA", "target": "Desiderate una maggiore comunione con gli elementali? In tal caso, sarò lieto di aiutarvi." },
     { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_3", "hash": "B4939055A92A4A3A", "target": "Tra gli incantatori, alcuni possiedono la capacità di comunicare con gli elementali. Queste persone sono note come Uditori, e io sono uno di loro." },
     { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_4", "hash": "BA8CD4EF42F0EDB6", "target": "Grazie al dono di udire le loro voci, guido i cittadini di Gridania secondo la volontà degli elementali. È così che contribuisco a mantenere l'armonia nel Bosco dei Dodici." },
     { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_5", "hash": "3C313D891CDCECEA", "target": "Gli elementali sono gli eterni custodi del Bosco dei Dodici. Da tempo immemorabile vegliano sulla foresta e su ogni forma di vita al suo interno, preservando l'equilibrio della natura." },

@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/046/BanOmi107_04613#TEXT_BANOMI107_04613_SEQ_00", "hash": "6DDE8F661390F2C7", "target": "Stigma-4 cerca un paio di gambe veloci per una consegna urgente.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
-    { "gameKey": "quest/046/BanOmi107_04613#TEXT_BANOMI107_04613_TODO_00", "hash": "FA3CA44B667DA6C2", "target": "Consegnare i pasti confezionati ai Karelliani di pattuglia presso la Sorgente del Rimpianto" },
-    { "gameKey": "quest/046/BanOmi107_04613#TEXT_BANOMI107_04613_TODO_01", "hash": "57E315CB82FF65C5", "target": "Fare rapporto a Stigma-4" },
+    { "gameKey": "quest/046/BanOmi107_04613#TEXT_BANOMI107_04613_TODO_00", "hash": "FA3CA44B667DA6C2", "target": "Consegna i pasti confezionati ai Karelliani di pattuglia presso la Sorgente del Rimpianto" },
+    { "gameKey": "quest/046/BanOmi107_04613#TEXT_BANOMI107_04613_TODO_01", "hash": "57E315CB82FF65C5", "target": "Fai rapporto a Stigma-4" },
     { "gameKey": "quest/046/BanOmi107_04613#TEXT_BANOMI107_04613_STIGMA4_000_000", "hash": "907E357CFD58E7DE", "target": "Il registro dei compiti indica una richiesta in sospeso per <split(<string(gstr1)>, ,1)>. I Karelliani di pattuglia presso la Sorgente del Rimpianto necessitano di una consegna di viveri." },
     { "gameKey": "quest/046/BanOmi107_04613#TEXT_BANOMI107_04613_STIGMA4_000_001", "hash": "E92FBC39DF64ED91", "target": "L'esaurimento delle sostanze nutritive nel contenitore biologico è direttamente correlato all'instabilità emotiva, che le statistiche indicano come causa di guerra psicologica, scontri fisici e/o forte irritabilità. La situazione attuale è classificata come \"insostenibile\". Procedi con cautela e rapidità." },
     { "gameKey": "quest/046/BanOmi107_04613#TEXT_BANOMI107_04613_KARELEANA04613_000_010", "hash": "3A27995D74AFEA1B", "target": "Che c'è? Fa' in fretta, pattugliare richiede la massima concentrazione, sai." },

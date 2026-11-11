@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/030/BanAna604_03067#TEXT_BANANA604_03067_SEQ_00", "hash": "67EA5CB57A8D8C29", "target": "Eshana sembra sul punto di farsi prendere dal panico.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
-    { "gameKey": "quest/030/BanAna604_03067#TEXT_BANANA604_03067_TODO_00", "hash": "2D87AF83882601D2", "target": "Usare l'unguento curativo Ananta sui combattenti feriti della Resistenza" },
-    { "gameKey": "quest/030/BanAna604_03067#TEXT_BANANA604_03067_TODO_01", "hash": "B61211AD6C5D1670", "target": "Fare rapporto a Eshana" },
+    { "gameKey": "quest/030/BanAna604_03067#TEXT_BANANA604_03067_TODO_00", "hash": "2D87AF83882601D2", "target": "Usa l'unguento curativo Ananta sui combattenti feriti della Resistenza" },
+    { "gameKey": "quest/030/BanAna604_03067#TEXT_BANANA604_03067_TODO_01", "hash": "B61211AD6C5D1670", "target": "Fai rapporto a Eshana" },
     { "gameKey": "quest/030/BanAna604_03067#TEXT_BANANA604_03067_ESHANA_000_000", "hash": "AEEE13D302F2E384", "target": "<split(<string(gstr1)>, ,1)>, i nostri esssploratori sono stati attaccati! Lasciati a morire da un predatore territoriale!" },
     { "gameKey": "quest/030/BanAna604_03067#TEXT_BANANA604_03067_ESHANA_000_001", "hash": "D01085E2BCF234FD", "target": "Il messaggero arrivato zoppicando al campo dice che sono stati asssaliti sul percorso di pattuglia a Virdjala." },
     { "gameKey": "quest/030/BanAna604_03067#TEXT_BANANA604_03067_ESHANA_000_002", "hash": "51B61A15CDA67EAE", "target": "Hanno bisogno di cure immediate e non ho altri sssoldati da mandare. Presto, prendete questo unguento curativo e trovate i nostri compagni feriti!" },

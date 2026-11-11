@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/042/AktKzc008_04217#TEXT_AKTKZC008_04217_SEQ_00", "hash": "A0994E58CA881964", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>L'ufficiale degli approvvigionamenti è lieta di vederti nuovamente disponibile ad aiutare." },
-    { "gameKey": "quest/042/AktKzc008_04217#TEXT_AKTKZC008_04217_TODO_00", "hash": "F66404A2656C7D0C", "target": "Parlare con l'ufficiale degli approvvigionamenti" },
-    { "gameKey": "quest/042/AktKzc008_04217#TEXT_AKTKZC008_04217_TODO_01", "hash": "E0C851C9C405A4EA", "target": "Guidare l'armatura magitec nei luoghi indicati e distruggere i droni magitec" },
-    { "gameKey": "quest/042/AktKzc008_04217#TEXT_AKTKZC008_04217_TODO_02", "hash": "2A4EBC206A8A9B8C", "target": "Parlare con l'ufficiale degli approvvigionamenti" },
+    { "gameKey": "quest/042/AktKzc008_04217#TEXT_AKTKZC008_04217_TODO_00", "hash": "F66404A2656C7D0C", "target": "Parla con l'ufficiale degli approvvigionamenti" },
+    { "gameKey": "quest/042/AktKzc008_04217#TEXT_AKTKZC008_04217_TODO_01", "hash": "E0C851C9C405A4EA", "target": "Guida l'armatura magitec nei luoghi indicati e distruggi i droni magitec" },
+    { "gameKey": "quest/042/AktKzc008_04217#TEXT_AKTKZC008_04217_TODO_02", "hash": "2A4EBC206A8A9B8C", "target": "Parla con l'ufficiale degli approvvigionamenti" },
     { "gameKey": "quest/042/AktKzc008_04217#TEXT_AKTKZC008_04217_JARECK_100_000", "hash": "61EA43DACE542D05", "target": "Quel viaggio non dev'essere stato facile, con i mostri, il freddo e tutto il resto. Non vale molto, ma ti ringrazio. A sentire questa ragazza, potrei avere occasione di ringraziarti ancora molto presto." },
     { "gameKey": "quest/042/AktKzc008_04217#TEXT_AKTKZC008_04217_BLONDESUPPLYMEMBER04216_000_000", "hash": "9EA40601C6C2D3CB", "target": "Dunque avete trovato nel vostro cuore la volontà di aiutare ancora una vecchia amica, eh? Non dimenticherò presto la vostra generosità, ve lo assicuro. Ora veniamo alla questione." },
     { "gameKey": "quest/042/AktKzc008_04217#TEXT_AKTKZC008_04217_BLONDESUPPLYMEMBER04216_000_001", "hash": "B774B49073251DB4", "target": "La gente qui mi ha parlato delle armi magitec che si aggirano per la tundra gelata. Senza piloti a guidarle, scatenano la loro furia su chiunque sia tanto sfortunato da incrociarle." },

@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/042/AktKzf020_04275#TEXT_AKTKZF020_04275_SEQ_00", "hash": "5544EDF3C96DABF7", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>La capitana della Guardia Radiosa spera che prevalga il buon senso." },
-    { "gameKey": "quest/042/AktKzf020_04275#TEXT_AKTKZF020_04275_TODO_00", "hash": "68F3218D794E0B14", "target": "Parlare con la capitana della Guardia Radiosa" },
-    { "gameKey": "quest/042/AktKzf020_04275#TEXT_AKTKZF020_04275_TODO_01", "hash": "4A183D4FCFB1EC1A", "target": "Parlare con la capitana della Guardia Radiosa e seguire l'Au Ra ostile" },
-    { "gameKey": "quest/042/AktKzf020_04275#TEXT_AKTKZF020_04275_TODO_02", "hash": "11FC39E122216E05", "target": "Parlare con la guardia della Guardia Radiosa" },
+    { "gameKey": "quest/042/AktKzf020_04275#TEXT_AKTKZF020_04275_TODO_00", "hash": "68F3218D794E0B14", "target": "Parla con la capitana della Guardia Radiosa" },
+    { "gameKey": "quest/042/AktKzf020_04275#TEXT_AKTKZF020_04275_TODO_01", "hash": "4A183D4FCFB1EC1A", "target": "Parla con la capitana della Guardia Radiosa e segui l'Au Ra ostile" },
+    { "gameKey": "quest/042/AktKzf020_04275#TEXT_AKTKZF020_04275_TODO_02", "hash": "11FC39E122216E05", "target": "Parla con la guardia della Guardia Radiosa" },
     { "gameKey": "quest/042/AktKzf020_04275#TEXT_AKTKZF020_04275_WILDAURA04275_000_001", "hash": "119E8954A78F3ACF", "target": "Che hai da guardare!? Non sono affari tuoi." },
     { "gameKey": "quest/042/AktKzf020_04275#TEXT_AKTKZF020_04275_MILDAURA04275_000_002", "hash": "FCA6BC6DBAC98DC3", "target": "Ti supplico... ti prego, ridammi l'anello!" },
     { "gameKey": "quest/042/AktKzf020_04275#TEXT_AKTKZF020_04275_TOWNGARD04275_000_003", "hash": "875584903E84ECDF", "target": "Calmatevi! Ho detto calmatevi!" },

@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/054/KinGsf201_05460#TEXT_KINGSF201_05460_SEQ_00", "hash": "8AF659B936704BA6", "target": "Hhuki ti osserva con occhio attento." },
-    { "gameKey": "quest/054/KinGsf201_05460#TEXT_KINGSF201_05460_TODO_00", "hash": "DBA2B86DC2AACAF1", "target": "Parlare con Tiisol Ja" },
-    { "gameKey": "quest/054/KinGsf201_05460#TEXT_KINGSF201_05460_TODO_01", "hash": "376F4FB3DDDAF11B", "target": "Attendere Tiisol Ja nel luogo indicato" },
-    { "gameKey": "quest/054/KinGsf201_05460#TEXT_KINGSF201_05460_TODO_02", "hash": "3D7F1FC3385BAD34", "target": "Parlare con Tiisol Ja" },
+    { "gameKey": "quest/054/KinGsf201_05460#TEXT_KINGSF201_05460_TODO_00", "hash": "DBA2B86DC2AACAF1", "target": "Parla con Tiisol Ja" },
+    { "gameKey": "quest/054/KinGsf201_05460#TEXT_KINGSF201_05460_TODO_01", "hash": "376F4FB3DDDAF11B", "target": "Attendi Tiisol Ja nel luogo indicato" },
+    { "gameKey": "quest/054/KinGsf201_05460#TEXT_KINGSF201_05460_TODO_02", "hash": "3D7F1FC3385BAD34", "target": "Parla con Tiisol Ja" },
     { "gameKey": "quest/054/KinGsf201_05460#TEXT_KINGSF201_05460_HHUKI_000_001", "hash": "EB4CD177345BA0E8", "target": "<string(gstr1)>, presumo?" },
     { "gameKey": "quest/054/KinGsf201_05460#TEXT_KINGSF201_05460_HHUKI_000_002", "hash": "85EAECB5EB1DEA21", "target": "Ottimo. Corrispondete perfettamente alla descrizione che mi è stata data. Mi chiamo Hhuki e lavoro come cuoco ai Tacos di zia Tii." },
     { "gameKey": "quest/054/KinGsf201_05460#TEXT_KINGSF201_05460_HHUKI_000_003", "hash": "63F4A6F963B71449", "target": "La proprietaria, Tiisol Ja, mi ha mandato a cercarvi. Desidera il vostro consiglio su una questione di grande importanza. Il prima possibile. ...Adesso, preferibilmente. Andiamo?" },

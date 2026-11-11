@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/025/StmBda601_02527#TEXT_STMBDA601_02527_SEQ_00", "hash": "87049508C3CB1812", "target": "Casa è dove si trova il cuore, e quello di Alphinaud è a Eorzea." },
-    { "gameKey": "quest/025/StmBda601_02527#TEXT_STMBDA601_02527_TODO_00", "hash": "175B2D8AEA0D1DC8", "target": "Parlare con Thancred a Castrum Oriens" },
-    { "gameKey": "quest/025/StmBda601_02527#TEXT_STMBDA601_02527_TODO_01", "hash": "8C13CBB5204F9121", "target": "Raggiungere Conrad" },
-    { "gameKey": "quest/025/StmBda601_02527#TEXT_STMBDA601_02527_TODO_02", "hash": "1FB50327428E639B", "target": "Parlare con Pipin" },
+    { "gameKey": "quest/025/StmBda601_02527#TEXT_STMBDA601_02527_TODO_00", "hash": "175B2D8AEA0D1DC8", "target": "Parla con Thancred a Castrum Oriens" },
+    { "gameKey": "quest/025/StmBda601_02527#TEXT_STMBDA601_02527_TODO_01", "hash": "8C13CBB5204F9121", "target": "Raggiungi Conrad" },
+    { "gameKey": "quest/025/StmBda601_02527#TEXT_STMBDA601_02527_TODO_02", "hash": "1FB50327428E639B", "target": "Parla con Pipin" },
     { "gameKey": "quest/025/StmBda601_02527#TEXT_STMBDA601_02527_LYSE_000_001", "hash": "D7D47AA5E8B7610F", "target": "Siamo stati via fin troppo a lungo, ma finalmente─finalmente sistemeremo le cose!" },
     { "gameKey": "quest/025/StmBda601_02527#TEXT_STMBDA601_02527_ALISAIE_000_005", "hash": "9FA7B925E3D09501", "target": "Sembra passata una vita da quando siamo partiti per Kugane, vero?" },
     { "gameKey": "quest/025/StmBda601_02527#TEXT_STMBDA601_02527_YUGIRI_000_010", "hash": "B61429716B07B61A", "target": "Prima di lasciare la città dovremmo informare l'Ammiraglio del nostro arrivo e riferirle quanto accaduto a Doma." },

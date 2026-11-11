@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_SEQ_00", "hash": "E1117324CD3F381C", "target": "Dmitar vuole parlarti di una scoperta insolita sul fronte meridionale." },
-    { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_TODO_00", "hash": "680E4AADF62CB4EA", "target": "<if([lnum1<lnum2],Ottenere un frammento dimenticato,Consegnare il frammento dimenticato a Dmitar)>" },
+    { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_TODO_00", "hash": "680E4AADF62CB4EA", "target": "<if([lnum1<lnum2],Ottieni un frammento dimenticato,Consegna il frammento dimenticato a Dmitar)>" },
     { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_SYSTEM_100_000", "hash": "2B5A7343C866ABED", "target": "Per proseguire questa missione è richiesto un grado della Resistenza di <num(lnum1)>." },
     { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_SYSTEM_100_001", "hash": "7176AFC49ADDFA39", "target": "Puoi aumentare il grado della Resistenza facendo rapporto al Resistance commander dopo aver ottenuto abbastanza mettle." },
     { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_DMITAR_000_000", "hash": "0A05DAFF1ECACAF9", "target": "Arrivate al momento giusto, Lama <split(<string(gstr1)>, ,2)>. Ho un rapporto piuttosto interessante da condividere con voi." },

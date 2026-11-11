@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_SEQ_00", "hash": "A64386A9639850C8", "target": "Dmitar ha buone notizie dal campo di battaglia." },
-    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_TODO_00", "hash": "E6946626BF908563", "target": "Parlare con Dmitar sull'altopiano meridionale" },
+    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_TODO_00", "hash": "E6946626BF908563", "target": "Parla con Dmitar sull'altopiano meridionale" },
     { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_SYSTEM_100_000", "hash": "857E8A3364BAA8FD", "target": "Per proseguire questa missione è richiesto un grado della Resistenza di <num(lnum1)>." },
     { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_DMITAR_000_000", "hash": "AF29671C1D762968", "target": "Lama <split(<string(gstr1)>, ,2)>! Che piacere vedervi. Come sempre, le notizie del vostro contributo alla Resistenza vi precedono. Ci hanno appena informati che la barriera sul nuovo avamposto è completa." },
     { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_DMITAR_000_002", "hash": "A62C98044C268C69", "target": "Finalmente la nostra prima linea può avanzare. Un'impresa impossibile senza il vostro aiuto e quello delle Officine Garlond." },

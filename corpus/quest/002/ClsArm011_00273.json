@@ -5,7 +5,7 @@
     { "gameKey": "quest/002/ClsArm011_00273#TEXT_CLSARM011_00273_SEQ_00", "hash": "BBA677C8768EC1B0", "target": "G'wahnako vuole che tu confermi il desiderio di entrare nella Gilda degli Armaioli." },
     { "gameKey": "quest/002/ClsArm011_00273#TEXT_CLSARM011_00273_SEQ_01", "hash": "3DCB8191DE18731E", "target": "G'wahnako ti ha chiesto di parlare con la maestra di forgia H'naanza. La troverai fuori, nell'area di lavoro della gilda." },
     { "gameKey": "quest/002/ClsArm011_00273#TEXT_CLSARM011_00273_SEQ_02", "hash": "FE75996A6A0229FD", "target": "La maestra di forgia H'naanza ha approvato la tua richiesta di entrare nella Gilda degli Armaioli. Equipaggia il weathered doming hammer che ti ha dato e parlale di nuovo." },
-    { "gameKey": "quest/002/ClsArm011_00273#TEXT_CLSARM011_00273_TODO_00", "hash": "DD10AAB41E85709A", "target": "Parlare con H'naanza" },
+    { "gameKey": "quest/002/ClsArm011_00273#TEXT_CLSARM011_00273_TODO_00", "hash": "DD10AAB41E85709A", "target": "Parla con H'naanza" },
     { "gameKey": "quest/002/ClsArm011_00273#TEXT_CLSARM011_00273_GWAHNAKO_000_1", "hash": "1B0BF828DCF5A5BD", "target": "Hai deciso? Hai voglia di unirti a noi armaioli?" },
     { "gameKey": "quest/002/ClsArm011_00273#TEXT_CLSARM011_00273_GWAHNAKO_000_2", "hash": "21973224041BA703", "target": "Hmpf. A quanto pare no." },
     { "gameKey": "quest/002/ClsArm011_00273#TEXT_CLSARM011_00273_GWAHNAKO_000_3", "hash": "032DB3E891C6B5BA", "target": "Be', dovrei lodarti per non aver preso una decisione affrettata─il lavoro minuzioso di un armaiolo non è per chi ha fretta, <if(gnum4,ragazza,ragazzo)>." },

@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/050/KinGzb006_05035#TEXT_KINGZB006_05035_SEQ_00", "hash": "C80984FA3A68D346", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Il mercante malaticcio non è solo indisposto, ma visibilmente infelice." },
-    { "gameKey": "quest/050/KinGzb006_05035#TEXT_KINGZB006_05035_TODO_00", "hash": "4F47C6776A56846F", "target": "Indagare su dove si trovi la guida esuberante" },
-    { "gameKey": "quest/050/KinGzb006_05035#TEXT_KINGZB006_05035_TODO_01", "hash": "FE68FF896E889739", "target": "Cercare la guida esuberante" },
-    { "gameKey": "quest/050/KinGzb006_05035#TEXT_KINGZB006_05035_TODO_02", "hash": "A73237A1EFC6A929", "target": "Parlare con il mercante malaticcio" },
+    { "gameKey": "quest/050/KinGzb006_05035#TEXT_KINGZB006_05035_TODO_00", "hash": "4F47C6776A56846F", "target": "Indaga su dove si trovi la guida esuberante" },
+    { "gameKey": "quest/050/KinGzb006_05035#TEXT_KINGZB006_05035_TODO_01", "hash": "FE68FF896E889739", "target": "Cerca la guida esuberante" },
+    { "gameKey": "quest/050/KinGzb006_05035#TEXT_KINGZB006_05035_TODO_02", "hash": "A73237A1EFC6A929", "target": "Parla con il mercante malaticcio" },
     { "gameKey": "quest/050/KinGzb006_05035#TEXT_KINGZB006_05035_POORMERCHANT05035_000_000", "hash": "F9B71F35E94E4FAC", "target": "Perdonami, <if(gnum4,viaggiatrice,viaggiatore)>, posso rubarti un momento? Sono un mercante di Tuliyollal, qui per affari, ma da quando sono arrivato sto malissimo." },
     { "gameKey": "quest/050/KinGzb006_05035#TEXT_KINGZB006_05035_POORMERCHANT05035_000_001", "hash": "AA1B517D3C5B3858", "target": "Il ragazzo Pelupelu che avevo ingaggiato come guida per queste parti mi ha guardato e poi è partito all'improvviso verso nord, borbottando qualcosa." },
     { "gameKey": "quest/050/KinGzb006_05035#TEXT_KINGZB006_05035_POORMERCHANT05035_000_002", "hash": "CB4E60AB2B7D83D8", "target": "Parlava troppo in fretta perché capissi, ma temo che la mia sola vista l'abbia turbato in qualche modo." },

@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/053/BanYok111_05346#TEXT_BANYOK111_05346_SEQ_00", "hash": "7E33F408D64076F5", "target": "Vuyargur ha bisogno di qualcuno capace di radunare apprendisti distratti.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
-    { "gameKey": "quest/053/BanYok111_05346#TEXT_BANYOK111_05346_TODO_00", "hash": "17A22D775EB7E89E", "target": "Usare /poke sul captivated apprentice a Urqopacha" },
-    { "gameKey": "quest/053/BanYok111_05346#TEXT_BANYOK111_05346_TODO_01", "hash": "7916781E3DA8EF87", "target": "Parlare con Vuyargur" },
+    { "gameKey": "quest/053/BanYok111_05346#TEXT_BANYOK111_05346_TODO_00", "hash": "17A22D775EB7E89E", "target": "Usa /poke sul captivated apprentice a Urqopacha" },
+    { "gameKey": "quest/053/BanYok111_05346#TEXT_BANYOK111_05346_TODO_01", "hash": "7916781E3DA8EF87", "target": "Parla con Vuyargur" },
     { "gameKey": "quest/053/BanYok111_05346#TEXT_BANYOK111_05346_VUYARGUR_000_000", "hash": "596406122FF3A2B2", "target": "Uno dei nostri lavoratori più giovani è uscito per una commissione, ma manca ormai da un po'. È capace, ma tende a perdersi nei propri pensieri... Sospetto che sia questa la causa della sua attuale assenza." },
     { "gameKey": "quest/053/BanYok111_05346#TEXT_BANYOK111_05346_VUYARGUR_000_001", "hash": "8ADBE4E015C8CE5C", "target": "Ho bisogno del suo aiuto altrove, quindi, se non è troppo disturbo, potreste trovarlo e dargli un bel <colortype(500)><edgecolortype(501)>poke<edgecolortype(0)><colortype(0)> per rimettere in carreggiata i suoi pensieri?" },
     { "gameKey": "quest/053/BanYok111_05346#TEXT_BANYOK111_05346_VUYARGUR_000_002", "hash": "D016CB344C286E4C", "target": "Purtroppo sembra che il nostro distratto preferito sia di nuovo rimasto intrappolato nei suoi pensieri. Gli avevo persino detto che al suo ritorno lo aspettava un altro compito, ma non sembra averlo aiutato a concentrarsi." },

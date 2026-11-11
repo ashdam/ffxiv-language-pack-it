@@ -2,10 +2,10 @@
   "conversation": "quest/033/LucKmb120_03321",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/033/LucKmb120_03321#TEXT_LUCKMB120_03321_SEQ_00", "hash": "A3F785F8F0331FE7", "target": "Thancred desidera parlare con <if(gnum4,l'eroina,l'eroe)> del momento." },
-    { "gameKey": "quest/033/LucKmb120_03321#TEXT_LUCKMB120_03321_TODO_00", "hash": "167DA32ABD83CE2F", "target": "Parlare con Alisaie nel Crystarium" },
-    { "gameKey": "quest/033/LucKmb120_03321#TEXT_LUCKMB120_03321_TODO_01", "hash": "D81483DADD87DC0D", "target": "Parlare con Alisaie" },
-    { "gameKey": "quest/033/LucKmb120_03321#TEXT_LUCKMB120_03321_TODO_02", "hash": "8A28871D6E936FCB", "target": "Parlare con il responsabile degli alloggi nei Pendagli" },
+    { "gameKey": "quest/033/LucKmb120_03321#TEXT_LUCKMB120_03321_SEQ_00", "hash": "A3F785F8F0331FE7", "target": "Thancred desidera parlare con chi ha salvato la giornata." },
+    { "gameKey": "quest/033/LucKmb120_03321#TEXT_LUCKMB120_03321_TODO_00", "hash": "167DA32ABD83CE2F", "target": "Parla con Alisaie nel Crystarium" },
+    { "gameKey": "quest/033/LucKmb120_03321#TEXT_LUCKMB120_03321_TODO_01", "hash": "D81483DADD87DC0D", "target": "Parla con Alisaie" },
+    { "gameKey": "quest/033/LucKmb120_03321#TEXT_LUCKMB120_03321_TODO_02", "hash": "8A28871D6E936FCB", "target": "Parla con il responsabile degli alloggi nei Pendagli" },
     { "gameKey": "quest/033/LucKmb120_03321#TEXT_LUCKMB120_03321_ALPHINAUD_000_000", "hash": "3D509BD94E0F3830", "target": "È stato solo per pura fortuna che siamo riusciti a tenere a bada gli eulmorani abbastanza a lungo perché tu riuscissi nell'impresa─ma ci siamo meritati un po' di buona sorte. E sebbene sia chiaro che rivedremo il generale Ran'jit, per quanto mi riguarda sono lieto di rimandare ancora un po' il momento della resa dei conti con lui." },
     { "gameKey": "quest/033/LucKmb120_03321#TEXT_LUCKMB120_03321_ALISAIE_000_005", "hash": "94FFA37F72591B48", "target": "Sembra che mi sbagliassi sulla tua amica. Se Feo Ul non fosse intervenuta, a quest'ora staresti già giocando con i fatati." },
     { "gameKey": "quest/033/LucKmb120_03321#TEXT_LUCKMB120_03321_RYNE_000_010", "hash": "86544D517F3566F4", "target": "Mi allenerò ancora più duramente. Dopo aver visto ciò che hai compiuto, è il minimo che possa fare." },
@@ -27,16 +27,16 @@
     { "gameKey": "quest/033/LucKmb120_03321#TEXT_LUCKMB120_03321_RYNE_000_060", "hash": "4043C56B4283B49C", "target": "Dunque quello era un asciano... Thancred mi ha parlato di loro." },
     { "gameKey": "quest/033/LucKmb120_03321#TEXT_LUCKMB120_03321_URIANGER_000_065", "hash": "90115FB6F8120D9B", "target": "Che un asciano del rango di Emet-Selch si riveli volontariamente a noi─e proprio in un simile frangente─è... assai interessante." },
     { "gameKey": "quest/033/LucKmb120_03321#TEXT_LUCKMB120_03321_ALISAIE_000_070", "hash": "FC9F3A06F8FA00D8", "target": "<italic(1)>Collaborazione<italic(0)>? Non può parlare sul serio... vero?" },
-    { "gameKey": "quest/033/LucKmb120_03321#TEXT_LUCKMB120_03321_ALISAIE_000_071", "hash": "E5FDB1353DF2AA43", "target": "Ebbene, ci ha sicuramente dato molto su cui riflettere, ma prima le cose importanti: dovremmo fare rapporto all'Esarca." },
+    { "gameKey": "quest/033/LucKmb120_03321#TEXT_LUCKMB120_03321_ALISAIE_000_071", "hash": "E5FDB1353DF2AA43", "target": "Ebbene, ci ha sicuramente dato molto su cui riflettere, ma andiamo con ordine: prima di tutto, dobbiamo riferire all'Esarca." },
     { "gameKey": "quest/033/LucKmb120_03321#TEXT_LUCKMB120_03321_ALISAIE_000_072", "hash": "F14CEE64D001E3ED", "target": "Puoi andare, <split(<string(gstr1)>, ,1)>. Siamo perfettamente in grado di occuparci di questo piccolo incarico." },
     { "gameKey": "quest/033/LucKmb120_03321#TEXT_LUCKMB120_03321_ALISAIE_000_073", "hash": "B1C2F4B6C5F5EA53", "target": "Visti i tuoi recenti sforzi, direi che ti spetta un po' di riposo." },
     { "gameKey": "quest/033/LucKmb120_03321#TEXT_LUCKMB120_03321_ALISAIE_000_074", "hash": "EB87FFEC4145D008", "target": "Forza, va' a dormire. Ci vediamo più tardi, quando avrai recuperato le energie e avrai voglia di rimetterti all'opera." },
-    { "gameKey": "quest/033/LucKmb120_03321#TEXT_LUCKMB120_03321_MYSTERYVOICE_000_075", "hash": "25F9E5ACE1575EC2", "target": "Che il tuo ritorno trionfale e incolume sia stato guastato da un ospite indesiderato..." },
+    { "gameKey": "quest/033/LucKmb120_03321#TEXT_LUCKMB120_03321_MYSTERYVOICE_000_075", "hash": "25F9E5ACE1575EC2", "target": "Che il tuo ritorno trionfale e incolume sia stato guastato da un ospite inatteso..." },
     { "gameKey": "quest/033/LucKmb120_03321#TEXT_LUCKMB120_03321_MYSTERYVOICE_000_076", "hash": "9B9B21B48DD9FC7F", "target": "Ma non soffermiamoci sulla questione qui e ora. Gli altri mi riferiranno i dettagli della missione. Tu, nel frattempo, dovresti riposarti." },
     { "gameKey": "quest/033/LucKmb120_03321#TEXT_LUCKMB120_03321_GUIDEOFTHEPENDANTS_000_080", "hash": "99B6C6E8283D1D82", "target": "Ah, <if(gnum4,bentornata signora,bentornato signore)>. Vi stavamo aspettando." },
     { "gameKey": "quest/033/LucKmb120_03321#TEXT_LUCKMB120_03321_GUIDEOFTHEPENDANTS_000_081", "hash": "07B885A4F574351B", "target": "Troverete cibo e bevande nei vostri alloggi. Speriamo che siano di vostro gradimento." },
     { "gameKey": "quest/033/LucKmb120_03321#TEXT_LUCKMB120_03321_GUIDEOFTHEPENDANTS_000_082", "hash": "0219F224D1892BEB", "target": "Desiderate ritirarvi ora?" },
     { "gameKey": "quest/033/LucKmb120_03321#TEXT_LUCKMB120_03321_Q1_000_000", "hash": "EF41E5ED5C840D32", "target": "Ritirarti nei tuoi alloggi?" },
-    { "gameKey": "quest/033/LucKmb120_03321#TEXT_LUCKMB120_03321_GUIDEOFTHEPENDANTS_000_083", "hash": "CEC026252A806A1C", "target": "Molto bene, <if(gnum4,signora,signore)>. Vi auguro una piacevole serata." }
+    { "gameKey": "quest/033/LucKmb120_03321#TEXT_LUCKMB120_03321_GUIDEOFTHEPENDANTS_000_083", "hash": "CEC026252A806A1C", "target": "Molto bene, <if(gnum4,signora,signore)>. Vi auguro una buona serata." }
   ]
 }

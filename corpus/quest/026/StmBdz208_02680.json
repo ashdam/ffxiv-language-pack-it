@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_SEQ_00", "hash": "34C96F9BF62E4536", "target": "Kaizan cerca <if(gnum4,una donna,un uomo)> di vera tempra." },
-    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_TODO_00", "hash": "3BB2EE14D7C3A809", "target": "Usare i Large Burlap Sack per catturare i Sea Serpent indeboliti" },
-    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_TODO_01", "hash": "FBD8790EB78AA026", "target": "Consegnare i Sea Serpent indeboliti a Kaizan" },
+    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_TODO_00", "hash": "3BB2EE14D7C3A809", "target": "Usa i Large Burlap Sack per catturare i Sea Serpent indeboliti" },
+    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_TODO_01", "hash": "FBD8790EB78AA026", "target": "Consegna i Sea Serpent indeboliti a Kaizan" },
     { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_KAIZAN_000_000", "hash": "1F4A47E1498D84B5", "target": "Ah! Sembri <if(gnum4,una donna,un uomo)> di grande forza e anche di coraggio! Ti va di farmi un favore?" },
     { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_KAIZAN_000_001", "hash": "E04B955B02D8D4A0", "target": "A ovest della Roccia della Secca ci sono dei Sea Serpent. Devi indebolirne tre e riportarmeli in questi sacchi." },
     { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_KAIZAN_000_002", "hash": "F66C5F0015B90541", "target": "Sei <if(gnum4,una donna coraggiosa,un uomo coraggioso)>, molto più di quei codardi senza spina dorsale che abitano quest'isola. Si definiscono pirati e poi basta un po' di veleno di serpente a spaventarli. Ah! Che branco di miserabili!" },

@@ -57,7 +57,7 @@
     { "gameKey": "GcArmyExpedition#27.8", "hash": "8400742D138A46BF", "target": "Infiltrazione e Salvataggio" },
     { "gameKey": "GcArmyExpedition#27.9", "hash": "E826495C725B6F81", "target": "Alcuni civili sono stati rapiti. I rapitori sono <switch(lnum1,i Predoni del Serpente,gli Ixal,le Zanne di Fuoco)>. Infiltrati nella roccaforte nemica e libera i prigionieri prima che vengano asserviti." },
     { "gameKey": "GcArmyExpedition#28.8", "hash": "C64AD742580A4D1F", "target": "Eliminazione dei Fuorilegge" },
-    { "gameKey": "GcArmyExpedition#28.9", "hash": "5C052AD81405A111", "target": "Una banda di fuorilegge, ritenuta una fazione dissidente <switch(lnum1,dei Mamool Ja,dei Coeurlclaws,della Brigata dei Cadaveri)>, è diventata una minaccia intollerabile. Trovala ed eliminala senza indugio." },
+    { "gameKey": "GcArmyExpedition#28.9", "hash": "5C052AD81405A111", "target": "Una banda di fuorilegge, ritenuta una fazione dissidente <switch(lnum1,dei Mamool Ja,delle Zanne di Iaguaro,della Brigata dei Cadaveri)>, è diventata una minaccia intollerabile. Trovala ed eliminala senza indugio." },
     { "gameKey": "GcArmyExpedition#29.8", "hash": "E0F7C67B6FC5EA2F", "target": "Repressione del Culto" },
     { "gameKey": "GcArmyExpedition#29.9", "hash": "3B030BB6BB264C7F", "target": "Gli Agnelli di Dalamud stanno reclutando illegalmente a <switch(lnum1,Limsa Lominsa,Gridania,Ul'dah)>. Avvicinati ai cultisti fingendoti parte della popolazione civile e fai emergere le loro attività." },
     { "gameKey": "GcArmyExpedition#30.8", "hash": "C4A2346B4C412C9C", "target": "Eliminazione dei Vuotofagi" },

@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/031/SubCts620_03139#TEXT_SUBCTS620_03139_SEQ_00", "hash": "1E16B5C7AA113397", "target": "Il Kojin assoldato ti guarda con evidente interesse." },
-    { "gameKey": "quest/031/SubCts620_03139#TEXT_SUBCTS620_03139_TODO_00", "hash": "4C4A34637AB0A309", "target": "Parlare con la dama di compagnia a Tamamizu" },
+    { "gameKey": "quest/031/SubCts620_03139#TEXT_SUBCTS620_03139_TODO_00", "hash": "4C4A34637AB0A309", "target": "Parla con la dama di compagnia a Tamamizu" },
     { "gameKey": "quest/031/SubCts620_03139#TEXT_SUBCTS620_03139_KOUJIN03139_000_000", "hash": "D061E2ABA93B12CB", "target": "Perdona, <if(gnum4,signora,signore)>, ma sei <if(gnum4,un'avventuriera,un avventuriero)>, vero? Mi avvicino nella speranza che tu conosca una celebrità tra chi esercita il tuo mestiere: <string(gstr1)>, di cui si narrano grandi imprese." },
     { "gameKey": "quest/031/SubCts620_03139#TEXT_SUBCTS620_03139_KOUJIN03139_000_001", "hash": "9AAC3A83EB32A205", "target": "...Cosa? <italic(1)>Tu<italic(0)> sei <if(gnum4,la leggendaria,il leggendario)> <string(gstr1)>, <if(gnum4,liberatrice,liberatore)> di nazioni e flagello dell'Impero? Come sono benevoli i kami, che ti hanno guidato fin qui!" },
     { "gameKey": "quest/031/SubCts620_03139#TEXT_SUBCTS620_03139_KOUJIN03139_000_002", "hash": "CF9DA21696D43D2C", "target": "Mi è stato chiesto di trovarti─dalla dama di compagnia di Sui-no-Sato. Io e i miei fratelli Blu stiamo aiutando quella brava gente in un'impresa, ma stanno incontrando alcune difficoltà." },

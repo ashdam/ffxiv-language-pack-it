@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/052/KinGmg102_05245#TEXT_KINGMG102_05245_SEQ_00", "hash": "6C15B3409432102B", "target": "Gulool Ja vorrebbe andare a ritirare il suo fiore per i funerali." },
-    { "gameKey": "quest/052/KinGmg102_05245#TEXT_KINGMG102_05245_TODO_00", "hash": "44C07C2DAE8F3A65", "target": "Parlare con Gossan al Parco Praxis" },
-    { "gameKey": "quest/052/KinGmg102_05245#TEXT_KINGMG102_05245_TODO_01", "hash": "ABCACA0F342239D5", "target": "Parlare con Wuk Lamat" },
+    { "gameKey": "quest/052/KinGmg102_05245#TEXT_KINGMG102_05245_TODO_00", "hash": "44C07C2DAE8F3A65", "target": "Parla con Gossan al Parco Praxis" },
+    { "gameKey": "quest/052/KinGmg102_05245#TEXT_KINGMG102_05245_TODO_01", "hash": "ABCACA0F342239D5", "target": "Parla con Wuk Lamat" },
     { "gameKey": "quest/052/KinGmg102_05245#TEXT_KINGMG102_05245_WUKLAMAT_000_001", "hash": "1F49375E7AAC0C99", "target": "Papà diceva sempre che non voleva un funerale triste, così abbiamo celebrato la sua vita insieme alla nostra vittoria. Sono sicura che gli sarebbe piaciuto..." },
     { "gameKey": "quest/052/KinGmg102_05245#TEXT_KINGMG102_05245_WUKLAMAT_000_002", "hash": "DE588CC1C1954DE7", "target": "Mi piace pensare che ci guardasse dall'aldilà, riempiendo il suo bicchiere ogni volta che riempivamo i nostri." },
     { "gameKey": "quest/052/KinGmg102_05245#TEXT_KINGMG102_05245_ALPHINAUD_000_005", "hash": "F57ECCAD9A3F0ADC", "target": "Anche se sono già stato nel Retrobottega, non ho avuto tempo di guardarmi intorno. Mi piacerebbe esaminare meglio le apparecchiature." },

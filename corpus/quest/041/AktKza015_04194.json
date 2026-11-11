@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_SEQ_00", "hash": "AF1B8456664CEAE6", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Emaniette cerca un animo coraggioso per un compito pericoloso." },
-    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_TODO_00", "hash": "C19BE0D6767DBF03", "target": "Raccogliere il fango marrone" },
-    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_TODO_01", "hash": "A240E90C2BD99E23", "target": "Consegnare il fango marrone a Emaniette" },
+    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_TODO_00", "hash": "C19BE0D6767DBF03", "target": "Raccogli il fango marrone" },
+    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_TODO_01", "hash": "A240E90C2BD99E23", "target": "Consegna il fango marrone a Emaniette" },
     { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_EMANIETTE_000_000", "hash": "3C77F3A37D4B541D", "target": "Se non mi sbaglio, hai gli occhi d'acciaio di <if(gnum4,un'avventuriera,un avventuriero)> che guarda la morte in faccia senza battere ciglio." },
     { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_EMANIETTE_000_001", "hash": "9F1607EA3204DF1E", "target": "Mi serve un campione di terra rara, ma si trova solo in un luogo pieno di piante feroci e gli dèi sanno che altro. Ti darei una bella borsa di monete se potessi recuperarlo per me." },
     { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_EMANIETTE_000_002", "hash": "335BD5EC969EF6FF", "target": "Se ti va, raggiungi l'Abisso del Troglofilo e raccogli tre campioni di fango marrone. Più scuro è, meglio è, secondo me. Ti consiglio di affilare prima le armi, ma non ti dirò come fare il tuo lavoro." },

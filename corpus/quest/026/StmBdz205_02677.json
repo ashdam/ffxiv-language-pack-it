@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/026/StmBdz205_02677#TEXT_STMBDZ205_02677_SEQ_00", "hash": "8C053DB9EF8A4C08", "target": "Hayama sembra completamente assorto a osservare il mare." },
-    { "gameKey": "quest/026/StmBdz205_02677#TEXT_STMBDZ205_02677_TODO_00", "hash": "979C553DDD319AEF", "target": "Esaminare i luoghi indicati e uccidere gli Ominous Onibi" },
-    { "gameKey": "quest/026/StmBdz205_02677#TEXT_STMBDZ205_02677_TODO_01", "hash": "F7253643A144BABF", "target": "Parlare con Hayama" },
+    { "gameKey": "quest/026/StmBdz205_02677#TEXT_STMBDZ205_02677_TODO_00", "hash": "979C553DDD319AEF", "target": "Esamina i luoghi indicati e sconfiggi gli Ominous Onibi" },
+    { "gameKey": "quest/026/StmBdz205_02677#TEXT_STMBDZ205_02677_TODO_01", "hash": "F7253643A144BABF", "target": "Parla con Hayama" },
     { "gameKey": "quest/026/StmBdz205_02677#TEXT_STMBDZ205_02677_HAYAMA_000_000", "hash": "1C687D6B9EB9902E", "target": "Per tutti i kami! N-Non puoi arrivare di soppiatto così! Allora, cosa ti serve? Se non hai bisogno di niente, ti chiedo gentilmente di lasciarmi tornare al mio servizio di guar..." },
     { "gameKey": "quest/026/StmBdz205_02677#TEXT_STMBDZ205_02677_HAYAMA_000_001", "hash": "EADE66C0EBCB1C1C", "target": "Ah, a guardarti meglio, sembri molto più forte di un comune <switch(gnum71,Hyur,Elezen,Lalafell,Miqo'te,Roegadyn,Au Ra,Hrothgar,Viera)>. Forse c'è qualcosa in cui puoi aiutarmi. Ultimamente abbiamo visto strane luci lampeggianti lungo la costa orientale di Sakazuki." },
     { "gameKey": "quest/026/StmBdz205_02677#TEXT_STMBDZ205_02677_HAYAMA_000_002", "hash": "84405D5D219CF647", "target": "P-Probabilmente sono solo le navi che passano da queste parti, ma alcuni uomini qui sono convinti che sia un Onibi. Sono terrorizzati. Potresti andare a dare un'occhiata per noi?" },

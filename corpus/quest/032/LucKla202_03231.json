@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/032/LucKla202_03231#TEXT_LUCKLA202_03231_SEQ_00", "hash": "52C84AC46601D519", "target": "Thiuna sembra assorta nei pensieri." },
-    { "gameKey": "quest/032/LucKla202_03231#TEXT_LUCKLA202_03231_TODO_00", "hash": "D2B566273CBE598C", "target": "Parlare con Thiuna" },
-    { "gameKey": "quest/032/LucKla202_03231#TEXT_LUCKLA202_03231_TODO_01", "hash": "E44F2783CCFDFFAD", "target": "Parlare con Thiuna" },
-    { "gameKey": "quest/032/LucKla202_03231#TEXT_LUCKLA202_03231_TODO_02", "hash": "F05BF905C5F49145", "target": "<if([lnum1<lnum2],Realizzare un'insegna di laboratorio <sheet(Addon,9,0)>,Consegnare l'insegna di laboratorio <sheet(Addon,9,0)> a Thiuna)>" },
+    { "gameKey": "quest/032/LucKla202_03231#TEXT_LUCKLA202_03231_TODO_00", "hash": "D2B566273CBE598C", "target": "Parla con Thiuna" },
+    { "gameKey": "quest/032/LucKla202_03231#TEXT_LUCKLA202_03231_TODO_01", "hash": "E44F2783CCFDFFAD", "target": "Parla con Thiuna" },
+    { "gameKey": "quest/032/LucKla202_03231#TEXT_LUCKLA202_03231_TODO_02", "hash": "F05BF905C5F49145", "target": "<if([lnum1<lnum2],Realizza un'insegna di laboratorio <sheet(Addon,9,0)>,Consegna l'insegna di laboratorio <sheet(Addon,9,0)> a Thiuna)>" },
     { "gameKey": "quest/032/LucKla202_03231#TEXT_LUCKLA202_03231_THIUNA_000_000", "hash": "582E86F3C084D5DD", "target": "Mmm... Che cosa dovrei fare..." },
     { "gameKey": "quest/032/LucKla202_03231#TEXT_LUCKLA202_03231_THIUNA_000_001", "hash": "6C3409C8D178D094", "target": "Uaaah! D-Da quanto tempo siete lì? Ero così assorta nei pensieri che non vi ho <if(gnum4,notata,notato)>." },
     { "gameKey": "quest/032/LucKla202_03231#TEXT_LUCKLA202_03231_THIUNA_000_002", "hash": "78C0898C81D159B7", "target": "Vedete, riflettevo se parlarvi di Owell. Il fatto che siate <if(gnum4,apparsa,apparso)> proprio ora è un segno. Vi prego, ascoltatemi." },

@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/025/StmBda415_02514#TEXT_STMBDA415_02514_SEQ_00", "hash": "E56FB6C6F18BECE1", "target": "Gosetsu ritiene di aver visto abbastanza di Dotharl Khaa." },
-    { "gameKey": "quest/025/StmBda415_02514#TEXT_STMBDA415_02514_TODO_00", "hash": "0CD8675170BF0AB2", "target": "Parlare con Magnai" },
-    { "gameKey": "quest/025/StmBda415_02514#TEXT_STMBDA415_02514_TODO_01", "hash": "28DE90D8EA13EF05", "target": "Parlare con Hien" },
-    { "gameKey": "quest/025/StmBda415_02514#TEXT_STMBDA415_02514_TODO_02", "hash": "4209CA5DF33C38CD", "target": "Parlare con Cirina" },
+    { "gameKey": "quest/025/StmBda415_02514#TEXT_STMBDA415_02514_TODO_00", "hash": "0CD8675170BF0AB2", "target": "Parla con Magnai" },
+    { "gameKey": "quest/025/StmBda415_02514#TEXT_STMBDA415_02514_TODO_01", "hash": "28DE90D8EA13EF05", "target": "Parla con Hien" },
+    { "gameKey": "quest/025/StmBda415_02514#TEXT_STMBDA415_02514_TODO_02", "hash": "4209CA5DF33C38CD", "target": "Parla con Cirina" },
     { "gameKey": "quest/025/StmBda415_02514#TEXT_STMBDA415_02514_GOSETSU_000_000", "hash": "64F74E6F4A67CB1E", "target": "Siete <if(gnum4,pronta,pronto)> a partire, spero? Bene. Allora andiamo." },
     { "gameKey": "quest/025/StmBda415_02514#TEXT_STMBDA415_02514_GOSETSU_000_010", "hash": "FB4D06E28E5EE25B", "target": "Non possiamo che dire la verità a Magnai. E se il nostro radiosissimo fratello non sarà soddisfatto, sarà un piacere porre fine a questa farsa." },
     { "gameKey": "quest/025/StmBda415_02514#TEXT_STMBDA415_02514_DAIDUKUL_000_015", "hash": "B211108C4D0F9D18", "target": "Siete vivi... e siete tornati. Poco importa. Tutto dipende da ciò che avete da dire." },

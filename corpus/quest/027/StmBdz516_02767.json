@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/027/StmBdz516_02767#TEXT_STMBDZ516_02767_SEQ_00", "hash": "78F4B0340327530A", "target": "Cotan ha scoperto il vero potenziale del formaggio." },
-    { "gameKey": "quest/027/StmBdz516_02767#TEXT_STMBDZ516_02767_TODO_00", "hash": "F31FC7E68A9BA61D", "target": "Parlare con Sukegei" },
-    { "gameKey": "quest/027/StmBdz516_02767#TEXT_STMBDZ516_02767_TODO_01", "hash": "83D76C062067BE34", "target": "Avvicinarsi a una pecora pronta per la mungitura e riempire l'empty milk can" },
-    { "gameKey": "quest/027/StmBdz516_02767#TEXT_STMBDZ516_02767_TODO_02", "hash": "AE28C70297906227", "target": "Consegnare il full milk can a Cotan" },
+    { "gameKey": "quest/027/StmBdz516_02767#TEXT_STMBDZ516_02767_TODO_00", "hash": "F31FC7E68A9BA61D", "target": "Parla con Sukegei" },
+    { "gameKey": "quest/027/StmBdz516_02767#TEXT_STMBDZ516_02767_TODO_01", "hash": "83D76C062067BE34", "target": "Avvicinati a una pecora pronta per la mungitura e riempi l'empty milk can" },
+    { "gameKey": "quest/027/StmBdz516_02767#TEXT_STMBDZ516_02767_TODO_02", "hash": "AE28C70297906227", "target": "Consegna il full milk can a Cotan" },
     { "gameKey": "quest/027/StmBdz516_02767#TEXT_STMBDZ516_02767_COTAN_000_000", "hash": "AE418CAFDEB9BA58", "target": "Dimmi, hai mai fatto il formaggio?" },
     { "gameKey": "quest/027/StmBdz516_02767#TEXT_STMBDZ516_02767_COTAN_000_001", "hash": "4DA38BDBA69D6BEB", "target": "Mi guadagno da vivere vendendo lanolina al mercato, ma ultimamente le vendite vanno male." },
     { "gameKey": "quest/027/StmBdz516_02767#TEXT_STMBDZ516_02767_COTAN_000_002", "hash": "E453FCF9A7E38224", "target": "Proprio quando le cose non potevano andare peggio, gli dèi antichi mi hanno detto di fare formaggio con latte di pecora raccolto da <if(gnum4,un'avventuriera,un avventuriero)>. Ho l'impressione che quella persona sia tu." },

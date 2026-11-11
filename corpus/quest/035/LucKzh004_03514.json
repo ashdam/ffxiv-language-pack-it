@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKzh004_03514#TEXT_LUCKZH004_03514_SEQ_00", "hash": "BFFB7243378C3C78", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Haraldur ha trovato un oggetto smarrito." },
-    { "gameKey": "quest/035/LucKzh004_03514#TEXT_LUCKZH004_03514_TODO_00", "hash": "48FF2F8FBCD7C980", "target": "Dare l'extravagant pipe al minatore dai tratti scolpiti" },
-    { "gameKey": "quest/035/LucKzh004_03514#TEXT_LUCKZH004_03514_TODO_01", "hash": "5A923E17C8C0EB95", "target": "Parlare con il minatore dai tratti scolpiti" },
+    { "gameKey": "quest/035/LucKzh004_03514#TEXT_LUCKZH004_03514_TODO_00", "hash": "48FF2F8FBCD7C980", "target": "Dai l'extravagant pipe al minatore dai tratti scolpiti" },
+    { "gameKey": "quest/035/LucKzh004_03514#TEXT_LUCKZH004_03514_TODO_01", "hash": "5A923E17C8C0EB95", "target": "Parla con il minatore dai tratti scolpiti" },
     { "gameKey": "quest/035/LucKzh004_03514#TEXT_LUCKZH004_03514_HARALDUR_000_000", "hash": "9D4628C20C0AE8D8", "target": "Scusa, <if(gnum4,signorina,amico)>. Quel tizio con cui parlavi ha perso la pipa." },
     { "gameKey": "quest/035/LucKzh004_03514#TEXT_LUCKZH004_03514_HARALDUR_000_001", "hash": "B42913736520BCAE", "target": "Sembra piuttosto vecchia. Potrebbe valere qualcosa." },
     { "gameKey": "quest/035/LucKzh004_03514#TEXT_LUCKZH004_03514_HARALDUR_000_002", "hash": "F70D79B3E6D44898", "target": "Correrei a restituirgliela, ma ho un lavoro da fare. Potresti pensarci tu?" },

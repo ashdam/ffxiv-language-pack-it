@@ -2,9 +2,9 @@
   "conversation": "quest/035/LucKzh003_03513",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzh003_03513#TEXT_LUCKZH003_03513_SEQ_00", "hash": "83B1A3AC53B1607D", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Un ragazzo impetuoso non vede l'ora di uccidere qualche gnomo." },
-    { "gameKey": "quest/035/LucKzh003_03513#TEXT_LUCKZH003_03513_TODO_00", "hash": "7FC9B3F21C06F165", "target": "Sconfiggere due gnomi e uccidere l'elderly gnome quando compare" },
-    { "gameKey": "quest/035/LucKzh003_03513#TEXT_LUCKZH003_03513_TODO_01", "hash": "EAC06E20DD44B5C0", "target": "Fare rapporto al ragazzo impetuoso" },
+    { "gameKey": "quest/035/LucKzh003_03513#TEXT_LUCKZH003_03513_SEQ_00", "hash": "83B1A3AC53B1607D", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Un ragazzo impetuoso non vede l'ora di sconfiggere qualche gnomo." },
+    { "gameKey": "quest/035/LucKzh003_03513#TEXT_LUCKZH003_03513_TODO_00", "hash": "7FC9B3F21C06F165", "target": "Sconfiggi due gnomi e sconfiggi l'elderly gnome quando compare" },
+    { "gameKey": "quest/035/LucKzh003_03513#TEXT_LUCKZH003_03513_TODO_01", "hash": "EAC06E20DD44B5C0", "target": "Fai rapporto al ragazzo impetuoso" },
     { "gameKey": "quest/035/LucKzh003_03513#TEXT_LUCKZH003_03513_BOY03513_000_000", "hash": "85A594B11B9EAC61", "target": "Hai mai visto uno gnomo? Li odiano tutti perché mangiano le nostre gemme e attaccano la gente." },
     { "gameKey": "quest/035/LucKzh003_03513#TEXT_LUCKZH003_03513_BOY03513_000_001", "hash": "485C11E025580D0C", "target": "Voglio andare in miniera e combatterli. Ma tutti dicono che sono troppo piccolo! Tu che ne pensi?" },
     { "gameKey": "quest/035/LucKzh003_03513#TEXT_LUCKZH003_03513_Q1_000_000", "hash": "EE13AF50B2F0DF2D", "target": "Che cosa dirai?" },

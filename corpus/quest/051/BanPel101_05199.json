@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/051/BanPel101_05199#TEXT_BANPEL101_05199_SEQ_00", "hash": "A88AA4D8936F95DD", "target": "Yubli desidera far conoscere l'Agenzia Viaggi di Tural.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
-    { "gameKey": "quest/051/BanPel101_05199#TEXT_BANPEL101_05199_TODO_00", "hash": "2847021977C2D9B9", "target": "Distribuire volantini a Ok'bek'be" },
-    { "gameKey": "quest/051/BanPel101_05199#TEXT_BANPEL101_05199_TODO_01", "hash": "CB5958E806B32DDD", "target": "Parlare con Yubli" },
+    { "gameKey": "quest/051/BanPel101_05199#TEXT_BANPEL101_05199_TODO_00", "hash": "2847021977C2D9B9", "target": "Distribuisci volantini a Ok'bek'be" },
+    { "gameKey": "quest/051/BanPel101_05199#TEXT_BANPEL101_05199_TODO_01", "hash": "CB5958E806B32DDD", "target": "Parla con Yubli" },
     { "gameKey": "quest/051/BanPel101_05199#TEXT_BANPEL101_05199_YUBLI_000_001", "hash": "15D6E1053097EBF7", "target": "Non possiamo limitarci ad aspettare sperando che i clienti ci trovino da soli. È essenziale far conoscere l'esistenza dell'Agenzia Viaggi di Tural!" },
     { "gameKey": "quest/051/BanPel101_05199#TEXT_BANPEL101_05199_YUBLI_000_002", "hash": "6983B8A11ABC245E", "target": "Per questo ho fatto preparare questi volantini promozionali. Posso chiedervi di distribuirli a Ok'bek'be?" },
     { "gameKey": "quest/051/BanPel101_05199#TEXT_BANPEL101_05199_YUBLI_000_003", "hash": "56314E0ED0C934C5", "target": "I mercanti in viaggio dalla capitale visitano spesso l'insediamento. Vorrei che cercaste potenziali clienti e deste loro un volantino. Idealmente, diffonderanno poi la notizia della nostra impresa fra colleghi e persone care." },

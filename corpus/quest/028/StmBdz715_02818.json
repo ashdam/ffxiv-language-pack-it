@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_SEQ_00", "hash": "21F4D3A7F57E3614", "target": "Jayanti sembra avere qualche riserva sulla sua prossima uscita." },
-    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_TODO_00", "hash": "46F9E73408327092", "target": "Usare la flat ale nel luogo indicato e abbattere i Gyr Abanian mud slugs" },
-    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_TODO_01", "hash": "14BDA910BCBE8D16", "target": "Fare rapporto a Jayanti" },
+    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_TODO_00", "hash": "46F9E73408327092", "target": "Usa la flat ale nel luogo indicato e sconfiggi i Gyr Abanian mud slugs" },
+    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_TODO_01", "hash": "14BDA910BCBE8D16", "target": "Fai rapporto a Jayanti" },
     { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_000", "hash": "FBF9046A852C5350", "target": "Ah, <if(gnum4,avventuriera,avventuriero)>. Ci stavamo preparando a cacciare. È un dovere di cui andiamo molto fiere, ma temo che ultimamente il rissschio per le mie sorelle sia aumentato." },
     { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_001", "hash": "3DBE993AE17B117B", "target": "La nostra arma migliore è la freccia avvelenata. Tutte le bestie sssoccombono rapidamente ai suoi effetti. Tutte tranne una: il Gyr Abanian mud slug. Ultimamente sono diventati più numerosssi, rendendo la caccia ancora più difficile." },
     { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_002", "hash": "2FC323919CAFAA04", "target": "La loro resistenza ai nostri veleni non ci lassscia altra scelta che combattere da vicino, ed è proprio questo il problema." },

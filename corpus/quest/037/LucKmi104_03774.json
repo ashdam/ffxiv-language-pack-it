@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/037/LucKmi104_03774#TEXT_LUCKMI104_03774_SEQ_00", "hash": "9EC874F7437D5D46", "target": "A giudicare dalla sua espressione imbarazzata, Tataru ha un favore da chiederti." },
-    { "gameKey": "quest/037/LucKmi104_03774#TEXT_LUCKMI104_03774_TODO_00", "hash": "E83B12613BD3305E", "target": "Parlare con Tataru" },
-    { "gameKey": "quest/037/LucKmi104_03774#TEXT_LUCKMI104_03774_TODO_01", "hash": "AFF3DC4ED8B76555", "target": "Consegnare il pane degli Arconti all'Esarca di Cristallo nell'Osservatorio" },
-    { "gameKey": "quest/037/LucKmi104_03774#TEXT_LUCKMI104_03774_TODO_02", "hash": "3B7EC1BDC6D58D43", "target": "Parlare con Urianger" },
+    { "gameKey": "quest/037/LucKmi104_03774#TEXT_LUCKMI104_03774_TODO_00", "hash": "E83B12613BD3305E", "target": "Parla con Tataru" },
+    { "gameKey": "quest/037/LucKmi104_03774#TEXT_LUCKMI104_03774_TODO_01", "hash": "AFF3DC4ED8B76555", "target": "Consegna il pane degli Arconti all'Esarca di Cristallo nell'Osservatorio" },
+    { "gameKey": "quest/037/LucKmi104_03774#TEXT_LUCKMI104_03774_TODO_02", "hash": "3B7EC1BDC6D58D43", "target": "Parla con Urianger" },
     { "gameKey": "quest/037/LucKmi104_03774#TEXT_LUCKMI104_03774_KRILE_000_000", "hash": "3CC6826D354C9729", "target": "Hai fatto molta strada, quindi riposati finché puoi." },
     { "gameKey": "quest/037/LucKmi104_03774#TEXT_LUCKMI104_03774_TATARU_000_010", "hash": "F038867BF7A95814", "target": "Ehm... <split(<string(gstr1)>, ,1)>? Avreste un momento? Mentre Krile va a cercare questo suo esperto, intendo." },
     { "gameKey": "quest/037/LucKmi104_03774#TEXT_LUCKMI104_03774_TATARU_000_011", "hash": "0EE27EEBD64C2B04", "target": "Vedete, speravo di mandare un regalo ai nostri amici nel Primo... e dato che potremmo dover aspettare un po', mi chiedevo se vi andasse di aiutarmi." },

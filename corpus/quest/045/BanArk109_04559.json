@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_SEQ_00", "hash": "AB3FC49EC03BDD51", "target": "Maru aspetta con ansia il ritorno di qualcuno.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
-    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_TODO_00", "hash": "FFDB812F7F6BBA57", "target": "Cercare il taciturn Rider" },
-    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_TODO_01", "hash": "EEEBFB2E4D4C496B", "target": "Parlare con il taciturn Rider" },
-    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_TODO_02", "hash": "FE15F9FAD81E2393", "target": "Fare rapporto a Maru" },
+    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_TODO_00", "hash": "FFDB812F7F6BBA57", "target": "Cerca il taciturn Rider" },
+    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_TODO_01", "hash": "EEEBFB2E4D4C496B", "target": "Parla con il taciturn Rider" },
+    { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_TODO_02", "hash": "FE15F9FAD81E2393", "target": "Fai rapporto a Maru" },
     { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_MARU_000_000", "hash": "0741C4E66A96AEC0", "target": "<split(<string(gstr1)>, ,1)>, non hai visto un Cavalcatore di Ippopotami taciturno che portava un paio di brocche d'olio di valras, vero?" },
     { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_MARU_000_001", "hash": "D48B5E769749FB08", "target": "È un tipo tosto, quindi non ci ho pensato due volte a mandarlo a pestare valras, ma ora temo gli sia successo qualcosa." },
     { "gameKey": "quest/045/BanArk109_04559#TEXT_BANARK109_04559_MARU_000_002", "hash": "9C0917433F2C6A1C", "target": "Penso che tu sia ancora più <if(gnum4,tosta,tosto)> di lui, quindi ti dispiacerebbe cercarlo? Dovrebbe essere da qualche parte sul Colle Profumato, e spero non a pezzi." },

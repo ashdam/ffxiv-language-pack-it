@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKzh203_03531#TEXT_LUCKZH203_03531_SEQ_00", "hash": "CAE868059AADA7F6", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Il minatore intrepido ha messo gli occhi sugli impianti inutilizzati di Pozzo di Malikah." },
-    { "gameKey": "quest/035/LucKzh203_03531#TEXT_LUCKZH203_03531_TODO_00", "hash": "0D4404973C54D5D4", "target": "Esaminare i macchinari inutilizzati" },
-    { "gameKey": "quest/035/LucKzh203_03531#TEXT_LUCKZH203_03531_TODO_01", "hash": "B6F6618D1744233D", "target": "Fare rapporto al minatore intrepido" },
+    { "gameKey": "quest/035/LucKzh203_03531#TEXT_LUCKZH203_03531_TODO_00", "hash": "0D4404973C54D5D4", "target": "Esamina i macchinari inutilizzati" },
+    { "gameKey": "quest/035/LucKzh203_03531#TEXT_LUCKZH203_03531_TODO_01", "hash": "B6F6618D1744233D", "target": "Fai rapporto al minatore intrepido" },
     { "gameKey": "quest/035/LucKzh203_03531#TEXT_LUCKZH203_03531_MINER03531_000_000", "hash": "F85BE5855A460DD5", "target": "Ti conosco. Facevi parte del gruppo entrato a Pozzo di Malikah, vero?" },
     { "gameKey": "quest/035/LucKzh203_03531#TEXT_LUCKZH203_03531_MINER03531_000_001", "hash": "6C2526EA1F4F3EB9", "target": "Credo proprio di sì. Grazie a voi che avete eliminato i divorapeccati da queste parti, forse possiamo fare buon uso di ciò che resta di Nabaath Areng." },
     { "gameKey": "quest/035/LucKzh203_03531#TEXT_LUCKZH203_03531_MINER03531_000_002", "hash": "4E6C8943F0716BFB", "target": "Il pozzo fu scavato per ordine di una malikah o un'altra, non ricordo quale. Usava l'acqua fresca del sottosuolo per difendersi dal caldo del deserto." },

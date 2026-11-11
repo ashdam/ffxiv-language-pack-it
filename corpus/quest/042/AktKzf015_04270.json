@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/042/AktKzf015_04270#TEXT_AKTKZF015_04270_SEQ_00", "hash": "54BB273EBF2E6576", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Mihreen canticchia una melodia." },
-    { "gameKey": "quest/042/AktKzf015_04270#TEXT_AKTKZF015_04270_TODO_00", "hash": "E6EB2386A1E8854E", "target": "Parlare con il ragazzo Au Ra" },
-    { "gameKey": "quest/042/AktKzf015_04270#TEXT_AKTKZF015_04270_TODO_01", "hash": "9C4CD53899167C9D", "target": "Scegliere un fiore e parlare di nuovo con il ragazzo Au Ra" },
-    { "gameKey": "quest/042/AktKzf015_04270#TEXT_AKTKZF015_04270_TODO_02", "hash": "B77216682DBFD437", "target": "Parlare con Mihreen" },
+    { "gameKey": "quest/042/AktKzf015_04270#TEXT_AKTKZF015_04270_TODO_00", "hash": "E6EB2386A1E8854E", "target": "Parla con il ragazzo Au Ra" },
+    { "gameKey": "quest/042/AktKzf015_04270#TEXT_AKTKZF015_04270_TODO_01", "hash": "9C4CD53899167C9D", "target": "Scegli un fiore e parla di nuovo con il ragazzo Au Ra" },
+    { "gameKey": "quest/042/AktKzf015_04270#TEXT_AKTKZF015_04270_TODO_02", "hash": "B77216682DBFD437", "target": "Parla con Mihreen" },
     { "gameKey": "quest/042/AktKzf015_04270#TEXT_AKTKZF015_04270_MIHREEN_000_001", "hash": "F793562E3FE6E7C8", "target": "Aspetta... è possibile? Sì... sei <if(gnum4,una delle eroine,uno degli eroi)> che ci hanno aiutato a respingere le bestie! Oh, che onore poterti parlare davvero!" },
     { "gameKey": "quest/042/AktKzf015_04270#TEXT_AKTKZF015_04270_MIHREEN_000_002", "hash": "AFEC05F573DADDB0", "target": "Ti ricordi di me? Forse no, ma sono una delle persone che hai salvato dall'orda famelica. Non so come esprimere la mia gratitudine." },
     { "gameKey": "quest/042/AktKzf015_04270#TEXT_AKTKZF015_04270_MIHREEN_000_003", "hash": "A70DA2BEA0EBE949", "target": "Ti farà piacere sapere che anche i piccoli che hai aiutato a salvare sono al sicuro. Adorano così tanto te e i tuoi amici che hanno deciso di prepararvi alcuni regali. Potresti andare a trovarli alla Via di Paksa? Saranno ancora più felici di me di conoscerti!" },

@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKzh007_03517#TEXT_LUCKZH007_03517_SEQ_00", "hash": "33DB067EE8A67B6D", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Gli occhi di Solina ti implorano di aiutarla nelle ricerche." },
-    { "gameKey": "quest/035/LucKzh007_03517#TEXT_LUCKZH007_03517_TODO_00", "hash": "8B41AF6C45B8859B", "target": "Cercare sulla Spiaggia delle Conchiglie Spezzate un Elven dai capelli setosi e dal sorriso magnifico" },
-    { "gameKey": "quest/035/LucKzh007_03517#TEXT_LUCKZH007_03517_TODO_01", "hash": "FA55D4149C0A0616", "target": "Salvare l'Elven dai capelli setosi" },
-    { "gameKey": "quest/035/LucKzh007_03517#TEXT_LUCKZH007_03517_TODO_02", "hash": "3C82B3D3E28523A3", "target": "Parlare con l'Elven dai capelli setosi nei Relitti" },
+    { "gameKey": "quest/035/LucKzh007_03517#TEXT_LUCKZH007_03517_TODO_00", "hash": "8B41AF6C45B8859B", "target": "Cerca sulla Spiaggia delle Conchiglie Spezzate un Elven dai capelli setosi e dal sorriso magnifico" },
+    { "gameKey": "quest/035/LucKzh007_03517#TEXT_LUCKZH007_03517_TODO_01", "hash": "FA55D4149C0A0616", "target": "Salva l'Elven dai capelli setosi" },
+    { "gameKey": "quest/035/LucKzh007_03517#TEXT_LUCKZH007_03517_TODO_02", "hash": "3C82B3D3E28523A3", "target": "Parla con l'Elven dai capelli setosi nei Relitti" },
     { "gameKey": "quest/035/LucKzh007_03517#TEXT_LUCKZH007_03517_SOLINA_000_000", "hash": "D7E3CD67C48A4681", "target": "Grazie per aver accettato di aiutarmi. So che è là fuori, da qualche parte. Lo <italic(1)>sento<italic(0)>." },
     { "gameKey": "quest/035/LucKzh007_03517#TEXT_LUCKZH007_03517_SOLINA_000_001", "hash": "327645E5177A83FE", "target": "Dovrei controllare di nuovo sottocoperta... Nel frattempo, potresti cercare lungo la costa di Kholusia al posto mio? Ho pensato che il mare possa averlo portato lì, ma... beh, pullula di creature feroci, e io ho <italic(1)>un minimo<italic(0)> di istinto di conservazione." },
     { "gameKey": "quest/035/LucKzh007_03517#TEXT_LUCKZH007_03517_SOLINA_000_002", "hash": "EF287DD1BA21DBF9", "target": "Cerca un Elven più o meno della mia età. Sono certa che lo riconoscerai appena lo vedrai: ha capelli setosi e il sorriso più <italic(1)>magnifico<italic(0)>!" },

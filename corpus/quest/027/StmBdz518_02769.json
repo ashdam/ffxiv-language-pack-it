@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_SEQ_00", "hash": "A2D67B545CCDB7A1", "target": "Caur ha bisogno dell'aiuto di <if(gnum4,una donna,un uomo)> forte." },
-    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_TODO_00", "hash": "E945A3D7D8A402DF", "target": "Ottenere un tent pillar dalla tenda distrutta" },
-    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_TODO_01", "hash": "9904411AB071DF3F", "target": "Consegnare il tent pillar a Caur" },
+    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_TODO_00", "hash": "E945A3D7D8A402DF", "target": "Ottieni un tent pillar dalla tenda distrutta" },
+    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_TODO_01", "hash": "9904411AB071DF3F", "target": "Consegna il tent pillar a Caur" },
     { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_CAUR_000_000", "hash": "86A7627360ED45A6", "target": "Posso chiederti di aiutarmi a riparare la nostra tenda?" },
     { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_CAUR_000_001", "hash": "531ADA1DA9E181E3", "target": "Il palo centrale che la sostiene si è indebolito sempre più negli ultimi mesi e temo che non reggerà ancora a lungo." },
     { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_CAUR_000_002", "hash": "31ED89DC4182C12E", "target": "Però l'altro giorno ho notato un palo in perfette condizioni poco a sud di qui. Lo troverai tra i resti di una tenda dei Kahkol distrutta dai Buduga." },

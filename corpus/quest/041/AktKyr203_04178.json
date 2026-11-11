@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/041/AktKyr203_04178#TEXT_AKTKYR203_04178_SEQ_00", "hash": "E9E1FD2406ED91DC", "target": "Northota risente degli effetti della proclamazione del Forum." },
-    { "gameKey": "quest/041/AktKyr203_04178#TEXT_AKTKYR203_04178_TODO_00", "hash": "C50DECA51F04984B", "target": "Parlare con J'lakshai" },
+    { "gameKey": "quest/041/AktKyr203_04178#TEXT_AKTKYR203_04178_TODO_00", "hash": "C50DECA51F04984B", "target": "Parla con J'lakshai" },
     { "gameKey": "quest/041/AktKyr203_04178#TEXT_AKTKYR203_04178_SYSTEM_100_001", "hash": "488C08AB259E2ED2", "target": "I senior marks saranno disponibili dopo aver soddisfatto determinate condizioni nelle missioni della storia principale di Endwalker." },
     { "gameKey": "quest/041/AktKyr203_04178#TEXT_AKTKYR203_04178_NORTHOTA_000_001", "hash": "8D647BBE2A2AF6EB", "target": "È un piacere vedervi, <split(<string(gstr1)>, ,1)>! Non so se ne siete al corrente, ma il mondo accademico è in fermento da quando il Forum ha annunciato i suoi piani per l'esodo di massa. Pensare che potremmo mettere piede proprio sulla luna..." },
     { "gameKey": "quest/041/AktKyr203_04178#TEXT_AKTKYR203_04178_NORTHOTA_000_002", "hash": "72684DBA9F667D23", "target": "Ci aspettavamo che, diffondendosi la notizia, avremmo ricevuto più richieste di campioni lunari di quanto fosse prima considerato accettabile. Quello che <italic(1)>non<italic(0)> ci aspettavamo era l'autentico diluvio di assurdità che si è abbattuto su di noi." },

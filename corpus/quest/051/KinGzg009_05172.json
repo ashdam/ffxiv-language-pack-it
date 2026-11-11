@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/051/KinGzg009_05172#TEXT_KINGZG009_05172_SEQ_00", "hash": "0882D0779331AC60", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>La donna preoccupata ha un problema morbido e peloso." },
-    { "gameKey": "quest/051/KinGzg009_05172#TEXT_KINGZG009_05172_TODO_00", "hash": "9C703CDB4A04665F", "target": "Cercare tracce della gatta fuggita" },
-    { "gameKey": "quest/051/KinGzg009_05172#TEXT_KINGZG009_05172_TODO_01", "hash": "32ADCF0EA9974F8D", "target": "Inseguire e catturare la gatta fuggita" },
-    { "gameKey": "quest/051/KinGzg009_05172#TEXT_KINGZG009_05172_TODO_02", "hash": "6A8F7F44D3764C36", "target": "Riportare la gatta fuggita alla donna preoccupata" },
+    { "gameKey": "quest/051/KinGzg009_05172#TEXT_KINGZG009_05172_TODO_00", "hash": "9C703CDB4A04665F", "target": "Cerca tracce della gatta fuggita" },
+    { "gameKey": "quest/051/KinGzg009_05172#TEXT_KINGZG009_05172_TODO_01", "hash": "32ADCF0EA9974F8D", "target": "Insegui e cattura la gatta fuggita" },
+    { "gameKey": "quest/051/KinGzg009_05172#TEXT_KINGZG009_05172_TODO_02", "hash": "6A8F7F44D3764C36", "target": "Riporta la gatta fuggita alla donna preoccupata" },
     { "gameKey": "quest/051/KinGzg009_05172#TEXT_KINGZG009_05172_CATWOMEN05172_000_000", "hash": "8E19BA63A5F187D7", "target": "Ah, tu! Hai visto una gatta nera qui vicino? Porta un collare rosso con un grande campanello." },
     { "gameKey": "quest/051/KinGzg009_05172#TEXT_KINGZG009_05172_CATWOMEN05172_000_001", "hash": "DC6BEFB7833E8A00", "target": "Ci siamo separate durante i disordini dell'altro giorno, ma l'ho vista qui non molto tempo fa! Ho provato a dirle che ora non c'è più nulla da temere, ma non sembrava convinta..." },
     { "gameKey": "quest/051/KinGzg009_05172#TEXT_KINGZG009_05172_Q1_000_000", "hash": "1A7A415C7B1DD4DC", "target": "Che cosa dirai?" },

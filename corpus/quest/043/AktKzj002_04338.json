@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/043/AktKzj002_04338#TEXT_AKTKZJ002_04338_SEQ_00", "hash": "8511C57029E28E32", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Kohl Ahleh teme per il benessere di un amico." },
-    { "gameKey": "quest/043/AktKzj002_04338#TEXT_AKTKZJ002_04338_TODO_00", "hash": "E89DD087C4BA21D8", "target": "Parlare con il drago pallido" },
-    { "gameKey": "quest/043/AktKzj002_04338#TEXT_AKTKZJ002_04338_TODO_01", "hash": "8FD805BE56675597", "target": "Accarezzare il drago pallido con /pet" },
-    { "gameKey": "quest/043/AktKzj002_04338#TEXT_AKTKZJ002_04338_TODO_02", "hash": "CB6CA7E5A66559BF", "target": "Fare rapporto a Kohl Ahleh" },
+    { "gameKey": "quest/043/AktKzj002_04338#TEXT_AKTKZJ002_04338_TODO_00", "hash": "E89DD087C4BA21D8", "target": "Parla con il drago pallido" },
+    { "gameKey": "quest/043/AktKzj002_04338#TEXT_AKTKZJ002_04338_TODO_01", "hash": "8FD805BE56675597", "target": "Accarezza il drago pallido con /pet" },
+    { "gameKey": "quest/043/AktKzj002_04338#TEXT_AKTKZJ002_04338_TODO_02", "hash": "CB6CA7E5A66559BF", "target": "Fai rapporto a Kohl Ahleh" },
     { "gameKey": "quest/043/AktKzj002_04338#TEXT_AKTKZJ002_04338_KOHLAHLEH_100_000", "hash": "3A12957450B01EA0", "target": "<if(gnum4,Piccola viandante,Piccolo viandante)>... Hai il coraggio di scoprire ciò che attende oltre quest'oasi? I miei simili, contorti nel corpo e nell'anima, o ridotti in cenere... tutti da tempo marciti dentro..." },
     { "gameKey": "quest/043/AktKzj002_04338#TEXT_AKTKZJ002_04338_KOHLAHLEH_100_001", "hash": "1EA953BD175902B5", "target": "Ti avventurerai fra questi orrori per vedere se nostro fratello ancora resiste? Non si è mai mosso dal luogo del suo lutto, da quando la sua compagna vi è stata sepolta..." },
     { "gameKey": "quest/043/AktKzj002_04338#TEXT_AKTKZJ002_04338_KOHLAHLEH_100_002", "hash": "155186362DAA389E", "target": "Vorrei potergli offrire il conforto di un tocco gentile, ma ora non oso cercarlo. Se lo vorrai, lo riconoscerai dal pallore di chi è stato abbandonato..." },

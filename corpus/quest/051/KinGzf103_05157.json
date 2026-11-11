@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/051/KinGzf103_05157#TEXT_KINGZF103_05157_SEQ_00", "hash": "2139F599C8BB5373", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Zilekke non può permettersi ritardi." },
-    { "gameKey": "quest/051/KinGzf103_05157#TEXT_KINGZF103_05157_TODO_00", "hash": "4F90EF9ADFD798B0", "target": "Attirare l'attenzione dell'addetta alle consegne incantata con /poke" },
-    { "gameKey": "quest/051/KinGzf103_05157#TEXT_KINGZF103_05157_TODO_01", "hash": "962E2EAF4C1E5142", "target": "Parlare con Zilekke" },
+    { "gameKey": "quest/051/KinGzf103_05157#TEXT_KINGZF103_05157_TODO_00", "hash": "4F90EF9ADFD798B0", "target": "Attira l'attenzione dell'addetta alle consegne incantata con /poke" },
+    { "gameKey": "quest/051/KinGzf103_05157#TEXT_KINGZF103_05157_TODO_01", "hash": "962E2EAF4C1E5142", "target": "Parla con Zilekke" },
     { "gameKey": "quest/051/KinGzf103_05157#TEXT_KINGZF103_05157_ZILEKKE_000_000", "hash": "1EE4349C45709E84", "target": "Oh, salve. Sei <if(gnum4,un'avventuriera,un avventuriero)>, vero? Ti interessa un lavoro?" },
     { "gameKey": "quest/051/KinGzf103_05157#TEXT_KINGZF103_05157_ZILEKKE_000_001", "hash": "192928DB30ECD146", "target": "Dovremmo spedire un carico di elettrope oggi, ma l'addetta alle consegne incaricata sembra prendersela comoda." },
     { "gameKey": "quest/051/KinGzf103_05157#TEXT_KINGZF103_05157_ZILEKKE_000_002", "hash": "31011C14A8C0E85A", "target": "Se la spedizione ritarda, fermerà di colpo le fabbriche di Roccaeterna. Io devo restare qui a occuparmi delle cose, quindi potresti dire all'addetta alle consegne che ha un lavoro da fare, per favore?" },

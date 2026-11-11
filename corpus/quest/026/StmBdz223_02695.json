@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/026/StmBdz223_02695#TEXT_STMBDZ223_02695_SEQ_00", "hash": "C369D2E16FD32F66", "target": "Kefusan ti squadra da capo a piedi." },
-    { "gameKey": "quest/026/StmBdz223_02695#TEXT_STMBDZ223_02695_TODO_00", "hash": "D902686237559D0B", "target": "Con la modalità di chat impostata su <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, inserire “Is anyone around here?” per attirare l'attenzione dello spirito" },
-    { "gameKey": "quest/026/StmBdz223_02695#TEXT_STMBDZ223_02695_TODO_01", "hash": "5C17A09BBDE9E7A2", "target": "Fare rapporto a Kefusan" },
+    { "gameKey": "quest/026/StmBdz223_02695#TEXT_STMBDZ223_02695_TODO_00", "hash": "D902686237559D0B", "target": "Con la modalità di chat impostata su <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, inserisci “Is anyone around here?” per attirare l'attenzione dello spirito" },
+    { "gameKey": "quest/026/StmBdz223_02695#TEXT_STMBDZ223_02695_TODO_01", "hash": "5C17A09BBDE9E7A2", "target": "Fai rapporto a Kefusan" },
     { "gameKey": "quest/026/StmBdz223_02695#TEXT_STMBDZ223_02695_KEFUSAN_000_000", "hash": "11E06442AA0757FA", "target": "Ah, <if(gnum4,un'avventuriera,un avventuriero)>! Arrivi proprio al momento giusto. Dimmi, hai mai sentito parlare della cala del tesoro?" },
     { "gameKey": "quest/026/StmBdz223_02695#TEXT_STMBDZ223_02695_KEFUSAN_000_001", "hash": "957C88B10319C006", "target": "Secondo un'antica leggenda, un pirata di Hingashi nascose tutta la sua fortuna in un'insenatura del Mare di Rubino. Il suo valore supera persino le ricchezze dei re! Si dice che nessuno sia mai riuscito a trovarla, ma noi pensiamo di averla individuata!" },
     { "gameKey": "quest/026/StmBdz223_02695#TEXT_STMBDZ223_02695_KEFUSAN_000_002", "hash": "F745CDF02630C285", "target": "A sud di qui c'è una piccola cala. Ogni volta che ci avviciniamo, il vento si alza e porta le grida furiose di un uomo: “Andatevene! Via di qui!” Di certo è lo spirito del pirata, che continua a custodire gelosamente i suoi tesori dall'oltretomba." },

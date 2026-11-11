@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/037/BanPix115_03703#TEXT_BANPIX115_03703_SEQ_00", "hash": "0C42DF2A6050CC6D", "target": "Uin Nee è preoccupato per il benessere della specie più amata di Il Mheg.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
-    { "gameKey": "quest/037/BanPix115_03703#TEXT_BANPIX115_03703_TODO_00", "hash": "9A70253462094E2D", "target": "Cercare il suspicious character a Timh Gyeus" },
-    { "gameKey": "quest/037/BanPix115_03703#TEXT_BANPIX115_03703_TODO_01", "hash": "CF9E1E0EA8264008", "target": "Parlare con Uin Nee" },
+    { "gameKey": "quest/037/BanPix115_03703#TEXT_BANPIX115_03703_TODO_00", "hash": "9A70253462094E2D", "target": "Cerca il suspicious character a Timh Gyeus" },
+    { "gameKey": "quest/037/BanPix115_03703#TEXT_BANPIX115_03703_TODO_01", "hash": "CF9E1E0EA8264008", "target": "Parla con Uin Nee" },
     { "gameKey": "quest/037/BanPix115_03703#TEXT_BANPIX115_03703_UINNEE_000_001", "hash": "CB2C4987C5FB8BC2", "target": "<split(<string(gstr1)>, ,1)>, aiuto! Il Mheg è sotto invasione!" },
     { "gameKey": "quest/037/BanPix115_03703#TEXT_BANPIX115_03703_UINNEE_000_002", "hash": "6FE338F8EF0350A5", "target": "Più o meno. Con «invasione» intendo che è arrivato uno sconosciuto e ha cominciato a inseguire i nostri porxie!" },
     { "gameKey": "quest/037/BanPix115_03703#TEXT_BANPIX115_03703_UINNEE_000_003", "hash": "3A6BFCBF15A333C4", "target": "Non mi dispiacerebbe tanto se i nostri animaletti non dovessero raccogliere semi di fiori da usare nei sogni. Va' a mettere fine a questa sciocchezza, ti dispiace?" },

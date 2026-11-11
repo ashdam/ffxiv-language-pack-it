@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_SEQ_00", "hash": "7A03607EA800E886", "target": "Estrild, alla Locanda Shiokaze, insiste a scrutare i passanti alla ricerca di reclute." },
-    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_TODO_00", "hash": "3E010DFFEDCA73BD", "target": "Parlare con Wlveva" },
+    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_TODO_00", "hash": "3E010DFFEDCA73BD", "target": "Parla con Wlveva" },
     { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_ESTRILD_000_001", "hash": "FDBF026764501801", "target": "Ma guarda, ecco <split(<string(gstr1)>, ,1)>. Avvicinati, lascia che veda di persona quanta strada hai fatto dall'ultima volta." },
     { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_ESTRILD_000_002", "hash": "C06221DA7D5CE2C8", "target": "Proprio come immaginavo. Sembri molto più forte di prima. La caccia ti ha fatto bene, e spero che tu abbia ricambiato." },
     { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_ESTRILD_000_003", "hash": "4DCC43FC97CC3652", "target": "È ora di partire per cacce ancora più pericolose. Ti aspettano le tre stelle. Vai di nuovo a parlare con Wlveva. Possano gli dei concederti di fare ritorno <if(gnum4,viva,vivo)>." },

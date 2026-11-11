@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/051/KinGzf005_05153#TEXT_KINGZF005_05153_SEQ_00", "hash": "D9F26A80B5E90ED6", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>L'incertezza di Dorian è palpabile." },
-    { "gameKey": "quest/051/KinGzf005_05153#TEXT_KINGZF005_05153_TODO_00", "hash": "639730BF57A28B32", "target": "Trovare l'ill-fated hunter e sconfiggere i mostri che lo minacciano" },
-    { "gameKey": "quest/051/KinGzf005_05153#TEXT_KINGZF005_05153_TODO_01", "hash": "81FE1D7AD53B5664", "target": "Aiutare l'ill-fated hunter" },
-    { "gameKey": "quest/051/KinGzf005_05153#TEXT_KINGZF005_05153_TODO_02", "hash": "D4A502BC8FDB98E3", "target": "Parlare con Dorian" },
+    { "gameKey": "quest/051/KinGzf005_05153#TEXT_KINGZF005_05153_TODO_00", "hash": "639730BF57A28B32", "target": "Trova l'ill-fated hunter e sconfiggi i mostri che lo minacciano" },
+    { "gameKey": "quest/051/KinGzf005_05153#TEXT_KINGZF005_05153_TODO_01", "hash": "81FE1D7AD53B5664", "target": "Aiuta l'ill-fated hunter" },
+    { "gameKey": "quest/051/KinGzf005_05153#TEXT_KINGZF005_05153_TODO_02", "hash": "D4A502BC8FDB98E3", "target": "Parla con Dorian" },
     { "gameKey": "quest/051/KinGzf005_05153#TEXT_KINGZF005_05153_DORIAN_000_000", "hash": "0F842EF20BE0105E", "target": "Perdonami, <if(gnum4,avventuriera,avventuriero)>, ma potrei chiederti di aiutarmi? Mi trovo in una situazione piuttosto spiacevole." },
     { "gameKey": "quest/051/KinGzf005_05153#TEXT_KINGZF005_05153_DORIAN_000_001", "hash": "696824E22709AF07", "target": "Oggi ci hanno inviato un soldato, chiedendoci di provare le sue funzioni di combattimento migliorate." },
     { "gameKey": "quest/051/KinGzf005_05153#TEXT_KINGZF005_05153_DORIAN_000_002", "hash": "95E903C03E2E5AD4", "target": "Ho chiesto a un cacciatore di portarlo in pattuglia, ma poco dopo ho perso completamente i contatti con lui. So che laggiù il segnale è debole, ma non posso fare a meno di temere che qualcosa sia andato terribilmente storto..." },

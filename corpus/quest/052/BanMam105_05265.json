@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/052/BanMam105_05265#TEXT_BANMAM105_05265_SEQ_00", "hash": "10E240EB66E01742", "target": "Kageel Ja ha bisogno di un corriere capace.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
-    { "gameKey": "quest/052/BanMam105_05265#TEXT_BANMAM105_05265_TODO_00", "hash": "44F49AFC42C2118F", "target": "Parlare con Kiishel Ja al Boschetto di Golmajiik" },
-    { "gameKey": "quest/052/BanMam105_05265#TEXT_BANMAM105_05265_TODO_01", "hash": "2584B9220956C03A", "target": "Raccogliere i gambi di najool nel luogo indicato" },
-    { "gameKey": "quest/052/BanMam105_05265#TEXT_BANMAM105_05265_TODO_02", "hash": "E0185EAA049DE7C6", "target": "Consegnare i gambi di najool a Kageel Ja" },
+    { "gameKey": "quest/052/BanMam105_05265#TEXT_BANMAM105_05265_TODO_00", "hash": "44F49AFC42C2118F", "target": "Parla con Kiishel Ja al Boschetto di Golmajiik" },
+    { "gameKey": "quest/052/BanMam105_05265#TEXT_BANMAM105_05265_TODO_01", "hash": "2584B9220956C03A", "target": "Raccogli i gambi di najool nel luogo indicato" },
+    { "gameKey": "quest/052/BanMam105_05265#TEXT_BANMAM105_05265_TODO_02", "hash": "E0185EAA049DE7C6", "target": "Consegna i gambi di najool a Kageel Ja" },
     { "gameKey": "quest/052/BanMam105_05265#TEXT_BANMAM105_05265_KAGEELJA_000_001", "hash": "35FC676E5A7454AD", "target": "Senti, <split(<string(gstr1)>, ,1)>. Se hai intenzione di andare in giro, potresti procurarci dei gambi di najool dal Boschetto di Golmajiik?" },
     { "gameKey": "quest/052/BanMam105_05265#TEXT_BANMAM105_05265_KAGEELJA_000_002", "hash": "8E6FC0AC4B238358", "target": "Se ti chiedi il perché della richiesta improvvisa, ad Anggir servono alcuni campioni per degli esperimenti. Pare che abbia intenzione di trovar loro un nuovo impiego." },
     { "gameKey": "quest/052/BanMam105_05265#TEXT_BANMAM105_05265_KAGEELJA_000_003", "hash": "202B4800F6EBDCA5", "target": "Mi dicono che gli ultimi che hai portato abbiano dato risultati promettenti, ma ad Anggir servono altri dati... e altri campioni da esaminare, naturalmente." },

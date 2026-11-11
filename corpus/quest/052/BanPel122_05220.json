@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/052/BanPel122_05220#TEXT_BANPEL122_05220_SEQ_00", "hash": "E3C518B8C7B65922", "target": "Yubli vorrebbe che dessi una mano al ristorante di Wawkesa.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
-    { "gameKey": "quest/052/BanPel122_05220#TEXT_BANPEL122_05220_TODO_00", "hash": "D2DFD2C6906B9B97", "target": "Usare il richiamo per selvaggina da piuma nel luogo indicato e ottenere una coscia di fledgling of Ligaka" },
-    { "gameKey": "quest/052/BanPel122_05220#TEXT_BANPEL122_05220_TODO_01", "hash": "0FFBA9DA86C5F59C", "target": "Consegnare la coscia di fledgling of Ligaka a Wawkesa" },
-    { "gameKey": "quest/052/BanPel122_05220#TEXT_BANPEL122_05220_TODO_02", "hash": "E73FDC1CCB761293", "target": "Parlare con Yubli" },
+    { "gameKey": "quest/052/BanPel122_05220#TEXT_BANPEL122_05220_TODO_00", "hash": "D2DFD2C6906B9B97", "target": "Usa il richiamo per selvaggina da piuma nel luogo indicato e ottieni una coscia di fledgling of Ligaka" },
+    { "gameKey": "quest/052/BanPel122_05220#TEXT_BANPEL122_05220_TODO_01", "hash": "0FFBA9DA86C5F59C", "target": "Consegna la coscia di fledgling of Ligaka a Wawkesa" },
+    { "gameKey": "quest/052/BanPel122_05220#TEXT_BANPEL122_05220_TODO_02", "hash": "E73FDC1CCB761293", "target": "Parla con Yubli" },
     { "gameKey": "quest/052/BanPel122_05220#TEXT_BANPEL122_05220_YUBLI_000_001", "hash": "F677EE0492AB9009", "target": "Wawkesa ha richiesto la carne di un certo uccello mostruoso che vive nell'alto corso di Kozama'uka, un ingrediente che a quanto pare conosce da quando viveva nella zona." },
     { "gameKey": "quest/052/BanPel122_05220#TEXT_BANPEL122_05220_YUBLI_000_002", "hash": "6B4908B54F304375", "target": "Sostengo pienamente il suo desiderio di variare l'offerta del ristorante, quindi ho pensato di mandare <if(gnum4,la nostra guerriera più esperta,il nostro guerriero più esperto)> a procurarla. Che ne dite?" },
     { "gameKey": "quest/052/BanPel122_05220#TEXT_BANPEL122_05220_YUBLI_000_003", "hash": "121FE7BADECA9D4B", "target": "Wawkesa ha fatto un'altra richiesta di approvvigionamento! La sua specialità di cosce di Ligaka è stata molto apprezzata e deve rifornirsi di carne." },

@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/034/LucKzd011_03418#TEXT_LUCKZD011_03418_SEQ_00", "hash": "1A8452AA8DCDD884", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Wyd Lad ha un'altra richiesta per te." },
-    { "gameKey": "quest/034/LucKzd011_03418#TEXT_LUCKZD011_03418_TODO_00", "hash": "C56820503D8AC6F0", "target": "Consegnare il pack of mushrooms al Fuath alto" },
-    { "gameKey": "quest/034/LucKzd011_03418#TEXT_LUCKZD011_03418_TODO_01", "hash": "56D991A1DA915934", "target": "Consegnare l'alchemical concoction a Wyd Lad" },
+    { "gameKey": "quest/034/LucKzd011_03418#TEXT_LUCKZD011_03418_TODO_00", "hash": "C56820503D8AC6F0", "target": "Consegna il pack of mushrooms al Fuath alto" },
+    { "gameKey": "quest/034/LucKzd011_03418#TEXT_LUCKZD011_03418_TODO_01", "hash": "56D991A1DA915934", "target": "Consegna l'alchemical concoction a Wyd Lad" },
     { "gameKey": "quest/034/LucKzd011_03418#TEXT_LUCKZD011_03418_WYDLAD_000_000", "hash": "87E21339741F0886", "target": "<split(<string(gstr1)>, ,1)>, so che mi hai già dato un incarico, ma vorresti considerare di darmene un altro?" },
     { "gameKey": "quest/034/LucKzd011_03418#TEXT_LUCKZD011_03418_WYDLAD_000_001", "hash": "0C9E74510E19606A", "target": "Grazie! Ti chiedo di consegnare questo pack of mushrooms al Lago Longmirror. Chi lo riceverà è un Fuath, e dovrebbe darti in cambio un alchemical concoction." },
     { "gameKey": "quest/034/LucKzd011_03418#TEXT_LUCKZD011_03418_WYDLAD_000_002", "hash": "44694DD79A6E4082", "target": "Ora, anche se i Fuath sono un popolo strano nel complesso, devo avvertirti che questo è più strano di molti altri. Per esempio, è molto più alto dei suoi simili e non posso evitare di sentirmi inquieto in sua presenza." },

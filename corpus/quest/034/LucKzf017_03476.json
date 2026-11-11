@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/034/LucKzf017_03476#TEXT_LUCKZF017_03476_SEQ_00", "hash": "EB8FC2C707BC40A1", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>La cacciatrice frettolosa ti guarda implorante." },
-    { "gameKey": "quest/034/LucKzf017_03476#TEXT_LUCKZF017_03476_TODO_00", "hash": "5C917D0A3FAB8322", "target": "Parlare con la cacciatrice frettolosa" },
-    { "gameKey": "quest/034/LucKzf017_03476#TEXT_LUCKZF017_03476_TODO_01", "hash": "BEB97C3750324360", "target": "Salvare la cacciatrice smarrita" },
-    { "gameKey": "quest/034/LucKzf017_03476#TEXT_LUCKZF017_03476_TODO_02", "hash": "F864E45B23D5A5FC", "target": "Parlare con la cacciatrice frettolosa" },
+    { "gameKey": "quest/034/LucKzf017_03476#TEXT_LUCKZF017_03476_TODO_00", "hash": "5C917D0A3FAB8322", "target": "Parla con la cacciatrice frettolosa" },
+    { "gameKey": "quest/034/LucKzf017_03476#TEXT_LUCKZF017_03476_TODO_01", "hash": "BEB97C3750324360", "target": "Salva la cacciatrice smarrita" },
+    { "gameKey": "quest/034/LucKzf017_03476#TEXT_LUCKZF017_03476_TODO_02", "hash": "F864E45B23D5A5FC", "target": "Parla con la cacciatrice frettolosa" },
     { "gameKey": "quest/034/LucKzf017_03476#TEXT_LUCKZF017_03476_FANOWHUNTER03476_000_000", "hash": "C6760783D61956E0", "target": "Meno male che sei qui. Mi serve il tuo aiuto." },
     { "gameKey": "quest/034/LucKzf017_03476#TEXT_LUCKZF017_03476_FANOWHUNTER03476_000_001", "hash": "5F83B2A48CE467B1", "target": "Uno dei guardiani di pietra tra le rovine... ha attaccato le nostre sorelle." },
     { "gameKey": "quest/034/LucKzf017_03476#TEXT_LUCKZF017_03476_FANOWHUNTER03476_000_002", "hash": "92D64BEE3DA1187C", "target": "Andrei ad aiutarle, ma temo di non poterlo fare da sola. Ti prego, vieni con me alle Stelle del Mattino." },

@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/043/AktKma113_04369#TEXT_AKTKMA113_04369_SEQ_00", "hash": "D08A9258AF762E75", "target": "Ora che il suo stomaco si comporta di nuovo bene, Thancred è pronto a mettersi al lavoro." },
-    { "gameKey": "quest/043/AktKma113_04369#TEXT_AKTKMA113_04369_TODO_00", "hash": "948AD89338AA7490", "target": "Raccogliere informazioni a Yedlihmad" },
-    { "gameKey": "quest/043/AktKma113_04369#TEXT_AKTKMA113_04369_TODO_01", "hash": "4EB136918A023B11", "target": "Parlare con Khalzahl" },
-    { "gameKey": "quest/043/AktKma113_04369#TEXT_AKTKMA113_04369_TODO_02", "hash": "65A15449B4112BD2", "target": "Parlare con Matsya" },
+    { "gameKey": "quest/043/AktKma113_04369#TEXT_AKTKMA113_04369_TODO_00", "hash": "948AD89338AA7490", "target": "Raccogli informazioni a Yedlihmad" },
+    { "gameKey": "quest/043/AktKma113_04369#TEXT_AKTKMA113_04369_TODO_01", "hash": "4EB136918A023B11", "target": "Parla con Khalzahl" },
+    { "gameKey": "quest/043/AktKma113_04369#TEXT_AKTKMA113_04369_TODO_02", "hash": "65A15449B4112BD2", "target": "Parla con Matsya" },
     { "gameKey": "quest/043/AktKma113_04369#TEXT_AKTKMA113_04369_URIANGER_000_000", "hash": "D368B54EFF8F499E", "target": "Puoi stare <if(gnum4,certa,certo)> che mi sono ripreso del tutto. Il lassi è davvero una benedizione per gli stomaci ribelli." },
     { "gameKey": "quest/043/AktKma113_04369#TEXT_AKTKMA113_04369_ESTINIEN_000_005", "hash": "31EA8A0368C85435", "target": "È davvero così divertente vedermi con i capelli legati? Un tempo li portavo così. Una moda funzionale." },
     { "gameKey": "quest/043/AktKma113_04369#TEXT_AKTKMA113_04369_ESTINIEN_000_006", "hash": "C3A1033589E328EB", "target": "Forse ti ha confuso il modo in cui mi hai trovato dopo la morte di Nidhogg. Si erano sciolti quando i cerusici mi tolsero l'armatura e mi misero a letto. Decisi semplicemente di lasciarli così per un po', visto che non avrei più indossato l'elmo del Dragone Azzurro." },

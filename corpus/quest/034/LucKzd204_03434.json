@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/034/LucKzd204_03434#TEXT_LUCKZD204_03434_SEQ_00", "hash": "3C6AC131420C3C91", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Rispa desidera dei gusci d'uovo." },
-    { "gameKey": "quest/034/LucKzd204_03434#TEXT_LUCKZD204_03434_TODO_00", "hash": "D528CED85CF36A8B", "target": "Procurarsi degli eggshells" },
-    { "gameKey": "quest/034/LucKzd204_03434#TEXT_LUCKZD204_03434_TODO_01", "hash": "D9C43E5712186BA9", "target": "Consegnare gli eggshells a Rispa" },
+    { "gameKey": "quest/034/LucKzd204_03434#TEXT_LUCKZD204_03434_TODO_00", "hash": "D528CED85CF36A8B", "target": "Procurati degli eggshells" },
+    { "gameKey": "quest/034/LucKzd204_03434#TEXT_LUCKZD204_03434_TODO_01", "hash": "D9C43E5712186BA9", "target": "Consegna gli eggshells a Rispa" },
     { "gameKey": "quest/034/LucKzd204_03434#TEXT_LUCKZD204_03434_RISPA_000_001", "hash": "CD552A79A522D859", "target": "<if(gnum4,Viaggiatrice,Viaggiatore)>, mi faresti un favore? Alla Chiesa del Campo di Dammroen troverai gusci d'uovo sparsi qua e là. Vorrei che li raccogliessi per me." },
     { "gameKey": "quest/034/LucKzd204_03434#TEXT_LUCKZD204_03434_RISPA_000_002", "hash": "F56CFAA05D2DF6C9", "target": "So che, con le tue capacità, ti ritrovi spesso <if(gnum4,coinvolta,coinvolto)> in lotte estenuanti. Direi che un piccolo compito come questo sarebbe un piacevole cambiamento." },
     { "gameKey": "quest/034/LucKzd204_03434#TEXT_LUCKZD204_03434_Q1_000_020", "hash": "B9A1C9661DEEAC3E", "target": "Che cosa dirai?" },

@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/042/AktKzd015_04239#TEXT_AKTKZD015_04239_SEQ_00", "hash": "3C8F11A91208D114", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Un membro della squadra di ricognizione del contingente cerca un'anima intrepida disposta a salire su un'armatura magitec." },
-    { "gameKey": "quest/042/AktKzd015_04239#TEXT_AKTKZD015_04239_TODO_00", "hash": "5EBAD39621FF2585", "target": "Parlare con il pilota magitec" },
-    { "gameKey": "quest/042/AktKzd015_04239#TEXT_AKTKZD015_04239_TODO_01", "hash": "4E8C4CE768CA6FAC", "target": "Parlare di nuovo con il pilota magitec" },
-    { "gameKey": "quest/042/AktKzd015_04239#TEXT_AKTKZD015_04239_TODO_02", "hash": "005BC795F823C316", "target": "Parlare con l'esploratore del contingente" },
+    { "gameKey": "quest/042/AktKzd015_04239#TEXT_AKTKZD015_04239_TODO_00", "hash": "5EBAD39621FF2585", "target": "Parla con il pilota magitec" },
+    { "gameKey": "quest/042/AktKzd015_04239#TEXT_AKTKZD015_04239_TODO_01", "hash": "4E8C4CE768CA6FAC", "target": "Parla di nuovo con il pilota magitec" },
+    { "gameKey": "quest/042/AktKzd015_04239#TEXT_AKTKZD015_04239_TODO_02", "hash": "005BC795F823C316", "target": "Parla con l'esploratore del contingente" },
     { "gameKey": "quest/042/AktKzd015_04239#TEXT_AKTKZD015_04239_ILSABARDSCOUT04239_000_000", "hash": "6A56F1ACB99B68D8", "target": "Salve, <split(<string(gstr1)>, ,1)>. Perdona la domanda improvvisa, ma... hai mai pilotato un'armatura magitec?" },
     { "gameKey": "quest/042/AktKzd015_04239#TEXT_AKTKZD015_04239_ILSABARDSCOUT04239_000_001", "hash": "17733B821973043C", "target": "Fantastico. Se qualcuno poteva avere un'esperienza simile, sapevo che eri tu. Ti faccio questa domanda per un motivo semplice: vogliamo osservare la città dall'alto per valutare i danni." },
     { "gameKey": "quest/042/AktKzd015_04239#TEXT_AKTKZD015_04239_ILSABARDSCOUT04239_000_002", "hash": "BFDC471FE4C50392", "target": "Un pilota magitec della I Legione ci ha gentilmente suggerito di usare uno dei loro mezzi volanti per il sopralluogo." },

@@ -5,7 +5,7 @@
     { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_SEQ_00", "hash": "4B417FFBF1B1D0D7", "target": "Maronne desidera che tu confermi la tua volontà di unirti alla Gilda dei Tessitori." },
     { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_SEQ_01", "hash": "E6B4BAEB90CAFC2D", "target": "Maronne ti invita a presentarti all'uomo che dirige le attività della gilda, un imponente Roegadyn di nome Redolent Rose." },
     { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_SEQ_02", "hash": "5585FA1CA1FB5EBE", "target": "Redolent Rose ti concede il permesso di studiare la tessitura. Dopo averti fornito un ago da cucito, ti ordina di impugnarlo come se stessi per dare un punto e di presentarti a lui per un'ispezione." },
-    { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_TODO_00", "hash": "04018C9FCFC74F88", "target": "Parlare con Redolent Rose" },
+    { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_TODO_00", "hash": "04018C9FCFC74F88", "target": "Parla con Redolent Rose" },
     { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_MARONNE_000", "hash": "1706DE13799F79D0", "target": "Siete <if(gnum4,pronta,pronto)> a incontrare il maestro di gilda? La prima impressione è tutto, e di certo <italic(1)>non<italic(0)> vorrete presentarvi male." },
     { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_MARONNE_010", "hash": "827D269C373EBF49", "target": "Sospettavo che potesse servirvi più tempo. Molto bene, non vi metterò fretta." },
     { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_MARONNE_011", "hash": "831CC4E7690A224E", "target": "Vi prego di tornare quando vi sarete <if(gnum4,preparata,preparato)> a sufficienza. Noi saremo qui." },

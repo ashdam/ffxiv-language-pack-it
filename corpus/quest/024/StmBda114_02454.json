@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/024/StmBda114_02454#TEXT_STMBDA114_02454_SEQ_00", "hash": "745483A36141A450", "target": "M'naago è pronta a tornare alla Presa di Rhalgr." },
-    { "gameKey": "quest/024/StmBda114_02454#TEXT_STMBDA114_02454_TODO_00", "hash": "153B79E59557FE38", "target": "Parlare con M'naago alla Presa di Rhalgr" },
+    { "gameKey": "quest/024/StmBda114_02454#TEXT_STMBDA114_02454_TODO_00", "hash": "153B79E59557FE38", "target": "Parla con M'naago alla Presa di Rhalgr" },
     { "gameKey": "quest/024/StmBda114_02454#TEXT_STMBDA114_02454_ALISAIE_000_001", "hash": "1B4BCB32C1123C84", "target": "Quel bruto d'un ufficiale imperiale era temibile, vero? Forse uno sciocco, ma ha tenuto testa al Generale della Fiamma..." },
     { "gameKey": "quest/024/StmBda114_02454#TEXT_STMBDA114_02454_PIPIN_000_005", "hash": "C3D0A0F2242427BE", "target": "Non avremmo potuto farcela senza di te. Grazie, <split(<string(gstr1)>, ,1)>. Grazie." },
     { "gameKey": "quest/024/StmBda114_02454#TEXT_STMBDA114_02454_MNAAGO_000_010", "hash": "C32FB0D7B46BDA34", "target": "Non c'è motivo di restare. Torniamo al Reach." },

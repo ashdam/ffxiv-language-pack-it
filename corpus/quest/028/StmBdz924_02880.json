@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/028/StmBdz924_02880#TEXT_STMBDZ924_02880_SEQ_00", "hash": "72AB3DE3CDFDF259", "target": "Betha cerca aiuto per dare pace ai morti." },
-    { "gameKey": "quest/028/StmBdz924_02880#TEXT_STMBDZ924_02880_TODO_00", "hash": "E9408F66D5BC9755", "target": "Sconfiggere gli specter" },
-    { "gameKey": "quest/028/StmBdz924_02880#TEXT_STMBDZ924_02880_TODO_01", "hash": "107EC5F29BC1FC11", "target": "Fare rapporto a Betha" },
+    { "gameKey": "quest/028/StmBdz924_02880#TEXT_STMBDZ924_02880_TODO_00", "hash": "E9408F66D5BC9755", "target": "Sconfiggi gli specter" },
+    { "gameKey": "quest/028/StmBdz924_02880#TEXT_STMBDZ924_02880_TODO_01", "hash": "107EC5F29BC1FC11", "target": "Fai rapporto a Betha" },
     { "gameKey": "quest/028/StmBdz924_02880#TEXT_STMBDZ924_02880_BETHA_000_000", "hash": "257F2F7326DDC5A1", "target": "Ah, <if(gnum4,avventuriera,avventuriero)>! Ho bisogno del vostro aiuto per salvare le anime dei morti!" },
     { "gameKey": "quest/028/StmBdz924_02880#TEXT_STMBDZ924_02880_BETHA_000_001", "hash": "BEC7B9919646E01D", "target": "Io... Perdonatemi. È sembrato più drammatico di quanto volessi. A proposito, mi chiamo Betha." },
     { "gameKey": "quest/028/StmBdz924_02880#TEXT_STMBDZ924_02880_BETHA_000_002", "hash": "75196CF065FE0EFE", "target": "Avrete sentito di come l'Impero si sia adoperato per reprimere le religioni di questa terra, temendo l'apparizione di primali. Ma gli imperiali sono arrivati persino a proibire le innocue cerimonie in onore dei caduti." },

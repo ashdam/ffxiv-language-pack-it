@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/041/AktKza002_04181#TEXT_AKTKZA002_04181_SEQ_00", "hash": "C1319D7FE1697160", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Sembra che tu abbia suscitato l'interesse di Bhaldswys." },
-    { "gameKey": "quest/041/AktKza002_04181#TEXT_AKTKZA002_04181_TODO_00", "hash": "2ED8DA04C5204D13", "target": "Parlare con l'uomo che osserva la statua" },
-    { "gameKey": "quest/041/AktKza002_04181#TEXT_AKTKZA002_04181_TODO_01", "hash": "61FAA19E967F2B5D", "target": "Parlare di nuovo con l'uomo che osserva la statua" },
-    { "gameKey": "quest/041/AktKza002_04181#TEXT_AKTKZA002_04181_TODO_02", "hash": "0D5A8075F222B451", "target": "Parlare con Bhaldswys" },
+    { "gameKey": "quest/041/AktKza002_04181#TEXT_AKTKZA002_04181_TODO_00", "hash": "2ED8DA04C5204D13", "target": "Parla con l'uomo che osserva la statua" },
+    { "gameKey": "quest/041/AktKza002_04181#TEXT_AKTKZA002_04181_TODO_01", "hash": "61FAA19E967F2B5D", "target": "Parla di nuovo con l'uomo che osserva la statua" },
+    { "gameKey": "quest/041/AktKza002_04181#TEXT_AKTKZA002_04181_TODO_02", "hash": "0D5A8075F222B451", "target": "Parla con Bhaldswys" },
     { "gameKey": "quest/041/AktKza002_04181#TEXT_AKTKZA002_04181_BHALDSWYS_000_001", "hash": "ECD578B81D47F458", "target": "Salve, <if(gnum4,amica,amico)>, sei appena <if(gnum4,arrivata,arrivato)> a Sharlayan? Hai quell'aria." },
     { "gameKey": "quest/041/AktKza002_04181#TEXT_AKTKZA002_04181_BHALDSWYS_000_002", "hash": "C60440C8B4F88664", "target": "Lo immaginavo. Oh, non ti sto disturbando, vero? Incontro così raramente viaggiatori provenienti da oltre le nostre coste che non potevo lasciarmi sfuggire l'occasione di ampliare i miei orizzonti." },
     { "gameKey": "quest/041/AktKza002_04181#TEXT_AKTKZA002_04181_BHALDSWYS_000_003", "hash": "C64627A6CA1069CE", "target": "Posso presumere che anche chi ci fa visita sia ansioso di fare lo stesso? Se, per esempio, ti interessa conoscere la storia di questa città, so chi potrebbe impartirti una perfetta lezione improvvisata." },

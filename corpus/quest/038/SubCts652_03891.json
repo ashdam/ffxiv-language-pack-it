@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_SEQ_00", "hash": "CE29449279CA886E", "target": "Hautdilong ha qualcosa da dirti e non riesce più a trattenerlo." },
-    { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_TODO_00", "hash": "A77394B0DA6584C2", "target": "Parlare con Arvide" },
+    { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_TODO_00", "hash": "A77394B0DA6584C2", "target": "Parla con Arvide" },
     { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_HAUTDLONG_000_000", "hash": "A4579595C4D3678C", "target": "<if(gnum4,Signora,Signor)> <split(<string(gstr1)>, ,2)>, eccovi! Io ed Ehll Tou abbiamo pensato a come ricambiare tutto il vostro aiuto." },
     { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_HAUTDLONG_000_001", "hash": "A622F7BB05972F3B", "target": "Dopo averci riflettuto a lungo, abbiamo deciso di chiedere a mastro Arvide di aiutarci a creare un oggetto su misura, solo per voi. Spero non abbia rovinato la sorpresa." },
     { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_HAUTDLONG_000_002", "hash": "A90D5C4E2C7BFFE1", "target": "L'ultima volta che abbiamo parlato, ha detto che il lavoro era quasi finito. Forse ormai l'ha terminato? Oh, spero tanto che vi piaccia!" },

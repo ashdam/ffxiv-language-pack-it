@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/052/BanPel114_05212#TEXT_BANPEL114_05212_SEQ_00", "hash": "790CE1DF3C69AD81", "target": "Yubli vorrebbe che recuperassi legname dalla Scalinata di Noi Senz'ali crollata.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
-    { "gameKey": "quest/052/BanPel114_05212#TEXT_BANPEL114_05212_TODO_00", "hash": "8B102528DB23FF6C", "target": "Recuperare pezzi di legname di scarto dai resti della Scalinata di Noi Senz'ali" },
-    { "gameKey": "quest/052/BanPel114_05212#TEXT_BANPEL114_05212_TODO_01", "hash": "FA2D3E1603CBE9A3", "target": "Consegnare il legname di scarto a Yubli" },
+    { "gameKey": "quest/052/BanPel114_05212#TEXT_BANPEL114_05212_TODO_00", "hash": "8B102528DB23FF6C", "target": "Recupera pezzi di legname di scarto dai resti della Scalinata di Noi Senz'ali" },
+    { "gameKey": "quest/052/BanPel114_05212#TEXT_BANPEL114_05212_TODO_01", "hash": "FA2D3E1603CBE9A3", "target": "Consegna il legname di scarto a Yubli" },
     { "gameKey": "quest/052/BanPel114_05212#TEXT_BANPEL114_05212_YUBLI_000_000", "hash": "5C860A93AD1BF29B", "target": "La ricostruzione della Scalinata di Noi Senz'ali è in corso, eppure un numero sorprendente di visitatori desidera vedere i resti. Per questo siamo impegnati a organizzare visite per accontentarli." },
     { "gameKey": "quest/052/BanPel114_05212#TEXT_BANPEL114_05212_YUBLI_000_001", "hash": "2709F90D2AFBB1B8", "target": "Il problema principale, però, è muoversi fra i pezzi di legno spezzato sparsi ovunque. A parte l'aspetto disordinato, non possiamo permettere che gli ospiti inciampino e si feriscano sulle assi scheggiate." },
     { "gameKey": "quest/052/BanPel114_05212#TEXT_BANPEL114_05212_YUBLI_000_002", "hash": "A3FE53586F4F5A99", "target": "Credo però di aver trovato una soluzione elegante. Potrei chiedervi di andare là a recuperare tre di quegli ostacoli? Vi spiegherò tutto al ritorno." },

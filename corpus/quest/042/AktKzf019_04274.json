@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/042/AktKzf019_04274#TEXT_AKTKZF019_04274_SEQ_00", "hash": "EE8FF798C3115549", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Vishrahd ti guarda con impazienza." },
-    { "gameKey": "quest/042/AktKzf019_04274#TEXT_AKTKZF019_04274_TODO_00", "hash": "925590608A0CF6E8", "target": "Nutrire gli hamsa in modo adeguato" },
-    { "gameKey": "quest/042/AktKzf019_04274#TEXT_AKTKZF019_04274_TODO_01", "hash": "88D9BF27861E8916", "target": "Parlare con Vishrahd" },
+    { "gameKey": "quest/042/AktKzf019_04274#TEXT_AKTKZF019_04274_TODO_00", "hash": "925590608A0CF6E8", "target": "Nutri gli hamsa in modo adeguato" },
+    { "gameKey": "quest/042/AktKzf019_04274#TEXT_AKTKZF019_04274_TODO_01", "hash": "88D9BF27861E8916", "target": "Parla con Vishrahd" },
     { "gameKey": "quest/042/AktKzf019_04274#TEXT_AKTKZF019_04274_VISHRAHD_000_001", "hash": "246F753995A156D5", "target": "Devi essere <if(gnum4,la sostituta,il sostituto)> dell'allevatore di hamsa. Be', sei in ritardo! Dovevamo iniziare a dar loro da mangiare campane fa! E un hamsa affamato è un hamsa rumoroso, come puoi sentire." },
     { "gameKey": "quest/042/AktKzf019_04274#TEXT_AKTKZF019_04274_VISHRAHD_000_002", "hash": "69CBB4B041F84419", "target": "Che fai lì in piedi? Vuoi lasciare che quelle povere creature muoiano di fame? Al lavoro! Presto!" },
     { "gameKey": "quest/042/AktKzf019_04274#TEXT_AKTKZF019_04274_VISHRAHD_000_003", "hash": "25ECE9300F18AF51", "target": "Ecco: un sacco grande per il mangime e uno piccolo. Gli hamsa di taglia diversa hanno diete diverse, sai. E sono anche schizzinosi." },

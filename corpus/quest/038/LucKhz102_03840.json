@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/038/LucKhz102_03840#TEXT_LUCKHZ102_03840_SEQ_00", "hash": "858A06E23682DE85", "target": "Gli occhi di Peyraquile brillano quando ti vede." },
-    { "gameKey": "quest/038/LucKhz102_03840#TEXT_LUCKHZ102_03840_TODO_00", "hash": "95F821B5831FEAC4", "target": "Parlare con Julchiezain davanti al banco dei mandati del Tempio" },
-    { "gameKey": "quest/038/LucKhz102_03840#TEXT_LUCKHZ102_03840_TODO_01", "hash": "37175B734F320D5D", "target": "Parlare con Achard nel Firmamento" },
-    { "gameKey": "quest/038/LucKhz102_03840#TEXT_LUCKHZ102_03840_TODO_02", "hash": "4EC3048BA746871D", "target": "Consegnare i salvaged wood scraps a Julchiezain" },
+    { "gameKey": "quest/038/LucKhz102_03840#TEXT_LUCKHZ102_03840_TODO_00", "hash": "95F821B5831FEAC4", "target": "Parla con Julchiezain davanti al banco dei mandati del Tempio" },
+    { "gameKey": "quest/038/LucKhz102_03840#TEXT_LUCKHZ102_03840_TODO_01", "hash": "37175B734F320D5D", "target": "Parla con Achard nel Firmamento" },
+    { "gameKey": "quest/038/LucKhz102_03840#TEXT_LUCKHZ102_03840_TODO_02", "hash": "4EC3048BA746871D", "target": "Consegna i salvaged wood scraps a Julchiezain" },
     { "gameKey": "quest/038/LucKhz102_03840#TEXT_LUCKHZ102_03840_PEYRAQUILE_000_010", "hash": "E156F6E885F671F8", "target": "Oooh! Siete <if(gnum4,l'eroina,l'eroe)> che parlava con Rasequin e gli altri!" },
     { "gameKey": "quest/038/LucKhz102_03840#TEXT_LUCKHZ102_03840_PEYRAQUILE_000_011", "hash": "9942EE60D06ED892", "target": "Noi tre siamo i bambini più grandi dell'orfanotrofio." },
     { "gameKey": "quest/038/LucKhz102_03840#TEXT_LUCKHZ102_03840_PEYRAQUILE_000_012", "hash": "F1B9BAAD8D0CFE4D", "target": "Sappiamo che chi si prende cura di noi fa tanto, e vorremmo fare qualcosa per alleggerire il loro lavoro... ma non sappiamo cosa. Per caso avete qualche idea?" },

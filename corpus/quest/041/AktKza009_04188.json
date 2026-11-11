@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_SEQ_00", "hash": "2DAD6C499E693A8B", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>N'nagali ti guarda con una preoccupazione materna." },
-    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_TODO_00", "hash": "475E9B66E489271B", "target": "Recuperare i rotting logs" },
-    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_TODO_01", "hash": "6CBC4CA98CF806A9", "target": "Consegnare i rotting logs a N'nagali" },
+    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_TODO_00", "hash": "475E9B66E489271B", "target": "Recupera i rotting logs" },
+    { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_TODO_01", "hash": "6CBC4CA98CF806A9", "target": "Consegna i rotting logs a N'nagali" },
     { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_NNAGALI_000_000", "hash": "FDC8557C5A414527", "target": "<if(gnum4,Signora,Signore)>, puoi tendere la mano? Ho qualcosa che devi assolutamente mangiare. Ti prego, insisto!" },
     { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_NNAGALI_000_001", "hash": "A8CB057AE30D9C79", "target": "Non è la cosa più succosa, dolce e rinvigorente che tu abbia mai assaggiato? Ne ho appena sfornata una partita e, visto il tuo colorito un po' pallido, ho pensato che ti avrebbe fatto bene una piccola delizia!" },
     { "gameKey": "quest/041/AktKza009_04188#TEXT_AKTKZA009_04188_NNAGALI_000_002", "hash": "4265832C471C1209", "target": "Oh, non preoccuparti: so esattamente cosa ti sto dando da mangiare. Anche se ora vivo qui, in questo rifugio di tesori culturali archiviati, un tempo studiavo scienze della nutrizione alla Facoltà di Medicina." },

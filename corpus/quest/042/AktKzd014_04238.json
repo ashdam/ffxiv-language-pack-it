@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/042/AktKzd014_04238#TEXT_AKTKZD014_04238_SEQ_00", "hash": "79A9ABB0C954B355", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Talon ha ricevuto notizie di un compagno in difficoltà da qualche parte in città." },
-    { "gameKey": "quest/042/AktKzd014_04238#TEXT_AKTKZD014_04238_TODO_00", "hash": "B9FE326C31CF0A2C", "target": "Usare la potent tincture sul soldato ferito" },
-    { "gameKey": "quest/042/AktKzd014_04238#TEXT_AKTKZD014_04238_TODO_01", "hash": "E534BA40CD8EEEC7", "target": "Parlare con Talon" },
+    { "gameKey": "quest/042/AktKzd014_04238#TEXT_AKTKZD014_04238_TODO_00", "hash": "B9FE326C31CF0A2C", "target": "Usa la potent tincture sul soldato ferito" },
+    { "gameKey": "quest/042/AktKzd014_04238#TEXT_AKTKZD014_04238_TODO_01", "hash": "E534BA40CD8EEEC7", "target": "Parla con Talon" },
     { "gameKey": "quest/042/AktKzd014_04238#TEXT_AKTKZD014_04238_TALON_000_000", "hash": "0FCCE9018AAE5CDB", "target": "<if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<split(<string(gstr1)>, ,1)>)>)>. Abbiamo appena ricevuto una richiesta d'aiuto piuttosto urgente. Uno dei nostri migliori uomini aveva trovato una civile e voleva condurla in salvo, ma sono stati attaccati." },
     { "gameKey": "quest/042/AktKzd014_04238#TEXT_AKTKZD014_04238_TALON_000_001", "hash": "D3DCF1175691C725", "target": "Delle armi magitec li hanno assaliti e il nostro compagno è rimasto ferito nel bombardamento." },
     { "gameKey": "quest/042/AktKzd014_04238#TEXT_AKTKZD014_04238_TALON_000_002", "hash": "48C57A374C848B22", "target": "Non dovrei indugiare oltre. Sono in una situazione disperata e hanno bisogno di aiuto urgente. Le strade della città sono insidiose per chi non le conosce, perciò vorrei chiedere a te di occupartene. Possono contare sul tuo aiuto?" },

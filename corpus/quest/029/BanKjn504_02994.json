@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/029/BanKjn504_02994#TEXT_BANKJN504_02994_SEQ_00", "hash": "3F4C57335D8C74C0", "target": "Il commercio con i Qestir prospera, e Zukin vuole migliorarlo ancora.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
-    { "gameKey": "quest/029/BanKjn504_02994#TEXT_BANKJN504_02994_TODO_00", "hash": "D4C7E303893D75BD", "target": "Raccogliere sfere lunari" },
-    { "gameKey": "quest/029/BanKjn504_02994#TEXT_BANKJN504_02994_TODO_01", "hash": "001C44E026CB2D06", "target": "Consegnare le sfere lunari a Zukin" },
+    { "gameKey": "quest/029/BanKjn504_02994#TEXT_BANKJN504_02994_TODO_00", "hash": "D4C7E303893D75BD", "target": "Raccogli sfere lunari" },
+    { "gameKey": "quest/029/BanKjn504_02994#TEXT_BANKJN504_02994_TODO_01", "hash": "001C44E026CB2D06", "target": "Consegna le sfere lunari a Zukin" },
     { "gameKey": "quest/029/BanKjn504_02994#TEXT_BANKJN504_02994_ZUKIN_000_000", "hash": "4ED21CF16528EE14", "target": "Ho un nuovo incarico per te, <split(<string(gstr1)>, ,1)>. Come sai, abbiamo da poco stretto accordi commerciali con i Qestir." },
     { "gameKey": "quest/029/BanKjn504_02994#TEXT_BANKJN504_02994_ZUKIN_000_001", "hash": "68D1AC34A4A76994", "target": "E voglio fare colpo offrendo loro qualcosa che solo noi Kojin e chi è benedetto dai kami può procurare. Un tesoro prezioso che si trova nelle profondità della Fossa Turchese." },
     { "gameKey": "quest/029/BanKjn504_02994#TEXT_BANKJN504_02994_ZUKIN_000_002", "hash": "60A52B146B351B9B", "target": "Laggiù troverai diversi cristalli luminosi di dimensioni immense. Quando se ne staccano piccoli pezzi, formano quelle che chiamiamo «sfere lunari», simili alla luna stessa. Ci aiuterai a raccoglierle negli abissi?" },

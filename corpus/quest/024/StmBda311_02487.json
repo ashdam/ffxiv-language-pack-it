@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/024/StmBda311_02487#TEXT_STMBDA311_02487_SEQ_00", "hash": "E7C08A92F238BBA0", "target": "Come sempre, Alisaie non vede l'ora di rimettersi in cammino." },
-    { "gameKey": "quest/024/StmBda311_02487#TEXT_STMBDA311_02487_TODO_00", "hash": "EC2FB550FCCA2A82", "target": "Consegnare lo Yasakani-no-Magatama a Bunchin" },
-    { "gameKey": "quest/024/StmBda311_02487#TEXT_STMBDA311_02487_TODO_01", "hash": "F0C1FAE34DF2147D", "target": "Parlare con Alisaie" },
+    { "gameKey": "quest/024/StmBda311_02487#TEXT_STMBDA311_02487_TODO_00", "hash": "EC2FB550FCCA2A82", "target": "Consegna lo Yasakani-no-Magatama a Bunchin" },
+    { "gameKey": "quest/024/StmBda311_02487#TEXT_STMBDA311_02487_TODO_01", "hash": "F0C1FAE34DF2147D", "target": "Parla con Alisaie" },
     { "gameKey": "quest/024/StmBda311_02487#TEXT_STMBDA311_02487_LYSE_000_000", "hash": "01B9DAFDC81CFCB4", "target": "Per fortuna abbiamo trovato il Magatama prima dei Kojin Rossi!" },
     { "gameKey": "quest/024/StmBda311_02487#TEXT_STMBDA311_02487_ALISAIE_000_010", "hash": "216E592BB76D3A26", "target": "Per quanto vorrei tornare a ringraziare i genitori di Yugiri per il loro aiuto, il tempo stringe. Propongo di dirigerci subito a Tamamizu." },
     { "gameKey": "quest/024/StmBda311_02487#TEXT_STMBDA311_02487_ALISAIE_000_011", "hash": "295F51714D06C82D", "target": "Tienilo tu per ora, <split(<string(gstr1)>, ,1)>. Quando arriveremo, mostralo all'anziano, e finalmente sapremo come affrontare i Kojin Rossi." },

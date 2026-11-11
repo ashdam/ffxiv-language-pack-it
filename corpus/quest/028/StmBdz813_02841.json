@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/028/StmBdz813_02841#TEXT_STMBDZ813_02841_SEQ_00", "hash": "6EEE65ACC8E7B09C", "target": "Questa madre premurosa si è fatta carico di troppi impegni." },
-    { "gameKey": "quest/028/StmBdz813_02841#TEXT_STMBDZ813_02841_TODO_00", "hash": "2A2AC5761465B37A", "target": "Usare /doubt per mettere in dubbio ciò che hanno fatto i bambini" },
-    { "gameKey": "quest/028/StmBdz813_02841#TEXT_STMBDZ813_02841_TODO_01", "hash": "57D8BFA8B76A5443", "target": "Parlare con la madre premurosa" },
+    { "gameKey": "quest/028/StmBdz813_02841#TEXT_STMBDZ813_02841_TODO_00", "hash": "2A2AC5761465B37A", "target": "Usa /doubt per mettere in dubbio ciò che hanno fatto i bambini" },
+    { "gameKey": "quest/028/StmBdz813_02841#TEXT_STMBDZ813_02841_TODO_01", "hash": "57D8BFA8B76A5443", "target": "Parla con la madre premurosa" },
     { "gameKey": "quest/028/StmBdz813_02841#TEXT_STMBDZ813_02841_WORRYMOTHER02841_000_000", "hash": "5EA254DB6AFC1EB8", "target": "Insomma, dove sono scappati quei ragazzi questa volta?" },
     { "gameKey": "quest/028/StmBdz813_02841#TEXT_STMBDZ813_02841_WORRYMOTHER02841_000_001", "hash": "9C75FFC90E3714F4", "target": "Scusami, <if(gnum4,signorina,signore)>. Ho cercato dappertutto e non trovo i miei figli. Mi aiuteresti a cercarli?" },
     { "gameKey": "quest/028/StmBdz813_02841#TEXT_STMBDZ813_02841_WORRYMOTHER02841_000_002", "hash": "87B4CBDF94AAC232", "target": "Il lavoro mi ha tenuta così occupata che non ho potuto passare tempo con loro. Anche quando ho qualche momento libero, sono sempre via a fare chissà che cosa." },

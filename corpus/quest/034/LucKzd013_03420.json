@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/034/LucKzd013_03420#TEXT_LUCKZD013_03420_SEQ_00", "hash": "198C7865C24D8885", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Nimbus ha bisogno di una mano agile per cogliere un fiore." },
-    { "gameKey": "quest/034/LucKzd013_03420#TEXT_LUCKZD013_03420_TODO_00", "hash": "F6EC5A8A073F056D", "target": "Cogliere un fiore" },
-    { "gameKey": "quest/034/LucKzd013_03420#TEXT_LUCKZD013_03420_TODO_01", "hash": "1D9517A261635290", "target": "Consegnare il fiore a Nimbus" },
+    { "gameKey": "quest/034/LucKzd013_03420#TEXT_LUCKZD013_03420_TODO_00", "hash": "F6EC5A8A073F056D", "target": "Cogli un fiore" },
+    { "gameKey": "quest/034/LucKzd013_03420#TEXT_LUCKZD013_03420_TODO_01", "hash": "1D9517A261635290", "target": "Consegna il fiore a Nimbus" },
     { "gameKey": "quest/034/LucKzd013_03420#TEXT_LUCKZD013_03420_NIMBUS_000_000", "hash": "56AE718148C57FAA", "target": "Ghrrr... Se hai un momento, avrei un favore da chiederti." },
     { "gameKey": "quest/034/LucKzd013_03420#TEXT_LUCKZD013_03420_NIMBUS_000_001", "hash": "E2EB9F76E5DF30B5", "target": "Dato che qui vediamo raramente persone come te, vorrei approfittare delle tue agili appendici finché posso." },
     { "gameKey": "quest/034/LucKzd013_03420#TEXT_LUCKZD013_03420_NIMBUS_000_002", "hash": "E2B238A47AD16FA1", "target": "Nel Lago Longmirror crescono molti fiori bellissimi. Vorrei che ne cogliessi uno per me." },

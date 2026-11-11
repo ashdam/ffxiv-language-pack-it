@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_SEQ_00", "hash": "95BFE67B2A5A0053", "target": "Oggery ha bisogno di una mano forte per salvare gli alberi." },
-    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_TODO_00", "hash": "E7F214F1DA2B83E5", "target": "Cercare intorno alla pozza d'acqua e ottenere i Mossling Clump dai Mossified Mossling" },
-    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_TODO_01", "hash": "87F5980FC9AA7DE0", "target": "Seppellire i Mossling Clump fra le radici marce" },
-    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_TODO_02", "hash": "A23DF332CC03B54A", "target": "Tornare da Oggery" },
+    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_TODO_00", "hash": "E7F214F1DA2B83E5", "target": "Cerca intorno alla pozza d'acqua e ottieni i Mossling Clump dai Mossified Mossling" },
+    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_TODO_01", "hash": "87F5980FC9AA7DE0", "target": "Seppellisci i Mossling Clump fra le radici marce" },
+    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_TODO_02", "hash": "A23DF332CC03B54A", "target": "Torna da Oggery" },
     { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_OGGERY_000_000", "hash": "51120502FC3391DC", "target": "Be', quelle sembrano proprio mani belle forti. Non hai paura di sporcarle, vero?" },
     { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_OGGERY_000_001", "hash": "7C0C8C73B2A74989", "target": "Te lo chiedo solo perché gli alberi qui avrebbero bisogno di cure. Le radici hanno cominciato a marcire e, se non facciamo nulla, rischiamo di perdere l'unica vegetazione di grandi dimensioni nel raggio di malm." },
     { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_OGGERY_000_002", "hash": "A515D659D7A596FE", "target": "C'è però un modo per salvarli. Devi andare alla pozza d'acqua a sud-ovest e fare a pezzi un paio di Mossling." },

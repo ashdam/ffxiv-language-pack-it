@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/028/StmBdz826_02854#TEXT_STMBDZ826_02854_SEQ_00", "hash": "0096F359E487517D", "target": "Godafre ha un favore piuttosto grande da chiederti." },
-    { "gameKey": "quest/028/StmBdz826_02854#TEXT_STMBDZ826_02854_TODO_00", "hash": "9DE941E8C3A0F197", "target": "Ottenere le pelli dai Jhammel" },
-    { "gameKey": "quest/028/StmBdz826_02854#TEXT_STMBDZ826_02854_TODO_01", "hash": "94DF0783A45AD419", "target": "Consegnare le Jhammel Hide a Godafre" },
+    { "gameKey": "quest/028/StmBdz826_02854#TEXT_STMBDZ826_02854_TODO_00", "hash": "9DE941E8C3A0F197", "target": "Ottieni le pelli dai Jhammel" },
+    { "gameKey": "quest/028/StmBdz826_02854#TEXT_STMBDZ826_02854_TODO_01", "hash": "94DF0783A45AD419", "target": "Consegna le Jhammel Hide a Godafre" },
     { "gameKey": "quest/028/StmBdz826_02854#TEXT_STMBDZ826_02854_GODAFRE_000_000", "hash": "B26259FA4B4BEA99", "target": "Ah, <if(gnum4,la mia amica,il mio amico)> di poche parole! Recuperare quel tabacco per me è stato un grande aiuto, ma avrei un altro favore da chiederti, se sei <if(gnum4,disposta,disposto)>..." },
     { "gameKey": "quest/028/StmBdz826_02854#TEXT_STMBDZ826_02854_GODAFRE_000_001", "hash": "4930E6EACAF8C87E", "target": "Sai cos'è un Jhammel, vero? Alto, mangia le foglie, ha il collo lungo? Guardati intorno e probabilmente ne vedrai uno proprio ora." },
     { "gameKey": "quest/028/StmBdz826_02854#TEXT_STMBDZ826_02854_GODAFRE_000_002", "hash": "0E05E1B20E34CD85", "target": "Sembrano abbastanza docili, sì, ma un calcio di quelle zampe enormi spedirebbe la maggior parte della gente dritta nell'aldilà. E io mi considero piuttosto normale." },

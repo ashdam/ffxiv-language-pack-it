@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/036/BanPix111_03699#TEXT_BANPIX111_03699_SEQ_00", "hash": "C2105DC432BD57F9", "target": "A Uin Nee non piace aspettare, soprattutto quando ci si deve divertire.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
-    { "gameKey": "quest/036/BanPix111_03699#TEXT_BANPIX111_03699_TODO_00", "hash": "5EB1C733E5EC4253", "target": "Cercare lo sleepy pixie vicino a Mithai Glorianda" },
-    { "gameKey": "quest/036/BanPix111_03699#TEXT_BANPIX111_03699_TODO_01", "hash": "3A7BBB867293E447", "target": "Parlare con Uin Nee" },
+    { "gameKey": "quest/036/BanPix111_03699#TEXT_BANPIX111_03699_TODO_00", "hash": "5EB1C733E5EC4253", "target": "Cerca lo sleepy pixie vicino a Mithai Glorianda" },
+    { "gameKey": "quest/036/BanPix111_03699#TEXT_BANPIX111_03699_TODO_01", "hash": "3A7BBB867293E447", "target": "Parla con Uin Nee" },
     { "gameKey": "quest/036/BanPix111_03699#TEXT_BANPIX111_03699_UINNEE_000_001", "hash": "EFB940E436FEFD9B", "target": "Oh, cielo, cielo, cielo! Di questo passo i bambini si sveglieranno prima del nostro arrivo!" },
     { "gameKey": "quest/036/BanPix111_03699#TEXT_BANPIX111_03699_UINNEE_000_002", "hash": "1F4574639A2619F3", "target": "Si tratta del mio amico. Avevamo promesso di andare a divertirci a Lyhe Mheg, ma non si vede da nessuna parte! Deve essersi addormentato! Ti rendi conto!?" },
     { "gameKey": "quest/036/BanPix111_03699#TEXT_BANPIX111_03699_UINNEE_000_003", "hash": "74C6A1B8E51A179E", "target": "Umpf! Farò meglio a restare qui, nel caso venga a cercarmi. Mi serve qualcuno che vada a trovarlo al posto mio... E chi si presenta al momento giusto se non <if(gnum4,la mia mortale preferita,il mio mortale preferito)>! Bene, allora vai!" },

@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKzi009_03545#TEXT_LUCKZI009_03545_SEQ_00", "hash": "9A758A2772407F4B", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>La cacciatrice irrequieta scruta l'orizzonte." },
-    { "gameKey": "quest/035/LucKzi009_03545#TEXT_LUCKZI009_03545_TODO_00", "hash": "9EA856B091C7E334", "target": "Cercare la ragazza slanciata" },
-    { "gameKey": "quest/035/LucKzi009_03545#TEXT_LUCKZI009_03545_TODO_01", "hash": "2108A4739EC773AA", "target": "Aiutare la ragazza slanciata" },
-    { "gameKey": "quest/035/LucKzi009_03545#TEXT_LUCKZI009_03545_TODO_02", "hash": "63B1DAA4462CB9A9", "target": "Riferire alla cacciatrice irrequieta" },
+    { "gameKey": "quest/035/LucKzi009_03545#TEXT_LUCKZI009_03545_TODO_00", "hash": "9EA856B091C7E334", "target": "Cerca la ragazza slanciata" },
+    { "gameKey": "quest/035/LucKzi009_03545#TEXT_LUCKZI009_03545_TODO_01", "hash": "2108A4739EC773AA", "target": "Aiuta la ragazza slanciata" },
+    { "gameKey": "quest/035/LucKzi009_03545#TEXT_LUCKZI009_03545_TODO_02", "hash": "63B1DAA4462CB9A9", "target": "Riferisci alla cacciatrice irrequieta" },
     { "gameKey": "quest/035/LucKzi009_03545#TEXT_LUCKZI009_03545_HUNTER03545_000_000", "hash": "67E9E843E0B89B90", "target": "Scusa, <if(gnum4,signorina,signore)>, hai visto una ragazza Hume alta e magra durante i tuoi viaggi?" },
     { "gameKey": "quest/035/LucKzi009_03545#TEXT_LUCKZI009_03545_HUNTER03545_000_001", "hash": "F4363FDF2D0A59CB", "target": "...No? Allora potresti darmi una mano a trovarla? Ha la brutta abitudine di allontanarsi quando nessuno la tiene d'occhio: non è il passatempo più sicuro, considerando le bestie qui intorno." },
     { "gameKey": "quest/035/LucKzi009_03545#TEXT_LUCKZI009_03545_HUNTER03545_000_002", "hash": "8A4EED1166A5B9CA", "target": "Comincerò a cercare vicino alla Scala, ma mi sentirei meglio sapendo che qualcuno cerca anche lungo il dirupo. Lo faresti per me?" },

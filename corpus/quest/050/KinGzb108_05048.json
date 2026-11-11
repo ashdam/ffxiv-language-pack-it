@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/050/KinGzb108_05048#TEXT_KINGZB108_05048_SEQ_00", "hash": "11A8D5B94132036D", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>L'ansiosa Yok Huy sembra non sapere più che cosa fare." },
-    { "gameKey": "quest/050/KinGzb108_05048#TEXT_KINGZB108_05048_TODO_00", "hash": "79466029E927E3D7", "target": "Usare /soothe sull'estrattore di sale irascibile" },
-    { "gameKey": "quest/050/KinGzb108_05048#TEXT_KINGZB108_05048_TODO_01", "hash": "360B38C210BDC281", "target": "Con la chat in modalità <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, inserire una frase contenente «Gorrl Karryor» per chiamare l'estrattore di sale irascibile" },
-    { "gameKey": "quest/050/KinGzb108_05048#TEXT_KINGZB108_05048_TODO_02", "hash": "1F2BE45BDA864CDE", "target": "Parlare con l'ansiosa Yok Huy" },
+    { "gameKey": "quest/050/KinGzb108_05048#TEXT_KINGZB108_05048_TODO_00", "hash": "79466029E927E3D7", "target": "Usa /soothe sull'estrattore di sale irascibile" },
+    { "gameKey": "quest/050/KinGzb108_05048#TEXT_KINGZB108_05048_TODO_01", "hash": "360B38C210BDC281", "target": "Con la chat in modalità <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, inserisci una frase contenente «Gorrl Karryor» per chiamare l'estrattore di sale irascibile" },
+    { "gameKey": "quest/050/KinGzb108_05048#TEXT_KINGZB108_05048_TODO_02", "hash": "1F2BE45BDA864CDE", "target": "Parla con l'ansiosa Yok Huy" },
     { "gameKey": "quest/050/KinGzb108_05048#TEXT_KINGZB108_05048_ANXIOUSYOKFUY05048_000_000", "hash": "7D46C05633CAB680", "target": "Per gli dèi, e se lo uccidono? Tu, <if(gnum4,visitatrice,visitatore)>, mi serve un favore. Un mio amico è andato a trattare con i Chirwagur e non è ancora tornato!" },
     { "gameKey": "quest/050/KinGzb108_05048#TEXT_KINGZB108_05048_ANXIOUSYOKFUY05048_000_002", "hash": "F9F860824404AA99", "target": "Quegli estrattori di sale sono famosi per le loro tattiche aggressive di vendita, senza contare i prezzi esorbitanti. È un crimine!" },
     { "gameKey": "quest/050/KinGzb108_05048#TEXT_KINGZB108_05048_ANXIOUSYOKFUY05048_000_003", "hash": "B8F02A48CA84B5CC", "target": "Di solito si porta dietro un amico capace di combattere, ma stavolta non ha avuto scelta ed è andato da solo... Basti dire che temo il peggio!" },

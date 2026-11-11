@@ -4,11 +4,11 @@
   "entries": [
     { "gameKey": "custom/006/CtsMycExorcismTrade_00679#TEXT_CTSMYCEXORCISMTRADE_00679_RESISTANCESUPPLY_000_000", "hash": "FF2C9A3EB88E1A72", "target": "Vi chiedo scusa, <if(gnum4,signorina,signore)>, ma dobbiamo fare l'inventario delle scorte prima di richiedere altri contributi." },
     { "gameKey": "custom/006/CtsMycExorcismTrade_00679#TEXT_CTSMYCEXORCISMTRADE_00679_Q1_000_000", "hash": "A3FA4D6DD0A9BD5C", "target": "Cosa vuoi fare? (Aggregati di Bozja: <num(lnum1)>)" },
-    { "gameKey": "custom/006/CtsMycExorcismTrade_00679#TEXT_CTSMYCEXORCISMTRADE_00679_A1_000_000", "hash": "6535D87B263E7D31", "target": "Richiedi lo schieramento prioritario nei ingaggio Critico.<br>(Aggregati di Bozja richiesti: <num(lnum1)>)" },
+    { "gameKey": "custom/006/CtsMycExorcismTrade_00679#TEXT_CTSMYCEXORCISMTRADE_00679_A1_000_000", "hash": "6535D87B263E7D31", "target": "Richiedi lo schieramento prioritario negli ingaggi critici.<br>(Aggregati di Bozja richiesti: <num(lnum1)>)" },
     { "gameKey": "custom/006/CtsMycExorcismTrade_00679#TEXT_CTSMYCEXORCISMTRADE_00679_A1_000_001", "hash": "B6377CB7EDAC9E24", "target": "Scambia Aggregati di Bozja con oggetti." },
-    { "gameKey": "custom/006/CtsMycExorcismTrade_00679#TEXT_CTSMYCEXORCISMTRADE_00679_A1_000_002", "hash": "F4A9C6394F70DE20", "target": "Informati sui Aggregati di Bozja." },
+    { "gameKey": "custom/006/CtsMycExorcismTrade_00679#TEXT_CTSMYCEXORCISMTRADE_00679_A1_000_002", "hash": "F4A9C6394F70DE20", "target": "Informati sugli Aggregati di Bozja." },
     { "gameKey": "custom/006/CtsMycExorcismTrade_00679#TEXT_CTSMYCEXORCISMTRADE_00679_A1_000_003", "hash": "FA9F61198D0F708A", "target": "Niente." },
-    { "gameKey": "custom/006/CtsMycExorcismTrade_00679#TEXT_CTSMYCEXORCISMTRADE_00679_Q2_000_000", "hash": "413D5E7B4D7B44FF", "target": "Richiedere lo schieramento prioritario nei ingaggio Critico?<br>(Aggregati di Bozja: <num(lnum1)>)" },
+    { "gameKey": "custom/006/CtsMycExorcismTrade_00679#TEXT_CTSMYCEXORCISMTRADE_00679_Q2_000_000", "hash": "413D5E7B4D7B44FF", "target": "Richiedere lo schieramento prioritario negli ingaggi critici?<br>(Aggregati di Bozja: <num(lnum1)>)" },
     { "gameKey": "custom/006/CtsMycExorcismTrade_00679#TEXT_CTSMYCEXORCISMTRADE_00679_RESISTANCESUPPLY_000_001", "hash": "76D271B41B5DCA17", "target": "Vi chiedo scusa, <if(gnum4,signorina,signore)>, ma per lo schieramento prioritario è richiesto un contributo di almeno <num(lnum1)> Aggregati di Bozja." },
     { "gameKey": "custom/006/CtsMycExorcismTrade_00679#TEXT_CTSMYCEXORCISMTRADE_00679_RESISTANCESUPPLY_000_002", "hash": "C7A2C61CEBC15489", "target": "Molto bene. Quando verrà avvistata la prossima minaccia di alto livello, vi contatteremo subito per lo schieramento." }
   ]

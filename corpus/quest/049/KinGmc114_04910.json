@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/049/KinGmc114_04910#TEXT_KINGMC114_04910_SEQ_00", "hash": "AEFC15CBCC0FE419", "target": "Peshekwa ti rivolge un sorriso radioso." },
-    { "gameKey": "quest/049/KinGmc114_04910#TEXT_KINGMC114_04910_TODO_00", "hash": "DC0661E5D0C074B2", "target": "Parlare con Krile" },
+    { "gameKey": "quest/049/KinGmc114_04910#TEXT_KINGMC114_04910_TODO_00", "hash": "DC0661E5D0C074B2", "target": "Parla con Krile" },
     { "gameKey": "quest/049/KinGmc114_04910#TEXT_KINGMC114_04910_SYSTEM_100_001", "hash": "D1C22968399434AB", "target": "Parlando con Peshekwa, verranno riprodotte diverse scene in sequenza." },
     { "gameKey": "quest/049/KinGmc114_04910#TEXT_KINGMC114_04910_SYSTEM_200_001", "hash": "012D1FB46DDAE486", "target": "Si consiglia di riservare tempo sufficiente per guardare queste scene nella loro interezza." },
     { "gameKey": "quest/049/KinGmc114_04910#TEXT_KINGMC114_04910_PESHEKWA_000_001", "hash": "21CBFDE324BD3504", "target": "<if(gnum4,Bentornata,Bentornato)>. Permettetemi di congratularmi con voi per la vittoria di Wuk Lamat nel rito di successione." },

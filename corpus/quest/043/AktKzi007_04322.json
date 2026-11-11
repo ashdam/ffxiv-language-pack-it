@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/043/AktKzi007_04322#TEXT_AKTKZI007_04322_SEQ_00", "hash": "DD4DC48575E987B7", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Cweilsaem ha un favore da chiederti." },
-    { "gameKey": "quest/043/AktKzi007_04322#TEXT_AKTKZI007_04322_TODO_00", "hash": "28FF8BAD6DEED9C9", "target": "Consegnare il small package a W'sondidi" },
-    { "gameKey": "quest/043/AktKzi007_04322#TEXT_AKTKZI007_04322_TODO_01", "hash": "C5323FACCCCAC7C4", "target": "Bere il golden syrup vicino a W'sondidi" },
-    { "gameKey": "quest/043/AktKzi007_04322#TEXT_AKTKZI007_04322_TODO_02", "hash": "FAAB4404F2E7A729", "target": "Parlare con Cweilsaem" },
+    { "gameKey": "quest/043/AktKzi007_04322#TEXT_AKTKZI007_04322_TODO_00", "hash": "28FF8BAD6DEED9C9", "target": "Consegna il small package a W'sondidi" },
+    { "gameKey": "quest/043/AktKzi007_04322#TEXT_AKTKZI007_04322_TODO_01", "hash": "C5323FACCCCAC7C4", "target": "Bevi il golden syrup vicino a W'sondidi" },
+    { "gameKey": "quest/043/AktKzi007_04322#TEXT_AKTKZI007_04322_TODO_02", "hash": "FAAB4404F2E7A729", "target": "Parla con Cweilsaem" },
     { "gameKey": "quest/043/AktKzi007_04322#TEXT_AKTKZI007_04322_CWEILSAEM_000_000", "hash": "A32B7FFF1F7E25C0", "target": "Sei <split(<string(gstr1)>, ,1)>, vero? Stavo per andare alla Forgia di Kokkol per una consegna, ma credo che accoglierebbero te più volentieri di me." },
     { "gameKey": "quest/043/AktKzi007_04322#TEXT_AKTKZI007_04322_CWEILSAEM_000_001", "hash": "EF7E43BB5A75C2F7", "target": "A quanto pare, la destinataria è una tua ammiratrice. Sono sicuro che sarebbe felice se facessi tu la consegna." },
     { "gameKey": "quest/043/AktKzi007_04322#TEXT_AKTKZI007_04322_CWEILSAEM_000_002", "hash": "FCBA240C534617B9", "target": "Grazie! Ecco il pacchetto, pronto per W'sondidi." },

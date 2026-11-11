@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/041/AktKza006_04185#TEXT_AKTKZA006_04185_SEQ_00", "hash": "F27BDF63767A535E", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Nonolato ti saluta con lo sguardo acceso di speranza." },
-    { "gameKey": "quest/041/AktKza006_04185#TEXT_AKTKZA006_04185_TODO_00", "hash": "E0AF3F83E3CA9C2D", "target": "Consegnare il composto alchemico al ricercatore anziano" },
-    { "gameKey": "quest/041/AktKza006_04185#TEXT_AKTKZA006_04185_TODO_01", "hash": "31E5DF671C7EB98F", "target": "Fare rapporto a Nonolato" },
+    { "gameKey": "quest/041/AktKza006_04185#TEXT_AKTKZA006_04185_TODO_00", "hash": "E0AF3F83E3CA9C2D", "target": "Consegna il composto alchemico al ricercatore anziano" },
+    { "gameKey": "quest/041/AktKza006_04185#TEXT_AKTKZA006_04185_TODO_01", "hash": "31E5DF671C7EB98F", "target": "Fai rapporto a Nonolato" },
     { "gameKey": "quest/041/AktKza006_04185#TEXT_AKTKZA006_04185_NONOLATO_100_000", "hash": "70F5519C8D9A99A4", "target": "Ehm, ehi, <if(gnum4,amica,amico)>! Ti andrebbe di dare una mano a un raccoglitore in difficoltà?" },
     { "gameKey": "quest/041/AktKza006_04185#TEXT_AKTKZA006_04185_NONOLATO_100_001", "hash": "81480C7E9016CC5C", "target": "Sono piuttosto nuovo in questo mestiere di raccoglitore, quindi è giusto che qualcuno con la necessaria, ehm, esperienza consegni questo importantissimo composto alchemico ul'dahno a quella struttura di ricerca. Sai, quella poco più a ovest...?" },
     { "gameKey": "quest/041/AktKza006_04185#TEXT_AKTKZA006_04185_Q1_000_000", "hash": "0ADD6806ECB0C775", "target": "Che cosa dirai?" },

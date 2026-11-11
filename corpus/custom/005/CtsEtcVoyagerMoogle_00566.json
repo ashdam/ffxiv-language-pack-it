@@ -9,8 +9,8 @@
     { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_MOGGUIDEBOOK_00001", "hash": "4796F1CC20C77395", "target": "Il Mogpendium sarà una risorsa preziosissima durante il Forziere del Moguri, kupò!" },
     { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_MOGGUIDEBOOK_00002", "hash": "2583B13F26A526A7", "target": "Studiane il contenuto per scoprire i modi migliori di ottenere tavolette irregolari, poi usa ciò che hai imparato per riempirti le borse!" },
     { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_MOGGUIDEBOOK_00003", "hash": "6EF7F5FF2E39E7A8", "target": "E quando il peso delle tavolette sarà troppo da sopportare, portamele e ti darò ogni sorta di oggetto raro e straordinario!" },
-    { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_VOYAGERMOOGLE_000_001", "hash": "C83D70619F1360CA", "target": "" },
-    { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_SYSTEM_000_002", "hash": "61715BF76B5F9994", "target": "" },
-    { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_SYSTEM_000_003", "hash": "7A8D5D3B8876977C", "target": "" }
+    { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_VOYAGERMOOGLE_000_001", "hash": "C83D70619F1360CA", "target": "Ah, pare che nel Mogpendium ci fossero alcuni piccoli errori. Ho già segnato come completati per te <if([lnum1==1],le Sfide Minimog,<if([lnum1==2],gli Obiettivi Settimanali,<if([lnum1==3],le Sfide Minimog e gli Obiettivi Settimanali,)>)>)> della sesta settimana della Prima Caccia all'Astronomia. Non dirlo al mio capo, kupò!" },
+    { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_SYSTEM_000_002", "hash": "61715BF76B5F9994", "target": "Il termine indicato nel Mogpendium per completare alcuni incarichi era errato e differiva dalla data di fine evento." },
+    { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_SYSTEM_000_003", "hash": "7A8D5D3B8876977C", "target": "Per compensare chi non ha potuto affrontare questi incarichi entro il termine previsto, il moguri itinerante offre una zampa per completare questi obiettivi." }
   ]
 }

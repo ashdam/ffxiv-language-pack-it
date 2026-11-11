@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_SEQ_00", "hash": "C9101D7EA6A33DBE", "target": "Mawt sussurra fra sé con un tono sinistro." },
-    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_TODO_00", "hash": "5897A5C05C660FE6", "target": "Collocare le verdure fresche nel punto indicato" },
-    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_TODO_01", "hash": "93ED8CAD268AC4F8", "target": "Attendere l'arrivo di un Abalathian catoblepas, poi usare la paralytic powder sulla creatura e abbatterla per ottenerne l'occhio" },
-    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_TODO_02", "hash": "E87A5971A49A9A5E", "target": "Consegnare il catoblepas eye a Mawt" },
+    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_TODO_00", "hash": "5897A5C05C660FE6", "target": "Colloca le verdure fresche nel punto indicato" },
+    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_TODO_01", "hash": "93ED8CAD268AC4F8", "target": "Attendi l'arrivo di un Abalathian catoblepas, poi usa la paralytic powder sulla creatura e sconfiggila per ottenerne l'occhio" },
+    { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_TODO_02", "hash": "E87A5971A49A9A5E", "target": "Consegna il catoblepas eye a Mawt" },
     { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_MAWT_000_000", "hash": "9D4CAD84F423BE44", "target": "Sapete che cos'è un catoblepas? Di questi tempi non se ne vedono molti, ma ne ho avvistato uno che si è allontanato dal branco." },
     { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_MAWT_000_001", "hash": "5DF5E99E58F13A5A", "target": "Si dice che l'occhio di questa creatura possieda poteri malefici. Lo voglio. Mi <italic(1)>serve<italic(0)>! Ora, io sono soltanto una fragile ragazza, ma scommetto che voi non avreste difficoltà a estrarlo dal cranio di quel mostro vagante." },
     { "gameKey": "quest/028/StmBdz824_02852#TEXT_STMBDZ824_02852_MAWT_000_002", "hash": "F75962A67C6EEC2F", "target": "Ecco, ho pianificato tutto: usate queste verdure come esca in quel punto a ovest e aspettate che il catoblepas venga a sgranocchiarle. Poi gli gettate in faccia questa polvere paralizzante!" },

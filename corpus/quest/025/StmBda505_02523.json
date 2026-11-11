@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/025/StmBda505_02523#TEXT_STMBDA505_02523_SEQ_00", "hash": "A1FACFE34DCB0777", "target": "Hien comprende ciò che deve fare per Doma." },
-    { "gameKey": "quest/025/StmBda505_02523#TEXT_STMBDA505_02523_TODO_00", "hash": "6B871AD47C11CEFA", "target": "Parlare con Alphinaud alla Casa dei Fieri" },
-    { "gameKey": "quest/025/StmBda505_02523#TEXT_STMBDA505_02523_TODO_01", "hash": "7950B71257A8E9D1", "target": "Parlare con i tuoi compagni" },
-    { "gameKey": "quest/025/StmBda505_02523#TEXT_STMBDA505_02523_TODO_02", "hash": "757816684547BCD0", "target": "Parlare con Alphinaud" },
+    { "gameKey": "quest/025/StmBda505_02523#TEXT_STMBDA505_02523_TODO_00", "hash": "6B871AD47C11CEFA", "target": "Parla con Alphinaud alla Casa dei Fieri" },
+    { "gameKey": "quest/025/StmBda505_02523#TEXT_STMBDA505_02523_TODO_01", "hash": "7950B71257A8E9D1", "target": "Parla con i tuoi compagni" },
+    { "gameKey": "quest/025/StmBda505_02523#TEXT_STMBDA505_02523_TODO_02", "hash": "757816684547BCD0", "target": "Parla con Alphinaud" },
     { "gameKey": "quest/025/StmBda505_02523#TEXT_STMBDA505_02523_ALPHINAUD_000_000", "hash": "D5B6E46C84502C59", "target": "Le Porte Lunari di Dairyu sorvegliano l'accesso al Castello di Doma da molto prima dell'occupazione imperiale." },
     { "gameKey": "quest/025/StmBda505_02523#TEXT_STMBDA505_02523_ALPHINAUD_000_001", "hash": "ECB498544EA93679", "target": "Non prevediamo grandi difficoltà nell'entrare nel corpo di guardia, perché i nostri amici domani ne conoscono ogni angolo. La vera sfida sarà conservare l'effetto sorpresa, ma sono certo che gli shinobi saranno all'altezza." },
     { "gameKey": "quest/025/StmBda505_02523#TEXT_STMBDA505_02523_ALISAIE_000_005", "hash": "D2EAE51D5FF320A9", "target": "Oh, eccoti. Prima ti ho <if(gnum4,vista,visto)> partire con lord Hien. Dov'è?" },

@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_SEQ_00", "hash": "86190823000F40F2", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Mivli ha una richiesta che comporta un bel po' di pericoli." },
-    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_TODO_00", "hash": "401C48C3BDCD9B31", "target": "Esaminare il luogo indicato e abbattere un overgrown megamaguey per ottenere il suo enlarged bulb" },
-    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_TODO_01", "hash": "EC6D32215980AA6D", "target": "Consegnare l'enlarged bulb a Mivli" },
+    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_TODO_00", "hash": "401C48C3BDCD9B31", "target": "Esamina il luogo indicato e sconfiggi un overgrown megamaguey per ottenere il suo enlarged bulb" },
+    { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_TODO_01", "hash": "EC6D32215980AA6D", "target": "Consegna l'enlarged bulb a Mivli" },
     { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_MIVLI_000_000", "hash": "B5CE68DEC47585CD", "target": "Dimmi, sembri una persona intrepida. Mi farebbe davvero comodo il tuo aiuto." },
     { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_MIVLI_000_001", "hash": "02360C54968DA42C", "target": "Poco lontano da qui, a Chabameki, compaiono megamaguey eccezionalmente grandi, diciamo cresciuti a dismisura." },
     { "gameKey": "quest/050/KinGzb009_05038#TEXT_KINGZB009_05038_MIVLI_000_002", "hash": "29176F5FDE79D047", "target": "Vorrei che ne abbattessi uno e recuperassi un enlarged bulb dal suo corpo. Ti spiegherò il motivo al tuo ritorno!" },

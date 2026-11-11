@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/027/StmBdz316_02712#TEXT_STMBDZ316_02712_SEQ_00", "hash": "F554FC4412459E6E", "target": "Takotsubo è felice di rivederti." },
-    { "gameKey": "quest/027/StmBdz316_02712#TEXT_STMBDZ316_02712_TODO_00", "hash": "D4F28EB9AA7FE3C4", "target": "Cavalcare la razza striata e usare la sua abilità Double Bubble per scacciare i water serpent" },
-    { "gameKey": "quest/027/StmBdz316_02712#TEXT_STMBDZ316_02712_TODO_01", "hash": "5CD6FC2BF5B61020", "target": "Cavalcare la razza striata e usare la sua abilità Double Bubble nel punto indicato" },
-    { "gameKey": "quest/027/StmBdz316_02712#TEXT_STMBDZ316_02712_TODO_02", "hash": "B48B80088D94BC5E", "target": "Fare rapporto a Takotsubo" },
+    { "gameKey": "quest/027/StmBdz316_02712#TEXT_STMBDZ316_02712_TODO_00", "hash": "D4F28EB9AA7FE3C4", "target": "Cavalca la razza striata e usa la sua abilità Double Bubble per scacciare i water serpent" },
+    { "gameKey": "quest/027/StmBdz316_02712#TEXT_STMBDZ316_02712_TODO_01", "hash": "5CD6FC2BF5B61020", "target": "Cavalca la razza striata e usa la sua abilità Double Bubble nel punto indicato" },
+    { "gameKey": "quest/027/StmBdz316_02712#TEXT_STMBDZ316_02712_TODO_02", "hash": "B48B80088D94BC5E", "target": "Fai rapporto a Takotsubo" },
     { "gameKey": "quest/027/StmBdz316_02712#TEXT_STMBDZ316_02712_TAKOTSUBO_000_000", "hash": "59639145414B4F0B", "target": "Ahahah! <if(gnum4,Bentornata,Bentornato)>, <if(gnum4,amica,amico)>. Non potevi arrivare in un momento più opportuno." },
     { "gameKey": "quest/027/StmBdz316_02712#TEXT_STMBDZ316_02712_TAKOTSUBO_000_001", "hash": "AFD51A208B452EB5", "target": "Di recente dei serpenti acquatici si sono stabiliti vicino a uno degli ingressi del villaggio per deporre le uova. Ci serve il tuo aiuto per scacciarli." },
     { "gameKey": "quest/027/StmBdz316_02712#TEXT_STMBDZ316_02712_TAKOTSUBO_000_002", "hash": "CF185E3AD6BCA276", "target": "Il modo più efficace è spruzzarli con getti d'acqua pieni di bolle prodotti da una razza striata. Queste bolle contengono un muco particolare, che emette un odore forte usato per segnare il territorio. I serpenti acquatici odiano quell'odore più di ogni altra cosa." },

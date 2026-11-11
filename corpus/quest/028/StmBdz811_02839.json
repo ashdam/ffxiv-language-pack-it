@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_SEQ_00", "hash": "30E5E4B241D4E61D", "target": "Emory si sta preparando per una nuova impresa commerciale." },
-    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_TODO_00", "hash": "8BA028D06F0F7FBE", "target": "Esaminare il luogo indicato e abbattere tutti i migrating crag claw che compaiono" },
-    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_TODO_01", "hash": "224B98D9D773403E", "target": "Fare rapporto a Emory" },
+    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_TODO_00", "hash": "8BA028D06F0F7FBE", "target": "Esamina il luogo indicato e sconfiggi tutti i migrating crag claw che compaiono" },
+    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_TODO_01", "hash": "224B98D9D773403E", "target": "Fai rapporto a Emory" },
     { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_EMORY_000_000", "hash": "77FBFAD758E11F31", "target": "Ehi, sei <if(gnum4,quell'avventuriera,quell'avventuriero)> di cui parlano tutti. La persona che ha aiutato la Resistenza. Mi farebbero comodo delle braccia forti come le tue, se ti va, naturalmente." },
     { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_EMORY_000_001", "hash": "F70CFE053EB3AA21", "target": "Da quando ricordo, porto avanti l'attività di mio padre qui ad Ala Ghiri. Ma non vendevo a quei bastardi imperiali. Non vado troppo fiero delle cose che ho dovuto fare, ma ce la siamo cavata." },
     { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_EMORY_000_002", "hash": "22A7A0C4F166FD8E", "target": "Ora che se ne sono andati, possiamo tornare a fare un lavoro come si deve. E non solo: posso finalmente darmi all'agricoltura, come ho sempre sognato." },

@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/050/KinGyr103_05005#TEXT_KINGYR103_05005_SEQ_00", "hash": "1C245D2980BA6494", "target": "La ricercatrice eccentrica ha una proposta altrettanto eccentrica." },
-    { "gameKey": "quest/050/KinGyr103_05005#TEXT_KINGYR103_05005_TODO_00", "hash": "D4F83619BB6252B6", "target": "Parlare con l'eccentric researcher" },
+    { "gameKey": "quest/050/KinGyr103_05005#TEXT_KINGYR103_05005_TODO_00", "hash": "D4F83619BB6252B6", "target": "Parla con l'eccentric researcher" },
     { "gameKey": "quest/050/KinGyr103_05005#TEXT_KINGYR103_05005_ENGINEERA05005_000_000", "hash": "28CEFCDC67AEF26C", "target": "Perdonami, ma non sarai <split(<string(gstr1)>, ,1)>, vero? <if(gnum4,La stessa,Lo stesso)> <split(<string(gstr1)>, ,1)> che ha salvato Soluzione Nove?" },
     { "gameKey": "quest/050/KinGyr103_05005#TEXT_KINGYR103_05005_ENGINEERA05005_000_001", "hash": "52C05778967299CB", "target": "Ahahaha, lo sapevo! <if(gnum4,Mia eroica amica,Mio eroico amico)>, sei <if(gnum4,fortunata,fortunato)>: ti concedo il permesso di mettere alla prova la tua forza contro i miei manichini indomabili. Di solito sono riservati alla ricerca militare, ma per qualcuno con <italic(1)>le tue<italic(0)> capacità farò un'eccezione!" },
     { "gameKey": "quest/050/KinGyr103_05005#TEXT_KINGYR103_05005_ENGINEERA05005_000_002", "hash": "002339A5911FC8A7", "target": "Mmh? Non dici nulla? Ah, certo. La mia travolgente generosità ti ha tolto le parole." },

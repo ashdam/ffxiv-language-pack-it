@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/026/StmBdz001_02635#TEXT_STMBDZ001_02635_SEQ_00", "hash": "FA8C6BA9332C2272", "target": "Beves è certo di averti già <if(gnum4,vista,visto)> da qualche parte." },
-    { "gameKey": "quest/026/StmBdz001_02635#TEXT_STMBDZ001_02635_TODO_00", "hash": "00FD163C531E6CC7", "target": "Interrogare gli abitanti della Presa di Rhalgr" },
-    { "gameKey": "quest/026/StmBdz001_02635#TEXT_STMBDZ001_02635_TODO_01", "hash": "92F88103F3A15681", "target": "Restituire il registro consunto a Beves" },
+    { "gameKey": "quest/026/StmBdz001_02635#TEXT_STMBDZ001_02635_TODO_00", "hash": "00FD163C531E6CC7", "target": "Interroga gli abitanti della Presa di Rhalgr" },
+    { "gameKey": "quest/026/StmBdz001_02635#TEXT_STMBDZ001_02635_TODO_01", "hash": "92F88103F3A15681", "target": "Restituisci il registro consunto a Beves" },
     { "gameKey": "quest/026/StmBdz001_02635#TEXT_STMBDZ001_02635_BEVES_000_000", "hash": "29047D2B9BE5F700", "target": "C-C-Come, prego? <if(gnum4,La donna,L'uomo)> che ha sconfitto Gaius van Baelsar desidera offrirmi il proprio aiuto!?" },
     { "gameKey": "quest/026/StmBdz001_02635#TEXT_STMBDZ001_02635_BEVES_000_001", "hash": "E32C75F4B6019D74", "target": "Devo dire che è assai insolito... benché abbia sentito che vi piace aiutare la gente comune. In tal caso..." },
     { "gameKey": "quest/026/StmBdz001_02635#TEXT_STMBDZ001_02635_BEVES_000_002", "hash": "9A70AD700DF3DF34", "target": "Prima dell'occupazione ero un umile storico. I miei doveri mi lasciano ben poco tempo per altro, ma ritengo importante lasciare memoria di questi eventi epocali a beneficio delle generazioni future." },

@@ -36,7 +36,7 @@ Le indicazioni «controllo automatico» descrivono la vecchia diagnostica e non 
 
 **Riconciliazione terminologica:** `Fringes Gate` → **Porta dei Margini**; mantieni «Porta» nel nome localizzato del pack e usa il canonico «Margini». Memoria ufficiale: `corpus/flat/PlaceName.json#PlaceName#1958.0:target`.
 
-Per discrepanze reali dello stesso referente, significato e funzione, presenta varianti e riferimenti all'utente. Dopo la scelta uniforma tutte le occorrenze pertinenti nel corpus corrente, oltre alla nuova traduzione, con accordi e controlli specifici. Differenze motivate dal contesto restano valide. Procedura: [Traduzione](../docs/TRANSLATION.md#2-corpus-decisioni-e-discrepanze).
+Per discrepanze reali dello stesso referente, significato e funzione, presenta varianti e riferimenti all'utente. Dopo la scelta uniforma tutte le occorrenze pertinenti nel corpus corrente, oltre alla nuova traduzione, con accordi e controlli specifici. Differenze motivate dal contesto restano valide. Procedura: [Traduzione](../../dev/docs/TRANSLATION.md#2-corpus-decisioni-e-discrepanze).
 
 Nella colonna **Uso**, `Controllo automatico: residuo.` segnala il termine inglese se resta nella traduzione di una frase; `Controllo automatico: residuo plurale.` controlla anche il plurale inglese in `-s`; `Controllo automatico: suffisso equipaggiamento.` applica il controllo ai termini di materiali e provenienza in `items/item.json`; `Controllo automatico: suffisso ruolo equipaggiamento.` verifica i suffissi di ruolo solo alla fine dei nomi di equipaggiamento; `Controllo automatico: intercalare.` controlla l'intercalare parlato preservando composti come «noce kupo». Questi controlli generano candidati da verificare: il validatore non modifica i file. La forma eorzeana delle misure è verificata in base al singolare o al plurale presente nell'originale.
 
@@ -74,7 +74,7 @@ Nella colonna **Uso**, `Controllo automatico: residuo.` segnala il termine ingle
 - Nel JSON usa **If(gnum4)** compilato: condizione `E9 05`, ramo **femminile**, ramo **maschile**. Esempio «avventuriera» / «avventuriero»: `<hex:02081FE905FF0D617676656E74757269657261FF0D617676656E7475726965726F03>`. Fonte tecnica contestuale: `dialogue/contenttalk.json#112:translation`. Le lunghezze contano i byte UTF-8.
 - Accorda articoli, preposizioni, pronomi, aggettivi e participi in entrambi i rami. Preferisci il segmento completo («un'avventuriera esperta» / «un avventuriero esperto»). I possessivi concordano con ciò che è posseduto, non con il possessore.
 - Non applicare il genere locale a PNG o terzi, né a etichette generiche come «Scheda dell'Avventuriero» o allo status «Nuovo Avventuriero» quando se ne parla in generale: il nome di una categoria non indica il genere di chi la consulta. Se invece un testo identifica direttamente il personaggio giocante con il titolo di «Nuovo Avventuriero», usa If(gnum4) con «Nuova Avventuriera / Nuovo Avventuriero», in accordo con la decisione dell'utente di adattare i titoli riferiti al giocatore. Preserva i referenti delle condizioni native: IfPcGender (`0B`) usa l'ObjectId indicato e ordina i rami **maschile, femminile**. Nomi di oggetti, titoli musicali, citazioni rivolte a un PNG identificato e collettivi richiedono il proprio contesto.
-- Regole e verifica dei due risultati: [Traduzione](../docs/TRANSLATION.md#4-json-e-sestring). La pseudomacro `<If(PlayerParameter(Gender)...)>` non è compilata dall'encoder.
+- Regole e verifica dei due risultati: [Traduzione](../../dev/docs/TRANSLATION.md#4-json-e-sestring). La pseudomacro `<If(PlayerParameter(Gender)...)>` non è compilata dall'encoder.
 
 ## Controllo dei Primali
 
@@ -111,7 +111,7 @@ La decisione non riguarda la lavorazione dei metalli, il carattere, l'allenament
 | Main Scenario Quests | Missioni dello Scenario Principale | `corpus/flat/HowTo.json#HowTo#80:target` | Categoria delle missioni principali. |
 | Return | Ritorna | `corpus/flat/Addon.json#Addon#1460:target` | Comando di ritorno. |
 | Return | Indietro | `corpus/flat/Lobby.json#Lobby#507.3:target` | Navigazione alla schermata precedente. |
-| Return | Ritorno | Decisione dell'utente; `corpus/flat/MainCommand.json#MainCommand#36.5:target` | Canone per MainCommand#36.5/HowTo#13 come `glossary/overrides.json#2776`; la legacy «Rientro» è superata in questi campi. Distinguere Ritorna (azione) e Indietro (navigazione). |
+| Return | Ritorno | Decisione dell'utente; `corpus/flat/MainCommand.json#MainCommand#36.5:target` | Canone per MainCommand#36.5/HowTo#13 come nella voce Return di `overrides.json`; la legacy «Rientro» è superata in questi campi. Distinguere Ritorna (azione) e Indietro (navigazione). |
 | Return | Ritorno | `corpus/flat/Status.json#Status#2452.0:target` | Nome dello status; distinto dai comandi di ritorno. |
 | Exit | Esci | `corpus/flat/Addon.json#Addon#2849:target` | Azione. |
 | Phrontistery / Phrontisterion | Phrontisterio | Decisione dell'utente | Nome dell'istituzione di Frondale; mantenere «Phrontisterio» anche nei nomi dei ruoli e nelle varianti inglesi Phrontistery/Phrontisterion. Riferimenti: `corpus/flat/ENpcResident.json#ENpcResident#1017813.0:target`; `corpus/flat/ENpcResident.json#ENpcResident#1033006.0:target`. |
@@ -193,7 +193,7 @@ La decisione non riguarda la lavorazione dei metalli, il carattere, l'allenament
 | Dungeon | Spedizione | Decisione dell'utente | Etichetta dell'attività istanziata. |
 | Dungeon (physical place) | Sotterraneo | Decisione dell'utente | Luogo fisico: usare «sotterraneo» in riferimenti espliciti all'ambiente, come «this dungeon», l'ingresso o l'interno. Le funzioni che concludono un Incarico, per esempio la votazione per terminare e lasciare il dungeon, si riferiscono all'attività e usano «spedizione». Il validatore confronta i riferimenti con la frase tradotta, senza segnalare «spedizione» usato correttamente altrove nello stesso testo. |
 | Deep Dungeon | Cripta Profonda | `corpus/flat/Addon.json#Addon#2304:target` | Tipo distinto di attività. Varianti ammesse in prosa: «cripta profonda», «cripte profonde», rispettando le maiuscole della frase. |
-| Effetti di piano Deep Dungeon | Riduzione PV; Amnesia; Celerità; Penalità Oggetti/Scatto/Respingimento/Autoguarigione/Magicite/Demicloni/Incenso | Decisione dell'utente: `DeepDungeonFloorEffectUI#2/#4/#5/#7-#10/#13-#15` | Resa legacy specifica delle label; «Haste» resta per azione/status e BaseParam, con eccezione Celerità limitata all'effetto #5. «Tenebra» per Gloom resta la decisione Glossary.md#961. |
+| Effetti di piano Deep Dungeon | Riduzione PV; Amnesia; Celerità; Penalità Oggetti/Scatto/Respingimento/Autoguarigione/Magicite/Demicloni/Incenso | Decisione dell'utente: `DeepDungeonFloorEffectUI#2/#4/#5/#7-#10/#13-#15` | Resa legacy specifica delle label; «Haste» resta per azione/status; BaseParam#47.1 usa «Rapidità» per decisione dell'utente dell'11 novembre 2026. «Celerità» resta limitata all'effetto #5. «Tenebra» per Gloom resta la decisione Glossary.md#961. |
 | Guildhests | Operazioni di Gilda | `corpus/flat/Addon.json#Addon#3165:target` | Singolare: Operazione di Gilda. |
 | FATE | FATE | `corpus/flat/Addon.json#Addon#5768:target` | Sigla invariabile. |
 | FATEs | FATE | `corpus/flat/Addon.json#Addon#8336:target` | Plurale senza punti. |
@@ -408,7 +408,7 @@ La decisione non riguarda la lavorazione dei metalli, il carattere, l'allenament
 | Maelstrom Command | Comando della Tempesta | `corpus/flat/ContentFinderConditionTransient.json#ContentFinderConditionTransient#40:target` | Nome del luogo o della struttura. |
 | Dosis | Dosis | Decisione dell'utente | Nome dell'incantesimo del saggio (greco antico intatto); mantenere invariato anche nelle varianti Dosis II, Dosis III e Dosis Eukrasica (II/III), comprese le azioni dei PNG e i riferimenti nei payload SeString. Non alterare il sostantivo italiano comune «dosi». Riferimenti: `corpus/flat/Action.json#Action#24283:target`; `corpus/flat/ActionTransient.json#ActionTransient#24290:target`. |
 | Cure | Energia | Decisione dell'utente | Magia bianca di recupero, canone ufficiale Square Enix Italia; anche nelle forme Energia II ed Energia III. Riferimenti: `corpus/flat/Action.json#Action#120:target`. |
-| Haste | Haste | Decisione dell'utente | Nome proprio dell'incantesimo e dello status di velocità, canone ufficiale Square Enix Italia. Riferimenti: `corpus/flat/Action.json#Action#309:target`; `corpus/flat/Status.json#Status#8.0:target`. |
+| Haste | Haste | Decisione dell'utente | Nome proprio dell'incantesimo e dello status di velocità, canone ufficiale Square Enix Italia. Distinto dall'attributo BaseParam#47.1 («Rapidità»), confermato dall'utente l'11 novembre 2026. Riferimenti: `corpus/flat/Action.json#Action#309:target`; `corpus/flat/Status.json#Status#8.0:target`. |
 | Berserk | Berserk | Decisione dell'utente | Nome dell'abilità e dello status, canone ufficiale Square Enix Italia; non usare la parafrasi «Furia Berserker». Riferimenti: `corpus/flat/Action.json#Action#38:target`; `corpus/flat/Status.json#Status#86.0:target`. |
 | Flare | Flare | Decisione dell'utente | Nome della magia nera, canone ufficiale moderno Square Enix Italia; anche nei composti Flare Doloroso, Flare Mortale, Flare Solare, Flare Astrale. Eccezione RDM confermata: «Verfusione». Riferimenti: `corpus/flat/Action.json#Action#162:target`. |
 | Requiescat | Requiescat | Decisione dell'utente | Nome liturgico dell'azione del Paladino, da mantenere in latino (coerente con Confiteor e Imperator). Riferimenti: `corpus/flat/Action.json#Action#7383:target`. |
@@ -420,13 +420,13 @@ La decisione non riguarda la lavorazione dei metalli, il carattere, l'allenament
 | Megaflare | Megaflare | Decisione dell'utente | Attacco supremo di Bahamut e dei draghi, canone storico Square Enix Italia; anche per Gigaflare, Teraflare ed Exaflare. Riferimenti: `corpus/flat/Action.json#Action#2023:target`. |
 | Zantetsuken | Zantetsuken | Decisione dell'utente | Fendente millenario di Odino, da mantenere in romaji (giapponese intatto, coerente con Shin-Zantetsuken); sostituisce «Lama Che Fende il Ferro». Riferimenti: `corpus/flat/Action.json#Action#780:target`. |
 | Mighty Guard | Difesa Totale | Decisione dell'utente | Barriera/Magia Blu canonica dei mostri di Final Fantasy; sostituisce «Guardia Possente». Riferimenti: `corpus/flat/Action.json#Action#11417:target`; `corpus/flat/Status.json#Status#1719.0:target`. |
-| Blaster | Scarica Paralizzante | Decisione dell'utente | Attacco elettrico paralizzante dei Coeurl; sostituisce «Spara-Proiettili». Riferimenti: `corpus/flat/Action.json#Action#353:target`. |
+| Blaster | Scarica Paralizzante | Decisione dell'utente | Attacco elettrico paralizzante degli iaguari; sostituisce «Spara-Proiettili». Riferimenti: `corpus/flat/Action.json#Action#353:target`. |
 | Big Bang | Esplosione Primordiale | Decisione dell'utente | Attacco cosmico di Proto-Ultima e Neo Exdeath; sostituisce «Grande Scoppio». Riferimenti: `corpus/flat/Action.json#Action#12633:target`; `corpus/flat/Status.json#Status#3760.0:target`. |
 | Tank Purge | Spurgo Energetico | Decisione dell'utente | Attacco ad area devastante dell'Ultima Weapon; sostituisce «Spurgo del Serbatoio». Riferimenti: `corpus/flat/Action.json#Action#1190:target`. |
-| Hyperdrive | Ipercarica | Decisione dell'utente | Attacco tankbuster devastante di Kefka e dei boss magitek; sostituisce «Iperguida». Riferimenti: `corpus/flat/Action.json#Action#9931:target`. |
-| Worse Breath | Alito Pestilenziale | Decisione dell'utente | Variante potenziata di Alito Cattivo del Grande Malboro; sostituisce «Peggiore Respiro». Riferimenti: `corpus/flat/Action.json#Action#30182:target`. |
-| Summon Alexander | Evoca Alexander | Decisione dell'utente | Evocazione primordiale di Alexander; sostituisce «Convoca Alessandro». Riferimenti: `corpus/flat/Action.json#Action#5802:target`. |
-| Summon Icicle | Evoca Stalattite | Decisione dell'utente | Evocazione delle stalattiti di ghiaccio di Shiva; sostituisce «Evoca Ghiacciolo». Riferimenti: `corpus/flat/Action.json#Action#3177:target`. |
+| Hyperdrive | Ipercarica | Decisione dell'utente | Attacco tankbuster devastante di Kefka e dei boss magitek; sostituisce «Iperguida». Riferimenti: `corpus/flat/Action.json#Action#10472:target`. |
+| Worse Breath | Alito Pestilenziale | Decisione dell'utente | Variante potenziata di Alito Cattivo del Grande Malboro; sostituisce «Peggiore Respiro». Riferimenti: `corpus/flat/Action.json#Action#16951:target`. |
+| Summon Alexander | Evoca Alexander | Decisione dell'utente | Evocazione primordiale di Alexander; sostituisce «Convoca Alessandro». Riferimenti: `corpus/flat/Action.json#Action#6666:target`. |
+| Summon Icicle | Evoca Stalattite | Decisione dell'utente | Evocazione delle stalattiti di ghiaccio di Shiva; sostituisce «Evoca Ghiacciolo». Riferimenti: `corpus/flat/Action.json#Action#8095:target`. |
 | Aqua Breath | Idrorespiro | Decisione dell'utente | Magia Blu/attacco acquatico iconico; sostituisce «Respiro Acquatico». Riferimenti: `corpus/flat/Action.json#Action#21751:target`. |
 | Diamondback | Guscio di Diamante | Decisione dell'utente | Magia Blu difensiva corazzata; sostituisce «Dorso di Diamante». Riferimenti: `corpus/flat/Action.json#Action#32431:target`; `corpus/flat/Status.json#Status#1722.0:target`. |
 | Hydro Pull | Vortice Idrico | Decisione dell'utente | Magia Blu di attrazione dei nemici; sostituisce il calco «Tiro Idrico». Riferimenti: `corpus/flat/Action.json#Action#23282:target`. |
@@ -440,14 +440,25 @@ La decisione non riguarda la lavorazione dei metalli, il carattere, l'allenament
 | Rough Divide | Squarcio Brusco | Decisione dell'utente | Assalto rapido con fendente del Gunbreaker; sostituisce il calco «Divisione Brusca». Riferimenti: `corpus/flat/Action.json#Action#16152:target`. |
 | Druochole | Druochole | Decisione dell'utente | Azione medica del Saggio, greco intatto coerente con le altre azioni anatomiche (Kerachole, Ixochole, Taurochole); sostituisce l'ibrido «Druocura». Riferimenti: `corpus/flat/Action.json#Action#24300:target`. |
 | Aerial Blast | Raffica Aerea | Decisione dell'utente | Attacco supremo di Garuda e dei suoi Egi, canone italiano; sostituisce «Esplosione Aerea». Riferimenti: `corpus/flat/Action.json#Action#11281:target`; `corpus/flat/PetAction.json#PetAction#21.0:target`. |
-| Heartless Angel | Angelo Spietato | Decisione dell'utente | Attacco supremo di Kefka e Sephiroth che riduce a 1 PV, canone storico Square Enix Italia; sostituisce «Angelo Senza Cuore». Riferimenti: `corpus/flat/Action.json#Action#9933:target`. |
-| Big Crunch | Collasso Cosmico | Decisione dell'utente | Attacco supremo di Zeromus (collasso cosmico della materia); sostituisce il calco economico «Grande Crisi». Riferimenti: `corpus/flat/Action.json#Action#35641:target`. |
+| Heartless Angel | Angelo Spietato | Decisione dell'utente | Attacco supremo di Kefka e Sephiroth che riduce a 1 PV, canone storico Square Enix Italia; sostituisce «Angelo Senza Cuore». Riferimenti: `corpus/flat/Action.json#Action#10490:target`. |
+| Big Crunch | Collasso Cosmico | Decisione dell'utente | Attacco supremo di Zeromus (collasso cosmico della materia); sostituisce il calco economico «Grande Crisi». Riferimenti: `corpus/flat/Action.json#Action#35588:target`. |
 | Curtain Call | Cala il Sipario | Decisione dell'utente | Attacco teatrale di Amon (chiusura del sipario); sostituisce il calco telefonico «Chiamata Finale». Riferimenti: `corpus/flat/InstanceContentTextData.json#InstanceContentTextData#32516:target`; `combat/action.json#2441/#11063/#25702:original` (omonimi da disambiguare per referente). |
 | Raise (incantesimo) | Reiz | Decisione dell'utente | Nome dell'incantesimo e delle varianti composte, come «Reiz L» e «Reiz Variante»; sostituisce «Rianimazione» e «Resurrezione» quando designano questa azione. Non riguarda la rianimazione come processo o stato generico, né azioni diverse come Reanimate, Revive e Lost Arise. Riferimenti: `corpus/flat/Action.json#Action#125:target`; `@review/quests/arr/000/ClsCnj002_00091.json#84:original`. |
 | Culling Time | Frenesia di Sangue | Decisione dell'utente | Fase di danno aumentato nel PvP The Feast (texture `ui/icon/120000/en/120127.tex`). |
+| Trick (azione famiglio Domatore) | Trucco | Decisione dell'utente | Azione istintiva del famiglio del Domatore; sostituisce «Scherzo». Non estendere ad altre azioni con «Trick» (es. Trick Attack → Colpo Basso, Trickshot → Trucco, Treater's Trick → Scherzo del Benefattore). Riferimenti: `corpus/flat/Action.json#Action#47093:target`; `corpus/flat/Addon.json#Addon#17715:target`. |
+| Tempered Release | Rilascio Temprato | Decisione dell'utente | Azione del Domatore (e relativo tratto «Maestria in Rilascio Temprato»); sostituisce «Liberazione Temperata». Riferimenti: `corpus/flat/Action.json#Action#44890:target`; `corpus/flat/Addon.json#Addon#17714:target`; `corpus/flat/Trait.json#Trait#749:target`. |
+| Borrow | Potere Condiviso | Decisione dell'utente | Azione del Domatore (e relativo tratto «Potere Condiviso Potenziato»); sostituisce «Prestito». Non estendere al verbo comune «borrow» né ad altre voci non del Domatore (es. Borrowed Time, Crest of Time Borrowed). Riferimenti: `corpus/flat/Action.json#Action#44895:target`; `corpus/flat/Addon.json#Addon#17749:target`; `corpus/flat/Trait.json#Trait#750:target`. |
 
 
 
+
+### Etichette degli attributi (BaseParam)
+
+Decisione dell'utente dell'11 novembre 2026: le 25 etichette di BaseParam valutate singolarmente sono registrate in `overrides.json`, ciascuna con la propria gameKey e con fonte nel corpus attuale. La stessa resa si applica alle etichette UI dello stesso parametro e ai bonus pertinenti; le formulazioni descrittive in prosa non devono riprodurre per forza le abbreviazioni della UI.
+
+In particolare: Attack Magic Potency -> «Potenza Magica»; Healing Magic Potency -> «Potenza Curativa»; Skill Speed -> «Velocità Tecniche»; Spell Speed -> «Velocità Incantesimi». In prosa restano valide «velocità delle tecniche» e «velocità degli incantesimi». Danno Fisico/Danno Magico sono le etichette del parametro: non impongono il singolare a ogni riferimento ai danni inflitti.
+
+Haste -> «Rapidità» solo per BaseParam#47.1; l'incantesimo e lo status restano «Haste», mentre l'effetto di piano DeepDungeonFloorEffectUI#5.1 resta «Celerità». Per il tratto da corsa ChocoboRaceAbility#31.0 e i suoi manuali resta la scelta specifica «Resistenza a Pesantezza», distinta dall'etichetta BaseParam#66.1 «Resistenza alla Pesantezza».
 
 ### Misure e pesi
 
@@ -686,6 +697,8 @@ Catalogo integrale: `data/translations/world/placename.json`. Cercare il nome in
 
 | Inglese | Italiano | Fonte | Uso |
 | --- | --- | --- | --- |
+| Steps of the Speaker | I Gradini dell'Oratore | Decisione dell'utente dell'11 novembre 2026 | Toponimo, titolo del Diario Esplorazione e dipinti; sostituisce Gradini della Portavoce. Adattare articoli e preposizioni. Riferimenti: `corpus/flat/Adventure.json#Adventure#2163027.13:target`; `corpus/flat/PlaceName.json#PlaceName#4723.0:target`, `#PlaceName#4723.2:target`; `Item#44409`; `quest/049/KinGmf110_04955`. |
+| Camp Dragonhead | Campo Testadrago | Decisione dell'utente dell'11 novembre 2026 | Nome dell'accampamento in tutto il corpus, incluse etichette, prosa e dipinti; sostituisce Campo Capodrago. Dragonhead senza Camp resta distinto. Riferimenti: `corpus/flat/PlaceName.json#PlaceName#388.0:target`, `#PlaceName#388.2:target`; `corpus/flat/Adventure.json#Adventure#2162762.13:target`; `corpus/flat/Item.json#Item#17110.0:target`. |
 | The Drowning Wench | La Fanciulla Annegata | corpus/flat/PlaceName.json#PlaceName#715.0:target | Nome della locanda; applicare anche a PlaceName#716 con «Gilda degli Avventurieri» e ai riferimenti nel testo, adattando articoli e preposizioni («alla Fanciulla», «della Fanciulla»). |
 | Josselin's Spire | Guglia di Josselin | Decisione dell'utente | Sostituisce «Torre di Josselin» in tutti i riferimenti allo stesso luogo. Memoria ufficiale: `data/translations/world/placename.json#158:translation`. |
 | Hedgetree | Albero di Confine | Decisione dell'utente | Mantenere la forma main anche nei riferimenti al luogo; accordare articoli e plurali al contesto. Sostituisce la forma legacy «Albero Siepe». |
@@ -741,7 +754,7 @@ Catalogo integrale: `data/translations/world/placename.json`. Cercare il nome in
 | Wanderlust | Sete di Viaggio | `data/translations/world/placename.json#2960:translation` | Nome proprio; variante ammessa per il compagno: «Spirito Vagabondo». Fonte corretta; PlaceName#2150 è «Singularity Reactor». |
 | Tessellation | Tassellazione | `corpus/flat/Addon.json#Addon#8678:target` | Opzione grafica; variante ammessa: «La Tassellatura». |
 | Tessellation | La Tassellatura | `data/translations/world/placename.json#3240:translation` | Nome del ponte che collega l'Exarch Gate al Crystarium; variante approvata per l'opzione grafica. |
-| Gatekeeper | Guardiano dei Cancelli | `corpus/flat/Title.json#Title#207.1:target` | Titolo; variante ammessa in prosa: «Custode delle Porte». |
+| Gatekeeper | Guardiano dei Cancelli | `corpus/flat/Title.json#Title#207.1:target` | Decisione dell'utente dell'11 novembre 2026: «Guardiano dei Cancelli» per il titolo Title#207.1 (Gatekeeper); sostituisce «Custode delle Porte» in questa etichetta. La variante «Custode delle Porte» resta ammessa in prosa. Non estendere a fazioni, mestieri o altri omonimi. |
 | The Rothlyt Sound | Stretto di Rothlyt | `corpus/flat/TripleTriadCard.json#TripleTriadCard#10.8:target` | Nome dello stretto; varianti ammesse in prosa: «Stretto di Rothlyt». |
 | The Aetherfont | La Fonte Eterica | `corpus/flat/TripleTriadCard.json#TripleTriadCard#381.8:target` | Nome del luogo. |
 | Pilgrim's Traverse | Traversata del Pellegrino | `data/translations/world/placename.json#5277:translation` | Nome proprio; variante ammessa in prosa: «Cammino del Pellegrino». Fonte corretta; PlaceName#2150 è «Singularity Reactor». |
@@ -782,7 +795,7 @@ Catalogo integrale: `data/translations/world/placename.json`. Cercare il nome in
 | Fang Cage | Gabbia della Zanna | `world/placename.json#1700:name` | Forma canonica applicata a tutte le occorrenze. |
 | Claw Cage | Gabbia dell'Artiglio | `world/placename.json#1699:name` | Forma canonica applicata a tutte le occorrenze. |
 | Inner Sanctum | Sancta Sanctorum | `world/placename.json#1560:name` | Forma canonica applicata a entrambe le occorrenze. |
-| The Presence Chamber | Camera d'Udienza | `corpus/flat/PlaceName.json#PlaceName#872.0:target` | Forma canonica applicata a entrambe le occorrenze. |
+| The Presence Chamber | Sala delle Udienze | `corpus/flat/PlaceName.json#PlaceName#872.0:target` | Decisione dell'utente dell'11 novembre 2026: Sala delle Udienze per il toponimo e i riferimenti pertinenti; sostituisce Camera d'Udienza. Riferimenti: PlaceName#872.0/.2 e PlaceName#3389.0/.2. |
 | Third Floor | Terzo Piano | `corpus/flat/PlaceName.json#PlaceName#1529.0:target` | Forma canonica applicata a tutte le occorrenze. |
 | Sohm Al Summit | Vetta Sohm Al | `corpus/flat/PlaceName.json#PlaceName#1010.0:target` | Forma canonica applicata a entrambe le occorrenze. |
 | Dimwold | Selvacupa | `world/placename.json#1015:name` | Forma canonica applicata a entrambe le occorrenze. |
@@ -794,7 +807,7 @@ Catalogo integrale: `data/translations/world/placename.json`. Cercare il nome in
 
 | Old Sharlayan | Vecchia Sharlayan | `data/translations/world/placename.json#3706:translation` | Nome del luogo. In prosa usare la preposizione semplice: «di Vecchia Sharlayan» o «della Vecchia Sharlayan» (vietato l'uso di «del Vecchia Sharlayan»). |
 | Netroot Radius | Raggio di Radicirete | `corpus/flat/WKSDevGrade.json#WKSDevGrade#205.3:target` | Nome del luogo o della struttura. |
-| Piercingway Tunnel | Galleria di Trivéllolo | `data/translations/world/placename.json#5238:translation` | Nome del luogo o della struttura, senza articolo nel campo nome. Adattamento del nome Loporrit secondo la decisione dell'utente (Piercingway > Trivéllolo). |
+| Piercingway Tunnel | Galleria di Trivéllalo | `data/translations/world/placename.json#5238:translation` | Nome del luogo o della struttura, senza articolo nel campo nome. Adattamento del nome Loporrit secondo la decisione dell'utente (Piercingway > Trivéllalo). |
 | The Cosmoor | L'Ormeggio Cosmico | `corpus/flat/WKSMissionText.json#WKSMissionText#89:target` | Nome del luogo o della struttura. |
 | Zorgor the Boundless | Zorgor lo Sconfinato | `corpus/flat/GimmickBill.json#GimmickBill#90:target` | Nome del luogo o della struttura. |
 | Rhotano Sea | Mare di Rhotano | `world/adventure.json#2162693:col_2` | Nome del luogo o della struttura. |
@@ -826,7 +839,7 @@ Catalogo integrale: `data/translations/world/placename.json`. Cercare il nome in
 | The Ut'ohmu Horizon | Orizzonte Ut'ohmu | `corpus/flat/SpearfishingItem.json#SpearfishingItem#20267:target` | Nome del luogo o della struttura. Varianti ammesse in prosa: «Orizzonte di Ut'ohmu». |
 | Rooting Towerling | La Torretta Radicante | `corpus/flat/WKSDevGrade.json#WKSDevGrade#232.2:target` | Nome del luogo o della struttura. Varianti ammesse in prosa: «Torretta Radicante». |
 | Capsule Chasm | Voragine delle Capsule | `corpus/flat/WKSText.json#WKSText#15:target` | Nome del luogo o della struttura. Varianti ammesse in prosa: «Abisso Capsule». |
-| Fusingway Vent | Condotto di Fóndolo | `corpus/flat/WKSText.json#WKSText#16:target` | Nome del luogo o della struttura. Variante ammessa in prosa: «Fenditura di Fóndolo». Il nome Fusingway è adattato come Fóndolo secondo la decisione dell'utente. |
+| Fusingway Vent | Condotto di Fóndilo | `corpus/flat/WKSText.json#WKSText#16:target` | Nome del luogo o della struttura. Variante ammessa in prosa: «Fenditura di Fóndilo». Il nome Fusingway è adattato come Fóndilo secondo la decisione dell'utente. |
 | Grandma Laurel | Nonna Alloro | `corpus/flat/WKSText.json#WKSText#29:target` | Nome del luogo o della struttura. Varianti ammesse in prosa: «nonna Laurel». |
 | The Capitol | Il Campidoglio | `corpus/flat/ContentTalk.json#ContentTalk#208:target` | Nome del luogo o della struttura. Varianti ammesse in prosa: «Capitale». |
 | Mistwake | Scia delle Nebbie | `data/translations/world/placename.json#5350:translation` | Adattamento richiesto dall'utente. Nome della spedizione e del luogo; femminile: «nella Scia delle Nebbie», «della Scia delle Nebbie». Per equipaggiamento e creature usare «della Scia delle Nebbie». «Wake» interpretato come scia; la wiki attesta il contesto del Continente della Nebbia, non un'etimologia esplicita. Altra attestazione: `corpus/flat/CabinetSubCategory.json#CabinetSubCategory#198:target`. |
@@ -937,7 +950,7 @@ Le voci identificano strutture, aree, visioni, missioni e mammets del Rifugio In
 | --- | --- | --- | --- |
 | Cryptlurker | Predatore delle Cripte | Decisione dell'utente | Set di equipaggiamento di Shadowbringers (patch 5.4, liv. 80). Nei nomi di armi, armature, accessori e forzieri usare «del Predatore delle Cripte» (es. «Spada del Predatore delle Cripte», «Corazza del Predatore delle Cripte della Difesa», «Spada del Predatore delle Cripte Potenziata»). Calco su FR «Rôdeur des cryptes» e DE «Krypta-Schleicher». Riferimenti: `corpus/flat/Item.json#32418.9` e segg. |
 | Crypt [materiali] | [della] Cripta | Decisione dell'utente | Materiali di potenziamento per equipaggiamento Cryptlurker: Crypt Ester -> Estere della Cripta, Crypt Twine -> Spago della Cripta, Crypt Dusting -> Polvere della Cripta. Riferimenti: `corpus/flat/Item.json#32156.9`, `#32157.9`, `#32158.9`. |
-| Red Rooster Stead | Fattoria del Gallo Rosso | Decisione dell'utente | Nome della fattoria in Bassa La Noscea; usare questa forma nei nomi di luogo e nei riferimenti narrativi. Riferimenti: `PlaceName#200.0/.2:target`; `Leve#144.1:target`. |
+| Red Rooster Stead | Fattoria del Gallo Rosso | Decisione dell'utente | Nome della fattoria in Bassa La Noscea; usare questa forma nei nomi di luogo e nei riferimenti narrativi. Riferimenti: `PlaceName#200.0/.2:target`; `Leve#144.1:target`. Decisione dell'utente dell'11 novembre 2026: la stessa forma vale anche per il titolo del Diario Esplorazione `corpus/flat/Adventure.json#Adventure#2162694.13:target`; la vecchia variante «Il Gallo Rosso» e' superata in quel campo. |
 | Geva patterns | modelli di Geva | Decisione dell'utente | Modelli e metodi per la lavorazione e il taglio delle pelli con il minimo spreco; sostituisce «stampe Geva» e le riprese anaforiche «stampe» nello stesso contesto. Non sono stampe decorative. Riferimenti: `corpus/flat/Adventure.json#Adventure#2162696.15:target`; `@review/quests/arr/000/ClsTan008_00064.json#4:original`; `#49:original`; `#72:original`; `#81:original`. |
 | Yellowjackets | Giubbe Gialle | Decisione dell'utente | Nome della milizia di Limsa Lominsa; un membro è una «Giubba Gialla» al singolare e le «Giubbe Gialle» al plurale. Accordare articoli e aggettivi al contesto. Riferimenti: `corpus/flat/BNpcName.json#BNpcName#981.2:target`; `corpus/flat/ENpcResident.json#ENpcResident#1003285.2:target`. |
 | Warrior of Darkness | Guerriero dell'Oscurità | Decisione dell'utente | Titolo riferito al personaggio giocante; accordare con il genere mediante If(gnum4), usando «Guerriera dell'Oscurità» al femminile. Riferimenti: `corpus/flat/BNpcName.json#BNpcName#5240.0:target`; `corpus/flat/ENpcResident.json#ENpcResident#1013810.0:target`. Varianti ammesse: «Guerriera dell'Oscurità», «<hex:020837E905FF194775657272696572612064656C6C274F736375726974C3A0FF1947756572726965726F2064656C6C274F736375726974C3A003>». |
@@ -961,7 +974,7 @@ Le voci identificano strutture, aree, visioni, missioni e mammets del Rifugio In
 | Twelveswood | Bosco dei Dodici | Decisione dell'utente | Nome della foresta; usare «Bosco» nelle occorrenze pertinenti. Riferimenti: `corpus/flat/RacingChocoboName.json#RacingChocoboName#1254:target`; `corpus/flat/DefaultTalk.json#DefaultTalk#589867.20:target`. |
 | Final Days | Ultimi Giorni | Decisione dell'utente | Nome dell'evento; uniformare «Ultimi Giorni» nelle occorrenze pertinenti. Riferimenti: `corpus/flat/AkatsukiNoteString.json#AkatsukiNoteString#8:target`; `corpus/flat/AkatsukiNoteString.json#AkatsukiNoteString#9:target`. |
 | The Unending Journey | Il Viaggio Senza Fine | Decisione dell'utente | Nome della funzione e dei relativi oggetti; allineare il menu alla forma già presente in `corpus/flat/Item.json#Item#13069.0:target`. Riferimenti: `corpus/flat/Item.json#Item#13069.9:target`; `corpus/flat/Addon.json#Addon#4800:target`. |
-| Alexandrite | Alexandrite | Decisione dell'utente | Nome del catalizzatore; mantenere la grafia scelta anche nei nomi degli oggetti (es. «frammento di Alexandrite»). Riferimenti: `corpus/flat/PointMenuString.json#PointMenuString#63:target`; `corpus/flat/Item.json#Item#7883.9:target`. |
+| Alexandrite | Alexandrite | Decisione dell'utente | Decisione dell'utente riconfermata l'11 novembre 2026: nome del catalizzatore delle armi dello Zodiaco, delle varianti perfette e dei riusi dello stesso materiale (incluso SubFst980_01670); il minerale comune resta alessandrite. Per il catalizzatore mantenere la grafia scelta anche nei nomi degli oggetti (es. «frammento di Alexandrite»). Riferimenti: `corpus/flat/PointMenuString.json#PointMenuString#63:target`; `corpus/flat/Item.json#Item#7883.9:target`. |
 | Clutchfather Novv | Padre della Covata Novv | Decisione dell'utente | Titolo di Novv; usare «Covata» per il gruppo familiare, non «Branco». Riferimenti: `corpus/flat/DefaultTalk.json#DefaultTalk#591280.20:target`; `corpus/flat/CompanionTransient.json#CompanionTransient#61.2:target`. |
 | Heavensturn | Capodanno Celeste | Decisione dell'utente | Nome della ricorrenza; usare la forma canonica in prosa e nei nomi degli oggetti collegati. Riferimenti: `corpus/flat/Orchestrion.json#Orchestrion#83.0:target`; `corpus/flat/FittingShopCategory.json#FittingShopCategory#102:target`. |
 | Advent cake(s) (Capodanno Celeste) | Mochi di Capodanno | Decisione dell'utente | Nome dei dolci di riso tradizionali del Capodanno Celeste; in prosa usare «mochi di Capodanno», senza estendere la forma a mochi generici. Riferimenti: `corpus/flat/EventItem.json#EventItem#2001940.0:target`; `corpus/flat/EventItem.json#EventItem#2001940.9:target`. |
@@ -989,7 +1002,7 @@ Le voci identificano strutture, aree, visioni, missioni e mammets del Rifugio In
 | Mighty Moogle | Moguri Possente | Decisione dell'utente | Mascotte dei festeggiamenti (fête) della Ricostruzione di Ishgard («Fatti di Stoffa Morbida»). Riferimento: `corpus/flat/Balloon.json#Balloon#6317:target`. |
 | Perky Piggy | Porcellino Vispo | Decisione dell'utente | Mascotte dei festeggiamenti (fête) della Ricostruzione di Ishgard («Caccia al Balocco»). Riferimento: `corpus/flat/Balloon.json#Balloon#6304:target`. |
 | Iceheart | Cuordighiaccio | Decisione dell'utente | Nome tradotto; plurale «Cuordighiaccio». Nome proprio composto; con titolo nobiliare «Lady Cuordighiaccio» (i titoli nobiliari di Ishgard restano in inglese). Riferimenti: `corpus/flat/Quest.json#Quest#67140:target`; `corpus/flat/AkatsukiNoteString.json#AkatsukiNoteString#196:target`. |
-| Coeurlfist | Pugno di Coeurl | Decisione dell'utente | Soprannome; tradurre solo «Fist» e conservare «Coeurl». |
+| Coeurlfist | Pugnoiaguaro | Decisione dell'utente | Soprannome (Ivon Pugnoiaguaro); sostituisce la precedente eccezione «Pugno di Coeurl» (10 novembre 2026). |
 | magitek avenger | vendicatore magitec | Decisione dell'utente | Nome comune di macchina; plurale «vendicatori magitec» e minuscolo nei campi che hanno la fonte minuscola. |
 | white whittret | donnola bianca | Decisione dell'utente | Nome comune della creatura; concordare l'aggettivo al plurale («donnole bianche»). |
 | bridesmoogle | moguri nuziale | Decisione dell'utente | Nome comune della creatura; «moguri» resta invariabile e l'aggettivo concorda («moguri nuziali» al plurale). |
@@ -1083,7 +1096,7 @@ Le voci identificano strutture, aree, visioni, missioni e mammets del Rifugio In
 | Sundrop Dance | Danza della Goccia Solare | Decisione dell'utente | Nome della danza rituale dei Vanu Vanu; mantenere il nome scelto nelle battute. Riferimenti: `corpus/flat/CompanionTransient.json#CompanionTransient#172.3:target`; `corpus/flat/Emote.json#Emote#120:target`. |
 | The Hounds of Ishgard | i Mastini di Ishgard | Decisione dell'utente | Nome della fazione; usare «i Mastini» in prosa. Riferimenti: `corpus/flat/DefaultTalk.json#DefaultTalk#594136.20:target`. |
 | Bombard(s) | Piro / Piros | Decisione dell'utente (decisione successiva) | Nome della creatura; usare Piro al singolare e Piros al plurale. Distinguere da Bombardier/Bombardieri e dai verbi bombardare. La decisione successiva Piro/Piros sostituisce la precedente Bombarda/Bombarde registrata per `corpus/flat/BNpcName.json#BNpcName#1642.0:target` e `#1642:description`; riferimenti della scelta corrente: `Fate#1710.0/.1`, `BNpcName#15593–#15608`. |
-| Bombard(s) | Bombarda / Bombarde | Decisione dell'utente | Nome dei nemici della Festa del Fuoco Lunare; singolare «Bombarda», plurale «Bombarde». Non confondere con Bombardier/Bombardieri. Sostituisce «Piro/Piros». Riferimenti: `corpus/flat/BNpcName.json#BNpcName#1642.0:target`; `corpus/flat/BNpcName.json#BNpcName#1642.2:target`. |
+| Bombard(s) | Bombarda / Bombarde (forme superate) | Decisione storica superata | Nome dei nemici della Festa del Fuoco Lunare; singolare «Bombarda», plurale «Bombarde». Non confondere con Bombardier/Bombardieri. La decisione successiva Piro/Piros riportata sopra sostituisce questa forma; non applicare Bombarda/Bombarde a questi nemici. Riferimenti: `corpus/flat/BNpcName.json#BNpcName#1642.0:target`; `corpus/flat/BNpcName.json#BNpcName#1642.2:target`. |
 | Cascadiers | Cascadiers | Decisione dell'utente | Nome della fazione legata alla Festa del Fuoco Lunare; lasciarlo invariato. Riferimenti: `corpus/flat/Fate.json#Fate#532.3:target`; `corpus/flat/Fate.json#Fate#533.3:target`. |
 | Saint of Nymeia | Santo di Nymeia | Decisione dell'utente | Titolo del personaggio della Celebrazione delle Stelle; tradurre anche nei riferimenti al Santo nel dialogo. Riferimenti: `corpus/flat/ENpcResident.json#ENpcResident#1016274.0:target`; `corpus/flat/ENpcResident.json#ENpcResident#1017823.0:target`. |
 | the Spinner (Nymeia) | la Tessitrice | Decisione dell'utente | Epiteto della dea Nymeia; non applicare a spinner come esca da pesca o a usi comuni del verbo. Riferimenti: `corpus/flat/Item.json#Item#43558.9:target`; `corpus/flat/Lobby.json#Lobby#161.3:target`. |
@@ -1093,7 +1106,7 @@ Le voci identificano strutture, aree, visioni, missioni e mammets del Rifugio In
 
 ### Distinzioni ricorrenti dal censimento
 
-Rese attestate nelle correzioni del corpus: il qualificatore inglese delimita il contesto, non è testo da mostrare nel client. Il metodo di censimento è documentato in [Revisione](../docs/REVISION.md#controlli).
+Rese attestate nelle correzioni del corpus: il qualificatore inglese delimita il contesto, non è testo da mostrare nel client. Il metodo di censimento è documentato in [Revisione](../../dev/docs/REVISION.md#controlli).
 
 | Inglese | Italiano | Fonte | Uso |
 | --- | --- | --- | --- |
@@ -1163,7 +1176,7 @@ Rese attestate nelle correzioni del corpus: il qualificatore inglese delimita il
 | --- | --- | --- | --- |
 | Cryptlurker | Predatore delle Cripte | Decisione dell'utente | Set di equipaggiamento di Shadowbringers (patch 5.4, liv. 80). Nei nomi di armi, armature, accessori e forzieri usare «del Predatore delle Cripte» (es. «Spada del Predatore delle Cripte», «Corazza del Predatore delle Cripte della Difesa», «Spada del Predatore delle Cripte Potenziata»). Calco su FR «Rôdeur des cryptes» e DE «Krypta-Schleicher». Riferimenti: `corpus/flat/Item.json#32418.9` e segg. |
 | Crypt [materiali] | [della] Cripta | Decisione dell'utente | Materiali di potenziamento per equipaggiamento Cryptlurker: Crypt Ester -> Estere della Cripta, Crypt Twine -> Spago della Cripta, Crypt Dusting -> Polvere della Cripta. Riferimenti: `corpus/flat/Item.json#32156.9`, `#32157.9`, `#32158.9`. |
-| Artifact(s) (Esplorazione Cosmica) | Manufatto / manufatti | Decisione dell'utente | Reperti analizzati dai droni nelle rovine; usare «manufatto» al singolare e «manufatti» al plurale. Riferimenti: `corpus/flat/EObjName.json#EObjName#2015138.0:target`; `corpus/flat/EObjName.json#EObjName#2015138.2:target`. |
+| Artifact(s) (Esplorazione Cosmica) | Manufatto / manufatti | Decisione dell'utente riconfermata l'11 novembre 2026 | Reperti analizzati dai droni nelle rovine; usare «manufatto» al singolare e «manufatti» al plurale. Riferimenti: `corpus/flat/EObjName.json#EObjName#2015138.0:target`; `corpus/flat/EObjName.json#EObjName#2015138.2:target`. |
 | Ancient Record(s) | Registro Antico / registri antichi | Decisione dell'utente | Nome dei dati recuperati dall'analisi dei manufatti; usare «registro antico» al singolare e «registri antichi» al plurale. Riferimenti: `corpus/flat/Item.json#Item#50411.0:target`; `corpus/flat/Item.json#Item#50411.9:target`. |
 | Aide's Attentive Angel | Angelo Custode dell'Aiutante | Decisione dell'utente | Titolo di reputazione di Charlemend. «Angelo» mantiene il genere grammaticale maschile anche riferito al personaggio femminile; non alternare con «Anima», «attento» o «premuroso» per questo titolo. |
 | Appointed to House Leveilleur | Incaricato della Casata Leveilleur | Decisione dell'utente | Variante femminile: «Incaricata della Casata Leveilleur». Titolo di reputazione assegnato da Ameliance al giocatore: accordare mediante SeString. |
@@ -1186,7 +1199,7 @@ Rese attestate nelle correzioni del corpus: il qualificatore inglese delimita il
 | Risensong Quarter / District | Rione Cantorisorto | Decisione dell'utente | Nome del quartiere del Firmamento; per le zone orientale e occidentale usare «Rione Cantorisorto Orientale/Occidentale». Riferimenti: `PlaceName#3640.0/.2`, `#3645`, `#3646`; FATE 1668–1685. |
 | Bright Ballad's Passage | Passaggio della Ballata Radiosa | Decisione dell'utente | Toponimo nel quartiere del Firmamento. |
 | Dreamer's Run | Cammino dei Sognatori | Decisione dell'utente | Luogo della Festa delle Uova; usare anche nei nomi del portiere e nei riferimenti alle quest. |
-| Ice Bombard(s) | Bombarda / Bombarde di ghiaccio | Decisione dell'utente | Nome della creatura; singolare «Bombarda di ghiaccio», plurale «Bombarde di ghiaccio». Sostituisce «Piro/Piros di ghiaccio». |
+| Ice Bombard(s) | Bombarda / Bombarde di ghiaccio | Decisione dell'utente riconfermata l'11 novembre 2026 | Nome della creatura; singolare «Bombarda di ghiaccio», plurale «Bombarde di ghiaccio». Sostituisce «Piro/Piros di ghiaccio» per questo referente; distinti ice bomb e Bombard senza Ice. Riferimenti: `corpus/flat/BNpcName.json#BNpcName#10193.0:target`; `#BNpcName#10193.2:target`; `corpus/flat/Fate.json#Fate#1710.1:target`; `corpus/quest/040/FesSum701_04082.json#quest/040/FesSum701_04082#TEXT_FESSUM701_04082_SEQ_05:target`. |
 | Resistance appropriator(s) | Incaricato / Incaricati della Resistenza | Decisione dell'utente | Ruolo dei PNG addetti al recupero di materiali magitec e ceruleo. |
 | Llofii the Forthright | Llofii la Schietta | corpus/flat/Fate.json#Fate#1609.3:target | Epiteto del personaggio; mantenere la stessa forma nei riferimenti. |
 | Gilbrisbert the Puppetmaster | Gilbrisbert il Burattinaio | corpus/flat/Fate.json#Fate#1737.1:target | Titolo del personaggio; usare questa forma anche nei riferimenti. |
@@ -1200,7 +1213,7 @@ Rese attestate nelle correzioni del corpus: il qualificatore inglese delimita il
 | Inglese | Italiano | Fonte | Uso |
 | --- | --- | --- | --- |
 | Bombard(s) | Piro / Piros | Decisione dell'utente | Nome delle creature della Festa del Fuoco Lunare; usare «Re dei Piros» per Bombard King e «cenere di Piro» per Bombard ash. Non estendere al verbo inglese *to bombard* né a Bombardier. Riferimenti: `Fate#1710.0/.1`; `BNpcName#15593–#15608`. |
-| Luncheon toad(s) | Rospo / rospi da pranzo | Decisione dell'utente | Nome della creatura; usare anche in descrizioni e composti. Riferimenti: `BNpcName#10523.0/.2`; `Fate#1748.1`. |
+| Luncheon toad(s) | Rospo / rospi da pranzo | Decisione dell'utente | Nome della creatura; usare anche in descrizioni e composti. Riferimenti: `BNpcName#10673.0/.2`; `Fate#1748.1`. |
 | Snapweed(s) | Nepente / nepenti | Decisione dell'utente | Specie vegetale; usare nei nomi e nella prosa, es. «nepenti che sputano acido». Riferimenti: `BNpcName#8603.0/.2`; `Fate#1750.1`. |
 | luncheon toadskin | pelle di rospo da pranzo | Decisione dell'utente | Materiale ricavato dal rospo da pranzo; usare la forma nei nomi degli oggetti e nella prosa. |
 | Electrope | Elettrope | Decisione dell'utente | Nome della creatura/materiale; mantenere la grafia elettrope. Fonte e decisione già registrata in `ffxiv-language-pack-it/glossary/overrides.json` (`electrope`). Sostituisce la forma legacy «Elettropo». |
@@ -1210,7 +1223,7 @@ Rese attestate nelle correzioni del corpus: il qualificatore inglese delimita il
 
 | Inglese | Italiano | Fonte | Uso |
 | --- | --- | --- | --- |
-| Buscarron's Druthers / the Druthers | Locanda di Buscarron | Decisione dell'utente | Nome della locanda; usare anche nei riferimenti brevi e adattare articoli e preposizioni. Mantenere le locuzioni inglesi my druthers («se dipendesse da me») nel senso idiomatico di “preferenza”. Riferimento: `PlaceName#119.0/.2`. |
+| Buscarron's Druthers / the Druthers | Locanda di Buscarron | Decisione dell'utente | Nome della locanda; usare anche nei riferimenti brevi e adattare articoli e preposizioni. Mantenere le locuzioni inglesi my druthers («se dipendesse da me») nel senso idiomatico di “preferenza”. Riferimento: `PlaceName#119.0/.2`. Decisione dell'utente dell'11 novembre 2026: la stessa forma vale anche per il titolo del Diario Esplorazione `corpus/flat/Adventure.json#Adventure#2162731.13:target`; la vecchia variante «Il Capriccio di Buscarron» e' superata in quel campo. |
 | Summerford Farms | Fattorie di Guado d'Estate | Decisione dell'utente | Toponimo agricolo; estendere la forma ai riferimenti alle Fattorie di Summerford e adattare articoli e preposizioni al contesto. Riferimento: `data/translations/world/placename.json#184:translation`. |
 | Standing Corses | I Cadaveri Eretti | Decisione dell'utente | Toponimo; usare il nome completo e adattare articoli e preposizioni al contesto. Riferimento legacy: `corpus/flat/PlaceName.json#PlaceName#72.0:target`. |
 | Little Solace | Piccolo Rifugio | Decisione dell'utente | Toponimo; usare «Piccolo Rifugio» e adattare articoli e preposizioni al maschile. Riferimento legacy: `data/translations/world/placename.json#113:translation`. |
@@ -1232,111 +1245,123 @@ Rese attestate nelle correzioni del corpus: il qualificatore inglese delimita il
 
 ## Nomi dei Loporrit (Decisione dell'utente)
 
-Convenzione editoriale: i nomi dei Loporrit sono adattati sul modello dei nani di Biancaneve con desinenza unificata in `-olo`.
+Convenzione editoriale: i nomi dei Loporrit seguono gli adattamenti confermati dall'utente (prevalentemente imperativi in `-alo`/`-ilo`, con alcune forme in `-olo`; `Way`/`Ways` isolato → `Lo`).
 
 | Forma sorgente | Forma italiana | Fonte sorgente / Nota d'uso |
 | :--- | :--- | :--- |
-| Aimingway | Púntolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Blastingway | Scóppiolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Blossomingway | Sbócciolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Boostingway | Cáricolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Buildingway | Fábbricolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Campingway | Téndolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
+| Aimingway | Púntalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Blastingway | Scóppialo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Blossomingway | Sbóccialo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Boostingway | Cáricalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Broodingway | Crúcciolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
+| Buildingway | Fábbricalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Campingway | Téndalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
 | Cheatingway | Fúrbolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Coiningway | Monétolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Commandingway | Comándolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Cookingway | Cucínolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Counselingway | Consígliolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
+| Coiningway | Monétalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Commandingway | Comándalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Cookingway | Cucínalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Counselingway | Consíglialo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
 | Craftingway | Artigiánolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Cruisingway | Návigolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Crushingway | Schiácciolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Dancingway | Dánzolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Demolishingway | Abbáttolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Diggingway | Scávolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Divingway | Túffolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Dramatizingway | Drámmolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Dreamingway | Sógnolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Drivingway | Pilótolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Droningway | Rónzolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Enchantingway | Incántolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
+| Cruisingway | Návigalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Crushingway | Schiáccialo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Dancingway | Dánzalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Demolishingway | Abbáttilo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Desertingway | Desértolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
+| Diggingway | Scávalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Divingway | Túffalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Dramatizingway | Drámmalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Dreamingway | Sógnalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Drivingway | Pilótalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Droningway | Rónzalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Enchantingway | Incántalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Eyeballingway | Adócchialo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
 | Fallingway | Rúzzolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Fightingway | Combáttolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Findingway | Tróvolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Fixingway | Aggiústolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
+| Fightingway | Combáttilo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Fishingway | Péscalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Findingway | Tróvalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Fixingway | Aggiústalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
 | Floppingway | Cióndolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Fusingway | Fóndolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Gamingway | Giócolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
+| Forbiddingway | Proibítolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
+| Fusingway | Fóndilo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Gamingway | Giócalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
 | Goingmyway | Vagabóndolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Greeningway | Piántolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Grindingway | Mácinolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Growingway | Créscolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Guidingway | Guídolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Hoppingway | Sáltolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
+| Greeningway | Piántalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Grindingway | Mácinalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Growingway | Créscilo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Guidingway | Guídalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Hoppingway | Sáltalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
 | Hummingway | Mórmolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Huntingway | Cácciolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Inspectingway | Contróllolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Inventingway | Invéntolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Jammingway | Rítmolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Keepingway | Custódolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Knockingway | Bússolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Learningway | Impárolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Livingway | Vívolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Lovingway | Adórolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
+| Huntingway | Cáccialo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Inspectingway | Contróllalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Inventingway | Invéntalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Jammingway | Rítmalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Keepingway | Custódilo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Knockingway | Bússalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Learningway | Impáralo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Lightingway | Lumínalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Limingway | Rímalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Livingway | Vívilo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Lovingway | Adóralo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
 | Lurkingway | Furtívolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Managingway | Organízzolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Mappingway | Cartográfolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
+| Managingway | Organízzalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Mappingway | Cartográfalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
 | Mixingway | Méscolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
 | Mopingway | Bróntolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Namingway | Nóminolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
+| Namingway | Nóminalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
 | Nothingway | Ozíolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Orbitingway | Gírolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
+| Orbitingway | Gíralo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
 | Packingway | Bagágliolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Paintingway | Píttolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
+| Paintingway | Píttalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
 | Phasingway | Régolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Pickingway | Préndolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Piercingway | Trivéllolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
+| Pickingway | Préndilo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Piercingway | Trivéllalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
 | Pipingway | Túbolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Protectingway | Protéggolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
+| Protectingway | Protéggilo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
 | Puddingway | Budínolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Readingway | Léggolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Recordingway | Regístrolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Removingway | Sgómbrolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Repairingway | Ripárolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Reportingway | Notizíolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Researchingway | Studíolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Ridingway | Caválcolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Runningway | Córrolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Savingway | Sálvolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Scanningway | Scansiónolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Searchingway | Cércolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
+| Readingway | Léggilo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Recordingway | Regístralo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Removingway | Sgómbralo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Repairingway | Ripáralo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Reportingway | Notizíalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Researchingway | Studíalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Ridingway | Caválcalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Runningway | Córrilo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Savingway | Sálvalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Scanningway | Scansiónalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Searchingway | Cércalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
 | Servingway | Maggiordómolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Shakingway | Scuótolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Shiningway | Luccícolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Shootingway | Spárolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Singingway | Cántolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Skippingway | Bálzolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
+| Shakingway | Scuótilo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Shiningway | Luccícalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Shootingway | Spáralo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Singingway | Cántalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Skippingway | Bálzalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
 | Sleepingway | Písolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Snappingway | Schióccolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Sparkingway | Scintíllolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Splittingway | Spáccolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Surfingway | Súrfolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Sweepingway | Spázzolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Talkingway | Spiégolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Theorizingway | Teorízzolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Thinkingway | Pénsolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
+| Snappingway | Schióccalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Sparkingway | Scintíllalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Splittingway | Spáccalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Stuffingway | Pupázzolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
+| Surfingway | Súrfalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Sweepingway | Spázzalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Talkingway | Spiégalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Terrifyingway | Spavéntalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Theorizingway | Teorízzalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Thinkingway | Pénsalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
 | Thrillingway | Brívidolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Tradingway | Véndolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Trainingway | Addéstrolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Warringway | Ménolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Watchingway | Guárdolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Weavingway | Fílolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Weddingway | Innéstolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Winningway | Triónfolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
+| Tradingway | Véndilo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Trainingway | Addéstralo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Warringway | Ménalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Watchingway | Guárdalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Weavingway | Fílalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Weddingway | Innéstalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Winningway | Triónfalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
 | Wobblingway | Dóndolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Workingway | Lavórolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| Yawningway | Sbadígliolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| chefingway | cucínolo | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
-| chefingways | cucínoli | Decisione dell'utente. Adattamento in stile nani di Biancaneve (`-olo`). |
+| Workingway | Lavóralo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Yawningway | Sbadíglialo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| chefingway | Cucínalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| chefingways | Cucínali | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| helpingway | Aiútalo | Decisione dell'utente. Adattamento Loporrit aggiornato. |
+| Dreaming Ways | Sógnalo | Decisione dell'utente. Nome della società alleata / fazione Loporrit (es. `i Sógnalo`). |
+| Way / Ways | Lo | Decisione dell'utente. Appellativo generico dei Loporrit in prosa/titoli, invariabile (es. `un Lo`, `i nostri Lo`). |
 
 ## Decisioni terminologiche da repertori legacy
 
@@ -1385,3 +1410,51 @@ Decisioni utente su etichette e denominazioni legacy. Applicare solo al referent
 
 | Gordhonite asteroid belt | cintura di asteroidi di Gordhon | Decisione dell'utente | InstanceContentTextData#27029: solo la descrizione nella memoria di Stigma-4; PlaceName#3785 resta distinto. |
 | Gordhonites | Gordhoniani | Decisione dell'utente | InstanceContentTextData#27030: popolo di Gordhon nella prosa della memoria di Stigma-4; non estendere alle etichette di nemici o macchine. |
+
+## Slay negli obiettivi di combattimento
+
+Decisione dell'utente: per *Slay* negli obiettivi di combattimento preferire **sconfiggere** (imperativo **Sconfiggi**) a **uccidere / Uccidi**. Applicare anche alle descrizioni del diario e ai richiami allo stesso obiettivo, coniugando secondo la frase e conservando quantita', bersagli, condizioni e terminologia canonica.
+
+La regola riguarda gli incarichi ordinari in cui conta vincere lo scontro; non e' una sostituzione globale di ogni riferimento alla morte. Conservare una resa esplicita come **uccidere** quando la morte, un omicidio, un'esecuzione o la distinzione fra sconfitta e uccisione e' rilevante per il significato o la scena. Non estendere la regola a nomi propri, titoli, nomi di azioni o suffissi come *of Slaying*. Valutare i dialoghi nel loro contesto, senza attenuare minacce o eventi narrativi espliciti.
+
+Fonte: richiesta dell'utente del 9 novembre 2026; esempio sorgente `corpus/quest/001/ClsArc997_00134.json#quest/001/ClsArc997_00134#TEXT_CLSARC997_00134_TODO_03` (*Slay tree slugs.*). La registrazione della regola non attesta che le occorrenze del corpus siano gia' state riconciliate.
+
+## Forma degli obiettivi operativi delle quest
+
+Decisione dell'utente: rivolgersi al giocatore con l'imperativo alla seconda persona singolare negli obiettivi operativi delle quest (per esempio «Parla», «Sconfiggi», «Raccogli», «Consegna»), invece dell'infinito prescrittivo. Valutare funzione del campo e sorgente completa: non applicare la forma ai titoli, ai frammenti nominali, agli stati di avanzamento, al diario o ai dialoghi. L'imperativo dell'interfaccia non cambia il registro allocutivo dei personaggi. Conservare condizioni, quantita', referenti, macro e nomi canonici.
+
+Fonte: richiesta dell'utente del 9 novembre 2026; ambito `corpus/quest/`, tutti gli obiettivi operativi verificati, inclusi quelli gia' revisionati.
+
+## Nomi dei negozi di Wachumeqimeqi e reputazione CraftWorks nella UI
+
+- **Nomi dei negozi di Wachumeqimeqi** (`XRral Soj Metalwares`, `Epistles by Pameka`, `Xeerol Ja Juicecraft`, `Shunye's Apothecary`, `Fish Fancies Donuhanu`): decisione dell'utente del 10 novembre 2026 di allineare `corpus/flat/BankaCraftWorks.json#BankaCraftWorks#0–#4:target` alle etichette italiane della UI (`corpus/flat/Addon.json#Addon#14451:target` e `corpus/flat/QuestRedoChapterUI.json#QuestRedoChapterUI#199.8–#203.8:target`): **Articoli Metallici XRral Soj**, **Epistole di Pameka**, **Succhi Artigianali Xeerol Ja**, **Farmacia di Shunye**, **Fantasie Ittiche Donuhanu**. La registrazione non attesta la riconciliazione di `JournalGenre#211–#215` e delle missioni `KinGla*`.
+- **Esteem / Esteem Level / esteem gauge** nel sistema CraftWorks: decisione dell'utente del 10 novembre 2026 di usare **reputazione** / **livello di reputazione** / **indicatore di reputazione** in `corpus/flat/BankaCraftWorks.json#BankaCraftWorks#0–#4:target` per coerenza con l'etichetta condivisa della UI (`corpus/flat/Addon.json#Addon#12560:target` **Livello di Reputazione**, `#12561:target` **Reputazione**). La registrazione non attesta la riconciliazione di `corpus/flat/SharlayanCraftWorks.json` e `corpus/flat/HugeCraftworksNpc.json`.
+
+## Silfide / Silfidi (Sylph / Sylphs)
+
+Decisione dell'utente del 10 novembre 2026: sostituire **silfo/silfi** (e i relativi sostantivi **silfa/silfe**) con **silfide/silfidi** in tutto il corpus, adattando al genere grammaticale femminile articoli, preposizioni, aggettivi, pronomi e participi (inclusi gli accordi di `Item#7912.0/.2/.9` «Flagello/Flagelli delle Silfidi» e `Item#41117.8` «nel santuario delle Silfidi»).
+
+- **Aggettivi**: convertire **silfa/silfe** in posizione aggettivale in **silfica/silfiche** (es. «incantatrice silfica», «tribù silfiche»); mantenere **silfico/a/i/he** già attestati (es. «cultura silfica», «ricordo silfico») e le forme già presenti con «silfide/delle silfidi» (es. «venditore silfide», «lampione delle silfidi»).
+- **Etichette e giochi di parole adattati**: `Stain#44.5/.6` (*Sylph Green*) → **Verde Silfide**; `Fate#1857.0` (*Don't Be Sylphish*) → **Non Essere Silfidista**; `Achievement#870.1` (*Sylph-assured*) → **Silfide fidata**; `Quest#66256` / `CompleteJournal#2823` (*Sylph Says*) → **Silfide comanda** / **La Silfide Dice**.
+- **Esclusioni**: non applicare al nome proprio **Sylphie** né automaticamente a etichette inglesi protette; l'autoreferenza `questo qui / questa qui` segue il singolo parlante già documentato in `register.json`.
+
+## Iaguaro / Iaguari (Coeurl / Coeurls)
+
+Decisione dell'utente del 10 novembre 2026: estendere **iaguaro / iaguari** a tutto il corpus in sostituzione di **coeurl**, adattando articoli e preposizioni (`lo iaguaro`, `uno iaguaro`, `gli iaguari`, `dello iaguaro`, `degli iaguari`), concordanze, titoli e composti:
+
+- **Soprannome `Coeurlfist`**: **Pugnoiaguaro** (`Ivon Pugnoiaguaro`; gioco di parole *Coeurlpaw* -> **Zampaiaguaro**). Supera la precedente eccezione `Pugno di Coeurl`.
+- **Banda `Coeurlclaw(s)`**: **Zanne di Iaguaro** (`Bracconiere delle Zanne di Iaguaro`, `Re delle Zanne di Iaguaro`, `delle Zanne di Iaguaro`), unificando le varianti pregresse (`Coeurlclaw`, `Zannadiaguaro`, `Artigli di Iaguaro`, `Unghie di Coeurl`).
+- **Mostri e PNG composti**: `Coeurlregina` -> **Iaguaroregina**; `bandercoeurl` -> **banderiaguaro / banderiaguari**; `Coeurl o' Nine Tails` -> **Iaguaro dalle Nove Code**; `Sleeping/Angry/Frightened Coeurl` -> **Iaguaro Dormiente / Furioso / Spaventato**; `Head of the Coeurl` -> **Testa dello Iaguaro**; `coeurl sruti/smriti/prana` -> **iaguaro Sruti/Smriti/Prana**.
+- **Monaco e abilità**: `Coeurl Form` -> **Forma Iaguaro / Postura Iaguaro** (`forma di iaguaro`); `Pouncing Coeurl` -> **Iaguaro Balzante**; `Coeurl Whisper` -> **Sussurro dello Iaguaro**; `Coeurl's Fury` -> **Furia dello Iaguaro**; `Coeurl Chakra` -> **Chakra dello Iaguaro** (`Chakra Iaguaro`).
+- **Titoli, oggetti e testi vari**: `Enter the Coeurl` -> **L'Arrivo dello Iaguaro**; `Coeurl Beach` -> **da spiaggia di iaguaro** / **Spiaggia di Iaguaro**; `FishParameter#669.0` (*Ku'er*) adattato con `«iaguaro»`.
+- **Esclusioni**: `CreditListText#4642` (nome del Mondo nei crediti, invariato per regola di progetto) e `Action#699`–`#700` (in giapponese *microchu* `コチュー`, non *coeurl*).
+
+
+## Doxy's Pull
+
+Decisione dell'utente: tradurre il toponimo *Doxy's Pull* con «Canale del Diavolo». Usare articoli e preposizioni secondo la frase completa; nei frammenti interrotti conservare l'interruzione. Ambito: tutte le occorrenze narrative pertinenti.
+
+
+### Termini di AkatsukiNoteString
+
+Decisione dell'utente dell'11 novembre 2026: mantenere le forme del corpus per Spirit Vessel («Ricettacolo dell'Anima», #113–#114), Tural Vidraal (invariato, #147–#148), The Storm Surge («La Guerra dei Fulmini», #150–#151), Oblivion (nome dell'organizzazione invariato, #156–#157), Vow of Resolve of Tuliyollal («Voto della Risolutezza di Tuliyollal», #168) e King of Resolve of Alexandria («Re della Risolutezza di Alexandria», #176). I numeri rimandano a `corpus/flat/AkatsukiNoteString.json`; applicare le stesse scelte ai richiami agli stessi referenti, senza estenderle agli usi comuni di oblio, determinazione o ai ricettacoli di altro tipo.

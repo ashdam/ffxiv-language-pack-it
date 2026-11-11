@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/042/AktKzd001_04225#TEXT_AKTKZD001_04225_SEQ_00", "hash": "4F7EECCB1AB8E520", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>La situazione in questo angolo di mondo ha lasciato molti malati e affamati, fra cui Amanieu e sua figlia." },
-    { "gameKey": "quest/042/AktKzd001_04225#TEXT_AKTKZD001_04225_TODO_00", "hash": "A04868E861A26E2C", "target": "Recuperare i buckwheat seeds da un contenitore al mercato" },
-    { "gameKey": "quest/042/AktKzd001_04225#TEXT_AKTKZD001_04225_TODO_01", "hash": "0E4E8C84B7E44850", "target": "Consegnare i buckwheat seeds ad Amanieu" },
+    { "gameKey": "quest/042/AktKzd001_04225#TEXT_AKTKZD001_04225_TODO_00", "hash": "A04868E861A26E2C", "target": "Recupera i buckwheat seeds da un contenitore al mercato" },
+    { "gameKey": "quest/042/AktKzd001_04225#TEXT_AKTKZD001_04225_TODO_01", "hash": "0E4E8C84B7E44850", "target": "Consegna i buckwheat seeds ad Amanieu" },
     { "gameKey": "quest/042/AktKzd001_04225#TEXT_AKTKZD001_04225_AMANIEU_000_000", "hash": "905468FCCDF1582A", "target": "Un momento, <if(gnum4,gentile signora,gentile signore)>, se puoi dedicarcelo. Mia figlia è malata di un terribile raffreddore. Riesce a malapena a trattenere un boccone, ma so che una semplice ciotola di kasha sarebbe leggera per lo stomaco e basterebbe a sostenerla." },
     { "gameKey": "quest/042/AktKzd001_04225#TEXT_AKTKZD001_04225_AMANIEU_000_001", "hash": "74A88B6A18E6772B", "target": "Purtroppo non ho i semi di grano saraceno richiesti dalla ricetta. Al mercato abbandonato dovrei trovare ciò che mi serve, ma... non credo che me la caverei in un posto tanto pericoloso." },
     { "gameKey": "quest/042/AktKzd001_04225#TEXT_AKTKZD001_04225_AMANIEU_000_002", "hash": "F4D74E03A001449F", "target": "Inoltre non oso lasciare sola mia figlia a lungo. La sua malattia migliora e peggiora da un momento all'altro, e l'ultima cosa che voglio è non esserci quando le sale la febbre o le viene un attacco di tosse. Ti prego, potresti aiutarmi?" },

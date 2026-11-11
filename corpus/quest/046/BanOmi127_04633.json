@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/046/BanOmi127_04633#TEXT_BANOMI127_04633_SEQ_00", "hash": "54B381D3D27F64BD", "target": "Stigma-4 ha gentilmente accettato una richiesta degli Ea per tuo conto.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
-    { "gameKey": "quest/046/BanOmi127_04633#TEXT_BANOMI127_04633_TODO_00", "hash": "A60DB63D8604555A", "target": "Parlare con l'itinerant server unit" },
-    { "gameKey": "quest/046/BanOmi127_04633#TEXT_BANOMI127_04633_TODO_01", "hash": "66E66A4657B083C9", "target": "Parlare con l'excited Ea" },
-    { "gameKey": "quest/046/BanOmi127_04633#TEXT_BANOMI127_04633_TODO_02", "hash": "8D82F928E448C8EA", "target": "Fare rapporto a Stigma-4" },
+    { "gameKey": "quest/046/BanOmi127_04633#TEXT_BANOMI127_04633_TODO_00", "hash": "A60DB63D8604555A", "target": "Parla con l'itinerant server unit" },
+    { "gameKey": "quest/046/BanOmi127_04633#TEXT_BANOMI127_04633_TODO_01", "hash": "66E66A4657B083C9", "target": "Parla con l'excited Ea" },
+    { "gameKey": "quest/046/BanOmi127_04633#TEXT_BANOMI127_04633_TODO_02", "hash": "8D82F928E448C8EA", "target": "Fai rapporto a Stigma-4" },
     { "gameKey": "quest/046/BanOmi127_04633#TEXT_BANOMI127_04633_STIGMA4_000_001", "hash": "2CF146767C212975", "target": "Ricevuta comunicazione dagli Ea residenti a Ostrakon Tria. Si è diffusa la notizia dell'impiego di <split(<string(gstr1)>, ,1)> come tramite carnale per i dati di percezione sensoriale. Altre entità incorporee desiderano pertanto una dimostrazione." },
     { "gameKey": "quest/046/BanOmi127_04633#TEXT_BANOMI127_04633_STIGMA4_000_002", "hash": "292E46996124BA2C", "target": "L'esperienza potrebbe essere facilmente ottenuta visitando il caffè. I calcoli preliminari suggeriscono tuttavia che accontentarli con una prova nella loro colonia sarà un mezzo efficace per pubblicizzare il caffè «Gli Ultimi Fondi»." },
     { "gameKey": "quest/046/BanOmi127_04633#TEXT_BANOMI127_04633_STIGMA4_000_003", "hash": "D17FC494EAA02475", "target": "Sei tu ad aver reintrodotto fra le entità pensanti il concetto di stimoli gustativi, ed è quindi tua responsabilità acconsentire alle loro richieste. Visita la Dimora degli Ea e contatta l'itinerant server unit appena possibile." },

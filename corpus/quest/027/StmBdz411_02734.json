@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/027/StmBdz411_02734#TEXT_STMBDZ411_02734_SEQ_00", "hash": "9553CD03EBDBC54D", "target": "Ochimi ha bisogno di qualcuno che consegni un regalo." },
-    { "gameKey": "quest/027/StmBdz411_02734#TEXT_STMBDZ411_02734_TODO_00", "hash": "AF14BD9E8A8E6C2D", "target": "Prendere una piantina" },
-    { "gameKey": "quest/027/StmBdz411_02734#TEXT_STMBDZ411_02734_TODO_01", "hash": "F169EB962E204176", "target": "Prendere una fiala di aceto di legno" },
-    { "gameKey": "quest/027/StmBdz411_02734#TEXT_STMBDZ411_02734_TODO_02", "hash": "70A13D422762560C", "target": "Consegnare la piantina e la fiala di aceto di legno a Gyotai" },
+    { "gameKey": "quest/027/StmBdz411_02734#TEXT_STMBDZ411_02734_TODO_00", "hash": "AF14BD9E8A8E6C2D", "target": "Prendi una piantina" },
+    { "gameKey": "quest/027/StmBdz411_02734#TEXT_STMBDZ411_02734_TODO_01", "hash": "F169EB962E204176", "target": "Prendi una fiala di aceto di legno" },
+    { "gameKey": "quest/027/StmBdz411_02734#TEXT_STMBDZ411_02734_TODO_02", "hash": "70A13D422762560C", "target": "Consegna la piantina e la fiala di aceto di legno a Gyotai" },
     { "gameKey": "quest/027/StmBdz411_02734#TEXT_STMBDZ411_02734_OCHIMI_000_000", "hash": "DEFDF70B46FBAF1E", "target": "Dimmi, hai incontrato i Namazu che vivono al Maniero Yuzuka?" },
     { "gameKey": "quest/027/StmBdz411_02734#TEXT_STMBDZ411_02734_OCHIMI_000_001", "hash": "3556D2102A95CCA1", "target": "Il maniero si trova a sud-ovest di Namai. In origine ospitava una famiglia ricca, ma i suoi membri sono stati uccisi durante l'attacco dell'Impero." },
     { "gameKey": "quest/027/StmBdz411_02734#TEXT_STMBDZ411_02734_OCHIMI_000_002", "hash": "22239E012E6147C9", "target": "Oggi ci vive un gruppo di Namazu. Ogni tanto vengono a Namai per scambiare pesce con noi. Si erano mostrati interessati ad alcuni alberi della zona, così ho pensato di regalare loro una piantina per ricambiare." },

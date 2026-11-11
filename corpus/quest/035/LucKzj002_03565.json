@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKzj002_03565#TEXT_LUCKZJ002_03565_SEQ_00", "hash": "830D1C8C878CDBBE", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Bethden si preoccupa abitualmente della salute di chi visita il Gabinetto delle Curiosità, e tu non fai eccezione." },
-    { "gameKey": "quest/035/LucKzj002_03565#TEXT_LUCKZJ002_03565_TODO_00", "hash": "FA0CC1EE15C3794C", "target": "Parlare con Fae-Hann alla Spagirica" },
-    { "gameKey": "quest/035/LucKzj002_03565#TEXT_LUCKZJ002_03565_TODO_01", "hash": "611F93E661697EA9", "target": "Bere lo stygian syrup davanti a Fae-Hann" },
-    { "gameKey": "quest/035/LucKzj002_03565#TEXT_LUCKZJ002_03565_TODO_02", "hash": "E770C81A0E5F5677", "target": "Parlare con Bethden al Gabinetto delle Curiosità" },
+    { "gameKey": "quest/035/LucKzj002_03565#TEXT_LUCKZJ002_03565_TODO_00", "hash": "FA0CC1EE15C3794C", "target": "Parla con Fae-Hann alla Spagirica" },
+    { "gameKey": "quest/035/LucKzj002_03565#TEXT_LUCKZJ002_03565_TODO_01", "hash": "611F93E661697EA9", "target": "Bevi la bottiglia di sciroppo di Stigia davanti a Fae-Hann" },
+    { "gameKey": "quest/035/LucKzj002_03565#TEXT_LUCKZJ002_03565_TODO_02", "hash": "E770C81A0E5F5677", "target": "Parla con Bethden al Gabinetto delle Curiosità" },
     { "gameKey": "quest/035/LucKzj002_03565#TEXT_LUCKZJ002_03565_BETHDEN_000_000", "hash": "40614AEAFFC5BF81", "target": "Oh, cielo. Hai un pallore terribile, e conosco studiosi che non escono da settimane, quindi non lo dico alla leggera. Ti prego, vai subito alla Spagirica." },
     { "gameKey": "quest/035/LucKzj002_03565#TEXT_LUCKZJ002_03565_BETHDEN_000_001", "hash": "8643F85C657B7F11", "target": "Prima che tu protesti, sappi che l'ho detto molte volte anche all'Esarca di Cristallo e... basti dire che ha imparato ad ascoltare." },
     { "gameKey": "quest/035/LucKzj002_03565#TEXT_LUCKZJ002_03565_BETHDEN_000_002", "hash": "E9CB7FBCAB5FCC13", "target": "Non puoi pretendere di essere d'aiuto agli altri se non sai nemmeno prenderti cura di te. Ora vai da Fae-Hann prima che mi arrabbi con te." },

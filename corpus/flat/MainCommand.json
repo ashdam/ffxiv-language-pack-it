@@ -27,7 +27,7 @@
     { "gameKey": "MainCommand#12.5", "hash": "2779024F6167AE20", "target": "Membri del Gruppo" },
     { "gameKey": "MainCommand#12.6", "hash": "3911888F3C1F1CFA", "target": "Mostra l'elenco dei membri attuali del gruppo. Da qui puoi modificarne l'ordine e, se sei <if(gnum4,la capogruppo,il capogruppo)>, espellere altri giocatori o sciogliere il gruppo." },
     { "gameKey": "MainCommand#13.5", "hash": "425C7A1D0B7D1A93", "target": "Lista Amici" },
-    { "gameKey": "MainCommand#13.6", "hash": "82E61535A0DD5A64", "target": "Mostra i giocatori aggiunti alla lista amici. Da qui puoi inviare sussurri (/tell) o invitarli in un gruppo." },
+    { "gameKey": "MainCommand#13.6", "hash": "82E61535A0DD5A64", "target": "Mostra i giocatori aggiunti alla lista amici. Da qui puoi inviare sussurri (/sussurrare) o invitarli in un gruppo." },
     { "gameKey": "MainCommand#14.5", "hash": "19FDEAABC7075C47", "target": "Lista Nera" },
     { "gameKey": "MainCommand#14.6", "hash": "F1A5C4E3B87DA316", "target": "Mostra i giocatori che hai inserito nella lista nera. I loro personaggi e messaggi ti verranno nascosti; inoltre, questi giocatori non potranno commerciare con te né invitarti nei loro gruppi." },
     { "gameKey": "MainCommand#15.5", "hash": "3093E2395BE71628", "target": "Ricerca Giocatori" },

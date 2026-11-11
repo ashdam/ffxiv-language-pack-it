@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/025/StmBda619_02545#TEXT_STMBDA619_02545_SEQ_00", "hash": "F70DD799DBDD89B1", "target": "Raubahn desidera ringraziarti per il tuo servizio." },
-    { "gameKey": "quest/025/StmBda619_02545#TEXT_STMBDA619_02545_TODO_00", "hash": "FDEA6C2BF4CDCFE5", "target": "Seguire Raubahn fino a Focolarefreddo" },
+    { "gameKey": "quest/025/StmBda619_02545#TEXT_STMBDA619_02545_TODO_00", "hash": "FDEA6C2BF4CDCFE5", "target": "Segui Raubahn fino a Focolarefreddo" },
     { "gameKey": "quest/025/StmBda619_02545#TEXT_STMBDA619_02545_SERPENTOFFICER_000_001", "hash": "11F3348E99A336FF", "target": "Mi è stato detto che una delle vostre compagne è rimasta ferita durante l'operazione. Se possiamo fare qualcosa per aiutarvi, vi prego di non esitare a chiedere." },
     { "gameKey": "quest/025/StmBda619_02545#TEXT_STMBDA619_02545_LYSE_000_005", "hash": "D1A812AFFE2A9680", "target": "...Forse dovremmo parlare con il generale Aldynn. Nel caso i suoi uomini abbiano scoperto qualcosa su Krile." },
     { "gameKey": "quest/025/StmBda619_02545#TEXT_STMBDA619_02545_RAUBAHN_000_010", "hash": "2172640A89E2168A", "target": "<if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<split(<string(gstr1)>, ,1)>,<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)>)>)>, comandante Hext. Oggi avete fatto un ottimo lavoro." },

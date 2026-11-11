@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/025/StmBda419_02518#TEXT_STMBDA419_02518_SEQ_00", "hash": "FC46A23DC5543A81", "target": "È giunto il momento per lord Hien di tornare a Doma." },
-    { "gameKey": "quest/025/StmBda419_02518#TEXT_STMBDA419_02518_TODO_00", "hash": "3FBE1E27E9698CB8", "target": "Parlare con Gosetsu" },
-    { "gameKey": "quest/025/StmBda419_02518#TEXT_STMBDA419_02518_TODO_01", "hash": "A51CA9AF482C1B76", "target": "Parlare con Hien" },
-    { "gameKey": "quest/025/StmBda419_02518#TEXT_STMBDA419_02518_TODO_02", "hash": "D54215AF77AB692D", "target": "Parlare con Alphinaud" },
+    { "gameKey": "quest/025/StmBda419_02518#TEXT_STMBDA419_02518_TODO_00", "hash": "3FBE1E27E9698CB8", "target": "Parla con Gosetsu" },
+    { "gameKey": "quest/025/StmBda419_02518#TEXT_STMBDA419_02518_TODO_01", "hash": "A51CA9AF482C1B76", "target": "Parla con Hien" },
+    { "gameKey": "quest/025/StmBda419_02518#TEXT_STMBDA419_02518_TODO_02", "hash": "D54215AF77AB692D", "target": "Parla con Alphinaud" },
     { "gameKey": "quest/025/StmBda419_02518#TEXT_STMBDA419_02518_LYSE_000_000", "hash": "0D3B6D6C8A412771", "target": "Andiamo. Ci aspettano tutti alla Casa dei Fieri!" },
     { "gameKey": "quest/025/StmBda419_02518#TEXT_STMBDA419_02518_GOSETSU_000_005", "hash": "3B84FF8E469AD223", "target": "Eh eh... mi chiedo cosa dirà Yugiri quando le racconteremo le nostre avventure." },
     { "gameKey": "quest/025/StmBda419_02518#TEXT_STMBDA419_02518_HIEN_000_010", "hash": "033DD117742C5ED1", "target": "Bene, allora. Alla Casa dei Fieri. Seguitemi, amici miei!" },

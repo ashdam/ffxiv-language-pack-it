@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_SEQ_00", "hash": "7A75A89940A19033", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Marvene riflette a lungo su come procurarsi ciò che le serve." },
-    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_TODO_00", "hash": "3392CBB4A4763193", "target": "Procurarsi soma ice crystals dai center soma" },
-    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_TODO_01", "hash": "88DE2825F217DE22", "target": "Consegnare i soma ice crystals a Marvene" },
+    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_TODO_00", "hash": "3392CBB4A4763193", "target": "Procurati soma ice crystals dai center soma" },
+    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_TODO_01", "hash": "88DE2825F217DE22", "target": "Consegna i soma ice crystals a Marvene" },
     { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_MARVENE_000_000", "hash": "843C5524F3AF5F8A", "target": "Oh, salve. Mmm, fammi indovinare... sei <if(gnum4,un'avventuriera,un avventuriero)>? <if(gnum4,Una mercenaria,Un mercenario)> a pagamento, <if(gnum4,disposta,disposto)> ad affrontare qualunque bestia purché la ricompensa sia adeguata?" },
     { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_MARVENE_000_001", "hash": "5184213AC3C83C8F", "target": "Bene, ho il lavoro che fa per te e un compenso all'altezza." },
     { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_MARVENE_000_002", "hash": "5BF616955E377033", "target": "Mi servono due cristalli piuttosto particolari, ottenibili dai soma, giganti di ghiaccio dalla reputazione feroce. Troverai quei gelidi mostri intenti a vagare a sud-est di qui. Quindi, se non ti dispiace?" },

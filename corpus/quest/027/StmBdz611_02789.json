@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_SEQ_00", "hash": "E200EC77ACFAC3E1", "target": "Agujam è preoccupato da ciò che si nasconde sotto la sabbia." },
-    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_TODO_00", "hash": "61DF693677CBF920", "target": "Abbattere tutti i diremite che compaiono nella zona rocciosa a ovest" },
-    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_TODO_01", "hash": "42BCB9AE9D3E710F", "target": "Fare rapporto a Agujam" },
+    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_TODO_00", "hash": "61DF693677CBF920", "target": "Sconfiggi tutti i diremite che compaiono nella zona rocciosa a ovest" },
+    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_TODO_01", "hash": "42BCB9AE9D3E710F", "target": "Fai rapporto a Agujam" },
     { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_AGUJAM_000_000", "hash": "1FEDCAF463206A4A", "target": "Queste luride creature non riposano mai!?" },
     { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_AGUJAM_000_001", "hash": "F6628F834DAE0BD8", "target": "Ah, tu, <if(gnum4,avventuriera,avventuriero)>. Se accetti, vorrei il tuo aiuto per una faccenda." },
     { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_AGUJAM_000_002", "hash": "4B82BC80F39522F8", "target": "Ultimamente ho avvistato un numero insolito di diremite nella zona. Compaiono sempre dopo le tempeste di sabbia. Non sarebbe un problema, se combattessero lealmente. Invece si nascondono sotto la sabbia, aspettando di colpire quando sei vulnerabile." },

@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/042/AktKzf001_04256#TEXT_AKTKZF001_04256_SEQ_00", "hash": "077C0B96E01EC3C7", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Viraban si torce nervosamente le mani." },
-    { "gameKey": "quest/042/AktKzf001_04256#TEXT_AKTKZF001_04256_TODO_00", "hash": "43415E01113ACC4E", "target": "Recuperare il worn charm da un hanuman langur" },
-    { "gameKey": "quest/042/AktKzf001_04256#TEXT_AKTKZF001_04256_TODO_01", "hash": "66854FE80433AB27", "target": "Consegnare il worn charm a Viraban" },
+    { "gameKey": "quest/042/AktKzf001_04256#TEXT_AKTKZF001_04256_TODO_00", "hash": "43415E01113ACC4E", "target": "Recupera il worn charm da un hanuman langur" },
+    { "gameKey": "quest/042/AktKzf001_04256#TEXT_AKTKZF001_04256_TODO_01", "hash": "66854FE80433AB27", "target": "Consegna il worn charm a Viraban" },
     { "gameKey": "quest/042/AktKzf001_04256#TEXT_AKTKZF001_04256_VIRABAN_000_000", "hash": "67F4FA550F193766", "target": "Oh, cielo, le mie ginocchia... Gli anni cominciano a pesarmi..." },
     { "gameKey": "quest/042/AktKzf001_04256#TEXT_AKTKZF001_04256_VIRABAN_000_001", "hash": "4DCD6548F9ABB0F5", "target": "Tu, <if(gnum4,viaggiatrice,viaggiatore)>, avresti un po' di tempo per una vecchia? Mentre fuggivo dal caos scoppiato, sono caduta rovinosamente e ho perso un amuleto molto importante per me." },
     { "gameKey": "quest/042/AktKzf001_04256#TEXT_AKTKZF001_04256_VIRABAN_000_002", "hash": "637E4D49DE2271AA", "target": "E ci crederesti? Uno di quegli hanuman langur infestati di pulci l'ha raccolto da terra ed è scappato nel bosco." },

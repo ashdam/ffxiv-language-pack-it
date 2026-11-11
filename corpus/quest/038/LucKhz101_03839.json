@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/038/LucKhz101_03839#TEXT_LUCKHZ101_03839_SEQ_00", "hash": "1B72CDC13EA99EDD", "target": "La residente agitata è il ritratto della preoccupazione." },
-    { "gameKey": "quest/038/LucKhz101_03839#TEXT_LUCKHZ101_03839_TODO_00", "hash": "B27B11729428BCB1", "target": "Trovare gli uomini sospetti nel Nuovo Nido" },
-    { "gameKey": "quest/038/LucKhz101_03839#TEXT_LUCKHZ101_03839_TODO_01", "hash": "9350A4D228163775", "target": "Parlare con l'uomo dall'aspetto rude" },
-    { "gameKey": "quest/038/LucKhz101_03839#TEXT_LUCKHZ101_03839_TODO_02", "hash": "417AC5E5994EA28D", "target": "Fare rapporto alla residente agitata" },
+    { "gameKey": "quest/038/LucKhz101_03839#TEXT_LUCKHZ101_03839_TODO_00", "hash": "B27B11729428BCB1", "target": "Trova gli uomini sospetti nel Nuovo Nido" },
+    { "gameKey": "quest/038/LucKhz101_03839#TEXT_LUCKHZ101_03839_TODO_01", "hash": "9350A4D228163775", "target": "Parla con l'uomo dall'aspetto rude" },
+    { "gameKey": "quest/038/LucKhz101_03839#TEXT_LUCKHZ101_03839_TODO_02", "hash": "417AC5E5994EA28D", "target": "Fai rapporto alla residente agitata" },
     { "gameKey": "quest/038/LucKhz101_03839#TEXT_LUCKHZ101_03839_HWDCITIZEN03839_000_000", "hash": "4CACEB68096F6CDB", "target": "Voi siete <string(gstr1)>, vero? <if(gnum4,La salvatrice,Il salvatore)> di Ishgard? Vi prego, ho bisogno del vostro aiuto!" },
     { "gameKey": "quest/038/LucKhz101_03839#TEXT_LUCKHZ101_03839_HWDCITIZEN03839_000_001", "hash": "5F2A476C15BE7526", "target": "Come forse saprete, qui nel Nuovo Nido c'è un orfanotrofio... si chiama il Campo di Rolanbacche." },
     { "gameKey": "quest/038/LucKhz101_03839#TEXT_LUCKHZ101_03839_HWDCITIZEN03839_000_002", "hash": "ABDD9F66A43D3A2F", "target": "Ebbene, ultimamente ho visto degli uomini sospetti aggirarsi intorno a quel posto e in tutto il quartiere!" },

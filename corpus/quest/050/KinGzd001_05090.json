@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_SEQ_00", "hash": "5948A9FBC951E46C", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Rral Ty'ukuk ha un'infestazione da gestire." },
-    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_TODO_00", "hash": "D36BAC5C110886E1", "target": "Sconfiggere le leaf mantis" },
-    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_TODO_01", "hash": "85C4933B8DD759BF", "target": "Parlare con Rral Ty'ukuk" },
+    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_TODO_00", "hash": "D36BAC5C110886E1", "target": "Sconfiggi le leaf mantis" },
+    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_TODO_01", "hash": "85C4933B8DD759BF", "target": "Parla con Rral Ty'ukuk" },
     { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_RRALTYUKUK_000_000", "hash": "7542FD674B2A9669", "target": "Sei fra i compagni di Wuk Lamat, vero? Braccia robuste, aspetto fiero... sì, credo che tu sia la persona giusta per risolvere un piccolo problema di infestazione." },
     { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_RRALTYUKUK_000_001", "hash": "C694717BF6F5BF20", "target": "Da quando la tempesta ha attraversato queste terre, il numero di mantidi aggressive è aumentato notevolmente. Se non interveniamo, potrebbero minacciare l'equilibrio naturale della foresta." },
     { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_RRALTYUKUK_000_002", "hash": "18214F603F5DCF8A", "target": "Normalmente manderei un gruppo dei nostri a occuparsene, ma al momento siamo a corto di personale. Credo però che tu possa abbatterne quante ne abbatterebbero due cacciatori." },

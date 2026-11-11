@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/034/LucKzd203_03433#TEXT_LUCKZD203_03433_SEQ_00", "hash": "ADAC1E00C3BB01FD", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>L'amaro di guardia è turbato da un'ombra misteriosa." },
-    { "gameKey": "quest/034/LucKzd203_03433#TEXT_LUCKZD203_03433_TODO_00", "hash": "F3FE4FBBD3FB704E", "target": "Usare /lookout presso la scogliera" },
-    { "gameKey": "quest/034/LucKzd203_03433#TEXT_LUCKZD203_03433_TODO_01", "hash": "1479FE605CA89816", "target": "Fare rapporto all'amaro di guardia" },
+    { "gameKey": "quest/034/LucKzd203_03433#TEXT_LUCKZD203_03433_TODO_00", "hash": "F3FE4FBBD3FB704E", "target": "Usa /lookout presso la scogliera" },
+    { "gameKey": "quest/034/LucKzd203_03433#TEXT_LUCKZD203_03433_TODO_01", "hash": "1479FE605CA89816", "target": "Fai rapporto all'amaro di guardia" },
     { "gameKey": "quest/034/LucKzd203_03433#TEXT_LUCKZD203_03433_PATROLAMARO03433_000_001", "hash": "E20620F8E725A0C4", "target": "<if(gnum4,Viaggiatrice,Viaggiatore)>, hai un momento? Pattuglio regolarmente la zona a nord, e per molto tempo non c'è stato nulla di particolare. Ultimamente, però, vedo una figura misteriosa dall'altro lato della scogliera." },
     { "gameKey": "quest/034/LucKzd203_03433#TEXT_LUCKZD203_03433_PATROLAMARO03433_000_002", "hash": "A213ECD4FC12F80C", "target": "Non riesco a capire chi, o che cosa, sia quella figura, e mi preoccupa. Si dice che gli uomini vedano meglio di noi amaro. Potresti prestarmi i tuoi occhi acuti?" },
     { "gameKey": "quest/034/LucKzd203_03433#TEXT_LUCKZD203_03433_PATROLAMARO03433_000_003", "hash": "CF24C54BE2DE0A20", "target": "Grazie. Devi soltanto fare la guardia sulle scogliere presso il Lago Longmirror e la Chiesa del Campo di Dammroen." },

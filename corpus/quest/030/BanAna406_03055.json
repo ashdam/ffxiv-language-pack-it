@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/030/BanAna406_03055#TEXT_BANANA406_03055_SEQ_00", "hash": "D2A4B8CF1B4DB4E2", "target": "Eshana vuole che tu prenda in prestito le ali di un grifone.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
-    { "gameKey": "quest/030/BanAna406_03055#TEXT_BANANA406_03055_TODO_00", "hash": "2A21A2B7DFEEB926", "target": "Parlare con Giff" },
-    { "gameKey": "quest/030/BanAna406_03055#TEXT_BANANA406_03055_TODO_01", "hash": "E5C313EC1F63DA5E", "target": "Usare l'abilità Buffet del grifone sugli sciami furiosi" },
-    { "gameKey": "quest/030/BanAna406_03055#TEXT_BANANA406_03055_TODO_02", "hash": "34CDA99F05EE152F", "target": "Fare rapporto a Eshana" },
+    { "gameKey": "quest/030/BanAna406_03055#TEXT_BANANA406_03055_TODO_00", "hash": "2A21A2B7DFEEB926", "target": "Parla con Giff" },
+    { "gameKey": "quest/030/BanAna406_03055#TEXT_BANANA406_03055_TODO_01", "hash": "E5C313EC1F63DA5E", "target": "Usa l'abilità Buffet del grifone sugli sciami furiosi" },
+    { "gameKey": "quest/030/BanAna406_03055#TEXT_BANANA406_03055_TODO_02", "hash": "34CDA99F05EE152F", "target": "Fai rapporto a Eshana" },
     { "gameKey": "quest/030/BanAna406_03055#TEXT_BANANA406_03055_ESHANA_000_000", "hash": "AB139AA8B35E2D18", "target": "Ah, proprio la persona che volevo vedere, sss. Alcuni nostri soldati impegnati in un'esercitazione congiunta hanno chiesto aiuto." },
     { "gameKey": "quest/030/BanAna406_03055#TEXT_BANANA406_03055_ESHANA_000_001", "hash": "6CE4AB9127F8CB61", "target": "Date le circostanze, vi servirà un grifone per prestare sssoccorso. Giff vi spiegherà la situazione." },
     { "gameKey": "quest/030/BanAna406_03055#TEXT_BANANA406_03055_GIFF_000_010", "hash": "D69F9D226F9B2190", "target": "Sei qui per dare una mano, <if(gnum4,ragazza,ragazzo)>? Non so cosa ti abbia detto Eshana, ma pare che i nostri combattenti siano assaliti da minuscoli vilomorfi volanti. <italic(1)>Sciami<italic(0)> interi." },

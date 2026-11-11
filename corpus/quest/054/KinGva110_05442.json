@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/054/KinGva110_05442#TEXT_KINGVA110_05442_SEQ_00", "hash": "B0B63F51010E0750", "target": "Fyrgeim ha un messaggio da consegnarti." },
-    { "gameKey": "quest/054/KinGva110_05442#TEXT_KINGVA110_05442_TODO_00", "hash": "02BE68BAFE594B9D", "target": "Attendere nel luogo indicato" },
-    { "gameKey": "quest/054/KinGva110_05442#TEXT_KINGVA110_05442_TODO_01", "hash": "7509E7DB33E03077", "target": "Parlare con Fyrgeim" },
+    { "gameKey": "quest/054/KinGva110_05442#TEXT_KINGVA110_05442_TODO_00", "hash": "02BE68BAFE594B9D", "target": "Attendi nel luogo indicato" },
+    { "gameKey": "quest/054/KinGva110_05442#TEXT_KINGVA110_05442_TODO_01", "hash": "7509E7DB33E03077", "target": "Parla con Fyrgeim" },
     { "gameKey": "quest/054/KinGva110_05442#TEXT_KINGVA110_05442_FYRGEIM_000_000", "hash": "66D6840AEDD074BA", "target": "Salve, <split(<string(gstr1)>, ,1)>! Ho sentito che hai fatto grandi progressi tra le pagine del <italic(1)>Racconto del Mercante<italic(0)>." },
     { "gameKey": "quest/054/KinGva110_05442#TEXT_KINGVA110_05442_FYRGEIM_000_001", "hash": "3F504DFD9242E93C", "target": "Nazqha riusciva a malapena a contenere l'entusiasmo quando me l'ha raccontato. Ha riflettuto su ciò che avete visto nel libro e voleva parlartene." },
     { "gameKey": "quest/054/KinGva110_05442#TEXT_KINGVA110_05442_FYRGEIM_000_002", "hash": "DC5401967FEDC90A", "target": "La contatterò e le dirò di incontrarti al Disegno degli Arconti. Spero che possiate trovare un bel posto per chiacchierare." },

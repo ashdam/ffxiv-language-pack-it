@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_SEQ_00", "hash": "2934EA88B9BF8FB0", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>A Nemshs Ooan farebbe comodo una mano per un male necessario." },
-    { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_TODO_00", "hash": "25C153200CBD5A17", "target": "Uccidere i dagon" },
-    { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_TODO_01", "hash": "113A5FAEBAFB8386", "target": "Parlare con Nemshs Ooan" },
+    { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_TODO_00", "hash": "25C153200CBD5A17", "target": "Sconfiggi i dagon" },
+    { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_TODO_01", "hash": "113A5FAEBAFB8386", "target": "Parla con Nemshs Ooan" },
     { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_000", "hash": "E429616B7099FC34", "target": "Salute, ospite onorato. Potresti aiutare un vecchio Ondo con una caccia difficoltosa?" },
     { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_001", "hash": "721BC76EB96A8419", "target": "I dagon sono una minaccia per i giovani e i deboli: si travestono da rocce e tendono agguati alle prede per nutrirsi. Bisogna ridurne il numero per il bene di tutti, ma da solo non posso farcela." },
     { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_002", "hash": "679313162BCD4EA1", "target": "Ti chiedo dunque di aiutarmi a uccidere questi fastidiosi parasssiti. Tre dovrebbero bastare. Vieni a trovarmi quando avrai finito." },

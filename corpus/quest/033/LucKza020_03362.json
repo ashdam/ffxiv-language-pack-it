@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/033/LucKza020_03362#TEXT_LUCKZA020_03362_SEQ_00", "hash": "339B02A0B09ECB0D", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Bhil Bil cerca un lavoratore ignaro che lo aiuti a fare qualche gil in fretta." },
-    { "gameKey": "quest/033/LucKza020_03362#TEXT_LUCKZA020_03362_TODO_00", "hash": "623707EEDFF10CA8", "target": "Esaminare il luogo indicato e abbattere i gigantender per la loro carne" },
-    { "gameKey": "quest/033/LucKza020_03362#TEXT_LUCKZA020_03362_TODO_01", "hash": "6445DBB44B2F1A32", "target": "Consegnare un pezzo di fruiting gigantender flesh a Bhil Bil" },
+    { "gameKey": "quest/033/LucKza020_03362#TEXT_LUCKZA020_03362_TODO_00", "hash": "623707EEDFF10CA8", "target": "Esamina il luogo indicato e sconfiggi i gigantender per la loro carne" },
+    { "gameKey": "quest/033/LucKza020_03362#TEXT_LUCKZA020_03362_TODO_01", "hash": "6445DBB44B2F1A32", "target": "Consegna un pezzo di fruiting gigantender flesh a Bhil Bil" },
     { "gameKey": "quest/033/LucKza020_03362#TEXT_LUCKZA020_03362_BHILBIL_000_001", "hash": "104A1E0195C20BAA", "target": "<if(gnum4,Peccatrice,Peccatore)>! Da questa parte! Hai visto dei fruiting gigantender qui vicino, sì?" },
     { "gameKey": "quest/033/LucKza020_03362#TEXT_LUCKZA020_03362_BHILBIL_000_002", "hash": "A29B6BBE110F6161", "target": "Sono molto aggressivi. Noi Mord stiamo lontani da loro, ma una persona come te... Sì, ho un'idea." },
     { "gameKey": "quest/033/LucKza020_03362#TEXT_LUCKZA020_03362_BHILBIL_000_003", "hash": "A20BEA57AEC7E40B", "target": "Hai salute e forza! Ho un favore da chiederti. Portami pezzi, grossi pezzi della loro carne." },

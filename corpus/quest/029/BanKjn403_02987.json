@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/029/BanKjn403_02987#TEXT_BANKJN403_02987_SEQ_00", "hash": "C765F56C506E0B5D", "target": "Uno degli anziani è via da molto tempo.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
-    { "gameKey": "quest/029/BanKjn403_02987#TEXT_BANKJN403_02987_TODO_00", "hash": "CF0CA6D2DC5996E8", "target": "Parlare con il wizened Kojin" },
-    { "gameKey": "quest/029/BanKjn403_02987#TEXT_BANKJN403_02987_TODO_01", "hash": "19198718C2B848F2", "target": "Consegnare i vasetti di lozione ai long-haired pirate" },
-    { "gameKey": "quest/029/BanKjn403_02987#TEXT_BANKJN403_02987_TODO_02", "hash": "F42ABF0D8866BD13", "target": "Riferire a Zukin" },
+    { "gameKey": "quest/029/BanKjn403_02987#TEXT_BANKJN403_02987_TODO_00", "hash": "CF0CA6D2DC5996E8", "target": "Parla con il wizened Kojin" },
+    { "gameKey": "quest/029/BanKjn403_02987#TEXT_BANKJN403_02987_TODO_01", "hash": "19198718C2B848F2", "target": "Consegna i vasetti di lozione ai long-haired pirate" },
+    { "gameKey": "quest/029/BanKjn403_02987#TEXT_BANKJN403_02987_TODO_02", "hash": "F42ABF0D8866BD13", "target": "Riferisci a Zukin" },
     { "gameKey": "quest/029/BanKjn403_02987#TEXT_BANKJN403_02987_ZUKIN_000_000", "hash": "B129CB7A468DD479", "target": "<split(<string(gstr1)>, ,1)>, potresti aiutare uno degli anziani del villaggio? È arrivato a nuoto fino a Onokoro per commerciare con la gente del posto, ma ultimamente è diventato un po' smemorato." },
     { "gameKey": "quest/029/BanKjn403_02987#TEXT_BANKJN403_02987_ZUKIN_000_001", "hash": "F391E998B14C68A6", "target": "Anche se siamo in buoni rapporti con i pirati locali, qualcuno potrebbe approfittarsi di lui. Ti sarei grato se potessi aiutarlo nelle sue incombenze." },
     { "gameKey": "quest/029/BanKjn403_02987#TEXT_BANKJN403_02987_OLDTURTLE02987_000_010", "hash": "51CBB2D966D5954B", "target": "Buongiorno, <if(gnum4,stimata cliente,stimato cliente)>! Vi ho portato l'ordine, come richiesto." },

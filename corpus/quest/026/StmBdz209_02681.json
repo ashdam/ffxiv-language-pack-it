@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/026/StmBdz209_02681#TEXT_STMBDZ209_02681_SEQ_00", "hash": "209F8076CE67673A", "target": "Afumi non ha pazienza per i pirati che soffrono il mal di mare." },
-    { "gameKey": "quest/026/StmBdz209_02681#TEXT_STMBDZ209_02681_TODO_00", "hash": "C23BCABA331C6267", "target": "Parlare con Aokumo" },
-    { "gameKey": "quest/026/StmBdz209_02681#TEXT_STMBDZ209_02681_TODO_01", "hash": "0785E5F0993A82CD", "target": "Dare la medicina alla recluta domana che soffre il mal di mare" },
-    { "gameKey": "quest/026/StmBdz209_02681#TEXT_STMBDZ209_02681_TODO_02", "hash": "AED2D39D68E5A1E5", "target": "Parlare con Afumi" },
+    { "gameKey": "quest/026/StmBdz209_02681#TEXT_STMBDZ209_02681_TODO_00", "hash": "C23BCABA331C6267", "target": "Parla con Aokumo" },
+    { "gameKey": "quest/026/StmBdz209_02681#TEXT_STMBDZ209_02681_TODO_01", "hash": "0785E5F0993A82CD", "target": "Dai la medicina alla recluta domana che soffre il mal di mare" },
+    { "gameKey": "quest/026/StmBdz209_02681#TEXT_STMBDZ209_02681_TODO_02", "hash": "AED2D39D68E5A1E5", "target": "Parla con Afumi" },
     { "gameKey": "quest/026/StmBdz209_02681#TEXT_STMBDZ209_02681_AFUMI_000_000", "hash": "BE5E14B1F60C20C3", "target": "Che i kami mi prendano! Che razza di pirata non sopporta il rollio del mare!?" },
     { "gameKey": "quest/026/StmBdz209_02681#TEXT_STMBDZ209_02681_AFUMI_000_001", "hash": "FBC45CAE2813F9C9", "target": "Mh? Una nuova recluta venuta da terre lontane? Ascolta bene─ho un compito per te." },
     { "gameKey": "quest/026/StmBdz209_02681#TEXT_STMBDZ209_02681_AFUMI_000_002", "hash": "783DD84F0D2FF91B", "target": "Per prima cosa, va' da Aokumo qui sotto e fatti dare da lui la medicina per gli uomini di terra." },

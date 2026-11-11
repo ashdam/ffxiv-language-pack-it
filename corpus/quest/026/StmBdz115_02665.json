@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/026/StmBdz115_02665#TEXT_STMBDZ115_02665_SEQ_00", "hash": "689F4848A0904D2F", "target": "Un mercante del Vicino Oriente a Kugane desidera affidarti un incarico." },
-    { "gameKey": "quest/026/StmBdz115_02665#TEXT_STMBDZ115_02665_TODO_00", "hash": "FCD4EE6CC47D9A21", "target": "Parlare con l'umile servitore" },
-    { "gameKey": "quest/026/StmBdz115_02665#TEXT_STMBDZ115_02665_TODO_01", "hash": "5E4DA88C511C20DA", "target": "Trovare l'esperto fabbricante di lanterne" },
-    { "gameKey": "quest/026/StmBdz115_02665#TEXT_STMBDZ115_02665_TODO_02", "hash": "DFE7233A3C9141BF", "target": "Consegnare la lanterna di carta al mercante del Vicino Oriente" },
+    { "gameKey": "quest/026/StmBdz115_02665#TEXT_STMBDZ115_02665_TODO_00", "hash": "FCD4EE6CC47D9A21", "target": "Parla con l'umile servitore" },
+    { "gameKey": "quest/026/StmBdz115_02665#TEXT_STMBDZ115_02665_TODO_01", "hash": "5E4DA88C511C20DA", "target": "Trova l'esperto fabbricante di lanterne" },
+    { "gameKey": "quest/026/StmBdz115_02665#TEXT_STMBDZ115_02665_TODO_02", "hash": "DFE7233A3C9141BF", "target": "Consegna la lanterna di carta al mercante del Vicino Oriente" },
     { "gameKey": "quest/026/StmBdz115_02665#TEXT_STMBDZ115_02665_NEAREASTMERCHANT02665_000_000", "hash": "FAC9E05787548E49", "target": "Salve, <if(gnum4,gentile signora,gentile signore)>. Siete <if(gnum4,un'avventuriera errante,un avventuriero errante)>, vero? Dedicate un momento al desiderio di un mercante di Thavnair in difficoltà." },
     { "gameKey": "quest/026/StmBdz115_02665#TEXT_STMBDZ115_02665_NEAREASTMERCHANT02665_000_001", "hash": "A29C502DC7A74766", "target": "Ho ordinato un articolo su misura e mandato un servitore a ritirarlo nel quartiere Rakuza. Ma è passato mezzo sole e non è ancora tornato. L'articolo è di un certo valore, e ogni campana che passa mi rende più ansioso." },
     { "gameKey": "quest/026/StmBdz115_02665#TEXT_STMBDZ115_02665_NEAREASTMERCHANT02665_000_002", "hash": "9F6C0F39623EE6CD", "target": "Andreste a cercare quel mio inutile servitore? Di sicuro sta oziando da qualche parte nel Quartiere di Rakuza. E quando lo trovate, frustategli il sedere. Vi ricompenserò per il disturbo." },

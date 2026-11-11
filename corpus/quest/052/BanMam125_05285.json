@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/052/BanMam125_05285#TEXT_BANMAM125_05285_SEQ_00", "hash": "4D35FAA6BF7BC483", "target": "Kageel Ja ha bisogno che tu faccia una consegna.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
-    { "gameKey": "quest/052/BanMam125_05285#TEXT_BANMAM125_05285_TODO_00", "hash": "F06755864E8D23DB", "target": "Consegnare il pesante sacco di ortaggi all'amiable hunter" },
-    { "gameKey": "quest/052/BanMam125_05285#TEXT_BANMAM125_05285_TODO_01", "hash": "AEE09930BD8F07A2", "target": "Consegnare il sacco colmo di carni a Kageel Ja" },
+    { "gameKey": "quest/052/BanMam125_05285#TEXT_BANMAM125_05285_TODO_00", "hash": "F06755864E8D23DB", "target": "Consegna il pesante sacco di ortaggi all'amiable hunter" },
+    { "gameKey": "quest/052/BanMam125_05285#TEXT_BANMAM125_05285_TODO_01", "hash": "AEE09930BD8F07A2", "target": "Consegna il sacco colmo di carni a Kageel Ja" },
     { "gameKey": "quest/052/BanMam125_05285#TEXT_BANMAM125_05285_KAGEELJA_000_001", "hash": "F1FBF8E72A40706D", "target": "Salve, <split(<string(gstr1)>, ,1)>. Posso chiederti di consegnare i nostri ortaggi migliori? Sono per i vicini Xbr'aal..." },
     { "gameKey": "quest/052/BanMam125_05285#TEXT_BANMAM125_05285_KAGEELJA_000_002", "hash": "8D7B1139F3D30353", "target": "Pensaci: molto del minerale, del pesce e di ciò che abbiamo raccolto proviene dall'Orizzonte di Ut'ohmu. Mi sembra giusto esprimere la nostra gratitudine per averci permesso di condividere le loro risorse." },
     { "gameKey": "quest/052/BanMam125_05285#TEXT_BANMAM125_05285_KAGEELJA_000_003", "hash": "B5932AF7C5A166F8", "target": "Salve, <split(<string(gstr1)>, ,1)>. Posso chiederti di consegnare altri ortaggi ai nostri vicini Xbr'aal?" },

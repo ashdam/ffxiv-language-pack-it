@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/042/AktKzc007_04216#TEXT_AKTKZC007_04216_SEQ_00", "hash": "38969D935D5E752F", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>L'addetta ai rifornimenti ha le mani occupate e ne cerca un paio in più." },
-    {"gameKey": "quest/042/AktKzc007_04216#TEXT_AKTKZC007_04216_TODO_00", "hash": "0E0A7CB2E1552610", "target": "Parlare con l'ufficiale degli approvvigionamenti e farsi accompagnare"},
-    {"gameKey": "quest/042/AktKzc007_04216#TEXT_AKTKZC007_04216_TODO_01", "hash": "190A96FEF7C82BF9", "target": "Parlare con l'ufficiale degli approvvigionamenti nei luoghi indicati"},
-    {"gameKey": "quest/042/AktKzc007_04216#TEXT_AKTKZC007_04216_TODO_02", "hash": "CC6CB03D99781B96", "target": "Parlare con l'ufficiale degli approvvigionamenti al Rifugio degli Estrattori"},
+    {"gameKey": "quest/042/AktKzc007_04216#TEXT_AKTKZC007_04216_TODO_00", "hash": "0E0A7CB2E1552610", "target": "Parla con l'ufficiale degli approvvigionamenti e fatti accompagnare"},
+    {"gameKey": "quest/042/AktKzc007_04216#TEXT_AKTKZC007_04216_TODO_01", "hash": "190A96FEF7C82BF9", "target": "Parla con l'ufficiale degli approvvigionamenti nei luoghi indicati"},
+    {"gameKey": "quest/042/AktKzc007_04216#TEXT_AKTKZC007_04216_TODO_02", "hash": "CC6CB03D99781B96", "target": "Parla con l'ufficiale degli approvvigionamenti al Rifugio degli Estrattori"},
     { "gameKey": "quest/042/AktKzc007_04216#TEXT_AKTKZC007_04216_BLONDESUPPLYMEMBER04216_000_000", "hash": "825A9C1E8867BD6A", "target": "Be', guarda chi si vede! Una presenza che scalda il cuore. Non avrei mai pensato di avere l'onore di incontrare <if(gnum4,un'eroina,un eroe)> del vostro calibro, figuriamoci di chiedervi aiuto." },
     { "gameKey": "quest/042/AktKzc007_04216#TEXT_AKTKZC007_04216_BLONDESUPPLYMEMBER04216_000_001", "hash": "BE377BB7A8224A29", "target": "Vedete, devo consegnare un carico di provviste al Rifugio degli Estrattori. Avere al mio fianco qualcuno che conosce la zona sarebbe un grande aiuto per farlo arrivare sano e salvo." },
     { "gameKey": "quest/042/AktKzc007_04216#TEXT_AKTKZC007_04216_BLONDESUPPLYMEMBER04216_000_002", "hash": "F3FD6F05D300DEC3", "target": "Lo difenderei da sola, ma quel dannato carico devo portarlo! Se vorrete scortarmi, vi assicuro che saprò ricompensarvi." },

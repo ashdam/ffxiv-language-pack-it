@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/027/StmBdz506_02757#TEXT_STMBDZ506_02757_SEQ_00", "hash": "385E1919E01B9B8C", "target": "Uto vorrebbe attirare più clienti." },
-    { "gameKey": "quest/027/StmBdz506_02757#TEXT_STMBDZ506_02757_TODO_00", "hash": "7435E506A438834E", "target": "Con la modalità di chat impostata su <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, inserire “smoked fish from Isari” nei luoghi indicati per attirare l'attenzione della gente del posto" },
-    { "gameKey": "quest/027/StmBdz506_02757#TEXT_STMBDZ506_02757_TODO_01", "hash": "57379FA7517EEE76", "target": "Fare rapporto a Uto" },
+    { "gameKey": "quest/027/StmBdz506_02757#TEXT_STMBDZ506_02757_TODO_00", "hash": "7435E506A438834E", "target": "Con la modalità di chat impostata su <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, inserisci “smoked fish from Isari” nei luoghi indicati per attirare l'attenzione della gente del posto" },
+    { "gameKey": "quest/027/StmBdz506_02757#TEXT_STMBDZ506_02757_TODO_01", "hash": "57379FA7517EEE76", "target": "Fai rapporto a Uto" },
     { "gameKey": "quest/027/StmBdz506_02757#TEXT_STMBDZ506_02757_UTO_000_000", "hash": "E85E5D43BA7009E5", "target": "Ti dispiacerebbe aiutare una mercante sfortunata?" },
     { "gameKey": "quest/027/StmBdz506_02757#TEXT_STMBDZ506_02757_UTO_000_001", "hash": "8FA193EB07ED07C6", "target": "Devi solo pubblicizzare la mia merce fra la gente del posto. Cerca di introdurre l'argomento nel modo più naturale possibile." },
     { "gameKey": "quest/027/StmBdz506_02757#TEXT_STMBDZ506_02757_UTO_000_002", "hash": "B3BA7B264DFB0480", "target": "Vorrei che parlassi in particolare del pesce affumicato che vendo. L'ho pescato a Isari." },

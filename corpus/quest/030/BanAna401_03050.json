@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/030/BanAna401_03050#TEXT_BANANA401_03050_SEQ_00", "hash": "8D827521655FCD63", "target": "Eshana ha un incarico per chi è disposto a dare una mano.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
-    { "gameKey": "quest/030/BanAna401_03050#TEXT_BANANA401_03050_TODO_00", "hash": "78C8E2B34A227998", "target": "Gettare la polvere dall'odore acre sui fuochi di segnalazione" },
-    { "gameKey": "quest/030/BanAna401_03050#TEXT_BANANA401_03050_TODO_01", "hash": "04C8718545B3314B", "target": "Fare rapporto a Eshana" },
+    { "gameKey": "quest/030/BanAna401_03050#TEXT_BANANA401_03050_TODO_00", "hash": "78C8E2B34A227998", "target": "Getta la polvere dall'odore acre sui fuochi di segnalazione" },
+    { "gameKey": "quest/030/BanAna401_03050#TEXT_BANANA401_03050_TODO_01", "hash": "04C8718545B3314B", "target": "Fai rapporto a Eshana" },
     { "gameKey": "quest/030/BanAna401_03050#TEXT_BANANA401_03050_ESHANA_000_000", "hash": "6FA36C76E141F885", "target": "Avete voglia di dare una mano, <split(<string(gstr1)>, ,1)>? È ora di richiamare le pattuglie, ma non posso lasciare la mia posssizione." },
     { "gameKey": "quest/030/BanAna401_03050#TEXT_BANANA401_03050_ESHANA_000_001", "hash": "5EF2E75566A1B0F3", "target": "Vi sarei grata se poteste gettare questa polvere sui fuochi di sssegnalazione. Il fumo farà sapere alle nostre esploratrici che stanno arrivando pattuglie fresche a dare loro il cambio." },
     { "gameKey": "quest/030/BanAna401_03050#TEXT_BANANA401_03050_ESHANA_000_003", "hash": "9D823CF3D05360FA", "target": "Ecco, vi segno sulla mappa dove trovare i fuochi. Un compito da poco, lo ssso, ma apprezzo comunque il vostro aiuto." },

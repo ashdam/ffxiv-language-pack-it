@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/034/LucKzg010_03495#TEXT_LUCKZG010_03495_SEQ_00", "hash": "ACD4186222D77067", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>L'anziano minatore ti scruta con grande intensità." },
-    { "gameKey": "quest/034/LucKzg010_03495#TEXT_LUCKZG010_03495_TODO_00", "hash": "1A6C3103B15A2798", "target": "Cercare i minatori" },
-    { "gameKey": "quest/034/LucKzg010_03495#TEXT_LUCKZG010_03495_TODO_01", "hash": "469AABA6C827D630", "target": "Fare rapporto all'anziano minatore" },
+    { "gameKey": "quest/034/LucKzg010_03495#TEXT_LUCKZG010_03495_TODO_00", "hash": "1A6C3103B15A2798", "target": "Cerca i minatori" },
+    { "gameKey": "quest/034/LucKzg010_03495#TEXT_LUCKZG010_03495_TODO_01", "hash": "469AABA6C827D630", "target": "Fai rapporto all'anziano minatore" },
     { "gameKey": "quest/034/LucKzg010_03495#TEXT_LUCKZG010_03495_MINEROLD03495_000_000", "hash": "2E85C99BD96556F4", "target": "Ehi, tu! <if(gnum4,Ragazza nuova,Ragazzo nuovo)>! Dove sono gli altri?" },
     { "gameKey": "quest/034/LucKzg010_03495#TEXT_LUCKZG010_03495_MINEROLD03495_000_001", "hash": "7CD4959398E875FF", "target": "Non cercare di prendermi per stupido, so che cosa combinano. Niente di buono, ecco! Si aspettano che li paghi per scansare i propri doveri? Bah!" },
     { "gameKey": "quest/034/LucKzg010_03495#TEXT_LUCKZG010_03495_MINEROLD03495_000_002", "hash": "61DD4D624FD2BEC9", "target": "Vai a prenderli, vuoi? È ora di fare loro una bella ramanzina!" },

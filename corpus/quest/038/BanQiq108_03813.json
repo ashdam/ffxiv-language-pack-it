@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/038/BanQiq108_03813#TEXT_BANQIQ108_03813_SEQ_00", "hash": "67670D5ED4054AD3", "target": "Qhoterl Pasol sa che un regalo, o tre, non guasta mai.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
-    { "gameKey": "quest/038/BanQiq108_03813#TEXT_BANQIQ108_03813_TODO_00", "hash": "87E1A4B46CB35FE4", "target": "Consegnare gli ornamenti di giadeite alle abitanti di Fanow" },
-    { "gameKey": "quest/038/BanQiq108_03813#TEXT_BANQIQ108_03813_TODO_01", "hash": "3A55A89933C0DF16", "target": "Fare rapporto a Qhoterl Pasol" },
+    { "gameKey": "quest/038/BanQiq108_03813#TEXT_BANQIQ108_03813_TODO_00", "hash": "87E1A4B46CB35FE4", "target": "Consegna gli ornamenti di giadeite alle abitanti di Fanow" },
+    { "gameKey": "quest/038/BanQiq108_03813#TEXT_BANQIQ108_03813_TODO_01", "hash": "3A55A89933C0DF16", "target": "Fai rapporto a Qhoterl Pasol" },
     { "gameKey": "quest/038/BanQiq108_03813#TEXT_BANQIQ108_03813_QHOTERLPASOL_000_000", "hash": "8B03F57C0F2B5009", "target": "Durante una recente spedizione abbiamo trovato deliziosi ornamenti di giadeite. Ogni pietra reca l'incisione di una Viis, segno che si tratta di reliquie dell'impero di Ronka." },
     { "gameKey": "quest/038/BanQiq108_03813#TEXT_BANQIQ108_03813_QHOTERLPASOL_100_001", "hash": "64C9C228D1D0BC1E", "target": "Vorrei donarli alla brava gente di Fanow come gesto d'amicizia, ma credo che il dono sarebbe ancora più significativo se portato da voi, <if(gnum4,alleata,alleato)> di Ronka." },
     { "gameKey": "quest/038/BanQiq108_03813#TEXT_BANQIQ108_03813_QHOTERLPASOL_000_001", "hash": "4C1525A3A2562D73", "target": "Vi sarei davvero grata se consegnaste questi tre ornamenti al mio posto, gentile <if(gnum4,signora,signore)>." },

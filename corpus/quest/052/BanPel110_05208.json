@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/052/BanPel110_05208#TEXT_BANPEL110_05208_SEQ_00", "hash": "31E34B4807F0FD84", "target": "Yubli desidera condurre un sondaggio fra i clienti.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
-    { "gameKey": "quest/052/BanPel110_05208#TEXT_BANPEL110_05208_TODO_00", "hash": "46AE641F73ED354E", "target": "Parlare con i turisti a Ok'hanu e raccogliere risposte al sondaggio di Yubli" },
-    { "gameKey": "quest/052/BanPel110_05208#TEXT_BANPEL110_05208_TODO_01", "hash": "9F455C2CB6DCAC53", "target": "Consegnare le risposte al sondaggio a Yubli" },
+    { "gameKey": "quest/052/BanPel110_05208#TEXT_BANPEL110_05208_TODO_00", "hash": "46AE641F73ED354E", "target": "Parla con i turisti a Ok'hanu e raccogli risposte al sondaggio di Yubli" },
+    { "gameKey": "quest/052/BanPel110_05208#TEXT_BANPEL110_05208_TODO_01", "hash": "9F455C2CB6DCAC53", "target": "Consegna le risposte al sondaggio a Yubli" },
     { "gameKey": "quest/052/BanPel110_05208#TEXT_BANPEL110_05208_YUBLI_000_001", "hash": "4F6923D61B00DC03", "target": "Il parere dei clienti è essenziale per qualsiasi attività che voglia migliorare i propri servizi. Se avete un momento, vi chiederei di aiutarmi a condurre un sondaggio fra gli ospiti!" },
     { "gameKey": "quest/052/BanPel110_05208#TEXT_BANPEL110_05208_YUBLI_000_002", "hash": "C0E1A441DE2F90C9", "target": "Desidero sapere quali aspetti della regione e della sua cultura li interessano e cosa pensano dell'esperienza finora." },
     { "gameKey": "quest/052/BanPel110_05208#TEXT_BANPEL110_05208_YUBLI_000_003", "hash": "5EB1B8684FAE2B91", "target": "Cercate tre ospiti a Ok'hanu. Mandando voi, <if(gnum4,la nostra consulente speciale,il nostro consulente speciale)>, spero di ottenere pareri schietti e senza riserve!" },

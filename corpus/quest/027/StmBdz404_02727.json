@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_SEQ_00", "hash": "E758B21478D256F6", "target": "Sentei ha altro lavoro, se vuoi." },
-    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_TODO_00", "hash": "B42E5B9DE9AFC5D0", "target": "Ottenere la legna da ardere" },
-    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_TODO_01", "hash": "AA5A5FF9A1F45C3D", "target": "Ottenere una tasty trout dalla trappola di Sentei" },
-    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_TODO_02", "hash": "74E21FF130C70FF0", "target": "Consegnare la legna da ardere e la tasty trout a Kohagi" },
+    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_TODO_00", "hash": "B42E5B9DE9AFC5D0", "target": "Ottieni la legna da ardere" },
+    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_TODO_01", "hash": "AA5A5FF9A1F45C3D", "target": "Ottieni una tasty trout dalla trappola di Sentei" },
+    { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_TODO_02", "hash": "74E21FF130C70FF0", "target": "Consegna la legna da ardere e la tasty trout a Kohagi" },
     { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_SENTEI_000_000", "hash": "5337CE1C9F702A00", "target": "Salve ancora, <if(gnum4,gentile viaggiatrice,gentile viaggiatore)>. Se te la senti, c'è qualcos'altro che vorrei chiederti." },
     { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_SENTEI_000_001", "hash": "0D31C8E0F3A140C9", "target": "Ho bisogno che la legna da ardere che vedi alle mie spalle venga consegnata a mia moglie Kohagi, a Namai." },
     { "gameKey": "quest/027/StmBdz404_02727#TEXT_STMBDZ404_02727_SENTEI_000_002", "hash": "33E6B27B956CA00F", "target": "Ho anche bisogno che tu controlli se la trappola che ho collocato nel ruscello vicino ha catturato qualche pesce. Se sì, ti prego di portare anche quello a Kohagi." },

@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKzh008_03518#TEXT_LUCKZH008_03518_SEQ_00", "hash": "75404DD1379B53F4", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Il Mystel appollaiato sull'elegante sedia davanti a te sembra poter insegnarti una cosa o due." },
-    { "gameKey": "quest/035/LucKzh008_03518#TEXT_LUCKZH008_03518_TODO_00", "hash": "31A2D60E736F65EA", "target": "Raccogliere informazioni nei Relitti" },
-    { "gameKey": "quest/035/LucKzh008_03518#TEXT_LUCKZH008_03518_TODO_01", "hash": "1172F4FA56A70F09", "target": "Parlare con Zoi-Chorr" },
+    { "gameKey": "quest/035/LucKzh008_03518#TEXT_LUCKZH008_03518_TODO_00", "hash": "31A2D60E736F65EA", "target": "Raccogli informazioni nei Relitti" },
+    { "gameKey": "quest/035/LucKzh008_03518#TEXT_LUCKZH008_03518_TODO_01", "hash": "1172F4FA56A70F09", "target": "Parla con Zoi-Chorr" },
     { "gameKey": "quest/035/LucKzh008_03518#TEXT_LUCKZH008_03518_ZOICHORR_000_000", "hash": "6BBDC50EB7E53C96", "target": "Salve, <if(gnum4,peccatrice,peccatore)>. Se ti chiedi della sedia, un piccolo vantaggio del mio mestiere è poter tenere per me qualche oggetto di lusso. Sono un fornitore, vedi." },
     { "gameKey": "quest/035/LucKzh008_03518#TEXT_LUCKZH008_03518_ZOICHORR_000_001", "hash": "7DA1CA2DD032783A", "target": "Pensami come... un mercante, ma senza bottega. Capisco semplicemente di cosa ha bisogno la gente e mi assicuro che lo ottenga." },
     { "gameKey": "quest/035/LucKzh008_03518#TEXT_LUCKZH008_03518_ZOICHORR_000_002", "hash": "2E4F67D350DFCF65", "target": "Ora, tu... mi sembra che <italic(1)>a te<italic(0)> serva un modo interessante per occupare il tempo. Posso fornirtelo. E in cambio mi porterai delle informazioni. Ti sembra giusto?" },

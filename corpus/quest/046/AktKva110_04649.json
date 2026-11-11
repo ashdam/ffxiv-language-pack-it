@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/046/AktKva110_04649#TEXT_AKTKVA110_04649_SEQ_00", "hash": "1135952B1E8ACB2B", "target": "Kokoshu ha l'aria di chi ha un messaggio da comunicare." },
-    { "gameKey": "quest/046/AktKva110_04649#TEXT_AKTKVA110_04649_TODO_00", "hash": "0118B10C73C80CF3", "target": "Parlare con Kokoshu nel Quartiere Governativo" },
-    { "gameKey": "quest/046/AktKva110_04649#TEXT_AKTKVA110_04649_TODO_01", "hash": "58788ECC44C71DB7", "target": "Parlare di nuovo con Kokoshu" },
+    { "gameKey": "quest/046/AktKva110_04649#TEXT_AKTKVA110_04649_TODO_00", "hash": "0118B10C73C80CF3", "target": "Parla con Kokoshu nel Quartiere Governativo" },
+    { "gameKey": "quest/046/AktKva110_04649#TEXT_AKTKVA110_04649_TODO_01", "hash": "58788ECC44C71DB7", "target": "Parla di nuovo con Kokoshu" },
     { "gameKey": "quest/046/AktKva110_04649#TEXT_AKTKVA110_04649_KOKOSHU_000_001", "hash": "40711CDA5D83AA02", "target": "<if(gnum4,Signora,Signor)> <split(<string(gstr1)>, ,2)>. Sono lieta di informarvi che l'archivio sotterraneo da voi scoperto è stato interamente inventariato." },
     { "gameKey": "quest/046/AktKva110_04649#TEXT_AKTKVA110_04649_KOKOSHU_000_002", "hash": "E2D897A637182519", "target": "E, come Sua Maestà ha già detto, desidera discutere con voi di persona ciò che abbiamo trovato." },
     { "gameKey": "quest/046/AktKva110_04649#TEXT_AKTKVA110_04649_KOKOSHU_000_003", "hash": "20F03B3D1E912E1B", "target": "Avete un momento per prendere il tè con la sultana?" },

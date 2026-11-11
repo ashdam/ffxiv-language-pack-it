@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKzi018_03554#TEXT_LUCKZI018_03554_SEQ_00", "hash": "E7C715A4EA92B444", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>La nana preoccupata è alle prese con i suoi timori." },
-    { "gameKey": "quest/035/LucKzi018_03554#TEXT_LUCKZI018_03554_TODO_00", "hash": "33AE8974973C087E", "target": "Parlare con la nana imbronciata" },
-    { "gameKey": "quest/035/LucKzi018_03554#TEXT_LUCKZI018_03554_TODO_01", "hash": "8E7D4CB18067292A", "target": "Usare /cheer per rallegrare la nana imbronciata" },
-    { "gameKey": "quest/035/LucKzi018_03554#TEXT_LUCKZI018_03554_TODO_02", "hash": "B7AD42FABEA5C2D0", "target": "Parlare con la nana preoccupata" },
+    { "gameKey": "quest/035/LucKzi018_03554#TEXT_LUCKZI018_03554_TODO_00", "hash": "33AE8974973C087E", "target": "Parla con la nana imbronciata" },
+    { "gameKey": "quest/035/LucKzi018_03554#TEXT_LUCKZI018_03554_TODO_01", "hash": "8E7D4CB18067292A", "target": "Usa /cheer per rallegrare la nana imbronciata" },
+    { "gameKey": "quest/035/LucKzi018_03554#TEXT_LUCKZI018_03554_TODO_02", "hash": "B7AD42FABEA5C2D0", "target": "Parla con la nana preoccupata" },
     { "gameKey": "quest/035/LucKzi018_03554#TEXT_LUCKZI018_03554_GOSSIP03554_000_000", "hash": "39E8B1203C272429", "target": "Spero che stia bene..." },
     { "gameKey": "quest/035/LucKzi018_03554#TEXT_LUCKZI018_03554_GOSSIP03554_000_001", "hash": "8227C92ECDB2088A", "target": "Oh, lali-ho! Scusa, ero persa nel mio piccolo mondo..." },
     { "gameKey": "quest/035/LucKzi018_03554#TEXT_LUCKZI018_03554_GOSSIP03554_000_002", "hash": "732CDB4DF1EF6DFB", "target": "Non riesco a togliermi quell'immagine dalla testa: la mia migliore amica che incontra in segreto uno di quei Gogg sporchi e spregevoli. Se gli altri lo sapessero, il suo onore sarebbe perduto!" },

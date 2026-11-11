@@ -5,7 +5,7 @@
     { "gameKey": "quest/000/ClsHrv001_00003#TEXT_CLSHRV001_00003_SEQ_00", "hash": "8736070346759CBD", "target": "Leonceault vuole che tu confermi il desiderio di unirti alla Gilda dei Botanici." },
     { "gameKey": "quest/000/ClsHrv001_00003#TEXT_CLSHRV001_00003_SEQ_01", "hash": "4BC03D91B0797A05", "target": "Leonceault ti ha indirizzato a Fufucha, la capogilda della Gilda dei Botanici. Cercala e convincila del tuo desiderio di imparare." },
     { "gameKey": "quest/000/ClsHrv001_00003#TEXT_CLSHRV001_00003_SEQ_02", "hash": "2E88D5E7CFEA2604", "target": "Dopo averti accolto nella gilda, Fufucha ti dona un'accetta logora per aiutarti nei primi passi. Impugna l'attrezzo del tuo nuovo mestiere e parlale di nuovo perché ti assegni il primo incarico da <if(gnum4,botanica,botanico)>." },
-    { "gameKey": "quest/000/ClsHrv001_00003#TEXT_CLSHRV001_00003_TODO_00", "hash": "DDA3B871A6705AB0", "target": "Parlare con Fufucha" },
+    { "gameKey": "quest/000/ClsHrv001_00003#TEXT_CLSHRV001_00003_TODO_00", "hash": "DDA3B871A6705AB0", "target": "Parla con Fufucha" },
     { "gameKey": "quest/000/ClsHrv001_00003#TEXT_CLSHRV001_00003_LEONCEAULT_000_1", "hash": "7CE9674F218BBD4A", "target": "<if(gnum4,Pronta,Pronto)> a iscrivervi alla Gilda dei Botanici, suppongo?" },
     { "gameKey": "quest/000/ClsHrv001_00003#TEXT_CLSHRV001_00003_LEONCEAULT_000_2", "hash": "9BA2CAB8E28D544F", "target": "Non siete ancora <if(gnum4,certa,certo)> di volervi unire a noi? Capisco." },
     { "gameKey": "quest/000/ClsHrv001_00003#TEXT_CLSHRV001_00003_LEONCEAULT_000_3", "hash": "22A5D48A87FCF839", "target": "Le nostre porte sono sempre aperte a chi vuole conoscere la foresta e gli alberi. Prendetevi tutto il tempo che vi serve per decidere." },

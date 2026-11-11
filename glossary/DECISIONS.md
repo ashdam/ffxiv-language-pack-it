@@ -10,6 +10,7 @@ Scelte successive confermate: Highlander = Altomonte; Midlander = Mezzocolle; Wa
 | --- | --- | --- |
 | The Wolves' Den | L'Antro dei Lupi | Destinazione e arena PvP |
 | Ultima Weapon | Ultima Arma | Etichetta Open Content Candidate che rimanda all'arma Ultima Weapon |
+| Jade Heartstone | Pietracuore di Giada | EventItem#2002545 e i riferimenti al Pietracuore di Toddia; distinguere le pietre del cuore generiche di altre gemme. |
 | Miscellany | Oggetti Vari | Categoria del forziere di Compagnia Libera |
 | Priority Aetheryte Pass | Pass Eterite Prioritario | Status/bonus per il teletrasporto prioritario |
 | Preferred World Bonus | Bonus Mondo Preferenziale | Bonus per personaggio su Mondo Preferito |
@@ -17,7 +18,7 @@ Scelte successive confermate: Highlander = Altomonte; Midlander = Mezzocolle; Wa
 | Leap of Faith | Salto della Fede | Titolo del GATE del Gold Saucer |
 | Duskwight | Crepuscolare / Crepuscolari | Nome del clan/tribu dei Duskwight |
 | Seeker of the Sun | Cercasole | Clan dei Cercasole in prosa e label Tribe |
-| Sylphs | Silfi | Nome del popolo; non applicare al nome proprio Sylphie o automaticamente a nemici e oggetti |
+| Sylphs | Silfidi | Nome del popolo (silfide/silfidi, genere grammaticale femminile); non applicare al nome proprio Sylphie o automaticamente a nemici e oggetti |
 | Game QA | QA del Gioco | Etichetta status OnlineStatus#1 |
 | Battle Mentor | Mentore di Battaglia | Etichetta status OnlineStatus#11 |
 | Viewing Cutscene | In una Scena | Etichetta status OnlineStatus#15 |
@@ -151,7 +152,7 @@ Scelte successive confermate: Highlander = Altomonte; Midlander = Mezzocolle; Wa
 | Morbol/Malboro in prosa generica | prosa generica: molboro/molbori; titoli e nomi completi secondo fonte | 22 occorrenze difformi in corpus main |
 | Ul'dahn | Ul'dahno con apostrofo; varianti di Ul'dah valide | Demonimo di Ul'dah in prosa e nelle label nominali |
 | Eulmoran | eulmorano/eulmorana/eulmorani/eulmorane main | demonimo/aggettivo Eulmoran |
-| coeurl | iaguaro/iaguari main | specie coeurl in prosa generica |
+| coeurl | iaguaro/iaguari in tutto il corpus (con `lo`/`uno`/`gli`); `Coeurlfist` -> `Pugnoiaguaro`; `Coeurlclaw(s)` -> `Zanne di Iaguaro`; `Coeurlregina` -> `Iaguaroregina`; `bandercoeurl` -> `banderiaguaro/i`; `Coeurl o' Nine Tails` -> `Iaguaro dalle Nove Code`; adattamenti Monaco e `Enter the Coeurl` -> `L'Arrivo dello Iaguaro`; esclusi `CreditListText#4642` e `Action#699`–`#700` | specie coeurl, composti, titoli, abilità e linee correlate in tutto il corpus (10 novembre 2026) |
 | Nagxian | nagxiano/nagxiana/nagxiani/nagxiane in prosa; «di Nagxia» per origine geografica; label complete per fonte | Demonimo/aggettivo di Nagxia in prosa; distinto da origine geografica e label complete |
 | Tonberry | Tomberry in prosa, invariabile | specie tonberry in prosa generica; titoli e label completi seguono il campo sorgente |
 | Cactuar | Kyactus | specie generica Cactuar in prosa e label |
@@ -176,5 +177,23 @@ Scelte successive confermate: Highlander = Altomonte; Midlander = Mezzocolle; Wa
 | Children of the Everlasting Dark | Figli del Buio Eterno | Setta/fazione religiosa di Rak'tika, distinta dai Benedetti della Notte |
 | Sea of Clouds | Mare di Nuvole | Nome del mare in prosa, `ContentFinderConditionTransient#11` |
 | The Smoldering Bedchamber | Camera da Letto delle Braci | Nome del luogo nell'etichetta del percorso VVD |
+| Doxy's Pull | Canale del Diavolo | Toponimo ricorrente; applicato alle occorrenze narrative con adattamento sintattico. Decisione dell'utente dell'11 novembre 2026. |
+| Pom <Spell/Motif/Muse> | Pom <Magia/Motivo/Musa> (`Pom Meteora`, `Pom Sancta`, `Pom Cura`, `Doppia Pom Meteora`, `Pom Motivo`, `Pom Musa`) | Magie dei Moguri e abilita Pittomante con prefisso `Pom`; ordine `Pom <termine>` applicato in tutto il corpus. Decisione dell'utente dell'11 novembre 2026. |
+| Choco <Action> | Choco <Azione> (`Choco Meteora`, `Doppie Choco Lame`, `Choco Massacro`, `Choco Cura`, ecc.) | Canone prefissato `Choco ...` per le abilita e magie Chocobo (`Action`, `Status`, corse chocobo, oggetti/testi correlati). Decisione dell'utente dell'11 novembre 2026. |
+| Honey B. Lovely / Honey B. / Honey <move> | `Dolce E. Adorabile` / `Dolce E.` / `Dolce ...` (`Dolce E. dal Vivo`, `Dolce E. Finale`, `Dolce Raggio`, `Dolce Ape Mia`) | Adattamento di `BNpcName#12685` e riferimenti nel corpus (escluso `CreditListText#5687`) e delle relative mosse. Decisione dell'utente dell'11 novembre 2026. |
+| Eikonizer | Eonizzatore | `Action#6938`, `#7597`. Decisione dell'utente dell'11 novembre 2026. |
+| Mindjack | Controllo Mentale (`Controllo Mentale: Marcia Avanti`, `Dietrofront`, `Fronte a Sinistra`, `Fronte a Destra`) | `Action#8270`, `#8954`, `#17599`, `#48187`, `#9319`–`#9322` e riferimenti correlati. Decisione dell'utente dell'11 novembre 2026. |
+| Camp Dragonhead | Campo Testadrago | Decisione dell'utente dell'11 novembre 2026: tutto il corpus, incluse PlaceName#388.0/.2, Adventure#2162762.13 e le etichette dei dipinti Item#17110. Sostituisce Campo Capodrago; Dragonhead senza Camp resta distinto. |
+| Landlord Colony | Colonia dei Signori di Sotto | Decisione dell'utente dell'11 novembre 2026: luogo e riferimenti pertinenti, comprese PlaceName#2014.0/.2 e Adventure#2162819.13; sostituisce Colonia dei Signori della Terra. |
+| Ice Bombard(s) | Bombarda / Bombarde di ghiaccio | Decisione dell'utente dell'11 novembre 2026: BNpcName#10193.0/.2 e Fate#1710.1 e quest/040/FesSum701_04082#TEXT_FESSUM701_04082_SEQ_05; sostituisce Piro/Piros di ghiaccio per questo referente, distinti ice bomb e Bombard senza Ice. |
+| Artifact(s), ricerca con droni nell'Esplorazione Cosmica | manufatto / manufatti | Decisione dell'utente riconfermata l'11 novembre 2026: EObjName#2015138.0/.2, Completion#4067.3 e custom/009/CtsWksTreasure_00966; sostituisce reperto/reperti e artefatto/artefatti in questo ambito. Non estendere alle armature reliquia o ai manufatti di altre attivita'. |
+| The Presence Chamber | Sala delle Udienze | Decisione dell'utente dell'11 novembre 2026: PlaceName#872.0/.2 e #3389.0/.2 e riferimenti allo stesso toponimo; sostituisce Camera d'Udienza. |
+| Alexandrite, catalizzatore | Alexandrite | Decisione dell'utente riconfermata l'11 novembre 2026: catalizzatore delle armi dello Zodiaco, varianti perfette e riusi dello stesso materiale; include Item#7883/#9509 e PointMenuString#63. Il minerale comune, incluso il rompicapo KinGmi106_05369, resta alessandrite. |
+| Attributi BaseParam, 25 etichette | Scelte individuali dell'11 novembre 2026 registrate per gameKey in overrides.json; fra le nuove rese: Potenza Magica, Potenza Curativa e Velocità Tecniche | Etichette BaseParam e richiami allo stesso parametro nella UI e nei bonus. BaseParam#47.1 = Rapidità, distinto da Haste (incantesimo/status) e Celerità (effetto di piano). Eccezioni nominali e prosa descrittiva restano contestuali; vedi Glossary.md, Etichette degli attributi. |
+| Gatekeeper, titolo | Guardiano dei Cancelli | Decisione dell'utente dell'11 novembre 2026: Title#207.1, al posto di Custode delle Porte; la variante in prosa e gli altri omonimi restano distinti. |
+| Red Rooster Stead | Fattoria del Gallo Rosso | Decisione dell'utente dell'11 novembre 2026: anche nel titolo del Diario Esplorazione Adventure#2162694.13; sostituisce la variante storica Il Gallo Rosso in quel campo. |
+| Buscarron's Druthers | Locanda di Buscarron | Decisione dell'utente dell'11 novembre 2026: anche nel titolo del Diario Esplorazione Adventure#2162731.13; sostituisce la variante storica Il Capriccio di Buscarron in quel campo. |
+| Titoli Adventure, gruppo di 26 discrepanze | Forme del corpus confermate per 25 titoli; eccezione Steps of the Speaker = I Gradini dell'Oratore | Decisione dell'utente dell'11 novembre 2026: scelte per gameKey registrate nelle rispettive regole di overrides.json. Adventure#2163027.13, PlaceName#4723.0/.2, dipinti Item#44409 e riferimenti in KinGmf110_04955 usano Gradini dell'Oratore. |
+| Sei termini di AkatsukiNoteString | Forme del corpus confermate: Ricettacolo dell'Anima; Tural Vidraal; La Guerra dei Fulmini; Oblivion; Voto della Risolutezza di Tuliyollal; Re della Risolutezza di Alexandria | Decisione dell'utente dell'11 novembre 2026: #113–#114, #147–#148, #150–#151, #156–#157, #168 e #176 e richiami agli stessi referenti; dettagli in Glossary.md e overrides.json. |
 
-I nomi dei Loporrit seguono gli adattamenti confermati in `-olo`, elencati in Glossary.md e nei JSON nominali. La vecchia regola di conservare tutti i nomi in `-way` e' superata.
+I nomi dei Loporrit seguono gli adattamenti confermati dall'utente (prevalentemente in `-alo`/`-ilo`, con alcune forme in `-olo`, e `Way`/`Ways` -> `Lo`), elencati in Glossary.md e nei JSON nominali. La vecchia regola di conservare tutti i nomi in `-way` e' superata.

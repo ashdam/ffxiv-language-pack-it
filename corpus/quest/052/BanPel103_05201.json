@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_SEQ_00", "hash": "03AE263C16CD3968", "target": "Yubli è preoccupato per le incursioni dei mostri affamati.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
-    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_TODO_00", "hash": "5F9CAC6F07CA5489", "target": "Esaminare il luogo indicato e sconfiggere gli u'out che compaiono" },
-    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_TODO_01", "hash": "3EA8A9922C3BD9CB", "target": "Parlare con Yubli" },
+    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_TODO_00", "hash": "5F9CAC6F07CA5489", "target": "Esamina il luogo indicato e sconfiggi gli u'out che compaiono" },
+    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_TODO_01", "hash": "3EA8A9922C3BD9CB", "target": "Parla con Yubli" },
     { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_YUBLI_000_000", "hash": "91302F8F5E9B350D", "target": "È confortante vedere il Molo di Poga così vivace e affollato, ma il maggiore viavai ha attirato alcuni... visitatori indesiderati." },
     { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_YUBLI_000_001", "hash": "EF93155022674E3D", "target": "Siamo alle prese con un'infestazione di u'out. Per proteggere i clienti da quei fitomorfi erranti, dovremo ridurne regolarmente il numero..." },
     { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_YUBLI_000_002", "hash": "11571939EBB0B2AA", "target": "Apprezzerei l'assistenza <if(gnum4,della nostra consulente speciale,del nostro consulente speciale)> in questa questione! Sono stati segnalati avvistamenti nel Passo del Sole. Esaminate la zona e affrontate tutti gli u'out che compariranno!" },

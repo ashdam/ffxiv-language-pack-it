@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/033/LucKmc102_03323#TEXT_LUCKMC102_03323_SEQ_00", "hash": "FE0AD9E174920856", "target": "Urianger sembra assorto nei suoi pensieri." },
-    { "gameKey": "quest/033/LucKmc102_03323#TEXT_LUCKMC102_03323_TODO_00", "hash": "981E56C90E0FC2DE", "target": "Esaminare la zona" },
-    { "gameKey": "quest/033/LucKmc102_03323#TEXT_LUCKMC102_03323_TODO_01", "hash": "F9C774113F96D41E", "target": "Cercare la tavoletta consunta" },
-    { "gameKey": "quest/033/LucKmc102_03323#TEXT_LUCKMC102_03323_TODO_02", "hash": "B3DA6EE292DE3CDC", "target": "Parlare con Urianger" },
+    { "gameKey": "quest/033/LucKmc102_03323#TEXT_LUCKMC102_03323_TODO_00", "hash": "981E56C90E0FC2DE", "target": "Esamina la zona" },
+    { "gameKey": "quest/033/LucKmc102_03323#TEXT_LUCKMC102_03323_TODO_01", "hash": "F9C774113F96D41E", "target": "Cerca la tavoletta consunta" },
+    { "gameKey": "quest/033/LucKmc102_03323#TEXT_LUCKMC102_03323_TODO_02", "hash": "B3DA6EE292DE3CDC", "target": "Parla con Urianger" },
     { "gameKey": "quest/033/LucKmc102_03323#TEXT_LUCKMC102_03323_THANCRED_000_000", "hash": "CBEC1F42F89C0143", "target": "Non dubito che questo luogo possa resistere a un altro assalto dei divorapeccati, ma se gli eulmorani tornassero in forze sarebbe tutt'altra storia." },
     { "gameKey": "quest/033/LucKmc102_03323#TEXT_LUCKMC102_03323_THANCRED_000_001", "hash": "742A5169A8403176", "target": "Detto questo, i soldati di guardia potrebbero sfruttare il terreno a proprio vantaggio... Mh. Vedrò se riesco a convincere il capitano a piazzare qualche trappola nei dintorni." },
     { "gameKey": "quest/033/LucKmc102_03323#TEXT_LUCKMC102_03323_RYNE_000_005", "hash": "042AC2172D154931", "target": "Io e Thancred abbiamo già incontrato chiese in rovina come queste. Vorrei averle viste prima del Diluvio. Dicono che le finestre fossero opere d'arte..." },
@@ -22,12 +22,12 @@
     { "gameKey": "quest/033/LucKmc102_03323#TEXT_LUCKMC102_03323_URIANGER_000_040", "hash": "B0CACB53E9DC0096", "target": "...Sì. Questa è proprio la chiesa che cerchiamo." },
     { "gameKey": "quest/033/LucKmc102_03323#TEXT_LUCKMC102_03323_RYNE_000_041", "hash": "8E4A1CC58E946B98", "target": "È sorprendentemente intatta." },
     { "gameKey": "quest/033/LucKmc102_03323#TEXT_LUCKMC102_03323_RYNE_000_042", "hash": "A7EF52DA7325296A", "target": "Quel poco che resta delle chiese che ho visto finora portava sempre i segni di decenni di abbandono." },
-    { "gameKey": "quest/033/LucKmc102_03323#TEXT_LUCKMC102_03323_URIANGER_000_043", "hash": "B87DB680E5B6B029", "target": "L'ubicazione sotterranea ha protetto egregiamente la sala dalle ingiurie del tempo. Eppure, la ragione del suo straordinario stato di conservazione si può dedurre dalle decorazioni." },
+    { "gameKey": "quest/033/LucKmc102_03323#TEXT_LUCKMC102_03323_URIANGER_000_043", "hash": "B87DB680E5B6B029", "target": "La sua posizione sotterranea ha protetto egregiamente la sala dalle ingiurie del tempo. Eppure, la ragione del suo straordinario stato di conservazione si può dedurre dalle decorazioni." },
     { "gameKey": "quest/033/LucKmc102_03323#TEXT_LUCKMC102_03323_URIANGER_000_044", "hash": "032CE606F62EDBB9", "target": "Al declinare della fede nella Luce, crebbe la venerazione per l'Oscurità." },
     { "gameKey": "quest/033/LucKmc102_03323#TEXT_LUCKMC102_03323_URIANGER_000_045", "hash": "D5244434B8707F68", "target": "...E ai suoi seguaci mancavano luoghi di culto. Invero, gli stendardi che adornano queste pareti non appartengono a coloro che le edificarono, bensì agli adoratori dell'Oscurità─i Benedetti della Notte." },
     { "gameKey": "quest/033/LucKmc102_03323#TEXT_LUCKMC102_03323_THANCRED_000_046", "hash": "CBCB3F47DEFF47D7", "target": "...Che in seguito migrarono a Rak'tika, giusto?" },
     { "gameKey": "quest/033/LucKmc102_03323#TEXT_LUCKMC102_03323_URIANGER_000_047", "hash": "2BAFD732AB5E6D5C", "target": "Proprio così. Sotto le fronde ombrose della Grande Foresta di Rak'tika trovarono infine rifugio." },
-    { "gameKey": "quest/033/LucKmc102_03323#TEXT_LUCKMC102_03323_URIANGER_000_048", "hash": "C2E00A354EB89591", "target": "Più e più volte Eulmore rivolse loro false proposte d'amicizia, ma essi non sono certo degli stolti." },
+    { "gameKey": "quest/033/LucKmc102_03323#TEXT_LUCKMC102_03323_URIANGER_000_048", "hash": "C2E00A354EB89591", "target": "Più e più volte Eulmore rivolse loro false proposte d'amicizia, ma non sono certo degli stolti." },
     { "gameKey": "quest/033/LucKmc102_03323#TEXT_LUCKMC102_03323_URIANGER_000_049", "hash": "BEE2673767832DA5", "target": "L'Esarca sa bene che Y'shtola, nel suo isolamento, si adopera per apprendere quanto più può sui Benedetti e sul loro passato. Ora comprendo perché ci ha mandati qui." },
     { "gameKey": "quest/033/LucKmc102_03323#TEXT_LUCKMC102_03323_URIANGER_000_050", "hash": "1D18F4847ECD8412", "target": "La tavoletta di cui parlava offrirà senza dubbio uno scorcio sulla storia che ella tanto anela a comprendere." },
     { "gameKey": "quest/033/LucKmc102_03323#TEXT_LUCKMC102_03323_THANCRED_000_051", "hash": "173289DBFBD6436D", "target": "Allora─sarà meglio trovarla in fretta." },
@@ -41,6 +41,6 @@
     { "gameKey": "quest/033/LucKmc102_03323#TEXT_LUCKMC102_03323_URIANGER_000_100", "hash": "4A5EE6F6455BF4C8", "target": "Nulla sfugge al tuo sguardo, a quanto pare. Questa è proprio la tavoletta che cerchiamo." },
     { "gameKey": "quest/033/LucKmc102_03323#TEXT_LUCKMC102_03323_URIANGER_000_101", "hash": "C81FEB99F808570A", "target": "Curioso... Queste incisioni precedono i Benedetti della Notte. Se non m'inganno, sono vergate nella scrittura dell'antico impero di Ronka, la cui capitale un tempo sorgeva nel cuore di quella che oggi è Rak'tika." },
     { "gameKey": "quest/033/LucKmc102_03323#TEXT_LUCKMC102_03323_URIANGER_000_102", "hash": "97555AEDA14B56E8", "target": "Decifrarle non sarà impresa da poco... Mh! Un dono eccellente per la nostra cercatrice della verità. È evidente che l'Esarca conosce Y'shtola fin troppo bene..." },
-    { "gameKey": "quest/033/LucKmc102_03323#TEXT_LUCKMC102_03323_URIANGER_000_103", "hash": "726D6CA33D3FB2AB", "target": "Ma orsù─lasciamo questo luogo e prepariamoci al viaggio nella foresta." }
+    { "gameKey": "quest/033/LucKmc102_03323#TEXT_LUCKMC102_03323_URIANGER_000_103", "hash": "726D6CA33D3FB2AB", "target": "Ma ora─lasciamo questo luogo e prepariamoci al viaggio nella foresta." }
   ]
 }

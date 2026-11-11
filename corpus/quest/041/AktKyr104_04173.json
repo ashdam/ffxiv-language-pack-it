@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_SEQ_00", "hash": "FE5DB4F1C6C94A54", "target": "Un membro dall'aspetto robusto della Guardia Radiosa ti attende per parlarti di una nuova struttura." },
-    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_TODO_00", "hash": "45C3EB45A346D718", "target": "Parlare con sharp-eyed Radiant alla Piazzola di Palaka" },
+    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_TODO_00", "hash": "45C3EB45A346D718", "target": "Parla con sharp-eyed Radiant alla Piazzola di Palaka" },
     { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORA04171_000_000", "hash": "084A93000271B9E0", "target": "Salve, <if(gnum4,avventuriera,avventuriero)>! Speravo davvero che un giorno sareste <if(gnum4,tornata,tornato)> nella nostra bella città." },
     { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORA04171_000_001", "hash": "8FA9EA08A7BCDBCB", "target": "Dopotutto, è grazie a voi e agli Eredi che ora posso stare qui davanti a voi! E in segno di gratitudine vorrei condividere con voi qualcosa di utile." },
     { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORA04171_000_002", "hash": "0FB695E5B5135670", "target": "Anche se non sarò io a spiegarvi di cosa si tratta: cercate sharp-eyed Radiant, che presta servizio con me alla Piazzola di Palaka, per saperne di più. Che gli dei vi accompagnino!" },

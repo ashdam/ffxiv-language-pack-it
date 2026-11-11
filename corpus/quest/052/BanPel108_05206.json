@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/052/BanPel108_05206#TEXT_BANPEL108_05206_SEQ_00", "hash": "43BE08CE2DF8F275", "target": "Yubli chiede il tuo aiuto per recuperare un oggetto smarrito.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
-    { "gameKey": "quest/052/BanPel108_05206#TEXT_BANPEL108_05206_TODO_00", "hash": "C4FE4029B944F740", "target": "Cercare la borsa smarrita" },
-    { "gameKey": "quest/052/BanPel108_05206#TEXT_BANPEL108_05206_TODO_01", "hash": "EDA6A65FA9A12CC2", "target": "Consegnare la borsa smarrita a Yubli" },
+    { "gameKey": "quest/052/BanPel108_05206#TEXT_BANPEL108_05206_TODO_00", "hash": "C4FE4029B944F740", "target": "Cerca la borsa smarrita" },
+    { "gameKey": "quest/052/BanPel108_05206#TEXT_BANPEL108_05206_TODO_01", "hash": "EDA6A65FA9A12CC2", "target": "Consegna la borsa smarrita a Yubli" },
     { "gameKey": "quest/052/BanPel108_05206#TEXT_BANPEL108_05206_YUBLI_000_001", "hash": "E1CFC00EC4C9D970", "target": "È un bel dilemma. Un ospite è venuto a dirmi di aver perso qualcosa di piuttosto importante durante una passeggiata. Il problema è che tutto il resto del personale è attualmente impegnato..." },
     { "gameKey": "quest/052/BanPel108_05206#TEXT_BANPEL108_05206_YUBLI_000_002", "hash": "111C637111AB0DAC", "target": "Temo che sia un lavoro per l'agile consulente dell'Agenzia Viaggi di Tural. Posso chiedervi di trovare l'oggetto smarrito? Dovremmo agire in fretta, prima che venga rubato o trascinato a valle." },
     { "gameKey": "quest/052/BanPel108_05206#TEXT_BANPEL108_05206_YUBLI_000_003", "hash": "951625449573188C", "target": "Cercate una borsa di tela, per favore. Il cliente crede di averla persa al Respiro Sospeso." },

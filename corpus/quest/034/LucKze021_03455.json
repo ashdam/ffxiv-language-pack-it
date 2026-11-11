@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/034/LucKze021_03455#TEXT_LUCKZE021_03455_SEQ_00", "hash": "9F24779E2FCA3B36", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Hargra deve consegnare qualcosa a suo fratello con la massima urgenza." },
-    { "gameKey": "quest/034/LucKze021_03455#TEXT_LUCKZE021_03455_TODO_00", "hash": "6776983E51CEDE48", "target": "Consegnare il well-worn diario all'Hume dai capelli rossi" },
-    { "gameKey": "quest/034/LucKze021_03455#TEXT_LUCKZE021_03455_TODO_01", "hash": "41FF5BA628407783", "target": "Fare rapporto a Hargra" },
+    { "gameKey": "quest/034/LucKze021_03455#TEXT_LUCKZE021_03455_TODO_00", "hash": "6776983E51CEDE48", "target": "Consegna il well-worn diario all'Hume dai capelli rossi" },
+    { "gameKey": "quest/034/LucKze021_03455#TEXT_LUCKZE021_03455_TODO_01", "hash": "41FF5BA628407783", "target": "Fai rapporto a Hargra" },
     { "gameKey": "quest/034/LucKze021_03455#TEXT_LUCKZE021_03455_HARGRA_000_000", "hash": "FDE19AC3ED40028F", "target": "Ti prego, <if(gnum4,signorina,signore)>, puoi aiutarmi?" },
     { "gameKey": "quest/034/LucKze021_03455#TEXT_LUCKZE021_03455_HARGRA_100_000", "hash": "7E2069DDDC146813", "target": "Mio fratello è partito da poco per il Crystarium, ma ha dimenticato il diario. Sarebbe disperato sapendo di averlo lasciato qui." },
     { "gameKey": "quest/034/LucKze021_03455#TEXT_LUCKZE021_03455_HARGRA_000_001", "hash": "7B016ED572E3084F", "target": "Se ti sbrighi, probabilmente lo troverai prima che arrivi a Terralago." },

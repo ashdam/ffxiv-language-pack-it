@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/041/AktKza016_04195#TEXT_AKTKZA016_04195_SEQ_00", "hash": "97984F05EEED5952", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Parbeloix cerca qualcuno abile con un'arma." },
-    { "gameKey": "quest/041/AktKza016_04195#TEXT_AKTKZA016_04195_TODO_00", "hash": "7C72287D54532CD0", "target": "Consultare l'illustrazione per trovare e recuperare il sample 316" },
-    { "gameKey": "quest/041/AktKza016_04195#TEXT_AKTKZA016_04195_TODO_01", "hash": "54226385FDBD3D54", "target": "Consegnare il sample 316 a Parbeloix" },
+    { "gameKey": "quest/041/AktKza016_04195#TEXT_AKTKZA016_04195_TODO_00", "hash": "7C72287D54532CD0", "target": "Consulta l'illustrazione per trovare e recupera il sample 316" },
+    { "gameKey": "quest/041/AktKza016_04195#TEXT_AKTKZA016_04195_TODO_01", "hash": "54226385FDBD3D54", "target": "Consegna il sample 316 a Parbeloix" },
     { "gameKey": "quest/041/AktKza016_04195#TEXT_AKTKZA016_04195_PARBELOIX_000_000", "hash": "5E6EB4C3D7C5690C", "target": "<if(gnum4,Signora,Signore)>, ehi, <if(gnum4,signora,signore)>. Sono un po' nei guai e mi chiedevo se potessi aiutare uno studente in difficoltà." },
     { "gameKey": "quest/041/AktKza016_04195#TEXT_AKTKZA016_04195_PARBELOIX_000_001", "hash": "5B42AD52344C99ED", "target": "Oh, certo, le presentazioni. Sono Parbeloix, dello Studium, dove studio i dettagli di batteri e funghi." },
     { "gameKey": "quest/041/AktKza016_04195#TEXT_AKTKZA016_04195_PARBELOIX_000_002", "hash": "DF0B810DB41C374C", "target": "Sono qui per raccogliere funghi di Labyrinthos per i miei esperimenti, ma temo di aver fatto il passo più lungo della gamba." },

@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/051/KinGzd104_05103#TEXT_KINGZD104_05103_SEQ_00", "hash": "0934CE7AF88F26D0", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Questo cacciatore prudente apprezzerebbe la tua discrezione." },
-    { "gameKey": "quest/051/KinGzd104_05103#TEXT_KINGZD104_05103_TODO_00", "hash": "7CF835FBFC9FA2BE", "target": "Parlare con il prudent hunter." },
-    { "gameKey": "quest/051/KinGzd104_05103#TEXT_KINGZD104_05103_TODO_01", "hash": "7237E357FECC7D24", "target": "Appostarsi nel luogo indicato e sconfiggere l'old-growth blue leafkin." },
-    { "gameKey": "quest/051/KinGzd104_05103#TEXT_KINGZD104_05103_TODO_02", "hash": "0B2EC03C61F1C2E8", "target": "Parlare con il prudent hunter." },
+    { "gameKey": "quest/051/KinGzd104_05103#TEXT_KINGZD104_05103_TODO_00", "hash": "7CF835FBFC9FA2BE", "target": "Parla con il prudent hunter." },
+    { "gameKey": "quest/051/KinGzd104_05103#TEXT_KINGZD104_05103_TODO_01", "hash": "7237E357FECC7D24", "target": "Appostati nel luogo indicato e sconfiggi l'old-growth blue leafkin." },
+    { "gameKey": "quest/051/KinGzd104_05103#TEXT_KINGZD104_05103_TODO_02", "hash": "0B2EC03C61F1C2E8", "target": "Parla con il prudent hunter." },
     { "gameKey": "quest/051/KinGzd104_05103#TEXT_KINGZD104_05103_THOUGHTFULHOOBIGO05103_000_000", "hash": "C5DE57DEB4A054EA", "target": "Sei <if(gnum4,una viaggiatrice,un viaggiatore)>, vero? Potrei chiederti aiuto per una cosa?" },
     { "gameKey": "quest/051/KinGzd104_05103#TEXT_KINGZD104_05103_THOUGHTFULHOOBIGO05103_000_001", "hash": "8D4F0A5E452DDF1E", "target": "Qui ci sono troppe orecchie indiscrete, vieni a incontrarmi dall'altra parte del Boschetto di Golmajiik." },
     { "gameKey": "quest/051/KinGzd104_05103#TEXT_KINGZD104_05103_THOUGHTFULHOOBIGO05103_000_002", "hash": "4B80553C0E392FD4", "target": "Bene, ce l'hai fatta. Mi serve il tuo aiuto per risolvere un problema piccolo ma piuttosto seccante. Hai mai sentito parlare dei blue leafkin?" },

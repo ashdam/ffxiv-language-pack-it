@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/052/BanMam113_05273#TEXT_BANMAM113_05273_SEQ_00", "hash": "059FF4EAD4CB9655", "target": "Kageel Ja cerca qualcuno che sappia cavalcare per aiutare a tenere lontani i parassiti.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
-    { "gameKey": "quest/052/BanMam113_05273#TEXT_BANMAM113_05273_TODO_00", "hash": "3E91A92357EFA7C1", "target": "Parlare con Ziraal Ja" },
-    { "gameKey": "quest/052/BanMam113_05273#TEXT_BANMAM113_05273_TODO_01", "hash": "19219CB72A25AB86", "target": "Cavalcare il branchbearer fino al Boschetto di Golmajiik e usare Shrouded Luminescence" },
-    { "gameKey": "quest/052/BanMam113_05273#TEXT_BANMAM113_05273_TODO_02", "hash": "9B2A036E77AB7CC3", "target": "Parlare con Kageel Ja" },
+    { "gameKey": "quest/052/BanMam113_05273#TEXT_BANMAM113_05273_TODO_00", "hash": "3E91A92357EFA7C1", "target": "Parla con Ziraal Ja" },
+    { "gameKey": "quest/052/BanMam113_05273#TEXT_BANMAM113_05273_TODO_01", "hash": "19219CB72A25AB86", "target": "Cavalca il branchbearer fino al Boschetto di Golmajiik e usa Shrouded Luminescence" },
+    { "gameKey": "quest/052/BanMam113_05273#TEXT_BANMAM113_05273_TODO_02", "hash": "9B2A036E77AB7CC3", "target": "Parla con Kageel Ja" },
     { "gameKey": "quest/052/BanMam113_05273#TEXT_BANMAM113_05273_KAGEELJA_000_000", "hash": "11D8EF3EF7E0D364", "target": "Al Boschetto di Golmajiik non si parla d'altro che della rapidità con cui i branchbearer hanno eliminato quei fastidiosi insetti. Anzi, di recente mi è arrivata una richiesta di disinfestazione da lì." },
     { "gameKey": "quest/052/BanMam113_05273#TEXT_BANMAM113_05273_KAGEELJA_000_001", "hash": "5FA19218EC48F0CA", "target": "Sai cavalcare, vero? Sali su uno dei nostri uccelli e dirigi le sue energie verso i najool. Sta' <if(gnum4,tranquilla,tranquillo)>, il tuo lavoro sarà ricompensato." },
     { "gameKey": "quest/052/BanMam113_05273#TEXT_BANMAM113_05273_KAGEELJA_000_002", "hash": "5EF7D043E48E2CE7", "target": "Mi hanno riferito che i parassiti sono rimasti per lo più lontani dai najool, ma non ce ne libereremo mai definitivamente. Ti dispiacerebbe andare al boschetto per un po' di manutenzione?" },

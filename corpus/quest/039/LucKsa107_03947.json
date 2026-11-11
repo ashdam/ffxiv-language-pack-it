@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/039/LucKsa107_03947#TEXT_LUCKSA107_03947_SEQ_00", "hash": "FA8B674D125E7DDA", "target": "Mikoto ha individuato un'altra corrente eterea." },
-    { "gameKey": "quest/039/LucKsa107_03947#TEXT_LUCKSA107_03947_TODO_00", "hash": "DDF239B715FDCEDB", "target": "Esaminare il luogo indicato" },
-    { "gameKey": "quest/039/LucKsa107_03947#TEXT_LUCKSA107_03947_TODO_01", "hash": "F088E248FBB8E22D", "target": "Parlare con Mikoto" },
-    { "gameKey": "quest/039/LucKsa107_03947#TEXT_LUCKSA107_03947_TODO_02", "hash": "928F16711B5F12B4", "target": "Parlare con Mikoto" },
+    { "gameKey": "quest/039/LucKsa107_03947#TEXT_LUCKSA107_03947_TODO_00", "hash": "DDF239B715FDCEDB", "target": "Esamina il luogo indicato" },
+    { "gameKey": "quest/039/LucKsa107_03947#TEXT_LUCKSA107_03947_TODO_01", "hash": "F088E248FBB8E22D", "target": "Parla con Mikoto" },
+    { "gameKey": "quest/039/LucKsa107_03947#TEXT_LUCKSA107_03947_TODO_02", "hash": "928F16711B5F12B4", "target": "Parla con Mikoto" },
     { "gameKey": "quest/039/LucKsa107_03947#TEXT_LUCKSA107_03947_SYSTEM_100_000", "hash": "3AEBE520D984CCF8", "target": "Per accettare questa missione è richiesto un grado della Resistenza di <num(lnum1)>." },
     { "gameKey": "quest/039/LucKsa107_03947#TEXT_LUCKSA107_03947_AMIGAR_120_000", "hash": "A184137BF31AD674", "target": "Riesci a credere a Bajsaljen e Marsak, che predicano quelle sciocchezze sulla dignità e l'uguaglianza? Si aspettano davvero che dimentichiamo la nostra stirpe? Tutto ciò che i nostri avi avevano conquistato prima che l'Impero se ne impadronisse?" },
     { "gameKey": "quest/039/LucKsa107_03947#TEXT_LUCKSA107_03947_ZWYNBHRUDA_120_001", "hash": "75062192F32CB993", "target": "Capisco il tuo dolore, amico mio, ma per ora dobbiamo tacere. Aspettare il nostro momento. Quando l'Impero sarà stato scacciato, potremo occuparci di Bajsaljen e degli altri." },

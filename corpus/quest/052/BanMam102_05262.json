@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/052/BanMam102_05262#TEXT_BANMAM102_05262_SEQ_00", "hash": "9155708ED6125762", "target": "Kageel Ja cerca qualcuno disposto a sporcarsi le mani per il terreno.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
-    { "gameKey": "quest/052/BanMam102_05262#TEXT_BANMAM102_05262_TODO_00", "hash": "2D5E80D70C480603", "target": "Esaminare i luoghi indicati in cerca di escrementi di wivre" },
-    { "gameKey": "quest/052/BanMam102_05262#TEXT_BANMAM102_05262_TODO_01", "hash": "89CB683459130BE6", "target": "Consegnare i sacchi di escrementi di wivre a Kubeel Ja" },
-    { "gameKey": "quest/052/BanMam102_05262#TEXT_BANMAM102_05262_TODO_02", "hash": "C62178C43B7D36FA", "target": "Parlare con Kageel Ja" },
+    { "gameKey": "quest/052/BanMam102_05262#TEXT_BANMAM102_05262_TODO_00", "hash": "2D5E80D70C480603", "target": "Esamina i luoghi indicati in cerca di escrementi di wivre" },
+    { "gameKey": "quest/052/BanMam102_05262#TEXT_BANMAM102_05262_TODO_01", "hash": "89CB683459130BE6", "target": "Consegna i sacchi di escrementi di wivre a Kubeel Ja" },
+    { "gameKey": "quest/052/BanMam102_05262#TEXT_BANMAM102_05262_TODO_02", "hash": "C62178C43B7D36FA", "target": "Parla con Kageel Ja" },
     { "gameKey": "quest/052/BanMam102_05262#TEXT_BANMAM102_05262_KAGEELJA_000_000", "hash": "A1A7A244FDFAB94C", "target": "Ah, che tempismo fortunato. Volevamo provare ad arricchire i campi con del letame e... be'... Potrei chiederti di raccogliere per noi degli escrementi di wivre?" },
     { "gameKey": "quest/052/BanMam102_05262#TEXT_BANMAM102_05262_KAGEELJA_000_001", "hash": "2169F93167A4F52E", "target": "Che piacere vederti, <if(gnum4,amica mia,amico mio)>. Ti farà piacere sapere che gli escrementi raccolti per noi si sono rivelati più efficaci di quanto osassimo sperare. Anzi, pensiamo di provarne altri con colture diverse. Potrei chiederti di raccoglierne ancora qualche sacco?" },
     { "gameKey": "quest/052/BanMam102_05262#TEXT_BANMAM102_05262_KAGEELJA_000_002", "hash": "611DC491F50EB13A", "target": "Non dovrai cercare lontano nel Cuore di Ja Tiika. I cacciatori che vi cercano funghi sono spesso accompagnati dai wivre. Se li vedi, troverai sicuramente tutto ciò che ci serve." },

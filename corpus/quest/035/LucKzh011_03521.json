@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKzh011_03521#TEXT_LUCKZH011_03521_SEQ_00", "hash": "BFBF199DAC077E39", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Il cittadino libero sconsolato lancia sguardi supplichevoli nella stanza, incrociando il tuo." },
-    { "gameKey": "quest/035/LucKzh011_03521#TEXT_LUCKZH011_03521_TODO_00", "hash": "6EBBBD2076553283", "target": "Cercare il servitore Mystel nei Relitti" },
-    { "gameKey": "quest/035/LucKzh011_03521#TEXT_LUCKZH011_03521_TODO_01", "hash": "996DCC9D29B710A5", "target": "Parlare con il cittadino libero sconsolato" },
+    { "gameKey": "quest/035/LucKzh011_03521#TEXT_LUCKZH011_03521_TODO_00", "hash": "6EBBBD2076553283", "target": "Cerca il servitore Mystel nei Relitti" },
+    { "gameKey": "quest/035/LucKzh011_03521#TEXT_LUCKZH011_03521_TODO_01", "hash": "996DCC9D29B710A5", "target": "Parla con il cittadino libero sconsolato" },
     { "gameKey": "quest/035/LucKzh011_03521#TEXT_LUCKZH011_03521_ARISTOCRAT03521_000_001", "hash": "78484994D5FB1F2D", "target": "Finalmente, qualcuno mi guarda. Non so perché, ma gli altri poveracci passati di qui hanno evitato il mio sguardo con grande impegno. Tutti terribilmente maleducati. Dovrebbero essere grati dell'opportunità di svolgere questo compito per me, un'opportunità che ora è tua." },
     { "gameKey": "quest/035/LucKzh011_03521#TEXT_LUCKZH011_03521_ARISTOCRAT03521_000_002", "hash": "FBEBF76BBE8E072A", "target": "In breve, voglio che trovi il mio servitore, che mi serve fedelmente da diversi anni. Di recente mi ha contrariato mettendo un po' troppo latte nel tè pomeridiano e, ahimè, senza pensarci l'ho spinto in mare." },
     { "gameKey": "quest/035/LucKzh011_03521#TEXT_LUCKZH011_03521_ARISTOCRAT03521_100_002", "hash": "1DEA777D8394DE48", "target": "Ora che la mia mente è libera dall'influenza di Vauthry, naturalmente provo un certo rimorso, soprattutto perché ho scoperto di essere del tutto incapace di allacciarmi gli stivali senza aiuto e sarò costretto a portare queste orrende scarpe fino al suo ritorno." },

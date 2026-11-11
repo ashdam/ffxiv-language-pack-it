@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/028/StmBdz622_02800#TEXT_STMBDZ622_02800_SEQ_00", "hash": "C9A359A9FCC3E246", "target": "Questo Mol mite ha bisogno dell'aiuto di un guerriero." },
-    { "gameKey": "quest/028/StmBdz622_02800#TEXT_STMBDZ622_02800_TODO_00", "hash": "08757DADEF2BCD47", "target": "Esaminare il luogo indicato e abbattere tutte le bestie che compaiono" },
-    { "gameKey": "quest/028/StmBdz622_02800#TEXT_STMBDZ622_02800_TODO_01", "hash": "66C2D8686BEDB298", "target": "Fare rapporto al Mol mite" },
+    { "gameKey": "quest/028/StmBdz622_02800#TEXT_STMBDZ622_02800_TODO_00", "hash": "08757DADEF2BCD47", "target": "Esamina il luogo indicato e sconfiggi tutte le bestie che compaiono" },
+    { "gameKey": "quest/028/StmBdz622_02800#TEXT_STMBDZ622_02800_TODO_01", "hash": "66C2D8686BEDB298", "target": "Fai rapporto al Mol mite" },
     { "gameKey": "quest/028/StmBdz622_02800#TEXT_STMBDZ622_02800_GENTLEMAN02800_000_000", "hash": "FCFB0C0C3DB87D91", "target": "Ehi, tu! Hai l'aria di aver abbattuto qualche bestia." },
     { "gameKey": "quest/028/StmBdz622_02800#TEXT_STMBDZ622_02800_GENTLEMAN02800_000_001", "hash": "57131754FC06229F", "target": "Oggi l'udgan mi ha detto che gli dèi vogliono che abbatta una bestia vicino al Trono del Crepuscolo." },
     { "gameKey": "quest/028/StmBdz622_02800#TEXT_STMBDZ622_02800_GENTLEMAN02800_000_002", "hash": "699819DC28F575BC", "target": "Ma io non ho mai ucciso nemmeno un insetto. E sono certamente troppo debole per affrontare una qualsiasi delle creature che vivono vicino al Trono del Crepuscolo. Oh, perché gli dèi mi hanno chiesto questo?" },

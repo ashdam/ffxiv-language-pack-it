@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_SEQ_00", "hash": "A821DF56C3B6AAF8", "target": "Regitt cerca altre mani per maneggiare materiali pericolosi.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
-    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_TODO_00", "hash": "CC4C83BE5E83125B", "target": "Posizionare l'esplosivo nel luogo indicato" },
-    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_TODO_01", "hash": "1E6834BF51EC820C", "target": "Parlare con il caposquadra nano" },
-    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_TODO_02", "hash": "FD55C4D2D9F22B4D", "target": "Fare rapporto a Regitt" },
+    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_TODO_00", "hash": "CC4C83BE5E83125B", "target": "Posiziona l'esplosivo nel luogo indicato" },
+    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_TODO_01", "hash": "1E6834BF51EC820C", "target": "Parla con il caposquadra nano" },
+    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_TODO_02", "hash": "FD55C4D2D9F22B4D", "target": "Fai rapporto a Regitt" },
     { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_REGITT_000_001", "hash": "6172390E8683B9C2", "target": "Da generazioni noi nani ci guadagniamo da vivere strappando alla terra le vene di minerali nascosti, con le nostre mani. " },
     { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_REGITT_000_002", "hash": "64D46EC066710B3C", "target": "Ma qui all'Incudine le mani scarseggiano e, crescendo l'attività, dobbiamo cercare fuori tutto l'aiuto possibile. E al momento pare che quell'aiuto sia tu!" },
     { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_REGITT_000_003", "hash": "4631B2743678B2E4", "target": "Va' all'Ora della Prigionia Certa, dove un mio operaio dirige gli scavi. Il lavoro è infinito e avrà certo un compito per le tue capacità." },

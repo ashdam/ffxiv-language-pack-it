@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/041/AktKyr201_04176#TEXT_AKTKYR201_04176_SEQ_00", "hash": "4F1A845E6F432A21", "target": "Il raccoglitore dalla corporatura minuta cerca <if(gnum4,un'avventuriera,un avventuriero)> in buona forma." },
-    { "gameKey": "quest/041/AktKyr201_04176#TEXT_AKTKYR201_04176_TODO_00", "hash": "2380EF279B34B170", "target": "Parlare con Northota" },
+    { "gameKey": "quest/041/AktKyr201_04176#TEXT_AKTKYR201_04176_TODO_00", "hash": "2380EF279B34B170", "target": "Parla con Northota" },
     { "gameKey": "quest/041/AktKyr201_04176#TEXT_AKTKYR201_04176_LITTLEGLEANER04176_000_001", "hash": "99A10E5CFA5BB575", "target": "...Mi ingannano gli occhi, o siete <string(gstr1)>?" },
     { "gameKey": "quest/041/AktKyr201_04176#TEXT_AKTKYR201_04176_LITTLEGLEANER04176_000_002", "hash": "AC2BA92CA8998A94", "target": "Ebbene, per tutte le stelle, <italic(1)>siete<italic(0)> proprio voi. Ah! Sapevo che vi avrei <if(gnum4,trovata,trovato)> prima degli altri. Chi è adesso la punta di diamante dei cacciatori della corporazione, eh!?" },
     { "gameKey": "quest/041/AktKyr201_04176#TEXT_AKTKYR201_04176_LITTLEGLEANER04176_000_003", "hash": "35CF89E10A822861", "target": "Aspettate, <italic(1)>avete<italic(0)> sentito parlare delle cacce della corporazione, vero? Da quanto ne so, non sono molto diverse dalle cacce che conoscete a Eorzea. Scommetto che sono ben più impegnative, ma <if(gnum4,un'avventuriera,un avventuriero)> del vostro calibro non rifiuterebbe mai una sfida, no?" },

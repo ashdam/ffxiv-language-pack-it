@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/053/BanYok121_05356#TEXT_BANYOK121_05356_SEQ_00", "hash": "86084D2A252DC685", "target": "Vuyargur cerca un paio di braccia robuste a cui affidare un compito.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
-    { "gameKey": "quest/053/BanYok121_05356#TEXT_BANYOK121_05356_TODO_00", "hash": "219E02E9B958243A", "target": "Parlare con chi trasporta i viveri all'Eco di Worlar" },
-    { "gameKey": "quest/053/BanYok121_05356#TEXT_BANYOK121_05356_TODO_01", "hash": "1A19DA3B907F39AA", "target": "Portare la cassa di pietra piena di viveri a Garharlor" },
-    { "gameKey": "quest/053/BanYok121_05356#TEXT_BANYOK121_05356_TODO_02", "hash": "237FB64497981C3B", "target": "Parlare con Vuyargur" },
+    { "gameKey": "quest/053/BanYok121_05356#TEXT_BANYOK121_05356_TODO_00", "hash": "219E02E9B958243A", "target": "Parla con chi trasporta i viveri all'Eco di Worlar" },
+    { "gameKey": "quest/053/BanYok121_05356#TEXT_BANYOK121_05356_TODO_01", "hash": "1A19DA3B907F39AA", "target": "Porta la cassa di pietra piena di viveri a Garharlor" },
+    { "gameKey": "quest/053/BanYok121_05356#TEXT_BANYOK121_05356_TODO_02", "hash": "237FB64497981C3B", "target": "Parla con Vuyargur" },
     { "gameKey": "quest/053/BanYok121_05356#TEXT_BANYOK121_05356_VUYARGUR_000_001", "hash": "6C589DDBD9A547CD", "target": "Arrivate al momento giusto, <split(<string(gstr1)>, ,1)>. I più robusti dei miei simili sono impegnati nei lavori di costruzione, quindi vorrei ricorrere alla vostra forza." },
     { "gameKey": "quest/053/BanYok121_05356#TEXT_BANYOK121_05356_VUYARGUR_000_002", "hash": "E3634E853619110D", "target": "Tempo fa ho mandato un corriere a prendere provviste per la dispensa, ma temo che il carico sia troppo pesante." },
     { "gameKey": "quest/053/BanYok121_05356#TEXT_BANYOK121_05356_VUYARGUR_000_003", "hash": "620CBB909BDBE12D", "target": "Se poteste cercarlo all'Eco di Worlar, saremmo molto grati del vostro aiuto." },
@@ -23,7 +23,7 @@
     { "gameKey": "quest/053/BanYok121_05356#TEXT_BANYOK121_05356_GARHARLOR_000_023", "hash": "3D0A391A1B57D185", "target": "Mmm... Sentite il profumo? Con tanto mais dolce, nessuno resterà a stomaco vuoto." },
     { "gameKey": "quest/053/BanYok121_05356#TEXT_BANYOK121_05356_GARHARLOR_000_024", "hash": "985EC6B133336A4F", "target": "Ora che ci penso, gli alpaca affamati non vi hanno importunato per strada, vero? Forse dovremmo essere grati che queste casse di pietra siano chiuse ermeticamente..." },
     { "gameKey": "quest/053/BanYok121_05356#TEXT_BANYOK121_05356_GARHARLOR_000_025", "hash": "CF751D1C1DD7861A", "target": "Sembra carne secca di tulidile, una scorta perfetta per la dispensa, dato che si conserva a lungo." },
-    { "gameKey": "quest/053/BanYok121_05356#TEXT_BANYOK121_05356_GARHARLOR_000_026", "hash": "372C89DC9E276429", "target": "Detto questo, non riesco a immaginare che una delizia come la carne secca resti a lungo senza essere mangiata. Non se posso evitarlo. \\<risatina>" },
+    { "gameKey": "quest/053/BanYok121_05356#TEXT_BANYOK121_05356_GARHARLOR_000_026", "hash": "372C89DC9E276429", "target": "Detto questo, non riesco a immaginare che una delizia come la carne secca resti a lungo senza essere mangiata. Non se posso evitarlo. \\<eheh>" },
     { "gameKey": "quest/053/BanYok121_05356#TEXT_BANYOK121_05356_GARHARLOR_000_027", "hash": "D8338A4041562014", "target": "Bene, questo è tutto ciò che vi chiedo. Parlate con Vuyargur per la vostra ricompensa!" },
     { "gameKey": "quest/053/BanYok121_05356#TEXT_BANYOK121_05356_GARHARLOR_000_028", "hash": "3D4755A07EA9737B", "target": "Andate a ritirare la ricompensa da Vuyargur. Ve la siete meritata!" },
     { "gameKey": "quest/053/BanYok121_05356#TEXT_BANYOK121_05356_VUYARGUR_000_030", "hash": "A072A103D0CE66C1", "target": "Vi siete <if(gnum4,divertita,divertito)> con un po' di esercizio leggero, <split(<string(gstr1)>, ,1)>? Riposate quelle braccia stanche quanto volete, ma prima accettate la ricompensa con i miei ringraziamenti." }

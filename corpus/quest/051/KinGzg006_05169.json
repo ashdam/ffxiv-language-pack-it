@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/051/KinGzg006_05169#TEXT_KINGZG006_05169_SEQ_00", "hash": "72C7DB901178176C", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Lo Shetona affranto sente che potresti capire il suo dolore." },
-    { "gameKey": "quest/051/KinGzg006_05169#TEXT_KINGZG006_05169_TODO_00", "hash": "34CE6C399CC04D10", "target": "Parlare con Melancholy" },
-    { "gameKey": "quest/051/KinGzg006_05169#TEXT_KINGZG006_05169_TODO_01", "hash": "6D4A10917F42D20B", "target": "Consegnare il sack of coin al negoziante della Galleria Nexus" },
-    { "gameKey": "quest/051/KinGzg006_05169#TEXT_KINGZG006_05169_TODO_02", "hash": "CCAE2181457649CD", "target": "Consegnare la bottiglia di vino Alexandriano alla persona Shetona in lutto." },
+    { "gameKey": "quest/051/KinGzg006_05169#TEXT_KINGZG006_05169_TODO_00", "hash": "34CE6C399CC04D10", "target": "Parla con Melancholy" },
+    { "gameKey": "quest/051/KinGzg006_05169#TEXT_KINGZG006_05169_TODO_01", "hash": "6D4A10917F42D20B", "target": "Consegna il sack of coin al negoziante della Galleria Nexus" },
+    { "gameKey": "quest/051/KinGzg006_05169#TEXT_KINGZG006_05169_TODO_02", "hash": "CCAE2181457649CD", "target": "Consegna la bottiglia di vino Alexandriano alla persona Shetona in lutto." },
     { "gameKey": "quest/051/KinGzg006_05169#TEXT_KINGZG006_05169_SADSHETONA05169_000_000", "hash": "DED2725BF867F62D", "target": "Ho perso un caro amico nell'attacco alla città... So che chiedo molto, ma ti dispiacerebbe aiutarmi a dargli un addio degno?" },
     { "gameKey": "quest/051/KinGzg006_05169#TEXT_KINGZG006_05169_SADSHETONA05169_000_001", "hash": "BE3CFEA122DE17D7", "target": "Ho visto che non portavi un regolatore e ho pensato che avresti capito ciò che provo. Sembra che tutti gli altri l'abbiano già dimenticato del tutto..." },
     { "gameKey": "quest/051/KinGzg006_05169#TEXT_KINGZG006_05169_SADSHETONA05169_000_002", "hash": "1BBED327DE2FFC25", "target": "Voglio mettere in una scatola alcuni suoi oggetti e una bottiglia del suo vino preferito, poi seppellire tutto nel cimitero a Eredità Ritrovata." },

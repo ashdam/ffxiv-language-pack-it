@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/034/LucKzd014_03421#TEXT_LUCKZD014_03421_SEQ_00", "hash": "163974E7F27CA27F", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>L'amaro arrabbiato non tollererà altri scherzi diabolici dei Fuath." },
-    { "gameKey": "quest/034/LucKzd014_03421#TEXT_LUCKZD014_03421_TODO_00", "hash": "F7E1AEB7C163037F", "target": "Attendere i Fuath" },
-    { "gameKey": "quest/034/LucKzd014_03421#TEXT_LUCKZD014_03421_TODO_01", "hash": "32716BD1978F5BC6", "target": "Parlare con l'amaro arrabbiato" },
-    { "gameKey": "quest/034/LucKzd014_03421#TEXT_LUCKZD014_03421_TODO_02", "hash": "9C01C1D7D07E5465", "target": "Parlare con l'amaro arrabbiato" },
+    { "gameKey": "quest/034/LucKzd014_03421#TEXT_LUCKZD014_03421_TODO_00", "hash": "F7E1AEB7C163037F", "target": "Attendi i Fuath" },
+    { "gameKey": "quest/034/LucKzd014_03421#TEXT_LUCKZD014_03421_TODO_01", "hash": "32716BD1978F5BC6", "target": "Parla con l'amaro arrabbiato" },
+    { "gameKey": "quest/034/LucKzd014_03421#TEXT_LUCKZD014_03421_TODO_02", "hash": "9C01C1D7D07E5465", "target": "Parla con l'amaro arrabbiato" },
     { "gameKey": "quest/034/LucKzd014_03421#TEXT_LUCKZD014_03421_ANGRYAMARO03421_000_000", "hash": "E385C6FE61492B48", "target": "Tu! Sembri <if(gnum4,una donna,un uomo)> formidabile! Ti prego, mi daresti una mano?" },
     { "gameKey": "quest/034/LucKzd014_03421#TEXT_LUCKZD014_03421_ANGRYAMARO03421_000_001", "hash": "BC080043F70AF7FD", "target": "Vedi, ultimamente vengono meno persone della tua gente a Il Mheg, così i Fuath hanno cominciato a tormentare noi amaro." },
     { "gameKey": "quest/034/LucKzd014_03421#TEXT_LUCKZD014_03421_ANGRYAMARO03421_000_002", "hash": "E191D9AA50BD2F43", "target": "Per un po' abbiamo sopportato i loro scherzi diabolici, ma quando hanno rubato un nostro uovo è stata la goccia che ha fatto traboccare il vaso! È intollerabile!" },

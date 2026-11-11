@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_SEQ_00", "hash": "2BC9ACBAF2A66270", "target": "Lo sguardo sempre vigile di Meryld si posa su di te, con un sorriso che ricorda fin troppo quello di Tataru." },
-    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_TODO_00", "hash": "98C903E48B20B474", "target": "Parlare con la House Leveilleur maidservant" },
+    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_TODO_00", "hash": "98C903E48B20B474", "target": "Parla con la House Leveilleur maidservant" },
     { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_MERYLD_000_001", "hash": "145A54CF3053E0D0", "target": "<if(gnum4,Signora,Signor)> <split(<string(gstr1)>, ,2)>, è una piacevole sorpresa vedervi. Come sempre, il vostro tempismo è impeccabile." },
     { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_MERYLD_000_002", "hash": "AA15133FE783FBE7", "target": "Lady Ameliance mi ha affidato un regalo per voi: una tenuta che spera sia di vostro gradimento." },
     { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_MERYLD_000_003", "hash": "E2526A367FF93170", "target": "Prima di consegnarvi gli abiti, ho pensato fosse prudente assicurarci che siano della misura giusta. Mi dispiace molto per il disturbo, ma potrei chiedervi di parlare con la domestica laggiù?" },

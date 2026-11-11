@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_SEQ_00", "hash": "310734465A4FF0D8", "target": "Munifrid cerca un avventuriero esperto per un compito importante." },
-    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_TODO_00", "hash": "E84A1DFF9C2C743A", "target": "Uccidere lo zu nestling" },
-    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_TODO_01", "hash": "F5EFB7BEE6FE6C03", "target": "Fare rapporto a Munifrid" },
+    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_TODO_00", "hash": "E84A1DFF9C2C743A", "target": "Sconfiggi lo zu nestling" },
+    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_TODO_01", "hash": "F5EFB7BEE6FE6C03", "target": "Fai rapporto a Munifrid" },
     { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_000", "hash": "25A28458CB06F3C9", "target": "<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>, le vostre imprese militari sono ben note. Oggi, però, vorrei appellarmi alla vostra vasta esperienza nelle avventure." },
     { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_001", "hash": "173D0A531DEBB251", "target": "Quanto alla situazione, sembra che un temibile zu nestling abbia fatto suo un tratto del percorso delle nostre pattuglie. Non possiamo semplicemente aggirare la zona, rischieremmo di lasciare un accesso incustodito agli esploratori imperiali." },
     { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_002", "hash": "EEEE99EBF55F9AF7", "target": "Io e i miei uomini affronteremmo volentieri qualunque avversario militare. Ma l'addestramento non ci ha preparati a combattere un nemico che può volare fra le gole e piombarci addosso indisturbato." },

@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/050/KinGzb008_05037#TEXT_KINGZB008_05037_SEQ_00", "hash": "25F5E7B46833B3C8", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Tsabli è perplesso da un enigma sul caffè." },
-    { "gameKey": "quest/050/KinGzb008_05037#TEXT_KINGZB008_05037_TODO_00", "hash": "B5E7486D1B420CCF", "target": "Lanciare lo smoke bomb repellent contro il cautious mountain bear" },
-    { "gameKey": "quest/050/KinGzb008_05037#TEXT_KINGZB008_05037_TODO_01", "hash": "42BE279D8F1074A9", "target": "Ispezionare i cumuli di terra marrone" },
-    { "gameKey": "quest/050/KinGzb008_05037#TEXT_KINGZB008_05037_TODO_02", "hash": "169ADF0123BBBA76", "target": "Consegnare i soiled coffee beans a Tsabli" },
+    { "gameKey": "quest/050/KinGzb008_05037#TEXT_KINGZB008_05037_TODO_00", "hash": "B5E7486D1B420CCF", "target": "Lancia lo smoke bomb repellent contro il cautious mountain bear" },
+    { "gameKey": "quest/050/KinGzb008_05037#TEXT_KINGZB008_05037_TODO_01", "hash": "42BE279D8F1074A9", "target": "Ispeziona i cumuli di terra marrone" },
+    { "gameKey": "quest/050/KinGzb008_05037#TEXT_KINGZB008_05037_TODO_02", "hash": "169ADF0123BBBA76", "target": "Consegna i soiled coffee beans a Tsabli" },
     { "gameKey": "quest/050/KinGzb008_05037#TEXT_KINGZB008_05037_TSABLI_000_000", "hash": "85D0F2DA5F67EA95", "target": "Tu, laggiù. Potrei chiederti aiuto con una cosa? L'altro giorno passeggiavo nella valle e ho scoperto chicchi di caffè sparsi fra i cespugli, senza una pianta di caffè in vista." },
     { "gameKey": "quest/050/KinGzb008_05037#TEXT_KINGZB008_05037_TSABLI_000_001", "hash": "3C07B3F43A39949B", "target": "La curiosità ha avuto la meglio, quindi ne ho portati alcuni qui per preparare del caffè. Il gusto era semplicemente <italic(1)>squisito<italic(0)>. Vorrei procurarmene altri, ma qui sta il problema." },
     { "gameKey": "quest/050/KinGzb008_05037#TEXT_KINGZB008_05037_TSABLI_000_002", "hash": "F6F8FED583AD9F77", "target": "Ho trovato i chicchi a Chabameki, una zona a sud di qui nota come territorio degli orsi di montagna. Mi farebbero a pezzi, ma qualcosa mi dice che tu riusciresti ad andarci. Ecco, prendi queste bombe fumogene per scacciare gli orsi e riporta tutti i chicchi di caffè che trovi." },

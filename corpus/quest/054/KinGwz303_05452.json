@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/054/KinGwz303_05452#TEXT_KINGWZ303_05452_SEQ_00", "hash": "91A9A80B8A851A17", "target": "Come sempre, Mumukko cerca un paio di mani oziose che eseguano i suoi ordini." },
-    { "gameKey": "quest/054/KinGwz303_05452#TEXT_KINGWZ303_05452_TODO_00", "hash": "B66521E623C4727A", "target": "Parlare con i membri della squadra che indossano il nuovo equipaggiamento" },
-    { "gameKey": "quest/054/KinGwz303_05452#TEXT_KINGWZ303_05452_TODO_01", "hash": "4C54A4104A779B02", "target": "Parlare con Mumukko" },
+    { "gameKey": "quest/054/KinGwz303_05452#TEXT_KINGWZ303_05452_TODO_00", "hash": "B66521E623C4727A", "target": "Parla con i membri della squadra che indossano il nuovo equipaggiamento" },
+    { "gameKey": "quest/054/KinGwz303_05452#TEXT_KINGWZ303_05452_TODO_01", "hash": "4C54A4104A779B02", "target": "Parla con Mumukko" },
     { "gameKey": "quest/054/KinGwz303_05452#TEXT_KINGWZ303_05452_MUMUKKO_000_001", "hash": "06AE77847D617F2D", "target": "So che non devo chiedertelo, ma hai un po' di tempo libero, <split(<string(gstr1)>, ,1)>?" },
     { "gameKey": "quest/054/KinGwz303_05452#TEXT_KINGWZ303_05452_Q1_000_000", "hash": "27675B175F36DB2D", "target": "Che cosa dirai?" },
     { "gameKey": "quest/054/KinGwz303_05452#TEXT_KINGWZ303_05452_A1_000_001", "hash": "347CD05A413339BB", "target": "So che non devo risponderti, ma certo che sì!" },

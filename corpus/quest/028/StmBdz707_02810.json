@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/028/StmBdz707_02810#TEXT_STMBDZ707_02810_SEQ_00", "hash": "689EF349ACFB7F69", "target": "Motojiro ha l'aria di un uomo dal cuore pesante." },
-    { "gameKey": "quest/028/StmBdz707_02810#TEXT_STMBDZ707_02810_TODO_00", "hash": "18783BF44A087013", "target": "Sconfiggere dei magatsu kiyofusa per attirare un reinforced kiyofusa e sconfiggerlo con l'armormelt" },
-    { "gameKey": "quest/028/StmBdz707_02810#TEXT_STMBDZ707_02810_TODO_01", "hash": "81E270C73E8093AF", "target": "Fare rapporto a Motojiro" },
+    { "gameKey": "quest/028/StmBdz707_02810#TEXT_STMBDZ707_02810_TODO_00", "hash": "18783BF44A087013", "target": "Sconfiggi dei magatsu kiyofusa per attirare un reinforced kiyofusa e sconfiggilo con l'armormelt" },
+    { "gameKey": "quest/028/StmBdz707_02810#TEXT_STMBDZ707_02810_TODO_01", "hash": "81E270C73E8093AF", "target": "Fai rapporto a Motojiro" },
     { "gameKey": "quest/028/StmBdz707_02810#TEXT_STMBDZ707_02810_MOTOJIRO_000_000", "hash": "083CBFD80AC02E7B", "target": "<if(gnum4,Mia signora,Mio signore)> <split(<string(gstr1)>, ,1)>, ho un favore da chiedervi." },
     { "gameKey": "quest/028/StmBdz707_02810#TEXT_STMBDZ707_02810_MOTOJIRO_000_001", "hash": "8D183A479293C5BE", "target": "Ho bisogno che... uccidiate i miei figli." },
     { "gameKey": "quest/028/StmBdz707_02810#TEXT_STMBDZ707_02810_MOTOJIRO_000_002", "hash": "A92BB52880BFC5E3", "target": "Ah, vi chiedo scusa per la scelta infelice delle parole. Con «i miei figli» intendo le mie creazioni, gli automi noti come magatsu kiyofusa." },

@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/054/KinGwz203_05413#TEXT_KINGWZ203_05413_SEQ_00", "hash": "6172DCB462F838FA", "target": "La vacuum suit specialist cerca soltanto candidati qualificati." },
-    { "gameKey": "quest/054/KinGwz203_05413#TEXT_KINGWZ203_05413_TODO_00", "hash": "FDBB4EAEE358832B", "target": "Parlare con la vacuum suit specialist" },
-    { "gameKey": "quest/054/KinGwz203_05413#TEXT_KINGWZ203_05413_TODO_01", "hash": "FCAC3AD1E8685EB4", "target": "Parlare di nuovo con la vacuum suit specialist" },
+    { "gameKey": "quest/054/KinGwz203_05413#TEXT_KINGWZ203_05413_TODO_00", "hash": "FDBB4EAEE358832B", "target": "Parla con la vacuum suit specialist" },
+    { "gameKey": "quest/054/KinGwz203_05413#TEXT_KINGWZ203_05413_TODO_01", "hash": "FCAC3AD1E8685EB4", "target": "Parla di nuovo con la vacuum suit specialist" },
     { "gameKey": "quest/054/KinGwz203_05413#TEXT_KINGWZ203_05413_ASSISTANT05413_000_001", "hash": "A434E99CAB6DAF10", "target": "Ma guarda, <string(gstr1)>! Le voci non ti rendono giustizia. Senti, non avresti un momento?" },
     { "gameKey": "quest/054/KinGwz203_05413#TEXT_KINGWZ203_05413_ASSISTANT05413_000_002", "hash": "21BAB12C88362C68", "target": "Stiamo organizzando un volo di prova ad alta quota. Anche se raramente è necessario durante le normali operazioni, le Vacuum Suit sono attrezzate per farlo." },
     { "gameKey": "quest/054/KinGwz203_05413#TEXT_KINGWZ203_05413_ASSISTANT05413_000_003", "hash": "2EF7FA46FBED63E8", "target": "Fino a poco tempo fa i voli con equipaggio erano vietati, per precauzione a causa della differenza nei livelli di magnetismo fra Phaenna e Sinus Ardorum." },

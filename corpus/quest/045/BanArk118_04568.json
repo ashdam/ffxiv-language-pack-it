@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/045/BanArk118_04568#TEXT_BANARK118_04568_SEQ_00", "hash": "6E803367FE055D8C", "target": "Maru cerca un fuggitivo affamato.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
-    { "gameKey": "quest/045/BanArk118_04568#TEXT_BANARK118_04568_TODO_00", "hash": "5571A3394C9BDB06", "target": "Scegliere del mangime per ippopotami" },
-    { "gameKey": "quest/045/BanArk118_04568#TEXT_BANARK118_04568_TODO_01", "hash": "6BEE379042CB1474", "target": "Dare da mangiare all'hungry hippo" },
-    { "gameKey": "quest/045/BanArk118_04568#TEXT_BANARK118_04568_TODO_02", "hash": "797BC8512E80A76D", "target": "Fare rapporto a Maru" },
+    { "gameKey": "quest/045/BanArk118_04568#TEXT_BANARK118_04568_TODO_00", "hash": "5571A3394C9BDB06", "target": "Scegli del mangime per ippopotami" },
+    { "gameKey": "quest/045/BanArk118_04568#TEXT_BANARK118_04568_TODO_01", "hash": "6BEE379042CB1474", "target": "Dai da mangiare all'hungry hippo" },
+    { "gameKey": "quest/045/BanArk118_04568#TEXT_BANARK118_04568_TODO_02", "hash": "797BC8512E80A76D", "target": "Fai rapporto a Maru" },
     { "gameKey": "quest/045/BanArk118_04568#TEXT_BANARK118_04568_MARU_000_000", "hash": "5E7B9A5DAB6F04F7", "target": "Abbiamo un fuggitivo, <split(<string(gstr1)>, ,1)>. Un ippopotamo fuggitivo, per essere precisi..." },
     { "gameKey": "quest/045/BanArk118_04568#TEXT_BANARK118_04568_MARU_000_001", "hash": "139F5FCAEA2F36DB", "target": "Uno dei nostri ippopotamini ha un appetito davvero robusto, ma ultimamente è un po' <italic(1)>troppo<italic(0)> robusto. Abbiamo cominciato a razionargli il cibo, perché mangiare troppo non fa bene, ma non l'ha presa bene ed è scappato offeso." },
     { "gameKey": "quest/045/BanArk118_04568#TEXT_BANARK118_04568_MARU_000_002", "hash": "0A340CDBD0EDAC06", "target": "Uno dei nostri Cavalcatori di Ippopotami l'ha visto precipitarsi verso la giungla, penso che sia frustrato e arrabbiato con tutti noi, ma forse darà retta a te?" },

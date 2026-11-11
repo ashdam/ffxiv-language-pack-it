@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_SEQ_00", "hash": "BB2439C5BCB646D8", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>An Iala ha una richiesta sincera da farti." },
-    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_TODO_00", "hash": "BEF3907AE3BB29D2", "target": "Uccidere due rosebears, poi sconfiggere il giant rosebear quando appare" },
-    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_TODO_01", "hash": "2A92CA2212CD9AB2", "target": "Fare rapporto ad An Iala" },
+    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_TODO_00", "hash": "BEF3907AE3BB29D2", "target": "Sconfiggi due rosebears, poi sconfiggi il giant rosebear quando appare" },
+    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_TODO_01", "hash": "2A92CA2212CD9AB2", "target": "Fai rapporto ad An Iala" },
     { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_000", "hash": "21A3940430142C76", "target": "Aiuto! Aiutaci, per favore! Giuro che non è uno scherzo!" },
     { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_001", "hash": "5D86588E412C592C", "target": "Vedi, ci sono questi orsi spaventosi che ci terrorizzano. Si chiamano rosebears e di solito riusciamo a scacciarli. Ma ultimamente ne è comparso uno più grande, più feroce e più affamato degli altri!" },
     { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_002", "hash": "BE3049DE97C139D8", "target": "Abbiamo troppa paura di affrontarlo, piccoli e deboli come siamo. Ma tu sei molto più grande e più forte di noi. Se qualcuno può occuparsi di quella bestia furiosa, credo che quel qualcuno sia tu!" },

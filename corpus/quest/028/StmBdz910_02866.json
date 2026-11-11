@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_SEQ_00", "hash": "9317886178CFFA33", "target": "La delicata fanciulla vuole che tu raccolga dei fiori." },
-    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_TODO_00", "hash": "1E10532686AD8A71", "target": "Raccogliere mazzi d'oro di Rhalgr" },
-    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_TODO_01", "hash": "3E2D9F4D55BF7065", "target": "Consegnare i mazzi d'oro di Rhalgr alla delicata fanciulla" },
+    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_TODO_00", "hash": "1E10532686AD8A71", "target": "Raccogli mazzi d'oro di Rhalgr" },
+    { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_TODO_01", "hash": "3E2D9F4D55BF7065", "target": "Consegna i mazzi d'oro di Rhalgr alla delicata fanciulla" },
     { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_FRAGILEWOMAN02866_000_000", "hash": "933FADC24E5B6449", "target": "Fai parte dell'esercito dell'Alleanza, vero? Sei <if(gnum4,una soldatessa,un soldato)>? Ti sarei tanto grata se potessi raccogliere dei fiori speciali per me." },
     { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_FRAGILEWOMAN02866_000_001", "hash": "BEC42403FE219A6F", "target": "Ho perso una cara amica nei combattimenti contro l'Impero e vorrei deporre un mazzo di fiori in sua memoria. È solo che nei campi dove crescono vagano creature che, per dirla senza giri di parole, mi staccherebbero la mia graziosa testolina." },
     { "gameKey": "quest/028/StmBdz910_02866#TEXT_STMBDZ910_02866_FRAGILEWOMAN02866_000_002", "hash": "CDFEE091A583C706", "target": "Se vuoi affrontare queste mostruosità, ti chiedo di cercare i fiori chiamati oro di Rhalgr e portarmene circa tre manciate. Prova lungo il Sentiero Dissetato, molto a nord di Specula Imperatoris." },

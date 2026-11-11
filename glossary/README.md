@@ -25,6 +25,6 @@ Nei termini JSON, `protect: true` conserva l'inglese; `protect: false` richiede 
 Non aggiungere una forma obsoleta a `forms` per far passare un controllo. Le note possono citare fonti storiche,
 ma le regole e le decisioni necessarie al lavoro sono riportate localmente.
 
-Per aggiornare il canone, applica la [riconciliazione](../docs/TRANSLATION.md#2-corpus-decisioni-e-discrepanze):
+Per aggiornare il canone, applica la [riconciliazione](../../dev/docs/TRANSLATION.md#2-corpus-decisioni-e-discrepanze):
 verifica referente e fonte, chiedi solo per conflitti reali irrisolti, uniforma i campi pertinenti e registra l'ambito.
 Evita nuove copie complete del glossario o del corpus nei report.

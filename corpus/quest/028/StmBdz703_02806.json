@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_SEQ_00", "hash": "5E689B1CB98DCA8B", "target": "Haname desidera dimostrare la sua gratitudine a un fedele sostenitore del Fronte." },
-    { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_TODO_00", "hash": "F1584BED05ABCFC1", "target": "Uccidere dei whitewing hornbill e ottenere un golden bezoar" },
-    { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_TODO_01", "hash": "0EF742F08286A2B8", "target": "Consegnare il golden bezoar a Haname" },
+    { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_TODO_00", "hash": "F1584BED05ABCFC1", "target": "Sconfiggi dei whitewing hornbill e ottieni un golden bezoar" },
+    { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_TODO_01", "hash": "0EF742F08286A2B8", "target": "Consegna il golden bezoar a Haname" },
     { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_HANAME_000_000", "hash": "7133CD6658E2786F", "target": "Ah, sei tu, <split(<string(gstr1)>, ,1)>. Se non ti dispiace, vorrei il tuo aiuto per una certa faccenda." },
     { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_HANAME_000_001", "hash": "187EE3CF6A097ADD", "target": "Una persona della tua esperienza capirà che per fare la guerra non bastano i guerrieri. Oltre a chi combatte in prima linea, come noi, ci sono moltissime persone che contribuiscono alla nostra causa in innumerevoli altri modi." },
     { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_HANAME_000_002", "hash": "02F74B4FDED49B7C", "target": "In particolare, c'è un uomo a cui dobbiamo molto, e desidero esprimergli la mia gratitudine con un dono." },

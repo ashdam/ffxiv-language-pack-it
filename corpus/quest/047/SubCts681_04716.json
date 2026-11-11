@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/047/SubCts681_04716#TEXT_SUBCTS681_04716_SEQ_00", "hash": "C1E2AA83F0559582", "target": "Anden è assorto nei suoi pensieri... o almeno così si potrebbe supporre. Il suo volto resta imperscrutabilmente frondoso." },
-    { "gameKey": "quest/047/SubCts681_04716#TEXT_SUBCTS681_04716_TODO_00", "hash": "7F727D23B2E32AD0", "target": "Parlare con Anden" },
-    { "gameKey": "quest/047/SubCts681_04716#TEXT_SUBCTS681_04716_TODO_01", "hash": "607F190DE01B4E0D", "target": "Andare a Fanow e attendere l'arrivo di Anden" },
-    { "gameKey": "quest/047/SubCts681_04716#TEXT_SUBCTS681_04716_TODO_02", "hash": "BB5ECAA78A622EE1", "target": "Parlare con Anden a Lydha Lran" },
+    { "gameKey": "quest/047/SubCts681_04716#TEXT_SUBCTS681_04716_TODO_00", "hash": "7F727D23B2E32AD0", "target": "Parla con Anden" },
+    { "gameKey": "quest/047/SubCts681_04716#TEXT_SUBCTS681_04716_TODO_01", "hash": "607F190DE01B4E0D", "target": "Vai a Fanow e attendi l'arrivo di Anden" },
+    { "gameKey": "quest/047/SubCts681_04716#TEXT_SUBCTS681_04716_TODO_02", "hash": "BB5ECAA78A622EE1", "target": "Parla con Anden a Lydha Lran" },
     { "gameKey": "quest/047/SubCts681_04716#TEXT_SUBCTS681_04716_ANDEN_000_001", "hash": "76A36F03F23E02D4", "target": "Tu, <split(<string(gstr1)>, ,1)>, viaggi in lungo e in largo come faceva Ardbert..." },
     { "gameKey": "quest/047/SubCts681_04716#TEXT_SUBCTS681_04716_ANDEN_000_002", "hash": "16D72DC7CC82540D", "target": "Dimmi, quale incontro lascerebbe senza parole una persona così schietta?" },
     { "gameKey": "quest/047/SubCts681_04716#TEXT_SUBCTS681_04716_Q1_000_003", "hash": "A1F98D7C66EF25B9", "target": "Che cosa dirai?" },

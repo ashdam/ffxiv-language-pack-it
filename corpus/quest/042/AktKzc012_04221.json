@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/042/AktKzc012_04221#TEXT_AKTKZC012_04221_SEQ_00", "hash": "EBF44BDE69DFEA16", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Mentre le cure degli asserviti proseguono a pieno ritmo, chi si prenderà cura di chi li assiste?" },
-    { "gameKey": "quest/042/AktKzc012_04221#TEXT_AKTKZC012_04221_TODO_00", "hash": "B73AD99E3BEA3555", "target": "Consegnare gli eteri riscaldanti ai guaritori" },
-    { "gameKey": "quest/042/AktKzc012_04221#TEXT_AKTKZC012_04221_TODO_01", "hash": "C97BEF758E21672C", "target": "Fare rapporto a June" },
+    { "gameKey": "quest/042/AktKzc012_04221#TEXT_AKTKZC012_04221_TODO_00", "hash": "B73AD99E3BEA3555", "target": "Consegna gli eteri riscaldanti ai guaritori" },
+    { "gameKey": "quest/042/AktKzc012_04221#TEXT_AKTKZC012_04221_TODO_01", "hash": "C97BEF758E21672C", "target": "Fai rapporto a June" },
     { "gameKey": "quest/042/AktKzc012_04221#TEXT_AKTKZC012_04221_JUNE_000_000", "hash": "768C5C6A4E7D00CF", "target": "Potresti dedicarmi qualche momento per aiutarmi?" },
     { "gameKey": "quest/042/AktKzc012_04221#TEXT_AKTKZC012_04221_JUNE_000_001", "hash": "81EB905F21F113FB", "target": "Temo che la situazione sia piuttosto grave. Anche ora i nostri guaritori continuano a curare le truppe imperiali incontrate sulla Magna Glacies, e l'uso prolungato di magie curative li ha spinti oltre i propri limiti." },
     { "gameKey": "quest/042/AktKzc012_04221#TEXT_AKTKZC012_04221_JUNE_000_002", "hash": "0F675117EDFDC0F5", "target": "Come se non bastasse, passare tanto tempo vicino agli asserviti, fra i loro deliri e i loro movimenti violenti, logora chi li assiste. Direi che qualche parola d'incoraggiamento da parte <if(gnum4,della campionessa,del campione)> di Eorzea li aiuterà a risollevare il morale." },

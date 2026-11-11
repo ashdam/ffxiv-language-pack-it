@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/029/BanKjn301_02979#TEXT_BANKJN301_02979_SEQ_00", "hash": "7DDC81D9D018648C", "target": "Zukin è furibondo per un attacco a una carovana.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
-    { "gameKey": "quest/029/BanKjn301_02979#TEXT_BANKJN301_02979_TODO_00", "hash": "AE813C824CD8326F", "target": "Parlare con la cranky Kojin sull'Isola di Bekko" },
-    { "gameKey": "quest/029/BanKjn301_02979#TEXT_BANKJN301_02979_TODO_01", "hash": "5437993D6AC8F571", "target": "Cercare i Kojin Rossi e cospargerli di aspic dorato dopo averli sconfitti" },
-    { "gameKey": "quest/029/BanKjn301_02979#TEXT_BANKJN301_02979_TODO_02", "hash": "836C361CBADF9353", "target": "Riferire a Zukin" },
+    { "gameKey": "quest/029/BanKjn301_02979#TEXT_BANKJN301_02979_TODO_00", "hash": "AE813C824CD8326F", "target": "Parla con la cranky Kojin sull'Isola di Bekko" },
+    { "gameKey": "quest/029/BanKjn301_02979#TEXT_BANKJN301_02979_TODO_01", "hash": "5437993D6AC8F571", "target": "Cerca i Kojin Rossi e cospargili di aspic dorato dopo averli sconfitti" },
+    { "gameKey": "quest/029/BanKjn301_02979#TEXT_BANKJN301_02979_TODO_02", "hash": "836C361CBADF9353", "target": "Riferisci a Zukin" },
     { "gameKey": "quest/029/BanKjn301_02979#TEXT_BANKJN301_02979_ZUKIN_000_000", "hash": "AB6DFC7193671A37", "target": "I Rossi, <split(<string(gstr1)>, ,1)>, hanno attaccato una delle nostre carovane!" },
     { "gameKey": "quest/029/BanKjn301_02979#TEXT_BANKJN301_02979_ZUKIN_000_001", "hash": "9099CE9245739DC9", "target": "Per grazia dei kami siamo riusciti a proteggere le merci, ma i banditi Rossi sono ancora in libertà. Devi unirti a noi per stanarli." },
     { "gameKey": "quest/029/BanKjn301_02979#TEXT_BANKJN301_02979_ZUKIN_000_002", "hash": "44F1FD97C23389FA", "target": "Quando li avrai trovati e riempiti di botte, cospargili di questa roba. Si chiama aspic dorato e si prepara... anzi, è meglio che tu non lo sappia. Quel che conta è che puzza terribilmente, e servirà a dare una lezione ai Rossi responsabili." },

@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/028/StmBdz809_02837#TEXT_STMBDZ809_02837_SEQ_00", "hash": "F53B851217F3647C", "target": "Zuzudesu ha bisogno che un avventuriero faccia ciò che gli riesce meglio." },
-    { "gameKey": "quest/028/StmBdz809_02837#TEXT_STMBDZ809_02837_TODO_00", "hash": "2EC0AAD58B1D5CFF", "target": "Cercare e sconfiggere tutti i Qiqirn meatcarrier vicino a Specula Imperatoris" },
-    { "gameKey": "quest/028/StmBdz809_02837#TEXT_STMBDZ809_02837_TODO_01", "hash": "DDCBC24F97247BF4", "target": "Ottenere le stolen wares" },
-    { "gameKey": "quest/028/StmBdz809_02837#TEXT_STMBDZ809_02837_TODO_02", "hash": "E5AC16820FE3CCA4", "target": "Consegnare le stolen wares a Zuzudesu" },
+    { "gameKey": "quest/028/StmBdz809_02837#TEXT_STMBDZ809_02837_TODO_00", "hash": "2EC0AAD58B1D5CFF", "target": "Cerca e sconfiggi tutti i Qiqirn meatcarrier vicino a Specula Imperatoris" },
+    { "gameKey": "quest/028/StmBdz809_02837#TEXT_STMBDZ809_02837_TODO_01", "hash": "DDCBC24F97247BF4", "target": "Ottieni le stolen wares" },
+    { "gameKey": "quest/028/StmBdz809_02837#TEXT_STMBDZ809_02837_TODO_02", "hash": "E5AC16820FE3CCA4", "target": "Consegna le stolen wares a Zuzudesu" },
     { "gameKey": "quest/028/StmBdz809_02837#TEXT_STMBDZ809_02837_ZUZUDESU_000_000", "hash": "B8C4C57D8180F41A", "target": "Hmmm... Sì, sì, andrai benissimo." },
     { "gameKey": "quest/028/StmBdz809_02837#TEXT_STMBDZ809_02837_ZUZUDESU_000_001", "hash": "DE2463A8891CAD67", "target": "Mi chiamo Zuzudesu e faccio il vivandiere della Resistenza. E tu sei <if(gnum4,un'avventuriera,un avventuriero)>, vero? Se hai viaggiato quanto sembra, devi sapere dove voglio arrivare." },
     { "gameKey": "quest/028/StmBdz809_02837#TEXT_STMBDZ809_02837_ZUZUDESU_000_002", "hash": "A6034223C1A1E572", "target": "Stavo facendo una normale consegna qui ad Ala Ghiri, quando una banda di Qiqirn ha attaccato il mio carro e mi ha sottratto tutte le merci." },

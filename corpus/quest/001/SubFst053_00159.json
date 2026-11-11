@@ -2,9 +2,9 @@
   "conversation": "quest/001/SubFst053_00159",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/SubFst053_00159#TEXT_SUBFST053_00159_SEQ_00", "hash": "67D554928394F7C3", "target": "Armelle, ai Pontili dello Specchio, cerca una persona coraggiosa che elimini le luci di palude." },
+    { "gameKey": "quest/001/SubFst053_00159#TEXT_SUBFST053_00159_SEQ_00", "hash": "67D554928394F7C3", "target": "Armelle, ai Pontili dello Specchio, cerca una persona coraggiosa che sconfigga le luci di palude." },
     { "gameKey": "quest/001/SubFst053_00159#TEXT_SUBFST053_00159_SEQ_01", "hash": "B50173CF0806D67F", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Questa missione è stata aggiornata. Abbandonala e ricomincia parlando con Armelle ai Pontili dello Specchio.<edgecolortype(0)><colortype(0)><br><br>※La Guida dello Scenario mostra la prossima missione disponibile. Puoi attivarla o disattivarla dalle Impostazioni personaggio, nella sezione Impostazioni IU." },
-    { "gameKey": "quest/001/SubFst053_00159#TEXT_SUBFST053_00159_SEQ_02", "hash": "45BF4A514540B0A2", "target": "Hai eliminato le luci di palude. Torna da Armelle ai Pontili dello Specchio." },
+    { "gameKey": "quest/001/SubFst053_00159#TEXT_SUBFST053_00159_SEQ_02", "hash": "45BF4A514540B0A2", "target": "Hai sconfitto le luci di palude. Torna da Armelle ai Pontili dello Specchio." },
     { "gameKey": "quest/001/SubFst053_00159#TEXT_SUBFST053_00159_SEQ_03", "hash": "FCEEBA5ACDFA4F05", "target": "Armelle non riesce a esprimere a parole tutta la sua gratitudine. Forse ora la gente dei Pontili dello Specchio potrà godersi un po' di pace." },
     { "gameKey": "quest/001/SubFst053_00159#TEXT_SUBFST053_00159_TODO_00", "hash": "D6DEC6C3D3F7DE7E", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Questa missione è stata aggiornata. Abbandonala e ricomincia parlando con Armelle ai Pontili dello Specchio.<edgecolortype(0)><colortype(0)>" },
     { "gameKey": "quest/001/SubFst053_00159#TEXT_SUBFST053_00159_TODO_01", "hash": "8891D6C2656B18B7", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Questa missione è stata aggiornata. Abbandonala e ricomincia parlando con Armelle ai Pontili dello Specchio.<edgecolortype(0)><colortype(0)>" },

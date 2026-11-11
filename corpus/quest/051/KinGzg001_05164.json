@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/051/KinGzg001_05164#TEXT_KINGZG001_05164_SEQ_00", "hash": "41245D4F05035943", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>L'addetta all'accoglienza spera di illustrare il modo di vivere di Alexandria." },
-    { "gameKey": "quest/051/KinGzg001_05164#TEXT_KINGZG001_05164_TODO_00", "hash": "06D89B7CBEE4A94A", "target": "Consegnare le provviste a Clerk P5-0910" },
-    { "gameKey": "quest/051/KinGzg001_05164#TEXT_KINGZG001_05164_TODO_01", "hash": "D268524381E424F1", "target": "Parlare con l'addetta all'accoglienza" },
+    { "gameKey": "quest/051/KinGzg001_05164#TEXT_KINGZG001_05164_TODO_00", "hash": "06D89B7CBEE4A94A", "target": "Consegna le provviste a Clerk P5-0910" },
+    { "gameKey": "quest/051/KinGzg001_05164#TEXT_KINGZG001_05164_TODO_01", "hash": "D268524381E424F1", "target": "Parla con l'addetta all'accoglienza" },
     { "gameKey": "quest/051/KinGzg001_05164#TEXT_KINGZG001_05164_CONCIERGELADY05164_000_000", "hash": "11A783E5F42B0504", "target": "Ah, vedo che Sua Maestà ti ha <if(gnum4,registrata,registrato)> come ospite! Ben <if(gnum4,venuta,venuto)> alla Galleria Nexus. Il mio lavoro è informare i visitatori dei tanti servizi offerti qui nel settore." },
     { "gameKey": "quest/051/KinGzg001_05164#TEXT_KINGZG001_05164_CONCIERGELADY05164_000_001", "hash": "1836EBFAC583C232", "target": "A proposito di servizi, che ne diresti di un po' d'esperienza lavorativa? Qualche lavoro leggero potrebbe darti un'idea di come viviamo noi cittadini." },
     { "gameKey": "quest/051/KinGzg001_05164#TEXT_KINGZG001_05164_CONCIERGELADY05164_000_002", "hash": "162BAA6D039A7C64", "target": "Ho proprio ciò che fa per te: una consegna! Non temere, riceverai un compenso per il tuo tempo!" },

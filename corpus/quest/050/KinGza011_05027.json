@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/050/KinGza011_05027#TEXT_KINGZA011_05027_SEQ_00", "hash": "0D05FAAC7BD360A3", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Alla mandria dell'esperto stalliere mancano un paio di alpaca." },
-    { "gameKey": "quest/050/KinGza011_05027#TEXT_KINGZA011_05027_TODO_00", "hash": "1FC1DAEB118E0E68", "target": "Usare /soothe sugli alpaca fuggiti" },
-    { "gameKey": "quest/050/KinGza011_05027#TEXT_KINGZA011_05027_TODO_01", "hash": "8C6E3AE1F14AA980", "target": "Parlare con l'esperto stalliere" },
+    { "gameKey": "quest/050/KinGza011_05027#TEXT_KINGZA011_05027_TODO_00", "hash": "1FC1DAEB118E0E68", "target": "Usa /soothe sugli alpaca fuggiti" },
+    { "gameKey": "quest/050/KinGza011_05027#TEXT_KINGZA011_05027_TODO_01", "hash": "8C6E3AE1F14AA980", "target": "Parla con l'esperto stalliere" },
     { "gameKey": "quest/050/KinGza011_05027#TEXT_KINGZA011_05027_PERUPERU05027_000_001", "hash": "785765BFFB6DCA29", "target": "<split(<string(gstr1)>, ,1)>, vero? Ho sentito parlare della vostra affinità con gli alpaca! Mio cugino lavora al ranch di Wachunpelo e non faceva che decantarla." },
     { "gameKey": "quest/050/KinGza011_05027#TEXT_KINGZA011_05027_PERUPERU05027_000_002", "hash": "10F623419F41A7F2", "target": "E capita proprio che abbia bisogno dei vostri talenti. Alcuni animali della mandria sono scappati durante l'attacco alla città dell'altro giorno. Sono riuscito a radunarne quasi tutti, ma ne mancano ancora due." },
     { "gameKey": "quest/050/KinGza011_05027#TEXT_KINGZA011_05027_PERUPERU05027_000_003", "hash": "B507C9866085D433", "target": "Non li hanno visti uscire dalle porte, quindi penso sia ragionevole supporre che si nascondano da qualche parte entro le mura. Allora, che ne dite? Posso chiedervi di recuperare gli ultimi due fuggitivi?" },

@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/027/StmBdz508_02759#TEXT_STMBDZ508_02759_SEQ_00", "hash": "71566BC98DF3F5AF", "target": "Togene ha un debole per i bambini." },
-    { "gameKey": "quest/027/StmBdz508_02759#TEXT_STMBDZ508_02759_TODO_00", "hash": "EFE825B48DF664EE", "target": "Cercare eventuali bambini smarriti" },
-    { "gameKey": "quest/027/StmBdz508_02759#TEXT_STMBDZ508_02759_TODO_01", "hash": "2287987B860CA30C", "target": "Fare rapporto a Togene" },
+    { "gameKey": "quest/027/StmBdz508_02759#TEXT_STMBDZ508_02759_TODO_00", "hash": "EFE825B48DF664EE", "target": "Cerca eventuali bambini smarriti" },
+    { "gameKey": "quest/027/StmBdz508_02759#TEXT_STMBDZ508_02759_TODO_01", "hash": "2287987B860CA30C", "target": "Fai rapporto a Togene" },
     { "gameKey": "quest/027/StmBdz508_02759#TEXT_STMBDZ508_02759_TOGENE_000_000", "hash": "E89A4934AC94FF75", "target": "Sei forse <if(gnum4,venuta,venuto)> a fare un giro al mercato?" },
     { "gameKey": "quest/027/StmBdz508_02759#TEXT_STMBDZ508_02759_TOGENE_000_001", "hash": "1B866DBA3D630B73", "target": "Mi occupo dei bambini delle famiglie mentre fanno acquisti qui. Tengo anche gli occhi aperti per quelli che si separano dai genitori." },
     { "gameKey": "quest/027/StmBdz508_02759#TEXT_STMBDZ508_02759_TOGENE_000_002", "hash": "AC8A5353EA42DE5C", "target": "Se incontri bambini o bambine smarriti, di' loro di venire qui." },

@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/026/StmBdz207_02679#TEXT_STMBDZ207_02679_SEQ_00", "hash": "E5331B142CDB0BEE", "target": "Aranami non è abituato a essere fatto attendere." },
-    { "gameKey": "quest/026/StmBdz207_02679#TEXT_STMBDZ207_02679_TODO_00", "hash": "C499F4E87C014D2C", "target": "Cercare la recluta scomparsa della Confederazione" },
-    { "gameKey": "quest/026/StmBdz207_02679#TEXT_STMBDZ207_02679_TODO_01", "hash": "111A66578ABA5A32", "target": "Parlare con la recluta della Confederazione" },
-    { "gameKey": "quest/026/StmBdz207_02679#TEXT_STMBDZ207_02679_TODO_02", "hash": "869837E314DBFF0C", "target": "Parlare con Aranami" },
+    { "gameKey": "quest/026/StmBdz207_02679#TEXT_STMBDZ207_02679_TODO_00", "hash": "C499F4E87C014D2C", "target": "Cerca la recluta scomparsa della Confederazione" },
+    { "gameKey": "quest/026/StmBdz207_02679#TEXT_STMBDZ207_02679_TODO_01", "hash": "111A66578ABA5A32", "target": "Parla con la recluta della Confederazione" },
+    { "gameKey": "quest/026/StmBdz207_02679#TEXT_STMBDZ207_02679_TODO_02", "hash": "869837E314DBFF0C", "target": "Parla con Aranami" },
     { "gameKey": "quest/026/StmBdz207_02679#TEXT_STMBDZ207_02679_ARANAMI_000_000", "hash": "357D1BC0FD6B7F97", "target": "Ehi, tu─sì, proprio tu. Hai visto un Au Ra, un buono a nulla imbranato? Una nuova recluta che ho mandato a pattugliare il confine settentrionale di Onokoro. È in ritardo." },
     { "gameKey": "quest/026/StmBdz207_02679#TEXT_STMBDZ207_02679_ARANAMI_000_001", "hash": "E7F94786B57131AD", "target": "Era un ragazzo strano, silenzioso e cupo. Non apriva bocca se nessuno gli rivolgeva la parola. Forse è meglio di un idiota che non sa mai tacere." },
     { "gameKey": "quest/026/StmBdz207_02679#TEXT_STMBDZ207_02679_ARANAMI_000_002", "hash": "4D8F4FA73E6B403F", "target": "Per quanto mi piacerebbe trascinarlo indietro per un orecchio, non posso. Il dovere mi impone di restare. Tu, invece, non hai simili obblighi..." },

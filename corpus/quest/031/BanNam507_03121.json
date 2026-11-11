@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/031/BanNam507_03121#TEXT_BANNAM507_03121_SEQ_00", "hash": "D902BFC75535136A", "target": "Seigetsu l'Illuminato vorrebbe avvalersi del tuo talento nel reclutare gli altri.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
-    { "gameKey": "quest/031/BanNam507_03121#TEXT_BANNAM507_03121_TODO_00", "hash": "B294497A527E2D14", "target": "Parlare con Gyotaku" },
-    { "gameKey": "quest/031/BanNam507_03121#TEXT_BANNAM507_03121_TODO_01", "hash": "5BB1F24C6CACAEC1", "target": "Raggiungere i margini del Ritiro di Nhaama su un mikoshi e usare Wasshoi per i Namazu gatherers" },
-    { "gameKey": "quest/031/BanNam507_03121#TEXT_BANNAM507_03121_TODO_02", "hash": "A832D2C81E8D4326", "target": "Riferire a Seigetsu l'Illuminato" },
+    { "gameKey": "quest/031/BanNam507_03121#TEXT_BANNAM507_03121_TODO_00", "hash": "B294497A527E2D14", "target": "Parla con Gyotaku" },
+    { "gameKey": "quest/031/BanNam507_03121#TEXT_BANNAM507_03121_TODO_01", "hash": "5BB1F24C6CACAEC1", "target": "Raggiungi i margini del Ritiro di Nhaama su un mikoshi e usa Wasshoi per i Namazu gatherers" },
+    { "gameKey": "quest/031/BanNam507_03121#TEXT_BANNAM507_03121_TODO_02", "hash": "A832D2C81E8D4326", "target": "Riferisci a Seigetsu l'Illuminato" },
     { "gameKey": "quest/031/BanNam507_03121#TEXT_BANNAM507_03121_KOFUINSEIGETSU_000_000", "hash": "A0EA27A99B3F8123", "target": "Il mikoshi che ci hai aiutato a costruire ha fatto colpo sul nostro popolo. Al momento ne stiamo costruendo altri, ma temo che il loro valore si riduca notevolmente se non ci sono portatori a farli sfilare..." },
     { "gameKey": "quest/031/BanNam507_03121#TEXT_BANNAM507_03121_KOFUINSEIGETSU_000_001", "hash": "3C35CA92C342B99E", "target": "Per fortuna, in questo caso, il mio popolo è di indole semplice. Basta esibire lo spettacolo maestoso dei nostri mikoshi nelle loro immediate vicinanze e presto si contenderanno l'onore di portarne il peso." },
     { "gameKey": "quest/031/BanNam507_03121#TEXT_BANNAM507_03121_KOFUINSEIGETSU_000_002", "hash": "7F24553A7B8A6C4B", "target": "Va' da Gyotaku, <split(<string(gstr1)>, ,1)>. Fatti dare un mikoshi e sorvola la steppa fino ai nostri raccoglitori, che faticano ai margini del Ritiro di Nhaama. Nessuno saprà resistere al richiamo del tuo sonoro «wasshoi»!" },

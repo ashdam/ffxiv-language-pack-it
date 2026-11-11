@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/029/BanKjn302_02980#TEXT_BANKJN302_02980_SEQ_00", "hash": "2456284188477B3A", "target": "A Zukin servono perle, e gli servono subito.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
-    { "gameKey": "quest/029/BanKjn302_02980#TEXT_BANKJN302_02980_TODO_00", "hash": "7A95173C0E118C4B", "target": "Raccogliere perle dalle pearl oyster" },
-    { "gameKey": "quest/029/BanKjn302_02980#TEXT_BANKJN302_02980_TODO_01", "hash": "9683659A9CEE4ED1", "target": "Consegnare le perle all'East Aldenard Trading Company associate al Prezzo del Rubino" },
-    { "gameKey": "quest/029/BanKjn302_02980#TEXT_BANKJN302_02980_TODO_02", "hash": "93A2B5AAA378A6EB", "target": "Consegnare il pagamento a Zukin" },
+    { "gameKey": "quest/029/BanKjn302_02980#TEXT_BANKJN302_02980_TODO_00", "hash": "7A95173C0E118C4B", "target": "Raccogli perle dalle pearl oyster" },
+    { "gameKey": "quest/029/BanKjn302_02980#TEXT_BANKJN302_02980_TODO_01", "hash": "9683659A9CEE4ED1", "target": "Consegna le perle all'East Aldenard Trading Company associate al Prezzo del Rubino" },
+    { "gameKey": "quest/029/BanKjn302_02980#TEXT_BANKJN302_02980_TODO_02", "hash": "93A2B5AAA378A6EB", "target": "Consegna il pagamento a Zukin" },
     { "gameKey": "quest/029/BanKjn302_02980#TEXT_BANKJN302_02980_ZUKIN_000_000", "hash": "29D1AED0EF2102DF", "target": "<split(<string(gstr1)>, ,1)>, abbiamo ricevuto un ordine urgente di perle dalla Compagnia Commerciale dell'Aldenard Orientale! Non c'è tempo da perdere, devi andare subito a raccoglierle. Segnerò il luogo sulla tua mappa." },
     { "gameKey": "quest/029/BanKjn302_02980#TEXT_BANKJN302_02980_ZUKIN_000_001", "hash": "ACFE4FCFD9B45E05", "target": "Ah, ma prima che tu parta c'è una regola importante da rispettare. Per preservare l'equilibrio naturale, l'anziano ha decretato che non si possano aprire più di tre ostriche per raccolta. In altre parole, scegli bene." },
     { "gameKey": "quest/029/BanKjn302_02980#TEXT_BANKJN302_02980_ZUKIN_000_002", "hash": "B76254277FC6B31E", "target": "Quando avrai tre perle, portale direttamente al Prezzo del Rubino, dove ti attende l'incaricato della compagnia. Che i kami rendano rapido il tuo cammino!" },

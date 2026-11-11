@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKzj004_03567#TEXT_LUCKZJ004_03567_SEQ_00", "hash": "12C5CEC151964F01", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>L'istruttore è preoccupato per una delle sue nuove reclute." },
-    { "gameKey": "quest/035/LucKzj004_03567#TEXT_LUCKZJ004_03567_TODO_00", "hash": "1CE4CF2333CFF8FC", "target": "Consegnare il consolatory sandwich alla guardia inesperta al Setaccio Dolce" },
-    { "gameKey": "quest/035/LucKzj004_03567#TEXT_LUCKZJ004_03567_TODO_01", "hash": "9AC6A4E483120DE9", "target": "Parlare con l'istruttore alla Balistica" },
+    { "gameKey": "quest/035/LucKzj004_03567#TEXT_LUCKZJ004_03567_TODO_00", "hash": "1CE4CF2333CFF8FC", "target": "Consegna il panino consolatorio alla guardia inesperta al Setaccio Dolce" },
+    { "gameKey": "quest/035/LucKzj004_03567#TEXT_LUCKZJ004_03567_TODO_01", "hash": "9AC6A4E483120DE9", "target": "Parla con l'istruttore alla Balistica" },
     { "gameKey": "quest/035/LucKzj004_03567#TEXT_LUCKZJ004_03567_PLATOONLEADER03567_000_000", "hash": "DB051B4A9754C059", "target": "Forse un panino... A tutti piacciono i panini..." },
     { "gameKey": "quest/035/LucKzj004_03567#TEXT_LUCKZJ004_03567_PLATOONLEADER03567_000_001", "hash": "FA52135BFB1EB738", "target": "Oh! Ma è <if(gnum4,la Guerriera,il Guerriero)> dell'Oscurità! Che tempismo fortunato." },
     { "gameKey": "quest/035/LucKzj004_03567#TEXT_LUCKZJ004_03567_PLATOONLEADER03567_000_002", "hash": "711472447693E471", "target": "Sono preoccupato per una delle nostre reclute. Viveva a Bivio di Holminster e, dopo l'attacco, ha pensato di arruolarsi per proteggere meglio le persone che ama..." },

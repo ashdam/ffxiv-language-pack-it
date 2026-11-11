@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/045/BanArk108_04558#TEXT_BANARK108_04558_SEQ_00", "hash": "0A8527BAC1ED0DC5", "target": "Maru ha tutte le sue uova in un solo carretto.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
-    { "gameKey": "quest/045/BanArk108_04558#TEXT_BANARK108_04558_TODO_00", "hash": "259D3251210032A2", "target": "Parlare con l'obliging Rider" },
-    { "gameKey": "quest/045/BanArk108_04558#TEXT_BANARK108_04558_TODO_01", "hash": "A53DEB84C93B47F7", "target": "Procurarsi il sacco di uova di hamsa" },
-    { "gameKey": "quest/045/BanArk108_04558#TEXT_BANARK108_04558_TODO_02", "hash": "BD5AB1F90BC3BB28", "target": "Consegnare il sacco di uova di hamsa a Maru" },
+    { "gameKey": "quest/045/BanArk108_04558#TEXT_BANARK108_04558_TODO_00", "hash": "259D3251210032A2", "target": "Parla con l'obliging Rider" },
+    { "gameKey": "quest/045/BanArk108_04558#TEXT_BANARK108_04558_TODO_01", "hash": "A53DEB84C93B47F7", "target": "Procurati il sacco di uova di hamsa" },
+    { "gameKey": "quest/045/BanArk108_04558#TEXT_BANARK108_04558_TODO_02", "hash": "BD5AB1F90BC3BB28", "target": "Consegna il sacco di uova di hamsa a Maru" },
     { "gameKey": "quest/045/BanArk108_04558#TEXT_BANARK108_04558_MARU_000_000", "hash": "5BBC5C772073027E", "target": "<split(<string(gstr1)>, ,1)>! Qui la situazione è delicata, devi portarmi subito un enorme sacco di uova di hamsa!" },
     { "gameKey": "quest/045/BanArk108_04558#TEXT_BANARK108_04558_MARU_000_001", "hash": "50A43344B1D09FEA", "target": "Gli Allevamenti Nilopala stanno facendo una svendita, così ho mandato il nostro uomo in città a comprare un sacco di uova finché conviene." },
     { "gameKey": "quest/045/BanArk108_04558#TEXT_BANARK108_04558_MARU_000_002", "hash": "D231ECEA830AB4A0", "target": "... Solo che le uova sono troppo fragili per trasportarle sul carretto, e lui è ancora fuori per le consegne. Potresti raggiungerlo in fretta e ritirare per me quel sacco di bontà?" },

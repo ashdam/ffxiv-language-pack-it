@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/036/LucKmf102_03645#TEXT_LUCKMF102_03645_SEQ_00", "hash": "61A10EBAE7A3489C", "target": "Katliss ti guarda con aria preoccupata." },
-    { "gameKey": "quest/036/LucKmf102_03645#TEXT_LUCKMF102_03645_TODO_00", "hash": "A0932D8E5D338536", "target": "Fermarsi un momento a sentire il vento sul viso" },
-    { "gameKey": "quest/036/LucKmf102_03645#TEXT_LUCKMF102_03645_TODO_01", "hash": "D7EA2CC71A6C489C", "target": "Raccogliere informazioni sull'Esarca di Cristallo" },
-    { "gameKey": "quest/036/LucKmf102_03645#TEXT_LUCKMF102_03645_TODO_02", "hash": "9A745383196E6BB6", "target": "Parlare con Lyna alla Porta Accensor" },
+    { "gameKey": "quest/036/LucKmf102_03645#TEXT_LUCKMF102_03645_TODO_00", "hash": "A0932D8E5D338536", "target": "Fermati un momento a sentire il vento sul viso" },
+    { "gameKey": "quest/036/LucKmf102_03645#TEXT_LUCKMF102_03645_TODO_01", "hash": "D7EA2CC71A6C489C", "target": "Raccogli informazioni sull'Esarca di Cristallo" },
+    { "gameKey": "quest/036/LucKmf102_03645#TEXT_LUCKMF102_03645_TODO_02", "hash": "9A745383196E6BB6", "target": "Parla con Lyna alla Porta Accensor" },
     { "gameKey": "quest/036/LucKmf102_03645#TEXT_LUCKMF102_03645_KATLISS_000_000", "hash": "F825FED55A8B3099", "target": "...<split(<string(gstr1)>, ,1)>, stai bene?" },
     { "gameKey": "quest/036/LucKmf102_03645#TEXT_LUCKMF102_03645_KATLISS_000_001", "hash": "A36EDED2695B4491", "target": "Credo sia il caso di tornare a letto. Oppure potresti riposare un po' in cima alla torre di guardia accanto alla voliera." },
     { "gameKey": "quest/036/LucKmf102_03645#TEXT_LUCKMF102_03645_KATLISS_000_002", "hash": "617F66567D8749CB", "target": "Questo cielo dannato non offre il panorama più rilassante, ma all'Esarca piaceva spesso restare lassù e sentire il vento sul viso." },

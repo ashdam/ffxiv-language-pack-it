@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/052/BanMam115_05275#TEXT_BANMAM115_05275_SEQ_00", "hash": "7A1B34CE937C818B", "target": "Kageel Ja ha bisogno del tuo aiuto per far conoscere i prodotti disponibili alla fattoria.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
-    { "gameKey": "quest/052/BanMam115_05275#TEXT_BANMAM115_05275_TODO_00", "hash": "AAC622DEF1F66402", "target": "Con la modalità di chat impostata su <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, inserire \"The gainery has fresh vegetables\" per informare gli abitanti di Mamook" },
-    { "gameKey": "quest/052/BanMam115_05275#TEXT_BANMAM115_05275_TODO_01", "hash": "35A81666DB2F35CF", "target": "Parlare con Kageel Ja" },
+    { "gameKey": "quest/052/BanMam115_05275#TEXT_BANMAM115_05275_TODO_00", "hash": "AAC622DEF1F66402", "target": "Con la modalità di chat impostata su <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, inserisci \"The gainery has fresh vegetables\" per informare gli abitanti di Mamook" },
+    { "gameKey": "quest/052/BanMam115_05275#TEXT_BANMAM115_05275_TODO_01", "hash": "35A81666DB2F35CF", "target": "Parla con Kageel Ja" },
     { "gameKey": "quest/052/BanMam115_05275#TEXT_BANMAM115_05275_KAGEELJA_000_001", "hash": "EF7C45AD5B620667", "target": "Con i campi seminati, le piante cresciute e le scorte colme di ortaggi, Gok Golma soddisfa ogni aspettativa!" },
     { "gameKey": "quest/052/BanMam115_05275#TEXT_BANMAM115_05275_KAGEELJA_000_002", "hash": "3586AE2A2B9D89C7", "target": "Ma nonostante tutti i nostri successi, molti a Mamook non sanno ancora quale abbondanza li circondi." },
     { "gameKey": "quest/052/BanMam115_05275#TEXT_BANMAM115_05275_KAGEELJA_000_003", "hash": "2A0A59B587B77EFF", "target": "Per questo vorrei che andassi per le strade e usassi la tua notevole fama per far conoscere a tutti le ultime novità della fattoria." },

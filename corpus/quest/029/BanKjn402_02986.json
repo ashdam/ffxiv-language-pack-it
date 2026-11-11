@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_SEQ_00", "hash": "CBD9BDF4E27DA93F", "target": "Zukin sta esplorando una nuova opportunità commerciale con i Namazu.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
-    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_TODO_00", "hash": "C56E4B35DD3A1CC5", "target": "Uccidere uno spry gyuki e raccogliere un taglio di carne di gyuki" },
-    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_TODO_01", "hash": "323EB50778AC90E7", "target": "Riferire a Zukin" },
+    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_TODO_00", "hash": "C56E4B35DD3A1CC5", "target": "Sconfiggi uno spry gyuki e raccogli un taglio di carne di gyuki" },
+    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_TODO_01", "hash": "323EB50778AC90E7", "target": "Riferisci a Zukin" },
     { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_ZUKIN_000_000", "hash": "FC26508EECB2189F", "target": "Commerciando con i Namazu abbiamo scoperto che uno dei loro cibi preferiti è la carne del temibile gyuki." },
     { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_ZUKIN_000_001", "hash": "A2846C97A4EADC78", "target": "Tuttavia, i Namazu faticano a procurarsela da soli. Saranno anche astuti negli affari, ma non sono abili cacciatori. Posso ricorrere ancora una volta ai tuoi servizi?" },
     { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_ZUKIN_000_020", "hash": "DB446C4D5436F01D", "target": "Allora, la caccia è andata bene?" },

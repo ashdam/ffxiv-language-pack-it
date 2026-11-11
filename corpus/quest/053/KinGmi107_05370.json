@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_SEQ_00", "hash": "621A46799C3CFEFD", "target": "Sphene è decisa a prendere parte alla battaglia imminente." },
-    { "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_TODO_00", "hash": "AC0727182294C576", "target": "Parlare con Gossan al Parco Praxis" },
-    { "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_TODO_01", "hash": "6582E45D1AF38548", "target": "Parlare con Sphene" },
-    { "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_TODO_02", "hash": "2BEE90D6EEAD11E6", "target": "Parlare con Y'shtola al Nodo Ley Mnemo" },
+    { "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_TODO_00", "hash": "AC0727182294C576", "target": "Parla con Gossan al Parco Praxis" },
+    { "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_TODO_01", "hash": "6582E45D1AF38548", "target": "Parla con Sphene" },
+    { "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_TODO_02", "hash": "2BEE90D6EEAD11E6", "target": "Parla con Y'shtola al Nodo Ley Mnemo" },
     { "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_GULOOLJA_000_001", "hash": "02C2ACF891E40E43", "target": "Shale è di cattivo umore da quando siamo tornati. Credo che non le sia piaciuto quello che ha detto Calyx... Ma non preoccuparti, farò del mio meglio per tirarla su!" },
     { "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_KRILE_000_005", "hash": "74489F5BB62AB855", "target": "Ho raccontato in breve l'accaduto ai nostri compagni, così che tutti possiamo prepararci alla sfida che ci attende." },
     { "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_WUKLAMAT_000_010", "hash": "2E109D9911252812", "target": "È ora di farla finita. Calyx non si fermerà finché non saremo <italic(1)>noi<italic(0)> a fermarlo." },

@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/053/KinGkd007_05315#TEXT_KINGKD007_05315_SEQ_00", "hash": "8C8B5650181F8E59", "target": "L'Archivio non vede l'ora di sentire la tua descrizione delle rovine meridionali." },
-    { "gameKey": "quest/053/KinGkd007_05315#TEXT_KINGKD007_05315_TODO_00", "hash": "E4DA58221E02B2A5", "target": "Procurarsi un campione di pietra intrisa di etere" },
-    { "gameKey": "quest/053/KinGkd007_05315#TEXT_KINGKD007_05315_TODO_01", "hash": "14DB1241F5498240", "target": "Consegnare il campione di pietra intrisa di etere all'Archivio" },
+    { "gameKey": "quest/053/KinGkd007_05315#TEXT_KINGKD007_05315_TODO_00", "hash": "E4DA58221E02B2A5", "target": "Procurati un campione di pietra intrisa di etere" },
+    { "gameKey": "quest/053/KinGkd007_05315#TEXT_KINGKD007_05315_TODO_01", "hash": "14DB1241F5498240", "target": "Consegna il campione di pietra intrisa di etere all'Archivio" },
     { "gameKey": "quest/053/KinGkd007_05315#TEXT_KINGKD007_05315_KETENRAMM_000_001", "hash": "69CC611C35AB7BFA", "target": "Per risolvere i misteri dell'isola, dobbiamo scoprire la verità sulle rovine sparse da queste parti. Esamina bene quelle costruzioni a sud del campo e riferisci all'Archivio ciò che scopri." },
     { "gameKey": "quest/053/KinGkd007_05315#TEXT_KINGKD007_05315_ARCHIVE_000_002", "hash": "9EE49ADB23C2E3DF", "target": "Le rovine che svettano oltre le cime degli alberi a sud del campo saranno la meta della tua prossima escursione! Torna presto e descrivimi il loro splendore perduto." },
     { "gameKey": "quest/053/KinGkd007_05315#TEXT_KINGKD007_05315_SYSTEM_000_005", "hash": "EDEBE19942DF09E1", "target": "Per proseguire questa missione, devi sbloccare le voci pertinenti nell'Occult Record." },

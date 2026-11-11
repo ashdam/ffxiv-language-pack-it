@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_SEQ_00", "hash": "97A381779490D4A8", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Iala Jul ha una richiesta per <if(gnum4,una figlia degli uomini,un figlio degli uomini)>." },
-    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_TODO_00", "hash": "16169895E5FE6FFB", "target": "Sconfiggere un rabbit's tail, un tot aevis o un phooka" },
-    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_TODO_01", "hash": "B8FE0ABD56B2E2A7", "target": "Parlare con Iala Jul" },
+    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_TODO_00", "hash": "16169895E5FE6FFB", "target": "Sconfiggi un rabbit's tail, un tot aevis o un phooka" },
+    { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_TODO_01", "hash": "B8FE0ABD56B2E2A7", "target": "Parla con Iala Jul" },
     { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_001", "hash": "7A8F585CE12912AA", "target": "Che <if(gnum4,una figlia degli uomini,un figlio degli uomini)> appaia proprio ora! Questo piccolo è davvero fortunato." },
     { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_002", "hash": "83B1F6EE3D2660DD", "target": "Ho l'onore di vegliare sulla vita che si forma in questo uovo. Sarà un giorno felice quando uscirà finalmente nel mondo. Purtroppo, probabilmente crescerà senza conoscere gli uomini, e questo mi rattrista." },
     { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_EGGAMARO03424_000_003", "hash": "C40F07EAD9B498F6", "target": "Ma ho un'idea. Se hai tempo, mi porteresti qualcosa di caldo con cui rivestire quel nido?" },

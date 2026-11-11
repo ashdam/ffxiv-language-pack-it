@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/040/LucKsa322_04095#TEXT_LUCKSA322_04095_SEQ_00", "hash": "E588613CA3BEAEBF", "target": "Merlzirn cerca aiuto da chi non teme di scavare oltre le linee nemiche." },
-    { "gameKey": "quest/040/LucKsa322_04095#TEXT_LUCKSA322_04095_TODO_00", "hash": "23D1CD50CB4BAC33", "target": "Completare il ingaggio Critico «la Battaglia di Castrum Lacus Litore»" },
-    { "gameKey": "quest/040/LucKsa322_04095#TEXT_LUCKSA322_04095_TODO_01", "hash": "095B4131C4312108", "target": "Completare il ingaggio Critico «the Dalriada»" },
-    { "gameKey": "quest/040/LucKsa322_04095#TEXT_LUCKSA322_04095_TODO_02", "hash": "1C826ABEB820A539", "target": "Consegnare le antiche vesti bozjane e l'antica armatura bozjana a Merlzirn" },
+    { "gameKey": "quest/040/LucKsa322_04095#TEXT_LUCKSA322_04095_TODO_00", "hash": "23D1CD50CB4BAC33", "target": "Completa il ingaggio Critico «la Battaglia di Castrum Lacus Litore»" },
+    { "gameKey": "quest/040/LucKsa322_04095#TEXT_LUCKSA322_04095_TODO_01", "hash": "095B4131C4312108", "target": "Completa il ingaggio Critico «the Dalriada»" },
+    { "gameKey": "quest/040/LucKsa322_04095#TEXT_LUCKSA322_04095_TODO_02", "hash": "1C826ABEB820A539", "target": "Consegna le antiche vesti bozjane e l'antica armatura bozjana a Merlzirn" },
     { "gameKey": "quest/040/LucKsa322_04095#TEXT_LUCKSA322_04095_SYSTEM_100_000", "hash": "45418F6803BD6D4A", "target": "Per intraprendere questa missione devi aver accumulato <kilo(lnum2,\\,)> mettle." },
     { "gameKey": "quest/040/LucKsa322_04095#TEXT_LUCKSA322_04095_SYSTEM_100_001", "hash": "9D5ED3E7F3CB5974", "target": "Al momento hai accumulato <kilo(lnum2,\\,)> mettle." },
     { "gameKey": "quest/040/LucKsa322_04095#TEXT_LUCKSA322_04095_MERLZIRN_000_000", "hash": "E09A20121F7E6B3B", "target": "Non credo ai miei occhi, Lama <split(<string(gstr1)>, ,2)>! È un onore, <if(gnum4,signora,signore)>." },

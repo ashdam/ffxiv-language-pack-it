@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/033/LucKza008_03350#TEXT_LUCKZA008_03350_SEQ_00", "hash": "31737993B15BEE7D", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Catty osserva le scorte di cibo, con il volto segnato dalla preoccupazione." },
-    { "gameKey": "quest/033/LucKza008_03350#TEXT_LUCKZA008_03350_TODO_00", "hash": "F2C1589D300B1E64", "target": "Uccidere due whiptail, poi sconfiggere Jaculus infuriato" },
-    { "gameKey": "quest/033/LucKza008_03350#TEXT_LUCKZA008_03350_TODO_01", "hash": "45864A2B680AB4B5", "target": "Parlare con Catty" },
+    { "gameKey": "quest/033/LucKza008_03350#TEXT_LUCKZA008_03350_TODO_00", "hash": "F2C1589D300B1E64", "target": "Sconfiggi due whiptail, poi sconfiggi Jaculus infuriato" },
+    { "gameKey": "quest/033/LucKza008_03350#TEXT_LUCKZA008_03350_TODO_01", "hash": "45864A2B680AB4B5", "target": "Parla con Catty" },
     { "gameKey": "quest/033/LucKza008_03350#TEXT_LUCKZA008_03350_CATTY_000_000", "hash": "F25E4A495E0BB10A", "target": "Questo dovrebbe bastarci. Almeno finché non ci libereremo di quei maledetti squamosi..." },
     { "gameKey": "quest/033/LucKza008_03350#TEXT_LUCKZA008_03350_CATTY_000_001", "hash": "0A54F5E5E08CD0D0", "target": "Di questi tempi sembra che a Marea Quieta vivano più parassiti che persone, con tutti gli aspiranti che scappano a Eulmore." },
     { "gameKey": "quest/033/LucKza008_03350#TEXT_LUCKZA008_03350_CATTY_000_002", "hash": "104B1225FC8A33D8", "target": "Ma quelle lucertole volanti sono le peggiori. Non puoi più nemmeno uscire per un'onesta giornata di lavoro senza uno sciame di quei demoni alati che ti mordicchia i talloni da qui ai Filari del Governatore." },

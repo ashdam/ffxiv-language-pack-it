@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/040/LucKsa212_04028#TEXT_LUCKSA212_04028_SEQ_00", "hash": "3EA9E3558108402A", "target": "Annes cerca reliquie di un tipo particolare e sospetta che tu sappia dove trovarle." },
-    { "gameKey": "quest/040/LucKsa212_04028#TEXT_LUCKSA212_04028_TODO_00", "hash": "16DC5CAC8C0FEAE8", "target": "Entrare nel Delubrum Reginae." },
-    { "gameKey": "quest/040/LucKsa212_04028#TEXT_LUCKSA212_04028_TODO_01", "hash": "24D11A1C9C768BA5", "target": "Consegnare la reliquia enigmatica di Bozja ad Annes" },
+    { "gameKey": "quest/040/LucKsa212_04028#TEXT_LUCKSA212_04028_TODO_00", "hash": "16DC5CAC8C0FEAE8", "target": "Entra nel Delubrum Reginae." },
+    { "gameKey": "quest/040/LucKsa212_04028#TEXT_LUCKSA212_04028_TODO_01", "hash": "24D11A1C9C768BA5", "target": "Consegna la reliquia enigmatica di Bozja ad Annes" },
     { "gameKey": "quest/040/LucKsa212_04028#TEXT_LUCKSA212_04028_SYSTEM_100_000", "hash": "3CE29BE09A486F27", "target": "Per intraprendere questa missione devi aver accumulato <kilo(lnum2,\\,)> mettle." },
     { "gameKey": "quest/040/LucKsa212_04028#TEXT_LUCKSA212_04028_SYSTEM_100_001", "hash": "778E632952104C05", "target": "Al momento hai accumulato <kilo(lnum2,\\,)> mettle." },
     { "gameKey": "quest/040/LucKsa212_04028#TEXT_LUCKSA212_04028_ANNES_000_000", "hash": "03621DECAA679E3D", "target": "Lama <split(<string(gstr1)>, ,2)>! È un piacere fare la vostra conoscenza. Mi chiamo Annes." },

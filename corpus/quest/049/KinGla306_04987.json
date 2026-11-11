@@ -5,7 +5,7 @@
     { "gameKey": "quest/049/KinGla306_04987#TEXT_KINGLA306_04987_SEQ_00", "hash": "515E5ACA0EB69587", "target": "Xeerol Ja è pronta a far maturare un altro succo." },
     { "gameKey": "quest/049/KinGla306_04987#TEXT_KINGLA306_04987_SEQ_01", "hash": "EB96B42A14365575", "target": "Xeerol Ja ti ha incaricato di creare del prickly pear juice.<br><br>※Il valore di collezionabilità minimo per questa consegna è 260. Consegnando oggetti con un valore di 530 o superiore otterrai ricompense maggiori." },
     { "gameKey": "quest/049/KinGla306_04987#TEXT_KINGLA306_04987_SEQ_02", "hash": "A6B567B7044F1B48", "target": "Consegni il prickly pear juice a Xeerol Ja. Visto che manca ancora un po' alla festa di degustazione, potresti approfittarne per affinare il tuo mestiere." },
-    { "gameKey": "quest/049/KinGla306_04987#TEXT_KINGLA306_04987_TODO_00", "hash": "27E272CA0B1804EF", "target": "Consegnare prickly pear juice a Xeerol Ja" },
+    { "gameKey": "quest/049/KinGla306_04987#TEXT_KINGLA306_04987_TODO_00", "hash": "27E272CA0B1804EF", "target": "Consegna prickly pear juice a Xeerol Ja" },
     { "gameKey": "quest/049/KinGla306_04987#TEXT_KINGLA306_04987_SYSTEM_000_000", "hash": "D6D5691B87AD1360", "target": "Per intraprendere questa missione, devi prima completare la missione dello scenario principale “La lunga strada per Xak Tural”." },
     { "gameKey": "quest/049/KinGla306_04987#TEXT_KINGLA306_04987_HALNARUK_100_000", "hash": "DCA513BFF60D8CA6", "target": "Pfff... Pfffkohhh! Animo di Xeerol Ja sembra leggero come aria! Grazie a succopolpa di Halnaruk, sì?" },
     { "gameKey": "quest/049/KinGla306_04987#TEXT_KINGLA306_04987_XEEROLJA_000_010", "hash": "39BDD0039A72E73A", "target": "Arrivi al momento giusto, <split(<string(gstr1)>, ,1)>." },
