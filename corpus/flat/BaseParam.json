@@ -73,12 +73,12 @@
     { "gameKey": "BaseParam#44.1", "hash": "66B7D9372342E76A", "target": "Determinazione" },
     { "gameKey": "BaseParam#44.2", "hash": "E7BEB75A6AA5924D", "target": "Influisce sui danni inflitti dagli attacchi fisici e magici e sui PV ripristinati dagli incantesimi curativi." },
     { "gameKey": "BaseParam#45.1", "hash": "A921C197F7B6DE82", "target": "Velocità Tecniche" },
-    { "gameKey": "BaseParam#45.2", "hash": "1D80D9DCFD676D17", "target": "Influisce sui tempi di lancio e di ricarica delle tecniche d'arma e sulla potenza dei danni nel tempo e degli attacchi automatici. Più alto è il valore, minori sono i tempi e maggiore è la potenza." },
+    { "gameKey": "BaseParam#45.2", "hash": "1D80D9DCFD676D17", "target": "Influisce sui tempi di lancio e di ricarica delle tecniche d'arma, sui danni fisici periodici e sui danni inflitti dagli attacchi automatici. Più alto è il valore, minori sono i tempi e maggiori i danni." },
     { "gameKey": "BaseParam#46.1", "hash": "F9A596194C5CE634", "target": "Velocità Incantesimi" },
-    { "gameKey": "BaseParam#46.2", "hash": "7A97AF0A18E3E790", "target": "Influisce sui tempi di lancio e di ricarica degli incantesimi. Più alto è il valore, minori sono i tempi. Influisce anche sulla potenza dei danni nel tempo e delle cure nel tempo degli incantesimi." },
+    { "gameKey": "BaseParam#46.2", "hash": "7A97AF0A18E3E790", "target": "Influisce sui tempi di lancio e di ricarica degli incantesimi. Più alto è il valore, minori sono i tempi. Influisce anche sulla potenza dei danni periodici e delle cure periodiche degli incantesimi." },
     { "gameKey": "BaseParam#47.1", "hash": "ED31089E6FD76A23", "target": "Rapidità" },
     { "gameKey": "BaseParam#48.1", "hash": "4FCB87ED9802ED54", "target": "Morale" },
-    { "gameKey": "BaseParam#48.2", "hash": "E5AA0147FB15310C", "target": "In PvP, sostituisce la difesa fisica e magica nel calcolo dei danni inflitti dagli altri giocatori. Influisce anche sui danni inflitti agli altri giocatori." },
+    { "gameKey": "BaseParam#48.2", "hash": "E5AA0147FB15310C", "target": "In PvP, sostituisce la difesa fisica e magica nel calcolo dei danni che subisci dagli altri giocatori. Influisce anche sui danni che infliggi agli altri giocatori." },
     { "gameKey": "BaseParam#49.1", "hash": "446D812DD459E953", "target": "Ostilità" },
     { "gameKey": "BaseParam#50.1", "hash": "D858344B1A4AEDE5", "target": "Riduzione dell'Ostilità" },
     { "gameKey": "BaseParam#51.1", "hash": "30F39AA96B2B7F0E", "target": "Aumento dell'Abilità di Desintesi" },
@@ -115,6 +115,6 @@
     { "gameKey": "BaseParam#72.1", "hash": "4E1F4B436A9D012D", "target": "Raccolta" },
     { "gameKey": "BaseParam#72.2", "hash": "8CB6E58076EDBD32", "target": "Influisce sulla probabilità di ottenere oggetti durante la raccolta." },
     { "gameKey": "BaseParam#73.1", "hash": "3753DECDE4594DDE", "target": "Percezione" },
-    { "gameKey": "BaseParam#73.2", "hash": "AF77B13B8787FF8E", "target": "Influisce sulla quantità di oggetti ottenuti durante la raccolta con Botanico o Minatore e sulle dimensioni dei pesci catturati con la pesca o la pesca subacquea con fiocina." }
+    { "gameKey": "BaseParam#73.2", "hash": "AF77B13B8787FF8E", "target": "Influisce sulla quantità di oggetti ottenuti da botanici e minatori e sulla taglia dei pesci pescati con la canna o la fiocina." }
   ]
 }

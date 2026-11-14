@@ -28,8 +28,8 @@
     { "gameKey": "quest/012/BanSyl207_01273#TEXT_BANSYL207_01273_RECOVER_000_001", "hash": "A22287227739784F", "target": "Una nebbia profumata ti avvolge!" },
     { "gameKey": "quest/012/BanSyl207_01273#TEXT_BANSYL207_01273_NOTRECOVER_000_001", "hash": "D4776A5BE50A69A8", "target": "Non è sicuro eseguire questa azione mentre sei visibile. Torna dalla Silfide misteriosa per rinnovare l'incantesimo." },
     { "gameKey": "quest/012/BanSyl207_01273#TEXT_BANSYL207_01273_PONNIXIA_000_020", "hash": "2EF33B7DA263AB87", "target": "Grazie <if(gnum4,a quella coraggiosa,a quello coraggioso)>, la spora lunare continua a brillare nell'oscurità, e questi qui potrebbero ancora riportare quelli asserviti alla luce. Questi qui devono molto <if(gnum4,a quella coraggiosa,a quello coraggioso)>." },
-    { "gameKey": "quest/012/BanSyl207_01273#TEXT_BANSYL207_01273_SYLPHENEMY_000_030", "hash": "63216A876AE684B5", "target": "(-Hostile Sylph-)La foresta non è un posto per i camminanti. Fuori!" },
-    { "gameKey": "quest/012/BanSyl207_01273#TEXT_BANSYL207_01273_SYLPHENEMY_000_031", "hash": "8EB46C61A46FA89F", "target": "(-Hostile Sylph-)Mh? Non c'è più acqua limpida!? \\<sigh> Questo qui deve tornare alla sorgente..." },
+    { "gameKey": "quest/012/BanSyl207_01273#TEXT_BANSYL207_01273_SYLPHENEMY_000_030", "hash": "63216A876AE684B5", "target": "(-Silfide ostile-)La foresta non è un posto per i camminanti. Fuori!" },
+    { "gameKey": "quest/012/BanSyl207_01273#TEXT_BANSYL207_01273_SYLPHENEMY_000_031", "hash": "8EB46C61A46FA89F", "target": "(-Silfide ostile-)Mh? Non c'è più acqua limpida!? \\<sigh> Questo qui deve tornare alla sorgente..." },
     { "gameKey": "quest/012/BanSyl207_01273#TEXT_BANSYL207_01273_SYSTEM_000_100", "hash": "6A2B0BAA5E5B4E53", "target": "Rinvigorita dall'acqua fresca, la spora lunare scintilla e risplende." }
   ]
 }

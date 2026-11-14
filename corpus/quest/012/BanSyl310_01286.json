@@ -3,10 +3,10 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/012/BanSyl310_01286#TEXT_BANSYL310_01286_SEQ_00", "hash": "16DE34DD38D6626E", "target": "Moxia vuole che ti occupi di alcuni ripugnanti abitanti della foresta." },
-    { "gameKey": "quest/012/BanSyl310_01286#TEXT_BANSYL310_01286_SEQ_01", "hash": "9128A4CEE17E9CB6", "target": "Le silfidi malvagie hanno piantato banestool giganti nei pressi degli Aculei Sospesi, minacciando il benessere di tutti gli abitanti dei dintorni. Sconfiggi due di quei temibili funghi." },
-    { "gameKey": "quest/012/BanSyl310_01286#TEXT_BANSYL310_01286_SEQ_02", "hash": "8AE8409610C1F88E", "target": "Hai sconfitto i banestool giganti. Informa Moxia che ha due funghi in meno da temere." },
+    { "gameKey": "quest/012/BanSyl310_01286#TEXT_BANSYL310_01286_SEQ_01", "hash": "9128A4CEE17E9CB6", "target": "Le silfidi malvagie hanno piantato funghi malefici giganti nei pressi degli Aculei Sospesi, minacciando il benessere di tutti gli abitanti dei dintorni. Sconfiggi due di quei temibili funghi." },
+    { "gameKey": "quest/012/BanSyl310_01286#TEXT_BANSYL310_01286_SEQ_02", "hash": "8AE8409610C1F88E", "target": "Hai sconfitto i funghi malefici giganti. Informa Moxia che ha due funghi in meno da temere." },
     { "gameKey": "quest/012/BanSyl310_01286#TEXT_BANSYL310_01286_SEQ_03", "hash": "51A54F5A0322FBBB", "target": "Pur essendoti grata per il tuo impegno, Moxia continua a lamentare la condizione del suo popolo. È una triste realtà: la folle sete di potere delle silfidi asservite le ha rese cieche alla lenta distruzione della loro stessa dimora." },
-    { "gameKey": "quest/012/BanSyl310_01286#TEXT_BANSYL310_01286_TODO_00", "hash": "7C37F4E63DD3D2F9", "target": "Sconfiggi i banestool giganti." },
+    { "gameKey": "quest/012/BanSyl310_01286#TEXT_BANSYL310_01286_TODO_00", "hash": "7C37F4E63DD3D2F9", "target": "Sconfiggi i funghi malefici giganti." },
     { "gameKey": "quest/012/BanSyl310_01286#TEXT_BANSYL310_01286_TODO_01", "hash": "89C57AAC51C0E59E", "target": "Fai rapporto a Moxia" },
     { "gameKey": "quest/012/BanSyl310_01286#TEXT_BANSYL310_01286_MOXIA_000_000", "hash": "28F24999F04E1FA9", "target": "Questa qui distoglie gli occhi da quelli asserviti per un momento, e cosa fanno quelli asserviti? Piantano quelli puzzolenti dappertutto agli Aculei Sospesi!" },
     { "gameKey": "quest/012/BanSyl310_01286#TEXT_BANSYL310_01286_MOXIA_000_001", "hash": "9C29A920EDAC0BDA", "target": "<if(gnum4,Quella fidata,Quello fidato)> conosce quelli puzzolenti, sì? Quelli puzzolenti mordono, digrignano e sputano anche spore che fanno stare male. Brutte cose, quelli là." },
