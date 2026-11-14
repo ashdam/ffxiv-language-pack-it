@@ -37,6 +37,6 @@
     { "gameKey": "quest/005/FesVlt102_00515#TEXT_FESVLT102_00515_MISSIONARY00515_000_043", "hash": "C5AD172246AF15C2", "target": "Vi prego, non fraintendetemi: non ne cerco una per me. Lord Hortefense mi ha chiesto di cercare una dama simile. Se conoscete qualcuno che corrisponde alla descrizione, sono certo che vi sarebbe molto grato per l'informazione." },
     { "gameKey": "quest/005/FesVlt102_00515#TEXT_FESVLT102_00515_MISSIONARY00515_000_044", "hash": "CD32C11FF01842D5", "target": "Ma per ora, il vostro lavoro a Gridania è concluso! Grazie, <if(gnum4,mia signora,mio signore)>. Senza <if(gnum4,donne,uomini)> come voi, il mondo sarebbe un luogo meno appassionato!" },
     { "gameKey": "quest/005/FesVlt102_00515#TEXT_FESVLT102_00515_HORTEFENSE_000_045", "hash": "C5CDBF4F0E920BC4", "target": "Come procede la ricerca, <if(gnum4,mia signora,mio signore)>? ...Hai già trovato l'uomo scomparso!? Oh, ma è una notizia meravigliosa! Sapevo di poter contare su di te!" },
-    { "gameKey": "quest/005/FesVlt102_00515#TEXT_FESVLT102_00515_SYSTEM_000_050", "hash": "2B8AD36EF9B6C46C", "target": "Hai aiutato con successo gli emissari del casato Valentione in tutte e tre le città stato! Torna da Hortefense all'Anfiteatro di Mih Khetto per riferire il tuo successo." }
+    { "gameKey": "quest/005/FesVlt102_00515#TEXT_FESVLT102_00515_SYSTEM_000_050", "hash": "2B8AD36EF9B6C46C", "target": "Hai aiutato con successo gli emissari del casato Valentione in tutte e tre le città-stato! Torna da Hortefense all'Anfiteatro di Mih Khetto per riferire il tuo successo." }
   ]
 }
