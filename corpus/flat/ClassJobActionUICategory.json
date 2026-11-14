@@ -33,7 +33,7 @@
     { "gameKey": "ClassJobActionUICategory#19.0", "hash": "D2BB1897F53680C4", "target": "Qualità" },
     { "gameKey": "ClassJobActionUICategory#19.1", "hash": "C9B6C101793676FA", "target": "Azioni che aumentano la qualità o l'efficienza." },
     { "gameKey": "ClassJobActionUICategory#20.0", "hash": "81609F2E21EE50AB", "target": "Supporto alla Fabbricazione" },
-    { "gameKey": "ClassJobActionUICategory#20.1", "hash": "4A7BF3973F8999C3", "target": "Azioni di supporto che agiscono sulla durabilità o sui CP." },
+    { "gameKey": "ClassJobActionUICategory#20.1", "hash": "4A7BF3973F8999C3", "target": "Azioni di supporto che agiscono sull'integrità o sui CP." },
     { "gameKey": "ClassJobActionUICategory#21.0", "hash": "44503C153CA7EBF8", "target": "Specialista" },
     { "gameKey": "ClassJobActionUICategory#21.1", "hash": "011B60F694FE4AF8", "target": "Azioni disponibili quando si equipaggia un cristallo dell'anima da artigiano." }
   ]
