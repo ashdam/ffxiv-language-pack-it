@@ -12,7 +12,7 @@
     { "gameKey": "quest/032/LucKla301_03233#TEXT_LUCKLA301_03233_TODO_01", "hash": "98CE6B3D268E80F9", "target": "Usa /pet sulla femmina di amaro ferita" },
     { "gameKey": "quest/032/LucKla301_03233#TEXT_LUCKLA301_03233_TODO_02", "hash": "201793010EF3706F", "target": "Parla con Bethric" },
     { "gameKey": "quest/032/LucKla301_03233#TEXT_LUCKLA301_03233_TODO_03", "hash": "34DDC49479FFCA83", "target": "Parla con Bethric" },
-    { "gameKey": "quest/032/LucKla301_03233#TEXT_LUCKLA301_03233_SYSTEM_100_000", "hash": "8FEF1437FBFBE5C0", "target": "Completando questa missione, potrai effettuare le Crystarium Deliveries per la Facet of Nourishing. Per proseguire, devi essere Culinarian o Alchemist di livello 70 o superiore." },
+    { "gameKey": "quest/032/LucKla301_03233#TEXT_LUCKLA301_03233_SYSTEM_100_000", "hash": "8FEF1437FBFBE5C0", "target": "Completando questa missione, potrai effettuare le Consegne del Crystarium per la Facet of Nourishing. Per proseguire, devi essere Culinarian o Alchemist di livello 70 o superiore." },
     { "gameKey": "quest/032/LucKla301_03233#TEXT_LUCKLA301_03233_BETHRIC_000_000", "hash": "113403288FFB1502", "target": "Mh? \\<sniff> \\<sniff> Che aroma piacevole." },
     { "gameKey": "quest/032/LucKla301_03233#TEXT_LUCKLA301_03233_BETHRIC_000_001", "hash": "C250B13274FBD614", "target": "Ah, perdonatemi. Non ho potuto fare a meno di notare il profumo di erbe medicinali che vi circonda. Per caso siete <if(gnum4,un'alchimista,un alchimista)>?" },
     { "gameKey": "quest/032/LucKla301_03233#TEXT_LUCKLA301_03233_BETHRIC_000_002", "hash": "43411CE85DEE273D", "target": "Ah, perdonatemi. Non ho potuto fare a meno di notare il profumo di erbe e spezie che vi circonda. Per caso siete <if(gnum4,una cuoca,un cuoco)>?" },

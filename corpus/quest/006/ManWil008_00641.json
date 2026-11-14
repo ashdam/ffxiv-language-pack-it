@@ -28,7 +28,7 @@
     { "gameKey": "quest/006/ManWil008_00641#TEXT_MANWIL008_00641_MOMODI_000_41", "hash": "B80DCB3DF4E7F4AD", "target": "Lascia che... \\<gasp> Ebbene, pare che la capogilda si sia superata con questo paio!" },
     { "gameKey": "quest/006/ManWil008_00641#TEXT_MANWIL008_00641_MOMODI_000_42", "hash": "EDD9D5EB82A5A5DD", "target": "Abbi molta cura di questi orecchini! Se finissero nelle mani sbagliate, solo gli dei sanno cosa potrebbe accadere!" },
     { "gameKey": "quest/006/ManWil008_00641#TEXT_MANWIL008_00641_MOMODI_000_43", "hash": "B4857BA31395B0AD", "target": "Spero che tu abbia voglia di socializzare, <split(<string(gstr1)>, ,1)>, perché stai per mescolarti all'élite di Ul'dah! Dimmi quando sarai <if(gnum4,pronta,pronto)> per andare al banchetto." },
-    { "gameKey": "quest/006/ManWil008_00641#TEXT_MANWIL008_00641_Q1_000_050", "hash": "C9C93A4352C8E5C3", "target": "Entrare nel Cuore dei Giurati?" },
+    { "gameKey": "quest/006/ManWil008_00641#TEXT_MANWIL008_00641_Q1_000_050", "hash": "C9C93A4352C8E5C3", "target": "Entrare nel Cuore delle Spade?" },
     { "gameKey": "quest/006/ManWil008_00641#TEXT_MANWIL008_00641_A1_000_051", "hash": "EE1CCA0998AAE5A7", "target": "Sì" },
     { "gameKey": "quest/006/ManWil008_00641#TEXT_MANWIL008_00641_A1_000_052", "hash": "4BE1BBCC07A98FF5", "target": "No" }
   ]

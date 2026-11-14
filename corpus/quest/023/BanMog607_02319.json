@@ -12,7 +12,7 @@
     { "gameKey": "quest/023/BanMog607_02319#TEXT_BANMOG607_02319_TODO_01", "hash": "F7BA79FF9D434B0B", "target": "Monta su Whei Ahf e usa l'abilità Ruggito sull'albero kupa" },
     { "gameKey": "quest/023/BanMog607_02319#TEXT_BANMOG607_02319_TODO_02", "hash": "A19AFBF9E0189CE7", "target": "Monta su Whei Ahf e usa l'abilità Ruggito sull'ammasso di cristalli" },
     { "gameKey": "quest/023/BanMog607_02319#TEXT_BANMOG607_02319_TODO_03", "hash": "4EB821C992F1808A", "target": "Fai rapporto a Mogek il Meraviglioso" },
-    { "gameKey": "quest/023/BanMog607_02319#TEXT_BANMOG607_02319_MOGEK_000_000", "hash": "8D7BC0A851AC173E", "target": "<split(<string(gstr1)>, ,1)>, io e i Restauratori Moguri abbiamo avuto un'idea splendida! Ricordate come i cristalli si rafforzino quando vengono investiti dal ruggito dei dragoni?" },
+    { "gameKey": "quest/023/BanMog607_02319#TEXT_BANMOG607_02319_MOGEK_000_000", "hash": "8D7BC0A851AC173E", "target": "<split(<string(gstr1)>, ,1)>, io e i Moguriparatori abbiamo avuto un'idea splendida! Ricordate come i cristalli si rafforzino quando vengono investiti dal ruggito dei dragoni?" },
     { "gameKey": "quest/023/BanMog607_02319#TEXT_BANMOG607_02319_MOGEK_000_001", "hash": "1BB3AEB721424496", "target": "Pensate all'albero kupa, ricco d'etere e fonte naturale di cristalli. Se Whei Ahf gli ruggisse contro, produrrebbe cristalli ancora migliori, no?" },
     { "gameKey": "quest/023/BanMog607_02319#TEXT_BANMOG607_02319_MOGEK_000_002", "hash": "A3D69770D8DD5E2C", "target": "Vorremmo verificarlo: potreste chiamare Whei Ahf e chiedergli di ruggire su un albero kupa? Oh, e già che ci siete, potreste fermarvi a uno degli ammassi che raccogliamo e farlo ruggire anche su quello?" },
     { "gameKey": "quest/023/BanMog607_02319#TEXT_BANMOG607_02319_WYVERNRECEPTION02319_000_010", "hash": "4A708EF848EA4285", "target": "Salute, <if(gnum4,figlia,figlio)> dell'uomo. Cosa ti porta qui?" },
@@ -29,7 +29,7 @@
     { "gameKey": "quest/023/BanMog607_02319#TEXT_BANMOG607_02319_WYVERN02319_100_031", "hash": "FE9D148FF9C80CF0", "target": "(-Whei Ahf-)Bene, sembra che il mio compito sia finito. Sono lieto di avervi aiutato, <if(gnum4,figlia,figlio)> dell'uomo. Ora torniamo." },
     { "gameKey": "quest/023/BanMog607_02319#TEXT_BANMOG607_02319_NEARMOOGLEB02319_000_031", "hash": "B0266CF7A0730AF0", "target": "Comincia già a girarmi la testa, kupò. Forse dovrei... allontanarmi un po'." },
     { "gameKey": "quest/023/BanMog607_02319#TEXT_BANMOG607_02319_MOGEK_000_040", "hash": "74F74483DB56DF6B", "target": "Eccovi di ritorno, kupò! Sono felice di non aver visto esplosioni in lontananza. Temevo che la magia dei dragoni fosse troppo potente in presenza di tutto quell'etere." },
-    { "gameKey": "quest/023/BanMog607_02319#TEXT_BANMOG607_02319_MOGEK_000_041", "hash": "AF9CE20E1CB61D44", "target": "Mi fa capire quanto siamo fortunati ad avere l'aiuto vostro e quello di Whei Ahf. Senza di voi due, i Restauratori Moguri non avrebbero fatto neanche la metà dei progressi raggiunti." },
+    { "gameKey": "quest/023/BanMog607_02319#TEXT_BANMOG607_02319_MOGEK_000_041", "hash": "AF9CE20E1CB61D44", "target": "Mi fa capire quanto siamo fortunati ad avere l'aiuto vostro e quello di Whei Ahf. Senza di voi due, i Moguriparatori non avrebbero fatto neanche la metà dei progressi raggiunti." },
     { "gameKey": "quest/023/BanMog607_02319#TEXT_BANMOG607_02319_MOGEK_000_042", "hash": "03FED8275AAB3AC3", "target": "Dimostra proprio che nessun Moguri è un'isola, kupò!" }
   ]
 }

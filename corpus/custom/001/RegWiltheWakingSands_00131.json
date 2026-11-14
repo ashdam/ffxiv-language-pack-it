@@ -2,7 +2,7 @@
   "conversation": "custom/001/RegWiltheWakingSands_00131",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/RegWiltheWakingSands_00131#TEXT_REGWILTHEWAKINGSANDS_00131_TATARU_000_000", "hash": "FD56AF1EBD3304BA", "target": "Questa è una proprietà privata. Se non avete faccende pertinenti da sbrigare qui, devo chiedervi di andarvene." },
+    { "gameKey": "custom/001/RegWiltheWakingSands_00131#TEXT_REGWILTHEWAKINGSANDS_00131_TATARU_000_000", "hash": "FD56AF1EBD3304BA", "target": "Questa è una proprietà privata. Se non avete affari da sbrigare qui, devo chiedervi di andarvene." },
     { "gameKey": "custom/001/RegWiltheWakingSands_00131#TEXT_REGWILTHEWAKINGSANDS_00131_TATARU_000_010", "hash": "79CEC5C9E09ED5EF", "target": "<split(<string(gstr1)>, ,1)>! Come va? Qui tutto bene! ...Almeno sul fronte dei conti." },
     { "gameKey": "custom/001/RegWiltheWakingSands_00131#TEXT_REGWILTHEWAKINGSANDS_00131_TATARU_000_020", "hash": "4609F07FA703B432", "target": "C'è chi si monta la testa con la fama, ma sono certa che la vostra resterà delle giuste dimensioni <italic(1)>e<italic(0)> ben salda sulle spalle!" },
     { "gameKey": "custom/001/RegWiltheWakingSands_00131#TEXT_REGWILTHEWAKINGSANDS_00131_TATARU_000_030", "hash": "AAE4FE4F3F3B5AD3", "target": "<if([gnum11<12],<if([gnum11<4],Buonasera,Buongiorno)>,<if([gnum11<17],Buongiorno,Buonasera)>)>, <split(<string(gstr1)>, ,1)>! Spero che la vostra indagine proceda bene!" },

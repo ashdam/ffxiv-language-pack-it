@@ -88,7 +88,7 @@
     { "gameKey": "quest/037/JobAoz600_03736#TEXT_JOBAOZ600_03736_MARTYN_000_089", "hash": "7D0CFA2079EF27BA", "target": "Per le palle di Thal! Perché parlo di questo? Ci sarà tutto il tempo dopo che avrai battuto Siegfried!" },
     { "gameKey": "quest/037/JobAoz600_03736#TEXT_JOBAOZ600_03736_MARTYN_000_090", "hash": "648A00F4338E95D1", "target": "Ora va', Azuro <if(gnum4,Seconda,Secondo)>! Vendica il tuo maestro e restituisci onore alla gilda dei maghi blu!" },
     { "gameKey": "quest/037/JobAoz600_03736#TEXT_JOBAOZ600_03736_SYSTEM_000_100", "hash": "77FFBB8E16185F54", "target": "Sono stati aggiunti nuovi livelli al Carnevale Mascherato. Puoi accedervi parlando con l'addetto del Celestium." },
-    { "gameKey": "quest/037/JobAoz600_03736#TEXT_JOBAOZ600_03736_SYSTEM_000_101", "hash": "178E88A19C5CBEDF", "target": "Inoltre, ora puoi accedere al Mago Blu Log dal Grimorio di Magia Blu." },
+    { "gameKey": "quest/037/JobAoz600_03736#TEXT_JOBAOZ600_03736_SYSTEM_000_101", "hash": "178E88A19C5CBEDF", "target": "Inoltre, ora puoi accedere al registro del mago blu dal Grimorio di Magia Blu." },
     { "gameKey": "quest/037/JobAoz600_03736#TEXT_JOBAOZ600_03736_SYSTEM_100_101", "hash": "345CD461EBC9F7B1", "target": "Parlando con Latool Ja puoi scambiare Sigilli Alleati con vari oggetti, alcuni dei quali potrebbero tornarti utili nelle avventure." }
   ]
 }

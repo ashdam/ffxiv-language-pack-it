@@ -22,7 +22,7 @@
     { "gameKey": "quest/048/KinGbb201_04854#TEXT_KINGBB201_04854_CONJURER04854_000_010", "hash": "07D463F412C0E928", "target": "\\<sigh> Con tutti gli Uditori che ci sono, perché devo affrontarla io questa montagna di reclami...?" },
     { "gameKey": "quest/048/KinGbb201_04854#TEXT_KINGBB201_04854_KUPOPO_000_020", "hash": "DEDA62E49DA769D8", "target": "(-Meddlesome Moogle-)Ehi, tu, kupò! Ti piacerebbe dipingere un po'?" },
     { "gameKey": "quest/048/KinGbb201_04854#TEXT_KINGBB201_04854_KUPOPO_000_021", "hash": "3B95872E1BAE7693", "target": "(-Meddlesome Moogle-)Non pittura ordinaria, bada bene: pittura <italic(1)>magica<italic(0)>, che dà vita alle tue opere! L'unico limite è la tua immaginazione!" },
-    { "gameKey": "quest/048/KinGbb201_04854#TEXT_KINGBB201_04854_KUPOPO_000_022", "hash": "4CDA02C5C957925F", "target": "(-Meddlesome Moogle-)Ah, noci kupò... Perché nessuno vuole darmi una possibilità? Potrebbero fare tanto bene con il potere della pittomanzia." },
+    { "gameKey": "quest/048/KinGbb201_04854#TEXT_KINGBB201_04854_KUPOPO_000_022", "hash": "4CDA02C5C957925F", "target": "(-Meddlesome Moogle-)Ah, noci kupo... Perché nessuno vuole darmi una possibilità? Potrebbero fare tanto bene con il potere della pittomanzia." },
     { "gameKey": "quest/048/KinGbb201_04854#TEXT_KINGBB201_04854_Q2_000_000", "hash": "17C440F9105E9938", "target": "Che cosa dirai?" },
     { "gameKey": "quest/048/KinGbb201_04854#TEXT_KINGBB201_04854_A2_000_001", "hash": "8F09D37452304870", "target": "Mi hai <if(gnum4,conquistata,conquistato)> già con «pittura magica»!" },
     { "gameKey": "quest/048/KinGbb201_04854#TEXT_KINGBB201_04854_A2_000_002", "hash": "2886CCD0F378B26F", "target": "Potrebbe interessarmi saperne di più sulla pittomanzia." },
