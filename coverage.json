@@ -1,6 +1,6 @@
 {
   "gameVersion": "2026.11.03.0000.0000",
-  "translated": 864139,
+  "translated": 864246,
   "total": 866593,
   "percent": 99.7,
   "chars": 63104339,
@@ -45,7 +45,7 @@
     {
       "expansion": null,
       "content": "Floating names",
-      "translated": 110322,
+      "translated": 110395,
       "total": 110396
     },
     {
@@ -69,13 +69,13 @@
     {
       "expansion": null,
       "content": "Collections and customization",
-      "translated": 14844,
+      "translated": 14848,
       "total": 14848
     },
     {
       "expansion": null,
       "content": "Dialogue and world lore",
-      "translated": 43189,
+      "translated": 43219,
       "total": 43220
     },
     {
@@ -25496,13 +25496,13 @@
       "sheets": [],
       "counts": {
         "total": 43220,
-        "translated": 43189,
-        "pending": 31,
+        "translated": 43219,
+        "pending": 1,
         "stale": 0,
         "excluded": 50,
         "excludedTranslated": 39,
         "chars": 3095069,
-        "percent": 99.9
+        "percent": 100
       },
       "children": [
         {
@@ -25521,13 +25521,13 @@
           ],
           "counts": {
             "total": 43063,
-            "translated": 43032,
-            "pending": 31,
+            "translated": 43062,
+            "pending": 1,
             "stale": 0,
             "excluded": 46,
             "excludedTranslated": 35,
             "chars": 3038182,
-            "percent": 99.9
+            "percent": 100
           },
           "children": [
             {
@@ -25592,13 +25592,13 @@
               "sheets": [],
               "counts": {
                 "total": 14568,
-                "translated": 14538,
-                "pending": 30,
+                "translated": 14568,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 6,
                 "excludedTranslated": 0,
                 "chars": 2011501,
-                "percent": 99.8
+                "percent": 100
               },
               "children": []
             },
@@ -25841,13 +25841,13 @@
       "sheets": [],
       "counts": {
         "total": 110396,
-        "translated": 110322,
-        "pending": 74,
+        "translated": 110395,
+        "pending": 1,
         "stale": 0,
         "excluded": 2226,
         "excludedTranslated": 304,
         "chars": 1368081,
-        "percent": 99.9
+        "percent": 100
       },
       "children": [
         {
@@ -25860,13 +25860,13 @@
           ],
           "counts": {
             "total": 62791,
-            "translated": 62717,
-            "pending": 74,
+            "translated": 62790,
+            "pending": 1,
             "stale": 0,
             "excluded": 1971,
             "excludedTranslated": 184,
             "chars": 673961,
-            "percent": 99.9
+            "percent": 100
           },
           "children": [
             {
@@ -25877,13 +25877,13 @@
               "sheets": [],
               "counts": {
                 "total": 62791,
-                "translated": 62717,
-                "pending": 74,
+                "translated": 62790,
+                "pending": 1,
                 "stale": 0,
                 "excluded": 1971,
                 "excludedTranslated": 184,
                 "chars": 673961,
-                "percent": 99.9
+                "percent": 100
               },
               "children": []
             }
@@ -53045,8 +53045,8 @@
       "sheets": [],
       "counts": {
         "total": 14848,
-        "translated": 14844,
-        "pending": 4,
+        "translated": 14848,
+        "pending": 0,
         "stale": 0,
         "excluded": 11,
         "excludedTranslated": 4,
@@ -53124,13 +53124,13 @@
           ],
           "counts": {
             "total": 4132,
-            "translated": 4128,
-            "pending": 4,
+            "translated": 4132,
+            "pending": 0,
             "stale": 0,
             "excluded": 6,
             "excludedTranslated": 0,
             "chars": 351429,
-            "percent": 99.9
+            "percent": 100
           },
           "children": [
             {
@@ -53177,13 +53177,13 @@
               "sheets": [],
               "counts": {
                 "total": 2947,
-                "translated": 2943,
-                "pending": 4,
+                "translated": 2947,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 6,
                 "excludedTranslated": 0,
                 "chars": 335146,
-                "percent": 99.9
+                "percent": 100
               },
               "children": []
             }
