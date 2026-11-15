@@ -35,7 +35,7 @@
     { "gameKey": "quest/013/GaiUse208_01352#TEXT_GAIUSE208_01352_HOUMEI_000_022", "hash": "851F193497D19ECB", "target": "Non badate a mio figlio. Dimentica che le sue responsabilità gli impediscono simili imprese ardite." },
     { "gameKey": "quest/013/GaiUse208_01352#TEXT_GAIUSE208_01352_HOUZAN_000_023", "hash": "B0E98FBC89F9BEFF", "target": "Hmph. Comunque sia, non posso fare a meno di invidiarvi. Se a Doma avessimo potuto affidarci a eroi della vostra forza e abilità, le cose sarebbero andate diversamente." },
     { "gameKey": "quest/013/GaiUse208_01352#TEXT_GAIUSE208_01352_HOUZAN_000_024", "hash": "9CE1A48676BE2396", "target": "\\<sigh> Ma non possiamo cambiare il passato. Chi ha combattuto─ed è caduto─è perduto per sempre." },
-    { "gameKey": "quest/013/GaiUse208_01352#TEXT_GAIUSE208_01352_HOUMEI_000_025", "hash": "F8C14AF470306A91", "target": "Perduti, ma non dimenticati─meno di tutti i congiunti di lady Yugiri. Combatterono con più ardore di chiunque altro, pur sapendo bene che era inutile." },
+    { "gameKey": "quest/013/GaiUse208_01352#TEXT_GAIUSE208_01352_HOUMEI_000_025", "hash": "F8C14AF470306A91", "target": "Perduti, ma non dimenticati─meno di tutti i congiunti di Lady Yugiri. Combatterono con più ardore di chiunque altro, pur sapendo bene che era inutile." },
     { "gameKey": "quest/013/GaiUse208_01352#TEXT_GAIUSE208_01352_HOUMEI_000_026", "hash": "63EA11177455684A", "target": "Aveva ogni diritto di andarsene, eppure scelse di restare. Cibo, riparo, la promessa di una vita migliore─questo e molto altro dobbiamo a lei. Come si può anche solo iniziare a ripagare un simile debito?" },
     { "gameKey": "quest/013/GaiUse208_01352#TEXT_GAIUSE208_01352_HOUZAN_000_027", "hash": "934240E8C1065A14", "target": "Ricambiando, padre. A colei che ci ha dato tutto, daremo tutto noi stessi." },
     { "gameKey": "quest/013/GaiUse208_01352#TEXT_GAIUSE208_01352_HOUZAN_000_028", "hash": "C912A90916D2F7A8", "target": "Qualunque lavoro ci sia da fare, lo faremo senza esitazione. Scavare fossi, posare mattoni, non importa─il Pedaggio del Redivivo crescerà e prospererà grazie alle nostre mani." },
@@ -74,9 +74,9 @@
     { "gameKey": "quest/013/GaiUse208_01352#TEXT_GAIUSE208_01352_YOUZAN_000_046", "hash": "8FC058885C29615A", "target": "Solo un'altra─ti prego! Credi che un giorno potrei diventare un avventuriero come te?" },
     { "gameKey": "quest/013/GaiUse208_01352#TEXT_GAIUSE208_01352_YOUZAN_000_047", "hash": "1FD59235664F73E2", "target": "Davvero!? Allora lo diventerò! Grazie del consiglio, <if(gnum4,signorina,signor)> <split(<string(gstr1)>, ,1)>. Non lo dimenticherò!" },
     { "gameKey": "quest/013/GaiUse208_01352#TEXT_GAIUSE208_01352_KOHARU_000_048", "hash": "1732CDE286C4897F", "target": "Anch'io diventerò un'avventuriera!" },
-    { "gameKey": "quest/013/GaiUse208_01352#TEXT_GAIUSE208_01352_YOUZAN_000_049", "hash": "AFDADCE49524F6BD", "target": "Quando arriveremo al Pedaggio del Redivivo, fondiamo una Gilda degli Avventurieri per i domani!" },
-    { "gameKey": "quest/013/GaiUse208_01352#TEXT_GAIUSE208_01352_YOUZAN_000_050", "hash": "11E3B3832E060554", "target": "Proteggeremo i nostri amici e puniremo i malvagi─proprio come <if(gnum4,la signorina,il signor)> <split(<string(gstr1)>, ,1)> e lady Yugiri!" },
-    { "gameKey": "quest/013/GaiUse208_01352#TEXT_GAIUSE208_01352_KOHARU_000_051", "hash": "63AC14B3D1260404", "target": "Sì! Proprio come <if(gnum4,la signorina,il signor)> <split(<string(gstr1)>, ,1)> e lady Yugiri!" },
+    { "gameKey": "quest/013/GaiUse208_01352#TEXT_GAIUSE208_01352_YOUZAN_000_049", "hash": "AFDADCE49524F6BD", "target": "Quando arriveremo al Pedaggio del Redivivo, fondiamo una Gilda degli Avventurieri per i Domani!" },
+    { "gameKey": "quest/013/GaiUse208_01352#TEXT_GAIUSE208_01352_YOUZAN_000_050", "hash": "11E3B3832E060554", "target": "Proteggeremo i nostri amici e puniremo i malvagi─proprio come <if(gnum4,la signorina,il signor)> <split(<string(gstr1)>, ,1)> e Lady Yugiri!" },
+    { "gameKey": "quest/013/GaiUse208_01352#TEXT_GAIUSE208_01352_KOHARU_000_051", "hash": "63AC14B3D1260404", "target": "Sì! Proprio come <if(gnum4,la signorina,il signor)> <split(<string(gstr1)>, ,1)> e Lady Yugiri!" },
     { "gameKey": "quest/013/GaiUse208_01352#TEXT_GAIUSE208_01352_HOUZAN_000_052", "hash": "4036450C33275D02", "target": "Potremo parlarne ancora in carrozza durante il viaggio. Verrai con noi?" },
     { "gameKey": "quest/013/GaiUse208_01352#TEXT_GAIUSE208_01352_HOUMEI_000_060", "hash": "E8456175DA7A94AA", "target": "Ma guarda..." },
     { "gameKey": "quest/013/GaiUse208_01352#TEXT_GAIUSE208_01352_HOUZAN_000_060", "hash": "DDEF9D92F634C3CD", "target": "Sarà bello dormire in un letto vero, tanto per cambiare, anche se solo per una notte." },
@@ -87,7 +87,7 @@
     { "gameKey": "quest/013/GaiUse208_01352#TEXT_GAIUSE208_01352_KSASAGI_000_060", "hash": "039B17CFB840AECA", "target": "<if(gnum4,Bentornata,Bentornato)>, <if(gnum4,signora,signor)> <split(<string(gstr1)>, ,2)>." },
     { "gameKey": "quest/013/GaiUse208_01352#TEXT_GAIUSE208_01352_KIKYOU_000_060", "hash": "B49E4BF30265C93E", "target": "Il primo gruppo è già arrivato? Splendido! Vi prego, informate subito il signor Alphinaud." },
     { "gameKey": "quest/013/GaiUse208_01352#TEXT_GAIUSE208_01352_ALPHINAUD_000_060", "hash": "71FC309932C2997C", "target": "Ah, <split(<string(gstr1)>, ,1)>. Immagino che il primo gruppo sia arrivato? Eccellente." },
-    { "gameKey": "quest/013/GaiUse208_01352#TEXT_GAIUSE208_01352_ALPHINAUD_000_061", "hash": "9692EED0406A08CB", "target": "Mh? C'è altro? No, no. Qui ho tutto sotto controllo. Tu e lady Yugiri dovreste partire subito per il Pedaggio del Redivivo." },
+    { "gameKey": "quest/013/GaiUse208_01352#TEXT_GAIUSE208_01352_ALPHINAUD_000_061", "hash": "9692EED0406A08CB", "target": "Mh? C'è altro? No, no. Qui ho tutto sotto controllo. Tu e Lady Yugiri dovreste partire subito per il Pedaggio del Redivivo." },
     { "gameKey": "quest/013/GaiUse208_01352#TEXT_GAIUSE208_01352_POP_MESSAGE", "hash": "2C4A49F5559B39B0", "target": "Senti uno sguardo posarsi su di te..." }
   ]
 }

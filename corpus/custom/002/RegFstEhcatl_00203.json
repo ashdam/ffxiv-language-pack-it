@@ -36,7 +36,7 @@
     { "gameKey": "custom/002/RegFstEhcatl_00203#TEXT_REGFSTEHCATL_00203_RAZELHUIZAN_000_204", "hash": "2405265D92A48EFF", "target": "Ma adesso lavorare dobbiamo. Oggi. Domani. Finché molto al di sopra delle nuvole non saliremo, lavoreremo! Cra!" },
     { "gameKey": "custom/002/RegFstEhcatl_00203#TEXT_REGFSTEHCATL_00203_RAZELHUIZAN_000_120", "hash": "B8909EDCA4BAA2ED", "target": "<if(gnum4,Sei caduta,Sei caduto)> dall'aeronave e hai battuto la testa? Ehcatl, questo è! Il cantiere degli Ehcatl Nine!" },
     { "gameKey": "custom/002/RegFstEhcatl_00203#TEXT_REGFSTEHCATL_00203_RAZELHUIZAN_000_121", "hash": "C4CFA6022BC32061", "target": "Migliorare l'aeronave cerchiamo ancora!" },
-    { "gameKey": "custom/002/RegFstEhcatl_00203#TEXT_REGFSTEHCATL_00203_RAZELHUIZAN_000_122", "hash": "20E3C3C952040927", "target": "Tecnologia ixal, tecnologia degli spennati: non importa. Solo il sogno di volare conta." },
+    { "gameKey": "custom/002/RegFstEhcatl_00203#TEXT_REGFSTEHCATL_00203_RAZELHUIZAN_000_122", "hash": "20E3C3C952040927", "target": "Tecnologia Ixal, tecnologia degli spennati: non importa. Solo il sogno di volare conta." },
     { "gameKey": "custom/002/RegFstEhcatl_00203#TEXT_REGFSTEHCATL_00203_RAZELHUIZAN_000_123", "hash": "89D8C4A000690346", "target": "Il segreto di Ehcatl hai mantenuto? Sì? Di sventrare <split(<string(gstr1)>, ,1)>, a Razel dispiacerebbe." }
   ]
 }

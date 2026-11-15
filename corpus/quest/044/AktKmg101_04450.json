@@ -181,7 +181,7 @@
     { "gameKey": "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_A5_000_278", "hash": "717CFF1DFD618FEB", "target": "...Ci saranno tortine al limone?" },
     { "gameKey": "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_HANCOCK_000_279", "hash": "A739009FF1F786BF", "target": "Un peccato. Personalmente adoro quel posto! Ma non dubito che troveremo presto un'altra occasione e un altro motivo per festeggiare." },
     { "gameKey": "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_HANCOCK_000_280", "hash": "23894A3ED448411C", "target": "Oh! Vedo che <if(gnum4,siete una donna,siete un uomo)> dai gusti asprigni." },
-    { "gameKey": "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_HANCOCK_000_281", "hash": "7A5717F2FB5034EB", "target": "Sì, ci saranno tortine al limone e molto, molto altro─le migliori prelibatezze che il mondo e lord Lolorito hanno da offrire." },
+    { "gameKey": "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_HANCOCK_000_281", "hash": "7A5717F2FB5034EB", "target": "Sì, ci saranno tortine al limone e molto, molto altro─le migliori prelibatezze che il mondo e Lord Lolorito hanno da offrire." },
     { "gameKey": "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_HANCOCK_000_282", "hash": "D73716C62ACE3D09", "target": "Ma riparliamone al vostro ritorno, prima che attiri ancora di più l'ira di Tataru. Arrivederci." },
     { "gameKey": "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_BIGGS_000_283", "hash": "CD4E7CBD20598155", "target": "(-???-)Ah, <split(<string(gstr1)>, ,1)>. Hai deciso di passare il tempo ai mercati?" },
     { "gameKey": "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_WEDGE_000_284", "hash": "A665E0119F8C1C4A", "target": "T-Tataru!" },

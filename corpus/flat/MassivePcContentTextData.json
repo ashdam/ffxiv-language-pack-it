@@ -27,7 +27,7 @@
     { "gameKey": "MassivePcContentTextData#125", "hash": "7B4DA22D02F8CF3A", "target": "Moltiplicatore del Punteggio Attuale: <num(lnum1)>%" },
     { "gameKey": "MassivePcContentTextData#126", "hash": "5468731B082ACBBA", "target": "[Bonus di Completamento]" },
     { "gameKey": "MassivePcContentTextData#127", "hash": "AE5270199A8DAC93", "target": "Tempo Limite: +<num(lnum1)>:<sec(lnum2)>" },
-    { "gameKey": "MassivePcContentTextData#128", "hash": "D33AB2AA3545DEB8", "target": "GP: +<num(lnum1)>" },
+    { "gameKey": "MassivePcContentTextData#128", "hash": "D33AB2AA3545DEB8", "target": "PR: +<num(lnum1)>" },
     { "gameKey": "MassivePcContentTextData#129", "hash": "177C3B9D74BF3C9D", "target": "<sheet(Action,lnum1,0)>: +<num(lnum2)>" },
     { "gameKey": "MassivePcContentTextData#130", "hash": "83FABCDDF61ACA36", "target": "Moltiplicatore del Punteggio: +<num(lnum1)>%" },
     { "gameKey": "MassivePcContentTextData#131", "hash": "712B11498F5B5414", "target": "Dosi del Sublimatore Sublime" },

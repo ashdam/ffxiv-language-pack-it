@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/007/GaiUsa203_00726#TEXT_GAIUSA203_00726_SEQ_00", "hash": "2006803CD9E3D92F", "target": "Buscarron avrebbe bisogno di una mano per sedare una rissa sul punto di scoppiare alla sua locanda." },
-    { "gameKey": "quest/007/GaiUsa203_00726#TEXT_GAIUSA203_00726_SEQ_01", "hash": "C7FA248E3AEC5125", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Questa missione è stata modificata. Abbandonala e ricomincia parlando con Buscarron alla Locanda di Buscarron.<edgecolortype(0)><colortype(0)><br><br>※La Guida dello Scenario Principale mostra la prossima missione disponibile. Puoi attivarla o disattivarla in Configurazione Personaggio, alla voce Impostazioni Interfaccia." },
+    { "gameKey": "quest/007/GaiUsa203_00726#TEXT_GAIUSA203_00726_SEQ_01", "hash": "C7FA248E3AEC5125", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Questa missione è stata modificata. Abbandonala e ricomincia parlando con Buscarron alla Locanda di Buscarron.<edgecolortype(0)><colortype(0)><br><br>※La Guida allo Scenario Principale mostra la prossima missione disponibile. Puoi attivarla o disattivarla in Configurazione Personaggio, alla voce Impostazioni Interfaccia." },
     { "gameKey": "quest/007/GaiUsa203_00726#TEXT_GAIUSA203_00726_SEQ_02", "hash": "9678C69DE2F08805", "target": "Hai trovato il tino vuoto. Portalo al fiume dietro la locanda e appoggialo in acqua." },
     { "gameKey": "quest/007/GaiUsa203_00726#TEXT_GAIUSA203_00726_SEQ_03", "hash": "6433F7F644A9DBAF", "target": "Hai messo il tino in acqua. Ora riempilo d'acqua." },
     { "gameKey": "quest/007/GaiUsa203_00726#TEXT_GAIUSA203_00726_SEQ_04", "hash": "7ABF9E6D29D7C802", "target": "Hai riempito il tino d'acqua. Sollevalo." },

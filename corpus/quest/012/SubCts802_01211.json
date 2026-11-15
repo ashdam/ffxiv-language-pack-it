@@ -10,7 +10,7 @@
     { "gameKey": "quest/012/SubCts802_01211#TEXT_SUBCTS802_01211_SEQ_05", "hash": "C9DC6DF9E4D24BD0", "target": "Hai recuperato il tesoro, se così si può chiamare. Porta il borsellino logoro e la bottiglia che hai trovato a Ealdwine, facendogli sapere che la ricompensa non valeva certo lo sforzo." },
     { "gameKey": "quest/012/SubCts802_01211#TEXT_SUBCTS802_01211_SEQ_06", "hash": "696F5D5CFBB0192B", "target": "Pur preoccupandosi del proprio borsellino molto più che della tua disavventura, Ealdwine ti invita a unirti alla caccia al tesoro e ti insegna a leggere le mappe. Nonostante l'inaffidabilità del maestro, chissà quali tesori si celano nel regno? Con le tue nuove conoscenze, parti in cerca di ricchezza e gloria." },
     { "gameKey": "quest/012/SubCts802_01211#TEXT_SUBCTS802_01211_TODO_00", "hash": "DEC97A614695D114", "target": "Parla con lo scavatore diligente" },
-    { "gameKey": "quest/012/SubCts802_01211#TEXT_SUBCTS802_01211_TODO_01", "hash": "6BE5A6E1C68CC601", "target": "Parla con Ealdwine nell'Alta La Noscea" },
+    { "gameKey": "quest/012/SubCts802_01211#TEXT_SUBCTS802_01211_TODO_01", "hash": "6BE5A6E1C68CC601", "target": "Parla con Ealdwine nella Noscea Superiore" },
     { "gameKey": "quest/012/SubCts802_01211#TEXT_SUBCTS802_01211_TODO_02", "hash": "0AC4E69CFB6EB0F9", "target": "Apri il forziere e affronta eventuali imprevisti" },
     { "gameKey": "quest/012/SubCts802_01211#TEXT_SUBCTS802_01211_TODO_03", "hash": "6BCA662FDDC6F3EB", "target": "Recupera il tesoro dal forziere" },
     { "gameKey": "quest/012/SubCts802_01211#TEXT_SUBCTS802_01211_TODO_04", "hash": "787CA16F777F42A4", "target": "Consegna il borsellino logoro e la bottiglia infranta a Ealdwine" },
@@ -37,7 +37,7 @@
     { "gameKey": "quest/012/SubCts802_01211#TEXT_SUBCTS802_01211_EALDWINE_000_056", "hash": "9EE2FD2CD15DBB32", "target": "Beh, pare che non abbiamo scelta. Dobbiamo cercare teshori più grossi e─hic!─migliori. Non gli <italic(1)>stessi<italic(0)> tesori, ovviamente─non posso tenerti per mano per sempre. Siediti e lascia che il vecchio Ealdwine ti doni un vero tesoro di sapere sulla caccia ai tesori." },
     { "gameKey": "quest/012/SubCts802_01211#TEXT_SUBCTS802_01211_EALDWINE_100_057", "hash": "F54FB1DF10BDD8D9", "target": "Per prima cosa, trovi una mappa. Poi la decifri─vuol dire che la guardi per benino. Quando hai capito dov'è nascosto il teshoro, vai lì e lo dissotterri. Sembra semplice, dici? Ah!" },
     { "gameKey": "quest/012/SubCts802_01211#TEXT_SUBCTS802_01211_EALDWINE_000_057", "hash": "65F2B4084E63E3AD", "target": "Io la faccio sembrare facile, ma ti assicuro che non lo è─la caccia ai teshori richiede occhi acuti e una mente ancora più─hic!─acuta. Ma non scoraggiarti: affina le tue abilità come il vecchio Ealdwine e i tesori arriveranno. Ora, se vuoi scusarmi, mi si sta seccando la gola..." },
-    { "gameKey": "quest/012/SubCts802_01211#TEXT_SUBCTS802_01211_EALDWINE_000_058", "hash": "AE171B8EA4F2B81F", "target": "Non basta neanche per un sorso del grog più economico della Wench... Cosa deve fare un uomo per affogare i suoi dishpiaceri?" },
+    { "gameKey": "quest/012/SubCts802_01211#TEXT_SUBCTS802_01211_EALDWINE_000_058", "hash": "AE171B8EA4F2B81F", "target": "Non basta neanche per un sorso del grog più economico della Fanciulla... Cosa deve fare un uomo per affogare i suoi dishpiaceri?" },
     { "gameKey": "quest/012/SubCts802_01211#TEXT_SUBCTS802_01211_SYSTEM_000_100", "hash": "A4F5DAB2D2E31CD3", "target": "Recuperi un borsellino logoro e una bottiglia rotta dal forziere." }
   ]
 }

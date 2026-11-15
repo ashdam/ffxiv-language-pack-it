@@ -87,6 +87,6 @@
     { "gameKey": "quest/025/ClsMin700_02558#TEXT_CLSMIN700_02558_ADALBERTA_000_230", "hash": "9973E568EF675E23", "target": "Umani e goblin che lavorano fianco a fianco, eh? Direi che Ul'dah potrebbe imparare qualcosa. Sarebbe bello andare un giorno a vedere di persona una cosa così meravigliosa." },
     { "gameKey": "quest/025/ClsMin700_02558#TEXT_CLSMIN700_02558_ADALBERTA_000_240", "hash": "3125CC4DF85D3CC5", "target": "Be', forse non sarebbe male fare qualche affare in più con Borgopace in futuro. Potrei persino valutare di aprire lì una sede della gilda. In ogni caso, non c'è bisogno di affrettarsi: mi prenderò il tempo per rifletterci bene." },
     { "gameKey": "quest/025/ClsMin700_02558#TEXT_CLSMIN700_02558_ADALBERTA_000_250", "hash": "3E9C51F9BD0F0C8A", "target": "Ma sto divagando. Ottimo lavoro come sempre, <split(<string(gstr1)>, ,1)>. Puoi stare cert<if(gnum4,a,o)> che ti ricontatterò quando alla gilda arriverà un incarico degno delle tue capacità." },
-    { "gameKey": "quest/025/ClsMin700_02558#TEXT_CLSMIN700_02558_SYSTEM_000_300", "hash": "93727D008BB01FC9", "target": "Aprendo nuove strade nell'arte mineraria, hai appreso “Enhanced GP Regeneration”!" }
+    { "gameKey": "quest/025/ClsMin700_02558#TEXT_CLSMIN700_02558_SYSTEM_000_300", "hash": "93727D008BB01FC9", "target": "Aprendo nuove strade nell'arte mineraria, hai appreso “Rigenerazione PR Potenziata”!" }
   ]
 }
