@@ -14,7 +14,7 @@
     { "gameKey": "FCAuthority#9", "hash": "AA45478AD26A463F", "target": "Bacheca della compagnia" },
     { "gameKey": "FCAuthority#10", "hash": "E4AAB442F08A7C08", "target": "" },
     { "gameKey": "FCAuthority#11", "hash": "AD5A5258E9F80C6A", "target": "Messaggio breve" },
-    { "gameKey": "FCAuthority#12", "hash": "EE29DE53DE85814F", "target": "Crediti della compagnia" },
+    { "gameKey": "FCAuthority#12", "hash": "EE29DE53DE85814F", "target": "Crediti della Compagnia" },
     { "gameKey": "FCAuthority#13", "hash": "A74D241348E295A8", "target": "Esecuzione delle azioni" },
     { "gameKey": "FCAuthority#14", "hash": "8CC7E18D138E00AA", "target": "Eliminazione delle Azioni" },
     { "gameKey": "FCAuthority#43", "hash": "1DBC8D3907042F82", "target": "Accesso alla Residenza" },
@@ -28,7 +28,7 @@
     { "gameKey": "FCAuthority#51", "hash": "475C817530E10E6D", "target": "Posizionamento/Rimozione degli arredi" },
     { "gameKey": "FCAuthority#52", "hash": "2DDEA755BB5FCD50", "target": "Tintura degli elementi fissi e degli arredi" },
     { "gameKey": "FCAuthority#53", "hash": "7CCEBD74D06C07BA", "target": "Accesso degli Ospiti/Impostazioni delle Etichette della Residenza" },
-    { "gameKey": "FCAuthority#54", "hash": "EAD29D3CFD7F2F94", "target": "Gestione del libro dei messaggi" },
+    { "gameKey": "FCAuthority#54", "hash": "EAD29D3CFD7F2F94", "target": "Gestione del Libro dei Messaggi" },
     { "gameKey": "FCAuthority#55", "hash": "8AAC4C87B7879818", "target": "Semina" },
     { "gameKey": "FCAuthority#56", "hash": "9E26AC3E8682FE66", "target": "Raccolta delle colture" },
     { "gameKey": "FCAuthority#57", "hash": "9E5129CCC33AF7B4", "target": "Eliminazione delle colture" },
@@ -47,7 +47,7 @@
     { "gameKey": "FCAuthority#70", "hash": "BA2C5AC673244848", "target": "Personalizzazione dei colori" },
     { "gameKey": "FCAuthority#71", "hash": "0D6D1058DCB75D96", "target": "Rinomina" },
     { "gameKey": "FCAuthority#72", "hash": "10E4BCF82E852251", "target": "Invio/Richiamo delle Spedizioni" },
-    { "gameKey": "FCAuthority#73", "hash": "A0719C9B2C02BD7A", "target": "Completamento delle Spedizioni" },
+    { "gameKey": "FCAuthority#73", "hash": "A0719C9B2C02BD7A", "target": "Invio/Richiamo delle Spedizioni" },
     { "gameKey": "FCAuthority#74", "hash": "877A1A97320C47E6", "target": "Partenza per missioni esplorative" },
     { "gameKey": "FCAuthority#75", "hash": "35AA4B66D79C9850", "target": "Uso dell'orchestrion" }
   ]

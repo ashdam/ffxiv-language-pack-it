@@ -7,7 +7,7 @@
     { "gameKey": "quest/049/KinGmc114_04910#TEXT_KINGMC114_04910_SYSTEM_100_001", "hash": "D1C22968399434AB", "target": "Parlando con Peshekwa, verranno riprodotte diverse scene in sequenza." },
     { "gameKey": "quest/049/KinGmc114_04910#TEXT_KINGMC114_04910_SYSTEM_200_001", "hash": "012D1FB46DDAE486", "target": "Si consiglia di riservare tempo sufficiente per guardare queste scene nella loro interezza." },
     { "gameKey": "quest/049/KinGmc114_04910#TEXT_KINGMC114_04910_PESHEKWA_000_001", "hash": "21CBFDE324BD3504", "target": "<if(gnum4,Bentornata,Bentornato)>. Permettetemi di congratularmi con voi per la vittoria di Wuk Lamat nel rito di successione." },
-    { "gameKey": "quest/049/KinGmc114_04910#TEXT_KINGMC114_04910_PESHEKWA_000_002", "hash": "D80278F1A4680F12", "target": "È per noi un grande onore ospitare i compagni della nostra futura Servitrice dell'Alba." },
+    { "gameKey": "quest/049/KinGmc114_04910#TEXT_KINGMC114_04910_PESHEKWA_000_002", "hash": "D80278F1A4680F12", "target": "È per noi un grande onore ospitare i compagni del nostro futuro Custode dell'Alba." },
     { "gameKey": "quest/049/KinGmc114_04910#TEXT_KINGMC114_04910_PESHEKWA_000_003", "hash": "7BB3581A71A063B4", "target": "Un viaggio tanto impegnativo vi avrà certamente affaticato. Rilassatevi e godetevi il soggiorno." },
     { "gameKey": "quest/049/KinGmc114_04910#TEXT_KINGMC114_04910_SYSTEM_100_020", "hash": "A1FFDC2D092DA6CA", "target": "Qualche tempo dopo..." },
     { "gameKey": "quest/049/KinGmc114_04910#TEXT_KINGMC114_04910_KOANA_000_020", "hash": "BBF98699E041EA0E", "target": "Ti sorprende vedermi? Suppongo sia naturale..." },
@@ -18,7 +18,7 @@
     { "gameKey": "quest/049/KinGmc114_04910#TEXT_KINGMC114_04910_Q1_000_000", "hash": "454E325BE5B0E9B6", "target": "Che cosa dirai?" },
     { "gameKey": "quest/049/KinGmc114_04910#TEXT_KINGMC114_04910_A1_000_001", "hash": "7124F7FE34D71F87", "target": "Ho fatto solo ciò che avresti fatto tu al mio posto." },
     { "gameKey": "quest/049/KinGmc114_04910#TEXT_KINGMC114_04910_A1_000_002", "hash": "B82FB81958BC1A6E", "target": "Ha fatto tutto Wuk Lamat. Io le ho solo dato sostegno morale." },
-    { "gameKey": "quest/049/KinGmc114_04910#TEXT_KINGMC114_04910_KOANA_000_025", "hash": "B7D261CFF8C7EA17", "target": "Il motivo principale della mia visita è consegnarti un messaggio di Lamaty'i. Come ben sai, dopo la cerimonia d'ascesa assumerà ufficialmente il ruolo di Servitrice dell'Alba." },
+    { "gameKey": "quest/049/KinGmc114_04910#TEXT_KINGMC114_04910_KOANA_000_025", "hash": "B7D261CFF8C7EA17", "target": "Il motivo principale della mia visita è consegnarti un messaggio di Lamaty'i. Come ben sai, dopo la cerimonia d'ascesa assumerà ufficialmente il ruolo di Custode dell'Alba." },
     { "gameKey": "quest/049/KinGmc114_04910#TEXT_KINGMC114_04910_KOANA_000_026", "hash": "5F4000CDED61B403", "target": "Ha espresso il desiderio che tu accetti un incarico nel suo governo..." },
     { "gameKey": "quest/049/KinGmc114_04910#TEXT_KINGMC114_04910_KOANA_000_027", "hash": "A71D7B8BFA69A6F1", "target": "...senza fare alcun cenno a me." },
     { "gameKey": "quest/049/KinGmc114_04910#TEXT_KINGMC114_04910_KOANA_000_028", "hash": "2F69C99C249D7359", "target": "Non devi decidere subito. Mia sorella tornerà sull'argomento dopo la cerimonia." },
@@ -31,7 +31,7 @@
     { "gameKey": "quest/049/KinGmc114_04910#TEXT_KINGMC114_04910_ALPHINAUD_000_052", "hash": "FFC4D2B56530FA2D", "target": "La Testa della Ragione ha dimostrato grande saggezza nell'ideare qualcosa di così elaborato e significativo come il rito di successione. È un peccato che non abbia potuto assistere alla sua conclusione." },
     { "gameKey": "quest/049/KinGmc114_04910#TEXT_KINGMC114_04910_ALISAIE_000_053", "hash": "4EDB83E0CCC4021F", "target": "È stata una celebrazione dolceamara, certo, ma sono felice che Wuk Lamat abbia finalmente ottenuto il riconoscimento che merita." },
     { "gameKey": "quest/049/KinGmc114_04910#TEXT_KINGMC114_04910_KRILE_000_054", "hash": "6D8BDEBAA0ED80F4", "target": "Wuk Lamat è stata splendida lassù, non trovi?" },
-    { "gameKey": "quest/049/KinGmc114_04910#TEXT_KINGMC114_04910_KRILE_000_055", "hash": "BA25F983318372C3", "target": "La parte con il Secondo Erede è stata una sorpresa, ma direi che insieme i nostri nuovi Servitori dell'Alba saranno capaci di tutto." },
+    { "gameKey": "quest/049/KinGmc114_04910#TEXT_KINGMC114_04910_KRILE_000_055", "hash": "BA25F983318372C3", "target": "La parte con il Secondo Erede è stata una sorpresa, ma direi che insieme i nostri nuovi Custodi dell'Alba saranno capaci di tutto." },
     { "gameKey": "quest/049/KinGmc114_04910#TEXT_KINGMC114_04910_KRILE_000_056", "hash": "D2290C1B239224CA", "target": "Il futuro di Tuliyollal è davvero radioso." }
   ]
 }

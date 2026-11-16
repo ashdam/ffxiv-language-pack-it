@@ -2,7 +2,7 @@
   "conversation": "custom/001/RegWilLittleAlaMhigo_00122",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/RegWilLittleAlaMhigo_00122#TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_000", "hash": "5BA8B0079F2B44E8", "target": "Salve. Sono Gisilbehrt, fiero membro delle Fiamme." },
+    { "gameKey": "custom/001/RegWilLittleAlaMhigo_00122#TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_000", "hash": "5BA8B0079F2B44E8", "target": "Salve, <if(gnum4,amica,amico)>. Sono Gisilbehrt, fiero membro delle Fiamme." },
     { "gameKey": "custom/001/RegWilLittleAlaMhigo_00122#TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_001", "hash": "4A548E0ED34DC2FE", "target": "Ah, sei tu. Ti hanno attirato le voci di rivoluzione?" },
     { "gameKey": "custom/001/RegWilLittleAlaMhigo_00122#TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_002", "hash": "145D8E057F53010A", "target": "Oh, che piacevole sorpresa. Sei qui per vedere come stanno i rifugiati, ora che possono tornare ad Ala Mhigo?" },
     { "gameKey": "custom/001/RegWilLittleAlaMhigo_00122#TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_010", "hash": "68DD154104380F86", "target": "Mi occupo della sicurezza di Piccola Ala Mhigo, anche se è soltanto metà dei miei compiti. L'altra metà è sorvegliare l'accampamento degli Amalj'aa a sud." },

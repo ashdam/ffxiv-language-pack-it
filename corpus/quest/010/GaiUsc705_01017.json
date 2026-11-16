@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/010/GaiUsc705_01017#TEXT_GAIUSC705_01017_SEQ_00", "hash": "16C3B0D2074B6BF9", "target": "Il comandante Bloeidin sa come potresti conquistare i suoi uomini." },
-    { "gameKey": "quest/010/GaiUsc705_01017#TEXT_GAIUSC705_01017_SEQ_01", "hash": "56F0FF19107E1F4C", "target": "Il comandante Bloeidin crede che gli ex pirati sotto il suo comando possano essere persuasi a combattere gli uomini-bestia con promesse di fortuna e gloria. Riferisci il messaggio a quattro ex bucanieri." },
+    { "gameKey": "quest/010/GaiUsc705_01017#TEXT_GAIUSC705_01017_SEQ_01", "hash": "56F0FF19107E1F4C", "target": "Il comandante Bloeidin crede che gli ex pirati sotto il suo comando possano essere persuasi a combattere gli uomini bestia con promesse di fortuna e gloria. Riferisci il messaggio a quattro ex bucanieri." },
     { "gameKey": "quest/010/GaiUsc705_01017#TEXT_GAIUSC705_01017_SEQ_02", "hash": "255F258CAD967C2D", "target": "Come sospettava Bloeidin, la prospettiva di soldi e fortuna ha acceso il fuoco nei suoi uomini. Informa il comandante del successo." },
     { "gameKey": "quest/010/GaiUsc705_01017#TEXT_GAIUSC705_01017_SEQ_03", "hash": "628F065B77C536A2", "target": "Il comandante Bloeidin è lieto di vedere i suoi uomini pronti all'azione ed è certo che gli ex pirati saranno una forza temibile contro i koboldi." },
     { "gameKey": "quest/010/GaiUsc705_01017#TEXT_GAIUSC705_01017_TODO_00", "hash": "2A5852F57DE36323", "target": "Parla con la ciurma di Bloeidin" },
@@ -18,6 +18,6 @@
     { "gameKey": "quest/010/GaiUsc705_01017#TEXT_GAIUSC705_01017_ENPC3_000_030", "hash": "A545B01A8225BD3C", "target": "Avevo giurato che i giorni da pirata fossero finiti, ma dentro ho sempre desiderato tornare in mare aperto. Sì, è l'occasione che aspettavo." },
     { "gameKey": "quest/010/GaiUsc705_01017#TEXT_GAIUSC705_01017_ENPC4_000_040", "hash": "A747BCB316C95D59", "target": "Arrr! Volevo comprare una gamba di legno nuova al mio compagno zoppo e la taglia che dici me lo permetterà. Issate l'albero! Domani salpo per il territorio koboldo!" },
     { "gameKey": "quest/010/GaiUsc705_01017#TEXT_GAIUSC705_01017_BLOEIDIN_000_050", "hash": "FAA5F7915584BF86", "target": "Vedo che non hai faticato a conquistare la ciurma. Sì...pirata una volta, pirata per sempre." },
-    { "gameKey": "quest/010/GaiUsc705_01017#TEXT_GAIUSC705_01017_BLOEIDIN_000_051", "hash": "B9D2152B26AAA0AC", "target": "Il teschio e le ossa di Limsa salpano ancora, e compiango ogni uomo-bestia che incontrerà la loro scia." }
+    { "gameKey": "quest/010/GaiUsc705_01017#TEXT_GAIUSC705_01017_BLOEIDIN_000_051", "hash": "B9D2152B26AAA0AC", "target": "Il teschio e le ossa di Limsa salpano ancora, e compiango ogni uomo bestia che incontrerà la loro scia." }
   ]
 }

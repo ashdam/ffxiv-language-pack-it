@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/005/ManFst304_00513#TEXT_MANFST304_00513_SEQ_00", "hash": "8492899B588D3E31", "target": "Minfilia ha bisogno che tu indaghi sulle silfidi." },
-    { "gameKey": "quest/005/ManFst304_00513#TEXT_MANFST304_00513_SEQ_01", "hash": "B5E293B18DF959C8", "target": "Minfilia vuole che accerti le intenzioni della tribù delle silfidi grazie al potere dell'Eco. Prima di contattare quei piccoli uomini-bestia, presentati al comandante Vorsaile Heuloix al Nido delle Vipere, a Gridania." },
+    { "gameKey": "quest/005/ManFst304_00513#TEXT_MANFST304_00513_SEQ_01", "hash": "B5E293B18DF959C8", "target": "Minfilia vuole che accerti le intenzioni della tribù delle silfidi grazie al potere dell'Eco. Prima di contattare quei piccoli uomini bestia, presentati al comandante Vorsaile Heuloix al Nido delle Vipere, a Gridania." },
     { "gameKey": "quest/005/ManFst304_00513#TEXT_MANFST304_00513_SEQ_02", "hash": "B52848D2D869D25B", "target": "Al Nido delle Vipere trovi il comandante intento a pensare ad alta voce. Informalo del motivo della tua visita." },
     { "gameKey": "quest/005/ManFst304_00513#TEXT_MANFST304_00513_TODO_00", "hash": "FF12A8D7CBC69808", "target": "Parla con Vorsaile Heuloix al Nido delle Vipere" },
     { "gameKey": "quest/005/ManFst304_00513#TEXT_MANFST304_00513_100010_MINFILIA", "hash": "F12D0FFF7ECB2FB5", "target": "Ora che abbiamo sbrigato le formalità..." },

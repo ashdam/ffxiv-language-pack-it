@@ -71,7 +71,7 @@
     { "gameKey": "cut_scene/045/VoiceMan_04505#TEXT_VOICEMAN_04505_Q9_000_001_NONE_VOICE", "hash": "62B7B35EF9144E22", "target": "Che cosa dirai?" },
     { "gameKey": "cut_scene/045/VoiceMan_04505#TEXT_VOICEMAN_04505_A9_000_001_NONE_VOICE", "hash": "22EF132A4D91A59C", "target": "Alisaie sta bene?" },
     { "gameKey": "cut_scene/045/VoiceMan_04505#TEXT_VOICEMAN_04505_A9_000_002_NONE_VOICE", "hash": "C7164B9223562F62", "target": "E gli Eredi?" },
-    { "gameKey": "cut_scene/045/VoiceMan_04505#TEXT_VOICEMAN_04505_003940_AYMERIC", "hash": "FE26212A97A8C8E1", "target": "Temo che non si siano ancora svegliati. Ma ti prego... per ora concentrati sulla tua guarigione." },
+    { "gameKey": "cut_scene/045/VoiceMan_04505#TEXT_VOICEMAN_04505_003940_AYMERIC", "hash": "FE26212A97A8C8E1", "target": "Non ancora, temo. Ma ti prego... per ora concentrati sulla tua guarigione." },
     { "gameKey": "cut_scene/045/VoiceMan_04505#TEXT_VOICEMAN_04505_003950_AYMERIC", "hash": "A3F970BB29282C63", "target": "Hai portato sulle spalle le speranze di mezza dozzina di nazioni, e ti siamo tutti eternamente grati per tutto quello che hai fatto. Ma ognuno ha i propri limiti, anche tu." },
     { "gameKey": "cut_scene/045/VoiceMan_04505#TEXT_VOICEMAN_04505_003960_AYMERIC", "hash": "6AA0626822AE436F", "target": "Lascia a noi questa lotta, <if(gnum4,amica mia,amico mio)>. Meriti di riposare." },
     { "gameKey": "cut_scene/045/VoiceMan_04505#TEXT_VOICEMAN_04505_003970_AYMERIC", "hash": "3EC1E8785A3AFC1A", "target": "Ah, ma prima che me ne dimentichi..." },

@@ -2,11 +2,11 @@
   "conversation": "quest/011/ComGrd011_01132",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/011/ComGrd011_01132#TEXT_COMGRD011_01132_SEQ_00", "hash": "73A0B08AD1C6FE06", "target": "Vorsaile Heuloix vorrebbe darti l'occasione di accrescere la tua posizione nell'Ordine della Vipera Gemella." },
+    { "gameKey": "quest/011/ComGrd011_01132#TEXT_COMGRD011_01132_SEQ_00", "hash": "73A0B08AD1C6FE06", "target": "Vorsaile Heuloix vorrebbe darti l'occasione di accrescere la tua posizione nella Vipera Gemella." },
     { "gameKey": "quest/011/ComGrd011_01132#TEXT_COMGRD011_01132_SEQ_01", "hash": "2FBF615FCD98764C", "target": "Vorsaile Heuloix ti incarica di rispondere a una richiesta d'aiuto della Santa Sede di Ishgard. Dirigiti verso le zone sudoccidentali degli Altopiani Centrali di Coerthas e cerca Ser Willielmus a Valdorata." },
     { "gameKey": "quest/011/ComGrd011_01132#TEXT_COMGRD011_01132_SEQ_02", "hash": "634037BA823DCCFB", "target": "Addentrati a Valdorata e libera la caverna mortale dalle fronde immonde che ne abitano le profondità. Fa' attenzione alle vaste pozze di bile dorata, una melma letale che, nonostante il suo luccichio, non offre ricchezze, ma una morte straziante per gli incauti.<br><br>※Puoi accedere a Valdorata tramite la Ricerca Incarichi." },
     { "gameKey": "quest/011/ComGrd011_01132#TEXT_COMGRD011_01132_SEQ_03", "hash": "B6FF45C05324183E", "target": "La missione è stata un successo strepitoso. Fai rapporto a Vorsaile Heuloix al Nido delle Vipere." },
-    { "gameKey": "quest/011/ComGrd011_01132#TEXT_COMGRD011_01132_SEQ_04", "hash": "F86A8DE0942B69C5", "target": "Vorsaile Heuloix ti elogia per il trionfo. La tua reputazione nell'Ordine della Vipera Gemella ha raggiunto nuove vette." },
+    { "gameKey": "quest/011/ComGrd011_01132#TEXT_COMGRD011_01132_SEQ_04", "hash": "F86A8DE0942B69C5", "target": "Vorsaile Heuloix ti elogia per il trionfo. La tua reputazione nella Vipera Gemella ha raggiunto nuove vette." },
     { "gameKey": "quest/011/ComGrd011_01132#TEXT_COMGRD011_01132_TODO_00", "hash": "78C147FB8323E06E", "target": "Parla con Willielmus a Valdorata." },
     { "gameKey": "quest/011/ComGrd011_01132#TEXT_COMGRD011_01132_TODO_01", "hash": "55C1ACE7C039C8C4", "target": "Entra a Valdorata." },
     { "gameKey": "quest/011/ComGrd011_01132#TEXT_COMGRD011_01132_TODO_02", "hash": "D184C258B34DF629", "target": "Fai rapporto a Vorsaile Heuloix al Nido delle Vipere." },

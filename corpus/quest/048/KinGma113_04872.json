@@ -2,7 +2,7 @@
   "conversation": "quest/048/KinGma113_04872",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_SEQ_00", "hash": "34E04A4945FEA6FB", "target": "Wuk Lamat è pronta a cercare l'elettore del Servitore dell'Alba." },
+    { "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_SEQ_00", "hash": "34E04A4945FEA6FB", "target": "Wuk Lamat è pronta a cercare l'elettore del Custode dell'Alba." },
     { "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_TODO_00", "hash": "0339BAF94C3C8E83", "target": "Raccogli informazioni a Wachunpelo" },
     { "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_TODO_01", "hash": "A7DB9CB640034B60", "target": "Parla con Wuk Lamat" },
     { "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_TODO_02", "hash": "4025A207764E945D", "target": "Parla di nuovo con Wuk Lamat" },
@@ -16,7 +16,7 @@
     { "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_WUKLAMAT_000_020", "hash": "0EBC00FE87BF8443", "target": "Non è stato il mio momento migliore, lo ammetto... Ma ora facciamo ciò per cui siamo venuti: troviamo l'elettore!" },
     { "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_ALPHINAUD_000_021", "hash": "024538645A7AB386", "target": "Permettetemi di proporre una strategia. Krile, Alisaie e io parleremo con i mercanti. Wuk Lamat, tu ed Erenville potreste avvicinare viaggiatori e passanti." },
     { "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_ALPHINAUD_000_022", "hash": "7A89A2F59DEEDE2B", "target": "<split(<string(gstr1)>, ,1)>, indaga sugli altri locali che attirano la tua attenzione. Se scopriamo qualcosa di utile, riferiamolo alla Terza Erede." },
-    { "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_PELUPELUCRAFTSMAN04872_000_030", "hash": "E2CC6E21B558797D", "target": "L'elettore del Servitore dell'Alba?" },
+    { "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_PELUPELUCRAFTSMAN04872_000_030", "hash": "E2CC6E21B558797D", "target": "L'elettore del Custode dell'Alba?" },
     { "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_PELUPELUCRAFTSMAN04872_000_031", "hash": "301D0FF3545B6B6F", "target": "Ah, pensavo fossi un volto nuovo. Sei qui per il rito di successione? A me non importa chi siede sul trono, purché mantenga la pace a Tural." },
     { "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_PELUPELUCRAFTSMAN04872_000_032", "hash": "AC4A32D66B2926A6", "target": "Quando iniziano a volare frecce e lance, la gente non ha molta voglia di rilassarsi sorseggiando il nostro eccellente mezcal, se capisci cosa intendo!" },
     { "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_PELUPELUCRAFTSMAN04872_000_033", "hash": "A3B7A79B5F199658", "target": "A proposito, ne vuoi una tazza? Una gioia condivisa è una gioia raddoppiata." },

@@ -12,6 +12,6 @@
     { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_FST_SYSTEM_000_23", "hash": "71928367B2440DE2", "target": "Seleziona lo schema di comandi che desideri usare." },
     { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_FST_SYSTEM_Q_01", "hash": "361F61A12A1BCADE", "target": "Seleziona uno schema di comandi." },
     { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_FST_SYSTEM_A_01", "hash": "5AB63CA164818077", "target": "Mouse/tastiera." },
-    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_FST_SYSTEM_A_02", "hash": "7EBB6528D92BFF35", "target": "<if([gnum75>1],Controller,Gamepad)>." }
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_FST_SYSTEM_A_02", "hash": "7EBB6528D92BFF35", "target": "<if([gnum75>1],Controller,Controller)>." }
   ]
 }

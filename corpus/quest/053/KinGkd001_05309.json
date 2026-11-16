@@ -35,7 +35,7 @@
     { "gameKey": "quest/053/KinGkd001_05309#TEXT_KINGKD001_05309_A1_000_001", "hash": "F2969967830971E2", "target": "Sarebbe un onore!" },
     { "gameKey": "quest/053/KinGkd001_05309#TEXT_KINGKD001_05309_A1_000_002", "hash": "733783B5A5CC2A58", "target": "Mi basta la parola «mistero». Ma i tuoi doveri a palazzo?" },
     { "gameKey": "quest/053/KinGkd001_05309#TEXT_KINGKD001_05309_KETENRAMM_000_015", "hash": "A13727722D058FFB", "target": "Eh. Sapevo di poter contare su di te." },
-    { "gameKey": "quest/053/KinGkd001_05309#TEXT_KINGKD001_05309_KETENRAMM_000_016", "hash": "03D26A51C2B3356B", "target": "Non preoccuparti. Faccio questa proposta con il pieno appoggio dei Servitori dell'Alba." },
+    { "gameKey": "quest/053/KinGkd001_05309#TEXT_KINGKD001_05309_KETENRAMM_000_016", "hash": "03D26A51C2B3356B", "target": "Non preoccuparti. Faccio questa proposta con il pieno appoggio dei Custodi dell'Alba." },
     { "gameKey": "quest/053/KinGkd001_05309#TEXT_KINGKD001_05309_KETENRAMM_000_017", "hash": "5DC36405400A8295", "target": "A dire il vero, già prima che Gulool Ja Ja mi chiedesse di vegliare su Koana e Wuk Lamat, temevo di non poter più prendere il mare... Comunque, ho avuto l'impressione che entrambi avessero intuito le mie preoccupazioni, così ho detto loro tutto." },
     { "gameKey": "quest/053/KinGkd001_05309#TEXT_KINGKD001_05309_KOANA_000_018", "hash": "54D77D88E453EEF7", "target": "...E dici che il mistero del Triangolo delle Ombre ti tormenta da allora?" },
     { "gameKey": "quest/053/KinGkd001_05309#TEXT_KINGKD001_05309_KOANA_000_019", "hash": "4984055380F67470", "target": "La regione di cui parli ostacola i commerci con le nazioni straniere. Qualunque tentativo di svelarne i segreti finirebbe per giovare a Tuliyollal." },
@@ -126,7 +126,7 @@
     { "gameKey": "quest/053/KinGkd001_05309#TEXT_KINGKD001_05309_KETENRAMM_000_605", "hash": "7B147C4C4DE9A297", "target": "Ah, volevo darti anche un diario per annotare le tue scoperte lungo il cammino." },
     { "gameKey": "quest/053/KinGkd001_05309#TEXT_KINGKD001_05309_KETENRAMM_000_606", "hash": "34F54D6D7F2E18BC", "target": "Immagino che parecchie persone apprezzerebbero un resoconto delle tue imprese qui. Riempi quelle pagine e da' loro qualcosa in cui affondare i denti." },
     { "gameKey": "quest/053/KinGkd001_05309#TEXT_KINGKD001_05309_SYSTEM_000_607", "hash": "703B12C59903F980", "target": "Se desideri tornare a Tuliyollal durante la spedizione, interagisci con la corrente eterea accanto alla nave ormeggiata. La corrente corrispondente al Porto dell'Alta Marea ti permette di tornare alla Falce Occulta." },
-    { "gameKey": "quest/053/KinGkd001_05309#TEXT_KINGKD001_05309_SYSTEM_000_608", "hash": "FFD64A3A821A10E4", "target": "L'<colortype(500)><edgecolortype(501)>Occult Record<edgecolortype(0)><colortype(0)> è ora disponibile alla voce Collezione, nella sezione Incarichi del menu principale." },
+    { "gameKey": "quest/053/KinGkd001_05309#TEXT_KINGKD001_05309_SYSTEM_000_608", "hash": "FFD64A3A821A10E4", "target": "Il <colortype(500)><edgecolortype(501)>Registro Occulto<edgecolortype(0)><colortype(0)> è ora disponibile alla voce Collezione, nella sezione Incarichi del menu principale." },
     { "gameKey": "quest/053/KinGkd001_05309#TEXT_KINGKD001_05309_SYSTEM_000_609", "hash": "10A7B85B6C31DF61", "target": "Nuove voci su termini e personaggi importanti saranno aggiunte al registro mentre esplori la Falce Occulta." }
   ]
 }
