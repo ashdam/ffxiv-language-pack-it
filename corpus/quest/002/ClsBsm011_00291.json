@@ -28,6 +28,6 @@
     { "gameKey": "quest/002/ClsBsm011_00291#TEXT_CLSBSM011_00291_BRITHAEL_000_27", "hash": "9A6079D0D5BC6141", "target": "Dimmi che non è vero, <if(gnum4,ragazza,ragazzo)>! Io e te andremmo d'amore e d'accordo, davvero! Ti prego, ripensaci..." },
     { "gameKey": "quest/002/ClsBsm011_00291#TEXT_CLSBSM011_00291_SYSTEM_000_30", "hash": "1EE757A12A3EEA55", "target": "Hai sbloccato una nuova classe! Puoi passare a questa classe in qualsiasi momento equipaggiando l'attrezzo ricevuto da questa missione." },
     { "gameKey": "quest/002/ClsBsm011_00291#TEXT_CLSBSM011_00291_SYSTEM_000_31", "hash": "740AC710E057E670", "target": "Quando cambi classe, i <colortype(500)><edgecolortype(501)>set di equipaggiamento<edgecolortype(0)><colortype(0)> ti permettono di registrare e salvare diverse configurazioni. Puoi così passare istantaneamente da una classe all'altra senza dover equipaggiare manualmente armi o altri oggetti." },
-    { "gameKey": "quest/002/ClsBsm011_00291#TEXT_CLSBSM011_00291_SYSTEM_000_32", "hash": "85B262D0A400ED2A", "target": "Il pulsante per l'interfaccia dei set di equipaggiamento si trova nella parte superiore della finestra <colortype(500)><edgecolortype(501)>Personaggio<edgecolortype(0)><colortype(0)>." }
+    { "gameKey": "quest/002/ClsBsm011_00291#TEXT_CLSBSM011_00291_SYSTEM_000_32", "hash": "85B262D0A400ED2A", "target": "Il pulsante per l'interfaccia dei Set di Equipaggiamento si trova nella parte superiore della finestra <colortype(500)><edgecolortype(501)>Personaggio<edgecolortype(0)><colortype(0)>." }
   ]
 }

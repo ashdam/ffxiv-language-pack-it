@@ -5,7 +5,7 @@
     { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_SEQ_00", "hash": "02330D4AD435ADD4", "target": "Baderon ha informazioni su un nuovo incarico." },
     { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_SEQ_01", "hash": "5E449AE0A18FE510", "target": "Secondo Baderon, la Gilda degli Avventurieri di Gridania sta reclutando persone per un incarico ancora segreto. Puoi saperne di più parlando con Miounne, proprietaria del Baldacchino di Carline." },
     { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_SEQ_02", "hash": "A52730EB6168A615", "target": "Hai espresso a Miounne il tuo interesse per l'incarico. Avvisala quando vorrai conoscere i dettagli." },
-    { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_TODO_00", "hash": "310B7670EFB0AD14", "target": "Parla con Miounne al Baldacchino di Carline, a Gridania" },
+    { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_TODO_00", "hash": "310B7670EFB0AD14", "target": "Parla con Miounne al Baldacchino di Carline, a Gridania." },
     { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_BADERON_000_1", "hash": "0D249BA2A04FBFBC", "target": "Allora, vuoi sentire di quell'incarico? Come dicevo, la richiesta viene dalla gilda consorella di Gridania." },
     { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_BADERON_000_2", "hash": "2E4973572B1061D0", "target": "...E questo è tutto ciò che so. Ma qualunque cosa ti chiedano, dubito che possa creare problemi a chi ha superato il caos di Sastasha." },
     { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_BADERON_000_3", "hash": "36EE16B0BA362695", "target": "Se ti interessa, parla con Madre Miounne, la mia controparte a Gridania. Buona fortuna, <if(gnum4,ragazza,amico)>!" },

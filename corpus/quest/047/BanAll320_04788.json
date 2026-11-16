@@ -187,7 +187,7 @@
     { "gameKey": "quest/047/BanAll320_04788#TEXT_BANALL320_04788_JAMMINGWAY_000_181", "hash": "330418DC64A1150A", "target": "Credo di parlare per tutti quando dico che questo giorno brillerà come una stella appena nata nei nostri ricordi. Spero che anche per voi sia così." },
     { "gameKey": "quest/047/BanAll320_04788#TEXT_BANALL320_04788_JAMMINGWAY_000_182", "hash": "C0DB95AD7F7E2B83", "target": "Solo, non lasciate che eclissi la possibilità di altri giorni indimenticabili. Dopotutto..." },
     { "gameKey": "quest/047/BanAll320_04788#TEXT_BANALL320_04788_JAMMINGWAY_000_183", "hash": "5949C024ED126796", "target": "Guardate oltre il mare, verso la luna, al di là delle stelle lontane... e ci troverete ad aspettarvi!" },
-    { "gameKey": "quest/047/BanAll320_04788#TEXT_BANALL320_04788_SYSTEM_000_190", "hash": "4EE8896B565292CD", "target": "Hai raggiunto il livello di reputazione <colortype(500)><edgecolortype(501)>Allied<edgecolortype(0)><colortype(0)> con i Cavalcatori di Ippopotami, i Sógnalo e il personale e i clienti del caffè «Gli Ultimi Fondi»." },
+    { "gameKey": "quest/047/BanAll320_04788#TEXT_BANALL320_04788_SYSTEM_000_190", "hash": "4EE8896B565292CD", "target": "Hai raggiunto il livello di reputazione <colortype(500)><edgecolortype(501)>Alleato<edgecolortype(0)><colortype(0)> con i Cavalcatori di Ippopotami, i Sógnalo e il personale e i clienti del caffè «Gli Ultimi Fondi»." },
     { "gameKey": "quest/047/BanAll320_04788#TEXT_BANALL320_04788_SYSTEM_000_191", "hash": "7D906B376A1318F9", "target": "Grazie al tuo impegno, gli alleati da Etheirys fino alle stelle più lontane hanno stretto legami d'amicizia destinati a restare saldi negli anni. Sei davvero <if(gnum4,un'eroina,un eroe)> per le società di tutto l'universo!" }
   ]
 }

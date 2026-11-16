@@ -17,7 +17,7 @@
     { "gameKey": "quest/041/AktKla103_04134#TEXT_AKTKLA103_04134_A1_000_001", "hash": "80DD5A5CBF792524", "target": "Lasciate fare a me!" },
     { "gameKey": "quest/041/AktKla103_04134#TEXT_AKTKLA103_04134_A1_000_002", "hash": "DF83028AC97995BD", "target": "Sembra un lavoro difficile, ma..." },
     { "gameKey": "quest/041/AktKla103_04134#TEXT_AKTKLA103_04134_RURUSHA_000_009", "hash": "FD26D456EE57B1BB", "target": "Oh, è bello sapere che posso sempre contare su di te, <split(<string(gstr1)>, ,1)>. Buon lavoro!" },
-    { "gameKey": "quest/041/AktKla103_04134#TEXT_AKTKLA103_04134_BORIC_100_010", "hash": "2CFC36B0240C1B45", "target": "Qualsiasi ingranaggio che possa entrare in quel reperto sarà davvero minuscolo. È una tecnologia piuttosto impressionante, se si considera che risale alla Terza Era Astrale e non è di origine allagana." },
+    { "gameKey": "quest/041/AktKla103_04134#TEXT_AKTKLA103_04134_BORIC_100_010", "hash": "2CFC36B0240C1B45", "target": "Qualsiasi ingranaggio che possa entrare in quel reperto sarà davvero minuscolo. È una tecnologia piuttosto impressionante, se si considera che risale alla Terza Era Astrale e non è di origine Allagana." },
     { "gameKey": "quest/041/AktKla103_04134#TEXT_AKTKLA103_04134_RURUSHA_000_015", "hash": "2FC8B8BCCF79F377", "target": "Sono certa che il tuo lavoro sarà impeccabile. Non vedo davvero l'ora di scoprire cosa sai fare." },
     { "gameKey": "quest/041/AktKla103_04134#TEXT_AKTKLA103_04134_RURUSHA_000_016", "hash": "26EE7F58C8C3F971", "target": "Un lavoro solido come sempre. Grazie!" },
     { "gameKey": "quest/041/AktKla103_04134#TEXT_AKTKLA103_04134_RURUSHA_000_017", "hash": "B93F7DF56C9E1CDB", "target": "Un lavoro solido come sempre. E guarda che dettagli: è evidente che superi di gran lunga i tuoi colleghi!" },
@@ -36,6 +36,6 @@
     { "gameKey": "quest/041/AktKla103_04134#TEXT_AKTKLA103_04134_RURUSHA_000_032", "hash": "B757668F4E622D91", "target": "Dopotutto, chi crederà in me se non credo in me stessa? Il che non significa che mi ritenga infallibile, sia chiaro." },
     { "gameKey": "quest/041/AktKla103_04134#TEXT_AKTKLA103_04134_RURUSHA_000_033", "hash": "A235D12B3815A6E6", "target": "Ma per il momento mettiamo da parte queste cose. Esaminerò il nostro amico per cercare di capire quali problemi rimangano. La prossima volta che avrai un po' di tempo libero, <split(<string(gstr1)>, ,1)>, vieni pure a trovarci e proseguiremo con le riparazioni." },
     { "gameKey": "quest/041/AktKla103_04134#TEXT_AKTKLA103_04134_SYSTEM_000_034", "hash": "72105318A4F830F4", "target": "Rurusha è entusiasta dei tuoi sforzi. Ora ti considera <colortype(500)><edgecolortype(501)>Reasonable Relic Restorer<edgecolortype(0)><colortype(0)>!" },
-    { "gameKey": "quest/041/AktKla103_04134#TEXT_AKTKLA103_04134_SYSTEM_000_040", "hash": "D3127E2A65A93111", "target": "La prossima missione sarà disponibile presso Rurusha al raggiungimento del livello 85 come Fabbro, Corazziere o Goldsmith." }
+    { "gameKey": "quest/041/AktKla103_04134#TEXT_AKTKLA103_04134_SYSTEM_000_040", "hash": "D3127E2A65A93111", "target": "La prossima missione sarà disponibile presso Rurusha al raggiungimento del livello 85 come Fabbro, Corazziere o orefice." }
   ]
 }

@@ -37,7 +37,7 @@
     { "gameKey": "quest/036/BanPix006_03688#TEXT_BANPIX006_03688_EZELII_000_035", "hash": "39753829A2C014C6", "target": "Un porxie solo può fare soltanto fino a un certo punto, sapete. Se occorre, forse chiederò al mio maestro di creare altre copie di me... \\<oink>" },
     { "gameKey": "quest/036/BanPix006_03688#TEXT_BANPIX006_03688_TYRBEQ_000_036", "hash": "FBF5FC9EB8AD4431", "target": "Be', non dovrei trattenerti oltre. Per quanto breve, è stata davvero una gioia vivere questa avventura con te, <split(<string(gstr1)>, ,1)>." },
     { "gameKey": "quest/036/BanPix006_03688#TEXT_BANPIX006_03688_TYRBEQ_000_037", "hash": "AFB5C52A7E940857", "target": "Ma spero che tornerai a trovarci ogni volta che avrai un po' di tempo. Dopotutto, per rendere i sogni belli e divertenti non abbiamo mai abbastanza aiuto!" },
-    { "gameKey": "quest/036/BanPix006_03688#TEXT_BANPIX006_03688_SYSTEM_000_100", "hash": "55C05F977339070B", "target": "Hai raggiunto il grado di reputazione <colortype(500)><edgecolortype(501)>Bloodsworn<edgecolortype(0)><colortype(0)> con i Tessisogni." },
+    { "gameKey": "quest/036/BanPix006_03688#TEXT_BANPIX006_03688_SYSTEM_000_100", "hash": "55C05F977339070B", "target": "Hai raggiunto il grado di reputazione <colortype(500)><edgecolortype(501)>Patto di Sangue<edgecolortype(0)><colortype(0)> con i Tessisogni." },
     { "gameKey": "quest/036/BanPix006_03688#TEXT_BANPIX006_03688_SYSTEM_000_101", "hash": "3BD19CF54D353115", "target": "Riceverai un bonus ai punti esperienza completando le missioni giornaliere della società dei pixie." }
   ]
 }

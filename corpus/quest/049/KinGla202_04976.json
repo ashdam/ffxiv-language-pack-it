@@ -47,6 +47,6 @@
     { "gameKey": "quest/049/KinGla202_04976#TEXT_KINGLA202_04976_PAMEKA_000_129", "hash": "EF52A12A95AD98CF", "target": "Fate pure! Saremo felici di ascoltarli quando vi sentirete pronto." },
     { "gameKey": "quest/049/KinGla202_04976#TEXT_KINGLA202_04976_PAMEKA_000_130", "hash": "A5CB2F3575717872", "target": "...E così si conclude il nostro primo lavoro! È stato un piacere lavorare con voi, <split(<string(gstr1)>, ,1)>, e ho la sensazione che continuerete a stupirmi." },
     { "gameKey": "quest/049/KinGla202_04976#TEXT_KINGLA202_04976_SYSTEM_000_131", "hash": "B7460C01A6FF17A2", "target": "Pameka è soddisfatta dei tuoi sforzi. Ora ti considera <colortype(500)><edgecolortype(501)>Cover Collaborator<edgecolortype(0)><colortype(0)>!" },
-    { "gameKey": "quest/049/KinGla202_04976#TEXT_KINGLA202_04976_SYSTEM_000_132", "hash": "602B83737DF75B2A", "target": "La prossima richiesta sarà disponibile presso Pameka al raggiungimento del livello 93 come Falegname, Conciatore o Weaver." }
+    { "gameKey": "quest/049/KinGla202_04976#TEXT_KINGLA202_04976_SYSTEM_000_132", "hash": "602B83737DF75B2A", "target": "La prossima richiesta sarà disponibile presso Pameka al raggiungimento del livello 93 come falegname, Conciatore o tessitore." }
   ]
 }

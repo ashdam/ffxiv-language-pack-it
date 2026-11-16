@@ -12,7 +12,7 @@
     { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_BUSCARRON_000_003", "hash": "7B5E14AB8AF97F16", "target": "Solo unendo le forze per lavorare e combattere potremo sopravvivere, noi e il Bosco dei Dodici. Il dono che ti chiedo di portare simboleggia la speranza che Gridaniani e silfidi vivano abbastanza da vedere la luce al di là di queste tenebre." },
     { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_KNOLEXIA_000_020", "hash": "F2F2E38F74B118DA", "target": "Un dono dal camminante Buscarron? Un dono per questi qui?" },
     { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_KNOLEXIA_000_021", "hash": "3F5AFC065D8058D4", "target": "Che profumo delizioso! Questo qui non ha mai sentito nulla di simile!" },
-    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_KNOLEXIA_000_022", "hash": "92263693791C6BCC", "target": "Il camminante Buscarron e il camminante avventuroso sono molto gentili. Sappi che questo qui ti è profondamente grato." },
+    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_KNOLEXIA_000_022", "hash": "92263693791C6BCC", "target": "Il camminante Buscarron e <if(gnum4,la camminante avventurosa,il camminante avventuroso)> sono molto gentili. Sappi che questo qui ti è profondamente grato." },
     { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_KNOLEXIA_000_023", "hash": "CB4930C868FAF961", "target": "Molti dei camminanti fanno paura. Molti raccontano tante bugie e tessono inganni. Ma questo qui è commosso. Che tutti questi qui restino amici per sempre!" }
   ]
 }

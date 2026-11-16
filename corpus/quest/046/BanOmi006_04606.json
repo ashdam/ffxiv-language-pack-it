@@ -85,7 +85,7 @@
     { "gameKey": "quest/046/BanOmi006_04606#TEXT_BANOMI006_04606_JAMMINGWAY_000_087", "hash": "AF7B6965C6CD2814", "target": "Tornate a trovarci di tanto in tanto, <split(<string(gstr1)>, ,1)>. Saremo qui, per sempre!" },
     { "gameKey": "quest/046/BanOmi006_04606#TEXT_BANOMI006_04606_N7000_000_088", "hash": "66926E2A0FA24C47", "target": "Affermativo. Il tuo lavoro è stato molto apprezzato. Saremmo lieti di assegnarti turni in qualunque momento..." },
     { "gameKey": "quest/046/BanOmi006_04606#TEXT_BANOMI006_04606_N7000_000_089", "hash": "CBC004EA2FA57B2B", "target": "\\<vrrr> Questa unità scherza! Anche la tua amicizia è apprezzata. Se mai avessi bisogno di un posto per elaborare, sei sempre <if(gnum4,benvenuta,benvenuto)> al caffè «Gli Ultimi Fondi» per una bevanda di natura indeterminata." },
-    { "gameKey": "quest/046/BanOmi006_04606#TEXT_BANOMI006_04606_SYSTEM_000_091", "hash": "23756E36B57F477C", "target": "Hai raggiunto una reputazione <colortype(500)><edgecolortype(501)>Bloodsworn<edgecolortype(0)><colortype(0)> con il personale e i clienti del caffè «Gli Ultimi Fondi»." },
+    { "gameKey": "quest/046/BanOmi006_04606#TEXT_BANOMI006_04606_SYSTEM_000_091", "hash": "23756E36B57F477C", "target": "Hai raggiunto una reputazione <colortype(500)><edgecolortype(501)>Patto di Sangue<edgecolortype(0)><colortype(0)> con il personale e i clienti del caffè «Gli Ultimi Fondi»." },
     { "gameKey": "quest/046/BanOmi006_04606#TEXT_BANOMI006_04606_SYSTEM_000_092", "hash": "909C1F020BD9A477", "target": "Riceverai un bonus ai punti esperienza completando le missioni giornaliere della società del caffè «Gli Ultimi Fondi»." }
   ]
 }

@@ -30,6 +30,6 @@
     { "gameKey": "quest/001/ClsTan000_00105#TEXT_CLSTAN000_00105_GEVA_000_20", "hash": "0F039B703E7EF712", "target": "Ora, per continuare la tua iniziazione, dovrai prima impugnare quel coltello. Parlami quando vorrai cominciare." },
     { "gameKey": "quest/001/ClsTan000_00105#TEXT_CLSTAN000_00105_SYSTEM_000_30", "hash": "EB8C5D926FBC0508", "target": "Hai sbloccato una nuova classe! Puoi passare a questa classe in qualsiasi momento equipaggiando l'attrezzo ricevuto da questa missione." },
     { "gameKey": "quest/001/ClsTan000_00105#TEXT_CLSTAN000_00105_SYSTEM_000_31", "hash": "43E4E84E1D9592BF", "target": "Quando cambi classe, i <colortype(500)><edgecolortype(501)>set di equipaggiamento<edgecolortype(0)><colortype(0)> ti permettono di registrare e salvare diverse configurazioni. Puoi così passare istantaneamente da una classe all'altra senza dover equipaggiare manualmente armi o altri oggetti." },
-    { "gameKey": "quest/001/ClsTan000_00105#TEXT_CLSTAN000_00105_SYSTEM_000_32", "hash": "04783EAB385F1496", "target": "Il pulsante per l'interfaccia dei set di equipaggiamento si trova nella parte superiore della finestra <colortype(500)><edgecolortype(501)>Personaggio<edgecolortype(0)><colortype(0)>." }
+    { "gameKey": "quest/001/ClsTan000_00105#TEXT_CLSTAN000_00105_SYSTEM_000_32", "hash": "04783EAB385F1496", "target": "Il pulsante per l'interfaccia dei Set di Equipaggiamento si trova nella parte superiore della finestra <colortype(500)><edgecolortype(501)>Personaggio<edgecolortype(0)><colortype(0)>." }
   ]
 }

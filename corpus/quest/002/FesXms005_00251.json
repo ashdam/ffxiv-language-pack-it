@@ -11,7 +11,7 @@
     { "gameKey": "quest/002/FesXms005_00251#TEXT_FESXMS005_00251_TODO_00", "hash": "22BB9DDB8C72F6F4", "target": "Indossa la tunica della Celebrazione delle Stelle e raccogli la lettera alla Tessitrice dalla sentinella delle Stelle" },
     { "gameKey": "quest/002/FesXms005_00251#TEXT_FESXMS005_00251_TODO_01", "hash": "3E416B6507D634CC", "target": "Consegna la lettera alla Tessitrice ad Amh Garanjy" },
     { "gameKey": "quest/002/FesXms005_00251#TEXT_FESXMS005_00251_TODO_02", "hash": "3E7AAFA419327AEC", "target": "Indossa la tunica della Celebrazione delle Stelle e consegna la stella fortunata alla brava bambina" },
-    { "gameKey": "quest/002/FesXms005_00251#TEXT_FESXMS005_00251_TODO_03", "hash": "7A273A7924F52D07", "target": "Consegna la lettera fuori posto ad Amh Garanjy" },
+    { "gameKey": "quest/002/FesXms005_00251#TEXT_FESXMS005_00251_TODO_03", "hash": "7A273A7924F52D07", "target": "Consegna la lettera smarrita ad Amh Garanjy" },
     { "gameKey": "quest/002/FesXms005_00251#TEXT_FESXMS005_00251_AMHGARANJY_000_000", "hash": "2DD1E1DA71D9DB53", "target": "Sarete voi il miracolo di cui abbiamo bisogno? Oh, grazie, <if(gnum4,cara avventuriera,caro avventuriero)>!" },
     { "gameKey": "quest/002/FesXms005_00251#TEXT_FESXMS005_00251_AMHGARANJY_000_001", "hash": "FDA67C1B78EEE229", "target": "Con il vostro aiuto a raccogliere i messaggi sparsi nei Lavandeti, potremo assicurarci che tutti quegli adorabili piccoli autori ricevano i doni promessi." },
     { "gameKey": "quest/002/FesXms005_00251#TEXT_FESXMS005_00251_AMHGARANJY_000_002", "hash": "567E0B70213F560F", "target": "Invece di mandarvi subito a calpestare i giardini dei vostri colleghi avventurieri, però, suggerisco di cominciare da un posto vicino." },

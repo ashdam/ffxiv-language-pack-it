@@ -15,7 +15,7 @@
     { "gameKey": "quest/016/HeaVna307_01608#TEXT_HEAVNA307_01608_ALPHINAUD_000_004", "hash": "EB6CDD71C1487107", "target": "Non ho esperienza nell'allestire fuochi di segnalazione, ma quanto potrà mai essere difficile...?" },
     { "gameKey": "quest/016/HeaVna307_01608#TEXT_HEAVNA307_01608_LANCER01607_000_005", "hash": "155F7832982461CE", "target": "Bene. È ora della ronda... Partirò dopo aver digerito <if([gnum11<12],<if([gnum11<4],la cena,la colazione)>,<if([gnum11<17],il pranzo,la cena)>)>." },
     { "gameKey": "quest/016/HeaVna307_01608#TEXT_HEAVNA307_01608_ARCHER01607_000_006", "hash": "1D30A2D89BBC60CD", "target": "Non ho scorto né una scaglia né un artiglio per tutto il giorno. Forse dal Lago di Cenere si vedrebbe meglio..." },
-    { "gameKey": "quest/016/HeaVna307_01608#TEXT_HEAVNA307_01608_ESTINIEN_000_010", "hash": "82DEAFE93D7392A9", "target": "A quanto pare, raccogliere legna è un'esperienza nuova per il signor Alphinaud. Dev'essere cresciuto nella bambagia... Ehm. Hai le pelli che ci servono?" },
+    { "gameKey": "quest/016/HeaVna307_01608#TEXT_HEAVNA307_01608_ESTINIEN_000_010", "hash": "82DEAFE93D7392A9", "target": "A quanto pare, raccogliere legna è un'esperienza nuova per il Signor Alphinaud. Dev'essere cresciuto nella bambagia... Ehm. Hai le pelli che ci servono?" },
     { "gameKey": "quest/016/HeaVna307_01608#TEXT_HEAVNA307_01608_ALPHINAUD_000_011", "hash": "2073B5A0C067796D", "target": "Ho lasciato Ishgard per una nobile missione, e ora eccomi qui a frugare nella neve in cerca di ramoscelli. Come fanno le mani a essere così intorpidite e a farmi tanto male allo stesso tempo...?" }
   ]
 }

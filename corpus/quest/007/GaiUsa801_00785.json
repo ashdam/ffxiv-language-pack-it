@@ -12,7 +12,7 @@
     { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_AIDEEN_000_001", "hash": "815030EC45F6D86B", "target": "Tra la fauna locale, solo gli squamorfi detti ziz potrebbero infliggere ferite simili. Per questo alcuni sospettano di loro." },
     { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_AIDEEN_000_002", "hash": "FC0473AA3B55D448", "target": "Non credo che la risposta sia così semplice, ma per scrupolo dovremmo indagare. Perché non ne abbatti sei, per esempio, e vedi se riesci a trovare prove che li colleghino alle morti?" },
     { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_DUMMY_000_010", "hash": "3AFB4E53F611E13C", "target": "(Sconfiggi sei ziz.)" },
-    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_AIDEEN_000_020", "hash": "2C9BEBF07E77682F", "target": "Hai già sistemato i ziz? Ottimo lavoro, <if(gnum4,avventuriera,avventuriero)>! Hai trovato qualche indizio che faccia pensare che siano i colpevoli?" },
+    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_AIDEEN_000_020", "hash": "2C9BEBF07E77682F", "target": "Hai già sistemato gli ziz? Ottimo lavoro, <if(gnum4,avventuriera,avventuriero)>! Hai trovato qualche indizio che faccia pensare che siano i colpevoli?" },
     { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_AIDEEN_000_021", "hash": "7B59C3DA3D2C711B", "target": "...Niente? A dire il vero, anche se avessi trovato delle prove, non saprei nemmeno riconoscerle. Comunque, direi che possiamo escludere gli ziz dai sospettati. Il che lascia... l'uomo mascherato e il suo occhio alato!" }
   ]
 }

@@ -4,9 +4,9 @@
   "entries": [
     { "gameKey": "quest/000/ClsLnc000_00023#TEXT_CLSLNC000_00023_SEQ_00", "hash": "F30FD1C5C821BD65", "target": "Jillian ti chiede di confermare la tua intenzione di entrare nella Gilda dei Lancieri." },
     { "gameKey": "quest/000/ClsLnc000_00023#TEXT_CLSLNC000_00023_SEQ_01", "hash": "5DC45607A007B314", "target": "Ti hanno indirizzato da Ywain, maestro della Gilda dei Lancieri. Cercalo nella sala sul retro." },
-    { "gameKey": "quest/000/ClsLnc000_00023#TEXT_CLSLNC000_00023_SEQ_02", "hash": "28C80D2C32B92818", "target": "Dopo averti <if(gnum4,accolta,accolto)> ufficialmente nella Gilda dei Lancieri, il capogilda Ywain ti ordina di uscire e sconfiggere tre scoiattoli terrestri, tre piccole coccinelle e tre funguar della foresta." },
+    { "gameKey": "quest/000/ClsLnc000_00023#TEXT_CLSLNC000_00023_SEQ_02", "hash": "28C80D2C32B92818", "target": "Dopo averti <if(gnum4,accolta,accolto)> ufficialmente nella Gilda dei Lancieri, il Capogilda Ywain ti ordina di uscire e sconfiggere tre scoiattoli terrestri, tre piccole coccinelle e tre funguar della foresta." },
     { "gameKey": "quest/000/ClsLnc000_00023#TEXT_CLSLNC000_00023_SEQ_03", "hash": "DFB6659911FF684A", "target": "Hai sconfitto le creature indicate. Torna a fare rapporto a Ywain alla Gilda dei Lancieri." },
-    { "gameKey": "quest/000/ClsLnc000_00023#TEXT_CLSLNC000_00023_SEQ_04", "hash": "8D22F95E247B8F54", "target": "Secondo Ywain, il valore di un lanciere si misura dalla sua capacità di penetrare le difese nemiche. Se vuoi diventare <if(gnum4,una lanciera degna del nome,un lanciere degno del nome)>, devi impegnarti a fondo nell'addestramento. Fai tesoro di queste parole e intraprendi il cammino che hai scelto.<br><br>※La prossima missione da Lanciere sarà disponibile da Ywain al livello 5." },
+    { "gameKey": "quest/000/ClsLnc000_00023#TEXT_CLSLNC000_00023_SEQ_04", "hash": "8D22F95E247B8F54", "target": "Secondo Ywain, il valore di un lanciere si misura dalla sua capacità di penetrare le difese nemiche. Se vuoi diventare <if(gnum4,una lanciera degna del nome,un lanciere degno del nome)>, devi impegnarti a fondo nell'addestramento. Fai tesoro di queste parole e intraprendi il cammino che hai scelto.<br><br>※La prossima missione da lanciere sarà disponibile da Ywain al livello 5." },
     { "gameKey": "quest/000/ClsLnc000_00023#TEXT_CLSLNC000_00023_TODO_00", "hash": "8888D380DD2B3672", "target": "Parla con Ywain, il maestro della Gilda dei Lancieri" },
     { "gameKey": "quest/000/ClsLnc000_00023#TEXT_CLSLNC000_00023_TODO_01", "hash": "230BF5BEF773FA02", "target": "Sconfiggi gli scoiattoli terrestri" },
     { "gameKey": "quest/000/ClsLnc000_00023#TEXT_CLSLNC000_00023_TODO_02", "hash": "274E6C3FDE054AED", "target": "Sconfiggi le piccole coccinelle" },
@@ -15,7 +15,7 @@
     { "gameKey": "quest/000/ClsLnc000_00023#TEXT_CLSLNC000_00023_JILLIAN_000_1", "hash": "7DE8373C73BCF13F", "target": "Ebbene, avete deciso di entrare nella Gilda dei Lancieri?" },
     { "gameKey": "quest/000/ClsLnc000_00023#TEXT_CLSLNC000_00023_JILLIAN_000_2", "hash": "A380ADD884CEB213", "target": "Entrare nella nostra gilda è una decisione importante. Siamo lieti di accogliere chi la pondera con la dovuta attenzione." },
     { "gameKey": "quest/000/ClsLnc000_00023#TEXT_CLSLNC000_00023_JILLIAN_000_3", "hash": "1B80B750581AB976", "target": "Le nostre porte resteranno sempre aperte, se in futuro deciderete di dedicarvi all'arte dei lancieri. Fino ad allora, vi auguro ogni bene." },
-    { "gameKey": "quest/000/ClsLnc000_00023#TEXT_CLSLNC000_00023_JILLIAN_000_5", "hash": "011269A169D65968", "target": "Eccellente! Avvertirò il capogilda Ywain del vostro arrivo." },
+    { "gameKey": "quest/000/ClsLnc000_00023#TEXT_CLSLNC000_00023_JILLIAN_000_5", "hash": "011269A169D65968", "target": "Eccellente! Avvertirò il Capogilda Ywain del vostro arrivo." },
     { "gameKey": "quest/000/ClsLnc000_00023#TEXT_CLSLNC000_00023_JILLIAN_000_6", "hash": "9B630AED65D4A640", "target": "Chiunque desideri entrare nei nostri ranghi deve presentarsi al suo cospetto. Sarà lui a giudicare se avete le qualità per diventare <if(gnum4,una di noi,uno di noi)>." },
     { "gameKey": "quest/000/ClsLnc000_00023#TEXT_CLSLNC000_00023_JILLIAN_000_7", "hash": "92EDFD7AE51ECA6A", "target": "Vi prego, raggiungete l'area di addestramento all'interno della gilda. Il capogilda vi attende lì." },
     { "gameKey": "quest/000/ClsLnc000_00023#TEXT_CLSLNC000_00023_YWAIN_000_10", "hash": "258656A3E66AA6B3", "target": "Salve, <if(gnum4,avventuriera,avventuriero)>. Mi risulta che tu voglia imparare l'arte dei lancieri sotto la nostra guida." },
@@ -48,6 +48,6 @@
     { "gameKey": "quest/000/ClsLnc000_00023#TEXT_CLSLNC000_00023_YWAIN_000_45", "hash": "754A1FBA85D0AC9E", "target": "Non esiste un solo modo per padroneggiare la nostra arte. Il registro può guidarti quando non sai che strada prendere." },
     { "gameKey": "quest/000/ClsLnc000_00023#TEXT_CLSLNC000_00023_YWAIN_000_46", "hash": "8992A0942CD3DE77", "target": "Per ora basta così. Impugna la tua arma, esci nel mondo e fatti strada." },
     { "gameKey": "quest/000/ClsLnc000_00023#TEXT_CLSLNC000_00023_YWAIN_000_47", "hash": "92332012DCA0C5E7", "target": "Quando ci rivedremo, spero che il viaggio ti abbia <if(gnum4,resa,reso)> più forte." },
-    { "gameKey": "quest/000/ClsLnc000_00023#TEXT_CLSLNC000_00023_SYSTEM_000_50", "hash": "0F9FEE8D9E77D939", "target": "Al livello 5, potrai accettare da Ywain la prossima missione da Lanciere." }
+    { "gameKey": "quest/000/ClsLnc000_00023#TEXT_CLSLNC000_00023_SYSTEM_000_50", "hash": "0F9FEE8D9E77D939", "target": "Al livello 5, potrai accettare da Ywain la prossima missione da lanciere." }
   ]
 }

@@ -54,7 +54,7 @@
     { "gameKey": "quest/047/ChrHdy301_04771#TEXT_CHRHDY301_04771_A1_000_003", "hash": "304CA270D3FDA8B0", "target": "Niente alcol per me, grazie." },
     { "gameKey": "quest/047/ChrHdy301_04771#TEXT_CHRHDY301_04771_GODBERT_000_203", "hash": "2206E3E29AA40BEE", "target": "Molto bene. Allora, per cominciare, ordinerò lo stesso per tutti." },
     { "gameKey": "quest/047/ChrHdy301_04771#TEXT_CHRHDY301_04771_GODBERT_000_204", "hash": "0ED646FF6B5A28F4", "target": "Molto bene. Allora vi ordineremo una gustosa alternativa." },
-    { "gameKey": "quest/047/ChrHdy301_04771#TEXT_CHRHDY301_04771_MIHLEEL_000_205", "hash": "3EF127465BFB0C4C", "target": "Le vostre bevande, lord Godbert. Gustatele!" },
+    { "gameKey": "quest/047/ChrHdy301_04771#TEXT_CHRHDY301_04771_MIHLEEL_000_205", "hash": "3EF127465BFB0C4C", "target": "Le vostre bevande, Lord Godbert. Gustatele!" },
     { "gameKey": "quest/047/ChrHdy301_04771#TEXT_CHRHDY301_04771_GODBERT_000_206", "hash": "FBEC21D9B633470B", "target": "Alla vostra salute, amici miei!" },
     { "gameKey": "quest/047/ChrHdy301_04771#TEXT_CHRHDY301_04771_GEROLT_000_207", "hash": "DF149A59DDBFACAA", "target": "Bene, inutile girarci intorno. Ti odio con tutto il cuore da un bel pezzo." },
     { "gameKey": "quest/047/ChrHdy301_04771#TEXT_CHRHDY301_04771_GODBERT_000_208", "hash": "49C3AA3175CED589", "target": "Ah, dunque vi offendo proprio nel profondo. E per quale motivo?" },
@@ -110,7 +110,7 @@
     { "gameKey": "quest/047/ChrHdy301_04771#TEXT_CHRHDY301_04771_GODBERT_000_284", "hash": "B10DB10BEFCB4845", "target": "Se quella sera non aveste confessato con tanto coraggio le vostre rimostranze, credo che non avremmo mai raggiunto un tale livello di collaborazione!" },
     { "gameKey": "quest/047/ChrHdy301_04771#TEXT_CHRHDY301_04771_GEROLT_000_285", "hash": "2DB411F623929C2C", "target": "Sì, be', su quel punto ho la memoria un po' annebbiata... ma mi prendo le vittorie che posso." },
     { "gameKey": "quest/047/ChrHdy301_04771#TEXT_CHRHDY301_04771_GODBERT_000_286", "hash": "9FA9FB13F541CE91", "target": "Come sempre, <split(<string(gstr1)>, ,1)>, se desiderate potenziare altre armi Manderville in vostro possesso, basta dirlo. Il mio diligente servitore è a vostra disposizione." },
-    { "gameKey": "quest/047/ChrHdy301_04771#TEXT_CHRHDY301_04771_CRAFTER04653_000_287", "hash": "EAE78928BF91CC9C", "target": "Ehm, lord Godbert... Mi vergogno ad ammetterlo, ma la perizia necessaria a preparare l'olio Maxalamanderville supera le mie limitate conoscenze alchemiche." },
+    { "gameKey": "quest/047/ChrHdy301_04771#TEXT_CHRHDY301_04771_CRAFTER04653_000_287", "hash": "EAE78928BF91CC9C", "target": "Ehm, Lord Godbert... Mi vergogno ad ammetterlo, ma la perizia necessaria a preparare l'olio Maxalamanderville supera le mie limitate conoscenze alchemiche." },
     { "gameKey": "quest/047/ChrHdy301_04771#TEXT_CHRHDY301_04771_GEROLT_000_288", "hash": "3E2E51D9615697AA", "target": "Non guardate me. Se sapessi mescolare pozioni magiche, mi sarei fatto ricrescere i capelli da un pezzo." },
     { "gameKey": "quest/047/ChrHdy301_04771#TEXT_CHRHDY301_04771_GODBERT_000_289", "hash": "4288F082D6D1E585", "target": "Ohohoho, so che sarebbe un'impresa insormontabile anche per voi. Ecco perché ho assunto un maestro alchimista." },
     { "gameKey": "quest/047/ChrHdy301_04771#TEXT_CHRHDY301_04771_GEROLT_000_290", "hash": "F307153841A8FDC1", "target": "Eh. Ha gusti dannatamente strani nel vestire, ma almeno qualcosa indossa..." },
@@ -121,6 +121,6 @@
     { "gameKey": "quest/047/ChrHdy301_04771#TEXT_CHRHDY301_04771_GODBERT_000_295", "hash": "9915BD768472A71A", "target": "Precisamente! Preparare il procedimento <italic(1)>sarà<italic(0)> probabilmente un'impresa lunga, quindi vi suggerisco di continuare a respirare." },
     { "gameKey": "quest/047/ChrHdy301_04771#TEXT_CHRHDY301_04771_GODBERT_000_296", "hash": "33E0CD290C4A0CFB", "target": "L'ultimo passo ci attende, <split(<string(gstr1)>, ,1)>. Vi prego di assecondare questa mia ambizione un'ultima volta." },
     { "gameKey": "quest/047/ChrHdy301_04771#TEXT_CHRHDY301_04771_SYSTEM_000_300", "hash": "31FDC2D9DB90AAFC", "target": "Ora puoi modificare gli attributi delle armi Manderville presso l'alchimista di casa Manderville al Grande Crogiolo di Al-Kimiya." },
-    { "gameKey": "quest/047/ChrHdy301_04771#TEXT_CHRHDY301_04771_SYSTEM_000_301", "hash": "563BD5ECBC085D32", "target": "Raccogli l'unico chunk of amplifying achondrite richiesto ed equipaggia l'arma che desideri modificare prima di rivolgerti al paziente servitore di lord Godbert." }
+    { "gameKey": "quest/047/ChrHdy301_04771#TEXT_CHRHDY301_04771_SYSTEM_000_301", "hash": "563BD5ECBC085D32", "target": "Raccogli l'unico chunk of amplifying achondrite richiesto ed equipaggia l'arma che desideri modificare prima di rivolgerti al paziente servitore di Lord Godbert." }
   ]
 }

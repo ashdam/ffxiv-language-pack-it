@@ -10,13 +10,13 @@
     { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_TODO_00", "hash": "9F93B70CF6928004", "target": "Sconfiggi i phurble per ottenere il loro sangue" },
     { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_TODO_01", "hash": "7F19BA91ED6C9252", "target": "Consegna le bottiglie di sangue di phurble a Helmhart" },
     { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_TODO_02", "hash": "03E057CF867FB9AC", "target": "Applica il tonico per capelli sulla testa di Helmhart" },
-    { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_HELMHART_000_000", "hash": "8ED6ED6AF8F9D21A", "target": "Voi! Sì, voi! <if(gnum4,Avventuriera,Avventuriero)>! Dovete procurarmi tre bottiglie di sangue di phurble, e farlo con la massima fretta!" },
-    { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_HELMHART_000_001", "hash": "A88EC72CDDB16105", "target": "Mi chiedete dove trovare sangue di phurble? Dai phurble, naturalmente! Ora sbrigatevi! È una questione di vita o di morte!" },
-    { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_HELMHART_000_020", "hash": "1814C12E56466203", "target": "Allora? Avete portato il sangue di phurble che ho chiesto? Se sì, consegnatelo, e in fretta!" },
-    { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_HELMHART_000_025", "hash": "F50CB7A5C362FD47", "target": "Finalmente! Siete una manna dal cielo! Dunque, com'era? Ah, sì─mescolare due volte, un po' di saliva, agitare altre tre volte e... voilà!" },
-    { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_HELMHART_000_026", "hash": "64894260F2CF2754", "target": "Beh, cosa aspettate? Prendetene una bella dose e iniziate a spalmare─il mio cuoio capelluto invoca soccorso! Oh, e cercate di non saltare un punto." },
+    { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_HELMHART_000_000", "hash": "8ED6ED6AF8F9D21A", "target": "Tu! Sì, tu! <if(gnum4,Avventuriera,Avventuriero)>! Devi procurarmi tre bottiglie di sangue di phurble, e farlo con la massima fretta!" },
+    { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_HELMHART_000_001", "hash": "A88EC72CDDB16105", "target": "Mi chiedi dove trovare sangue di phurble? Dai phurble, naturalmente! Ora sbrigati! È una questione di vita o di morte!" },
+    { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_HELMHART_000_020", "hash": "1814C12E56466203", "target": "Allora? Hai portato il sangue di phurble che ho chiesto? Se sì, consegnalo, e in fretta!" },
+    { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_HELMHART_000_025", "hash": "F50CB7A5C362FD47", "target": "Finalmente! Sei una manna dal cielo! Dunque, com'era? Ah, sì: mescolare due volte, un po' di saliva, agitare altre tre volte e... voilà!" },
+    { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_HELMHART_000_026", "hash": "64894260F2CF2754", "target": "Beh, cosa aspetti? Prendine una bella dose e inizia a spalmare: il mio cuoio capelluto invoca soccorso! Oh, e cerca di non saltare un punto." },
     { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_HELMHART_000_030", "hash": "1E3942F34F2EFE8E", "target": "Ooh! Ahhh! Ahhhhhhhhh!!!" },
     { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_HELMHART_000_031", "hash": "D9B33E79D7D5A88A", "target": "Accidenti, che formicolio! Sento già i pori aprirsi! In men che non si dica, avrò fluenti chiome lunghe un fulm!" },
-    { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_HELMHART_000_032", "hash": "DE62B80EBD936B25", "target": "Non potrò mai ringraziarvi abbastanza. Con il sole che picchia come da queste parti, una testa calva è un male potenzialmente mortale." }
+    { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_HELMHART_000_032", "hash": "DE62B80EBD936B25", "target": "Non potrò mai ringraziarti abbastanza. Con il sole che picchia come da queste parti, una testa calva è un male potenzialmente mortale." }
   ]
 }

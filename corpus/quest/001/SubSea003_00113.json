@@ -10,13 +10,13 @@
     { "gameKey": "quest/001/SubSea003_00113#TEXT_SUBSEA003_00113_TODO_01", "hash": "115C455076961098", "target": "Fai rapporto a Sweetnix" },
     { "gameKey": "quest/001/SubSea003_00113#TEXT_SUBSEA003_00113_SWEETNIX_000_0", "hash": "B6E19103949C37BD", "target": "Pshhh... Shkohhh...<br>Sweetnix è gobbietto belloso e mercante furboingegno!" },
     { "gameKey": "quest/001/SubSea003_00113#TEXT_SUBSEA003_00113_SWEETNIX_000_1", "hash": "4CC3875DC66F9375", "target": "Sweetnix fa affarifare con i Nongobbi! Deve consegnare lettera alla Porta di Mealvaan, ma ha tremolibrividi." },
-    { "gameKey": "quest/001/SubSea003_00113#TEXT_SUBSEA003_00113_SWEETNIX_000_2", "hash": "A6C907613CD94998", "target": "Il Nongobbo va alla Porta di Mealvaan per Sweetnix? Il Nongobbo consegna lettera a signora-tasse P'tahjha?" },
+    { "gameKey": "quest/001/SubSea003_00113#TEXT_SUBSEA003_00113_SWEETNIX_000_2", "hash": "A6C907613CD94998", "target": "<if(gnum4,La Nongobba,Il Nongobbo)> va alla Porta di Mealvaan per Sweetnix? <if(gnum4,La Nongobba,Il Nongobbo)> consegna lettera a signora-tasse P'tahjha?" },
     { "gameKey": "quest/001/SubSea003_00113#TEXT_SUBSEA003_00113_PTAHJHA_000_10", "hash": "1F7801A10C6EA38C", "target": "Dov'è Sweetnix con i registri delle importazioni? Senza la documentazione necessaria, temo che dovremo espellerlo dalla città..." },
     { "gameKey": "quest/001/SubSea003_00113#TEXT_SUBSEA003_00113_PTAHJHA_000_11", "hash": "426D7F79DE49EE53", "target": "Ma questi sono i registri di Sweetnix! Sono felice che siano stati consegnati in tempo." },
     { "gameKey": "quest/001/SubSea003_00113#TEXT_SUBSEA003_00113_PTAHJHA_000_12", "hash": "EA164DC25F5E542A", "target": "Davvero, si penserebbe che quel goblin abbia ormai superato la paura dei nostri uffici. Ogni mese deve presentare questi documenti e ogni mese il suo ritardo mi costringe a considerarne l'espulsione." },
     { "gameKey": "quest/001/SubSea003_00113#TEXT_SUBSEA003_00113_PTAHJHA_000_13", "hash": "DE822CC321537DC3", "target": "Se si rispettano le procedure, Limsa Lominsa accoglie volentieri i mercanti stranieri. Vi prego di riferirlo a Sweetnix: forse aiuterà a calmare le paure del povero goblin." },
-    { "gameKey": "quest/001/SubSea003_00113#TEXT_SUBSEA003_00113_SWEETNIX_000_20", "hash": "C1C83AE7531C738C", "target": "Il Nongobbo ha portato la lettera alla Porta di Mealvaan? Il Nongobbo ha largocuore e gambeveloci!" },
+    { "gameKey": "quest/001/SubSea003_00113#TEXT_SUBSEA003_00113_SWEETNIX_000_20", "hash": "C1C83AE7531C738C", "target": "<if(gnum4,La Nongobba,Il Nongobbo)> ha portato la lettera alla Porta di Mealvaan? <if(gnum4,La Nongobba,Il Nongobbo)> ha largocuore e gambeveloci!" },
     { "gameKey": "quest/001/SubSea003_00113#TEXT_SUBSEA003_00113_SWEETNIX_000_21", "hash": "1831F70DB69F4762", "target": "Signora-tasse P'tahjha ha rispostine gentili per Sweetnix? Sweetnix trabocca di gioia per signora-tasse P'tahjha!" },
-    { "gameKey": "quest/001/SubSea003_00113#TEXT_SUBSEA003_00113_SWEETNIX_000_22", "hash": "8F6C298433170445", "target": "Sweetnix è gobbietto felice! Dà tintinnaluccichio al Nongobbo!" }
+    { "gameKey": "quest/001/SubSea003_00113#TEXT_SUBSEA003_00113_SWEETNIX_000_22", "hash": "8F6C298433170445", "target": "Sweetnix è gobbietto felice! Dà tintinnaluccichio <if(gnum4,alla Nongobba,al Nongobbo)>!" }
   ]
 }

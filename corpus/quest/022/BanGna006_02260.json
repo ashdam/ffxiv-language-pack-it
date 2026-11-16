@@ -15,7 +15,7 @@
     { "gameKey": "quest/022/BanGna006_02260#TEXT_BANGNA006_02260_STORYTELLER_000_012", "hash": "46A3394A09D29659", "target": "Più Vath significano più individui, con menti e sentimenti diversi. Non possiamo sperare di essere d'accordo su tutto, ma accettiamo queste differenze. Anche se ci portano a scontrarci fra noi, valgono la nostra libertà." },
     { "gameKey": "quest/022/BanGna006_02260#TEXT_BANGNA006_02260_STORYTELLER_000_013", "hash": "89A90CD82D42C0EB", "target": "Attraverso le prove della colonia per preservare la nostra esistenza, continueremo a raccontare la nostra storia. E non dimentichiamo chi si unisce alle nostre lotte." },
     { "gameKey": "quest/022/BanGna006_02260#TEXT_BANGNA006_02260_STORYTELLER_000_014", "hash": "BC15E7AA479B4FDB", "target": "Non avevamo scelta quando eravamo legati alla Mente Suprema. Ma ora scegliamo di rafforzare i legami con te, <if(gnum4,cacciatrice,cacciatore)>. Potrai sempre considerarci tuoi fratelli e sorelle." },
-    { "gameKey": "quest/022/BanGna006_02260#TEXT_BANGNA006_02260_SYSTEM_000_100", "hash": "4238E1762A020F1C", "target": "La tua reputazione presso i Vath ha raggiunto il rango <colortype(500)><edgecolortype(501)>Bloodsworn<edgecolortype(0)><colortype(0)>." },
+    { "gameKey": "quest/022/BanGna006_02260#TEXT_BANGNA006_02260_SYSTEM_000_100", "hash": "4238E1762A020F1C", "target": "La tua reputazione presso i Vath ha raggiunto il rango <colortype(500)><edgecolortype(501)>Patto di Sangue<edgecolortype(0)><colortype(0)>." },
     { "gameKey": "quest/022/BanGna006_02260#TEXT_BANGNA006_02260_SYSTEM_000_101", "hash": "C78F598850B45721", "target": "Riceverai un bonus ai punti esperienza completando le missioni giornaliere della società dei Vath." }
   ]
 }

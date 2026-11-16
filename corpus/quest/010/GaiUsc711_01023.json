@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_SEQ_00", "hash": "F4516EC2899FE9F4", "target": "U'odh Nunh ha ricevuto cattive notizie." },
-    { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_SEQ_01", "hash": "963D05DDBE210216", "target": "Tre donne della tribù degli U sono state catturate dagli Amalj'aa in un'imboscata. U'odh Nunh ti incarica di portare un unguento alle ferite, perché abbiano la dignità di lottare per la propria vita." },
+    { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_SEQ_01", "hash": "963D05DDBE210216", "target": "Tre donne della tribù degli U sono state catturate dagli Amalj'aa in un'imboscata. U'odh Nunh ti incarica di portare un unguento alle prigioniere ferite, perché abbiano la dignità di lottare per la propria vita." },
     { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_SEQ_02", "hash": "D4EFF612A2CCAF6E", "target": "Hai curato le ferite delle donne degli U prigioniere. Torna a informare U'odh Nunh del successo." },
-    { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_SEQ_03", "hash": "080FAA0931AB4762", "target": "Con la tribù di nuovo al completo, U'odh Nunh è felicissimo e dichiara la tua vera amicizia per gli U." },
+    { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_SEQ_03", "hash": "080FAA0931AB4762", "target": "Con la tribù di nuovo al completo, U'odh Nunh è felicissimo e ti dichiara <if(gnum4,una vera amica,un vero amico)> degli U." },
     { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_TODO_00", "hash": "23E9039DB8021160", "target": "Usa l'unguento da battaglia sulle donne della tribù degli U" },
     { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_TODO_01", "hash": "F6092DC74FAA72C0", "target": "Fai rapporto a U'odh Nunh" },
     { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_UODHNUN_000_000", "hash": "ED21CDD87BB20EF7", "target": "<if(gnum4,Straniera,Straniero)>... Ti ho detto di...mh? Vorresti aiutare gli U? Voi estranei mi confondete...ma sarei sciocco a rifiutare l'aiuto." },
@@ -18,6 +18,6 @@
     { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_UZOKUB_000_025", "hash": "D5A7A98198221665", "target": "Grazie, <if(gnum4,straniera,straniero)>. Grazie alla tua gentilezza, vivrò per combattere ancora." },
     { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_UZOKUC_000_030", "hash": "6AA94AE3E757E625", "target": "Gah! Preferisco morire che ammettere la sconfitta contro gli uomini-lucertola!" },
     { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_UZOKUC_000_035", "hash": "07453F9C384288DB", "target": "Grazie, <if(gnum4,amica,amico)>. Non dimenticherò questo debito." },
-    { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_UODHNUN_000_040", "hash": "30C89ED13647CCFA", "target": "Le tre scomparse sono tornate, e con teste di uomini-lucertola. Sei <if(gnum4,una vera amica,un vero amico)> degli U, <if(gnum4,straniera,straniero)>." }
+    { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_UODHNUN_000_040", "hash": "30C89ED13647CCFA", "target": "Le tre scomparse sono tornate portando teste di uomini-lucertola. Sei <if(gnum4,una vera amica,un vero amico)> degli U, <if(gnum4,straniera,straniero)>." }
   ]
 }

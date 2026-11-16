@@ -58,7 +58,7 @@
     { "gameKey": "quest/001/SubFst035_00129#TEXT_SUBFST035_00129_PAPALYMO_000_78", "hash": "0FE674CA3AFF66B8", "target": "Appassito. La stessa sorte è toccata al Muschio Smeraldo." },
     { "gameKey": "quest/001/SubFst035_00129#TEXT_SUBFST035_00129_PAPALYMO_000_79", "hash": "10BCCF903F5D6A71", "target": "È come temevamo: l'anomalia di Dalamud sta colpendo la vita nel Bosco dei Dodici." },
     { "gameKey": "quest/001/SubFst035_00129#TEXT_SUBFST035_00129_YDA_000_80", "hash": "DB93FD43427224F3", "target": "Intendi l'alterazione del flusso etereo?" },
-    { "gameKey": "quest/001/SubFst035_00129#TEXT_SUBFST035_00129_PAPALYMO_000_81", "hash": "1B533DC37CBE3046", "target": "Proprio quella. I garleani hanno molto di cui rispondere." },
+    { "gameKey": "quest/001/SubFst035_00129#TEXT_SUBFST035_00129_PAPALYMO_000_81", "hash": "1B533DC37CBE3046", "target": "Proprio quella. I Garleani hanno molto di cui rispondere." },
     { "gameKey": "quest/001/SubFst035_00129#TEXT_SUBFST035_00129_PAPALYMO_000_82", "hash": "8DC3218CF0C6F52E", "target": "Lo squilibrio che hanno creato sta facendo precipitare il territorio nel caos, proprio come aveva predetto Louisoix." },
     { "gameKey": "quest/001/SubFst035_00129#TEXT_SUBFST035_00129_YDA_000_83", "hash": "2F7328311A2EF474", "target": "Non c'è da stupirsi che abbiano cominciato ad apparire i primali..." },
     { "gameKey": "quest/001/SubFst035_00129#TEXT_SUBFST035_00129_PAPALYMO_000_84", "hash": "BBF514840C971078", "target": "Il tempo è contro di noi, ma c'è ancora speranza per questa terra." },
@@ -66,7 +66,7 @@
     { "gameKey": "quest/001/SubFst035_00129#TEXT_SUBFST035_00129_YDA_000_86", "hash": "BB5C3512B8508A9B", "target": "D'accordo!" },
     { "gameKey": "quest/001/SubFst035_00129#TEXT_SUBFST035_00129_YDA_000_87", "hash": "6734C20B3CDB187F", "target": "Aaaah!" },
     { "gameKey": "quest/001/SubFst035_00129#TEXT_SUBFST035_00129_YDA_000_88", "hash": "EAB5BD52DD83CA83", "target": "Ahia! Stupidi aggeggi..." },
-    { "gameKey": "quest/001/SubFst035_00129#TEXT_SUBFST035_00129_PAPALYMO_000_89", "hash": "E83E6EB1018FC925", "target": "Questi <italic(1)>stupidi aggeggi<italic(0)> sono il più recente ritrovato dell'innovazione sharlayana! Mostra un po' di rispetto!" },
+    { "gameKey": "quest/001/SubFst035_00129#TEXT_SUBFST035_00129_PAPALYMO_000_89", "hash": "E83E6EB1018FC925", "target": "Questi <italic(1)>stupidi aggeggi<italic(0)> sono il più recente ritrovato dell'innovazione Sharlayana! Mostra un po' di rispetto!" },
     { "gameKey": "quest/001/SubFst035_00129#TEXT_SUBFST035_00129_YDA_000_90", "hash": "A4491331E6A35AD9", "target": "Ma sono così scomodi e... e... <italic(1)>brutti<italic(0)>!" },
     { "gameKey": "quest/001/SubFst035_00129#TEXT_SUBFST035_00129_PAPALYMO_000_91", "hash": "4C77433C7671DB53", "target": "Per quanto mi riguarda, sono meglio di quella tua maschera." },
     { "gameKey": "quest/001/SubFst035_00129#TEXT_SUBFST035_00129_YDA_000_92", "hash": "49468BE33A8C3205", "target": "\\<sigh> È difficile credere che siano già passati cinque anni interi, vero?" },
@@ -116,14 +116,14 @@
     { "gameKey": "quest/001/SubFst035_00129#TEXT_SUBFST035_00129_MIOUNNE_000_151", "hash": "3F3233514563BC7C", "target": "Ma stavamo parlando di te, <split(<string(gstr1)>, ,1)>. Hai reso orgogliosa Madre Miounne. Mi aspetto grandi cose da te, <if(gnum4,giovane donna,giovanotto)>!" },
     { "gameKey": "quest/001/SubFst035_00129#TEXT_SUBFST035_00129_SYSTEM_000_152", "hash": "F79961E2443CA640", "target": "In riconoscimento dei tuoi successi, ora hai accesso ai mandati di gilda e alle stanze della locanda." },
     { "gameKey": "quest/001/SubFst035_00129#TEXT_SUBFST035_00129_SYSTEM_000_153", "hash": "DE57FE112FE26996", "target": "Man mano che completi missioni e intraprendi nuove avventure, il mondo ti trascinerà sempre più a fondo nei suoi misteri." },
-    { "gameKey": "quest/001/SubFst035_00129#TEXT_SUBFST035_00129_SYSTEM_000_154", "hash": "F06566C7C69E3137", "target": "Il vasto regno di Eorzea custodisce ancora innumerevoli strade mai percorse e meraviglie mai viste. Prosegui sul cammino dell'avventura e scopri quali prodigi ti attendono!" },
+    { "gameKey": "quest/001/SubFst035_00129#TEXT_SUBFST035_00129_SYSTEM_000_154", "hash": "F06566C7C69E3137", "target": "Il vasto reame di Eorzea custodisce ancora innumerevoli strade mai percorse e meraviglie mai viste. Prosegui sul cammino dell'avventura e scopri quali prodigi ti attendono!" },
     { "gameKey": "quest/001/SubFst035_00129#TEXT_SUBFST035_00129_Q1_000_1", "hash": "3792AE56BAC90C14", "target": "Il dovere chiama. Vuoi procedere con<br>«Roccaspirito violata»?" },
     { "gameKey": "quest/001/SubFst035_00129#TEXT_SUBFST035_00129_A1_000_1", "hash": "44C47B560A4177E9", "target": "Sì" },
     { "gameKey": "quest/001/SubFst035_00129#TEXT_SUBFST035_00129_A1_000_2", "hash": "FABCAEB19225002F", "target": "No" },
     { "gameKey": "quest/001/SubFst035_00129#TEXT_SUBFST035_00129_MASKEDMAGUS_BATTLETALK_01", "hash": "12175A9B763A0B59", "target": "Sei forte. Ma abbastanza da resistere a <italic(1)>questo<italic(0)>?" },
     { "gameKey": "quest/001/SubFst035_00129#TEXT_SUBFST035_00129_MASKEDMAGUS_BATTLETALK_02", "hash": "480E660F8480032D", "target": "Sììì... contorciti! Contorciti nell'oscurità eterna!" },
     { "gameKey": "quest/001/SubFst035_00129#TEXT_SUBFST035_00129_MASKEDMAGUS_BATTLETALK_03", "hash": "AD88288AD04ABF82", "target": "Impossibile! Mai il golem era stato messo così duramente alla prova!" },
-    { "gameKey": "quest/001/SubFst035_00129#TEXT_SUBFST035_00129_SYSTEM_000_160", "hash": "C198BD851C35D56B", "target": "Ora hai accesso alle Raccomandazioni. Questa funzione mostra un elenco delle missioni e degli incarichi attualmente disponibili nella tua area." },
-    { "gameKey": "quest/001/SubFst035_00129#TEXT_SUBFST035_00129_SYSTEM_000_161", "hash": "A4402C81674935C3", "target": "Puoi aprire l'elenco delle Raccomandazioni dalla voce Incarichi del menu principale. Verrà inoltre mostrato automaticamente quando accedi al gioco. Se non sai cosa fare, questo strumento ti permette di trovare facilmente attività adatte alla tua classe e al tuo livello attuali." }
+    { "gameKey": "quest/001/SubFst035_00129#TEXT_SUBFST035_00129_SYSTEM_000_160", "hash": "C198BD851C35D56B", "target": "Ora hai accesso a Consigliati. Questa funzione mostra un elenco delle missioni e degli incarichi attualmente disponibili nella tua area." },
+    { "gameKey": "quest/001/SubFst035_00129#TEXT_SUBFST035_00129_SYSTEM_000_161", "hash": "A4402C81674935C3", "target": "Puoi aprire l'elenco Consigliati dalla voce Incarichi del menu principale. Verrà inoltre mostrato automaticamente quando accedi al gioco. Se non sai cosa fare, questo strumento ti permette di trovare facilmente attività adatte alla tua classe e al tuo livello attuali." }
   ]
 }

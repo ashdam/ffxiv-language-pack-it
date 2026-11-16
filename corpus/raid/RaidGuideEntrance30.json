@@ -2,7 +2,7 @@
   "conversation": "raid/RaidGuideEntrance30",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "raid/RaidGuideEntrance30#TEXT_RAIDGUIDEENTRANCE30_REDBRIX_000_000", "hash": "2FC59DF410C391C3", "target": "Pshkohhh... Il Nongobbo è curioso e vuole entrare nel gigante di ferro? Va bene: se è deciso, Redbrix lo guiderà." },
+    { "gameKey": "raid/RaidGuideEntrance30#TEXT_RAIDGUIDEENTRANCE30_REDBRIX_000_000", "hash": "2FC59DF410C391C3", "target": "Pshkohhh... <if(gnum4,La Nongobba è curiosa,Il Nongobbo è curioso)> e vuole entrare nel gigante di ferro? Va bene: se è <if(gnum4,decisa,deciso)>, Redbrix <if(gnum4,la,lo)> guiderà." },
     { "gameKey": "raid/RaidGuideEntrance30#TEXT_RAIDGUIDEENTRANCE30_Q1_000_010", "hash": "DB8E64D08D7DC3A2", "target": "Che cosa vuoi fare?" },
     { "gameKey": "raid/RaidGuideEntrance30#TEXT_RAIDGUIDEENTRANCE30_A1_000_011", "hash": "3E6A7FB0739B8753", "target": "Informazioni su Gordias (Selvaggio)." },
     { "gameKey": "raid/RaidGuideEntrance30#TEXT_RAIDGUIDEENTRANCE30_A1_000_012", "hash": "3AD0030DCCCB3F34", "target": "Entrare in <sheet(InstanceContent,lnum1,3)> (regola del bottino: Normale)." },
@@ -12,7 +12,7 @@
     { "gameKey": "raid/RaidGuideEntrance30#TEXT_RAIDGUIDEENTRANCE30_00105_Q3_000_015", "hash": "B74EBEDD7529A856", "target": "Su che cosa vuoi informazioni?" },
     { "gameKey": "raid/RaidGuideEntrance30#TEXT_RAIDGUIDEENTRANCE30_00105_A3_000_016", "hash": "A778237F44F34D1A", "target": "Requisiti di accesso a Gordias (Selvaggio)." },
     { "gameKey": "raid/RaidGuideEntrance30#TEXT_RAIDGUIDEENTRANCE30_00105_A3_000_017", "hash": "070C760B9EDBD46F", "target": "Niente." },
-    { "gameKey": "raid/RaidGuideEntrance30#TEXT_RAIDGUIDEENTRANCE30_REDBRIX_000_020", "hash": "C8657FC8B5B1CAAA", "target": "Pshkohhh... Il Nongobbo ha il permesso di entrare, anche se Redbrix non capisce perché voglia farlo. Ma aprirà il passaggio se glielo chiede." },
+    { "gameKey": "raid/RaidGuideEntrance30#TEXT_RAIDGUIDEENTRANCE30_REDBRIX_000_020", "hash": "C8657FC8B5B1CAAA", "target": "Pshkohhh... <if(gnum4,La Nongobba,Il Nongobbo)> ha il permesso di entrare, anche se Redbrix non capisce perché voglia farlo. Ma aprirà il passaggio se glielo chiede." },
     { "gameKey": "raid/RaidGuideEntrance30#TEXT_RAIDGUIDEENTRANCE30_SYSTEM_000_050", "hash": "902B462DE30FEE6F", "target": "Gordias (Selvaggio) comprende più spedizioni. In alcune di esse non è possibile usare l'incantesimo Ritorno." },
     { "gameKey": "raid/RaidGuideEntrance30#TEXT_RAIDGUIDEENTRANCE30_SYSTEM_000_051", "hash": "59EB2EE8FBB7EB16", "target": "I progressi in Gordias (Selvaggio) vengono salvati in punti prestabiliti per ogni giocatore e puoi riprendere l'incursione da dove l'hai interrotta." },
     { "gameKey": "raid/RaidGuideEntrance30#TEXT_RAIDGUIDEENTRANCE30_SYSTEM_000_052", "hash": "4B4E0AA5B45905B7", "target": "I progressi vengono azzerati ogni <setresettime(17,2)><switch(t_wday,domenica,lunedì,martedì,mercoledì,giovedì,venerdì,sabato)> alle <if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)> <if([t_hour>=12],p.m.,a.m.)> (ora terrestre)." },

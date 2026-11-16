@@ -15,7 +15,7 @@
     { "gameKey": "quest/022/BanVan008_02225#TEXT_BANVAN008_02225_LINUVANU_000_012", "hash": "9F4EFA4A1DC6584D", "target": "Ora però che <split(<string(gstr1)>, ,1)> è davanti a me, è chiaro!" },
     { "gameKey": "quest/022/BanVan008_02225#TEXT_BANVAN008_02225_LINUVANU_000_013", "hash": "24714C7BEDD1BB2C", "target": "Una persona di sotto come <split(<string(gstr1)>, ,1)> è più preziosa di un arcobaleno doppio, no, <italic(1)>triplo<italic(0)>, che attraversa tutto il mare di nuvole!" },
     { "gameKey": "quest/022/BanVan008_02225#TEXT_BANVAN008_02225_LINUVANU_000_014", "hash": "1C18D1E2C1B91337", "target": "Da oggi <split(<string(gstr1)>, ,1)> sarà sempre ospite d'onore a Ok' Gundu Nakki!" },
-    { "gameKey": "quest/022/BanVan008_02225#TEXT_BANVAN008_02225_SYSTEM_000_100", "hash": "427020424D8B4C31", "target": "Hai raggiunto la reputazione <colortype(500)><edgecolortype(501)>Bloodsworn<edgecolortype(0)><colortype(0)> presso i Gundu." },
+    { "gameKey": "quest/022/BanVan008_02225#TEXT_BANVAN008_02225_SYSTEM_000_100", "hash": "427020424D8B4C31", "target": "Hai raggiunto la reputazione <colortype(500)><edgecolortype(501)>Patto di Sangue<edgecolortype(0)><colortype(0)> presso i Gundu." },
     { "gameKey": "quest/022/BanVan008_02225#TEXT_BANVAN008_02225_SYSTEM_100_100", "hash": "61D6C0A8C47669AF", "target": "Riceverai un bonus ai punti esperienza completando le missioni giornaliere della società dei Vanu Vanu." }
   ]
 }

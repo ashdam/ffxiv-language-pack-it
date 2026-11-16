@@ -26,6 +26,6 @@
     { "gameKey": "quest/002/ClsGla011_00285#TEXT_CLSGLA011_00285_MYLLA_000_24", "hash": "8F1EFD9220B1501D", "target": "Considerala un dono, se vuoi. Ora portala al fianco come faccio io e mostrami che sei <if(gnum4,pronta,pronto)> a cominciare l'addestramento!" },
     { "gameKey": "quest/002/ClsGla011_00285#TEXT_CLSGLA011_00285_SYSTEM_000_30", "hash": "AE669080E7DABCB4", "target": "Hai sbloccato una nuova classe! Puoi passare a questa classe in qualsiasi momento equipaggiando l'arma ricevuta da questa missione." },
     { "gameKey": "quest/002/ClsGla011_00285#TEXT_CLSGLA011_00285_SYSTEM_000_31", "hash": "EDA8FA2108E0195B", "target": "Quando cambi classe, i <colortype(500)><edgecolortype(501)>set di equipaggiamento<edgecolortype(0)><colortype(0)> ti permettono di registrare e salvare diverse configurazioni. Puoi così passare istantaneamente da una classe all'altra senza dover equipaggiare manualmente armi o altri oggetti." },
-    { "gameKey": "quest/002/ClsGla011_00285#TEXT_CLSGLA011_00285_SYSTEM_000_32", "hash": "2D7B5A3705999EB8", "target": "Il pulsante per l'interfaccia dei set di equipaggiamento si trova nella parte superiore della finestra <colortype(500)><edgecolortype(501)>Personaggio<edgecolortype(0)><colortype(0)>." }
+    { "gameKey": "quest/002/ClsGla011_00285#TEXT_CLSGLA011_00285_SYSTEM_000_32", "hash": "2D7B5A3705999EB8", "target": "Il pulsante per l'interfaccia dei Set di Equipaggiamento si trova nella parte superiore della finestra <colortype(500)><edgecolortype(501)>Personaggio<edgecolortype(0)><colortype(0)>." }
   ]
 }

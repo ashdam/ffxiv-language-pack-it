@@ -27,6 +27,6 @@
     { "gameKey": "quest/000/ClsHrv001_00003#TEXT_CLSHRV001_00003_FUFUCHA_000_19", "hash": "09199283F1C2B067", "target": "Vorrei assegnarvi il primo incarico da <if(gnum4,botanica,botanico)> della gilda." },
     { "gameKey": "quest/000/ClsHrv001_00003#TEXT_CLSHRV001_00003_SYSTEM_000_30", "hash": "093F48593E391F12", "target": "Hai sbloccato una nuova classe! Puoi passare a questa classe in qualsiasi momento equipaggiando l'attrezzo ricevuto da questa missione." },
     { "gameKey": "quest/000/ClsHrv001_00003#TEXT_CLSHRV001_00003_SYSTEM_000_31", "hash": "7E1F94F117724A0C", "target": "Quando cambi classe, i <colortype(500)><edgecolortype(501)>set di equipaggiamento<edgecolortype(0)><colortype(0)> ti permettono di registrare e salvare diverse configurazioni. Puoi così passare istantaneamente da una classe all'altra senza dover equipaggiare manualmente armi o altri oggetti." },
-    { "gameKey": "quest/000/ClsHrv001_00003#TEXT_CLSHRV001_00003_SYSTEM_000_32", "hash": "7367DBAC18B6E012", "target": "Il pulsante per l'interfaccia dei set di equipaggiamento si trova nella parte superiore della finestra <colortype(500)><edgecolortype(501)>Personaggio<edgecolortype(0)><colortype(0)>." }
+    { "gameKey": "quest/000/ClsHrv001_00003#TEXT_CLSHRV001_00003_SYSTEM_000_32", "hash": "7367DBAC18B6E012", "target": "Il pulsante per l'interfaccia dei Set di Equipaggiamento si trova nella parte superiore della finestra <colortype(500)><edgecolortype(501)>Personaggio<edgecolortype(0)><colortype(0)>." }
   ]
 }

@@ -14,7 +14,7 @@
     { "gameKey": "quest/054/KinGml101_05475#TEXT_KINGML101_05475_TODO_03", "hash": "EFCCB8872F9AB219", "target": "Parla con Alphinaud" },
     { "gameKey": "quest/054/KinGml101_05475#TEXT_KINGML101_05475_TATARU_000_001", "hash": "8E752ABEA8FE530A", "target": "Avete riposato abbastanza, <split(<string(gstr1)>, ,1)>? Bene. Sembra che tutti si siano sistemati, quindi credo che possiamo riprendere la discussione..." },
     { "gameKey": "quest/054/KinGml101_05475#TEXT_KINGML101_05475_TATARU_000_002", "hash": "96FE28F1FA387F01", "target": "Prima, però, ho un favore da chiedervi. Riguarda Estinien." },
-    { "gameKey": "quest/054/KinGml101_05475#TEXT_KINGML101_05475_TATARU_000_003", "hash": "9C529D91A487C1B0", "target": "Secondo un certo Comandante Supremo, il nostro amico scomparso è stato avvistato proprio di recente a Ishgard." },
+    { "gameKey": "quest/054/KinGml101_05475#TEXT_KINGML101_05475_TATARU_000_003", "hash": "9C529D91A487C1B0", "target": "Secondo un certo lord comandante, il nostro amico scomparso è stato avvistato proprio di recente a Ishgard." },
     { "gameKey": "quest/054/KinGml101_05475#TEXT_KINGML101_05475_TATARU_100_003", "hash": "B5644842CF37AE22", "target": "Potrebbe essere l'occasione migliore per acciuffarlo! Vi prego, <split(<string(gstr1)>, ,1)>─potreste andare nella Santa Sede a rintracciarlo?" },
     { "gameKey": "quest/054/KinGml101_05475#TEXT_KINGML101_05475_TATARU_000_004", "hash": "F0874507729D96AD", "target": "Grazie! Se aspettate alla piazza dell'eterite, spero che riuscirete ad avvistarlo presto." },
     { "gameKey": "quest/054/KinGml101_05475#TEXT_KINGML101_05475_ESTINIEN_000_100", "hash": "F26F62F2DE8549DD", "target": "<split(<string(gstr1)>, ,1)>... Se non ti conoscessi, penserei che sia una coincidenza." },

@@ -7082,7 +7082,7 @@
       "en": "the Bramble Patch",
       "fr": "Massif de ronces",
       "ja": "茨の森",
-      "it": "la Macchia dei Rovi",
+      "it": "il Rovo",
       "protect": false
     },
     {
@@ -7156,7 +7156,7 @@
     },
     {
       "en": "To accept this quest, you must abandon the current main scenario quest. Open the corresponding entry in the journal or duty list and select “Abandon.”",
-      "it": "Per accettare questa missione, devi abbandonare l'attuale missione dello scenario principale. Apri la voce corrispondente nel journal o nella duty list e seleziona «Abandon».",
+      "it": "Per accettare questa missione, devi abbandonare l'attuale missione dello scenario principale. Apri la voce corrispondente nel diario o nella lista degli incarichi e seleziona «Abbandona».",
       "protect": false
     },
     {
@@ -8535,9 +8535,9 @@
       "en": "the Skylift",
       "fr": "l'Ascenciel",
       "ja": "",
-      "it": "il Montacielo",
+      "it": "l'Ascensore Celeste",
       "protect": false,
-      "note": "LOW: a coinage, the Japanese keeps the English."
+      "note": "Decisione dell'utente: toponimo di La Noscea Centrale; usare Ascensore Celeste in etichette, dialoghi e diario, adattando articoli e preposizioni."
     },
     {
       "en": "Amajina & Sons Mineral Concern",
@@ -8671,7 +8671,7 @@
     },
     {
       "en": "Gods' Grip",
-      "it": "Stretta degli Dei",
+      "it": "Presa degli Dei",
       "protect": false
     },
     {
@@ -9030,7 +9030,7 @@
     {
       "en": "Burning Wall",
       "fr": "Mur incandescent",
-      "it": "Muro Incandescente",
+      "it": "Muro Ardente",
       "protect": false
     },
     {
@@ -9094,7 +9094,8 @@
       "en": "uplander",
       "it": "Nongobbo (pl. Nongobbi)",
       "protect": false,
-      "note": "Decisione dell'utente; appellativo nel parlato goblin."
+      "note": "Decisione dell'utente; appellativo nel parlato goblin. Nongobba/Nongobbe per referenti femminili identificati; Nongobbo/Nongobbi per maschili, generici o misti.",
+      "forms": ["Nongobba", "Nongobbe"]
     },
     {
       "en": "tent-ring",
@@ -9180,7 +9181,7 @@
     {
       "en": "Golden Bazaar",
       "fr": "Bazar doré",
-      "it": "Mercato Dorato",
+      "it": "Bazar Dorato",
       "protect": false
     },
     {
@@ -18401,9 +18402,9 @@
     },
     {
       "en": "Gullperch Tower",
-      "it": "La Torre di Gabbianposta",
+      "it": "Torre di Gabbianposta",
       "protect": false,
-      "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/Adventure.json::('corpus/flat/Adventure.json', 'Adventure#2162712.13'). Fonte legacy: data/translations/world/adventure.json#2162712:translation_name EN/hash verificati."
+      "note": "Usare Torre di Gabbianposta per lo stesso luogo in etichette, dialoghi e diario; adattare articoli e preposizioni."
     },
     {
       "en": "Camp Skull Valley",
@@ -18487,7 +18488,7 @@
       "en": "Thal's Respite",
       "it": "La Tregua di Thal",
       "protect": false,
-      "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/Adventure.json::('corpus/flat/Adventure.json', 'Adventure#2162744.13'). Fonte legacy: data/translations/world/adventure.json#2162744:translation_name EN/hash verificati."
+      "note": "Usare il nome per lo stesso luogo, anche in prosa; nella forma abbreviata mantenere Tregua. Adattare articoli e preposizioni."
     },
     {
       "en": "Nald's Reflection",
@@ -26915,7 +26916,7 @@
     },
     {
       "en": "Legend has it that Llymlaen sealed a giant serpent She Herself created within Swallowtail Roam, an island said to drift about the sea so that those with evil intentions might never find it. When Seal Rock was first discovered, many believed it to be the selfsame island─but its true nature remained unknown until the Calamity laid her secrets bare. Upon their return to the island following the fall of Dalamud, Allied forces discovered Allagan tomeliths containing a wealth of knowledge. They concluded that the entire island was in fact an Allagan construct─a proving ground for Omega and other technology they developed to combat the primal threat. As was the case in Carteneau, control of the island and its resources remain disputed, and peaceful negotiations have failed to achieve a resolution. And so, once more, they would settle the matter on the battlefield.",
-      "it": "Secondo la leggenda, Llymlaen rinchiuse un serpente gigante da Lei creato in Swallowtail Roam, un'isola errante che i malintenzionati non avrebbero mai trovato. Quando fu scoperto lo Scoglio delle Foche, molti pensarono che fosse la stessa isola, ma la sua vera natura rimase ignota fino alla Calamità. Tornate dopo la caduta di Dalamud, le forze alleate trovarono tomoliti Allagani pieni di conoscenze. Conclusero che l'intera isola era una costruzione Allagana, un campo di prova per Omega e altre tecnologie sviluppate contro i Primali. Come a Carteneau, il controllo dell'isola e delle sue risorse è conteso e i negoziati pacifici sono falliti. La questione viene quindi risolta ancora una volta sul campo di battaglia.",
+      "it": "Secondo la leggenda, Llymlaen rinchiuse un serpente gigante da Lei Stessa creato in Swallowtail Roam, un'isola errante che i malintenzionati non avrebbero mai trovato. Quando fu scoperto lo Scoglio delle Foche, molti pensarono che fosse la stessa isola, ma la sua vera natura rimase ignota fino alla Calamità. Tornate dopo la caduta di Dalamud, le forze alleate trovarono tomoliti Allagani pieni di conoscenze. Conclusero che l'intera isola era una costruzione Allagana, un campo di prova per Omega e altre tecnologie sviluppate contro i Primali. Come a Carteneau, il controllo dell'isola e delle sue risorse è conteso e i negoziati pacifici sono falliti. La questione viene quindi risolta ancora una volta sul campo di battaglia.",
       "protect": false,
       "note": "Decisione dell'utente del 13 novembre 2026: toponimo canonico «Scoglio delle Foche» per tutte le occorrenze pertinenti; riferimento DescriptionString#289; sorgente EN/hash verificati."
     },

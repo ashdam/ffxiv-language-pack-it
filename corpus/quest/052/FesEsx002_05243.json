@@ -77,6 +77,6 @@
     { "gameKey": "quest/052/FesEsx002_05243#TEXT_FESESX002_05243_NONOTTA_000_190", "hash": "74DFD86690FBFB2B", "target": "Senza <if(gnum4,la nostra abile avventuriera,il nostro abile avventuriero)> non ce l'avrei fatta! Ah, a proposito. Ho qualcosa per te, <split(<string(gstr1)>, ,1)>." },
     { "gameKey": "quest/052/FesEsx002_05243#TEXT_FESESX002_05243_NONOTTA_000_191", "hash": "288A89DB98751040", "target": "È il secondo parasole che ho mai fatto─dopo quello di Jihli, naturalmente. Mi sembrava giusto darlo a te." },
     { "gameKey": "quest/052/FesEsx002_05243#TEXT_FESESX002_05243_JIHLIALIAPOH_000_191", "hash": "0138BD57F0179FD9", "target": "Con le uova in aria per tutta la città, resta solo da godersi la festa. Il tuo lavoro sarà anche finito, <split(<string(gstr1)>, ,1)>, ma la Festa delle Uova di certo no!" },
-    { "gameKey": "quest/052/FesEsx002_05243#TEXT_FESESX002_05243_SYSTEM_000_200", "hash": "3D9C222711B14834", "target": "Hai sbloccato il minigioco Egg Hunter Riggy. Per giocare ai minigiochi, apri il Toy Chest in una qualsiasi camera di locanda." }
+    { "gameKey": "quest/052/FesEsx002_05243#TEXT_FESESX002_05243_SYSTEM_000_200", "hash": "3D9C222711B14834", "target": "Hai sbloccato il minigioco Egg Hunter Riggy. Per giocare ai minigiochi, apri il baule dei giocattoli in una qualsiasi camera di locanda." }
   ]
 }

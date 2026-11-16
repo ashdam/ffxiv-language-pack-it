@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/012/BanSyl107_01263#TEXT_BANSYL107_01263_SEQ_00", "hash": "CFA1249F8B5CD113", "target": "La presenza di visitatori sgraditi nella foresta mette Tonaxia a disagio." },
-    { "gameKey": "quest/012/BanSyl107_01263#TEXT_BANSYL107_01263_SEQ_01", "hash": "F05F1159686E44C3", "target": "I temibili soldati imperiali, che le Silfidi chiamano «quelli d'acciaio», si aggirano per la foresta e Tonaxia teme per la sicurezza del suo popolo. Ti affida armi da lancio improvvisate, capaci di sprigionare un odore nauseabondo, e ti chiede di scacciare gli intrusi." },
-    { "gameKey": "quest/012/BanSyl107_01263#TEXT_BANSYL107_01263_SEQ_02", "hash": "CD0F0E8E31597D4D", "target": "Hai affrontato la minaccia garleana. Rassicura Tonaxia: i soldati imperiali non disturberanno più il suo popolo." },
+    { "gameKey": "quest/012/BanSyl107_01263#TEXT_BANSYL107_01263_SEQ_01", "hash": "F05F1159686E44C3", "target": "I temibili soldati imperiali, che le silfidi chiamano «quelli d'acciaio», si aggirano per la foresta e Tonaxia teme per la sicurezza del suo popolo. Ti affida armi da lancio improvvisate, capaci di sprigionare un odore nauseabondo, e ti chiede di scacciare gli intrusi." },
+    { "gameKey": "quest/012/BanSyl107_01263#TEXT_BANSYL107_01263_SEQ_02", "hash": "CD0F0E8E31597D4D", "target": "Hai affrontato la minaccia Garleana. Rassicura Tonaxia: i soldati imperiali non disturberanno più il suo popolo." },
     { "gameKey": "quest/012/BanSyl107_01263#TEXT_BANSYL107_01263_SEQ_03", "hash": "18EA3CCE26D9CC88", "target": "Tonaxia è profondamente colpita dalla tua forza e dal tuo altruismo. Versa una lacrima per gli amici già perduti a causa dei Garleani e delle loro terribili armi, ma è comunque rincuorata di sapere che, per il momento, il pericolo è passato." },
     { "gameKey": "quest/012/BanSyl107_01263#TEXT_BANSYL107_01263_TODO_00", "hash": "DEC43E7D9D36AEB2", "target": "<if([lnum1<lnum3],Usa le bombe biliari morbol sui soldati imperiali e sconfiggi gli eventuali rinforzi.,Usa una bomba biliare morbol sull'ultimo soldato imperiale e sconfiggi gli eventuali rinforzi.)>" },
     { "gameKey": "quest/012/BanSyl107_01263#TEXT_BANSYL107_01263_TODO_01", "hash": "6F9DE083EE639352", "target": "Fai rapporto a Tonaxia" },
@@ -19,7 +19,7 @@
     { "gameKey": "quest/012/BanSyl107_01263#TEXT_BANSYL107_01263_IMPERIALD_000_018", "hash": "FB7F94B4FBB0093F", "target": "Ah, ieri sera ho bevuto sbobba peggiore di questa! Non ne uscirai <if(gnum4,viva,vivo)>!" },
     { "gameKey": "quest/012/BanSyl107_01263#TEXT_BANSYL107_01263_TONAXIA_000_020", "hash": "BA2BF37DB5D887D8", "target": "Quelli d'acciaio se ne sono andati dalla foresta? Questa qui non sa come esprimere la gratitudine!" },
     { "gameKey": "quest/012/BanSyl107_01263#TEXT_BANSYL107_01263_TONAXIA_000_021", "hash": "AA96509AE1F94653", "target": "Quello d'acciaio ha portato quello gigante e spinoso? Questa qui ha perso molti amici per colpa di quelli lì. Questa qui ha paura." },
-    { "gameKey": "quest/012/BanSyl107_01263#TEXT_BANSYL107_01263_TONAXIA_000_022", "hash": "86A3F51F6C14FE71", "target": "Questa qui è fortunata ad avere <if(gnum4,un'amica forte,un amico forte)> come te. Promettile che resterai qui a proteggere questi qui!" },
+    { "gameKey": "quest/012/BanSyl107_01263#TEXT_BANSYL107_01263_TONAXIA_000_022", "hash": "86A3F51F6C14FE71", "target": "Questa qui è fortunata ad avere <if(gnum4,un'amica forte,un amico forte)> come <if(gnum4,la camminante,il camminante)>. Promettile che resterai qui a proteggere questi qui!" },
     { "gameKey": "quest/012/BanSyl107_01263#TEXT_BANSYL107_01263_POP_MESSAGE", "hash": "176A49648B373785", "target": "Il soldato imperiale ha evocato un'avanguardia magitec!" },
     { "gameKey": "quest/012/BanSyl107_01263#TEXT_BANSYL107_01263_POP_MESSAGE_000_000", "hash": "9F6C90C50B69FA2C", "target": "Il nemico è ancora nei paraggi!" }
   ]

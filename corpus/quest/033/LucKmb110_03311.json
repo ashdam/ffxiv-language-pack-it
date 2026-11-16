@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/033/LucKmb110_03311#TEXT_LUCKMB110_03311_SEQ_00", "hash": "AEB37A5437D05505", "target": "Urianger ti fissa intensamente." },
-    { "gameKey": "quest/033/LucKmb110_03311#TEXT_LUCKMB110_03311_TODO_00", "hash": "B114D09558538033", "target": "Usa la scatola sharlayana per catturare una libellula indebolita" },
+    { "gameKey": "quest/033/LucKmb110_03311#TEXT_LUCKMB110_03311_TODO_00", "hash": "B114D09558538033", "target": "Usa la scatola Sharlayana per catturare una libellula indebolita" },
     { "gameKey": "quest/033/LucKmb110_03311#TEXT_LUCKMB110_03311_TODO_01", "hash": "D1ACC8D1C30640D0", "target": "Consegna la libellula nella scatola a Urianger" },
     { "gameKey": "quest/033/LucKmb110_03311#TEXT_LUCKMB110_03311_TODO_02", "hash": "30F8A6EF7B9C0F30", "target": "Parla con Sul Uin" },
     { "gameKey": "quest/033/LucKmb110_03311#TEXT_LUCKMB110_03311_ALPHINAUD_000_000", "hash": "868C56BBC2FD1BCB", "target": "Per ora va tutto bene... ma non si può sapere che genere di giochi escogiteranno i pixie." },
@@ -37,7 +37,7 @@
     { "gameKey": "quest/033/LucKmb110_03311#TEXT_LUCKMB110_03311_ALISAIE_000_065", "hash": "8EB8D6E27CE2E248", "target": "Ahah, grazie agli dèi <if(gnum4,sei arrivata,sei arrivato)> in tempo! Se avessi tardato ancora, non credo che avrei mai superato la vergogna!" },
     { "gameKey": "quest/033/LucKmb110_03311#TEXT_LUCKMB110_03311_THANCRED_000_070", "hash": "FD4B1A9454246139", "target": "Quando avrai un momento, ricordati di mostrare la tua gratitudine ai gemelli. Hanno sopportato parecchio per il nostro bene..." },
     { "gameKey": "quest/033/LucKmb110_03311#TEXT_LUCKMB110_03311_RYNE_000_075", "hash": "F70309E30F6085B1", "target": "Non oso chiedere cosa sia successo in nostra assenza..." },
-    { "gameKey": "quest/033/LucKmb110_03311#TEXT_LUCKMB110_03311_URIANGER_000_080", "hash": "7CADA15F06ADB4C9", "target": "Per quanto desideri assaporare il ricongiungimento con il signor Alphinaud e madamigella Alisaie, dovrà attendere. Mi sono preso la libertà di presentare i nostri doni ai pixie. Vediamo quanto saranno graditi." },
+    { "gameKey": "quest/033/LucKmb110_03311#TEXT_LUCKMB110_03311_URIANGER_000_080", "hash": "7CADA15F06ADB4C9", "target": "Per quanto desideri assaporare il ricongiungimento con il Signor Alphinaud e madamigella Alisaie, dovrà attendere. Mi sono preso la libertà di presentare i nostri doni ai pixie. Vediamo quanto saranno graditi." },
     { "gameKey": "quest/033/LucKmb110_03311#TEXT_LUCKMB110_03311_SULUIN_000_090", "hash": "B3100236446A9BD9", "target": "Non ci aspettavamo che tornaste tutti così presto. Avevamo appena cominciato a giocare con i gemelli..." },
     { "gameKey": "quest/033/LucKmb110_03311#TEXT_LUCKMB110_03311_SULUIN_000_091", "hash": "2F1DBED7F708A2FC", "target": "Comunque, i vostri doni sono davvero meravigliosi! Te lo dico io: latte, miele e biscotti non dureranno neppure un giorno, e sono le ali più belle che abbiamo mai visto!" },
     { "gameKey": "quest/033/LucKmb110_03311#TEXT_LUCKMB110_03311_SULUIN_000_092", "hash": "2DAFFDEB99D52524", "target": "Ci avete fatto un grande favore, e l'usanza fatata impone di ricambiarlo. Se desiderate qualcosa da noi, basta dirlo!" }

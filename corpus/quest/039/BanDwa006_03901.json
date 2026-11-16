@@ -118,7 +118,7 @@
     { "gameKey": "quest/039/BanDwa006_03901#TEXT_BANDWA006_03901_RONITT_000_199", "hash": "7437002B102E8335", "target": "Ma so che non lo fai per rubarmi la scena: vuoi solo dimostrarti <if(gnum4,una buona amica,un buon amico)>. E lo sei. <if(gnum4,La migliore,Il migliore)>." },
     { "gameKey": "quest/039/BanDwa006_03901#TEXT_BANDWA006_03901_RONITT_000_200", "hash": "8C0CFBD95969DA09", "target": "Maledizione, continua così e piangerò come un neonato! Comunque, la fatica per costruire quei carri sarà finita, ma io, Ozogg e gli altri resteremo qui." },
     { "gameKey": "quest/039/BanDwa006_03901#TEXT_BANDWA006_03901_RONITT_000_201", "hash": "822CE8D77D4EA64B", "target": "Quindi, se vuoi sfoggiare le tue capacità, sai dove venire. Nel frattempo, buona fortuna a salvare il mondo o qualunque altra cosa farai!" },
-    { "gameKey": "quest/039/BanDwa006_03901#TEXT_BANDWA006_03901_SYSTEM_000_210", "hash": "E907B38EDD49CFE0", "target": "Hai raggiunto la reputazione <colortype(500)><edgecolortype(501)>Bloodsworn<edgecolortype(0)><colortype(0)> presso l'Incudine di Watts." },
+    { "gameKey": "quest/039/BanDwa006_03901#TEXT_BANDWA006_03901_SYSTEM_000_210", "hash": "E907B38EDD49CFE0", "target": "Hai raggiunto la reputazione <colortype(500)><edgecolortype(501)>Patto di Sangue<edgecolortype(0)><colortype(0)> presso l'Incudine di Watts." },
     { "gameKey": "quest/039/BanDwa006_03901#TEXT_BANDWA006_03901_SYSTEM_000_211", "hash": "61645870A61E2870", "target": "Riceverai un bonus di punti esperienza completando le missioni giornaliere della società dei nani." }
   ]
 }

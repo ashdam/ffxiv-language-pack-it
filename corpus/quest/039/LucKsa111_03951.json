@@ -13,7 +13,7 @@
     { "gameKey": "quest/039/LucKsa111_03951#TEXT_LUCKSA111_03951_SYSTEM_100_000", "hash": "5CA45B07D43C9C99", "target": "Per proseguire questa missione è richiesto un grado della Resistenza di <num(lnum1)>." },
     { "gameKey": "quest/039/LucKsa111_03951#TEXT_LUCKSA111_03951_BAISHAEN_000_000", "hash": "143F43E0869F0743", "target": "È giunto il momento, <split(<string(gstr1)>, ,1)>. Oggi conquisteremo Castrum Lacus Litore!" },
     { "gameKey": "quest/039/LucKsa111_03951#TEXT_LUCKSA111_03951_BAISHAEN_000_001", "hash": "02B5EDD1D4069D86", "target": "A nome della Resistenza, vi porgo i miei più umili ringraziamenti. Non saremmo arrivati fin qui senza il vostro aiuto." },
-    { "gameKey": "quest/039/LucKsa111_03951#TEXT_LUCKSA111_03951_BAISHAEN_000_002", "hash": "F6C2F61868C6D92E", "target": "Che ne dite, <if(gnum4,amica mia,amico mio)>? Siete <if(gnum4,pronta,pronto)> a mettere in rotta i garleani?" },
+    { "gameKey": "quest/039/LucKsa111_03951#TEXT_LUCKSA111_03951_BAISHAEN_000_002", "hash": "F6C2F61868C6D92E", "target": "Che ne dite, <if(gnum4,amica mia,amico mio)>? Siete <if(gnum4,pronta,pronto)> a mettere in rotta i Garleani?" },
     { "gameKey": "quest/039/LucKsa111_03951#TEXT_LUCKSA111_03951_Q1_000_100", "hash": "653F8272BC8D43CA", "target": "Che cosa dirai?" },
     { "gameKey": "quest/039/LucKsa111_03951#TEXT_LUCKSA111_03951_A1_000_100", "hash": "6FA6D5ABDF427CB2", "target": "Non potreste fermarmi neanche volendo." },
     { "gameKey": "quest/039/LucKsa111_03951#TEXT_LUCKSA111_03951_A2_000_100", "hash": "39BA3F23882EE94B", "target": "Sembra che abbiate tutto sotto controllo, ma se insistete." },

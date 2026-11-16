@@ -2,9 +2,9 @@
   "conversation": "cut_scene/060/VoiceMan_06004",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "cut_scene/060/VoiceMan_06004#TEXT_VOICEMAN_06004_000010_VOICEGUIDE", "hash": "96AB614B1DD18577", "target": "(-Allagan Console-)Autenticazione biometrica completata. Dichiari lo scopo della sua visita." },
-    { "gameKey": "cut_scene/060/VoiceMan_06004#TEXT_VOICEMAN_06004_000020_VOICEGUIDE", "hash": "19916CBD7EBB1A8E", "target": "(-Allagan Console-)Ricevuto. Reinizializzazione dei sistemi della Torre di Syrcus. Ricerca dell'entità «Elidibus»..." },
-    { "gameKey": "cut_scene/060/VoiceMan_06004#TEXT_VOICEMAN_06004_000030_VOICEGUIDE", "hash": "C8D536EB6024B441", "target": "(-Allagan Console-)Bersaglio localizzato nell'accumulatore energetico del nucleo sotterraneo. Proiezione dell'immagine." },
+    { "gameKey": "cut_scene/060/VoiceMan_06004#TEXT_VOICEMAN_06004_000010_VOICEGUIDE", "hash": "96AB614B1DD18577", "target": "(-Console Allagana-)Autenticazione biometrica completata. Indicare lo scopo della visita." },
+    { "gameKey": "cut_scene/060/VoiceMan_06004#TEXT_VOICEMAN_06004_000020_VOICEGUIDE", "hash": "19916CBD7EBB1A8E", "target": "(-Console Allagana-)Ricevuto. Reinizializzazione dei sistemi della Torre di Syrcus. Ricerca dell'entità «Elidibus»..." },
+    { "gameKey": "cut_scene/060/VoiceMan_06004#TEXT_VOICEMAN_06004_000030_VOICEGUIDE", "hash": "C8D536EB6024B441", "target": "(-Console Allagana-)Bersaglio localizzato nell'accumulatore energetico del nucleo sotterraneo. Proiezione dell'immagine." },
     { "gameKey": "cut_scene/060/VoiceMan_06004#TEXT_VOICEMAN_06004_000040_ELIDIBUS", "hash": "3B494F8423CA6EA7", "target": "La mia casa... I miei amici... Nient'altro che un sogno..." },
     { "gameKey": "cut_scene/060/VoiceMan_06004#TEXT_VOICEMAN_06004_000050_ELIDIBUS", "hash": "5EE670AC8064966D", "target": "Tu... Perché mi hai risvegliato?" },
     { "gameKey": "cut_scene/060/VoiceMan_06004#TEXT_VOICEMAN_06004_000060_ELIDIBUS", "hash": "018345E4E669ABA3", "target": "Non percepisco più quei luoghi remoti... né il Signore Zodiark. Devi spiegarmi tutto." },

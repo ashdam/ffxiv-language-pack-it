@@ -19,7 +19,7 @@
     { "gameKey": "quest/050/KinGza003_05019#TEXT_KINGZA003_05019_TACOSCHEF05019_000_030", "hash": "1081ABC9D80EBB4C", "target": "L'hai trovata! Grazie agli dèi. Non so che cosa avrei fatto se i miei ricettari fossero rimasti sul molo a Limsa Lominsa." },
     { "gameKey": "quest/050/KinGza003_05019#TEXT_KINGZA003_05019_TACOSCHEF05019_100_030", "hash": "1DDEC5FB07CAAD54", "target": "Che fortuna aver attirato l'attenzione di un marinaio tanto disponibile." },
     { "gameKey": "quest/050/KinGza003_05019#TEXT_KINGZA003_05019_TACOSCHEF05019_000_031", "hash": "BFDC0C91209B4F16", "target": "Aspetta, come sarebbe che non fai parte dell'equipaggio!? Pensavo fossi <if(gnum4,arrivata,arrivato)> in porto con i miei libri!" },
-    { "gameKey": "quest/050/KinGza003_05019#TEXT_KINGZA003_05019_TACOSCHEF05019_000_032", "hash": "19C6276F94A6FFFD", "target": "Il nostro chiosco di taco attira molti turisti, così ho pensato di importare dei ricettari dalla vostra capitale culinaria e aggiornarmi sulla cultura gastronomica straniera. Chissà, uno di questi giorni potrei inventare un taco in stile eorzeano!" },
+    { "gameKey": "quest/050/KinGza003_05019#TEXT_KINGZA003_05019_TACOSCHEF05019_000_032", "hash": "19C6276F94A6FFFD", "target": "Il nostro chiosco di taco attira molti turisti, così ho pensato di importare dei ricettari dalla vostra capitale culinaria e aggiornarmi sulla cultura gastronomica straniera. Chissà, uno di questi giorni potrei inventare un taco in stile Eorzeano!" },
     { "gameKey": "quest/050/KinGza003_05019#TEXT_KINGZA003_05019_TACOSCHEF05019_000_033", "hash": "BCF965D7088F6B46", "target": "Comunque, scusami per l'equivoco! Come compenso, prendi questi taco appena preparati, offerti dalla casa!" }
   ]
 }

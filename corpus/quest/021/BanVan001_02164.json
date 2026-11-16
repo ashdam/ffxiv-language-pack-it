@@ -90,7 +90,7 @@
     { "gameKey": "quest/021/BanVan001_02164#TEXT_BANVAN001_02164_LINUVALI_000_124", "hash": "AD91E48560C1AFD0", "target": "Il villaggio ha nome e ora non resta che cominciare a costruirlo! <split(<string(gstr1)>, ,1)>, parla con Muna Vanu per sapere di cosa abbiamo bisogno." },
     { "gameKey": "quest/021/BanVan001_02164#TEXT_BANVAN001_02164_LINUVALI_000_125", "hash": "9718A4D83E57B6B7", "target": "Il cuore si riempie di delusione, ma Linu comprende. Il nostro tempo insieme finisce qui, eppure Linu augura a chi viene da sotto ogni fortuna." },
     { "gameKey": "quest/021/BanVan001_02164#TEXT_BANVAN001_02164_SYSTEM_000_150", "hash": "999C79EA9B5E8BF1", "target": "Linu Vali e gli altri Gundu hanno iniziato a sviluppare Ok' Gundu Nakki!" },
-    { "gameKey": "quest/021/BanVan001_02164#TEXT_BANVAN001_02164_SYSTEM_000_200", "hash": "7CF261EA5B9FF8FA", "target": "La tua reputazione presso i Gundu ha raggiunto il rango <colortype(500)><edgecolortype(501)>Neutral<edgecolortype(0)><colortype(0)>." },
+    { "gameKey": "quest/021/BanVan001_02164#TEXT_BANVAN001_02164_SYSTEM_000_200", "hash": "7CF261EA5B9FF8FA", "target": "La tua reputazione presso i Gundu ha raggiunto il rango <colortype(500)><edgecolortype(501)>Neutrale<edgecolortype(0)><colortype(0)>." },
     { "gameKey": "quest/021/BanVan001_02164#TEXT_BANVAN001_02164_SYSTEM_000_201", "hash": "1B0FA69F7382E07E", "target": "Ora puoi accettare le missioni della società dei Vanu Vanu da Muna Vanu a Ok' Gundu Nakki." }
   ]
 }

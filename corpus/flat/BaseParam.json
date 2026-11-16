@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "BaseParam#1.1", "hash": "7DB526A2B9309F46", "target": "Forza" },
-    { "gameKey": "BaseParam#1.2", "hash": "33B3502FF4EDCBE6", "target": "Influisce sui danni fisici inflitti dalle armi da Gladiatore, Incursore, Cavaliere Oscuro, Eterlama, Pugile, Lanciere, Samurai, Mietitore, Domatore, Taumaturgo, Arcanista, Mago Rosso, Pittomante, Mago Blu, Incantatore, Astrologo e Saggio." },
+    { "gameKey": "BaseParam#1.2", "hash": "33B3502FF4EDCBE6", "target": "Influisce sui danni fisici inflitti dalle armi da Gladiatore, Incursore, Cavaliere Oscuro, Eterlama, Pugile, lanciere, Samurai, Mietitore, Domatore, Taumaturgo, Arcanista, Mago Rosso, Pittomante, Mago Blu, incantatore, Astrologo e Saggio." },
     { "gameKey": "BaseParam#2.1", "hash": "F9120B2CB9CBF2E0", "target": "Destrezza" },
     { "gameKey": "BaseParam#2.2", "hash": "459FFC6F090C8E57", "target": "Influisce sui danni fisici inflitti dalle armi da Furfante, Vipera, Arciere, Artificiere e Danzatore." },
     { "gameKey": "BaseParam#3.1", "hash": "7A6405DF271BAF54", "target": "Vitalità" },

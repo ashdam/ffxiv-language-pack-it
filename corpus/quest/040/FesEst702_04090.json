@@ -71,7 +71,7 @@
     { "gameKey": "quest/040/FesEst702_04090#TEXT_FESEST702_04090_BADERON_000_035", "hash": "9A129E3DD388C223", "target": "Non tenerteli tutti per te, eh! Prima di tornare a Limsa Lominsa ho tempo per un boccone e una tazza del miglior tè di Madre Miounne." },
     { "gameKey": "quest/040/FesEst702_04090#TEXT_FESEST702_04090_MOMODI_000_036", "hash": "9462A711F6B0F14A", "target": "Mi sembra un'ottima idea. Contate su di me!" },
     { "gameKey": "quest/040/FesEst702_04090#TEXT_FESEST702_04090_BADERON_000_037", "hash": "52508C99B94E3BCB", "target": "Ma guarda che bellezza delicata! Dove la metto al sicuro? Alla Fanciulla non durerebbe due giorni, coi miei clienti abituali che si reggono a malapena in piedi..." },
-    { "gameKey": "quest/040/FesEst702_04090#TEXT_FESEST702_04090_MIOUNNE_000_038", "hash": "3187C49538401857", "target": "Bene, è ora di andare e lasciarti al tuo lavoro. Vieni a trovarci alla Volta quando gli impegni te lo permettono!" },
+    { "gameKey": "quest/040/FesEst702_04090#TEXT_FESEST702_04090_MIOUNNE_000_038", "hash": "3187C49538401857", "target": "Bene, è ora di andare e lasciarti al tuo lavoro. Vieni a trovarci al Baldacchino quando gli impegni te lo permettono!" },
     { "gameKey": "quest/040/FesEst702_04090#TEXT_FESEST702_04090_KURENAI_000_040", "hash": "0E6E6D429FFDC4BA", "target": "<split(<string(gstr1)>, ,1)>! Anche voi partecipate a questa curiosa festa? Confesso che trovo piuttosto strano parlarvi così, lontano dal Mare di Rubino." },
     { "gameKey": "quest/040/FesEst702_04090#TEXT_FESEST702_04090_SANANA_000_041", "hash": "B6771615D93CA721", "target": "Quando ho detto che venivo da queste parti a studiare i prezzi, Sua Altezza qui mi ha informata, bada bene, mica chiesto, che mi avrebbe accompagnata per «conoscere meglio il mondo esterno». Fammi un favore e non dirlo a Shiosai, d'accordo?" },
     { "gameKey": "quest/040/FesEst702_04090#TEXT_FESEST702_04090_KURENAI_000_042", "hash": "5A3150551642E217", "target": "Dite che riceveremo una ricompensa? Pensavo che partecipare al rito di dipingere le uova fosse già una ricompensa sufficiente, e ora mi offrite dei doni. Sono commossa dalla vostra generosità!" },
@@ -107,6 +107,6 @@
     { "gameKey": "quest/040/FesEst702_04090#TEXT_FESEST702_04090_JIHLIALIAPOH_000_106", "hash": "9531AB71DF9750FC", "target": "E dopo tutto quello che hai fatto, meriti proprio di andare a godertelo!" },
     { "gameKey": "quest/040/FesEst702_04090#TEXT_FESEST702_04090_SYSTEM_100_106", "hash": "D003A060B26FBA7B", "target": "Parla con Nonotta se vuoi ripetere la distribuzione dei doni della missione «Un gruzzolo da pollaio»." },
     { "gameKey": "quest/040/FesEst702_04090#TEXT_FESEST702_04090_SYSTEM_000_107", "hash": "903BEB360F7C490B", "target": "Puoi anche ripetere il FATE «An Eggsistential Threat» parlando con Pawlin al Vivaio Granterriccio." },
-    { "gameKey": "quest/040/FesEst702_04090#TEXT_FESEST702_04090_SYSTEM_100_107", "hash": "7D458D0EBA23A944", "target": "Hai sbloccato il minigioco Egg Hunter Riggy. Per giocare ai minigiochi, apri il Toy Chest in una qualsiasi camera di locanda." }
+    { "gameKey": "quest/040/FesEst702_04090#TEXT_FESEST702_04090_SYSTEM_100_107", "hash": "7D458D0EBA23A944", "target": "Hai sbloccato il minigioco Egg Hunter Riggy. Per giocare ai minigiochi, apri il baule dei giocattoli in una qualsiasi camera di locanda." }
   ]
 }

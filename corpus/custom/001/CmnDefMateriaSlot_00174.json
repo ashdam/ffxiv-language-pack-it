@@ -2,12 +2,12 @@
   "conversation": "custom/001/CmnDefMateriaSlot_00174",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/CmnDefMateriaSlot_00174#TEXT_CMNDEFMATERIASLOT_00174_MUTAMIX_000_000", "hash": "AB76B2073D465146", "target": "Pshhh... Shkohhh...<br>Il Nongobbo chiede a Mutamix di fare cambiaforma? Allora il Nongobbo deve passargli in mano cinque materie nonserve." },
+    { "gameKey": "custom/001/CmnDefMateriaSlot_00174#TEXT_CMNDEFMATERIASLOT_00174_MUTAMIX_000_000", "hash": "AB76B2073D465146", "target": "Pshhh... Shkohhh...<br><if(gnum4,La Nongobba,Il Nongobbo)> chiede a Mutamix di fare cambiaforma? Allora <if(gnum4,la Nongobba,il Nongobbo)> deve passargli in mano cinque materie nonserve." },
     { "gameKey": "custom/001/CmnDefMateriaSlot_00174#TEXT_CMNDEFMATERIASLOT_00174_MUTAMIX_000_020", "hash": "65CAE6EDB09BAC13", "target": "Mescolafondi, fondimescola, schiaccia e strizza, strizza e schiaccia..." },
     { "gameKey": "custom/001/CmnDefMateriaSlot_00174#TEXT_CMNDEFMATERIASLOT_00174_MUTAMIX_000_030", "hash": "C371517367D0DEE2", "target": "Occhioni! Cinque nonserve rinascono in una sola!" },
     { "gameKey": "custom/001/CmnDefMateriaSlot_00174#TEXT_CMNDEFMATERIASLOT_00174_MUTAMIX_000_035", "hash": "D0FC1DF82D93A000", "target": "Occhionissimi! Shkohhh... Mutamix ci vede davvero!?" },
-    { "gameKey": "custom/001/CmnDefMateriaSlot_00174#TEXT_CMNDEFMATERIASLOT_00174_MUTAMIX_000_040", "hash": "C20F70EE2B1A46B8", "target": "La materia rinata brilla di tanto chiaroluccichio. Per il Nongobbo, questo è un giornofelice!" },
-    { "gameKey": "custom/001/CmnDefMateriaSlot_00174#TEXT_CMNDEFMATERIASLOT_00174_MUTAMIX_000_050", "hash": "81502C38DBC769C4", "target": "Il cambiaforma è un emozionante giocoazzardo, sì? Nemmeno Mutamix ha saperi su che materia rinascerà! Il cuore del Nongobbo non fa tutto sfarfalladanza?" },
-    { "gameKey": "custom/001/CmnDefMateriaSlot_00174#TEXT_CMNDEFMATERIASLOT_00174_MUTAMIX_000_070", "hash": "3A908F704693309F", "target": "Shkohhh? La borsa del Nongobbo è strapiena! Mutamix non può fare cambiaforma se il Nongobbo non può portare la materia rinata!" }
+    { "gameKey": "custom/001/CmnDefMateriaSlot_00174#TEXT_CMNDEFMATERIASLOT_00174_MUTAMIX_000_040", "hash": "C20F70EE2B1A46B8", "target": "La materia rinata brilla di tanto chiaroluccichio. Per <if(gnum4,la Nongobba,il Nongobbo)>, questo è un giornofelice!" },
+    { "gameKey": "custom/001/CmnDefMateriaSlot_00174#TEXT_CMNDEFMATERIASLOT_00174_MUTAMIX_000_050", "hash": "81502C38DBC769C4", "target": "Il cambiaforma è un emozionante giocoazzardo, sì? Nemmeno Mutamix ha saperi su che materia rinascerà! Il cuore <if(gnum4,della Nongobba,del Nongobbo)> non fa tutto sfarfalladanza?" },
+    { "gameKey": "custom/001/CmnDefMateriaSlot_00174#TEXT_CMNDEFMATERIASLOT_00174_MUTAMIX_000_070", "hash": "3A908F704693309F", "target": "Shkohhh? La borsa <if(gnum4,della Nongobba,del Nongobbo)> è strapiena! Mutamix non può fare cambiaforma se <if(gnum4,la Nongobba,il Nongobbo)> non può portare la materia rinata!" }
   ]
 }

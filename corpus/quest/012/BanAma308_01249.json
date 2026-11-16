@@ -13,7 +13,7 @@
     { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_YADOVVGAH_000_000", "hash": "FE965E3F5AE68496", "target": "La Confraternita prospera e le Zanne di Fuoco tremano. Condividi la nostra gloria, <if(gnum4,stimata alleata,stimato alleato)>, perché molto hai fatto per la nostra causa." },
     { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_YADOVVGAH_000_001", "hash": "6FF4974A8B1646D2", "target": "Ma condividi anche il nostro dolore, perché altri uomini e donne sono stati rapiti per ingrossare le file dei nemici." },
     { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_YADOVVGAH_000_002", "hash": "ED71DBB4602B57A4", "target": "Gli zeloti non attenderanno oltre. Se non agiamo, i prigionieri verranno presto asserviti." },
-    { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_YADOVVGAH_000_003", "hash": "E533666B2CFC3991", "target": "Segui le guardie che custodiscono le chiavi della gabbia, attendi il loro arrivo e sconfiggile senza rimorso!" },
+    { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_YADOVVGAH_000_003", "hash": "E533666B2CFC3991", "target": "Segui le guardie che custodiscono le chiavi della gabbia, attendi il loro arrivo e sconfiggile senza temere ritorsioni!" },
     { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_YADOVVGAH_000_004", "hash": "D215A5F9B17298A4", "target": "Poi affrettati a liberare i prigionieri. Non lasciare che le Zanne di Fuoco ti trattengano: ogni secondo è prezioso." },
     { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_YADOVVGAH_000_005", "hash": "678C8B80D346A31D", "target": "Questa volta servono sotterfugi, non spavalderia. Sfoga la tua sete di sangue un altro giorno." },
     { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_YADOVVGAH_000_010", "hash": "9288001E51E94C5D", "target": "Ricorda che il tempo è essenziale. Muoviti nell'ombra e colpisci solo quando serve. La salvezza dei prigionieri viene prima di tutto!" },
@@ -21,12 +21,12 @@
     { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_YADOVVGAH_000_021", "hash": "265C18065C935F9F", "target": "La codardia delle Zanne di Fuoco non conosce misura né perdono! Che si offrano volontariamente è patetico; che sacrifichino gli altri è ripugnante..." },
     { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_POP_MESSAGE", "hash": "3AD452B027D1D71E", "target": "La tua preda si avvicina..." },
     { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_POP_MESSAGE_000_000", "hash": "6F2E6B57DAC999CF", "target": "Il nemico è ancora nei paraggi!" },
-    { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_PRISONER_001", "hash": "51A4A1DECE994646", "target": "(-Relieved Captive-)G-grazie agli dèi, siete qui!" },
-    { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_PRISONER_002", "hash": "D001EAA2D3588414", "target": "(-Grateful Captive-)Che gli dèi vi benedicano, <if(gnum4,signorina,signore)>! Vi benedicano!" },
-    { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_PRISONER_003", "hash": "ED7AAE1FE6EE0320", "target": "(-Surprised Captive-)Io... non credevo che sarei mai... Grazie!" },
-    { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_PRISONER_004", "hash": "7242CA4054E1C734", "target": "(-Disheveled Captive-)Sono... sono libera? Davvero?" },
-    { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_PRISONER_005", "hash": "AD586C741DB56842", "target": "(-Impressed Captive-)Cosa!? Come diavolo hai... Bah, non c'è tempo!" },
-    { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_PRISONER_006", "hash": "3D5FF78EA206B571", "target": "(-Enraged Captive-)Li ammazzo tutti, lo giuro! Hanno fatto male a mettersi contro un abitante di Ala Mhigo!" },
-    { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_PRISONER_007", "hash": "1142224E3F3D0AC0", "target": "(-Disbelieving Captive-)È un sogno, vero? Non siete reale... o sì?" }
+    { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_PRISONER_001", "hash": "51A4A1DECE994646", "target": "(-Prigioniero sollevato-)G-grazie agli dèi, siete qui!" },
+    { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_PRISONER_002", "hash": "D001EAA2D3588414", "target": "(-Prigioniero riconoscente-)Che gli dèi vi benedicano, <if(gnum4,signorina,signore)>! Vi benedicano!" },
+    { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_PRISONER_003", "hash": "ED7AAE1FE6EE0320", "target": "(-Prigioniero sorpreso-)Io... non credevo che sarei mai... Grazie!" },
+    { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_PRISONER_004", "hash": "7242CA4054E1C734", "target": "(-Prigioniera scarmigliata-)Sono... sono libera? Davvero?" },
+    { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_PRISONER_005", "hash": "AD586C741DB56842", "target": "(-Prigioniera impressionata-)Cosa!? Come diavolo hai... Bah, non c'è tempo!" },
+    { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_PRISONER_006", "hash": "3D5FF78EA206B571", "target": "(-Prigioniero furioso-)Li ammazzo tutti, lo giuro! Hanno fatto male a mettersi contro un abitante di Ala Mhigo!" },
+    { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_PRISONER_007", "hash": "1142224E3F3D0AC0", "target": "(-Prigioniero incredulo-)È un sogno, vero? Non siete reale... o sì?" }
   ]
 }

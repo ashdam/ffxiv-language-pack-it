@@ -2,7 +2,7 @@
   "conversation": "custom/002/RegDra2Idyllshire_00289",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_IDYLLSHIREGUIDE_000_000", "hash": "0DE25EB585A6751C", "target": "Pshkohhh... Nongobbo ha domande? Cheepchix ha risposte!" },
+    { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_IDYLLSHIREGUIDE_000_000", "hash": "0DE25EB585A6751C", "target": "Pshkohhh... <if(gnum4,Nongobba,Nongobbo)> ha domande? Cheepchix ha risposte!" },
     { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_Q1_000_000", "hash": "FF8C93BC7A11E674", "target": "Cosa vuoi chiedere?" },
     { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_A1_000_001", "hash": "5D35725A3D451ED3", "target": "Di cosa ti occupi qui?" },
     { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_A1_000_002", "hash": "6FB342DB25C9870E", "target": "Che posto è questo?" },
