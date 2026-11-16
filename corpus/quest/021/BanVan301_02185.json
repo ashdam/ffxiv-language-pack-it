@@ -16,7 +16,7 @@
     { "gameKey": "quest/021/BanVan301_02185#TEXT_BANVAN301_02185_TODO_04", "hash": "33141AA9ECD9963C", "target": "Consegna i chiodi d'acciaio Ishgardiani a Ginu Vanu" },
     { "gameKey": "quest/021/BanVan301_02185#TEXT_BANVAN301_02185_MUNAVANU_000_000", "hash": "FDB3494C8935D73C", "target": "Ah, <split(<string(gstr1)>, ,1)>! Serve di nuovo il vostro aiuto. Ginu Vanu ha difficoltà con le capanne. Potreste chiedergli cosa rallenta il lavoro?" },
     { "gameKey": "quest/021/BanVan301_02185#TEXT_BANVAN301_02185_GINUVANU_000_010", "hash": "96D9C420E9DC08A8", "target": "Sì, la costruzione è troppo lenta. Ma i materiali sono terribili! Le pareti reggono con incastri e ossicini fragili, che si spezzano come rametti sotto un dhalmel. Servono buoni chiodi." },
-    { "gameKey": "quest/021/BanVan301_02185#TEXT_BANVAN301_02185_GINUVANU_000_011", "hash": "F4D9418F757CEFE7", "target": "I cavalieri di sotto fanno chiodi di metallo duro. Vuoi scambiare con loro? Ginu Vanu suggerisce carne di tsanahale." },
+    { "gameKey": "quest/021/BanVan301_02185#TEXT_BANVAN301_02185_GINUVANU_000_011", "hash": "F4D9418F757CEFE7", "target": "I cavalieri forestieri fanno chiodi di metallo duro. Vuoi scambiare con loro? Ginu Vanu suggerisce carne di tsanahale." },
     { "gameKey": "quest/021/BanVan301_02185#TEXT_BANVAN301_02185_GINUVANU_000_012", "hash": "3C2CD58B671FEE9D", "target": "Ma la carne si guasta in fretta. Il sapore svanisce in poche ore, come il fiore fugace dell'emerocallide. Devi cacciare tsanahale e consegnarli ancora freschi." },
     { "gameKey": "quest/021/BanVan301_02185#TEXT_BANVAN301_02185_GINUVANU_100_012", "hash": "24766B3E51507418", "target": "I più sani e deliziosi sono diffidenti. Per trovare le prede migliori serve una buona esca. A sud di Ok' Gundu Nakki ci sono wamoura, il loro spuntino preferito." },
     { "gameKey": "quest/021/BanVan301_02185#TEXT_BANVAN301_02185_GINUVANU_000_013", "hash": "3EBA8D18E008B586", "target": "Usa la carne di wamoura sull'isoletta che i cavalieri chiamano La Provenienza. Un tsanahale vale molto, ma con la carne di <italic(1)>due<italic(0)> non potranno rifiutare." },
@@ -29,6 +29,6 @@
     { "gameKey": "quest/021/BanVan301_02185#TEXT_BANVAN301_02185_FABRELLET_000_032", "hash": "6CE62C0EF48D4C62", "target": "Una pausa dalle carni salate di Ishgard è sempre gradita. Spero proprio che i Gundu scelgano di scambiare più spesso." },
     { "gameKey": "quest/021/BanVan301_02185#TEXT_BANVAN301_02185_GINUVANU_000_040", "hash": "FAF6AE564E473713", "target": "I cavalieri erano felici della carne? Hanno accettato di scambiarla con chiodi metallici?" },
     { "gameKey": "quest/021/BanVan301_02185#TEXT_BANVAN301_02185_GINUVANU_000_041", "hash": "5424968F83DA11C3", "target": "Oh! Ginu Vanu non ne aspettava tanti! Ora le capanne saranno forti come grandi querce, resistenti alle peggiori tempeste." },
-    { "gameKey": "quest/021/BanVan301_02185#TEXT_BANVAN301_02185_GINUVANU_000_042", "hash": "59E66434C04960F3", "target": "Grazie infinite. Se serviranno altre scorte, Ginu Vanu ricorderà quanto vale la carne di tsanahale per i cavalieri di sotto." }
+    { "gameKey": "quest/021/BanVan301_02185#TEXT_BANVAN301_02185_GINUVANU_000_042", "hash": "59E66434C04960F3", "target": "Grazie infinite. Se serviranno altre scorte, Ginu Vanu ricorderà quanto vale la carne di tsanahale per i cavalieri forestieri." }
   ]
 }

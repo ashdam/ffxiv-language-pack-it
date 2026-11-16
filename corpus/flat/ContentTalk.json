@@ -80,7 +80,7 @@
     { "gameKey": "ContentTalk#140", "hash": "E2E7A1DCF02DCDA7", "target": "Per gli dei, questo scontro passerà alla storia! Ho dovuto trattenermi dal gettarmi anch'io nella mischia!" },
     { "gameKey": "ContentTalk#141", "hash": "73C1AAEB032E215F", "target": "Procedere alla seconda fase?" },
     { "gameKey": "ContentTalk#142", "hash": "CB98A07E40677689", "target": "Procedere alla terza fase?" },
-    { "gameKey": "ContentTalk#143", "hash": "21DD83EC1B0DD3A1", "target": "<if(gnum4,Benvenuta,Benvenuto)> a Potanò, <if(gnum4,valorosa abitante,valoroso abitante)> del mondo di sotto. Prendi le uova di tuono. Posa le uova di tuono su un altare delle nubi e i venti ti avvolgeranno, portandoti più in profondità a Potanò. Ma bada, là ti attendono grandi pericoli." },
+    { "gameKey": "ContentTalk#143", "hash": "21DD83EC1B0DD3A1", "target": "<if(gnum4,Benvenuta,Benvenuto)> a Potanò, <if(gnum4,valorosa forestiera,valoroso forestiero)>. Prendi le uova di tuono. Posa le uova di tuono su un altare delle nubi e i venti ti avvolgeranno, portandoti più in profondità a Potanò. Ma bada, là ti attendono grandi pericoli." },
     { "gameKey": "ContentTalk#144", "hash": "6943D3D43895FBB7", "target": "Possiamo cominciare, allora?" },
     { "gameKey": "ContentTalk#145", "hash": "37261B46DEB672BC", "target": "Ecco il premio per aver completato l'esercizio! Ricordati di questo addestramento sul campo di battaglia!" },
     { "gameKey": "ContentTalk#146", "hash": "609D668F9AB81310", "target": "Dunque, possiamo iniziare l'addestramento?" },

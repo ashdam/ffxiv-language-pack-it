@@ -6845,10 +6845,15 @@
       "it": "Scuderie Sacre"
     },
     {
-      "it": "quelli di sotto",
+      "it": "forestieri",
       "en": "netherlings",
       "protect": false,
-      "note": "Vanu Vanu name for people from the ground."
+      "note": "Appellativo Vanu per gli stranieri al loro popolo; concordare genere e numero con il referente.",
+      "forms": [
+        "forestiero",
+        "forestiera",
+        "forestiere"
+      ]
     },
     {
       "en": "Dodo Consortium",
