@@ -1,7 +1,7 @@
 {
   "gameVersion": "2026.11.03.0000.0000",
-  "translated": 864246,
-  "total": 866593,
+  "translated": 864290,
+  "total": 866594,
   "percent": 99.7,
   "chars": 63104339,
   "unresolved": 5785,
@@ -9,7 +9,7 @@
     {
       "expansion": null,
       "content": "Interface menus",
-      "translated": 67683,
+      "translated": 67695,
       "total": 67712
     },
     {
@@ -21,7 +21,7 @@
     {
       "expansion": null,
       "content": "Internal UI catalogs",
-      "translated": 223,
+      "translated": 240,
       "total": 2365
     },
     {
@@ -39,8 +39,8 @@
     {
       "expansion": null,
       "content": "Tutorials and guides",
-      "translated": 3059,
-      "total": 3059
+      "translated": 3060,
+      "total": 3060
     },
     {
       "expansion": null,
@@ -63,7 +63,7 @@
     {
       "expansion": null,
       "content": "Chat and system messages",
-      "translated": 12891,
+      "translated": 12896,
       "total": 12966
     },
     {
@@ -75,13 +75,13 @@
     {
       "expansion": null,
       "content": "Dialogue and world lore",
-      "translated": 43219,
+      "translated": 43220,
       "total": 43220
     },
     {
       "expansion": null,
       "content": "Items",
-      "translated": 188765,
+      "translated": 188773,
       "total": 188773
     },
     {
@@ -132,7 +132,7 @@
       "expansion": null,
       "content": "No English to translate",
       "translated": 2569,
-      "total": 12710
+      "total": 12709
     },
     {
       "expansion": null,
@@ -25496,8 +25496,8 @@
       "sheets": [],
       "counts": {
         "total": 43220,
-        "translated": 43219,
-        "pending": 1,
+        "translated": 43220,
+        "pending": 0,
         "stale": 0,
         "excluded": 50,
         "excludedTranslated": 39,
@@ -25521,8 +25521,8 @@
           ],
           "counts": {
             "total": 43063,
-            "translated": 43062,
-            "pending": 1,
+            "translated": 43063,
+            "pending": 0,
             "stale": 0,
             "excluded": 46,
             "excludedTranslated": 35,
@@ -25628,8 +25628,8 @@
               "sheets": [],
               "counts": {
                 "total": 19030,
-                "translated": 19029,
-                "pending": 1,
+                "translated": 19030,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 3,
                 "excludedTranslated": 1,
@@ -27510,8 +27510,8 @@
       "sheets": [],
       "counts": {
         "total": 188773,
-        "translated": 188765,
-        "pending": 8,
+        "translated": 188773,
+        "pending": 0,
         "stale": 0,
         "excluded": 739,
         "excludedTranslated": 11,
@@ -27538,8 +27538,8 @@
           ],
           "counts": {
             "total": 188549,
-            "translated": 188541,
-            "pending": 8,
+            "translated": 188549,
+            "pending": 0,
             "stale": 0,
             "excluded": 739,
             "excludedTranslated": 11,
@@ -27740,8 +27740,8 @@
               "sheets": [],
               "counts": {
                 "total": 173464,
-                "translated": 173456,
-                "pending": 8,
+                "translated": 173464,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 707,
                 "excludedTranslated": 0,
@@ -28999,13 +28999,13 @@
                   "sheets": [],
                   "counts": {
                     "total": 15732,
-                    "translated": 15724,
-                    "pending": 8,
+                    "translated": 15732,
+                    "pending": 0,
                     "stale": 0,
                     "excluded": 0,
                     "excludedTranslated": 0,
                     "chars": 1005106,
-                    "percent": 99.9
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -31155,11 +31155,11 @@
       "value": null,
       "sheets": [],
       "counts": {
-        "total": 3059,
-        "translated": 3059,
+        "total": 3060,
+        "translated": 3060,
         "pending": 0,
         "stale": 0,
-        "excluded": 73,
+        "excluded": 72,
         "excludedTranslated": 3,
         "chars": 715654,
         "percent": 100
@@ -31187,11 +31187,11 @@
             "guidetitle"
           ],
           "counts": {
-            "total": 3059,
-            "translated": 3059,
+            "total": 3060,
+            "translated": 3060,
             "pending": 0,
             "stale": 0,
-            "excluded": 73,
+            "excluded": 72,
             "excludedTranslated": 3,
             "chars": 715654,
             "percent": 100
@@ -31348,11 +31348,11 @@
               "value": "GuideTitle",
               "sheets": [],
               "counts": {
-                "total": 1,
-                "translated": 1,
+                "total": 2,
+                "translated": 2,
                 "pending": 0,
                 "stale": 0,
-                "excluded": 1,
+                "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 17,
                 "percent": 100
@@ -31461,8 +31461,8 @@
       "sheets": [],
       "counts": {
         "total": 67712,
-        "translated": 67683,
-        "pending": 29,
+        "translated": 67695,
+        "pending": 17,
         "stale": 0,
         "excluded": 1308,
         "excludedTranslated": 349,
@@ -31923,8 +31923,8 @@
           ],
           "counts": {
             "total": 65779,
-            "translated": 65761,
-            "pending": 18,
+            "translated": 65773,
+            "pending": 6,
             "stale": 0,
             "excluded": 1241,
             "excludedTranslated": 323,
@@ -33830,13 +33830,13 @@
               "sheets": [],
               "counts": {
                 "total": 228,
-                "translated": 216,
-                "pending": 12,
+                "translated": 228,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 12931,
-                "percent": 94.7
+                "percent": 100
               },
               "children": []
             },
@@ -51708,13 +51708,13 @@
       "sheets": [],
       "counts": {
         "total": 12966,
-        "translated": 12891,
-        "pending": 75,
+        "translated": 12896,
+        "pending": 70,
         "stale": 0,
         "excluded": 912,
         "excludedTranslated": 79,
         "chars": 943527,
-        "percent": 99.4
+        "percent": 99.5
       },
       "children": [
         {
@@ -51735,8 +51735,8 @@
           ],
           "counts": {
             "total": 12335,
-            "translated": 12260,
-            "pending": 75,
+            "translated": 12265,
+            "pending": 70,
             "stale": 0,
             "excluded": 81,
             "excludedTranslated": 78,
@@ -51842,13 +51842,13 @@
               "sheets": [],
               "counts": {
                 "total": 8527,
-                "translated": 8522,
-                "pending": 5,
+                "translated": 8527,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 80,
                 "excludedTranslated": 77,
                 "chars": 663948,
-                "percent": 99.9
+                "percent": 100
               },
               "children": []
             },
@@ -53788,13 +53788,13 @@
   ],
   "internalUi": {
     "total": 2365,
-    "translated": 223,
-    "pending": 2142,
+    "translated": 240,
+    "pending": 2125,
     "stale": 0,
     "excluded": 48,
     "excludedTranslated": 0,
     "chars": 55965,
-    "percent": 9.4
+    "percent": 10.1
   },
   "futureLocalization": []
 }
