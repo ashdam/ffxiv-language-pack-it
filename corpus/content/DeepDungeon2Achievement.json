@@ -21,6 +21,6 @@
     { "gameKey": "content/DeepDungeon2Achievement#TEXT_DEEPDUNGEON2ACHIEVEMENT_DD2FORMERLEADER_000_060", "hash": "B52B06108115FEF9", "target": "Ma aspetta un momento, <if(gnum4,ragazza,ragazzo)>. Come pensi di portarlo se sei <if(gnum4,carica,carico)> come un chocobo da soma? Torna quando avrai alleggerito il tuo fardello!" },
     { "gameKey": "content/DeepDungeon2Achievement#TEXT_DEEPDUNGEON2ACHIEVEMENT_DD2FORMERLEADER_000_070", "hash": "4EB2F19024AD70C1", "target": "Non molti lo sanno, ma si dice che il grande Tenzen abbia scalato il Pilastro dei Cieli." },
     { "gameKey": "content/DeepDungeon2Achievement#TEXT_DEEPDUNGEON2ACHIEVEMENT_DD2FORMERLEADER_000_071", "hash": "899C2A0C9D5A2185", "target": "La cosa strana è che, pur avendo raggiunto il piano più alto, non riunì mai tutti e quattro i tesori." },
-    { "gameKey": "content/DeepDungeon2Achievement#TEXT_DEEPDUNGEON2ACHIEVEMENT_DD2FORMERLEADER_000_072", "hash": "3F559D0894B84151", "target": "Nessuno sa se abbia dovuto correre altrove ad abbattere qualche bestia immonda. Una cosa è certa: hai compiuto un'impresa in cui nemmeno il leggendario Tenzen era riuscito! Puoi andare a testa alta." }
+    { "gameKey": "content/DeepDungeon2Achievement#TEXT_DEEPDUNGEON2ACHIEVEMENT_DD2FORMERLEADER_000_072", "hash": "3F559D0894B84151", "target": "Nessuno sa se abbia dovuto correre altrove ad abbattere qualche bestia immonda. Una cosa è certa: hai compiuto un'impresa che nemmeno il leggendario Tenzen era riuscito a realizzare! Puoi andare a testa alta." }
   ]
 }

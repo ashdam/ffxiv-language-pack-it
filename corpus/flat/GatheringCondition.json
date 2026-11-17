@@ -21,6 +21,6 @@
     { "gameKey": "GatheringCondition#17", "hash": "3F6CCF78D6BCB5DC", "target": "Percezione <if(lnum2,≥,\\<)> <num(lnum1)>" },
     { "gameKey": "GatheringCondition#18", "hash": "B9DC41B72B0D5E5B", "target": "Richiesto: <sheet(Status,lnum1,0)>" },
     { "gameKey": "GatheringCondition#19", "hash": "150B33B9C965E2CB", "target": "PR Massimi ≥ <num(lnum1)>" },
-    { "gameKey": "GatheringCondition#20", "hash": "7BE42E284BF11FF2", "target": "<sheet(Item,lnum1,9)> <if(lnum2,Equipaggiato,Non equipaggiato)>" }
+    { "gameKey": "GatheringCondition#20", "hash": "7BE42E284BF11FF2", "target": "<sheet(Item,lnum1,9)> <if(lnum2,<if(<sheet(Item,lnum1,6)>,Equipaggiata,Equipaggiato)>,<if(<sheet(Item,lnum1,6)>,Non equipaggiata,Non equipaggiato)>)>" }
   ]
 }

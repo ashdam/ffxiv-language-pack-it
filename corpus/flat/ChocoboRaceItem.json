@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "ChocoboRaceItem#0.0", "hash": "A28C7CD016076D3B", "target": "Vuoto" },
     { "gameKey": "ChocoboRaceItem#0.1", "hash": "7574D2CF4A8CECC2", "target": "Il tuo chocobo non ha con sé oggetti da gara.<br>Apri uno scrigno lungo il percorso per ottenerne uno." },
-    { "gameKey": "ChocoboRaceItem#1.0", "hash": "9DEBAAD85F6D162B", "target": "Choco Pozione" },
+    { "gameKey": "ChocoboRaceItem#1.0", "hash": "9DEBAAD85F6D162B", "target": "Pozione Chocobo" },
     { "gameKey": "ChocoboRaceItem#1.1", "hash": "EDB205ACA182101F", "target": "Ripristina istantaneamente il 10% del vigore." },
     { "gameKey": "ChocoboRaceItem#2.0", "hash": "32E6B1F3D4CC4EA0", "target": "Compressa del Vigore" },
     { "gameKey": "ChocoboRaceItem#2.1", "hash": "5661B9FB9BCE831D", "target": "Impedisce la riduzione del vigore per 10 secondi. Se il vigore è a zero, ne ripristina una piccola quantità." },

@@ -22,6 +22,6 @@
     { "gameKey": "quest/015/HeaVna107_01586#TEXT_HEAVNA107_01586_YSAUDORE_100_014", "hash": "9C7A9320AE946F99", "target": "Ti auguro un ritorno rapido e sicuro al Nido del Falco. Porta i miei saluti a Ser Redwald." },
     { "gameKey": "quest/015/HeaVna107_01586#TEXT_HEAVNA107_01586_YSAUDORE_000_015", "hash": "E444425506A21198", "target": "Stretta anch'io tra picca e incudine─Oh, sei ancora qui! Ehm... Porta i miei più cordiali saluti a Ser Redwald... e nient'altro." },
     { "gameKey": "quest/015/HeaVna107_01586#TEXT_HEAVNA107_01586_REDWALD_000_020", "hash": "D5C266B66D11DF08", "target": "Devo elogiare il vostro spirito d'iniziativa, <if(gnum4,signora,signor)> <split(<string(gstr1)>, ,2)>. Rothe mi dice che avete lavorato molto." },
-    { "gameKey": "quest/015/HeaVna107_01586#TEXT_HEAVNA107_01586_REDWALD_000_021", "hash": "F8AB2973C2DA69E2", "target": "Purtroppo non abbiamo tempo di ringraziarvi a dovere. Ho un incarico per il quale intendo impiegare chiunque sia in forze─voi e lord Artoirel compresi." }
+    { "gameKey": "quest/015/HeaVna107_01586#TEXT_HEAVNA107_01586_REDWALD_000_021", "hash": "F8AB2973C2DA69E2", "target": "Purtroppo non abbiamo tempo di ringraziarvi a dovere. Ho un incarico per il quale intendo impiegare chiunque sia in forze─voi e Lord Artoirel compresi." }
   ]
 }

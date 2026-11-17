@@ -5,8 +5,8 @@
     { "gameKey": "custom/009/CtsXbmEntrance_00976#TEXT_CTSXBMENTRANCE_00976_Q1_000_000", "hash": "5169843DAF777A8D", "target": "Cosa vuoi fare?" },
     { "gameKey": "custom/009/CtsXbmEntrance_00976#TEXT_CTSXBMENTRANCE_00976_A1_000_001", "hash": "E37AA81C4DF6C3A2", "target": "Affrontare il Crogiolo degli Infrangibili." },
     { "gameKey": "custom/009/CtsXbmEntrance_00976#TEXT_CTSXBMENTRANCE_00976_A1_000_002", "hash": "944F2F4790D72077", "target": "Riprendere la prova." },
-    { "gameKey": "custom/009/CtsXbmEntrance_00976#TEXT_CTSXBMENTRANCE_00976_A1_000_003", "hash": "F171737FF56D22B4", "target": "Visualizzare il Bestiario del Maestro." },
-    { "gameKey": "custom/009/CtsXbmEntrance_00976#TEXT_CTSXBMENTRANCE_00976_A1_000_004", "hash": "F34FD8151C117B74", "target": "Visualizzare il Punteggio Classifica Crogiolo." },
+    { "gameKey": "custom/009/CtsXbmEntrance_00976#TEXT_CTSXBMENTRANCE_00976_A1_000_003", "hash": "F171737FF56D22B4", "target": "Visualizzare il Bestiario del Domatore." },
+    { "gameKey": "custom/009/CtsXbmEntrance_00976#TEXT_CTSXBMENTRANCE_00976_A1_000_004", "hash": "F34FD8151C117B74", "target": "Visualizzare il Punteggio di Classifica del Crogiolo." },
     { "gameKey": "custom/009/CtsXbmEntrance_00976#TEXT_CTSXBMENTRANCE_00976_A1_000_005", "hash": "15877FBF7AC4FC2C", "target": "Informarsi sul Crogiolo degli Infrangibili." },
     { "gameKey": "custom/009/CtsXbmEntrance_00976#TEXT_CTSXBMENTRANCE_00976_A1_000_006", "hash": "21F51C2112A76D66", "target": "Parlare con Lauda." },
     { "gameKey": "custom/009/CtsXbmEntrance_00976#TEXT_CTSXBMENTRANCE_00976_A1_000_010", "hash": "5C614384D922F92A", "target": "Niente." },
@@ -35,6 +35,6 @@
     { "gameKey": "custom/009/CtsXbmEntrance_00976#TEXT_CTSXBMENTRANCE_00976_LAUDA_000_075", "hash": "53E5D24AF392462D", "target": "Guttler e io siamo legati per sempre dal peccato, il nostro è un patto forgiato nel sangue... e ora anche nella fratellanza. Certe cicatrici non svaniscono mai, ma avere un compagno che vi conosce e vi accetta è una benedizione molto più grande." },
     { "gameKey": "custom/009/CtsXbmEntrance_00976#TEXT_CTSXBMENTRANCE_00976_LAUDA_000_076", "hash": "B0D4120CDC187923", "target": "Ma predico a chi conosce simili legami e molto altro. Devo ammetterlo, mi avete superata." },
     { "gameKey": "custom/009/CtsXbmEntrance_00976#TEXT_CTSXBMENTRANCE_00976_LAUDA_000_077", "hash": "FF4783A63DFB11D5", "target": "Accetto con gioia persino questa sconfitta. Mi offre altre occasioni di esercitarmi con Guttler, di diventare più forte con lui e al suo fianco. Dovrete concederci una rivincita, un giorno." },
-    { "gameKey": "custom/009/CtsXbmEntrance_00976#TEXT_CTSXBMENTRANCE_00976_LAUDA_000_078", "hash": "8FB4C6DA1649AA28", "target": "Come forse vi ha spiegato Sylmond, abbiamo adattato il Crucible alle vostre esigenze. Con «noi» intendo Guttler e tutte le altre anime valorose che abitano i tabelloni. Riponiamo grandi speranze in voi, <split(<string(gstr1)>, ,1)>, e nel valore che attribuite ai legami tra compagni." }
+    { "gameKey": "custom/009/CtsXbmEntrance_00976#TEXT_CTSXBMENTRANCE_00976_LAUDA_000_078", "hash": "8FB4C6DA1649AA28", "target": "Come forse vi ha spiegato Sylmond, abbiamo adattato il Crogiolo alle vostre esigenze. Con «noi» intendo Guttler e tutte le altre anime valorose che abitano i tabelloni. Riponiamo grandi speranze in voi, <split(<string(gstr1)>, ,1)>, e nel valore che attribuite ai legami tra compagni." }
   ]
 }

@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_RYSSFLOH_000_02", "hash": "D29A2A57780A9627", "target": "Ehi, dove diavolo credi di andare!? Ti ho detto di venire qui!" },
     { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_FZHUMII_000_03", "hash": "D12F3EF2BC64EAEB", "target": "Fermatevi, <if(gnum4,avventuriera,avventuriero)>. Se cercate Baderon e la Fanciulla Annegata, vi conviene parlare con Grehfarr." },
-    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_AHLDSKYF_000_05", "hash": "674F87E76D347A79", "target": "Non un passo di più, <if(gnum4,ragazza,ragazzo)>. Se vuoi vivere da <if(gnum4,avventuriera,avventuriero)> a Limsa Lominsa – e sopravvivere al primo giorno – ti consiglio caldamente di andare alla Fanciulla Annegata e parlare prima con Baderon." },
+    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_AHLDSKYF_000_05", "hash": "674F87E76D347A79", "target": "Non un passo di più, <if(gnum4,ragazza,ragazzo)>. Se vuoi avventurarti a Limsa Lominsa e sopravvivere al primo giorno, ti consiglio caldamente di passare prima dalla Fanciulla Annegata a parlare con Baderon." },
     { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_ABYLFARR_000_07", "hash": "031C152B34D88CF9", "target": "Ti sei già <if(gnum4,iscritta,iscritto)> alla Gilda degli Avventurieri? Non credo proprio. Torna indietro e fila all'Ascensore del Corvo. Baderon vorrà scambiare due parole con te." },
     { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_SDHODJBI_000_09", "hash": "CD2DE8147D121910", "target": "Non per essere scortese, <if(gnum4,signorina,signore)>, ma so riconoscere chi è alle prime armi. Fidati, ti conviene scambiare due parole con tutti i presenti prima di aggirarti per la città con lo stupore di chi non ha mai lasciato la campagna." },
     { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_QUENTENAIN_000_11", "hash": "15E2E2F66D262735", "target": "Aspetta, <if(gnum4,ragazza,ragazzo)>. Prima di uscire e cacciarti nell'imboscata di qualche tagliagole, faresti bene a sentire i consigli di chi sta alla Fanciulla Annegata, dal padrone agli avventori." },
@@ -15,6 +15,6 @@
     { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_000_23", "hash": "A924D73486A86F92", "target": "Seleziona lo schema di comandi che desideri usare." },
     { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_Q_01", "hash": "FB166CC1B9AD9A73", "target": "Seleziona uno schema di comandi." },
     { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_A_01", "hash": "8AB8A11F0EDC951B", "target": "Mouse/tastiera." },
-    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_A_02", "hash": "78B11AB514B42682", "target": "<if([gnum75>1],Controller,Gamepad)>." }
+    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_A_02", "hash": "78B11AB514B42682", "target": "<if([gnum75>1],Controller,Controller)>." }
   ]
 }

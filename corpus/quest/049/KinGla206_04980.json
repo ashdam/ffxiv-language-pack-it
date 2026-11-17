@@ -8,7 +8,7 @@
     { "gameKey": "quest/049/KinGla206_04980#TEXT_KINGLA206_04980_TODO_00", "hash": "290CEC580F9B28D8", "target": "Consegna i Mamool Ja cover components a Pameka" },
     { "gameKey": "quest/049/KinGla206_04980#TEXT_KINGLA206_04980_SYSTEM_000_000", "hash": "17120825938889C7", "target": "Per intraprendere questa missione, devi prima completare la missione dello scenario principale “Sempre più grandi, sempre più splendenti”." },
     { "gameKey": "quest/049/KinGla206_04980#TEXT_KINGLA206_04980_PAMEKA_000_001", "hash": "0A900B6D65C51220", "target": "<split(<string(gstr1)>, ,1)>! Proprio la persona che volevo vedere." },
-    { "gameKey": "quest/049/KinGla206_04980#TEXT_KINGLA206_04980_PAMEKA_100_001", "hash": "781B0271D7DD4343", "target": "Il nostro viaggio all'Eco di Worlar ci ha offerto innumerevoli spunti, non trovate? Sulla storia della mia famiglia, sul desiderio del Servitore dell'Alba per questa nazione e sulla miriade di modi in cui i nostri diversi popoli raccontano le proprie storie." },
+    { "gameKey": "quest/049/KinGla206_04980#TEXT_KINGLA206_04980_PAMEKA_100_001", "hash": "781B0271D7DD4343", "target": "Il nostro viaggio all'Eco di Worlar ci ha offerto innumerevoli spunti, non trovate? Sulla storia della mia famiglia, sul desiderio del Custode dell'Alba per questa nazione e sulla miriade di modi in cui i nostri diversi popoli raccontano le proprie storie." },
     { "gameKey": "quest/049/KinGla206_04980#TEXT_KINGLA206_04980_PAMEKA_000_002", "hash": "CD9C1574D383CD78", "target": "Mi sento più pronta che mai a trascrivere altri racconti per Zemoweni!" },
     { "gameKey": "quest/049/KinGla206_04980#TEXT_KINGLA206_04980_ZEMOWENI_000_003", "hash": "A9B55AFAFBE352EB", "target": "Be', voi due sembrate più felici di una coppia di rroneek al sole. È successo qualcosa?" },
     { "gameKey": "quest/049/KinGla206_04980#TEXT_KINGLA206_04980_PAMEKA_000_004", "hash": "1FC51CDE0CE9113B", "target": "Zemoweni! Tempismo impeccabile." },
@@ -49,6 +49,6 @@
     { "gameKey": "quest/049/KinGla206_04980#TEXT_KINGLA206_04980_PAMEKA_000_125", "hash": "3DDE8E6C92A6B907", "target": "Zemoweni..." },
     { "gameKey": "quest/049/KinGla206_04980#TEXT_KINGLA206_04980_ZEMOWENI_000_126", "hash": "12E544B139E154DC", "target": "...Perdonatemi. Il mio turno comincia tra poco, quindi sarà meglio che vada. Grazie per il bellissimo libro." },
     { "gameKey": "quest/049/KinGla206_04980#TEXT_KINGLA206_04980_SYSTEM_000_127", "hash": "6B3FC19C63E7375B", "target": "Pameka è entusiasta dei tuoi sforzi. Ora ti considera <colortype(500)><edgecolortype(501)>Binding Authority<edgecolortype(0)><colortype(0)>!" },
-    { "gameKey": "quest/049/KinGla206_04980#TEXT_KINGLA206_04980_SYSTEM_000_128", "hash": "30D9A57E921005C6", "target": "Ora è disponibile una nuova missione che prosegue la storia di Epistles by Pameka. Parla con Pameka come Carpenter, Leatherworker o Weaver di livello 100 o superiore per intraprenderla." }
+    { "gameKey": "quest/049/KinGla206_04980#TEXT_KINGLA206_04980_SYSTEM_000_128", "hash": "30D9A57E921005C6", "target": "Ora è disponibile una nuova missione che prosegue la storia delle Epistole di Pameka. Parla con Pameka come falegname, Conciatore o tessitore di livello 100 o superiore per intraprenderla." }
   ]
 }

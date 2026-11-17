@@ -2,7 +2,7 @@
   "conversation": "quest/053/ChrHdb932_05379",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/053/ChrHdb932_05379#TEXT_CHRHDB932_05379_SEQ_00", "hash": "7162AEF2C1D48382", "target": "Quando è in gioco il benessere della sua assistente, nemmeno l'ispettore Hildibrand riesce a mantenere la sua consueta imperturbabilità." },
+    { "gameKey": "quest/053/ChrHdb932_05379#TEXT_CHRHDB932_05379_SEQ_00", "hash": "7162AEF2C1D48382", "target": "Quando è in gioco il benessere della sua assistente, nemmeno l'Ispettore Hildibrand riesce a mantenere la sua consueta imperturbabilità." },
     { "gameKey": "quest/053/ChrHdb932_05379#TEXT_CHRHDB932_05379_SEQ_01", "hash": "4249D5BD1A4CE65B", "target": "La detenzione di Nashu, sospettata di essere il vandalo, rende Hildibrand ancora più deciso a catturare il vero criminale. Nel corso delle indagini, l'ispettore ha appreso che un mostro simile a un lupo è stato avvistato nei pressi di Luwateninyawawsa. Vi dirigete dunque verso l'insediamento nella speranza di trovare una pista." },
     { "gameKey": "quest/053/ChrHdb932_05379#TEXT_CHRHDB932_05379_SEQ_02", "hash": "60BEC20BC6BADC4D", "target": "Attraversando le pianure rosse di Shaaloani, tu e i tuoi compagni arrivate presto a Luwateninyawawsa. Questa volta Hardiboiled propone di interrogare insieme gli abitanti e ti chiede di avvisarlo quando potrai cominciare." },
     { "gameKey": "quest/053/ChrHdb932_05379#TEXT_CHRHDB932_05379_SEQ_03", "hash": "2F60C22710D057D1", "target": "Al tuo segnale, tu e i tuoi compagni entrate a Luwateninyawawsa. Con un po' di fortuna, gli abitanti avranno informazioni che vi condurranno al fuggitivo lupino.<br><br>※Devi avere Hardiboiled e Hildibrand al tuo seguito per completare questo incarico. Se vi separate, parla di nuovo con uno dei due." },
@@ -26,7 +26,7 @@
     { "gameKey": "quest/053/ChrHdb932_05379#TEXT_CHRHDB932_05379_TODO_08", "hash": "F4456D35DCF8E3B5", "target": "Parla con Kemakka" },
     { "gameKey": "quest/053/ChrHdb932_05379#TEXT_CHRHDB932_05379_TODO_09", "hash": "38481612F8032F99", "target": "Parla di nuovo con Kemakka" },
     { "gameKey": "quest/053/ChrHdb932_05379#TEXT_CHRHDB932_05379_TODO_10", "hash": "B8760668BFDE6585", "target": "Parla con Hardiboiled a Soluzione Nove" },
-    { "gameKey": "quest/053/ChrHdb932_05379#TEXT_CHRHDB932_05379_HARDIBOILED_100_000", "hash": "CA6EDF516C3F1C28", "target": "Perché proprio gli oglops..." },
+    { "gameKey": "quest/053/ChrHdb932_05379#TEXT_CHRHDB932_05379_HARDIBOILED_100_000", "hash": "CA6EDF516C3F1C28", "target": "Perché proprio gli oglop..." },
     { "gameKey": "quest/053/ChrHdb932_05379#TEXT_CHRHDB932_05379_HILDIBRAND_000_000", "hash": "34CEAD31395A81D1", "target": "Non sopporto di immaginare la dolce e innocente Nashu dietro le sbarre. Dobbiamo catturare il vero criminale e ottenere subito la sua liberazione!" },
     { "gameKey": "quest/053/ChrHdb932_05379#TEXT_CHRHDB932_05379_HARDIBOILED_000_001", "hash": "E8252A562AF40FAB", "target": "«Dolce» e «innocente» non sono parole che userei per una tipa che va in giro con le bombe, ma lasciamo perdere... Sappiamo chi stiamo cercando. Dobbiamo solo rintracciarlo." },
     { "gameKey": "quest/053/ChrHdb932_05379#TEXT_CHRHDB932_05379_HILDIBRAND_000_002", "hash": "F9B59937E1EFFC53", "target": "Diversi abitanti riferiscono di aver avvistato un insolito mostro simile a un lupo. Pare sia apparso vicino a un insediamento chiamato Luwatenini-pantaloni." },

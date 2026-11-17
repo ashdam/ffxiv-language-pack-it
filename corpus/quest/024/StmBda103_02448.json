@@ -16,6 +16,6 @@
     { "gameKey": "quest/024/StmBda103_02448#TEXT_STMBDA103_02448_CONRAD_000_040", "hash": "317B7C16F72E394B", "target": "So che non sareste venuti fin qui senza qualcosa d'importante da discutere e sono ansioso di sentire cosa avete da dire..." },
     { "gameKey": "quest/024/StmBda103_02448#TEXT_STMBDA103_02448_CONRAD_000_041", "hash": "4C39CEDD18578CDC", "target": "Ma non facciamolo sulla soglia, eh? Venite con me." },
     { "gameKey": "quest/024/StmBda103_02448#TEXT_STMBDA103_02448_MNAAGO_000_050", "hash": "823C380431DFA921", "target": "Qui pianifichiamo le operazioni─quando non intratteniamo ospiti importanti come voi." },
-    { "gameKey": "quest/024/StmBda103_02448#TEXT_STMBDA103_02448_MEFFRID_000_055", "hash": "D4F9E30274C8D0FC", "target": "Quando ci incontrammo nel Sudario, ti presi per <if(gnum4,un'avventuriera qualunque,un avventuriero qualunque)>. Per Rhalgr, ancora non riesco a credere a quanta strada hai fatto..." }
+    { "gameKey": "quest/024/StmBda103_02448#TEXT_STMBDA103_02448_MEFFRID_000_055", "hash": "D4F9E30274C8D0FC", "target": "Quando ci incontrammo nel Velo Nero, ti presi per <if(gnum4,un'avventuriera qualunque,un avventuriero qualunque)>. Per Rhalgr, ancora non riesco a credere a quanta strada hai fatto..." }
   ]
 }

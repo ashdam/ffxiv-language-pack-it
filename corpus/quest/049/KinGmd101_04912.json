@@ -18,7 +18,7 @@
     { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_ERENVILLE_000_002", "hash": "E07746E3C07494C0", "target": "Allora mostra il lasciapassare a quella guardia e mettiamoci in cammino." },
     { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_ERENVILLE_000_003", "hash": "6189D15A7BED60E7", "target": "Non dovrai aspettare molto per ammirare qualche bellezza del posto. Il ponte per Xak Tural è già una meraviglia di per sé." },
     { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_ERENVILLE_000_005", "hash": "D0F82FDE4427313E", "target": "Avanti, mostra il lasciapassare alla guardia." },
-    { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_LANDSGUARDKEEPER_000_010", "hash": "CFC8BC26E20F362C", "target": "Questa porta è chiusa a tutti, salvo a chi dispone del permesso esplicito di uno dei Servitori dell'Alba." },
+    { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_LANDSGUARDKEEPER_000_010", "hash": "CFC8BC26E20F362C", "target": "Questa porta è chiusa a tutti, salvo a chi dispone del permesso esplicito di uno dei Custodi dell'Alba." },
     { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_LANDSGUARDKEEPER_000_011", "hash": "D787EC806B5E52D1", "target": "...Firmato dal Voto Wuk Lamat in persona! Le mie scuse, <if(gnum4,signorina,signore)>. Attendete qui solo un momento." },
     { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_RRONEEKLENDERA_000_020", "hash": "43551B92071F7F5D", "target": "Be', chi abbiamo qui?" },
     { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_ERENVILLE_000_030", "hash": "4899C912F0E1AFD0", "target": "A corto di rroneek?" },

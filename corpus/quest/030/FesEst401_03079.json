@@ -133,7 +133,7 @@
     { "gameKey": "quest/030/FesEst401_03079#TEXT_FESEST401_03079_JIHLIALIAPOH_000_142", "hash": "675083391973785E", "target": "Grazie per l'aiuto, <split(<string(gstr1)>, ,1)>. Neppure io sapevo quale sorpresa mi attendesse oggi." },
     { "gameKey": "quest/030/FesEst401_03079#TEXT_FESEST401_03079_JIHLIALIAPOH_000_143", "hash": "196EDC500F0D930D", "target": "Se non sei troppo <if(gnum4,stanca,stanco)>, ti andrebbe di aiutarmi a nascondere di nuovo le uova? Potremmo assistere ad altri incontri speciali!" },
     { "gameKey": "quest/030/FesEst401_03079#TEXT_FESEST401_03079_SYSTEM_000_144", "hash": "41AF1E2211083BA8", "target": "Hai sbloccato il minigioco Egg Hunter Riggy." },
-    { "gameKey": "quest/030/FesEst401_03079#TEXT_FESEST401_03079_SYSTEM_000_145", "hash": "75002EB34B888442", "target": "Apri il toy chest in una qualsiasi camera di locanda per giocare ancora." },
+    { "gameKey": "quest/030/FesEst401_03079#TEXT_FESEST401_03079_SYSTEM_000_145", "hash": "75002EB34B888442", "target": "Apri il baule dei giocattoli in una qualsiasi camera di locanda per giocare ancora." },
     { "gameKey": "quest/030/FesEst401_03079#TEXT_FESEST401_03079_LEIHALIAPOH_000_145", "hash": "5C4ED1442EFD6348", "target": "Ho fatto sapere a Nonotta che le sue uova sono al sicuro. Devi soltanto consegnargliele." }
   ]
 }

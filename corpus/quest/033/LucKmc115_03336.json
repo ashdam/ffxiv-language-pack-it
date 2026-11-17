@@ -7,7 +7,7 @@
     { "gameKey": "quest/033/LucKmc115_03336#TEXT_LUCKMC115_03336_TODO_01", "hash": "48A7A95291B5467F", "target": "Cerca la statuetta del gufo" },
     { "gameKey": "quest/033/LucKmc115_03336#TEXT_LUCKMC115_03336_TODO_02", "hash": "51A0F1D557254B53", "target": "Trasporta la statuetta del gufo fino all'altare corretto" },
     { "gameKey": "quest/033/LucKmc115_03336#TEXT_LUCKMC115_03336_TODO_03", "hash": "CBB5BED335F1D468", "target": "Parla con Almet" },
-    { "gameKey": "quest/033/LucKmc115_03336#TEXT_LUCKMC115_03336_YSHTOLA_000_000", "hash": "8A859CF6555C49FE", "target": "Lo giuro, se gli eulmorani torcono anche solo un capello ai Benedetti..." },
+    { "gameKey": "quest/033/LucKmc115_03336#TEXT_LUCKMC115_03336_YSHTOLA_000_000", "hash": "8A859CF6555C49FE", "target": "Lo giuro, se gli Eulmorani torcono anche solo un capello ai Benedetti..." },
     { "gameKey": "quest/033/LucKmc115_03336#TEXT_LUCKMC115_03336_ALMET_000_010", "hash": "572EDEDA17BAA0D9", "target": "Il tempo è contro di noi, <if(gnum4,amica,amico)>." },
     { "gameKey": "quest/033/LucKmc115_03336#TEXT_LUCKMC115_03336_ALMET_000_011", "hash": "A35A6952F031534D", "target": "Presto, dentro la piramide." },
     { "gameKey": "quest/033/LucKmc115_03336#TEXT_LUCKMC115_03336_YSHTOLA_000_020", "hash": "0A62D54607E6320D", "target": "La strada ci è stata sbarrata... di nuovo. Sto iniziando a perdere la pazienza." },
@@ -43,6 +43,6 @@
     { "gameKey": "quest/033/LucKmc115_03336#TEXT_LUCKMC115_03336_ALMET_000_110", "hash": "7D1D4FA1385710DC", "target": "Siete a un solo passo dall'entrare nel Dedalo di Qitana, ma devo avvertirvi: quest'ultimo passo è senza dubbio il più pericoloso." },
     { "gameKey": "quest/033/LucKmc115_03336#TEXT_LUCKMC115_03336_ALMET_000_111", "hash": "602FBB00CD995E0C", "target": "Superate quest'ultima prova e la via davanti a voi si aprirà." },
     { "gameKey": "quest/033/LucKmc115_03336#TEXT_LUCKMC115_03336_YSHTOLA_000_112", "hash": "C6B46E1BF35F4A85", "target": "Una via costellata di altri enigmi e trappole, ne sono certa. L'imperatore si divertiva sempre tanto a far perdere tempo ai suoi alleati?" },
-    { "gameKey": "quest/033/LucKmc115_03336#TEXT_LUCKMC115_03336_YSHTOLA_000_113", "hash": "983AB199E6713654", "target": "\\<sospiro> Facciamola finita, <split(<string(gstr1)>, ,1)>. Finché il tempo è ancora dalla nostra parte." }
+    { "gameKey": "quest/033/LucKmc115_03336#TEXT_LUCKMC115_03336_YSHTOLA_000_113", "hash": "983AB199E6713654", "target": "\\<sigh> Facciamola finita, <split(<string(gstr1)>, ,1)>. Finché il tempo è ancora dalla nostra parte." }
   ]
 }

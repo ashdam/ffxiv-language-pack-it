@@ -14,6 +14,6 @@
     { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_NARUJIBOH_000_004", "hash": "73C8B78B38EED027", "target": "Quando saremo entrati in possesso delle armi santificate dalla fiamma, i nostri mistici ne sveleranno i segreti e impareranno a dissolverne gli incantesimi. Questa nuova minaccia non ci tormenterà ancora a lungo." },
     { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_NARUJIBOH_000_010", "hash": "7650F30E46B9F086", "target": "Perlustra l'accampamento e l'altare di Zanr'ak e sottrai alle scorte dei nostri vili simili le armi santificate dalla fiamma." },
     { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_NARUJIBOH_000_020", "hash": "86B7FB69D93D229F", "target": "<if(gnum4,Onorata alleata,Onorato alleato)>. Confido che tu sia di ritorno con le armi del nemico?" },
-    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_NARUJIBOH_000_021", "hash": "9A36741C66699986", "target": "Sì, il calore dei loro incantesimi roventi è palpabile anche per un semplice guerriero come me. Ah! I lunghi rituali notturni degli Amalj'aa di Zahar'ak sono stati vani! Riposa ora, guerriero: hai fatto un buon lavoro." }
+    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_NARUJIBOH_000_021", "hash": "9A36741C66699986", "target": "Sì, il calore dei loro incantesimi roventi è palpabile anche per un semplice guerriero come me. Ah! I lunghi rituali notturni degli Amalj'aa di Zahar'ak sono stati vani! Riposa ora, <if(gnum4,guerriera,guerriero)>: hai fatto un buon lavoro." }
   ]
 }

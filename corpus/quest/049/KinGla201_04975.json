@@ -9,7 +9,7 @@
     { "gameKey": "quest/049/KinGla201_04975#TEXT_KINGLA201_04975_TODO_00", "hash": "D332C3697E341F76", "target": "Parla con Zemoweni" },
     { "gameKey": "quest/049/KinGla201_04975#TEXT_KINGLA201_04975_TODO_01", "hash": "A67900421FF3F6C5", "target": "Parla con Pameka" },
     { "gameKey": "quest/049/KinGla201_04975#TEXT_KINGLA201_04975_PAMEKA_000_001", "hash": "B7B12596DCF45DA0", "target": "Un caloroso benvenuto a voi, <if(gnum4,artigiana,artigiano)> di terre lontane. <split(<string(gstr1)>, ,1)>, giusto?" },
-    { "gameKey": "quest/049/KinGla201_04975#TEXT_KINGLA201_04975_PAMEKA_000_002", "hash": "91B04CF7B4C30806", "target": "Vi trovate davanti a Epistles by Pameka, e io sono Pameka in persona. Per quanto mi faccia piacere il vostro interesse per il mio negozio, vorrei prima accertare una cosa." },
+    { "gameKey": "quest/049/KinGla201_04975#TEXT_KINGLA201_04975_PAMEKA_000_002", "hash": "91B04CF7B4C30806", "target": "Vi trovate davanti alle Epistole di Pameka, e io sono Pameka in persona. Per quanto mi faccia piacere il vostro interesse per il mio negozio, vorrei prima accertare una cosa." },
     { "gameKey": "quest/049/KinGla201_04975#TEXT_KINGLA201_04975_PAMEKA_000_003", "hash": "B626F1CF9B0FD2D5", "target": "Ditemi... Sapete leggere?" },
     { "gameKey": "quest/049/KinGla201_04975#TEXT_KINGLA201_04975_Q1_000_000", "hash": "45DE843D151FD784", "target": "Che cosa dirai?" },
     { "gameKey": "quest/049/KinGla201_04975#TEXT_KINGLA201_04975_A1_000_001", "hash": "6ED7AFC09435F7D2", "target": "Vivo per la letteratura!" },
@@ -53,6 +53,6 @@
     { "gameKey": "quest/049/KinGla201_04975#TEXT_KINGLA201_04975_ZEMOWENI_000_120", "hash": "61D0C54215EBED7D", "target": "Appena avrò finito il turno, verrò a trovare <if(gnum4,entrambe,entrambi)> al banco di Pameka. A dopo!" },
     { "gameKey": "quest/049/KinGla201_04975#TEXT_KINGLA201_04975_PAMEKA_000_200", "hash": "EF4E523762B8CD59", "target": "Terremo qui le nostre sessioni di trascrizione. Ho preparato pergamena e inchiostro in abbondanza, quindi non dovete preoccuparvene." },
     { "gameKey": "quest/049/KinGla201_04975#TEXT_KINGLA201_04975_PAMEKA_000_201", "hash": "D09293BC2FCDB14A", "target": "Tuttavia, ci sono ancora alcuni preparativi da fare prima dell'arrivo di Zemoweni, e nel frattempo i vostri impegni potrebbero chiamarvi altrove. Tornate quando sarete <if(gnum4,pronta,pronto)> a cominciare." },
-    { "gameKey": "quest/049/KinGla201_04975#TEXT_KINGLA201_04975_SYSTEM_000_203", "hash": "B96FA6AB07676BBE", "target": "Ora puoi effettuare consegne per Epistles by Pameka. Parla con Pameka per saperne di più." }
+    { "gameKey": "quest/049/KinGla201_04975#TEXT_KINGLA201_04975_SYSTEM_000_203", "hash": "B96FA6AB07676BBE", "target": "Ora puoi effettuare consegne per le Epistole di Pameka. Parla con Pameka per saperne di più." }
   ]
 }

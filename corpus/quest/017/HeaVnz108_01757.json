@@ -8,7 +8,7 @@
     { "gameKey": "quest/017/HeaVnz108_01757#TEXT_HEAVNZ108_01757_SEQ_03", "hash": "36F2DA380834BD7B", "target": "Torni da Terremiaux, il cui sollievo per il ritorno dei sottoposti è palpabile. Resta però del lavoro da fare e ti chiede di aiutarlo a completare la missione." },
     { "gameKey": "quest/017/HeaVnz108_01757#TEXT_HEAVNZ108_01757_TODO_00", "hash": "F410BED8BCA47793", "target": "Comunica gli ordini ai sottoposti di Terremiaux" },
     { "gameKey": "quest/017/HeaVnz108_01757#TEXT_HEAVNZ108_01757_TODO_01", "hash": "AA434BAF493A78D2", "target": "Fai rapporto a Terremiaux" },
-    { "gameKey": "quest/017/HeaVnz108_01757#TEXT_HEAVNZ108_01757_TERREMIAUX_000_000", "hash": "99A882DE07E902D5", "target": "Siamo riusciti a respingere i Vanu, ma ne abbiamo gravemente sottovalutato il numero. Inoltre, rimpinguano le loro fila più in fretta di quanto noi riusciamo ad abbatterli." },
+    { "gameKey": "quest/017/HeaVnz108_01757#TEXT_HEAVNZ108_01757_TERREMIAUX_000_000", "hash": "99A882DE07E902D5", "target": "Siamo riusciti a respingere i Vanu, ma ne abbiamo gravemente sottovalutato il numero. Inoltre, rimpinguano le loro file più in fretta di quanto noi riusciamo ad abbatterli." },
     { "gameKey": "quest/017/HeaVnz108_01757#TEXT_HEAVNZ108_01757_TERREMIAUX_000_001", "hash": "E20EB08F754D7390", "target": "Per la nostra imprudenza, tre miei sottoposti sono rimasti isolati e si sono dispersi prima di tornare. Temo che presto i Vanu li prenderanno." },
     { "gameKey": "quest/017/HeaVnz108_01757#TEXT_HEAVNZ108_01757_TERREMIAUX_000_002", "hash": "9654A3EE496A2A17", "target": "Dovete trovarli e ordinare loro di ritirarsi oltre il ponte. Se arriveranno fin qui, mi assicurerò che siano al sicuro." },
     { "gameKey": "quest/017/HeaVnz108_01757#TEXT_HEAVNZ108_01757_TERREMIAUX_000_010", "hash": "C3518EE94CCFC247", "target": "Il tempo stringe. Dovete trovare i miei sottoposti prima dei Vanu. Non possono essere andati lontano." },
@@ -18,6 +18,6 @@
     { "gameKey": "quest/017/HeaVnz108_01757#TEXT_HEAVNZ108_01757_FORTSOLDIERB01757_000_021", "hash": "CA7B4ED13B698A73", "target": "Aaahhh! Vi prego, non spaventatemi così. Come? Il tenente ordina la ritirata? Ricevuto." },
     { "gameKey": "quest/017/HeaVnz108_01757#TEXT_HEAVNZ108_01757_FORTSOLDIERC01757_000_022", "hash": "640419DEE5D6356D", "target": "Non mi troveranno mai lass... Uhm? Ritirarmi oltre il ponte? Un ordine che eseguo più che volentieri." },
     { "gameKey": "quest/017/HeaVnz108_01757#TEXT_HEAVNZ108_01757_TERREMIAUX_000_030", "hash": "E4852E8F9DEA0D91", "target": "Ben fatto, <split(<string(gstr1)>, ,1)>. Davvero ben fatto. Non oso pensare a cosa sarebbe successo a me e ai miei sottoposti senza di voi. Finalmente posso tirare un sospiro di sollievo, almeno per un momento." },
-    { "gameKey": "quest/017/HeaVnz108_01757#TEXT_HEAVNZ108_01757_TERREMIAUX_000_031", "hash": "84FF487230C42E2B", "target": "Vorrei più di ogni altra cosa tornare al Campo Cloudtop e lasciarmi tutto alle spalle, ma resta del lavoro da fare. Posso ancora contare sul vostro sostegno?" }
+    { "gameKey": "quest/017/HeaVnz108_01757#TEXT_HEAVNZ108_01757_TERREMIAUX_000_031", "hash": "84FF487230C42E2B", "target": "Vorrei più di ogni altra cosa tornare al Campo Cimanuvola e lasciarmi tutto alle spalle, ma resta del lavoro da fare. Posso ancora contare sul vostro sostegno?" }
   ]
 }

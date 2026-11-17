@@ -13,7 +13,7 @@
     { "gameKey": "quest/019/HeaVnz814_01944#TEXT_HEAVNZ814_01944_TODO_02", "hash": "8DC721927A2E651E", "target": "Consegna il registro a Dripwix." },
     { "gameKey": "quest/019/HeaVnz814_01944#TEXT_HEAVNZ814_01944_TODO_03", "hash": "8376C6E843E2B76B", "target": "Parla con Dripwix a Borgopace." },
     { "gameKey": "quest/019/HeaVnz814_01944#TEXT_HEAVNZ814_01944_DRIPWIX_000_000", "hash": "8BA25BC46067899E", "target": "Pshhh... Shkohhh...<br>Illuminati si arrabbiano troppo in fretta! Dripwix prova solo a spiegare: combattere ha bisogno di regole!" },
-    { "gameKey": "quest/019/HeaVnz814_01944#TEXT_HEAVNZ814_01944_DRIPWIX_000_001", "hash": "14626D82F0265FC3", "target": "Ma Nongobbo, perché sei qui?" },
+    { "gameKey": "quest/019/HeaVnz814_01944#TEXT_HEAVNZ814_01944_DRIPWIX_000_001", "hash": "14626D82F0265FC3", "target": "Ma <if(gnum4,Nongobba,Nongobbo)>, perché sei qui?" },
     { "gameKey": "quest/019/HeaVnz814_01944#TEXT_HEAVNZ814_01944_DRIPWIX_000_002", "hash": "B8B4F98D4B32B970", "target": "Pshhh... Shkohhh...<br>Slowfix chiama Dripwix? Dev'esserci grosso problema..." },
     { "gameKey": "quest/019/HeaVnz814_01944#TEXT_HEAVNZ814_01944_DRIPWIX_000_003", "hash": "3B77F45D13BD63BB", "target": "Ma Dripwix non può ancora tornare a Borgopace. Non senza registro. Dripwix trova problemi di città e scrive tutti in registro. Molti, molti problemi." },
     { "gameKey": "quest/019/HeaVnz814_01944#TEXT_HEAVNZ814_01944_DRIPWIX_000_004", "hash": "BBD69312F725BDE5", "target": "Ma vangob di Illuminati rubato registro! Dripwix non sa quale vangob preso registro, ma se distruggi molti, dovresti trovarlo." },
@@ -22,13 +22,13 @@
     { "gameKey": "quest/019/HeaVnz814_01944#TEXT_HEAVNZ814_01944_DRIPWIX_000_030", "hash": "98B1C3C853BA5DA0", "target": "Hai trovato registro per Dripwix?" },
     { "gameKey": "quest/019/HeaVnz814_01944#TEXT_HEAVNZ814_01944_DRIPWIX_000_031", "hash": "EFD5C03FA0929BC6", "target": "Sì, sì! Questo è Dripwix's log! Ora Dripwix può tornare a casa." },
     { "gameKey": "quest/019/HeaVnz814_01944#TEXT_HEAVNZ814_01944_SLOWFIX_000_048", "hash": "9DDE8BDFD00AA7C0", "target": "Pshhh... Shkohhh...<br>Dripwix è molto, molto arrabbiato. Fa paura a Slowfix..." },
-    { "gameKey": "quest/019/HeaVnz814_01944#TEXT_HEAVNZ814_01944_DRIPWIX_000_040", "hash": "DB5418023FAE6B09", "target": "Pshhh... Shkohhh...<br>Nongobbo, arrivi al momento giusto. Per favore, spiegalo a questo cervellosvampito!" },
+    { "gameKey": "quest/019/HeaVnz814_01944#TEXT_HEAVNZ814_01944_DRIPWIX_000_040", "hash": "DB5418023FAE6B09", "target": "Pshhh... Shkohhh...<br><if(gnum4,Nongobba,Nongobbo)>, arrivi al momento giusto. Per favore, spiegalo a questo cervellosvampito!" },
     { "gameKey": "quest/019/HeaVnz814_01944#TEXT_HEAVNZ814_01944_DRIPWIX_000_041", "hash": "56B5ECA7C06DF2BE", "target": "Dripwix spiega da tanto: nazione ha bisogno di regole! Niente regole significa grossi problemi!" },
     { "gameKey": "quest/019/HeaVnz814_01944#TEXT_HEAVNZ814_01944_SLOWFIX_000_042", "hash": "86B5F64783B0EE20", "target": "Pshhh... Shkohhh...<br>Questa è nazione libera per gente libera! Non è meglio non avere regole?" },
     { "gameKey": "quest/019/HeaVnz814_01944#TEXT_HEAVNZ814_01944_DRIPWIX_000_043", "hash": "1EB4A38753A8DF5A", "target": "Sbagli! Nazione ha così tanti problemi che vieni da Dripwix per prestamano!" },
     { "gameKey": "quest/019/HeaVnz814_01944#TEXT_HEAVNZ814_01944_DRIPWIX_000_044", "hash": "7A523FC9CB4A5425", "target": "Presti attrezzi a goblin, ma regole di prestito non sono chiare e attrezzi spariscono!" },
     { "gameKey": "quest/019/HeaVnz814_01944#TEXT_HEAVNZ814_01944_DRIPWIX_000_045", "hash": "C2ACC1C212746CF4", "target": "Tue guardie non hanno regole per proteggere nazione. Guardie tutte confuse. Confini di nazione non possono essere protetti! Nessuno sa dove sono confini!" },
     { "gameKey": "quest/019/HeaVnz814_01944#TEXT_HEAVNZ814_01944_SLOWFIX_000_046", "hash": "E9015FD0ADB2237B", "target": "Pshhh... Shkohhh...<br>S-Slowfix capisce. Slowfix capisce. Forse Borgopace ha bisogno di regole." },
-    { "gameKey": "quest/019/HeaVnz814_01944#TEXT_HEAVNZ814_01944_DRIPWIX_000_047", "hash": "1AC5A36FCDB21A55", "target": "Pshhh... Shkohhh...<br>Dripwix stabilirà nuove regole. Speriamo che Nongobbo possa aiutarci ancora!" }
+    { "gameKey": "quest/019/HeaVnz814_01944#TEXT_HEAVNZ814_01944_DRIPWIX_000_047", "hash": "1AC5A36FCDB21A55", "target": "Pshhh... Shkohhh...<br>Dripwix stabilirà nuove regole. Speriamo che <if(gnum4,Nongobba,Nongobbo)> possa aiutarci ancora!" }
   ]
 }

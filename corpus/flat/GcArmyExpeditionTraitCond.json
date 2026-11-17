@@ -2,7 +2,7 @@
   "sheet": "GcArmyExpeditionTraitCond",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "GcArmyExpeditionTraitCond#1", "hash": "97C3F3FA09D7967C", "target": "Quando si fa parte dello squadrone attivo" },
+    { "gameKey": "GcArmyExpeditionTraitCond#1", "hash": "97C3F3FA09D7967C", "target": "Quando il membro partecipa a una missione" },
     { "gameKey": "GcArmyExpeditionTraitCond#2", "hash": "A3F7B35F44D78E6A", "target": "Al livello consigliato per l'incarico o superiore" },
     { "gameKey": "GcArmyExpeditionTraitCond#3", "hash": "83BE76FC926D275A", "target": "Sopra il livello 50" },
     { "gameKey": "GcArmyExpeditionTraitCond#4", "hash": "5C3B4B39195E08A8", "target": "In squadra con un Hyur" },

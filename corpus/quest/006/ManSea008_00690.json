@@ -2,7 +2,7 @@
   "conversation": "quest/006/ManSea008_00690",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/006/ManSea008_00690#TEXT_MANSEA008_00690_SEQ_00", "hash": "7ED0647984A1D1B3", "target": "Il commodoro Reyner desidera parlarti dell'imminente banchetto." },
+    { "gameKey": "quest/006/ManSea008_00690#TEXT_MANSEA008_00690_SEQ_00", "hash": "7ED0647984A1D1B3", "target": "Il Commodoro Reyner desidera parlarti dell'imminente banchetto." },
     { "gameKey": "quest/006/ManSea008_00690#TEXT_MANSEA008_00690_SEQ_01", "hash": "DA4B405054DC091C", "target": "Il commodoro ti ha consigliato di chiedere a Baderon dove trovare un abito adatto al banchetto. Vai alla Fanciulla Annegata e senti cosa ti consiglia il gestore, che in città conosce tutti." },
     { "gameKey": "quest/006/ManSea008_00690#TEXT_MANSEA008_00690_SEQ_02", "hash": "5D27BE52E82BE65B", "target": "Pare che i tuoi abiti non abbiano la raffinatezza che ci si aspetta dall'ospite d'onore di un banchetto di stato. Baderon ti dice di andare da J'nasshym all'Ottante e ritirare un'aggiunta al tuo guardaroba «da <if(gnum4,signora,signore)>»." },
     { "gameKey": "quest/006/ManSea008_00690#TEXT_MANSEA008_00690_SEQ_03", "hash": "5D44EFEA53350BED", "target": "J'nasshym ti ha affidato una scatola rivestita in raxa che contiene i tuoi abiti «da <if(gnum4,signora,signore)>». Torna alla Fanciulla Annegata e mostra il pacco a Baderon." },

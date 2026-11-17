@@ -22,6 +22,7 @@ Non usare i JSON come una lista di sostituzioni globali: lo stesso inglese puo' 
 
 Nei termini JSON, `protect: true` conserva l'inglese; `protect: false` richiede una resa italiana nel proprio ambito.
 `it` e' la forma principale, `forms` contiene le varianti ammesse, `note` descrive fonti e limiti.
+Le forme base dei demònimi in `demonyms.json` sono minuscole; nei testi si adattano le maiuscole alla sorgente EN secondo la regola generale.
 Non aggiungere una forma obsoleta a `forms` per far passare un controllo. Le note possono citare fonti storiche,
 ma le regole e le decisioni necessarie al lavoro sono riportate localmente.
 

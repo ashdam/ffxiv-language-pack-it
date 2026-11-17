@@ -15,14 +15,14 @@
     { "gameKey": "quest/047/AktKva301_04789#TEXT_AKTKVA301_04789_TODO_03", "hash": "F89224C3034C804B", "target": "Parla con Pasasun" },
     { "gameKey": "quest/047/AktKva301_04789#TEXT_AKTKVA301_04789_TODO_04", "hash": "B33D42055100A877", "target": "Parla con Shallow Moor a Vecchia Sharlayan" },
     { "gameKey": "quest/047/AktKva301_04789#TEXT_AKTKVA301_04789_SHALLOWMOOR_000_000", "hash": "70A733C29DD6FB14", "target": "<split(<string(gstr1)>, ,1)>! Ti va un incarico occasionale? Arrivi al momento giusto: ho appena ricevuto una richiesta del <italic(1)>tuo<italic(0)> aiuto." },
-    { "gameKey": "quest/047/AktKva301_04789#TEXT_AKTKVA301_04789_SHALLOWMOOR_000_001", "hash": "A3FB8B1BAED0E433", "target": "L'ha scritta Pasasun, un alchimista thavnairiano, a nome di un tuo conoscente. Come si chiamava, già... ?" },
+    { "gameKey": "quest/047/AktKva301_04789#TEXT_AKTKVA301_04789_SHALLOWMOOR_000_001", "hash": "A3FB8B1BAED0E433", "target": "L'ha scritta Pasasun, un alchimista Thavnairiano, a nome di un tuo conoscente. Come si chiamava, già... ?" },
     { "gameKey": "quest/047/AktKva301_04789#TEXT_AKTKVA301_04789_SHALLOWMOOR_000_002", "hash": "12A7C747F15341C9", "target": "...Ah, sì, Matsya! Spero ti dica qualcosa." },
     { "gameKey": "quest/047/AktKva301_04789#TEXT_AKTKVA301_04789_SHALLOWMOOR_000_003", "hash": "B5B8DFB9394B0788", "target": "Bene, bene. Pare che il tuo amico pescatore sia nei guai e che questo Pasasun creda che tu possa tirarlo fuori. Sempre che tu riesca a trovare un po' di tempo, naturalmente." },
     { "gameKey": "quest/047/AktKva301_04789#TEXT_AKTKVA301_04789_Q1_000_004", "hash": "1079E1D3EB91E411", "target": "Che cosa dirai?" },
     { "gameKey": "quest/047/AktKva301_04789#TEXT_AKTKVA301_04789_A1_000_001", "hash": "EEF0EBC0680C8E49", "target": "Aiuterei volentieri un amico nei guai, soprattutto uno a cui devo un favore." },
     { "gameKey": "quest/047/AktKva301_04789#TEXT_AKTKVA301_04789_A1_000_002", "hash": "BB9A1DD61F057921", "target": "Non vorrà che venda di nuovo la sua merce, vero...?" },
     { "gameKey": "quest/047/AktKva301_04789#TEXT_AKTKVA301_04789_SHALLOWMOOR_000_005", "hash": "5F224C5B1A5C1CF7", "target": "Allora è un «sì»! Grazie, <split(<string(gstr1)>, ,1)>!" },
-    { "gameKey": "quest/047/AktKva301_04789#TEXT_AKTKVA301_04789_SHALLOWMOOR_000_006", "hash": "58FA44B607E1DB58", "target": "Non saprei proprio, anche se pensavo che un mercante col <italic(1)>tuo<italic(0)> sostegno potesse vendere ice crystal perfino ai fire sprite." },
+    { "gameKey": "quest/047/AktKva301_04789#TEXT_AKTKVA301_04789_SHALLOWMOOR_000_006", "hash": "58FA44B607E1DB58", "target": "Non saprei proprio, anche se pensavo che un mercante col <italic(1)>tuo<italic(0)> sostegno potesse vendere cristalli di ghiaccio perfino agli spiritelli di fuoco." },
     { "gameKey": "quest/047/AktKva301_04789#TEXT_AKTKVA301_04789_SHALLOWMOOR_000_007", "hash": "651767968EA735B3", "target": "Non conosco i dettagli della richiesta, ma Pasasun sarà lieto di spiegarti tutto. Credo che si trovi alla Grande Opera." },
     { "gameKey": "quest/047/AktKva301_04789#TEXT_AKTKVA301_04789_SHALLOWMOOR_000_008", "hash": "A7CD5215F0118B1F", "target": "Che l'incarico sia privo di intoppi, ostacoli e mal di testa!" },
     { "gameKey": "quest/047/AktKva301_04789#TEXT_AKTKVA301_04789_PASASUN_000_010", "hash": "B75ECA8E05D46372", "target": "Oh, devi essere <split(<string(gstr1)>, ,1)>. Ti hanno mandato i raccoglitori?" },
@@ -73,7 +73,7 @@
     { "gameKey": "quest/047/AktKva301_04789#TEXT_AKTKVA301_04789_ZOZONE_000_056", "hash": "60B0309A8C7657BD", "target": "Pare che quella caccia al chocobo selvatico non fosse poi tanto inutile, Whasbyrm. Le voci su ricchezze nascoste raramente fruttano così tanto!" },
     { "gameKey": "quest/047/AktKva301_04789#TEXT_AKTKVA301_04789_WHASBYRM_000_057", "hash": "A6FC209089EC257F", "target": "Già, ma quelli potrebbero cercare la stessa cosa. Avremmo dei concorrenti..." },
     { "gameKey": "quest/047/AktKva301_04789#TEXT_AKTKVA301_04789_JJHIMEI_000_058", "hash": "B50CBBA37468E6AE", "target": "Non c'è bisogno di farsela sotto per un pescatore e la sua scorta! Queste orecchie non sono solo decorative: li ho sentiti dire dov'è esattamente!" },
-    { "gameKey": "quest/047/AktKva301_04789#TEXT_AKTKVA301_04789_ZOZONE_000_059", "hash": "F40AFF858BDFB3BF", "target": "Questo colpo promette più di quello alla Dogana di Mealvaan. Scommetto che saremo più ricchi dei re!" },
+    { "gameKey": "quest/047/AktKva301_04789#TEXT_AKTKVA301_04789_ZOZONE_000_059", "hash": "F40AFF858BDFB3BF", "target": "Questo colpo promette più di quello alla Porta di Mealvaan. Scommetto che saremo più ricchi dei re!" },
     { "gameKey": "quest/047/AktKva301_04789#TEXT_AKTKVA301_04789_ZOZONE_000_060", "hash": "858DF32EF524901D", "target": "Preparate l'equipaggiamento, voi due! Ci impadroniamo della prima barchetta che vediamo!" },
     { "gameKey": "quest/047/AktKva301_04789#TEXT_AKTKVA301_04789_KALIKA_000_061", "hash": "35E0B8447E5D92FD", "target": "Che crudeltà ricevere questo sacro compito ed essere costretto ad aspettare, pregando per il successo di un altro..." },
     { "gameKey": "quest/047/AktKva301_04789#TEXT_AKTKVA301_04789_BOATER04789_000_062", "hash": "1A163E078890A7D8", "target": "Pasasun mi ha raccontato tutto. Ti porterò <if(gnum4,sana e salva,sano e salvo)> su quell'isola, hai la mia parola!" },
@@ -128,6 +128,6 @@
     { "gameKey": "quest/047/AktKva301_04789#TEXT_AKTKVA301_04789_SHALLOWMOOR_100_113", "hash": "A069F20DE7327CDF", "target": "Oh, e se hai un momento per Osmon, sarà senz'altro ansioso di ascoltare anche lui il racconto della tua esperienza." },
     { "gameKey": "quest/047/AktKva301_04789#TEXT_AKTKVA301_04789_SHALLOWMOOR_000_113", "hash": "0312E981C843FC05", "target": "Un brindisi a un incarico ben svolto!" },
     { "gameKey": "quest/047/AktKva301_04789#TEXT_AKTKVA301_04789_SYSTEM_000_120", "hash": "8E1DC6A78328899D", "target": "L'<colortype(500)><edgecolortype(501)>Aloalo Conservation Record<edgecolortype(0)><colortype(0)> è ora disponibile nella Ricerca Spedizioni V&C, nella sezione Incarichi del menu principale." },
-    { "gameKey": "quest/047/AktKva301_04789#TEXT_AKTKVA301_04789_SYSTEM_000_121", "hash": "347843E4243B4B88", "target": "Nuove voci verranno aggiunte al registro man mano che completi ciascun percorso possibile del spedizione variante." }
+    { "gameKey": "quest/047/AktKva301_04789#TEXT_AKTKVA301_04789_SYSTEM_000_121", "hash": "347843E4243B4B88", "target": "Nuove voci verranno aggiunte al registro man mano che completi ciascun percorso possibile della spedizione variante." }
   ]
 }

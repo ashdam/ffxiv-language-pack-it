@@ -33,7 +33,7 @@
     { "gameKey": "quest/041/AktKla502_04161#TEXT_AKTKLA502_04161_TLAQATIA_000_033", "hash": "AFE7D865B3A9D110", "target": "Finora, la fiducia che il professor Nele riponeva in me non faceva che mettermi sotto pressione. Sentivo di dover realizzare qualcosa di cui non ero nemmeno sicuro di essere capace." },
     { "gameKey": "quest/041/AktKla502_04161#TEXT_AKTKLA502_04161_TLAQATIA_000_034", "hash": "BAB3024AF33D3692", "target": "Ma ora ho finalmente cominciato a fare progressi concreti, e lo devo soltanto a te. Per la prima volta, sento che dopotutto potrei avere un futuro luminoso nel mondo accademico!" },
     { "gameKey": "quest/041/AktKla502_04161#TEXT_AKTKLA502_04161_TLAQATIA_000_035", "hash": "39560F47745F9075", "target": "Sì, ho la sensazione che tutto filerà liscio come l'olio, o forse dovrei dire come l'acqua, finché sarai al mio fianco!" },
-    { "gameKey": "quest/041/AktKla502_04161#TEXT_AKTKLA502_04161_SYSTEM_000_036", "hash": "EA45F44981D4E23D", "target": "T'laqa Tia è soddisfatto dei tuoi sforzi. Ora ti considera <colortype(500)><edgecolortype(501)>Dependable Fisher<edgecolortype(0)><colortype(0)>!" },
-    { "gameKey": "quest/041/AktKla502_04161#TEXT_AKTKLA502_04161_SYSTEM_000_037", "hash": "2B25B5364100E612", "target": "La prossima missione sarà disponibile presso T'laqa Tia al raggiungimento del livello 83 come Fisher." }
+    { "gameKey": "quest/041/AktKla502_04161#TEXT_AKTKLA502_04161_SYSTEM_000_036", "hash": "EA45F44981D4E23D", "target": "T'laqa Tia è soddisfatto dei tuoi sforzi. Ora ti considera <colortype(500)><edgecolortype(501)><if(gnum4,Pescatrice Affidabile,Pescatore Affidabile)><edgecolortype(0)><colortype(0)>!" },
+    { "gameKey": "quest/041/AktKla502_04161#TEXT_AKTKLA502_04161_SYSTEM_000_037", "hash": "2B25B5364100E612", "target": "La prossima missione sarà disponibile presso T'laqa Tia al raggiungimento del livello 83 di pesca." }
   ]
 }

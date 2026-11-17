@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/032/LucKla302_03234#TEXT_LUCKLA302_03234_SEQ_00", "hash": "ECDF0E7BB73DA636", "target": "Bethric ha notizie da condividere con te." },
     { "gameKey": "quest/032/LucKla302_03234#TEXT_LUCKLA302_03234_TODO_00", "hash": "751BE5543CB62388", "target": "Controlla come sta Skip alla Colombaia di Temenos" },
-    { "gameKey": "quest/032/LucKla302_03234#TEXT_LUCKLA302_03234_TODO_01", "hash": "C971FEB6B4AE5A62", "target": "Con la chat in modalità <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, inserisci una frase contenente “everything will be fine” per confortare Skip" },
+    { "gameKey": "quest/032/LucKla302_03234#TEXT_LUCKLA302_03234_TODO_01", "hash": "C971FEB6B4AE5A62", "target": "Con la chat in modalità <colortype(500)><edgecolortype(501)>Parla<edgecolortype(0)><colortype(0)>, inserisci una frase contenente «everything will be fine» per confortare Skip" },
     { "gameKey": "quest/032/LucKla302_03234#TEXT_LUCKLA302_03234_TODO_02", "hash": "FCFFA36F03F371C8", "target": "<if([lnum1<lnum2],Realizza un'offerta di dolci <sheet(Addon,9,0)>,Consegna l'offerta di dolci <sheet(Addon,9,0)> a Bethric)>" },
     { "gameKey": "quest/032/LucKla302_03234#TEXT_LUCKLA302_03234_TODO_03", "hash": "6C44D5A8F3DDFCA2", "target": "Parla con Bethric a Lydha Lran, a Il Mheg" },
     { "gameKey": "quest/032/LucKla302_03234#TEXT_LUCKLA302_03234_TODO_04", "hash": "77A0A72721E677E3", "target": "Parla con Bethric" },
@@ -26,7 +26,7 @@
     { "gameKey": "quest/032/LucKla302_03234#TEXT_LUCKLA302_03234_BETHRIC_000_012", "hash": "C0155BDF8720F8F4", "target": "Ora che avete la sua attenzione, potreste assicurargli che <colortype(500)><edgecolortype(501)>everything will be fine<edgecolortype(0)><colortype(0)>?" },
     { "gameKey": "quest/032/LucKla302_03234#TEXT_LUCKLA302_03234_SAYTODO_000_013", "hash": "F6105E0CD06AA3DA", "target": "everything will be fine" },
     { "gameKey": "quest/032/LucKla302_03234#TEXT_LUCKLA302_03234_BETHRIC_000_014", "hash": "869B51F38BE472F4", "target": "Vi prego, assicurategli che <colortype(500)><edgecolortype(501)>everything will be fine<edgecolortype(0)><colortype(0)>. Ci ha praticamente ignorati, ma credo che ascolterà voi." },
-    { "gameKey": "quest/032/LucKla302_03234#TEXT_LUCKLA302_03234_SYSTEM_000_015", "hash": "25A03552AD9EE76D", "target": "Con la chat in modalità <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, usa la tastiera o la tastiera software per inserire “everything will be fine” e rasserenare l'amaro." },
+    { "gameKey": "quest/032/LucKla302_03234#TEXT_LUCKLA302_03234_SYSTEM_000_015", "hash": "25A03552AD9EE76D", "target": "Con la chat in modalità <colortype(500)><edgecolortype(501)>Parla<edgecolortype(0)><colortype(0)>, usa la tastiera o la tastiera software per inserire «everything will be fine» e rasserenare l'amaro." },
     { "gameKey": "quest/032/LucKla302_03234#TEXT_LUCKLA302_03234_BETHRIC_000_020", "hash": "E8A8B2F9C4D86576", "target": "È... è come se fosse diventato una creatura del tutto diversa! Sembra così felice, così spensierato." },
     { "gameKey": "quest/032/LucKla302_03234#TEXT_LUCKLA302_03234_BETHRIC_000_021", "hash": "B3D0E9155C0D20F3", "target": "Forse adesso anch'io potrò arrivare al suo cuore." },
     { "gameKey": "quest/032/LucKla302_03234#TEXT_LUCKLA302_03234_BETHRIC_000_022", "hash": "5950E43CAF595379", "target": "Skip!" },
@@ -98,6 +98,6 @@
     { "gameKey": "quest/032/LucKla302_03234#TEXT_LUCKLA302_03234_BETHRIC_000_102", "hash": "8D6081FB025664D8", "target": "O forse stavo sognando... Non crederete che possa essere qualche crudele scherzo dei pixie, vero?" },
     { "gameKey": "quest/032/LucKla302_03234#TEXT_LUCKLA302_03234_KNEMCHELEIMIN_000_103", "hash": "740730F6107EE194", "target": "Mi scalda il cuore vedere Skip tornato al Crystarium, ma non l'avevate lasciato a Wolekdorf?" },
     { "gameKey": "quest/032/LucKla302_03234#TEXT_LUCKLA302_03234_SKIP_000_104", "hash": "610756DA33EA910B", "target": "..." },
-    { "gameKey": "quest/032/LucKla302_03234#TEXT_LUCKLA302_03234_SYSTEM_000_105", "hash": "6F21DB43757ED20C", "target": "La prossima richiesta sarà disponibile presso Bethric al raggiungimento del livello 78 come Alchemist o Culinarian." }
+    { "gameKey": "quest/032/LucKla302_03234#TEXT_LUCKLA302_03234_SYSTEM_000_105", "hash": "6F21DB43757ED20C", "target": "La prossima richiesta sarà disponibile presso Bethric al raggiungimento del livello 78 come alchimista o Cuoco." }
   ]
 }
