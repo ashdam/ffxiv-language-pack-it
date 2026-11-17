@@ -48,8 +48,8 @@
     { "gameKey": "quest/041/AktKla506_04165#TEXT_AKTKLA506_04165_TLAQATIA_000_044", "hash": "8425385B7875F20C", "target": "Come sempre, il professor Nele mi ha dato molto su cui riflettere. Finora, mi divertivo semplicemente a risolvere i misteri del mondo con le mie ricerche. Solo ora comincio a capire che potrebbe esserci qualcosa di più." },
     { "gameKey": "quest/041/AktKla506_04165#TEXT_AKTKLA506_04165_TLAQATIA_000_045", "hash": "EC23F1549B90BE4F", "target": "Perdonami, ma vorrei rifletterci ancora. Potrò contare di nuovo sul tuo aiuto quando avrò deciso?" },
     { "gameKey": "quest/041/AktKla506_04165#TEXT_AKTKLA506_04165_TLAQATIA_000_046", "hash": "11AD0EDF1B9F1C19", "target": "Giuro, sento che non ci sono limiti a ciò che posso realizzare finché sei al mio fianco!" },
-    { "gameKey": "quest/041/AktKla506_04165#TEXT_AKTKLA506_04165_SYSTEM_000_047", "hash": "3D1E77DD842F2DED", "target": "T'laqa Tia è elettrizzato dai tuoi sforzi. Ora ti considera <colortype(500)><edgecolortype(501)>Fantastic Fisher<edgecolortype(0)><colortype(0)>!" },
-    { "gameKey": "quest/041/AktKla506_04165#TEXT_AKTKLA506_04165_SYSTEM_000_048", "hash": "1627946FBC03976B", "target": "La prossima richiesta sarà disponibile presso T'laqa Tia al raggiungimento del livello 90 come Fisher." },
+    { "gameKey": "quest/041/AktKla506_04165#TEXT_AKTKLA506_04165_SYSTEM_000_047", "hash": "3D1E77DD842F2DED", "target": "T'laqa Tia è elettrizzato dai tuoi sforzi. Ora ti considera <colortype(500)><edgecolortype(501)><if(gnum4,Pescatrice Fantastica,Pescatore Fantastico)><edgecolortype(0)><colortype(0)>!" },
+    { "gameKey": "quest/041/AktKla506_04165#TEXT_AKTKLA506_04165_SYSTEM_000_048", "hash": "1627946FBC03976B", "target": "La prossima richiesta sarà disponibile presso T'laqa Tia al raggiungimento del livello 90 di pesca." },
     { "gameKey": "quest/041/AktKla506_04165#TEXT_AKTKLA506_04165_SYSTEM_000_049", "hash": "39B5F959F63E8878", "target": "Per intraprendere la missione successiva, devi prima completare la missione dello scenario principale «Il cammino della fine»." }
   ]
 }

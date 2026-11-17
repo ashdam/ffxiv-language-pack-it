@@ -158,7 +158,7 @@
     { "gameKey": "cut_scene/060/VoiceMan_06006#TEXT_VOICEMAN_06006_001440_CID", "hash": "3A50D790AA4AFD8A", "target": "Be', dato che il suo scopo è cambiato, mi sembrava giusto darle un nome più evocativo. L'ho suggerito a Fourchenault, che si è mostrato favorevole all'idea." },
     { "gameKey": "cut_scene/060/VoiceMan_06006#TEXT_VOICEMAN_06006_001450_FOURCHENAULT", "hash": "ACD8D898EE35F673", "target": "Come sapete, questa nave è il frutto di una collaborazione senza precedenti." },
     { "gameKey": "cut_scene/060/VoiceMan_06006#TEXT_VOICEMAN_06006_001460_FOURCHENAULT", "hash": "6AA60512A47ED4B8", "target": "E benché tale collaborazione sia merito degli Eredi, c'è un'altra persona le cui nobili gesta hanno reso possibile il nostro lavoro." },
-    { "gameKey": "cut_scene/060/VoiceMan_06006#TEXT_VOICEMAN_06006_001470_FOURCHENAULT", "hash": "613B577A73EB9702", "target": "Da un frammento di Dalamud abbiamo ricavato non solo materiali avanzati, come l'adamantite raffinata, ma anche le conoscenze necessarie a viaggiare fra le stelle." },
+    { "gameKey": "cut_scene/060/VoiceMan_06006#TEXT_VOICEMAN_06006_001470_FOURCHENAULT", "hash": "613B577A73EB9702", "target": "Da un frammento di Dalamud abbiamo ricavato non solo materiali avanzati, come l'adamantio raffinato, ma anche le conoscenze necessarie a viaggiare fra le stelle." },
     { "gameKey": "cut_scene/060/VoiceMan_06006#TEXT_VOICEMAN_06006_001480_FOURCHENAULT", "hash": "3BF68C0684798530", "target": "E quel frammento non sarebbe mai giunto fino a noi se l'Arconte Louisoix non avesse combattuto per proteggere questo mondo, sacrificando così la propria vita." },
     { "gameKey": "cut_scene/060/VoiceMan_06006#TEXT_VOICEMAN_06006_001490_FOURCHENAULT", "hash": "31D05EE0D36A5CD6", "target": "Ora che la nave è completa, non posso fare a meno di chiedermi se sia stato qualcosa di più di una semplice coincidenza..." },
     { "gameKey": "cut_scene/060/VoiceMan_06006#TEXT_VOICEMAN_06006_001500_FOURCHENAULT", "hash": "2A003ED2B38C7794", "target": "E se mio padre avesse voluto guidarci fin qui?" },
@@ -955,7 +955,7 @@
     { "gameKey": "cut_scene/060/VoiceMan_06006#TEXT_VOICEMAN_06006_009100_TATARU", "hash": "8CE4A838F46A1B5F", "target": "Qualcuno deve tenere in ordine le Pietre Risorte, e anche un'organizzazione segretissima ha bisogno di una base operativa segretissima." },
     { "gameKey": "cut_scene/060/VoiceMan_06006#TEXT_VOICEMAN_06006_009110_TATARU", "hash": "97F67973755B4A2B", "target": "Per il resto del mondo, sarà soltanto il laboratorio della più promettente artigiana di Eorzea!" },
     { "gameKey": "cut_scene/060/VoiceMan_06006#TEXT_VOICEMAN_06006_009120_TATARU", "hash": "7597DD56EC683EE7", "target": "Se pensavate che le nostre casse fossero già stracolme, aspettate che possa dedicarmi interamente all'artigianato." },
-    { "gameKey": "cut_scene/060/VoiceMan_06006#TEXT_VOICEMAN_06006_009130_ALISAIE", "hash": "FCBE92E530A90EF6", "target": "Stai già progettando un impero mercantile che rivaleggi con quello di lord Lolorito, eh?" },
+    { "gameKey": "cut_scene/060/VoiceMan_06006#TEXT_VOICEMAN_06006_009130_ALISAIE", "hash": "FCBE92E530A90EF6", "target": "Stai già progettando un impero mercantile che rivaleggi con quello del Signor Lolorito, eh?" },
     { "gameKey": "cut_scene/060/VoiceMan_06006#TEXT_VOICEMAN_06006_009140_GRAHATIA", "hash": "21B0A9B7719CDF8D", "target": "Da parte mia, attendo con gioia i tuoi futuri successi e il nostro prossimo incontro, Tataru." },
     { "gameKey": "cut_scene/060/VoiceMan_06006#TEXT_VOICEMAN_06006_009150_TATARU", "hash": "92ABFCF30F1384A1", "target": "Detto questo, credo sia proprio ora che vi prepariate tutti a partire." },
     { "gameKey": "cut_scene/060/VoiceMan_06006#TEXT_VOICEMAN_06006_009160_TATARU", "hash": "7CE2BE14D7753C50", "target": "Non lasciate niente in sospeso, né preparativi né parole da dirvi. D'accordo? Ora, andate!" },
@@ -982,7 +982,7 @@
     { "gameKey": "cut_scene/060/VoiceMan_06006#TEXT_VOICEMAN_06006_009370_ELIDIBUS", "hash": "E2F1BE7550E69DD6", "target": "(-???-)Sì... Immersa in un'oscurità profonda come una notte senza stelle, la bestia ha fame." },
     { "gameKey": "cut_scene/060/VoiceMan_06006#TEXT_VOICEMAN_06006_009380_ELIDIBUS", "hash": "F62649EEAC991D52", "target": "(-???-)Ahimè, non oso indagare a fondo prima dell'arrivo della mia stella guida, come era stato predetto." },
     { "gameKey": "cut_scene/060/VoiceMan_06006#TEXT_VOICEMAN_06006_009390_ELIDIBUS", "hash": "BEF364717CC159DE", "target": "(-???-)Ahimè, non oso indagare a fondo prima dell'arrivo della mia stella guida, come era stato predetto." },
-    { "gameKey": "cut_scene/060/VoiceMan_06006#TEXT_VOICEMAN_06006_009400_ELIDIBUS", "hash": "BAD8B4F1A5EE91E5", "target": "(-???-)Scenderemo negli abissi, tu e io, per affrontare la temibile bestia Pandæmonium." },
+    { "gameKey": "cut_scene/060/VoiceMan_06006#TEXT_VOICEMAN_06006_009400_ELIDIBUS", "hash": "BAD8B4F1A5EE91E5", "target": "(-???-)Scenderemo negli abissi, tu e io, per affrontare la temibile bestia Pandemonio." },
     { "gameKey": "cut_scene/060/VoiceMan_06006#TEXT_VOICEMAN_06006_009410_ELIDIBUS", "hash": "75186917A3327565", "target": "(-???-)Oh, quali meraviglie vedremo. Quali meraviglie vedremo." }
   ]
 }

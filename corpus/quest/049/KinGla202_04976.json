@@ -11,7 +11,7 @@
     { "gameKey": "quest/049/KinGla202_04976#TEXT_KINGLA202_04976_PAMEKA_100_010", "hash": "1E216649A6B3DCFE", "target": "Secondo le mie ricerche, ci serviranno numerosi componenti: piatti, coperture, cordoncini intrecciati... e l'elenco continua." },
     { "gameKey": "quest/049/KinGla202_04976#TEXT_KINGLA202_04976_PAMEKA_000_011", "hash": "6087DEEB8C62FCD4", "target": "Inoltre, una rilegatura può essere fatta quasi di qualunque cosa. Legno, stoffa, cuoio... le possibilità sono infinite." },
     { "gameKey": "quest/049/KinGla202_04976#TEXT_KINGLA202_04976_PAMEKA_000_012", "hash": "95C036F195B58D2F", "target": "Lascerò i particolari a voi e ai vostri gusti artistici. Una volta che avrete preparato materiali a sufficienza, saremo <if(gnum4,pronte,pronti)> a mettere per iscritto i racconti di Zemoweni." },
-    { "gameKey": "quest/049/KinGla202_04976#TEXT_KINGLA202_04976_SYSTEM_000_013", "hash": "A5FD34E86413B408", "target": "Ora puoi effettuare consegne per Epistles by Pameka. Consegnando a Pameka gli oggetti richiesti e guadagnando la sua stima, potrai rilegare nuove storie per Zemoweni." },
+    { "gameKey": "quest/049/KinGla202_04976#TEXT_KINGLA202_04976_SYSTEM_000_013", "hash": "A5FD34E86413B408", "target": "Ora puoi effettuare consegne per le Epistole di Pameka. Consegnando a Pameka gli oggetti richiesti e guadagnando la sua stima, potrai rilegare nuove storie per Zemoweni." },
     { "gameKey": "quest/049/KinGla202_04976#TEXT_KINGLA202_04976_SYSTEM_000_014", "hash": "8582731E1E578F1D", "target": "Gli oggetti con una collezionabilità più alta daranno ricompense maggiori alla consegna. Parla con Pameka per visualizzare l'elenco delle consegne." },
     { "gameKey": "quest/049/KinGla202_04976#TEXT_KINGLA202_04976_PAMEKA_000_100", "hash": "05153B7469C0121A", "target": "Come procede il lavoro, <split(<string(gstr1)>, ,1)>?" },
     { "gameKey": "quest/049/KinGla202_04976#TEXT_KINGLA202_04976_PAMEKA_000_101", "hash": "95FF09A7C3364565", "target": "Sì, questo dovrebbe servire magnificamente ai nostri scopi. Chissà che tipo di libro diventerà?" },
@@ -47,6 +47,6 @@
     { "gameKey": "quest/049/KinGla202_04976#TEXT_KINGLA202_04976_PAMEKA_000_129", "hash": "EF52A12A95AD98CF", "target": "Fate pure! Saremo felici di ascoltarli quando vi sentirete pronto." },
     { "gameKey": "quest/049/KinGla202_04976#TEXT_KINGLA202_04976_PAMEKA_000_130", "hash": "A5CB2F3575717872", "target": "...E così si conclude il nostro primo lavoro! È stato un piacere lavorare con voi, <split(<string(gstr1)>, ,1)>, e ho la sensazione che continuerete a stupirmi." },
     { "gameKey": "quest/049/KinGla202_04976#TEXT_KINGLA202_04976_SYSTEM_000_131", "hash": "B7460C01A6FF17A2", "target": "Pameka è soddisfatta dei tuoi sforzi. Ora ti considera <colortype(500)><edgecolortype(501)>Cover Collaborator<edgecolortype(0)><colortype(0)>!" },
-    { "gameKey": "quest/049/KinGla202_04976#TEXT_KINGLA202_04976_SYSTEM_000_132", "hash": "602B83737DF75B2A", "target": "La prossima richiesta sarà disponibile presso Pameka al raggiungimento del livello 93 come Carpenter, Leatherworker o Weaver." }
+    { "gameKey": "quest/049/KinGla202_04976#TEXT_KINGLA202_04976_SYSTEM_000_132", "hash": "602B83737DF75B2A", "target": "La prossima richiesta sarà disponibile presso Pameka al raggiungimento del livello 93 come falegname, Conciatore o tessitore." }
   ]
 }

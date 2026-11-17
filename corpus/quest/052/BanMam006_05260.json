@@ -56,7 +56,7 @@
     { "gameKey": "quest/052/BanMam006_05260#TEXT_BANMAM006_05260_RUVOLLJA_000_077", "hash": "B278DEDD344CD974", "target": "E questo è soltanto perché c'eravate voi due ad aiutare. Grazie, non lo dirò mai abbastanza!" },
     { "gameKey": "quest/052/BanMam006_05260#TEXT_BANMAM006_05260_RUVOLLJA_000_081", "hash": "7DE48D79CD58DE60", "target": "<split(<string(gstr1)>, ,1)>, continuerò a fare ciò che posso per aiutare Anggir nelle sue ricerche, quindi se hai tempo e voglia, passa pure a trovarci!" },
     { "gameKey": "quest/052/BanMam006_05260#TEXT_BANMAM006_05260_ANGGIR_000_082", "hash": "D6B7C15AB4E02676", "target": "Ti aspetteremo, per mostrarti una fattoria come non ne hai mai viste." },
-    { "gameKey": "quest/052/BanMam006_05260#TEXT_BANMAM006_05260_SYSTEM_000_100", "hash": "BCF1D56D85D02ED3", "target": "Hai raggiunto una reputazione <colortype(500)><edgecolortype(501)>Bloodsworn<edgecolortype(0)><colortype(0)> con i contadini di Gok Golma." },
+    { "gameKey": "quest/052/BanMam006_05260#TEXT_BANMAM006_05260_SYSTEM_000_100", "hash": "BCF1D56D85D02ED3", "target": "Hai raggiunto una reputazione <colortype(500)><edgecolortype(501)>Patto di Sangue<edgecolortype(0)><colortype(0)> con i contadini di Gok Golma." },
     { "gameKey": "quest/052/BanMam006_05260#TEXT_BANMAM006_05260_SYSTEM_000_101", "hash": "FD7DDD527E05A7CD", "target": "Riceverai un bonus ai punti esperienza completando le missioni giornaliere della società Mamool Ja." },
     { "gameKey": "quest/052/BanMam006_05260#TEXT_BANMAM006_05260_SYSTEM_100_101", "hash": "4362F3893610C06F", "target": "Ora hai accesso a un assortimento più ampio di merci presso Veerul Ja." }
   ]

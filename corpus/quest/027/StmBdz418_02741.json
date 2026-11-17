@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/027/StmBdz418_02741#TEXT_STMBDZ418_02741_SEQ_00", "hash": "D5B68D638625D16E", "target": "Gyoku del Maniero Yuzuka ha un compito da affidare a chi è disposto a un'avventura." },
-    { "gameKey": "quest/027/StmBdz418_02741#TEXT_STMBDZ418_02741_TODO_00", "hash": "87085A037DBB560E", "target": "Usa il Muddy Water sui Namazu ubriachi" },
+    { "gameKey": "quest/027/StmBdz418_02741#TEXT_STMBDZ418_02741_TODO_00", "hash": "87085A037DBB560E", "target": "Usa l'acqua fangosa sui Namazu ubriachi" },
     { "gameKey": "quest/027/StmBdz418_02741#TEXT_STMBDZ418_02741_TODO_01", "hash": "2AB7D6751D9C1C85", "target": "Fai rapporto a Gyoku" },
     { "gameKey": "quest/027/StmBdz418_02741#TEXT_STMBDZ418_02741_GYOKU_000_000", "hash": "9F16847E54730D59", "target": "Che fortuna essere <if(gnum4,venuta,venuto)> qui. Sì, sì. I Namazu di questa dimora amano ogni genere di persona. Qui sarai sempre <if(gnum4,la benvenuta,il benvenuto)>, quando vuoi." },
     { "gameKey": "quest/027/StmBdz418_02741#TEXT_STMBDZ418_02741_GYOKU_000_001", "hash": "BCB6735E2B8A293B", "target": "E la tua visita non poteva arrivare in un momento migliore. Ho proprio un compito da sbrigare." },

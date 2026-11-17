@@ -51,7 +51,7 @@
     { "gameKey": "quest/035/LucKzi101_03556#TEXT_LUCKZI101_03556_VILLAGERA03556_000_040", "hash": "9988AE31D57C8EFC", "target": "Vuoi parlare con me?" },
     { "gameKey": "quest/035/LucKzi101_03556#TEXT_LUCKZI101_03556_Q3_000_000", "hash": "8CB18BDC89649BBA", "target": "Cosa vuoi fare?" },
     { "gameKey": "quest/035/LucKzi101_03556#TEXT_LUCKZI101_03556_A3_000_001", "hash": "725FCB590F2FFC62", "target": "Salutare alla maniera dei nani." },
-    { "gameKey": "quest/035/LucKzi101_03556#TEXT_LUCKZI101_03556_A3_000_002", "hash": "A0E4A7EFDF6B57F9", "target": "Salutare alla maniera eorzeana." },
+    { "gameKey": "quest/035/LucKzi101_03556#TEXT_LUCKZI101_03556_A3_000_002", "hash": "A0E4A7EFDF6B57F9", "target": "Salutare alla maniera Eorzeana." },
     { "gameKey": "quest/035/LucKzi101_03556#TEXT_LUCKZI101_03556_VILLAGERA03556_000_041", "hash": "500B3BE1B39E6F02", "target": "Oho! Che bel «lali-ho» hai, <if(gnum4,ragazza,ragazzo)>. Mi piaci!" },
     { "gameKey": "quest/035/LucKzi101_03556#TEXT_LUCKZI101_03556_VILLAGERA03556_000_042", "hash": "7E86B384F517D160", "target": "...Uhm? <if(gnum4,Lei,Lui)> cerca di dirmi qualcosa, ne sono certo..." },
     { "gameKey": "quest/035/LucKzi101_03556#TEXT_LUCKZI101_03556_VILLAGERA03556_000_043", "hash": "821299995A9DDDBF", "target": "Ronitt...? Ah, quel moccioso scontroso ha perso il martello del vecchio Watts? Per sua fortuna, credo che quel gentiluomo nano laggiù l'abbia raccolto!" },

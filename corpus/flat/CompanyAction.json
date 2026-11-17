@@ -31,11 +31,11 @@
     { "gameKey": "CompanyAction#14.0", "hash": "294E9C9BA826F5CD", "target": "Cura Adeguata" },
     { "gameKey": "CompanyAction#14.1", "hash": "C138A60AD95521EF", "target": "Rallenta del 10% l'usura dell'equipaggiamento.<br><colortype(504)><edgecolortype(505)>Durata:<edgecolortype(0)><colortype(0)> 24h" },
     { "gameKey": "CompanyAction#15.0", "hash": "4EE381BFF25D97AD", "target": "Piede Veloce" },
-    { "gameKey": "CompanyAction#15.1", "hash": "6FFCB18779259BC7", "target": "Aumenta la durata di <colortype(506)><edgecolortype(507)>Sprint<edgecolortype(0)><colortype(0)> nei grandi insediamenti del 25%.<br><colortype(504)><edgecolortype(505)>Durata:<edgecolortype(0)><colortype(0)> 24h" },
+    { "gameKey": "CompanyAction#15.1", "hash": "6FFCB18779259BC7", "target": "Aumenta la durata di <colortype(506)><edgecolortype(507)>Scatto<edgecolortype(0)><colortype(0)> nei grandi insediamenti del 25%.<br><colortype(504)><edgecolortype(505)>Durata:<edgecolortype(0)><colortype(0)> 24h" },
     { "gameKey": "CompanyAction#16.0", "hash": "458DCA1CC579C43A", "target": "Tariffe Ridotte" },
     { "gameKey": "CompanyAction#16.1", "hash": "68A9279157CBE4C5", "target": "Riduce del 20% le tariffe di teletrasporto.<br><colortype(504)><edgecolortype(505)>Durata:<edgecolortype(0)><colortype(0)> 24h" },
     { "gameKey": "CompanyAction#17.0", "hash": "3F7EE3881EFB174C", "target": "Bottino Massimo" },
-    { "gameKey": "CompanyAction#17.1", "hash": "7B2F7EE2F31ABCAB", "target": "Aumenta del 5% gli MGP ottenuti.<br><colortype(504)><edgecolortype(505)>Durata:<edgecolortype(0)><colortype(0)> 24h" },
+    { "gameKey": "CompanyAction#17.1", "hash": "7B2F7EE2F31ABCAB", "target": "Aumenta del 5% i PGS ottenuti.<br><colortype(504)><edgecolortype(505)>Durata:<edgecolortype(0)><colortype(0)> 24h" },
     { "gameKey": "CompanyAction#31.0", "hash": "F860F2E5CC6726E7", "target": "Il Fervore della Battaglia II" },
     { "gameKey": "CompanyAction#31.1", "hash": "426317C181379B5F", "target": "Aumenta del 10% gli ESP ottenuti in battaglia.<br><colortype(504)><edgecolortype(505)>Durata:<edgecolortype(0)><colortype(0)> 24h" },
     { "gameKey": "CompanyAction#32.0", "hash": "5F83B8C572B7F5CF", "target": "Terra e Acqua II" },
@@ -65,11 +65,11 @@
     { "gameKey": "CompanyAction#44.0", "hash": "58507DDEC4A4BB42", "target": "Cura Adeguata II" },
     { "gameKey": "CompanyAction#44.1", "hash": "CEA39283387176D7", "target": "Rallenta del 20% l'usura dell'equipaggiamento.<br><colortype(504)><edgecolortype(505)>Durata:<edgecolortype(0)><colortype(0)> 24h" },
     { "gameKey": "CompanyAction#45.0", "hash": "E0435701A43B5A3A", "target": "Piede Veloce II" },
-    { "gameKey": "CompanyAction#45.1", "hash": "B8E45351FB6B5D65", "target": "Aumenta la durata di <colortype(506)><edgecolortype(507)>Sprint<edgecolortype(0)><colortype(0)> nei grandi insediamenti del 50%.<br><colortype(504)><edgecolortype(505)>Durata:<edgecolortype(0)><colortype(0)> 24h" },
+    { "gameKey": "CompanyAction#45.1", "hash": "B8E45351FB6B5D65", "target": "Aumenta la durata di <colortype(506)><edgecolortype(507)>Scatto<edgecolortype(0)><colortype(0)> nei grandi insediamenti del 50%.<br><colortype(504)><edgecolortype(505)>Durata:<edgecolortype(0)><colortype(0)> 24h" },
     { "gameKey": "CompanyAction#46.0", "hash": "9ABEC193536F3C79", "target": "Tariffe Ridotte II" },
     { "gameKey": "CompanyAction#46.1", "hash": "A5F301F439A7EF1A", "target": "Riduce del 30% le tariffe di teletrasporto.<br><colortype(504)><edgecolortype(505)>Durata:<edgecolortype(0)><colortype(0)> 24h" },
     { "gameKey": "CompanyAction#47.0", "hash": "15D8C8C65885E08D", "target": "Bottino Massimo II" },
-    { "gameKey": "CompanyAction#47.1", "hash": "4E95544DC6F7AC09", "target": "Aumenta del 10% gli MGP ottenuti.<br><colortype(504)><edgecolortype(505)>Durata:<edgecolortype(0)><colortype(0)> 24h" },
+    { "gameKey": "CompanyAction#47.1", "hash": "4E95544DC6F7AC09", "target": "Aumenta del 10% i PGS ottenuti.<br><colortype(504)><edgecolortype(505)>Durata:<edgecolortype(0)><colortype(0)> 24h" },
     { "gameKey": "CompanyAction#61.0", "hash": "1DE037680BADC022", "target": "Il Fervore della Battaglia III" },
     { "gameKey": "CompanyAction#61.1", "hash": "8D01EE0958B01DAE", "target": "Aumenta del 15% gli ESP ottenuti in battaglia.<br><colortype(504)><edgecolortype(505)>Durata:<edgecolortype(0)><colortype(0)> 24h" },
     { "gameKey": "CompanyAction#62.0", "hash": "ED9E4072BD45331C", "target": "Terra e Acqua III" },
@@ -99,6 +99,6 @@
     { "gameKey": "CompanyAction#76.0", "hash": "8A865986F9EEC4C4", "target": "Tariffe Ridotte III" },
     { "gameKey": "CompanyAction#76.1", "hash": "812D45806A994F81", "target": "Riduce del 40% le tariffe di teletrasporto.<br><colortype(504)><edgecolortype(505)>Durata:<edgecolortype(0)><colortype(0)> 24h" },
     { "gameKey": "CompanyAction#77.0", "hash": "C83C1179935C383F", "target": "Bottino Massimo III" },
-    { "gameKey": "CompanyAction#77.1", "hash": "AE2C15372DB282F7", "target": "Aumenta del 15% gli MGP ottenuti.<br><colortype(504)><edgecolortype(505)>Durata:<edgecolortype(0)><colortype(0)> 24h" }
+    { "gameKey": "CompanyAction#77.1", "hash": "AE2C15372DB282F7", "target": "Aumenta del 15% i PGS ottenuti.<br><colortype(504)><edgecolortype(505)>Durata:<edgecolortype(0)><colortype(0)> 24h" }
   ]
 }

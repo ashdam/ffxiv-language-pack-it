@@ -19,7 +19,7 @@
     { "gameKey": "quest/020/HeaVny801_02095#TEXT_HEAVNY801_02095_LYDIRLONA_000_015", "hash": "25CCC002CDCBCEB3", "target": "Potrete vendere questi oggetti alla Casa presso una qualsiasi delle nostre filiali, comprese quelle di Limsa Lominsa, Gridania e Ul'dah." },
     { "gameKey": "quest/020/HeaVny801_02095#TEXT_HEAVNY801_02095_LYDIRLONA_000_016", "hash": "AEAF3B1C5C7AB72A", "target": "Vi informo che queste condizioni non sono negoziabili, <if(gnum4,signorina,signore)>. Vi ringraziamo per la comprensione." },
     { "gameKey": "quest/020/HeaVny801_02095#TEXT_HEAVNY801_02095_SYSTEM_000_017", "hash": "1E4C049CEFC04E02", "target": "Ora puoi fabbricare e raccogliere collezionabili!" },
-    { "gameKey": "quest/020/HeaVny801_02095#TEXT_HEAVNY801_02095_SYSTEM_000_018", "hash": "96773DDFCDDBDC03", "target": "Puoi scambiare i collezionabili con crafter e gatherer gettone parlando con i periti della Casa degli Splendori di Rowena." },
+    { "gameKey": "quest/020/HeaVny801_02095#TEXT_HEAVNY801_02095_SYSTEM_000_018", "hash": "96773DDFCDDBDC03", "target": "Puoi scambiare i collezionabili con i gettoni degli Artigiani e dei Raccoglitori parlando con i periti della Casa degli Splendori di Rowena." },
     { "gameKey": "quest/020/HeaVny801_02095#TEXT_HEAVNY801_02095_SYSTEM_100_018", "hash": "39C647EE5EC29EE4", "target": "Questi gettone si possono scambiare con oggetti utilizzabili dai Discepoli della Terra o della Mano." },
     { "gameKey": "quest/020/HeaVny801_02095#TEXT_HEAVNY801_02095_SYSTEM_000_019", "hash": "26134ABBD8176943", "target": "Per saperne di più sui collezionabili, parla con Lydirlona." }
   ]

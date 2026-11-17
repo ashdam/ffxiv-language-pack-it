@@ -2,8 +2,8 @@
   "conversation": "quest/019/HeaVnz915_01980",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_SEQ_00", "hash": "8EF6A8A644CC3236", "target": "Il nodo di sterilizzazione allagano attende in silenzio l'interazione dell'utente." },
-    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_SEQ_01", "hash": "A29F63C29769BFC3", "target": "Il nodo di sterilizzazione allagano ti informa che la struttura ha perso il collegamento di controllo con cinque unità di pulizia, i clockwork harvestmen. Queste unità sono fuori controllo e pericolose. Distruggile." },
+    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_SEQ_00", "hash": "8EF6A8A644CC3236", "target": "Il nodo di sterilizzazione Allagano attende in silenzio l'interazione dell'utente." },
+    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_SEQ_01", "hash": "A29F63C29769BFC3", "target": "Il nodo di sterilizzazione Allagano ti informa che la struttura ha perso il collegamento di controllo con cinque unità di pulizia, i clockwork harvestmen. Queste unità sono fuori controllo e pericolose. Distruggile." },
     { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_SEQ_02", "hash": "16AAACA7BBE7364E", "target": "Distruggi l'attrezzatura difettosa. Aggiorna il nodo di sterilizzazione con queste nuove informazioni." },
     { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_SEQ_03", "hash": "F602B10CE03A78D1", "target": "Ora che le unità che non rispondevano sono state smantellate, il nodo di sterilizzazione può riprendere il lavoro, ma scopri che la sostituzione del sistema è in enorme ritardo. Purtroppo, non puoi farci nulla." },
     { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_TODO_00", "hash": "E8EC6143BD416EED", "target": "Sconfiggi dei clockwork harvestmen." },

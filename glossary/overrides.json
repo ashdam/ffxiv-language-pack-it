@@ -729,8 +729,9 @@
     },
     {
       "en": "Empyreum",
-      "protect": true,
-      "note": "Opaque Latin proper name of the housing district. Translate generic directional and subdivision modifiers."
+      "it": "Empireo",
+      "protect": false,
+      "note": "Nome del distretto residenziale di Ishgard: «Empireo». Adattare articoli e preposizioni; conservare i modificatori di suddivisione."
     },
     {
       "en": "simular",
@@ -761,8 +762,9 @@
     },
     {
       "en": "Ruby Bomb",
-      "protect": true,
-      "note": "Exact shooting target label Addon#9740. Use the English singular form for both numbers while that label is English; not the generic creature family piros."
+      "it": "Bomba Rubino",
+      "protect": false,
+      "note": "Nome dell'etichetta di bersaglio Addon#9740: «Bomba Rubino»; distinto dalla famiglia generica dei piros."
     },
     {
       "en": "Salthounds",
@@ -868,8 +870,9 @@
     },
     {
       "en": "Words of Halmarut",
-      "protect": true,
-      "note": "Keep the complete ancient institution and PlaceName#3013 label, as with Words of Lahabrea."
+      "it": "Discorsi di Halmarut",
+      "protect": false,
+      "note": "Nome dell'istituzione antica: «Discorsi di Halmarut», come «Discorsi di Lahabrea»; include PlaceName#3013."
     },
     {
       "en": "Pale Harvest",
@@ -1113,8 +1116,9 @@
       "en": "warp loader",
       "fr": "déblayeuse cosmique",
       "ja": "ホイールローダー",
-      "protect": true,
-      "note": "Keep the untranslated Mount and vehicle name; use masculine agreement. Keep complete Item labels."
+      "it": "pala cosmica",
+      "protect": false,
+      "note": "Resa italiana: «pala cosmica»."
     },
     {
       "en": "floatstone",
@@ -1128,8 +1132,9 @@
       "en": "Grav Rammer",
       "fr": "Cosmomarteau-piqueur",
       "ja": "コスモランマー",
-      "protect": true,
-      "note": "Keep the Action#42065 label when the worker names or instructs the use of this tool."
+      "it": "Schianto Gravitazionale",
+      "protect": false,
+      "note": "Nome dell'azione e dello strumento Action#42065: «Schianto Gravitazionale»."
     },
     {
       "en": "Bubble Bloom",
@@ -1233,8 +1238,9 @@
     },
     {
       "en": "Hyperelectricity",
-      "protect": true,
-      "note": "Preserve the named Weather phenomenon; generic electrical storms remain translatable."
+      "it": "iperelettricità",
+      "protect": false,
+      "note": "Fenomeno meteorologico: «iperelettricità». Non confondere con le tempeste elettriche generiche."
     },
     {
       "en": "fightyhurts",
@@ -1304,8 +1310,9 @@
     },
     {
       "en": "sneakway",
-      "protect": true,
-      "note": "Keep the short Brayflox route name in English. Do not expand it to Watergush Sneakway or claim identity with PlaceName#1339."
+      "it": "scorciatoia",
+      "protect": false,
+      "note": "Percorso secondario: «scorciatoia». La forma estesa «Watergush Sneakway» è «Scorciatoia dello Zampillo» in PlaceName#1339."
     },
     {
       "en": "dirtymake",
@@ -1543,13 +1550,15 @@
     },
     {
       "en": "hyperelectric",
-      "protect": true,
-      "note": "Keep the exact weather adjective in an announcement of this recognizable condition."
+      "it": "iperelettrico",
+      "protect": false,
+      "note": "Aggettivo del fenomeno meteorologico: «iperelettrico», con accordo."
     },
     {
       "en": "skywheel",
-      "protect": true,
-      "note": "Keep the selectable enemy label. Do not use the literal sky metaphor for a fairground wheel."
+      "it": "ruota panoramica",
+      "protect": false,
+      "note": "Attrazione del luna park: «ruota panoramica». Riferimento: KTGTypeWordTextData#1617."
     },
     {
       "en": "guthurt",
@@ -1715,13 +1724,15 @@
     },
     {
       "en": "Cosmo Memory",
-      "protect": true,
-      "note": "Keep the exact action name and the source uppercase pattern."
+      "it": "Memoria Cosmica",
+      "protect": false,
+      "note": "Resa italiana: «Memoria Cosmica»."
     },
     {
       "en": "Heartsting",
-      "protect": true,
-      "note": "Keep the heirloom name; do not treat status descriptions as item labels."
+      "it": "Puntura al Cuore",
+      "protect": false,
+      "note": "Oggetto femminile: «Puntura al Cuore»; adattare articoli e accordi."
     },
     {
       "en": "Shorty",
@@ -1755,13 +1766,15 @@
     },
     {
       "en": "Avenger",
-      "protect": true,
-      "note": "Keep the robot name in English. Do not expand this short form to a full magitek enemy label."
+      "it": "Vendicatore",
+      "protect": false,
+      "note": "Resa italiana: «Vendicatore»."
     },
     {
       "en": "drake",
-      "protect": true,
-      "note": "Keep generic drake in English where no directly applicable legacy translation exists. Exception: Fate#441.1 translates drakes as draconi per data/translations/world/fate.json#441:translation_description; do not generalize to other creature names."
+      "it": "draco",
+      "protect": false,
+      "note": "Creatura: «draco», plurale «draconi»; non estendere a dragon o ad altri nomi di creature."
     },
     {
       "en": "sky armor",
@@ -2343,7 +2356,7 @@
       "en": "When in Doma, Do as the Domans Do: A Guide for Ijin",
       "protect": false,
       "note": "Unverified Italian form. Narrative book title; retain Doma and ijin.",
-      "it": "A Doma, fai come i domani: una guida per gli ijin"
+      "it": "A Doma, fai come i Domani: una guida per gli ijin"
     },
     {
       "en": "Lords of the Dance",
@@ -2389,7 +2402,8 @@
     },
     {
       "en": "\\<smack>",
-      "protect": true,
+      "it": "\\<smack>",
+      "protect": false,
       "note": "Decisione dell'utente (stile fumetto): mantenere \\<smack> accanto a slurp per il suono orale nei tag letterali visibili. Conservare l'escape."
     },
     {
@@ -2428,8 +2442,9 @@
     },
     {
       "en": "astromagnetic storm",
-      "protect": true,
-      "note": "Keep the exact Weather name and source number. Keep the exact Weather name and source number."
+      "it": "tempesta astromagnetica",
+      "protect": false,
+      "note": "Fenomeno meteorologico: «tempesta astromagnetica»; conservare il numero della sorgente."
     },
     {
       "en": "annealing winds",
@@ -2439,8 +2454,9 @@
     },
     {
       "en": "auroral flare",
-      "protect": true,
-      "note": "Keep the exact Weather name and source number. Keep the exact Weather name and source number."
+      "it": "bagliore aurorale",
+      "protect": false,
+      "note": "Fenomeno meteorologico: «bagliore aurorale»; conservare il numero della sorgente."
     },
     {
       "en": "floracane",
@@ -2451,8 +2467,9 @@
     },
     {
       "en": "deftarm",
-      "protect": true,
-      "note": "Use the short selectable NPC name. Do not add Vath. Use the short selectable NPC name. Do not add Vath."
+      "it": "esperto",
+      "protect": false,
+      "note": "Titolo Vath reso «esperto»: l'esperto, gli esperti. Adattare al genere del referente; non aggiungere il nome del popolo."
     },
     {
       "en": "Chirpy Chocobo",
@@ -2768,8 +2785,9 @@
     },
     {
       "en": "Lop Hop",
-      "protect": true,
-      "note": "Exact emote name. Preserve the English name and do not expand it."
+      "it": "Salto Lop",
+      "protect": false,
+      "note": "Resa italiana: «Salto Lop»."
     },
     {
       "en": "burlystrong",
@@ -2953,8 +2971,9 @@
     },
     {
       "en": "Heavensward",
-      "protect": true,
-      "note": "Keep the memoir title in English. Translate the quest title; keep the memoir and expansion name in English."
+      "it": "Verso il cielo",
+      "protect": false,
+      "note": "Titolo dell'espansione e delle memorie: «Verso il cielo». Tradurre nei testi narrativi e nei titoli delle missioni; lasciare invariati i titoli musicali secondo la convenzione del pack."
     },
     {
       "en": "spinners",
@@ -2982,7 +3001,8 @@
     },
     {
       "en": "abyssus",
-      "protect": true,
+      "it": "abyssus",
+      "protect": false,
       "note": "Keep the species Latinism. Do not replace it with the common Italian noun abisso."
     },
     {
@@ -2993,8 +3013,9 @@
     },
     {
       "en": "protean crystals",
-      "protect": true,
-      "note": "Keep the exact Item#21801.2 label in English."
+      "it": "cristalli proteici",
+      "protect": false,
+      "note": "Materiale Eureka: «cristalli proteici» (Item#21801.2)."
     },
     {
       "en": "Defiant",
@@ -3287,8 +3308,9 @@
     },
     {
       "en": "Steps of Maja",
-      "protect": true,
-      "note": "Keep the existing Italian form in narrative text. Do not add the deity's full name when the source uses Maja."
+      "it": "Passi di Maja",
+      "protect": false,
+      "note": "Nome dei sentieri fioriti: «Passi di Maja». Non espandere il nome della divinità quando la sorgente usa Maja. Riferimenti EN/hash verificati: DefaultTalk#596368.20/.21 e #596369.20."
     },
     {
       "en": "Heart of Sabik",
@@ -3479,7 +3501,7 @@
     {
       "en": "\\<slurp>",
       "it": "\\<slurp>",
-      "protect": true,
+      "protect": false,
       "note": "Decisione dell'utente: forma sonora confermata nel registro reviews/onomatopoeia-adaptation-register.csv. Regola limitata al tag letterale visibile; non tradurre i verbi nella prosa ordinaria con l'onomatopea. Conservare ripetizioni, posizione ed escape della parentesi iniziale; non imporre parentesi alle rese sonore gia' valide fuori dai tag."
     },
     {
@@ -3652,8 +3674,10 @@
     },
     {
       "en": "Rolling Tankard",
-      "protect": true,
-      "note": "Keep the vehicle name in English. Do not expand its name to the Item ignition key label."
+      "it": "Boccale Rotolante",
+      "forms": ["Boccali Rotolanti"],
+      "protect": false,
+      "note": "Nome del modello di veicolo: «Boccale Rotolante» al singolare e «Boccali Rotolanti» al plurale. Riferimenti EN/hash verificati in quest/038 e Item#30860/Item#31342."
     },
     {
       "en": "foundation sector",
@@ -3663,8 +3687,9 @@
     },
     {
       "en": "catlike mammet",
-      "protect": true,
-      "note": "Keep the quest giver name in English in access instructions. Do not apply this protection to generic mammets."
+      "it": "automa felino",
+      "protect": false,
+      "note": "Resa italiana: «automa felino»."
     },
     {
       "en": "Articles of Halonic Polity",
@@ -3686,13 +3711,16 @@
     },
     {
       "en": "moon-hopper",
-      "protect": true,
-      "note": "Keep the exact rideable vehicle name in English."
+      "it": "saltatore lunare",
+      "forms": ["saltatori lunari"],
+      "protect": false,
+      "note": "Nome del veicolo dei Loporrit: «saltatore lunare» al singolare e «saltatori lunari» al plurale. Riferimenti EN/hash verificati: DefaultTalk#599114.20 e quest/047/BanLop121_04707."
     },
     {
       "en": "oglops",
-      "protect": true,
-      "note": "Keep the exact enemy and Item label in English. No Italian series form is verified."
+      "it": "oglop",
+      "protect": false,
+      "note": "Resa italiana: «oglop»."
     },
     {
       "en": "Sunway",
@@ -4602,7 +4630,7 @@
     {
       "en": "Euhedron",
       "it": "Euhedron",
-      "protect": true,
+      "protect": false,
       "note": "Decisione dell'utente del 2026-11-12: mantenere Euhedron per la formazione cristallina e il dispositivo di Oizys, nei banner e nei riferimenti allo stesso oggetto. Sostituisce la proposta Euedro. Fonti: corpus/ui/banners.json#ui/icon/128000/en/128508.tex#text e corpus/flat/Fate.json#Fate#2058.0; riconciliazione con conferma esplicita dell'utente."
     },
     {
@@ -4709,7 +4737,8 @@
     },
     {
       "en": "Leveilleur Estate",
-      "protect": true,
+      "it": "Tenuta dei Leveilleur",
+      "protect": false,
       "note": "Aethernet destination."
     },
     {
@@ -4899,7 +4928,8 @@
     },
     {
       "en": "Soboro Sukehiro",
-      "protect": true,
+      "it": "Soboro Sukehiro",
+      "protect": false,
       "note": "Opaque Japanese sword name."
     },
     {
@@ -5611,7 +5641,8 @@
     },
     {
       "en": "porxie",
-      "protect": true,
+      "it": "porxie",
+      "protect": false,
       "note": "Familiar; masculine, invariable plural. Mother porxie: madre porxie."
     },
     {
@@ -5658,22 +5689,26 @@
     },
     {
       "en": "Canopy",
-      "protect": true,
-      "note": "City level in Eulmore; feminine."
+      "it": "tettoia",
+      "protect": false,
+      "note": "Per l'abilità e gli usi comuni: «tettoia». Eccezione del piano di Eulmore PlaceName#3261.2: «La Volta»."
     },
     {
       "en": "Emergent",
-      "protect": true,
+      "it": "Emergente",
+      "protect": false,
       "note": "City level in Eulmore; masculine."
     },
     {
       "en": "Understory",
-      "protect": true,
+      "it": "Sottobosco",
+      "protect": false,
       "note": "City level in Eulmore; masculine."
     },
     {
       "en": "Derelicts",
-      "protect": true,
+      "it": "Relitti",
+      "protect": false,
       "note": "City district in Eulmore; masculine plural."
     },
     {
@@ -5775,7 +5810,8 @@
     },
     {
       "en": "Garlean Legion Tents",
-      "protect": true,
+      "it": "Tende della Legione Garleana",
+      "protect": false,
       "note": "Instance destination label."
     },
     {
@@ -5810,8 +5846,9 @@
     },
     {
       "en": "Elven",
-      "protect": true,
-      "note": "Ethnonym in the First. Keep the capitalized name."
+      "it": "elfico",
+      "protect": false,
+      "note": "Aggettivo «elfico», da accordare; come nome del popolo usare «elfi»."
     },
     {
       "en": "House of the Crooked Coin",
@@ -5899,13 +5936,15 @@
     },
     {
       "en": "Crystalline Mean",
-      "protect": true,
+      "it": "Giusto Mezzo Cristallino",
+      "protect": false,
       "note": "Aetheryte destination. Masculine article."
     },
     {
       "en": "Spagyrics",
-      "protect": true,
-      "note": "Keep the infirmary's one-word proper name."
+      "it": "Spagirica",
+      "protect": false,
+      "note": "Nome dell'infermeria: «Spagirica»."
     },
     {
       "en": "Night's Blessed",
@@ -5934,7 +5973,7 @@
     {
       "en": "Gruenes Licht",
       "it": "Gruenes Licht",
-      "protect": true,
+      "protect": false,
       "note": "Former name of Lyhe Ghiah. Keep the proper name."
     },
     {
@@ -5945,7 +5984,8 @@
     },
     {
       "en": "Ala Mhigan District",
-      "protect": true,
+      "it": "Distretto di Ala Mhigo",
+      "protect": false,
       "note": "Variant for the Ala Mhigan Quarter destination."
     },
     {
@@ -6148,12 +6188,14 @@
     },
     {
       "en": "Pendants",
-      "protect": true,
+      "it": "Pendagli",
+      "protect": false,
       "note": "Aethernet destination. Masculine plural."
     },
     {
       "en": "Dawn Throne",
-      "protect": true,
+      "it": "Trono dell'Alba",
+      "protect": false,
       "note": "Exact untranslated aetheryte or lift selection only. Use Trono dell'Alba for the physical place and narrative references, under PlaceName#2822."
     },
     {
@@ -6212,7 +6254,8 @@
     },
     {
       "en": "House of the Fierce",
-      "protect": true,
+      "it": "Casa dei Fieri",
+      "protect": false,
       "note": "Teleport destination. Feminine article."
     },
     {
@@ -6229,7 +6272,8 @@
     },
     {
       "en": "Baelsar's Wall",
-      "protect": true,
+      "it": "Muro di Baelsar",
+      "protect": false,
       "note": "Duty Finder destination. Translate the shortened descriptor the Wall as il Muro."
     },
     {
@@ -6282,7 +6326,8 @@
     },
     {
       "en": "Shiokaze Hostelry",
-      "protect": true,
+      "it": "Locanda Shiokaze",
+      "protect": false,
       "note": "Aethernet destination. Feminine article."
     },
     {
@@ -6293,7 +6338,8 @@
     },
     {
       "en": "Sekiseigumi Barracks",
-      "protect": true,
+      "it": "Caserma dei Sekiseigumi",
+      "protect": false,
       "note": "Aethernet destination. Plural feminine article."
     },
     {
@@ -6351,7 +6397,8 @@
     },
     {
       "en": "Crystarium",
-      "protect": true,
+      "it": "Crystarium",
+      "protect": false,
       "note": "City and interface destination. Masculine in Italian."
     },
     {
@@ -6382,7 +6429,8 @@
     },
     {
       "en": "tributum",
-      "protect": true,
+      "it": "tributo",
+      "protect": false,
       "note": "Garlean provincial tax. Latin noun retained in French; masculine in Italian."
     },
     {
@@ -6401,15 +6449,19 @@
     },
     {
       "en": "Sekiseigumi",
-      "protect": true,
+      "it": "Sekiseigumi",
+      "protect": false,
       "note": "Keep the Japanese organization name used by the source."
     },
     {
       "en": "silent conjurer",
-      "it": "invocatrice silenziosa",
+      "it": "incantatrice silenziosa",
+      "forms": [
+        "incantatrici silenziose"
+      ],
       "protect": false,
       "fr": "druidesse imperturbable",
-      "note": "Female NPC in HeaVnf103_02353_TODO_00."
+      "note": "Titolo dell'NPC femminile; usare «incantatrice silenziosa» al singolare e «incantatrici silenziose» al plurale. Coerente con Conjurer = Incantatore/Incantatrice in Glossary.md. Riferimenti EN/hash: ENpcResident#1000460.0 (8205B1BA2AC89072), #1000460.2 (DB467B13A94B4678)."
     },
     {
       "en": "Elder Seedseer",
@@ -6489,7 +6541,8 @@
     },
     {
       "en": "Ga Bu",
-      "protect": true,
+      "it": "Ga Bu",
+      "protect": false,
       "note": "Male Kobold child in HeaVne105_02345_GABU_000_105."
     },
     {
@@ -6687,10 +6740,11 @@
     },
     {
       "en": "Mourn",
-      "protect": true,
+      "it": "Lutto",
+      "protect": false,
       "fr": "Morne",
       "ja": "モーン大岩窟",
-      "note": "Cavern name. Use caverna di Mourn."
+      "note": "Nome della caverna: «Lutto»; vedere PlaceName#2008.0."
     },
     {
       "en": "Trials of Trustworthiness",
@@ -6808,8 +6862,9 @@
     },
     {
       "en": "manacutter",
-      "protect": true,
-      "note": "Mount name. Masculine in Italian."
+      "it": "tagliamana",
+      "protect": false,
+      "note": "Nome della cavalcatura: «tagliamana», maschile."
     },
     {
       "en": "the Eye",
@@ -6917,7 +6972,8 @@
     },
     {
       "en": "Urth's Fount",
-      "protect": true,
+      "it": "Fonte di Urth",
+      "protect": false,
       "note": "ContentFinderCondition#82 trial destination."
     },
     {
@@ -7093,8 +7149,9 @@
     },
     {
       "en": "Whorleater",
-      "protect": true,
-      "note": "Ship name used in the Duty Finder."
+      "it": "Mangiavortici",
+      "protect": false,
+      "note": "Nome italiano della nave e del relativo dovere; applicare a prosa, toponimi, diario e obiettivi, conservando i tag SeString. Riferimenti EN/hash: PlaceName#1334.0 (75B624EF63426409), #1334.2 (159978F761E28CF6); ContentFinderCondition#72.43, #73.43."
     },
     {
       "en": "Leviabeetus",
@@ -7125,7 +7182,9 @@
       "en": "Ardor",
       "fr": "Ardor",
       "ja": "アーダー",
-      "protect": true
+      "it": "Ardore",
+      "note": "Evento della storia: «Ardore».",
+      "protect": false
     },
     {
       "en": "the Concern",
@@ -7137,7 +7196,8 @@
       "en": "the Bramble Patch",
       "fr": "Massif de ronces",
       "ja": "茨の森",
-      "it": "la Macchia dei Rovi",
+      "it": "il Rovo",
+      "note": "Toponimo Il Rovo; adattare articolo e preposizioni. PlaceName#75.0 (4318E3816A066754), #75.2 (274AFE0ACCB0A3FD).",
       "protect": false
     },
     {
@@ -7193,8 +7253,9 @@
     },
     {
       "en": "Ceruleum Processing Plant",
-      "protect": true,
-      "note": "Exact untranslated destination in Aetheryte#22 only. Use the physical site and narrative form from legacy PlaceName#331: «L'Impianto di Raffinazione del Ceruleo». Keep complete external labels under their own policy."
+      "it": "Impianto di Raffinazione del Ceruleo",
+      "protect": false,
+      "note": "Nome del luogo e della destinazione: «Impianto di Raffinazione del Ceruleo»; usare la forma completa."
     },
     {
       "en": "Standing Corses",
@@ -7331,8 +7392,9 @@
     },
     {
       "en": "Lancers' Guild",
-      "protect": true,
-      "note": "Exact untranslated aethernet destination in Aetheryte#27 only. Use Gilda dei Lancieri for the organization and geographic labels."
+      "it": "Gilda dei Lancieri",
+      "protect": false,
+      "note": "Destinazione dell'aethernet e nome dell'organizzazione: «Gilda dei Lancieri»."
     },
     {
       "en": "Gentry's Ward",
@@ -7375,22 +7437,27 @@
     },
     {
       "en": "Carline Canopy",
+      "it": "Baldacchino di Carline",
       "fr": "Aux Feuilles de carline",
       "ja": "カーラインカフェ",
-      "protect": true
+      "protect": false,
+      "note": "Decisione esplicita dell'utente del 16 novembre 2026: usare «Baldacchino di Carline» per la locanda in tutti i riferimenti. Adattare articoli e preposizioni. Riferimenti EN/hash: PlaceName#545.0 (38115F1BE00FF00B), #545.2 (50F1C70DA3E7CA5C), #547.0 (DA0B2424ACB96585), #547.2 (8A3F0E6BBA702774)."
     },
     {
       "en": "spongoi",
       "fr": "",
       "ja": "",
-      "protect": true
+      "it": "escrescenze fungine",
+      "note": "Forme fungine: «escrescenze fungine», plurale femminile.",
+      "protect": false
     },
     {
       "en": "the Firmament",
       "fr": "",
       "ja": "",
-      "protect": true,
-      "note": "Exact untranslated control or destination label only. Use Il Firmamento for the physical district and narrative references, under PlaceName#3435."
+      "it": "Firmamento",
+      "protect": false,
+      "note": "Nome del distretto e della destinazione: «Firmamento»; adattare articoli e preposizioni."
     },
     {
       "en": "the Abacus",
@@ -7410,19 +7477,23 @@
       "en": "MGP",
       "fr": "PGS",
       "ja": "MGP",
-      "protect": true
+      "it": "PGS",
+      "note": "Punti del Gold Saucer: sigla italiana «PGS», sul modello della sigla francese PGS.",
+      "protect": false
     },
     {
       "en": "Cactpot",
       "fr": "Cactpot",
       "ja": "カクポ",
-      "protect": true
+      "it": "Cactpot",
+      "protect": false
     },
     {
       "en": "GATE",
       "fr": "GATE",
       "ja": "GATE",
-      "protect": true
+      "it": "GATE",
+      "protect": false
     },
     {
       "en": "brightash",
@@ -7447,7 +7518,9 @@
       "en": "Megaflare",
       "fr": "Megabrasier",
       "ja": "メガフレア",
-      "protect": true
+      "it": "Megaflare",
+      "note": "Attacco supremo di Bahamut e dei draghi, canone storico Square Enix Italia; anche per Gigaflare, Teraflare ed Exaflare. Riferimento: corpus/flat/Action.json#Action#2023:target.",
+      "protect": false
     },
     {
       "en": "Earthenshire",
@@ -7461,19 +7534,22 @@
       "en": "Ilyon Asoh",
       "fr": "Ilyon Asoh",
       "ja": "イヨンアソの家々",
-      "protect": true
+      "it": "Ilyon Asoh",
+      "protect": false
     },
     {
       "en": "achiote",
       "fr": "roucou",
       "ja": "ベニノキの種",
-      "protect": true
+      "it": "annatto",
+      "protect": false
     },
     {
       "en": "Maya",
       "fr": "Maya",
       "ja": "マイア",
-      "protect": true
+      "it": "Maya",
+      "protect": false
     },
     {
       "en": "Meso Terminal",
@@ -7503,19 +7579,22 @@
       "en": "Elene'shpya",
       "fr": "Elene'shpya",
       "ja": "エレネッシパ",
-      "protect": true
+      "it": "Elene'shpya",
+      "protect": false
     },
     {
       "en": "Alexandria",
       "fr": "Néo-Alexandrie",
       "ja": "新生アレクサンドリア連王国",
-      "protect": true
+      "it": "Alexandria",
+      "protect": false
     },
     {
       "en": "Sphene",
       "fr": "Sphene",
       "ja": "スフェーン",
-      "protect": true
+      "it": "Sphene",
+      "protect": false
     },
     {
       "en": "Lakeland",
@@ -7537,13 +7616,15 @@
       "en": "Shaaloani",
       "fr": "Shaaloani",
       "ja": "シャーローニ荒野",
-      "protect": true
+      "it": "Shaaloani",
+      "protect": false
     },
     {
       "en": "Yyasulani",
       "fr": "Yyasulani",
       "ja": "ヤースラニ荒野",
-      "protect": true
+      "it": "Yyasulani",
+      "protect": false
     },
     {
       "en": "ceruleum",
@@ -7557,13 +7638,15 @@
       "en": "tural vidraal",
       "fr": "Tural vidraal",
       "ja": "トラルヴィドラール",
-      "protect": true
+      "it": "tural vidraal",
+      "protect": false
     },
     {
       "en": "Ihih'hana",
       "fr": "Ihih'hana",
       "ja": "イヒーハナ祭",
-      "protect": true
+      "it": "Ihih'hana",
+      "protect": false
     },
     {
       "en": "linkpearl",
@@ -7580,25 +7663,29 @@
       "en": "Bakool Ja Ja the Mighty",
       "fr": "Bakool Ja Ja, tête guerrière",
       "ja": "戦のバクージャジャ",
-      "protect": true
+      "it": "Bakool Ja Ja il Potente",
+      "protect": false
     },
     {
       "en": "the Studium",
       "fr": "académie de magie de Sharlayan",
       "ja": "シャーレアン魔法大学",
-      "protect": true
+      "it": "Studium",
+      "protect": false
     },
     {
       "en": "Lamaty'i",
       "fr": "Lamaty'i",
       "ja": "ラマチ",
-      "protect": true
+      "it": "Lamaty'i",
+      "protect": false
     },
     {
       "en": "Vollok Shoonsa",
       "fr": "Palais de Vollok Shoonsa",
       "ja": "ヴォロク連王宮",
-      "protect": true
+      "it": "Vollok Shoonsa",
+      "protect": false
     },
     {
       "en": "Bowl of Embers",
@@ -7612,193 +7699,224 @@
       "en": "Yok Huy",
       "fr": "Yok Huy",
       "ja": "ヨカフイ族",
-      "protect": true
+      "it": "Yok Huy",
+      "protect": false
     },
     {
       "en": "Worqor Zormor",
       "fr": "Worqor Zormor",
       "ja": "ウォーコー・ゾーモー",
-      "protect": true
+      "it": "Worqor Zormor",
+      "protect": false
     },
     {
       "en": "Xak Tural",
       "fr": "Xak Tural",
       "ja": "サカ・トラル",
-      "protect": true
+      "it": "Xak Tural",
+      "protect": false
     },
     {
       "en": "rroneek",
       "fr": "rroneek",
       "ja": "ロネーク",
-      "protect": true
+      "it": "rroneek",
+      "protect": false
     },
     {
       "en": "punutiy",
       "fr": "punutiy",
       "ja": "プヌティー",
-      "protect": true
+      "it": "punutiy",
+      "protect": false
     },
     {
       "en": "Pelu",
       "fr": "pelupelu",
       "ja": "ペルペル族",
-      "protect": true
+      "it": "Pelu",
+      "protect": false
     },
     {
       "en": "Boonewa",
       "fr": "Boonewa",
       "ja": "ブネワ",
-      "protect": true
+      "it": "Boonewa",
+      "protect": false
     },
     {
       "en": "Gurfurlur",
       "fr": "Gurfurlur",
       "ja": "グーフールー",
-      "protect": true
+      "it": "Gurfurlur",
+      "protect": false
     },
     {
       "en": "Vorporlor",
       "fr": "Vorporlor",
       "ja": "ヴォーポーロー",
-      "protect": true
+      "it": "Vorporlor",
+      "protect": false
     },
     {
       "en": "Zereel Ja",
       "fr": "Zereel Ja",
       "ja": "ゼレージャ",
-      "protect": true
+      "it": "Zereel Ja",
+      "protect": false
     },
     {
       "en": "Mamook",
       "fr": "Mamook",
       "ja": "マムーク",
-      "protect": true
+      "it": "Mamook",
+      "protect": false
     },
     {
       "en": "Ja Tiika",
       "fr": "Ja Tiika",
       "ja": "ジャティーカ",
-      "protect": true
+      "it": "Ja Tiika",
+      "protect": false
     },
     {
       "en": "ibruq",
       "fr": "ibruq",
       "ja": "イブルク",
-      "protect": true
+      "it": "ibruq",
+      "protect": false
     },
     {
       "en": "najool",
       "fr": "najool",
       "ja": "ナジョール",
-      "protect": true
+      "it": "najool",
+      "protect": false
     },
     {
       "en": "Xbr'aal",
       "fr": "Xbr'aal",
       "ja": "シュバラール族",
-      "protect": true
+      "it": "Xbr'aal",
+      "protect": false
     },
     {
       "en": "Xbr'aax Rax",
       "fr": "chef du village des Xbr'aal",
       "ja": "族長",
-      "protect": true
+      "it": "capo degli Xbr'aal",
+      "protect": false
     },
     {
       "en": "xibruq pibil",
       "fr": "xibruq pibil",
       "ja": "シャブルク・ピビル",
-      "protect": true
+      "it": "xibruq pibil",
+      "protect": false
     },
     {
       "en": "Valigarmanda",
       "fr": "Valigarmanda",
       "ja": "ヴァリガルマンダ",
-      "protect": true
+      "it": "Valigarmanda",
+      "protect": false
     },
     {
       "en": "Zurmurwur",
       "fr": "Zurmurwur",
       "ja": "ズームーウー",
-      "protect": true
+      "it": "Zurmurwur",
+      "protect": false
     },
     {
       "en": "Ketenramm",
       "fr": "Ketenramm",
       "ja": "ケテンラム",
-      "protect": true
+      "it": "Ketenramm",
+      "protect": false
     },
     {
       "en": "Cahciua",
       "fr": "Cahciua",
       "ja": "カフキワ",
-      "protect": true
+      "it": "Cahciua",
+      "protect": false
     },
     {
       "en": "Urqopacha",
       "fr": "Urqopacha",
       "ja": "オルコ・パチャ",
-      "protect": true
+      "it": "Urqopacha",
+      "protect": false
     },
     {
       "en": "Worqor Lar Dor",
       "fr": "Worqor Lar Dor",
       "ja": "ウォーコー・ラァ・ドー",
-      "protect": true
+      "it": "Worqor Lar Dor",
+      "protect": false
     },
     {
       "en": "Yak T'el",
       "fr": "Yak T'el",
       "ja": "ヤクテル樹海",
-      "protect": true
+      "it": "Yak T'el",
+      "protect": false
     },
     {
       "en": "Wuk Evu",
       "fr": "Wuk Evu",
       "ja": "ウケブ",
-      "protect": true
+      "it": "Wuk Evu",
+      "protect": false
     },
     {
       "en": "Oblivion",
-      "fr": "(generated glossary is WRONG here)",
       "ja": "オブリビオン",
-      "protect": true
+      "it": "Oblio",
+      "protect": false,
+      "note": "Tradurre «oblivion» come «oblio» nel senso comune; mantenere «Oblivion» come nome proprio del gruppo."
     },
     {
       "en": "Ethos",
       "fr": "éthos",
       "ja": "エートス",
-      "protect": true
+      "it": "Ethos",
+      "protect": false
     },
     {
       "en": "Enuo",
       "fr": "Énuo",
       "ja": "エヌオー",
-      "protect": true
+      "it": "Enuo",
+      "protect": false
     },
     {
       "en": "Zodiark",
       "it": "Zodiark",
-      "protect": true,
+      "protect": false,
       "note": "Keep the FFXIV source name. Italian game-localization confirmation is pending; Magic is supporting evidence only. https://media.wizards.com/ContentResources/WPN/deck_checklists/fin/MTGFIN_IT_DckCklst.pdf"
     },
     {
       "en": "Amaurot",
       "fr": "Amaurote",
       "ja": "アーモロート",
-      "protect": true
+      "it": "Amaurot",
+      "protect": false
     },
     {
       "en": "Etheirys",
       "fr": "Ætherys",
       "ja": "アーテリス",
-      "protect": true
+      "it": "Etheirys",
+      "protect": false
     },
     {
       "en": "Origenics",
       "fr": "",
       "ja": "",
-      "protect": true
+      "it": "Origenics",
+      "protect": false
     },
     {
       "en": "Free Company",
@@ -7815,7 +7933,8 @@
       "en": "Triple Triad",
       "fr": "Triple Triade",
       "ja": "トリプルトライアド",
-      "protect": true
+      "it": "Triple Triad",
+      "protect": false
     },
     {
       "en": "guildleve",
@@ -7832,25 +7951,29 @@
       "en": "Ser",
       "fr": "messire",
       "ja": "",
-      "protect": true
+      "it": "Ser",
+      "protect": false
     },
     {
       "en": "Temple of the Fist",
       "fr": "Temple du Poing",
       "ja": "",
-      "protect": true
+      "it": "Tempio del Pugno",
+      "protect": false
     },
     {
       "en": "Gobroller",
       "fr": "",
       "ja": "",
-      "protect": true
+      "it": "rullo compressore",
+      "protect": false
     },
     {
       "en": "khatun",
       "fr": "",
       "ja": "",
-      "protect": true
+      "it": "khatun",
+      "protect": false
     },
     {
       "en": "the Drowning Wench",
@@ -7864,97 +7987,113 @@
       "en": "Bardam's Mettle",
       "fr": "",
       "ja": "",
-      "protect": true
+      "it": "Prove di Bardam",
+      "protect": false
     },
     {
       "en": "Athenaeum",
       "fr": "Saint-Guenriol",
       "ja": "",
-      "protect": true
+      "it": "Ateneo",
+      "protect": false
     },
     {
       "en": "Centurio Seals",
       "fr": "",
       "ja": "",
-      "protect": true
+      "it": "Sigilli del Clan Centurio",
+      "protect": false
     },
     {
       "en": "Elysion",
       "fr": "Élysée",
       "ja": "",
-      "protect": true
+      "it": "Elisio",
+      "protect": false
     },
     {
       "en": "Propylaion",
       "fr": "",
       "ja": "",
-      "protect": true
+      "it": "Propileo",
+      "protect": false
     },
     {
       "en": "Mount Rokkon",
       "fr": "Mont Rokkon",
       "ja": "",
-      "protect": true
+      "it": "Mount Rokkon",
+      "protect": false
     },
     {
       "en": "Gajasura",
       "fr": "",
       "ja": "",
-      "protect": true
+      "it": "Gajasura",
+      "protect": false
     },
     {
       "en": "akasa",
       "fr": "akasha",
       "ja": "",
-      "protect": true
+      "it": "akasha",
+      "protect": false
     },
     {
       "en": "Alzadaal's Legacy",
       "fr": "",
       "ja": "",
-      "protect": true
+      "it": "Eredità di Alzadaal",
+      "protect": false
     },
     {
       "en": "ovoo",
       "fr": "terre immaculée",
       "ja": "オボー",
-      "protect": true
+      "it": "ovoo",
+      "protect": false
     },
     {
       "en": "chuluu",
       "fr": "",
       "ja": "",
-      "protect": true
+      "it": "pietra",
+      "protect": false
     },
     {
       "en": "Karash",
       "fr": "",
       "ja": "原初の魂",
-      "protect": true
+      "it": "Karash",
+      "protect": false
     },
     {
       "en": "bakufu",
       "fr": "bakufu",
       "ja": "幕府",
-      "protect": true
+      "it": "bakufu",
+      "protect": false
     },
     {
       "en": "ijin",
       "fr": "",
       "ja": "異人",
-      "protect": true
+      "it": "straniero",
+      "protect": false
     },
     {
       "en": "Irminsul",
       "fr": "Irminsul",
       "ja": "イルミンスール",
-      "protect": true
+      "it": "Irminsul",
+      "protect": false
     },
     {
       "en": "the Ravel",
       "fr": "le sanctuaire",
       "ja": "",
-      "protect": true
+      "it": "Santuario",
+      "protect": false
     },
     {
       "en": "eikon",
@@ -7981,115 +8120,136 @@
       "en": "Viis",
       "fr": "Viis",
       "ja": "ヴィース",
-      "protect": true
+      "it": "Viis",
+      "protect": false
     },
     {
       "en": "the Copied Factory",
       "fr": "La réplique de l'usine désaffectée",
       "ja": "複製サレタ工場廃墟",
-      "protect": true
+      "it": "Fabbrica Copiata",
+      "protect": false
     },
     {
       "en": "the Puppets' Bunker",
       "fr": "La base militaire des Pantins",
       "ja": "人形タチノ軍事基地",
-      "protect": true
+      "it": "Bunker delle Marionette",
+      "protect": false
     },
     {
       "en": "YoRHa",
       "fr": "YoRHa",
       "ja": "ヨルハ",
-      "protect": true
+      "it": "YoRHa",
+      "protect": false
     },
     {
       "en": "pod",
       "fr": "pod",
       "ja": "ポッド",
-      "protect": true
+      "it": "pod",
+      "protect": false
     },
     {
       "en": "Abyssos",
       "fr": "le Purgatoire",
       "ja": "煉獄",
-      "protect": true
+      "it": "Abisso",
+      "note": "Nome dell'incursione: «Abisso». Scelta dell'utente del 17 novembre 2026; usare anche nei nomi dei Cerchi.",
+      "protect": false
     },
     {
       "en": "Athena",
       "fr": "Athéna",
       "ja": "アテナ",
-      "protect": true
+      "it": "Atena",
+      "protect": false
     },
     {
       "en": "Dimensional Blade",
       "fr": "lame dimensionnelle",
       "ja": "次元断",
-      "protect": true
+      "it": "Lama Dimensionale",
+      "protect": false
     },
     {
       "en": "mammet",
       "fr": "automate",
       "ja": "魔法人形",
-      "protect": true
+      "it": "automa",
+      "protect": false
     },
     {
       "en": "silkie",
       "fr": "Silkie",
       "ja": "シルキー",
-      "protect": true
+      "it": "silkie",
+      "protect": false
     },
     {
       "en": "Kugane",
       "fr": "Kugane",
       "ja": "クガネ",
-      "protect": true
+      "it": "Kugane",
+      "protect": false
     },
     {
       "en": "biwa",
       "fr": "biwa",
       "ja": "琵琶",
-      "protect": true
+      "it": "biwa",
+      "protect": false
     },
     {
       "en": "bushido",
       "fr": "bushido",
       "ja": "武士道",
-      "protect": true
+      "it": "bushido",
+      "protect": false
     },
     {
       "en": "ninjutsu",
       "fr": "ninjutsu",
       "ja": "忍術",
-      "protect": true
+      "it": "ninjutsu",
+      "protect": false
     },
     {
       "en": "dogu",
       "fr": "dogu",
       "ja": "土偶",
-      "protect": true
+      "it": "dogu",
+      "protect": false
     },
     {
       "en": "chochin",
       "fr": "chochin",
       "ja": "提灯",
-      "protect": true
+      "it": "lanterna di carta",
+      "note": "Oggetto comune: «lanterna di carta»; plurale «lanterne di carta». Rendere bake-chochin «lanterna spettrale» in FishParameter#1193.0 e VVDNotebookContents#19.3; okuri chochin «lanterna fantasma» in Companion#480, CompanionTransient#480, BNpcName#12438, Item#40371/#40602 e TripleTriadCard#378; Burabura Chochin resta «Burabura», come nel nome ufficiale francese dei Lodestone 6.45 (Item#40387, Mount#321, MountTransient#321; https://eu.finalfantasyxiv.com/lodestone/topics/detail/2a6c65f39b5b16b58bd4f0d9b1edaa8c0b7ec4f3).",
+      "protect": false
     },
     {
       "en": "nue",
       "fr": "nue",
       "ja": "鵺",
-      "protect": true
+      "it": "nue",
+      "protect": false
     },
     {
       "en": "Manusya",
       "fr": "Manusya",
       "ja": "マヌシャ",
-      "protect": true
+      "it": "Manusya",
+      "protect": false
     },
     {
       "en": "Pandæmonium",
       "fr": "Pandæmonium",
       "ja": "パンデモニウム",
-      "protect": true
+      "it": "Pandemonio",
+      "protect": false
     },
     {
       "en": "Shojo Temple",
@@ -8103,109 +8263,127 @@
       "en": "Demonsgate",
       "fr": "",
       "ja": "",
-      "protect": true
+      "it": "Cancello dei Demoni",
+      "protect": false
     },
     {
       "en": "Crumbling Bridge",
       "fr": "",
       "ja": "",
-      "protect": true
+      "it": "Ponte Infranto",
+      "protect": false
     },
     {
       "en": "Palace Square",
       "fr": "",
       "ja": "",
-      "protect": true
+      "it": "Piazza del Palazzo",
+      "protect": false
     },
     {
       "en": "Garamsythe Waterway",
       "fr": "",
       "ja": "",
-      "protect": true
+      "it": "Canali di Garamsythe",
+      "protect": false
     },
     {
       "en": "Sil'dihn Subterrane",
       "fr": "",
       "ja": "",
-      "protect": true
+      "it": "Sotterranei di Sil'dih",
+      "protect": false
     },
     {
       "en": "Deltascape",
       "fr": "",
       "ja": "",
-      "protect": true
+      "it": "Deltascape",
+      "protect": false
     },
     {
       "en": "Furnace",
       "fr": "",
       "ja": "",
-      "protect": true
+      "it": "Fornace",
+      "protect": false
     },
     {
       "en": "Genesis Engine",
       "fr": "",
       "ja": "",
-      "protect": true
+      "it": "Motore Genesis",
+      "protect": false
     },
     {
       "en": "Serenity",
       "fr": "",
       "ja": "",
-      "protect": true
+      "it": "Serenità",
+      "note": "Nome dell'oggetto: «Serenità». Eccezione: il titolo musicale in Orchestrion resta «Serenity».",
+      "protect": false
     },
     {
       "en": "Spire Ravel",
       "fr": "",
       "ja": "",
-      "protect": true
+      "it": "Intreccio della Guglia",
+      "protect": false
     },
     {
       "en": "Kingsloam",
       "fr": "",
       "ja": "",
-      "protect": true
+      "it": "Terra dei Re",
+      "protect": false
     },
     {
       "en": "Boyahda Tree",
       "fr": "l'Arbre de Boyahda",
       "ja": "ボヤーダ樹",
-      "protect": true
+      "it": "Albero Boyahda",
+      "protect": false
     },
     {
       "en": "the Master of Trials",
       "fr": "le maître des épreuves",
       "ja": "指導教官",
-      "protect": true
+      "it": "Maestro delle Prove",
+      "protect": false
     },
     {
       "en": "Esuna",
       "fr": "Esuna",
       "ja": "エスナ",
-      "protect": true
+      "it": "Esuna",
+      "protect": false
     },
     {
       "en": "Fenrir",
       "it": "Fenrir",
-      "protect": true,
+      "protect": false,
       "note": "Keep the FFXIV source name. Italian game-localization confirmation is pending; Magic is supporting evidence only. https://media.wizards.com/ContentResources/WPN/deck_checklists/fin/MTGFIN_IT_DckCklst.pdf"
     },
     {
       "en": "Altana",
       "fr": "Déesse",
       "ja": "女神様",
-      "protect": true
+      "it": "Altana",
+      "protect": false
     },
     {
       "en": "Hraesvelgr",
       "fr": "dragon sacré",
       "ja": "フレースヴェルグ",
-      "protect": true
+      "it": "Hraesvelgr",
+      "protect": false
     },
     {
       "en": "Loghrif",
       "fr": "Loghrif",
       "ja": "ログリフ",
-      "protect": true
+      "it": "Loghrif",
+      "protect": false
     },
     {
       "en": "viper",
@@ -8219,13 +8397,15 @@
       "en": "the Quicksand",
       "fr": "Les Sables mouvants",
       "ja": "クイックサンド",
-      "protect": true
+      "it": "Sabbie Mobili",
+      "protect": false
     },
     {
       "en": "Witchdrop",
       "fr": "Gouffre des hérétiques",
       "ja": "ウィッチドロップ",
-      "protect": true
+      "it": "Salto della Strega",
+      "protect": false
     },
     {
       "en": "Silvertear",
@@ -8239,7 +8419,8 @@
       "en": "the Enterprise",
       "fr": "l'Enterprise",
       "ja": "エンタープライズ",
-      "protect": true
+      "it": "the Enterprise",
+      "protect": false
     },
     {
       "en": "Tailfeather",
@@ -8253,7 +8434,8 @@
       "en": "Illuminati",
       "fr": "",
       "ja": "",
-      "protect": true
+      "it": "Illuminati",
+      "protect": false
     },
     {
       "en": "Aethernet",
@@ -8280,13 +8462,15 @@
       "en": "Construct 6",
       "fr": "",
       "ja": "",
-      "protect": true
+      "it": "Costrutto 6",
+      "protect": false
     },
     {
       "en": "Eureka",
       "fr": "",
       "ja": "",
-      "protect": true
+      "it": "Eureka",
+      "protect": false
     },
     {
       "en": "debitage",
@@ -8301,13 +8485,15 @@
       "en": "Talos",
       "fr": "",
       "ja": "",
-      "protect": true
+      "it": "Talos",
+      "protect": false
     },
     {
       "en": "Fashion Report",
       "fr": "",
       "ja": "",
-      "protect": true
+      "it": "Sfilata di Moda",
+      "protect": false
     },
     {
       "en": "glamour prism",
@@ -8323,7 +8509,7 @@
     {
       "en": "Gold Saucer",
       "it": "Gold Saucer",
-      "protect": true,
+      "protect": false,
       "note": "Keep the established place name. FINAL FANTASY VII REBIRTH, Italian Cait Sith profile: https://www.square-enix.com/ffvii/it/games/rebirth/characters/cait-sith/"
     },
     {
@@ -8338,65 +8524,76 @@
       "en": "Lucavi",
       "fr": "",
       "ja": "",
-      "protect": true
+      "it": "Lucavi",
+      "protect": false
     },
     {
       "en": "mission ceruleum voucher",
       "fr": "",
       "ja": "",
-      "protect": true
+      "it": "buono per il ceruleo da missione",
+      "protect": false
     },
     {
       "en": "The Ridorana Lighthouse",
       "fr": "Le Phare de Ridorana",
       "ja": "封じられた聖塔 リドルアナ",
-      "protect": true
+      "it": "Faro di Ridorana",
+      "protect": false
     },
     {
       "en": "usuginu octopus",
       "fr": "",
       "ja": "",
-      "protect": true
+      "it": "polpo Usuginu",
+      "protect": false
     },
     {
       "en": "Pool of Tribute",
       "fr": "",
       "ja": "",
-      "protect": true
+      "it": "Vasca del Tributo",
+      "protect": false
     },
     {
       "en": "Kojin",
       "fr": "",
       "ja": "",
-      "protect": true
+      "it": "Kojin",
+      "protect": false
     },
     {
       "en": "Lupin",
       "fr": "",
       "ja": "",
-      "protect": true
+      "it": "Lupin",
+      "protect": false
     },
     {
       "en": "sekibune",
       "fr": "",
       "ja": "",
-      "protect": true
+      "it": "sekibune",
+      "protect": false
     },
     {
       "en": "unkiu",
       "fr": "",
       "ja": "",
-      "protect": true
+      "it": "unkiu",
+      "protect": false
     },
     {
       "en": "kirkahryar",
-      "protect": true
+      "it": "kirkahryar",
+      "protect": false
     },
     {
       "en": "Rorrlo Teh",
       "fr": "rorrlo teh",
       "ja": "ローロ・テー",
-      "protect": true
+      "it": "Rorrlo Teh",
+      "protect": false
     },
     {
       "en": "Palaka's Stand",
@@ -8408,73 +8605,88 @@
     },
     {
       "en": "Matanga",
-      "protect": true
+      "it": "Matanga",
+      "protect": false
     },
     {
       "en": "PvP",
       "fr": "JcJ",
       "ja": "PvP",
-      "protect": true
+      "it": "PvP",
+      "protect": false
     },
     {
       "en": "Torgal",
       "fr": "Talgor",
       "ja": "トルガル",
-      "protect": true
+      "it": "Torgal",
+      "protect": false
     },
     {
       "en": "Eikon",
       "fr": "Primordial",
       "ja": "召喚獣",
-      "protect": true
+      "it": "eone",
+      "note": "Usare «eone/eoni» per le creature evocate secondo la decisione nel glossario; non applicare a materiali come Eikon Iron o a titoli musicali dell'Orchestrion.",
+      "protect": false
     },
     {
       "en": "Doma",
-      "protect": true
+      "it": "Doma",
+      "protect": false
     },
     {
       "en": "Ala Mhigo",
-      "protect": true
+      "it": "Ala Mhigo",
+      "protect": false
     },
     {
       "en": "Garlemald",
-      "protect": true
+      "it": "Garlemald",
+      "protect": false
     },
     {
       "en": "Yanxia",
-      "protect": true
+      "it": "Yanxia",
+      "protect": false
     },
     {
       "en": "Rhalgr",
-      "protect": true
+      "it": "Rhalgr",
+      "protect": false
     },
     {
       "en": "Ivalice",
       "it": "Ivalice",
-      "protect": true,
+      "protect": false,
       "note": "Keep the established place name. https://www.nintendo.com/it-it/Giochi/Giochi-per-Nintendo-Switch/FINAL-FANTASY-XII-THE-ZODIAC-AGE-1438870.html"
     },
     {
       "en": "koban",
-      "protect": true
+      "it": "koban",
+      "protect": false
     },
     {
       "en": "okiya",
-      "protect": true
+      "it": "okiya",
+      "protect": false
     },
     {
       "en": "emakimono",
-      "protect": true
+      "it": "emakimono",
+      "protect": false
     },
     {
       "en": "taikomochi",
-      "protect": true
+      "it": "taikomochi",
+      "protect": false
     },
     {
       "en": "the Great Work",
       "fr": "le Grand Œuvre",
       "ja": "デミールの遺烈郷",
-      "protect": true
+      "it": "Grande Opera",
+      "protect": false
     },
     {
       "en": "tempered",
@@ -8552,7 +8764,7 @@
         "facce di pesce"
       ],
       "protect": false,
-      "note": "Soprannome dispregiativo lominsano per i Sahagin; singolare «faccia di pesce», plurale «facce di pesce». Sostituisce «dorsopesce/i»."
+      "note": "Soprannome dispregiativo lominsano per i Sahagin; femminile singolare «faccia di pesce», plurale «facce di pesce». Decisione dell'utente del 16 novembre 2026: maiuscole secondo la sorgente EN e la posizione nella frase, non fisse. Sostituisce «dorsopesce/i»; non applicare ad altri usi di faccia da pesce."
     },
     {
       "en": "nameday",
@@ -8594,10 +8806,9 @@
       "en": "the Skylift",
       "fr": "l'Ascenciel",
       "ja": "",
-      "it": "il Montacielo",
+      "it": "l'Ascensore Celeste",
       "protect": false,
-      "note": "LOW: a coinage, the Japanese keeps the English."
-    },
+      "note": "Nome del luogo, coerente con Adventure#2162691.13 e PlaceName#190.0 (5CABD05C138BBE22), #190.2 (60D6D42E63A07B0B); adattare articoli e preposizioni."    },
     {
       "en": "Amajina & Sons Mineral Concern",
       "fr": "",
@@ -8730,8 +8941,9 @@
     },
     {
       "en": "Gods' Grip",
-      "it": "Stretta degli Dei",
-      "protect": false
+      "it": "Presa degli Dei",
+      "protect": false,
+      "note": "Decisione esplicita dell'utente del 17 novembre 2026: usare «Presa degli Dei» per il luogo in etichette, prosa e riferimenti abbreviati allo stesso luogo. Riferimenti EN/hash: PlaceName#166.0 (1DCA4C001EA4C0F6), #166.2 (BA744AA188F856A4); quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_HALDBRODA_000_13 (421438C0EB886AEF)."
     },
     {
       "en": "the Victory",
@@ -8885,8 +9097,9 @@
     },
     {
       "en": "Sapphire Avenue Exchange",
-      "protect": true,
-      "note": "Aetheryte#125 destination."
+      "it": "Borsa di Viale Zaffiro",
+      "protect": false,
+      "note": "Nome italiano del mercato di Ul'dah; usare «La Borsa di Viale Zaffiro» come etichetta autonoma e adattare articoli e preposizioni in prosa. Riferimenti EN/hash: PlaceName#646.0 (7858583E89A49851), #646.2 (8A48EA54D2D8E02E), #2283.0 (631F29C73C9ECEC7), #2283.2 (E942CF456E7E159B)."
     },
     {
       "en": "Coliseum",
@@ -9089,7 +9302,8 @@
     {
       "en": "Burning Wall",
       "fr": "Mur incandescent",
-      "it": "Muro Incandescente",
+      "it": "Muro Ardente",
+      "note": "Allineare al toponimo The Burning Wall: PlaceName#253.0 (FDFFBCDF26E3A52F), #253.2 (7E9C8EE18BF7690A).",
       "protect": false
     },
     {
@@ -9120,7 +9334,7 @@
       "forms": [
         "yalmi"
       ],
-      "protect": true,
+      "protect": false,
       "note": "Unit of length. Italian plural: yalmi. Source: glossary/Glossary.md#444, #452."
     },
     {
@@ -9239,7 +9453,8 @@
     {
       "en": "Golden Bazaar",
       "fr": "Bazar doré",
-      "it": "Mercato Dorato",
+      "it": "Bazar Dorato",
+      "note": "Allineare al toponimo The Golden Bazaar: PlaceName#304.0 (07B98B4B6C744B53), #304.2 (444405AD2007C541).",
       "protect": false
     },
     {
@@ -9279,7 +9494,8 @@
     },
     {
       "en": "Hawkers' Alley",
-      "protect": true,
+      "it": "Vicolo dei Mercanti",
+      "protect": false,
       "note": "Aetheryte 49 uses PlaceName 767 as its Aethernet destination name."
     },
     {
@@ -9363,8 +9579,9 @@
     },
     {
       "en": "Cabinet of Curiosity",
-      "protect": true,
-      "note": "Aethernet destination; keep the short form Cabinet."
+      "it": "Gabinetto delle Curiosità",
+      "protect": false,
+      "note": "Destinazione dell'aethernet: «Gabinetto delle Curiosità»; la forma breve è «Gabinetto»."
     },
     {
       "en": "Workbench",
@@ -9379,7 +9596,8 @@
     },
     {
       "en": "Polyleritae District",
-      "protect": true,
+      "it": "Distretto dei Polileriti",
+      "protect": false,
       "note": "City district name; masculine singular."
     },
     {
@@ -9405,8 +9623,9 @@
     },
     {
       "en": "Ondo Cups",
-      "protect": true,
-      "note": "Aetheryte destination; feminine plural. Keep the short form Cups."
+      "it": "Coppe degli Ondo",
+      "protect": false,
+      "note": "Destinazione dell'aethernet: «Coppe degli Ondo»; mantenere il plurale femminile."
     },
     {
       "en": "mythril knife",
@@ -9633,67 +9852,67 @@
     {
       "en": "Ifrit",
       "it": "Ifrit",
-      "protect": true,
+      "protect": false,
       "note": "Keep the FFXIV source name. Square Enix merchandise supports the spelling; direct Italian game-text confirmation is pending. https://it.store.square-enix-games.com/final-fantasy-xvi--bust---eikons-8-pcs-display"
     },
     {
       "en": "Shiva",
       "it": "Shiva",
-      "protect": true,
+      "protect": false,
       "note": "Keep the FFXIV source name. Square Enix merchandise supports the spelling; direct Italian game-text confirmation is pending. https://it.store.square-enix-games.com/final-fantasy-xvi--bust---eikons-8-pcs-display"
     },
     {
       "en": "Ramuh",
       "it": "Ramuh",
-      "protect": true,
+      "protect": false,
       "note": "Keep the FFXIV source name. Square Enix merchandise supports the spelling; direct Italian game-text confirmation is pending. https://it.store.square-enix-games.com/final-fantasy-xvi--bust---eikons-8-pcs-display"
     },
     {
       "en": "Garuda",
       "it": "Garuda",
-      "protect": true,
+      "protect": false,
       "note": "Keep the FFXIV source name. Square Enix merchandise supports the spelling; direct Italian game-text confirmation is pending. https://it.store.square-enix-games.com/final-fantasy-xvi--bust---eikons-8-pcs-display"
     },
     {
       "en": "Bahamut",
       "it": "Bahamut",
-      "protect": true,
+      "protect": false,
       "note": "Keep the name used in FINAL FANTASY VII REBIRTH. https://www.square-enix.com/ffvii/it/games/rebirth/battle/"
     },
     {
       "en": "Carbuncle",
       "it": "Carbuncle",
-      "protect": true,
+      "protect": false,
       "note": "Keep the series name. https://www.square-enix.com/ffvii/it/games/remake-intergrade/buy/"
     },
     {
       "en": "Anima",
       "it": "Anima",
-      "protect": true,
+      "protect": false,
       "note": "Use for the named primal; review anima weapons separately. Italian game-localization confirmation is pending; Magic is supporting evidence only. https://media.wizards.com/ContentResources/WPN/deck_checklists/fin/MTGFIN_IT_DckCklst.pdf"
     },
     {
       "en": "Ultros",
       "it": "Ultros",
-      "protect": true,
+      "protect": false,
       "note": "Keep the FFXIV source name. Italian game-localization confirmation is pending; Magic is supporting evidence only. https://media.wizards.com/ContentResources/WPN/deck_checklists/fin/MTGFIN_IT_DckCklst.pdf"
     },
     {
       "en": "Omega",
       "it": "Omega",
-      "protect": true,
+      "protect": false,
       "note": "Keep the FFXIV source name. Italian game-localization confirmation is pending; Magic is supporting evidence only. https://media.wizards.com/ContentResources/WPN/deck_checklists/fin/MTGFIN_IT_DckCklst.pdf"
     },
     {
       "en": "Dalmasca",
       "it": "Dalmasca",
-      "protect": true,
+      "protect": false,
       "note": "Keep the established place name. https://www.nintendo.com/it-it/Giochi/Giochi-per-Nintendo-Switch/FINAL-FANTASY-XII-THE-ZODIAC-AGE-1438870.html"
     },
     {
       "en": "Rabanastre",
       "it": "Rabanastre",
-      "protect": true,
+      "protect": false,
       "note": "Keep the established place name. https://www.nintendo.com/it-it/Giochi/Giochi-per-Nintendo-Switch/FINAL-FANTASY-XII-THE-ZODIAC-AGE-1438870.html"
     },
     {
@@ -9812,8 +10031,9 @@
     },
     {
       "en": "Destructivity",
-      "protect": true,
-      "note": "Keep the complete book title used by EventItem2003398."
+      "it": "Distruttività",
+      "protect": false,
+      "note": "Resa italiana: «Distruttività»."
     },
     {
       "en": "Scions of the Seventh Dawn",
@@ -9910,17 +10130,20 @@
     },
     {
       "en": "Words of Lahabrea",
-      "protect": true,
+      "it": "Discorsi di Lahabrea",
+      "protect": false,
       "note": "Keep this complete name of the ancient research institution."
     },
     {
       "en": "hemitheos",
-      "protect": true,
-      "note": "The ancient fusion designation. Keep Greek hemitheos, plural hemitheoi. Generic demigods are semidei."
+      "it": "semidio",
+      "protect": false,
+      "note": "Resa italiana: «semidio»."
     },
     {
       "en": "hemitheoi",
-      "protect": true,
+      "it": "semidei",
+      "protect": false,
       "note": "Plural of the ancient fusion designation hemitheos."
     },
     {
@@ -10057,8 +10280,9 @@
     },
     {
       "en": "Save the Queen",
-      "protect": true,
-      "note": "Keep the proper name of the sword. Do not translate it as an instruction."
+      "it": "Salva la Regina",
+      "protect": false,
+      "note": "Resa italiana: «Salva la Regina»."
     },
     {
       "en": "alexandrite",
@@ -10524,13 +10748,15 @@
     },
     {
       "en": "Kriegstanz",
-      "protect": true,
+      "it": "Danza di Guerra",
+      "protect": false,
       "note": "Ancient Hannish dance name."
     },
     {
       "en": "Totentanz",
-      "protect": true,
-      "note": "Keep the name of the phenomenon; the descriptive gloss is danza dei dannati."
+      "it": "Danza della Morte",
+      "protect": false,
+      "note": "Resa italiana: «Danza della Morte»."
     },
     {
       "en": "potsworn",
@@ -10651,7 +10877,7 @@
     {
       "en": "dynamis",
       "it": "dynamis",
-      "protect": true,
+      "protect": false,
       "note": "Use feminine agreement for the energy: la dynamis. Keep the separate FFXI realm name Dynamis."
     },
     {
@@ -10812,7 +11038,7 @@
     {
       "en": "jötnar",
       "it": "jötnar",
-      "protect": true,
+      "protect": false,
       "note": "The giants in the Fourth. Their creature thralls are servi; do not apply that sense to other uses of thrall."
     },
     {
@@ -10823,8 +11049,8 @@
     },
     {
       "en": "Final Verse",
-      "it": "Final Verse",
-      "protect": true,
+      "it": "Versetto Finale",
+      "protect": false,
       "note": "Complete duty name, including the Quantum variant. Do not apply to an ordinary final verse of a song."
     },
     {
@@ -10860,7 +11086,7 @@
     {
       "en": "Real Virtuality Combat Simulation Experiencinator",
       "it": "Real Virtuality Combat Simulation Experiencinator",
-      "protect": true,
+      "protect": false,
       "note": "Named apparatus. Existing ContentFinderConditionTransient763 preserves the complete name; ordinary explanations of combat simulation can be Italian."
     },
     {
@@ -10871,9 +11097,9 @@
     },
     {
       "en": "Underfoot",
-      "it": "Underfoot",
-      "protect": true,
-      "note": "Perimu Haurimu's nickname."
+      "it": "Sottopiede",
+      "protect": false,
+      "note": "Soprannome di Perimu Haurimu: «Sottopiede»."
     },
     {
       "en": "the Stray",
@@ -10921,23 +11147,27 @@
     },
     {
       "en": "bugyo",
-      "protect": true,
-      "note": "Keep the Hingan office title and its animal qualifier. Use Italian articles and gender agreement."
+      "it": "magistrato",
+      "protect": false,
+      "note": "Ufficio di governo hingashi: «magistrato»; adattare gli appellativi animali al caso."
     },
     {
       "en": "metsuke",
-      "protect": true,
-      "note": "Keep the Hingan office title and its animal qualifier. Use Italian articles and gender agreement."
+      "it": "ispettore",
+      "protect": false,
+      "note": "Resa italiana: «ispettore»."
     },
     {
       "en": "yoriki",
-      "protect": true,
-      "note": "Keep the Hingan office title and its animal qualifier. Use Italian articles and gender agreement."
+      "it": "viceispettore",
+      "protect": false,
+      "note": "Resa italiana: «viceispettore»."
     },
     {
       "en": "shonin",
-      "protect": true,
-      "note": "Keep the Hingan merchant title and its animal qualifier. Use Italian articles and gender agreement."
+      "it": "mercante",
+      "protect": false,
+      "note": "Resa italiana: «mercante»."
     },
     {
       "en": "Night of Devilry",
@@ -10953,13 +11183,15 @@
     },
     {
       "en": "daikan",
-      "protect": true,
-      "note": "Keep the Hingan office title and its qualifier. Use Italian articles and gender agreement."
+      "it": "maestro",
+      "protect": false,
+      "note": "Ruolo cerimoniale del mochi: «maestro del mochi»."
     },
     {
       "en": "ometsuke",
-      "protect": true,
-      "note": "Keep the Hingan office title and its qualifier. Use Italian articles and gender agreement."
+      "it": "ispettore capo",
+      "protect": false,
+      "note": "Resa italiana: «ispettore capo»."
     },
     {
       "en": "Shellshockers",
@@ -10981,8 +11213,9 @@
     },
     {
       "en": "twinklebox",
-      "protect": true,
-      "note": "Keep the named Item and interactive festive box. Translate box when the source uses that generic word."
+      "it": "scatola scintillante",
+      "protect": false,
+      "note": "Resa italiana: «scatola scintillante»."
     },
     {
       "en": "Baert Trading Company",
@@ -11004,8 +11237,9 @@
     },
     {
       "en": "Birdwatchers",
-      "protect": true,
-      "note": "Keep the Songbirds fan club name. Ordinary birdwatchers remain contextual."
+      "it": "Ammiratori degli Usignoli",
+      "protect": false,
+      "note": "Nome del fan club degli Usignoli: «Ammiratori degli Usignoli»; gli osservatori di uccelli restano contestuali."
     },
     {
       "en": "Globe-trotter Otters",
@@ -11063,8 +11297,9 @@
     },
     {
       "en": "Rabid Wives",
-      "protect": true,
-      "note": "Keep the pirate band name. Use Italian gender agreement for pirati or banda."
+      "it": "Mogli Rabbiose",
+      "protect": false,
+      "note": "Nome della banda di pirati: «Mogli Rabbiose»."
     },
     {
       "en": "flame dance",
@@ -11152,40 +11387,40 @@
     },
     {
       "en": "Doman unguent",
-      "it": "unguento domano",
+      "it": "unguento Domano",
       "protect": false,
       "note": "Quest object EventItem#2001947. Descriptive Italian form; keep unrelated complete Item labels."
     },
     {
       "en": "Dravanian lily",
-      "it": "giglio dravaniano",
+      "it": "giglio Dravaniano",
       "forms": [
-        "gigli dravaniani"
+        "gigli Dravaniani"
       ],
       "protect": false,
       "note": "Quest flower EventItem#2001791. Descriptive Italian form; keep unrelated complete Item labels."
     },
     {
       "en": "Allagan crozier",
-      "it": "pastorale allagano",
+      "it": "pastorale Allagano",
       "protect": false,
       "note": "Quest object EventItem#2001706. Descriptive Italian form; keep unrelated complete Item labels."
     },
     {
       "en": "Hingan rice wine",
-      "it": "vino di riso hingano",
+      "it": "vino di riso Hingano",
       "protect": false,
       "note": "Sake requested by Amaji, EventItem#2002278. Descriptive Italian form; keep unrelated complete Item labels."
     },
     {
       "en": "Doman weasel claw",
-      "it": "artiglio di donnola domana",
+      "it": "artiglio di donnola Domana",
       "protect": false,
       "note": "Quest object EventItem#2002382. Do not apply this choice to the complete BNpcName Doman weasel."
     },
     {
       "en": "Ishgardian Astrology: A Comprehensive Theory",
-      "it": "Astrologia ishgardiana: una teoria completa",
+      "it": "Astrologia Ishgardiana: una teoria completa",
       "protect": false,
       "note": "Book EventItem#2003110. Decisione dell'utente: forma ishgardiana secondo genere e numero; i titoli descrittivi seguono la stessa scelta."
     },
@@ -13410,9 +13645,9 @@
     },
     {
       "en": "Minion",
-      "it": "minion",
-      "protect": true,
-      "note": "Decisione dell'utente: mantenere il termine inglese per il famiglio non combattente; distinto da Companion, «Compagno»."
+      "it": "mascotte",
+      "protect": false,
+      "note": "Decisione dell'utente del 17 novembre 2026: «mascotte», femminile invariabile; sostituisce la precedente decisione di mantenere «minion». Distinto da Companion, «compagno»."
     },
     {
       "en": "Companion",
@@ -13595,9 +13830,9 @@
     },
     {
       "en": "imp",
-      "it": "imp",
-      "note": "Mantenere il nome della creatura in inglese; plurale imps. Decisione dell'utente.",
-      "protect": true
+      "it": "folletto",
+      "note": "Creatura: «folletto», plurale «folletti»; sostituisce la precedente decisione di mantenere «imp».",
+      "protect": false
     },
     {
       "en": "glamoured items",
@@ -24335,39 +24570,39 @@
     },
     {
       "en": "Unsung Relic of Abyssos Exchange (DoW) I",
-      "it": "Scambio di Reliquie Senza Gloria di Abyssos (Combattenti) I",
+      "it": "Scambio di Reliquie Senza Gloria dell'Abisso (Combattenti) I",
       "protect": false,
-      "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/SpecialShop.json::('corpus/flat/SpecialShop.json', 'SpecialShop#1770608'). Fonte legacy: data/translations/shops/specialshop.json#1770608:translation EN/hash verificati."
+      "note": "Titolo dello scambio; «Abyssos» è reso «Abisso» secondo la decisione dell’utente del 17 novembre 2026. Fonte legacy: data/translations/shops/specialshop.json#1770608:translation EN/hash verificati."
     },
     {
       "en": "Unsung Relic of Abyssos Exchange (DoW) II",
-      "it": "Scambio di Reliquie Senza Gloria di Abyssos (Combattenti) II",
+      "it": "Scambio di Reliquie Senza Gloria dell'Abisso (Combattenti) II",
       "protect": false,
-      "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/SpecialShop.json::('corpus/flat/SpecialShop.json', 'SpecialShop#1770609'). Fonte legacy: data/translations/shops/specialshop.json#1770609:translation EN/hash verificati."
+      "note": "Titolo dello scambio; «Abyssos» è reso «Abisso» secondo la decisione dell’utente del 17 novembre 2026. Fonte legacy: data/translations/shops/specialshop.json#1770609:translation EN/hash verificati."
     },
     {
       "en": "Unsung Relic of Abyssos Exchange (DoM)",
-      "it": "Scambio di Reliquie Senza Gloria di Abyssos (Maghi)",
+      "it": "Scambio di Reliquie Senza Gloria dell'Abisso (Maghi)",
       "protect": false,
-      "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/SpecialShop.json::('corpus/flat/SpecialShop.json', 'SpecialShop#1770610'). Fonte legacy: data/translations/shops/specialshop.json#1770610:translation EN/hash verificati."
+      "note": "Titolo dello scambio; «Abyssos» è reso «Abisso» secondo la decisione dell’utente del 17 novembre 2026. Fonte legacy: data/translations/shops/specialshop.json#1770610:translation EN/hash verificati."
     },
     {
       "en": "Abyssos Mythos Exchange (DoW) I",
-      "it": "Scambio di Miti di Abyssos (Combattenti) I",
+      "it": "Scambio di Miti dell'Abisso (Combattenti) I",
       "protect": false,
-      "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/SpecialShop.json::('corpus/flat/SpecialShop.json', 'SpecialShop#1770611'). Fonte legacy: data/translations/shops/specialshop.json#1770611:translation EN/hash verificati."
+      "note": "Titolo dello scambio; «Abyssos» è reso «Abisso» secondo la decisione dell’utente del 17 novembre 2026. Fonte legacy: data/translations/shops/specialshop.json#1770611:translation EN/hash verificati."
     },
     {
       "en": "Abyssos Mythos Exchange (DoW) II",
-      "it": "Scambio di Miti di Abyssos (Combattenti) II",
+      "it": "Scambio di Miti dell'Abisso (Combattenti) II",
       "protect": false,
-      "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/SpecialShop.json::('corpus/flat/SpecialShop.json', 'SpecialShop#1770612'). Fonte legacy: data/translations/shops/specialshop.json#1770612:translation EN/hash verificati."
+      "note": "Titolo dello scambio; «Abyssos» è reso «Abisso» secondo la decisione dell’utente del 17 novembre 2026. Fonte legacy: data/translations/shops/specialshop.json#1770612:translation EN/hash verificati."
     },
     {
       "en": "Abyssos Mythos Exchange (DoM)",
-      "it": "Scambio di Miti di Abyssos (Maghi)",
+      "it": "Scambio di Miti dell'Abisso (Maghi)",
       "protect": false,
-      "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/SpecialShop.json::('corpus/flat/SpecialShop.json', 'SpecialShop#1770613'). Fonte legacy: data/translations/shops/specialshop.json#1770613:translation EN/hash verificati."
+      "note": "Titolo dello scambio; «Abyssos» è reso «Abisso» secondo la decisione dell’utente del 17 novembre 2026. Fonte legacy: data/translations/shops/specialshop.json#1770613:translation EN/hash verificati."
     },
     {
       "en": "Lunar Envoy's Gear Augmentation (DoW) I",
@@ -24803,9 +25038,9 @@
     },
     {
       "en": "Abyssos Gear (IL 630-635)",
-      "it": "Equipaggiamento Abyssos (Liv.Ogg. 630-635)",
+      "it": "Equipaggiamento dell'Abisso (Liv.Ogg. 630-635)",
       "protect": false,
-      "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/SpecialShop.json::('corpus/flat/SpecialShop.json', 'SpecialShop#1770801')|corpus/flat/SpecialShop.json::('corpus/flat/SpecialShop.json', 'SpecialShop#1770811')|corpus/flat/SpecialShop.json::('corpus/flat/SpecialShop.json', 'SpecialShop#1770821')|corpus/flat/SpecialShop.json::('corpus/flat/SpecialShop.json', 'SpecialShop#1770831')|corpus/flat/SpecialShop.json::('corpus/flat/SpecialShop.json', 'SpecialShop#1770841')|corpus/flat/SpecialShop.json::('corpus/flat/SpecialShop.json', 'SpecialShop#1770851')|corpus/flat/SpecialShop.json::('corpus/flat/SpecialShop.json', 'SpecialShop#1770861'). Fonte legacy: data/translations/shops/specialshop.json#1770801:translation; data/translations/shops/specialshop.json#1770811:translation; data/translations/shops/specialshop.json#1770821:translation; data/translations/shops/specialshop.json#1770831:translation; data/translations/shops/specialshop.json#1770841:translation; data/translations/shops/specialshop.json#1770851:translation; data/translations/shops/specialshop.json#1770861:translation EN/hash verificati."
+      "note": "Titolo di categoria dell'equipaggiamento; «Abyssos» è reso «Abisso» secondo la decisione dell’utente del 17 novembre 2026. Fonte legacy: data/translations/shops/specialshop.json#1770801:translation; data/translations/shops/specialshop.json#1770811:translation; data/translations/shops/specialshop.json#1770821:translation; data/translations/shops/specialshop.json#1770831:translation; data/translations/shops/specialshop.json#1770841:translation; data/translations/shops/specialshop.json#1770851:translation; data/translations/shops/specialshop.json#1770861:translation EN/hash verificati."
     },
     {
       "en": "Anabaseios Gear (IL 640)",
@@ -34428,8 +34663,8 @@
     {
       "en": "Oblivion",
       "it": "Oblivion",
-      "protect": true,
-      "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/AkatsukiNoteString.json::('corpus/flat/AkatsukiNoteString.json', 'AkatsukiNoteString#156')|corpus/flat/AkatsukiNoteString.json::('corpus/flat/AkatsukiNoteString.json', 'AkatsukiNoteString#157'). Decisione dell'utente dell'11 novembre 2026: mantenere la forma del corpus corrente per questo referente e i richiami pertinenti. Fonte legacy: data/translations/system/akatsukinotestring.json#156:translation; data/translations/system/akatsukinotestring.json#157:translation EN/hash verificati."
+      "protect": false,
+      "note": "Nome proprio del gruppo; mantenere «Oblivion» anche nei richiami allo stesso referente. Decisione dell'utente dell'11 novembre 2026 per AkatsukiNoteString#156/#157, estesa ai dialoghi sul gruppo: cut_scene/075/VoiceMan_07500#TEXT_VOICEMAN_07500_010233_KRILE (8E7008A81C0D8106) e cut_scene/074/VoiceMan_07400#TEXT_VOICEMAN_07400_000480_ERENVILLE (1E528C403404A258). Non applicare al sostantivo comune «oblivion» = «oblio»."
     },
     {
       "en": "A resistance organization first established during the time of old Alexandria. Its founders were Krile's birth parents, Robor and Alayla, former members of Preservation who opposed Calyx's plan to invade other worlds. Once the then-infant Krile was targeted for experimentation, the researcher couple seized the key to interdimensional fusion and used it to deliver both the artifact and their child to the Source to keep them safe from the enemy. They vanished from record thereafter, with their Endless incarnations later encountered in Living Memory.<br><br>Deprived of their founders, Oblivion effectively ceased to be─until decades later when its secret headquarters, now known as the Backroom, was discovered by Cahciua and her followers. Although detailed information pertaining to the key had been erased, Cahciua, strongly believing in Oblivion's purpose, reestablished the organization under its original name. With the Yyasulani native at the helm, its members set out to thwart King of Resolve Zoraal Ja's ambitions for conquest.",
@@ -35619,13 +35854,13 @@
     {
       "en": "\\<sniff>",
       "it": "\\<sniff>",
-      "protect": true,
+      "protect": false,
       "note": "Decisione dell'utente: mantenere l'onomatopea sniff anche per il fiutare e il tirare su col naso; conservare ripetizioni e allungamenti. Non rendere con annusa, annusare, annusata, singhiozzo o guaito. Regola limitata al tag letterale visibile, con escape della parentesi iniziale. Fonte: reviews/onomatopoeia-adaptation-register.csv; corpus/quest/004/GaiUse611_00423.json#TEXT_GAIUSE611_00423_SCIENTIST00423_000_090:target."
     },
     {
       "en": "\\<sniiiiiiiiiiiiff>",
       "it": "\\<sniiiiiiiiiiiiff>",
-      "protect": true,
+      "protect": false,
       "note": "Decisione dell'utente: mantenere l'onomatopea sniff anche per il fiutare e il tirare su col naso; conservare ripetizioni e allungamenti. Non rendere con annusa, annusare, annusata, singhiozzo o guaito. Regola limitata al tag letterale visibile, con escape della parentesi iniziale. Fonte: reviews/onomatopoeia-adaptation-register.csv; corpus/quest/004/GaiUse611_00423.json#TEXT_GAIUSE611_00423_SCIENTIST00423_000_090:target."
     },
     {
@@ -35637,13 +35872,13 @@
     {
       "en": "\\<sigh>",
       "it": "\\<sigh>",
-      "protect": true,
+      "protect": false,
       "note": "Decisione dell'utente: forma sonora confermata nel registro reviews/onomatopoeia-adaptation-register.csv. Regola limitata al tag letterale visibile; non tradurre i verbi nella prosa ordinaria con l'onomatopea. Conservare ripetizioni, posizione ed escape della parentesi iniziale; non imporre parentesi alle rese sonore gia' valide fuori dai tag."
     },
     {
       "en": "\\<gasp>",
       "it": "\\<gasp>",
-      "protect": true,
+      "protect": false,
       "note": "Decisione dell'utente: forma sonora confermata nel registro reviews/onomatopoeia-adaptation-register.csv. Regola limitata al tag letterale visibile; non tradurre i verbi nella prosa ordinaria con l'onomatopea. Conservare ripetizioni, posizione ed escape della parentesi iniziale; non imporre parentesi alle rese sonore gia' valide fuori dai tag."
     },
     {
@@ -35667,7 +35902,7 @@
     {
       "en": "\\<sob>",
       "it": "\\<sob>",
-      "protect": true,
+      "protect": false,
       "note": "Decisione dell'utente: forma sonora confermata nel registro reviews/onomatopoeia-adaptation-register.csv. Regola limitata al tag letterale visibile; non tradurre i verbi nella prosa ordinaria con l'onomatopea. Conservare ripetizioni, posizione ed escape della parentesi iniziale; non imporre parentesi alle rese sonore gia' valide fuori dai tag."
     },
     {
@@ -35685,7 +35920,7 @@
     {
       "en": "\\<hic>",
       "it": "\\<hic>",
-      "protect": true,
+      "protect": false,
       "note": "Decisione dell'utente: forma sonora confermata nel registro reviews/onomatopoeia-adaptation-register.csv. Regola limitata al tag letterale visibile; non tradurre i verbi nella prosa ordinaria con l'onomatopea. Conservare ripetizioni, posizione ed escape della parentesi iniziale; non imporre parentesi alle rese sonore gia' valide fuori dai tag."
     },
     {
@@ -35715,13 +35950,13 @@
     {
       "en": "\\<burp>",
       "it": "\\<burp>",
-      "protect": true,
+      "protect": false,
       "note": "Decisione dell'utente: forma sonora confermata nel registro reviews/onomatopoeia-adaptation-register.csv. Regola limitata al tag letterale visibile; non tradurre i verbi nella prosa ordinaria con l'onomatopea. Conservare ripetizioni, posizione ed escape della parentesi iniziale; non imporre parentesi alle rese sonore gia' valide fuori dai tag."
     },
     {
       "en": "\\<BURP>",
       "it": "\\<BURP>",
-      "protect": true,
+      "protect": false,
       "note": "Decisione dell'utente: forma sonora confermata nel registro reviews/onomatopoeia-adaptation-register.csv. Regola limitata al tag letterale visibile; non tradurre i verbi nella prosa ordinaria con l'onomatopea. Conservare ripetizioni, posizione ed escape della parentesi iniziale; non imporre parentesi alle rese sonore gia' valide fuori dai tag."
     },
     {
@@ -35784,7 +36019,7 @@
     {
       "en": "\\<sluuurp>",
       "it": "\\<sluuurp>",
-      "protect": true,
+      "protect": false,
       "note": "Decisione dell'utente: forma sonora confermata nel registro reviews/onomatopoeia-adaptation-register.csv. Regola limitata al tag letterale visibile; non tradurre i verbi nella prosa ordinaria con l'onomatopea. Conservare ripetizioni, posizione ed escape della parentesi iniziale; non imporre parentesi alle rese sonore gia' valide fuori dai tag."
     },
     {
@@ -35802,7 +36037,7 @@
     {
       "en": "\\<schwing>",
       "it": "\\<schwing>",
-      "protect": true,
+      "protect": false,
       "note": "Decisione dell'utente: forma sonora confermata nel registro reviews/onomatopoeia-adaptation-register.csv. Regola limitata al tag letterale visibile; non tradurre i verbi nella prosa ordinaria con l'onomatopea. Conservare ripetizioni, posizione ed escape della parentesi iniziale; non imporre parentesi alle rese sonore gia' valide fuori dai tag."
     },
     {
@@ -35883,13 +36118,13 @@
     {
       "en": "\\<wink>",
       "it": "\\<wink>",
-      "protect": true,
+      "protect": false,
       "note": "Decisione dell'utente (stile fumetto): mantenere \\<wink> (e \\<wink\\> dentro argomenti macro) nei tag letterali visibili in tutto il corpus. Non estendere ai verbi o sostantivi nella prosa ordinaria."
     },
     {
       "en": "\\<yawn>",
       "it": "\\<yawn>",
-      "protect": true,
+      "protect": false,
       "note": "Decisione dell'utente (stile fumetto): mantenere \\<yawn> nei tag letterali visibili in tutto il corpus. Non estendere ai verbi o sostantivi nella prosa ordinaria."
     },
     {
@@ -35913,13 +36148,13 @@
     {
       "en": "\\<mumble>",
       "it": "\\<mumble>",
-      "protect": true,
+      "protect": false,
       "note": "Decisione dell'utente (stile fumetto): mantenere \\<mumble> nei tag letterali visibili in tutto il corpus. Non applicare ai verbi nella prosa ordinaria."
     },
     {
       "en": "\\<grumble>",
       "it": "\\<grumble>",
-      "protect": true,
+      "protect": false,
       "note": "Decisione dell'utente (stile fumetto): mantenere \\<grumble> nei tag letterali visibili in tutto il corpus. Non applicare ai verbi nella prosa ordinaria."
     },
     {
@@ -38694,8 +38929,8 @@
     {
       "en": "Brute Bomber",
       "it": "Brute Bomber",
-      "protect": true,
-      "note": "Ring name del combattente dell'Arcadion mantenuto in inglese originale per decisione dell'utente del 14 novembre 2026."
+      "protect": false,
+      "note": "Nome d'arena Arcadion; mantenere il nome originale inglese. Distinto da «Brute Abombinator». Decisione dell'utente del 17 novembre 2026."
     },
     {
       "en": "せーりーふー",
@@ -39009,9 +39244,15 @@
     },
     {
       "en": "lightning sprite",
-      "it": "elementale del fulmine",
+      "it": "spiritello del fulmine",
       "protect": false,
-      "note": "Nome comune della creatura; plurale «elementali del fulmine». Fonte editoriale locale: glossary/Glossary.md, voce lightning sprite; Nomi propri. Decisione dell'utente"
+      "note": "Nome comune della creatura; usare «spiritello del fulmine» e al plurale «spiritelli del fulmine». Decisione dell'utente del 17 novembre 2026; glossary/Glossary.md, voce lightning sprite."
+    },
+    {
+      "en": "sprite",
+      "it": "spiritello",
+      "protect": false,
+      "note": "Per la creatura Sprite usare «spiritello», plurale «spiritelli», per distinguerla dall'Imp («folletto»). Non applicare ai woodland sprites che nel contesto delle Sylphs indicano le Silfidi. Decisione dell'utente del 17 novembre 2026; glossary/Glossary.md, voce Sprite."
     },
     {
       "en": "Ironheart",
@@ -39745,74 +39986,86 @@
     {
       "en": "Black Cat",
       "it": "Black Cat",
-      "protect": true,
-      "note": "Ring name dell'Arcadion (M1) mantenuto in inglese originale per decisione dell'utente del 14 novembre 2026."
+      "protect": false,
+      "note": "Nome d'arena Arcadion; mantenere il nome originale inglese. Decisione dell'utente del 17 novembre 2026. CreditListText segue le regole sui crediti."
     },
     {
       "en": "Honey B. Lovely",
       "it": "Honey B. Lovely",
-      "protect": true,
-      "note": "Ring name dell'Arcadion (M2) mantenuto in inglese originale per decisione dell'utente del 14 novembre 2026."
+      "protect": false,
+      "note": "Nome d'arena Arcadion; mantenere il nome originale inglese. La forma breve «Honey B.» resta anch'essa in inglese. Decisione dell'utente del 17 novembre 2026."
     },
     {
       "en": "Honey B.",
       "it": "Honey B.",
-      "protect": true,
-      "note": "Nome d'arte/diminutivo dell'Arcadion (M2) in inglese originale per decisione dell'utente del 14 novembre 2026."
+      "protect": false,
+      "note": "Forma breve di «Honey B. Lovely»; mantenere entrambi i nomi d'arena in inglese. Decisione dell'utente del 17 novembre 2026."
+    },
+    {
+      "en": "Honey B. Live",
+      "it": "Honey B. Live",
+      "protect": false,
+      "note": "Nome di un'azione dell'Arcadion; mantenere il titolo inglese. Nei nomi composti tradurre il sottotitolo ma lasciare invariato «Honey B. Live». Decisione dell'utente del 17 novembre 2026."
+    },
+    {
+      "en": "Honey B. Finale",
+      "it": "Honey B. Finale",
+      "protect": false,
+      "note": "Nome di un'azione dell'Arcadion; mantenere il titolo inglese. Decisione dell'utente del 17 novembre 2026."
     },
     {
       "en": "Wicked Thunder",
       "it": "Wicked Thunder",
-      "protect": true,
-      "note": "Ring name dell'Arcadion (M4) mantenuto in inglese originale per decisione dell'utente del 14 novembre 2026."
+      "protect": false,
+      "note": "Nome d'arena Arcadion; mantenere il nome originale inglese. Decisione dell'utente del 17 novembre 2026."
     },
     {
       "en": "Dancing Green",
       "it": "Dancing Green",
-      "protect": true,
-      "note": "Ring name dell'Arcadion (M5) mantenuto in inglese originale per decisione dell'utente del 14 novembre 2026."
+      "protect": false,
+      "note": "Nome d'arena Arcadion; mantenere il nome originale inglese. Decisione dell'utente del 17 novembre 2026."
     },
     {
       "en": "Sugar Riot",
       "it": "Sugar Riot",
-      "protect": true,
-      "note": "Ring name dell'Arcadion (M6) mantenuto in inglese originale per decisione dell'utente del 14 novembre 2026."
+      "protect": false,
+      "note": "Nome d'arena Arcadion; mantenere il nome originale inglese. Decisione dell'utente del 17 novembre 2026."
     },
     {
       "en": "Brute Abombinator",
       "it": "Brute Abombinator",
-      "protect": true,
-      "note": "Nome del boss dell'Arcadion (M7) mantenuto in inglese originale per decisione dell'utente del 14 novembre 2026."
+      "protect": false,
+      "note": "Nome d'arena Arcadion; mantenere il nome originale inglese. Distinto da «Brute Bomber». Decisione dell'utente del 17 novembre 2026."
     },
     {
       "en": "Howling Blade",
       "it": "Howling Blade",
-      "protect": true,
-      "note": "Ring name dell'Arcadion (M8) mantenuto in inglese originale per decisione dell'utente del 14 novembre 2026."
+      "protect": false,
+      "note": "Nome d'arena Arcadion; mantenere il nome originale inglese. Decisione dell'utente del 17 novembre 2026."
     },
     {
       "en": "Vamp Fatale",
       "it": "Vamp Fatale",
-      "protect": true,
-      "note": "Ring name dell'Arcadion (M9) mantenuto in inglese originale per decisione dell'utente del 14 novembre 2026."
+      "protect": false,
+      "note": "Nome d'arena Arcadion; mantenere il nome originale inglese. Decisione dell'utente del 17 novembre 2026."
     },
     {
       "en": "the Xtremes",
       "it": "the Xtremes",
-      "protect": true,
-      "note": "Tag team dell'Arcadion (M10) mantenuto in inglese originale per decisione dell'utente del 14 novembre 2026."
+      "protect": false,
+      "note": "Nome del tag team Arcadion; mantenere la forma inglese originale. Decisione dell'utente del 17 novembre 2026."
     },
     {
       "en": "The Tyrant",
       "it": "The Tyrant",
-      "protect": true,
-      "note": "Campione dell'Arcadion (M11) mantenuto in inglese originale per decisione dell'utente del 14 novembre 2026."
+      "protect": false,
+      "note": "Nome d'arena Arcadion; mantenere il nome originale inglese. Non estendere la forma a «Tyrant» generici. Decisione dell'utente del 17 novembre 2026."
     },
     {
       "en": "Lindwurm",
       "it": "Lindwurm",
-      "protect": true,
-      "note": "Boss dell'Arcadion (M12) mantenuto in inglese originale (invece di Lindorm) per decisione dell'utente del 14 novembre 2026."
+      "protect": false,
+      "note": "Nome d'arena Arcadion; mantenere il nome originale inglese. Non estendere la forma ai Lindwurm generici. Decisione dell'utente del 17 novembre 2026."
     },
     {
       "en": "Ruby Weapon",

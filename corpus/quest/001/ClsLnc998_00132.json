@@ -4,12 +4,12 @@
   "entries": [
     { "gameKey": "quest/001/ClsLnc998_00132#TEXT_CLSLNC998_00132_SEQ_00", "hash": "684434FB6F87511D", "target": "Jillian desidera che tu confermi la tua volontà di entrare nella Gilda dei Lancieri." },
     { "gameKey": "quest/001/ClsLnc998_00132#TEXT_CLSLNC998_00132_SEQ_01", "hash": "4EE1469F298FF6AC", "target": "Ti è stato detto di rivolgerti a Ywain, il maestro della Gilda dei Lancieri. Cercalo nella sala sul retro." },
-    { "gameKey": "quest/001/ClsLnc998_00132#TEXT_CLSLNC998_00132_SEQ_02", "hash": "096CBB41DE1ECBAC", "target": "Dopo aver formalmente accettato la tua adesione alla Gilda dei Lancieri, il maestro Ywain ti dona una weathered spear. Equipaggiala e parlagli di nuovo." },
+    { "gameKey": "quest/001/ClsLnc998_00132#TEXT_CLSLNC998_00132_SEQ_02", "hash": "096CBB41DE1ECBAC", "target": "Dopo aver formalmente accettato la tua adesione alla Gilda dei Lancieri, il Maestro Ywain ti dona una lancia logora. Equipaggiala e parlagli di nuovo." },
     { "gameKey": "quest/001/ClsLnc998_00132#TEXT_CLSLNC998_00132_TODO_00", "hash": "EFB87F9DA36A112E", "target": "Parla con Ywain, il maestro della Gilda dei Lancieri" },
     { "gameKey": "quest/001/ClsLnc998_00132#TEXT_CLSLNC998_00132_JILLIAN_000_1", "hash": "6074E1C7B1118263", "target": "Ebbene, avete deciso di entrare nella Gilda dei Lancieri?" },
     { "gameKey": "quest/001/ClsLnc998_00132#TEXT_CLSLNC998_00132_JILLIAN_000_2", "hash": "9169C66EBC1C1D09", "target": "Entrare nella nostra gilda è una scelta importante e accogliamo ancor più volentieri chi riflette con cura prima di compierla." },
     { "gameKey": "quest/001/ClsLnc998_00132#TEXT_CLSLNC998_00132_JILLIAN_000_3", "hash": "C61BCFB12AFD4C61", "target": "Le nostre porte saranno sempre aperte se in futuro deciderete di dedicarvi all'arte della lancia. Fino ad allora, vi auguro buona fortuna." },
-    { "gameKey": "quest/001/ClsLnc998_00132#TEXT_CLSLNC998_00132_JILLIAN_000_5", "hash": "335C4BE59A546A59", "target": "Ottimo! Avviserò il maestro Ywain di aspettarvi." },
+    { "gameKey": "quest/001/ClsLnc998_00132#TEXT_CLSLNC998_00132_JILLIAN_000_5", "hash": "335C4BE59A546A59", "target": "Ottimo! Avviserò il Maestro Ywain di aspettarvi." },
     { "gameKey": "quest/001/ClsLnc998_00132#TEXT_CLSLNC998_00132_JILLIAN_000_6", "hash": "681A2E9D28935E0C", "target": "Chiunque desideri entrare nelle nostre file deve presentarsi al suo cospetto. Valuterà se avete le qualità per unirvi a noi." },
     { "gameKey": "quest/001/ClsLnc998_00132#TEXT_CLSLNC998_00132_JILLIAN_000_7", "hash": "2871B18EBBF70CEC", "target": "Recatevi nell'area di addestramento all'interno. Il maestro della gilda vi aspetta lì." },
     { "gameKey": "quest/001/ClsLnc998_00132#TEXT_CLSLNC998_00132_YWAIN_000_10", "hash": "92225AC7B7067FB9", "target": "Salve, <if(gnum4,avventuriera,avventuriero)>. Ho saputo che desideri imparare l'arte della lancia sotto il nostro tetto." },
@@ -36,6 +36,6 @@
     { "gameKey": "quest/001/ClsLnc998_00132#TEXT_CLSLNC998_00132_YWAIN_000_34", "hash": "801A4AA1162AD0FF", "target": "Vorrei affidarti il primo compito, una prova, per essere precisi." },
     { "gameKey": "quest/001/ClsLnc998_00132#TEXT_CLSLNC998_00132_SYSTEM_000_40", "hash": "06E57C9020652E09", "target": "Hai sbloccato una nuova classe! Puoi passare a questa classe in qualsiasi momento equipaggiando l'arma ricevuta da questa missione." },
     { "gameKey": "quest/001/ClsLnc998_00132#TEXT_CLSLNC998_00132_SYSTEM_000_41", "hash": "AB8AFFA8959F10F9", "target": "Quando cambi classe, i <colortype(500)><edgecolortype(501)>set di equipaggiamento<edgecolortype(0)><colortype(0)> ti permettono di registrare e salvare diverse configurazioni. Puoi così passare istantaneamente da una classe all'altra senza dover equipaggiare manualmente armi o altri oggetti." },
-    { "gameKey": "quest/001/ClsLnc998_00132#TEXT_CLSLNC998_00132_SYSTEM_000_42", "hash": "9061D22AE2C2958E", "target": "Il pulsante per l'interfaccia dei set di equipaggiamento si trova nella parte superiore della finestra <colortype(500)><edgecolortype(501)>Personaggio<edgecolortype(0)><colortype(0)>." }
+    { "gameKey": "quest/001/ClsLnc998_00132#TEXT_CLSLNC998_00132_SYSTEM_000_42", "hash": "9061D22AE2C2958E", "target": "Il pulsante per l'interfaccia dei Set di Equipaggiamento si trova nella parte superiore della finestra <colortype(500)><edgecolortype(501)>Personaggio<edgecolortype(0)><colortype(0)>." }
   ]
 }

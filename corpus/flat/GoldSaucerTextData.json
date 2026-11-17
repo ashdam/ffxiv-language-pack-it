@@ -66,7 +66,7 @@
     { "gameKey": "GoldSaucerTextData#120", "hash": "F13C0DB98DE78C14", "target": "Apri uno scrigno del tesoro." },
     { "gameKey": "GoldSaucerTextData#121", "hash": "45338633B4148BD3", "target": "Usa un oggetto di gara." },
     { "gameKey": "GoldSaucerTextData#131", "hash": "7A864D6C4FC26089", "target": "Le regole del Mini Cactpot sono semplici. Per prima cosa, scegli tre degli otto numeri nascosti sul biglietto. Poi seleziona una delle otto linee: verticale, orizzontale o diagonale." },
-    { "gameKey": "GoldSaucerTextData#132", "hash": "F1E5994A1E7CD945", "target": "Dopo aver scelto una linea, scoprirai tutti i numeri. La somma dei tre numeri sulla linea selezionata determina quanti MGP vincerai. Semplice, no?" },
+    { "gameKey": "GoldSaucerTextData#132", "hash": "F1E5994A1E7CD945", "target": "Dopo aver scelto una linea, scoprirai tutti i numeri. La somma dei tre numeri sulla linea selezionata determina quanti PGS vincerai. Semplice, no?" },
     { "gameKey": "GoldSaucerTextData#133", "hash": "AB0CA2D93927EBE4", "target": "Ora non ti resta che scegliere un numero di quattro cifre. Il numero vincente sarà estratto in seguito. Se l'ultima cifra del tuo numero corrisponde a quella vincente, vinci il quarto premio. Se corrispondono le ultime due, vinci il terzo; se corrispondono le ultime tre, vinci il secondo. Se indovini tutte e quattro le cifre, ti aggiudichi il premio principale." },
     { "gameKey": "GoldSaucerTextData#139", "hash": "467D32F4D6911F58", "target": "Sfida dei Chocobo" },
     { "gameKey": "GoldSaucerTextData#140", "hash": "E3FA88806884B12E", "target": "Sfida 1" },
@@ -88,8 +88,8 @@
     { "gameKey": "GoldSaucerTextData#171", "hash": "F1753420ECE797E7", "target": "Air Force One" },
     { "gameKey": "GoldSaucerTextData#181", "hash": "E5E50A7974994BB6", "target": "Il Taglio è Giusto" },
     { "gameKey": "GoldSaucerTextData#182", "hash": "B9D3880133FD1D60", "target": "Attacchi Evitati" },
-    { "gameKey": "GoldSaucerTextData#183", "hash": "51E6B90F8BB58650", "target": "MGP Attuali" },
-    { "gameKey": "GoldSaucerTextData#184", "hash": "EC04141EF8C44454", "target": "Evita gli attacchi di Yojimbo, raccogli MGP e, soprattutto, non cadere!" },
+    { "gameKey": "GoldSaucerTextData#183", "hash": "51E6B90F8BB58650", "target": "PGS Attuali" },
+    { "gameKey": "GoldSaucerTextData#184", "hash": "EC04141EF8C44454", "target": "Evita gli attacchi di Yojimbo, raccogli PGS e, soprattutto, non cadere!" },
     { "gameKey": "GoldSaucerTextData#185", "hash": "6A70FA12CD160E6B", "target": "Resta sul palco a ogni costo e raccogli tutti i premi che riesci." }
   ]
 }

@@ -2,8 +2,8 @@
   "conversation": "custom/006/FesGsc2020Explain_00676",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/006/FesGsc2020Explain_00676#TEXT_FESGSC2020EXPLAIN_00676_STAFFA_000_000", "hash": "A83725F5524E0180", "target": "Qui alla Piazza dei Minion, gli ospiti possono sfidarsi nella competizione strategica nota come «Lord of Verminion»." },
-    { "gameKey": "custom/006/FesGsc2020Explain_00676#TEXT_FESGSC2020EXPLAIN_00676_STAFFA_000_001", "hash": "EB976E2B77DBDFF8", "target": "Che vogliate mettere alla prova il vostro genio tattico o semplicemente godervi un'adorabile baraonda di minion, questo gioco fa per voi!" },
+    { "gameKey": "custom/006/FesGsc2020Explain_00676#TEXT_FESGSC2020EXPLAIN_00676_STAFFA_000_000", "hash": "A83725F5524E0180", "target": "Qui alla Piazza delle Mascotte, gli ospiti possono sfidarsi nella competizione strategica nota come «Lord of Verminion»." },
+    { "gameKey": "custom/006/FesGsc2020Explain_00676#TEXT_FESGSC2020EXPLAIN_00676_STAFFA_000_001", "hash": "EB976E2B77DBDFF8", "target": "Che vogliate mettere alla prova il vostro genio tattico o semplicemente godervi un'adorabile baraonda di mascotte, questo gioco fa per voi!" },
     { "gameKey": "custom/006/FesGsc2020Explain_00676#TEXT_FESGSC2020EXPLAIN_00676_STAFFB_000_010", "hash": "E79E985BD2C93153", "target": "La Piazza delle Carte è la patria di quel fenomeno tanto acclamato e amato da tutti che chiamiamo «Triple Triad»!" },
     { "gameKey": "custom/006/FesGsc2020Explain_00676#TEXT_FESGSC2020EXPLAIN_00676_STAFFB_000_011", "hash": "3053C264F3F0A3AB", "target": "In questo gioco, pianificare in anticipo dove posizionare le carte è la chiave della vittoria. Chi ama pensare qualche mossa più avanti si sentirà a casa ai nostri tavoli!" },
     { "gameKey": "custom/006/FesGsc2020Explain_00676#TEXT_FESGSC2020EXPLAIN_00676_STAFFC_000_020", "hash": "0F86E67A0B8F064C", "target": "Il signor Roland mi ha informato del vostro imminente impiego. Vogliamo cominciare a istruirvi sulle attrazioni della Piazza Rotonda?" },
@@ -28,16 +28,16 @@
     { "gameKey": "custom/006/FesGsc2020Explain_00676#TEXT_FESGSC2020EXPLAIN_00676_STAFFD_000_034", "hash": "9662F0C8E886876D", "target": "Pensate di essere abbastanza veloci da schivare i colpi fulminei della sua lama? Allora questa attrazione è fatta su misura per voi!" },
     { "gameKey": "custom/006/FesGsc2020Explain_00676#TEXT_FESGSC2020EXPLAIN_00676_STAFFD_000_035", "hash": "966025F1FFAD4EF6", "target": "Ah, sì. «Picchia Chi Può». Accorrete tutti e mettete alla prova la vostra forza." },
     { "gameKey": "custom/006/FesGsc2020Explain_00676#TEXT_FESGSC2020EXPLAIN_00676_STAFFD_000_036", "hash": "E4403249D229A860", "target": "La potenza del pugno è importante, ma lo è anche la precisione!" },
-    { "gameKey": "custom/006/FesGsc2020Explain_00676#TEXT_FESGSC2020EXPLAIN_00676_STAFFD_000_037", "hash": "AE9280AC35CCCD95", "target": "Guidate il moguri, afferrate la sfera e vincete il vostro premio in MGP!" },
+    { "gameKey": "custom/006/FesGsc2020Explain_00676#TEXT_FESGSC2020EXPLAIN_00676_STAFFD_000_037", "hash": "AE9280AC35CCCD95", "target": "Guidate il moguri, afferrate la sfera e vincete il vostro premio in PGS!" },
     { "gameKey": "custom/006/FesGsc2020Explain_00676#TEXT_FESGSC2020EXPLAIN_00676_STAFFD_000_038", "hash": "41995C17BB6782EC", "target": "Questo gioco attira molti appassionati di congegni. E, a ben guardare, anche molti, ehm, «ammiratori» delle nostre assistenti qui vicino..." },
     { "gameKey": "custom/006/FesGsc2020Explain_00676#TEXT_FESGSC2020EXPLAIN_00676_STAFFE_000_040", "hash": "FB4EF915A3324F2F", "target": "Carne fresca per il tritacarne, eh? <if(gnum4,Benvenuta,Benvenuto)> in famiglia!" },
     { "gameKey": "custom/006/FesGsc2020Explain_00676#TEXT_FESGSC2020EXPLAIN_00676_Q3_000_000", "hash": "046E33B35EAA10A5", "target": "Su quale attrazione vuoi informarti?" },
     { "gameKey": "custom/006/FesGsc2020Explain_00676#TEXT_FESGSC2020EXPLAIN_00676_A3_000_001", "hash": "E758154D0E35241F", "target": "Il Martello della Torre di Cristallo." },
-    { "gameKey": "custom/006/FesGsc2020Explain_00676#TEXT_FESGSC2020EXPLAIN_00676_A3_000_002", "hash": "571911566AAD5878", "target": "Mahjong domano." },
+    { "gameKey": "custom/006/FesGsc2020Explain_00676#TEXT_FESGSC2020EXPLAIN_00676_A3_000_002", "hash": "571911566AAD5878", "target": "Mahjong Domano." },
     { "gameKey": "custom/006/FesGsc2020Explain_00676#TEXT_FESGSC2020EXPLAIN_00676_A3_000_003", "hash": "6555738DEB1AFDF2", "target": "Annulla" },
     { "gameKey": "custom/006/FesGsc2020Explain_00676#TEXT_FESGSC2020EXPLAIN_00676_STAFFE_000_041", "hash": "6664832DE594A7C0", "target": "In «Il Martello della Torre di Cristallo», per vincere bisogna calare il martello al momento giusto." },
     { "gameKey": "custom/006/FesGsc2020Explain_00676#TEXT_FESGSC2020EXPLAIN_00676_STAFFE_000_042", "hash": "A1C13FC2C302EB21", "target": "Questo gioco è adatto a chi sa maneggiare un martello o ha la pazienza di aspettare il momento perfetto per colpire." },
-    { "gameKey": "custom/006/FesGsc2020Explain_00676#TEXT_FESGSC2020EXPLAIN_00676_STAFFE_000_043", "hash": "3300F5390A2B54AC", "target": "Nel mahjong domano, quattro giocatori fanno a gara per raccogliere le tessere e formare una combinazione vincente, cercando al contempo di non regalare la vittoria agli avversari." },
+    { "gameKey": "custom/006/FesGsc2020Explain_00676#TEXT_FESGSC2020EXPLAIN_00676_STAFFE_000_043", "hash": "3300F5390A2B54AC", "target": "Nel mahjong Domano, quattro giocatori fanno a gara per raccogliere le tessere e formare una combinazione vincente, cercando al contempo di non regalare la vittoria agli avversari." },
     { "gameKey": "custom/006/FesGsc2020Explain_00676#TEXT_FESGSC2020EXPLAIN_00676_STAFFE_000_044", "hash": "EBE0D6B63D86B9B6", "target": "Le regole sono molte e varie, ma è la sfida di ingegno e astuzia a far tornare i giocatori. Non c'è niente di simile, soprattutto per chi si interessa alla cultura dell'Estremo Oriente!" }
   ]
 }

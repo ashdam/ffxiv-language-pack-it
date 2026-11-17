@@ -2,7 +2,7 @@
   "conversation": "raid/BahamutGuideEntranceWild",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "raid/BahamutGuideEntranceWild#TEXT_BAHAMUTGUIDEENTRANCEWILD_ERKENRAD_000_000", "hash": "DFCAC2515F16D4CB", "target": "Basta una vostra parola e trasferirò voi e i vostri compagni sulla nave di contenimento che sporge dal frammento del Muro Incandescente. Se avete domande, è il momento di farle." },
+    { "gameKey": "raid/BahamutGuideEntranceWild#TEXT_BAHAMUTGUIDEENTRANCEWILD_ERKENRAD_000_000", "hash": "DFCAC2515F16D4CB", "target": "Basta una vostra parola e trasferirò voi e i vostri compagni sulla nave di contenimento che sporge dal frammento del Muro Ardente. Se avete domande, è il momento di farle." },
     { "gameKey": "raid/BahamutGuideEntranceWild#TEXT_BAHAMUTGUIDEENTRANCEWILD_Q1_000_010", "hash": "310E707C62BD8D1F", "target": "Che cosa vuoi fare?" },
     { "gameKey": "raid/BahamutGuideEntranceWild#TEXT_BAHAMUTGUIDEENTRANCEWILD_A1_000_011", "hash": "FC09DD0BE1109972", "target": "Informazioni sulle Spire Finali di Bahamut." },
     { "gameKey": "raid/BahamutGuideEntranceWild#TEXT_BAHAMUTGUIDEENTRANCEWILD_A1_000_012", "hash": "5617DCB92F608B22", "target": "Entrare in <lowerhead(<sheet(InstanceContent,lnum1,3)>)>." },

@@ -34,7 +34,7 @@
     { "gameKey": "quest/051/BanPel001_05193#TEXT_BANPEL001_05193_LIPLU_000_013", "hash": "8B7D7B22F2407F00", "target": "(-Liplu-)Lì potremo discutere i particolari! Vi aspetterò, insieme al resto dei miei soci!" },
     { "gameKey": "quest/051/BanPel001_05193#TEXT_BANPEL001_05193_LIPLU_000_500", "hash": "EF27E82DFA110AB3", "target": "Ah, eccovi! Grazie di essere qui!" },
     { "gameKey": "quest/051/BanPel001_05193#TEXT_BANPEL001_05193_LIPLU_000_501", "hash": "7D902FC887AAED5E", "target": "Bene, cominciamo..." },
-    { "gameKey": "quest/051/BanPel001_05193#TEXT_BANPEL001_05193_LIPLU_000_502", "hash": "9E9E0E2138BD9E7F", "target": "(-All-)Ohokaliy! <if(gnum4,Benvenuta,Benvenuto)> a Kozama'uka!" },
+    { "gameKey": "quest/051/BanPel001_05193#TEXT_BANPEL001_05193_LIPLU_000_502", "hash": "9E9E0E2138BD9E7F", "target": "(-Tutti-)Ohokaliy! <if(gnum4,Benvenuta,Benvenuto)> a Kozama'uka!" },
     { "gameKey": "quest/051/BanPel001_05193#TEXT_BANPEL001_05193_Q50_000_004", "hash": "ED4EBF231D8D4C49", "target": "Che cosa dirai?" },
     { "gameKey": "quest/051/BanPel001_05193#TEXT_BANPEL001_05193_A50_000_001", "hash": "46CF7A3A616EF13B", "target": "Ohokaliy!" },
     { "gameKey": "quest/051/BanPel001_05193#TEXT_BANPEL001_05193_A50_000_002", "hash": "C798472FA9C7EB29", "target": "O-Ohokaliy..." },
@@ -144,7 +144,7 @@
     { "gameKey": "quest/051/BanPel001_05193#TEXT_BANPEL001_05193_WUKEVU_000_800", "hash": "307F59A8860ADC1B", "target": "Che ne dite di costruire questa cosa?" },
     { "gameKey": "quest/051/BanPel001_05193#TEXT_BANPEL001_05193_SYSTEM_000_801", "hash": "884D155980D826EC", "target": "Terminati i lavori dell'Agenzia Viaggi di Tural, Liplu e i suoi soci puntano a fare di Kozama'uka una meta turistica di primo piano!" },
     { "gameKey": "quest/051/BanPel001_05193#TEXT_BANPEL001_05193_SYSTEM_000_802", "hash": "26B044DDD4A1A0C8", "target": "Restano però molte sfide da affrontare prima di raggiungere i loro obiettivi. Come consulente speciale, è tuo dovere offrire sostegno e guida mentre si avventurano in questa nuova ed emozionante impresa." },
-    { "gameKey": "quest/051/BanPel001_05193#TEXT_BANPEL001_05193_SYSTEM_000_803", "hash": "BCCCFF83167A3F47", "target": "Hai raggiunto una reputazione <colortype(500)><edgecolortype(501)>Friendly<edgecolortype(0)><colortype(0)> con l'Agenzia Viaggi di Tural." },
+    { "gameKey": "quest/051/BanPel001_05193#TEXT_BANPEL001_05193_SYSTEM_000_803", "hash": "BCCCFF83167A3F47", "target": "Hai raggiunto una reputazione <colortype(500)><edgecolortype(501)>Amichevole<edgecolortype(0)><colortype(0)> con l'Agenzia Viaggi di Tural." },
     { "gameKey": "quest/051/BanPel001_05193#TEXT_BANPEL001_05193_SYSTEM_000_804", "hash": "13279AF2A764318A", "target": "Le missioni della società pelupelu sono ora disponibili da Yubli al Molo di Poga." },
     { "gameKey": "quest/051/BanPel001_05193#TEXT_BANPEL001_05193_SYSTEM_000_805", "hash": "223862DC84D8CA08", "target": "Inoltre, ora puoi acquistare merci da Pavli." },
     { "gameKey": "quest/051/BanPel001_05193#TEXT_BANPEL001_05193_SYSTEM_000_806", "hash": "DA93955B20985BBE", "target": "Hai imparato l'emote <colortype(500)><edgecolortype(501)>Ohokaliy<edgecolortype(0)><colortype(0)>!" }

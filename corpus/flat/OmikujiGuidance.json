@@ -37,7 +37,7 @@
     { "gameKey": "OmikujiGuidance#500.1", "hash": "7DAF5952258B083D", "target": "Favore:" },
     { "gameKey": "OmikujiGuidance#500.2", "hash": "502EF5752DD4D402", "target": "Mostra la stessa ferocia della Furente e la vittoria sarà tua." },
     { "gameKey": "OmikujiGuidance#501.2", "hash": "7392DFBC67F58E91", "target": "Sii gentile come l'Amante e riceverai gentilezza in cambio." },
-    { "gameKey": "OmikujiGuidance#502.2", "hash": "5D12E0FF2808A84B", "target": "Ardi di passione come la Guardiana e la tua strada sarà illuminata." },
+    { "gameKey": "OmikujiGuidance#502.2", "hash": "5D12E0FF2808A84B", "target": "Ardi di passione come la Custode e la tua strada sarà illuminata." },
     { "gameKey": "OmikujiGuidance#503.2", "hash": "A739FD1B8A9DC25A", "target": "Agisci con decisione come la Navigatrice: venti propizi ti porteranno in alto." },
     { "gameKey": "OmikujiGuidance#504.2", "hash": "26D7B30041FE2E6D", "target": "Coltiva la curiosità come il Viandante e troverai gioia nei tuoi viaggi." },
     { "gameKey": "OmikujiGuidance#1100.1", "hash": "FD64E300839045AB", "target": "Avventura:" },
@@ -115,7 +115,7 @@
     { "gameKey": "OmikujiGuidance#2501.2", "hash": "B50CABCE02A32E5C", "target": "Agisci con saggezza come l'Erudito e troverai il modo di superare la sventura." },
     { "gameKey": "OmikujiGuidance#2502.2", "hash": "4B2C066EE075B7F8", "target": "Agisci con risolutezza come la Furente e non conoscerai la resa." },
     { "gameKey": "OmikujiGuidance#2503.2", "hash": "B87D0AADC3B44293", "target": "Osserva con attenzione come l'Amante e vedrai le cose per ciò che sono." },
-    { "gameKey": "OmikujiGuidance#2504.2", "hash": "4E2A283418F671C4", "target": "Sii audace come la Guardiana e i tuoi compagni ti seguiranno con lealtà." },
+    { "gameKey": "OmikujiGuidance#2504.2", "hash": "4E2A283418F671C4", "target": "Sii audace come la Custode e i tuoi compagni ti seguiranno con lealtà." },
     { "gameKey": "OmikujiGuidance#3100.1", "hash": "3B8C24C55FE7A767", "target": "Avventura:" },
     { "gameKey": "OmikujiGuidance#3100.2", "hash": "2F9792EF4687FD82", "target": "Prima di partire, stabilisci la tua meta." },
     { "gameKey": "OmikujiGuidance#3101.2", "hash": "2D8C49516B06066E", "target": "Ascolta le richieste di chi ha bisogno, a prescindere da razza o credo." },
@@ -229,6 +229,6 @@
     { "gameKey": "OmikujiGuidance#5501.2", "hash": "E4B4B047AC9895C0", "target": "Se agirai con doppiezza come i Mercanti, perderai la fiducia altrui." },
     { "gameKey": "OmikujiGuidance#5502.2", "hash": "73DA278E9045927F", "target": "Se non deporrai l'ira come la Matrona, non avrai tregua dai conflitti." },
     { "gameKey": "OmikujiGuidance#5503.2", "hash": "8EC8E7216ACF07D0", "target": "Se non abbraccerai l'ordine come il Custode, le difficoltà si aggraveranno." },
-    { "gameKey": "OmikujiGuidance#5504.2", "hash": "129C0F5D9C3BCE5E", "target": "Se persisterai nell'audacia come la Guardiana, finirai per bruciare chi ti sta intorno." }
+    { "gameKey": "OmikujiGuidance#5504.2", "hash": "129C0F5D9C3BCE5E", "target": "Se persisterai nell'audacia come la Custode, finirai per bruciare chi ti sta intorno." }
   ]
 }

@@ -26,7 +26,7 @@
     { "gameKey": "quest/016/HeaVna502_01643#TEXT_HEAVNA502_01643_A1_000_001", "hash": "6750FAF6C2616177", "target": "Sì" },
     { "gameKey": "quest/016/HeaVna502_01643#TEXT_HEAVNA502_01643_A1_000_002", "hash": "87115187244A2C3B", "target": "No" },
     { "gameKey": "quest/016/HeaVna502_01643#TEXT_HEAVNA502_01643_LKHONEBB_000_020", "hash": "05ABE2887F383246", "target": "Salve, <if(gnum4,signora,signore)>! Sappiate che, appena il capo avrà tracciato una rotta, sarò a disposizione per portarvi avanti e indietro. Ordini della vicepresidente, sapete." },
-    { "gameKey": "quest/016/HeaVna502_01643#TEXT_HEAVNA502_01643_ALPHINAUD_000_030", "hash": "E1E17780ADAE2B1E", "target": "Da qui il Campo Cloudtop sembra piuttosto lontano..." },
+    { "gameKey": "quest/016/HeaVna502_01643#TEXT_HEAVNA502_01643_ALPHINAUD_000_030", "hash": "E1E17780ADAE2B1E", "target": "Da qui il Campo Cimanuvola sembra piuttosto lontano..." },
     { "gameKey": "quest/016/HeaVna502_01643#TEXT_HEAVNA502_01643_ALPHINAUD_000_031", "hash": "768252935ED30E77", "target": "Ehm. Tieni alta la guardia, <split(<string(gstr1)>, ,1)>. I Vanu potrebbero essere ovunque, persino osservarci mentre parliamo..." },
     { "gameKey": "quest/016/HeaVna502_01643#TEXT_HEAVNA502_01643_CID_000_040", "hash": "4AB8DC3F7EEA34BC", "target": "Per ora terremo qui l'<italic(1)>Enterprise<italic(0)>, ma se devi tornare a Ishgard puoi usare quello stendardo per chiamare un'aeronave delle Officine Garlond." },
     { "gameKey": "quest/016/HeaVna502_01643#TEXT_HEAVNA502_01643_CID_000_041", "hash": "8BBEAF5BA5CC8BC9", "target": "Non preoccuparti, abbiamo tracciato una rotta abbastanza sicura anche per gli altri... a meno che non spunti quel primale. Ma quante probabilità ci sono, eh?" }

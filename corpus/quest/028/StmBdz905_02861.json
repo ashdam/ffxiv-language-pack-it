@@ -22,7 +22,7 @@
     { "gameKey": "quest/028/StmBdz905_02861#TEXT_STMBDZ905_02861_BEREHTA_000_004", "hash": "EEF0919CD1D9E3CF", "target": "I Garleani sono fuggiti da queste parti da tempo, quindi spero che torni." },
     { "gameKey": "quest/028/StmBdz905_02861#TEXT_STMBDZ905_02861_BEREHTA_000_005", "hash": "0D594A2BE9B7D185", "target": "Andrei a cercarlo di persona, ma non ho mai lasciato Focolarefreddo. Da sola non farei molta strada. Potresti andare a dare un'occhiata per me?" },
     { "gameKey": "quest/028/StmBdz905_02861#TEXT_STMBDZ905_02861_BEREHTA_000_006", "hash": "501A10B997B52393", "target": "Che tu sia <if(gnum4,benedetta,benedetto)>. Non riesco a immaginare dove sia finito, ma è probabile che sia passato da Radiata, a nord." },
-    { "gameKey": "quest/028/StmBdz905_02861#TEXT_STMBDZ905_02861_BEREHTA_000_007", "hash": "192DFEFD788056D4", "target": "Sono solo cose che ho sentito dai mercanti di passaggio, bada, ma ci sono avamposti garleani ovunque. Se cercava un posto dove nascondersi prima di proseguire, dev'essere stato lì." },
+    { "gameKey": "quest/028/StmBdz905_02861#TEXT_STMBDZ905_02861_BEREHTA_000_007", "hash": "192DFEFD788056D4", "target": "Sono solo cose che ho sentito dai mercanti di passaggio, bada, ma ci sono avamposti Garleani ovunque. Se cercava un posto dove nascondersi prima di proseguire, dev'essere stato lì." },
     { "gameKey": "quest/028/StmBdz905_02861#TEXT_STMBDZ905_02861_BEREHTA_000_008", "hash": "932C444DE5E07B57", "target": "Si chiama Erart, a proposito. Ha capelli biondi e una vecchia cicatrice su una guancia. Lo riconoscerai quando lo vedrai." },
     { "gameKey": "quest/028/StmBdz905_02861#TEXT_STMBDZ905_02861_BEREHTA_000_009", "hash": "F41F550EC6D2B2CE", "target": "Dubito che sia rimasto a Radiata tutto questo tempo, ma sono sicura che qualcuno lì lo abbia almeno visto." },
     { "gameKey": "quest/028/StmBdz905_02861#TEXT_STMBDZ905_02861_SAGAR_100_009", "hash": "EDD0C4475670E2BC", "target": "Ti ha chiesto di trovare Erart? Dei, spero che tu trovi il ragazzo. Non lo vedo da anni." },
@@ -39,7 +39,7 @@
     { "gameKey": "quest/028/StmBdz905_02861#TEXT_STMBDZ905_02861_GODAFRE_000_054", "hash": "369ED4BCC26592B0", "target": "Non so se ti sia utile, ma temo che sia tutto ciò che so. Buona fortuna." },
     { "gameKey": "quest/028/StmBdz905_02861#TEXT_STMBDZ905_02861_GODAFRE_000_055", "hash": "F9FF7306F306C0A2", "target": "Se c'è qualcuno capace di portarlo al sicuro oltre Specula Imperatoris, è Stark Woad. Sono sicuro che stia bene." },
     { "gameKey": "quest/028/StmBdz905_02861#TEXT_STMBDZ905_02861_BEREHTA_000_010", "hash": "A1E3045405849D31", "target": "Di già di ritorno? Hai scoperto qualcosa sul mio ragazzo? È al sicuro?" },
-    { "gameKey": "quest/028/StmBdz905_02861#TEXT_STMBDZ905_02861_BEREHTA_000_011", "hash": "0CB92C6F4A2F8F32", "target": "È passato dall'avamposto garleano a nord? Quindi è fuggito..." },
+    { "gameKey": "quest/028/StmBdz905_02861#TEXT_STMBDZ905_02861_BEREHTA_000_011", "hash": "0CB92C6F4A2F8F32", "target": "È passato dall'avamposto Garleano a nord? Quindi è fuggito..." },
     { "gameKey": "quest/028/StmBdz905_02861#TEXT_STMBDZ905_02861_BEREHTA_000_012", "hash": "E9CCDC9ADA95BA8F", "target": "Mi solleva il cuore sapere che è fuori pericolo. \\<sigh> Mi manca così tanto..." }
   ]
 }

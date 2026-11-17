@@ -17,6 +17,6 @@
     { "gameKey": "quest/016/HeaVna319_01620#TEXT_HEAVNA319_01620_MOGHAN_000_010", "hash": "8751D0D142908BCD", "target": "Hai avuto difficoltà a trovare il respiro delle nuvole? Mi serve con una certa urgenza, sai..." },
     { "gameKey": "quest/016/HeaVna319_01620#TEXT_HEAVNA319_01620_MOGHAN_000_011", "hash": "A97A102A5AB1F3F0", "target": "Oh, sì, sono perfetti, kupò! Ora ho l'ingrediente principale per il mio tonico per pompon." },
     { "gameKey": "quest/016/HeaVna319_01620#TEXT_HEAVNA319_01620_MOGHAN_000_012", "hash": "0147B19A31EC294C", "target": "...A proposito, come ti senti <italic(1)>tu<italic(0)>, <if(gnum4,signorina,signore)>? Se mai il tuo pompon perdesse elasticità, sono il Moguri che fa per te, kupò!" },
-    { "gameKey": "quest/016/HeaVna319_01620#TEXT_HEAVNA319_01620_SYSTEM_000_900", "hash": "AC0998557CD1BB71", "target": "Hai completato le Prove di Affidabilità. Torna dal capoclan Moglin e attendi il suo giudizio." }
+    { "gameKey": "quest/016/HeaVna319_01620#TEXT_HEAVNA319_01620_SYSTEM_000_900", "hash": "AC0998557CD1BB71", "target": "Hai completato le Prove di Affidabilità. Torna dal Capoclan Moglin e attendi il suo giudizio." }
   ]
 }

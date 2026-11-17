@@ -10,7 +10,7 @@
     { "gameKey": "warp/WarpInnUldah#TEXT_WARPINNULDAH_OTOPAPOTTOPA_000_3", "hash": "83ACF65FC9279790", "target": "La Clessidra è semplicemente la locanda più famosa della Galleria dei Mercanti." },
     { "gameKey": "warp/WarpInnUldah#TEXT_WARPINNULDAH_OTOPAPOTTOPA_000_4", "hash": "C2F0B169B9C3697E", "target": "Abbiamo alloggi per soddisfare i gusti di ogni cliente, dalle suite sontuose alle camere semplici." },
     { "gameKey": "warp/WarpInnUldah#TEXT_WARPINNULDAH_OTOPAPOTTOPA_000_5", "hash": "1BAACC9B86E96DDC", "target": "In altre circostanze, vi inviterei volentieri a servirvi delle nostre strutture. Tuttavia, dopo la Calamità e gli spiacevoli eventi che ne sono seguiti, abbiamo dovuto adottare alcune regole. Soltanto chi ha dimostrato di essere degno di fiducia può soggiornare qui." },
-    { "gameKey": "warp/WarpInnUldah#TEXT_WARPINNULDAH_OTOPAPOTTOPA_000_6", "hash": "4EBA0DC7917D4CC0", "target": "Se dama Momodi vi riterrà una persona fidata, potrete godere della nostra ospitalità quando vorrete." },
+    { "gameKey": "warp/WarpInnUldah#TEXT_WARPINNULDAH_OTOPAPOTTOPA_000_6", "hash": "4EBA0DC7917D4CC0", "target": "Se Dama Momodi vi riterrà una persona fidata, potrete godere della nostra ospitalità quando vorrete." },
     { "gameKey": "warp/WarpInnUldah#TEXT_WARPINNULDAH_OTOPAPOTTOPA_000_10", "hash": "FFDB63AB289472A3", "target": "<if([gnum11<12],<if([gnum11<4],Buonasera,Buongiorno)>,<if([gnum11<17],Buongiorno,Buonasera)>)>, avventurier<if(gnum4,a,o)>. Come posso servirvi?" },
     { "gameKey": "warp/WarpInnUldah#TEXT_WARPINNULDAH_Q2_000_1", "hash": "301CD8011DFAAE14", "target": "Cosa vuoi fare?" },
     { "gameKey": "warp/WarpInnUldah#TEXT_WARPINNULDAH_A2_000_1", "hash": "B5A8D5D37CA537FB", "target": "Ritirarsi in una camera della locanda." },
@@ -23,6 +23,6 @@
     { "gameKey": "warp/WarpInnUldah#TEXT_WARPINNULDAH_SYSTEM_000_18", "hash": "B85B7EA9AED314FA", "target": "La sintesi, le riparazioni e l'inserimento di materia non possono essere eseguiti nelle camere delle locande." },
     { "gameKey": "warp/WarpInnUldah#TEXT_WARPINNULDAH_OTOPAPOTTOPA_000_19", "hash": "85117BCAB0BD8371", "target": "La Clessidra è semplicemente la locanda più famosa della Galleria dei Mercanti." },
     { "gameKey": "warp/WarpInnUldah#TEXT_WARPINNULDAH_OTOPAPOTTOPA_000_20", "hash": "4DADAB9E37F0BA64", "target": "Abbiamo alloggi per soddisfare i gusti di ogni cliente, dalle suite sontuose alle camere semplici." },
-    { "gameKey": "warp/WarpInnUldah#TEXT_WARPINNULDAH_OTOPAPOTTOPA_000_21", "hash": "4AD64BD97B7D9C1A", "target": "Su richiesta di dama Momodi, siete <if(gnum4,libera,libero)> di godere della nostra ospitalità quando volete. Se desiderate riposare, sarà un piacere accompagnarvi in una camera." }
+    { "gameKey": "warp/WarpInnUldah#TEXT_WARPINNULDAH_OTOPAPOTTOPA_000_21", "hash": "4AD64BD97B7D9C1A", "target": "Su richiesta di Dama Momodi, siete <if(gnum4,libera,libero)> di godere della nostra ospitalità quando volete. Se desiderate riposare, sarà un piacere accompagnarvi in una camera." }
   ]
 }

@@ -14,7 +14,7 @@
     { "gameKey": "cut_scene/030/VoiceMan_03005#TEXT_VOICEMAN_03005_200030_THORDAN", "hash": "DF08492731D306B2", "target": "<if(gnum4,Lei,Lui)> ha ciò che cerchiamo?" },
     { "gameKey": "cut_scene/030/VoiceMan_03005#TEXT_VOICEMAN_03005_200040_IGEYOHRM", "hash": "4E47E25A501BACFD", "target": "Sì, ce l'ha proprio <if(gnum4,lei,lui)>. La chiave di Azys Lla e dei segreti di Allag." },
     { "gameKey": "cut_scene/030/VoiceMan_03005#TEXT_VOICEMAN_03005_200050_IGEYOHRM", "hash": "5C84EE15393B7A6A", "target": "Vedo che hai riottenuto la benedizione della Luce, sebbene a una frazione della sua forza originaria." },
-    { "gameKey": "cut_scene/030/VoiceMan_03005#TEXT_VOICEMAN_03005_200060_THORDAN", "hash": "671DC5C014B3D957", "target": "Vi ringrazio, Asciana. E ringrazio anche te, <if(gnum4,Guerriera,Guerriero)> della Luce, per averci risparmiato la fatica di uccidere Bismarck." },
+    { "gameKey": "cut_scene/030/VoiceMan_03005#TEXT_VOICEMAN_03005_200060_THORDAN", "hash": "671DC5C014B3D957", "target": "Vi ringrazio, Ascian. E ringrazio anche te, <if(gnum4,Guerriera,Guerriero)> della Luce, per averci risparmiato la fatica di uccidere Bismarck." },
     { "gameKey": "cut_scene/030/VoiceMan_03005#TEXT_VOICEMAN_03005_200070_THORDAN", "hash": "11A4CF8A768B9F5E", "target": "Ora che la chiave è nelle nostre mani, la via verso i cieli sarà finalmente svelata!" },
     { "gameKey": "cut_scene/030/VoiceMan_03005#TEXT_VOICEMAN_03005_200080_THORDAN", "hash": "4DAB986B10E20666", "target": "Ahahah... Ahahahahaha!" },
     { "gameKey": "cut_scene/030/VoiceMan_03005#TEXT_VOICEMAN_03005_200090_THORDAN", "hash": "CE8CF610AC213B09", "target": "Con le nostre azioni ripareremo i torti del passato e l'umanità riprenderà in mano le redini della storia!" },

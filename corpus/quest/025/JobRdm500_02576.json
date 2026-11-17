@@ -73,6 +73,6 @@
     { "gameKey": "quest/025/JobRdm500_02576#TEXT_JOBRDM500_02576_XRHUNTIA_000_330", "hash": "7A5EBCB8ABFC7595", "target": "Capisco che non sia una strada da intraprendere alla leggera. Se cambi idea, però, sappi che sei sempre <if(gnum4,la benvenuta,il benvenuto)> tra i maghi rossi!" },
     { "gameKey": "quest/025/JobRdm500_02576#TEXT_JOBRDM500_02576_SYSTEM_000_340", "hash": "81A64C2109118AB1", "target": "Hai sbloccato un nuovo job! Puoi passare a questo job in qualsiasi momento equipaggiando l'arma ricevuta da questa missione." },
     { "gameKey": "quest/025/JobRdm500_02576#TEXT_JOBRDM500_02576_SYSTEM_000_341", "hash": "E77F6BD3213948E0", "target": "Quando cambi job, i <colortype(500)><edgecolortype(501)>set di equipaggiamento<edgecolortype(0)><colortype(0)> ti permettono di registrare e salvare diverse configurazioni. Puoi così passare istantaneamente da un job all'altro senza dover equipaggiare manualmente armi o altri oggetti." },
-    { "gameKey": "quest/025/JobRdm500_02576#TEXT_JOBRDM500_02576_SYSTEM_000_342", "hash": "48D945E81A044C34", "target": "Il pulsante dell'interfaccia dei set di equipaggiamento si trova nella parte superiore della finestra <colortype(500)><edgecolortype(501)>Personaggio<edgecolortype(0)><colortype(0)>." }
+    { "gameKey": "quest/025/JobRdm500_02576#TEXT_JOBRDM500_02576_SYSTEM_000_342", "hash": "48D945E81A044C34", "target": "Il pulsante dell'interfaccia dei Set di Equipaggiamento si trova nella parte superiore della finestra <colortype(500)><edgecolortype(501)>Personaggio<edgecolortype(0)><colortype(0)>." }
   ]
 }
