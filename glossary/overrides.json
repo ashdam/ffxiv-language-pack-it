@@ -8,6 +8,12 @@
   ],
   "terms": [
     {
+      "en": "Ehcatl Nine",
+      "it": "Ehcatl Nove",
+      "protect": false,
+      "note": "Decisione esplicita dell'utente del 2026-11-20, valida nell'intero corpus e nella UI per la societa' Ixal. Articoli: gli/degli/agli Ehcatl Nove. Non rinomina la localita' Ehcatl. Il gioco di parole Ehcatl Ten segue Ehcatl Dieci."
+    },
+    {
       "en": "walking one",
       "it": "camminante",
       "forms": [
@@ -3658,7 +3664,7 @@
       "en": "Stewards",
       "it": "Custodi",
       "protect": false,
-      "note": "Qitari expedition only. Do not apply this term to generic stewards or other named organisations. Unverified Italian form."
+      "note": "Qitari expedition only; Custodi confirmed by the user on 2026-11-19. Excludes generic stewards and other organisations."
     },
     {
       "en": "Radiant",
@@ -3802,9 +3808,9 @@
     },
     {
       "en": "Xeerol Ja Juicecraft",
-      "it": "Bottega dei Succhi di Xeerol Ja",
+      "it": "Succhi Artigianali di Xeerol Ja",
       "protect": false,
-      "note": "Use for the shop in narrative prose. Keep exact UI labels in English. Unverified Italian form."
+      "note": "Nome completo della bottega: decisioni utente 2026-11-10 e 2026-11-19; coerente con Addon#14451 e BankaCraftWorks#2. In prosa ammesso il descrittore Bottega davanti al nome; JournalGenre#213 conserva la forma descrittiva contestuale."
     },
     {
       "en": "Crossin'",
@@ -4215,9 +4221,9 @@
     },
     {
       "en": "Turali Travel Agency",
-      "it": "Agenzia Viaggi di Tural",
+      "it": "Agenzia di Viaggi di Tural",
       "protect": false,
-      "note": "Narrative term. Keep exact Item and UI labels in English. Unverified Italian form."
+      "note": "Named Pelupelu society/company; Agenzia di Viaggi di Tural confirmed by the user on 2026-11-19, including UI labels and dialogue."
     },
     {
       "en": "Turali Agricultural Association",
@@ -4793,7 +4799,7 @@
       "en": "splendorous tools",
       "it": "Attrezzi Splendenti",
       "protect": false,
-      "note": "NotebookDivision#1055/#2014: verified legacy name; translate the exact interface label as well as prose."
+      "note": "Decisione utente 2026-11-19: Attrezzi Splendenti per la serie Splendorous; sostituisce Strumenti Meravigliosi, Strumenti Splendidi e Attrezzi Splendidi nei riferimenti alla stessa serie. La resa coincide con Resplendent Tools, ma le due serie restano distinte. Riferimenti: NotebookDivision#1055/#2014, JournalGenre#102, banners#128236/#128271."
     },
     {
       "en": "crystalline tool",
@@ -10222,7 +10228,7 @@
       "en": "soulglaze",
       "it": "smalto dell'anima",
       "protect": false,
-      "note": "The relic weapon coating. Use for the narrative process, not a complete Item or UI label."
+      "note": "Rivestimento/materiale delle armi reliquia: smalto dell'anima. Distinto dal procedimento soulglazing, confermato come Smaltatura dell'Anima il 2026-11-18; non usare la resa del materiale come nome del procedimento. Fonti e ambito in DECISIONS.md, decisione Soulglazing."
     },
     {
       "en": "soul attunement",
@@ -10258,7 +10264,7 @@
       "en": "aetherwell",
       "it": "sfera eterea",
       "protect": false,
-      "note": "The ether storage orb in the phantom weapon narrative, French orbe and Japanese 魔道球. Keep complete Action and UI labels in English. Unverified Italian form."
+      "note": "Decisione utente del 2026-11-19 per le sfere delle Armi Fantasma: sfera eterea, plurale sfere eteree, anche nelle etichette UI. Sostituisce Sorgenti d'Etere nei riferimenti allo stesso oggetto. Fonti: Addon#16551–16555 e LogMessage#11145. Esclusa la diversa azione Action#13426; non estendere ad altri omonimi."
     },
     {
       "en": "aetheroinsulation coating",
@@ -10294,7 +10300,7 @@
       "en": "soulglazing",
       "it": "smaltatura dell'anima",
       "protect": false,
-      "note": "The relic weapon coating process. Keep a menu label in English when its matching option is untranslated."
+      "note": "Decisione utente 2026-11-18: procedimento di smaltatura delle armi reliquia; etichetta Smaltatura dell'Anima, menu CustomTalk#721103.64. Soulglaze indica invece lo smalto dell'anima."
     },
     {
       "en": "anima glass",
@@ -14954,9 +14960,9 @@
     },
     {
       "en": "Soulglazing",
-      "it": "Invetriatura d'Anima",
+      "it": "Smaltatura dell'Anima",
       "protect": false,
-      "note": "Decisione d'adattamento legacy; fonte: data/translations/system/howto.json#189:translation."
+      "note": "Decisione utente 2026-11-18: Smaltatura dell'Anima per il procedimento; sostituisce Invetriatura d'Anima. Riferimenti: HowTo#189, CustomTalk#721103.64, banner 120905."
     },
     {
       "en": "Bonding Ceremony Invitations",
@@ -15818,7 +15824,7 @@
       "en": "Battle Mentor",
       "it": "Mentore di Battaglia",
       "protect": false,
-      "note": "Etichetta status OnlineStatus#11; decisione utente sulla resa legacy data/translations/social/onlinestatus.json#11:translation."
+      "note": "Decisione utente estesa il 2026-11-19 a tutti i riferimenti allo stesso ruolo: UI, guide, dialoghi e banner; non piu' limitata a OnlineStatus."
     },
     {
       "en": "Viewing Cutscene",
@@ -15830,7 +15836,7 @@
       "en": "Trade Mentor",
       "it": "Mentore dei Mestieri",
       "protect": false,
-      "note": "Etichetta status OnlineStatus#29; decisione utente sulla resa legacy data/translations/social/onlinestatus.json#29:translation."
+      "note": "Decisione utente estesa il 2026-11-19 a tutti i riferimenti allo stesso ruolo: UI, guide, dialoghi e banner; non piu' limitata a OnlineStatus."
     },
     {
       "en": "Alliance Leader",
@@ -28020,25 +28026,25 @@
     },
     {
       "en": "Delubrum Reginae (Savage) is a duty for 24 to 48 players wherein adventurers explore the underground ruins of Bozja.",
-      "it": "Delubrum Reginae (Savage) è un incarico per 24–48 giocatori che esplorano le rovine sotterranee di Bozja.",
+      "it": "Delubrum Reginae (Selvaggio) è un incarico per 24–48 giocatori che esplorano le rovine sotterranee di Bozja.",
       "protect": false,
       "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/DescriptionString.json::('corpus/flat/DescriptionString.json', 'DescriptionString#473'). Fonte legacy: data/translations/system/descriptionstring.json#473:translation EN/hash verificati."
     },
     {
       "en": "■Basics<br>An alliance of 24 to 48 players is required to register for this duty. The Party Finder may be used to recruit members for this duty by selecting the Field Operations category, then Delubrum Reginae (Savage). After forming an alliance, the alliance leader must speak with the troubled gentleman in Gangos to register.<br><br>While inside Delubrum Reginae (Savage), players will be subjected to a status effect that prevents resurrection by certain means, making due preparation all the more essential for this encounter.",
-      "it": "■Nozioni di Base<br>Per iscriversi serve un'alleanza di 24–48 giocatori. Puoi reclutare membri tramite la Ricerca Gruppo scegliendo Operazioni sul Campo e poi Delubrum Reginae (Savage). Una volta formata l'alleanza, il suo capo deve parlare con il gentiluomo preoccupato a Gangos.<br><br>All'interno di Delubrum Reginae (Savage) i giocatori subiscono un effetto che impedisce la resurrezione con alcuni mezzi: preparati con cura.",
+      "it": "■Nozioni di Base<br>Per iscriversi serve un'alleanza di 24–48 giocatori. Puoi reclutare membri tramite la Ricerca Gruppo scegliendo Operazioni sul Campo e poi Delubrum Reginae (Selvaggio). Una volta formata l'alleanza, il suo capo deve parlare con il gentiluomo preoccupato a Gangos.<br><br>All'interno di Delubrum Reginae (Selvaggio) i giocatori subiscono un effetto che impedisce la resurrezione con alcuni mezzi: preparati con cura.",
       "protect": false,
       "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/DescriptionString.json::('corpus/flat/DescriptionString.json', 'DescriptionString#474'). Fonte legacy: data/translations/system/descriptionstring.json#474:translation EN/hash verificati."
     },
     {
       "en": "Players may encounter traps while fighting their way through Delubrum Reginae (Savage). Traps are invisible and, when triggered, can deal large amounts of damage or afflict players with any number of debilitating effects.<br><br>That said, there are certain lost actions that will allow one to detect traps before they are activated.",
-      "it": "In Delubrum Reginae (Savage) potresti incontrare trappole invisibili che, una volta attivate, infliggono danni ingenti o vari effetti debilitanti.<br><br>Alcune azioni perdute permettono di rilevarle prima che scattino.",
+      "it": "In Delubrum Reginae (Selvaggio) potresti incontrare trappole invisibili che, una volta attivate, infliggono danni ingenti o vari effetti debilitanti.<br><br>Alcune azioni perdute permettono di rilevarle prima che scattino.",
       "protect": false,
       "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/DescriptionString.json::('corpus/flat/DescriptionString.json', 'DescriptionString#478'). Fonte legacy: data/translations/system/descriptionstring.json#478:translation EN/hash verificati."
     },
     {
       "en": "The additional effects of Bozjan gear will also be applied in Delubrum Reginae (Savage). Moreover, by completing this duty, players will obtain items that can be exchanged for more powerful gear.",
-      "it": "Anche gli effetti aggiuntivi dell'equipaggiamento di Bozja si applicano in Delubrum Reginae (Savage). Completando l'incarico, otterrai inoltre oggetti da scambiare con equipaggiamento più potente.",
+      "it": "Anche gli effetti aggiuntivi dell'equipaggiamento di Bozja si applicano in Delubrum Reginae (Selvaggio). Completando l'incarico, otterrai inoltre oggetti da scambiare con equipaggiamento più potente.",
       "protect": false,
       "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/DescriptionString.json::('corpus/flat/DescriptionString.json', 'DescriptionString#479'). Fonte legacy: data/translations/system/descriptionstring.json#479:translation EN/hash verificati."
     },
@@ -28050,19 +28056,19 @@
     },
     {
       "en": "Players incapacitated in Delubrum Reginae (Savage) will lose a portion of the mettle required to reach their next rank. After being incapacitated, an additional penalty to mettle will be incurred should players leave the instance before being revived.",
-      "it": "Chi viene messo fuori combattimento in Delubrum Reginae (Savage) perde parte del Coraggio necessario per raggiungere il grado successivo. Uscire dall'incarico prima di essere rianimati comporta un'ulteriore penalità.",
+      "it": "Chi viene messo fuori combattimento in Delubrum Reginae (Selvaggio) perde parte del Coraggio necessario per raggiungere il grado successivo. Uscire dall'incarico prima di essere rianimati comporta un'ulteriore penalità.",
       "protect": false,
       "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/DescriptionString.json::('corpus/flat/DescriptionString.json', 'DescriptionString#481'). Fonte legacy: data/translations/system/descriptionstring.json#481:translation EN/hash verificati."
     },
     {
       "en": "Alliances will be temporarily disbanded upon entering Delubrum Reginae (Savage). Party compositions may also change once inside.",
-      "it": "Le alleanze vengono sciolte temporaneamente all'ingresso di Delubrum Reginae (Savage). All'interno può cambiare anche la composizione dei gruppi.",
+      "it": "Le alleanze vengono sciolte temporaneamente all'ingresso di Delubrum Reginae (Selvaggio). All'interno può cambiare anche la composizione dei gruppi.",
       "protect": false,
       "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/DescriptionString.json::('corpus/flat/DescriptionString.json', 'DescriptionString#482'). Fonte legacy: data/translations/system/descriptionstring.json#482:translation EN/hash verificati."
     },
     {
       "en": "While inside Delubrum Reginae (Savage), players will be subjected to a status effect that prevents resurrection by certain means. Raise effects granted via limit breaks and certain lost actions are exempt from this restriction.",
-      "it": "In Delubrum Reginae (Savage) un effetto di stato impedisce la resurrezione con determinati mezzi. Fanno eccezione gli effetti di resurrezione concessi dalle tecniche limite e da alcune azioni perdute.",
+      "it": "In Delubrum Reginae (Selvaggio) un effetto di stato impedisce la resurrezione con determinati mezzi. Fanno eccezione gli effetti di resurrezione concessi dalle tecniche limite e da alcune azioni perdute.",
       "protect": false,
       "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/DescriptionString.json::('corpus/flat/DescriptionString.json', 'DescriptionString#484'). Fonte legacy: data/translations/system/descriptionstring.json#484:translation EN/hash verificati."
     },
@@ -32652,9 +32658,9 @@
     },
     {
       "en": "About Votives",
-      "it": "I Votivi",
+      "it": "I Ceri Votivi",
       "protect": false,
-      "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/DescriptionString.json::('corpus/flat/DescriptionString.json', 'DescriptionString#1462'). Fonte legacy: data/translations/system/descriptionstring.json#1462:translation EN/hash verificati."
+      "note": "Decisione dell'utente del 19 novembre 2026: Cero Votivo per il votive acceso nelle Cripte Profonde; titolo DescriptionString#1462 allineato ai banner 121742–121758 e a LogMessage#11259. Sostituisce la precedente resa I Votivi; distinto dal Candelabro Votivo che lo contiene."
     },
     {
       "en": "Players may encounter votive candelabras along their journey through Pilgrim's Traverse. Lighting them will activate various effects for the area beyond the next traverse stone. These effects may benefit your party or introduce additional challenges, so consider wisely before lighting the votives you find.<br><br>Votive candelabras cannot be found in areas that precede a boss battle.",
@@ -35376,7 +35382,7 @@
     },
     {
       "en": "Ehcatl Nine Delivery Quests",
-      "it": "Missioni di Consegna dei Nove Ehcatl",
+      "it": "Missioni di Consegna degli Ehcatl Nove",
       "protect": false,
       "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/HowTo.json::('corpus/flat/HowTo.json', 'HowTo#186'). Fonte legacy: data/translations/system/howto.json#186:translation EN/hash verificati."
     },
@@ -40084,6 +40090,28 @@
       "it": "Moko l'Irrequieto",
       "protect": false,
       "note": "Character epithet; apply to references to the same character. User-confirmed Italian rendering on 2026-11-16."
+    },
+    {
+      "en": "Trust",
+      "it": "Alleati",
+      "protect": false,
+      "note": "Decisione utente 2026-11-19: nome del sistema e del gruppo PNG, sostituisce Trust e Compagni Spettrali. Non applicare al verbo trust, a Mirage Trust o ai compagni evocabili/chocobo. Riferimenti: MainCommand#82.5, Addon#12700, banners#128044."
+    },
+    {
+      "en": "Aether Compass",
+      "it": "Bussola Eterea",
+      "forms": [
+        "aether compass",
+        "aether compasses"
+      ],
+      "protect": false,
+      "note": "Decisione utente 2026-11-19: sostituisce Bussola Eterica per lo stesso oggetto. Plurale: bussole eteree. Riferimenti: EventItem#2001886.0/.2, McGuffinUIData#4, ActionTransient#26988, banners#128159."
+    },
+    {
+      "en": "Mogpendium",
+      "it": "Mogpendium",
+      "protect": false,
+      "note": "Decisione utente 2026-11-19: nome del menu del Forziere del Moguri; sostituisce Mogpendio. Riferimenti: Addon#15870, LogMessage#1498, banners#128272."
     }
   ]
 }

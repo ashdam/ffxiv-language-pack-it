@@ -46,7 +46,7 @@
     { "gameKey": "quest/050/KinGla506_05001#TEXT_KINGLA506_05001_DONUHANU_000_064", "hash": "56A5DCCFC82EAAE5", "target": "Senza dubbio! Felice è l'uomo che si nutre di pesce fresco... anche se gli somiglia un po'." },
     { "gameKey": "quest/050/KinGla506_05001#TEXT_KINGLA506_05001_DONUHANU_000_065", "hash": "BE2E66B3581E5D61", "target": "Grazie per averci procurato questa delizia, <split(<string(gstr1)>, ,1)>. Ora che Pashenine ha ripreso colore, possiamo pensare al pesce per la sua ultima sfida. Il vecchio Donuhanu deve solo rifletterci bene e troverà senz'altro qualcosa..." },
     { "gameKey": "quest/050/KinGla506_05001#TEXT_KINGLA506_05001_SYSTEM_000_070", "hash": "55DB6626C6EA3B5F", "target": "Donuhanu è entusiasta dei tuoi sforzi. Ora ti considera <colortype(500)><edgecolortype(501)>Phenomenal Fish Finder<edgecolortype(0)><colortype(0)>!" },
-    { "gameKey": "quest/050/KinGla506_05001#TEXT_KINGLA506_05001_SYSTEM_000_080", "hash": "B6E8450F8C1783DB", "target": "È ora disponibile una nuova missione che prosegue la storia della bottega Fantasie Ittiche Donuhanu. Per intraprenderla, parla con Donuhanu dopo aver portato Pescatore almeno al livello 100." },
+    { "gameKey": "quest/050/KinGla506_05001#TEXT_KINGLA506_05001_SYSTEM_000_080", "hash": "B6E8450F8C1783DB", "target": "È ora disponibile una nuova missione che prosegue la storia della bottega Fantasie Ittiche di Donuhanu. Per intraprenderla, parla con Donuhanu dopo aver portato Pescatore almeno al livello 100." },
     { "gameKey": "quest/050/KinGla506_05001#TEXT_KINGLA506_05001_SYSTEM_000_081", "hash": "3869E7B52873DA85", "target": "Per completare la missione successiva, devi prima completare la missione dello scenario principale “Vestigia sommerse”." }
   ]
 }
