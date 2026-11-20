@@ -1,8 +1,8 @@
 {
   "gameVersion": "2026.11.03.0000.0000",
-  "translated": 864290,
+  "translated": 866263,
   "total": 866594,
-  "percent": 99.7,
+  "percent": 100,
   "chars": 63104339,
   "unresolved": 5785,
   "groups": [
@@ -21,7 +21,7 @@
     {
       "expansion": null,
       "content": "Internal UI catalogs",
-      "translated": 240,
+      "translated": 2213,
       "total": 2365
     },
     {
@@ -53788,13 +53788,13 @@
   ],
   "internalUi": {
     "total": 2365,
-    "translated": 240,
-    "pending": 2125,
+    "translated": 2213,
+    "pending": 152,
     "stale": 0,
     "excluded": 48,
     "excludedTranslated": 0,
     "chars": 55965,
-    "percent": 10.1
+    "percent": 93.6
   },
   "futureLocalization": []
 }
