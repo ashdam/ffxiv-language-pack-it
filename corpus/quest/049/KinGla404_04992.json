@@ -55,6 +55,6 @@
     { "gameKey": "quest/049/KinGla404_04992#TEXT_KINGLA404_04992_SHUNYE_000_076", "hash": "DC78206032C7CEE5", "target": "Quindi è meglio non farla aspettare, eh?" },
     { "gameKey": "quest/049/KinGla404_04992#TEXT_KINGLA404_04992_SHUNYE_000_077", "hash": "C582C8A35D1EF933", "target": "Andrei io stesso, ma per oggi ne ho abbastanza dei suoi rimproveri. Potreste andare al posto mio, <split(<string(gstr1)>, ,1)>? Vi prometto una ricompensa adeguata per il disturbo." },
     { "gameKey": "quest/049/KinGla404_04992#TEXT_KINGLA404_04992_SYSTEM_000_078", "hash": "42489D34A03E7A88", "target": "Shunye è felicissimo del tuo impegno. Ora ti considera <colortype(500)><edgecolortype(501)><if(gnum4,Raccoglitrice Talentuosa,Raccoglitore Talentuoso)><edgecolortype(0)><colortype(0)>!" },
-    { "gameKey": "quest/049/KinGla404_04992#TEXT_KINGLA404_04992_SYSTEM_000_079", "hash": "53476335B523215F", "target": "È ora disponibile una nuova missione che prosegue la storia della Farmacia di Shunye. Al suo completamento, l'elenco consegne a Wachumeqimeqi di Shunye verrà aggiornato." }
+    { "gameKey": "quest/049/KinGla404_04992#TEXT_KINGLA404_04992_SYSTEM_000_079", "hash": "53476335B523215F", "target": "È ora disponibile una nuova missione che prosegue la storia della Spezieria di Shunye. Al suo completamento, l'elenco consegne a Wachumeqimeqi di Shunye verrà aggiornato." }
   ]
 }

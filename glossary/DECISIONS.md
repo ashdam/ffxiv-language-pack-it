@@ -395,7 +395,7 @@ I nomi dei Loporrit seguono gli adattamenti confermati dall'utente (prevalenteme
 | Inglese | Forma canonica | Ambito e fonti |
 | --- | --- | --- |
 | The World Unsundered / world unsundered | Mondo Indiviso | Decisione dell'utente del 16 novembre 2026; nome del luogo e riferimento alla stella prima della Separazione. Adattare articolo e maiuscole alla frase. Riferimenti EN/hash: `corpus/flat/PlaceName.json#PlaceName#3705.0/.2/#3743.0/.2`; `corpus/flat/PlayerSearchSubLocation.json#PlayerSearchSubLocation#29.3/.4/.5`; `corpus/flat/NotebookDivision.json#NotebookDivision#2012`; `corpus/flat/AkatsukiNoteString.json#AkatsukiNoteString#105`; `corpus/flat/MountTransient.json#MountTransient#313.1`; `corpus/flat/GilShop.json#GilShop#263132`; `corpus/flat/Item.json#Item#36601.0/.2/.9/#36605.0/.2/.9/#36609.0/.2/.9`; `corpus/ui/banners.json#ui/icon/122000/en/122031.tex#text`. |
-| Unlost World | Mondo Non Perduto | Decisione dell'utente del 16 novembre 2026; nome della regione, con articolo adattato alla frase. Riferimenti EN/hash: `corpus/flat/PlaceName.json#PlaceName#4502.0/.2/#4513.0/.2`; `corpus/flat/PlayerSearchSubLocation.json#PlayerSearchSubLocation#35.3/.4/.5`; `corpus/cut_scene/070/VoiceMan_07005.json#TEXT_VOICEMAN_07005_000552_WUKLAMAT`; `corpus/quest/049/KinGmf103_04948.json#TEXT_KINGGMF103_04948_SEQ_04`; `corpus/flat/JournalCategory.json#JournalCategory#85`; `corpus/flat/GilShop.json#GilShop#263225`; `corpus/flat/PhantomWeaponExTodo.json#PhantomWeaponExTodo#3`; `corpus/ui/banners.json#ui/icon/122000/en/122036.tex#text/#122038.tex#text`. |
+| Unlost World | Mondo Non Perduto | Decisione dell'utente del 16 novembre 2026; nome della regione, con articolo adattato alla frase. Riferimenti EN/hash: `corpus/flat/PlaceName.json#PlaceName#4502.0/.2/#4513.0/.2`; `corpus/flat/PlayerSearchSubLocation.json#PlayerSearchSubLocation#35.3/.4/.5`; `corpus/cut_scene/070/VoiceMan_07005.json#TEXT_VOICEMAN_07005_000552_WUKLAMAT`; `corpus/quest/049/KinGmf103_04948.json#TEXT_KINGGMF103_04948_SEQ_04`; `corpus/flat/JournalCategory.json#JournalCategory#85`; `corpus/flat/GilShop.json#GilShop#263225`; `corpus/flat/PhantomWeaponExTodo.json#PhantomWeaponExTodo#3`; `corpus/ui/banners.json#ui/icon/122000/en/122036.tex#text`; il banner `122038` segue invece il testo visibile The Mist Continent, come precisato nella decisione del 18 novembre qui sotto. |
 
 ## Decisione terminologica: Criterion Dungeon
 
@@ -444,3 +444,69 @@ I nomi dei Loporrit seguono gli adattamenti confermati dall'utente (prevalenteme
 | Inglese | Forma canonica | Ambito e fonte |
 | --- | --- | --- |
 | Archfiend(s) of Golbez | arcidemone (pl. arcidemoni) | Decisione dell'utente del 16 novembre 2026; usare per i quattro membri del circolo di Golbez, singolarmente e come gruppo. Limitare il termine ai quattro di Golbez; non estenderlo a entità con funzione o referente distinto. Riferimenti EN/hash: `corpus/cut_scene/062/VoiceMan_06200#TEXT_VOICEMAN_06200_000400_EARTHMONOLITH` (`F82E9C75A5DACA0F`); `corpus/cut_scene/063/VoiceMan_06300#TEXT_VOICEMAN_06300_002210_WATERMONOLITH` (`D58ADF5CF9629366`); `corpus/flat/TripleTriadCard.json#TripleTriadCard#365.8` (`7846AF9BB50D042B`), `#376.8` (`08E87E8F02B1A0ED`). |
+
+- 2026-11-17: «Sudden Death» → «A Oltranza» anche nel banner generico `corpus/ui/banners.json#ui/icon/120000/en/120126.tex#text`, per conferma esplicita dell'utente; supera «Morte Improvvisa» nei cataloghi texture pertinenti.
+
+- 2026-11-17: «Hellsward» → «Verso gli Inferi» nel banner `corpus/ui/banners.json#ui/icon/120000/en/120458.tex#text`, per decisione esplicita dell'utente. Per `120470` mantenere «Highland 2» dal corpus EN. Il banner `120411` («Bi-Float Island») è escluso dalla generazione su indicazione dell'utente.
+
+### Banner di inizio dei conflitti di Eureka
+
+Decisione utente del 18 novembre 2026, limitata alle notifiche di inizio: `banners.json#ui/icon/121000/en/121006.tex#text` (EN `Elemental Conflict Joined`, hash `78404609E0BAFB80`) usa «Conflitto Elementale Iniziato»; `121016` (EN `Notorious Monster Battle Joined`, hash `26F8991C0617A301`) usa «Scontro con Mostro Notorio Iniziato». Sostituiscono le formule con «Partecipazione» nei due banner; non estendere automaticamente a messaggi con altra funzione.
+
+### Carrier nel banner di sblocco 120732
+
+Decisione utente del 18 novembre 2026: `corpus/ui/banners.json#ui/icon/120000/en/120732.tex#text`, EN «Carrier Unlocked», usa «Postino Sbloccato». Ambito limitato a questo banner: non introduce una classe nel corpus ClassJob e non si estende ad altri usi di Carrier.
+
+- 2026-11-18, conferma utente (titoli Hildibrand, banner 120802/120803/120809): mantenere le forme di Quest «Un caso indecente», «L'enigma del Colosseo», «Il passato non passa mai» anche nei corrispondenti titoli di CompleteJournal e nei banner, adattando le maiuscole alla funzione. Superate per questi titoli «Un Caso di Indecenza», «Il Dilemma del Colosseo», «Il Passato Non È Mai Passato».
+
+- 2026-11-18, decisione utente: Soulglazing = Smaltatura dell'Anima (procedimento delle armi reliquia e riuso nelle armi Anima). Nei menu e nelle guide sostituisce Invetriatura d'Anima e Infusione dell'Anima quando indicano questo procedimento. Soulglaze, il materiale/rivestimento, resta smalto dell'anima; conservare questa distinzione anche nelle forme flesse. Riferimenti: corpus/flat/HowTo.json#HowTo#189, corpus/flat/CustomTalk.json#CustomTalk#721103.64, corpus/ui/banners.json#ui/icon/120000/en/120905.tex#text.
+
+- 2026-11-18, conferma utente per gli Altari Mutevoli di Uznair: The Circles Shift! = I Cerchi Si Spostano! (banner 120935; LogMessage#9357 in prosa), The Shift Holds! = Lo Spostamento Regge! (banner 120936). Conservare la coppia di messaggi; non sostituire con trasformazione.
+
+- 2026-11-18, decisione utente aggiornata dopo verifica visiva: Stacked = Accumuli nei banner 120955 e 120957 di Rival Wings, abbinati al numero di accumuli dello stato Ascesa (Soaring). Esempio ufficiale: 2 Stacked sopra Soaring Higher, https://lds-img.finalfantasyxiv.com/h/H/CDYNN-_aGJQFn9NU1FVNzh1l7o.jpg ; contesto: https://na.finalfantasyxiv.com/lodestone/playguide/contentsguide/rivalwings/astragalos/ . Superata la precedente resa Cariche: non indica utilizzi consumabili. Ambito limitato a questi contatori.
+
+- 2026-11-18, conferma utente: Exercise = Esercitazione nei titoli dei banner 121076, 121077 e 121078 (Iniziata / Completata / Fallita), coerentemente con Esercitazione Finale in ContentFinderCondition#166.43. Decisione sui titoli delle notifiche; non estendere automaticamente ai testi discorsivi dei menu.
+
+- 2026-11-18, conferma utente dopo verifica del contesto: Anniversary Set = Anniversario Registrato (banner 121104); Anniversary of Eternal Bonding set. = Anniversario del Legame Eterno registrato. (LogMessage#9385). Indica la registrazione presso Hawu Bajihri al Santuario dei Dodici per ripetere la cerimonia, non la prenotazione della data della cerimonia. Fonte: custom/005/CtsEtcReWedding_00531#TEXT_CTSETCREWEDDING_00531_SYSTEM_000_023 e https://na.finalfantasyxiv.com/eternalbond/planning/anniversary/ . Superata la resa impostato per questa conferma.
+
+- 2026-11-18, conferma utente per i banner di Bozja: Skirmish Joined = Schermaglia Iniziata (121111); Skirmish Won! = Schermaglia Vinta! (121112). Dicitura delle notifiche; non propagare la sostituzione nei dialoghi che descrivono la partecipazione.
+
+- 2026-11-18, conferma utente: Link-strike = Attacco Combinato per la mossa con Noctis (Action#14625, banner 121233), coerentemente con LogMessage#2978 e #2988. Superata la resa Colpo di Collegamento per questa mossa.
+
+- 2026-11-18, decisione utente: FÊTE, evento del Firmamento e gioco di parole con FATE, si mantiene in maiuscolo con circonflesso e accordi al maschile: FÊTE Iniziato / FÊTE Completato (banner 121246/121248). Non adattare a Festa.
+
+- 2026-11-18, conferma utente: Carteneau Flats = Piane di Carteneau. Riconciliati il banner 122015, ContentFinderCondition#222.43 e i riferimenti allo stesso luogo; superata la variante Pianure di Carteneau. Fonte del nome: PlaceName#1374.0.
+
+- 2026-11-18, conferma utente dopo confronto con l'originale HD: il banner 122038 mostra The Mist Continent e va reso Il Continente della Nebbia. La voce banners-en riporta Unlost World: conservare sorgente e hash e usare il testo visibile per questa texture; 122036 resta Il Mondo Non Perduto.
+
+- 2026-11-18, decisione utente: First/Second Master's Board = Prima/Seconda Tavola del Maestro (banner 122113/122114; ContentFinderCondition#1091.43/#1092.43). Allineati i nomi di luogo PlaceName#5600/#5601; superata Tavola del Primo/Secondo Maestro.
+- 2026-11-18, decisione utente per il luogo di Alexander: The Braincase = La Scatola Cranica (banner 124570, testo verificato sull'originale HD).
+- 2026-11-18, decisioni utente sui titoli dei contenuti: Ultima's Bane = Rovina di Ultima (CFC#68.43); Another Sil'dihn Subterrane = Altri Sotterranei di Sil'dih (CFC#878.43); The Cloud Deck = Terrazza delle Nuvole (CFC#781.43); Hydaelyn's Call = Richiamo di Hydaelyn (Completion#5089.3); Nidhogg's Rage = Furia di Nidhogg (CFC#170.43). Allineare i nomi completi, i riferimenti e le varianti di difficolta' dello stesso contenuto; non modificare la chiamata di Hydaelyn in senso narrativo.
+- 2026-11-18, decisione utente sui raid Echoes of Vana'diel: Jeuno: Il Primo Cammino; San d'Oria: Il Secondo Cammino; Windurst: Il Terzo Cammino (CFC#1015.43/#1058.43/#1117.43). Superata la variante Viale nei nomi di questi contenuti.
+
+### Altre decisioni confermate per le notifiche e i minigiochi
+
+| Inglese | Forma canonica | Ambito e fonte |
+| --- | --- | --- |
+| Maiden (classe delle corse di chocobo) | Esordienti | Decisione dell'utente del 19 novembre 2026: banner 121641 «Classe Esordienti». GoldSaucerTextData#16 allineato da «Debuttante» a GoldSaucerTalk#397.17; non riguarda maiden nel senso di fanciulla o prima corsa. |
+| Placed (banner dei tornei Triple Triad) | Piazzamento Ottenuto | Decisione dell'utente del 19 novembre 2026, banner 121681–121684; esito del piazzamento, formulazione indipendente dal genere del giocatore. Joined nei banner 121671–121674 segue l'istruzione Iniziato/Iniziata, accordato con il torneo. |
+| Votive (cero acceso nelle Cripte Profonde) | Cero Votivo | Decisione dell'utente del 19 novembre 2026: A Votive Burns = «Arde un Cero Votivo:». Allineati LogMessage#11259 e DescriptionString#1462, incluso il relativo override. Distinto dal Candelabro Votivo che lo contiene (Addon#10473, EObjName#2014759, DeepDungeonItem#38.10); non applicare a frutti o gioielli votivi di altro contesto. |
+| Gambler's Lure (meccanica degli scrigni) | Lascia o Raddoppia | Decisione dell'utente del 19 novembre 2026 per 121790. Mantiene Addon#11400/#11407; sostituisce Richiamo dell'Azzardo in InstanceContentTextData#12804 e l'inglese nei LogMessage#6967/#6968/#6970/#6973. |
+| Active Time Maneuver | Manovra Critica | Decisione dell'utente del 19 novembre 2026, banner 121861 e Addon#1102 (MANOVRA CRITICA). Nome della sequenza interattiva a tempo; sostituisce l'inglese lasciato nella precedente etichetta. |
+
+- 2026-11-19, decisioni utente sui nomi delle societa': Dreamspinners = Tessisogni (missioni BanPix e BannerDesignPreset#122); Stewards = Custodi (soltanto la spedizione Qitari, Item#29535.8/#29561.8); Turali Travel Agency = Agenzia di Viaggi di Tural (BannerBg#269 e CharaCardDecoration#496). Forme valide per nomi UI e dialoghi dello stesso referente.
+- 2026-11-19, decisioni utente sulle Armi Fantasma: aetherwells = sfere eteree (Addon#16551–16555, LogMessage#11145; esclusa la diversa azione Aetherwell#13426); martial memories = memorie marziali (Addon#16561); phantom dispellers = dissipatori fantasma (Item#50974–50976 e missione KinGkw302). Conservare le varianti α/β/γ e gli accordi delle frasi.
+
+- 2026-11-20, decisione esplicita dell'utente: Ehcatl Nine = Ehcatl Nove nell'intero corpus, nei glossari e nei banner 120603/120613. Nome della societa' Ixal: gli Ehcatl Nove, degli Ehcatl Nove; sostituisce la forma Nove Ehcatl. Il gioco sul nome Ehcatl Ten diventa Ehcatl Dieci (DefaultTalk#591641.20). La localita' Ehcatl mantiene il proprio nome.
+
+- 2026-11-20, adattamento concordato per i soli banner 128527–128531: 1 Gold / 2–5 Golds = 1 Stella! / 2–5 Stelle!, riferiti ai risultati consecutivi Stella d'Oro dell'Esplorazione Cosmica. La forma breve omette d'Oro per l'ingombro della texture; non cambia le etichette Oro/Ori o la descrizione estesa della meccanica (Addon#17166, DescriptionString#1587).
+
+### Precisazioni della sessione di rifacimento dei banner
+
+Verifica del 20 novembre 2026 delle scelte gia' confermate dall'utente; non estendere gli adattamenti locali ad altri referenti.
+
+- **FATE Joined / FATE JOINED** nelle notifiche di avvio: **FATE Iniziato / FATE INIZIATO**, non Partecipazione al FATE. Riferimenti: `corpus/ui/banners.json#ui/icon/120000/en/120081.tex#text` e varianti, in particolare `128390` e `128394` (hash EN `1D299EFCF8E303AC`). Le frasi narrative sulla partecipazione restano contestuali; non e' una sostituzione globale del verbo join.
+- **Tesoro Trovato!**, banner `120094`: seguire il testo visibile originale **Treasure Found!**, per conferma esplicita dell'utente, anche se la sorgente EN associata dice **Item found!** (hash `0B646735B7920668`). Conservare chiave, hash e corpus EN; l'eccezione riguarda questa immagine.
+- **Cheap Dungeon** nel banner `120495` diventa **Cripta Sgrausa**, con **Ora Accessibile** sulla seconda riga. Nome confermato dall'utente per questa notifica; riferimento EN/hash: `ui/icon/120000/en/120495.tex#text` (`C7385A83BC97767B`).
+- Nei banner tecnici Mahjong `121459`–`121461`, usare le rese confermate **Mahjong (Grado Normale)**, **Mahjong (Grado Superiore)** e **Mahjong (Partita di Gruppo)** per Normal Grade, Upper Grade e Party Battle. Non dedurre da questo una regola di traduzione dei segnaposto EN: esclusi esplicitamente `128056`, `128057` e `128381`.
+- **Gradi Mahjong `121465`–`121483`**: adattare gli ordinali al formato confermato **9° Kyu … 1° Kyu / 1° Dan … 10° Dan**, lasciando Kyu e Dan invariati. Fonti: banner EN corrispondenti, per esempio `121465` (`63B5CB06D437818F`) e `121474` (`0A0B4709668CB94C`). L'accordo con un nome femminile segue il proprio contesto, come **1ª Invocazione** nei banner di Uznair.
