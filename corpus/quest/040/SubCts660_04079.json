@@ -79,8 +79,8 @@
     { "gameKey": "quest/040/SubCts660_04079#TEXT_SUBCTS660_04079_CHARLEMEND_000_111", "hash": "DA8FE943900B3A59", "target": "...Ma perché rivolgerci a chiunque, quando abbiamo già fra noi <if(gnum4,un'artigiana estremamente capace,un artigiano estremamente capace)>?" },
     { "gameKey": "quest/040/SubCts660_04079#TEXT_SUBCTS660_04079_CHARLEMEND_000_112", "hash": "9EC9C1097A726955", "target": "<split(<string(gstr1)>, ,1)>, la vostra abilità è nota ovunque. Sarebbe un grande sollievo se accettaste di fornirci il necessario." },
     { "gameKey": "quest/040/SubCts660_04079#TEXT_SUBCTS660_04079_MAURILETTE_000_113", "hash": "41B26115087B891D", "target": "Magnifico. Con voi a procurarli, possiamo aspettarci beni di altissima qualità." },
-    { "gameKey": "quest/040/SubCts660_04079#TEXT_SUBCTS660_04079_MAURILETTE_000_114", "hash": "C7ACB554704684E8", "target": "A questo proposito, conoscete la Casa delle Meraviglie? Il consorzio è arrivato da poco a Ishgard e gestisce un banco proprio fuori dall'infermeria." },
-    { "gameKey": "quest/040/SubCts660_04079#TEXT_SUBCTS660_04079_MAURILETTE_000_115", "hash": "9CD76EDEE74208DF", "target": "A questo proposito, conoscete la Casa delle Meraviglie? Il consorzio contribuisce ai progetti assistenziali della nostra nazione e gestisce un banco proprio fuori dall'infermeria." },
+    { "gameKey": "quest/040/SubCts660_04079#TEXT_SUBCTS660_04079_MAURILETTE_000_114", "hash": "C7ACB554704684E8", "target": "A questo proposito, conoscete la Casa degli Splendori? Il consorzio è arrivato da poco a Ishgard e gestisce un banco proprio fuori dall'infermeria." },
+    { "gameKey": "quest/040/SubCts660_04079#TEXT_SUBCTS660_04079_MAURILETTE_000_115", "hash": "9CD76EDEE74208DF", "target": "A questo proposito, conoscete la Casa degli Splendori? Il consorzio contribuisce ai progetti assistenziali della nostra nazione e gestisce un banco proprio fuori dall'infermeria." },
     { "gameKey": "quest/040/SubCts660_04079#TEXT_SUBCTS660_04079_MAURILETTE_000_116", "hash": "E8D1ABE6A4878540", "target": "Se vi servono materiali per il lavoro, fareste bene a rivolgervi a loro." }
   ]
 }

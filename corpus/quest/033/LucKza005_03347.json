@@ -3,14 +3,14 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/033/LucKza005_03347#TEXT_LUCKZA005_03347_SEQ_00", "hash": "8F2F3C1C5B8F9785", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Anthibert ha bisogno di qualcuno con le tue particolari competenze." },
-    { "gameKey": "quest/033/LucKza005_03347#TEXT_LUCKZA005_03347_TODO_00", "hash": "65F4EF30F0A8869F", "target": "Parla con il bambino curioso" },
-    { "gameKey": "quest/033/LucKza005_03347#TEXT_LUCKZA005_03347_TODO_01", "hash": "48A038BC0D8A539F", "target": "Parla con Anthibert" },
-    { "gameKey": "quest/033/LucKza005_03347#TEXT_LUCKZA005_03347_ANTHIBERT_000_000", "hash": "00024C527BF7D33F", "target": "Perdonami, sei forse l'illustre ospite dell'Esarca di Cristallo? Vorrei approfittare della tua esperienza, se hai un momento." },
+    { "gameKey": "quest/033/LucKza005_03347#TEXT_LUCKZA005_03347_TODO_00", "hash": "65F4EF30F0A8869F", "target": "Parla con il bambino curioso." },
+    { "gameKey": "quest/033/LucKza005_03347#TEXT_LUCKZA005_03347_TODO_01", "hash": "48A038BC0D8A539F", "target": "Parla con Anthibert." },
+    { "gameKey": "quest/033/LucKza005_03347#TEXT_LUCKZA005_03347_ANTHIBERT_000_000", "hash": "00024C527BF7D33F", "target": "Scusa, sei per caso l'ospite d'onore dell'Esarca di Cristallo? Mi servirebbe il tuo aiuto, se hai un momento." },
     { "gameKey": "quest/033/LucKza005_03347#TEXT_LUCKZA005_03347_ANTHIBERT_000_001", "hash": "C032718302271238", "target": "C'è un bambino che frequenta regolarmente il Gabinetto delle Curiosità. Come tanti suoi coetanei, non ha mai conosciuto il mondo fuori dal Crystarium. Perciò viene qui, per intravederlo fra le pagine di libri consumati dal tempo..." },
-    { "gameKey": "quest/033/LucKza005_03347#TEXT_LUCKZA005_03347_ANTHIBERT_000_002", "hash": "506DF61AB86DE17D", "target": "Sono certo, però, che ciò che desidera davvero sia conoscere il mondo vivo e reale. Il mondo com'è oggi, attraverso gli occhi di qualcuno che lo ha visto." },
+    { "gameKey": "quest/033/LucKza005_03347#TEXT_LUCKZA005_03347_ANTHIBERT_000_002", "hash": "506DF61AB86DE17D", "target": "Sono certo, però, che quello che davvero vuole conoscere è il mondo in cui viviamo adesso, attraverso gli occhi di chi l'ha visto." },
     { "gameKey": "quest/033/LucKza005_03347#TEXT_LUCKZA005_03347_ANTHIBERT_000_003", "hash": "AF4FCDD56BA53012", "target": "Potresti condividere con lui le tue esperienze? Credo che lo troverai in cima alle scale." },
     { "gameKey": "quest/033/LucKza005_03347#TEXT_LUCKZA005_03347_ANTHIBERT_000_004", "hash": "BAC56EC3CA6BA541", "target": "Il bambino probabilmente ti tempesterà di domande: preparati." },
-    { "gameKey": "quest/033/LucKza005_03347#TEXT_LUCKZA005_03347_BOY03347_000_010", "hash": "83822F4D53EC3839", "target": "Vieni da lontano!? Allora... puoi dirmi com'è il mondo fuori di qui? Ti prego, ti prego?" },
+    { "gameKey": "quest/033/LucKza005_03347#TEXT_LUCKZA005_03347_BOY03347_000_010", "hash": "83822F4D53EC3839", "target": "Vieni da lontano!? Allora... mi racconti com'è il mondo fuori di qui? Dai, per favore!" },
     { "gameKey": "quest/033/LucKza005_03347#TEXT_LUCKZA005_03347_BOY03347_000_011", "hash": "99AE0D08618CA41D", "target": "Oh! Allora... allora... Puoi parlarmi degli animali? Ce ne sono tanti, vero? Ma papà dice che sono tutti pericolosi. È vero?" },
     { "gameKey": "quest/033/LucKza005_03347#TEXT_LUCKZA005_03347_Q1_000_012", "hash": "CC786A1096F102CA", "target": "Tutti gli animali selvatici sono pericolosi?" },
     { "gameKey": "quest/033/LucKza005_03347#TEXT_LUCKZA005_03347_A1_000_013", "hash": "C88AB953516384B5", "target": "La maggior parte è pericolosa solo se la fai arrabbiare." },
@@ -21,7 +21,7 @@
     { "gameKey": "quest/033/LucKza005_03347#TEXT_LUCKZA005_03347_BOY03347_000_016", "hash": "256136E836A68BC8", "target": "Ehm... E che aspetto ha? Tutto il mondo assomiglia a Terralago?" },
     { "gameKey": "quest/033/LucKza005_03347#TEXT_LUCKZA005_03347_Q2_000_017", "hash": "9EE025AB7739B367", "target": "Il resto del mondo ha lo stesso aspetto di Terralago?" },
     { "gameKey": "quest/033/LucKza005_03347#TEXT_LUCKZA005_03347_A2_000_018", "hash": "CF35733149F91FA5", "target": "Più o meno. Alberi, terra, cose così." },
-    { "gameKey": "quest/033/LucKza005_03347#TEXT_LUCKZA005_03347_A2_000_019", "hash": "1102B0C9BA0E9BB0", "target": "Certi posti sono più diversi di quanto tu possa immaginare." },
+    { "gameKey": "quest/033/LucKza005_03347#TEXT_LUCKZA005_03347_A2_000_019", "hash": "1102B0C9BA0E9BB0", "target": "Ci sono posti così diversi che non riesci neanche a immaginarli." },
     { "gameKey": "quest/033/LucKza005_03347#TEXT_LUCKZA005_03347_A2_000_020", "hash": "488D62645411BB3B", "target": "..." },
     { "gameKey": "quest/033/LucKza005_03347#TEXT_LUCKZA005_03347_BOY03347_100_021", "hash": "F998E23E033FEBCB", "target": "Oh... credo di capire." },
     { "gameKey": "quest/033/LucKza005_03347#TEXT_LUCKZA005_03347_BOY03347_110_021", "hash": "ED64603FFBD17201", "target": "Ma <italic(1)>perché<italic(0)> non vuoi dirmelo?" },
@@ -35,9 +35,9 @@
     { "gameKey": "quest/033/LucKza005_03347#TEXT_LUCKZA005_03347_BOY03347_000_026", "hash": "7DF5300A9884833E", "target": "Ora ne sono certo: voglio vedere il mondo! Studierò e... e mi eserciterò nelle arti marziali! Poi, quando sarò forte e intelligente, partirò per un'avventura!" },
     { "gameKey": "quest/033/LucKza005_03347#TEXT_LUCKZA005_03347_BOY03347_000_027", "hash": "6394781C65B55599", "target": "Là fuori sembra davvero pericoloso, ma voglio comunque saperne di più sul mondo! E magari vederlo con i miei occhi, un giorno." },
     { "gameKey": "quest/033/LucKza005_03347#TEXT_LUCKZA005_03347_BOY03347_000_028", "hash": "C943A71C80F6B2A1", "target": "Credo che niente di ciò che potresti raccontarmi sarebbe come vederlo, vero? Devo andarci di persona!" },
-    { "gameKey": "quest/033/LucKza005_03347#TEXT_LUCKZA005_03347_BOY03347_000_029", "hash": "3D6D67823B69A354", "target": "Grazie per avermi lasciato fare delle domande! E per favore di' ad Anthibert che vado a casa: ho molto da fare! Chissà se papà mi lascerà esercitare con la sua ascia..." },
+    { "gameKey": "quest/033/LucKza005_03347#TEXT_LUCKZA005_03347_BOY03347_000_029", "hash": "3D6D67823B69A354", "target": "Grazie per aver risposto alle mie domande! E per favore di' ad Anthibert che torno a casa. Ho un sacco di cose da fare! Chissà se papà mi lascerà allenare con la sua ascia..." },
     { "gameKey": "quest/033/LucKza005_03347#TEXT_LUCKZA005_03347_ANTHIBERT_000_030", "hash": "6D7B54148E65BCE8", "target": "Sì, l'ho visto sfrecciare qui davanti con gli occhi scintillanti." },
-    { "gameKey": "quest/033/LucKza005_03347#TEXT_LUCKZA005_03347_ANTHIBERT_000_031", "hash": "3BCD9DE5D252E432", "target": "Credo davvero nella magia della parola scritta. Come potrei non crederci? Ma non è proprio come incontrare qualcuno che è stato là fuori, che <if(gnum4,lei stessa,lui stesso)> è <italic(1)>parte<italic(0)> del mondo più vasto." },
-    { "gameKey": "quest/033/LucKza005_03347#TEXT_LUCKZA005_03347_ANTHIBERT_000_032", "hash": "A0462D6DEDACDE16", "target": "Non mi sono mai spinto molto lontano dal Crystarium, vedi, quindi conosco la meraviglia e il fascino dei racconti che i viaggiatori narrano accanto al fuoco. Ti sono personalmente grato per averne condiviso un po' con il nostro giovane amico oggi." }
+    { "gameKey": "quest/033/LucKza005_03347#TEXT_LUCKZA005_03347_ANTHIBERT_000_031", "hash": "3BCD9DE5D252E432", "target": "Credo davvero nella magia della parola scritta. Come potrei non crederci? Ma è diverso conoscere qualcuno che ha visto quel che c'è là fuori e <italic(1)>fa parte<italic(0)> di quel mondo." },
+    { "gameKey": "quest/033/LucKza005_03347#TEXT_LUCKZA005_03347_ANTHIBERT_000_032", "hash": "A0462D6DEDACDE16", "target": "Io non mi sono mai allontanato molto dal Crystarium, perciò so bene quanta meraviglia suscitino i racconti dei viaggiatori attorno al fuoco. Grazie per averne fatto dono al nostro giovane amico." }
   ]
 }

@@ -3,10 +3,10 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_SEQ_00", "hash": "BD55058653C076B5", "target": "Yugiri non trova le parole." },
-    { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_TODO_00", "hash": "354C872C10D75291", "target": "Solleva il decurione imperiale" },
+    { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_TODO_00", "hash": "354C872C10D75291", "target": "Solleva il decurione imperiale addormentato" },
     { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_TODO_01", "hash": "382D43F3544BE07A", "target": "Trova un posto adatto per il decurione imperiale" },
     { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_TODO_02", "hash": "5BCEFA1BDD4C0514", "target": "Usa la medicina di Yugiri sul decurione imperiale" },
-    { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_TODO_03", "hash": "787DB1D2FF2B9E33", "target": "Solleva il soldato imperiale" },
+    { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_TODO_03", "hash": "787DB1D2FF2B9E33", "target": "Solleva il soldato imperiale addormentato" },
     { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_TODO_04", "hash": "A70EA76F115F4017", "target": "Trova un posto adatto per il soldato imperiale" },
     { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_TODO_05", "hash": "3D2BA964B8B05DC1", "target": "Usa la medicina di Yugiri sul soldato imperiale" },
     { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_TODO_06", "hash": "034334E5A82FDF9A", "target": "Cerca Yugiri" },
@@ -14,14 +14,14 @@
     { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_SOLDIERC02495_000_000", "hash": "6C81DE0CDFAD7B95", "target": "..." },
     { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_SOLDIERD02496_000_005", "hash": "8CB3B21355879502", "target": "Solo... solo qualche altro anno... \\<zzz>" },
     { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_YUGIRI_000_010", "hash": "0585C23C598F1190", "target": "..." },
-    { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_YUGIRI_000_011", "hash": "C1D9C565CCC02AAC", "target": "Perdonatemi, <split(<string(gstr1)>, ,1)>. Ero... persa nei miei pensieri." },
-    { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_YUGIRI_000_012", "hash": "04DAAEC69A5B5A05", "target": "Forse hanno ragione loro. Forse siamo <if(gnum4,stolte,stolti)> a esortarli a sollevarsi ancora. Eppure credo─<italic(1)>devo<italic(0)> credere─che nel profondo del cuore loro... loro ancora..." },
+    { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_YUGIRI_000_011", "hash": "C1D9C565CCC02AAC", "target": "Perdonatemi, <split(<string(gstr1)>, ,1)>. Ero... sovrappensiero." },
+    { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_YUGIRI_000_012", "hash": "04DAAEC69A5B5A05", "target": "Forse hanno ragione loro. Forse è una follia chiedergli di ribellarsi di nuovo. Eppure credo, <italic(1)>devo<italic(0)> credere, che in fondo al cuore loro... loro ancora..." },
     { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_YUGIRI_000_013", "hash": "FEAA2F527923383C", "target": "...Non è il momento. Dobbiamo finire ciò che abbiamo iniziato." },
     { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_YUGIRI_000_014", "hash": "82061C235F0ECEF4", "target": "Ho con me una potente medicina che confonde la mente e i ricordi. Dobbiamo somministrarla ai soldati prima che si sveglino." },
-    { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_YUGIRI_000_015", "hash": "4F6110F5F1C6335D", "target": "La medicina lascerà i soldati confusi e incapaci di ricordare chiaramente gli ultimi eventi. Penseranno di essersi addormentati durante il turno di guardia e saranno restii a parlarne con gli altri." },
-    { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_YUGIRI_000_016", "hash": "9D067FE2611F8112", "target": "È soltanto una misura temporanea, ma per il bene degli abitanti non osiamo ucciderli. Occupatevi degli ultimi due che ho addormentato─io penserò agli altri." },
+    { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_YUGIRI_000_015", "hash": "4F6110F5F1C6335D", "target": "La medicina disorienterà i soldati e renderà confusi i ricordi di ciò che è appena successo. Crederanno di essersi addormentati di guardia e preferiranno tenerselo per sé." },
+    { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_YUGIRI_000_016", "hash": "9D067FE2611F8112", "target": "È una misura temporanea, ma ucciderli metterebbe a rischio gli abitanti. Occupatevi degli ultimi due che ho addormentato. Io penserò agli altri." },
     { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_SOLDIERC02495_000_020", "hash": "C897CC5AF618E348", "target": "\\<zzz> ...<if(gnum4,Mamma,Papà)>, sei tu...?" },
     { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_SOLDIERD02496_000_030", "hash": "3B6D251E40178DBB", "target": "Io... voglio tornare a casa... \\<zzz>" },
-    { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_YUGIRI_000_040", "hash": "7A03CA8D509B2DF5", "target": "Presto, presto! Dobbiamo raccontare agli altri di questa aeronave, o sentire cosa ne sanno!" }
+    { "gameKey": "quest/024/StmBda321_02497#TEXT_STMBDA321_02497_YUGIRI_000_040", "hash": "7A03CA8D509B2DF5", "target": "Presto! Dobbiamo dire agli altri dell'aeronave e sentire se ne sanno qualcosa!" }
   ]
 }

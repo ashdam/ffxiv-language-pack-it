@@ -2,16 +2,16 @@
   "conversation": "quest/019/HeaVnz914_01979",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz914_01979#TEXT_HEAVNZ914_01979_SEQ_00", "hash": "1D1A5C92AE43CEB1", "target": "Il nodo di addestramento Allagano attende in silenzio l'interazione di un utente." },
-    { "gameKey": "quest/019/HeaVnz914_01979#TEXT_HEAVNZ914_01979_SEQ_01", "hash": "76BA9C614EDD928E", "target": "Scambiandoti per un membro dell'esercito Allagano, il nodo di addestramento ti ordina di trovare e distruggere cinque snapper-rook, come previsto dall'addestramento militare quotidiano di Allag." },
-    { "gameKey": "quest/019/HeaVnz914_01979#TEXT_HEAVNZ914_01979_SEQ_02", "hash": "DEB005ACC2CDFF10", "target": "Hai distrutto gli snapper-rook come richiesto. Comunica al nodo di addestramento di aver completato il compito assegnato." },
+    { "gameKey": "quest/019/HeaVnz914_01979#TEXT_HEAVNZ914_01979_SEQ_00", "hash": "1D1A5C92AE43CEB1", "target": "Il nodo di addestramento Allagano aspetta in silenzio che qualcuno lo attivi." },
+    { "gameKey": "quest/019/HeaVnz914_01979#TEXT_HEAVNZ914_01979_SEQ_01", "hash": "76BA9C614EDD928E", "target": "Il nodo ti scambia per una recluta Allagana e ti ordina di trovare e sconfiggere cinque corvi mordaci. Fa parte dell'addestramento militare quotidiano di Allag." },
+    { "gameKey": "quest/019/HeaVnz914_01979#TEXT_HEAVNZ914_01979_SEQ_02", "hash": "DEB005ACC2CDFF10", "target": "Hai distrutto i corvi mordaci. Comunica al nodo di addestramento che hai completato il compito." },
     { "gameKey": "quest/019/HeaVnz914_01979#TEXT_HEAVNZ914_01979_SEQ_03", "hash": "AAD37AB563CB8918", "target": "Il nodo di addestramento ti spiega l'importanza del compito assegnato, ma le interferenze distorcono tanto il messaggio che non riesci a capire cosa voglia dirti." },
-    { "gameKey": "quest/019/HeaVnz914_01979#TEXT_HEAVNZ914_01979_TODO_00", "hash": "E866020A941139E8", "target": "Sconfiggi gli snapper-rook" },
+    { "gameKey": "quest/019/HeaVnz914_01979#TEXT_HEAVNZ914_01979_TODO_00", "hash": "E866020A941139E8", "target": "Sconfiggi i corvi mordaci" },
     { "gameKey": "quest/019/HeaVnz914_01979#TEXT_HEAVNZ914_01979_TODO_01", "hash": "A435C3E011F3A323", "target": "Fai rapporto al nodo di addestramento" },
     { "gameKey": "quest/019/HeaVnz914_01979#TEXT_HEAVNZ914_01979_TRAININGSYSTEM_000_000", "hash": "E708B173BB0DD614", "target": "Salute, fedeli soldati dell'Impero Allagano. L'addestramento di oggi comincia ora." },
-    { "gameKey": "quest/019/HeaVnz914_01979#TEXT_HEAVNZ914_01979_TRAININGSYSTEM_000_001", "hash": "0654A7713BEF5003", "target": "Il vostro compito è trovare e distruggere <italic(1)>CINQUE SNAPPER-ROOKS<italic(0)>. Assicuratevi che tutti i bersagli siano completamente morti e/o inoperativi. Buona caccia, soldati." },
-    { "gameKey": "quest/019/HeaVnz914_01979#TEXT_HEAVNZ914_01979_TRAININGSYSTEM_000_010", "hash": "89FCC01390C29EF6", "target": "Trovate e distruggete <italic(1)>CINQUE SNAPPER-ROOKS<italic(0)>. Assicuratevi che tutti i bersagli siano completamente morti e/o inoperativi." },
+    { "gameKey": "quest/019/HeaVnz914_01979#TEXT_HEAVNZ914_01979_TRAININGSYSTEM_000_001", "hash": "0654A7713BEF5003", "target": "Il vostro compito è trovare e distruggere <italic(1)>CINQUE CORVI MORDACI<italic(0)>. Assicuratevi che tutti i bersagli siano morti e/o completamente fuori uso. Buona caccia, soldati." },
+    { "gameKey": "quest/019/HeaVnz914_01979#TEXT_HEAVNZ914_01979_TRAININGSYSTEM_000_010", "hash": "89FCC01390C29EF6", "target": "Trovate e distruggete <italic(1)>CINQUE CORVI MORDACI<italic(0)>. Assicuratevi che tutti i bersagli siano morti e/o completamente fuori uso." },
     { "gameKey": "quest/019/HeaVnz914_01979#TEXT_HEAVNZ914_01979_TRAININGSYSTEM_000_020", "hash": "9A3DBF0DFD5E3BCC", "target": "Congratulazioni. Avete...\\<bzzzzzzz>...completato con successo l'esercitazione di oggi." },
-    { "gameKey": "quest/019/HeaVnz914_01979#TEXT_HEAVNZ914_01979_TRAININGSYSTEM_000_021", "hash": "1DC5653574CB9899", "target": "L'addestramento di oggi serve a insegnare l'importanza di...\\<bzzzzzzz>...nell'affrontare...\\<bzzzzzzz>...situazioni. Speriamo che queste conoscenze vi siano utili nel servizio all'Impero Allagano." }
+    { "gameKey": "quest/019/HeaVnz914_01979#TEXT_HEAVNZ914_01979_TRAININGSYSTEM_000_021", "hash": "1DC5653574CB9899", "target": "L'addestramento di oggi serve a insegnare l'importanza di...\\<bzzzzzzz>...nell'affrontare...\\<bzzzzzzz>...situazioni. Ci auguriamo che quanto appreso vi sia utile al servizio dell'Impero Allagano." }
   ]
 }
