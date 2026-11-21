@@ -14,57 +14,9 @@
     },
     {
       "expansion": null,
-      "content": "Quests",
-      "translated": 34857,
-      "total": 34939
-    },
-    {
-      "expansion": null,
-      "content": "Internal UI catalogs",
-      "translated": 2213,
-      "total": 2365
-    },
-    {
-      "expansion": null,
-      "content": "Crafting and gathering",
-      "translated": 8560,
-      "total": 8560
-    },
-    {
-      "expansion": null,
-      "content": "Other",
-      "translated": 17221,
-      "total": 17222
-    },
-    {
-      "expansion": null,
       "content": "Tutorials and guides",
       "translated": 3060,
       "total": 3060
-    },
-    {
-      "expansion": null,
-      "content": "Floating names",
-      "translated": 110395,
-      "total": 110396
-    },
-    {
-      "expansion": null,
-      "content": "Duties and field operations",
-      "translated": 23091,
-      "total": 23095
-    },
-    {
-      "expansion": null,
-      "content": "Character",
-      "translated": 59624,
-      "total": 59624
-    },
-    {
-      "expansion": null,
-      "content": "Chat and system messages",
-      "translated": 12896,
-      "total": 12966
     },
     {
       "expansion": null,
@@ -74,15 +26,51 @@
     },
     {
       "expansion": null,
-      "content": "Dialogue and world lore",
-      "translated": 43220,
-      "total": 43220
+      "content": "Other",
+      "translated": 17221,
+      "total": 17222
+    },
+    {
+      "expansion": null,
+      "content": "Crafting and gathering",
+      "translated": 8560,
+      "total": 8560
+    },
+    {
+      "expansion": null,
+      "content": "Floating names",
+      "translated": 110395,
+      "total": 110396
     },
     {
       "expansion": null,
       "content": "Items",
       "translated": 188773,
       "total": 188773
+    },
+    {
+      "expansion": null,
+      "content": "Chat and system messages",
+      "translated": 12896,
+      "total": 12966
+    },
+    {
+      "expansion": null,
+      "content": "Quests",
+      "translated": 34857,
+      "total": 34939
+    },
+    {
+      "expansion": null,
+      "content": "Dialogue and world lore",
+      "translated": 43220,
+      "total": 43220
+    },
+    {
+      "expansion": null,
+      "content": "Duties and field operations",
+      "translated": 23091,
+      "total": 23095
     },
     {
       "expansion": null,
@@ -125,6 +113,18 @@
       "content": "Quests",
       "translated": 35917,
       "total": 35917
+    },
+    {
+      "expansion": null,
+      "content": "Character",
+      "translated": 59624,
+      "total": 59624
+    },
+    {
+      "expansion": null,
+      "content": "Internal UI catalogs",
+      "translated": 2213,
+      "total": 2365
     }
   ],
   "excludedFromLocalization": [
