@@ -11,7 +11,6 @@ Il corpus e' la memoria delle traduzioni correnti, senza implicare approvazione 
 | `demonyms.json`, `tribes.json` | Demonimi e nomi dei popoli. |
 | `creature-families.json` | Famiglie di creature, forme e distinzioni semantiche. |
 | `bnpc-canonical-names.json`, `enpc-canonical-names.json` | Eccezioni nominali legate alla gameKey del PNG. |
-| `placename-override.json` | Toponimi legati alla gameKey e alla specifica variante visibile. |
 | `register.json` | Registro degli interlocutori e attestazioni; non e' un elenco di sostituzioni. |
 | `onomatopoeias.json`, `expressions.json`, `spelling.json` | Forme ammesse e risorse linguistiche per i controlli; non attestano da sole qualita' o approvazione. |
 
