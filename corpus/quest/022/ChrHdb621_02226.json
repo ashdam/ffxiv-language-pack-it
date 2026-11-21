@@ -32,7 +32,7 @@
     { "gameKey": "quest/022/ChrHdb621_02226#TEXT_CHRHDB621_02226_ELAISSE_000_033", "hash": "DBFC78ED81A38CA6", "target": "...Una vostra conoscente, suppongo?" },
     { "gameKey": "quest/022/ChrHdb621_02226#TEXT_CHRHDB621_02226_ELAISSE_000_034", "hash": "F137973CFD5B05A1", "target": "Non so come si chiami, solo che è qui su invito di lord Edmont. O almeno così si dice." },
     { "gameKey": "quest/022/ChrHdb621_02226#TEXT_CHRHDB621_02226_ELAISSE_000_035", "hash": "423DF572CFC02E3D", "target": "Con la protezione della Casata Fortemps, non dovrebbe esservi difficile andare a chiedere di lui al maniero, no?" },
-    { "gameKey": "quest/022/ChrHdb621_02226#TEXT_CHRHDB621_02226_NASHUMHAKARACCA_000_036", "hash": "6CE3C4C95F706D9C", "target": "Accidenti! Lo sapevo che era una fortunata coincidenza! Al Maniero dei Fortemps!" },
+    { "gameKey": "quest/022/ChrHdb621_02226#TEXT_CHRHDB621_02226_NASHUMHAKARACCA_000_036", "hash": "6CE3C4C95F706D9C", "target": "Accidenti! Lo sapevo che era una fortunata coincidenza! Al Maniero Fortemps!" },
     { "gameKey": "quest/022/ChrHdb621_02226#TEXT_CHRHDB621_02226_ELAISSE_000_040", "hash": "BEE2B3A5365AD4ED", "target": "Devo dire che da quando abbiamo spalancato i Cancelli del Giudizio non ci sono mancati visitatori...interessanti." },
     { "gameKey": "quest/022/ChrHdb621_02226#TEXT_CHRHDB621_02226_HOUSEFORTEMPSKNIGHT02226_000_050", "hash": "BBC5912874B4618A", "target": "Salve, <if(gnum4,signora,signor)> <split(<string(gstr1)>, ,2)>. Vi occorre aiuto?" },
     { "gameKey": "quest/022/ChrHdb621_02226#TEXT_CHRHDB621_02226_HOUSEFORTEMPSKNIGHT02226_000_051", "hash": "F092853A6B3E60AF", "target": "Sì, è come dite. In questo momento lord Edmont è a colloquio con un ospite straniero." },

@@ -2,18 +2,18 @@
   "conversation": "quest/034/LucKzd003_03410",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKzd003_03410#TEXT_LUCKZD003_03410_SEQ_00", "hash": "4707975C05DB4AEB", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Il cuoco Nu Mou cerca aiuto per un problema di parassiti." },
-    { "gameKey": "quest/034/LucKzd003_03410#TEXT_LUCKZD003_03410_TODO_00", "hash": "B9E6E2522E52100B", "target": "Posiziona la sautéed mushroom soup come esca" },
-    { "gameKey": "quest/034/LucKzd003_03410#TEXT_LUCKZD003_03410_TODO_01", "hash": "B0B52C59787460C8", "target": "Attendi il parassita" },
-    { "gameKey": "quest/034/LucKzd003_03410#TEXT_LUCKZD003_03410_TODO_02", "hash": "A1486B340EC4E01C", "target": "Riferisci al cuoco Nu Mou" },
+    { "gameKey": "quest/034/LucKzd003_03410#TEXT_LUCKZD003_03410_SEQ_00", "hash": "4707975C05DB4AEB", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Il Cuoco Nu Mou ha bisogno di aiuto contro una bestiaccia." },
+    { "gameKey": "quest/034/LucKzd003_03410#TEXT_LUCKZD003_03410_TODO_00", "hash": "B9E6E2522E52100B", "target": "Usa la Zuppa di Funghi Saltati come esca" },
+    { "gameKey": "quest/034/LucKzd003_03410#TEXT_LUCKZD003_03410_TODO_01", "hash": "B0B52C59787460C8", "target": "Tendi un agguato alla bestiaccia" },
+    { "gameKey": "quest/034/LucKzd003_03410#TEXT_LUCKZD003_03410_TODO_02", "hash": "A1486B340EC4E01C", "target": "Torna dal Cuoco Nu Mou" },
     { "gameKey": "quest/034/LucKzd003_03410#TEXT_LUCKZD003_03410_NUMOU03410_000_000", "hash": "276EAE6093E209E7", "target": "Nooo, di nuovo! Grrr, maledetto parassita!" },
-    { "gameKey": "quest/034/LucKzd003_03410#TEXT_LUCKZD003_03410_NUMOU03410_000_001", "hash": "BAB4957540CC58C3", "target": "Accidenti, compari davanti a me proprio nel momento del bisogno! È come se fossi un Nu Mou anche tu!" },
-    { "gameKey": "quest/034/LucKzd003_03410#TEXT_LUCKZD003_03410_NUMOU03410_000_002", "hash": "35EE4CEA91349B17", "target": "Sono i miei funghi, i preziosi funghi che coltivo con tenera cura. Un vile parassita li sta devastando!" },
-    { "gameKey": "quest/034/LucKzd003_03410#TEXT_LUCKZD003_03410_NUMOU03410_000_003", "hash": "96E9680E15702781", "target": "Si intrufola nella caverna coi suoi occhi ingordi e sporgenti, divora i miei funghi indifesi e poi sparisce nelle terre selvagge!" },
-    { "gameKey": "quest/034/LucKzd003_03410#TEXT_LUCKZD003_03410_NUMOU03410_000_004", "hash": "71C32DF555829B9A", "target": "Liberami di quella creatura, ti supplico! Attirala con questa ciotola di sautéed mushroom soup, poi abbattila!" },
-    { "gameKey": "quest/034/LucKzd003_03410#TEXT_LUCKZD003_03410_NUMOU03410_000_005", "hash": "6EE94826B77481B4", "target": "Liberami di quel vile parassita, ti supplico! Attiralo con la sautéed mushroom soup, poi abbattilo!" },
-    { "gameKey": "quest/034/LucKzd003_03410#TEXT_LUCKZD003_03410_NUMOU03410_000_010", "hash": "B378B4494D15DDC0", "target": "Ce l'hai fatta! Mi hai liberato dalla minaccia dei funghi!" },
-    { "gameKey": "quest/034/LucKzd003_03410#TEXT_LUCKZD003_03410_NUMOU03410_000_011", "hash": "82F78F00EBCA1239", "target": "Ora i miei preziosi funghi possono crescere in pace e posso dormire senza quegli occhi sporgenti a tormentarmi nei sogni." },
-    { "gameKey": "quest/034/LucKzd003_03410#TEXT_LUCKZD003_03410_NUMOU03410_000_012", "hash": "EA6E39A06E1B1B2E", "target": "Ecco la ricompensa adeguata: né più né meno di quanto meriti. Che ti porti molto onore!" }
+    { "gameKey": "quest/034/LucKzd003_03410#TEXT_LUCKZD003_03410_NUMOU03410_000_001", "hash": "BAB4957540CC58C3", "target": "Ma guarda, arrivi proprio nel momento del bisogno! È come se fossi anche tu un Nu Mou!" },
+    { "gameKey": "quest/034/LucKzd003_03410#TEXT_LUCKZD003_03410_NUMOU03410_000_002", "hash": "35EE4CEA91349B17", "target": "I miei funghi! I miei preziosi funghi, che coltivo con tanta cura e amore. Una bestiaccia li sta facendo fuori!" },
+    { "gameKey": "quest/034/LucKzd003_03410#TEXT_LUCKZD003_03410_NUMOU03410_000_003", "hash": "96E9680E15702781", "target": "S'intrufola nella grotta con quegli occhioni spiritati e affamati, divora i miei funghi indifesi e poi sparisce nella boscaglia!" },
+    { "gameKey": "quest/034/LucKzd003_03410#TEXT_LUCKZD003_03410_NUMOU03410_000_004", "hash": "71C32DF555829B9A", "target": "Ti supplico, liberami di quel mostro! Attiralo con questa ciotola di zuppa di funghi saltati, poi abbattilo!" },
+    { "gameKey": "quest/034/LucKzd003_03410#TEXT_LUCKZD003_03410_NUMOU03410_000_005", "hash": "6EE94826B77481B4", "target": "Ti supplico, liberami di quella bestiaccia! Attirala con la zuppa di funghi saltati, poi abbattila!" },
+    { "gameKey": "quest/034/LucKzd003_03410#TEXT_LUCKZD003_03410_NUMOU03410_000_010", "hash": "B378B4494D15DDC0", "target": "Ce l'hai fatta! Hai tolto di mezzo la bestiaccia che minacciava i miei funghi!" },
+    { "gameKey": "quest/034/LucKzd003_03410#TEXT_LUCKZD003_03410_NUMOU03410_000_011", "hash": "82F78F00EBCA1239", "target": "Ora i miei preziosi funghi cresceranno in pace e io potrò dormire senza sognarmi quegli occhioni che mi fissano." },
+    { "gameKey": "quest/034/LucKzd003_03410#TEXT_LUCKZD003_03410_NUMOU03410_000_012", "hash": "EA6E39A06E1B1B2E", "target": "Ecco la tua ricompensa, né più né meno di quanto meriti. Che ti porti molto onore!" }
   ]
 }
