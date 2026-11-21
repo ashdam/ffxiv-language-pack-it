@@ -15,6 +15,6 @@
     { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORB04171_000_024", "hash": "71B645776D409690", "target": "Eh... Vedo che non vedete l'ora di cominciare l'addestramento. Sì, non dubito affatto che siate <if(gnum4,degna,degno)> di un simile luogo." },
     { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORB04171_000_025", "hash": "AA58E65CC061C12B", "target": "In tal caso, allenatevi pure come preferite. Parlatemi quando desiderate cominciare e vi farò da guida." },
     { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORB04171_000_026", "hash": "2082F56F02F6CC51", "target": "Credo di parlare a nome della Guardia Radiosa quando dico che è un onore assistere <if(gnum4,un'avventuriera,un avventuriero)> come voi. Detto questo, che i colpi abbiano inizio!" },
-    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_SYSTEM_000_100", "hash": "312180553BEBE9D8", "target": "Ora puoi accedere al Campo Ardente, un'estensione di Stone, Sky, Sea. Puoi raggiungere questo campo d'addestramento parlando con sharp-eyed Radiant alla Piazzola di Palaka." }
+    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_SYSTEM_000_100", "hash": "312180553BEBE9D8", "target": "Ora puoi accedere al Campo Ardente, un'estensione di Pietra, Cielo, Mare. Puoi raggiungere questo campo d'addestramento parlando con sharp-eyed Radiant alla Piazzola di Palaka." }
   ]
 }

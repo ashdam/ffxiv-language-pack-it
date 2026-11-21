@@ -2,15 +2,15 @@
   "conversation": "quest/030/BanAna605_03068",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_SEQ_00", "hash": "94B4350A3B6E57FB", "target": "Eshana chiede il tuo aiuto per preparare un balsamo per l'infermeria.<br><br>※La difficoltà di questa missione è stata adeguata al tuo livello attuale. Inoltre, non potrai proseguire con una classe o un job diversi da quelli con cui l'hai accettata." },
-    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_TODO_00", "hash": "4088528EC41ED1DB", "target": "Procurati pezzi di argillite al Torrente Miraggio" },
-    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_TODO_01", "hash": "2E07358868AC71F5", "target": "Consegna i pezzi di argillite a Eshana" },
-    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_000", "hash": "D56FF28D8E65C7CB", "target": "Salute, <split(<string(gstr1)>, ,1)>. Nessuna emergenza urgente al momento, ma all'infermeria servirebbe una mano, se volete." },
-    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_001", "hash": "750CE580E8E698B4", "target": "Abbiamo un problema con gli insetti, quelli che mordono e pungono. Le nostre sssentinelle finiscono i turni coperte di pomfi, e non possiamo ignorare gli effetti sul morale." },
-    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_002", "hash": "7451F8AAEB248178", "target": "Nemmeno l'incenso più forte tiene lontani tutti gli insetti, ma l'argillite può essere ridotta in una passsta che allevia il peggiore prurito. Potreste portarmene tre pezzi o giù di lì? Troverete deposssiti di questa roccia nelle acque del Torrente Miraggio." },
-    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_010", "hash": "C044B513001A120F", "target": "Avete individuato qualche deposssito di argillite?" },
-    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_011", "hash": "85862838CB9D9512", "target": "Sssì, questi andranno benissimo. Una volta applicato, il balsamo allevia l'irritazione quasi subito." },
+    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_SEQ_00", "hash": "94B4350A3B6E57FB", "target": "Eshana chiede il tuo aiuto per preparare un balsamo per l'infermeria.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
+    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_TODO_00", "hash": "4088528EC41ED1DB", "target": "Raccogli pezzi di pietra fangosa al Torrente Miraggio" },
+    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_TODO_01", "hash": "2E07358868AC71F5", "target": "Consegna i pezzi di pietra fangosa a Eshana" },
+    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_000", "hash": "D56FF28D8E65C7CB", "target": "Salute, <split(<string(gstr1)>, ,1)>. Al momento non ci sono emergenze, ma all'infermeria farebbe comodo una mano, se volete." },
+    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_001", "hash": "750CE580E8E698B4", "target": "Il problema sssono gli insetti che mordono e pungono. Le nostre sssentinelle finiscono il turno coperte di pomfi. Non possiamo ignorare l'effetto che fa sul morale." },
+    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_002", "hash": "7451F8AAEB248178", "target": "Nemmeno l'incenso più forte li scaccia tutti, ma dalla pietra fangosa possiamo ricavare una passsta che lenisce persino il peggiore dei pruriti. Me ne portereste tre pezzi o giù di lì? Troverete dei deposssiti nel Torrente Miraggio." },
+    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_010", "hash": "C044B513001A120F", "target": "Avete trovato qualche deposssito di pietra fangosa?" },
+    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_011", "hash": "85862838CB9D9512", "target": "Sssì, andranno benissimo. Appena spalmato, il balsamo lenisce l'irritazione quasi all'issstante." },
     { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_012", "hash": "5DC6132D404C0501", "target": "È un nostro rimedio tradizionale, tramandato da generazioni." },
-    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_013", "hash": "06E22E5DD74A520C", "target": "Abbiamo anche un unguento alchemico della vostra gente che cura proprio le punture, ma ne abbiamo poche ssscorte. Preferirei tenerlo per i casi più gravi e usare l'argillite ogni giorno." }
+    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_013", "hash": "06E22E5DD74A520C", "target": "Abbiamo anche un unguento alchemico della vossstra gente che cura le punture. Ne è rimasto poco. Preferirei conssservarlo per i casi più gravi e usare la pietra fangosa tutti i giorni." }
   ]
 }

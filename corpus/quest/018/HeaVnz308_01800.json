@@ -3,16 +3,16 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_SEQ_00", "hash": "F9C53DFF6CAA6C80", "target": "Il brontolio dello stomaco di Toh Y Thrah sembra farsi più forte." },
-    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_SEQ_01", "hash": "DD64730A1C33E146", "target": "Saziata la voglia di carne, Toh Y Thrah ora ti chiede di portargli delle uova di gallimimus. Cerca nei nidi dei gallimimus ai piedi di Sohm Al e procuragli le uova per il suo prossimo pasto." },
-    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_SEQ_02", "hash": "78FC87792D1410E0", "target": "Sottrai le uova dai nidi dei gallimimus. Consegnale a Toh Y Thrah e placa il brontolio del suo stomaco." },
-    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_SEQ_03", "hash": "310BCB442B4454E5", "target": "Consegni le uova di gallimimus a Toh Y Thrah. Lo vedi raggiante di gioia mentre le uova finiscono nelle profondità della sua pancia. Soddisfatto del pasto, sembra deciso a rubare le uova da sé in futuro." },
-    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TODO_00", "hash": "CC09EC912720A4AC", "target": "Ottieni delle uova di gallimimus alle Pendici di Sohm Al." },
-    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TODO_01", "hash": "BADFFF293E5BF239", "target": "Consegna le uova di gallimimus a Toh Y Thrah. " },
-    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TOHYTHRAH_000_000", "hash": "4D551E54BF72E924", "target": "Ho ancora fame, ma non di carne... no, desidero uova! Non c'è niente di più delizioso che ingoiare le uova intere, con i loro gusci lisci che scivolano giù per la gola." },
-    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TOHYTHRAH_000_001", "hash": "D17646B968827254", "target": "Portatemi cinque uova dei gallimimus ai piedi di Sohm Al. Ne depongono in abbondanza e non sentiranno la mancanza delle poche che mi servono." },
-    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TOHYTHRAH_000_010", "hash": "14FF6AE5BEEF9FB9", "target": "I gallimimus ai piedi di Sohm Al depongono le uova migliori. Cinque basteranno per un buon pasto." },
-    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TOHYTHRAH_000_020", "hash": "4D539CDA43E29D98", "target": "Siete di ritorno, ma avete portato le uova?" },
-    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TOHYTHRAH_000_021", "hash": "F5251252AF35AE39", "target": "Sì, sì! Avete fatto un buon lavoro. La mia fame non si placa tanto facilmente... \\<glup>" },
-    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TOHYTHRAH_000_022", "hash": "1F1533924EC7FCBA", "target": "Mmm... Che lisce, che soddisfazione! Devo trovare il modo di rubarle da me." }
+    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_SEQ_01", "hash": "DD64730A1C33E146", "target": "Saziata la voglia di carne, Toh Y Thrah ti chiede delle uova di gallimimo. Cercale nei nidi alle Pendici di Sohm Al e procuragliele per il prossimo pasto." },
+    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_SEQ_02", "hash": "78FC87792D1410E0", "target": "Sottrai le uova dai nidi. Consegnale a Toh Y Thrah per far tacere quel brontolio." },
+    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_SEQ_03", "hash": "310BCB442B4454E5", "target": "Consegni le uova a Toh Y Thrah, che si illumina di gioia man mano che gli scivolano giù per la gola. Soddisfatto del pasto, sembra deciso a imparare a rubarle da solo." },
+    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TODO_00", "hash": "CC09EC912720A4AC", "target": "Raccogli delle uova di gallimimo alle Pendici di Sohm Al." },
+    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TODO_01", "hash": "BADFFF293E5BF239", "target": "Consegna le uova di gallimimo a Toh Y Thrah." },
+    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TOHYTHRAH_000_000", "hash": "4D551E54BF72E924", "target": "Ho ancora fame, ma ora ho voglia di uova! Niente è più delizioso che ingoiarle intere e sentire il guscio liscio scivolare giù per la gola." },
+    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TOHYTHRAH_000_001", "hash": "D17646B968827254", "target": "Portatemi cinque uova dei gallimimi delle Pendici di Sohm Al. Ne depongono in abbondanza. Di quelle poche che mi servono non sentiranno la mancanza." },
+    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TOHYTHRAH_000_010", "hash": "14FF6AE5BEEF9FB9", "target": "I gallimimi delle Pendici di Sohm Al depongono le uova migliori. Cinque mi basteranno per un buon pasto." },
+    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TOHYTHRAH_000_020", "hash": "4D539CDA43E29D98", "target": "Siete di ritorno! Avete portato le uova?" },
+    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TOHYTHRAH_000_021", "hash": "F5251252AF35AE39", "target": "Sì, sì! Ottimo lavoro. Il mio appetito non si placa tanto facilmente... \\<glup>" },
+    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TOHYTHRAH_000_022", "hash": "1F1533924EC7FCBA", "target": "Mmm... Come scivolano giù! Devo trovare il modo di rubarle da solo." }
   ]
 }

@@ -20,6 +20,6 @@
     { "gameKey": "quest/036/LucKyb005_03601#TEXT_LUCKYB005_03601_TRAVELLER03601_000_016", "hash": "3B4C82F881BDE780", "target": "«<if(gnum4,Colei,Colui)> che lotta con la forza della pietra incrollabile, respira l'immensità del cielo e abbraccia la serenità del mare ondoso, contro <if(gnum4,di lei,di lui)> nessuno può resistere.»" },
     { "gameKey": "quest/036/LucKyb005_03601#TEXT_LUCKYB005_03601_TRAVELLER03601_000_017", "hash": "0746EFB5B024A771", "target": "Eh? Come sarebbe che l'hai già sentito? Per quel che ne so, è una delle tante perle di saggezza tramandate nei secoli. Risale a un poeta di Kholusia morto diversi secoli fa. Non sarà un errore?" },
     { "gameKey": "quest/036/LucKyb005_03601#TEXT_LUCKYB005_03601_TRAVELLER03601_000_018", "hash": "EADA3FFC0F519157", "target": "Coincidenze inquietanti a parte, se vuoi affinare le tue arti belliche, difficilmente troverai di meglio che sfogare tutta la tua forza su uno dei nostri marchingegni." },
-    { "gameKey": "quest/036/LucKyb005_03601#TEXT_LUCKYB005_03601_SYSTEM_000_100", "hash": "7B7B94C0FE64537D", "target": "Ora puoi accedere ai Prati, un'estensione di Stone, Sky, Sea. Per accedere al campo di addestramento, parla con l'uomo dal volto mite fuori da Eulmore." }
+    { "gameKey": "quest/036/LucKyb005_03601#TEXT_LUCKYB005_03601_SYSTEM_000_100", "hash": "7B7B94C0FE64537D", "target": "Ora puoi accedere ai Prati, un'estensione di Pietra, Cielo, Mare. Per accedere al campo di addestramento, parla con l'uomo dal volto mite fuori da Eulmore." }
   ]
 }

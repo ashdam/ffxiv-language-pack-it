@@ -49,7 +49,7 @@
     { "gameKey": "quest/029/StmBda509_02946#TEXT_STMBDA509_02946_TATARU_000_099", "hash": "DD851508E2B7C90E", "target": "Scommetto che la notizia ha fatto piacere al signor Lolorito." },
     { "gameKey": "quest/029/StmBda509_02946#TEXT_STMBDA509_02946_HANCOCK_000_100", "hash": "4E0A4046C5F18469", "target": "Ahaha! Lo è stato davvero, eccome." },
     { "gameKey": "quest/029/StmBda509_02946#TEXT_STMBDA509_02946_TATARU_000_101", "hash": "B599BE91DC16E4DD", "target": "Be', mi sa che è ora di salutarci! Mi salutate Alphinaud e Alisaie?" },
-    { "gameKey": "quest/029/StmBda509_02946#TEXT_STMBDA509_02946_TATARU_000_110", "hash": "4E983D5D78E22D08", "target": "Ah, teniamo d'occhio l'ambasciata garleana. Se notiamo qualcosa di sospetto, sarete <if(gnum4,la prima,il primo)> a saperlo." },
+    { "gameKey": "quest/029/StmBda509_02946#TEXT_STMBDA509_02946_TATARU_000_110", "hash": "4E983D5D78E22D08", "target": "Ah, teniamo d'occhio l'ambasciata Garleana. Se notiamo qualcosa di sospetto, sarete <if(gnum4,la prima,il primo)> a saperlo." },
     { "gameKey": "quest/029/StmBda509_02946#TEXT_STMBDA509_02946_HANCOCK_000_115", "hash": "55DFD89AB3953D36", "target": "Le vedo già, le navi della Confederazione che risalgono il Fiumescelto con a bordo i migliori cannoni di Limsa Lominsa, forniti dalla Compagnia Commerciale dell'Aldenard Orientale. Il mondo si è fatto più piccolo, <if(gnum4,amica mia,amico mio)>." },
     { "gameKey": "quest/029/StmBda509_02946#TEXT_STMBDA509_02946_ALISAIE_000_120", "hash": "F3ED35F09FC40ACE", "target": "Così tanto da fare e così poco tempo..." },
     { "gameKey": "quest/029/StmBda509_02946#TEXT_STMBDA509_02946_YUGIRI_000_125", "hash": "A94053D18D7F88BF", "target": "Siete <if(gnum4,tornata,tornato)> da Kugane? Come sta Tataru?" },

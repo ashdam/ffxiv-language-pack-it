@@ -2,18 +2,18 @@
   "conversation": "quest/018/HeaVnz317_01809",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_SEQ_00", "hash": "71D3DC53B6C999FC", "target": "Gullinkambi tamburella gli artigli sul pavimento, con un'espressione chiaramente furiosa." },
-    { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_SEQ_01", "hash": "8C9862CBD98D2D9F", "target": "Dopo la sconfitta del primale Ravana, gli Gnath sono diventati sconsiderati e Gullinkambi li sente avvicinarsi alla torre. Temendo per la sicurezza dei suoi figli, ti chiede di respingerli con ogni mezzo necessario." },
-    { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_SEQ_02", "hash": "24338A3CFCD46F87", "target": "Sconfiggi gli invasori Gnath. Torna da Gullinkambi e dille che la torre è al sicuro." },
-    { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_SEQ_03", "hash": "B5BDBFB954810A19", "target": "Torni da Gullinkambi, sollevata di sapere che gli Gnath sono stati neutralizzati. Forse la tregua durerà poco, ma ti è comunque grata per l'aiuto." },
+    { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_SEQ_00", "hash": "71D3DC53B6C999FC", "target": "Gullinkambi tamburella con gli artigli, furibonda." },
+    { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_SEQ_01", "hash": "8C9862CBD98D2D9F", "target": "Dopo la sconfitta del primale Ravana, i Gnath si fanno sempre più temerari. Gullinkambi li sente avvicinarsi alla torre e, temendo per i suoi figli, ti chiede di respingerli a ogni costo." },
+    { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_SEQ_02", "hash": "24338A3CFCD46F87", "target": "Sconfiggi gli assalitori. Torna da Gullinkambi a dirle che la torre è al sicuro." },
+    { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_SEQ_03", "hash": "B5BDBFB954810A19", "target": "Gullinkambi è sollevata nel sapere che hai sconfitto i Gnath. La tregua potrebbe durare poco, ma ti è comunque grata." },
     { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_TODO_00", "hash": "62725FE18C39AB37", "target": "Sconfiggi gli assalitori Gnath." },
-    { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_TODO_01", "hash": "91F85A4204E00279", "target": "Fai rapporto a Gullinkambi." },
-    { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_GULLINKAMBI_000_000", "hash": "14C1A59D4C6B1FAB", "target": "Il primale Ravana è caduto e gli Gnath si agitano. Vogliono scagliarsi contro Kal Myhk, contro i miei figli non ancora nati." },
-    { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_GULLINKAMBI_000_001", "hash": "0E61C10BF3548404", "target": "Sento gli Gnath avvicinarsi alla torre. Sono tre in tutto. Devi uccidere chi vuole fare del male ai miei figli." },
-    { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_GULLINKAMBI_000_010", "hash": "D343E19F4C27DC30", "target": "Gli Gnath devono essere uccisi. Troverai quei parassiti ai piedi della torre." },
+    { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_TODO_01", "hash": "91F85A4204E00279", "target": "Riferisci a Gullinkambi." },
+    { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_GULLINKAMBI_000_000", "hash": "14C1A59D4C6B1FAB", "target": "Il primale Ravana è caduto e i Gnath si agitano. Vogliono scagliarsi contro Kal Myhk e contro i miei figli, che non sono ancora nati." },
+    { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_GULLINKAMBI_000_001", "hash": "0E61C10BF3548404", "target": "Sento tre Gnath che si avvicinano alla torre. Uccidi chi vuole fare del male ai miei figli." },
+    { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_GULLINKAMBI_000_010", "hash": "D343E19F4C27DC30", "target": "Uccidi i Gnath. Troverai quei parassiti ai piedi della torre." },
     { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_GOODGNATHA01809_100_020", "hash": "82C59666E1F29106", "target": "\\<clic> \\<clic> Morte ai draghi!" },
     { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_GOODGNATHB01809_100_021", "hash": "63C1820748A593B3", "target": "Dove sono i draghi? \\<clic> \\<clic> Dobbiamo uccidere i draghi." },
     { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_GOODGNATHC01809_100_022", "hash": "0FC01C3E335793EA", "target": "Non puoi impedirci di raggiungere i draghi. \\<clic> \\<clic>" },
-    { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_GULLINKAMBI_000_020", "hash": "BE80F3C141CA842D", "target": "Non sento più la loro presenza. Ravana e i suoi asserviti sono un fastidio di cui sono felice di essermi liberata, anche se soltanto per poco. Grazie." }
+    { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_GULLINKAMBI_000_020", "hash": "BE80F3C141CA842D", "target": "Non li sento più. Che sollievo essermi liberata di Ravana e dei suoi servi, anche se solo per poco. Grazie." }
   ]
 }

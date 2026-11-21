@@ -3,10 +3,10 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/027/StmBdz517_02768#TEXT_STMBDZ517_02768_SEQ_00", "hash": "7D3ECB484269E34F", "target": "Nigen è preoccupata per un altro membro della famiglia." },
-    { "gameKey": "quest/027/StmBdz517_02768#TEXT_STMBDZ517_02768_TODO_00", "hash": "D380CC4C5C967DB8", "target": "Trova la sorella di Nigen e sconfiggi tutti i nemici che compaiono" },
+    { "gameKey": "quest/027/StmBdz517_02768#TEXT_STMBDZ517_02768_TODO_00", "hash": "D380CC4C5C967DB8", "target": "Trova la sorella di Nigen e sconfiggi gli eventuali nemici" },
     { "gameKey": "quest/027/StmBdz517_02768#TEXT_STMBDZ517_02768_TODO_01", "hash": "ED5402587736C63A", "target": "Salva la sorella di Nigen" },
     { "gameKey": "quest/027/StmBdz517_02768#TEXT_STMBDZ517_02768_TODO_02", "hash": "C35E9A9BAA8C1827", "target": "Fai rapporto a Nigen" },
-    { "gameKey": "quest/027/StmBdz517_02768#TEXT_STMBDZ517_02768_NIGEN_000_000", "hash": "6F4ACB11A1692692", "target": "Permettimi di ringraziarti ancora per aver aiutato mio fratello. Potresti aiutare anche mia sorella? La nostra famiglia è un po' nei guai..." },
+    { "gameKey": "quest/027/StmBdz517_02768#TEXT_STMBDZ517_02768_NIGEN_000_000", "hash": "6F4ACB11A1692692", "target": "Grazie ancora per aver aiutato mio fratello. Potresti dare una mano anche a mia sorella? In famiglia non ci mancano i pensieri..." },
     { "gameKey": "quest/027/StmBdz517_02768#TEXT_STMBDZ517_02768_NIGEN_000_001", "hash": "70BC23584C03FD73", "target": "Gli dèi le hanno detto di raccogliere acqua dal fiume a ovest. Però nella zona si aggirano molte bestie. Temo che venga assalita come mio fratello." },
     { "gameKey": "quest/027/StmBdz517_02768#TEXT_STMBDZ517_02768_NIGEN_000_002", "hash": "88BC1AC195D8BC07", "target": "Ancora una volta non posso accompagnarla, perché gli dèi antichi hanno dato a me un lavoro da fare." },
     { "gameKey": "quest/027/StmBdz517_02768#TEXT_STMBDZ517_02768_NIGEN_000_003", "hash": "59C1FF726B565EED", "target": "Potresti controllare come sta, al posto mio? Dovrebbe essere ancora a raccogliere acqua a ovest." },
@@ -16,7 +16,7 @@
     { "gameKey": "quest/027/StmBdz517_02768#TEXT_STMBDZ517_02768_YOUNGNIGEN_000_012", "hash": "21BB343A850EE5AF", "target": "Immagino che qualcuno nel villaggio si ammalerà presto. Di certo è per questo che gli dèi mi hanno chiesto di raccogliere l'acqua del fiume." },
     { "gameKey": "quest/027/StmBdz517_02768#TEXT_STMBDZ517_02768_NIGEN_000_020", "hash": "597ECA28821213C9", "target": "Hai trovato mia sorella? Non è ancora tornata." },
     { "gameKey": "quest/027/StmBdz517_02768#TEXT_STMBDZ517_02768_NIGEN_000_030", "hash": "28E846E762787EB7", "target": "Grazie del tuo aiuto. Mia sorella è finalmente tornata." },
-    { "gameKey": "quest/027/StmBdz517_02768#TEXT_STMBDZ517_02768_NIGEN_000_031", "hash": "569273573B5570C1", "target": "Sembra che tu abbia avuto una profonda influenza sui miei fratelli. Anche loro hanno deciso di diventare avventurieri!" },
-    { "gameKey": "quest/027/StmBdz517_02768#TEXT_STMBDZ517_02768_NIGEN_000_032", "hash": "F973B4A7644E4D90", "target": "Senza dubbio gli dèi antichi lo avevano previsto quando li hanno mandati a fare le loro commissioni. Non vedo l'ora di sentire le loro avventure future." }
+    { "gameKey": "quest/027/StmBdz517_02768#TEXT_STMBDZ517_02768_NIGEN_000_031", "hash": "569273573B5570C1", "target": "A quanto pare, hai fatto una grande impressione su mio fratello e mia sorella. Anche loro hanno deciso di vivere d'avventure!" },
+    { "gameKey": "quest/027/StmBdz517_02768#TEXT_STMBDZ517_02768_NIGEN_000_032", "hash": "F973B4A7644E4D90", "target": "Di certo gli dèi antichi lo avevano previsto quando li hanno mandati a sbrigare quelle commissioni. Non vedo l'ora di sentire il racconto delle loro avventure." }
   ]
 }

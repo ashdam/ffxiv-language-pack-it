@@ -2,16 +2,16 @@
   "conversation": "quest/017/HeaVnz303_01795",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_SEQ_00", "hash": "6D037634A6B17F48", "target": "Il corridore dei Vath è preoccupato per lo stato delle scorte d'armi del suo popolo." },
-    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_SEQ_01", "hash": "CBB8495449B884A8", "target": "Il corridore dei Vath ti ringrazia ancora per aver procurato armi da fuoco per integrare le scorte dei Vath. Ora, però, le riserve di polvere esplosiva necessaria a usarle stanno per esaurirsi. Ti supplica di recuperarne dall'alveare degli Gnath." },
-    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_SEQ_02", "hash": "9964304860D0006A", "target": "Sottrai parte delle scorte di polvere esplosiva degli Gnath. Torna dal corridore dei Vath con il tuo bottino illecito." },
-    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_SEQ_03", "hash": "ABA3A9E91D45CDFD", "target": "La polvere esplosiva dà un po' di tranquillità al corridore dei Vath. Se le riserve si esaurissero, la capacità dei Vath di difendersi ne sarebbe gravemente compromessa. Grazie ai tuoi sforzi, per il momento il rischio è stato ridotto." },
-    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_TODO_00", "hash": "57911E6FAB38E67C", "target": "Ottieni della polvere esplosiva per armi a pietra focaia." },
-    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_TODO_01", "hash": "748D349AF65AA312", "target": "Consegna la polvere esplosiva al corridore dei Vath" },
-    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_IDATEN_000_001", "hash": "A0CD218295BACEAB", "target": "Ti ringraziamo ancora, <if(gnum4,cacciatrice,cacciatore)>, per le armi che hai raccolto per noi. Ma le armi da sole non bastano. Senza polvere esplosiva sono inutili, e le nostre scorte continuano a diminuire. Ti prego, procuracene altra." },
+    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_SEQ_00", "hash": "6D037634A6B17F48", "target": "Il Vath dal piede lesto è di nuovo preoccupato per le scorte d'armi." },
+    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_SEQ_01", "hash": "CBB8495449B884A8", "target": "Il Vath dal piede lesto ti ringrazia di nuovo per le pistole che hai recuperato. Ora, però, sta finendo la polvere esplosiva che serve a usarle. Ti chiede di procurargliene all'alveare dei Gnath." },
+    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_SEQ_02", "hash": "9964304860D0006A", "target": "Sottrai una parte delle scorte di polvere esplosiva dei Gnath. Torna dal Vath dal piede lesto con il bottino." },
+    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_SEQ_03", "hash": "ABA3A9E91D45CDFD", "target": "La polvere esplosiva tranquillizza un po' il Vath dal piede lesto. Se le riserve si esaurissero, i Vath farebbero fatica a difendersi. Per il momento, grazie a te, il pericolo è scongiurato." },
+    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_TODO_00", "hash": "57911E6FAB38E67C", "target": "Recupera della polvere esplosiva per pietra focaia." },
+    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_TODO_01", "hash": "748D349AF65AA312", "target": "Consegna la polvere esplosiva al Vath dal piede lesto." },
+    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_IDATEN_000_001", "hash": "A0CD218295BACEAB", "target": "Grazie ancora per le armi che ci hai procurato, <if(gnum4,cacciatrice,cacciatore)>. Da sole non bastano. Senza polvere esplosiva non servono a nulla, e le nostre scorte continuano a calare. Procuracene altra, per favore." },
     { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_IDATEN_000_002", "hash": "52465975F8FEB526", "target": "A Loth ast Gnath ci sono sacchi pieni di polvere esplosiva. Ti prego, portacene tre." },
-    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_IDATEN_000_010", "hash": "FBBDC3570A9FB343", "target": "Hai la polvere esplosiva? Senza di essa le nostre armi da fuoco sono inutili." },
-    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_IDATEN_000_020", "hash": "2CCFAA4359C73565", "target": "Le nostre scorte di polvere esplosiva diminuiscono. Una volta esaurite, saremo quasi indifesi." },
+    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_IDATEN_000_010", "hash": "FBBDC3570A9FB343", "target": "Hai la polvere esplosiva? Le nostre armi da fuoco non servono a nulla senza." },
+    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_IDATEN_000_020", "hash": "2CCFAA4359C73565", "target": "La polvere esplosiva scarseggia. Quando finirà, saremo quasi indifesi." },
     { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_IDATEN_000_030", "hash": "4D1B7D6D5222A3E0", "target": "Questa quantità di polvere esplosiva dovrebbe bastare per un bel po'. Grazie, <if(gnum4,generosa cacciatrice,generoso cacciatore)>." }
   ]
 }

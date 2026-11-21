@@ -2,20 +2,20 @@
   "conversation": "quest/035/LucKzg023_03508",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzg023_03508#TEXT_LUCKZG023_03508_SEQ_00", "hash": "A9DDC45FDC1375C5", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Intreccio ha bisogno di un altro paio d'occhi. I tuoi, per la precisione." },
+    { "gameKey": "quest/035/LucKzg023_03508#TEXT_LUCKZG023_03508_SEQ_00", "hash": "A9DDC45FDC1375C5", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>A Filo serve un altro paio d'occhi. I tuoi, per la precisione." },
     { "gameKey": "quest/035/LucKzg023_03508#TEXT_LUCKZG023_03508_TODO_00", "hash": "7A0BCC6F439EA6AE", "target": "Esamina le strutture da riparare" },
-    { "gameKey": "quest/035/LucKzg023_03508#TEXT_LUCKZG023_03508_TODO_01", "hash": "ACABCFEEAD3300A5", "target": "Parla con il lavoratore irrequieto" },
-    { "gameKey": "quest/035/LucKzg023_03508#TEXT_LUCKZG023_03508_MINER03508_000_000", "hash": "7F7C90274C681E30", "target": "Per gli dèi! Questo posto sta cadendo a pezzi! Devo ordinare i materiali per le riparazioni, ma il bilancio è così ristretto che non posso comprare più dello stretto necessario." },
-    { "gameKey": "quest/035/LucKzg023_03508#TEXT_LUCKZG023_03508_MINER03508_000_001", "hash": "828337D9C065C812", "target": "Argh! La fornitrice arriverà presto e non ho ancora finito i controlli! Non c'è tempo, non c'è tempo... Ho un'idea! Se dai un'occhiata in giro e vedi cosa va riparato, io deciderò quali materiali ordinare." },
-    { "gameKey": "quest/035/LucKzg023_03508#TEXT_LUCKZG023_03508_MINER03508_000_002", "hash": "F2B5943CB7F0E027", "target": "Questi mercanti ambulanti non si fermano a lungo, quindi devo avere tutto pronto prima che riparta. Aiuterai la gente di Intreccio, vero? Sapevo che l'avresti fatto!" },
-    { "gameKey": "quest/035/LucKzg023_03508#TEXT_LUCKZG023_03508_SYSTEM_000_010", "hash": "DFB87893C63FA266", "target": "Questi cardini hanno visto giorni migliori. Basterebbe sbattere la porta una volta per rischiare di farla cadere." },
-    { "gameKey": "quest/035/LucKzg023_03508#TEXT_LUCKZG023_03508_SYSTEM_000_011", "hash": "DE1A5A5313EE6309", "target": "La trave di sostegno presenta una profonda spaccatura. Se si spezza, potrebbe crollare l'intero edificio." },
-    { "gameKey": "quest/035/LucKzg023_03508#TEXT_LUCKZG023_03508_SYSTEM_000_012", "hash": "AA2EC47EAF651FA1", "target": "Il telaio si è deformato e la porta sbatte al vento." },
+    { "gameKey": "quest/035/LucKzg023_03508#TEXT_LUCKZG023_03508_TODO_01", "hash": "ACABCFEEAD3300A5", "target": "Parla con il lavoratore inquieto" },
+    { "gameKey": "quest/035/LucKzg023_03508#TEXT_LUCKZG023_03508_MINER03508_000_000", "hash": "7F7C90274C681E30", "target": "Per tutti gli dèi, qui sta cadendo tutto a pezzi! A me tocca ordinare i materiali per riparare i danni. Abbiamo così pochi gil che posso comprare solo il minimo indispensabile." },
+    { "gameKey": "quest/035/LucKzg023_03508#TEXT_LUCKZG023_03508_MINER03508_000_001", "hash": "828337D9C065C812", "target": "Argh! La mercante sta per arrivare e non ho nemmeno finito i controlli! Non c'è tempo, non c'è tempo... Ci sono! Tu dai un'occhiata in giro e dimmi cosa va riparato. Io vedo che materiali ordinare." },
+    { "gameKey": "quest/035/LucKzg023_03508#TEXT_LUCKZG023_03508_MINER03508_000_002", "hash": "F2B5943CB7F0E027", "target": "I venditori ambulanti non si fermano a lungo. Devo avere tutto pronto prima che riparta. Ci dai una mano qui a Filo, vero? Lo sapevo!" },
+    { "gameKey": "quest/035/LucKzg023_03508#TEXT_LUCKZG023_03508_SYSTEM_000_010", "hash": "DFB87893C63FA266", "target": "I cardini sono ridotti male. Basterebbe sbattere la porta con un po' di forza per farla cadere." },
+    { "gameKey": "quest/035/LucKzg023_03508#TEXT_LUCKZG023_03508_SYSTEM_000_011", "hash": "DE1A5A5313EE6309", "target": "C'è una spaccatura profonda nella trave di sostegno. Se si spezza, rischia di venir giù tutto l'edificio." },
+    { "gameKey": "quest/035/LucKzg023_03508#TEXT_LUCKZG023_03508_SYSTEM_000_012", "hash": "AA2EC47EAF651FA1", "target": "Il telaio si è deformato e la porta sbatacchia alla minima brezza." },
     { "gameKey": "quest/035/LucKzg023_03508#TEXT_LUCKZG023_03508_MERCHANT03508_000_020", "hash": "13605B86CD2269A0", "target": "Hai finito i controlli?" },
-    { "gameKey": "quest/035/LucKzg023_03508#TEXT_LUCKZG023_03508_MINER03508_000_030", "hash": "C626A0B3AE809043", "target": "Che gli dèi ci aiutino, è peggio di quanto pensassi..." },
-    { "gameKey": "quest/035/LucKzg023_03508#TEXT_LUCKZG023_03508_MINER03508_000_031", "hash": "1C722BAA54C16996", "target": "Bene, ecco cosa ci serve." },
-    { "gameKey": "quest/035/LucKzg023_03508#TEXT_LUCKZG023_03508_MERCHANT03508_000_032", "hash": "BC1E18A2AC1B8AAE", "target": "Oh, cielo, la miseria che guadagnerò con questa vendita quasi non vale la fatica!" },
-    { "gameKey": "quest/035/LucKzg023_03508#TEXT_LUCKZG023_03508_MINER03508_000_033", "hash": "E18462CE43979050", "target": "Per ora possiamo permetterci solo questo. Forse, se i tuoi prezzi non fossero così esorbitanti, potremmo comprare qualcosa in più con i nostri gil!" },
-    { "gameKey": "quest/035/LucKzg023_03508#TEXT_LUCKZG023_03508_MINER03508_000_034", "hash": "1C1BCFF490CB92B7", "target": "Mmm... Potrebbe volerci un po', ma tu hai fatto la tua parte. Anche se abbiamo pochi soldi, valeva la pena pagarti per l'aiuto, visto quanto risparmieremo ordinando solo lo stretto necessario. Ti ringrazio." }
+    { "gameKey": "quest/035/LucKzg023_03508#TEXT_LUCKZG023_03508_MINER03508_000_030", "hash": "C626A0B3AE809043", "target": "Che gli dèi ci assistano... È peggio di quanto pensassi." },
+    { "gameKey": "quest/035/LucKzg023_03508#TEXT_LUCKZG023_03508_MINER03508_000_031", "hash": "1C722BAA54C16996", "target": "Va bene, ecco quello che ci serve." },
+    { "gameKey": "quest/035/LucKzg023_03508#TEXT_LUCKZG023_03508_MERCHANT03508_000_032", "hash": "BC1E18A2AC1B8AAE", "target": "Oh, cielo. Per quel che ci guadagno, quasi non vale la pena!" },
+    { "gameKey": "quest/035/LucKzg023_03508#TEXT_LUCKZG023_03508_MINER03508_000_033", "hash": "E18462CE43979050", "target": "Per ora possiamo permetterci solo questo. Se non ti facessi pagare a peso d'oro, magari coi nostri gil compreremmo qualcosa in più!" },
+    { "gameKey": "quest/035/LucKzg023_03508#TEXT_LUCKZG023_03508_MINER03508_000_034", "hash": "1C1BCFF490CB92B7", "target": "Mmh... Qui ci vorrà un po', ma tu hai fatto la tua parte. I gil scarseggiano, però è valsa la pena pagarti. Pensa a quanto risparmieremo ordinando solo l'indispensabile. Grazie." }
   ]
 }

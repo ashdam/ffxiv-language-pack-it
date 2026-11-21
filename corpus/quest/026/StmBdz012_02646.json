@@ -3,21 +3,21 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/026/StmBdz012_02646#TEXT_STMBDZ012_02646_SEQ_00", "hash": "99CCA5AFBE3609C7", "target": "Hidden Hearth cerca qualcuno disposto a fare un po' di lavoro pesante." },
-    { "gameKey": "quest/026/StmBdz012_02646#TEXT_STMBDZ012_02646_TODO_00", "hash": "BF64CE35BAA5079E", "target": "Ottieni il calcare di Thavnair" },
-    { "gameKey": "quest/026/StmBdz012_02646#TEXT_STMBDZ012_02646_TODO_01", "hash": "7DE087B0870B7800", "target": "Consegna il calcare di Thavnair a Bent Frond" },
-    { "gameKey": "quest/026/StmBdz012_02646#TEXT_STMBDZ012_02646_TODO_02", "hash": "3AD7E1786C2DF138", "target": "Spargi il calcare di Thavnair nei punti indicati" },
-    { "gameKey": "quest/026/StmBdz012_02646#TEXT_STMBDZ012_02646_TODO_03", "hash": "9CEE42F3D77A330F", "target": "Fai rapporto a Bent Frond" },
-    { "gameKey": "quest/026/StmBdz012_02646#TEXT_STMBDZ012_02646_HIDDENHEARTH_000_000", "hash": "A0468CE8154494D2", "target": "Ti andrebbe di sollevare qualche peso per me? L'altro giorno una ruota si è staccata del tutto dal mio carro." },
+    { "gameKey": "quest/026/StmBdz012_02646#TEXT_STMBDZ012_02646_TODO_00", "hash": "BF64CE35BAA5079E", "target": "Prendi il Calcare Thavnairiano" },
+    { "gameKey": "quest/026/StmBdz012_02646#TEXT_STMBDZ012_02646_TODO_01", "hash": "7DE087B0870B7800", "target": "Consegna il Calcare Thavnairiano a Bent Frond" },
+    { "gameKey": "quest/026/StmBdz012_02646#TEXT_STMBDZ012_02646_TODO_02", "hash": "3AD7E1786C2DF138", "target": "Spargi il Calcare Thavnairiano nei punti indicati" },
+    { "gameKey": "quest/026/StmBdz012_02646#TEXT_STMBDZ012_02646_TODO_03", "hash": "9CEE42F3D77A330F", "target": "Torna da Bent Frond" },
+    { "gameKey": "quest/026/StmBdz012_02646#TEXT_STMBDZ012_02646_HIDDENHEARTH_000_000", "hash": "A0468CE8154494D2", "target": "Ti va di fare un po' di fatica al posto mio? L'altro giorno mi si è staccata una ruota del carro." },
     { "gameKey": "quest/026/StmBdz012_02646#TEXT_STMBDZ012_02646_HIDDENHEARTH_000_001", "hash": "2DF85F017A150859", "target": "Troverai quattro sacchi nel deposito lassù. Dalli a mia sorella, Bent Frond. Lavora al Pane di Byron." },
-    { "gameKey": "quest/026/StmBdz012_02646#TEXT_STMBDZ012_02646_HIDDENHEARTH_000_002", "hash": "BB6E2D94309DB998", "target": "Troverai quattro sacchi nel deposito lassù. Dalli a mia sorella, Bent Frond. Lavora al Pane di Byron. Chiedi a lei il compenso per il lavoro." },
-    { "gameKey": "quest/026/StmBdz012_02646#TEXT_STMBDZ012_02646_BENTFROND_000_010", "hash": "3E3D3C7CCED07E8E", "target": "Hai affari da discutere con me?" },
-    { "gameKey": "quest/026/StmBdz012_02646#TEXT_STMBDZ012_02646_BENTFROND_000_011", "hash": "5647589245F45909", "target": "Ah, grazie. Mi chiedevo quando mia sorella me li avrebbe fatti avere." },
-    { "gameKey": "quest/026/StmBdz012_02646#TEXT_STMBDZ012_02646_BENTFROND_000_012", "hash": "0281B22185E36A70", "target": "So che devi essere <if(gnum4,stanca,stanco)>, ma ti dispiacerebbe spargere questo calcare nei campi qui intorno? Naturalmente ti pagherò di più per il lavoro." },
+    { "gameKey": "quest/026/StmBdz012_02646#TEXT_STMBDZ012_02646_HIDDENHEARTH_000_002", "hash": "BB6E2D94309DB998", "target": "Troverai quattro sacchi nel deposito lassù. Portali a mia sorella, Bent Frond. Lavora al Pane di Byron. Chiedi a lei di pagarti il disturbo." },
+    { "gameKey": "quest/026/StmBdz012_02646#TEXT_STMBDZ012_02646_BENTFROND_000_010", "hash": "3E3D3C7CCED07E8E", "target": "Mi cercavi?" },
+    { "gameKey": "quest/026/StmBdz012_02646#TEXT_STMBDZ012_02646_BENTFROND_000_011", "hash": "5647589245F45909", "target": "Ah, grazie. Mi chiedevo quando sarebbe arrivata mia sorella con questi sacchi." },
+    { "gameKey": "quest/026/StmBdz012_02646#TEXT_STMBDZ012_02646_BENTFROND_000_012", "hash": "0281B22185E36A70", "target": "Lo so, la fatica si fa sentire, ma potresti spargere questo calcare nei campi tutt'intorno? Ti pagherò anche per questo, naturalmente." },
     { "gameKey": "quest/026/StmBdz012_02646#TEXT_STMBDZ012_02646_BENTFROND_000_013", "hash": "6699495F32B82389", "target": "Apri i sacchi che hai portato e spargi il calcare in modo uniforme su tutti i campi." },
-    { "gameKey": "quest/026/StmBdz012_02646#TEXT_STMBDZ012_02646_HIDDENHEARTH_000_020", "hash": "7DA4BF957FE8E0AD", "target": "Hai consegnato il calcare a mia sorella? Fantastico. Assicurati che non dimentichi di ricompensarti per il lavoro." },
+    { "gameKey": "quest/026/StmBdz012_02646#TEXT_STMBDZ012_02646_HIDDENHEARTH_000_020", "hash": "7DA4BF957FE8E0AD", "target": "Hai consegnato il calcare a mia sorella? Benissimo. Ricordale di pagarti per il lavoro." },
     { "gameKey": "quest/026/StmBdz012_02646#TEXT_STMBDZ012_02646_BENTFROND_000_014", "hash": "5BC1C9B7D29CFE69", "target": "Apri i sacchi che hai portato e spargi il calcare in modo uniforme su tutti i campi." },
     { "gameKey": "quest/026/StmBdz012_02646#TEXT_STMBDZ012_02646_BENTFROND_000_031", "hash": "C0776D36C6F560BF", "target": "Ottimo lavoro. Ecco il compenso promesso." },
-    { "gameKey": "quest/026/StmBdz012_02646#TEXT_STMBDZ012_02646_BENTFROND_000_032", "hash": "3913E077B72BBB5B", "target": "Gyr Abania non ha i campi più fertili del mondo. Non crescerebbe nulla se non spargessimo del fertilizzante ogni tanto, come ora." },
-    { "gameKey": "quest/026/StmBdz012_02646#TEXT_STMBDZ012_02646_BENTFROND_000_033", "hash": "4E2D194173D11FFB", "target": "Allo stesso modo, il nostro villaggio non esisterebbe senza la cava, ma non possiamo più aspettarci che ci mantenga." }
+    { "gameKey": "quest/026/StmBdz012_02646#TEXT_STMBDZ012_02646_BENTFROND_000_032", "hash": "3913E077B72BBB5B", "target": "La terra di Gyr Abania non è certo delle più fertili. Se ogni tanto non ci spargessimo un po' di fertilizzante, qui non crescerebbe niente." },
+    { "gameKey": "quest/026/StmBdz012_02646#TEXT_STMBDZ012_02646_BENTFROND_000_033", "hash": "4E2D194173D11FFB", "target": "Senza la cava questo villaggio non esisterebbe, ma ormai non possiamo più contare sulla pietra per vivere." }
   ]
 }
