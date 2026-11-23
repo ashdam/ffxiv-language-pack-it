@@ -9,9 +9,26 @@
   "terms": [
     {
       "en": "Ehcatl Nine",
-      "it": "Ehcatl Nove",
+      "it": "I Nove Ehcatl",
       "protect": false,
-      "note": "Decisione esplicita dell'utente del 2026-11-20, valida nell'intero corpus e nella UI per la societa' Ixal. Articoli: gli/degli/agli Ehcatl Nove. Non rinomina la localita' Ehcatl. Il gioco di parole Ehcatl Ten segue Ehcatl Dieci."
+      "note": "Decisione esplicita dell'utente del 2026-11-22, valida nell'intero corpus e nella UI per la societa' Ixal. Articoli: i/dei/ai/dai/nei/con i/per i Nove Ehcatl; I Nove Ehcatl a inizio frase o isolato. Sostituisce Ehcatl Nove. Non rinomina la localita' Ehcatl. Il gioco di parole Ehcatl Ten segue I Dieci Ehcatl.",
+      "forms": [
+        "i Nove Ehcatl",
+        "dei Nove Ehcatl",
+        "ai Nove Ehcatl",
+        "dai Nove Ehcatl",
+        "nei Nove Ehcatl",
+        "Nove Ehcatl"
+      ]
+    },
+    {
+      "en": "Ehcatl Nine silencer",
+      "it": "Spia dei Nove Ehcatl",
+      "forms": [
+        "Spie dei Nove Ehcatl"
+      ],
+      "protect": false,
+      "note": "Decisione esplicita dell'utente del 2026-11-22: rendere globalmente Ehcatl Nine silencer con Spia dei Nove Ehcatl, plurale Spie dei Nove Ehcatl. Sostituisce Spia degli Ehcatl Nove per questo ruolo. Riferimenti EN/hash: ENpcResident#1009637.0 (3E39059143040873), #1009637.2 (525BEEDD36D2A129), #1009649.0 (45A402FC31C1917A), #1009649.2 (11F39BBFBDAB32D5); quest/015/BanIxa404_01501#TEXT_BANIXA404_01501_SEQ_01 (6C41871A5DF429BE)."
     },
     {
       "en": "walking one",
@@ -1077,7 +1094,9 @@
     {
       "en": "vacuum suit",
       "it": "tuta spaziale",
-      "forms": ["tute spaziali"],
+      "forms": [
+        "tute spaziali"
+      ],
       "fr": "mécano cosmique",
       "ja": "パワーローダー",
       "protect": false,
@@ -1086,35 +1105,45 @@
     {
       "en": "high mobility vacuum suit",
       "it": "tuta spaziale ad alta mobilità",
-      "forms": ["tute spaziali ad alta mobilità"],
+      "forms": [
+        "tute spaziali ad alta mobilità"
+      ],
       "protect": false,
       "note": "Nome della cavalcatura e del modello; applicare anche alle chiavi d'identificazione e ai testi riferiti allo stesso modello. Sostantivo femminile. Decisione dell'utente del 16 novembre 2026."
     },
     {
       "en": "volatile gravity vacuum suit",
       "it": "tuta spaziale a gravità instabile",
-      "forms": ["tute spaziali a gravità instabile"],
+      "forms": [
+        "tute spaziali a gravità instabile"
+      ],
       "protect": false,
       "note": "Nome della cavalcatura e del modello; applicare anche alle chiavi d'identificazione e ai testi riferiti allo stesso modello. Sostantivo femminile. Decisione dell'utente del 16 novembre 2026."
     },
     {
       "en": "rapid-fab vacuum suit",
       "it": "tuta spaziale a fabbricazione rapida",
-      "forms": ["tute spaziali a fabbricazione rapida"],
+      "forms": [
+        "tute spaziali a fabbricazione rapida"
+      ],
       "protect": false,
       "note": "Nome della cavalcatura e del modello; applicare anche alle chiavi d'identificazione e ai testi riferiti allo stesso modello. Sostantivo femminile. Decisione dell'utente del 16 novembre 2026."
     },
     {
       "en": "xenoscaping vacuum suit",
       "it": "tuta spaziale per il giardinaggio extraterrestre",
-      "forms": ["tute spaziali per il giardinaggio extraterrestre"],
+      "forms": [
+        "tute spaziali per il giardinaggio extraterrestre"
+      ],
       "protect": false,
       "note": "Nome della cavalcatura e del modello specializzato nella cura della flora; applicare anche alle descrizioni e ai testi riferiti allo stesso mezzo. Sostantivo femminile. Decisione dell'utente del 16 novembre 2026."
     },
     {
       "en": "excavating vacuum suit",
       "it": "tuta spaziale da scavo",
-      "forms": ["tute spaziali da scavo"],
+      "forms": [
+        "tute spaziali da scavo"
+      ],
       "protect": false,
       "note": "Nome della cavalcatura e del modello; applicare anche alle chiavi d'identificazione e ai testi riferiti allo stesso modello. Sostantivo femminile. Decisione dell'utente del 16 novembre 2026."
     },
@@ -2467,7 +2496,10 @@
     {
       "en": "floracane",
       "it": "Uragano di petali",
-      "forms": ["uragano di petali", "uragani di petali"],
+      "forms": [
+        "uragano di petali",
+        "uragani di petali"
+      ],
       "protect": false,
       "note": "Nome della condizione meteo. Usare «uragano di petali» al singolare e «uragani di petali» al plurale per tutti i riferimenti allo stesso fenomeno. Fonte: corpus/flat/Weather.json::Weather#208.1."
     },
@@ -3177,8 +3209,8 @@
     {
       "en": "Dragonstar",
       "protect": false,
-      "note": "The name describes the dragons' lost home planet. Unverified Italian form. Use for the draconic home world in prose. Keep exact map names and selectors in English.",
-      "it": "Pianeta dei Draghi"
+      "note": "Scelta esplicita dell'utente: Dragonstar = Stella dei Draghi per la patria perduta dei draghi. Usare per questo referente in prosa, dialoghi, descrizioni e nomi localizzati, adattando articoli e accordi; conservare invariati gli identificatori tecnici.",
+      "it": "Stella dei Draghi"
     },
     {
       "en": "Ways",
@@ -3407,7 +3439,11 @@
       "protect": false,
       "note": "Termine informatico reso come sottoflusso nelle meccaniche di bug; distinto da overflow (traboccamento). Riferimenti EN/hash: Action#13169 (01D2842BD4D71533), Action#31578 (7ED7BE48E195856A), Status#1666.0 (7DDDA2D3AAB3929C), #1669.0 (330A66334183D41A), #1669.1 (6506E942494D1EDF), #3432.0 (4F2D2825021E3595), #3432.1 (B00630D6E460ABBA), #3438.0 (A663019497772069), #3438.1 (B0BF135CDAE4159D), #3526.0 (D14E334E5BCB64D1).",
       "it": "sottoflusso",
-      "forms": ["Sottoflusso", "sottoflussi", "Sottoflussi"]
+      "forms": [
+        "Sottoflusso",
+        "sottoflussi",
+        "Sottoflussi"
+      ]
     },
     {
       "en": "touched ones",
@@ -3681,7 +3717,9 @@
     {
       "en": "Rolling Tankard",
       "it": "Boccale Rotolante",
-      "forms": ["Boccali Rotolanti"],
+      "forms": [
+        "Boccali Rotolanti"
+      ],
       "protect": false,
       "note": "Nome del modello di veicolo: «Boccale Rotolante» al singolare e «Boccali Rotolanti» al plurale. Riferimenti EN/hash verificati in quest/038 e Item#30860/Item#31342."
     },
@@ -3718,7 +3756,9 @@
     {
       "en": "moon-hopper",
       "it": "saltatore lunare",
-      "forms": ["saltatori lunari"],
+      "forms": [
+        "saltatori lunari"
+      ],
       "protect": false,
       "note": "Nome del veicolo dei Loporrit: «saltatore lunare» al singolare e «saltatori lunari» al plurale. Riferimenti EN/hash verificati: DefaultTalk#599114.20 e quest/047/BanLop121_04707."
     },
@@ -4305,9 +4345,9 @@
     },
     {
       "en": "esperance wheels",
-      "it": "Le Ruote di Esperance",
+      "it": "Le Ruote della Speranza",
       "protect": false,
-      "note": "Riferimento toponomastico a Esperance Wheels: legacy `data/translations/world/placename.json#4709:translation` attesta «Le Ruote di Esperance», EN/hash concordi. Escludere label complete di Item e interfaccia."
+      "note": "Decisione esplicita dell'utente del 2026-11-23: Esperance Wheels = Le Ruote della Speranza per la giostra di Memoria Vivente. Ambito: nome del luogo e riferimenti alla stessa attrazione; escludere le label complete di Item e interfaccia. Riferimenti EN/hash: PlaceName#4709.0 (705BED523F21D8A5), #4709.2 (4EBA91CF74887107), Adventure#2163024.15 (BA33D8549E2FBCB2), quest/051/KinGzh004_05177#TEXT_KINGZH004_05177_SEQ_03 (85C7B4FF7CEF03F7)."
     },
     {
       "en": "I want to be your canary",
@@ -6050,9 +6090,9 @@
     },
     {
       "en": "Bookman's Shelves",
-      "it": "Scaffali dell'Erudito",
+      "it": "Scaffali del Libraio",
       "protect": false,
-      "note": "Urianger's manor in Il Mheg. Unverified Italian coinage."
+      "note": "Decisione esplicita dell'utente del 2026-11-23: Bookman's Shelves = Scaffali del Libraio per la tenuta di Urianger a Il Mheg, in tutti i riferimenti al luogo. Riferimenti EN/hash: PlaceName#3150.2 (D526173A168B55BD), Adventure#2162921.13 (39ABA9F524E961C3)."
     },
     {
       "en": "Untouchable Gate",
@@ -6375,7 +6415,7 @@
       "protect": false,
       "fr": "purgateur",
       "ja": "罪喰い",
-      "note": "Creature transformed by Light. Masculine; plural divorapeccati. Unverified Italian coinage."
+      "note": "Decisione esplicita dell'utente del 2026-11-22: termine italiano canonico per la creatura trasformata dalla Luce; nome maschile invariabile al singolare e al plurale."
     },
     {
       "en": "Lightwarden",
@@ -6641,11 +6681,11 @@
     },
     {
       "en": "Arc of the Worthy",
-      "it": "Arco dei Valorosi",
+      "it": "Arco dei Degni",
       "protect": false,
       "fr": "Arc des Valeureux",
       "ja": "聖徒門",
-      "note": "Ishgard gate, PlaceName 1515 and 2302. Unverified coinage."
+      "note": "Decisione esplicita dell'utente del 2026-11-21: Arco dei Degni per la porta di Ishgard, nell'intero corpus e nei glossari. Riferimenti: PlaceName#1515 e #2302, custom/002/RegRoc2ArcOfTheWorthy_00277. Sostituisce la forma non verificata Arco dei Valorosi."
     },
     {
       "en": "Lifestream",
@@ -6697,7 +6737,7 @@
       "protect": false,
       "fr": "Quartier des Fabricateurs",
       "ja": "シャーレアン工匠街",
-      "note": "Dravanian Hinterlands subarea, PlaceName 2009."
+      "note": "Decisione esplicita dell'utente del 2026-11-23: Makers' Quarter = Quartiere degli Artigiani. Ambito: località nell'Entroterra Dravaniano; distinto dal Quartiere degli Artigiani domano, che condivide la resa italiana. Riferimenti EN/hash: PlaceName#2009.0 (6F59C711B3B11392), #2009.2 (33084D6F35B7F372), ContentFinderConditionTransient#746 (EC84FEF89EF5D4FF)."
     },
     {
       "en": "Answering Quarter",
@@ -8814,7 +8854,8 @@
       "ja": "",
       "it": "l'Ascensore Celeste",
       "protect": false,
-      "note": "Nome del luogo, coerente con Adventure#2162691.13 e PlaceName#190.0 (5CABD05C138BBE22), #190.2 (60D6D42E63A07B0B); adattare articoli e preposizioni."    },
+      "note": "Nome del luogo, coerente con Adventure#2162691.13 e PlaceName#190.0 (5CABD05C138BBE22), #190.2 (60D6D42E63A07B0B); adattare articoli e preposizioni."
+    },
     {
       "en": "Amajina & Sons Mineral Concern",
       "fr": "",
@@ -9724,7 +9765,16 @@
       "en": "Moonfire Faire",
       "it": "Festa del Fuoco Lunare",
       "protect": false,
-      "note": "Seasonal event in narrative text and owned CabinetSubCategory labels. Keep complete Item names and unrelated external interface labels. Unverified Italian form."
+      "note": "Festa stagionale; decisione dell'utente registrata in glossary/Glossary.md#1139. Usare il nome in tutti i riferimenti pertinenti."
+    },
+    {
+      "en": "Faire voucher",
+      "it": "Buono della Festa del Fuoco Lunare",
+      "forms": [
+        "Buoni della Festa del Fuoco Lunare"
+      ],
+      "protect": false,
+      "note": "Valuta premio della Festa del Fuoco Lunare; forma globale decisa dall'utente il 22 novembre 2026. Adattare numero e maiuscole al campo. Riferimenti EN/hash: Item#33714.0/.2/.9 (5E41B30179DCF084, EC859E78B36F40D6, 6983224248E4B661); quest/036/FesSum502_03664#TEXT_FESSUM502_03664_SEQ_01 (B82C9A9BEDEE4B0B)."
     },
     {
       "en": "Little Ladies' Day",
@@ -9749,6 +9799,12 @@
       "it": "Celebrazione delle Stelle",
       "protect": false,
       "note": "Decisione dell'utente, glossary/Glossary.md#1040. Nome della festa stagionale; adattare articoli e preposizioni. Mantenere gli Item completi e le etichette esterne non pertinenti."
+    },
+    {
+      "en": "Starlight celebrant",
+      "it": "celebrante della Celebrazione delle Stelle",
+      "protect": false,
+      "note": "Decisione esplicita dell'utente del 2026-11-22: ruolo reso come celebrante/celebranti della Celebrazione delle Stelle. Ambito: ruolo dei personaggi della festa, in dialoghi e obiettivi; non estendere ad altri organizzatori. Riferimenti: quest/023/FesXms201_02375; quest/030/FesXms301_03009; quest/031/FesXms401_03173."
     },
     {
       "en": "the Rising",
@@ -10069,7 +10125,7 @@
       "en": "busydeal",
       "it": "affarifare",
       "protect": false,
-      "note": "Goblin compound for business, singular and plural. Unverified Italian form."
+      "note": "Decisione esplicita dell'utente del 2026-11-22: busydeal = affarifare per il neologismo Goblin riferito agli affari; vale al singolare e al plurale nei dialoghi e negli altri testi Goblin, incluso il titolo Woodcross Busydeal, reso «Affarifare a Legnocroce». Non applicare a busydealer come nome professionale generico. Riferimenti EN/hash: Balloon#1716 (DFD830C8F3BE633F), quest/001/SubSea003_00113#TEXT_SUBSEA003_00113_SWEETNIX_000_1 (4CC3875DC66F9375), CompleteJournal#5692 (A3F04F7B390E3355), Leve#621.0 (F2C8901584AFD6B4), quest/023/BanAll110_02382#TEXT_BANALL110_02382_DRYDOX_000_001 (163B77DE1454F322), quest/023/ChrHdb641_02369#TEXT_CHRHDB641_02369_SLOWFIX_000_161 (12A40B86AF3C8286), quest/023/HeaVnr303_02337#TEXT_HEAVNR303_02337_QUICKTHINXALLTHOUGHTS_000_702 (8EDA85DAA8D69DA1)."
     },
     {
       "en": "Crystal War",
@@ -11152,10 +11208,22 @@
       "note": "Decisione dell'utente del 14 novembre 2026: «Uovo di Arconte» per i nomi degli oggetti stagionali decorativi (Item#5849.0/.9, Item#5852.0/.9, EventItem#2001972.9, EObjName#2003598, Addon#3609–#3611); la prosa usa «uova degli Arconti»."
     },
     {
+      "en": "inoshishi bugyo",
+      "it": "inoshishi bugyo",
+      "protect": false,
+      "note": "Titolo giapponese dell'emissario del cinghiale al Capodanno Celeste: conservarlo invariato per decisione esplicita dell'utente. Non estendere a bugyo isolato. Riferimenti: quest/030/FesNyr501_03014#TEXT_FESNYR501_03014_SEQ_01 (D3D804CABEA57A37); ENpcResident#1024184.0/.2."
+    },
+    {
+      "en": "neko bugyo",
+      "it": "neko bugyo",
+      "protect": false,
+      "note": "Titolo giapponese dell'emissario del gatto al Capodanno Celeste: conservarlo invariato per decisione esplicita dell'utente. Non estendere a bugyo isolato. Riferimenti: quest/030/FesNyr501_03014#TEXT_FESNYR501_03014_SEQ_05 (942867CEB7A1C728); ENpcResident#1024547.0/.2."
+    },
+    {
       "en": "bugyo",
       "it": "magistrato",
       "protect": false,
-      "note": "Ufficio di governo hingashi: «magistrato»; adattare gli appellativi animali al caso."
+      "note": "Ufficio di governo hingashi: «magistrato» quando usato isolatamente. I titoli specifici inoshishi bugyo e neko bugyo restano invariati per decisione dell'utente."
     },
     {
       "en": "metsuke",
@@ -12764,7 +12832,13 @@
       "en": "Wright",
       "it": "Orzocolle",
       "protect": false,
-      "note": "Toponimo usato nel gioco di parole The Wright Stuff; fonte legacy: data/translations/world/fate.json#1467:translation_name. Non estendere ad altri usi di Wright."
+      "note": "Toponimo del villaggio di Kholusia: rendere Wright come «Orzocolle» nei riferimenti al luogo, ai suoi abitanti e ai prodotti locali per decisione dell'utente del 22 novembre 2026. In The Wright Stuff usare «La Stoffa di Orzocolle», conservando il gioco di parole. Non estendere al cognome Wright o al nome comune wright («carpentiere»). Fonte legacy: data/translations/world/fate.json#1467:translation_name."
+    },
+    {
+      "en": "Wright for the Job",
+      "it": "La scelta giusta a Orzocolle",
+      "protect": false,
+      "note": "Titolo canonico deciso dall'utente per la missione ambientata a Orzocolle. Riferimenti EN/hash: Quest#68910 (0E6BC654FA14F4AF), CompleteJournal#3726 (9C1B252910F7B15A)."
     },
     {
       "en": "The Eye of Gatorl",
@@ -14437,16 +14511,16 @@
     },
     {
       "en": "Bombard core",
-      "it": "Nucleo di Piro",
+      "it": "Nucleo di Bombarda",
       "forms": [
-        "Nuclei di Piro"
+        "Nuclei di Bombarda"
       ],
       "protect": false,
-      "note": "Oggetto e ingrediente ricavato da un Bombard; forma composta del canone Bombard → Piro/Piros."
+      "note": "Oggetto e ingrediente ricavato da un Bombard; decisione dell'utente del 21 novembre 2026: Bombarda/Bombarde per nomi e descrizioni degli oggetti."
     },
     {
       "en": "Bombard cores",
-      "it": "Nuclei di Piro",
+      "it": "Nuclei di Bombarda",
       "protect": false,
       "note": "Forma plurale di Bombard core."
     },
@@ -19274,7 +19348,7 @@
       "en": "Wright",
       "it": "Orzocolle",
       "protect": false,
-      "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/Adventure.json::('corpus/flat/Adventure.json', 'Adventure#2162910.13'). Fonte legacy: data/translations/world/adventure.json#2162910:translation_name EN/hash verificati."
+      "note": "Decisione dell'utente del 22 novembre 2026: Wright è il toponimo del villaggio di Kholusia e va reso Orzocolle in tutti i riferimenti al luogo. Fonte legacy: data/translations/world/adventure.json#2162910:translation_name; riferimento verificato in corpus/flat/Adventure.json#Adventure#2162910.13."
     },
     {
       "en": "The Duergar's Tewel",
@@ -19298,7 +19372,7 @@
       "en": "The Bookman's Shelves",
       "it": "Gli Scaffali del Libraio",
       "protect": false,
-      "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/Adventure.json::('corpus/flat/Adventure.json', 'Adventure#2162921.13'). Fonte legacy: data/translations/world/adventure.json#2162921:translation_name EN/hash verificati."
+      "note": "Decisione esplicita dell'utente del 2026-11-23: The Bookman's Shelves = Gli Scaffali del Libraio per la tenuta di Urianger a Il Mheg, in tutti i riferimenti al luogo. Riferimenti EN/hash: PlaceName#3150.0 (F341DC94B84BF590), Adventure#2162921.13 (39ABA9F524E961C3)."
     },
     {
       "en": "Deepwood Swim",
@@ -29520,7 +29594,7 @@
     },
     {
       "en": "You may enter the Palace of the Dead solo or in a party of up to four players. When speaking with the Wood Wailer expeditionary captain, you will be given the option to enter with a fixed party or a matched party via the matching system.<br><br>To create a fixed party, the party leader must speak with the Wood Wailer expeditionary captain after forming a party of up to four players. Please note that all party members must have at least one unused save slot.",
-      "it": "Puoi entrare nel Palazzo dei Morti in solitaria o con un gruppo di massimo quattro giocatori. Parlando con il capitano della spedizione delle Sentinelle del Bosco, puoi scegliere un gruppo prefissato o uno abbinato tramite il sistema di abbinamento.<br><br>Per creare un gruppo prefissato, il capogruppo deve parlare con il capitano dopo aver formato un gruppo di massimo quattro giocatori. Tutti devono avere almeno uno slot di salvataggio libero.",
+      "it": "Puoi entrare nel Palazzo dei Morti in solitaria o con un gruppo di massimo quattro giocatori. Parlando con il capitano della spedizione delle Sentinelle del Bosco, puoi scegliere un gruppo fisso o uno abbinato tramite il sistema di abbinamento.<br><br>Per creare un gruppo fisso, il capogruppo deve parlare con il capitano dopo aver formato un gruppo di massimo quattro giocatori. Tutti devono avere almeno uno slot di salvataggio libero.",
       "protect": false,
       "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/DescriptionString.json::('corpus/flat/DescriptionString.json', 'DescriptionString#794'). Fonte legacy: data/translations/system/descriptionstring.json#794:translation EN/hash verificati."
     },
@@ -29574,7 +29648,7 @@
     },
     {
       "en": "It is possible to receive a score for your performance in the Palace of the Dead. In order to do so, you must enter with a fixed party.<br><br>A fixed party is also required to challenge floor 101 and beyond. Please note that should your party KO in the process, your save data will become inaccessible. Abandoning the duty will also count as a party KO.",
-      "it": "Nel Palazzo dei Morti puoi ricevere un punteggio per la tua prestazione, ma devi entrare con un gruppo prefissato.<br><br>Serve un gruppo prefissato anche per affrontare i piani dal 101 in poi. Se tutto il gruppo viene sconfitto, i dati salvati diventano inaccessibili. Anche abbandonare l'incarico conta come sconfitta del gruppo.",
+      "it": "Nel Palazzo dei Morti puoi ricevere un punteggio per la tua prestazione, ma devi entrare con un gruppo fisso.<br><br>Serve un gruppo fisso anche per affrontare i piani dal 101 in poi. Se tutto il gruppo viene sconfitto, i dati salvati diventano inaccessibili. Anche abbandonare l'incarico conta come sconfitta del gruppo.",
       "protect": false,
       "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/DescriptionString.json::('corpus/flat/DescriptionString.json', 'DescriptionString#804'). Fonte legacy: data/translations/system/descriptionstring.json#804:translation EN/hash verificati."
     },
@@ -29592,19 +29666,19 @@
     },
     {
       "en": "Fixed Parties",
-      "it": "Gruppi Prefissati",
+      "it": "Gruppi Fissi",
       "protect": false,
       "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/DescriptionString.json::('corpus/flat/DescriptionString.json', 'DescriptionString#808')|corpus/flat/DescriptionString.json::('corpus/flat/DescriptionString.json', 'DescriptionString#1443'). Fonte legacy: data/translations/system/descriptionstring.json#808:translation; data/translations/system/descriptionstring.json#1443:translation EN/hash verificati."
     },
     {
       "en": "Disbanding Fixed Parties",
-      "it": "Sciogliere i Gruppi Prefissati",
+      "it": "Sciogliere i Gruppi Fissi",
       "protect": false,
       "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/DescriptionString.json::('corpus/flat/DescriptionString.json', 'DescriptionString#809')|corpus/flat/DescriptionString.json::('corpus/flat/DescriptionString.json', 'DescriptionString#1444'). Fonte legacy: data/translations/system/descriptionstring.json#809:translation; data/translations/system/descriptionstring.json#1444:translation EN/hash verificati."
     },
     {
       "en": "It is possible to convert fixed party save data to matched party save data, allowing you to be matched automatically with other players via the matching system. Please note that all special items (pomanders) will be lost upon converting your data.<br><br>Once saved data from a fixed party is converted, it can only be used when selecting matched party. It cannot be restored to its original state.",
-      "it": "Puoi convertire i dati salvati di un gruppo prefissato in dati per un gruppo abbinato, così da trovare automaticamente altri giocatori tramite il sistema di abbinamento. La conversione fa perdere tutti gli oggetti speciali (pomander).<br><br>Dopo la conversione, i dati possono essere usati solo scegliendo il gruppo abbinato e non possono essere ripristinati allo stato precedente.",
+      "it": "Puoi convertire i dati salvati di un gruppo fisso in dati per un gruppo abbinato, così da trovare automaticamente altri giocatori tramite il sistema di abbinamento. La conversione fa perdere tutti gli oggetti speciali (pomander).<br><br>Dopo la conversione, i dati possono essere usati solo scegliendo il gruppo abbinato e non possono essere ripristinati allo stato precedente.",
       "protect": false,
       "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/DescriptionString.json::('corpus/flat/DescriptionString.json', 'DescriptionString#810')|corpus/flat/DescriptionString.json::('corpus/flat/DescriptionString.json', 'DescriptionString#845'). Fonte legacy: data/translations/system/descriptionstring.json#810:translation; data/translations/system/descriptionstring.json#845:translation EN/hash verificati."
     },
@@ -29616,7 +29690,7 @@
     },
     {
       "en": "Although players can no longer enter as a fixed party after converting their saved data, it is still possible to create preformed parties as long as the party is formed before entering the Palace of the Dead. The progression of all party members must be identical when doing so. Any open party slots will be filled automatically via the matching system.<br><br>Please note that a matched party cannot be used to challenge floors beyond floor 100.",
-      "it": "Dopo aver convertito i dati salvati non puoi più entrare come gruppo prefissato, ma puoi formare un gruppo prima di accedere al Palazzo dei Morti. Tutti i membri devono avere gli stessi progressi. Gli eventuali posti liberi vengono riempiti automaticamente dal sistema di abbinamento.<br><br>Un gruppo abbinato non può affrontare i piani oltre il 100.",
+      "it": "Dopo aver convertito i dati salvati non puoi più entrare come gruppo fisso, ma puoi formare un gruppo prima di accedere al Palazzo dei Morti. Tutti i membri devono avere gli stessi progressi. Gli eventuali posti liberi vengono riempiti automaticamente dal sistema di abbinamento.<br><br>Un gruppo abbinato non può affrontare i piani oltre il 100.",
       "protect": false,
       "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/DescriptionString.json::('corpus/flat/DescriptionString.json', 'DescriptionString#812'). Fonte legacy: data/translations/system/descriptionstring.json#812:translation EN/hash verificati."
     },
@@ -29706,7 +29780,7 @@
     },
     {
       "en": "When entering the deep dungeon as a fixed party, you will receive scores based on a number of factors such as highest floor reached and number of enemies slain. You will be assigned separate scores for both individual and team performance.<br><br>Please note that you cannot earn credit for previous floors when starting from floor 51. Starting from floor 1 will ensure the highest score possible.",
-      "it": "Entrando nella cripta profonda con un gruppo prefissato, ricevi un punteggio basato su vari fattori, tra cui il piano più alto raggiunto e i nemici sconfitti. Ottieni punteggi distinti per la prestazione personale e quella del gruppo.<br><br>Se inizi dal piano 51 non ottieni punti per i piani precedenti. Parti dal piano 1 per raggiungere il punteggio massimo.",
+      "it": "Entrando nella cripta profonda con un gruppo fisso, ricevi un punteggio basato su vari fattori, tra cui il piano più alto raggiunto e i nemici sconfitti. Ottieni punteggi distinti per la prestazione personale e quella del gruppo.<br><br>Se inizi dal piano 51 non ottieni punti per i piani precedenti. Parti dal piano 1 per raggiungere il punteggio massimo.",
       "protect": false,
       "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/DescriptionString.json::('corpus/flat/DescriptionString.json', 'DescriptionString#834'). Fonte legacy: data/translations/system/descriptionstring.json#834:translation EN/hash verificati."
     },
@@ -29724,7 +29798,7 @@
     },
     {
       "en": "You may enter Heaven-on-High solo or in a party of up to four players. When speaking with Kyusei, you will be given the option to enter with a fixed party or a matched party via the matching system.<br><br>To create a fixed party, the party leader must speak with Kyusei after forming a party of up to four players. Please note that all party members must have at least one unused save slot.<br><br>You must be a Disciple of War or Magic of level 61 or above to participate.",
-      "it": "Puoi entrare nel Pilastro dei Cieli in solitaria o con un gruppo di massimo quattro giocatori. Parlando con Kyusei, puoi scegliere un gruppo prefissato o uno abbinato tramite il sistema di abbinamento.<br><br>Per creare un gruppo prefissato, il capogruppo deve parlare con Kyusei dopo aver formato il gruppo. Tutti devono avere almeno uno slot di salvataggio libero.<br><br>Per partecipare devi essere <if(gnum4,una Discepola,un Discepolo)> della Guerra o della Magia di livello 61 o superiore.",
+      "it": "Puoi entrare nel Pilastro dei Cieli in solitaria o con un gruppo di massimo quattro giocatori. Parlando con Kyusei, puoi scegliere un gruppo fisso o uno abbinato tramite il sistema di abbinamento.<br><br>Per creare un gruppo fisso, il capogruppo deve parlare con Kyusei dopo aver formato il gruppo. Tutti devono avere almeno uno slot di salvataggio libero.<br><br>Per partecipare devi essere <if(gnum4,una Discepola,un Discepolo)> della Guerra o della Magia di livello 61 o superiore.",
       "protect": false,
       "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/DescriptionString.json::('corpus/flat/DescriptionString.json', 'DescriptionString#839'). Fonte legacy: data/translations/system/descriptionstring.json#839:translation EN/hash verificati."
     },
@@ -29736,7 +29810,7 @@
     },
     {
       "en": "It is possible to receive a score for your performance in Heaven-on-High. In order to do so, you must enter with a fixed party.<br><br>A fixed party is also required to challenge floor 31 and beyond. Please note that should your party KO in the process, your save data will become inaccessible. Abandoning the duty will also count as a party KO.",
-      "it": "Nel Pilastro-dei-Cieli puoi ricevere un punteggio per la tua prestazione, ma devi entrare con un gruppo prefissato.<br><br>Serve un gruppo prefissato anche per affrontare i piani dal 31 in poi. Se tutto il gruppo viene sconfitto, i dati salvati diventano inaccessibili. Anche abbandonare l'incarico conta come sconfitta del gruppo.",
+      "it": "Nel Pilastro-dei-Cieli puoi ricevere un punteggio per la tua prestazione, ma devi entrare con un gruppo fisso.<br><br>Serve un gruppo fisso anche per affrontare i piani dal 31 in poi. Se tutto il gruppo viene sconfitto, i dati salvati diventano inaccessibili. Anche abbandonare l'incarico conta come sconfitta del gruppo.",
       "protect": false,
       "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/DescriptionString.json::('corpus/flat/DescriptionString.json', 'DescriptionString#843'). Fonte legacy: data/translations/system/descriptionstring.json#843:translation EN/hash verificati."
     },
@@ -29748,7 +29822,7 @@
     },
     {
       "en": "Although players can no longer enter as a fixed party after converting their saved data, it is still possible to create preformed parties as long as the party is formed before entering Heaven-on-High. The progression of all party members must be identical when doing so. Any open party slots will be filled automatically via the matching system.<br><br>Please note that a matched party cannot be used to challenge floors beyond floor 30.",
-      "it": "Dopo aver convertito i dati salvati non puoi più entrare come gruppo prefissato, ma puoi formare un gruppo prima di accedere al Pilastro-dei-Cieli. Tutti i membri devono avere gli stessi progressi. Gli eventuali posti liberi vengono riempiti automaticamente dal sistema di abbinamento.<br><br>Un gruppo abbinato non può affrontare i piani oltre il 30.",
+      "it": "Dopo aver convertito i dati salvati non puoi più entrare come gruppo fisso, ma puoi formare un gruppo prima di accedere al Pilastro-dei-Cieli. Tutti i membri devono avere gli stessi progressi. Gli eventuali posti liberi vengono riempiti automaticamente dal sistema di abbinamento.<br><br>Un gruppo abbinato non può affrontare i piani oltre il 30.",
       "protect": false,
       "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/DescriptionString.json::('corpus/flat/DescriptionString.json', 'DescriptionString#846'). Fonte legacy: data/translations/system/descriptionstring.json#846:translation EN/hash verificati."
     },
@@ -29808,7 +29882,7 @@
     },
     {
       "en": "You may enter Eureka Orthos solo or in a party of up to four players. When speaking with Khatun, you will be given the option to enter with a fixed party or a matched party via the matching system.<br><br>To create a fixed party, the party leader must speak with Khatun after forming a party of up to four players. Please note that all party members must have at least one unused save slot.",
-      "it": "Puoi entrare in Eureka Orthos in solitaria o con un gruppo di massimo quattro giocatori. Parlando con Khatun, puoi scegliere un gruppo prefissato o uno abbinato tramite il sistema di abbinamento.<br><br>Per creare un gruppo prefissato, il capogruppo deve parlare con Khatun dopo aver formato un gruppo di massimo quattro giocatori. Tutti devono avere almeno uno slot di salvataggio libero.",
+      "it": "Puoi entrare in Eureka Orthos in solitaria o con un gruppo di massimo quattro giocatori. Parlando con Khatun, puoi scegliere un gruppo fisso o uno abbinato tramite il sistema di abbinamento.<br><br>Per creare un gruppo fisso, il capogruppo deve parlare con Khatun dopo aver formato un gruppo di massimo quattro giocatori. Tutti devono avere almeno uno slot di salvataggio libero.",
       "protect": false,
       "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/DescriptionString.json::('corpus/flat/DescriptionString.json', 'DescriptionString#861'). Fonte legacy: data/translations/system/descriptionstring.json#861:translation EN/hash verificati."
     },
@@ -29820,7 +29894,7 @@
     },
     {
       "en": "It is possible to receive a score for your performance in Eureka Orthos. In order to do so, you must enter with a fixed party.<br><br>A fixed party is also required to challenge floor 31 and beyond. Please note that should your party KO in the process, your save data will become inaccessible. Abandoning the duty will also count as a party KO.",
-      "it": "Puoi ottenere un punteggio in Eureka Orthos entrando con un gruppo prefissato.<br><br>Serve un gruppo prefissato anche dal piano 31. Se tutto il gruppo viene messo fuori combattimento, i dati salvati diventano inaccessibili. Abbandonare l'incarico conta come sconfitta del gruppo.",
+      "it": "Puoi ottenere un punteggio in Eureka Orthos entrando con un gruppo fisso.<br><br>Serve un gruppo fisso anche dal piano 31. Se tutto il gruppo viene messo fuori combattimento, i dati salvati diventano inaccessibili. Abbandonare l'incarico conta come sconfitta del gruppo.",
       "protect": false,
       "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/DescriptionString.json::('corpus/flat/DescriptionString.json', 'DescriptionString#865'). Fonte legacy: data/translations/system/descriptionstring.json#865:translation EN/hash verificati."
     },
@@ -29832,13 +29906,13 @@
     },
     {
       "en": "It is possible to convert fixed party save data to matched party save data, allowing you to be matched automatically with other players via the matching system. Please note that all special items (protomanders and demiclones) will be lost upon converting your data.<br><br>Once saved data from a fixed party is converted, it can only be used when selecting matched party. It cannot be restored to its original state.",
-      "it": "Puoi convertire i dati salvati di un gruppo prefissato in dati per un gruppo abbinato, così da trovare automaticamente altri giocatori. La conversione fa perdere tutti gli oggetti speciali (protomander e demicloni).<br><br>Dopo la conversione, i dati possono essere usati solo scegliendo un gruppo abbinato e non possono essere ripristinati allo stato precedente.",
+      "it": "Puoi convertire i dati salvati di un gruppo fisso in dati per un gruppo abbinato, così da trovare automaticamente altri giocatori. La conversione fa perdere tutti gli oggetti speciali (protomander e demicloni).<br><br>Dopo la conversione, i dati possono essere usati solo scegliendo un gruppo abbinato e non possono essere ripristinati allo stato precedente.",
       "protect": false,
       "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/DescriptionString.json::('corpus/flat/DescriptionString.json', 'DescriptionString#867'). Fonte legacy: data/translations/system/descriptionstring.json#867:translation EN/hash verificati."
     },
     {
       "en": "Although players can no longer enter as a fixed party after converting their saved data, it is still possible to create preformed parties as long as the party is formed before entering Eureka Orthos. The progression of all party members must be identical when doing so. Any open party slots will be filled automatically via the matching system.<br><br>Please note that a matched party cannot be used to challenge floors beyond floor 30.",
-      "it": "Dopo aver convertito i dati salvati non puoi più entrare come gruppo prefissato, ma puoi formare un gruppo prima di accedere a Eureka Orthos. Tutti i membri devono avere gli stessi progressi. Gli eventuali posti liberi vengono riempiti automaticamente dal sistema di abbinamento.<br><br>Un gruppo abbinato non può affrontare i piani oltre il 30.",
+      "it": "Dopo aver convertito i dati salvati non puoi più entrare come gruppo fisso, ma puoi formare un gruppo prima di accedere a Eureka Orthos. Tutti i membri devono avere gli stessi progressi. Gli eventuali posti liberi vengono riempiti automaticamente dal sistema di abbinamento.<br><br>Un gruppo abbinato non può affrontare i piani oltre il 30.",
       "protect": false,
       "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/DescriptionString.json::('corpus/flat/DescriptionString.json', 'DescriptionString#868'). Fonte legacy: data/translations/system/descriptionstring.json#868:translation EN/hash verificati."
     },
@@ -29928,7 +30002,7 @@
     },
     {
       "en": "When entering the deep dungeon as a fixed party, you will receive scores based on a number of factors such as highest floor reached and number of enemies slain. You will be assigned separate scores for both individual and team performance.<br><br>Please note that you cannot earn credit for previous floors when starting from floor 51. Starting from floor 1 will ensure the highest score possible.",
-      "it": "Entrando nella cripta profonda con un gruppo prefissato, ricevi un punteggio basato su vari fattori, tra cui il piano più alto raggiunto e i nemici sconfitti. Ottieni punteggi distinti per la prestazione personale e quella del gruppo.<br><br>Se inizi dal piano 21 non ottieni punti per i piani precedenti. Parti dal piano 1 per raggiungere il punteggio massimo.",
+      "it": "Entrando nella cripta profonda con un gruppo fisso, ricevi un punteggio basato su vari fattori, tra cui il piano più alto raggiunto e i nemici sconfitti. Ottieni punteggi distinti per la prestazione personale e quella del gruppo.<br><br>Se inizi dal piano 21 non ottieni punti per i piani precedenti. Parti dal piano 1 per raggiungere il punteggio massimo.",
       "protect": false,
       "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/DescriptionString.json::('corpus/flat/DescriptionString.json', 'DescriptionString#887'). Fonte legacy: data/translations/system/descriptionstring.json#887:translation EN/hash verificati."
     },
@@ -29958,7 +30032,7 @@
     },
     {
       "en": "When entering the deep dungeon as a fixed party, you will receive scores based on a number of factors such as highest floor reached and number of enemies slain. You will be assigned separate scores for both individual and team performance.<br><br>Please note that you cannot earn credit for previous floors when starting from floor 21. Starting from floor 1 will ensure the highest score possible.",
-      "it": "Entrando nella cripta profonda con un gruppo prefissato, ricevi un punteggio basato su vari fattori, tra cui il piano più alto raggiunto e i nemici sconfitti. Ottieni punteggi distinti per la prestazione personale e quella del gruppo.<br><br>Se inizi dal piano 21 non ottieni punti per i piani precedenti. Parti dal piano 1 per raggiungere il punteggio massimo.",
+      "it": "Entrando nella cripta profonda con un gruppo fisso, ricevi un punteggio basato su vari fattori, tra cui il piano più alto raggiunto e i nemici sconfitti. Ottieni punteggi distinti per la prestazione personale e quella del gruppo.<br><br>Se inizi dal piano 21 non ottieni punti per i piani precedenti. Parti dal piano 1 per raggiungere il punteggio massimo.",
       "protect": false,
       "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/DescriptionString.json::('corpus/flat/DescriptionString.json', 'DescriptionString#892'). Fonte legacy: data/translations/system/descriptionstring.json#892:translation EN/hash verificati."
     },
@@ -32562,7 +32636,7 @@
     },
     {
       "en": "You may enter Pilgrim's Traverse solo or in a party of up to four players. When speaking with Vanthau, you will be given the option to enter with a fixed party or a matched party via the matching system.<br><br>To create a fixed party, the party leader must speak with Vanthau after forming a party of up to four players. Please note that all party members must have at least one unused save slot.<br><br>You must be a Disciple of War or Magic of level 91 or above to participate.",
-      "it": "Puoi entrare nella Traversata del Pellegrino in solitaria o con un gruppo di massimo quattro giocatori. Parlando con Vanthau, puoi scegliere un gruppo prefissato o uno abbinato tramite il sistema di abbinamento.<br><br>Per creare un gruppo prefissato, il capogruppo deve parlare con Vanthau dopo aver formato il gruppo. Tutti devono avere almeno uno slot di salvataggio libero.<br><br>Per partecipare devi essere <if(gnum4,una Discepola,un Discepolo)> della Guerra o della Magia di livello 91 o superiore.",
+      "it": "Puoi entrare nella Traversata del Pellegrino in solitaria o con un gruppo di massimo quattro giocatori. Parlando con Vanthau, puoi scegliere un gruppo fisso o uno abbinato tramite il sistema di abbinamento.<br><br>Per creare un gruppo fisso, il capogruppo deve parlare con Vanthau dopo aver formato il gruppo. Tutti devono avere almeno uno slot di salvataggio libero.<br><br>Per partecipare devi essere <if(gnum4,una Discepola,un Discepolo)> della Guerra o della Magia di livello 91 o superiore.",
       "protect": false,
       "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/DescriptionString.json::('corpus/flat/DescriptionString.json', 'DescriptionString#1435'). Fonte legacy: data/translations/system/descriptionstring.json#1435:translation EN/hash verificati."
     },
@@ -32574,7 +32648,7 @@
     },
     {
       "en": "It is possible to receive a score for your performance in Pilgrim's Traverse. In order to do so, you must enter with a fixed party.<br><br>Please note that should your party KO while challenging areas marked by stones 31 and beyond, your save data will become inaccessible. Abandoning the duty will also count as a party KO.",
-      "it": "Puoi ricevere un punteggio per la tua prova nella Traversata del Pellegrino entrando con un gruppo prefissato.<br><br>Se il gruppo viene messo fuori combattimento nelle aree dalla pietra 31 in poi, i dati salvati diventano inaccessibili. Anche abbandonare l'incarico conta come sconfitta del gruppo.",
+      "it": "Puoi ricevere un punteggio per la tua prova nella Traversata del Pellegrino entrando con un gruppo fisso.<br><br>Se il gruppo viene messo fuori combattimento nelle aree dalla pietra 31 in poi, i dati salvati diventano inaccessibili. Anche abbandonare l'incarico conta come sconfitta del gruppo.",
       "protect": false,
       "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/DescriptionString.json::('corpus/flat/DescriptionString.json', 'DescriptionString#1439'). Fonte legacy: data/translations/system/descriptionstring.json#1439:translation EN/hash verificati."
     },
@@ -32586,13 +32660,13 @@
     },
     {
       "en": "It is possible to convert fixed party save data to matched party save data, allowing you to be matched automatically with other players via the matching system. Please note that all special items (pomanders and incense) will be lost upon converting your data.<br><br>Once saved data from a fixed party is converted, it can only be used when selecting matched party. It cannot be restored to its original state.",
-      "it": "Puoi convertire i dati salvati di un gruppo prefissato in dati per un gruppo abbinato, così da trovare automaticamente altri giocatori. La conversione fa perdere tutti gli oggetti speciali (pomander e incenso).<br><br>Dopo la conversione, i dati possono essere usati solo scegliendo un gruppo abbinato e non possono essere ripristinati allo stato precedente.",
+      "it": "Puoi convertire i dati salvati di un gruppo fisso in dati per un gruppo abbinato, così da trovare automaticamente altri giocatori. La conversione fa perdere tutti gli oggetti speciali (pomander e incenso).<br><br>Dopo la conversione, i dati possono essere usati solo scegliendo un gruppo abbinato e non possono essere ripristinati allo stato precedente.",
       "protect": false,
       "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/DescriptionString.json::('corpus/flat/DescriptionString.json', 'DescriptionString#1445'). Fonte legacy: data/translations/system/descriptionstring.json#1445:translation EN/hash verificati."
     },
     {
       "en": "Although players can no longer enter as a fixed party after converting their saved data, it is still possible to create preformed parties as long as the party is formed before entering Pilgrim's Traverse. The progression of all party members must be identical when doing so. Any open party slots will be filled automatically via the matching system.",
-      "it": "Dopo aver convertito i dati salvati non puoi più entrare come gruppo prefissato, ma puoi formare un gruppo in anticipo, prima di accedere alla Traversata del Pellegrino. Tutti devono avere gli stessi progressi; i posti vuoti verranno assegnati automaticamente tramite abbinamento.",
+      "it": "Dopo aver convertito i dati salvati non puoi più entrare come gruppo fisso, ma puoi formare un gruppo in anticipo, prima di accedere alla Traversata del Pellegrino. Tutti devono avere gli stessi progressi; i posti vuoti verranno assegnati automaticamente tramite abbinamento.",
       "protect": false,
       "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/DescriptionString.json::('corpus/flat/DescriptionString.json', 'DescriptionString#1447'). Fonte legacy: data/translations/system/descriptionstring.json#1447:translation EN/hash verificati."
     },
@@ -32682,7 +32756,7 @@
     },
     {
       "en": "When entering the deep dungeon as a fixed party, you will receive scores based on a number of factors such as the furthest traverse stone reached and number of enemies slain. You will be assigned separate scores for both individual and team performance.<br><br>Please note that you cannot earn credit for previous areas when starting from stones 21, 31, 51, or 71. Starting from traverse stone 1 will ensure the highest score possible.",
-      "it": "Entrando nella cripta profonda con un gruppo prefissato, ricevi un punteggio basato su vari fattori, tra cui la pietra di passaggio più lontana raggiunta e i nemici sconfitti. Ottieni punteggi distinti per la prestazione personale e quella del gruppo.<br><br>Se inizi dalle pietre 21, 31, 51 o 71 non ottieni punti per le aree precedenti. Parti dalla pietra di passaggio 1 per raggiungere il punteggio massimo.",
+      "it": "Entrando nella cripta profonda con un gruppo fisso, ricevi un punteggio basato su vari fattori, tra cui la pietra di passaggio più lontana raggiunta e i nemici sconfitti. Ottieni punteggi distinti per la prestazione personale e quella del gruppo.<br><br>Se inizi dalle pietre 21, 31, 51 o 71 non ottieni punti per le aree precedenti. Parti dalla pietra di passaggio 1 per raggiungere il punteggio massimo.",
       "protect": false,
       "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/DescriptionString.json::('corpus/flat/DescriptionString.json', 'DescriptionString#1473'). Fonte legacy: data/translations/system/descriptionstring.json#1473:translation EN/hash verificati."
     },
@@ -32976,7 +33050,7 @@
     },
     {
       "en": "The Final Verse is a practice duty that pits a party of up to four players against a simulacrum of Eminent Grief. Players may speak with Vanthau to challenge this duty with a fixed or matched party.",
-      "it": "Il Verso Finale è un incarico di prova per gruppi fino a quattro giocatori contro un simulacro di Eminent Grief. Parla con Vanthau per affrontarlo con un gruppo prefissato o formato tramite abbinamento.",
+      "it": "Il Verso Finale è un incarico di prova per gruppi fino a quattro giocatori contro un simulacro di Eminent Grief. Parla con Vanthau per affrontarlo con un gruppo fisso o formato tramite abbinamento.",
       "protect": false,
       "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/DescriptionString.json::('corpus/flat/DescriptionString.json', 'DescriptionString#1558'). Fonte legacy: data/translations/system/descriptionstring.json#1558:translation EN/hash verificati."
     },
@@ -34026,9 +34100,9 @@
     },
     {
       "en": "Maiden",
-      "it": "Debuttante",
+      "it": "Esordienti",
       "protect": false,
-      "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/GoldSaucerTextData.json::('corpus/flat/GoldSaucerTextData.json', 'GoldSaucerTextData#16'). Fonte legacy: data/translations/minigames/goldsaucertextdata.json#16:translation EN/hash verificati."
+      "note": "Decisione utente del 19 novembre 2026: Maiden come classe delle corse di chocobo = Esordienti; non riguarda maiden nel senso di fanciulla. Riferimento: corpus/flat/GoldSaucerTextData.json#GoldSaucerTextData#16."
     },
     {
       "en": "Open",
@@ -35382,9 +35456,9 @@
     },
     {
       "en": "Ehcatl Nine Delivery Quests",
-      "it": "Missioni di Consegna degli Ehcatl Nove",
+      "it": "Missioni di Consegna dei Nove Ehcatl",
       "protect": false,
-      "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/HowTo.json::('corpus/flat/HowTo.json', 'HowTo#186'). Fonte legacy: data/translations/system/howto.json#186:translation EN/hash verificati."
+      "note": "Decisione dell'utente del 2026-11-22; canone limitato ai campi corpus/flat/HowTo.json::('corpus/flat/HowTo.json', 'HowTo#186'). Fonte legacy: data/translations/system/howto.json#186:translation EN/hash verificati."
     },
     {
       "en": "Fish Population",
@@ -40106,6 +40180,56 @@
       "it": "Mogpendium",
       "protect": false,
       "note": "Decisione utente 2026-11-19: nome del menu del Forziere del Moguri; sostituisce Mogpendio. Riferimenti: Addon#15870, LogMessage#1498, banners#128272."
+    },
+    {
+      "en": "Whisper",
+      "it": "Whisper",
+      "protect": false,
+      "note": "Decisione esplicita dell'utente del 2026-11-22: mantenere Whisper come nome proprio dello Yo-kai. Ambito: nomi del personaggio in ENpcResident, BNpcName e Companion. Riferimenti EN/hash: BNpcName#11722.0 (8E83C1A3765BF1FC), #11722.2 (14C4238A5743B125); Companion#202.0 (32C40150292A822E), #202.2 (ABA26B5F5A05EF34); ENpcResident#1017236.0 (2D01BAE12B77C911), #1017236.2 (48FC172AD8F40113), #1017238.0 (7617556D2AC4FDE1), #1017238.2 (A91C4F44A47D16AD)."
+    },
+    {
+      "en": "Redolent Rose",
+      "it": "Rosa Profumata",
+      "protect": false,
+      "note": "Applicazione della regola indicata dall'utente per i nomi Hellsguard composti da parole comuni: Redolent Rose è un Roegadyn Hellsguard e si rende globalmente come Rosa Profumata. Ambito: nome proprio del capogilda tessitore e sue occorrenze in corpus. Riferimento EN/hash: quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_SEQ_01 (E6B4BAEB90CAFC2D); ENpcResident#1003818.0 (BCD31846CF95374E)."
+    },
+    {
+      "en": "Rosehouse Wrestler",
+      "it": "Lottatore della Casa della Rosa",
+      "protect": false,
+      "note": "Decisione esplicita dell'utente del 2026-11-22: localizzare il soprannome del Paissa come Lottatore della Casa della Rosa. Ambito: annunciatore e dialoghi del torneo in custom/004/RegOth3Gyoka_00482. Riferimenti EN/hash: A2_000_001 (0B139368E6DF1C93), GYOKA_000_041 (493657FA2E7A8919), _000_042 (AE037FFE844D44F5), _000_060 (2BE451D80BEE12FE), _000_070 (726EA769FC0AAEF5), _000_071 (0D706B0118116E9B)."
+    },
+    {
+      "en": "Ok'Gundu Gladiator",
+      "it": "Gladiatore di Ok'Gundu",
+      "protect": false,
+      "note": "Decisione esplicita dell'utente del 2026-11-22: localizzare il soprannome del Paissa come Gladiatore di Ok'Gundu. Ambito: annunciatore e dialoghi del torneo in custom/004/RegOth3Gyoka_00482. Riferimenti EN/hash: A2_000_002 (EE669DF73E027BD0), GYOKA_000_041 (493657FA2E7A8919), _000_042 (AE037FFE844D44F5), _000_061 (AFB0AA49E606617D), _000_072 (1EA2AAC32975D292), _000_073 (7A8A2986D60C5E1D)."
+    },
+    {
+      "en": "Certificate of Good Cheer",
+      "it": "Certificato di allegria",
+      "forms": [
+        "certificato di allegria MMXVIII",
+        "certificati scaduti di allegria MMXVIII",
+        "Certificato di Allegria MMXVIII",
+        "certificato di allegria",
+        "certificati di allegria",
+        "Certificato di Allegria"
+      ],
+      "protect": false,
+      "note": "Forma editoriale scelta il 2026-11-22 su indicazione dell'utente di adattare secondo AGENTS.md. Ambito: nomi degli oggetti e riferimenti al premio della Celebrazione delle Stelle; non estendere agli usi descrittivi comuni di good cheer. Fonti EN/hash: Item#24284.0/.2/.9 (B43ABD09919124D4, 0180F048CACCB150, 8867B7477A485694); Item#28649.0/.2/.9 (BE0C143B91052512, 7A144EC52EB479D7, F0AF37EBF17B08D4); quest/037/FesXms502_03723#TEXT_FESXMS502_03723_AMHGARANJY_000_002 (9688736D9C5430DE)."
+    },
+    {
+      "en": "Siphon Snout",
+      "it": "Aspirazione",
+      "protect": false,
+      "note": "Decisione esplicita dell'utente del 2026-11-22. Etichetta dell'azione usata dal porxie a Pla Enni; applicare alla scheda Action e ai riferimenti alla stessa azione. Fonte EN/hash: Action#18187 (AF6DCED6F788AF35), #18188 (B3ABA11FA87D36B0); quest/037/BanPix126_03714#TEXT_BANPIX126_03714_TODO_01 (FD7831A7361507AD)."
+    },
+    {
+      "en": "Solicit Siphon Snout",
+      "it": "Richiamo dell'Aspirazione",
+      "protect": false,
+      "note": "Decisione esplicita dell'utente del 2026-11-22. Etichetta del comando d'azione; usare nel messaggio di istruzioni dello stesso incarico. Fonti EN/hash: Action#18813 (F53DAFAD2BC17CE7); LogMessage#9541 (8DFBB5C21B71BF43)."
     }
   ]
 }

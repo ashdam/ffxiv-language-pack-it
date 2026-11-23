@@ -3,13 +3,13 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_SEQ_00", "hash": "CBD9BDF4E27DA93F", "target": "Zukin sta esplorando una nuova opportunità commerciale con i Namazu.<br><br>※La difficoltà di questa missione è stata adattata al tuo livello attuale. Inoltre, per proseguire dovrai usare la stessa classe o lo stesso job con cui hai accettato la missione." },
-    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_TODO_00", "hash": "C56E4B35DD3A1CC5", "target": "Sconfiggi uno spry gyuki e raccogli un taglio di carne di gyuki" },
+    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_TODO_00", "hash": "C56E4B35DD3A1CC5", "target": "Sconfiggi un gyuki agile e raccogli un taglio di carne di gyuki" },
     { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_TODO_01", "hash": "323EB50778AC90E7", "target": "Riferisci a Zukin" },
     { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_ZUKIN_000_000", "hash": "FC26508EECB2189F", "target": "Commerciando con i Namazu abbiamo scoperto che uno dei loro cibi preferiti è la carne del temibile gyuki." },
-    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_ZUKIN_000_001", "hash": "A2846C97A4EADC78", "target": "Tuttavia, i Namazu faticano a procurarsela da soli. Saranno anche astuti negli affari, ma non sono abili cacciatori. Posso ricorrere ancora una volta ai tuoi servizi?" },
+    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_ZUKIN_000_001", "hash": "A2846C97A4EADC78", "target": "Faticano però a procurarsela da soli. Negli affari sono scaltri, ma la caccia è un'altra storia. Posso contare di nuovo sul tuo aiuto?" },
     { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_ZUKIN_000_020", "hash": "DB446C4D5436F01D", "target": "Allora, la caccia è andata bene?" },
-    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_ZUKIN_000_021", "hash": "E12627F7B9C281AB", "target": "Kami, abbiate pietà! Se dimensioni e puzza sono i criteri con cui i Namazu giudicano la carne, direi che saranno più che soddisfatti." },
-    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_ZUKIN_000_022", "hash": "4FF2BE60E96B2A24", "target": "Uomini e Kojin tendono a trovare ripugnante un cibo tanto puzzolente e fibroso, ma i Namazu non hanno simili avversioni." },
-    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_ZUKIN_000_023", "hash": "4401E9C6501F05D9", "target": "Il commercio di questa carne altrimenti priva di valore rafforzerà i legami con i Namazu e ci fornirà il capitale necessario. Forse potremo affidarci di nuovo alla tua abilità nell'abbattere gyuki?" }
+    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_ZUKIN_000_021", "hash": "E12627F7B9C281AB", "target": "Kami, abbiate pietà! Se ai Namazu piacciono i pezzi grossi e puzzolenti, con questo saranno più che soddisfatti." },
+    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_ZUKIN_000_022", "hash": "4FF2BE60E96B2A24", "target": "Una carne tanto puzzolente e piena di nervi farebbe storcere il naso a qualunque uomo o Kojin. Ai Namazu, invece, non dà fastidio." },
+    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_ZUKIN_000_023", "hash": "4401E9C6501F05D9", "target": "Vendere questa carne, che altrimenti butteremmo, ci aiuterà a stringere i rapporti con i Namazu e a mettere insieme il denaro che ci serve. Potremo contare ancora sulla tua abilità nella caccia ai gyuki?" }
   ]
 }

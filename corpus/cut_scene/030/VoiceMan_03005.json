@@ -22,7 +22,7 @@
     { "gameKey": "cut_scene/030/VoiceMan_03005#TEXT_VOICEMAN_03005_300020_ALPHINAUD", "hash": "3E1BF092030F421A", "target": "Truppe Imperiali! Hanno già preso il controllo della zona." },
     { "gameKey": "cut_scene/030/VoiceMan_03005#TEXT_VOICEMAN_03005_300030_REGULA", "hash": "2A4FC51C2D349C6F", "target": "Mostratevi subito!" },
     { "gameKey": "cut_scene/030/VoiceMan_03005#TEXT_VOICEMAN_03005_300040_REGULA", "hash": "819EE34073BCD08B", "target": "E io che mi aspettavo altri uomini bestia. Chi siete!?" },
-    { "gameKey": "cut_scene/030/VoiceMan_03005#TEXT_VOICEMAN_03005_300050_VARIS", "hash": "205F392E688A7A00", "target": "Credevo che gli Ishgardiani fossero responsabili della scomparsa dei nostri esploratori, ma ora vedo che mi sbagliavo." },
+    { "gameKey": "cut_scene/030/VoiceMan_03005#TEXT_VOICEMAN_03005_300050_VARIS", "hash": "205F392E688A7A00", "target": "Credevo che gli ishgardiani fossero responsabili della scomparsa dei nostri esploratori, ma ora vedo che mi sbagliavo." },
     { "gameKey": "cut_scene/030/VoiceMan_03005#TEXT_VOICEMAN_03005_300060_VARIS", "hash": "30F07958B2035902", "target": "Proprio come osservava Roaille. <if(gnum4,La Guerriera,Il Guerriero)> della Luce compare sempre nei momenti più inopportuni." },
     { "gameKey": "cut_scene/030/VoiceMan_03005#TEXT_VOICEMAN_03005_300070_REGULA", "hash": "2D76AFAE647BAAAE", "target": "<if(gnum4,La Guerriera,Il Guerriero)> della Luce? <if(gnum4,Colei,Colui)> che ha sconfitto van Baelsar!?" },
     { "gameKey": "cut_scene/030/VoiceMan_03005#TEXT_VOICEMAN_03005_300080_VARIS", "hash": "2F7B96EA778A263E", "target": "Sembra che anche <if(gnum4,la famosa eroina,il famoso eroe)> di Eorzea cerchi Azys Lla." },

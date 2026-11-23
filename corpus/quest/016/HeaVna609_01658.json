@@ -2,9 +2,9 @@
   "conversation": "quest/016/HeaVna609_01658",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/016/HeaVna609_01658#TEXT_HEAVNA609_01658_SEQ_00", "hash": "88C4F8F7F0440C80", "target": "Un riconoscente Slowfix è pronto a esaudire il tuo desiderio." },
+    { "gameKey": "quest/016/HeaVna609_01658#TEXT_HEAVNA609_01658_SEQ_00", "hash": "88C4F8F7F0440C80", "target": "Slowfix ti è grato ed è pronto a esaudire il tuo desiderio." },
     { "gameKey": "quest/016/HeaVna609_01658#TEXT_HEAVNA609_01658_SEQ_01", "hash": "057EE2AE33A08AA7", "target": "Con una semplice cerimonia, Slowfix nomina te e i tuoi compagni cittadini onorari di Borgopace, concedendovi così il diritto di attraversare il Fiume Thaliak. Parla con la guardia goblin quando vuoi riprendere il viaggio." },
-    { "gameKey": "quest/016/HeaVna609_01658#TEXT_HEAVNA609_01658_SEQ_02", "hash": "E6B6437DF311CA0B", "target": "La guardia goblin ha sgombrato il passaggio dalle macerie. Parla con Y'shtola per conoscere la prossima destinazione." },
+    { "gameKey": "quest/016/HeaVna609_01658#TEXT_HEAVNA609_01658_SEQ_02", "hash": "E6B6437DF311CA0B", "target": "La guardia goblin ha rimosso le macerie che bloccavano il passaggio. Parla con Y'shtola per sapere dove andare." },
     { "gameKey": "quest/016/HeaVna609_01658#TEXT_HEAVNA609_01658_SEQ_03", "hash": "CBA294867AD79118", "target": "Secondo Y'shtola, la Caverna di Matoya è ormai a breve distanza. La fine del viaggio è in vista." },
     { "gameKey": "quest/016/HeaVna609_01658#TEXT_HEAVNA609_01658_TODO_00", "hash": "88E7AFEABD2DC80F", "target": "Parla con la guardia goblin" },
     { "gameKey": "quest/016/HeaVna609_01658#TEXT_HEAVNA609_01658_TODO_01", "hash": "67D2AF1A3AEBFAF7", "target": "Parla con Y'shtola" },
@@ -22,7 +22,7 @@
     { "gameKey": "quest/016/HeaVna609_01658#TEXT_HEAVNA609_01658_GOBLINGUARD01658_000_010", "hash": "9C350783F52262F6", "target": "Pshhh... Shkohhh...<br>Per ordine del Capo Slowfix, i Nongobbi possono entrare e uscire a loro piacimento." },
     { "gameKey": "quest/016/HeaVna609_01658#TEXT_HEAVNA609_01658_GOBLINGUARD01658_100_010", "hash": "A79BCF6731FB4724", "target": "Un momento per togliere barricata." },
     { "gameKey": "quest/016/HeaVna609_01658#TEXT_HEAVNA609_01658_YSHTOLA_000_020", "hash": "508DAF0A5CEA30F3", "target": "Finalmente possiamo riprendere il viaggio." },
-    { "gameKey": "quest/016/HeaVna609_01658#TEXT_HEAVNA609_01658_YSHTOLA_000_021", "hash": "E5459FF1498D724A", "target": "Ehm. Salvo imprevisti, raggiungeremo presto la caverna in cui vive Matoya. A meno che tu non abbia ancora qualcosa da fare a Borgopace, mettiamoci subito in cammino." },
+    { "gameKey": "quest/016/HeaVna609_01658#TEXT_HEAVNA609_01658_YSHTOLA_000_021", "hash": "E5459FF1498D724A", "target": "Ehm. Salvo imprevisti, raggiungeremo presto la caverna in cui vive Matoya. Se hai finito qui a Borgopace, mettiamoci subito in cammino." },
     { "gameKey": "quest/016/HeaVna609_01658#TEXT_HEAVNA609_01658_YSHTOLA_000_023", "hash": "C5D9BE2E1E65ECE8", "target": "Più avanti si trova il Quartiere Accademico, dove gli studiosi di Sharlayan si riunivano per perfezionare le proprie conoscenze." },
     { "gameKey": "quest/016/HeaVna609_01658#TEXT_HEAVNA609_01658_YSHTOLA_000_024", "hash": "BF1C00F11A5B049A", "target": "Anche da qui si vede che la natura se n'è ripresa buona parte." },
     { "gameKey": "quest/016/HeaVna609_01658#TEXT_HEAVNA609_01658_ALPHINAUD_000_022", "hash": "64FBBC573850EF06", "target": "Sono pronto a partire quando vuoi. Andiamo a conoscere la leggendaria Matoya." }

@@ -2,18 +2,18 @@
   "conversation": "quest/027/StmBdz402_02725",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_SEQ_00", "hash": "9C40954AF00FFCF2", "target": "Hojo cerca qualcuno di robusto che lo aiuti a sollevare dei pesi." },
-    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_TODO_00", "hash": "D452D6990794F169", "target": "Raccogli le pile di pietre" },
-    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_TODO_01", "hash": "2202427493BD7C6D", "target": "Colloca le pile di pietre nelle zone indicate" },
+    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_SEQ_00", "hash": "9C40954AF00FFCF2", "target": "Hojo cerca qualcuno di robusto che lo aiuti a spostare dei pesi." },
+    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_TODO_00", "hash": "D452D6990794F169", "target": "Raccogli i mucchi di pietre" },
+    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_TODO_01", "hash": "2202427493BD7C6D", "target": "Deposita i mucchi di pietre nei luoghi indicati" },
     { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_TODO_02", "hash": "3FFC475864C0D0F1", "target": "Fai rapporto a Hojo" },
-    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_000", "hash": "EB423E86B6109C01", "target": "Ci sono così tante cose frivole al mondo. Tutti ci ossessioniamo con gingilli senza senso e nessuno si ferma a considerare cose importanti come le risaie a terrazze." },
-    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_001", "hash": "680F6020709A15AB", "target": "Le pietre che sostengono ogni campo hanno bisogno di riparazioni costanti, eppure a nessuno sembra importare. È un lavoro duro per un uomo solo." },
-    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_002", "hash": "A98745781F45305C", "target": "Dal tuo aspetto direi che sei capace di sollevare una pietra o due. Ti dispiacerebbe prestarmi la tua forza?" },
-    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_003", "hash": "AFA5ED2708524B88", "target": "Mi occuperò io delle riparazioni vere e proprie. Ho solo bisogno che tu sposti le pile di pietre a sud più vicino alle risaie." },
-    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_010", "hash": "6239DF1BCA13F45A", "target": "Ti prego di spostare le pile di pietre a sud più vicino alle risaie." },
+    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_000", "hash": "EB423E86B6109C01", "target": "Il mondo è pieno di sciocchezze. Tutti vanno matti per gingilli che non servono a niente, e nessuno si dà pena per le cose che contano, come le risaie a terrazze." },
+    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_001", "hash": "680F6020709A15AB", "target": "I muretti che reggono le risaie vanno sistemati di continuo, eppure a nessuno pare importare. Da solo faccio una fatica tremenda." },
+    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_002", "hash": "A98745781F45305C", "target": "A vederti, scommetto che un paio di pietre le alzi senza problemi. Ti andrebbe di darmi una mano?" },
+    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_003", "hash": "AFA5ED2708524B88", "target": "A sistemare i muretti ci penso io. Tu devi soltanto spostare qualche mucchio di pietre più a sud, vicino alle risaie." },
+    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_010", "hash": "6239DF1BCA13F45A", "target": "Sposta i mucchi di pietre più a sud, vicino alle risaie, per favore." },
     { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_020", "hash": "4FE78B994A802837", "target": "Grazie mille." },
-    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_021", "hash": "27D82D8C4889113E", "target": "Ora comincia il lavoro duro. Non basta impilare pietre a caso: bisogna usare una tecnica speciale." },
-    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_022", "hash": "16013A691BCB3B33", "target": "Stavo addestrando un apprendista, ma quel maledetto esercito imperiale l'ha arruolato a forza. Non passa giorno senza che io desideri il suo ritorno." },
-    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_023", "hash": "32E552DAEEF37F8F", "target": "Ah, ma eccomi di nuovo a raccontare tutta la mia vita a <if(gnum4,una perfetta sconosciuta,un perfetto sconosciuto)>! Ecco la tua ricompensa." }
+    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_021", "hash": "27D82D8C4889113E", "target": "Adesso viene il difficile. Non basta ammucchiare le pietre alla rinfusa, ci vuole una tecnica precisa." },
+    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_022", "hash": "16013A691BCB3B33", "target": "Stavo formando un apprendista, ma quel maledetto esercito imperiale lo ha arruolato a forza. Non passa giorno senza che io speri di vederlo tornare." },
+    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_023", "hash": "32E552DAEEF37F8F", "target": "Ah, ecco che mi metto di nuovo a raccontare la mia vita a chi nemmeno mi conosce! Tieni, questa è la tua ricompensa." }
   ]
 }

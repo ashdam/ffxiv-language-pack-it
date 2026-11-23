@@ -2,18 +2,18 @@
   "conversation": "quest/026/StmBdz203_02675",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_SEQ_00", "hash": "F1B2F97C6BB7BF14", "target": "Hiun si guarda intorno con entusiasmo." },
-    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_TODO_00", "hash": "D49B121A7100AC60", "target": "Ottieni il Liquid Hot Magma a Tappinferno" },
-    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_TODO_01", "hash": "640F335285FCD656", "target": "Consegna il Liquid Hot Magma a Hiun" },
-    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_000", "hash": "D3612436174F2098", "target": "Maledizione! Hai visto!? Il diavolo si schiarisce di nuovo la gola! Ah, sembra che tu non conosca l'espressione. È ciò che diciamo da queste parti quando Tappinferno erutta." },
-    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_001", "hash": "83A8919E55131A28", "target": "Bene, meglio muoversi. Abbiamo pochissimo tempo! Dobbiamo raccogliere il magma bollente prima che cominci a raffreddarsi!" },
-    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_002", "hash": "CDF794CBE3C75D75", "target": "Prima di partire, però, lasciami avvertirti: se non sopporti un po' di caldo o non riesci ad abbattere qualche bestia, ti consiglio di restare qui. Pochi tornano vivi da queste escursioni faticose." },
-    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_003", "hash": "E529DE9F1707C444", "target": "Posso interpretare il tuo silenzio come un sì? Bene. Ecco, prendi questo recipiente. Riempilo con tutto il magma che puoi e riportamelo. Si scalda molto in fretta, quindi fa' attenzione a non scottarti!" },
-    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_004", "hash": "AC5B14FC57223041", "target": "Metti nel recipiente tutto il magma che puoi e riportamelo. Si scalda molto in fretta, quindi fa' attenzione a non scottarti!" },
-    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_010", "hash": "5AF2E3131DAF3657", "target": "Sei di ritorno, senza un graffio né una bruciatura. Impressionante. Ora vediamo quanto magma sei <if(gnum4,riuscita,riuscito)> a portare." },
-    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_011", "hash": "D3A8E60607691D56", "target": "Oh! Il tuo recipiente è quasi pieno! Ottimo lavoro! Ne hai raccolto quasi quanto me, e io sono un veterano." },
-    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_012", "hash": "140A98868326AB01", "target": "Mh? Vuoi sapere per cosa lo userò? Una domanda più che giustificata." },
-    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_013", "hash": "F7EC60D3BCFE360B", "target": "Secondo un'antica leggenda, una spada forgiata con lava fusa può uccidere sia uomini sia demoni. Per questo la usiamo per le nostre lame. A noi pirati piace prepararci a ogni eventualità. In mare non sai mai cosa potresti incontrare." },
-    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_015", "hash": "3EF3D5D867082E6E", "target": "Grazie per il tuo aiuto. Mi hai risparmiato un viaggio di andata e ritorno in quel luogo infernale. Prendi questa ricompensa." }
+    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_SEQ_00", "hash": "F1B2F97C6BB7BF14", "target": "Hiun si guarda intorno tutto eccitato." },
+    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_TODO_00", "hash": "D49B121A7100AC60", "target": "Raccogli il magma liquido bollente a Tappinferno" },
+    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_TODO_01", "hash": "640F335285FCD656", "target": "Consegna il magma liquido bollente a Hiun" },
+    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_000", "hash": "D3612436174F2098", "target": "Accidenti! Hai visto!? Il diavolo si schiarisce la gola un'altra volta! Ah, non conosci il detto? Da queste parti diciamo così quando Tappinferno erutta." },
+    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_001", "hash": "83A8919E55131A28", "target": "Be', sarà meglio muoversi. Abbiamo pochissimo tempo! Il magma va raccolto prima che si raffreddi!" },
+    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_002", "hash": "CDF794CBE3C75D75", "target": "Prima di andare, però, ti avverto. Se il caldo e qualche bestiaccia ti fanno paura, resta qui. In pochi tornano vivi da queste scampagnate." },
+    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_003", "hash": "E529DE9F1707C444", "target": "Dal tuo silenzio deduco che vieni con me, eh? Bene. Prendi questo vaso. Riempilo con tutto il magma che riesci a raccogliere e riportamelo. Si scalda in un attimo: bada di non scottarti!" },
+    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_004", "hash": "AC5B14FC57223041", "target": "Metti nel vaso tutto il magma che riesci a raccogliere e riportamelo. Si scalda in un attimo, perciò fa' attenzione a non scottarti!" },
+    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_010", "hash": "5AF2E3131DAF3657", "target": "Eccoti di ritorno, senza un graffio né una scottatura. Niente male! Vediamo quanto magma hai raccolto." },
+    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_011", "hash": "D3A8E60607691D56", "target": "Oh oh! Hai quasi riempito il vaso! Bel lavoro! Ne hai preso quasi quanto me, e io ci ho fatto il callo." },
+    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_012", "hash": "140A98868326AB01", "target": "Mh? Vuoi sapere che cosa ne farò? Una domanda più che lecita." },
+    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_013", "hash": "F7EC60D3BCFE360B", "target": "Un'antica leggenda dice che una spada forgiata con la lava fusa può uccidere uomini e demoni. Per questo ci forgiamo le nostre lame. A noi pirati piace andare sul sicuro. In mare non sai mai cosa ti può capitare." },
+    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_015", "hash": "3EF3D5D867082E6E", "target": "Grazie della mano. Mi hai risparmiato un altro viaggio in quel posto infernale. Tieni, questa è la tua ricompensa." }
   ]
 }

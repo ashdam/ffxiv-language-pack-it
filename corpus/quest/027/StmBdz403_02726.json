@@ -5,14 +5,14 @@
     { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SEQ_00", "hash": "0233F117C6028195", "target": "Sentei ha bisogno d'aiuto per catturare un predatore." },
     { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_TODO_00", "hash": "84BCB4EA7B2F698C", "target": "Colloca le tagliole di ferro nei luoghi indicati" },
     { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_TODO_01", "hash": "8EC965858BC005B8", "target": "Fai rapporto a Sentei" },
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_000", "hash": "DC21CB44757C1A1B", "target": "Tu, <if(gnum4,viaggiatrice,viaggiatore)>! Se hai tempo, ti sarei grato del tuo aiuto." },
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_001", "hash": "F4478136A2C37644", "target": "L'altro giorno frugavo in giro e ho trovato queste tagliole di ferro." },
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_002", "hash": "53A016537A8A663D", "target": "Mi piacerebbe usarle per andare a caccia, ma so che aggraverei solo una mia vecchia ferita. Ti dispiacerebbe sistemarle al posto mio?" },
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_003", "hash": "2E65A26860FA5F64", "target": "Ho segnato su questa mappa i luoghi in cui voglio collocarle. Bada a non intrappolare per sbaglio la tua stessa gamba mentre le prepari!" },
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_004", "hash": "7B3BCDF759EED996", "target": "Su quella mappa troverai i luoghi in cui voglio collocare le trappole. Bada a non intrappolare per sbaglio la tua stessa gamba mentre le prepari!" },
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_010", "hash": "91C313BABBF7AA62", "target": "Hai finito, immagino? Ti ringrazio." },
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_011", "hash": "637425F872ECF28E", "target": "Un tempo ero piuttosto abile con l'ascia. Potevo cacciare ogni genere di bestia selvatica senza affidarmi a sciocche trappole. Ho perfino fatto la mia parte nel resistere all'Impero quando ci ha invasi." },
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_012", "hash": "7056FCD05AFFD128", "target": "Ma un colpo alla gamba mise fine a tutto. Ogni tanto il dolore si riacutizza e rimango paralizzato finché non si attenua. Non preoccuparti, controllerò le trappole appena potrò." },
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_013", "hash": "F82ADF295279A808", "target": "Ecco, prendi questo per avermi aiutato." }
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_000", "hash": "DC21CB44757C1A1B", "target": "Ehi, tu! Se hai un po' di tempo, avrei bisogno di una mano." },
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_001", "hash": "F4478136A2C37644", "target": "L'altro giorno stavo frugando qua e là e ho trovato queste tagliole di ferro." },
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_002", "hash": "53A016537A8A663D", "target": "Mi piacerebbe usarle per andare a caccia, ma finirei solo per peggiorare una vecchia ferita. Ti va di sistemarle al posto mio?" },
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_003", "hash": "2E65A26860FA5F64", "target": "Su questa mappa ho segnato i punti in cui metterle. Occhio a non fartele scattare sulla gamba mentre le piazzi!" },
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_004", "hash": "7B3BCDF759EED996", "target": "Sulla mappa trovi tutti i punti in cui piazzare le tagliole. Occhio a non finirci dentro tu!" },
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_010", "hash": "91C313BABBF7AA62", "target": "Hai finito, a quanto pare. Ti ringrazio." },
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_011", "hash": "637425F872ECF28E", "target": "Un tempo me la cavavo con l'ascia. Cacciavo ogni sorta di bestie senza bisogno di queste trappole da niente. Ho anche fatto la mia parte contro l'Impero quando ci ha invasi." },
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_012", "hash": "7056FCD05AFFD128", "target": "Poi un colpo alla gamba ha messo fine a tutto. Ogni tanto il dolore torna e non riesco a muovermi finché non passa. Ma non preoccuparti. Controllerò le tagliole appena potrò." },
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_013", "hash": "F82ADF295279A808", "target": "Tieni, per la mano che mi hai dato." }
   ]
 }

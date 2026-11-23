@@ -2,16 +2,16 @@
   "conversation": "quest/026/StmBdz303_02699",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_SEQ_00", "hash": "A1BD3F1C7E8AA55C", "target": "Mine annusa l'aria, con un sorriso delicato sul viso." },
-    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_TODO_00", "hash": "2D3AF8E95B33A67E", "target": "Ottieni i nuclei degli spiritelli d'acqua dagli Apa" },
-    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_TODO_01", "hash": "A3CD41F246EE333D", "target": "Consegna i nuclei degli spiritelli d'acqua a Mine" },
-    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_000", "hash": "D4CC833214F7A41F", "target": "\\<sniff> \\<sniff> Quel profumo... L'odore del sole e del cielo indugia su di te. È davvero un aroma meraviglioso." },
-    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_001", "hash": "530ADBCFCDB34BA8", "target": "Posso chiederti un favore? C'è qualcosa che mi serve dalla superficie. Naturalmente, ti ricompenserò per il disturbo." },
-    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_002", "hash": "02BCA550EA6CFF55", "target": "Vorrei che mi portassi tre nuclei degli spiritelli d'acqua, che puoi ottenere dagli Apa a Tappinferno. Possono sembrare fragili, ma non lasciarti ingannare. Non sono affatto facili da sconfiggere." },
-    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_003", "hash": "77B784E853343AD5", "target": "Ti prego, portami tre nuclei degli spiritelli d'acqua dagli Apa a Tappinferno. Preparati, sarà dura abbatterli." },
-    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_010", "hash": "DC94E455B13CFFB0", "target": "Ah, <if(gnum4,sei tornata,sei tornato)>. Sei <if(gnum4,riuscita,riuscito)> a ottenere ciò che ti avevo chiesto?" },
-    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_011", "hash": "F55649E66362505C", "target": "Fantastico! Ora non dovremo preoccuparci dell'acqua potabile per un bel po'. Sebbene viviamo qui da generazioni, non possiamo ancora bere l'acqua di mare. Questi ci permetteranno di rimuovere il sale e trasformarla in acqua dolce." },
-    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_012", "hash": "657C3B98B04C7212", "target": "Di solito mandiamo gli uomini più forti del villaggio a procurarci i nuclei degli spiritelli d'acqua, ma ultimamente i Kojin Rossi sono diventati sospettosamente territoriali. Questo ha reso molto difficile avvicinarsi a Tappinferno." },
-    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_013", "hash": "A3C29E975BC1359A", "target": "Grazie di cuore per il tuo aiuto. Non potremmo sopravvivere senza i nuclei che ci hai portato. Come promesso, ecco la tua ricompensa." }
+    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_SEQ_00", "hash": "A1BD3F1C7E8AA55C", "target": "Mine annusa l'aria con un lieve sorriso." },
+    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_TODO_00", "hash": "2D3AF8E95B33A67E", "target": "Procurati dei nuclei di spiritello dell'acqua dagli apa" },
+    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_TODO_01", "hash": "A3CD41F246EE333D", "target": "Consegna i nuclei di spiritello dell'acqua a Mine" },
+    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_000", "hash": "D4CC833214F7A41F", "target": "\\<sniff> \\<sniff> Quel profumo... Hai ancora addosso l'odore del sole e del cielo. Che meraviglia." },
+    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_001", "hash": "530ADBCFCDB34BA8", "target": "Posso chiederti un favore? Mi serve qualcosa dalla superficie. Naturalmente, ti ricompenserò per il disturbo." },
+    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_002", "hash": "02BCA550EA6CFF55", "target": "Mi servirebbero tre nuclei di spiritello dell'acqua. Puoi prenderli dagli apa di Tappinferno. Sembrano fragili, ma non farti ingannare. Sono duri da abbattere." },
+    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_003", "hash": "77B784E853343AD5", "target": "Portami tre nuclei di spiritello dell'acqua dagli apa di Tappinferno, ti prego. Preparati, daranno filo da torcere." },
+    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_010", "hash": "DC94E455B13CFFB0", "target": "Ah, eccoti. Hai trovato quello che ti avevo chiesto?" },
+    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_011", "hash": "F55649E66362505C", "target": "Splendido! Con questi avremo acqua da bere per un bel po'. Viviamo qui da generazioni e ancora non possiamo bere l'acqua di mare. Grazie a questi nuclei possiamo toglierle il sale e farla diventare dolce." },
+    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_012", "hash": "657C3B98B04C7212", "target": "Di solito mandiamo i nostri uomini più forti a cercare i nuclei, ma da un po' i Kojin Rossi difendono il loro territorio con uno zelo sospetto. Avvicinarsi a Tappinferno è diventato difficilissimo." },
+    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_013", "hash": "A3C29E975BC1359A", "target": "Grazie di cuore. Senza quei nuclei non potremmo vivere qui. Ecco la ricompensa che ti avevo promesso." }
   ]
 }

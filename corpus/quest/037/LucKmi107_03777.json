@@ -13,8 +13,8 @@
     { "gameKey": "quest/037/LucKmi107_03777#TEXT_LUCKMI107_03777_SEQ_08", "hash": "245794D1878E195F", "target": "All'Esedra, l'Esarca osserva con soddisfazione che la barriera eretta da lui e Beq Lugg sulla torre regge ancora. Dentro attende il nemico, reso potente dalle speranze degli innumerevoli eroi evocati da altri riflessi. A un tuo cenno, l'Esarca dissolverà la barriera e aprirà la via alla resa dei conti con Elidibus. Assicurati che sia tutto pronto." },
     { "gameKey": "quest/037/LucKmi107_03777#TEXT_LUCKMI107_03777_TODO_00", "hash": "7383FCEC88AAEB11", "target": "Parla con Y'shtola a Eulmore" },
     { "gameKey": "quest/037/LucKmi107_03777#TEXT_LUCKMI107_03777_TODO_01", "hash": "028291A01D83AFA3", "target": "Parla con Chai-Nuzz" },
-    { "gameKey": "quest/037/LucKmi107_03777#TEXT_LUCKMI107_03777_TODO_02", "hash": "8772E42EA496A22F", "target": "Entra nell'Prova degli Eroi" },
-    { "gameKey": "quest/037/LucKmi107_03777#TEXT_LUCKMI107_03777_TODO_03", "hash": "656235AECD07E9E7", "target": "Entra nell'Prova degli Eroi" },
+    { "gameKey": "quest/037/LucKmi107_03777#TEXT_LUCKMI107_03777_TODO_02", "hash": "8772E42EA496A22F", "target": "Entra nella Prova degli Eroi" },
+    { "gameKey": "quest/037/LucKmi107_03777#TEXT_LUCKMI107_03777_TODO_03", "hash": "656235AECD07E9E7", "target": "Entra nella Prova degli Eroi" },
     { "gameKey": "quest/037/LucKmi107_03777#TEXT_LUCKMI107_03777_TODO_04", "hash": "7F1F255E93C7B492", "target": "Parla con l'Esarca di Cristallo" },
     { "gameKey": "quest/037/LucKmi107_03777#TEXT_LUCKMI107_03777_TODO_05", "hash": "7898A5C185512B23", "target": "Parla con la guardia nervosa" },
     { "gameKey": "quest/037/LucKmi107_03777#TEXT_LUCKMI107_03777_TODO_06", "hash": "366204EE944BBF99", "target": "Parla con l'Esarca di Cristallo" },
@@ -33,7 +33,7 @@
     { "gameKey": "quest/037/LucKmi107_03777#TEXT_LUCKMI107_03777_YSHTOLA_000_060", "hash": "55CF19CE4F8A12E9", "target": "Sarà la prima volta che incontro il signor Chai nella sua veste di sindaco. L'uomo dietro di lui dev'essere il suo consigliere─Wrenden." },
     { "gameKey": "quest/037/LucKmi107_03777#TEXT_LUCKMI107_03777_Q1_000_070", "hash": "7BC4F6AF226CF9BC", "target": "Cosa vuoi fare?" },
     { "gameKey": "quest/037/LucKmi107_03777#TEXT_LUCKMI107_03777_A1_000_071", "hash": "CCB58F07CCF5FF9A", "target": "Fare due chiacchiere." },
-    { "gameKey": "quest/037/LucKmi107_03777#TEXT_LUCKMI107_03777_A1_000_072", "hash": "5FBC099644576D52", "target": "Formare un gruppo ed entrare nell'Prova degli Eroi" },
+    { "gameKey": "quest/037/LucKmi107_03777#TEXT_LUCKMI107_03777_A1_000_072", "hash": "5FBC099644576D52", "target": "Formare un gruppo ed entrare nella Prova degli Eroi" },
     { "gameKey": "quest/037/LucKmi107_03777#TEXT_LUCKMI107_03777_A1_000_073", "hash": "0A3F35BC9F6AC6CC", "target": "Niente." },
     { "gameKey": "quest/037/LucKmi107_03777#TEXT_LUCKMI107_03777_ALPHINAUD_000_075", "hash": "DEDAF7823E06AC80", "target": "Dovremmo prima dirigerci verso il margine occidentale di Amh Araeng, poi piegare verso il Crystarium." },
     { "gameKey": "quest/037/LucKmi107_03777#TEXT_LUCKMI107_03777_ALPHINAUD_000_076", "hash": "FD1D24508DC883D1", "target": "Questa rotta ci consentirà di atterrare e affrontare il nemico, se necessario. Dato che può comparire dal nulla, dobbiamo essere pronti a tutto." },
@@ -100,6 +100,6 @@
     { "gameKey": "quest/037/LucKmi107_03777#TEXT_LUCKMI107_03777_MYSTERYVOICE_000_200", "hash": "D39B9A370AD4A47D", "target": "La barriera regge. Eccellente. Elidibus sarà ancora nella torre." },
     { "gameKey": "quest/037/LucKmi107_03777#TEXT_LUCKMI107_03777_MYSTERYVOICE_000_201", "hash": "E59E19433262A42E", "target": "L'unico scopo del nemico è distruggerti, e a tal fine ha evocato eroi da altri riflessi, rafforzandosi con la loro speranza mentre tengono impegnati i tuoi compagni. Non lo sconfiggerai facilmente come nelle profondità. Sotto ogni aspetto, ora le probabilità sono nettamente a suo favore." },
     { "gameKey": "quest/037/LucKmi107_03777#TEXT_LUCKMI107_03777_MYSTERYVOICE_000_202", "hash": "FDBBCA388283A3EC", "target": "Quindi non trascurare alcun preparativo, <if(gnum4,amica mia,amico mio)>. Dissolverò la barriera solo quando avrai finito." },
-    { "gameKey": "quest/037/LucKmi107_03777#TEXT_LUCKMI107_03777_SYSTEM_000_203", "hash": "97521C584E8C8EEA", "target": "Ora puoi entrare nella Prova degli Eroi con un gruppo di PNG avatar. Per usare questa funzione, apri l'interfaccia <colortype(500)><edgecolortype(501)>Alleati<edgecolortype(0)><colortype(0)> sotto <colortype(500)><edgecolortype(501)>Incarichi<edgecolortype(0)><colortype(0)> nel menu principale." }
+    { "gameKey": "quest/037/LucKmi107_03777#TEXT_LUCKMI107_03777_SYSTEM_000_203", "hash": "97521C584E8C8EEA", "target": "Ora puoi entrare nella Prova degli Eroi con un gruppo di avatar PNG. Per usare questa funzione, apri l'interfaccia degli <colortype(500)><edgecolortype(501)>Alleati<edgecolortype(0)><colortype(0)> sotto <colortype(500)><edgecolortype(501)>Incarichi<edgecolortype(0)><colortype(0)> nel menu principale." }
   ]
 }

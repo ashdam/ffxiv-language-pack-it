@@ -3,17 +3,17 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_SEQ_00", "hash": "447F9939C65432F2", "target": "Ranulf vuole aiutare il Barbiere." },
-    { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_TODO_00", "hash": "65235719BE19DC10", "target": "Spargi la fine powder nel punto indicato e ottieni una bottiglia di antlion secretion dall'antlion ambusher" },
-    { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_TODO_01", "hash": "7F7F9C3CC2C926E7", "target": "Consegna la bottiglia di antlion secretion a Ranulf" },
+    { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_TODO_00", "hash": "65235719BE19DC10", "target": "Spargi la polvere fine nel punto indicato e ottieni una bottiglia di secrezione di formicaleone dal formicaleone in agguato" },
+    { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_TODO_01", "hash": "7F7F9C3CC2C926E7", "target": "Consegna la bottiglia di secrezione di formicaleone a Ranulf" },
     { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_RANULF_000_000", "hash": "CABDBD0CD16DDAB2", "target": "Pensi di potermi dare una mano?" },
-    { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_RANULF_000_001", "hash": "18995A1A642DEA24", "target": "Sto cercando di raccogliere scorte per il Barbiere. Sono riuscito a trovare coperte e bende, ma non a procurarmi del disinfettante. È qui che mi serve il tuo aiuto: voglio che mi porti una bottiglia di antlion secretion." },
-    { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_RANULF_000_002", "hash": "E739001C1FD5390D", "target": "Raccoglierò io gli altri ingredienti necessari. Mi serve soltanto che tu abbatta un antlion." },
-    { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_RANULF_000_003", "hash": "31B27F888B7CC0F5", "target": "Solo gli antlion che vivono sotto terra secernono il liquido che mi serve. Usa questo per farli salire in superficie." },
-    { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_RANULF_000_004", "hash": "C8845345A5543E52", "target": "È una polvere fatta di formiche triturate, il loro cibo preferito. Spargila ovunque sia noto che vivano e te ne troverai uno davanti in men che non si dica." },
-    { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_RANULF_000_005", "hash": "E218AD01A458E01F", "target": "Va' a Virdjala, nei Margini. Non avrai difficoltà a trovare un antlion laggiù." },
-    { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_RANULF_000_006", "hash": "E3AC0BA46DAC8BD2", "target": "Spargi quella polvere a Virdjala e abbatti gli antlion che emergono. Non dimenticare di raccogliere il liquido che secernono!" },
+    { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_RANULF_000_001", "hash": "18995A1A642DEA24", "target": "Sto facendo scorta per il Barbiere. Ho trovato coperte e bende, ma niente disinfettante. È qui che mi serve una mano. Mi porteresti una bottiglia di secrezione di formicaleone?" },
+    { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_RANULF_000_002", "hash": "E739001C1FD5390D", "target": "Agli altri ingredienti ci penso io. Tu devi solo abbattere un formicaleone." },
+    { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_RANULF_000_003", "hash": "31B27F888B7CC0F5", "target": "Il liquido che mi serve lo secernono solo i formicaleoni che vivono sottoterra. Usa questo per attirarli in superficie." },
+    { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_RANULF_000_004", "hash": "C8845345A5543E52", "target": "È polvere di formiche, il loro cibo preferito. Spargila dove si annidano e in un attimo te ne trovi uno davanti." },
+    { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_RANULF_000_005", "hash": "E218AD01A458E01F", "target": "Va' a Virdjala, nei Margini. Laggiù non ti sarà difficile trovare un formicaleone." },
+    { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_RANULF_000_006", "hash": "E3AC0BA46DAC8BD2", "target": "Spargi la polvere a Virdjala e abbatti i formicaleoni che vengono fuori. Ricordati di raccogliere il liquido che secernono!" },
     { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_RANULF_000_020", "hash": "FF17EF64FD10E735", "target": "È andato tutto secondo i piani?" },
-    { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_RANULF_000_021", "hash": "65CB49C3E87E55E6", "target": "Proprio ciò che mi serviva. Con questo potrò fare abbastanza disinfettante da durare per un po'." },
+    { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_RANULF_000_021", "hash": "65CB49C3E87E55E6", "target": "Proprio quello che mi ci voleva. Con questo ne faccio abbastanza da far durare la scorta di disinfettante." },
     { "gameKey": "quest/028/StmBdz912_02868#TEXT_STMBDZ912_02868_RANULF_000_022", "hash": "05EB9E61BC7018F5", "target": "Anche la più piccola ferita può essere mortale se si infetta. Non possiamo lasciare che il Barbiere finisca le scorte." }
   ]
 }

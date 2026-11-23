@@ -3,18 +3,18 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/034/LucKzd004_03411#TEXT_LUCKZD004_03411_SEQ_00", "hash": "D11E50A4B81CA5B7", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Ose Sigun cerca aiuto per coltivare funghi." },
-    { "gameKey": "quest/034/LucKzd004_03411#TEXT_LUCKZD004_03411_TODO_00", "hash": "0AA54F0336580559", "target": "Sconfiggi un undine per ottenerne il cuore" },
-    { "gameKey": "quest/034/LucKzd004_03411#TEXT_LUCKZD004_03411_TODO_01", "hash": "40AAF5573B7E1BA5", "target": "Sconfiggi un phooka per ottenerne il sangue" },
-    { "gameKey": "quest/034/LucKzd004_03411#TEXT_LUCKZD004_03411_TODO_02", "hash": "06F0F49FE59802A5", "target": "Sconfiggi un psammead per ottenerne la seta" },
+    { "gameKey": "quest/034/LucKzd004_03411#TEXT_LUCKZD004_03411_TODO_00", "hash": "0AA54F0336580559", "target": "Abbatti un'ondina per ricavarne il cuore" },
+    { "gameKey": "quest/034/LucKzd004_03411#TEXT_LUCKZD004_03411_TODO_01", "hash": "40AAF5573B7E1BA5", "target": "Abbatti un phooka per ricavarne il sangue" },
+    { "gameKey": "quest/034/LucKzd004_03411#TEXT_LUCKZD004_03411_TODO_02", "hash": "06F0F49FE59802A5", "target": "Abbatti uno psammead per ricavarne la seta" },
     { "gameKey": "quest/034/LucKzd004_03411#TEXT_LUCKZD004_03411_TODO_03", "hash": "BCBAB9278246779D", "target": "Consegna gli oggetti a Ose Sigun" },
     { "gameKey": "quest/034/LucKzd004_03411#TEXT_LUCKZD004_03411_OSESIGUN_000_000", "hash": "14A8CABA47C64D75", "target": "Dimmi, mortale: sai cos'è un «pla enni»?" },
-    { "gameKey": "quest/034/LucKzd004_03411#TEXT_LUCKZD004_03411_OSESIGUN_000_001", "hash": "A5B3A5F4379FC751", "target": "È il nome non solo del nostro villaggio, ma anche di un fungo. Una varietà eccezionalmente difficile da coltivare." },
-    { "gameKey": "quest/034/LucKzd004_03411#TEXT_LUCKZD004_03411_OSESIGUN_000_002", "hash": "597E39F487299367", "target": "Per coltivarli servono alcuni oggetti speciali, e ti sarei grato se potessi procurarmeli." },
-    { "gameKey": "quest/034/LucKzd004_03411#TEXT_LUCKZD004_03411_OSESIGUN_000_003", "hash": "A921FDEA14EDF30A", "target": "In particolare, mi servono un undine heart, una bottiglia di phooka blood e un gomitolo di psammead silk. Basti dire che per il disturbo riceverai una ricompensa adeguata." },
-    { "gameKey": "quest/034/LucKzd004_03411#TEXT_LUCKZD004_03411_OSESIGUN_000_004", "hash": "25E8E66534422030", "target": "Un undine heart, una bottiglia di phooka blood e un gomitolo di psammead silk: questi oggetti servono a coltivare i funghi pla enni. Ti prego di procurarmeli." },
-    { "gameKey": "quest/034/LucKzd004_03411#TEXT_LUCKZD004_03411_OSESIGUN_000_010", "hash": "44F35225D2FE4040", "target": "Eccoti. Sei <if(gnum4,riuscita,riuscito)> a ottenere gli oggetti che ho richiesto?" },
+    { "gameKey": "quest/034/LucKzd004_03411#TEXT_LUCKZD004_03411_OSESIGUN_000_001", "hash": "A5B3A5F4379FC751", "target": "È il nome del nostro villaggio, ma anche di un fungo. E ti assicuro che è difficilissimo da coltivare." },
+    { "gameKey": "quest/034/LucKzd004_03411#TEXT_LUCKZD004_03411_OSESIGUN_000_002", "hash": "597E39F487299367", "target": "Per farlo crescere servono certe cose particolari. Ti sarei davvero riconoscente se me le procurassi." },
+    { "gameKey": "quest/034/LucKzd004_03411#TEXT_LUCKZD004_03411_OSESIGUN_000_003", "hash": "A921FDEA14EDF30A", "target": "Per la precisione, mi occorrono un cuore d'ondina, una bottiglia di sangue di phooka e un gomitolo di seta di psammead. Per il disturbo avrai la ricompensa che ti spetta." },
+    { "gameKey": "quest/034/LucKzd004_03411#TEXT_LUCKZD004_03411_OSESIGUN_000_004", "hash": "25E8E66534422030", "target": "Un cuore d'ondina, una bottiglia di sangue di phooka e un gomitolo di seta di psammead. Ecco quel che serve per coltivare i funghi pla enni. Ti prego, procurameli." },
+    { "gameKey": "quest/034/LucKzd004_03411#TEXT_LUCKZD004_03411_OSESIGUN_000_010", "hash": "44F35225D2FE4040", "target": "Eccoti. Hai trovato quello che ti ho chiesto?" },
     { "gameKey": "quest/034/LucKzd004_03411#TEXT_LUCKZD004_03411_OSESIGUN_000_011", "hash": "55DFB5CFEB283012", "target": "Eccellente! Con questi possiamo far crescere i pla enni grandi e forti!" },
-    { "gameKey": "quest/034/LucKzd004_03411#TEXT_LUCKZD004_03411_OSESIGUN_000_012", "hash": "30DF49680235CBCC", "target": "Come usiamo gli oggetti, chiedi? Diamo ai funghi acqua purificata col cuore di undine e li fertilizziamo con sangue di phooka ricco di sostanze nutritive. E mentre crescono, li rinforziamo con seta di psammead." },
-    { "gameKey": "quest/034/LucKzd004_03411#TEXT_LUCKZD004_03411_OSESIGUN_000_013", "hash": "630EEAAE7E83B00C", "target": "Aggiungi finestre e porte, forse una rampa di scale, ed è pronto da abitare. Grazie, mortale. Ecco la tua ricompensa adeguata." }
+    { "gameKey": "quest/034/LucKzd004_03411#TEXT_LUCKZD004_03411_OSESIGUN_000_012", "hash": "30DF49680235CBCC", "target": "Mi chiedi a che cosa servono? Con il cuore d'ondina purifichiamo l'acqua per i funghi. Come concime usiamo il sangue di phooka, ricco di nutrimento. E man mano che crescono li rinforziamo con la seta di psammead." },
+    { "gameKey": "quest/034/LucKzd004_03411#TEXT_LUCKZD004_03411_OSESIGUN_000_013", "hash": "630EEAAE7E83B00C", "target": "Aggiungi qualche finestra, una porta e magari una scala, e il fungo è pronto da abitare. Grazie, mortale. Ecco la ricompensa che ti spetta." }
   ]
 }

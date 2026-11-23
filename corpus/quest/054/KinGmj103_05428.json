@@ -11,8 +11,8 @@
     { "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_SEQ_06", "hash": "056E05DD11433440", "target": "Raccolto il coraggio e bevuto il rimedio dal sapore tanto aspro da farti contrarre il viso, esprimi le tue impressioni con cortesia, mentre Krile e G'raha ricordano esperienze passate altrettanto impegnative. Ben presto, però, scopri che vale la pena di sopportare quel sapore per i benefici del rimedio. Non solo provi una sorprendente sensazione di vigore, ma Lumull spiega anche che la Sleepless Rhapsody attenua gli effetti dannosi dell'esposizione all'etere del fulmine, aggiungendo che i Milalla ne tramandano la ricetta da generazioni." },
     { "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_SEQ_07", "hash": "2424494D1CCC969D", "target": "Ora che ha potuto godersi la tua reazione alla Sleepless Rhapsody, Lumull si ricorda finalmente di presentarsi. Forse un giorno troverà anche il tempo di assegnarti un lavoro..." },
     { "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_TODO_00", "hash": "175EE4B4EC679EC0", "target": "Parla con Sphene" },
-    { "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_TODO_01", "hash": "5D14E1B4339D29D6", "target": "Entra a Scia delle Nebbie" },
-    { "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_TODO_02", "hash": "451E79A64F3A7475", "target": "Entra a Scia delle Nebbie" },
+    { "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_TODO_01", "hash": "5D14E1B4339D29D6", "target": "Entra nella Scia delle Nebbie" },
+    { "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_TODO_02", "hash": "451E79A64F3A7475", "target": "Entra nella Scia delle Nebbie" },
     { "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_TODO_03", "hash": "E18AC2E57B3AB827", "target": "Parla con Lumull" },
     { "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_TODO_04", "hash": "610EC26171353DF5", "target": "Bevi la Sleepless Rhapsody sotto lo sguardo attento di Lumull" },
     { "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_TODO_05", "hash": "B825585D53C4C0E9", "target": "Parla con Lumull" },
@@ -45,7 +45,7 @@
     { "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_ORIGINALSPHENE_000_043", "hash": "1F0C6C12287A13F6", "target": "Fate attenzione anche alle bestie. Con un territorio così arido intorno, saranno di certo affamate..." },
     { "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_Q1_000_051", "hash": "DD34483D4459560D", "target": "Cosa vuoi fare?" },
     { "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_A1_000_001", "hash": "8D6E885CE1742E3A", "target": "Fare due chiacchiere." },
-    { "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_A1_000_002", "hash": "361D57994736E6D7", "target": "Formare un gruppo ed entrare a Scia delle Nebbie" },
+    { "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_A1_000_002", "hash": "361D57994736E6D7", "target": "Formare un gruppo ed entrare nella Scia delle Nebbie" },
     { "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_A1_000_003", "hash": "8AAE72800831CC77", "target": "Niente." },
     { "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_YSHTOLA_000_061", "hash": "6D59C2B9DB78E02A", "target": "Qualunque cosa ci attenda, ci aiuterà a comprendere meglio lo stato del Nono." },
     { "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_KRILE_000_062", "hash": "4518146BE98CA10A", "target": "Sono in ansia e piena di speranza in egual misura. È una strana sensazione..." },
@@ -71,6 +71,6 @@
     { "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_LUMULL_000_112", "hash": "AA36185ABD3E3F93", "target": "Be', sono Lumull. Ero io ad annunciare la nostra vittoria, prima. E dato che la nonna vi ha mandato ad aiutare con le riparazioni, saprete che sono suo nipote." },
     { "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_LUMULL_000_113", "hash": "1B7A5570FFD82BD5", "target": "Mi occupo di risolvere qualsiasi problema abbiano gli abitanti di Toleno. Tra i miei lavori preferiti ci sono assaggiare i piatti del menu, trasportare oggetti di medie dimensioni, cercare beni perduti di immenso valore..." },
     { "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_LUMULL_000_114", "hash": "E0388DB446D8A2F3", "target": "Oh! Ed è un piacere fare la vostra conoscenza." },
-    { "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_SYSTEM_000_0121", "hash": "E0C1F288B83DC3E6", "target": "Ora puoi entrare a Scia delle Nebbie con un gruppo di avatar dei PNG. Per usare questa funzione, apri l'interfaccia <colortype(500)><edgecolortype(501)>Alleati<edgecolortype(0)><colortype(0)>, situata sotto <colortype(500)><edgecolortype(501)>Incarichi<edgecolortype(0)><colortype(0)> nel menu principale." }
+    { "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_SYSTEM_000_0121", "hash": "E0C1F288B83DC3E6", "target": "Ora puoi entrare nella Scia delle Nebbie con un gruppo di avatar dei PNG. Per usare questa funzione, apri l'interfaccia degli <colortype(500)><edgecolortype(501)>Alleati<edgecolortype(0)><colortype(0)>, situata sotto <colortype(500)><edgecolortype(501)>Incarichi<edgecolortype(0)><colortype(0)> nel menu principale." }
   ]
 }

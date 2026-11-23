@@ -3,14 +3,14 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_SEQ_00", "hash": "545B9E943BFDAA66", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Il premuroso Nu Mou è preoccupato per il suo famiglio." },
-    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_TODO_00", "hash": "B260BE0A0BA0E298", "target": "Raccogli gigli in piena fioritura a sud della Secca dei Sei Gemelli" },
+    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_TODO_00", "hash": "B260BE0A0BA0E298", "target": "Raccogli gigli in piena fioritura a sud della Secca Sestupla" },
     { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_TODO_01", "hash": "915332D8FEF0E485", "target": "Consegna i gigli in piena fioritura al Nu Mou premuroso" },
-    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_THOUGHTFULNUMOU0_000_000", "hash": "DEE38B5FCFFC5F56", "target": "Ti prego, mortale, ho bisogno del tuo aiuto. Il mio prezioso porxie ultimamente non sta bene e gli servono gigli in piena fioritura per riprendersi." },
-    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_THOUGHTFULNUMOU0_000_001", "hash": "DB9DEA63DD94D159", "target": "Non posso però allontanarmi da lui per raccoglierli. Se andassi al mio posto, prometto di darti un compenso adeguato." },
-    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_THOUGHTFULNUMOU0_000_002", "hash": "E023B22D4D1B57B3", "target": "Ti prego, raccogli i gigli in piena fioritura al mio posto. Ci andrei di persona, ma non posso lasciare il fianco del mio prezioso porxie." },
+    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_THOUGHTFULNUMOU0_000_000", "hash": "DEE38B5FCFFC5F56", "target": "Ti prego, mortale, aiutami. Il mio caro porxie non sta bene ultimamente. Per rimettersi gli servono dei gigli in piena fioritura." },
+    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_THOUGHTFULNUMOU0_000_001", "hash": "DB9DEA63DD94D159", "target": "Non posso lasciarlo solo per andare a raccoglierli. Se ci vai per me, ti prometto che ti ricompenserò come si deve." },
+    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_THOUGHTFULNUMOU0_000_002", "hash": "E023B22D4D1B57B3", "target": "Ti prego, raccogli per me dei gigli in piena fioritura. Andrei a prenderli di persona, ma non posso lasciare solo il mio caro porxie." },
     { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_THOUGHTFULNUMOU0_000_010", "hash": "C3BE56E01E127AE9", "target": "Ah, sei di ritorno. Hai i gigli?" },
-    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_THOUGHTFULNUMOU0_000_011", "hash": "68DA7B67FD4AD7BB", "target": "Hai la mia gratitudine! Ora il mio prezioso porxie può riprendersi!" },
-    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_THOUGHTFULNUMOU0_000_012", "hash": "E66C1E47CC2D075F", "target": "Gli darò da mangiare i gigli, chiedi? In un certo senso. Essendo un'entità arcana, non può semplicemente mangiarli." },
-    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_THOUGHTFULNUMOU0_000_013", "hash": "F748874F01A26592", "target": "Gli infonderò invece l'etere dei fiori. Per la creatura sarà come bere dolce nettare: un modo sicuro per risollevare lo spirito! Grazie ancora, e accetta questo come compenso adeguato per la tua gentilezza!" }
+    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_THOUGHTFULNUMOU0_000_011", "hash": "68DA7B67FD4AD7BB", "target": "Ti ringrazio! Ora il mio caro porxie potrà rimettersi!" },
+    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_THOUGHTFULNUMOU0_000_012", "hash": "E66C1E47CC2D075F", "target": "Mi chiedi se gli darò da mangiare i gigli? In un certo senso. È una creatura arcana, perciò non può mangiarli e basta." },
+    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_THOUGHTFULNUMOU0_000_013", "hash": "F748874F01A26592", "target": "Gli infonderò l'etere dei fiori. Per lui sarà come bere del nettare dolcissimo. Gli tirerà su il morale di sicuro! Grazie ancora. Accetta questa ricompensa, te la meriti per la tua gentilezza!" }
   ]
 }
