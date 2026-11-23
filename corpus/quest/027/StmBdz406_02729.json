@@ -3,14 +3,14 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_SEQ_00", "hash": "8A590E268FD60654", "target": "Aohata non ama le donnole." },
-    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_TODO_00", "hash": "823CCBF6ED562B03", "target": "Esamina la zona ed sconfiggere le mad weasel" },
+    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_TODO_00", "hash": "823CCBF6ED562B03", "target": "Perlustra la zona e abbatti le donnole impazzite" },
     { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_TODO_01", "hash": "A82C39D948F9BEB9", "target": "Fai rapporto a Aohata" },
-    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_000", "hash": "AF414DB58E740B4A", "target": "Tu. Ti va di guadagnare qualche gil?" },
-    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_001", "hash": "DF68F58304436050", "target": "Qui vicino c'è un boschetto di bambù da cui gli abitanti attingono spesso per costruire spaventapasseri. Ultimamente, però, sono comparse delle mad weasel e da allora nessuno è riuscito a raccogliere bambù." },
-    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_002", "hash": "E720BE67E43D4111", "target": "Si dice che siano tre. Ti ricompenserò bene se riesci ad ammazzarle tutte." },
-    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_003", "hash": "5CFFE3FCDFF37267", "target": "Si dice che siano tre. Ti ricompenserò bene se riesci ad ammazzarle tutte." },
-    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_010", "hash": "EB3992A2DE71C526", "target": "Finito? Fantastico!" },
-    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_011", "hash": "CF16DC915A1447B6", "target": "Ora che ci penso, un tempo gli abitanti usavano qualcosa di diverso dagli spaventapasseri per proteggere i campi. A quanto pare, sistemavano le carcasse infilzate delle bestie per tenere lontani i parassiti." },
-    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_012", "hash": "10108C5B45D14B8F", "target": "Alcuni dicono che usassero i cadaveri di cuccioli di donnola. Forse possiamo solo incolpare noi stessi per la situazione recente..." }
+    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_000", "hash": "AF414DB58E740B4A", "target": "Ehi, tu. Ti va di guadagnare qualche gil?" },
+    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_001", "hash": "DF68F58304436050", "target": "Qui vicino c'è un boschetto di bambù. Di solito al villaggio ci prendiamo quello che serve per fare gli spaventapasseri. Ma da quando sono spuntate le donnole impazzite, non ci mette più piede nessuno." },
+    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_002", "hash": "E720BE67E43D4111", "target": "Dicono che siano tre. Se le fai fuori tutte, ti pago bene." },
+    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_003", "hash": "5CFFE3FCDFF37267", "target": "Dicono che siano tre. Se le fai fuori tutte, ti pago bene." },
+    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_010", "hash": "EB3992A2DE71C526", "target": "Hai finito? Splendido!" },
+    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_011", "hash": "CF16DC915A1447B6", "target": "Ora che ci penso, un tempo qui proteggevano i campi in un altro modo. Pare che issassero su dei pali le carcasse infilzate delle bestie per tenere lontani gli animali nocivi." },
+    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_012", "hash": "10108C5B45D14B8F", "target": "C'è chi dice che usassero i piccoli delle donnole. Forse ce li siamo cercati, questi guai..." }
   ]
 }

@@ -2,7 +2,7 @@
   "conversation": "quest/054/KinGdd104_05408",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/054/KinGdd104_05408#TEXT_KINGDD104_05408_CYELLA_000_000", "hash": "DBD531A07A2E3AC7", "target": "Come, scusa? Un mangiatore di peccati fuso con un vuotofago?" },
+    { "gameKey": "quest/054/KinGdd104_05408#TEXT_KINGDD104_05408_CYELLA_000_000", "hash": "DBD531A07A2E3AC7", "target": "Come, scusa? Un divorapeccati fuso con un vuotofago?" },
     { "gameKey": "quest/054/KinGdd104_05408#TEXT_KINGDD104_05408_CYELLA_000_001", "hash": "F9A6553200B80FDC", "target": "...Dovremmo parlare altrove. In un posto tranquillo." },
     { "gameKey": "quest/054/KinGdd104_05408#TEXT_KINGDD104_05408_CYELLA_000_002", "hash": "74A126A647EBD7FD", "target": "Dimmi: stavi indagando su una chiesa in rovina dedicata alla Prima Luce?" },
     { "gameKey": "quest/054/KinGdd104_05408#TEXT_KINGDD104_05408_CYELLA_000_003", "hash": "C5DE04555F34845B", "target": "Hai un talento straordinario nel riportare a galla ricordi che preferirei dimenticare." },
@@ -26,7 +26,7 @@
     { "gameKey": "quest/054/KinGdd104_05408#TEXT_KINGDD104_05408_CYELLA_000_021", "hash": "8E30CADB05E1FD83", "target": "Intendi riuscire a uccidere il mostro? Avrei voluto farlo. Se avessi tradito soltanto me stessa, almeno avrei potuto credere di aver agito per una buona ragione." },
     { "gameKey": "quest/054/KinGdd104_05408#TEXT_KINGDD104_05408_CYELLA_000_022", "hash": "8E09DBE9081BFAF7", "target": "Assurdo, ma per nulla divertente. Concordo." },
     { "gameKey": "quest/054/KinGdd104_05408#TEXT_KINGDD104_05408_CYELLA_000_023", "hash": "F2B290AB38F904B2", "target": "Soprattutto, sono stata ingenua a credere che la memoria fosse al sicuro nei miei vecchi alloggi, anche dopo averli resi inaccessibili agli intrusi mortali." },
-    { "gameKey": "quest/054/KinGdd104_05408#TEXT_KINGDD104_05408_CYELLA_000_024", "hash": "386CC56C5712905D", "target": "I mangiapeccati devono essere stati attratti dall'Oscurità concentrata della memoria. Avrebbero fornito Luce a sufficienza per spezzare il sigillo e, una volta libero, il demone avrebbe trovato in loro prede perfette." },
+    { "gameKey": "quest/054/KinGdd104_05408#TEXT_KINGDD104_05408_CYELLA_000_024", "hash": "386CC56C5712905D", "target": "I divorapeccati devono essere stati attratti dall'Oscurità concentrata della memoria. Avrebbero fornito Luce a sufficienza per spezzare il sigillo e, una volta libero, il demone avrebbe trovato in loro prede perfette." },
     { "gameKey": "quest/054/KinGdd104_05408#TEXT_KINGDD104_05408_CYELLA_000_025", "hash": "DCC1F2113062CADB", "target": "Risparmiando il Primo dalla sua furia, hai evitato una devastazione incalcolabile." },
     { "gameKey": "quest/054/KinGdd104_05408#TEXT_KINGDD104_05408_CYELLA_000_026", "hash": "6ABB48CE673C0168", "target": "So che le parole non mi assolveranno. Eppure te le rivolgo comunque, da una creatura che ancora respira su questa stella." },
     { "gameKey": "quest/054/KinGdd104_05408#TEXT_KINGDD104_05408_CYELLA_000_027", "hash": "5A9E1FC0D382B9A1", "target": "<if(gnum4,Guerriera dell'Oscurità,Guerriero dell'Oscurità)>... No, <if(gnum4,Guerriera della Luce,Guerriero della Luce)>. Ti ringrazio." }

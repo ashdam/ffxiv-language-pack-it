@@ -84,7 +84,7 @@
     { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_A6_000_2", "hash": "FAC1F987DDF4C11C", "target": "No" },
     { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_ELYENORA_000_72", "hash": "5733638FB3C2BB31", "target": "Molto bene. Quando vorrete salire a bordo, fatemelo sapere." },
     { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_ANNOUNCE_000_80", "hash": "5CBD74E13ADA2053", "target": "Attenzione, passeggeri: l'aeronave diretta a Limsa Lominsa sta per partire. Siete pregati di raggiungere il cancello d'imbarco." },
-    { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_NANAMOULNAMO_100_80", "hash": "D62A50C229D7E0F2", "target": "Quando ci incontrammo per la prima volta sotto l'Albero del Sultano, percepii qualcosa di insolito in <if(gnum4,lei,lui)>. Mi domando se proveranno la stessa sensazione..." },
+    { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_NANAMOULNAMO_100_80", "hash": "D62A50C229D7E0F2", "target": "Quando ci incontrammo per la prima volta sotto l'Albero della Sultana, percepii qualcosa di insolito in <if(gnum4,lei,lui)>. Mi domando se proveranno la stessa sensazione..." },
     { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MOMODI_000_81", "hash": "95A6A04271D880F2", "target": "Buona fortuna, <split(<string(gstr1)>, ,1)>, buona fortuna!" },
     { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MOMODI_000_82", "hash": "66567319C7D00DA4", "target": "Se ho ragione, presto canteranno le tue lodi da qui fino a Farreach." },
     { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MOMODI_000_83", "hash": "8F86BEAD41CDD0E3", "target": "Possa tu camminare sempre nella luce del Cristallo..." },

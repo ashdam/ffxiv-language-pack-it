@@ -2,18 +2,18 @@
   "conversation": "quest/034/LucKzg002_03487",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_SEQ_00", "hash": "8E286B3FC213CB6F", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Mhon Mon è tormentato da bestie infernali e uno stomaco vuoto." },
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_TODO_00", "hash": "61C17BDEB7AE35E9", "target": "Attendi in agguato la wandering weapon" },
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_SEQ_00", "hash": "8E286B3FC213CB6F", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Mhon Mon ha un problema con certe bestie infernali. E ha lo stomaco vuoto." },
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_TODO_00", "hash": "61C17BDEB7AE35E9", "target": "Tendi un agguato all'arma errante" },
     { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_TODO_01", "hash": "F6719BEFB9E4CAE6", "target": "Fai rapporto a Mhon Mon" },
     { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_000", "hash": "16FE1E643478530F", "target": "Oooh! Che fare? Che fare?" },
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_001", "hash": "FD329FBD7AAC81F1", "target": "Voglio preparare lo stufato tradizionale Mord e mi manca un solo ingrediente: l'erba di Amber." },
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_002", "hash": "3051CCA73D141263", "target": "Ma qui è diventata rara, tranne in una zona infestata da armi maligne!" },
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_003", "hash": "CF37F6B979604F65", "target": "Un nome buffo, ma non fa tanto ridere quando cercano di ucciderti! Ce n'è una particolarmente orribile chiamata wandering weapon, che le altre sembrano seguire." },
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_004", "hash": "1D0C60DEAFC96539", "target": "Se potessi eliminarla, forse le altre ci lascerebbero in pace. Poi finalmente potrei raccogliere l'erba di Amber senza problemi. Allora, ci aiuterai?" },
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_010", "hash": "77EE7EB727C944CC", "target": "Odio quella wandering weapon e la sua grossa faccia stupida!" },
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_020", "hash": "13374935AE580BAB", "target": "L'hai fatto? Evviva! Ora quell'erba di Amber sarà mia! Eh eh eh..." },
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_021", "hash": "F054DA27C8E4D50F", "target": "Ma mi chiedo se le altre armi maligne torneranno... Ho sentito che sono state create dai maghi di Nabaath Areng a partire da spade incantate. Non chiedermi però come siano finite ad avere quell'aspetto!" },
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_022", "hash": "6D02B952D32C4321", "target": "A quanto pare, i loro padroni sono scomparsi dopo il Diluvio. Senza nessuno a comandarle, si aggirano per Amber attaccando tutto ciò che si avvicina!" },
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_023", "hash": "AC11AACBB2AED300", "target": "Spero che, eliminando la wandering weapon, resteranno lontane per un po', ma chi può dirlo? So solo che adesso posso preparare lo stufato! Il mio stomaco ti ringrazia!" }
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_001", "hash": "FD329FBD7AAC81F1", "target": "Voglio preparare lo stufato dei Mord e mi manca un solo ingrediente, l'erba d'Ambra." },
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_002", "hash": "3051CCA73D141263", "target": "Da queste parti è diventata rara. Ce n'è ancora solo in una zona infestata dalle armi malvagie!" },
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_003", "hash": "CF37F6B979604F65", "target": "Buffo come nome, eh? Prova a ridere quando cercano di farti la pelle! Ce n'è una particolarmente orribile, l'arma errante. Pare che le altre le vadano dietro." },
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_004", "hash": "1D0C60DEAFC96539", "target": "Se la fai fuori, magari le altre ci lasciano in pace. Così finalmente posso raccogliere l'erba d'Ambra in santa pace. Allora, ci dai una mano?" },
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_010", "hash": "77EE7EB727C944CC", "target": "Non sopporto l'arma errante e quel suo faccione da stupida!" },
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_020", "hash": "13374935AE580BAB", "target": "Ce l'hai fatta? Evviva! Adesso l'erba d'Ambra sarà mia! Eh eh eh..." },
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_021", "hash": "F054DA27C8E4D50F", "target": "Chissà se le altre armi malvagie torneranno... Ho sentito che i maghi di Nabaath Areng le fecero a partire da spade incantate. Non chiedermi come abbiano fatto a ridurle così, però!" },
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_022", "hash": "6D02B952D32C4321", "target": "Pare che dopo il Diluvio i padroni siano scomparsi. Non c'è più nessuno a comandarle, e così girano per i Campi d'Ambra attaccando tutto quello che si avvicina!" },
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_023", "hash": "AC11AACBB2AED300", "target": "Spero che adesso, senza l'arma errante, stiano alla larga per un po'. Ma chi può dirlo? So solo che posso fare il mio stufato! Il mio stomaco ti ringrazia!" }
   ]
 }

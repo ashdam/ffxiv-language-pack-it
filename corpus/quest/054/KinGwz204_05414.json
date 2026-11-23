@@ -4,8 +4,8 @@
   "entries": [
     { "gameKey": "quest/054/KinGwz204_05414#TEXT_KINGWZ204_05414_SEQ_00", "hash": "63D04F8C8DF6BD0B", "target": "Mumukko desidera premiare la tua inattività con una presentazione speciale." },
     { "gameKey": "quest/054/KinGwz204_05414#TEXT_KINGWZ204_05414_TODO_00", "hash": "0A5AF6A61D65F63A", "target": "Parla con Y'adebh e fatti accompagnare" },
-    { "gameKey": "quest/054/KinGwz204_05414#TEXT_KINGWZ204_05414_TODO_01", "hash": "9C0940B2E547F99B", "target": "Accompagna Y'adebh al Faro dei Vetrai e poi parlarle" },
-    { "gameKey": "quest/054/KinGwz204_05414#TEXT_KINGWZ204_05414_TODO_02", "hash": "8E3174A0659CE967", "target": "Accompagna Y'adebh fuori dal Faro dei Vetrai e poi parlarle" },
+    { "gameKey": "quest/054/KinGwz204_05414#TEXT_KINGWZ204_05414_TODO_01", "hash": "9C0940B2E547F99B", "target": "Accompagna Y'adebh al Faro dei Vetrai e poi parla con lei" },
+    { "gameKey": "quest/054/KinGwz204_05414#TEXT_KINGWZ204_05414_TODO_02", "hash": "8E3174A0659CE967", "target": "Accompagna Y'adebh fuori dal Faro dei Vetrai e poi parla con lei" },
     { "gameKey": "quest/054/KinGwz204_05414#TEXT_KINGWZ204_05414_TODO_03", "hash": "D146E22D1C2F1898", "target": "Parla con Y'adebh" },
     { "gameKey": "quest/054/KinGwz204_05414#TEXT_KINGWZ204_05414_TODO_04", "hash": "D4CB76D1AAB9D884", "target": "Parla con Mumukko" },
     { "gameKey": "quest/054/KinGwz204_05414#TEXT_KINGWZ204_05414_MUMUKKO_000_001", "hash": "A48C1F40E020B496", "target": "Ah, <split(<string(gstr1)>, ,1)>. Hai un po' di tempo?" },
