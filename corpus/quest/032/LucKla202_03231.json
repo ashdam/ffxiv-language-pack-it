@@ -18,7 +18,7 @@
     { "gameKey": "quest/032/LucKla202_03231#TEXT_LUCKLA202_03231_RECORDSYSTEM_000_009", "hash": "2B92D47F7D412197", "target": "\\<blip> Comando ricevuto. \\<blup> Istruzione per Thiuna: recarsi alle Scale Erranti." },
     { "gameKey": "quest/032/LucKla202_03231#TEXT_LUCKLA202_03231_THIUNA_000_010", "hash": "84FC499081C267D3", "target": "Io... come, scusa?" },
     { "gameKey": "quest/032/LucKla202_03231#TEXT_LUCKLA202_03231_THIUNA_000_011", "hash": "35E6769C05600816", "target": "Oh no, Noddy sta andando a chiamare Owell!" },
-    { "gameKey": "quest/032/LucKla202_03231#TEXT_LUCKLA202_03231_THIUNA_000_012", "hash": "8CE25C418193EBA4", "target": "<sigh> A quanto pare dovrò affrontarlo subito... <split(<string(gstr1)>, ,1)>, mi accompagnereste alle Scale Erranti? Il vostro sostegno mi farebbe bene." },
+    { "gameKey": "quest/032/LucKla202_03231#TEXT_LUCKLA202_03231_THIUNA_000_012", "hash": "8CE25C418193EBA4", "target": "\\<sigh> A quanto pare dovrò affrontarlo subito... <split(<string(gstr1)>, ,1)>, mi accompagnereste alle Scale Erranti? Il vostro sostegno mi farebbe bene." },
     { "gameKey": "quest/032/LucKla202_03231#TEXT_LUCKLA202_03231_THIUNA_100_020", "hash": "8355E53DA1096CEF", "target": "Owell non è ancora qui. Non mi stupirebbe se non venisse affatto." },
     { "gameKey": "quest/032/LucKla202_03231#TEXT_LUCKLA202_03231_OWELL_000_020", "hash": "9F10C13365E1BFE0", "target": "Thiuna. Dunque sei tu la «faccenda urgente» per cui ho dovuto mollare tutto." },
     { "gameKey": "quest/032/LucKla202_03231#TEXT_LUCKLA202_03231_RECORDSYSTEM_000_021", "hash": "3E306E085E8B9EBA", "target": "Affermativo! \\<bzzz> Thiuna ha un conto da regolare con te!" },
