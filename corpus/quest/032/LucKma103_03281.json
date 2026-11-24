@@ -8,7 +8,7 @@
     { "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_TODO_02", "hash": "172193CC75BB1C6F", "target": "Parla con l'Esarca di Cristallo" },
     { "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_TODO_03", "hash": "20B333AF5CBA0640", "target": "Parla con l'Esarca di Cristallo" },
     { "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_TODO_04", "hash": "8C002693DB2B5F47", "target": "Parla con il responsabile degli alloggi ai Pendagli" },
-    { "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_TODO_05", "hash": "464D6653FD447382", "target": "Parla con l'Esarca di Cristallo nell'Osservatorio" },
+    { "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_TODO_05", "hash": "464D6653FD447382", "target": "Parla con l'Esarca di Cristallo nell'Oculare" },
     { "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_GARLONDMAN03279_100_000", "hash": "7DE3AAF4188D5521", "target": "Il dispositivo che avete trovato è al sicuro con me. Volete usarlo di nuovo...?" },
     { "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_Q0_100_000", "hash": "71D36ABC3DD8B1B5", "target": "Toccare il faro e raggiungere il Primo?" },
     { "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_MYSTERYVOICE_000_000", "hash": "90B14ED695202C82", "target": "Hai fatto come ti avevo chiesto e ora sai qualcosa del mondo in cui ti trovi. È tempo che anch'io faccia la mia parte e ti spieghi cos'è successo ai tuoi compagni." },
@@ -28,13 +28,13 @@
     { "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_SYSTEM_000_035", "hash": "5DD80FA3364BE6E6", "target": "Grazie al tuo patto con Feo Ul, ora nel Primo hai accesso ai Moguri delle consegne, alle Bacheche del mercato e alle Campane di evocazione." },
     { "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_GUIDEOFTHEPENDANTS_000_040", "hash": "1B6050FDD553D030", "target": "<if(gnum4,Benvenuta,Benvenuto)> ai Pendagli, <if(gnum4,signorina,signore)>. Siete qui con l'Esarca...?" },
     { "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_MYSTERYVOICE_000_050", "hash": "6C2DE2A6CF18F69F", "target": "Ah, eccoti! Stavo giusto finendo di sistemare il tuo alloggio. Avrai una stanza tutta per te ai Pendagli per l'intero soggiorno. Usala come meglio credi." },
-    { "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_MYSTERYVOICE_000_051", "hash": "075482ADDF1956FD", "target": "Quando vorrai ritirarti, il responsabile ti mostrerà la tua stanza. Riposa e recupera le forze, ti prego. Ci rivedremo presto nell'Osservatorio." },
+    { "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_MYSTERYVOICE_000_051", "hash": "075482ADDF1956FD", "target": "Quando vorrai ritirarti, il responsabile ti mostrerà la tua stanza. Riposa e recupera le forze, ti prego. Ci rivedremo presto nell'Oculare." },
     { "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_MYSTERYVOICE_000_052", "hash": "D2CD13CE0324C45A", "target": "Direi che ora è tutto sistemato..." },
     { "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_MYSTERYVOICE_000_053", "hash": "F23CAF04A0937DEF", "target": "...Grazie per aver risposto al mio richiamo, <split(<string(gstr1)>, ,1)>. Qui ci è negato il conforto del buio della notte. Ti auguro comunque sogni sereni." },
     { "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_GUIDEOFTHEPENDANTS_000_060", "hash": "B32673EC7E384171", "target": "È un piacere conoscervi, <if(gnum4,signorina,signore)>, e <if(gnum4,benvenuta,benvenuto)> nella vostra nuova dimora ai Pendagli." },
     { "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_GUIDEOFTHEPENDANTS_000_061", "hash": "ED7479F27E031B3A", "target": "La vostra stanza è pronta. Desiderate ritirarvi?" },
     { "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_Q3_000_062", "hash": "EA3E02CDFB74A690", "target": "Ritirarsi nei propri alloggi?" },
     { "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_CRYSTALGATEKEEPER_000_070", "hash": "B6DEB8DEE565FB75", "target": "<if(gnum4,Signora,Signor)> <split(<string(gstr1)>, ,1)>. L'Esarca vi attende all'interno." },
-    { "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_Q4_000_071", "hash": "E022D82FA4ADDAB3", "target": "Entrare nell'Osservatorio?" }
+    { "gameKey": "quest/032/LucKma103_03281#TEXT_LUCKMA103_03281_Q4_000_071", "hash": "E022D82FA4ADDAB3", "target": "Entrare nell'Oculare?" }
   ]
 }

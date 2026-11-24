@@ -2,19 +2,19 @@
   "conversation": "quest/042/AktKzg005_04280",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_SEQ_00", "hash": "6317A14C687F89A5", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>L'osservatore scrupoloso guarda qua e là, come in cerca di qualcosa." },
-    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_TODO_00", "hash": "49C660ED41E095B0", "target": "Usa la corda eterica sui piccoli di agavoides per catturarli" },
-    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_TODO_01", "hash": "8027CCB9F4E4F917", "target": "Consegna i piccoli di agavoides all'osservatore scrupoloso" },
-    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_000", "hash": "AABB5F67F3D83DB1", "target": "Bah, dove saranno finiti gli altri...?" },
-    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_001", "hash": "C9662B5B7E5BF54B", "target": "Ah, amico famiglio! Se hai un momento, mi serve aiuto per radunare i nostri piccoli di agavoides." },
-    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_002", "hash": "F0D4741B8EDCFE01", "target": "Ne mancano ancora sei, e ti sarei molto grato se li cercassi insieme a me." },
-    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_003", "hash": "E830BCD3DB30CBD4", "target": "Queste creature secernono dalla coda un nettare che attira gli insetti: dove si radunano, troverai probabilmente un agavoides. E quando lo trovi, usa questa corda eterica per catturarlo." },
-    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_004", "hash": "0F8185914BD28FE6", "target": "Piccoli come sono, non credo che saranno troppo lontani. Cerchiamo di trovarne tre ciascuno e poi ritroviamoci qui." },
-    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_SYSTEM_000_010", "hash": "C791D139367E4A27", "target": "Il piccolo di agavoides è immobile, a quanto pare nel tentativo di attirare farfalle." },
+    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_SEQ_00", "hash": "6317A14C687F89A5", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>L'osservatore sincero guarda qua e là, come in cerca di qualcosa." },
+    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_TODO_00", "hash": "49C660ED41E095B0", "target": "Usa la corda eterica sulle piantine di agavoides per catturarle" },
+    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_TODO_01", "hash": "8027CCB9F4E4F917", "target": "Consegna le piantine di agavoides all'osservatore sincero" },
+    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_000", "hash": "AABB5F67F3D83DB1", "target": "Bah, dove saranno finite le altre...?" },
+    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_001", "hash": "C9662B5B7E5BF54B", "target": "Ah, amico famiglio! Se hai un momento, mi serve aiuto per radunare le nostre piantine di agavoides." },
+    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_002", "hash": "F0D4741B8EDCFE01", "target": "Ne mancano ancora sei e ti sarei molto grato se le cercassi insieme a me." },
+    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_003", "hash": "E830BCD3DB30CBD4", "target": "Queste creature secernono dalla coda un nettare che attira gli insetti. Dove li vedi sciamare, probabilmente troverai un agavoides. A quel punto, catturalo con questa corda eterica." },
+    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_004", "hash": "0F8185914BD28FE6", "target": "Sono ancora piccole, quindi non credo che si siano allontanate molto. Cerchiamo di trovarne tre a testa, poi ritroviamoci qui." },
+    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_SYSTEM_000_010", "hash": "C791D139367E4A27", "target": "La piantina di agavoides se ne sta immobile. Sembra che stia cercando di attirare le farfalle." },
     { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_020", "hash": "39CED3335D5E88BD", "target": "Ah, sei <if(gnum4,tornata,tornato)> anche tu. Sono riuscito a trovarne tre. E tu?" },
-    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_021", "hash": "25242C567A2E1630", "target": "Meraviglioso, ci sono tutti! Possiamo finalmente liberare le creature." },
-    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_022", "hash": "C75410B937155B1C", "target": "Se te lo chiedi, gli agavoides sono stati creati per contenere la popolazione degli insetti. Hanno superato la prima fase di valutazione e saranno dunque inviati provvisoriamente nel mondo esterno." },
-    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_023", "hash": "8CA8E3CDED9802B3", "target": "Benché restino alcuni passi prima che possano prendere pienamente il loro posto in natura, non dubito che renderanno migliore la nostra stella." },
-    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_024", "hash": "D65833C94FF73247", "target": "Non è molto, ma accettalo come segno della mia gratitudine per il tuo aiuto." }
+    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_021", "hash": "25242C567A2E1630", "target": "Meraviglioso, ci sono tutte! Possiamo finalmente liberare le creature." },
+    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_022", "hash": "C75410B937155B1C", "target": "Se vuoi sapere a che cosa servono, gli agavoides sono stati creati per contenere la popolazione degli insetti. Hanno superato la prima fase di valutazione e ora li libereremo in natura per un periodo di prova." },
+    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_023", "hash": "8CA8E3CDED9802B3", "target": "Manca ancora qualche passaggio prima che possano trovare il loro posto in natura, ma sono sicuro che renderanno migliore il nostro mondo." },
+    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_024", "hash": "D65833C94FF73247", "target": "È poca cosa, ma accettala come ringraziamento per il tuo aiuto." }
   ]
 }

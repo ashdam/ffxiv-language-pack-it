@@ -2264,8 +2264,8 @@
     {
       "en": "The Spiked Butt",
       "protect": false,
-      "note": "Unverified Italian form. Narrative epithet with a bodily joke about the spear butt; no full NPC name expansion.",
-      "it": "il Didietro Acuminato"
+      "note": "Soprannome di Alaimbert. Con il nome: «Alaimbert dal Sedere Aculeato» (BNpcName#3968.0/.2, Fate#815.1).",
+      "it": "il Sedere Aculeato"
     },
     {
       "en": "Bows",
@@ -2590,8 +2590,8 @@
     {
       "en": "the Hoarfrost",
       "protect": false,
-      "note": "Use for the residential hall in narrative text. The Italian form is not verified. Keep exact UI labels in English. Unverified Italian form.",
-      "it": "la Residenza della Brina"
+      "note": "Decisione dell'utente del 23 novembre 2026: nome della residenza nel Firmamento, usare «Salone della Brina» come in PlaceName#3528.0/.2. Non applicare a hoarfrost generico.",
+      "it": "il Salone della Brina"
     },
     {
       "en": "twinklestones",
@@ -3118,8 +3118,8 @@
     {
       "en": "Unbound",
       "protect": false,
-      "note": "Use the short name for Porta dei Liberi. Do not expand the source name or translate exact selectors. Unverified Italian form.",
-      "it": "Liberi"
+      "note": "Nome breve della Congrega degli Indomiti. Usare «gli Indomiti» per la fazione. Per i toponimi e le altre denominazioni complete, usare la forma della rispettiva voce.",
+      "it": "Indomiti"
     },
     {
       "en": "Cloud Nine",
@@ -4591,9 +4591,9 @@
     },
     {
       "en": "Perfumed Rise",
-      "it": "Colle Profumato",
+      "it": "Ascesa Profumata",
       "protect": false,
-      "note": "Narrative term. Keep exact Item, selectable object and UI labels in English. Unverified Italian rendering."
+      "note": "Toponimo di Thavnair in PlaceName#3885."
     },
     {
       "en": "survey pod",
@@ -4747,9 +4747,9 @@
     },
     {
       "en": "Carrotorium",
-      "it": "Carotorio",
+      "it": "Carrotorium",
       "protect": false,
-      "note": "Narrative name. Keep exact Item and selectable UI labels in English. Unverified Italian rendering."
+      "note": "Nome del luogo in PlaceName#3968.0 e PlaceName#3968.2."
     },
     {
       "en": "Cradle of Darkness",
@@ -4771,9 +4771,9 @@
     },
     {
       "en": "somanoutics",
-      "it": "somanautica",
+      "it": "Somanautica",
       "protect": false,
-      "note": "Narrative name. Keep exact Item and selectable UI labels in English. Unverified Italian rendering."
+      "note": "Decisione dell'utente del 23 novembre 2026: nome della disciplina dei Saggi; scrivere «Somanautica» anche a metà frase. Mantenere l'inglese nelle etichette Item e selezionabili secondo l'eccezione terminologica già registrata."
     },
     {
       "en": "Thirty-third Facet",
@@ -5499,9 +5499,9 @@
     },
     {
       "en": "Allagan Eye",
-      "it": "Occhio Allagan",
+      "it": "Occhio Allagano",
       "protect": false,
-      "note": "Inherited trait of G'raha Tia's family. Unverified Italian coinage."
+      "note": "Carattere ereditario della famiglia di G'raha Tia. Occhio Reale è il titolo imperiale."
     },
     {
       "en": "guildship",
@@ -5615,7 +5615,7 @@
     },
     {
       "en": "vampire bat fang",
-      "it": "zanna di vampire bat",
+      "it": "zanna di pipistrello vampiro",
       "protect": false,
       "note": "EventItem 2003002. Short bat fang: zanna di pipistrello; exclude the unrelated Item 5442 inventory label."
     },
@@ -6216,9 +6216,9 @@
     },
     {
       "en": "Accensor Gate",
-      "it": "Porta Accensor",
+      "it": "Porta dell'Accensore",
       "protect": false,
-      "note": "Descriptive gate name. Unverified Italian coinage."
+      "note": "PlaceName#3041.0/.2."
     },
     {
       "en": "Wandering Stairs",
@@ -6270,9 +6270,9 @@
     },
     {
       "en": "Ocular",
-      "it": "Osservatorio",
+      "it": "Oculare",
       "protect": false,
-      "note": "The Crystal Exarch's private study. Unverified Italian coinage."
+      "note": "Toponimo di PlaceName#3223.0/.2; usare «L'Oculare» o «Oculare» in base alla funzione grammaticale."
     },
     {
       "en": "His Radiance",
@@ -6998,7 +6998,8 @@
       "en": "Holy Stables",
       "protect": false,
       "ja": "聖大厩舎",
-      "it": "Scuderie Sacre"
+      "it": "Sacre Scuderie",
+      "note": "Toponimo di Ishgard. Usare l'articolo di PlaceName#2316.0 quando richiesto dalla frase."
     },
     {
       "it": "quelli di sotto",
@@ -9682,7 +9683,7 @@
     },
     {
       "en": "copy of the Qitana Ravel mural",
-      "it": "copia del murale della Qitana Ravel",
+      "it": "copia del murale del Dedalo di Qitana",
       "protect": false
     },
     {
@@ -10168,9 +10169,9 @@
     },
     {
       "en": "Sephirot, the Fiend",
-      "it": "Sephirot, il Diavoletto",
+      "it": "Sephirot, l'Abominio",
       "protect": false,
-      "note": "Sephirot epithet in narrative text. Italian FFVI bestiary transcriptions use Diavoletto; direct game capture is pending. Exclude generic creatures and complete UI labels."
+      "note": "Epiteto di Sephirot nella Triade della Discordia. Il Demone è Zurvan. Mantieni Fiend nei titoli musicali."
     },
     {
       "en": "Zurvan, the Demon",
@@ -12854,12 +12855,12 @@
     },
     {
       "en": "wood raider",
-      "it": "predatore del bosco",
+      "it": "predone dei boschi",
       "forms": [
-        "predatori del bosco"
+        "predoni dei boschi"
       ],
       "protect": false,
-      "note": "Nome comune del gruppo di razziatori; fonte legacy: data/translations/world/fate.json#1459:translation_description."
+      "note": "Nome dei mandrilli di Rak'tika in BNpcName#8460.0/.2. Usa la stessa forma in Fate#1459.1 e nei riferimenti narrativi."
     },
     {
       "en": "wooly yak",
@@ -24242,39 +24243,39 @@
     },
     {
       "en": "Unsung Relic of Asphodelos Exchange (DoW) I",
-      "it": "Scambio di Reliquie Senza Gloria di Asphodelos (Combattenti) I",
+      "it": "Scambio di Reliquie Senza Gloria dell'Asfodelo (Combattenti) I",
       "protect": false,
-      "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/SpecialShop.json::('corpus/flat/SpecialShop.json', 'SpecialShop#1770440'). Fonte legacy: data/translations/shops/specialshop.json#1770440:translation EN/hash verificati."
+      "note": "Prima ala di Pandemonio. Usare Asfodelo anche per equipaggiamento e scambi."
     },
     {
       "en": "Unsung Relic of Asphodelos Exchange (DoW) II",
-      "it": "Scambio di Reliquie Senza Gloria di Asphodelos (Combattenti) II",
+      "it": "Scambio di Reliquie Senza Gloria dell'Asfodelo (Combattenti) II",
       "protect": false,
-      "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/SpecialShop.json::('corpus/flat/SpecialShop.json', 'SpecialShop#1770441'). Fonte legacy: data/translations/shops/specialshop.json#1770441:translation EN/hash verificati."
+      "note": "Prima ala di Pandemonio. Usare Asfodelo anche per equipaggiamento e scambi."
     },
     {
       "en": "Unsung Relic of Asphodelos Exchange (DoM)",
-      "it": "Scambio di Reliquie Senza Gloria di Asphodelos (Maghi)",
+      "it": "Scambio di Reliquie Senza Gloria dell'Asfodelo (Maghi)",
       "protect": false,
-      "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/SpecialShop.json::('corpus/flat/SpecialShop.json', 'SpecialShop#1770442'). Fonte legacy: data/translations/shops/specialshop.json#1770442:translation EN/hash verificati."
+      "note": "Prima ala di Pandemonio. Usare Asfodelo anche per equipaggiamento e scambi."
     },
     {
       "en": "Asphodelos Mythos Exchange (DoW) I",
-      "it": "Scambio di Miti di Asphodelos (Combattenti) I",
+      "it": "Scambio di Miti dell'Asfodelo (Combattenti) I",
       "protect": false,
-      "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/SpecialShop.json::('corpus/flat/SpecialShop.json', 'SpecialShop#1770443'). Fonte legacy: data/translations/shops/specialshop.json#1770443:translation EN/hash verificati."
+      "note": "Prima ala di Pandemonio. Usare Asfodelo anche per equipaggiamento e scambi."
     },
     {
       "en": "Asphodelos Mythos Exchange (DoW) II",
-      "it": "Scambio di Miti di Asphodelos (Combattenti) II",
+      "it": "Scambio di Miti dell'Asfodelo (Combattenti) II",
       "protect": false,
-      "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/SpecialShop.json::('corpus/flat/SpecialShop.json', 'SpecialShop#1770444'). Fonte legacy: data/translations/shops/specialshop.json#1770444:translation EN/hash verificati."
+      "note": "Prima ala di Pandemonio. Usare Asfodelo anche per equipaggiamento e scambi."
     },
     {
       "en": "Asphodelos Mythos Exchange (DoM)",
-      "it": "Scambio di Miti di Asphodelos (Maghi)",
+      "it": "Scambio di Miti dell'Asfodelo (Maghi)",
       "protect": false,
-      "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/SpecialShop.json::('corpus/flat/SpecialShop.json', 'SpecialShop#1770445'). Fonte legacy: data/translations/shops/specialshop.json#1770445:translation EN/hash verificati."
+      "note": "Prima ala di Pandemonio. Usare Asfodelo anche per equipaggiamento e scambi."
     },
     {
       "en": "Radiant's Gear Augmentation (DoW) I",
@@ -25094,9 +25095,9 @@
     },
     {
       "en": "Asphodelos Gear (IL 600-605)",
-      "it": "Equipaggiamento Asphodelos (Liv.Ogg. 600-605)",
+      "it": "Equipaggiamento Asfodelo (Liv.Ogg. 600-605)",
       "protect": false,
-      "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/SpecialShop.json::('corpus/flat/SpecialShop.json', 'SpecialShop#1770797')|corpus/flat/SpecialShop.json::('corpus/flat/SpecialShop.json', 'SpecialShop#1770807')|corpus/flat/SpecialShop.json::('corpus/flat/SpecialShop.json', 'SpecialShop#1770817')|corpus/flat/SpecialShop.json::('corpus/flat/SpecialShop.json', 'SpecialShop#1770827')|corpus/flat/SpecialShop.json::('corpus/flat/SpecialShop.json', 'SpecialShop#1770837')|corpus/flat/SpecialShop.json::('corpus/flat/SpecialShop.json', 'SpecialShop#1770847')|corpus/flat/SpecialShop.json::('corpus/flat/SpecialShop.json', 'SpecialShop#1770857'). Fonte legacy: data/translations/shops/specialshop.json#1770797:translation; data/translations/shops/specialshop.json#1770807:translation; data/translations/shops/specialshop.json#1770817:translation; data/translations/shops/specialshop.json#1770827:translation; data/translations/shops/specialshop.json#1770837:translation; data/translations/shops/specialshop.json#1770847:translation; data/translations/shops/specialshop.json#1770857:translation EN/hash verificati."
+      "note": "Prima ala di Pandemonio. Usare Asfodelo anche per equipaggiamento e scambi."
     },
     {
       "en": "Purgatory Gear (IL 610)",
@@ -27428,15 +27429,15 @@
     },
     {
       "en": "Players can board the <italic(1)>Endeavor<italic(0)> to participate in Ocean Fishing, embarking on a journey across the high seas in search of strange and exotic fish.",
-      "it": "I giocatori possono salire a bordo dell'<italic(1)>Endeavor<italic(0)> per partecipare alla Pesca Oceanica e navigare in alto mare in cerca di pesci strani ed esotici.",
+      "it": "I giocatori possono salire a bordo dell'<italic(1)>Impresa<italic(0)> per partecipare alla Pesca Oceanica e navigare in alto mare in cerca di pesci strani ed esotici.",
       "protect": false,
-      "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/DescriptionString.json::('corpus/flat/DescriptionString.json', 'DescriptionString#319'). Fonte legacy: data/translations/system/descriptionstring.json#319:translation EN/hash verificati."
+      "note": "Nome della nave della Gilda dei Pescatori nella Pesca Oceanica."
     },
     {
       "en": "■Basic Rules<br>Up to 24 players may join an Ocean Fishing voyage, solo or in parties of up to eight members. Players will be matched together to form a full party when participating solo or with a party of fewer than eight members. Each voyage will sojourn at three locations before returning to Limsa Lominsa.<br><br>■How to Participate<br>Speak with Dryskthota at the ferry docks to register as a crew member and board the <italic(1)>Endeavor<italic(0)>. Registration periods last for 15 minutes and occur every two hours (Earth time). If registering as a party, the party leader must register. The ship will depart when 24 crew members have been assembled or the registration period has ended, even if there are fewer than 24 crew members. Registration times may be viewed from the Sailing Schedule.<br><br>Progressing through the main scenario will give access to an additional route known as the Ruby route. Details on how to  unlock this route can be found from the Sailing Schedule.<br><br>■Rewards<br>By meeting certain conditions while fishing during the voyage, players will receive achievements that reward special titles, mounts, and minions. Fishers who are level 50 or above and have completed the requisite quest may also receive gatherers' scrips as rewards.",
-      "it": "■Regole di Base<br>Fino a 24 giocatori possono partecipare a un viaggio di pesca oceanica, da soli o in gruppi di massimo otto. I partecipanti vengono abbinati per formare gruppi completi. Ogni viaggio tocca tre località prima di tornare a Limsa Lominsa.<br><br>■Partecipazione<br>Parla con Dryskthota al molo per iscriverti e salire sull'<italic(1)>Endeavor<italic(0)>. Le iscrizioni durano 15 minuti e aprono ogni due ore terrestri. Per i gruppi si iscrive il capogruppo. La nave parte quando si raggiungono 24 partecipanti o termina il periodo d'iscrizione, anche con meno persone. Gli orari sono nel Calendario delle Partenze.<br><br>Avanzando nella storia principale sblocchi anche la rotta Rubino; i dettagli sono nel calendario.<br><br>■Ricompense<br>Soddisfacendo certe condizioni durante la pesca ottieni obiettivi che conferiscono titoli, cavalcature e minion. I pescatori di livello 50 o superiore che hanno completato la missione richiesta possono ricevere anche gettoni dei raccoglitori.",
+      "it": "■Regole di Base<br>Fino a 24 giocatori possono partecipare a un viaggio di pesca oceanica, da soli o in gruppi di massimo otto. I partecipanti vengono abbinati per formare gruppi completi. Ogni viaggio tocca tre località prima di tornare a Limsa Lominsa.<br><br>■Partecipazione<br>Parla con Dryskthota al molo per iscriverti e salire sull'<italic(1)>Impresa<italic(0)>. Le iscrizioni durano 15 minuti e aprono ogni due ore terrestri. Per i gruppi si iscrive il capogruppo. La nave parte quando si raggiungono 24 partecipanti o termina il periodo d'iscrizione, anche con meno persone. Gli orari sono nel Calendario delle Partenze.<br><br>Avanzando nella storia principale sblocchi anche la rotta Rubino; i dettagli sono nel calendario.<br><br>■Ricompense<br>Soddisfacendo certe condizioni durante la pesca ottieni obiettivi che conferiscono titoli, cavalcature e minion. I pescatori di livello 50 o superiore che hanno completato la missione richiesta possono ricevere anche gettoni dei raccoglitori.",
       "protect": false,
-      "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/DescriptionString.json::('corpus/flat/DescriptionString.json', 'DescriptionString#320'). Fonte legacy: data/translations/system/descriptionstring.json#320:translation EN/hash verificati."
+      "note": "Nome della nave della Gilda dei Pescatori nella Pesca Oceanica."
     },
     {
       "en": "Specialty Bait",
@@ -27446,9 +27447,9 @@
     },
     {
       "en": "The Fishermen's Guild has developed special bait specifically for use in ocean fishing. While this bait can attract a wide variety of fish, it is not suitable to catch everything on your journey. Use a wide selection of bait to increase the size and diversity of your catch. Special bait can be purchased at the ferry docks or aboard the <italic(1)>Endeavor<italic(0)>.",
-      "it": "La Gilda dei Pescatori ha creato esche speciali per la pesca oceanica. Attirano molti pesci, ma non tutte le specie che incontrerai. Usa esche diverse per aumentare quantità e varietà delle catture. Puoi acquistare le esche speciali al molo dei traghetti o a bordo dell'<italic(1)>Endeavor<italic(0)>.",
+      "it": "La Gilda dei Pescatori ha creato esche speciali per la pesca oceanica. Attirano molti pesci, ma non tutte le specie che incontrerai. Usa esche diverse per aumentare quantità e varietà delle catture. Puoi acquistare le esche speciali al molo dei traghetti o a bordo dell'<italic(1)>Impresa<italic(0)>.",
       "protect": false,
-      "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/DescriptionString.json::('corpus/flat/DescriptionString.json', 'DescriptionString#322'). Fonte legacy: data/translations/system/descriptionstring.json#322:translation EN/hash verificati."
+      "note": "Nome della nave della Gilda dei Pescatori nella Pesca Oceanica."
     },
     {
       "en": "Spectral Currents",
@@ -28226,9 +28227,9 @@
     },
     {
       "en": "While sailing the seas on the <italic(1)>Endeavor<italic(0)>, you will occasionally come across dolphins and seagulls. Sailors, notorious for their superstitious beliefs, consider such encounters to be omens of good fortune─the appearance of a lively pod or raucous flock is said to be a boon for fishing, and even influence the likelihood of a spectral current.<br><br>Be sure to pay close attention when your voyage is favored by these unexpected visitors!",
-      "it": "Durante il viaggio sull'<italic(1)>Endeavor<italic(0)> potresti incontrare delfini e gabbiani. I marinai, famosi per le loro superstizioni, li considerano segni di buona sorte: si dice che un branco vivace o uno stormo rumoroso favorisca la pesca e perfino la comparsa di una corrente spettrale.<br><br>Presta attenzione a questi visitatori inattesi quando accompagnano il tuo viaggio!",
+      "it": "Durante il viaggio sull'<italic(1)>Impresa<italic(0)> potresti incontrare delfini e gabbiani. I marinai, famosi per le loro superstizioni, li considerano segni di buona sorte: si dice che un branco vivace o uno stormo rumoroso favorisca la pesca e perfino la comparsa di una corrente spettrale.<br><br>Presta attenzione a questi visitatori inattesi quando accompagnano il tuo viaggio!",
       "protect": false,
-      "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/DescriptionString.json::('corpus/flat/DescriptionString.json', 'DescriptionString#510'). Fonte legacy: data/translations/system/descriptionstring.json#510:translation EN/hash verificati."
+      "note": "Nome della nave della Gilda dei Pescatori nella Pesca Oceanica."
     },
     {
       "en": "Initiating Large-scale Assaults",
@@ -32774,7 +32775,7 @@
     },
     {
       "en": "The Final Verse (Quantum) is an independent duty that pits a four-player party against an enhanced incarnation of Eminent Grief. At least 15 sacramental offerings must be collected in order to challenge this duty.<br><br>Once a party leader has acquired sufficient offerings, they must form a four-player party with Disciples of War or Magic of level 100 or above and speak with Vanthau to invoke the Final Verse (Quantum). After selecting at least 15 offerings, Eminent Grief may be summoned and the duty commenced.<br><br>Please note that phoenix down cannot be used during the Final Verse (Quantum).",
-      "it": "Il Verso Finale (Quantico) è un incarico indipendente per quattro giocatori contro una versione potenziata di Eminent Grief. Per affrontarlo servono almeno 15 offerte sacramentali.<br><br>Quando il capogruppo ne ha raccolte abbastanza, deve formare un gruppo di quattro Discepoli della Guerra o della Magia di livello 100 o superiore e parlare con Vanthau. Selezionando almeno 15 offerte, può evocare Eminent Grief e iniziare l'incarico.<br><br>Durante il Verso Finale (Quantico) non si possono usare le piume di fenice.",
+      "it": "Il Verso Finale (Quantico) è un incarico indipendente per quattro giocatori contro una versione potenziata di Dolore Supremo. Per affrontarlo servono almeno 15 offerte sacramentali.<br><br>Quando il capogruppo ne ha raccolte abbastanza, deve formare un gruppo di quattro Discepoli della Guerra o della Magia di livello 100 o superiore e parlare con Vanthau. Selezionando almeno 15 offerte, può evocare Dolore Supremo e iniziare l'incarico.<br><br>Durante il Verso Finale (Quantico) non si possono usare le piume di fenice.",
       "protect": false,
       "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/DescriptionString.json::('corpus/flat/DescriptionString.json', 'DescriptionString#1478'). Fonte legacy: data/translations/system/descriptionstring.json#1478:translation EN/hash verificati."
     },
@@ -32786,7 +32787,7 @@
     },
     {
       "en": "Five types of items may serve as offerings when invoking the Final Verse (Quantum):<br>・Sacramental Spirits<br>・Sacramental Spices<br>・Sacramental Grain<br>・Sacramental Light<br>・Sacramental Lilies<br><br>At least 15 items must be selected to summon Eminent Grief.<br><br>Sacramental offerings may occasionally be obtained by appraising pieces of the Accursed Hoard discovered within Pilgrim's Traverse.",
-      "it": "Per invocare il Verso Finale (Quantico) puoi offrire cinque tipi di oggetti:<br>・Spiriti Sacramentali<br>・Spezie Sacramentali<br>・Grano Sacramentale<br>・Luce Sacramentale<br>・Gigli Sacramentali<br><br>Devi selezionare almeno 15 oggetti per evocare Eminent Grief.<br><br>Le offerte sacramentali possono apparire valutando gli oggetti del Tesoro Maledetto trovati nella Traversata del Pellegrino.",
+      "it": "Per invocare il Verso Finale (Quantico) puoi offrire cinque tipi di oggetti:<br>・Spiriti Sacramentali<br>・Spezie Sacramentali<br>・Grano Sacramentale<br>・Luce Sacramentale<br>・Gigli Sacramentali<br><br>Devi selezionare almeno 15 oggetti per evocare Dolore Supremo.<br><br>Le offerte sacramentali possono apparire valutando gli oggetti del Tesoro Maledetto trovati nella Traversata del Pellegrino.",
       "protect": false,
       "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/DescriptionString.json::('corpus/flat/DescriptionString.json', 'DescriptionString#1480'). Fonte legacy: data/translations/system/descriptionstring.json#1480:translation EN/hash verificati."
     },
@@ -32798,13 +32799,13 @@
     },
     {
       "en": "In principle, summoning Eminent Grief with a greater number of offerings will result in a stronger incarnation. The type and number of offerings selected may also affect boss behavior, statuses, and a variety of other factors, thus altering the difficulty of the Final Verse (Quantum) in unexpected ways.",
-      "it": "In linea di principio, più offerte usi per evocare Eminent Grief, più forte sarà la sua incarnazione. Il tipo e la quantità di offerte possono modificarne comportamento, stati e altri fattori, cambiando in modi imprevisti la difficoltà del Verso Finale (Quantico).",
+      "it": "In linea di principio, più offerte usi per evocare Dolore Supremo, più forte sarà la sua incarnazione. Il tipo e la quantità di offerte possono modificarne comportamento, stati e altri fattori, cambiando in modi imprevisti la difficoltà del Verso Finale (Quantico).",
       "protect": false,
       "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/DescriptionString.json::('corpus/flat/DescriptionString.json', 'DescriptionString#1482'). Fonte legacy: data/translations/system/descriptionstring.json#1482:translation EN/hash verificati."
     },
     {
       "en": "Upon victory, a treasure coffer will appear. Opening this treasure coffer will expend the offerings that were selected to summon Eminent Grief.<br><br>Rewards are proportionate to the number of offerings used. Additionally, the player who selected offerings before entering the duty will receive more rewards than other party members.",
-      "it": "Dopo la vittoria compare uno scrigno. Aprirlo consuma le offerte scelte per evocare Eminent Grief.<br><br>Le ricompense aumentano con il numero di offerte. Inoltre, chi le ha selezionate prima di entrare nell'incarico riceve più ricompense degli altri membri.",
+      "it": "Dopo la vittoria compare uno scrigno. Aprirlo consuma le offerte scelte per evocare Dolore Supremo.<br><br>Le ricompense aumentano con il numero di offerte. Inoltre, chi le ha selezionate prima di entrare nell'incarico riceve più ricompense degli altri membri.",
       "protect": false,
       "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/DescriptionString.json::('corpus/flat/DescriptionString.json', 'DescriptionString#1484'). Fonte legacy: data/translations/system/descriptionstring.json#1484:translation EN/hash verificati."
     },
@@ -33050,13 +33051,13 @@
     },
     {
       "en": "The Final Verse is a practice duty that pits a party of up to four players against a simulacrum of Eminent Grief. Players may speak with Vanthau to challenge this duty with a fixed or matched party.",
-      "it": "Il Verso Finale è un incarico di prova per gruppi fino a quattro giocatori contro un simulacro di Eminent Grief. Parla con Vanthau per affrontarlo con un gruppo fisso o formato tramite abbinamento.",
+      "it": "Il Verso Finale è un incarico di prova per gruppi fino a quattro giocatori contro un simulacro di Dolore Supremo. Parla con Vanthau per affrontarlo con un gruppo fisso o formato tramite abbinamento.",
       "protect": false,
       "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/DescriptionString.json::('corpus/flat/DescriptionString.json', 'DescriptionString#1558'). Fonte legacy: data/translations/system/descriptionstring.json#1558:translation EN/hash verificati."
     },
     {
       "en": "The boss summoned by invoking the Final Verse is a perfect replica of the fiend lurking beyond traverse stone 99. By practicing against this simulacrum, players will become better equipped to overcome Eminent Grief within Pilgrim's Traverse.",
-      "it": "Il boss evocato con il Verso Finale è una copia perfetta del nemico oltre la pietra 99. Allenarti contro il simulacro ti aiuterà a sconfiggere Eminent Grief nella Traversata del Pellegrino.",
+      "it": "Il boss evocato con il Verso Finale è una copia perfetta del nemico oltre la pietra 99. Allenarti contro il simulacro ti aiuterà a sconfiggere Dolore Supremo nella Traversata del Pellegrino.",
       "protect": false,
       "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/DescriptionString.json::('corpus/flat/DescriptionString.json', 'DescriptionString#1560'). Fonte legacy: data/translations/system/descriptionstring.json#1560:translation EN/hash verificati."
     },
@@ -34646,9 +34647,9 @@
     },
     {
       "en": "True to its reputation as the cradle of knowledge, Sharlayan is home to numerous private study halls and schooling facilities, but it is the prestigious Studium which represents its foremost institution of learning. The academy opened its doors in the year 432 of the Sixth Astral Era, and for over a thousand years has established a history for producing accomplished Archons and contributing to breakthroughs in every academic field.<br><br>While initial classes focused on the formal study of the arcane, the occult, and astromancy, it was from these subjects that aetherology─the exploration of magic's fundamental theory─was derived. This signaled the beginning of a more diverse curriculum, the main trunk branching out to include mundane fields such as the natural sciences of astronomy and biology. These were joined by the social sciences (law and economics), the humanities (philosophy and history), the formal sciences (mathematics and statistics), and the applied sciences (alchemy and medicine), and more on the spectrum of learning. Not all faculties are of equal size, however, with some professors teaching only a handful of pupils. This situation is exacerbated by compound disciplines such as somanoutics─combining the study of aetherology, sorcery, and medicine─the introduction of which leads to no few students transferring between faculties during their academy career.<br><br>Now unburdened by the threat of the Final Days, administrators have seized the opportunity to enact changes. The Studium's post-exodus limitations on accepting foreign students has since been lifted, and hopeful young scholars now converge on the city from every corner of Etheirys.",
-      "it": "Fedele alla fama di culla del sapere, Sharlayan ospita numerose sale di studio private e istituti scolastici, ma il prestigioso Studium resta la sua principale istituzione accademica. L'accademia aprì le porte nel 432 della Sesta Era Astrale e, da oltre mille anni, forma Arconti di grande valore e contribuisce a innovazioni in ogni campo del sapere.<br><br>Inizialmente, i corsi si concentravano sullo studio formale dell'arcano, dell'occulto e dell'astromanzia; da queste discipline nacque l'eterologia: lo studio dei fondamenti teorici della magia. Ebbe così inizio un programma di studi più ampio, il cui tronco principale si diramò per includere materie ordinarie come le scienze naturali, tra cui astronomia e biologia. Si aggiunsero poi le scienze sociali (diritto ed economia), le discipline umanistiche (filosofia e storia), le scienze formali (matematica e statistica), quelle applicate (alchimia e medicina) e molti altri campi del sapere. Le facoltà, tuttavia, non sono tutte della stessa grandezza: alcuni professori hanno appena una manciata di allievi. A complicare la situazione vi sono discipline interdisciplinari come la somanautica, che combina lo studio dell'eterologia, della stregoneria e della medicina, la cui introduzione spinge non pochi studenti a passare da una facoltà all'altra durante il percorso accademico.<br><br>Ora che non incombe più la minaccia degli Ultimi Giorni, gli amministratori hanno colto l'occasione per introdurre alcuni cambiamenti. Le restrizioni imposte dopo l'esodo all'ammissione di studenti stranieri sono state revocate e giovani studiosi pieni di speranza arrivano in città da ogni angolo di Etheirys.",
+      "it": "Fedele alla fama di culla del sapere, Sharlayan ospita numerose sale di studio private e istituti scolastici, ma il prestigioso Studium resta la sua principale istituzione accademica. L'accademia aprì le porte nel 432 della Sesta Era Astrale e, da oltre mille anni, forma Arconti di grande valore e contribuisce a innovazioni in ogni campo del sapere.<br><br>Inizialmente, i corsi si concentravano sullo studio formale dell'arcano, dell'occulto e dell'astromanzia; da queste discipline nacque l'eterologia: lo studio dei fondamenti teorici della magia. Ebbe così inizio un programma di studi più ampio, il cui tronco principale si diramò per includere materie ordinarie come le scienze naturali, tra cui astronomia e biologia. Si aggiunsero poi le scienze sociali (diritto ed economia), le discipline umanistiche (filosofia e storia), le scienze formali (matematica e statistica), quelle applicate (alchimia e medicina) e molti altri campi del sapere. Le facoltà, tuttavia, non sono tutte della stessa grandezza: alcuni professori hanno appena una manciata di allievi. A complicare la situazione vi sono discipline interdisciplinari come la Somanautica, che combina lo studio dell'eterologia, della stregoneria e della medicina, la cui introduzione spinge non pochi studenti a passare da una facoltà all'altra durante il percorso accademico.<br><br>Ora che non incombe più la minaccia degli Ultimi Giorni, gli amministratori hanno colto l'occasione per introdurre alcuni cambiamenti. Le restrizioni imposte dopo l'esodo all'ammissione di studenti stranieri sono state revocate e giovani studiosi pieni di speranza arrivano in città da ogni angolo di Etheirys.",
       "protect": false,
-      "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/AkatsukiNoteString.json::('corpus/flat/AkatsukiNoteString.json', 'AkatsukiNoteString#123'). Fonte legacy: data/translations/system/akatsukinotestring.json#123:translation EN/hash verificati."
+      "note": "Decisione dell'utente del 23 novembre 2026: nella prosa il nome della disciplina si scrive «Somanautica», con la maiuscola anche a metà frase; mantenere l'inglese nelle etichette Item e selezionabili secondo l'eccezione terminologica già registrata. Fonte legacy: data/translations/system/akatsukinotestring.json#123:translation EN/hash verificati; riferimento: corpus/flat/AkatsukiNoteString.json#AkatsukiNoteString#123."
     },
     {
       "en": "The Eighth Umbral Calamity",
@@ -34664,7 +34665,7 @@
     },
     {
       "en": "The Thirteenth was once strikingly similar to the Source, albeit possessed of its own unique history─much as might be said of any other reflection. Tragedy arrived, however, when Ascians enveloped the lands in Darkness in their attempt to shatter the barrier between the worlds and force a Rejoining. The first step of their machinations involved sharing the secrets of primal summoning and instigating wars of conquest. Heroes possessed of preternatural talents came forth to do battle, employing an art that sealed the primals away in crystal “memoria.” They then drew on the memoria's power to tip the balance and quell the conflicts for good, but from these champions arose new tyrants, intoxicated by the strength they now wielded. One by one, the heroes fell, the tides turned, and the catastrophic shift in aetherial equilibrium triggered a Flood of Darkness.<br><br>Yet even greater disaster was to come when the Ascians' Rejoining failed to channel the surfeit of Darkness unto the Source. Having nowhere else to which it could escape, these energies surged and swelled until it engulfed the Thirteenth entirely, transforming every living being on the star into twisted fiends. All that was left was a grasping void, where even the surcease of death was denied its inhabitants.<br><br>Ever since this inundation of Darkness, the veil separating worlds has been notably thinner between the Source and the void, more so than with any other reflection. Forging a passage via natural fissures or man-made gates is comparatively simple, and voidsent incursions─be they the result of deliberate summonings or otherwise─are a frequent occurrence.",
-      "it": "Un tempo il Tredicesimo era straordinariamente simile alla Sorgente, pur avendo una storia tutta sua, come si potrebbe dire di ogni altro riflesso. La tragedia giunse quando gli Asciani avvolsero quelle terre nell'Oscurità, nel tentativo di spezzare la barriera tra i mondi e provocare un Ricongiungimento. Il primo passo dei loro intrighi consistette nel rivelare i segreti dell'evocazione dei primali e fomentare guerre di conquista. Eroi dotati di capacità sovrumane scesero in battaglia e impiegarono un'arte che sigillava i primali in cristalli chiamati «memoria». Attingendo al potere della memoria, riuscirono a volgere le sorti e a porre fine ai conflitti, ma da quei campioni emersero nuovi tiranni, inebriati dalla forza di cui disponevano. Gli eroi caddero uno dopo l'altro, le sorti si capovolsero e il catastrofico squilibrio eterico provocò un Diluvio di Oscurità.<br><br>La catastrofe peggiore doveva però ancora arrivare: il Ricongiungimento degli Asciani non riuscì a convogliare nella Sorgente l'eccesso di Oscurità. Non avendo altro luogo in cui riversarsi, quell'energia crebbe e dilagò finché non inghiottì completamente il Tredicesimo, trasformando ogni essere vivente della stella in mostri deformi. Non rimase altro che un vuoto vorace, dove agli abitanti era negata persino la liberazione della morte.<br><br>Da quel Diluvio di Oscurità, il velo che separa i mondi è molto più sottile tra la Sorgente e il vuoto che tra qualsiasi altro riflesso. Aprire un passaggio attraverso fenditure naturali o varchi artificiali è relativamente facile, e le incursioni delle creature del vuoto, che siano causate da evocazioni intenzionali o meno, sono frequenti.",
+      "it": "Un tempo il Tredicesimo era straordinariamente simile alla Sorgente, pur avendo una storia tutta sua, come si potrebbe dire di ogni altro riflesso. La tragedia giunse quando gli Asciani avvolsero quelle terre nell'Oscurità, nel tentativo di spezzare la barriera tra i mondi e provocare un Ricongiungimento. Il primo passo dei loro intrighi consistette nel rivelare i segreti dell'evocazione dei primali e fomentare guerre di conquista. Eroi dotati di capacità sovrumane scesero in battaglia e impiegarono un'arte che sigillava i primali in cristalli chiamati «memoria». Attingendo al potere della memoria, riuscirono a volgere le sorti e a porre fine ai conflitti, ma da quei campioni emersero nuovi tiranni, inebriati dalla forza di cui disponevano. Gli eroi caddero uno dopo l'altro, le sorti si capovolsero e il catastrofico squilibrio eterico provocò un Diluvio di Tenebre.<br><br>La catastrofe peggiore doveva però ancora arrivare: il Ricongiungimento degli Asciani non riuscì a convogliare nella Sorgente l'eccesso di Oscurità. Non avendo altro luogo in cui riversarsi, quell'energia crebbe e dilagò finché non inghiottì completamente il Tredicesimo, trasformando ogni essere vivente della stella in mostri deformi. Non rimase altro che un vuoto vorace, dove agli abitanti era negata persino la liberazione della morte.<br><br>Da quel Diluvio di Tenebre, il velo che separa i mondi è molto più sottile tra la Sorgente e il vuoto che tra qualsiasi altro riflesso. Aprire un passaggio attraverso fenditure naturali o varchi artificiali è relativamente facile, e le incursioni delle creature del vuoto, che siano causate da evocazioni intenzionali o meno, sono frequenti.",
       "protect": false,
       "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/AkatsukiNoteString.json::('corpus/flat/AkatsukiNoteString.json', 'AkatsukiNoteString#129'). Fonte legacy: data/translations/system/akatsukinotestring.json#129:translation EN/hash verificati."
     },
@@ -34676,7 +34677,7 @@
     },
     {
       "en": "In the void, where life's natural cycle no longer holds sway, Zero strives to restore her world to its rightful state.<br><br>Zero's mother, a memoriate, was with child when she was exposed to a powerful source of Darkness during battle. Zero was thus born half-voidsent, and ceased to age after reaching adulthood. She chose to take up her mother's struggle to bring an end to the Contramemoria, but while traveling as a lone hero, she was bested by a band of corrupt memoriates. The Flood of Darkness inundated the world even as she lay dying, sweeping her soul into the rift between worlds.<br><br>When an incidental fissure at last allowed her to return, she found her world an empty void, uninhabitable by any being that was not a voidsent. Zero surrendered to hopelessness, condemned as she was to wander alone for eternity.<br><br>Although strong enough to manifest her own territory in the swirling mire, Zero rarely visited her “home” unless her aether reserves were low. It instead became a sanctuary for lesser voidsent who had grown tired of the endless battle for dominance─an intrusion she tolerated without protest.<br><br>Seeking an advantage against the Warrior of Light, it was Zenos who summoned Zero to the Source and bound her to serve as his reaper avatar. With his defeat, she was cast back unto the void, where she would once again encounter Eorzea's champion and their companions when they came in search of the great wyrm Azdaja. They gave her the name “Zero,” and struck a bargain to enlist her aid in their battle against Golbez's archfiends. As they traveled and fought together, Zero began to reconnect with a part of herself she had thought forever lost, and the discovery of how Light might be restored to her world rekindled a fire within her breast. Zero soon abandoned the pretense of payment and accompanied the Warrior of Light of her own accord, forging bonds of friendship with Jullus and many others in a way that she had shunned when fighting alone.<br><br>The quest to defeat Zeromus would eventually take her to the First to meet with Ryne, the Oracle of Light. Ryne's words gave Zero much to consider, and after contemplating what her half-voidsent nature allowed her to do that no other being could, she took within herself the power of Light.<br><br>Zero then returned to the void to confront Golbez in the depths of the moon. Golbez, too, had desired to restore the Thirteenth, but in his grief at losing his dear companion, he had been manipulated by the Ascians into unleashing the Flood of Darkness. So it was that Zero revealed to him the flicker of Light she carried, convincing the would-be conqueror that a seed of hope yet remained. During the ensuing battle with Zeromus, Zero's fervent wish to save her world transformed her into a knight of legendary appearance. A blow infused with both Light and Darkness shattered Zeromus's form, and Zero succeeded in sealing the massive voidsent's aether in memoria. Following their triumph, she joined hands with the repentant Golbez, and together they took the first steps toward bringing Light into the void.<br><br>Wary of diluting her essence, Zero has always avoided feeding on the souls of others. This insistence on consuming stray aether often led to her death through starvation, leaving her to drift in the void until her corporeal form was reconstituted. After not eating physically for so long, Zero's sense of taste had also atrophied─but she has since rediscovered this facet of cuisine after sampling heavily spiced foods in the Source. The extremely spicy curry custom-made to her preference in Radz-at-Han has become one of the city's new signature dishes.",
-      "it": "Nel vuoto, dove il ciclo naturale della vita non governa più, Zero lotta per riportare il suo mondo al giusto equilibrio.<br><br>La madre di Zero, una memoriate, era incinta quando, durante una battaglia, fu esposta a una potente fonte di Oscurità. Zero nacque così mezza creatura del vuoto e smise di invecchiare una volta raggiunta l'età adulta. Scelse di proseguire la lotta della madre e porre fine alla Contramemoria, ma, mentre viaggiava da eroina solitaria, fu sconfitta da un gruppo di memoriate corrotti. Il Diluvio di Oscurità sommerse il mondo proprio mentre lei stava morendo e la sua anima fu trascinata nella fenditura tra i mondi.<br><br>Quando una fenditura casuale le permise finalmente di tornare, trovò il suo mondo ridotto a un vuoto desolato, inabitabile per chiunque non fosse una creatura del vuoto. Zero si arrese alla disperazione e fu condannata a vagare da sola per l'eternità.<br><br>Sebbene fosse abbastanza forte da manifestare un territorio tutto suo nella palude vorticosa, Zero visitava di rado la propria «casa», a meno che non avesse poche riserve di etere. Quel luogo divenne invece un rifugio per le creature minori del vuoto stanche dell'eterna lotta per il predominio, un'intrusione che lei tollerava senza protestare.<br><br>In cerca di un vantaggio <if(gnum4,sulla Guerriera della Luce,sul Guerriero della Luce)>, Zenos evocò Zero nella Sorgente e la vincolò a sé come avatar del Mietitore. Dopo la sconfitta di Zenos, lei fu ricacciata nel vuoto, dove incontrò di nuovo <if(gnum4,la campionessa dell'Eorzea,il campione dell'Eorzea)> e i suoi compagni quando giunsero in cerca del grande wyrm Azdaja. Le diedero il nome «Zero» e strinsero un patto per arruolarla nella lotta contro gli arcidemoni di Golbez. Viaggiando e combattendo al loro fianco, Zero iniziò a ritrovare una parte di sé che credeva perduta per sempre; scoprire come riportare la Luce nel suo mondo riaccese una fiamma nel suo cuore. Presto rinunciò a pretendere un pagamento e accompagnò <if(gnum4,la Guerriera della Luce,il Guerriero della Luce)> di sua spontanea volontà, stringendo legami d'amicizia con Jullus e molti altri, un'esperienza che aveva sempre rifiutato quando combatteva da sola.<br><br>La missione per sconfiggere Zeromus la portò infine nel Primo, dove incontrò Ryne, l'Oracolo della Luce. Le parole di Ryne diedero a Zero molto su cui riflettere e, dopo aver riflettuto su ciò che soltanto la sua natura per metà creatura del vuoto le consentiva di fare, accolse in sé il potere della Luce.<br><br>Zero tornò poi nel vuoto per affrontare Golbez nelle profondità della luna. Anche lui voleva riportare il Tredicesimo al suo stato originario, ma, sconvolto dalla perdita del caro compagno, era stato manipolato dagli Asciani e aveva scatenato il Diluvio di Oscurità. Zero gli mostrò la scintilla di Luce che portava dentro di sé, convincendo l'aspirante conquistatore che restava ancora un seme di speranza. Nel successivo scontro con Zeromus, il suo ardente desiderio di salvare il mondo la trasformò in una cavaliera dall'aspetto leggendario. Un colpo intriso sia di Luce sia di Oscurità infranse la forma di Zeromus e Zero riuscì a sigillare l'etere dell'immensa creatura del vuoto in un cristallo memoria. Dopo la vittoria, si alleò con il pentito Golbez e insieme mossero i primi passi per portare la Luce nel vuoto.<br><br>Temendo di diluire la propria essenza, Zero ha sempre evitato di nutrirsi delle anime altrui. La sua ostinazione nel consumare soltanto etere disperso l'ha spesso condotta alla morte per fame, lasciandola fluttuare nel vuoto finché il suo corpo non si ricostituiva. Dopo così tanto tempo senza mangiare cibo vero, anche il suo senso del gusto si era atrofizzato, ma lo ha riscoperto assaggiando pietanze molto speziate nella Sorgente. Il curry piccantissimo preparato a suo gusto a Radz-at-Han è diventato una delle nuove specialità della città.",
+      "it": "Nel vuoto, dove il ciclo naturale della vita non governa più, Zero lotta per riportare il suo mondo al giusto equilibrio.<br><br>La madre di Zero, una memoriate, era incinta quando, durante una battaglia, fu esposta a una potente fonte di Oscurità. Zero nacque così mezza creatura del vuoto e smise di invecchiare una volta raggiunta l'età adulta. Scelse di proseguire la lotta della madre e porre fine alla Contramemoria, ma, mentre viaggiava da eroina solitaria, fu sconfitta da un gruppo di memoriate corrotti. Il Diluvio di Tenebre sommerse il mondo proprio mentre lei stava morendo e la sua anima fu trascinata nella fenditura tra i mondi.<br><br>Quando una fenditura casuale le permise finalmente di tornare, trovò il suo mondo ridotto a un vuoto desolato, inabitabile per chiunque non fosse una creatura del vuoto. Zero si arrese alla disperazione e fu condannata a vagare da sola per l'eternità.<br><br>Sebbene fosse abbastanza forte da manifestare un territorio tutto suo nella palude vorticosa, Zero visitava di rado la propria «casa», a meno che non avesse poche riserve di etere. Quel luogo divenne invece un rifugio per le creature minori del vuoto stanche dell'eterna lotta per il predominio, un'intrusione che lei tollerava senza protestare.<br><br>In cerca di un vantaggio <if(gnum4,sulla Guerriera della Luce,sul Guerriero della Luce)>, Zenos evocò Zero nella Sorgente e la vincolò a sé come avatar del Mietitore. Dopo la sconfitta di Zenos, lei fu ricacciata nel vuoto, dove incontrò di nuovo <if(gnum4,la campionessa dell'Eorzea,il campione dell'Eorzea)> e i suoi compagni quando giunsero in cerca del grande wyrm Azdaja. Le diedero il nome «Zero» e strinsero un patto per arruolarla nella lotta contro gli arcidemoni di Golbez. Viaggiando e combattendo al loro fianco, Zero iniziò a ritrovare una parte di sé che credeva perduta per sempre; scoprire come riportare la Luce nel suo mondo riaccese una fiamma nel suo cuore. Presto rinunciò a pretendere un pagamento e accompagnò <if(gnum4,la Guerriera della Luce,il Guerriero della Luce)> di sua spontanea volontà, stringendo legami d'amicizia con Jullus e molti altri, un'esperienza che aveva sempre rifiutato quando combatteva da sola.<br><br>La missione per sconfiggere Zeromus la portò infine nel Primo, dove incontrò Ryne, l'Oracolo della Luce. Le parole di Ryne diedero a Zero molto su cui riflettere e, dopo aver riflettuto su ciò che soltanto la sua natura per metà creatura del vuoto le consentiva di fare, accolse in sé il potere della Luce.<br><br>Zero tornò poi nel vuoto per affrontare Golbez nelle profondità della luna. Anche lui voleva riportare il Tredicesimo al suo stato originario, ma, sconvolto dalla perdita del caro compagno, era stato manipolato dagli Asciani e aveva scatenato il Diluvio di Tenebre. Zero gli mostrò la scintilla di Luce che portava dentro di sé, convincendo l'aspirante conquistatore che restava ancora un seme di speranza. Nel successivo scontro con Zeromus, il suo ardente desiderio di salvare il mondo la trasformò in una cavaliera dall'aspetto leggendario. Un colpo intriso sia di Luce sia di Oscurità infranse la forma di Zeromus e Zero riuscì a sigillare l'etere dell'immensa creatura del vuoto in un cristallo memoria. Dopo la vittoria, si alleò con il pentito Golbez e insieme mossero i primi passi per portare la Luce nel vuoto.<br><br>Temendo di diluire la propria essenza, Zero ha sempre evitato di nutrirsi delle anime altrui. La sua ostinazione nel consumare soltanto etere disperso l'ha spesso condotta alla morte per fame, lasciandola fluttuare nel vuoto finché il suo corpo non si ricostituiva. Dopo così tanto tempo senza mangiare cibo vero, anche il suo senso del gusto si era atrofizzato, ma lo ha riscoperto assaggiando pietanze molto speziate nella Sorgente. Il curry piccantissimo preparato a suo gusto a Radz-at-Han è diventato una delle nuove specialità della città.",
       "protect": false,
       "note": "Decisione dell'utente; canone limitato ai campi corpus/flat/AkatsukiNoteString.json::('corpus/flat/AkatsukiNoteString.json', 'AkatsukiNoteString#133'). Fonte legacy: data/translations/system/akatsukinotestring.json#133:translation EN/hash verificati."
     },
@@ -40230,6 +40231,66 @@
       "it": "Richiamo dell'Aspirazione",
       "protect": false,
       "note": "Decisione esplicita dell'utente del 2026-11-22. Etichetta del comando d'azione; usare nel messaggio di istruzioni dello stesso incarico. Fonti EN/hash: Action#18813 (F53DAFAD2BC17CE7); LogMessage#9541 (8DFBB5C21B71BF43)."
+    },
+    {
+      "en": "Skyslipper",
+      "it": "pantofola volante",
+      "forms": [
+        "pantofole volanti"
+      ],
+      "protect": false,
+      "note": "Velivolo di Eden e relativa cavalcatura. Riferimenti: Mount#188 e EObjName#2009985."
+    },
+    {
+      "en": "Eminent Grief",
+      "it": "Dolore Supremo",
+      "protect": false,
+      "note": "Boss della Traversata del Pellegrino e del Verso Finale."
+    },
+    {
+      "en": "Asphodelos",
+      "it": "Asfodelo",
+      "protect": false,
+      "note": "Decisione dell'utente del 23 novembre 2026: usare «Asfodelo» anche nelle etichette di equipaggiamento e scambio, incluse SpecialShop#1770797, #1770807, #1770817, #1770827, #1770837, #1770847 e #1770857. Prima ala di Pandemonio."
+    },
+    {
+      "en": "Narrow Road through the Deep Grass",
+      "it": "Lo Stretto Sentiero tra l'Erba Alta",
+      "protect": false,
+      "note": "Guida sui popoli della Steppa di Azim (EventItem#2003112)."
+    },
+    {
+      "en": "Master of Mimicry",
+      "it": "Maestro del Mimo",
+      "protect": false,
+      "note": "Epiteto di Gogo nel Carnevale Mascherato."
+    },
+    {
+      "en": "the benthos",
+      "it": "gli Ondo dei fondali",
+      "forms": [
+        "un Ondo dei fondali"
+      ],
+      "protect": false,
+      "note": "Fazione degli Ondo. Nei nomi dei combattenti basta «dei fondali»."
+    },
+    {
+      "en": "Flood of Darkness",
+      "it": "Diluvio di Tenebre",
+      "protect": false,
+      "note": "Catastrofe del Tredicesimo. La scelta riguarda l'evento narrativo."
+    },
+    {
+      "en": "Endeavor",
+      "it": "Impresa",
+      "protect": false,
+      "note": "Decisione dell'utente del 23 novembre 2026: nome proprio della nave della Gilda dei Pescatori per la Pesca Oceanica. Usare «Impresa» in tutti i riferimenti alla nave. Riferimenti: PlaceName#3477.0/.2; DescriptionString#319/#320/#322/#412/#510."
+    },
+    {
+      "en": "the Bounty",
+      "it": "il Mare dell'Abbondanza",
+      "protect": false,
+      "note": "Decisione dell'utente del 23 novembre 2026: nome del mare presso Thavnair. Usare «Mare dell'Abbondanza» nelle menzioni del mare e adattare articoli e preposizioni. Il nome derivato del pesce little Bounty è «Piccola Abbondanza» (FishParameter#1275.0; Item#41300.0/.2/.9). Non applicare alla taglia/ricompensa o all'aeronave Bounty (PlaceName#2255). Riferimenti: DefaultTalk#597490.20; ContentFinderConditionTransient#844; VoiceMan_06100#TEXT_VOICEMAN_06100_000190_TATARU."
     }
   ]
 }

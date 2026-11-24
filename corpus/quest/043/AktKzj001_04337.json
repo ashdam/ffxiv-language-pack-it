@@ -3,15 +3,15 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/043/AktKzj001_04337#TEXT_AKTKZJ001_04337_SEQ_00", "hash": "27FBA2333CAA9197", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Kohm Noskh ti guarda con occhi tristi." },
-    { "gameKey": "quest/043/AktKzj001_04337#TEXT_AKTKZJ001_04337_TODO_00", "hash": "683A8822B5CEFD26", "target": "Sconfiggi la bellicose broodmother" },
+    { "gameKey": "quest/043/AktKzj001_04337#TEXT_AKTKZJ001_04337_TODO_00", "hash": "683A8822B5CEFD26", "target": "Sconfiggi la matriarca bellicosa" },
     { "gameKey": "quest/043/AktKzj001_04337#TEXT_AKTKZJ001_04337_TODO_01", "hash": "274F22DC60950B41", "target": "Fai rapporto a Kohm Noskh" },
-    { "gameKey": "quest/043/AktKzj001_04337#TEXT_AKTKZJ001_04337_KOHMNOSKH_100_000", "hash": "BAD0B8972EFACB29", "target": "<if(gnum4,Minuscola viaggiatrice,Minuscolo viaggiatore)>... Hai attraversato la grande distesa per giungere al mio cospetto. Ti domando: nel tuo cammino hai trovato la forza?" },
-    { "gameKey": "quest/043/AktKzj001_04337#TEXT_AKTKZJ001_04337_KOHMNOSKH_100_001", "hash": "CC2BAECF0FE3B010", "target": "A nessuno qui è stato risparmiato il tormento della perdita... eppure anche la tragedia non colpisce tutti in egual misura." },
-    { "gameKey": "quest/043/AktKzj001_04337#TEXT_AKTKZJ001_04337_KOHMNOSKH_100_002", "hash": "EDFA32E8359C7C00", "target": "No, fra tutti i miei simili, i genitori la sentono più profondamente. Uova schiacciate davanti ai loro occhi, piccoli deformati fino a divenire irriconoscibili... non si può biasimarli se cedono alla follia." },
-    { "gameKey": "quest/043/AktKzj001_04337#TEXT_AKTKZJ001_04337_KOHMNOSKH_100_003", "hash": "C06F2FDD090F7C65", "target": "Vorrei che tu ne abbattessi una, poiché la mia forza non basta a porre fine alla sua sofferenza. Ancora vaga, inquieta, vicino al lago soffocato dalla cenere, sebbene ormai non vi sia altro che veleno..." },
-    { "gameKey": "quest/043/AktKzj001_04337#TEXT_AKTKZJ001_04337_KOHMNOSKH_100_004", "hash": "F66B4D39B3C2574E", "target": "Il lago si trova oltre il forte vetrificato. Ti supplico, poni fine alla sofferenza della madre..." },
+    { "gameKey": "quest/043/AktKzj001_04337#TEXT_AKTKZJ001_04337_KOHMNOSKH_100_000", "hash": "BAD0B8972EFACB29", "target": "<if(gnum4,Minuscola viaggiatrice,Minuscolo viaggiatore)>... Hai attraversato l'immensità per giungere al mio cospetto. Dimmi, nel tuo viaggio hai trovato la forza che cercavi?" },
+    { "gameKey": "quest/043/AktKzj001_04337#TEXT_AKTKZJ001_04337_KOHMNOSKH_100_001", "hash": "CC2BAECF0FE3B010", "target": "Qui a nessuno è stato risparmiato il tormento della perdita... eppure il dolore non ci toccò tutti in egual misura." },
+    { "gameKey": "quest/043/AktKzj001_04337#TEXT_AKTKZJ001_04337_KOHMNOSKH_100_002", "hash": "EDFA32E8359C7C00", "target": "Fra tutti i miei simili, i padri sentono la perdita più a fondo. Videro le uova schiacciate, i piccoli sfigurati oltre ogni dire... Come biasimarli se cedettero alla follia?" },
+    { "gameKey": "quest/043/AktKzj001_04337#TEXT_AKTKZJ001_04337_KOHMNOSKH_100_003", "hash": "C06F2FDD090F7C65", "target": "Ti chiedo di abbatterne una, poiché le mie forze non bastano a porre fine al suo tormento. Vaga ancora, inquieta, presso il lago soffocato dalla cenere, dove ormai non resta che veleno..." },
+    { "gameKey": "quest/043/AktKzj001_04337#TEXT_AKTKZJ001_04337_KOHMNOSKH_100_004", "hash": "F66B4D39B3C2574E", "target": "Il lago è oltre il Forte Vetrificato. Poni fine alla sofferenza della matriarca, ti supplico..." },
     { "gameKey": "quest/043/AktKzj001_04337#TEXT_AKTKZJ001_04337_BALLOON_000_005", "hash": "9BC24838F874B38E", "target": "Tu... Tu hai assassinato i miei figli!" },
-    { "gameKey": "quest/043/AktKzj001_04337#TEXT_AKTKZJ001_04337_BALLOON_000_006", "hash": "D3136BC22F6943EE", "target": "A lungo... Da così tanto tempo sono stanca..." },
+    { "gameKey": "quest/043/AktKzj001_04337#TEXT_AKTKZJ001_04337_BALLOON_000_006", "hash": "D3136BC22F6943EE", "target": "Da troppo... Da troppo tempo non conosco riposo..." },
     { "gameKey": "quest/043/AktKzj001_04337#TEXT_AKTKZJ001_04337_KOHMNOSKH_100_010", "hash": "FDD996E3D196E247", "target": "Il tuo volto dice molto... Ti ringrazio." },
     { "gameKey": "quest/043/AktKzj001_04337#TEXT_AKTKZJ001_04337_KOHMNOSKH_100_011", "hash": "9BF3CA31B25A07F5", "target": "I demoni di metallo colpirono senza avvertimento... Belli e spietati come stelle cadenti." },
     { "gameKey": "quest/043/AktKzj001_04337#TEXT_AKTKZJ001_04337_KOHMNOSKH_100_012", "hash": "BB7D82B97F0E170E", "target": "Combattemmo, sì... Ma malgrado tutta la nostra ferocia, non riuscimmo a proteggere i piccoli. I pochi sopravvissuti uscirono dalle uova deformi e urlanti..." },
@@ -21,6 +21,6 @@
     { "gameKey": "quest/043/AktKzj001_04337#TEXT_AKTKZJ001_04337_A1_000_002", "hash": "99C9DCC95D7E528B", "target": "Sulla mia stella ci sono ancora draghi." },
     { "gameKey": "quest/043/AktKzj001_04337#TEXT_AKTKZJ001_04337_A1_000_003", "hash": "4FFA5277167B1F78", "target": "Ho incontrato giovani draghi nei miei viaggi." },
     { "gameKey": "quest/043/AktKzj001_04337#TEXT_AKTKZJ001_04337_KOHMNOSKH_100_015", "hash": "04DB9BA7673C199B", "target": "Dunque i giovani hanno trovato un posto altrove... La nostra stirpe vivrà ancora." },
-    { "gameKey": "quest/043/AktKzj001_04337#TEXT_AKTKZJ001_04337_KOHMNOSKH_100_016", "hash": "DB342FCF3F38F8FA", "target": "Mi rallegra sapere che non tutto è stato vano. Che il tuo cammino ti conduca sulla giusta via, <if(gnum4,viaggiatrice,viaggiatore)>." }
+    { "gameKey": "quest/043/AktKzj001_04337#TEXT_AKTKZJ001_04337_KOHMNOSKH_100_016", "hash": "DB342FCF3F38F8FA", "target": "Mi rallegra sapere che non tutto è stato vano. Possa il tuo cammino condurti dove desideri, <if(gnum4,viaggiatrice,viaggiatore)>." }
   ]
 }
