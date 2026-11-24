@@ -37,7 +37,7 @@
     { "gameKey": "cut_scene/065/VoiceMan_06500#TEXT_VOICEMAN_06500_000290_BEQLUGG", "hash": "88800DD63141F90A", "target": "Ora mi occuperò della torre. Lascio a voi il resto." },
     { "gameKey": "cut_scene/065/VoiceMan_06500#TEXT_VOICEMAN_06500_000300_RYNE", "hash": "3021E38401F87346", "target": "Zero, giusto? Mi chiamo Ryne. È un piacere conoscerti." },
     { "gameKey": "cut_scene/065/VoiceMan_06500#TEXT_VOICEMAN_06500_000310_MYSTERIOUSPERSON", "hash": "952C16803762D2F6", "target": "Questo mondo non è come me l'aspettavo. La Luce è davvero forte qui, ma non è onnipresente né opprimente. Tutto sembra molto simile alla Sorgente." },
-    { "gameKey": "cut_scene/065/VoiceMan_06500#TEXT_VOICEMAN_06500_000320_RYNE", "hash": "105958E5E0D59F34", "target": "Grazie <if(gnum4,alla Guerriera,al Guerriero)> delle Tenebre." },
+    { "gameKey": "cut_scene/065/VoiceMan_06500#TEXT_VOICEMAN_06500_000320_RYNE", "hash": "105958E5E0D59F34", "target": "Grazie <if(gnum4,alla Guerriera,al Guerriero)> dell'Oscurità." },
     { "gameKey": "cut_scene/065/VoiceMan_06500#TEXT_VOICEMAN_06500_000330_RYNE", "hash": "366C27C25A663C7E", "target": "Se ti interessa, sarei felice di mostrarti i dintorni." },
     { "gameKey": "cut_scene/065/VoiceMan_06500#TEXT_VOICEMAN_06500_000340_MYSTERIOUSPERSON", "hash": "CF04C0072080455F", "target": "Un cielo del tutto normale. Normale... e bellissimo." },
     { "gameKey": "cut_scene/065/VoiceMan_06500#TEXT_VOICEMAN_06500_000350_MYSTERIOUSPERSON", "hash": "EE2DEC2421DE1B4E", "target": "Pensare che, dopo aver perso tanto, siano riusciti a recuperarlo..." },

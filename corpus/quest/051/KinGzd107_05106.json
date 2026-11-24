@@ -2,17 +2,17 @@
   "conversation": "quest/051/KinGzd107_05106",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_SEQ_00", "hash": "FD3908AE18851C35", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Kiishel Ja è a corto di mani e vorrebbe prendere in prestito le tue." },
-    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_TODO_00", "hash": "F1B4FF4D6439767B", "target": "Usa il Kiishel Ja's hammer per ottenere pezzi di cristallo azzurro" },
-    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_TODO_01", "hash": "A6414829F0058F85", "target": "Consegna il Kiishel Ja's hammer e i pezzi di cristallo azzurro a Kiishel Ja" },
-    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_000", "hash": "73658C8D446AB505", "target": "Sembri non temere un po' di lavoro manuale." },
-    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_001", "hash": "9CDFE5BA43A4A61C", "target": "Ci servono cristalli azzurri del Cenote Neyozzote, ma i nostri soliti aiutanti sono impegnati a riformare la città." },
-    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_002", "hash": "B052C01CF5D13EB8", "target": "Qualunque cosa faccia la città, abbiamo ancora najool da coltivare. Ti presterò il mio martello, quindi ti sarei molto grata se andassi a staccarmi due pezzi di cristallo azzurro." },
+    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_SEQ_00", "hash": "FD3908AE18851C35", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>A Kiishel Ja manca una mano e la tua le farebbe proprio comodo." },
+    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_TODO_00", "hash": "F1B4FF4D6439767B", "target": "Usa il martello di Kiishel Ja per ottenere pezzi di cristallo azzurro" },
+    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_TODO_01", "hash": "A6414829F0058F85", "target": "Consegna il martello di Kiishel Ja e i pezzi di cristallo azzurro a Kiishel Ja" },
+    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_000", "hash": "73658C8D446AB505", "target": "Hai l'aria di chi non teme un po' di fatica." },
+    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_001", "hash": "9CDFE5BA43A4A61C", "target": "Ci servono cristalli azzurri del Cenote Neyozzote, ma chi ci dà una mano di solito è occupato con i cambiamenti in città." },
+    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_002", "hash": "B052C01CF5D13EB8", "target": "Comunque vadano le cose in città, noi abbiamo dei najool da coltivare. Ti presto il mio martello. Mi faresti un gran favore se andassi a staccarmi due pezzi di cristallo azzurro." },
     { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_003", "hash": "6EFA6AA1105A8858", "target": "Troverai i cristalli che ci servono vicino agli alberi di luce vivente. Oh, e non <italic(1)>pensare<italic(0)> nemmeno di perdere il mio martello. Vale più di te." },
-    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_004", "hash": "F28204AF228DE510", "target": "Hai trovato i cristalli? E riprenderò il mio martello, per favore." },
-    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_005", "hash": "9CA4066EA97DD103", "target": "Perfetto. Mettere questi cristalli nella nostra riserva potenzia le energie dell'acqua, facendo diventare i najool più dolci." },
+    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_004", "hash": "F28204AF228DE510", "target": "Hai trovato i cristalli? Ah, ridammi anche il martello, per favore." },
+    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_005", "hash": "9CA4066EA97DD103", "target": "Perfetto. Questi cristalli arricchiscono l'acqua della cisterna e i najool diventano più dolci." },
     { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_006", "hash": "4DC919C7AD8D8CEE", "target": "A proposito, l'acqua potenziata fa brillare di più anche le bucce. Potrebbe essere l'influenza dell'albero di luce vivente." },
     { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_007", "hash": "38E245ACEE68C6BF", "target": "I forestieri possono trovare inquietanti le bucce luminose, ma non fanno male. Mangiamo najool da secoli senza effetti nocivi." },
-    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_008", "hash": "B617ACDC46A4FDA4", "target": "Comunque, ciò che c'è dentro è più importante dell'aspetto. E finché abbiamo poco altro da mangiare, i miei najool dovranno essere quanto più deliziosi possibile." }
+    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_008", "hash": "B617ACDC46A4FDA4", "target": "Comunque conta quel che c'è dentro. E finché avremo poco altro da mangiare, voglio che i miei najool siano i più buoni in circolazione." }
   ]
 }

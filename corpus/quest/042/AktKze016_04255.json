@@ -4,19 +4,19 @@
   "entries": [
     { "gameKey": "quest/042/AktKze016_04255#TEXT_AKTKZE016_04255_SEQ_00", "hash": "A7D3E20BCD4FD858", "target": "<colortype(508)><edgecolortype(509)> Sincromissione<edgecolortype(0)><colortype(0)><br>Uno strano rumore nella Valle Suprema preoccupa Bróntolo." },
     { "gameKey": "quest/042/AktKze016_04255#TEXT_AKTKZE016_04255_TODO_00", "hash": "1C6EE17BBDEC9F24", "target": "Esamina i regolatori dell'acqua" },
-    { "gameKey": "quest/042/AktKze016_04255#TEXT_AKTKZE016_04255_TODO_01", "hash": "F916191D901426B3", "target": "Fai rapporto a Bróntolo" },
+    { "gameKey": "quest/042/AktKze016_04255#TEXT_AKTKZE016_04255_TODO_01", "hash": "F916191D901426B3", "target": "Riferisci a Bróntolo" },
     { "gameKey": "quest/042/AktKze016_04255#TEXT_AKTKZE016_04255_MOPINGWAY_000_000", "hash": "9A272DFE254EE0E4", "target": "Oh, cielo... Oh, cielo, è terribile!" },
-    { "gameKey": "quest/042/AktKze016_04255#TEXT_AKTKZE016_04255_MOPINGWAY_000_001", "hash": "5319E09A0A9D4430", "target": "Meno male che sei qui! C'è un rumore strano nel canale. Credo che ci sia un problema con il sistema di regolazione dell'acqua." },
-    { "gameKey": "quest/042/AktKze016_04255#TEXT_AKTKZE016_04255_MOPINGWAY_000_002", "hash": "152E652E99F60119", "target": "E se l'acqua cominciasse a scorrere all'indietro? O peggio! Bisogna controllare tutto da cima a fondo, ma il tempo stringe e non posso farlo da solo... Almeno non in fretta quanto vorrei. Ti prego, dimmi che aiuterai." },
-    { "gameKey": "quest/042/AktKze016_04255#TEXT_AKTKZE016_04255_MOPINGWAY_000_003", "hash": "8DA0DB9888703C24", "target": "Oh, grazie al cielo. Cerca le torri d'acqua a nord e troverai i regolatori." },
+    { "gameKey": "quest/042/AktKze016_04255#TEXT_AKTKZE016_04255_MOPINGWAY_000_001", "hash": "5319E09A0A9D4430", "target": "Meno male che sei qui! Dal canale arriva un rumore strano. Credo che ci sia un problema con il sistema di regolazione dell'acqua." },
+    { "gameKey": "quest/042/AktKze016_04255#TEXT_AKTKZE016_04255_MOPINGWAY_000_002", "hash": "152E652E99F60119", "target": "E se l'acqua cominciasse a scorrere all'indietro? O peggio! Bisogna controllare tutto da cima a fondo e non c'è tempo da perdere. Da solo non ce la farò... almeno, non abbastanza in fretta. Dimmi che mi aiuterai!" },
+    { "gameKey": "quest/042/AktKze016_04255#TEXT_AKTKZE016_04255_MOPINGWAY_000_003", "hash": "8DA0DB9888703C24", "target": "Oh, grazie al cielo. Vai alle torri d'acqua a nord e troverai i regolatori." },
     { "gameKey": "quest/042/AktKze016_04255#TEXT_AKTKZE016_04255_MOPINGWAY_000_004", "hash": "FDA8904905258BC0", "target": "Se te ne occupi, io penserò al resto. Ci ritroveremo qui quando avrai finito." },
     { "gameKey": "quest/042/AktKze016_04255#TEXT_AKTKZE016_04255_MOPINGWAY_000_005", "hash": "7DF06D97C8383838", "target": "Controlla le torri d'acqua a nord e io penserò al resto." },
     { "gameKey": "quest/042/AktKze016_04255#TEXT_AKTKZE016_04255_SYSTEM_000_010", "hash": "6E4C4EA16068D298", "target": "Non senti nulla d'insolito." },
-    { "gameKey": "quest/042/AktKze016_04255#TEXT_AKTKZE016_04255_SYSTEM_000_011", "hash": "69F30A1E78E38455", "target": "Senti uno strano borbottio gorgogliante. La macchina sembra non funzionare bene." },
-    { "gameKey": "quest/042/AktKze016_04255#TEXT_AKTKZE016_04255_MOPINGWAY_000_020", "hash": "0697FBD91C23A1CB", "target": "Com'è andata dalla tua parte?" },
-    { "gameKey": "quest/042/AktKze016_04255#TEXT_AKTKZE016_04255_MOPINGWAY_000_021", "hash": "45CB36BD5EC46D6F", "target": "Un borbottio al regolatore nord-orientale? Mh... Credo di sapere quale sia il problema." },
+    { "gameKey": "quest/042/AktKze016_04255#TEXT_AKTKZE016_04255_SYSTEM_000_011", "hash": "69F30A1E78E38455", "target": "Senti un gorgoglio insolito. La macchina sembra guasta." },
+    { "gameKey": "quest/042/AktKze016_04255#TEXT_AKTKZE016_04255_MOPINGWAY_000_020", "hash": "0697FBD91C23A1CB", "target": "Hai trovato qualcosa?" },
+    { "gameKey": "quest/042/AktKze016_04255#TEXT_AKTKZE016_04255_MOPINGWAY_000_021", "hash": "45CB36BD5EC46D6F", "target": "Un gorgoglio al regolatore a nord-est? Mh... Credo di sapere quale sia il problema." },
     { "gameKey": "quest/042/AktKze016_04255#TEXT_AKTKZE016_04255_MOPINGWAY_000_022", "hash": "AB7F64D7CFE6AB4B", "target": "Abbiamo liberato pesci nel fiume perché gli ospiti possano pescare, ma probabilmente sono attratti dal calore dei regolatori." },
-    { "gameKey": "quest/042/AktKze016_04255#TEXT_AKTKZE016_04255_MOPINGWAY_000_023", "hash": "EBB661EB930EC858", "target": "Niente paura! È solo un piccolo ostacolo sulla strada per creare una struttura ricreativa fantastica e, grazie a te, possiamo spianare il cammino." },
-    { "gameKey": "quest/042/AktKze016_04255#TEXT_AKTKZE016_04255_MOPINGWAY_000_024", "hash": "BCFA913C2D13EFDB", "target": "Quando avremo finito, spero che tornerai e ti godrai tutto ciò che offriamo." }
+    { "gameKey": "quest/042/AktKze016_04255#TEXT_AKTKZE016_04255_MOPINGWAY_000_023", "hash": "EBB661EB930EC858", "target": "Niente paura! È un piccolo intoppo. Con il tuo aiuto lo risolveremo e potremo fare di questo posto un centro ricreativo come si deve." },
+    { "gameKey": "quest/042/AktKze016_04255#TEXT_AKTKZE016_04255_MOPINGWAY_000_024", "hash": "BCFA913C2D13EFDB", "target": "Quando avremo finito, spero che tornerai e ti divertirai con tutto quel che abbiamo preparato." }
   ]
 }
