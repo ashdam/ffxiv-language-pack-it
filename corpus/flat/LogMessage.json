@@ -547,7 +547,7 @@
     { "gameKey": "LogMessage#558", "hash": "4834D0F0E6BB898E", "target": "<head(<if([gstr1==gstr2],,<if(gnum7,<ennoun(ObjStr,3,gnum7,1,1)>,gstr2)> )><if([gstr1==gstr2],soccombi,soccombe)>)> contro <if([gstr1==gstr3],<if(gnum8,<ennoun(ObjStr,3,gnum8,1,1)>,te)>,<if(gnum8,<ennoun(ObjStr,3,gnum8,1,1)>,gstr3)>)>." },
     { "gameKey": "LogMessage#559", "hash": "CC5C4983F66E4BEF", "target": "<head(<if([gstr1==gstr3],<if(gnum8,<ennoun(ObjStr,3,gnum8,1,1)> ,)>,<if(gnum8,<ennoun(ObjStr,3,gnum8,1,1)>,gstr3)> )><if([gstr1==gstr3],subisci,subisce)>)> una sconfitta." },
     { "gameKey": "LogMessage#560", "hash": "B3ABEDC8FDCA50F5", "target": "<head(<if([gstr1==gstr2],,<if(gnum7,<ennoun(ObjStr,3,gnum7,1,1)>,gstr2)> )><if([gstr1==gstr2],torni,torna)>)> in vita." },
-    { "gameKey": "LogMessage#561", "hash": "AE73130CE90C3554", "target": "<if([gstr1==gstr2],Passi a <sheet(ClassJob,lnum1,0)>,<head(<if(gnum7,<ennoun(ObjStr,3,gnum7,1,1)>,gstr2)>)> passa a <sheet(ClassJob,lnum1,0)>)>." },
+    { "gameKey": "LogMessage#561", "hash": "AE73130CE90C3554", "target": "<if([gstr1==gstr2],Passi a <headall(<sheet(ClassJob,lnum1,0)>)>,<head(<if(gnum7,<ennoun(ObjStr,3,gnum7,1,1)>,gstr2)>)> passa a <headall(<sheet(ClassJob,lnum1,0)>)>)>." },
     { "gameKey": "LogMessage#562", "hash": "7FE7AEBD2E9125C6", "target": "Il bersaglio non è nel campo visivo." },
     { "gameKey": "LogMessage#563", "hash": "6CB6445ABDE4069B", "target": "Bersaglio non valido." },
     { "gameKey": "LogMessage#564", "hash": "C32B729426623ECB", "target": "Il bersaglio è privo di sensi." },
