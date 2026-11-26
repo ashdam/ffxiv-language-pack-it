@@ -2,7 +2,7 @@
   "conversation": "quest/031/StmBdg101_03184",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/031/StmBdg101_03184#TEXT_STMBDG101_03184_SEQ_00", "hash": "DCAE919DEF17C2BF", "target": "A giudicare dall'espressione cupa, Hoary Boulder non ha novità. E in questo caso, nessuna notizia potrebbe essere una cattiva notizia." },
+    { "gameKey": "quest/031/StmBdg101_03184#TEXT_STMBDG101_03184_SEQ_00", "hash": "DCAE919DEF17C2BF", "target": "A giudicare dall'espressione cupa, Masso Vetusto non ha novità. E in questo caso, nessuna notizia potrebbe essere una cattiva notizia." },
     { "gameKey": "quest/031/StmBdg101_03184#TEXT_STMBDG101_03184_SEQ_01", "hash": "35977E377F808CB5", "target": "Purtroppo, le condizioni degli Eredi non sono cambiate. Prima che Hoary possa aggiungere altro, però, arriva Maxima per chiedere di Alphinaud. Confortato dal sapere che è al sicuro e riceve le cure necessarie, Maxima si prepara ad andarsene e ti invita a incontrare un uomo che afferma essere una tua conoscenza." },
     { "gameKey": "quest/031/StmBdg101_03184#TEXT_STMBDG101_03184_SEQ_02", "hash": "8899143A0400822D", "target": "Dopo un breve tragitto fino a Lacrimargento Settentrionale, trovi Maxima in compagnia del tuo amico Cid. Fate appena in tempo a salutarvi che un soldato dell'Alleanza arriva con un messaggio per <if(gnum4,la Guerriera,il Guerriero)> della Luce. Raubahn ti vuole ad Ala Mhigo per discutere la strategia. Cid si offre di accompagnarti a bordo dell'<italic(1)>Excelsior<italic(0)>." },
     { "gameKey": "quest/031/StmBdg101_03184#TEXT_STMBDG101_03184_SEQ_03", "hash": "3008F340C6EB0DD6", "target": "Arrivi ad Ala Mhigo senza perdere tempo. Cid ti rivolge qualche parola d'incoraggiamento prima che tu vada da Raubahn." },

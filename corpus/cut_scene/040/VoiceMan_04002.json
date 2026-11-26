@@ -222,7 +222,7 @@
     { "gameKey": "cut_scene/040/VoiceMan_04002#TEXT_VOICEMAN_04002_002100_LYSE", "hash": "9ADD9D7E7A831ADF", "target": "Giusto! Anche se... non sembrano intenzionati a lasciarci andare..." },
     { "gameKey": "cut_scene/040/VoiceMan_04002#TEXT_VOICEMAN_04002_002110_ALISAIE", "hash": "B06616711E49FABE", "target": "Ascoltatemi, Kojin Rossi!<br>Non abbiamo nulla contro di voi, solo contro i vostri padroni imperiali!" },
     { "gameKey": "cut_scene/040/VoiceMan_04002#TEXT_VOICEMAN_04002_002120_ALISAIE", "hash": "73AF5DF25C9CA554", "target": "Oggi non occorre versare altro sangue! Vi prego, lasciateci andare in pace!" },
-    { "gameKey": "cut_scene/040/VoiceMan_04002#TEXT_VOICEMAN_04002_002130_KOUJINTAICHO", "hash": "41C3111B8E9D6239", "target": "Osi parlarci di pace!? La tua carne nutrirà i pesci, ladra! All'attacco!" },
+    { "gameKey": "cut_scene/040/VoiceMan_04002#TEXT_VOICEMAN_04002_002130_KOUJINTAICHO", "hash": "41C3111B8E9D6239", "target": "Osi parlarci di pace!? La tua carne nutrirà i pesci, <if(gnum4,ladra,ladro)>! All'attacco!" },
     { "gameKey": "cut_scene/040/VoiceMan_04002#TEXT_VOICEMAN_04002_002140_LYSE", "hash": "92E0AAF535EE4BE2", "target": "È la nostra occasione! Non preoccuparti per lei: sa badare a se stessa!" },
     { "gameKey": "cut_scene/040/VoiceMan_04002#TEXT_VOICEMAN_04002_002150_ALISAIE", "hash": "609AFCD7720EA075", "target": "Non posso lasciare a te tutta la gloria, vero?" },
     { "gameKey": "cut_scene/040/VoiceMan_04002#TEXT_VOICEMAN_04002_002160_TANSUI", "hash": "AD988537E5BD231C", "target": "Amici Eorzeani! Avete visto il fumo? Peccato non siate arrivati prima, ma immagino foste impegnati altrove." },
