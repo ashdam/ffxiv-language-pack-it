@@ -8,7 +8,7 @@
     { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_A1_000_002", "hash": "148CC578AEE96451", "target": "No" },
     { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_DAYLY_000_010", "hash": "462D66AA91CCCE7F", "target": "Molto bene, <if(gnum4,signorina,signore)>. Ma ricordate: col Mini Cactpot, basta grattare per trovare la prosperità!" },
     { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_DAYLY_000_020", "hash": "9AFC08A97F63757B", "target": "Magnifico, <if(gnum4,signorina,signore)>! Ora permettetemi di spiegarvi: il Mini Cactpot è un gioco basato sulla fortuna, a cui potete giocare tre volte al giorno." },
-    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_DAYLY_000_021", "hash": "8CE246A8B3F69164", "target": "Giocare è semplicissimo: vi basta indovinare il valore dei numeri coperti per vincere alla grande. Se Nymeia vi assiste, farete il pieno di MGP!" },
+    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_DAYLY_000_021", "hash": "8CE246A8B3F69164", "target": "Giocare è semplicissimo: vi basta indovinare il valore dei numeri coperti per vincere alla grande. Se Nymeia vi assiste, farete il pieno di PGS!" },
     { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_DAYLY_000_022", "hash": "37C09D9D37407910", "target": "Allora, <if(gnum4,signorina,signore)>... ve la sentite di tentare la fortuna?" },
     { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_DAYLY_100_030", "hash": "C348D184B3E333BB", "target": "Ora puoi acquistare biglietti del Mini Cactpot." },
     { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_SYSTEM_000_030", "hash": "35FF20105056AA7B", "target": "Ora puoi acquistare fino a tre biglietti del Mini Cactpot al giorno." },
