@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "custom/008/FesAnv2023MiniGame_00830#TEXT_FESANV2023MINIGAME_00830_NONORA_000_009", "hash": "DE82CEC305E9B2A4", "target": "Salve. Nell'ambito delle celebrazioni della Rinascita, stiamo preparando un gioco entusiasmante per il vostro divertimento." },
     { "gameKey": "custom/008/FesAnv2023MiniGame_00830#TEXT_FESANV2023MINIGAME_00830_NONORA_000_010", "hash": "6C379BDD7E520D4F", "target": "Ci vorrà ancora un po', però, e nel frattempo vi chiediamo di pazientare." },
-    { "gameKey": "custom/008/FesAnv2023MiniGame_00830#TEXT_FESANV2023MINIGAME_00830_NONORA_000_011", "hash": "F764D3B6E933A781", "target": "Oh? Siete <if(gnum4,l'avventuriera,l'avventuriero)> che ci aiutò con l'infestazione di bug qualche anno fa, vero? È un piacere rivedervi." },
+    { "gameKey": "custom/008/FesAnv2023MiniGame_00830#TEXT_FESANV2023MINIGAME_00830_NONORA_000_011", "hash": "F764D3B6E933A781", "target": "Oh? Siete <if(gnum4,l'avventuriera,l'avventuriero)> che ci aiutò con l'infestazione di insetti qualche anno fa, vero? È un piacere rivedervi." },
     { "gameKey": "custom/008/FesAnv2023MiniGame_00830#TEXT_FESANV2023MINIGAME_00830_NONORA_000_012", "hash": "94DA5E90701E662A", "target": "Se ve lo state chiedendo, nell'ambito delle celebrazioni della Rinascita stiamo preparando un gioco entusiasmante per il vostro divertimento. Ci vorrà ancora un po', però, e nel frattempo vi chiediamo di pazientare." },
     { "gameKey": "custom/008/FesAnv2023MiniGame_00830#TEXT_FESANV2023MINIGAME_00830_NONORA_000_000", "hash": "3CAA717F93C6B069", "target": "Salve! Siete qui per mettere alla prova le vostre abilità con l'emozionante Avventura Kupo Kupo?" },
     { "gameKey": "custom/008/FesAnv2023MiniGame_00830#TEXT_FESANV2023MINIGAME_00830_Q1_000_000", "hash": "C50B7F2D8C0A87C5", "target": "Che cosa dirai?" },
@@ -18,6 +18,6 @@
     { "gameKey": "custom/008/FesAnv2023MiniGame_00830#TEXT_FESANV2023MINIGAME_00830_NONORA_000_005", "hash": "B60B060FD1518A2E", "target": "Se avete un momento libero, provatelo senz'altro!" },
     { "gameKey": "custom/008/FesAnv2023MiniGame_00830#TEXT_FESANV2023MINIGAME_00830_NONORA_000_006", "hash": "5CD56C5DE6829BC5", "target": "D-di me? Beh, non c'è molto da dire. Sono solo una comune cittadina di Ul'dah." },
     { "gameKey": "custom/008/FesAnv2023MiniGame_00830#TEXT_FESANV2023MINIGAME_00830_NONORA_000_007", "hash": "D035F230B08C0B0A", "target": "Avevo già aiutato il menestrello errante per la Rinascita, e mi è stato chiesto di farlo di nuovo. Basti dire che i miei servizi vengono ricompensati adeguatamente." },
-    { "gameKey": "custom/008/FesAnv2023MiniGame_00830#TEXT_FESANV2023MINIGAME_00830_NONORA_000_008", "hash": "0A0C828DBE017787", "target": "Non ho dimenticato quando ci avete aiutato con l'infestazione di bug. Allora avete davvero salvato i festeggiamenti, e non vi ringrazieremo mai abbastanza!" }
+    { "gameKey": "custom/008/FesAnv2023MiniGame_00830#TEXT_FESANV2023MINIGAME_00830_NONORA_000_008", "hash": "0A0C828DBE017787", "target": "Non ho dimenticato quando ci avete aiutato con l'infestazione di insetti. Allora avete davvero salvato i festeggiamenti, e non vi ringrazieremo mai abbastanza!" }
   ]
 }

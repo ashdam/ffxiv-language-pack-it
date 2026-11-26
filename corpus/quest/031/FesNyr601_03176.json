@@ -14,7 +14,7 @@
     { "gameKey": "quest/031/FesNyr601_03176#TEXT_FESNYR601_03176_TODO_01", "hash": "C4A430E6AE38FF84", "target": "Parla con Klindrael" },
     { "gameKey": "quest/031/FesNyr601_03176#TEXT_FESNYR601_03176_TODO_02", "hash": "6335C9C4C2614659", "target": "Parla con Neneroon" },
     { "gameKey": "quest/031/FesNyr601_03176#TEXT_FESNYR601_03176_TODO_03", "hash": "93DD51D96E3AB60E", "target": "Fai rapporto al magistrato del topo" },
-    { "gameKey": "quest/031/FesNyr601_03176#TEXT_FESNYR601_03176_TODO_04", "hash": "230AF999CB21609D", "target": "Completa il FATE «È Vivo!» in La Noscea Centrale" },
+    { "gameKey": "quest/031/FesNyr601_03176#TEXT_FESNYR601_03176_TODO_04", "hash": "230AF999CB21609D", "target": "Completa il FATE «<sheet(Fate,1387,0)>» in La Noscea Centrale" },
     { "gameKey": "quest/031/FesNyr601_03176#TEXT_FESNYR601_03176_TODO_05", "hash": "5E7BF8273A7B4F08", "target": "Parla con il magistrato del topo a Limsa Lominsa" },
     { "gameKey": "quest/031/FesNyr601_03176#TEXT_FESNYR601_03176_MOUSEMISSIONARY_000_001", "hash": "24E2BB17357AA094", "target": "Ah, avete l'aria di chi ha viaggiato all'estero! Siete forse <if(gnum4,un'avventuriera,un avventuriero)> che conosce bene le usanze di altri popoli?" },
     { "gameKey": "quest/031/FesNyr601_03176#TEXT_FESNYR601_03176_MOUSEMISSIONARY_000_002", "hash": "2753FBD0178C186D", "target": "Vengo dall'Estremo Oriente, dove celebriamo il Capodanno Celeste proprio come qui a Eorzea. Ma anziché un dio, come i vostri Dodici, scegliamo un animale che rappresenti l'anno a venire." },

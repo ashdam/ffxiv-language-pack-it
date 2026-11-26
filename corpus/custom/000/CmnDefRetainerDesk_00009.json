@@ -83,7 +83,7 @@
     { "gameKey": "custom/000/CmnDefRetainerDesk_00009#TEXT_CMNDEFRETAINERDESK_00009_NAME_PROMPT_TITLE", "hash": "76808F1C7476B7A8", "target": "Soprannome del servitore" },
     { "gameKey": "custom/000/CmnDefRetainerDesk_00009#TEXT_CMNDEFRETAINERDESK_00009_NAME_PROMPT_MESSAGE0", "hash": "F16D726DF3E375C5", "target": "Dai un soprannome al tuo servitore." },
     { "gameKey": "custom/000/CmnDefRetainerDesk_00009#TEXT_CMNDEFRETAINERDESK_00009_NAME_PROMPT_MESSAGE1", "hash": "76421036B26241CA", "target": "I nomi devono contenere almeno 3 caratteri e possono includere lettere, apostrofi e trattini. I trattini non possono essere consecutivi né trovarsi subito prima o dopo un apostrofo." },
-    { "gameKey": "custom/000/CmnDefRetainerDesk_00009#TEXT_CMNDEFRETAINERDESK_00009_NAME_PROMPT_HEAD", "hash": "D69E98ED329BD364", "target": "" },
+    { "gameKey": "custom/000/CmnDefRetainerDesk_00009#TEXT_CMNDEFRETAINERDESK_00009_NAME_PROMPT_HEAD", "hash": "D69E98ED329BD364", "target": " " },
     { "gameKey": "custom/000/CmnDefRetainerDesk_00009#TEXT_CMNDEFRETAINERDESK_00009_CANCEL_CONFIRM", "hash": "818FD23AF7DB621B", "target": "Vuoi davvero annullare la procedura di assunzione?" },
     { "gameKey": "custom/000/CmnDefRetainerDesk_00009#TEXT_CMNDEFRETAINERDESK_00009_CREATE_CONFIRM", "hash": "C95A88A1CCC1BE6A", "target": "Assumere <string(lstr1)>?" },
     { "gameKey": "custom/000/CmnDefRetainerDesk_00009#TEXT_CMNDEFRETAINERDESK_00009_ASK_CREATE", "hash": "77EC3D729F680DD4", "target": "Assumere un servitore?" },

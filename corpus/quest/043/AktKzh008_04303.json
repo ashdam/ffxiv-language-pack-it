@@ -16,7 +16,7 @@
     { "gameKey": "quest/043/AktKzh008_04303#TEXT_AKTKZH008_04303_ANIMALB04303_000_008", "hash": "BC5487C209EF95A5", "target": "Hrnnng... Graaah!" },
     { "gameKey": "quest/043/AktKzh008_04303#TEXT_AKTKZH008_04303_GLAUKON_100_010", "hash": "A0FD7346DED1633F", "target": "Già di ritorno? E con la melma, spero...?" },
     { "gameKey": "quest/043/AktKzh008_04303#TEXT_AKTKZH008_04303_GLAUKON_100_011", "hash": "72144819233D0022", "target": "Se solo ogni famiglio fosse utile come te! Con questa posso fare una pozione che aumenti la tua produzione di etere." },
-    { "gameKey": "quest/043/AktKzh008_04303#TEXT_AKTKZH008_04303_GLAUKON_100_012", "hash": "B9D3E89BB8F91DEC", "target": "Gli altri ingredienti sono pronti: cervello d'ippogrifo, un corno di monoceros e viscere di ophion." },
+    {"gameKey": "quest/043/AktKzh008_04303#TEXT_AKTKZH008_04303_GLAUKON_100_012","hash": "B9D3E89BB8F91DEC","target": "Gli altri ingredienti sono pronti: cervello d'ippogrifo, un corno di monocero e viscere di ophion."},
     { "gameKey": "quest/043/AktKzh008_04303#TEXT_AKTKZH008_04303_GLAUKON_100_013", "hash": "1EAB900440D06213", "target": "Il preparato compenserà ogni carenza naturale, sfruttando le proprietà camaleontiche della melma per generare etere compatibile con la tua firma eterea. Ingegnoso, no?" },
     { "gameKey": "quest/043/AktKzh008_04303#TEXT_AKTKZH008_04303_GLAUKON_100_014", "hash": "E3FC6AA0F9185FA0", "target": "Dopo un po' d'infusione sarà pronto da bere. Oh, che emozione! Non vedo l'ora di vedere quanto sarà <italic(1)>esplosivo<italic(0)> l'aumento del tuo etere." },
     { "gameKey": "quest/043/AktKzh008_04303#TEXT_AKTKZH008_04303_Q1_000_015", "hash": "A0D8AE674A988F4E", "target": "Che cosa dirai?" },
