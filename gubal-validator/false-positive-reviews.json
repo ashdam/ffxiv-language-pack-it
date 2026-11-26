@@ -170861,6 +170861,7 @@
     {"rule": "[it]lp-terminology-drift-items", "gameKey": "quest/002/FesNyr102_00287#TEXT_FESNYR102_00287_SEQ_04", "hash": "939EF72997B91FDC", "why": "«Rebels» è il verbo riferito all'agnellino che si ribella al magistrato. Item#27476 è il nome di un oggetto."},
     {"rule": "[it]lp-terminology-drift-items", "gameKey": "quest/003/FesNyr105_00309#TEXT_FESNYR105_00309_SEQ_01", "hash": "AC1997B14D9B74B0", "why": "«The Lodestone» è il sito ufficiale a cui rimanda l'avviso dell'evento. Item#33780 è la Pietra Calamita."},
     {"rule": "[it]lp-terminology-drift-placenames", "gameKey": "quest/002/FesNyr102_00287#TEXT_FESNYR102_00287_SEQ_04", "hash": "7399721A140FA95A", "why": "«On the brink of oblivion» descrive il rischio di morte dell'agnellino. PlaceName#1398 è il toponimo Oblio."},
-    {"rule": "[it]lp-terminology-drift-placenames", "gameKey": "quest/003/FesNyr105_00309#TEXT_FESNYR105_00309_SEQ_02", "hash": "3A0090F881F5E899", "why": "«Watering hole» indica la taverna Forziere e la Bara citata nel diario. PlaceName#669 indica la Fossa."}
+    {"rule": "[it]lp-terminology-drift-placenames", "gameKey": "quest/003/FesNyr105_00309#TEXT_FESNYR105_00309_SEQ_02", "hash": "3A0090F881F5E899", "why": "«Watering hole» indica la taverna Forziere e la Bara citata nel diario. PlaceName#669 indica la Fossa."},
+    {"rule": "[it]lp-terminology-drift-placenames", "gameKey": "quest/003/FesNyr105_00309#TEXT_FESNYR105_00309_SYSTEM_000_026", "hash": "081D76305AD79070", "why": "«Exit the game» indica l'azione di uscire dal gioco. Le voci PlaceName#528, #534, #665 e #2554 denominano uscite fisiche."}
   ]
 }
