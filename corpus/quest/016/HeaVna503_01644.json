@@ -2,7 +2,7 @@
   "conversation": "quest/016/HeaVna503_01644",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/016/HeaVna503_01644#TEXT_HEAVNA503_01644_SEQ_00", "hash": "283B0240E2D44D46", "target": "Alphinaud intende iniziare a perlustrare la Finestra Azzurra." },
+    { "gameKey": "quest/016/HeaVna503_01644#TEXT_HEAVNA503_01644_SEQ_00", "hash": "283B0240E2D44D46", "target": "Alphinaud intende iniziare a perlustrare la Finestra Blu." },
     { "gameKey": "quest/016/HeaVna503_01644#TEXT_HEAVNA503_01644_SEQ_01", "hash": "E9DE34A6A0EEA746", "target": "Alphinaud dice che è ora di mettersi sul serio a cercare la <italic(1)>Soleil<italic(0)> tra le isole. Seguilo a est e usa /lookout per avvistare l'aeronave scomparsa." },
     { "gameKey": "quest/016/HeaVna503_01644#TEXT_HEAVNA503_01644_SEQ_02", "hash": "554AF4AAB1D06DBF", "target": "Il punto di osservazione offre un'ottima vista sulle isole circostanti, ma non scorgi nulla che somigli all'aeronave dell'Arcivescovo. Prosegui verso nord e usa di nuovo /lookout." },
     { "gameKey": "quest/016/HeaVna503_01644#TEXT_HEAVNA503_01644_SEQ_03", "hash": "D07B51A94B163CAC", "target": "Durante la ricerca ti imbatti in una scena inattesa: un reparto di soldati imperiali ha accerchiato un Vanu Vanu terrorizzato. Prima che tu riesca a capire che succede, i soldati vi scambiano per gente di Ishgard e cercano di catturare anche voi, a quanto pare per ordine di «Lord van Hydrus». Con l'aiuto di Alphinaud li sconfiggi e liberi il prigioniero." },

@@ -8,7 +8,7 @@
     { "gameKey": "MiniGameTurnBreakAction#2.9", "hash": "5D8E4E3E7BC914A2", "target": "Infligge <num(lnum1)> danni a tutti i nemici in un'area il cui centro si trova <num(lnum2)> caselle davanti a te.<br>Costo PM: <num(lnum3)>   <if([lnum4>1],Turni di ricarica,Turno di ricarica)>: <num(lnum4)>" },
     { "gameKey": "MiniGameTurnBreakAction#3.8", "hash": "D6B2399FE8FC0439", "target": "Pom Meteora" },
     { "gameKey": "MiniGameTurnBreakAction#3.9", "hash": "0207E2CD1EEC036D", "target": "Infligge <num(lnum1)> danni a tutti i nemici.<br>Costo PM: <num(lnum3)>   <if([lnum4>1],Turni di ricarica,Turno di ricarica)>: <num(lnum4)>" },
-    { "gameKey": "MiniGameTurnBreakAction#4.8", "hash": "1E03801D76C86D2C", "target": "Pom Cura" },
+    { "gameKey": "MiniGameTurnBreakAction#4.8", "hash": "1E03801D76C86D2C", "target": "Pom Energia" },
     { "gameKey": "MiniGameTurnBreakAction#4.9", "hash": "AE9D32811BF4F337", "target": "Ripristina <num(lnum1)> PV.<br>Costo PM: <num(lnum3)>   <if([lnum4>1],Turni di ricarica,Turno di ricarica)>: <num(lnum4)>" },
     { "gameKey": "MiniGameTurnBreakAction#5.8", "hash": "0B260E7D35C5CEF7", "target": "Pom Esuna" },
     { "gameKey": "MiniGameTurnBreakAction#5.9", "hash": "3435CB069FCAA15E", "target": "Rimuove tutti gli effetti nocivi, eccetto Sentenza.<br>Costo PM: <num(lnum3)>   <if([lnum4>1],Turni di ricarica,Turno di ricarica)>: <num(lnum4)>" },
