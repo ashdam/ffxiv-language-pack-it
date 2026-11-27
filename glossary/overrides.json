@@ -616,7 +616,7 @@
     { "en": "Great Serpent of Ronka", "it": "Grande Serpente di Ronka", "protect": false, "note": "Use for the deity in narrative praise. Keep exact minion and selectable labels in English. Unverified Italian form." },
     { "en": "Milkroot", "it": "radice lattea", "protect": false, "note": "Use for the plant in prose and the transparent EventItem. Keep exact Item labels in English. Unverified Italian form." },
     { "en": "hora", "it": "hora", "protect": false, "note": "Use the invariable weapon type. Keep full Item names in English. Unverified Italian form." },
-    { "en": "Oak Atrium", "it": "Atrio della Quercia", "protect": false, "note": "Use for the building in prose. Keep exact UI and travel labels in English. Unverified Italian form." },
+    { "en": "Oak Atrium", "it": "Atrio della Quercia", "protect": false, "note": "Decisione dell'utente (2026-11-27): nome della sede della Gilda dei Falegnami a Gridania, in prosa e nelle etichette. Riferimenti: PlaceName#553 e PlaceName#555." },
     { "en": "Master of Lessons", "it": "maestro", "protect": false, "note": "Use the short narrative title. Do not expand the title or change exact UI labels. Unverified Italian form." },
     { "en": "fullhanded", "it": "manipiene", "protect": false, "note": "Moblin compound for busy hands. Keep the compound form in prose. Keep exact selectable labels in English. Unverified Italian form." },
     { "en": "sweatbrowed", "it": "frontesudate", "protect": false, "note": "Moblin compound for sweating brows. Keep the compound form in prose. Keep exact selectable labels in English. Unverified Italian form." },
