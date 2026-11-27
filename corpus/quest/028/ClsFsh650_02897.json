@@ -57,6 +57,6 @@
     { "gameKey": "quest/028/ClsFsh650_02897#TEXT_CLSFSH650_02897_REYNA_000_096", "hash": "33A207A57D5002C2", "target": "Intanto ti sarei grata se dicessi al capogilda Wawalago che lo contatteremo appena avremo scoperto qualcosa. Non è emozionante, <split(<string(gstr1)>, ,1)>? Non vedo l'ora di vedere dove ci porta questa pista!" },
     { "gameKey": "quest/028/ClsFsh650_02897#TEXT_CLSFSH650_02897_WAWALAGO_000_100", "hash": "D3C4ABA67CF57A7C", "target": "Fantastico, <if(gnum4,amica mia,amico mio)>! Hai trovato quei pesci così sfuggenti! Ora ci aspetta un compito arduo: fermarne il declino e far sì che tornino a prosperare! Ahimè... Dico «ci», ma io non posso esserti di grande aiuto, almeno finché Sisipu mi tiene d'occhio così..." },
     { "gameKey": "quest/028/ClsFsh650_02897#TEXT_CLSFSH650_02897_WAWALAGO_000_101", "hash": "13C4D8C473BFB5A1", "target": "Il povero Wawalago non può nemmeno bersi una pinta senza le sue proteste, figurati appartarsi per sussurrare i nostri piani in una fonoperla... Mi sa che mi toccherà aspettare e badare ai fatti miei finché Reyna non ci farà sapere le ultime novità." },
-    { "gameKey": "quest/028/ClsFsh650_02897#TEXT_CLSFSH650_02897_SYSTEM_000_500", "hash": "6E0142BC8C861F85", "target": "Esplorando nuove acque come <if(gnum4,pescatrice,pescatore)>, hai imparato «Doppio Amo»!" }
+    { "gameKey": "quest/028/ClsFsh650_02897#TEXT_CLSFSH650_02897_SYSTEM_000_500", "hash": "6E0142BC8C861F85", "target": "Esplorando nuove acque come <if(gnum4,pescatrice,pescatore)>, hai imparato «Doppia Ferrata»!" }
   ]
 }
