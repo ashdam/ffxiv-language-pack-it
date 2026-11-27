@@ -1,7 +1,7 @@
 {
   "gameVersion": "2026.11.03.0000.0000",
-  "translated": 866412,
-  "total": 866516,
+  "translated": 866564,
+  "total": 866564,
   "percent": 100,
   "chars": 63102434,
   "unresolved": 5785,
@@ -123,8 +123,8 @@
     {
       "expansion": null,
       "content": "Internal UI catalogs",
-      "translated": 2209,
-      "total": 2313
+      "translated": 2361,
+      "total": 2361
     }
   ],
   "excludedFromLocalization": [
@@ -132,7 +132,7 @@
       "expansion": null,
       "content": "No English to translate",
       "translated": 2619,
-      "total": 12709
+      "total": 12661
     },
     {
       "expansion": null,
@@ -53787,14 +53787,14 @@
     }
   ],
   "internalUi": {
-    "total": 2313,
-    "translated": 2209,
-    "pending": 104,
+    "total": 2361,
+    "translated": 2361,
+    "pending": 0,
     "stale": 0,
-    "excluded": 48,
+    "excluded": 0,
     "excludedTranslated": 0,
     "chars": 55131,
-    "percent": 95.5
+    "percent": 100
   },
   "futureLocalization": []
 }
